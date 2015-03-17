@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mariadb.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008044509id_/https%3A//mariadb.com/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariadb.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317060142id_/https%3A//mariadb.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MariaDB
 
-This document sets forth the privacy practices of SkySQL Ab, SkySQL Corporation and other affiliates (“SkySQL” or “we” or “us”) and the MariaDB.com website [[www.mariadb.com]](http://www.mariadb.com\]) (the “Site”), and the terms which govern the collection and use of information you provide to us whether via the Site or otherwise.  By accessing or using the Site and/or providing any personal information to us, you are accepting the practices described in this Privacy Policy. If you do not accept these practices, you must not access or use the Site or provide us with your personal information.
+This document sets forth the privacy practices of MariaDB Corporation Ab, MariaDB USA and other affiliates (“SkySQL” or “we” or “us”) and the MariaDB.com website [[www.mariadb.com]](http://www.mariadb.com\]) (the “Site”), and the terms which govern the collection and use of information you provide to us whether via the Site or otherwise.  By accessing or using the Site and/or providing any personal information to us, you are accepting the practices described in this Privacy Policy. If you do not accept these practices, you must not access or use the Site or provide us with your personal information.
 
 ## What Information Do We Collect?
 
 ### Personal Information
 
-In describing the information we collect, the term “personal information” refers to information that tells us specifically who you are, such as your name, company name, phone number, email or postal address.  In many cases we need this information to provide the products or services that you have requested.  Unless necessary to provide our products and services, the amount of personal information that you choose to disclose to SkySQL is completely up to you.  The only way we know something about you personally is if you provide it to us.  In order to process certain transactions, we may also need to collect payment information from you (e.g., credit card information) which will not be shared with anyone outside of SkySQL, its affiliates and the financial institutions and vendors used to process payments.  We do not intentionally collect any sensitive information, such as information concerning race, religion, health, sexual orientation or political beliefs.  Please do not send any sensitive personal information to us.
+In describing the information we collect, the term “personal information” refers to information that tells us specifically who you are, such as your name, company name, phone number, email or postal address.  In many cases we need this information to provide the products or services that you have requested.  Unless necessary to provide our products and services, the amount of personal information that you choose to disclose to MariaDB is completely up to you.  The only way we know something about you personally is if you provide it to us.  In order to process certain transactions, we may also need to collect payment information from you (e.g., credit card information) which will not be shared with anyone outside of MariaDB, its affiliates and the financial institutions and vendors used to process payments.  We do not intentionally collect any sensitive information, such as information concerning race, religion, health, sexual orientation or political beliefs.  Please do not send any sensitive personal information to us.
 
 ### Voluntary Information
 
@@ -45,23 +45,23 @@ From time to time, we may also receive personal information about you from our b
 
 ### General
 
-Until you initiate a voluntary transaction with us, we do not collect any personal information about you. The information we collect is generally used to:  enable us to communicate with you;  provide you with our products and services;  process requests for information or otherwise as necessary to perform an agreement between you and SkySQL;  improve or add features, functionality and content to our Site;  provide you with a more personalized experience at the Site;  notify you about our new products, services and/or special offers or updates or improvements to our existing products and services.
+Until you initiate a voluntary transaction with us, we do not collect any personal information about you. The information we collect is generally used to:  enable us to communicate with you;  provide you with our products and services;  process requests for information or otherwise as necessary to perform an agreement between you and MariaDB;  improve or add features, functionality and content to our Site;  provide you with a more personalized experience at the Site;  notify you about our new products, services and/or special offers or updates or improvements to our existing products and services.
 
 ### Email and other Correspondence
 
-We may send you email or other forms of correspondence that are intended to notify you of our new products, services, special offers or updates or improvements to our existing products and services.  You have the right to “opt-out” and prohibit use of your personal information for direct marketing purposes.  If you prefer not receive any such email correspondence or marketing information concerning our products and services, please contact us at [marketing@skysql.com](mailto:marketing@skysql.com) or click “unsubscribe” as instructed in any email from us.
+We may send you email or other forms of correspondence that are intended to notify you of our new products, services, special offers or updates or improvements to our existing products and services.  You have the right to “opt-out” and prohibit use of your personal information for direct marketing purposes.  If you prefer not receive any such email correspondence or marketing information concerning our products and services, please contact us at [marketing@mariadb.com](mailto:marketing@mariadb.com) or click “unsubscribe” as instructed in any email from us.
 
 ### Disclosure to Third Parties
 
-The information that we collect from you via the Site and otherwise is an integral part of our business, and SkySQL is not in the business of selling or renting your personal information to third parties. SkySQL shares your personal information only with (i) its subsidiaries and affiliates around the world; and (ii) specified third parties under the conditions described below:
+The information that we collect from you via the Site and otherwise is an integral part of our business, and MariaDB is not in the business of selling or renting your personal information to third parties. MariaDB shares your personal information only with (i) its subsidiaries and affiliates around the world; and (ii) specified third parties under the conditions described below:
 
 #### International Disclosures
 
-Our products and services may be provided using affiliates and other resources located in various countries around the world, including those outside of the European Economic Area (EEA), that may not have laws providing specific protection for personal data or that do not have an adequate level of data protection.  Personal information collected through this Site or otherwise by us may be transferred across national boundaries and stored and processed in any of the countries around the world in which SkySQL, its affiliates or partners maintain offices, including the United States.    By providing any personal information to us, you acknowledge that you are giving your consent to transfer your personal information to any SkySQL affiliate or partner worldwide.
+Our products and services may be provided using affiliates and other resources located in various countries around the world, including those outside of the European Economic Area (EEA), that may not have laws providing specific protection for personal data or that do not have an adequate level of data protection.  Personal information collected through this Site or otherwise by us may be transferred across national boundaries and stored and processed in any of the countries around the world in which MariaDB, its affiliates or partners maintain offices, including the United States.    By providing any personal information to us, you acknowledge that you are giving your consent to transfer your personal information to any MariaDB affiliate or partner worldwide.
 
 #### Partners and Third Parties
 
-SkySQL may submit personal information to third parties as required or necessary to fulfill its services and/or performance of obligations. For example, SkySQL may share personal information with its partners to enable a partner to provide support to a customer or where required to make a sale in a particular country.  From time to time SkySQL may employ or engage other companies and individuals to perform services on our behalf.  Examples include provision of accounting, legal and financial services, fulfilling orders, shipping packages, sending postal mail and e-mail, processing credit card payments, and providing customer service.  Such third parties may have access to your personal information if such is required in order to perform their service functions and may not use such information for any other purposes.  SkySQL maintains ownership and control of the information so used.
+MariaDB may submit personal information to third parties as required or necessary to fulfill its services and/or performance of obligations. For example, MariaDB may share personal information with its partners to enable a partner to provide support to a customer or where required to make a sale in a particular country.  From time to time MariaDB may employ or engage other companies and individuals to perform services on our behalf.  Examples include provision of accounting, legal and financial services, fulfilling orders, shipping packages, sending postal mail and e-mail, processing credit card payments, and providing customer service.  Such third parties may have access to your personal information if such is required in order to perform their service functions and may not use such information for any other purposes.  MariaDB maintains ownership and control of the information so used.
 
 #### Sale of Business
 
@@ -69,7 +69,7 @@ As we develop, expand and improve our lines of business, we might sell or purcha
 
 #### Disclosure Required by Law
 
-SkySQL may release your personal information if it believes such release is necessary to comply with law.
+MariaDB may release your personal information if it believes such release is necessary to comply with law.
 
 #### Disclosure With Your Consent
 
@@ -79,17 +79,17 @@ Other than as described in the foregoing, you will receive prior notice from us 
 
 In addition to the options made available to you when we collect information (if any), you may elect to “opt out” of having your personal information shared with third parties (except for uses specifically requested by you and necessary business uses).  You must submit a request (by mail, email, fax, or telephone) to us in one of the following ways:
 
-  * By Mail Address:  SkySQL Corporation Ab, Tekniikantie 12, 02150 Espoo, Finland
-  * By Email   Email address: [marketing@skysql.com](mailto:marketing@skysql.com)
+  * By Mail Address:  MariaDB Corporation Ab, Tekniikantie 12, 02150 Espoo, Finland
+  * By Email   Email address: [marketing@mariadb.com](mailto:marketing@mariadb.com)
   * By Phone Phone:  +1 877 303 5799
 
 
 
-We will update the specific records related to your request as promptly as practical.  Note, however, that you may receive additional communications after you submit your request while we process the request.  Additionally, your information may exist in multiple lists within SkySQL, and our technology limits the processing of opt-out requests to the specific list source. 
+We will update the specific records related to your request as promptly as practical.  Note, however, that you may receive additional communications after you submit your request while we process the request.  Additionally, your information may exist in multiple lists within MariaDB, and our technology limits the processing of opt-out requests to the specific list source. 
 
 ## Correcting Your Information, Inquires and Complaints
 
-We want any information you provide to be correct so you have the ability to change the information we have about you.  You may object to the collection, transfer, storage and processing of your information at any time.  In such a case, you may not be able to engage in an activity on the Site or SkySQL may not be able to provide its products and services to you.  You also may object to the use of your personal information for marketing purposes at any time without giving reasons via email at [marketing@skysql.com](mailto:marketing@skysql.com). If you wish to correct your information, or have any related questions or complaints, please contact us at [marketing@skysql.com](mailto:marketing@skysql.com).  We reserve the right to reject or remove any information or content posted on our Site at our sole discretion.
+We want any information you provide to be correct so you have the ability to change the information we have about you.  You may object to the collection, transfer, storage and processing of your information at any time.  In such a case, you may not be able to engage in an activity on the Site or MariaDB may not be able to provide its products and services to you.  You also may object to the use of your personal information for marketing purposes at any time without giving reasons via email at [marketing@mariadb.com](mailto:marketing@mariadb.com). If you wish to correct your information, or have any related questions or complaints, please contact us at [marketing@mariadb.com](mailto:marketing@mariadb.com).  We reserve the right to reject or remove any information or content posted on our Site at our sole discretion.
 
 ## Security
 
