@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207062441id_/https%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317032706id_/https%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Paymentwall - Paymentwall
 
@@ -60,16 +60,11 @@ PW Inc. does not and will not, at any time, request your full credit card inform
 
 If you feel that this site is not following the above policy or you have any questions about our Privacy Policy, you may contact us at the details below:
 
-PW Inc. Inc.  
-PW Inc. Global HQ Building  
-630 South Rancho Drive Suite F Las Vegas, NV 89106  
-We can be reached via e-mail at [info@paymentwall.com](mailto:info@paymentwall.com)
+PW Inc.  
+630 South Rancho Drive, Suite F  
+Las Vegas, NV 89106  
+You may reach us via e-mail at [info@paymentwall.com](mailto:info@paymentwall.com)  
 
-PW Inc. LTD  
-27 OLD GLOUCESTER STREET  
-LONDON, WC1N 3AX  
-Company No. 07534063  
-We can be reached via e-mail at [info@paymentwall.com](mailto:info@paymentwall.com)
 
 Privacy Policy effective as of April 20, 2010  
-Privacy Policy last modified on August 04, 2014
+Privacy Policy last modified on Fabruary 13, 2015
