@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thezebra.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012074119id_/https%3A//www.thezebra.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezebra.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317195705id_/https%3A//www.thezebra.com/help/privacy) for the most accurate reproduction.*
 
-# The Zebra - Privacy Policy
+# Privacy Policy | The Zebra
 
 ## WHAT INFORMATION DOES THE ZEBRA COLLECT?
 
