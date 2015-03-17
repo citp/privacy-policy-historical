@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the bgo.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010043623id_/https%3A//www.bgo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgo.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317193000id_/https%3A//www.bgo.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 #### bgo.com Privacy Policy
 
-Our Privacy Policy is perhaps one of the most important things that all of our players should read. It lets you know how Mandalay Gaming Holdings Ltd (the “Company”, herein referred to as “us” or “we”) handle the information and data that you give to us, both when you register and as you play, and what we use that data for. 
+Our Privacy Policy is perhaps one of the most important things that all of our players should read. It lets you know how 
+
+BGO Entertainment Limited (the “Company”, herein referred to as “us” or “we”) handle the information and data that you give to us, both when you register and as you play, and what we use that data for. 
 
 It is important to note that by registering an account with us, you agree to this policy and consent to the use of your data as provided to us for any and/or all means as detailed below. 
 
@@ -38,7 +40,7 @@ We collate all of this useful information and try to make your bgo experiences e
 
 ##### **How we store your information**
 
-We take security extremely seriously. We will endeavour to ensure that your personal information is stored as securely as possible, well within guidelines provided by the Data Protection Act and our gaming license. We only disclose information that we have collected about you to closely associated partners or subsidiaries of Mandalay Gaming holdings Ltd. No 3rd party of no relation to us will ever receive your data. Any business partners, successors to the bgo brand or suppliers whom we engage will be provided access to the stored information. 
+We take security extremely seriously. We will endeavour to ensure that your personal information is stored as securely as possible, well within guidelines provided by the Data Protection Act and our gaming license. We only disclose information that we have collected about you to closely associated partners or subsidiaries of BGO Entertainment Limited. No 3rd party of no relation to us will ever receive your data. Any business partners, successors to the bgo brand or suppliers whom we engage will be provided access to the stored information. 
 
 To assist us in complying with our regulatory duties, we may disclose your personal information to credit reference agencies or a third party whom we feel necessary to view such information. For the purposes of Anti money laundering and the prevention of Fraud, references may be made to both legal authorities as well as financial institutions. Additional security checks may be required in some cases. 
 
@@ -52,7 +54,7 @@ We use cookies on our Website and they are essential to the correct operation. W
 
 ##### **Internet References & Transfers**
 
-Due to the nature of the Internet, some partners of Mandalay Gaming Holdings may be based outside of the European Economic Area (EEA). As a result of this, the transmission of your data and subsequent processing and checking may take place outside of the EEA. By registering an account with us, you agree to have such information passed to partners where applicable to undergo processing as deemed necessary by us. We take all reasonable steps to ensure that any information passed to these partners is done so securely and in accordance with our Privacy Policy. 
+Due to the nature of the Internet, some partners of BGO Entertainment Limited may be based outside of the European Economic Area (EEA). As a result of this, the transmission of your data and subsequent processing and checking may take place outside of the EEA. By registering an account with us, you agree to have such information passed to partners where applicable to undergo processing as deemed necessary by us. We take all reasonable steps to ensure that any information passed to these partners is done so securely and in accordance with our Privacy Policy. 
 
 ##### **Disclosure of your Information**
 
@@ -75,8 +77,7 @@ Out of respect for your right to privacy we are happy to provide you with an eas
 ##### **Information about us:**
 
 BGO Entertainment Limited.  
-Inchalla, Le Val, Alderney, GY9 3UL  
-+44 1481 822795
+Inchalla, Le Val, Alderney, GY9 3UL
 
 __Back to Top
 
