@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haikudeck.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001054909id_/https%3A//www.haikudeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haikudeck.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317090052id_/https%3A//www.haikudeck.com/privacy) for the most accurate reproduction.*
 
 # Presentation Software that Inspires | Haiku Deck
 
