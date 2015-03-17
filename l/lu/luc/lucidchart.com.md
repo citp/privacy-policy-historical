@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucidchart.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702213139id_/https%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidchart.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317130725id_/https%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucidchart
 
@@ -32,6 +32,7 @@ _
   * Lucidchart only shares personal information with other companies or individuals outside of Lucidchart in the following limited circumstances: 
     * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
     * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Lucidchart, its users or the public as required or permitted by law.
+    * If you are a Lucidchart registered user, and the domain of the primary email address associated with your Lucidchart account is owned by your employer and that email address was assigned to you as an employee of that organization, and an authorized representative of that organization wishes to establish a Lucidchart company account and add you to it, then certain information concerning your individual account may become accessible to that organization’s administrator including your name and email address, and your account may be added to the corporate account.
   * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who used a type of document, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
   * If Lucidchart becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
