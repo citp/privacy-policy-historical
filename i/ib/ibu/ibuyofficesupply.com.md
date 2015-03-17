@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibuyofficesupply.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702070210id_/http%3A//www.ibuyofficesupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibuyofficesupply.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317152739id_/http%3A//www.ibuyofficesupply.com/privacy) for the most accurate reproduction.*
 
 # Discount Office Supplies and Office Products for Sale Online | iBuyOfficeSupply.com
 
