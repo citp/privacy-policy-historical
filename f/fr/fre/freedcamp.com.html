@@ -1,129 +1,415 @@
-<!--The following is the downloaded HTML source of the freedcamp.com privacy policy that was archived on 2011-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110609084710id_/http%3A//freedcamp.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freedcamp.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317190409id_/https%3A//freedcamp.com/Freedcamp_LxR/Freedcamp_Devel_yOf/wiki/wiki_public/view/vvaab%23c-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-        <title>Freedcamp - Free Project Management</title>
-        <meta name="description" content="Freedcamp offers a completely free project management solution. Manage To-Do's, Discussions, Milestones, Time Tracking, and invoices for free! Project management has never been this sweet.">
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="stylesheet" href="http://freedcamp.com/css/home/default.css" type="text/css">
-        <link rel="stylesheet" href="http://freedcamp.com/css/home/style.css" type="text/css">
-        <link rel="stylesheet" href="http://freedcamp.com/css/home/general.css" type="text/css">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-		 
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-677733-6']);
-		  _gaq.push(['_trackPageview']);
-		
-		  (function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
-		
-		</script>
-    </head>
-    <body>
-        <div class="wrap">
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+    <title>Terms of Service</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <meta name="robots" content="noindex">
 
-            <div class="header">
-                <a href="http://freedcamp.com/"><img src="http://freedcamp.com/images/front/logo.png" width="300" height="106" class="left" alt="Freedcamp Home"></a>
-                <div class="user_bar">
-                    <a href="http://freedcamp.com/register">register</a> | <a href="http://freedcamp.com/login">login</a>
-                </div><!-- user_bar -->
-                <div style="clear:right"></div>
-                <ul class="nav">
-                     <li> <a href="http://freedcamp.com/">home</a></li>
-                     <li> <a href="http://freedcamp.com/home/features">features</a></li>
-                    <li><a href="http://blog.freedcamp.com/faqs">faq</a></li>
-                    <li><a href="http://blog.freedcamp.com/">blog</a></li>
-                    <li><a href="mailto:support@freedcamp.com">contact</a></li>
-                </ul><!-- nav -->
-                <div class="clear"></div>
-            </div><!-- header -->
-            <div class="content_wrap">
-    <img src="http://freedcamp.com/images/front/content_top.png" width="958" height="17">
-    <div class="content">
-    	<div class="padded">
-        	This Privacy Policy governs the manner in which Freedcamp collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://www.freedcamp.com">http://www.freedcamp.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Freedcamp.<br><br>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400,600" rel="stylesheet" type="text/css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://d28cgjj0g75lys.cloudfront.net/project_apps/wiki/js/jquery.tableofcontents.min.js"></script>
+    <!-- SYNTAX HIGHLIGHTER -->
+    <script src="https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shCore.js" type="text/javascript"></script>
+    <script src="https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shAutoloader.js" type="text/javascript"></script>
+    <link type="text/css" rel="stylesheet" media="all" href="https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/styles/shCore.css">
+    <link type="text/css" rel="stylesheet" media="all" href="https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/styles/shThemeEclipse.css">
+    <script type="text/javascript">
+        $(function(){
+            if ($(".wiki_content").find("h1,h2,h3,h4,h5,h6").length > 0) {
+                $("#toc").tableOfContents(
+                    $(".wiki_content"),      // Scoped to div#wrapper
+                    {
+                        startLevel: 1,    // H2 and up
+                        depth:      4,    // H2 through H4,
+                        topLinks:   true, // Add "Top" Links to Each Header
+                    }
+                );
+            } else {
+                $(".toc_wrap").hide();
+            }
+            $(".toc_toggle").click(function(e){e.preventDefault();
+                $(".toc_container").slideToggle();
+                $(this).toggleClass("active");
+            });
+            $("a.toc-top-link").click(function(e) {e.preventDefault();
+                $("html, body").animate({ scrollTop: 0 }, "slow");
+                location.hash = "";
+                return false;
+            });
+            $('#toc a').click(function(){
+                $('html, body').animate({
+                    scrollTop: $( $(this).attr('href') ).offset().top - 20
+                }, 500);
+                location.hash = $(this).attr("href");
+                return false;
+            });
+        });
+    </script>
+    <style>
+        .reset html,.reset body,.reset div,.reset span,.reset object,.reset iframe,.reset blockquote,.reset pre,.reset abbr,.reset address,.reset cite,.reset code,.reset del,.reset dfn,.reset em,.reset img,.reset ins,.reset kbd,.reset q,.reset samp,.reset small,.reset strong,.reset var,.reset fieldset,.reset form,.reset table,.reset caption,.reset tbody,.reset tfoot,.reset thead,.reset tr,.reset th,.reset td,.reset article,.reset aside,.reset dialog,.reset figure,.reset footer,.reset header,.reset hgroup,.reset menu,.reset nav,.reset section,.reset time,.reset mark,.reset audio,.reset video{vertical-align:baseline;margin:0;padding:0;}.reset article,.reset aside,.reset dialog,.reset figure,.reset footer,.reset header,.reset hgroup,.reset menu,.reset nav,.reset section,.reset time,.reset mark,.reset audio,.reset video{display:block;}.reset body{background:#fff;color:#000;font:75%/1.5em Arial,Helvetica,"DejaVu Sans","Liberation sans","Bitstream Vera Sans",sans-serif;position:relative;}.reset textarea{font:101%/1.5em Arial,Helvetica,"DejaVu Sans","Liberation sans","Bitstream Vera Sans",sans-serif;border:1px solid #ccc;border-bottom-color:#eee;border-right-color:#eee;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box;width:100%;margin:0;padding:.29em 0;}.reset blockquote,.reset q{quotes:none;}.reset blockquote:before,.reset blockquote:after,.reset q:before,.reset q:after{content:none;}.reset :focus{outline:none;}.reset a{text-decoration:underline;border:0;}.reset a:hover,.reset a:focus{text-decoration:none;}.reset abbr,.reset acronym{border-bottom:1px dotted;cursor:help;font-variant:small-caps;}.reset address,.reset cite,.reset em,.reset i{font-style:italic;}.reset blockquote p{margin:0 1.5em 1.5em;padding:.75em;}.reset code,.reset kbd,.reset tt{font-family:"Courier New",Courier,monospace,serif;line-height:1.5;}.reset del{text-decoration:line-through;}.reset dfn{border-bottom:1px dashed;font-style:italic;}.reset dl{margin:0 0 1.5em;}.reset dd{margin-left:1.5em;}.reset h1,.reset h2,.reset h3,.reset h4,.reset h5,.reset h6{font-weight:700;padding:0;}.reset h1{font-size:2em;margin:0 0 .75em;}.reset h2{font-size:1.5em;margin:0 0 1em;}.reset h3{font-size:1.1666em;margin:0 0 1.286em;}.reset h4{font-size:1em;margin:0 0 1.5em;}.reset h5{font-size:.8333em;margin:0 0 1.8em;}.reset h6{font-size:.666em;margin:0 0 2.25em;}.reset img{display:inline-block;vertical-align:text-bottom;}.reset ins{text-decoration:overline;}.reset mark{background-color:#ff9;color:#000;font-style:italic;font-weight:700;}.reset ol{list-style:outside decimal;}.reset p{font-weight:300;margin:0 0 1.5em;}.reset pre{font-family:"Courier New",Courier,monospace,serif;margin:0 0 1.5em;}.reset sub{top:.4em;font-size:.85em;line-height:1;position:relative;vertical-align:baseline;}.reset sup{font-size:.85em;line-height:1;position:relative;bottom:.5em;vertical-align:baseline;}.reset ul{list-style:outside disc;}.reset table{border-collapse:collapse;border-spacing:0;margin:0 0 1.5em;padding:0;}.reset caption{font-style:italic;text-align:left;}.reset tr.alt td{background:#eee;}.reset td{border:1px solid #000;vertical-align:middle;padding:.333em;}.reset th{font-weight:700;vertical-align:middle;padding:.333em;}.reset button{cursor:pointer;display:block;font-size:1em;height:2em;line-height:1.5em;margin:1.75em 0 0;padding:0 .5em;}.reset fieldset{border:0;position:relative;margin:0 0 1.5em;padding:1.5em 0 0;}.reset fieldset fieldset{clear:both;margin:0 0 1.5em;padding:0 0 0 1.5em;}.reset input{border:1px solid #ccc;border-bottom-color:#eee;border-right-color:#eee;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box;font-size:12px;height:1.5em;line-height:1.5em;width:100%;margin:0 0 .75em;padding:.29em 0;}.reset input[type=file]{height:2.25em;padding:0;}.reset select{border:1px solid #ccc;border-bottom-color:#eee;border-right-color:#eee;font-size:1em;height:2.25em;_margin:0 0 1.3em;margin:0 0 .8em;padding:.2em 0 0;}.reset optgroup{font-weight:700;font-style:normal;text-indent:.2em;}.reset optgroup+optgroup{margin-top:1em;}.reset option{font-size:1em;height:1.5em;text-indent:1em;padding:0;}.reset label{cursor:pointer;display:block;height:auto;line-height:1.4em;width:100%;margin:0;padding:0;}.reset label input{background:0;border:0;height:1.5em;line-height:1.5em;width:auto;margin:0 .5em 0 0;padding:0;}.reset legend{font-size:1.1666em;font-weight:700;left:0;margin:0;padding:0;}.reset dt,.reset strong,.reset b{font-weight:700;}.reset a img,.reset button::-moz-focus-inner{border:0;}.reset ul,.reset ol,.reset li ul,.reset li ol{margin:0 0 1.5em 1.5em;padding:0;}
+        body {font-family: 'Open Sans', sans-serif !important; background-color: whiteSmoke; }
+        #main .wiki_content p {font-weight: normal !important; color:#333;}
 
-<b>Personal identification information</b><br><br>
+        .wrap {width:960px; background-color: #fff; margin: 20px auto; -webkit-box-shadow: 0 -3px 1px rgba(255,255,255,.6), inset 0 2px 1px rgba(255,255,255,.97), 0 0 3px -1px rgba(0,0,0,.9);
+            -moz-box-shadow: 0 -3px 1px rgba(255,255,255,.6), inset 0 2px 1px rgba(255,255,255,.97), 0 0 3px -1px rgba(0,0,0,.9);
+            box-shadow: 0 -3px 1px rgba(255,255,255,.6), inset 0 2px 1px rgba(255,255,255,.97), 0 0 3px -1px rgba(0,0,0,.9);}
 
-We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.<br><br>
+        #main h1#wiki_title { font-size:28px; border:none; line-height:1.4em; margin:0; padding: 20px; background-color:#1b85c5; color:#fff; border-bottom:1px solid #ddd;}
 
-<b>Non-personal identification information</b><br><br>
+        .wiki_content {
+            color: #333;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 15px; position: relative;
+            padding:35px;
+        }
+        .wiki_content table { border-collapse: collapse;}
+        .wiki_content ul, .wiki_content ol {margin-left:20px;}
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.<br><br>
+        body .wiki_content div.toc_wrap { position: absolute; z-index: 10; top:-1px; right:0px; background-color:whiteSmoke; border:1px solid #dfdfdf; border-top:none; width:300px; }
+        .toc_wrap .toc_container {display: none; padding: 15px; border-top:1px solid #dfdfdf;}
+        .toc_wrap .toc_toggle {display: block; width:159px; background:url(https://d28cgjj0g75lys.cloudfront.net/project_apps/wiki/images/toc_toggle.png) no-repeat bottom center; height:29px;
+            position: absolute; right:0px; top:100%; z-index: 9;}
+        .toc_wrap .toc_toggle.active {background-position: top center;}
+        .wiki_content #toc { list-style: upper-alpha; }
+        .wiki_content #toc ol { list-style: decimal;}
+        .wiki_content #toc ol ol { list-style: lower-roman;}
+        .wiki_content #toc ol ol ol { list-style: lower-alpha;}
+        body .wiki_content a.toc-top-link { display: block; width:15px; height: 15px; background:url(https://d28cgjj0g75lys.cloudfront.net/project_apps/wiki/images/top_top.png) no-repeat top left !important;
+            position: absolute; right:100%; top:50%; margin-top:-8px; margin-right:15px; text-indent: -9999px; }
 
-<b>Web browser cookies</b><br><br> 
+        .wiki_content p {line-height: 1.652em;}
+        h1,h2,h3,h4,h5 { color:#000 ; margin:0.55em 0 0.5em; position: relative; font-family: 'Open Sans',sans-serif !important;}
+        h1 {font-size:20px; font-weight: 600; border-bottom:1px solid #ccc; color:#195C7E; line-height:1.33em;}
+        h2 {font-size:18px; }
+        h3 {font-size:16px; }
+        h4 {font-size:15px; }
+        h5 {font-size:14px; }
+        h6 {font-size:12px; text-transform:uppercase; color:#666; }
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.<br><br>
+        .wiki_content table {border:1px solid #ddd;}
+        .wiki_content table thead tr th {border:1px solid #ccc; border-bottom:1px solid #bbb; padding:5px !important; color:#000; padding:5px !important; font-size:12px; background-color: #eee; }
+        .wiki_content table tbody tr:nth-child(odd) td {background:none;}
+        .wiki_content table tbody tr:nth-child(even) td {background-color: whiteSmoke;}
+        .wiki_content table tr td {border:1px solid #ddd; padding:5px !important; font-size:13px; }
+        .wiki_content blockquote {border-left:3px solid #ccc; background-color: whiteSmoke; color:#666; font-style: italic; height: auto;}
+        .wiki_content blockquote p {margin:0px 5px 10px 5px !important; padding: 5px !important; font-family: Georgia, serif;}
+        .wiki_content ul, .wiki_content ol, .wiki_content dl { font-size: 14px; line-height: 1.6; margin-bottom: 17px; list-style-position: outside; }
 
-<b>How we use collected information</b><br><br>
+        .wiki_content ul li ul, .wiki_content ul li ol { margin-left: 20px; margin-bottom: 0; }
+        .wiki_content ol { margin-left: 20px; }
+        .wiki_content ol li ul, .wiki_content ol li ol { margin-left: 20px; margin-bottom: 0; }
+    </style>
 
-Freedcamp collects and uses Users personal information for the following purposes:<br>
-<ul>
-<li><i>- To personalize user experience</i><br>
-	We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li>
-<li><i>- To improve our Site</i><br>
-	We continually strive to improve our website offerings based on the information and feedback we receive from you.</li>
-<li><i>- To improve customer service</i><br>
-	Your information helps us to more effectively respond to your customer service requests and support needs.</li>
-<li><i>- To administer a content, promotion, survey or other Site feature</i><br>
-	To send Users information they agreed to receive about topics we think will be of interest to them.</li>
-<li><i>- To send periodic emails</i><br>
-The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</li>
-</ul>
-<b>How we protect your information</b><br><br>
+</head>
+<body>
+<div class="wrap">
+    <div id="main">
+        <h1 id="wiki_title">Terms of Service</h1>
+        <div class="wiki_content reset">
+            <div class="toc_wrap">
+                <div class="toc_container">
+                    <div class="toc_title">Table of Contents</div>
+                    <ol id="toc"></ol>
+                </div>
+                <a href="#" class="toc_toggle"></a>
+            </div><!-- toc_wrap -->
+            <ol start="1"><li><a href="#a-terms-of-sales">FREEDCAMP, INC. TERMS OF SALES</a></li>
+	<li><a href="#b-terms-and-conditions">FREEDCAMP, INC. TERMS AND CONDITIONS</a></li>
+	<li><a href="#c-privacy-policy">PRIVACY POLICY</a></li>
+</ol><p></p>
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.<br><br>
+<p>THE LEGAL AGREEMENTS SET FORTH BELOW GOVERNS YOUR USE OF ALL FREEDCAMP, INC. SERVICES. IF YOU AGREE TO THESE TERMS, CLICK "AGREE." IF YOU DO NOT AGREE TO THESE TERMS, DO NOT CLICK "AGREE," AND DO NOT USE THE SERVICES.</p>
 
-<b>Sharing your personal information</b><br><br>
+<p></p>
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.<br><br>
+<p></p>
 
-<b>Changes to this privacy policy</b><br><br>
+<h2>A. TERMS OF SALES</h2>
 
-Freedcamp has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.<br><br>
+<p>FREEDCAMP, INC. accepts these forms of payment: Credit/debit cards issued by U.S. banks and/or payments through a PayPal account. If a credit card or PayPal account is being used for a transaction, Freedcamp may obtain preapproval for an amount up to the amount of your order.</p>
 
-<b>Your acceptance of these terms</b><br><br>
+<p></p>
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.<br><br>
+<p>Applications Sales</p>
 
-<b>Contacting us</b><br><br>
+<p>Application subscriptions will be billed on a monthly cycle. All first time Application(s) purchases are given a 7-day trial, starting with the day of purchase, to test the Application(s) or uninstall the Application(s) at no charge. Users will be billed for the first month’s subscription after the 7-day trial ends and then automatically billed for all subsequent months. The first billing date will set the timeline for all recurring billing payment. User will be automatically billed on the same date every following month. Please see examples below for more information.</p>
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br>
-<a href="http://www.freedcamp.com">Freedcamp</a><br>
-<a href="http://www.freedcamp.com">http://www.freedcamp.com</a><br>
-3066 Foothill Rd
-Santa Barbara, CA
-93105<br>
-805-2458713<br>
-agrublev@gmail.com<br>
-<br>
-This document was last updated on January 05, 2011<br><br>
+<p></p>
 
-<div style="font-size:10px;color:gray;">Privacy policy created by <a style="font-size:10px;color:gray;text-decoration:none;cursor:default;" href="http://www.generateprivacypolicy.com" target="_blank">Generate Privacy Policy</a></div>
-    	</div><!-- padded -->
-    </div><!-- content -->
-    <img src="http://freedcamp.com/images/front/content_bottom.png" width="958" height="20">
-</div><!-- content_wrap -->
-            <div class="footer">
-                <ul class="nav left">
-                    <li class="active"><a href="http://freedcamp.com/">home</a></li>
-                    <li><a href="http://freedcamp.com/home/features">features</a></li>
-                    <li><a href="http://blog.freedcamp.com/faqs">faq</a></li>
-                    <li><a href="http://blog.freedcamp.com/">blog</a></li>
-                    <li><a href="mailto:support@freedcamp.com">contact</a></li>
-                </ul><!-- nav -->
-                <div class="right">
-        			all rights reserved <a href="http://www.enavu.com">enavu network</a> | <a href="http://freedcamp.com/home/privacy">privacy policy</a>
-                </div><!-- right -->
-                <div class="clear"></div>
-            </div><!-- footer -->
+<p>Ex. 1</p>
 
-        </div><!-- wrap -->
-        <script src="http://static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(66380101); }catch(err){}</script>
-<noscript><p style="display:none;"><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/66380101ns.gif" /></p></noscript>
-    
+<p></p>
+
+<p>A user first purchases a $10.00 Application on 9/17/2011. User is given a 7-day trial period because the Application is purchased for the first time. The first billing will occur on 9/24/2011, 7 days after the first date of purchase. User will be billed $10.00 again the following month on 10/24/2011 and then again on 11/24/2011, etc.</p>
+
+<p></p>
+
+<p>User may uninstall the Application during the 7-trial without being charge. No refund will be given once user has paid for an application unless the Application(s) has a significant error. Please see our Refund Policy&nbsp;for further information. Multiple Applications purchased on the same day will be billed together.</p>
+
+<p></p>
+
+<p>If User had decided to uninstall a paid Application and then renew it later on, no 7-day trial period will be given. Trial period are only for first time purchases. Renewed subscription(s) will be billed on first day of purchase and then automatically billed again every following month. Freedcamp will only store saved information on uninstall Application up to 60 days. It is the user’s responsibility to renew their Applications before 60-day period in order to retrieve all stored data.</p>
+
+<h3>Storage Sales</h3>
+
+<p>Users may upgrade or purchase additional storage by clicking on the “Upgrade Storage” link located at the top right corner or through Marketplace. Freedcamp offers 5 level of Storage Plans: Basic 1.00GB, More 5.00GB, Plus 10.00GB, Premium 15.00GB, and Unlimited. Each plan will have a set monthly subscription payment. Users will be billed for storage immediately upon purchase and will be billed again on the same date for all following months. If users first purchased a Basic Plan($2.50/GB) and decided to upgrade to a More Plan($7.99/GB), users will be billed the prorated amount for the More plan. The prorated amount is determined by difference in price and remaining time before the next billing date. Upon receipt of payment, user will immediately see an increase in their storage capacity. Users will then be billed the new Storage Plan amount on the next billing date. If users decides to downgrade from a More Plan to a Basic Plan, users will be automatically refunded the prorated amount. The storage amount will be immediately reduced and user will be billed the new lower Storage Plan price on the next billing date. Users may not mix or combine different Storage Plans. Freedcamp only offers fixed storage updates, therefore Users will have to choose one specific plan.</p>
+
+<p></p>
+
+<p>You agree to pay for all products purchased through Freedcamp’s Marketplace. Freedcamp, may charge your account automatically every month for the continual use of the application. Any nonpayment by the User will result in the expiration and unavailability of application(s) until payment resumes. (Please see Freedcamp’s Rights&nbsp;for further detail regarding nonpayment). YOU ARE RESPONSIBLE FOR THE TIMELY PAYMENT OF ALL FEES AND FOR PROVIDING FREEDCAMP WITH A VALID CREDIT/DEBIT CARD OR PAYPAL ACCOUNT DETAILS FOR PAYMENT OF ALL FEES. All monthly fees will be billed to the credit/debit card or PayPal account you designated during the registration process. If you wish designate a different credit/debit card or changes in your PayPal account, you must change your information online under your Account settings. It is your responsibility to stop the monthly payments if you no longer wish to use the applications. You may contact Freedcamp through our Contact Links regarding any payment changes.</p>
+
+<p></p>
+
+<p>Your total price will be the cost of the applications, plus any applicable fees and sales tax. We will only charge sales tax in states where digital goods are taxable.</p>
+
+<p></p>
+
+<p>REFUND and CANCELLATION POLICY</p>
+
+<p></p>
+
+<p>Freedcamp will not&nbsp;offer a full refund unless major problems and bugs exist within our applications and are not fixed in a timely manner. It is your responsibility to inform Freedcamp of any application errors. Users are given 7-days after the original date of purchase to cancel any new applications subscription without being charge. After the &nbsp; &nbsp;7-days period, refunds will only be permitted due to technical errors of the applications. User may submit a request for refund by stating out the appropriate grounds for a refund. Freedcamp will consider each individual refund request but is not obligated to grant User(s) a refund just based on the submission of a request. YOU MAY NOT REQUEST A REFUND IF YOU HAVE ALREADY USED THE APPLICATIONS FOR OVER 2 WEEKS AFTER MAKING PAYMENT. Freedcamp does not offer refunds for storage payments.</p>
+
+<p></p>
+
+<p>Freedcamp’s billing system requires Users to pay for the Application up front therefore User must cancel the Application subscription(s) before the next billing cycle date in order to avoid the automatic recurring charges. If user cancels subscription at any time before the next billing cycle, user will still be able to use the Application until the next billing cycle date. See example below for further information.</p>
+
+<p></p>
+
+<p>Ex. 2</p>
+
+<p></p>
+
+<p>User first purchases a $10.00 Application on 9/17/2011. User is given a 7-day trial period and then billed on 9/24/2011. The next billing date will occur on 10/24/2011. If user cancels subscription on 10/18/2011, user will not be billed on 10/24/2011. If user cancels on 10/11/2011, user will still be able to use the Application until 10/24/2011 and will not be billed for the following cycle on 10/24/2011.</p>
+
+<p></p>
+
+<p>FREEDCAMP’s RIGHTS</p>
+
+<p>Freedcamp, INC. reserves the right to:</p>
+
+<ol start="1"><li>Close accounts and request alternative forms of payments if current forms of payment is fraudulently obtained or used on Freedcamp’s Marketplace.</li>
+	<li>Cancel any transaction if we believe the transaction violates the Terms of Sales, or we believe doing so may prevent financial loss.</li>
+	<li>If billing error occurs, on date of billing, due to:</li>
+</ol><p>· &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;credit/debit card decline,</p>
+
+<p>· &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;misrepresented financial information,</p>
+
+<p>· &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;or User negligence,</p>
+
+<p>User will be immediately notified via email of payment error on date of billing. User will then have 24 hours to make payment. If no payment is received after 24 hours, user will receive a second notice regarding payment error and another 24 hours to make prompt payment. If payment is still not received after the second notice, Freedcamp reserves the right to stop all functionality of any unpaid Application until payment is received. Any stored Application data will be saved for 60 days after the expiration period. If User eventually resumes payment within those 60 days, all saved Application data will be restored. If no payment is received during the 60 day, all Application data will be deleted. &nbsp;It is the User’s responsibility to meet all financial obligations and make prompt payments within the set time period. Late payment made between the first and second notice time limit will not alter the billing date for the following months. Renewed subscription payments made after an Application has been suspended will set a new billing date and User will be automatically billed on the new payment date for all following months. Please see examples below.</p>
+
+<p>Ex. 3.</p>
+
+<p>User first purchases a $10.00 Application on 9/17/2011. User is given a 7-day trial period and then billed on 9/24/2011. The next billing date will occur on 10/24/2011. If no payment is made on 10/24/2011, User will immediately receive an email regarding the payment error. User will be given 24 hours to make the proper payments. If no payments is receive after 24 hours, User will receive a second notice and given another 24 hours to make payment. If User finally makes a payment on 10/26/2011, User will still be able to use the Application and will be billed again on 11/24/2011.</p>
+
+<p>If User fails to make payment at all after the second notice has been sent, Freedcamp will stop all functionality of the Application until payment is received. If User paid on 10/28/2011, Freedcamp will resume the functionality of the Application and the next billing date will now be on 11/28/2011 instead.</p>
+
+<ol start="1"><li>Make any inquiries that we consider necessary, either directly or through third parties, regarding User identities and creditworthiness.</li>
+	<li>Start charging for any free Applications or make any previously paid Application free. No refunds will be issued as a result from these changes.</li>
+</ol><p></p>
+
+<p>ELECTRONIC CONTRACTING</p>
+
+<p>Your use of Freedcamp’s Marketplace includes the ability to enter into agreements and/or to make transactions electronically. YOU ACKNOWLEDGE THAT YOUR ELECTRONIC SUBMISSIONS CONSTITUTE YOUR AGREEMENT AND INTENT TO BE BOUND BY AND TO PAY FOR SUCH AGREEMENTS AND TRANSACTIONS. YOUR AGREEMENT AND INTENT TO BE BOUND BY ELECTRONIC SUBMISSIONS APPLIES TO ALL RECORDS RELATING TO ALL TRANSACTIONS YOU ENTER INTO ON THIS SITE, INCLUDING NOTICES OF CANCELLATION, POLICIES, CONTRACTS, AND APPLICATIONS. It is your responsibility to have all appropriate hardware and software that allows you access to your electronic records. If you are under the age of 18, you may only make payments with the approval of a parent or guardian. We request that you review the Terms of Sales with your parents or guardian.</p>
+
+<p></p>
+
+<h2>B. TERMS AND CONDITIONS</h2>
+
+<p>THIS LEGAL AGREEMENT BETWEEN YOU AND FREEDCAMP, INC. GOVERNS YOUR USE OF FREEDCAMP, INC. and the FREEDCAMP MARKETPLACE.</p>
+
+<p></p>
+
+<p>FREEDCAMP</p>
+
+<p>Freedcamp is the provider of a free Project Management System that permits you to collaborate, communicate and operate your projects with your team members on our platform.</p>
+
+<p></p>
+
+<p>REQUIREMENTS FOR USE</p>
+
+<p>Freedcamp is available for individuals aged 13 and older. If you are below the age of 13, please review this Agreement with your parents or legal guardians before using Freedcamp.</p>
+
+<p></p>
+
+<p>The use of Freedcamp requires a compatible device, internet access, and compatible software. Your ability to use Freedcamp and the performance of our service may be affected by these factors. Such system requirements are your sole responsibility.</p>
+
+<p></p>
+
+<p>YOUR ACCOUNT</p>
+
+<p>As a registered User of Freedcamp, you may create an Account. Do no share your Account information to anyone else, less you do so at your own risk. You are solely responsible for maintaining the confidentiality and security of your Account and all activities relating to your Account. If your account has been compromised, you agree to immediately notify Freecamp of your Account; failure to promptly notify Freedcamp of any security breach is at your own risk. Freedcamp will not be responsible for any losses arising out of the unauthorized use of your Account.</p>
+
+<p></p>
+
+<p>In order to use Freedcamp, you must enter your USER NAME and PASSWORD. Once you have authenticated your Account, you will have access to Freedcamp’s Project Management System platform and your applications(free or previously purchased). During this time, you will be able to use our collaboration system or purchase additional applications on our Marketplace. (See our Terms of Sales for further detail on purchasing Applications through Freedcmap.)</p>
+
+<p></p>
+
+<p>You agree to provide all accurate and complete information when registering an Account and you agree to update your Account to further reflect the accuracy and completeness of your information. You agree that Freedcamp may store and use the Account information you provided in maintaining and billing fees to your Account.</p>
+
+<p></p>
+
+<p>YOUR CONTENTS AND INFORMATION</p>
+
+<p>You, the User, are responsible and own all content, information or uploaded files you post through Freedcamp, and you can control how your information is shared through Freedcamp. You specifically grant Freedcamp permission to share your content and information with other team members of your project groups. You acknowledge that this agreement will end when you delete your Account unless you shared your information with your team members, and they still own and operate their Account in your group. You understand that even after you deleted your Account, online data may still be stored in backup data for periods of time but will not be available to any third parties.</p>
+
+<p></p>
+
+<p>In addition to the above agreement you also agree not to: 1) use Freedcamp to conduct any unlawful or fraudulent activities, 2)upload any viruses and malicious code, 3)collect information from other Users in an unlawful matter, 4)harass or threaten other Users, 5)post hateful, threatening, pornographic content, violent, or any nudity or graphic contents, and 6)do anything that would threaten or damage the operation of Freedcamp’s online Project Management System.</p>
+
+<p></p>
+
+<p>PRIVACY</p>
+
+<p>Freedcamp’s Privacy Policy applies to the use of Freedcamp’s Project Management System and the terms are made a part of these Terms and Conditions by this reference. Additionally, by using Freedcamp’s online Project Management System, you agree and acknowledge that the internet is never completely private and secure. You understand any information you post, upload and share with others Users through Freedcamp may be read or intercepted by others, even if there is a special notice that a particular data(ex. Credit card information) is encrypted. Please refer to Freedcamp’s Privacy Policy&nbsp;for further detail.</p>
+
+<p></p>
+
+<p>INDEMNITY</p>
+
+<p>You agree to indemnify and hold Freedcamp, its officers, investors, successors in interest, employees, and associates harmless from any demands, loss, liabilities, claims or expenses(including attorneys’ fees), made against Freedcamp by any third party due to or arising out of or in connection with your use of Freedcamp.</p>
+
+<p></p>
+
+<p>AMENDMENTS</p>
+
+<p>Freedcamp holds the right to make changes to our Terms and Conditions without notice should we find it necessary to do so. Freedcamp may or may not notify User of changes, it is your responsibility to keep yourself updated with our Terms and Conditions.</p>
+
+<p></p>
+
+<p>VIOLATION OF THE TERMS AND CONDITIONS</p>
+
+<p>Freedcamp may disclose any information we have about you(including identity) if we find that such disclosure is necessary relating to any investigation or complaint regarding your use of Freedcamp’s online Project Management System, or to identify, contact and take legal action against someone who may be misusing or interfering with Freedcamp’s rights and property, or the rights or property of Users of this site. Freedcamp reserves the right at all times to disclose any information that Freedcamp deems necessary to comply with any applicable law, regulations, or Federal process. Freedcamp may also disclose your information when Freedcamp applicable laws requires or allows such disclosures, including conducting acts of fraudulent activities. You agree that Freedcamp may, at our discretion and without prior notice, terminate your access to our website and/or block your future access to Freedcamp if we determine that you have violated our Terms and Conditions. You also agree that Freedcmap may, at our discretion and without prior notice, terminate your access to Freedcamp for any cause including, but not limited to: 1) request by law officials or governmental agencies, 2)a request by you, self termination, and 3) unexpected technical difficulties or problems</p>
+
+<p></p>
+
+<p>If Freedcamp ever take legal action against you as a result of your violations of our Terms and Conditions, Freedcamp is entitled to recover from you all attorney fees and cost of legal action including any damages and fees incurred by Freedcamp. Freedcamp is not liable for you or any third party as a result of your Account termination due to your violation of our Terms and Conditions.</p>
+
+<p></p>
+
+<h2>C. PRIVACY POLICY</h2>
+
+<p>This Privacy Policy governs the manner in which Freedcamp collects, uses, maintains and discloses information collected from Users (each, a "User") of the<a class="c12" href="http://www.freedcamp.com/">&nbsp;</a><a href="http://www.freedcamp.com" target="_blank"></a><a href="http://www.freedcamp.com" target="_blank">http://www.freedcamp.com</a>&nbsp;website ("Site"). This privacy policy applies to the Site and all products and services offered by Freedcamp, INC..</p>
+
+<p></p>
+
+<p>PERSONAL IDENTIFICATION INFORMATION</p>
+
+<p>We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
+
+<p></p>
+
+<p>NON-PERSONAL IDENTIFICATION INFORMATION</p>
+
+<p>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p>
+
+<p></p>
+
+<p>WEB BROWSER COOKIES</p>
+
+<p>Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p>
+
+<p></p>
+
+<p>HOW WE USE COLLECTED INFORMATION</p>
+
+<p>Freedcamp collects and uses Users personal information for the following purposes:</p>
+
+<ol start="1"><li>To personalize User experience</li>
+</ol><ol start="1"><li>We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li>
+</ol><ol start="2"><li>To improve our Site</li>
+</ol><ol start="1"><li>We continually strive to improve our website offerings based on the information and feedback we receive from you.</li>
+</ol><ol start="3"><li>To improve customer service</li>
+</ol><ol start="1"><li>Your information helps us to more effectively respond to your customer service requests and support needs.</li>
+</ol><ol start="4"><li>To administer a content, promotion, survey or other Site feature</li>
+</ol><ol start="1"><li>To send Users information they agreed to receive about topics we think will be of interest to them.</li>
+</ol><ol start="5"><li>To send periodic emails</li>
+</ol><ol start="1"><li>The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</li>
+</ol><p></p>
+
+<p>HOW WE PROTECT YOUR INFORMATION</p>
+
+<p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, Username, password, transaction information and data stored on our Site.</p>
+
+<p></p>
+
+<p>SHARING YOUR PERSONAL INFORMATION</p>
+
+<p>We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and Users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. We may share your First/Last names and avatar with others users within Freedcamp. We also reserve the right to freely moderate all comments made within Freedcamp. Even though Freedcamp owns the code, databases and rights to our applications, you, the Users, retain al rights to the data you share and upload. Under special circumstances, Freedcamp reserves the right to disclose your personal information should it relate to any legal matter or proceedings or if you have violated our Terms and Conditions.</p>
+
+<p></p>
+
+<p>CHANGES TO THIS PRIVACY POLICY</p>
+
+<p>Freedcamp has the discretion to update this privacy policy at any time. When we do make changes, we will post a notification on the main page of our Site and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+
+<p></p>
+
+<p>YOUR ACCEPTANCE OF THESE TERMS</p>
+
+<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
+
+<p></p>
+
+<p>CONTACTING US</p>
+
+<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</p>
+
+<p></p>
+
+<p><a class="c12" href="http://www.freedcamp.com/">Freedcamp</a></p>
+
+<p><a class="c12" href="http://www.freedcamp.com/"></a><a href="http://www.freedcamp.com" target="_blank">http://www.freedcamp.com</a></p>
+
+<p>3066 Foothill Rd Santa Barbara, CA 93105</p>
+
+<p>8052458713</p>
+
+<p>angel (at) freedcamp.com</p>
+
+<p></p>
+
+<p>This document was last updated on September 24, 2011</p>
+
+<p></p>        </div>
+    </div>
+</div>
+<script>
+    SyntaxHighlighter.autoloader(
+        'applescript https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushAppleScript.js',
+        'actionscript3 as3 https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushAS3.js',
+        'bash shell sh https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushBash.js',
+        'coldfusion cf https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushColdFusion.js',
+        'cpp c https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushCpp.js',
+        'c# c-sharp csharp https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushCSharp.js',
+        'css https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushCss.js',
+        'delphi pascal pas https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushDelphi.js',
+        'diff patch https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushDiff.js',
+        'erl erlang https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushErlang.js',
+        'groovy https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushGroovy.js',
+        'haxe hx https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushHaxe.js',
+        'java https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushJava.js',
+        'jfx javafx https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushJavaFX.js',
+        'js jscript javascript https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushJScript.js',
+        'perl Perl pl https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushPerl.js',
+        'php https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushPhp.js',
+        'text plain https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushPlain.js',
+        'powershell ps posh https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushPowerShell.js',
+        'py python https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushPython.js',
+        'ruby rails ror rb https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushRuby.js',
+        'sass scss https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushSass.js',
+        'scala https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushScala.js',
+        'sql https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushSql.js',
+        'ts typescript https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushTypeScript.js',
+        'vb vbnet https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushVb.js',
+        'xml xhtml xslt html https://d28cgjj0g75lys.cloudfront.net/thirdparty/syntaxhighlighter308/scripts/shBrushXml.js'
+    );
+    SyntaxHighlighter.all();
+</script>
+
 </body></html>
