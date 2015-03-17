@@ -1,45 +1,78 @@
-> *The following text is extracted and transformed from the pokervip.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216124925id_/http%3A//www.pokervip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokervip.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317041952id_/https%3A//www.pokervip.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PokerVIP.com
+# Privacy Policy - PokerVIP
 
-##  Privacy Policy of PokerVip.com
+What is the privacy policy for? 
 
-At PokerVip.com we respect your privacy. Please read the following to learn more about our privacy policy.
+This privacy policy is for this website [www.PokerVIP.com](http://www.pokervip.com/) and served by [180Vita ltd](http://www.180vita.com/) and governs the privacy of its users who choose to use it. 
 
-##  What This Privacy Policy Covers
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy. 
 
-This policy covers the PokerVip.com’s use of personal information that the PokerVip.com collects when you use PokerVip.com. Personal information is information about you that is personally identifiable, like your name, address, e-mail address, or phone number, and that is not otherwise publicly available.
+The Website 
 
-##  Information Collection
+This website and it's owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website comply's to all UK national laws and requirements for user privacy. 
 
-Providing Information to Us. We collect Personal Information from you when you provide it to us. For example, if you register to our loyalty program, we collect Your name, email, username and poker room related information.
+Use of Cookies 
 
-Communications With Us. If you communicate with us regarding the Web Site or the PokerVip.com Services, we will collect any information that you provide to us in any such communication.
+This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for website's to obtain explicit consent from users before leaving behind or reading files such as cookies on a users computer / device. 
 
-Analytic and Reporting Technologies. Like the operators of most web sites, we use analytic and reporting technologies to record Non-Personal Information such as Internet domain and host names, Internet protocol (IP) addresses, browser software and operating system types, clickstream patterns, and the dates and times that the Web Site and the PokerVip.com Services are accessed.
+Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it's server to provide the users with a tailored experience within this website. Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it's external serving vendors. 
 
-##  Information Use
+This website uses tracking software to monitor it's visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ http://www.google.com/privacy.html ]. 
 
-PokerVip.com uses the information it collects from you in a variety of ways, ncluding using the information to customize features and advertising that appear on the PokerVip.com website. We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes. For example, we may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors.
+Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected. 
 
-PokerVip.com reserves the right to use and to disclose to third parties all of the information that PokerVip.com collects online about you and other visitors in any way and for any purpose, with one important exception. PokerVip.com will not use the information that it collects online from you while you are using the Service, nor will PokerVip.com authorize third parties to use such information, to mail or email promotional offers directly to you unless you have specifically informed PokerVip.com that you would like to receive promotional offers from PokerVip.com and/or from third parties. If you choose to receive these promotional offers, then your information may be used for direct mail or email marketing.
+Contact & Communication 
 
-PokerVip.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+Users contacting this website and/or it's owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk. 
 
-\- We respond to court orders or legal process to establish or exercise our legal rights or defend against legal claims;
+This website and it's owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties. 
 
-\- We provide the information to trusted partners who work on behalf of or with PokerVip.com under confidentiality agreements. However, these companies do not have any independent right to share this information
+Email Newsletter 
 
-\- We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of PokerVip.com’s terms of use, or as otherwise required by law.
+This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user. 
 
-##  Cookies
+Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy. 
 
-PokerVip.com may set and access PokerVip.com cookies on your computer.
+Email marketing campaigns published by this website or it's owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list]. This information is used to refine future email campaigns and supply the user with more relevant content based around their activity. 
 
-##  Confidentiality and Security
+In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead. 
 
-Only PokerVip.com employees who need your personal information in their tasks have access to this information.
+External Links 
 
-##  Changes to this Privacy Policy
+Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website. 
 
-If we change our Privacy Statement, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes.
+The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned. 
+
+Adverts & Sponsored Links 
+
+This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve. 
+
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned. 
+
+Social Media Platforms 
+
+Communication, engagement and actions taken through external social media platforms that this website and it's owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively. 
+
+Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor it's owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email. 
+
+This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account. 
+
+Shortened Links in Social Media 
+
+This website and it's owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url's [web addresses] (this is an example: http://bit.ly/zyVUBo). 
+
+Users are advised to take caution and good judgement before clicking any shortened url's published on social media platforms by this website and it's owners. Despite the best efforts to ensure only genuine url's are published many social media platforms are prone to spam and hacking and therefore this website and it's owners cannot be held liable for any damages or implications caused by visiting any shortened links. 
+
+Resources & Further Information 
+
+  * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
+  * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
+  * [Privacy and Electronic Communications Regulations 2003 - The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx)
+  * [Twitter Privacy Policy](http://twitter.com/privacy)
+  * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
+  * [Google Privacy Policy](http://www.google.com/privacy.html)
+  * [Linkedin Privacy Policy](http://www.linkedin.com/static?key=privacy_policy)
+  * [Mailchimp Privacy Policy](http://mailchimp.com/legal/privacy/)
+
+
