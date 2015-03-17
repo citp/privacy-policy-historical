@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigeriagoldexchange.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013045437id_/https%3A//nigeriagoldexchange.ng/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriagoldexchange.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317204557id_/https%3A//nigeriagoldexchange.ng/privacy.php) for the most accurate reproduction.*
 
 # Privacy - NigeriaGoldExchange.ng | Instant Payment | Fund, Buy, Sell, Exchange and Bid | Perfect Money, Egopay, Webmoney, Skrill, PayPal, SolidTrustPay, Payza, Ukash, CashU, Bitcoin, HotForex, Exness and PexPay | Virtual Credit Cards
 
