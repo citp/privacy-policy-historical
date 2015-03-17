@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melissaanddoug.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413033630id_/http%3A//www.melissaanddoug.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melissaanddoug.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317101111id_/http%3A//www.melissaanddoug.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -139,4 +139,4 @@ Applicable Law
 
 The laws of the State of Connecticut will govern these disclaimers, terms and conditions without giving effect to any principles of conflict of law.
 
-Last modified: May 26, 2011
+Last modified: Jan 10, 2013
