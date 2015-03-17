@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701175921id_/http%3A//www.barryplant.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317131854id_/http%3A//www.barryplant.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ We are committed to the protection of personal privacy and have adopted a policy
 
  **Utility connection customers -**  Home owners, home buyers and tenancy applicants may elect to use our free utility connection service. If you make such an election you authorise us to disclose your personal information to third party service providers for the purposes of providing you with this service.
 
- **Financial service customers**  \- We may collect personal information about you if you apply for a financial product or service. We collect this information for the purpose of arranging or providing credit, insuring credit, confirming referrals made by referral partners including real estate agents and other referrers and for direct marketing of products and services offered by us or our affiliates.
+ **Financial service customers**  – We may collect personal information about you if you apply for a financial product or service. We collect this information for the purpose of arranging or providing credit, insuring credit, confirming referrals made by referral partners including real estate agents and other referrers and for direct marketing of products and services offered by us or our affiliates.
 
  **Website content subscribers -**  You may provide personal information to us to receive information about products or services offered through this website, to purchase such products and services, to receive newsletters or become involved in promotions or other initiatives commenced by us. This personal information may include details such as your name, age, gender, contact information, products and services you are interested in or require more information about. If you purchase or request products and services from us we may also request your preferences for receiving further marketing or promotional material.
 
