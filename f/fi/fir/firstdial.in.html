@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstdial.in privacy policy that was archived on 2014-08-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140824113937id_/http%3A//www.firstdial.in/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstdial.in privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317023436id_/http%3A//www.firstdial.in/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,8 +10,8 @@
 </head>
 <body>
 <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.min.js"></script>
-<script src="/js/jquery-ui.min.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
 <script type="text/javascript">
 $(function() {
 	$("#city").autocomplete({
@@ -36,43 +36,44 @@ $(function() {
 		minLength: 1
 	});
 });
-function checkFeild(){
-	var checkcity=document.getElementById('city').value;
-	var checkarea=document.getElementById('area').value;
-	var checkkeyword=document.getElementById('keyword').value;
-	if(checkcity=="" && checkarea=="" && checkkeyword==""){
-	    document.searchrec.keyword.focus();
-		alert('Please enter city / category / company for search');
-		return false;
-	}
-	return true;
+function on_mouseout(){
+	document.getElementById("lights_cor").style.display ="block";
+	document.getElementById("fades_cor").style.display ="block";
 }
+function on_mouseover(){
+	document.getElementById("lights_cor").style.display ="none";
+	document.getElementById("fades_cor").style.display ="none";
+}
+
 </script>
 <script type="text/javascript" src="/js/jquery.validate.js"></script>
+<div id="lights_cor" class="white_content_mouse"><img src="/images/page.gif" width="100%" height="auto"></div>
+<div id="fades_cor" class="black_overlay_mouse"></div>
 <div class="maindive">
   <div class="header-fix">
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td bgcolor="#005387" height="100"><table width="1024" align="center" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
-              <td width="200"><a href="http://www.firstdial.in/"><img src="/images/logo.jpg" height="90" border="0"></a></td>
+              <td width="200"><a href="http://www.firstdial.in/"><img src="/images/logo.jpg" height="90" border="0" title="firstdial.in" alt="firstdial.in"></a></td>
               <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tbody><tr>
                     <td height="50" valign="top"><table width="100%" height="40" border="0" cellspacing="0" cellpadding="0">
                         <tbody><tr>
-                          <td width="58" height="50" align="right"><img src="/images/phonehome.png" width="48" height="48" border="0"></td>
+                          <td width="58" height="50" align="right"><img src="/images/phonehome.png" width="48" height="48" border="0" title="phone" alt="phone"></td>
                           <td height="50" align="left" style="color:#FFFFFF; font-size:20px;" valign="middle">(+91) 88829 88829</td>
-                          <td width="32" align="right"><img src="/images/listing.png" width="32" height="32" border="0"></td>
-						  <td class="menu-top" width="75" style="line-height:21px;" valign="middle" align="left"><a href="/free-listing.php" title="Free Listing Your Company On Firstdial">Free Listing</a>&nbsp;&nbsp;</td>
-                          <td width="2"><img src="/images/line.jpg" width="2"></td>
+                          <td width="32" align="right"><img src="/images/listing.png" width="32" height="32" border="0" title="free listing" alt="free listing"></td>
+			  <td class="menu-top" width="75" style="line-height:21px;" valign="middle" align="left"><a href="/free-listing.php" title="Free Listing Your Company On Firstdial">Free Listing</a></td>
+                          <td width="2"><img src="/images/line.jpg" width="2" title="line1" alt="line1"></td>
                           <td class="menu-top" width="100"><a href="/franchise-form.php" title="Franchise Application Form Of Firstdial">Apply Franchise</a></td>
-                          <td width="2"><img src="/images/line.jpg" width="2"></td>
-                          <td class="menu-top" width="90"><a href="/free-enquiry.php" title="Free Any Enquiry On Firstdial">Free Enquiry</a></td>
-                          <td width="2"><img src="/images/line.jpg" width="2"></td>
+                          <td width="2"><img src="/images/line.jpg" width="2" title="line2" alt="line2"></td>
+                          <td class="menu-top" width="120"><a href="/member-form.php" title="Online Membership of Firstdial">Online Membership</a></td>
+                          <!--<td class="menu-top" width="90"><a href="/free-enquiry.php" title="Free Any Enquiry On Firstdial">Free Enquiry</a></td>-->
+                          <td width="2"><img src="/images/line.jpg" width="2" title="line3" alt="line3"></td>
                           <td class="menu-top" width="80"><a href="/contact-us.php">Contact Us</a></td>
-                          <td width="2"><img src="/images/line.jpg" width="2"></td>
+                          <td width="2"><img src="/images/line.jpg" width="2" title="line4" alt="line4"></td>
                           <td class="menu-top" width="60"><a href="/login.php">Login</a></td>
-                          <td width="2"><img src="/images/line.jpg" width="2"></td>
+                          <td width="2"><img src="/images/line.jpg" width="2" title="line5" alt="line5"></td>
                           <td class="menu-top" width="60"><a href="/sign-up.php">Sign Up</a></td>
                         </tr>
                       </tbody></table>
@@ -80,18 +81,18 @@ function checkFeild(){
                   </tr>
                   <tr>
                     <td>
-					 <form name="searchrec" method="post" action="/search-by-all.php">
-					  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+		      <form name="searchrec" method="post" action="/search-by-all.php">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
                         <tbody><tr>
-                          <td valign="bottom"><input class="input-select1 ui-autocomplete-input" name="city" id="city" value="Pune" onfocus="if(this.value=='Pune'){this.value='';}" onblur="if(this.value==''){this.value='Pune';}" autocomplete="off"></td>
+                          <td valign="bottom"><input class="input-select1" name="city" id="city" value="Delhi" onfocus="if(this.value=='Delhi'){this.value='';}" onblur="if(this.value==''){this.value='Delhi';}"></td>
                           <td>&nbsp;<input type="hidden" id="city_id" name="city_id"></td>
                           <td align="right" valign="bottom"><input class="input-enquery2" name="area" id="area" placeholder="Area" value=""></td>
                           <td align="right" valign="bottom"><input class="input-enquery2" name="keyword" id="keyword" placeholder="Search for Company / Category" value=""></td>
-                          <td width="45" align="right" valign="bottom"><input type="image" name="searchrecord" src="/images/go.jpg" onclick="return checkFeild();" width="40" height="36" border="0" style="padding-bottom:5px;"></td>
+                          <td width="45" align="right" valign="bottom"><input type="image" name="searchrecord" src="/images/go.jpg" width="40" height="36" border="0" style="padding-bottom:7px;"></td>
                         </tr>
                       </tbody></table>
-					  </form>
-					</td>
+		     </form>
+		     </td>
                   </tr>
                 </tbody></table></td>
             </tr>
@@ -102,13 +103,13 @@ function checkFeild(){
             <tbody><tr>
               <td><div class="white">
                   <ul id="mega-menu-9" class="mega-menu">
-                    <li><a href="http://www.fdlkart.com/" target="_blank">My Shopping Mall<img src="/images/new.gif" width="30" height="13" alt=""></a></li>
+                    <li><a href="http://www.fdlkart.com/" target="_blank">My Shopping Mall</a></li>
+                    <li><a href="http://www.prasharastrologer.com" target="_blank">My Astrologer</a></li>
+                    <li><a href="http://www.firstdial.in/fdljob/home.php" target="_blank">My Job</a></li>
                     <!--<li><a href="/not-found.php">My Property</a></li>
                     <li><a href="/not-found.php">My Studies</a></li>
-                    <li><a href="/not-found.php">My Job</a></li>
                     <li><a href="/not-found.php">My Life Partner</a></li>
                     <li><a href="/not-found.php">My Trip</a></li>
-                    <li><a href="/not-found.php">My Astrologer</a></li>
                     <li><a href="/not-found.php">My Insurance</a></li>
                     <li><a href="/not-found.php">My Friends</a></li>
                     <li><a href="/not-found.php">My Car</a></li>-->
@@ -124,134 +125,144 @@ function checkFeild(){
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td valign="top">
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td>
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                      <td><h2>Privacy Policy</h2></td>
-                      <td align="right">&nbsp;</td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                  <td width="100%" valign="top"><p>First dial Committed to protecting  the privacy of your (user) Personal information. This Privacy Policy describes  how we maintain your data provided to us by you. The information received by us  shall be disclosed, collected, used by us.<br><br>
-                      With the Privacy Policy you may know  how to contact us if you have any additional queries about our management  structure, and if you would like to place any request access to your personal  information.<br><br>
-                      Personal Information shall be the  information or a perspective in any form and whether true or not about an  individual whose identity is perceptible or can reasonably be ascertained from  information or opinion.<br><br>
-                      <u><strong>Collection Of  Personal Information</strong></u><br><br>
-                      First dial collects your personal  Information only in lawful manner and with fair means, not in an unreasonably  instructive manner.</p>
-                    <ol>
-                      <li> Identifying  and Contact Information (for instance: name, address, date of birth,  educational qualification and e-mail address etc.)</li>
-                      <li>Sometimes if necessary  financial information. (i.e. card details etc.)</li>
-                      <li>Other information such as  IP address and Standard Log Information.</li>
-                    </ol>
-                    <p>This Policy does not apply to the  practices of organizations that First dial do not own or to people that we do  not employ or manage.<br><br>
-                        The information provided to us by the  users shall be kept confidential, we will maintain proper sensitivity of your  personal information.</p>
-                    <p><strong><u>Disclosure</u> </strong></p>
-                    <ol>
-                      <li> We may use  your personal information for our research, marketing purposes and deliberate  client analysis objective and other internal business purposes only.</li>
-                      <li>If you are a search  customer then only when your personal information shall be shared with our  subscribers/advertiser and your deemed consent is to be provided for the same.</li>
-                      <li>First dial also maintains right to make available the  personal information for any investigation or judicial process regarding any  fraudulent act.</li>
-                      <li>For enforcement of our  policies, incase of any violation of any person’s right, property or safety or  for claim respond, First dial may disclose your personal information.</li>
-                      <li>Under a genuine  dispensation disclosure of information shall be made to the governmental or law  enforcing agencies or our regulators.</li>
-                      <li>We may also share your personal information with third party  namely; Google, in order to serve das based on a user’s prior visits to the  website.</li>
-                      <li>Also with  corporate affiliates in order to take a security over illegal acts.</li>
-                    </ol>
-                    <p><u><strong>Adapting, Retrieving, Expunction Of Information</strong></u> <br><br>
-                        First dial provides you the ability  to edit your accounts settings and your preferences accordingly, you can also  see all related information and change of your accounts, you can also erase  your personal information by making a review over it. If any Personal  information is not available over First dial then you can contact us, there may  be a charge associated with such service provided by first dial but the amount  so charged will not exceed the prescribed limit of law. <br>
-                        If First dial does not require any  information or any information that does not worth anymore then we can erase  such information.<br><br>
-                    The motive behind retaining your  personal information is only to resolve any disputes arise, in order to enforce  our policies and in order to block any unwanted users. We maintain only that  information as permitted by law.</p>
-                    <p><u><strong>Security</strong></u><br><br>
-                        We follow up a numbers of techniques  (encryption, passwords, and physical security) in order to protect the security  and morality of your personal information against any unaccredited access and  disclosure.<br><br>
-                        The information transmitted over the  internet shall not be considered or have any guarantee to be completely secure.  We cannot provide any warranty regarding such information to be secure such  information shall be at your own risk and security as well, We shall not made  liable for that concerned information. As soon as any personal information  comes under our possession, we will start up the procedure in order to protect  such provided information by adapting various techniques.<br><br>
-                        <u><strong>Sensitivity Of Provided Information </strong></u> <br><br>
-                        First dial committed the  confidentiality of personal information and liable to maintain its sensitivity.  The users of first dial should agree and accept that they have been well  educated by First dial that the information provided by the users may be use as  publication, to all users of First dial, of any information posted by them  while using any specific features on our website.<br><br>
-                        Users may also agree and accept that  the policy of privacy will be applicable for the use of all features whether existing  and new.<br><br>
-                        Agreement of genuineness of and  consequences from the posting of any personal information by users or by any  other person shall be the sole liability or responsibility of the user.<br><br>
-                        Moreover, the users themselves waived  that confidentiality of information on such features; they need to provide an  agreement regarding that.<br><br>
-                        <u><strong>Voluntarily Disclosure</strong></u><br><br>
-                        It must be kept in notice that disclosure  of personal information by the user need to be voluntarily. First dial only  collects information when a bona-fide grant of the user will be received.<br><br>
-                        If you wish not to disclose any of  your personal information with us before completion of any registration process  on our website or before availing any services offered on our website, you may  abstain to do so, if you don’t provide information which is required to  complete the procedure, it is possible that the procedure of registration would  left incomplete and/or you will not be able to avail any of our services.<br><br>
-                    <u><strong>General</strong></u> </p>
-                    <ol>
-                      <li>We may  update or modify our privacy policies without providing any prior notice.</li>
-                      <li>If you are our corporative  customer, it is possible we may do not disclose your personal information via a  contract.</li>
-                    </ol>
-                    <p>If you have any query or Concerns  regarding your privacy policies or any sensitive information you may send us an  email at <a href="mailto:info@firstdial.in">info@firstdial.in</a> </p></td>
-              </tr>
-                </tbody></table>
-               </td>
-              </tr>
-              <tr>
-                <td align="center">&nbsp;</td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-   <tr>
-          <td colspan="2">&nbsp;</td>
-        </tr>
-        <tr>
-          <td colspan="2"><div id="footer-menu">
-              <ul>
-                <li><a href="/about-us.php">About us</a></li>
-                <li><a href="/customer-care.php">Customer Care</a></li>
-                <li><a href="/advertise.php">Advertise</a></li>
-                <li><a href="/free-listing.php">Free Listing</a></li>
-                <li><a href="/share-your-view.php">Share your views about Firstdial</a></li>
-                <li style="width:220px; float:left;"><a href="#" style="width:100px; float:left; padding:0px;">Follow us</a><a href="https://www.facebook.com/firstdial.in" target="_blank" style="width:40px; float:left; padding:0px;"><img src="/images/facebook.png" width="32" height="32" alt="" title=""></a><a href="https://twitter.com/firstdialin" target="_blank" style="width:40px; float:left; padding:0px;"><img src="/images/twitter.png" alt="" title="" width="32" height="32"></a><a href="https://plus.google.com/112141265044401625721" rel="publisher" target="_blank" style="width:40px; float:left; padding:0px;"><img src="/images/google-plus-icon.png" alt="" title="" width="32" height="32"></a></li>
-              </ul>
-            </div></td>
+            <div class="main_div_pol">
+              <div class="pol_header">Privacy Policy</div>
+              <div class="pol_cont">First dial Committed to protecting  the privacy of your (user) Personal   information. This Privacy Policy describes  how we maintain your data   provided to us by you. The information received by us  shall be   disclosed, collected, used by us.<br>
+                <br>
+                With the Privacy Policy you may know  how to   contact us if you have any additional queries about our management    structure, and if you would like to place any request access to your   personal  information.<br>
+                <br>
+                Personal Information shall be the  information or a   perspective in any form and whether true or not about an  individual   whose identity is perceptible or can reasonably be ascertained from    information or opinion.</div>
+              <div class="pol_title">Collection Of Personal Information</div>
+              <div class="pol_cont">First dial collects your personal Information only in lawful manner and with fair means, not in an unreasonably instructive manner.
+                <div class="pol_bullets">
+                  <ol>
+                    <li> Identifying  and Contact Information (for instance: name, address,   date of birth,  educational qualification and e-mail address etc.)</li>
+                    <li>Sometimes if necessary  financial information. (i.e. card details etc.)</li>
+                    <li>Other information such as  IP address and Standard Log Information.</li>
+                  </ol>
+                </div>
+              </div>
+              <div class="pol_title">Disclosure</div>
+              <div class="pol_cont">
+                <div class="pol_bullets">
+                  <ol>
+                    <li>We may use  your personal information for our research, marketing   purposes and deliberate  client analysis objective and other internal   business purposes only.</li>
+                    <li>If you are a search  customer then only when your personal   information shall be shared with our  subscribers/advertiser and your   deemed consent is to be provided for the same.</li>
+                    <li>First dial also maintains right to make available the  personal   information for any investigation or judicial process regarding any    fraudulent act.</li>
+                    <li>For enforcement of our  policies, incase of any violation of any   person’s right, property or safety or  for claim respond, First dial may   disclose your personal information.</li>
+                    <li>Under a genuine  dispensation disclosure of information shall be made to   the governmental or law  enforcing agencies or our regulators.</li>
+                    <li>We may also share your personal information with third party  namely;   Google, in order to serve das based on a user’s prior visits to the    website.</li>
+                    <li>Also with  corporate affiliates in order to take a security over illegal acts.</li>
+                  </ol>
+                </div>
+              </div>
+              <div class="pol_title">Adapting, Retrieving, Expunction Of Information </div>
+              <div class="pol_cont">
+                First dial provides you the ability to edit your accounts settings and your preferences accordingly, you can also see all related information and change of your accounts, you can also erase your personal information by making a review over it. If any Personal information is not available over First dial then you can contact us, there may be a charge associated with such service provided by first dial but the amount so charged will not exceed the prescribed limit of law.
+                  If First dial does not require any information or any information that does not worth anymore then we can erase such information.<br>
+                <br>
+               &nbsp;
+                The motive behind retaining your personal information is only to resolve any disputes arise, in order to enforce our policies and in order to block any unwanted users. We maintain only that information as permitted by law.
+              </div>
+              <div class="pol_title">Security</div>
+              <div class="pol_cont">We follow up a numbers of techniques  (encryption, passwords, and   physical security) in order to protect the security  and morality of   your personal information against any unaccredited access and    disclosure.<br>
+                <br>
+                The information transmitted over the  internet   shall not be considered or have any guarantee to be completely secure.    We cannot provide any warranty regarding such information to be secure   such  information shall be at your own risk and security as well, We   shall not made  liable for that concerned information. As soon as any   personal information  comes under our possession, we will start up the   procedure in order to protect  such provided information by adapting   various techniques.</div>
+              <div class="pol_title">Sensitivity Of Provided Information </div>
+              <div class="pol_cont">First dial committed the  confidentiality of personal information and   liable to maintain its sensitivity.  The users of first dial should   agree and accept that they have been well  educated by First dial that   the information provided by the users may be use as  publication, to all   users of First dial, of any information posted by them  while using any   specific features on our website.<br>
+                <br>
+                Users may also agree and accept that  the policy   of privacy will be applicable for the use of all features whether   existing  and new.<br>
+                <br>
+                Agreement of genuineness of and  consequences   from the posting of any personal information by users or by any  other   person shall be the sole liability or responsibility of the user.<br>
+                <br>
+                Moreover, the users themselves waived  that   confidentiality of information on such features; they need to provide an    agreement regarding that.</div>
+              <div class="pol_title">Voluntarily Disclosure</div>
+              <div class="pol_cont">It must be kept in notice that disclosure  of personal information by   the user need to be voluntarily. First dial only  collects information   when a bona-fide grant of the user will be received.<br>
+                <br>
+                If you wish not to disclose any of  your   personal information with us before completion of any registration   process  on our website or before availing any services offered on our   website, you may  abstain to do so, if you don’t provide information   which is required to  complete the procedure, it is possible that the   procedure of registration would  left incomplete and/or you will not be   able to avail any of our services.</div>
+              <div class="pol_title">General</div>
+              <div class="pol_cont">
+                <div class="pol_bullets">
+                  <ol>
+                    <li>We may  update or modify our privacy policies without providing any prior notice.</li>
+                    <li>If you are our corporative  customer, it is possible we may do not disclose your personal information via a  contract.</li>
+                  </ol>
+                </div>
+                If you have any query or Concerns regarding your privacy policies or any sensitive information you may send us an email at <a href="mailto: info@firstdial.in">info@firstdial.in </a></div>
+              <div class="spacer"></div>
+            </div>
+            </td>
         </tr>
       </tbody></table>
+  </div>
+</div>
+<div class="foter_100">
+  <div class="footer_cont">
+    <div class="f_rl">
+      <div class="f_rl_t">Popular Cities</div>
+      <div class="f_rl_trow">
+        <ul>
+          <li><a href="/ahmedabad">Ahmedabad</a></li>
+          <li><a href="/bangalore">Bangalore</a></li>
+          <li><a href="/chandigarh">Chandigarh</a></li>
+          <li><a href="/chennai">Chennai</a></li>
+          <li><a href="/coimbatore">Coimbatore</a></li>
+          <li><a href="/delhi">Delhi / NCR</a></li>
+          <li><a href="/ernakulam">Ernakulam</a></li>
+          <li><a href="/goa">Goa</a></li>
+          <li><a href="/hyderabad">Hyderabad</a></li>
+          <li><a href="/indore">Indore</a></li>
+          <li><a href="/jaipur">Jaipur</a></li>
+          <li><a href="/kolkata">Kolkata</a></li>
+          <li><a href="/mumbai">Mumbai</a></li>
+          <li><a href="/mysore">Mysore</a></li>
+          <li><a href="/nagpur">Nagpur</a></li>
+          <li><a href="/nashik">Nashik</a></li>
+          <li><a href="/pune">Pune</a></li>
+          <li><a href="/surat">Surat</a></li>
+          <li><a href="/vadodara">Vadodara</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="f_m">
+      <div class="f_rl_t">Download FirstDial App</div>
+      <div class="f_mrow">
+        <div class="f_apple"><a href="http://www.firstdial.in/FirstDial.apk" download=""><img src="/images/apples_store.png" width="125" height="37"></a></div>
+        <div class="f_google"><a href="http://www.firstdial.in/FirstDial.apk" download=""><img src="/images/google_play.png" width="125" height="37"></a></div>
+      </div>
+    </div>
+    <div class="f_rl">
+      <div class="f_rl_t">Quick Links</div>
+      <div class="f_rl_trow">
+        <ul>
+          <li><a href="/about-us.php">About Us</a></li>
+          <li><a href="/advertise.php">Advertise</a></li>
+          <li><a href="/customer-care.php">Customer Care</a></li>
+          <li><a href="/free-listing.php">Free Listing</a></li>
+          <li><a href="/free-enquiry.php">Free Enquiry</a></li>
+          <li><a href="/share-your-view.php">Share Views</a></li>
+          <li><a href="/apply-for-job.php">Apply For Job</a></li>
+        </ul>
+      </div>
+      <div class="f_rl_tb">Follow Us</div>
+      <div class="follow_row">
+        <div class="follow_icon"><a href="https://www.facebook.com/firstdial.in" target="_blank"><img src="/images/fb.png" width="35" height="35"></a></div>
+        <div class="follow_icon"><a href="https://plus.google.com/u/1/112376135337123075235/posts" target="_blank"><img src="/images/gp.png" width="35" height="35"></a></div>
+        <div class="follow_icon"><a href="https://twitter.com/firstdialin" target="_blank"><img src="/images/tw.png" width="35" height="35"></a></div>
+      </div>
+    </div>
+    <div class="footer_btm">
+      <div class="footer_btm_c">First Dial is a phone enquiry and search engine to provide the information across the country. We believe in best service offerings to satisfy our customers. If you have any enquiry or you any specific product or service then simply go through our website or call us at 08882988829.</div>
+      <div class="footer_menu">
+        <ul>
+          <li>Copyrights 2013-14. All Rights Reserved.</li>
+          <li><a href="/privacy-policy.php" target="_blank">Privacy Policy</a></li>
+          <li><a href="/term-condition.php" target="_blank">Terms &amp; Condition</a></li>
+        </ul>
+      </div>
     </div>
   </div>
-  <div class="footer-bg">
-    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td height="85" bgcolor="#005387" valign="top" style="border-top:5px #0A3151 solid;" align="center"><div class="footer-menu">
-            <ul>
-              <li><a href="/Ahmedabad">Ahmedabad<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a> </li>
-              <li><a href="/Bangalore">Bangalore<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Chandigarh">Chandigarh<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Chennai">Chennai<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Coimbatore">Coimbatore<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Delhi">Delhi / NCR<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Ernakulam">Ernakulam<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Goa">Goa<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Hyderabad">Hyderabad<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Indore">Indore<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Jaipur">Jaipur<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Kolkata">Kolkata<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Mumbai">Mumbai</a></li>
-              <li><a href="/Mysore">Mysore<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Nagpur">Nagpur<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Nashik">Nashik<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Pune">Pune<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Surat">Surat<img src="/images/line.jpg" width="2" style="margin-left:10px; margin-top:2px;" alt=""></a></li>
-              <li><a href="/Vadodara">Vadodara</a></li>
-            </ul>
-          </div></td>
-      </tr>
-      <tr>
-        <td height="40" bgcolor="#0A3151"><table width="650" align="center" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td style="color:#FFFFFF; font-size:12px;">Copyrights 2013-14.  All Rights Reserved.</td>
-              <td class="copy" width="120"><a href="privacy-policy.php">Privacy Policy</a></td>
-              <td width="2"><img src="/images/line.jpg" width="2" alt=""></td>
-              <td class="copy" width="130"><a href="term-condition.php">Terms &amp; Condition</a></td>
-              <td class="copy" width="60">&nbsp;</td>
-              <td class="copy" width="60">&nbsp;</td>
-            </tr>
-          </tbody></table></td>
-      </tr>
-    </tbody></table>
-   </div>
- </div>
-
+</div>
 <script type="text/javascript">
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -261,4 +272,4 @@ function checkFeild(){
   ga('send', 'pageview');
 </script>   
 
-<ul class="ui-autocomplete ui-front"></ul></body></html>
+</div></body></html>
