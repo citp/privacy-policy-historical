@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datersearch.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013005629id_/http%3A//members.datersearch.com/doc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datersearch.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317032021id_/http%3A//members.datersearch.com/doc/privacy.php) for the most accurate reproduction.*
 
-# 
+# Datersearch - Privacy Policy
 
 ## Privacy Policy
 
@@ -8,7 +8,7 @@ Datersearch.com (‘Website’), owned, managed, and operated by Boss Marketing 
 
 We reserve the right to update, change, and modify this Policy at any time without assigning any reason to anyone and in Our sole discretion. However, We may post any major changes and modifications to this Policy on the Website homepage demanding Your attention. All such modifications shall be posted on this page and shall be effective from the time of such posting. Your continued use of the Website signifies Your implied acceptance of such modified Policy. We, therefore, encourage You to visit this page often to remain updated on all such modifications
 
-Last Updated on May 25, 2011
+Last Updated on October 31, 2014
 
 **Privacy of Children**
 
