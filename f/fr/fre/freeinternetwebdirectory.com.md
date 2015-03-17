@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeinternetwebdirectory.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021324id_/http%3A//www.freeinternetwebdirectory.com/ourprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeinternetwebdirectory.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317035404id_/http%3A//www.freeinternetwebdirectory.com/ourprivacypolicy.html) for the most accurate reproduction.*
 
 # Free powerful internet directory for website promotion business listings marketing web directory. - webdirectory privacy policy
 
