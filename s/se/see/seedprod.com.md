@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seedprod.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702135443id_/https%3A//www.seedprod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedprod.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317140357id_/https%3A//www.seedprod.com/privacy) for the most accurate reproduction.*
 
-# Privacy - SeedProd
+# Privacy Policy - SeedProd
 
 Like most website operators, SeedProd collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. SeedProd’s purpose in collecting non-personally identifying information is to better understand how SeedProd’s visitors use its website. From time to time, SeedProd may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
