@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shoespie.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625153459id_/http%3A//www.shoespie.com/help/Privacy-Policy-on-Shoespiecom-401.html%23detail1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoespie.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317053319id_/http%3A//www.shoespie.com/help/1privacy-Policy-401.html%23detail1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -9,7 +9,7 @@
 <meta name="keywords" content="1.Privacy Policy ">
 <title>1.Privacy Policy </title>
  <link href="http://s.shoespie.com/css/stylefirm.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPN8S3"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="http://www.reportide.com/ta.js"></script><script src="http://s.shoespie.com/js/jquery.min.js" type="text/javascript"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPN8S3"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="http://s.shoespie.com/js/jquery.min.js" type="text/javascript"></script>
 <script src="http://s.shoespie.com/js/index.js" type="text/javascript"></script>
 </head>
 
@@ -17,67 +17,95 @@
 
 <!--header-start-->
 <script src="http://s.shoespie.com/js/indexHeader.js" type="text/javascript"></script>
-<script type="text/javascript">
-    var ta = document.createElement("script");
-    ta.type = "text/javascript";
-    ta.async = true;
-    ta.src = "http://www.reportide.com/ta.js";
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(ta, s);
-</script>
 
 <div id="tidedress">
 <!--top begin-->
 <div class="usermas">
 <div class="headinner">
 <dl>
-<select id="Currency" style="float:left;" onchange="Currency()">
-                   
-                          <option value="USD" selected="selected">USD</option>
-                       
-                          <option value="EUR">EUR</option>
-                       
-                          <option value="JPY">JPY</option>
-                       
-                          <option value="GBP">GBP</option>
-                       
-                          <option value="CAD">CAD</option>
-                       
-                          <option value="AUD">AUD</option>
-                       
-                          <option value="CHF">CHF</option>
-                       
-                          <option value="HKD">HKD</option>
-                       
-                          <option value="ILS">ILS</option>
-                       
-                   </select>
-                    <script type="text/javascript">
-                        function Currency() {
-                            setCurrency($("#Currency").val());
-                            changeCurrency();
-                        }
 
-                        var currencyRates = {"USD":1.0000,"EUR":0.7501,"JPY":105.1733,"GBP":0.6068,"CAD":1.1059,"AUD":1.0990,"CHF":0.9216,"HKD":7.9837,"ILS":3.5392};
-                         var currencySigns = {"USD":"USD $" ,"EUR":"EUR €" ,"JPY":"JPY ￥" ,"GBP":"GBP ￡" ,"CAD":"CAD $" ,"AUD":"AUD $" ,"CHF":"CHF ₣" ,"HKD":"HKD $" ,"ILS":"ILS ₪" };
-                    </script>
+<a class="favorites" href="#" onclick="addfavorite(window.location,document.title);">Add to your favorites</a>
+<script type="text/javascript">
+function addfavorite(url,title){
+    
+    var ua=navigator.userAgent.toLowerCase();
+    if(ua.indexOf("msie 8")>-1){
+        external.AddToFavoritesBar(url, title, 'xxx website');
+    }
+    else{
+        try{
+            window.external.addFavorite(url,title);
+        }catch(e){
+            try{
+                window.sidebar.addPanel(title,url,"");
+                }catch(e){
+                alert("Sorry, your browser does not support this operation! Please use the menu bar or Ctrl + D to add Shoespie to your favorites");
+                    }
+            }
+        }
+    
+return false;
+}
+</script>
+    <select id="Currency" onchange="Currency()">
+   
+          <option value="USD" selected="selected">$   USD</option>
+       
+          <option value="EUR">€   EUR</option>
+       
+          <option value="JPY">￥   JPY</option>
+       
+          <option value="GBP">￡   GBP</option>
+       
+          <option value="CAD">$   CAD</option>
+       
+          <option value="AUD">$   AUD</option>
+       
+          <option value="CHF">₣   CHF</option>
+       
+          <option value="HKD">$   HKD</option>
+       
+          <option value="ILS">₪   ILS</option>
+       
+          <option value="DKK">kr   DKK</option>
+       
+          <option value="MXN">$   MXN</option>
+       
+          <option value="NOK">kr   NOK</option>
+       
+          <option value="SEK">kr   SEK</option>
+       
+          <option value="RUB">p.   RUB</option>
+       
+    </select>
+    <script type="text/javascript">
+        function Currency() {
+            setCurrency($("#Currency").val());
+            changeCurrency();
+        }
+
+        var currencyRates = {"USD":1.0000,"EUR":0.9938,"JPY":127.3335,"GBP":0.7106,"CAD":1.3448,"AUD":1.3724,"CHF":1.0758,"HKD":8.3090,"ILS":4.2961,"DKK":7.5497,"MXN":16.5390,"NOK":8.8132,"SEK":9.2580,"RUB":65.7405};
+         var currencySigns = {"USD":"USD $" ,"EUR":"EUR €" ,"JPY":"JPY ￥" ,"GBP":"GBP ￡" ,"CAD":"CAD $" ,"AUD":"AUD $" ,"CHF":"CHF ₣" ,"HKD":"HKD $" ,"ILS":"ILS ₪" ,"DKK":"DKK kr" ,"MXN":"MXN $" ,"NOK":"NOK kr" ,"SEK":"SEK kr" ,"RUB":"RUB p." };
+    </script>              
 <dt>
-<div id="c7"><a href="javascript:void(0)" onclick="payLogin();" rel="nofollow"><img src="http://s.shoespie.com/images/stylefirm2/cupon_review.jpg"></a></div>
 <span class="usm">
-<span id="UserName"><a id="JoinUs" class="joinfree" href="http://www.shoespie.com/login.html" rel="nofollow">Sign In or Register</a><a href="javascript:void(0)" class="fblogin" onclick="authUser();" rel="nofollow">FB Login</a>
-<a onclick="_gaq.push(['_trackEvent', 'PayPal', 'Login']);" href="https://www.paypal.com/webapps/auth/protocol/openidconnect/v1/authorize?client_id=AT3a0BC3lxk5lbPNnt84w0_0Dspm89byLDL3XuMVb8f-RwNQdd0LGcObLO1N&amp;response_type=code&amp;scope=openid+email&amp;redirect_uri=http%3a%2f%2fwww.shoespie.com%2fPaypalLoginReturn.aspx&amp;nonce=92692624&amp;newUI=Y" class="fblogin shoespie_paypalLogin" rel="nofollow"></a>                                                          
+<span id="UserName"><a id="JoinUs" class="joinfree" href="/login.html" rel="nofollow">Sign In or Register</a><a href="javascript:void(0)" class="fblogin" onclick="authUser();" rel="nofollow">FB Login</a>
+<a onclick="" href="https://www.paypal.com/webapps/auth/protocol/openidconnect/v1/authorize?client_id=AT3a0BC3lxk5lbPNnt84w0_0Dspm89byLDL3XuMVb8f-RwNQdd0LGcObLO1N&amp;response_type=code&amp;scope=openid+email&amp;redirect_uri=http%3a%2f%2fwww.shoespie.com%2fPaypalLoginReturn.aspx&amp;nonce=92692624&amp;newUI=Y" class="fblogin shoespie_paypalLogin" rel="nofollow"></a>                                                          
 </span>
-<span>
-<a rel="nofollow" class="account clickA" href="/account/">My Account</a>
+
+<span class="account clickA">
+<a class="index_Account" rel="nofollow" href="/account/">My Account</a><a class="account_mysan"></a>
 <div class="listaccount" style="display:none;">
 <ul>
 <li><a rel="nofollow" href="/account/Order?flag=all">My Order</a></li>
 <li><a rel="nofollow" href="/account/MyFavorites ">My Favorites<em></em></a></li>
+<li><a rel="nofollow" href="/account/OrderCoupons">My Coupons<em></em></a></li>
 <li id="aloginCL"><a rel="nofollow" href="/login.html">Sign In</a></li>
 </ul>
 </div></span>
-<span>
-<a rel="nofollow" class="Help clickA" href="/help/">Help</a>
+
+<span class="Help clickA">
+<a class="index_Account" rel="nofollow" href="/help/">Help</a><a class="account_mysan"></a>
 <div class="listhelp" style="display:none;">
 <ul>
 <li><a rel="nofollow" href="/help/Faq-255/">FAQ</a></li>
@@ -85,26 +113,46 @@
 <li><a rel="nofollow" href="/help/Contact-Us-407.html#detail1">Contact Us</a></li>
 </ul>
 </div></span>
-<a class="livechart" href="/help/LeavingMessage.html" target="_blank" rel="nofollow">Live Chat</a>
-<p></p>
+<div class="Friends">
+<a class="Service">Customer Service</a>
+<div class="Customer">
+    	<div class="Provide">
+        	Dear customer: we will provide you with<br>
+            professional service during your shopping.
+            <img src="http://s.shoespie.com/images/Newshou/lemfuhao.jpg">
+        </div>
+        <div class="livecrb">
+        	<a class="livechart" href="javascript:void(0);" rel="nofollow">Live Chat</a>
+            <p class="emshoes"><a href="mailto:service@shoespie.com">Email: service@shoespie.com</a></p>
+            <p class="ohonsse">Phone: +86-29-82016883</p>
+        </div>
+    </div>
+</div>
+<span class="shop_cart"><a href="/shopcart.html" rel="nofollow" class="shopcart" id="shopcart11">Shopping Cart<b><span id="ShopCount"></span></b></a></span>
+
 </span> 
 </dt>
 </dl>
 </div>
 </div>
 <div id="top">
-<div class="top_left"><a href="/"><img src="http://s.shoespie.com/images/stylefirm2/logo.jpg" alt="Shoespie – Women Fashion Shoes Online Sale"></a></div>
+<div class="top_left"><a href="/"><img src="http://s.shoespie.com/images/public/logo.jpg" alt="Shoespie – Women Fashion Shoes Online Sale"></a></div>
 <div class="top_right">
 <dl>
 
 <dd>
-<input id="SearchText" class="search" onkeyup="value=value.replace(/[^\w\.\\ /]/ig,'')" onkeydown="if(event.keyCode==13)GoSearch('SearchText');" onfocus="if($(this).val() == 'Quick Search'){$(this).val('');} $(this).parent('dd').css('background','url(http://s.shoespie.com/images/seach_bjhover.png) no-repeat');$('#clearText').css('background','url(http://s.shoespie.com/images/stylefirm2/close.png) no-repeat')" onblur="$(this).parent('dd').css('background','url(http://s.shoespie.com/images/seach_bj.png) no-repeat');;$('#clearText').css('background','#fff')" value="Dress Sandals" "="" type="text">
+<input id="SearchText" class="search" onkeyup="GetSearchKey(this.value);" onkeydown="if(event.keyCode==13)GoSearch('SearchText');" onfocus="if($(this).val() == 'Quick Search'||$(this).val()=='Flat Sandals'){$(this).val('');} $(this).parent('dd').css('background','url(http://s.shoespie.com/images/public/seach_bjhover.png) no-repeat');$('#clearText').css('background','url(http://s.shoespie.com/images/stylefirm2/close.png) no-repeat')" onblur="$(this).parent('dd').css('background','url(http://s.shoespie.com/images/public/seach_bj.png) no-repeat');;$('#clearText').css('background','#fff')" value="Flat Sandals" "="" type="text">
 <span id="clearText" class="close"></span>
 <input name="" class="go" onclick="GoSearch('SearchText');" type="button">
 <input id="SearchCategoryID" value="0" type="hidden">
 </dd>
-<div class="payimg"><img src="http://s.shoespie.com/images/stylefirm2/mcafee.jpg"></div>
-<div class="shop_cart"><a href="http://www.shoespie.com/shopcart.html" rel="nofollow" class="shopcart" id="shopcart11">Shopping Cart<br><b><span id="ShopCount"></span>items</b></a></div>
+<dd class="shoes_listaccount" style="display: none;">
+</dd>
+<dd id="c7">
+
+<img src="http://s.shoespie.com/images/stylefirm2/shoespie_1027.jpg">Free Shipping Over <span class="multiSign">USD $ </span><span class="minpriceforshippingoff" data-price="79"> 79.00</span>
+
+</dd>
 </dl>
 </div>
  <!--bag open begin-->
@@ -117,7 +165,7 @@
 <div class="webwidget_menu_glide_sprite"></div>
 <ul id="menus">
 <li class="cat-item"><a class="Shoes_Home" href="/" rel="nofollow">Home</a></li>
-<li class="cat-item Heels"><a href="http://www.shoespie.com/C/Heels-c1-101402/" class="nav"><b>Heels</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Platform-Heels-101408/">Platform Heels</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Stiletto-Heels-101409/">Stiletto Heels</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Peep-Toe-Heels-101410/">Peep-toe Heels</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Wedge-Heels-101411/">Wedge Heels</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Low-Heels-101412/">Low Heels</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Bridal-Shoes-101824/">Bridal Shoes</a></li></ul></li></ul></div></div></li><li class="cat-item Sandals"><a href="http://www.shoespie.com/C/Sandals-c1-101403/" class="nav"><b>Sandals</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Dress-Sandals-101413/">Dress Sandals</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Platform-Sandals-101414/">Platform Sandals</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Flat-Sandals-101415/">Flat Sandals</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Wedge-Sandals-101416/">Wedge Sandals</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Gladiator-Sandals-101417/">Gladiator Sandals</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Slippers-101418/">Slippers</a></li></ul></li></ul></div></div></li><li class="cat-item Boots"><a href="http://www.shoespie.com/C/Boots-c1-101404/" class="nav"><b>Boots</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Ankle-Boots-101419/">Ankle Boots</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Knee-High-Boots-101420/">Knee High Boots</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/High-Heels-Boots-101421/">High Heels Boots</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Flat-Boots-101422/">Flat Boots</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Snow-Boots-102233/">Snow Boots</a></li></ul></li></ul></div></div></li><li class="cat-item Casuals"><a href="http://www.shoespie.com/C/Casuals-c1-101405/" class="nav"><b>Casuals</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Comfort-Flats-101423/">Comfort Flats</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Peep-Toe-Flats-101424/">Peep-toe Flats</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Canvas-Shoes-102096/">Canvas Shoes </a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Sneaker-103856/">Sneaker</a></li></ul></li></ul></div></div></li><li class="cat-item Kids_Shoes"><a href="http://www.shoespie.com/C/Kids-Shoes-c1-102336/" class="nav"><b>Kids Shoes</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Baby-Shoes-102337/">Baby Shoes</a></li></ul></li></ul></div></div></li><li class="cat-item item_ml item_m2 Beauty"><a href="http://www.shoespie.com/C/Beauty-c1-101835/" class="nav"><b>Beauty</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu navtu2"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Make-Up-101836/">Make Up</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Women-Socks-103809/">Women Socks</a></li></ul><ul><li class="nav2 "><a href="http://www.shoespie.com/C/Anklets-103875/">Anklets</a></li></ul></li></ul></div></div></li><li class="cat-item Promotion1"><span class="hotsign"></span><a href="http://www.shoespie.com/topic/DailyDeal/" class="nav" rel="nofollow"><b>Daily Deals</b></a></li><li class="cat-item promotion_c"><span class="newsign"></span><a href="http://www.shoespie.com/topic/SummerDayShoespie" class="nav prtion" rel="nofollow"><b>Promotion</b></a></li>
+<li class="cat-item Heels"><a href="/C/Heels-c1-101402/" class="nav"><b>Heels</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="/C/Platform-Heels-101408/">Platform Heels</a></li></ul><ul><li class="nav2 "><a href="/C/Stiletto-Heels-101409/">Stiletto Heels</a></li></ul><ul><li class="nav2 "><a href="/C/Peep-Toe-Heels-101410/">Peep-toe Heels</a></li></ul><ul><li class="nav2 "><a href="/C/Wedge-Heels-101411/">Wedge Heels</a></li></ul><ul><li class="nav2 "><a href="/C/Low-Heels-101412/">Low Heels</a></li></ul><ul><li class="nav2 "><a href="/C/Bridal-Shoes-101824/">Bridal Shoes</a></li></ul><ul><li class="nav2 "><a href="/C/Cheap-Heels-104569/">Cheap Heels</a></li></ul></li></ul></div></div></li><li class="cat-item Sandals"><a href="/C/Sandals-c1-101403/" class="nav"><b>Sandals</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="/C/Dress-Sandals-101413/">Dress Sandals</a></li></ul><ul><li class="nav2 "><a href="/C/Platform-Sandals-101414/">Platform Sandals</a></li></ul><ul><li class="nav2 "><a href="/C/Flat-Sandals-101415/">Flat Sandals</a></li></ul><ul><li class="nav2 "><a href="/C/Wedge-Sandals-101416/">Wedge Sandals</a></li></ul><ul><li class="nav2 "><a href="/C/Slippers-101418/">Slippers</a></li></ul></li></ul></div></div></li><li class="cat-item Boots"><a href="/C/Boots-c1-101404/" class="nav"><b>Boots</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="/C/Ankle-Boots-101419/">Ankle Boots</a></li></ul><ul><li class="nav2 "><a href="/C/Knee-High-Boots-101420/">Knee High Boots</a></li></ul><ul><li class="nav2 "><a href="/C/High-Heels-Boots-101421/">High Heels Boots</a></li></ul><ul><li class="nav2 "><a href="/C/Flat-Boots-101422/">Flat Boots</a></li></ul><ul><li class="nav2 "><a href="/C/Snow-Boots-102233/">Snow Boots</a></li></ul><ul><li class="nav2 "><a href="/C/Cheap-Boots-104570/">Cheap Boots</a></li></ul></li></ul></div></div></li><li class="cat-item Casuals"><a href="/C/Casuals-c1-101405/" class="nav"><b>Casuals</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="/C/Canvas-Shoes-102096/">Canvas Shoes </a></li></ul><ul><li class="nav2 "><a href="/C/Sneaker-103856/">Sneaker</a></li></ul></li></ul></div></div></li><li class="cat-item Flats"><a href="/C/Flats-c1-104567/" class="nav"><b>Flats</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="/C/Loafers-105925/">Loafers</a></li></ul></li></ul></div></div></li><li class="cat-item Men" s_shoes'=""><a href="/C/Mens-Shoes-c1-102336/" class="nav"><b>Men's Shoes</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="/C/Sneakers-Athletic-Shoes-105819/">Sneakers &amp; Athletic Shoes</a></li></ul><ul><li class="nav2 "><a href="/C/Loafers-105820/">Loafers</a></li></ul><ul><li class="nav2 "><a href="/C/Oxfords-105821/">Oxfords</a></li></ul><ul><li class="nav2 "><a href="/C/Mens-Sandals-105822/">Men's Sandals</a></li></ul></li></ul></div></div></li><li class="cat-item Beauty"><a href="/C/Beauty-c1-101835/" class="nav"><b>Beauty</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="/C/Make-Up-101836/">Make Up</a></li><li><a href="/C/Make-Up-Brushes-104558/">Make Up Brushes</a></li><li><a href="/C/Eye-Shadow-104559/">Eye Shadow</a></li></ul><ul><li class="nav2 "><a href="/C/Women-Socks-103809/">Women Socks</a></li></ul><ul><li class="nav2 "><a href="/C/Anklets-103875/">Anklets</a></li></ul></li></ul></div></div></li><li class="cat-item item_ml item_m2 Sale&amp;Specials"><a href="/C/Sale-Specials-c1-105897/" class="nav"><b>Sale&amp;Specials</b></a><div class="cat-item_list"><div class="cat-item_listsun"><div class="navtu navtu2"></div><ul class="zk children"><li class="zk_left"><ul><li class="nav2 "><a href="/C/Fast-Shipping-105898/">Fast Shipping </a></li></ul></li></ul></div></div></li><li class="cat-item Promotion1"><span class="hotsign"></span><a href="/topic/DailyDeal/" class="nav" rel="nofollow"><b>Daily Deals</b></a></li><li class="cat-item promotion_c"><span class="newsign"></span><a href="/promotion/" class="nav prtion"><b>Promotion</b></a></li>
             <li class="li_pin">
 <span class="pin"></span>
 <span class="wehi-logo"></span>
@@ -127,10 +175,14 @@
 </ul>
 </div>
 <!--nav end-->
-<div id="timego1"><script type="text/javascript">var enddate='2014/6/26 17:0:0';var begdate='2014/6/22 16:0:0'; var TimeGo1= new Array('days','hour','minute','seconds');</script><script type="text/javascript" src="http://s.shoespie.com/js/TimeGo.js"></script><a href="http://www.shoespie.com/C/Sandals-c1-101403/"><div id="ad" style="background: url(http://s.shoespie.com/images/up/0/17/17054.jpg) no-repeat scroll left top transparent;"><span class="s1"><b class="ad-d" id="days">0</b>&nbsp;<b class="ad-h" id="hour">0</b><b class="ad-m" id="minute">0</b><b class="ad-s" id="seconds">0</b></span></div></a></div>
+<div id="timego1"><script type="text/javascript">var enddate='2015/3/23 16:0:0';var begdate='2015/3/16 16:0:0'; var TimeGo1= new Array('days','hour','minute','seconds');</script><script type="text/javascript" src="http://s.shoespie.com/js/TimeGo.js"></script><a href="http://www.shoespie.com/C/Sandals-c1-101403/"><div id="grrg" style="background: url(http://s.shoespie.com/images/up/0/29/29154.jpg) no-repeat scroll left top transparent;"><span class="s1"><b class="grrg-d" id="days">0</b>&nbsp;<b class="grrg-h" id="hour">0</b><b class="grrg-m" id="minute">0</b><b class="grrg-s" id="seconds">0</b></span></div></a></div>
 </div>
 <!--header-end-->
 <script type="text/javascript" src="http://s.shoespie.com/js/GlobalSetting.js"></script>
+<script type="text/javascript">
+    jQuery.cookie("PaypalReturnUrl", '/help/1privacy-Policy-401.html', { expires: 3, path: "/", domain: 'shoespie.com' });
+</script>
+
 <div id="container">  
     <div class="help_con">
         <div class="help_left">
@@ -176,8 +228,8 @@
 </div>
 <div class="contact">
     <div>
-        <strong>Tel: +86-29-68968082</strong><br>
-        <strong>Email:&nbsp;</strong><span> service@shoespie.com</span>
+        <strong>Tel:+86-29-82016883 or +86-29-68968082</strong><br>
+        <strong>Email:service@shoespie.com</strong>
         <strong>Customer Service Dep.</strong>
     </div>
     <input type="button" value="" class="contact_btn" name="" onclick="location.href='/help/LeavingMessage.html';">
@@ -202,7 +254,7 @@
 
 </div>
             <div class="help_right">
-                    <div class="h_n"><span><a href="http://www.shoespie.com/">Home</a> &gt;  <a href="http://www.shoespie.com/Help/">Help Center</a></span><span class="nb"><a href="/help/Privacy-Policy-245">Back&nbsp;to&nbsp;Privacy Policy</a></span></div>
+                    <div class="h_n"><span><a href="/">Home</a> &gt;  <a href="/help/" style=" color:#F0820B;">Help Center</a></span><span class="nb"><a href="/help/Privacy-Policy-245/">Back&nbsp;to&nbsp;Privacy Policy</a></span></div>
                     
                     <dl class="hl_d2"><dt>Privacy Policy</dt><dd>Privacy Policy<ul> <li> - <a href="#detail1" rel="nofollow">1.Privacy Policy </a></li></ul></dd></dl><dl class="hl_d3"><dt id="detail1">1.Privacy Policy </dt> <dd><p class="MsoNormal" style="font-family: Arial, Verdana;"><span lang="EN-US"><font size="3" face="宋体">
 
@@ -295,34 +347,34 @@ to which this Site links or that links to this Site is not our responsibility.<o
 <dl>
 <span><img src="http://s.shoespie.com/images/stylefirm2/customoption.jpg"></span>
 </dl>
+
 <dl>
 <dt>Customer Guidance</dt>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/1how-To-Register-Log-In-764.html#detail1">Register</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/Finding-Your-Items-225/">Find Items</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/Order-Making-225/">Make Orders</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/FAQ-255/">FAQ</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/2Forgot-Your-Password-437.html#detail2">Login Problem </a></dd>
+<dd><a rel="nofollow" href="/help/1how-To-Register-Log-In-764.html#detail1">Register</a></dd>
+<dd><a rel="nofollow" href="/help/New-Customer-Guidance-225/">Find Items</a></dd>
+<dd><a rel="nofollow" href="/help/New-Customer-Guidance-225/">Make Orders</a></dd>
+<dd><a rel="nofollow" href="/help/Faq-255/">FAQ</a></dd>
+<dd><a rel="nofollow" href="/help/2-Forget-Your-Password-437.html#detail2">Login Problem </a></dd>
 </dl>
 <dl>
 <dt>Payment Methods</dt>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/Usage-of-Cupiddress-Coupon-Code-229/"> Coupon</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/How-to-Use-Paypal-366.html#detail3"> PayPal</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/How-to-Use-Bank-Transfer-370.html#detail7">Bank Transfer</a></dd>
-
+<dd><a rel="nofollow" href="/help/Preferential-Policies-229/"> Coupon</a></dd>
+<dd><a rel="nofollow" href="/help/3how-To-Use-Paypal-366.html#detail3"> PayPal</a></dd>
+<dd><a rel="nofollow" href="/help/7how-To-Use-Bank-Transfer-370.html#detail7">Bank Transfer</a></dd>
 </dl>
 <dl>
 <dt>Shipping &amp; Delivery</dt>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/There-are-two-main-shipping-methods-to-choose-from-which-is-your-favorite-374.html#detail1">Shipping Methods</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/1shipping-Cost-376.html#detail1">Shipping Cost</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/Item-Processing-Time-372.html#detail1">Deliver Time</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/Can-You-Ship-the-Items-To-383.html#detail1">International Shipping</a></dd>
+<dd><a rel="nofollow" href="/help/1shipping-Methods-374.html#detail1">Shipping Methods</a></dd>
+<dd><a rel="nofollow" href="/help/1shipping-Cost-376.html#detail1">Shipping Cost</a></dd>
+<dd><a rel="nofollow" href="/help/1item-Processing-Time-372.html#detail1">Deliver Time</a></dd>
+<dd><a rel="nofollow" href="/help/1-Countries-We-Can-Ship-Items-To-383.html#detail1">International Shipping</a></dd>
 </dl>
 <dl class="last">
 <dt>Refund &amp; Return</dt>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/1Tracking-information-is-unavailable-384.html#detail1">Issues</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/Returning-For-Replacement-or-Refund-397.html#detail1">Return Policy</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/How-do-I-open-a-dispute-399.html#detail2">Dispute</a></dd>
-<dd><a rel="nofollow" href="http://www.shoespie.com/help/How-to-cancel-an-unpaid-order-393.html#detail1">Order Cancellation</a></dd>
+<dd><a rel="nofollow" href="/help/1-Online-Refund-384.html#detail1">Issues</a></dd>
+<dd><a rel="nofollow" href="/help/1online-Return-Or-Exchange-397.html#detail1">Return Policy</a></dd>
+<dd><a rel="nofollow" href="/help/2how-Do-I-Open-A-Dispute-399.html#detail2">Dispute</a></dd>
+<dd><a rel="nofollow" href="/help/1how-To-Cancel-An-Unpaid-Order-393.html#detail1">Order Cancellation</a></dd>
 </dl>
 </div>
 <!--Shopping by end-->
@@ -330,18 +382,19 @@ to which this Site links or that links to this Site is not our responsibility.<o
 </div>
 <div class="about">
 <ul>
-<li class="aam"><a rel="nofollow" href="http://www.shoespie.com/help/About-Shoespiecom-414.html#detail1">About Us</a> | <a rel="nofollow" href="http://www.shoespie.com/help/Contact-Us-407.html#detail1">Contact Us</a>|<a href="http://www.shoespie.com/help/Affiliate-Program-881.html#detail1" rel="nofollow">Affiliate Program</a> | <a rel="nofollow" href="http://www.shoespie.com/help/">Help Center</a>| <a rel="nofollow" href="http://www.shoespie.com/help/Privacy-Policy-on-Shoespiecom-401.html#detail1">Security &amp; Privacy</a> | <a rel="nofollow" href="http://www.shoespie.com/help/Terms-of-Use-408.html#detail1">Terms of Usage</a> | <a rel="nofollow" href="http://www.shoespie.com/help/1copyright-Of-Shoespiecom-409.html#detail1">Copyright</a>|<a href="http://www.shoespie.com/Sitemap.html">Sitemap</a></li>
+<li class="aam"><a rel="nofollow" href="/help/About-Our-Website-414.html#detail1">About Us</a> | <a rel="nofollow" href="/help/Contact-Us-407.html#detail1">Contact Us</a>|<a href="/help/Affiliate-Program-881.html#detail" rel="nofollow">Affiliate Program</a> | <a rel="nofollow" href="/help/">Help Center</a>| <a rel="nofollow" href="/help/1privacy-Policy-401.html#detail1">Security &amp; Privacy</a> | <a rel="nofollow" href="/help/1terms-Conditions-408.html#detail1">Terms of Usage</a> | <a rel="nofollow" href="/help/1copyright-Of-Shoespiecom-409.html#detail1">Copyright</a>|<a href="/Sitemap.html">Sitemap</a></li>
 </ul>
 </div>
 <div class="copy">
 <ul>
-<li>Copyright Notice © 2014 <a href="http://www.shoespie.com" title="women shoes">women shoes</a> shoespie.com All rights reserved</li>
+<li>Copyright Notice © 2015 <a href="http://www.shoespie.com" title="women shoes">women shoes</a> shoespie.com All rights reserved</li>
 </ul>
 </div>
 <div class="clear">
 </div>
 <div id="tags">
-<a href="http://www.shoespie.com/shoesbox/" title="shoesbox">shoesbox:</a><a href="http://www.shoespie.com/shoesbox-directory/A/">A</a><a href="http://www.shoespie.com/shoesbox-directory/B/">B</a><a href="http://www.shoespie.com/shoesbox-directory/C/">C</a><a href="http://www.shoespie.com/shoesbox-directory/D/">D</a><a href="http://www.shoespie.com/shoesbox-directory/E/">E</a><a href="http://www.shoespie.com/shoesbox-directory/F/">F</a><a href="http://www.shoespie.com/shoesbox-directory/G/">G</a><a href="http://www.shoespie.com/shoesbox-directory/H/">H</a><a href="http://www.shoespie.com/shoesbox-directory/I/">I</a><a href="http://www.shoespie.com/shoesbox-directory/J/">J</a><a href="http://www.shoespie.com/shoesbox-directory/K/">K</a><a href="http://www.shoespie.com/shoesbox-directory/L/">L</a><a href="http://www.shoespie.com/shoesbox-directory/M/">M</a><a href="http://www.shoespie.com/shoesbox-directory/N/">N</a><a href="http://www.shoespie.com/shoesbox-directory/O/">O</a><a href="http://www.shoespie.com/shoesbox-directory/P/">P</a><a href="http://www.shoespie.com/shoesbox-directory/Q/">Q</a><a href="http://www.shoespie.com/shoesbox-directory/R/">R</a><a href="http://www.shoespie.com/shoesbox-directory/S/">S</a><a href="http://www.shoespie.com/shoesbox-directory/T/">T</a><a href="http://www.shoespie.com/shoesbox-directory/U/">U</a><a href="http://www.shoespie.com/shoesbox-directory/V/">V</a><a href="http://www.shoespie.com/shoesbox-directory/W/">W</a><a href="http://www.shoespie.com/shoesbox-directory/X/">X</a><a href="http://www.shoespie.com/shoesbox-directory/Y/">Y</a><a href="http://www.shoespie.com/shoesbox-directory/Z/">Z</a>
+<a href="/shoespie-price/" title="Shoespie Price">shoespie price</a> | 
+<a href="/shoesbox/" title="shoesbox">shoesbox:</a><a href="/shoesbox-directory/A/">A</a><a href="/shoesbox-directory/B/">B</a><a href="/shoesbox-directory/C/">C</a><a href="/shoesbox-directory/D/">D</a><a href="/shoesbox-directory/E/">E</a><a href="/shoesbox-directory/F/">F</a><a href="/shoesbox-directory/G/">G</a><a href="/shoesbox-directory/H/">H</a><a href="/shoesbox-directory/I/">I</a><a href="/shoesbox-directory/J/">J</a><a href="/shoesbox-directory/K/">K</a><a href="/shoesbox-directory/L/">L</a><a href="/shoesbox-directory/M/">M</a><a href="/shoesbox-directory/N/">N</a><a href="/shoesbox-directory/O/">O</a><a href="/shoesbox-directory/P/">P</a><a href="/shoesbox-directory/Q/">Q</a><a href="/shoesbox-directory/R/">R</a><a href="/shoesbox-directory/S/">S</a><a href="/shoesbox-directory/T/">T</a><a href="/shoesbox-directory/U/">U</a><a href="/shoesbox-directory/V/">V</a><a href="/shoesbox-directory/W/">W</a><a href="/shoesbox-directory/X/">X</a><a href="/shoesbox-directory/Y/">Y</a><a href="/shoesbox-directory/Z/">Z</a>
 </div>
 <div id="link">
 <a href="https://www.paypal.com/verified/pal=pay@shoespie.com" target="_blank" rel="nofollow" class="mr53"><img src="http://s.shoespie.com/images/stylefirm2/paypal.gif"> </a>
@@ -349,22 +402,22 @@ to which this Site links or that links to this Site is not our responsibility.<o
 </div>
 <!--footer end-->
 </div>
-<script>(function(){
-  window._fbds = window._fbds || {};
-  _fbds.pixelId = 311158135675423;
-  var fbds = document.createElement('script');
-  fbds.async = true;
-  fbds.src = '//connect.facebook.net/en_US/fbds.js';
-  var s = document.getElementsByTagName('script')[0];
-  s.parentNode.insertBefore(fbds, s);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(["track", "PixelInitialized", {}]);
+<script>    (function() {
+        window._fbds = window._fbds || {};
+        _fbds.pixelId = 311158135675423;
+        var fbds = document.createElement('script');
+        fbds.async = true;
+        fbds.src = '//connect.facebook.net/en_US/fbds.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fbds, s);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(["track", "PixelInitialized", {}]);
 </script>
 <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=311158135675423&amp;ev=NoScript" /></noscript>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PPN8S3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>    
+<script>
     (function(w, d, s, l, i) {
         w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
         var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
@@ -374,20 +427,27 @@ window._fbq.push(["track", "PixelInitialized", {}]);
     })(window, document, 'script', 'dataLayer', 'GTM-PPN8S3');
 </script>
 <!-- End Google Tag Manager -->
-
-
+<div style="display:none">
 <script type="text/javascript">
+    (function(d, src, c) {
+        var t = d.scripts[d.scripts.length - 1], s = d.createElement('script');
+        s.id = 'la_x2s6df8d';
+        s.async = true;
+        s.src = src;
+        s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState;
+            if (rs && (rs != 'complete') && (rs != 'loaded')) {
+                return;
+            } c(this);
+        };
+        t.parentElement.insertBefore(s, t.nextSibling);
+    })(document, '//xiaozhan.ladesk.com/scripts/track.js', function(e) { LiveAgent.createButton('eaeb0fde', e); });
+</script><script id="la_x2s6df8d" async="" src="//xiaozhan.ladesk.com/scripts/track.js"></script>
+</div>
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-40022026-1']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
 
-</script>
+
+
 
 </body></html>
