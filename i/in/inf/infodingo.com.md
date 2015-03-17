@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infodingo.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226040548id_/http%3A//www.tsavo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infodingo.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317133132id_/http%3A//www.tsavo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rebellion Media
 
