@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the pongoresume.com privacy policy that was archived on 2014-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701150744id_/http%3A//www.pongoresume.com/content/5/privacy-policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pongoresume.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317190303id_/https%3A//www.pongoresume.com/content/5/privacy-policy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="pongo-cufon-loading"><head><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">_cf_loadingtexthtml="<img alt=' ' src='http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/scripts/ajax/resources/cf/images/loading.gif'/>";
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="pongo-cufon-loading"><head><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">_cf_loadingtexthtml="<img alt=' ' src='https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/scripts/ajax/resources/cf/images/loading.gif'/>";
 _cf_contextpath="";
-_cf_ajaxscriptsrc="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/scripts/ajax";
+_cf_ajaxscriptsrc="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/scripts/ajax";
 _cf_jsonprefix='//';
-_cf_clientid='9903E54F441952B820EB143A67A710FC';</script><script type="text/javascript" src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/scripts/ajax/messages/cfmessage.js"></script>
-<script type="text/javascript" src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/scripts/ajax/package/cfajax.js"></script>
+_cf_clientid='7F76BFFF863C79653B5B33255CA9221E';</script><script type="text/javascript" src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/scripts/ajax/messages/cfmessage.js"></script>
+<script type="text/javascript" src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/scripts/ajax/package/cfajax.js"></script>
 
 <script type="text/javascript">
 	ColdFusion.Ajax.importTag('CFAJAXPROXY');
@@ -15,23 +15,28 @@ _cf_clientid='9903E54F441952B820EB143A67A710FC';</script><script type="text/java
 <script type="text/javascript">
 	var _cf_signupFunnel=ColdFusion.AjaxProxy.init('/cfc/noFlash/signupFunnel.cfc','FunnelService');
 	_cf_signupFunnel.prototype.createResumeConfirmForm=function(accountID,resumeName,dsn) { return ColdFusion.AjaxProxy.invoke(this, "createResumeConfirmForm", {accountID:accountID,resumeName:resumeName,dsn:dsn});};
-	_cf_signupFunnel.prototype.createFreeAccount=function(firstName,lastName,middleInitial,email,accountPass,affiliateID,affiliateProductID,keywordID,referrerID,tellafriendID,insightOptinFlag) { return ColdFusion.AjaxProxy.invoke(this, "createFreeAccount", {firstName:firstName,lastName:lastName,middleInitial:middleInitial,email:email,accountPass:accountPass,affiliateID:affiliateID,affiliateProductID:affiliateProductID,keywordID:keywordID,referrerID:referrerID,tellafriendID:tellafriendID,insightOptinFlag:insightOptinFlag});};
+	_cf_signupFunnel.prototype.billPayPalSubscribe=function(orderID,token,payerID) { return ColdFusion.AjaxProxy.invoke(this, "billPayPalSubscribe", {orderID:orderID,token:token,payerID:payerID});};
+	_cf_signupFunnel.prototype.billCreditCard=function(creditCardNumber,creditCardExpireMonth,creditCardExpireYear,creditCardCID,creditCardType) { return ColdFusion.AjaxProxy.invoke(this, "billCreditCard", {creditCardNumber:creditCardNumber,creditCardExpireMonth:creditCardExpireMonth,creditCardExpireYear:creditCardExpireYear,creditCardCID:creditCardCID,creditCardType:creditCardType});};
+	_cf_signupFunnel.prototype.createFreeAccount=function(firstName,lastName,middleInitial,email,accountPass,affiliateID,affiliateProductID,keywordID,referrerID,tellafriendID,insightOptinFlag,phoneNum) { return ColdFusion.AjaxProxy.invoke(this, "createFreeAccount", {firstName:firstName,lastName:lastName,middleInitial:middleInitial,email:email,accountPass:accountPass,affiliateID:affiliateID,affiliateProductID:affiliateProductID,keywordID:keywordID,referrerID:referrerID,tellafriendID:tellafriendID,insightOptinFlag:insightOptinFlag,phoneNum:phoneNum});};
 	_cf_signupFunnel.prototype.getLastUpdatedResume=function(accountID) { return ColdFusion.AjaxProxy.invoke(this, "getLastUpdatedResume", {accountID:accountID});};
 	_cf_signupFunnel.prototype.checkNewsletterSubscription=function(email) { return ColdFusion.AjaxProxy.invoke(this, "checkNewsletterSubscription", {email:email});};
 	_cf_signupFunnel.prototype.checkEmailDupRemote=function(email,accountID) { return ColdFusion.AjaxProxy.invoke(this, "checkEmailDupRemote", {email:email,accountID:accountID});};
 	_cf_signupFunnel.prototype.checkMemberStatus=function(accountID) { return ColdFusion.AjaxProxy.invoke(this, "checkMemberStatus", {accountID:accountID});};
 	_cf_signupFunnel.prototype.getProductType=function(accountID,orderID) { return ColdFusion.AjaxProxy.invoke(this, "getProductType", {accountID:accountID,orderID:orderID});};
-	_cf_signupFunnel.prototype.createPaidAccount=function(accountID,orderID,firstName,lastName,middleInitial,email,accountPass,affiliateID,affiliateProductID,keywordID,referrerID,tellafriendID,insightOptinFlag,creditCardFirstName,creditCardLastName,creditCardMiddleInitial,creditCardNumber,creditCardExpireMonth,creditCardExpireYear,creditCardCID,creditCardType,maintenanceUpgrade,formType,sessionsign) { return ColdFusion.AjaxProxy.invoke(this, "createPaidAccount", {accountID:accountID,orderID:orderID,firstName:firstName,lastName:lastName,middleInitial:middleInitial,email:email,accountPass:accountPass,affiliateID:affiliateID,affiliateProductID:affiliateProductID,keywordID:keywordID,referrerID:referrerID,tellafriendID:tellafriendID,insightOptinFlag:insightOptinFlag,creditCardFirstName:creditCardFirstName,creditCardLastName:creditCardLastName,creditCardMiddleInitial:creditCardMiddleInitial,creditCardNumber:creditCardNumber,creditCardExpireMonth:creditCardExpireMonth,creditCardExpireYear:creditCardExpireYear,creditCardCID:creditCardCID,creditCardType:creditCardType,maintenanceUpgrade:maintenanceUpgrade,formType:formType,sessionsign:sessionsign});};
+	_cf_signupFunnel.prototype.createPaidAccount=function(accountID,orderID,firstName,lastName,middleInitial,email,accountPass,affiliateID,affiliateProductID,keywordID,referrerID,tellafriendID,insightOptinFlag,creditCardFirstName,creditCardLastName,creditCardMiddleInitial,creditCardNumber,creditCardExpireMonth,creditCardExpireYear,creditCardCID,creditCardType,maintenanceUpgrade,formType,sessionsign,phoneNum,paymentType,payPalBackURL,payerID) { return ColdFusion.AjaxProxy.invoke(this, "createPaidAccount", {accountID:accountID,orderID:orderID,firstName:firstName,lastName:lastName,middleInitial:middleInitial,email:email,accountPass:accountPass,affiliateID:affiliateID,affiliateProductID:affiliateProductID,keywordID:keywordID,referrerID:referrerID,tellafriendID:tellafriendID,insightOptinFlag:insightOptinFlag,creditCardFirstName:creditCardFirstName,creditCardLastName:creditCardLastName,creditCardMiddleInitial:creditCardMiddleInitial,creditCardNumber:creditCardNumber,creditCardExpireMonth:creditCardExpireMonth,creditCardExpireYear:creditCardExpireYear,creditCardCID:creditCardCID,creditCardType:creditCardType,maintenanceUpgrade:maintenanceUpgrade,formType:formType,sessionsign:sessionsign,phoneNum:phoneNum,paymentType:paymentType,payPalBackURL:payPalBackURL,payerID:payerID});};
 	_cf_signupFunnel.prototype.createFreeAccountByBuilder=function(affiliateID,affiliateProductID,keywordID,referrerID,tellafriendID,insightOptinFlag,firstname,lastname,middleinitial,address1,address2,city,stateID,province,zip,countryID,phone,altphone,fax,email) { return ColdFusion.AjaxProxy.invoke(this, "createFreeAccountByBuilder", {affiliateID:affiliateID,affiliateProductID:affiliateProductID,keywordID:keywordID,referrerID:referrerID,tellafriendID:tellafriendID,insightOptinFlag:insightOptinFlag,firstname:firstname,lastname:lastname,middleinitial:middleinitial,address1:address1,address2:address2,city:city,stateID:stateID,province:province,zip:zip,countryID:countryID,phone:phone,altphone:altphone,fax:fax,email:email});};
 	_cf_signupFunnel.prototype.getProductPrice=function(affiliateProductID) { return ColdFusion.AjaxProxy.invoke(this, "getProductPrice", {affiliateProductID:affiliateProductID});};
+	_cf_signupFunnel.prototype.billPayPalInit=function(redirectURL,orderID,accountID,oldMemberShipType) { return ColdFusion.AjaxProxy.invoke(this, "billPayPalInit", {redirectURL:redirectURL,orderID:orderID,accountID:accountID,oldMemberShipType:oldMemberShipType});};
 	_cf_signupFunnel.prototype.jumble=function(stringPattern,length) { return ColdFusion.AjaxProxy.invoke(this, "jumble", {stringPattern:stringPattern,length:length});};
-	_cf_signupFunnel.prototype.createBulkLicenseAccount=function(firstName,lastName,middleInitial,email,accountPass,affiliateID,affiliateProductID,keywordID,referrerID,tellafriendID,insightOptinFlag,promotionCode) { return ColdFusion.AjaxProxy.invoke(this, "createBulkLicenseAccount", {firstName:firstName,lastName:lastName,middleInitial:middleInitial,email:email,accountPass:accountPass,affiliateID:affiliateID,affiliateProductID:affiliateProductID,keywordID:keywordID,referrerID:referrerID,tellafriendID:tellafriendID,insightOptinFlag:insightOptinFlag,promotionCode:promotionCode});};
+	_cf_signupFunnel.prototype.createBulkLicenseAccount=function(firstName,lastName,middleInitial,email,accountPass,affiliateID,affiliateProductID,keywordID,referrerID,tellafriendID,insightOptinFlag,promotionCode,phoneNum) { return ColdFusion.AjaxProxy.invoke(this, "createBulkLicenseAccount", {firstName:firstName,lastName:lastName,middleInitial:middleInitial,email:email,accountPass:accountPass,affiliateID:affiliateID,affiliateProductID:affiliateProductID,keywordID:keywordID,referrerID:referrerID,tellafriendID:tellafriendID,insightOptinFlag:insightOptinFlag,promotionCode:promotionCode,phoneNum:phoneNum});};
 	_cf_signupFunnel.prototype.createPaidOrder=function(accountID,orderID,affiliateproductID,prodPrice,subscriptionlength) { return ColdFusion.AjaxProxy.invoke(this, "createPaidOrder", {accountID:accountID,orderID:orderID,affiliateproductID:affiliateproductID,prodPrice:prodPrice,subscriptionlength:subscriptionlength});};
+	_cf_signupFunnel.prototype.billPayPal=function(orderID,token,payerID) { return ColdFusion.AjaxProxy.invoke(this, "billPayPal", {orderID:orderID,token:token,payerID:payerID});};
+	_cf_signupFunnel.prototype.billPayPalUpdateBillingInfo=function(token,payerID,accountID,affiliateProductID) { return ColdFusion.AjaxProxy.invoke(this, "billPayPalUpdateBillingInfo", {token:token,payerID:payerID,accountID:accountID,affiliateProductID:affiliateProductID});};
 </script>
-<script type="text/javascript" src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/scripts/cfform.js"></script>
-<script type="text/javascript" src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/scripts/masks.js"></script>
+<script type="text/javascript" src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/scripts/cfform.js"></script>
+<script type="text/javascript" src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/scripts/masks.js"></script>
 
-	
+
 	<title>
 		Privacy Policy | Pongo 
 	</title>
@@ -39,43 +44,43 @@ _cf_clientid='9903E54F441952B820EB143A67A710FC';</script><script type="text/java
 	
 		<meta name="description" content="Pongo values your privacy. Read about how Pongo keeps your personal information secure. ">
 	
-		<link rel="Stylesheet" href="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com//application/app_stylesheet.css" type="text/css">
-		<link rel="Stylesheet" href="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com//application/app_stylesheet_homepage.css" type="text/css">
+		<link rel="Stylesheet" href="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com//application/app_stylesheet.css" type="text/css">
+		<link rel="Stylesheet" href="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com//application/app_stylesheet_homepage.css" type="text/css">
 	
 
 
 
 <script>
 	
-		var cloudBase = "http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/";
-		var cloudBaseNoSlash = "http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com";
-		var cloudJSBase = "http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com";
+		var cloudBase = "https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/";
+		var cloudBaseNoSlash = "https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com";
+		var cloudJSBase = "https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com";
 	
 </script>
 
 		
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/jquery-ui.min.js"></script>
-		<script type="text/javascript" src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/javascripts/jquery.cookie.js"></script>
-		<script src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/javascripts/jquery.autocomplete.min.js"></script>
+		<script type="text/javascript" src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/javascripts/jquery.cookie.js"></script>
+		<script src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/javascripts/jquery.autocomplete.min.js"></script>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 		
+
 		
+		<script type="text/javascript" src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/application/app_javascript.js"></script>
+		<script type="text/javascript" src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/javascripts/pongoFunction.js"></script>
+
 		
-		<script type="text/javascript" src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/application/app_javascript.js"></script>
-		<script type="text/javascript" src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/javascripts/pongoFunction.js"></script>
-		
-		
-		<script type="text/javascript" src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/javascripts/trackGA.js"></script>
-			
+		<script type="text/javascript" src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/javascripts/trackGA.js"></script>
+
 		
 		
 
 		
-		<script type="text/javascript">		
+		<script type="text/javascript">
 			var accountID = "0";
 		</script>
-		 
+
 
 		
 		
@@ -105,17 +110,17 @@ _cf_clientid='9903E54F441952B820EB143A67A710FC';</script><script type="text/java
 				}
 			</style>
 		<![endif]-->
-		<script src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/javascripts/cufon.js" type="text/javascript"></script>
-		<script src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/javascripts/fonts/ChaletLondon1960.font.js" type="text/javascript"></script>
-		<script src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/javascripts/fonts/ChaletParis1960.font.js" type="text/javascript"></script>
+		<script src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/javascripts/cufon.js" type="text/javascript"></script>
+		<script src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/javascripts/fonts/ChaletLondon1960.font.js" type="text/javascript"></script>
+		<script src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/javascripts/fonts/ChaletParis1960.font.js" type="text/javascript"></script>
 		<script>
 			function releaseCufon() {
 				$('html').removeClass('pongo-cufon-loading');
 			}
 			$(document).ready(releaseCufon);
 			setTimeout(releaseCufon, 2000);
-			Cufon.replace('.Font_ChaletLondon1960', {fontFamily: 'ChaletLondon1960'}); 
-			Cufon.replace('.Font_ChaletParis1960', {fontFamily: 'ChaletParis1960'}); 
+			Cufon.replace('.Font_ChaletLondon1960', {fontFamily: 'ChaletLondon1960'});
+			Cufon.replace('.Font_ChaletParis1960', {fontFamily: 'ChaletParis1960'});
 		</script>
 	
 
@@ -180,7 +185,6 @@ _cf_clientid='9903E54F441952B820EB143A67A710FC';</script><script type="text/java
 //-->
 </script>
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1701756-2']);
   _gaq.push(['_trackPageview']);
@@ -196,10 +200,11 @@ _cf_clientid='9903E54F441952B820EB143A67A710FC';</script><script type="text/java
 
 
 
+ 
 
 
             <body id="" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" marginwidth="0" bgcolor="FFFFFF">
-                <form name="form" id="form" action="http://www.pongoresume.com/content/5/privacy-policy.cfm" method="post" style="padding:0;" onsubmit="return _CF_checkform(this)">
+                <form name="form" id="form" action="https://www.pongoresume.com/content/5/privacy-policy.cfm" method="post" style="padding:0;" onsubmit="return _CF_checkform(this)">
 
 		
 		
@@ -228,7 +233,7 @@ _cf_clientid='9903E54F441952B820EB143A67A710FC';</script><script type="text/java
 	});
 </script>
 
-        <div class="wasH1"><a class="ie6_png" href="http://www.pongoresume.com/index.cfm" onclick="logoHome()" alt="Pongo Resume Logo"></a></div>
+        <div class="wasH1"><a class="ie6_png" href="https://www.pongoresume.com/index.cfm" onclick="logoHome()" alt="Pongo Resume Logo"></a></div>
 	
         <div class="navUtilityNormal" style="">	
             <span class="btn_login"><a href="https://www.pongoresume.com/accounts.cfm" onclick="loginBtn()" class="top_nav ie6_png" title="Login">Login</a></span>
@@ -236,7 +241,7 @@ _cf_clientid='9903E54F441952B820EB143A67A710FC';</script><script type="text/java
 	
         <ul class="navMain clearfix">
             <li id="homeTab" class="navHome" style="list-style:none;">
-                <a href="http://www.pongoresume.com/index.cfm" class="Font_ChaletLondon1960"><span class="nsel">HOME</span><span class="sel">HOME</span><span class="hover">HOME</span></a>
+                <a href="https://www.pongoresume.com/index.cfm" class="Font_ChaletLondon1960"><span class="nsel">HOME</span><span class="sel">HOME</span><span class="hover">HOME</span></a>
             </li>
             <li id="whyPongoTab" class="navWhyPongo navHasDropdown" style="list-style:none;">
                 <div><span class="nsel Font_ChaletLondon1960">WHY PONGO?</span><span class="sel Font_ChaletLondon1960">WHY PONGO?</span><span class="hover Font_ChaletLondon1960">WHY PONGO?</span>
@@ -280,14 +285,17 @@ _cf_clientid='9903E54F441952B820EB143A67A710FC';</script><script type="text/java
 						<a class="dropdownItem menuDropdownClassMemberships" href="/plans/memberships.cfm">
 							Memberships
 						</a>
-						<a class="dropdownItem menuDropdownClassProfessionalServices" href="/plans/professional-services.cfm">
-							Professional Services
+						<a class="dropdownItem menuDropdownClassProfessionalServices" href="/plans/professional-resumes.cfm">
+							Professional Resumes
+						</a>
+						<a class="dropdownItem menuDropdownClassProfessionalLetters" href="/plans/professional-letters.cfm">
+							Professional Letters
 						</a>
 					</div>
 				</div>
             </li>
             <li id="helpTab" class="navHelp" style="list-style:none;">
-                <a href="http://www.pongoresume.com/help.cfm" class="Font_ChaletLondon1960"><span class="nsel">HELP</span><span class="sel">HELP</span><span class="hover">HELP</span></a>
+                <a href="https://www.pongoresume.com/help.cfm" class="Font_ChaletLondon1960"><span class="nsel">HELP</span><span class="sel">HELP</span><span class="hover">HELP</span></a>
             </li>
       
 			<li id="learnTab" class="navLearn navHasDropdown" style="list-style:none;">
@@ -380,7 +388,7 @@ _cf_clientid='9903E54F441952B820EB143A67A710FC';</script><script type="text/java
 <![endif]-->
 
 
-	<div class="apolloHdr" style="background:url(http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/interface/apollo/bg_privacy_policy.jpg) 0 0 no-repeat;margin-top:2px;">
+	<div class="apolloHdr" style="background:url(https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/interface/apollo/bg_privacy_policy.jpg) 0 0 no-repeat;margin-top:2px;">
 		<div class="apolloHdrTitle Font_ChaletParis1960" style="top:30px;">Privacy Policy</div>
 	</div>
 	<div class="crumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
@@ -532,7 +540,7 @@ We do not allow people to use our Site, Service, or be a referral if they are un
 					
 				</div>
 			</div>
-			<div class="pongoRavesImage" style="background:url(http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com//interface/bg_testimonial_Mary.png) 0 0 no-repeat;" onclick="showTestimonialVideo(3)">
+			<div class="pongoRavesImage" style="background:url(https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com//interface/bg_testimonial_Mary.png) 0 0 no-repeat;" onclick="showTestimonialVideo(3)">
 			</div>
 		</div>
 		
@@ -549,18 +557,18 @@ We do not allow people to use our Site, Service, or be a referral if they are un
 	
 
 	<a name="anchorFooter"></a>
-	<div class="footerCol" style="background:url(http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com/interface/apollo/bg_footer_badge.jpg) 0 3px no-repeat;width:166px;height:180px;margin-left:0px;"></div>
+	<div class="footerCol" style="background:url(https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com/interface/apollo/bg_footer_badge.jpg) 0 3px no-repeat;width:166px;height:180px;margin-left:0px;"></div>
 	<div style="float:left;">
 		<div id="learn" class="footerCol">
 			<div class="footerHeadline">
 				Learn More
 			</div>
 			<div class="footerHorizRule"></div>
-			 <a href="http://www.pongoresume.com/content/1/about-us.cfm">ABOUT US</a> <br>
-			<a href="http://www.pongoresume.com/content/5/privacy-policy.cfm">PRIVACY POLICY</a> <br>
-			<a href="http://www.pongoresume.com/content/6/terms-of-service.cfm">TERMS OF SERVICE</a> <br>
-			<a href="http://www.pongoresume.com/blogs/1/pongo.cfm">BLOG</a><br>
-			<a href="http://www.pongoresume.com/sitemap.cfm">SITE MAP</a>
+			 <a href="https://www.pongoresume.com/content/1/about-us.cfm">ABOUT US</a> <br>
+			<a href="https://www.pongoresume.com/content/5/privacy-policy.cfm">PRIVACY POLICY</a> <br>
+			<a href="https://www.pongoresume.com/content/6/terms-of-service.cfm">TERMS OF SERVICE</a> <br>
+			<a href="https://www.pongoresume.com/blogs/1/pongo.cfm">BLOG</a><br>
+			<a href="https://www.pongoresume.com/sitemap.cfm">SITE MAP</a>
 		</div>
 		<div id="contact" class="footerCol">
 			<div class="footerHeadline">
@@ -595,12 +603,12 @@ We do not allow people to use our Site, Service, or be a referral if they are un
 				
 				<a href="javascript:void(0)" onclick="showCustomerSupportPopup()"><div id="footerEmail">Email</div></a>
 			</div>
-			<div id="norton"><a href="javascript:popitup('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.pongoresume.com&amp;lang=en','Graph','width=525,height=475')"><img class="ie6_png" width="132" height="68" border="0" hspace="0" src="http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com//interface/norton_logo_132x68_trans.png" alt="Your private information is secured through VeriSign services." title="Your private information is secured through VeriSign services."></a></div>
+			<div id="norton"><a href="javascript:popitup('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.pongoresume.com&amp;lang=en','Graph','width=540,height=475')"><img class="ie6_png" width="132" height="68" border="0" hspace="0" src="https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com//interface/norton_logo_132x68_trans.png" alt="Your private information is secured through VeriSign services." title="Your private information is secured through VeriSign services."></a></div>
 		</div>
 	</div>
-	<div class="copyright">© 2014 Pongo, LLC. All rights reserved. Prepare To Get Hired!®</div>
-	
-	
+	<div class="copyright">© 2015 Pongo, LLC. All rights reserved. Prepare To Get Hired!®</div>
+
+
 	
 	
 	<div id="dynamicPopup" style="display:none;">
@@ -654,7 +662,7 @@ We do not allow people to use our Site, Service, or be a referral if they are un
 		}
 	</script>
 
-	
+
 
 
 	<script type="text/javascript">
@@ -697,7 +705,7 @@ var google_conversion_value = 0;
 			
 			var img;
 			
-			img = "http://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.r38.cf1.rackcdn.com//interface/liveperson/repoffline.gif";
+			img = "https://6185194c7e5c286c7149-911d2ee436e9146003fceee2b5ccddb6.ssl.cf1.rackcdn.com//interface/liveperson/repoffline.gif";
 			
 			$(".chaticon").attr("src", img);
 			$(".chatdiv").css({visibility: "visible"});
