@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovechile.cl privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121042810id_/http%3A//www.ilovechile.cl/i-love-chile/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovechile.cl privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317091038id_/http%3A//www.ilovechile.cl/i-love-chile/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chilean News and a Whole Lot More
 
