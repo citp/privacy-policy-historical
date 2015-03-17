@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919070330id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317032500id_/https%3A//www.edjoin.org/Home/Privacy) for the most accurate reproduction.*
 
-# EDJOIN Privacy Statement
+# Privacy
 
 **Overview**
 
-EDJOIN is committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to all of our Web sites ([www.edjoin.org](http://www.edjoin.org/) and [edjoinJobs](http://edjoinjobs/) ). By using the EDJOIN web site, you consent to the policies and practices described in this Statement. 
+EDJOIN is committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to all of our Web sites ([www.edjoin.org](http://www.edjoin.org/) and [edjoinJobs](http://edjoinjobs/)). By using the EDJOIN web site, you consent to the policies and practices described in this Statement. 
 
 Your data will be stored and processed in the United States. If you access the EDJOIN web site from outside the United States, your usage of the site constitutes consent to the transfer of your data out of your country and to the United States. 
 
@@ -30,7 +30,7 @@ We do not disclose to third parties your personal information, combined personal
 
   1. Educational organizations in California to whom you submit your job applications will have access to all of the information provided in your EDJOIN job application as well as any attachments to your application. You’re age, gender and ethnicity information however is available only in aggregate form and is not viewable in connection to your individual job applications. These organizations may contact you using the contact information you provide on your job application.   
 
-  2. Educational organizations in California who use the EDJOIN system to post jobs also have the ability to search the job applications in the EDJOIN system. In addition, the California Teacher Recruitment Centers and the CalTeach organization can search the online applications as well as view aggregate information about the users of the EDJOIN system. These entities may contact you using any of the contact information provided in your EDJOIN profile or online application.
+  2. Educational organizations in California who use the EDJOIN system to post jobs also have the ability to search the job applications in the EDJOIN system. In addition, the California Teacher Recruitment Centers and the CalTeach organization can search the online applications as well as view aggregate information about the users of the EDJOIN system. These entities may contact you using any of the contact information provided in your EDJOIN profile or online application. 
 
 
 
@@ -62,7 +62,7 @@ EDJOIN is not intended for children under 13 years of age. We do not knowingly c
 
 **Changes to Privacy Statement**
 
-If we decide to change our Privacy Statement for EDJOIN, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about EDJOIN's Privacy Statement, please feel free to email us at [edjoinhelpdesk@sjcoe.net](mailto:edjoinhelpdesk@sjcoe.net) or call us at 888-953-2155 (from 7:00 a.m. to 4:00 p.m PST, Monday to Friday) and speak to one of our representatives . 
+If we decide to change our Privacy Statement for EDJOIN, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about EDJOIN's Privacy Statement, please feel free to email us at [edjoinsupport@sjcoe.net](mailto:edjoinsupport@sjcoe.net) or call us at 888-953-2155 (from 7:00 a.m. to 4:00 p.m PST, Monday to Friday) and speak to one of our representatives . 
 
 **Contact Information**
 
