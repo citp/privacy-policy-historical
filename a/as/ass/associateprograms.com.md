@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associateprograms.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702043551id_/http%3A//www.associateprograms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associateprograms.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317142632id_/http%3A//www.associateprograms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | AssociatePrograms.com
 
@@ -59,8 +59,8 @@ You will be able to connect your Zed Seven account to third party accounts. BY C
 **Opt-Out & Unsubscribe**  
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Zed Seven by contacting us here:
 
-\- Clicking unsubscribe in the footer of all emails.  
-\- Email: help@zedseven.com.au
+– Clicking unsubscribe in the footer of all emails.  
+– Email: help@zedseven.com.au
 
 **Changes to this Statement**  
 Zed Seven will occasionally update this Statement of Privacy to reflect company and customer feedback. Zed Seven encourages you to periodically review this Statement to be informed of how Zed Seven is protecting your information.
