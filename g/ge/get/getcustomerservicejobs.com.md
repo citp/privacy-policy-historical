@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcustomerservicejobs.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628201057id_/http%3A//www.getcustomerservicejobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcustomerservicejobs.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317014907id_/http%3A//www.getcustomerservicejobs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ GetCustomerServiceJobs.com
 
@@ -45,17 +45,3 @@ If you have questions or concerns about any of our information collection or han
 Get Customer Service Jobs welcomes your feedback on this document by email at contact(at)getcustomerservicejobs.com
 
 | 
-
-[ ](http://www.twitter.com/GetCusServiJobs)
-
-[](http://www.addthis.com/bookmark.php)
-
-[](https://web.archive.org/resources/submission.php)
-
-## FREE Weekly Customer Service Jobs
-
-**Hot New Jobs** direct to your inbox. Join **5,625** Customer Service professionals today!
-
-[ ](http://www.tdisecurity.com/tdi-labs/webseal.htm)
-
-[](http://www.employmentwebsites.org/)
