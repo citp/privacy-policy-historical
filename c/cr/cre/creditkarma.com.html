@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the creditkarma.com privacy policy that was archived on 2014-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202033825id_/https%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the creditkarma.com privacy policy that was archived on 2015-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317134310id_/https%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+<!DOCTYPE html><html><head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAQEWV9RGwEJXVdRAwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAQEWV9RGwcAVldVBAY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:22,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:8,2:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,2:23,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:23,2:22,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:23,2:22,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:23,2:22,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:23,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],12:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:21,2:22,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:21,2:12,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],21:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],22:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],23:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:22,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 <meta name="description" content="Instantly receive your free credit score and free credit report online. Free credit tools to track and optimize your credit score. No credit card needed &amp; no hidden fees.">
 <meta name="keywords" content="Free Credit Score, Check Credit Report, Check Credit Reports, Online Credit Report, Free Credit Check, Credit Report, Credit Reports, Credit Score, Credit Scores, Credit History, Credit Manager, Credit Checks, Credit Karma, Credit, Score">
+<meta name="viewport" content="width=device-width,user-scalable=yes">
 <meta name="verify-v1" content="LM4VHzduL0w9RuTtJJ3I9DMyHscEa4Ucoa49DWFFo40=">
 <meta name="og:title" content="Credit Karma">
 <meta name="og:type" content="company">
@@ -14,174 +15,185 @@
 <meta name="og:site_name" content="Credit Karma">
 <meta name="fb:admins" content="1525418, 84000136">
 <meta name="fb:app_id" content="170840887919">
+<meta name="format-detection" content="telephone=no">
 <title>Credit Karma Privacy Policy | Credit Karma</title>
-<link href="https://creditkarmacdn-a.akamaihd.net/res/stylesheets/css/partials/fonts.css" media="screen" rel="stylesheet" type="text/css">
-<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
-<link href="https://creditkarmacdn-a.akamaihd.net/res/out/default.1034226793875.css" media="all" rel="stylesheet" type="text/css">
-<!--[if lte IE 8]> <link href="https://creditkarmacdn-a.akamaihd.net/res/stylesheets/css/partials/ie.1034226793875.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->
-<link href="https://creditkarmacdn-a.akamaihd.net/res/out/about.1034226793875.css" media="screen" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
-<!--[if lte IE 6]> <script type="text/javascript">
-    //<!--
-var _gIsIE6 = true;    //-->
-<!--[endif]---->
+<link href="https://creditkarmacdn-a.akamaihd.net/res/out/base_styles.75241380509.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,500&amp;subset=latin" media="all" rel="stylesheet" type="text/css">
+<link href="https://creditkarmacdn-a.akamaihd.net/res/out/default.75241380509.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://creditkarmacdn-a.akamaihd.net/res/out/about.75241380509.css" media="screen" rel="stylesheet" type="text/css">
 <script type="text/javascript">
     //<!--
-var PROTOCOL = window.document.location.protocol + '//',
-    HOSTBASE = 'www.creditkarma.com',
-    BASE_URL = PROTOCOL + HOSTBASE,
-    MEDIA_URL = 'https://creditkarmacdn-a.akamaihd.net',
-    TRKCK = 'CKTRKID',
-    CSRF_TOKEN = '6ec40fd43b1badcae37ddd1007f88266789f8a438933a0e424f3659f672c420b',
-    CSRF_HEADER_STRING = 'X_CSRF_TOKEN',
-    TC = 0,
-    SRS = 0,
-    CKEDITOR_BASEPATH = 'https://creditkarmacdn-a.akamaihd.net/res/js/lib/ckeditor/',
-    _gIsIE6 = false,
-    SOCKET_SERVER = false,
-    SOCKET_ROOM = false,
-    CK = parent.CK || {};
-    TRACE_ID =     USER_CAN_VIEW_REPORT  = false;
-
-    USER_YI_COUNT = 0;
-    BCBDATA = false;
-
-CK.sessionIdleTime = 900000;
-
-    USER_REQUIRES_SCREENNAME = false;
-
-// used for tracking Karma Offers on pages that pull data via ajax (CK-16792)
-OVKWID = null;    //-->
+var PROTOCOL                 = window.document.location.protocol + '//',
+    HOSTBASE                 = 'www.creditkarma.com',
+    BASE_URL                 = PROTOCOL + HOSTBASE,
+    MEDIA_URL                = 'https://creditkarmacdn-a.akamaihd.net',
+    TRKCK                    = 'CKTRKID',
+    CSRF_TOKEN               = '8f18195374ffb02c9027f489fe091bcdc0b760763499a9b24ecf7ab69732d264',
+    CSRF_HEADER_STRING       = 'X_CSRF_TOKEN',
+    CKEDITOR_BASEPATH        = 'https://creditkarmacdn-a.akamaihd.net/res/js/lib/ckeditor/',
+    SOCKET_SERVER            = false,
+    SOCKET_ROOM              = false,
+    CK                       = parent.CK || {},
+    USER_CAN_VIEW_REPORT     = false,
+    USER_YI_COUNT            = 0,
+    BCBDATA                  = false,
+    USER_REQUIRES_SCREENNAME = false,
+    OVKWID                   = null,
+    IT_ENABLED               = true,
+    IT_SHOW                  = false;
+CK.sessionIdleTime           = 900000;
+    //-->
 </script>
-<script type="text/javascript" src="https://creditkarmacdn-a.akamaihd.net/res/out/default.1034226793875.js"></script>
-<link type="text/css" rel="stylesheet" media="screen" href="https://www.creditkarma.com/res/stylesheets/css/vendor/fontello/css/fontello-embedded.css">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://creditkarmacdn-a.akamaihd.net/res/out/everywhere.75241380509.js"></script>
+<script type="text/javascript" src="https://creditkarmacdn-a.akamaihd.net/res/out/default.75241380509.js"></script>
 
 </head>
-<body class="layout-default default default-about default-about-privacy notAuthed" data-onready-hook="default/about/privacy">
+<body data-tracknav="on" data-traceid="173c73a4-6edf-4a1d-8dde-64a692de72e9" data-requestid="2062427647" class="notAuthed default default-about default-about-privacy " data-onready-hook="default/about/privacy">
 <div id="fb-root"></div>
+
 <!--[if lte IE 8]>
-<div id="ie6Warning">
-    <div>
-        <p>
-            <img src="https://creditkarmacdn-a.akamaihd.net/res/images/layout_images/ieInfo.gif" alt="info" class="info" />
-            <span>
-                Internet Explorer 8 and earlier versions are not supported. <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" class="bold" target="_blank">Upgrade your browser</a> for the best experience.
-            </span>
-            <a href="#" onclick="this.parentNode.parentNode.parentNode.style.display = 'none'">
-                <img src="https://creditkarmacdn-a.akamaihd.net/res/images/layout_images/ieWarningClose.gif" alt="close" class="fr closeInfo" />
-            </a>
-        </p>
-        
-    </div>
-    
+<div id="ie8Warning" ck-message="negative" style="height: 50px; padding-left: 52px; line-height: 4;">
+    Internet Explorer 8 and earlier versions are not supported. <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" class="bold" target="_blank">Upgrade your browser</a> for the best experience.
+    <a href="#" onclick="this.parentNode.style.display = 'none'">
+    <img src="https://creditkarmacdn-a.akamaihd.net/res/images/layout_images/ieWarningClose.gif" alt="close" class="fr closeInfo" style="padding-top: 15px; padding-right: 20px;" />
+    </a>
 </div>
 <![endif]-->
-<header id="top-bar" class="default">
-    <div id="top-bar-inner">
+<header ck-topbar="" id="top-bar" class="default">
+<div>
+            <a ck-logo="left" href="/" id="top-bar-logo" alt="Credit Karma" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CkLogo&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}">Credit Karma</a>
 
+        <nav class="placeholder"></nav> 
+                
+<nav id="top-bar-nav" role="navigation">
+<ul id="top-main-nav" ck-topnav="" class="navigation-ul nav ">
+
+
+<li id="nav-shop" class="dropdown l1nav-shop">
+    <a ck-icon="credit-cards blue transparent" href="/shop/creditcards" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCTop&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}">Credit Cards</a>
+    <ul role="menu" class="dropdown-menu">
+        <li><a ck-icon="best-cc transparent blue" href="/shop/creditcards" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCBest&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}">Best Credit Cards</a></li>
+        <li><a ck-icon="credit-cards transparent blue" href="/shop/creditcards/searchcc" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCSearchAll&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}">Search All Credit Cards</a></li>
+        <hr ck-div="">
+        <li><a ck-icon="balance-transfer transparent blue" href="/shop/creditcards/balance_transfer" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCBalanceTransfer&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}">Balance Transfer Credit Cards</a></li>
+        <li><a ck-icon="low-interest transparent blue" href="/shop/creditcards/low_interest" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCLowInterest&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}">Low Interest Credit Cards</a></li>
+        <li><a ck-icon="cash-back transparent blue" href="/shop/creditcards/cash_back" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCCashBack&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}">Cash Back Credit Cards</a></li>
+    </ul>
+</li><li id="nav-loans" class="dropdown l1nav-shop">
+    <a ck-icon="loans blue transparent" href="/shop/personal-loans" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopTop&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#">Loans</a>
+    <ul role="menu" class="dropdown-menu">
+        <li><a href="/shop/personal-loans" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopPersonalLoans&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="personal-loans transparent blue">Personal Loans</a></li>
+        <li><a href="/shop/autos" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopAutos&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="auto-loan transparent blue">Auto Loans</a></li>
+        <li><a href="/shop/student-loans" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopStudentLoans&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="student-loan transparent blue">Student Loans</a></li>
+        <li><a href="/shop/business-loans" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopBusinessLoans&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="business-loan transparent blue">Business Loans</a></li>
+    </ul>
+</li>    <li id="nav-insurance" class="dropdown l1nav-shop">
+        <a ck-icon="buoy blue transparent" href="/shop/auto-insurance" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;insuranceTop&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#">Insurance</a>
+        <ul role="menu" class="dropdown-menu">
+            <li><a href="/shop/auto-insurance" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;insuranceTopAuto&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="auto-insurance blue transparent">Auto Insurance</a></li>
+        </ul>
+    </li>
+<li id="nav-reviews" class="dropdown l1nav-community">
+    <a ck-icon="reviews transparent blue" href="/reviews" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsTop&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#">Reviews</a>
+    <ul role="menu" class="dropdown-menu">
+        <li><a href="/reviews/credit-card" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsCC&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="credit-cards transparent blue">Credit Cards</a></li>
+        <li><a href="/reviews/auto-loan" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsAutoLoan&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="auto-loan transparent blue">Auto Loans</a></li>
+        <li><a href="/reviews/mortgage" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsMortgage&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="home-loans transparent blue">Home Loans</a></li>
+        <li><a href="/reviews/personal-loan" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsPersonal&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="personal-loans transparent blue">Personal Loans</a></li>
+        <li><a href="/reviews/auto-insurance" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsAutoInsurance&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="auto-insurance transparent blue">Auto Insurance</a></li>
+        <li><a href="/reviews/life-insurance" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsLifeInsurance&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="life-insurance transparent blue">Life Insurance</a></li>
+        <li><a href="/reviews/banking" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsBanking&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="banking transparent blue">Banking</a></li>
+        <li><a href="/reviews/home-equity" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsHomeEquity&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="home-equity transparent blue">Home Equity</a></li>
+        <li><a href="/reviews/credit-union" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsCreditUnion&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="banking transparent blue">Credit Unions</a></li>
+    </ul>
+</li><li id="nav-other-offers" class="dropdown l1nav-shop">
+
+    <a ck-icon="debt-solutions blue transparent" href="/shop/debt-solution" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;otherOfferTop&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#">Debt Solutions</a>
+</li>    <li id="nav-community" class="dropdown l1nav-community">
+
+        <a href="/all/advice" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;adviceTop&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#" ck-icon="people transparent blue">Community</a>
+
+        <ul role="menu" class="dropdown-menu">
+            <li><a href="/all/advice/index/category/Auto+Insurance" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;adviceAutoInsurance&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="auto-insurance transparent blue">Auto Insurance</a></li>
+
+            <li><a href="/all/advice/index/category/Auto+Loans" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;adviceAutoLoan&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="auto-loan transparent blue">Auto Loans</a></li>
+
+            <li><a href="/all/advice/index/category/Banking" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;adviceBanking&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="banking transparent blue">Banking</a></li>
+
+            <li><a href="/all/advice/index/category/Bankruptcy" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;adviceBankruptcy&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="bankruptcy transparent blue">Bankruptcy</a></li>
+
+            <li><a href="/all/advice/index/category/Credit+Cards" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;adviceCC&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="credit-cards transparent blue">Credit Cards</a></li>
+
+            <li><a href="/all/advice/index/category/Credit+Report" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;adviceCreditReport&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="credit-report transparent blue">Credit Report</a></li>
+
+            <li><a href="/all/advice/index/category/Credit+Scores" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;adviceCreditScores&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="credit-scores transparent blue">Credit Scores</a></li>
+
+        </ul>
+    </li>
+<li id="nav-articles" class="dropdown l1nav-community">
+<a href="/news" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-articles&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#" ck-icon="articles transparent blue">Articles</a>
+</li><li id="nav-tools-advice" class="dropdown l1nav-community">
+    <a href="/tools" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-Top&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#" ck-icon="financial-tools transparent blue">Tools</a>
+    <ul role="menu" class="dropdown-menu">
+        <li><a href="/tools" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-tools&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="financial-tools transparent blue">Financial Tools</a></li>
+        <li><a href="/all/advice" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-advice&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="credit-help transparent blue">Credit Advice</a></li>
+        <li><a href="/resources" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-resources&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="resources transparent blue">Financial Resources</a></li>
+        <li><a href="/news" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-articles&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="articles transparent blue">Articles</a></li>
+        <li><a href="http://blog.creditkarma.com/" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-CKBlog&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" ck-icon="ck-blog transparent blue">Credit Karma Blog</a></li>
+    </ul>
+</li>
+<li id="nav-blog" class="dropdown">
+    <a ck-icon="ck-blog transparent blue" href="https://blog.creditkarma.com/" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;blogTop&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#">Blog</a>
+</li>
+
+    <li id="nav-overflow" ck-topnav-overflow="" class="dropdown">
+        <a ck-icon="blue transparent after arrow-down" role="button" class="dropdown-toggle">More</a>
+        <ul role="menu" class="dropdown-menu">
+        </ul>
+    </li>
+</ul>
+</nav>    
+    <nav id="top-bar-account" class="top-navigation">
         
-        <a href="/" id="top-bar-logo" alt="Credit Karma" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CkLogo&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}">Credit Karma</a>
-
-        
-
-        <nav id="top-bar-nav" class="top-navigation" role="navigation">
-            <ul id="top-main-nav" class="navigation-ul nav ">
-
-            
-                <li id="nav-home" class="dropdown">
-                    <a href="/shop/creditcards" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCTop&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}">Credit Cards</a>
-                    <ul role="menu" class="dropdown-menu">
-                        <li><a href="/shop/creditcards" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCBest&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-credit_cards"></i>Best Credit Cards</a></li>
-                        <li><a href="/shop/creditcards/searchcc" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCSearchAll&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-credit_cards"></i>Search All Credit Cards</a></li>
-                        <li><a href="/shop/creditcards/balance_transfer" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCBalanceTransfer&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-balance_transfer"></i>Balance Transfer Credit Cards</a></li>
-                        <li><a href="/shop/creditcards/low_interest" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCLowInterest&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-low_interest"></i>Low Interest Credit Cards</a></li>
-                        <li><a href="/shop/creditcards/cash_back" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;CCCashBack&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-cash_back"></i>Cash Back Credit Cards</a></li>
-                    </ul>
-                </li>
-                                <li id="nav-shop" class="dropdown">
-                                    <a href="/shop/autos" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopTop&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#">Loans</a>
-                    <ul role="menu" class="dropdown-menu">
-                        <li><a href="/shop/autos" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopAutos&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-auto_loans"></i>Auto Loans</a></li>
-                        <li><a href="/shop/personal-loans" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopPersonalLoans&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-personal_loans"></i>Personal Loans</a></li>
-                        <li><a href="/shop/student-loans" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopStudentLoans&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-student_loans"></i>Student Loans</a></li>
-                        <li><a href="/shop/business-loans" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopBusinessLoans&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-business_loans"></i>Business Loans</a></li>
-                                                <li><a href="/shop/auto-insurance" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;shopAutoInsurance&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-auto_insurance"></i>Auto Insurance</a></li>
-                                            </ul>
-                </li>
-                                <li id="nav-reviews" class="dropdown">
-                    <a href="/reviews" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsTop&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#">Reviews</a>
-                    <ul role="menu" class="dropdown-menu">
-                        <li><a href="/reviews/credit-card" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsCC&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-credit_cards"></i>Credit Cards</a></li>
-                        <li><a href="/reviews/auto-loan" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsAutoLoan&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-auto_loans"></i>Auto Loans</a></li>
-                        <li><a href="/reviews/mortgage" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsMortgage&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-home_loans"></i>Home Loans</a></li>
-                        <li><a href="/reviews/personal-loan" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsPersonal&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-personal_loans"></i>Personal Loans</a></li>
-                        <li><a href="/reviews/auto-insurance" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsAutoInsurance&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-auto_insurance"></i>Auto Insurance</a></li>
-                        <li><a href="/reviews/life-insurance" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsLifeInsurance&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-life_insurance"></i>Life Insurance</a></li>
-                        <li><a href="/reviews/banking" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsBanking&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-bank"></i>Banking</a></li>
-                        <li><a href="/reviews/home-equity" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsHomeEquity&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-home_equity"></i>Home Equity</a></li>
-                        <li><a href="/reviews/credit-union" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;reviewsCreditUnion&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-credit_unions"></i>Credit Unions</a></li>
-                    </ul>
-                </li>
-                <li id="nav-tools-advice" class="dropdown">
-                    <a href="/all/advice" role="button" class="dropdown-toggle ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-Top&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}" data-toggle="dropdown-hover" data-target="#">Tools &amp; Advice</a>
-                    <ul role="menu" class="dropdown-menu">
-                        <li><a href="/tools" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-tools&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-financial_tools"></i>Financial Tools</a></li>
-                        <li><a href="/all/advice" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-advice&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-credit_advice"></i>Credit Advice</a></li>
-                        <li><a href="/resources" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-resources&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-resources"></i>Financial Resources</a></li>
-                        <li><a href="/news" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-articles&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-articles"></i>Articles</a></li>
-                        <li><a href="http://blog.creditkarma.com/" class="ckAnchorEvent" data-ckevent="{&quot;eventcode&quot;:&quot;L1NavClicks&quot;,&quot;eventinformation&quot;:&quot;TA-CKBlog&quot;,&quot;ovmtc&quot;:&quot;L1&quot;,&quot;s&quot;:&quot;__ck_bs&quot;}"><i class="linking-icon-blog"></i>Credit Karma Blog</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </nav>
-
-        <nav id="top-bar-account" class="top-navigation">
-        
-    <ul>
+    <ul class="anon">
+         <li class="mobile-hide"><a href="https://www.creditkarma.com/faq/howitworks">How it Works</a></li>
+         <li class="mobile-hide"><a href="https://help.creditkarma.com">Help Center</a></li>
          <li>
-             <a href="https://www.creditkarma.com/faq/howitworks">How it Works</a>
-             <span class="separator">|</span>
-             <a href="https://help.creditkarma.com">Help Center</a>
+            <a rel="nofollow" href="https://www.creditkarma.com/auth/logon" class="account-link">
+                Log In
+            </a>
          </li>
-        <li id="hlogon">
-            <span id="loggedOut">
-                <span class="separator">|</span>
-                <!-- todo: if mobile then class = "" -->
-                    <a rel="nofollow" href="https://www.creditkarma.com/auth/logon" class="account-link">
-                        <i class="icon-lock"></i>
-                        <span class="screen-name subModalLink">Log In</span>&nbsp;
-                    </a>
-            </span>
-         </li>
-
         <li>
-            <span class="separator">|</span>
-            <a href="https://www.creditkarma.com/signup" rel="nofollow"><strong>Sign up<span class="narrowHide"> now for free</span>!</strong></a>
+            <a href="https://www.creditkarma.com/signup" rel="nofollow" class="sign-up">Sign up!</a>
         </li>
     </ul>
-    </nav>
-    </div>
+    </nav></div>
 </header>
 
 
-<div id="main" role="main">
-    <div id="main-inner">
-        <div id="app" class="main-center">
-            <aside id="side-bar" class="generic-sidebar">
-    <h5>About Credit Karma</h5>
-    <nav>
-        <ul>
-            <li class=""><a href="https://www.creditkarma.com/about/" rel="nofollow">About Us</a></li><li class=""><a href="https://www.creditkarma.com/about/press" rel="nofollow">In The News</a></li><li class=""><a href="https://www.creditkarma.com/about/releases" rel="nofollow">Press Releases</a></li><li class=""><a href="https://www.creditkarma.com/about/pressroom" rel="nofollow">Pressroom</a></li><li class=""><a href="https://www.creditkarma.com/about/security" rel="nofollow">Our Security Practices</a></li><li class=""><a href="https://www.creditkarma.com/about/partners" rel="nofollow">Our Partners</a></li><li class=""><a href="https://www.creditkarma.com/about/careers" rel="nofollow">Careers at Credit Karma</a></li><li class="selected"><a href="https://www.creditkarma.com/about/privacy" rel="nofollow">Privacy Policy</a></li><li class=""><a href="https://www.creditkarma.com/about/terms" rel="nofollow">Terms of Use</a></li><li class=""><a href="https://www.creditkarma.com/about/rules" rel="nofollow">User Content Rules</a></li><li class=""><a href="https://www.creditkarma.com/about/contact" rel="nofollow">Contact Us</a></li>        </ul>
-    </nav>
 
-    <br>
+
+
+
+<span ck-navicon=""></span>
+<main ck-main="sidebar">
+	<aside ck-sidebar="">
+	    <aside id="side-bar" ck-sidenav="" class="generic-sidebar">
+    <section>
+        <h4 ck-header="copy">About Credit Karma</h4>
+        <ul ck-list="">
+            <li class=""><a href="https://www.creditkarma.com/about/" rel="nofollow">About Us</a></li><li class=""><a href="https://www.creditkarma.com/about/press" rel="nofollow">In The News</a></li><li class=""><a href="https://www.creditkarma.com/about/releases" rel="nofollow">Press Releases</a></li><li class=""><a href="https://www.creditkarma.com/about/pressroom" rel="nofollow">Pressroom</a></li><li class=""><a href="https://www.creditkarma.com/about/security" rel="nofollow">Our Security Practices</a></li><li class=""><a href="https://www.creditkarma.com/about/partners" rel="nofollow">Our Partners</a></li><li class=""><a href="https://www.creditkarma.com/about/careers" rel="nofollow">Careers at Credit Karma</a></li><li class="selected"><a href="https://www.creditkarma.com/about/privacy" rel="nofollow">Privacy Policy</a></li><li class=""><a href="https://www.creditkarma.com/about/terms" rel="nofollow">Terms of Use</a></li><li class=""><a href="https://www.creditkarma.com/about/rules" rel="nofollow">User Content Rules</a></li><li class=""><a href="https://www.creditkarma.com/about/contact" rel="nofollow">Contact Us</a></li>        </ul>
+    </section>
 
     <section id="side-bar-about-contact-section">
             </section>
 </aside>
-            <div class="content">
-                <!--
+
+	</aside>
+	<main>
+    	<!--
 Start of DoubleClick Floodlight Tag: Please do not remove
 Activity name of this tag: FAQ
 URL of the webpage where the tag is expected to be placed: https://www.creditkarma.com/about/faq
@@ -192,445 +204,358 @@ Creation Date: 06/11/2014
     var axel = Math.random() + "";
     var a = axel * 10000000000000;
     document.write('<iframe src="https://4449091.fls.doubleclick.net/activityi;src=4449091;type=Landi0;cat=FAQCo0;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="https://4449091.fls.doubleclick.net/activityi;src=4449091;type=Landi0;cat=FAQCo0;ord=7228638258148.614?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="https://4449091.fls.doubleclick.net/activityi;src=4449091;type=Landi0;cat=FAQCo0;ord=7141654656556.706?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
     <iframe src="https://4449091.fls.doubleclick.net/activityi;src=4449091;type=Landi0;cat=FAQCo0;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
 <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
 
         <section id="aboutUs">
-            <article>
-<header><h5>Privacy Policy</h5></header>
-
-<p><em>Effective date November 6, 2014</em></p>
-
-<a href="http://www.truste.org/ivalidate.php?url=www.creditkarma.com&amp;sealid=101" rel="nofollow"><img src="https://creditkarmacdn-a.akamaihd.net/res/img/layout/about_us/truste.png" class="fr" alt="TRUSTe Privacy Program" style="margin: 0 32px 30px 35px"></a>
-
-<p>
-    Welcome to Credit Karma! We’re here to provide you with tools and services that are designed to help you make the most of your credit health. Our privacy policy (the <strong>"Privacy Policy"</strong>) describes the information Credit Karma, Inc.  (<strong>"Credit Karma,"</strong> <strong>"CreditKarma.com,"</strong> <strong>"we,"</strong> <strong>"us"</strong> or <strong>"our"</strong>) collects when you register for, use, access or otherwise interact with any of our applications, products or services (collectively, the <strong>"Services"</strong>), why we collect it, how we use and share the information that we collect and receive, and the choices we offer.
-</p>
-
-<p>
-    In addition, please review our <a href="terms" rel="nofollow">Terms of Use</a>, which governs your use of our Services.
-</p>
-
-<p>
-    Credit Karma has received <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's Privacy Seal</a> signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-</p>
-
-<p>
-    The TRUSTe program covers information that is collected through this Web site, www.creditkarma.com and our Mobile Applications (defined below).
-</p>
-
-<p>
-    If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:legal@creditkarma.com">legal@creditkarma.com</a>. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.
-</p>
-
-<p><strong><u>1. What Information Do We Collect?</u></strong></p>
-
-<div style="margin-left: 20px;">
-<p><strong>Information You Provide to Us</strong></p>
-
-<p>
-    When you register for an account with Credit Karma or use our Services, we may ask you to provide us with certain information such as: (1) information that could reasonably be used to identify you personally, such as your name, address, email address, date of birth, Social Security number, driver’s license number or phone number (<strong>"Personal Information"</strong>); and (2) other information about things like your income, gender or household.  Some of the Personal Information we collect when you register, like your Social Security number, is required by the credit bureau to verify your identity so that we can fulfill your request for a free credit score and credit report. We may also collect Personal Information or other information directly from you through various other forms and places throughout the Services, including “Contact Us" forms, or when you otherwise interact with us in order to provide or enhance our Services.  We may combine non-personal information with Personal Information, but we will treat the combined information as Personal Information as long as it is combined.
-</p>
-
-<p>
-    The Services are operated in the United States and intended for users located in the United States.
-</p>
-
-<p>
-    The Services are not intended for anyone under the age of 18. We do not knowingly collect any Personal Information from children younger than the age of 13. We will delete any Personal Information collected that we determine to be from a user younger than the age 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed Personal Information or other information to us, please contact us at <a href="legal@creditkarma.com">legal@creditkarma.com</a> via email or write to us at: Credit Karma, Inc. Attention: Legal Department, P.O. Box 520, San Francisco, CA 94104-0520.
-</p>
-
-<p><strong>Information We Collect As You Access And Use The Services</strong></p>
-
-<p>
-    In addition to any Personal Information or other information that you choose to submit to us, we and our third-party service providers may use a variety of technologies that automatically collect certain information telling us how you access or interact with the Services (<strong>"Usage Information"</strong>). For an explanation of the technical terms we use below, see our <a href="#glossary">Glossary</a>. The Usage Information we may collect includes:
-</p>
-
-<ul>
-    <li>
-        <strong>Device and browser information.</strong>
-        We automatically receive and record information that your browser sends when you are using our Services. This may include information such as your IP address or other Device Identifier, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your Device.
-    </li>
-    <li>
-        <strong>Log information.</strong>
-        When you use our Services, we may use certain technologies and methods for collecting Usage Information about how you interact with our Services. For example, we may collect Usage Information through <strong>cookies</strong>, <strong>Flash cookies</strong>, <strong>web beacons</strong> or <strong>embedded scripts</strong>.
-    </li>
-    <li>
-        <strong>Location information.</strong>
-        Credit Karma will not collect your specific location information without your consent.  However, we may ask your consent to using location-enabled services on your Device so that we can collect, share and process information about your specific location to enhance our Services and offers to you, using things like GPS or Wi-Fi access point information.  If at any point you no longer wish to allow us to use location-enabled services on your Device, you may disable this feature through your Device settings.  We may also use information like your IP address or other Device Identifiers for approximate location information, like your city or state.
-    </li>
-    <li>
-        <strong>Information Collected by Mobile Application.</strong>
-        Some of our Services may be provided through an application on your mobile, tablet computer, or similar device (<strong>"Mobile Application"</strong>). Our Mobile Application may collect the same types of information described above, including Personal Information or other information that you provide (e.g. name, age, gender, address), or Usage Information that is automatically collected and stored. We may also collect and use technical data and related information, including but not limited to, preferred language, phone number or other unique Device Identifiers assigned to your mobile device, technical information about your mobile device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to you (if any) related to such Mobile Applications. We may associate your unique Device Identifier or Mobile Application Usage Information with any Personal Information you provide, but we will treat the combined information as Personal Information as long as it is combined.
-    </li>
-
-</ul>
-
-<p><strong>Information Third Parties Provide About You</strong></p>
-
-<p>
-    We may supplement the information we collect about you with information from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to consider financial products or services that we believe may be of interest to you. This includes, for example, the free credit report and free credit score we may obtain on your behalf when you register. We may combine the information we receive from outside sources with information we collect through the Services.  We treat all information about you, whether received from you or from a third party, in accordance with this Privacy Policy and our <a href="terms" rel="nofollow">Terms of Use</a>.
-</p>
-
-<p><strong>Information You Provide About A Third Party</strong></p>
-
-<p>
-    If you choose to use our referral program to tell a friend about our Services, we will ask you for your friend's name and email address. We will send your friend an email inviting him or her to visit the site. Credit Karma stores the information you provide for the sole purpose of sending this email and tracking the success of our referral program. The information you provide will not be used for any other marketing purpose unless your friend signs up for an account or we otherwise obtain consent from that person. Please be aware that when you use any send-to-a-friend functionality through our Services, your name and e-mail address may be included in the communication sent to your friend.
-</p>
-
-<p>
-    Your friend may contact us at <a href="mailto:legal@creditkarma.com">legal@creditkarma.com</a> to request that we remove this information from our database.
-</p>
-
-<p><strong>Information Third Parties Collect</strong></p>
-
-<p>
-    Credit Karma may post links to third party web sites which are governed by their own terms and are not subject to this Privacy Policy. We do not exercise control over these third party sites and they may place their own cookies or other files on your Device, collect data, web site usage information and your Device Identifier, or solicit Personal Information from you. We are not responsible for the privacy practices of any third party. We encourage you to note when you leave our Services and to read the privacy policies and terms of service of all third party web sites or applications before submitting any Personal Information to third parties.
-</p>
-
-<p>
-    In addition, our Services may include social media features, such as the Facebook Like button and widgets, the “Share This” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing the feature.
-</p>
-</div>
-
-<p><strong><u>2. How Do We Use The Information We Collect?</u></strong></p>
-
-<p>
-    We use the information we collect to provide, maintain, protect, optimize and improve our Services, and to enhance our user experience.  For instance, we may use the information we collect in the following ways:
-</p>
-
-<div style="margin-left: 20px;">
-<p>
-    <strong>Free Credit Report, Credit Score, Credit Monitoring and Account Monitoring.</strong>
-    When you register for our free credit report and free credit score, we use the Personal Information you provide to verify your identity and provide those services.  You also have the option to register for free credit monitoring, account monitoring and other Services.  We never share your credit report or credit score with third parties.
-</p>
-
-<p>
-    <strong>Usage Information.</strong>
-    We use Usage Information for general purposes: to enhance or otherwise improve the Services, to customize our content and the offers for financial products and services you see, to develop new services, conduct research, and provide anonymous or aggregated reporting internally and to our business partners. We do not store your Personal Information in cookies or log files on your Device, but identifiers in such cookies or log files may be tied to your Personal Information in our systems.
-</p>
-
-<p>
-    <strong>Special Offers and Updates.</strong>
-    We use information we collect in providing the Services, including Personal Information, to match you with offers for financial products and services.  Generally, we will display these offers when you access our web or mobile Services, but we will occasionally send you information on products, services, special deals, or promotions, by email or other electronic messaging. Out of respect for your privacy, we present the option not to receive these types of email or electronic messaging communications by logging into your account and visiting the <strong>"My Profile"</strong> page or by following the unsubscribe instructions included in each email.
-</p>
-
-<p>
-    <strong>Service-related Announcements.</strong>
-    We will send you service-related announcements. For instance, if our service is temporarily suspended for maintenance, we might send you an email.  Generally, you may not opt-out of these non-promotional communications. If you do not wish to receive them, you have the option to terminate your account.
-</p>
-
-<p>
-    <strong>Push Notifications.</strong>
-    If you use our Mobile Applications, we may send you push notifications from time-to-time via our Mobile Application in order to provide or alert you to service-related announcements or information on products, services, special deals, or promotions. If you do not wish to receive these types of communications, you may turn them off in your mobile Device settings.
-</p>
-
-<p>
-    <strong>Customer Service.</strong>
-    When you first register for the Services, we may send you an introductory email welcoming you to Credit Karma. We may also communicate with you via email or other means in response to your inquiries and to manage your account.  As described above in “Information You Provide About A Third Party,” we may also use information you provide about others to send invitation e-mails as part of our referral program.
-</p>
-
-<p>
-    <strong>Administrative and Legal Reasons.</strong>
-    We may access, use, preserve, transfer and disclose your information (including Personal Information): (i) to satisfy any applicable law, regulation, subpoena, governmental request or legal process if in our good faith opinion such action is required or permitted by law; (ii) to enforce the <a href="terms" rel="nofollow">Terms of Use</a>, including investigation of potential violations thereof; (iii) to protect the safety, integrity, rights, property or security of our Services or equipment or those of any third party; or (iv) to detect, prevent or otherwise address fraud, security or technical issues. Further, we may use IP addresses or other Device Identifiers to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and law enforcement agencies, including disclosing such information to third parties, all in our discretion. Any such access, use, preservation, transfer or disclosure may be carried out without notice to you.
-</p>
-</div>
-
-<p><strong><u>3. How Is Your Information Shared?</u></strong></p>
-
-<p>
-    Credit Karma does not share, sell or rent your Personal Information to third parties for any purpose except in the following circumstances:
-</p>
-<div>
-<p>
-    <strong>With Your Consent.</strong>
-    We will share your Personal Information with parties outside of Credit Karma when we have your consent.  For example, when you register for an account with us, we will ask for your consent to share your Personal Information with a third party credit bureau so that we may obtain a free credit report and free credit score on your behalf.
-</p>
-<p>
-    <strong>When You Choose to Provide Information to Third Parties.</strong>
-    As part of the Services, you may be presented with opportunities for additional financial products or services that may require submitting information to unaffiliated third parties.  For example, you may be asked to respond to offers provided by our marketing partners or presented with co-branded services we provide in association with third parties such as our marketing partners, business partners, or sponsors.  These opportunities vary from day to day, but we will identify the relevant third party and in general, if you are interested in a particular offer or co-branded service, you will be taken to a third party site to complete the transaction or asked to submit information to the third party through a form on our site. When you are asked to provide information to a third party in connection with such offers or co-branded services, you may be providing your information to both us and the third party.  We will treat information we collect in connection with a particular offer or co-branded service in accordance with this Privacy Policy but we are not responsible for the privacy practices of such third parties.  For more information, see "Information Third Parties Collect."
-</p>
-<p>
-    <strong>When You Disclose Information Publicly.</strong>
-    The Services may permit you to submit ideas, questions, comments, suggestions or other content, including Personal Information (collectively, <strong>"User Content"</strong>), that is publicly viewable (such as the public portions of your user profile or comments you post on our publicly accessible blog). We or others may reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed). Third parties may have access to this User Content and may have the ability to share it further with third parties across the Internet. Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content. Credit Karma does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly or share with others, whether through the Services or otherwise. For additional information regarding our policies relating to User Content, please see our <a href="rules" rel="nofollow">User Content Rules</a>.
-</p>
-<p>
-    To request removal of your Personal Information from User Content, contact us at <a href="mailto:legal@creditkarma.com">legal@creditkarma.com</a>. In some cases, we may not be able to remove your Personal Information from such User Content, in which case we will let you know if we are unable to do so and why.
-</p>
-<p>
-    <strong>When Third Parties Provide Services on Our Behalf.</strong>
-    We may use third party service providers or vendors to support or perform certain aspects of the Services on our or your behalf, such as hosting the Services, designing or operating the Services’ features, tracking the Services’ analytics, providing data used, directly or indirectly, in connection with the Services, marketing the Services, enabling Credit Karma to contact you with offers or performing other administrative services. We may provide these third party service providers or vendors with access to user information, including Personal Information, in connection with the services they are performing for you or for us. In connection with our Services, these third party service providers or vendors may also set and access their own cookies, web beacons and embedded scripts on your Device, and they may otherwise collect or have access to information about you.
-</p>
-<p>
-    <strong>For Sweepstakes, Contests and Promotions.</strong>
-    We may offer sweepstakes, contests, and other promotions (each a <strong>"Promotion"</strong>) through the Services or through social media or other channels. By participating in a Promotion, you are agreeing to official rules that govern that Promotion, which may contain specific requirements of you, including allowing the sponsor of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion.
-</p>
-<p>
-    <strong>As Part of a Business Transfer.</strong>
-    We may share your information, including your Personal Information, and Usage Information with any parent, subsidiary or affiliate entity for the purposes disclosed in this Privacy Policy. We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the Services; or (ii) in connection with any merger, acquisition, consolidation, restructuring, the sale of the majority of our outstanding stock, the sale of all or substantially all of our assets, or other corporate changes.  In such cases, if there are any material changes in the use of your Personal Information as a result of such business transfer, as well as any choices you may have regarding your Personal Information, you will be notified via a notice to the primary email address specified in your marketing preferences or by placing a prominent notice on our site.
-</p>
-<p>
-    <strong>Administrative and Legal Reasons.</strong>
-    See "How Do We Use The Information Collected - Administrative and Legal Reasons".
-</p>
-</div>
-
-<p><strong><u>4. Cookies and Online Tracking</u></strong></p>
-
-<div>
-<p><strong>Advertising Service Providers</strong></p>
-
-<p>
-    We may work with third-party advertising networks, marketing partners, publishers and other entities (<strong>"Advertising Service Providers"</strong>) to perform analytics and advertise our products and services on websites not affiliated with us.  In connection with these advertising services, we or our Advertising Service Providers, like Google Analytics (discussed below) may use cookies, web beacons, and similar technologies to collect behavioral information about how you use our site or other websites in order to perform tracking and marketing analytics or serve advertisements that are more likely to be of interest to you (<strong>"Interest-Based Advertisements"</strong>). Our Advertising Service Providers may permit you to opt-out of all or some Interest-Based Advertisements on designated websites.  For example, many of our Advertising Service Providers participate in the <a href="http://www.networkadvertising.org/choices/">Network Advertising Initiative opt-out program</a> or <a href="http://www.aboutads.info/choices/">Digital Advertising Alliance opt-out program</a>.
-</p>
-
-<p><strong>Disclosure Regarding Google Analytics Advertising Features</strong></p>
-
-<p>
-    In addition to services from other Advertising Service Providers, we utilize the following Google Analytics Advertising Features as part of our marketing analytics and advertising: Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations and Google Analytics Demographics and Interest Reporting and may use other services provided by Google Analytics from time to time. Google provides users an opportunity to opt-out of the Google Analytics Features through Google’s Ads Settings and their web <a href="https://tools.google.com/dlpage/gaoptout/">browser opt-out plugin</a>. For additional information on opting out of interest-based ads by Google, visit <a href="https://support.google.com/ads/answer/2662922?hl=en&amp;ref_topic=2941003">here</a>.
-</p>
-
-<p><strong>Do Not Track Signals</strong></p>
-
-<p>
-    At this time, Credit Karma does not respond to automated signals regarding tracking mechanisms, including “do not track” instructions from your browser.  However, you may change the privacy preferences in your browser to prevent or limit the use of cookies or similar technologies. Be aware that Flash cookies operate differently than other browser cookies and various browsers may offer their own management tools for removing Flash cookies.  To manage Flash cookies, please click <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">here</a>.  Please note that blocking cookies, Flash cookies or similar technologies may affect your browsing experience on many sites and may prevent your ability to use certain Credit Karma Services, including many of the personalized features we provide for our members.
-</p>
-
-</div>
-
-<p><strong><u>5. How Do I Access and Change My Personal Information or Change My Communications Preferences?</u></strong></p>
-
-<div>
-<p><strong>Accuracy of Your Personal Information</strong></p>
-
-<p>
-    You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. You can access and make changes to certain Personal Information you submit at any time by logging in with your registered e-mail address and password and making the change on our "Personal Information" page. If you no longer desire to use our Services, you may deactivate your account on our <a href="https://www.creditkarma.com/about/contact" rel="nofollw">help page</a> by selecting "Canceling my free membership" from the dropdown menu.
-</p>
-
-<p><strong>Communications Preferences</strong></p>
-
-<p>
-    You may also visit the "Communications and Monitoring" page to adjust your communications preferences. For example, you can elect not to receive newsletters or alert emails (you can also do this by following the "unsubscribe" instructions included in each email). New categories of marketing communications might be added to the "Communications and Monitoring" page from time to time.
-</p>
-
-</div>
-
-<p><strong><u>6. Other Important Information About The Services</u></strong></p>
-
-<div>
-<p><strong>Security Practices and Social Security Protection Policy Statement</strong></p>
-
-<p>
-    Credit Karma maintains physical, electronic, administrative and procedural safeguards to protect the confidentiality of Personal Information, including Social Security numbers, that we collect about you.  We limit access to Social Security numbers to help protect against their loss or misuse and do not disclose Social Security numbers to third parties except where such disclosure is required or permitted by law.  For more information on our Security Practices, please visit <a href="security" rel="nofollow">Our Security Practices</a>.
-</p>
-<p>
-    If you have any questions about security on our Services, you can send an email to us at <a href="mailto:security@creditkarma.com">security@creditkarma.com</a>.
-</p>
-
-<p><strong>Terminating Your Account</strong></p>
-
-<p>
-    If you wish to terminate your account with us, please follow the instructions detailed in the <a href="terms" rel="nofollow">Terms of Use</a>.  Credit Karma must comply with certain recordkeeping and information retention requirements. Therefore, we cannot delete your account information outright when you request to terminate your account. However, we will disable your account, which will be inactive and not accessible to anyone other than Credit Karma authorized personnel. Moreover, once your account is terminated, you will not receive any further communications from Credit Karma. Except to the extent necessary for legal or regulatory recordkeeping purposes, your data will be anonymized after a period of two years and then may be held by us indefinitely.  It may take an additional limited period of time for our automated backup systems to process the anonymized accounts.
-</p>
-
-<p><strong>Your California Privacy Rights</strong></p>
-
-<p>
-    California’s "Shine the Light" law, California Civil Code § 1798.83, requires certain businesses to respond to requests from California customers (those who have an established business relationship with us) asking about the business’ practices related to disclosing Personal Information to third parties for the third parties’ direct marketing purposes. We do not share customer information with third parties for their direct marketing purposes, and California’s Shine the Light law therefore does not apply to Credit Karma.
-</p>
-
-<p><strong>Changes to Our Privacy Policy</strong></p>
-
-<p>
-    We reserve the right to change this Privacy Policy at any time without notice to you. If there are any material changes in the way we treat Personal Information or credit report information, Credit Karma will notify you by sending a notice to the primary email address specified for your account or by placing a prominent notice on our site prior to the change becoming effective. Credit Karma will also promptly post any such policy changes to this page. Any changes will be effective immediately upon the posting of the revised Privacy Policy.
-</p>
-
-<p><strong>More Information</strong></p>
-
-<p>
-    For additional information, or if you have questions regarding this policy or privacy practices at Credit Karma, please submit your questions or comments directly to <a href="mailto:legal@creditkarma.com">legal@creditkarma.com</a> via email or write to us at: Credit Karma, Inc. Attention: Legal Department, P.O. Box 520, San Francisco, CA 94104-0520.
-</p>
-
-</div>
-
-<p><em>Last Updated: November 6, 2014</em></p>
-<a name="glossary"></a>
-<p><strong>Glossary of Technical Terms:</strong></p>
-
-<ul>
-    <li>
-        <strong>Cookies.</strong>
-        A cookie is a data file we may place on a Device when you access the Services. Cookies may be used for purposes like identifying you, remembering your preferences, and tracking your visits to our web pages. If you choose to disable cookies on your Device, some features of the Services may not function properly. We do not store Personal Information on cookies.  However, some of our business partners may also use cookies on our site.  We do not have access or control over these cookies.
-    </li>
-    <li>
-        <strong>Device.</strong>
-        The computer or other device you used to access the Services.
-    </li>
-    <li>
-        <strong>Device Identifier.</strong>
-        An alphanumeric identifier that is automatically assigned to your Device that our computers use to identify your Device.
-    </li>
-    <li>
-        <strong>Embedded Scripts.</strong>
-        We may use embedded scripts or similar methods when you access our Services. An embedded script is programming code that collects information about your interactions with the Services, such as the links you click on. The code is temporarily downloaded onto your Device from our server or that of a third party service provider, is active only while you are connected to the Services, and is deactivated or deleted thereafter.
-    </li>
-    <li>
-        <strong>Flash cookie.</strong>
-        A Flash cookie is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device.
-    </li>
-    <li>
-        <strong>Web beacons.</strong>
-        Web beacons are small, invisible graphic images or other web programming code we may place on web or mobile pages, or other parts of the Services (also known as "1x1 GIFs" or "clear GIFs"). We may use web beacons or similar technologies for a number of purposes, such as counting users of the Services, monitoring how users navigate the Services, determining whether emails we sent were actually opened or counting views of particular articles or links. In contrast to cookies, which may be stored on your Device’s hard drive, web beacons are embedded invisibly on web pages and are about the size of the period at the end of this sentence.
-    </li>
-</ul>
-
-</article>
-        </section>
-
-                <a href="#" class="back-to-top">▲  Back To Top</a>
-            </div>
-        </div>
+            <h1 ck-header="page">Privacy Policy
+
+<p ck-text=""><em>Effective date November 6, 2014</em></p>
+<div ck-card="afro">
+    <a href="http://www.truste.org/ivalidate.php?url=www.creditkarma.com&amp;sealid=101" rel="nofollow"><img src="https://creditkarmacdn-a.akamaihd.net/res/img/layout/about_us/truste.png" class="fr" alt="TRUSTe Privacy Program" style="margin: 0 32px 30px 35px"></a>
+    
+    <p ck-text="">
+        Welcome to Credit Karma! We’re here to provide you with tools and services that are designed to help you make the most of your credit health. Our privacy policy (the <strong ck-text="heavy">"Privacy Policy"</strong>) describes the information Credit Karma, Inc.  (<strong ck-text="heavy">"Credit Karma,"</strong> <strong ck-text="heavy">"CreditKarma.com,"</strong> <strong ck-text="heavy">"we,"</strong> <strong ck-text="heavy">"us"</strong> or <strong ck-text="heavy">"our"</strong>) collects when you register for, use, access or otherwise interact with any of our applications, products or services (collectively, the <strong ck-text="heavy">"Services"</strong>), why we collect it, how we use and share the information that we collect and receive, and the choices we offer.
+    </p>
+    
+    <p ck-text="">
+        In addition, please review our <a href="terms" rel="nofollow">Terms of Use</a>, which governs your use of our Services.
+    </p>
+    
+    <p ck-text="">
+        Credit Karma has received <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's Privacy Seal</a> signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+    </p>
+    
+    <p ck-text="">
+        The TRUSTe program covers information that is collected through this Web site, www.creditkarma.com and our Mobile Applications (defined below).
+    </p>
+    
+    <p ck-text="">
+        If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:legal@creditkarma.com">legal@creditkarma.com</a>. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy"><u>1. What Information Do We Collect?</u></strong></p>
+    
+    <div style="margin-left: 20px;">
+    <p ck-text=""><strong ck-text="heavy">Information You Provide to Us</strong></p>
+    
+    <p ck-text="">
+        When you register for an account with Credit Karma or use our Services, we may ask you to provide us with certain information such as: (1) information that could reasonably be used to identify you personally, such as your name, address, email address, date of birth, Social Security number, driver’s license number or phone number (<strong ck-text="heavy">"Personal Information"</strong>); and (2) other information about things like your income, gender or household.  Some of the Personal Information we collect when you register, like your Social Security number, is required by the credit bureau to verify your identity so that we can fulfill your request for a free credit score and credit report. We may also collect Personal Information or other information directly from you through various other forms and places throughout the Services, including “Contact Us" forms, or when you otherwise interact with us in order to provide or enhance our Services.  We may combine non-personal information with Personal Information, but we will treat the combined information as Personal Information as long as it is combined.
+    </p>
+    
+    <p ck-text="">
+        The Services are operated in the United States and intended for users located in the United States.
+    </p>
+    
+    <p ck-text="">
+        The Services are not intended for anyone under the age of 18. We do not knowingly collect any Personal Information from children younger than the age of 13. We will delete any Personal Information collected that we determine to be from a user younger than the age 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed Personal Information or other information to us, please contact us at <a href="legal@creditkarma.com">legal@creditkarma.com</a> via email or write to us at: Credit Karma, Inc. Attention: Legal Department, P.O. Box 520, San Francisco, CA 94104-0520.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy">Information We Collect As You Access And Use The Services</strong></p>
+    
+    <p ck-text="">
+        In addition to any Personal Information or other information that you choose to submit to us, we and our third-party service providers may use a variety of technologies that automatically collect certain information telling us how you access or interact with the Services (<strong ck-text="heavy">"Usage Information"</strong>). For an explanation of the technical terms we use below, see our <a href="#glossary">Glossary</a>. The Usage Information we may collect includes:
+    </p>
+    
+    <ul ck-text="">
+        <li>
+            <strong ck-text="heavy">Device and browser information.</strong>
+            We automatically receive and record information that your browser sends when you are using our Services. This may include information such as your IP address or other Device Identifier, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your Device.
+        </li>
+        <li>
+            <strong ck-text="heavy">Log information.</strong>
+            When you use our Services, we may use certain technologies and methods for collecting Usage Information about how you interact with our Services. For example, we may collect Usage Information through <strong ck-text="heavy">cookies</strong>, <strong ck-text="heavy">Flash cookies</strong>, <strong ck-text="heavy">web beacons</strong> or <strong ck-text="heavy">embedded scripts</strong>.
+        </li>
+        <li>
+            <strong ck-text="heavy">Location information.</strong>
+            Credit Karma will not collect your specific location information without your consent.  However, we may ask your consent to using location-enabled services on your Device so that we can collect, share and process information about your specific location to enhance our Services and offers to you, using things like GPS or Wi-Fi access point information.  If at any point you no longer wish to allow us to use location-enabled services on your Device, you may disable this feature through your Device settings.  We may also use information like your IP address or other Device Identifiers for approximate location information, like your city or state.
+        </li>
+        <li>
+            <strong ck-text="heavy">Information Collected by Mobile Application.</strong>
+            Some of our Services may be provided through an application on your mobile, tablet computer, or similar device (<strong ck-text="heavy">"Mobile Application"</strong>). Our Mobile Application may collect the same types of information described above, including Personal Information or other information that you provide (e.g. name, age, gender, address), or Usage Information that is automatically collected and stored. We may also collect and use technical data and related information, including but not limited to, preferred language, phone number or other unique Device Identifiers assigned to your mobile device, technical information about your mobile device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to you (if any) related to such Mobile Applications. We may associate your unique Device Identifier or Mobile Application Usage Information with any Personal Information you provide, but we will treat the combined information as Personal Information as long as it is combined.
+        </li>
+    
+    </ul>
+    
+    <p ck-text=""><strong ck-text="heavy">Information Third Parties Provide About You</strong></p>
+    
+    <p ck-text="">
+        We may supplement the information we collect about you with information from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to consider financial products or services that we believe may be of interest to you. This includes, for example, the free credit report and free credit score we may obtain on your behalf when you register. We may combine the information we receive from outside sources with information we collect through the Services.  We treat all information about you, whether received from you or from a third party, in accordance with this Privacy Policy and our <a href="terms" rel="nofollow">Terms of Use</a>.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy">Information You Provide About A Third Party</strong></p>
+    
+    <p ck-text="">
+        If you choose to use our referral program to tell a friend about our Services, we will ask you for your friend's name and email address. We will send your friend an email inviting him or her to visit the site. Credit Karma stores the information you provide for the sole purpose of sending this email and tracking the success of our referral program. The information you provide will not be used for any other marketing purpose unless your friend signs up for an account or we otherwise obtain consent from that person. Please be aware that when you use any send-to-a-friend functionality through our Services, your name and e-mail address may be included in the communication sent to your friend.
+    </p>
+    
+    <p ck-text="">
+        Your friend may contact us at <a href="mailto:legal@creditkarma.com">legal@creditkarma.com</a> to request that we remove this information from our database.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy">Information Third Parties Collect</strong></p>
+    
+    <p ck-text="">
+        Credit Karma may post links to third party web sites which are governed by their own terms and are not subject to this Privacy Policy. We do not exercise control over these third party sites and they may place their own cookies or other files on your Device, collect data, web site usage information and your Device Identifier, or solicit Personal Information from you. We are not responsible for the privacy practices of any third party. We encourage you to note when you leave our Services and to read the privacy policies and terms of service of all third party web sites or applications before submitting any Personal Information to third parties.
+    </p>
+    
+    <p ck-text="">
+        In addition, our Services may include social media features, such as the Facebook Like button and widgets, the “Share This” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing the feature.
+    </p>
     </div>
     
+    <p ck-text=""><strong ck-text="heavy"><u>2. How Do We Use The Information We Collect?</u></strong></p>
+    
+    <p ck-text="">
+        We use the information we collect to provide, maintain, protect, optimize and improve our Services, and to enhance our user experience.  For instance, we may use the information we collect in the following ways:
+    </p>
+    
+    <div style="margin-left: 20px;">
+    <p ck-text="">
+        <strong ck-text="heavy">Free Credit Report, Credit Score, Credit Monitoring and Account Monitoring.</strong>
+        When you register for our free credit report and free credit score, we use the Personal Information you provide to verify your identity and provide those services.  You also have the option to register for free credit monitoring, account monitoring and other Services.  We never share your credit report or credit score with third parties.
+    </p>
+    
+    <p ck-text="">
+        <strong ck-text="heavy">Usage Information.</strong>
+        We use Usage Information for general purposes: to enhance or otherwise improve the Services, to customize our content and the offers for financial products and services you see, to develop new services, conduct research, and provide anonymous or aggregated reporting internally and to our business partners. We do not store your Personal Information in cookies or log files on your Device, but identifiers in such cookies or log files may be tied to your Personal Information in our systems.
+    </p>
+    
+    <p ck-text="">
+        <strong ck-text="heavy">Special Offers and Updates.</strong>
+        We use information we collect in providing the Services, including Personal Information, to match you with offers for financial products and services.  Generally, we will display these offers when you access our web or mobile Services, but we will occasionally send you information on products, services, special deals, or promotions, by email or other electronic messaging. Out of respect for your privacy, we present the option not to receive these types of email or electronic messaging communications by logging into your account and visiting the <strong ck-text="heavy">"My Profile"</strong> page or by following the unsubscribe instructions included in each email.
+    </p>
+    
+    <p ck-text="">
+        <strong ck-text="heavy">Service-related Announcements.</strong>
+        We will send you service-related announcements. For instance, if our service is temporarily suspended for maintenance, we might send you an email.  Generally, you may not opt-out of these non-promotional communications. If you do not wish to receive them, you have the option to terminate your account.
+    </p>
+    
+    <p ck-text="">
+        <strong ck-text="heavy">Push Notifications.</strong>
+        If you use our Mobile Applications, we may send you push notifications from time-to-time via our Mobile Application in order to provide or alert you to service-related announcements or information on products, services, special deals, or promotions. If you do not wish to receive these types of communications, you may turn them off in your mobile Device settings.
+    </p>
+    
+    <p ck-text="">
+        <strong ck-text="heavy">Customer Service.</strong>
+        When you first register for the Services, we may send you an introductory email welcoming you to Credit Karma. We may also communicate with you via email or other means in response to your inquiries and to manage your account.  As described above in “Information You Provide About A Third Party,” we may also use information you provide about others to send invitation e-mails as part of our referral program.
+    </p>
+    
+    <p ck-text="">
+        <strong ck-text="heavy">Administrative and Legal Reasons.</strong>
+        We may access, use, preserve, transfer and disclose your information (including Personal Information): (i) to satisfy any applicable law, regulation, subpoena, governmental request or legal process if in our good faith opinion such action is required or permitted by law; (ii) to enforce the <a href="terms" rel="nofollow">Terms of Use</a>, including investigation of potential violations thereof; (iii) to protect the safety, integrity, rights, property or security of our Services or equipment or those of any third party; or (iv) to detect, prevent or otherwise address fraud, security or technical issues. Further, we may use IP addresses or other Device Identifiers to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and law enforcement agencies, including disclosing such information to third parties, all in our discretion. Any such access, use, preservation, transfer or disclosure may be carried out without notice to you.
+    </p>
+    </div>
+    
+    <p ck-text=""><strong ck-text="heavy"><u>3. How Is Your Information Shared?</u></strong></p>
+    
+    <p ck-text="">
+        Credit Karma does not share, sell or rent your Personal Information to third parties for any purpose except in the following circumstances:
+    </p>
+    <div>
+    <p ck-text="">
+        <strong ck-text="heavy">With Your Consent.</strong>
+        We will share your Personal Information with parties outside of Credit Karma when we have your consent.  For example, when you register for an account with us, we will ask for your consent to share your Personal Information with a third party credit bureau so that we may obtain a free credit report and free credit score on your behalf.
+    </p>
+    <p ck-text="">
+        <strong ck-text="heavy">When You Choose to Provide Information to Third Parties.</strong>
+        As part of the Services, you may be presented with opportunities for additional financial products or services that may require submitting information to unaffiliated third parties.  For example, you may be asked to respond to offers provided by our marketing partners or presented with co-branded services we provide in association with third parties such as our marketing partners, business partners, or sponsors.  These opportunities vary from day to day, but we will identify the relevant third party and in general, if you are interested in a particular offer or co-branded service, you will be taken to a third party site to complete the transaction or asked to submit information to the third party through a form on our site. When you are asked to provide information to a third party in connection with such offers or co-branded services, you may be providing your information to both us and the third party.  We will treat information we collect in connection with a particular offer or co-branded service in accordance with this Privacy Policy but we are not responsible for the privacy practices of such third parties.  For more information, see "Information Third Parties Collect."
+    </p>
+    <p ck-text="">
+        <strong ck-text="heavy">When You Disclose Information Publicly.</strong>
+        The Services may permit you to submit ideas, questions, comments, suggestions or other content, including Personal Information (collectively, <strong ck-text="heavy">"User Content"</strong>), that is publicly viewable (such as the public portions of your user profile or comments you post on our publicly accessible blog). We or others may reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed). Third parties may have access to this User Content and may have the ability to share it further with third parties across the Internet. Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content. Credit Karma does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly or share with others, whether through the Services or otherwise. For additional information regarding our policies relating to User Content, please see our <a href="rules" rel="nofollow">User Content Rules</a>.
+    </p>
+    <p ck-text="">
+        To request removal of your Personal Information from User Content, contact us at <a href="mailto:legal@creditkarma.com">legal@creditkarma.com</a>. In some cases, we may not be able to remove your Personal Information from such User Content, in which case we will let you know if we are unable to do so and why.
+    </p>
+    <p ck-text="">
+        <strong ck-text="heavy">When Third Parties Provide Services on Our Behalf.</strong>
+        We may use third party service providers or vendors to support or perform certain aspects of the Services on our or your behalf, such as hosting the Services, designing or operating the Services’ features, tracking the Services’ analytics, providing data used, directly or indirectly, in connection with the Services, marketing the Services, enabling Credit Karma to contact you with offers or performing other administrative services. We may provide these third party service providers or vendors with access to user information, including Personal Information, in connection with the services they are performing for you or for us. In connection with our Services, these third party service providers or vendors may also set and access their own cookies, web beacons and embedded scripts on your Device, and they may otherwise collect or have access to information about you.
+    </p>
+    <p ck-text="">
+        <strong ck-text="heavy">For Sweepstakes, Contests and Promotions.</strong>
+        We may offer sweepstakes, contests, and other promotions (each a <strong ck-text="heavy">"Promotion"</strong>) through the Services or through social media or other channels. By participating in a Promotion, you are agreeing to official rules that govern that Promotion, which may contain specific requirements of you, including allowing the sponsor of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion.
+    </p>
+    <p ck-text="">
+        <strong ck-text="heavy">As Part of a Business Transfer.</strong>
+        We may share your information, including your Personal Information, and Usage Information with any parent, subsidiary or affiliate entity for the purposes disclosed in this Privacy Policy. We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the Services; or (ii) in connection with any merger, acquisition, consolidation, restructuring, the sale of the majority of our outstanding stock, the sale of all or substantially all of our assets, or other corporate changes.  In such cases, if there are any material changes in the use of your Personal Information as a result of such business transfer, as well as any choices you may have regarding your Personal Information, you will be notified via a notice to the primary email address specified in your marketing preferences or by placing a prominent notice on our site.
+    </p>
+    <p ck-text="">
+        <strong ck-text="heavy">Administrative and Legal Reasons.</strong>
+        See "How Do We Use The Information Collected - Administrative and Legal Reasons".
+    </p>
+    </div>
+    
+    <p ck-text=""><strong ck-text="heavy"><u>4. Cookies and Online Tracking</u></strong></p>
+    
+    <div>
+    <p ck-text=""><strong ck-text="heavy">Advertising Service Providers</strong></p>
+    
+    <p ck-text="">
+        We may work with third-party advertising networks, marketing partners, publishers and other entities (<strong ck-text="heavy">"Advertising Service Providers"</strong>) to perform analytics and advertise our products and services on websites not affiliated with us.  In connection with these advertising services, we or our Advertising Service Providers, like Google Analytics (discussed below) may use cookies, web beacons, and similar technologies to collect behavioral information about how you use our site or other websites in order to perform tracking and marketing analytics or serve advertisements that are more likely to be of interest to you (<strong ck-text="heavy">"Interest-Based Advertisements"</strong>). Our Advertising Service Providers may permit you to opt-out of all or some Interest-Based Advertisements on designated websites.  For example, many of our Advertising Service Providers participate in the <a href="http://www.networkadvertising.org/choices/">Network Advertising Initiative opt-out program</a> or <a href="http://www.aboutads.info/choices/">Digital Advertising Alliance opt-out program</a>.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy">Disclosure Regarding Google Analytics Advertising Features</strong></p>
+    
+    <p ck-text="">
+        In addition to services from other Advertising Service Providers, we utilize the following Google Analytics Advertising Features as part of our marketing analytics and advertising: Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations and Google Analytics Demographics and Interest Reporting and may use other services provided by Google Analytics from time to time. Google provides users an opportunity to opt-out of the Google Analytics Features through Google’s Ads Settings and their web <a href="https://tools.google.com/dlpage/gaoptout/">browser opt-out plugin</a>. For additional information on opting out of interest-based ads by Google, visit <a href="https://support.google.com/ads/answer/2662922?hl=en&amp;ref_topic=2941003">here</a>.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy">Do Not Track Signals</strong></p>
+    
+    <p ck-text="">
+        At this time, Credit Karma does not respond to automated signals regarding tracking mechanisms, including “do not track” instructions from your browser.  However, you may change the privacy preferences in your browser to prevent or limit the use of cookies or similar technologies. Be aware that Flash cookies operate differently than other browser cookies and various browsers may offer their own management tools for removing Flash cookies.  To manage Flash cookies, please click <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">here</a>.  Please note that blocking cookies, Flash cookies or similar technologies may affect your browsing experience on many sites and may prevent your ability to use certain Credit Karma Services, including many of the personalized features we provide for our members.
+    </p>
+    
+    </div>
+    
+    <p ck-text=""><strong ck-text="heavy"><u>5. How Do I Access and Change My Personal Information or Change My Communications Preferences?</u></strong></p>
+    
+    <div>
+    <p ck-text=""><strong ck-text="heavy">Accuracy of Your Personal Information</strong></p>
+    
+    <p ck-text="">
+        You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. You can access and make changes to certain Personal Information you submit at any time by logging in with your registered e-mail address and password and making the change on our "Personal Information" page. If you no longer desire to use our Services, you may deactivate your account on our <a href="https://www.creditkarma.com/about/contact" rel="nofollw">help page</a> by selecting "Canceling my free membership" from the dropdown menu.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy">Communications Preferences</strong></p>
+    
+    <p ck-text="">
+        You may also visit the "Communications and Monitoring" page to adjust your communications preferences. For example, you can elect not to receive newsletters or alert emails (you can also do this by following the "unsubscribe" instructions included in each email). New categories of marketing communications might be added to the "Communications and Monitoring" page from time to time.
+    </p>
+    
+    </div>
+    
+    <p ck-text=""><strong ck-text="heavy"><u>6. Other Important Information About The Services</u></strong></p>
+    
+    <div>
+    <p ck-text=""><strong ck-text="heavy">Security Practices and Social Security Protection Policy Statement</strong></p>
+    
+    <p ck-text="">
+        Credit Karma maintains physical, electronic, administrative and procedural safeguards to protect the confidentiality of Personal Information, including Social Security numbers, that we collect about you.  We limit access to Social Security numbers to help protect against their loss or misuse and do not disclose Social Security numbers to third parties except where such disclosure is required or permitted by law.  For more information on our Security Practices, please visit <a href="security" rel="nofollow">Our Security Practices</a>.
+    </p>
+    <p ck-text="">
+        If you have any questions about security on our Services, you can send an email to us at <a href="mailto:security@creditkarma.com">security@creditkarma.com</a>.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy">Terminating Your Account</strong></p>
+    
+    <p ck-text="">
+        If you wish to terminate your account with us, please follow the instructions detailed in the <a href="terms" rel="nofollow">Terms of Use</a>.  Credit Karma must comply with certain recordkeeping and information retention requirements. Therefore, we cannot delete your account information outright when you request to terminate your account. However, we will disable your account, which will be inactive and not accessible to anyone other than Credit Karma authorized personnel. Moreover, once your account is terminated, you will not receive any further communications from Credit Karma. Except to the extent necessary for legal or regulatory recordkeeping purposes, your data will be anonymized after a period of two years and then may be held by us indefinitely.  It may take an additional limited period of time for our automated backup systems to process the anonymized accounts.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy">Your California Privacy Rights</strong></p>
+    
+    <p ck-text="">
+        California’s "Shine the Light" law, California Civil Code § 1798.83, requires certain businesses to respond to requests from California customers (those who have an established business relationship with us) asking about the business’ practices related to disclosing Personal Information to third parties for the third parties’ direct marketing purposes. We do not share customer information with third parties for their direct marketing purposes, and California’s Shine the Light law therefore does not apply to Credit Karma.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy">Changes to Our Privacy Policy</strong></p>
+    
+    <p ck-text="">
+        We reserve the right to change this Privacy Policy at any time without notice to you. If there are any material changes in the way we treat Personal Information or credit report information, Credit Karma will notify you by sending a notice to the primary email address specified for your account or by placing a prominent notice on our site prior to the change becoming effective. Credit Karma will also promptly post any such policy changes to this page. Any changes will be effective immediately upon the posting of the revised Privacy Policy.
+    </p>
+    
+    <p ck-text=""><strong ck-text="heavy">More Information</strong></p>
+    
+    <p ck-text="">
+        For additional information, or if you have questions regarding this policy or privacy practices at Credit Karma, please submit your questions or comments directly to <a href="mailto:legal@creditkarma.com">legal@creditkarma.com</a> via email or write to us at: Credit Karma, Inc. Attention: Legal Department, P.O. Box 520, San Francisco, CA 94104-0520.
+    </p>
+    
+    </div>
+    
+    <p ck-text=""><em>Last Updated: November 6, 2014</em></p>
+    <a name="glossary"></a>
+    <p ck-text=""><strong ck-text="heavy">Glossary of Technical Terms:</strong></p>
+    
+    <ul ck-list="dotted">
+        <li>
+            <strong ck-text="heavy">Cookies.</strong>
+            <p ck-text="">A cookie is a data file we may place on a Device when you access the Services. Cookies may be used for purposes like identifying you, remembering your preferences, and tracking your visits to our web pages. If you choose to disable cookies on your Device, some features of the Services may not function properly. We do not store Personal Information on cookies.  However, some of our business partners may also use cookies on our site.  We do not have access or control over these cookies.</p>
+        </li>
+        <li>
+            <strong ck-text="heavy">Device.</strong>
+            <p ck-text="">The computer or other device you used to access the Services.</p>
+        </li>
+        <li>
+            <strong ck-text="heavy">Device Identifier.</strong>
+            <p ck-text="">An alphanumeric identifier that is automatically assigned to your Device that our computers use to identify your Device.</p>
+        </li>
+        <li>
+            <strong ck-text="heavy">Embedded Scripts.</strong>
+            <p ck-text="">We may use embedded scripts or similar methods when you access our Services. An embedded script is programming code that collects information about your interactions with the Services, such as the links you click on. The code is temporarily downloaded onto your Device from our server or that of a third party service provider, is active only while you are connected to the Services, and is deactivated or deleted thereafter.</p>
+        </li>
+        <li>
+            <strong ck-text="heavy">Flash cookie.</strong>
+            <p ck-text="">A Flash cookie is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device.</p>
+        </li>
+        <li>
+            <strong ck-text="heavy">Web beacons.</strong>
+            <p ck-text="">Web beacons are small, invisible graphic images or other web programming code we may place on web or mobile pages, or other parts of the Services (also known as "1x1 GIFs" or "clear GIFs"). We may use web beacons or similar technologies for a number of purposes, such as counting users of the Services, monitoring how users navigate the Services, determining whether emails we sent were actually opened or counting views of particular articles or links. In contrast to cookies, which may be stored on your Device’s hard drive, web beacons are embedded invisibly on web pages and are about the size of the period at the end of this sentence.</p>
+        </li>
+    </ul>
+    
+    
 </div>
-<footer id="main-footer" role="contentinfo">
-    <div id="main-footer-inner">
-        <aside id="main-footer-side">
-            <h5>Connect &amp; Share</h5>
-            <a href="http://www.facebook.com/CreditKarma" target="_blank" rel="nofollow"><p><i class="icon-facebook"></i>Become a fan on <span class="footer-blue">Facebook</span></p></a>
-            <a href="http://www.twitter.com/CreditKarma" target="_blank" rel="nofollow"><p><i class="icon-twitter"></i>Follow us on Twitter <span class="footer-blue">@CreditKarma</span></p></a>
-            <a href="http://blog.creditkarma.com/feed" target="_blank" rel="nofollow"><p><i class="icon-blog"></i>Subscribe to our <span class="footer-blue">Blog</span></p></a>
-                        <a href="http://itunes.apple.com/us/app/credit-karma-mobile-free-credit/id519817714?ls=1&amp;mt=8" target="_blank" rel="nofollow"><p><i class="icon-ck-app"></i>Get the <span class="footer-blue">Free App for iPhone®</span></p></a>
-                                        <a href="https://play.google.com/store/apps/details?id=com.creditkarma.mobile" target="_blank" rel="nofollow"><p><i class="icon-android-app"></i>Get the <span class="footer-blue">Free App for Android™</span></p></a>
-                    </aside>
-        <div id="main-footer-content">
-            <div class="footer-section">
-                <table>
-                    <thead>
-                    <tr>
-                        <th>Company Info</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <td><a href="/about" rel="nofollow">About Credit Karma</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://help.creditkarma.com">Help Center</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/about/press" rel="nofollow">In The News</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/about/security" rel="nofollow">Our Security Practices</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/careers" rel="nofollow">Careers</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/about/terms" rel="nofollow">Terms of Use</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/about/privacy" rel="nofollow">Privacy Policy</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="http://affiliate.creditkarma.com">Affiliate Network</a></td>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div class="footer-section">
-                <table>
-                    <thead>
-                    <tr>
-                        <th>Best Offers</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <td><a href="/shop/creditcards">Best Credit Cards</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/shop/creditcards/capital_one">Capital One Credit Cards</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/shop/creditcards/chase">Chase Credit Card Offers</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/shop/creditcards/barclays">Barclaycard Credit Card Offers</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/creditcard/chaseFRE">Chase Freedom</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/shop/personal-loans">Personal Loans</a></td>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div class="footer-section">
-                <table>
-                    <thead>
-                    <tr>
-                        <th>Credit Resources</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <td><a href="http://blog.creditkarma.com">Credit Karma Blog</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/resources">Financial Resources</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/myfinances/simulator/index/ref/tools">Credit Score Simulator</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/calculators/amortization">Mortgage Calculator</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/calculators/debtrepayment">Debt Repayment Calculator</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/reviews/credit-card">Credit Card Reviews</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/all/advice">Credit Advice</a></td>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div class="footer-section">
-                <table>
-                    <thead>
-                    <tr>
-                        <th>More Info</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <td><a href="/faq/what-is-a-good-credit-score">What is a Good Credit Score?</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/faq/how-to-improve-your-credit-health">How to Improve Your Credit Health</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/credit-monitoring">Free Credit Monitoring</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/credit-report-card">Free Credit Report Card</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="/auto-insurance-score">Auto Insurance Score</a></td>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
+        </h1></section>
 
-                <div id="footer-certified" class="certified-float-left">
+    </main>
+</main>
+
+
+<footer ck-footer="" id="main-footer" role="contentinfo">
+
+    <ul>
+        <h4 ck-header="copy">Connect &amp; Share</h4>
+        <li><a href="http://www.facebook.com/CreditKarma" target="_blank" rel="nofollow" ck-icon="small-facebook">Become a fan on <span>Facebook</span></a></li>
+        <li><a href="http://www.twitter.com/CreditKarma" target="_blank" rel="nofollow" ck-icon="small-twitter">Follow us on Twitter <span>@CreditKarma</span></a></li>
+        <li><a href="http://blog.creditkarma.com/feed" target="_blank" rel="nofollow" ck-icon="small-blog">Subscribe to our <span>Blog</span></a></li>
+                <li><a href="http://itunes.apple.com/us/app/credit-karma-mobile-free-credit/id519817714?ls=1&amp;mt=8" target="_blank" rel="nofollow" ck-icon="small-ios">Get the <span>Free App for iPhone®</span></a></li>
+                            <li><a href="https://play.google.com/store/apps/details?id=com.creditkarma.mobile" target="_blank" rel="nofollow" ck-icon="small-android">Get the <span>Free App for Android™</span></a></li>
+            </ul>
+    <ul>
+        <h4 ck-header="copy">Company Info</h4>
+        <li><a href="/about" rel="nofollow">About Credit Karma</a></li>
+        <li><a href="https://help.creditkarma.com">Help Center</a></li>
+        <li><a href="/about/press" rel="nofollow">In The News</a></li>
+        <li><a href="/about/security" rel="nofollow">Our Security Practices</a></li>
+        <li><a href="/careers" rel="nofollow">Careers</a></li>
+        <li><a href="/about/terms" rel="nofollow">Terms of Use</a></li>
+        <li><a href="/about/privacy" rel="nofollow">Privacy Policy</a></li>
+        <li><a href="http://affiliate.creditkarma.com">Affiliate Network</a></li>
+    </ul>
+    <ul>
+        <h4 ck-header="copy">Best Offers</h4>
+        <li><a href="/shop/creditcards">Best Credit Cards</a></li>
+        <li><a href="/shop/creditcards/capital_one">Capital One Credit Cards</a></li>
+        <li><a href="/shop/creditcards/chase">Chase Credit Card Offers</a></li>
+        <li><a href="/shop/creditcards/barclays">Barclaycard Credit Card Offers</a></li>
+        <li><a href="/creditcard/chaseFRE">Chase Freedom</a></li>
+        <li><a href="/shop/personal-loans">Personal Loans</a></li>
+    </ul>
+    <ul>
+        <h4 ck-header="copy">Credit Resources</h4>
+        <li><a href="http://blog.creditkarma.com">Credit Karma Blog</a></li>
+        <li><a href="/resources">Financial Resources</a></li>
+        <li><a href="/myfinances/simulator/index/ref/tools">Credit Score Simulator</a></li>
+        <li><a href="/calculators/amortization">Mortgage Calculator</a></li>
+        <li><a href="/calculators/debtrepayment">Debt Repayment Calculator</a></li>
+        <li><a href="/reviews/credit-card">Credit Card Reviews</a></li>
+        <li><a href="/all/advice">Credit Advice</a></li>
+    </ul>
+    <ul>
+        <h4 ck-header="copy">More Info</h4>
+        <li><a href="/faq/what-is-a-good-credit-score">What is a Good Credit Score?</a></li>
+        <li><a href="/faq/how-to-improve-your-credit-health">How to Improve Your Credit Health</a></li>
+        <li><a href="/credit-monitoring">Free Credit Monitoring</a></li>
+        <li><a href="/free-credit-report">Free Credit Report</a></li>
+        <li><a href="/auto-insurance-score">Auto Insurance Score</a></li>
+    </ul>
+
+    <div id="footer-certified" class="certified-float-left">
 
     <div id="d33c9a59-5cf9-4c4c-892c-18930ef0defa" class="certified-block">
         <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Credit-Karma/asc?rid=d33c9a59-5cf9-4c4c-892c-18930ef0defa"></script>
@@ -648,21 +573,20 @@ Creation Date: 06/11/2014
 
 </div>
 
-            <div id="footer-copyright">
-                <small>Copyright© 2007–2014 Credit Karma™, Inc. Credit Karma is a registered trademark of Credit Karma, Inc. All Rights Reserved. Product name, logo, brands, and other trademarks featured or referred to within Credit Karma are the property of their respective trademark holders. This site may be compensated through third party advertisers.</small>
-                <small>iPhone is a trademark of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.</small>
-                <small>Android is a trademark of Google Inc.</small>
-            </div>
-        </div>
+    <div clear="" id="footer-copyright">
+        <p ck-text="light tiny">© 2007–2015 Credit Karma, Inc. Credit Karma™ is a registered trademark of Credit Karma, Inc. All Rights Reserved. Product name, logo, brands, and other trademarks featured or referred to within Credit Karma are the property of their respective trademark holders. This site may be compensated through third party advertisers.</p>
+        <p ck-text="light tiny">iPhone is a trademark of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.</p>
+        <p ck-text="light tiny">Android is a trademark of Google Inc.</p>
+        <p ck-text="light tiny">The Equifax logo is a registered trademark owned by Equifax in the United States and other countries.</p>
     </div>
 </footer>
-
 
 
 <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-3256920-1']);
     _gaq.push(['_setCustomVar', 4, 'Desktop Yodlee User', 'false', 1]);
+    _gaq.push(['_setCustomVar', 5, 'Responsive And New Nav', '', 1]);
     _gaq.push(['_trackPageview']);
     _gaq.push(['_trackPageLoadTime']);
     (function() {
@@ -672,8 +596,7 @@ Creation Date: 06/11/2014
     })();
 </script>
 
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"248e088a40","applicationID":"4026737","transactionName":"NVFVYhFSWUsDAUEKDgwbdEMQR1hVTQZQBQAXWEMZAlFYTRZNRREIFFVUTw==","queueTime":0,"applicationTime":86,"ttGuid":"","agentToken":"","atts":"GRZWFFlISkU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script>
 
-    
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"248e088a40","applicationID":"2996349","transactionName":"NVFVYhFSWUsDAUEKDgwbdEMQR1hVTQZQBQAXWEMZSQ==","queueTime":0,"applicationTime":139,"ttGuid":"","agentToken":"","atts":"GRZWFFlISkU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-536.min.js"></script></body></html>
