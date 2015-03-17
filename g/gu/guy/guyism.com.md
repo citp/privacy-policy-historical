@@ -1,64 +1,63 @@
-> *The following text is extracted and transformed from the guyism.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828130045id_/http%3A//guyism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyism.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317173413id_/http%3A//www.brobible.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Guyism
+# Privacy
 
-**Privacy Policy**
+Updated as of May 20, 2012
 
-Guyism, LLC knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
+The BroBible Privacy Policy describes how BroBible and its subsidiaries treat personal information when you use BroBible services, including information provided when you use BroBible.
 
-This Privacy Policy covers Guyism’s treatment of personal information that Guyism gathers when you are on the Guyism website and when you use Guyism services. This policy does not apply to the practices of third parties that Guyism does not own or control, or to individuals that Guyism does not employ or manage.
+Personal Information  
+Account-Related Activity. We ask for some personal information when you create a BroBible Account, including your email address and password, which is used to protect your account from unauthorized access.
 
-**Information Collected by Guyism**
+Usage Information. We may record information about your usage, such as when you use BroBible, the LockerRooms you join, the contacts you communicate with, the content you view, and the frequency and size of data transfers, as well as information you display or click on in BroBible (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account.
 
-We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Guyism users: 
+Content Uploaded to Site. Any personal information or content that you voluntarily disclose online (in comments, to the Forums, in messages and LockerRooms, within Profile pages, etc.) becomes publicly available and can be collected and used by others.  
+Third parties may collect certain types of information about visits to your sites, including interaction with content on these sites.
 
-1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.  
-2\. Automatic Information:  
-• We receive and store certain types of information whenever you interact with us. Guyism and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Guyism cookie information, and the page you requested. Guyism uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
-• Guyism may collect and, on any page, display the total counts that page has been viewed.  
-• Many companies offer programs that help you to visit websites anonymously. While Guyism will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.  
-• Third parties may collect certain types of information about visits to your sites, including interaction with content on these sites. 
+Uses  
+If you submit personally identifiable information to us through the BroBible Website, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of the BroBible Site, and to process any flagging activity or correspondence you send to us.
 
-Guyism is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Guyism may send out e-mails with Guyism-related news, products, offers, surveys or promotions. 
+Your Alias (not your email address) is displayed to other Users when you upload content or send messages through the BroBible Site and other Users can contact you through messages and comments.
 
-**Cookies**
+We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major BroBible Website changes or for customer service purposes).
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Guyism cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
+We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the BroBible Website and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications.
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Guyism’s coolest features. 
+We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the BroBible Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
 
-Guyism’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page. 
+Information That is Publicly Available  
+When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include the date you opened your account, the date you last logged into your account, your age (if you choose to make it public), your location and any other information you wish to make public to other Users.
 
-**Sharing Your Information**
+Your Alias (not your email address) is displayed to other Users when you engage in certain activity on the site, such as you upload content, write comments, or send messages through the BroBible Site. Other Users can contact you through messages and comments.
 
-Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below. 
+You may also choose to add personal information that will be visible to other Users on your Profile (which is the public facing page for your account on the site). This may include a profile picture, alias, answers to optional questions or other details.
 
-Guyism Personnel: Guyism personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Guyism business. 
+If you choose to add certain features to your Profile, then these features and your activity associated with these features will be displayed to other Users and may be aggregated and shared with other Users. Such shared activity may include what content you favorite, what content you rated and what content you have uploaded.
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Guyism, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
+Your Choices  
+You may update or correct your personal profile information and email preferences at any time by visiting your Profile page.
 
-Protection of Guyism and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Guyism, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+You may set privacy settings to determine the types of Users that will be allowed to view your Profile and uploaded content.
 
-Syndication: Guyism allows for the RSS syndication of all of its public content within the Guyism website. 
+You may control the information that is available to other Users by editing your account and the features that are included on your Profile.
 
-With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
+Third-Party Advertisers, Links to Other Sites  
+BroBible allows other companies, called third-party ad servers or ad networks, to serve advertisements within the BroBible Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the BroBible Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
 
-**Children Under 18 Years of Age**
+We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about BroBible, to remove repetitive information from our user lists, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the BroBible-specified purposes.
 
-You must be 13 years and older to register to use the Guyism website. As a result, Guyism does not specifically collect information about children. If we learn that Guyism has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Guyism or sending information about themselves or anyone else over the Internet. 
+We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the BroBible service or using the BroBible name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.
 
-**Changes to this Privacy Policy**
+We may offer stores or provide services jointly with other companies on BroBible. You can tell when another company is involved in any store or service provided on BroBible, and we may share customer information with that company in connection with your use of that store or service.
 
-Guyism may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Guyism website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
+If the ownership of all or substantially all of the BroBible business, or individual business units owned by BroBible, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
 
-**Conditions of Use**
+When you use BroBible, certain information you post or share with third parties, such as personal information, comments, messages, photos, videos, or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, or other items, this information may become publicly available.
 
-If you decide to visit Guyism website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
+Security  
+BroBible takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of BroBible Web Site, please Contact Us.
 
-**Effective Date of this Privacy Policy**
+More Information  
+BroBible adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the Department of Commerce’s web site.
 
-This Privacy Policy is effective as of October 12th, 2009 and was last updated August 31st, 2011.
-
-**Questions or Concerns**
-
-Any questions or concerns about this Privacy Policy may be directed to legal@guyism.com.
+For questions concerning the product or your account, please Contact Us.
