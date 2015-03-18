@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustwave.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228205201id_/http%3A//trustwave.com/Company/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustwave.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318223517id_/https%3A//www.trustwave.com/Company/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
