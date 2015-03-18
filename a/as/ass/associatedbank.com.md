@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702044032id_/https%3A//www.associatedbank.com/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318091537id_/https%3A//www.associatedbank.com/security/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Rev. 09/13
+Rev. 11/14
 
  **FACTS** | **WHAT DOES ASSOCIATED BANC-CORP DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -87,11 +87,11 @@ State laws and individual companies may give you additional rights to limit shar
   
 **Other important information**  
 ---  
-**The list of companies that this notice applies to is:**|  Associated Banc-Corp | Associated Commercial Finance, Inc.   
+**The list of companies that this notice applies to is:**|  Associated Banc-Corp | Associated Investment Services, Inc.   
 ---|---  
 Associated Bank, N.A. | Associated Trust Company, N.A.   
 Associated Financial Group, LLC | Kellogg Asset Management, LLC®   
-Associated Investment Services, Inc. |   
+ |   
   
 To opt out, please click on the button below. 
 
