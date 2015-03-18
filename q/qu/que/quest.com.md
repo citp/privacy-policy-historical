@@ -1,70 +1,91 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208231549id_/http%3A//www.quest.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318222043id_/http%3A//software.dell.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Dell Software
 
-Quest Software, Inc. is now Dell Software Inc. We at Dell Software Inc. recognize the importance of protecting your personal information and we are committed to safeguarding your privacy online. Dell Software Inc.is part of the Dell group of companies.
+This privacy statement is applicable to the software.dell.com website (“This Website,” “We”, “our” or “us”). This Website brings together several of Dell’s software product lines (Dell Software, Inc. (formerly known as Quest Software Inc.), Boomi, and Kace) (collectively, the “Dell Software Portfolio”) and is part of the Dell group of companies. This privacy statement does not apply to the websites of Boomi, Kace, other Dell subsidiaries, Business Partners, or to the websites any other third parties, even if links to their websites are on our website. We recommend you review the privacy statements of the other parties with which you interact.
 
-Because Dell Software Inc. respects its customers and understands that you are concerned about privacy, we have instituted policies and security measures intended to ensure that your personal information is handled in a safe and responsible manner. We also post this Privacy Statement so that you can agree to the kind of information we collect, how it is handled, and with whom it may be shared. This Privacy Statement applies to www.quest.com and all subdomains of www.quest.com (collectively, the "Sites"). For a list of the Sites, please [click here](https://web.archive.org/assets/25246/).
+If you would like to view our Privacy Policy by country, [please click here.](https://web.archive.org/legal/privacy-policy-by-country.aspx)
 
-By accessing or using the Sites, you agree to the terms of this Privacy Statement. If you do not agree to these terms, you must not access or use the Sites. Dell Software Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Statement has been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Statement, please contact us at [webmaster@software.dell.com](mailto:webmaster@software.dell.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+This privacy statement governs information we collect from you when you use Dell’s software product lines or This Website.
 
-[](http://www.truste.org/ivalidate.php?url=www.quest.com&sealid=102)
+For purposes of this privacy statement, "Business Partners" means subcontractors, vendors or other entities with whom we have ongoing business relationships to provide products, services or information, as well as our distributors and resellers. "Personal Information" means information that can identify you, such as your name, telephone number, address, billing information and email address.
 
-### Information Gathered
+This Website has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through our web site: [software.dell.com](http://software.dell.com/) and does not cover Personal Information collected through downloadable software.
 
-The Sites will gather information such as the type of browser and operating system that visitors are using, their IP address, cookie information, time stamp (the time each page is accessed as well as the amount of time spent per page) and clickstream information (for example, which pages are viewed and how long they have been there). Note that information is only gathered while the visitor is on the Sites. Dell Software Inc. monitors how a visitor arrives at the Sites. Dell Software Inc. automatically receives and records such information on our server logs from your browser.
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [listmaster@software.dell.com](mailto:listmaster@software.dell.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-When you engage in certain activities on the Sites, such as ordering products, downloading software, using certain services, obtaining technical support or entering contests, Dell Software Inc. may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Dell Software Inc. may require that you provide us with personal information, such as your name, title, company, mailing, billing or shipping address, work e-mail address, work phone number and other personally identifiable information. When ordering products or services on the Sites, you may be asked to provide credit card information.
+Dell Software Inc. (not including the SonicWall line of business) and Boomi comply with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Dell Software Inc. and Boomi have certified that they adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Dell Software Inc.’s or Boomi’s certification, please visit <http://www.export.gov/safeharbor>.
 
-In certain sections of the Sites, Dell Software Inc. may invite you to contact us to pose questions, request information, or complete a registration form. We may ask for personal information to be entered as a means of registration before accessing these sections of the Sites.
+ **Information We Collect**
 
-### Use of Personally Identifiable Information
+We may ask you to provide Personal Information when you:
 
-Personally identifiable information that you provide to Dell Software Inc. within the Sites may be used by Dell Software Inc. to provide you with the products, services and information that you requested or with offers or promotions that may interest you, service your accounts, and save you time and better respond to your needs. In addition, we may use your information to verify your authority to enter into certain areas of the Sites, improve the content and general administration of the Sites and our services, provide you with notices regarding our products and services, and, with permission, provide you with updates and information about our products and services.
+  * Use This Website;
+  * Register our products or for an account on This Website;
+  * Download a software trial or update;
+  * Contact us, including for sales or technical support;
+  * Participate in a marketing/sales promotion or an online survey;
+  * Subscribe to our newsletters, promotional emails or other materials;
+  * Request information about Dell’s software products lines, quotes, downloads or white papers;
+  * Apply for credit or financing; or
+  * Register for a webinar.
 
-When you submit personal information to Dell Software Inc., you understand and agree that Dell Software Inc., its subsidiaries and affiliates may transfer, store, and process your information in any of the countries in which Dell Software Inc. and its affiliates maintain offices, including without limitation, the United States. Transfer, storage, use and disclosure of your personal information shall be in accordance with applicable laws. Dell Software Inc. complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. Dell Software Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Dell Software Inc.’s certification, please visit <http://export.gov/safeharbor>.
 
-Dell Software Inc., its affiliates and subsidiaries collect this information in order to record and support your participation in the activities you select and to provide the products and services on the Sites. If you order a product, for example, the information is used to register your license and rights, if any, to technical support, upgrades, or other benefits that may be made available to registered customers. You agree that Dell Software Inc., its affiliates and subsidiaries can store and use your information for the purposes set forth in this Privacy Statement, including, if applicable, transferring your data to our third party payment processors. Dell Software Inc., its affiliates and subsidiaries use third party address verification software to verify the address provided is a correct mailing address. If you enter a contest, information is collected to qualify the entry and contact you regarding the contest or prize awards. Dell Software Inc., its affiliates and subsidiaries also use information that you provide as part of our effort to send you information about product upgrades, special offers, and other Dell Software Inc. products and services and its affiliates’ products and services that may interest you.
 
-Dell Software Inc. recognizes and appreciates the importance of responsible use of this information. If you do not want the information you provide to Dell Software Inc. to be used to inform you of other products and special offers, or if you wish to change or modify information previously provided, you can do so by following the procedures set forth in the Choice/Opt-Out or Correct/Update Section of this policy. We do not sell your personal information to third parties unless we obtain your prior consent. We may, however, share your information with a distributor or partner in your area who can assist with your request for information if Dell Software Inc. does not have its own sales force in your area. The distributor or partner may use these details to contact you about the support services that they may offer as well as other Dell Software Inc. products or services that you may be interested in. If you do not want to receive information from our distributors or partners, you may opt out by following the procedures set forth in the Choice/Opt-Out or Correct/Update Section of this policy and contacting [listmaster@software.dell.com](mailto:listmaster@software.dell.com).
+Personal Information we request may include your email address, name, home address, billing information and telephone number. We may also collect demographic information, such as your business or company information, age, gender, interests, preferences, and geographic location. Forms that you choose to complete will indicate whether information requested is mandatory or voluntary.
 
-Dell Software Inc. may disclose your personally identifiable information without prior notice to you if we believe we are required to do so by law, court order, subpoena from a court with proper jurisdiction, regulation or other government authority or otherwise in cooperation with an ongoing investigation by a governmental authority or agency. Only information requested or described will be disclosed as directed pursuant to the law, subpoena or court order. Subject to our legal obligations, Dell Software Inc. will notify customers of the information request as allowed by the law, subpoena or court order.
+We may collect information about your visits to This Website, including the pages you view, the links and advertisements you click, search terms you enter, and other actions you take in connection with This Website. We may also collect certain information when you visit This Website or third-party websites, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our sites if you click on a link on our sites. We may also collect information when you open email messages from us or click on links within those email messages.
 
-### Log Files
+We may combine the information we collect as a result of your interactions with us with information obtained through other sources within the Dell group of companies for various reasons including to offer you a more consistent and personalized experience in your interactions with us. We may also supplement the information we collect with information obtained from other sources.
 
-As is true of most web sites, the Sites gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+ **How We Use Personal Information**
 
-We use this information, which does not identify individual users, to analyze trends, to administer the Sites, to track users' movements around the Sites and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+We use your Personal Information to:
 
-In addition, we use Third-Party Tracking Services that use tracking technologies to track non-personally identifiable information about visitors to our Sites in the aggregate to capture usage and volume statistics.
+  * Deliver the products and support or carry out the transactions you have requested;
+  * Send communications to you, such as your transaction status (for example, order confirmations), information about products and services available from the Dell Software Portfolio and other parts of the Dell group of companies, event announcements, important product notices including those announcing changes to our terms or policies, information about particular Dell programs in which you have chosen to participate, promotional offers and surveys;
+  * Advertise and market Dell’s software product lines by delivering targeted advertisements on This Website and other sites,;
+  * Administer, customize, personalize, analyze and improve our products, services (including the content and advertisements on This Website), technologies, communications and relationship with you;
+  * Enforce our conditions of sale, website terms and/or separate contracts (if applicable) with you;
+  * Prevent fraud and other prohibited or illegal activities;
+  * Protect the security or integrity of This Website, our business, or our products or services; or
+  * Otherwise, as disclosed to you at the point of collection or as required or permitted by law.
 
-### Use of Cookies
 
-When you visit the Sites, you can surf the Sites anonymously and access important information without revealing your identity. In order to improve our Sites, we use "cookies" to track your visit. A cookie is small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. It functions as your identification card, recording your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses.
 
-Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some Web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.)
+Personal Information collected may be stored and processed in the United States or any other country in which the entities represented in the Dell Software Portfolio or their subsidiaries or Business Partners maintain facilities.  The Dell companies that make up the Dell Software Portfolio ensure that such storage and processing is subject to appropriate levels of protection to safeguard your Personal Information.
 
-While Dell Software Inc. uses cookies to track your visit to the Sites, this information does not identify you personally and you remain anonymous unless you have otherwise provided Dell Software Inc. with personally identifiable information.
+ **Disclosing Personal Information**
 
-Some of our business partners (e.g., advertisers) use cookies on our Sites. We have no access to or control over these cookies. This Privacy Statement covers the use of cookies by Dell Software Inc. only and does not cover the use of cookies by any third party. See the Third Party Tracking Services section of this Privacy Statement for additional information.
+We may share Personal Information with Dell subsidiaries or Business Partners to carry out transactions you request, to make our business more responsive to your needs, to provide you with information about Dell and Dell branded products and services, or for research and analysis. We may also disclose Personal Information in connection with legal orders from law enforcement or other government bodies; as required by law or regulation; to protect the rights of the Dell Software Portfolio, our customers, the public, or others; to combat fraud or criminal activity; or with your consent.
 
-### Web Beacons (Clear Gifs/Web Bugs)
+In addition, we may share Personal Information with Business Partners that help Dell or our subsidiaries carry out transactions you request, customize, analyze and/or improve our communications or business relationship with you. Such Business Partners may include a payment processor to bill you for services and an email service provider to send out emails on our behalf. These communications may include requests relating to our products or services. We will only share Personal Information with Business Partners who share our commitment to protecting your Personal Information. Except as described above, we will not disclose Personal Information to third parties for their own marketing purposes unless you have provided consent.
 
-Some pages on the Sites may also use "Web beacon" technologies. When a visitor accesses pages on the Sites with a Web beacon, an anonymous notice of that visit is generated that may be processed by Dell Software Inc. or Dell Software Inc.'s vendors. These Web beacons work in conjunction with cookies to let us know what portions of our Sites are of interest to our visitors and to help us provide you with tailored information from our Sites.
+We may share information with a purchaser of all or part of the companies comprising the Dell Software Portfolio, Dell or other Dell subsidiaries.
 
-If you turn off cookies, Web beacon technologies will still detect anonymous visits, but the notices they generate cannot be associated with other anonymous information or personally identifiable information and are disregarded.
+We may aggregate or de-identify information so that it does not identify you and share that and other non-Personal Information with third parties for any purpose.
 
-If you use a bulletin board, testimonial, chat room, and/or communities on the Sites, you should be aware that any information, including personally identifiable information, that you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. For testimonials, we obtain the customer's consent prior to posting their name along with their testimonial. We are not responsible for the information that you choose to submit in these forums. If you want to remove your personal information that is being displayed on our Sites under public pages, please contact us at [webmaster@software.dell.com](mailto:webmaster@software.dell.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+ **Selecting Your Communications Preferences and Opting Out of Marketing**
 
-### Referral Service
+You may choose to receive or not receive marketing communications from us by indicating your preferences.  If you would prefer not to receive future marketing communications, or wish to change or modify information previously provided or delete inaccuracies, please contact us at [listmaster@software.dell.com](mailto:listmaster@software.dell.com). Upon receipt of your request, your information will be updated as soon as possible, but no later than ten (10) days after our receipt of your request. We will respond to all requests for access to your Personal Information within 30 days. We will retain your Personal Information for as long as your account is active or as needed to provide you services and as necessary to comply with our legal, regulatory or compliance obligations. Even if you opt out of receiving marketing communications, we may still communicate with you in connection with servicing your account, fulfilling your request, or administering any promotion or any program in which you may have elected to participate.
 
-If you choose to use our referral service to tell a friend about our Sites, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Sites. Dell Software Inc. does not store this information.
+ **Collection and Use of Children's Personal Information**
 
-### Jive Software
+We take children's privacy seriously. We do not knowingly collect Personal Information from children under the age of 13 through This Website. If you are under 13 years of age, please do not submit any Personal Information through This Website without the express consent and participation of a parent or guardian.
 
-Dell Software Inc. uses Jive Software to serve the Dell Software Inc. Community located at [http://communities.quest.com](http://communities.quest.com/). Use of the Dell Software Inc. Community is covered via this Privacy Statement; however some provisions of the Jive Software Privacy Statement may also apply. You can view the Jive Software Privacy Policy at <http://www.jivesoftware.com/legal/privacy-policy>.
+ **Cookies and Web Beacons**
 
-### Third Party Tracking Services
+ **How We Use Cookies**
+
+This Website uses "cookies" to enable you to sign in to our services and to help personalize your online experience. A cookie is a piece of text that is placed on your computer's hard drive. Depending on the settings you have selected, your browser adds the text to your device as a small file. You can change the browser settings as described below; many browsers are set to accept cookies by default. We use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly.
+
+You have the ability to accept or decline cookies. Many web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of This Website and services that depend on cookies. The Help portion of your web browser, most likely found on the toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+
+ **Targeted Display Advertising by the Dell Software Portfolio and Others**
+
+We also work with advertising and personalization Business Partners that use cookies to help us display personalized content and appropriate advertising during your visits to This Website and other websites. Cookies placed by these Business Partners also assist us with measuring the performance of our advertising campaigns.
+
+For more information regarding the privacy and data collection practices of third parties that use cookies for advertising from This Website, including information on how to opt out of such cookies please use the following links.
 
  **Adobe:** Information regarding the privacy and data collection practices for Omniture.com (offered by Adobe) is located at <http://www.omniture.com/en/privacy/policy>.
 
@@ -74,30 +95,58 @@ Dell Software Inc. uses Jive Software to serve the Dell Software Inc. Community 
 
  **Marketo:** Information regarding the privacy and data collection practices for Marketo is located at <http://www.marketo.com/privacy.php>.
 
- **Mediaplex:** Information regarding the privacy and data collection practices for Mediaplex is located at <http://www.mediaplex.com/mojo-privacy-statement>.
+ **Facebook:** Information regarding the privacy and data collection practices for Facebook is located at <https://www.facebook.com/policy.php>.
 
-### Security
+ **RocketFuel:** Information regarding the privacy and data collection practices for RocketFuel is located at <http://rocketfuel.com/privacy-policy>.
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link: <http://www.windowsecurity.com/articles/Secure_Socket_Layer.html>.
+ **Quantcast:** Information regarding the privacy and data collection practices for Quantcast is located at [https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy](https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/).
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+ **Chango:** Information regarding the privacy and data collection practices for Chango is located at <http://www.chango.com/privacy/policy/>.
 
-If you have any questions about security on our Sites, you can email us at [webmaster@software.dell.com](mailto:webmaster@software.dell.com).
+Similarly, third parties use cookies to deliver advertising for companies other than those within the Dell Software Portfolio to you on the Internet, based on your visits to This Website and other websites, and to measure the effectiveness of those advertising campaigns. These cookies can be effective whether you are on This Website or another website.  These cookies assist the third parties in identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the website from which you came before arriving at a web page.
 
-### Links to Other Web Sites
+ **“Do Not Track” Signals**
 
-The Sites may contain links to other web sites. Please be aware that this Privacy Statement applies solely to the information collected on the Sites and to no other web sites. Dell Software Inc. is not responsible for the privacy practices or the content of any other web sites. We encourage you to be aware when you are leaving the Sites and read the privacy statements of the site that you visit prior to providing any personal information.
+Please note that while you may have the opportunity to opt out of targeted advertising through links on the advertisements themselves and you may be able to control the use of cookies through your web browser as described in the “How We Use Cookies” section above, some web browsers also may give you the ability to enable a “do not track” setting.  This setting sends a special signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. Our system does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about “do not track,” visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
-### Changes to this Privacy Statement
+ **Targeted Email Marketing**
 
-As we continue to develop our Sites and take advantage of technologies to improve the services that we provide, this Privacy Statement may change. If this Privacy Statement does change, we will post the changes here. In addition, if we materially change any of our practices related to the collection and use of personally identifiable information, we will either notify users via e-mail or post a prominent notice on our Sites. After any change, we will also revise the "Page last updated" date at the bottom of the Privacy Statement. We therefore encourage you to refer to this Privacy Statement on an ongoing basis so that you understand our current Privacy Statement and how we are protecting the personal information we collect.
+Some marketing you receive, including email marketing, may also be personalized based on your visits to This Website and your browsing and purchase history. In addition, when you click on some links in email marketing you receive, our email service provider may place a cookie on your browser. This cookie would be linked to your email address and used to gather information about the products and services you view on software.dell.com. Information gathered may be used to personalize and customize future email marketing messages you receive. You may opt out of this use by clicking on the unsubscribe link provided in every personalized email marketing message you receive sent from or on behalf of the Dell Software Portfolio.
 
-### Choice/Opt-Out or Correct/Update
+ **How We Use Web Beacons**
 
-If you would like to remove your information from our database or not receive future communications, or wish to change, delete inaccuracies, or modify information previously provided please contact us at [listmaster@software.dell.com](mailto:listmaster@software.dell.com). Upon receipt of your request, your information will be removed or updated as soon as possible, but no later than ten (10) days after our receipt of your request. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [listmaster@software.dell.com](mailto:listmaster@software.dell.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+The Dell Software Portfolio or our Business Partners may use web beacons on This Website, in our email messages, in our advertisements on other websites, or in our advertisements in others' email messages. Similarly, third parties whose content or advertisements appear on This Website may also place web beacons in their ads or emails for purposes of measuring the effectiveness of the content, advertisements or email messages.
 
-### Contacting our Web Site
+A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email message. Web beacons help us measure the effectiveness of This Website and our advertising in various ways. For example, web beacons may count the number of individuals who visit This Website from a particular advertisement or who make a purchase from This Website after viewing a particular advertisement or they may tell us when a web page is viewed and provide a description of the page where the web beacon is placed. Web beacons may also measure the effectiveness of our email campaigns, by counting the number of individuals who open or act upon an email message, determining when an email message is opened and determining how many times an email message is forwarded.
 
-If you have any questions about this Privacy Statement, the practices of the Sites, Dell Software Inc.'s adherence to this Privacy Statement, or your dealings with the Sites, you can contact Dell Software Inc. at [webmaster@software.dell.com](mailto:webmaster@software.dell.com); 5 Polaris Way, Aliso Viejo, CA 92656.
+The information we collect through web beacons may include some limited Personal Information, and web beacons allow us to recognize users by accessing our cookies. We may also combine the information that we collect through web beacons with other information we have collected from you. We use all of this information to better tailor our marketing to you and may use this information for other purposes, such as to enable a shopping cart, customize content on This Website and undertake internal research.
 
-Page last updated: July 1, 2013
+We prohibit web beacons on This Website from being used by third parties to access Personal Information. We may allow Business Partners to compile individual information or aggregated statistics from the use of web beacons on This Website by the Dell Software Portfolio, their agents or others, to determine the effectiveness of online marketing and to develop statistics on how often clicking on an advertisement results in a purchase or other action on the advertiser's site. Aggregate information is anonymous and may include demographic and usage information. No Personal Information about you is shared with Business Partners for this research.
+
+You can make some web beacons unusable by rejecting cookies in your web browser.
+
+ **How We Secure Personal Information**
+
+We are committed to protecting the security of Personal Information. We use a variety of security technologies and procedures to help protect Personal Information from unauthorized access, use and disclosure. When you provide us with sensitive Personal Information (such as financial information) we encrypt that information via SSL. While we strive to protect your Personal Information, we cannot ensure or guarantee that the Personal Information or private communications you transmit to us will always remain confidential, and you do so at your own risk. If you have any questions regarding security you can contact us at [webmaster@software.dell.com](mailto:webmaster@software.dell.com).
+
+ **Social Media Features** ****
+
+This Website includes social media features, including Facebook “Like” button and Twitter “Follow” button. These features may collect your IP address, which page you are visiting on This Website, and may set a cookie to enable the Feature to function properly. Social media features are either hosted by a third party or hosted directly on This Website. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+ **Public Forums**
+
+This Website offers publicly-accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, contact us at [webmaster@software.dell.com](mailto:webmaster@software.dell.com). In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+
+ **Links to Third-Party Websites and Services**
+
+This Website may contain links to third-party sites. We cannot control and are not responsible for the privacy practices of such third-party sites. We encourage users to be aware when they leave This Website, and to read the privacy statements of each website they visit. This Privacy Statement applies only to This Website.
+
+ **Effective Date and Notification of Changes to our Privacy Statement**
+
+This Privacy Statement is effective as of March 1, 2015. We reserve the right to change this Privacy Statement at any time. If we materially change this Privacy Statement, we will either notify you by email (sent to the e-mail address specified in your account) or post a prominent notice on This Website. Changes are effective as of the date we post them on the privacy statement page of This Website. We encourage you to periodically review this Privacy Statement.
+
+ **Contacting Dell Software Group**
+
+If you have questions or concerns regarding this Privacy Statement, please contact us at [webmaster@software.dell.com](mailto:webmaster@software.dell.com) or via postal mail at Dell Software, 5 Polaris Way, Aliso Viejo, CA 92656. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [listmaster@software.dell.com](mailto:listmaster@software.dell.com). We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and for other necessary business purposes.
+
+Page last updated: March 1, 2015
