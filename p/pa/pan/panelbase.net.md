@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713021418id_/https%3A//www.panelbase.net/terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318110551id_/https%3A//www.panelbase.net/terms/Privacy.aspx) for the most accurate reproduction.*
 
 # panelbase.net - Privacy Statement
 
@@ -65,4 +65,4 @@ NE46 3RU
 Email: [support@panelbase.net](mailto:support@panelbase.net?subject=Privacy%20statement%20enquiry)  
 Tel: 0800 1958492 
 
-© 2005 - 2014 panelbase.net. All rights reserved. panelbase.net is a division of Dipsticks Research Ltd.
+© 2005 - 2015 panelbase.net. All rights reserved. panelbase.net is a division of Dipsticks Research Ltd.
