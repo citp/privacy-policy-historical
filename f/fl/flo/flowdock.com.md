@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowdock.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113123353id_/https%3A//www.flowdock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowdock.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318143543id_/https%3A//www.flowdock.com/privacy) for the most accurate reproduction.*
 
 # Flowdock Privacy Policy
 
@@ -27,7 +27,7 @@ A cookie is a string of information that a website stores on a visitor's compute
 
 ### Data storage
 
-Rally may use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Flowdock. Although Rally owns the code, databases, and all rights to the Flowdock application, you retain all rights to your data. When you use the messaging or file upload features of Flowdock, the data you submit is retained on the servers of our third party service provider. Rally does not access or use this data for any purpose other than providing the service, but you should be aware that these files are not encrypted and that they could be disclosed in legal proceedings or investigations.
+Rally may use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Flowdock. Although Rally owns the code, databases, and all rights to the Flowdock application, you retain all rights to your data. When you use the messaging or file upload features of Flowdock, the data you submit is retained on our third-party data center's servers and is encrypted at rest. Rally does not access or use this data for any purpose other than providing the service, but you should be aware that this data could be disclosed in legal proceedings or investigations or as otherwise required by applicable law.
 
 ### Disclosure
 
