@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704035240id_/https%3A//www.getfeedback.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318081605id_/https%3A//getfeedback.com/privacy) for the most accurate reproduction.*
 
 # GetFeedback - Online Survey Software, Re-Imagined.
 
 ## Privacy Policy
 
-We respect your privacy. This Privacy Policy applies to any data or information that we’ve collected, or collect, about and/or from you in connection with your use of our website, products, applications, or services provided by Matchbook Labs, Inc. under the GetFeedback brand (“ **Services** ”). 
+We respect your privacy. This Privacy Policy applies to any data or information that we’ve collected, or collect, about and/or from you in connection with your use of our website, products, applications, or services provided by GetFeedback, Inc. under the GetFeedback brand (“ **Services** ”). 
 
 Survey creators use our Services to build surveys that they send out to survey takers. Below we describe what types of data or information we may collect through our Services and our practices for collecting, using, protecting, and disclosing it as it pertains to both survey creators and survey takers.
 
@@ -61,7 +61,7 @@ In the following limited situations, we may disclose information that we collect
   * In an aggregated or anonymized format where no individual can be identiﬁed or linked to any part of the information.
   * To comply with any court order, law or legal process, including responding to a governmental or regulatory request.
   * To enforce our rights arising from any contracts entered into between you and us and for billing and collection. 
-  * To a buyer or other successor in the event of a merger, sale or transfer of some or all of Matchbook Labs, Inc.’s assets.
+  * To a buyer or other successor in the event of a merger, sale or transfer of some or all of GetFeedback, Inc.’s assets.
   * For any other purpose disclosed by us when you provide the information.
   * With your consent.
 
@@ -79,7 +79,7 @@ You can delete your survey or survey content at any time. Deleting your content 
 
 ### Data Storage and Security
 
-We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run our Services. Our servers are based in the United States and you consent to the transfer and processing of your personal data in the United States by Matchbook Labs, Inc.] You retain all rights to your data. In certain circumstances survey content may be distributed outside of the United States, such as a content delivery network (CDN). 
+We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run our Services. Our servers are based in the United States and you consent to the transfer and processing of your personal data in the United States by GetFeedback, Inc.] You retain all rights to your data. In certain circumstances survey content may be distributed outside of the United States, such as a content delivery network (CDN). 
 
 To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. Our vendor is certiﬁed as compliant with card association security initiatives, like the Visa Cardholder Information Security and Compliance (CISP), MasterCard® (SDP), and Discovery Information Security and Compliance (DISC). 
 
@@ -126,7 +126,7 @@ In the following limited situations, we may disclose survey taker information to
   * To our contractors, service providers and other third parties we use to support our business and who are obligated to keep personal information conﬁdential and use it only for the purposes for which we disclose it to them.
   * In an aggregated or anonymized format where no individual can be identiﬁed or linked to any part of the information.
   * To comply with any court order, law or legal process, including responding to a governmental or regulatory request.
-  * To a buyer or other successor in the event of a merger, sale or transfer of some or all of Matchbook Labs, Inc.’s assets.
+  * To a buyer or other successor in the event of a merger, sale or transfer of some or all of GetFeedback, Inc.’s assets.
   * For any other purpose disclosed by us when you provide the information.
   * With your consent
 
@@ -140,4 +140,4 @@ A survey taker would need to contact the survey creator to access, update, or de
 
 Thanks for taking the time to learn about our privacy policy. We hope it was clear and reassuring.
 
-_Updated December 12, 2013_
+_Updated February 19, 2015_
