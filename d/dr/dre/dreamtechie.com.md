@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dreamtechie.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828192451id_/http%3A//www.dreamtechie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamtechie.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318013420id_/https%3A//www.dreamtechie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Just like our readers, their privacy is also so important to us. This Privacy Policy governs the manner in which Dream Techie collects, uses, maintains and discloses information collected from users of the [Dreamtechie.com](http://www.dreamtechie.com/) website. This privacy policy applies to the Site and all products and services offered by Dream Techie.
+Just like our readers, their privacy is also so important to us. This Privacy Policy governs the manner in which Dream Techie collects, uses, maintains and discloses information collected from users of the [Dreamtechie.com](https://www.dreamtechie.com/) website. This privacy policy applies to the Site and all products and services offered by Dream Techie.
 
 **Personal identification information**
 
@@ -57,11 +57,9 @@ Dream Techie has the discretion to update this privacy policy at any time. When 
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Contacting us**
+**Want to Talk to us:  
+**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Dream Techie](http://www.dreamtechie.com/)  
-<http://www.dreamtechie.com/>  
-[info@dreamtechie.com](mailto:info@dreamtechie.com)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [info@dreamtechie.com](mailto:info@dreamtechie.com)
 
-_This document was last updated on April 24, 2013_
+_This document was last updated on March 15, 2015_
