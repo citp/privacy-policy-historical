@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishpot.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715111842id_/http%3A//www.wishpot.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishpot.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318071737id_/http%3A//www.wishpot.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Wishpot
 
