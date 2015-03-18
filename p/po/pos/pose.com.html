@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the pose.com privacy policy that was archived on 2014-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701081739id_/https%3A//pose.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pose.com privacy policy that was archived on 2015-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150318215341id_/https%3A//pose.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy | Pose</title>
 <meta charset="UTF-8">
-<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=164118886949520"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"97053e2431","applicationID":"2012685","transactionName":"JVgKEUcLWA0BRRxHVAQYCQRcChtJC0NbVUNP","queueTime":75,"applicationTime":130,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcBUF9SGwEAVVNUDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=164118886949520"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"97053e2431","applicationID":"2012685","transactionName":"JVgKEUcLWA0BRRxdUA9ZSxVHDUIAB04=","queueTime":2,"applicationTime":47,"agent":"js-agent.newrelic.com/nr-593.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcBUF9SGwEAVVNUDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <link href="https://pose.com/privacy" rel="canonical">
 <meta content="Fashion, iOS, Android, Photos, Social" name="keywords">
+<meta content="app-id=402272154,app-argument=pose://default" name="apple-itunes-app">
 <meta content="This page shows you the privacy policy for Pose." name="description">
 <meta content="production" name="environment">
 <meta content="https://shop.pose.com" name="lbb_web_host">
@@ -35,42 +36,24 @@
 <meta content="pose.com" name="twitter:domain">
 <meta content="Privacy" property="og:title">
 <meta content="This page shows you the privacy policy for Pose." property="og:description">
-<meta content="https://d1akano9u2cdng.cloudfront.net/assets/graph-image-75ffd2b07769aedc6565012f4fd5f933.png" property="og:image">
+<meta content="https://d1akano9u2cdng.cloudfront.net/assets/redesign/graph/default-cbfcbc881e5dd4f5ec2492cfadd6b7a0.jpg" property="og:image">
+<meta content="image/jpeg" property="og:image:type">
+<meta content="1024" property="og:image:width">
+<meta content="1024" property="og:image:height">
 <meta content="website" property="og:type">
 <meta content="https://pose.com/privacy" property="og:url">
 
 <script>
-  var Caliper = { config: { apiKey: "7421d46d-1c46-410a-8241-86f45e06f0a2" } };
   var LBBC = new Object();
   LBBC.allProducts = new Array();
 </script>
-<link href="https://d1akano9u2cdng.cloudfront.net/assets/application-282f258f25481b76917368d7f89ee451.css" media="screen" rel="stylesheet" type="text/css">
-<script src="https://d1akano9u2cdng.cloudfront.net/assets/application-25208600e6bfdc09a15081b7217220ea.js" type="text/javascript"></script>
+<link href="https://d1akano9u2cdng.cloudfront.net/assets/application-c37537b6c6438a139d665bce371f11f5.css" media="screen" rel="stylesheet">
+<script src="https://d1akano9u2cdng.cloudfront.net/assets/application-b0ded10fd0e3fa8984ac9e42afcfb04e.js"></script>
+<script src="//cdn.optimizely.com/js/1402882769.js"></script>
 
-<script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-  (function() {
-  var gads = document.createElement('script');
-  gads.async = true;
-  gads.type = 'text/javascript';
-  var useSSL = 'https:' == document.location.protocol;
-  gads.src = (useSSL ? 'https:' : 'http:') +
-  '//www.googletagservices.com/tag/js/gpt.js';
-  var node = document.getElementsByTagName('script')[0];
-  node.parentNode.insertBefore(gads, node);
-  })();
-</script>
-<script>
-  googletag.cmd.push(function() {
-  
-  googletag.pubads().collapseEmptyDivs();
-  googletag.enableServices();
-  });
-</script>
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="S3LabrnUse22EWm7g4SsGoKqj76wljgmVe5bDSV/5rU=" name="csrf-token">
+<meta content="Zw1RrDnOrzb+wo0rBIS+9wl9DhoFxIuOuFNoLpofOWQ=" name="csrf-token">
 
 </head>
 <body>
@@ -88,141 +71,76 @@
 </script>
 
 <header id="header">
-<div class="content">
-<div class="section">
-<a href="/" id="logo" title="Pose"><i class="icon logo"></i>
-</a><nav id="links">
-<ul class="inlined">
-<li data-requires="download">
-<a href="/d"><i class="icon download"></i>
-Download the App
-</a></li>
-<li class="divider" data-requires="download"></li>
-<li data-requires="giveaway">
-<a href="/giveaway/latest" data-status="unentered" target="_blank">Daily Giveaway
-</a><span data-status="entered">Thanks for Entering the Daily Giveaway!</span>
-</li>
-<li class="divider" data-requires="giveaway"></li>
-<li class="overflowless"><div class="fb-like" data-action="like" data-href="https://www.facebook.com/Pose" data-layout="button_count"></div></li>
-<li class="touts"></li>
-</ul>
-</nav>
+<div id="banners">
+
 </div>
-<div class="section">
-<nav id="navigate">
+<div class="content">
+<a href="/" id="logo" title="Pose"><i class="icon logo"></i>
+</a><nav id="navigate">
 <ul class="inlined spaced">
 <li>
-<a href="/gallery" data-toggle="marketplace">Marketplace</a>
-<div class="dropdown marketplace">
-<div class="cells">
+<a data-toggle="featured" href="/feed/featured">What's New</a>
+<div class="dropdown featured">
+<div class="cells separated featured">
 <div class="cell">
-<h1 class="title">Shop</h1>
-<ul class="categories stacked">
-<li class="category"><a href="/gallery">All</a></li>
-<li class="category"><a href="/gallery?categoryids=%5B53%5D">Accessories</a></li>
-<li class="category"><a href="/gallery?categoryids=%5B64%5D">Bags</a></li>
-<li class="category"><a href="/gallery?categoryids=%5B55%5D">Beauty</a></li>
-<li class="category"><a href="/gallery?categoryids=%5B58%5D">Jewelry</a></li>
-<li class="category"><a href="/gallery?categoryids=%5B60%5D">Shoes</a></li>
-</ul>
-</div>
-<a class="cell" href="https://pose.com/gallery?keyword=floral&amp;source=default">
-<h1 class="title">Shop: Flirty Florals</h1>
-<div class="preview">
-<img alt="Asos-shorts-and-chanel-bag-and-movado-watch" height="150" src="https://d1akano9u2cdng.cloudfront.net/media/W1siZiIsInN0cmVhbS85ZTVlNWQ3ZC0zZjgxLTQ4MWMtOGIzYS0wNmFlZmFlNmM0OWQuanBnIl0sWyJwIiwidGh1bWIiLCIxNTB4MTUwIyJdXQ/asos-shorts-and-chanel-bag-and-movado-watch.jpg" width="150">
-<div class="caption">
-<i class="icon chevron"></i>
-<span>Shop Now</span>
-</div>
-</div>
-</a>
-<a class="cell" href="/gallery/followees">
-<h1 class="title">
-Closets I Follow
-</h1>
-<div class="preview">
-<img alt="Closets_i_follow" height="150" src="https://d1akano9u2cdng.cloudfront.net/assets/redesign/marketplace/closets_I_follow-8abe5b8f535f220f19bd584689d0af52.jpg" width="150">
-<div class="caption">
-<i class="icon chevron"></i>
-<span>Shop Now</span>
-</div>
-</div>
-</a>
-</div>
-
-</div>
-</li>
-<li>
-<a href="/feed/stream" data-toggle="inspiration">Inspiration</a>
-<div class="dropdown inspiration">
-<div class="cells">
-<a href="/feed/featured" class="cell"><h1 class="title">Featured</h1>
-<div class="preview">
-<img alt="Featured" height="150" src="https://d1akano9u2cdng.cloudfront.net/assets/redesign/inspiration/featured-91ec5ee02dc0139c255fe42828322b4b.jpg" width="150">
-<div class="caption">
-<i class="icon chevron"></i>
-<span>View Stream</span>
-</div>
-</div>
-</a><a href="/feed/stream" class="cell"><h1 class="title">Following</h1>
-<div class="preview">
-<img alt="Following" height="150" src="https://d1akano9u2cdng.cloudfront.net/assets/redesign/inspiration/following-a11ead0b9356d34d8f0537b313fb3e09.jpg" width="150">
-<div class="caption">
-<i class="icon chevron"></i>
-<span>View Stream</span>
-</div>
-</div>
+<h1 class="title">Featured Poses</h1>
+<div class="cells listings">
+<div class="cell">
+<a class="link pose" href="https://pose.com/p/3lh0o"><img alt="Pose by lovebtwtheracks" height="90" src="https://d2s11kre1yh5b6.cloudfront.net/images/5952607/180/180/medium/pose-by-lovebtwtheracks.jpg" width="90">
+<div class="overlay">View</div>
 </a></div>
+<div class="cell">
+<a class="link pose" href="https://pose.com/p/3lh0m"><img alt="Calypso st barth vest and anine bing pants and anine bing sunglasses" height="90" src="https://d2s11kre1yh5b6.cloudfront.net/images/5952604/180/180/medium/calypso-st-barth-vest-and-anine-bing-pants-and-anine-bing-sunglasses.jpg" width="90">
+<div class="overlay">View</div>
+</a></div>
+<div class="cell">
+<a class="link pose" href="https://pose.com/p/3lh0f"><img alt="Benetton skirt and vince camuto sweater" height="90" src="https://d2s11kre1yh5b6.cloudfront.net/images/5952595/180/180/medium/benetton-skirt-and-vince-camuto-sweater.jpg" width="90">
+<div class="overlay">View</div>
+</a></div>
+<div class="cell">
+<a class="link all poses" href="/feed/featured">
+<span class="text">See All Featured Poses</span>
+</a>
+</div>
+</div>
+</div>
+</div>
 
 </div>
 </li>
 <li>
-<a href="#" data-toggle="upload">Upload</a>
-<div class="dropdown upload">
-<div class="uploader">
-<div class="beta">
-<h1 class="title">List an Item</h1>
-<div class="outline">
-<div class="notes">Available now in the iOS App</div>
-<a class="appstore" href="/d"></a>
-<div class="soon">Coming Soon to Web</div>
+<a data-toggle="inspiration" href="/feed/stream">Get Inspired</a>
+<div class="dropdown inspiration">
+<div class="cells listings">
+<a class="cell" href="/collections/2930872-pants-party">
+<div class="preview">
+<img alt="10" height="90" src="https://d1akano9u2cdng.cloudfront.net/media/W1siZiIsInN0cmVhbS9hMWI5YmQwMi1iYmQ1LTRjYTMtOWQ5Ny05YTg4NWNmMWEzNzYuanBnIl0sWyJwIiwidGh1bWIiLCI5MHg5MCMiXV0/10.jpg" width="90">
 </div>
+<div class="title">Party Pants</div>
+</a>
+<a class="cell" href="/collections/2930615-beauty-school-nail-it">
+<div class="preview">
+<img alt="Beauty report nail it" height="90" src="https://d1akano9u2cdng.cloudfront.net/media/W1siZiIsInN0cmVhbS85MDRjZjZmYy1kMGY5LTQyYzItOGI4NC1iNjNiM2RmYTI4MzguanBnIl0sWyJwIiwidGh1bWIiLCI5MHg5MCMiXV0/Beauty-report-nail-it.jpg" width="90">
 </div>
-<div class="contents">
-<h1 class="title">Upload a Pose</h1>
-<div class="components">
-<div class="droppable">
-<i class="icon upload"></i>
-<div class="notes">Drag &amp; Drop to Upload</div>
+<div class="title">Beauty School: Nail It</div>
+</a>
+<a class="cell" href="/feed/stream">
+<div class="preview">
+<img alt="Following" height="90" src="https://d1akano9u2cdng.cloudfront.net/assets/redesign/inspiration/following-48caed9e96d19c02fc5f253fb2019924.jpg" width="90">
 </div>
-<ul class="options stacked">
-<li class="option browse">
-<a class="button muted" href="#">Choose Photo</a>
-</li>
-<li class="option facebook">
-<a class="button muted" href="#">Facebook Upload</a>
-</li>
-<li class="option youtube">
-<a class="button muted" href="#">Youtube Upload</a>
-</li>
-</ul>
+<div class="title">
+Following
 </div>
-</div>
-<div class="overlay hidden">
-<div class="notes">
-Uploading...
-</div>
-</div>
-<div class="errors hidden">
-<div class="notes"></div>
-</div>
-<div class="progress hidden"></div>
+</a>
 </div>
 
 </div>
 </li>
-<li data-requires="sale">
-<a href="/gallery/sale" class="sale">Sale!</a>
+<li>
+<a href="/community">Community</a>
+</li>
+<li>
+<a href="/upload/new">Upload</a>
 </li>
 </ul>
 </nav>
@@ -235,17 +153,7 @@ Uploading...
 <nav data-requires="authenticated" id="auth" style="display:none">
 <ul class="inlined">
 <li>
-<a href="#" class="trigger alerts" data-toggle="alerts"><i class="icon alerts"></i>
-<span class="badge trade count hidden">0</span>
-</a><div class="dropdown alerts">
-<div class="header">
-Alerts
-</div>
-
-</div>
-</li>
-<li>
-<a href="#" class="trigger inbox" data-toggle="inbox"><i class="icon inbox"></i>
+<a class="trigger inbox" data-toggle="inbox" href="#"><i class="icon inbox"></i>
 <span class="badge social count hidden">0</span>
 </a><div class="dropdown inbox">
 <div class="header">
@@ -255,7 +163,7 @@ Inbox
 </div>
 </li>
 <li>
-<a href="#" data-toggle="account"><img alt="" class="my avatar account" data-user="avatar" height="50px" width="50px">
+<a data-toggle="account" href="#"><img alt="" class="my avatar account" data-user="avatar" height="40px" width="40px">
 </a><div class="dropdown account" data-dropdown="account">
 <div class="header">
 <a class="my username" href="/web/users/me"></a>
@@ -264,9 +172,6 @@ Inbox
 <ul class="stacked">
 <li>
 <a href="/web/users/me">My Profile</a>
-</li>
-<li data-requires="bag">
-<a href="/bag">My Trade Offers</a>
 </li>
 <li data-requires="collections">
 <a href="/web/users/me?slug=collections">My Collections</a>
@@ -277,6 +182,7 @@ Inbox
 <li class="divider"></li>
 <li><a href="/account">Account</a></li>
 <li><a href="/settings">Settings</a></li>
+<li><a href="/d">Download the App</a></li>
 <li><a href="/help">Help</a></li>
 <li><a href="/users/sign_out">Logout</a></li>
 </ul>
@@ -289,23 +195,21 @@ Inbox
 <nav data-requires="unauthenticated" id="account" style="display:none">
 <div class="pill">
 <ul class="inlined">
-<li><a href="#" data-action="signup">Join</a></li>
+<li><a data-action="signup" href="#">Join</a></li>
 <li class="divider"></li>
-<li><a href="#" data-action="login">Sign In</a></li>
+<li><a data-action="login" href="#">Sign In</a></li>
 </ul>
 </div>
 </nav>
-</div>
+<div class="touts" id="touts"></div>
 </div>
 </header>
 <div id="drawers"></div>
 
-
+<div id="spacer"></div>
 <section class="" id="content">
 <nav class="subnav">
-<ul class="inlined"><li><a href="/hiw"><span>How It Works</span></a></li>
-<li><a href="/shipping"><span>Shipping</span></a></li>
-<li><a href="/contact"><span>Contact Us</span></a></li>
+<ul class="inlined"><li><a href="/contact"><span>Contact Us</span></a></li>
 <li><a href="/faq"><span>FAQs</span></a></li>
 </ul></nav>
 
@@ -456,7 +360,7 @@ Venice, CA 90291
 <li><a href="http://www.google.com/intl/en/policies/privacy/">Google</a></li>
 <li><a href="http://www.upsight.com/pricing/privacy-policy/">Upsight</a></li>
 </ul>
-<div class="anchor" id="tracking"></div>
+<div class="anchor shifted" id="tracking"></div>
 <h1>Tracking Technologies</h1>
 <p>
 <strong>Cookies.</strong>
@@ -483,16 +387,6 @@ Venice, CA 90291
 <nav id="explore">
 <ul class="inlined">
 <li>
-<h1 class="title">Inspiration</h1>
-<ul class="stacked tight">
-<li class="category"><a href="/gallery?categoryids=%5B53%5D">Accessories</a></li>
-<li class="category"><a href="/gallery?categoryids=%5B64%5D">Bags</a></li>
-<li class="category"><a href="/gallery?categoryids=%5B55%5D">Beauty</a></li>
-<li class="category"><a href="/gallery?categoryids=%5B58%5D">Jewelry</a></li>
-<li class="category"><a href="/gallery?categoryids=%5B60%5D">Shoes</a></li>
-</ul>
-</li>
-<li>
 <h1 class="title">Company</h1>
 <ul class="stacked tight">
 <li><a href="http://blog.pose.com/" target="_blank">Blog</a></li>
@@ -501,10 +395,8 @@ Venice, CA 90291
 <li>
 <h1 class="title">Help</h1>
 <ul class="stacked tight">
-<li><a href="/hiw">How it Works</a></li>
-<li><a href="/shipping">Shipping</a></li>
-<li><a href="/contact">Contact</a></li>
-<li><a href="/faq">FAQs</a></li>
+<li><a href="/contact" target="_blank">Contact</a></li>
+<li><a href="/faq" target="_blank">FAQs</a></li>
 </ul>
 </li>
 </ul>
@@ -512,19 +404,10 @@ Venice, CA 90291
 <nav id="other">
 <div class="uncover">
 <div class="notes">
-<a class="download" href="/d">
+<a class="download" href="/d" target="_blank">
 <h1 class="title">Download Pose</h1>
 <div class="info">Available for iOS and Android!</div>
 </a>
-</div>
-</div>
-<div class="uncover">
-<div class="notes">
-<a class="promise" href="/promise">
-<h1 class="title">The Pose Promise</h1>
-<div class="info">Customer Service Available</div>
-</a>
-<div class="mailus"><a href="mailto:support@pose.com">Email us!</a></div>
 </div>
 </div>
 </nav>
@@ -533,22 +416,22 @@ Venice, CA 90291
 <nav id="social">
 <ul class="inlined">
 <li>
-<a href="https://www.facebook.com/Pose" class="social fb" title="Facebook"><i class="icon fb"></i>
+<a class="social fb" href="https://www.facebook.com/Pose" target="_blank" title="Facebook"><i class="icon fb"></i>
 </a></li>
 <li>
-<a href="https://twitter.com/pose" class="social tw" title="Twitter"><i class="icon tw"></i>
+<a class="social tw" href="https://twitter.com/pose" target="_blank" title="Twitter"><i class="icon tw"></i>
 </a></li>
 <li>
-<a href="http://instagram.com/poseapp" class="social ig" title="Instagram"><i class="icon ig"></i>
+<a class="social ig" href="http://instagram.com/poseapp" target="_blank" title="Instagram"><i class="icon ig"></i>
 </a></li>
 <li>
-<a href="http://pinterest.com/poseapp" class="social pt" title="Pinterest"><i class="icon pt"></i>
+<a class="social pt" href="http://pinterest.com/poseapp" target="_blank" title="Pinterest"><i class="icon pt"></i>
 </a></li>
 <li>
-<a href="http://blog.pose.com/" class="social tu" title="Tumblr"><i class="icon tu"></i>
+<a class="social tu" href="http://blog.pose.com/" target="_blank" title="Tumblr"><i class="icon tu"></i>
 </a></li>
 <li>
-<a href="http://www.youtube.com/user/poseapp" class="social yt" title="YouTube"><i class="icon yt"></i>
+<a class="social yt" href="http://www.youtube.com/user/poseapp" target="_blank" title="YouTube"><i class="icon yt"></i>
 </a></li>
 </ul>
 
@@ -558,30 +441,33 @@ Venice, CA 90291
 <div class="section">
 <nav id="legal">
 <ul class="inlined">
-<li><a href="/terms">Terms</a></li>
-<li><a href="/privacy">Privacy</a></li>
+<li><a href="/terms" target="_blank">Terms</a></li>
+<li><a href="/privacy" target="_blank">Privacy</a></li>
+<li><a href="/shop">Directory</a></li>
+<li><a href="/conversations">Conversations</a></li>
 </ul>
 </nav>
 <nav id="copy">
-<span class="copy">© 2014 Pose</span>
+<span class="copy">© 2015 Pose</span>
 </nav>
 </div>
 </div>
 </footer>
 
 <script>
-  var _gaq = [['_setAccount', 'UA-20668135-1'], ['_setDomainName', ".pose.com"], ['_trackPageview']];
-  (function(d, t) {
-      var g = d.createElement(t),
-          s = d.getElementsByTagName(t)[0];
-      g.async = true;
-      g.src = ('https:' == location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      s.parentNode.insertBefore(g, s);
-  })(document, 'script');
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20668135-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setDomainName', ".pose.com"]);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
 <script>
-  Pose.kontagent = new Pose.Kontagent({keys: {"global":"2104c76e20554938b7d2eb7912539f0f","users":"09a2ef06e9a4417a8ff8dbbff4202c2f"}, cookie_domain: ".pose.com"});
+  Pose.kontagent = new Pose.Kontagent({keys: {"global":"1d64461c4eed440b9d062e980033de9e"}, cookie: { domain: ".pose.com" } });
 </script>
 
 
@@ -589,4 +475,4 @@ Venice, CA 90291
 </div>
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
