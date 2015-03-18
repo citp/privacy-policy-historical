@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easygoodhealth.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008104129id_/http%3A//www.easygoodhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easygoodhealth.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318193946id_/http%3A//www.easygoodhealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,4 +54,4 @@ EasyGoodHealth sites sometimes offer contests, sweepstakes, or promotions spons
 EasyGoodHealth may need to change this privacy policy from time to time in order to address new issues, evolving technologies, changes on our sites, or business practices. EasyGoodHealth will post those changes so you will always know what information we gather and how we might use that information. Please refer back to this policy regularly.
 
 **What about data security?**  
-To ensure the security of your data – including address information and credit card numbers - EasyGoodHealth always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures that protect against the loss, misuse, or alteration of information that we have collected from you.
+To ensure the security of your data – including address information and credit card numbers – EasyGoodHealth always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures that protect against the loss, misuse, or alteration of information that we have collected from you.
