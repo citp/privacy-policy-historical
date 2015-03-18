@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-goi.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127022649id_/http%3A//www.e-goi.com/en/introducao/pol-tica-anti-spam) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-goi.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318073324id_/http%3A//www.e-goi.com/en/introducao/pol-tica-anti-spam) for the most accurate reproduction.*
 
 # E-goi :: Privacy and Anti-Spam Policy
 
@@ -34,7 +34,7 @@ E-goi defines spam as messages:
 \- Sent to any contact databases without the knowledge and prior consent of the contacts included therein to receive those messages.  
 \- Sent to contacts in a database who have requested to be removed from that database.  
 \- That do not have a valid, verifiable sender identification.  
-\- Containing any false or misleading information or promoting racist, discriminating, illegal or fraudulent activity in the message header, subject line or body.
+\- Containing any false or misleading information or promoting racist, discriminating, illegal or fraudulent activity in the message header, subject line or body. 
 
 * * *
 
@@ -67,7 +67,3 @@ Accessing an E-goi account always requires prior validation and can be secured o
 We run regular multi-tier security tests on the E-goi site and services, which are also equipped with a number of safeguards to prevent abuse and outside intrusion.
 
 We send periodic emails to clients and visitors who opt in to receive our mailings. We measure opens by inserting a trackable image (also known as beacon) in the email. When downloaded by recipients, the image allows us to know which recipients opened the email.
-
-* * *
-
-### Anti-spam organisations
