@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planner5d.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022024358id_/https%3A//planner5d.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planner5d.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318160523id_/https%3A//planner5d.com/pages/privacy) for the most accurate reproduction.*
 
-# Planner 5D - Privacy policy
+# Política de privacidad - Planner 5D
 
 (Version 01. April 18th 2012) 
 
@@ -42,6 +42,6 @@ We reserve the right to modify this Privacy policy statement at any time, so ple
 
 If we make any changes to this Privacy policy, we will notify you here: www.planner5d.com/pp. 
 
-If you have any questions or suggestions regarding our Privacy policy, please contact us at: hello@planner5d.com. 
+If you have any questions or suggestions regarding our Privacy policy, please contact us at: [hello@planner5d.com](mailto:'hello@planner5d.com'). 
 
-This Privacy policy of the Planner5D project is a legal part of the [Terms of Service](https://web.archive.org/terms/) of the Planner5D project 
+This Privacy policy of the Planner5D project is a legal part of the Terms of Service of the Planner5D project.
