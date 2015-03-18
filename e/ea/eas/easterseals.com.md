@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easterseals.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703000318id_/http%3A//www.easterseals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easterseals.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318052317id_/http%3A//www.easterseals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easter Seals | Easter Seals Online Network Privacy Policy
 
@@ -25,7 +25,7 @@ You can contact Easter Seals for more information related to the privacy of the 
 
 **Mail:** 233 South Wacker Drive, Suite 2400, Chicago, IL 60606.  
 **Phone:** 312-726-6200  
-**Online:** [Click here to contact Easter Seals via email.](http://www.easterseals.com/who-we-are/contact-us/ "Link to Easter Seals contact form") Your request will be answered within 2-3 business days.
+**Online:** [Click here to contact Easter Seals via email.](https://web.archive.org/who-we-are/contact-us/ "Link to Easter Seals contact form") Your request will be answered within 2-3 business days.
 
 ### Notification of Change
 
@@ -39,7 +39,7 @@ Easter Seals has partnered with Convio, Inc. to power the Web content, email and
 
 Neither Easter Seals nor Convio store sensitive information such as credit card numbers. When an online transaction is completed through the Easter Seals Online Network, such as a charitable contribution, credit card information is used solely for the purpose of completing that specific transaction and is not retained in the Easter Seals or Convio database.
 
-Easter Seals will not sell, share or exchange personal contact information collected from this Web site with other organizations. If a user has a previous relationship with Easter Seals through another channel (i.e., mail, phone), Easter Seals will occasionally rent or exchange those names and addresses with other organizations as a way of providing extra funds to help support services. If you do not want to participate in this program, [please let us know.](http://www.easterseals.com/who-we-are/contact-us/)
+Easter Seals will not sell, share or exchange personal contact information collected from this Web site with other organizations. If a user has a previous relationship with Easter Seals through another channel (i.e., mail, phone), Easter Seals will occasionally rent or exchange those names and addresses with other organizations as a way of providing extra funds to help support services. If you do not want to participate in this program, [please let us know.](https://web.archive.org/who-we-are/contact-us/)
 
 Visitors to the Easter Seals Online Network are not required to share any personally identifiable information. Users who do not wish to share personal information when visiting the Easter Seals Online Network can still access the Network's Web pages and the valuable information provided.
 
@@ -47,17 +47,17 @@ Visitors to the Easter Seals Online Network are not required to share any person
 
 Easter Seals provides site visitors with the opportunity to opt-out of receiving our online and offline communications.
 
-If you would like to opt-out of receiving email communications [please update your user profile.](http://www.easterseals.com/site/ConsProfileUser?dispMode=edit "update your profile") Email unsubscribe requests are processed immediately.
+If you would like to opt-out of receiving email communications [please update your user profile.](https://web.archive.org/site/ConsProfileUser?dispMode=edit "update your profile") Email unsubscribe requests are processed immediately.
 
-To discontinue the receipt of postal mail, please [contact Easter Seals.](http://www.easterseals.com/who-we-are/contact-us/) Shortly, Easter Seals will be adding the capability to remove your name from our postal mailing list online. You'll need to register as user of the Easter Seals Online Network. Please note: there is a 8-12 week lapse period due to the fact that a subsequent mailing may already be in production. If you do receive another mailing, please disregard it.
+To discontinue the receipt of postal mail, please [contact Easter Seals.](https://web.archive.org/who-we-are/contact-us/) Shortly, Easter Seals will be adding the capability to remove your name from our postal mailing list online. You'll need to register as user of the Easter Seals Online Network. Please note: there is a 8-12 week lapse period due to the fact that a subsequent mailing may already be in production. If you do receive another mailing, please disregard it.
 
 ### Your California Privacy Rights
 
-To review a special notice for California residents only per _California Privacy Law (SB27): Exchanging, Renting, Reselling Personal Information_ , [please visit the "Your California Privacy Rights" section.](http://www.easterseals.com/california-privacy-policy.html)
+To review a special notice for California residents only per _California Privacy Law (SB27): Exchanging, Renting, Reselling Personal Information_ , [please visit the "Your California Privacy Rights" section.](https://web.archive.org/california-privacy-policy.html)
 
 ### Correct/Update Your Profile
 
-Easter Seals offers the option to change and modify personally identifiable information. Upon your request, Easter Seals will remove personally identifying information retained in organizational databases. If you are a registered user of this site, [you can access your Easter Seals profile and update your contact information and user preferences by clicking here.](http://www.easterseals.com/site/ConsProfileUser?dispMode=edit "update profile")
+Easter Seals offers the option to change and modify personally identifiable information. Upon your request, Easter Seals will remove personally identifying information retained in organizational databases. If you are a registered user of this site, [you can access your Easter Seals profile and update your contact information and user preferences by clicking here.](https://web.archive.org/site/ConsProfileUser?dispMode=edit "update profile")
 
 Easter Seals reserves the right to maintain information on users who have had their access to the Easter Seals Online Network blocked.
 
