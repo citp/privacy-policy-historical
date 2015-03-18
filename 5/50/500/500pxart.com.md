@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 500pxart.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175056id_/http%3A//www.500pxart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 500pxart.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318233328id_/http%3A//www.500pxart.com/privacy.html) for the most accurate reproduction.*
 
 # 500px Art / Privacy Policy
 
