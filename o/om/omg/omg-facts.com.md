@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the omg-facts.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326073722id_/http%3A//www.omg-facts.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omg-facts.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318191726id_/http%3A//www.omgfacts.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Interesting Facts and Fun Facts - OMG Facts
+# Privacy Policy - OMG Facts - The World's #1 Fact Source
 
-Your privacy is important to Spartz Inc. This privacy statement provides information about the personal information Spartz Inc collects, and the ways in which Spartz Inc uses that personal information. 
+Your privacy is important to Spartz, LLC. This privacy statement provides information about the personal information Spartz, LLC collects, and the ways in which Spartz, LLC uses that personal information. 
 
 ### Personal information collection
 
-The types of personal information Spartz Inc collects are: 
+The types of personal information Spartz, LLC collects are: 
 
   * Information about your use of this website
   * Information that you provide for the purposes of registering for this website
   * Information about transactions carried out over this website
   * Information you provide for the purpose of subscribing to the website services
   * Demographic and interests reporting
-  * Any other information that you send Spartz Inc
+  * Any other information that you send Spartz, LLC
 
 
 
 ### Using Personal Information
 
-Spartz Inc may use your personal information to: 
+Spartz, LLC may use your personal information to: 
 
   * Administer this website
   * Personalize this website for you
@@ -32,15 +32,15 @@ Spartz Inc may use your personal information to:
 
 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. Where Spartz Inc discloses your personal information to its agents or sub-contractors, for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Spartz Inc may disclose your personal information to the extent that is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. Where Spartz, LLC discloses your personal information to its agents or sub-contractors, for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Spartz, LLC may disclose your personal information to the extent that is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights. 
 
 ### Securing your Data
 
-Spartz Inc will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. Spartz Inc will store all the information you provide (on its secure servers). [Information relating to electronic transfers entered into via this website will be protected via encrypted technology.] 
+Spartz, LLC will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. Spartz, LLC will store all the information you provide (on its secure servers). [Information relating to electronic transfers entered into via this website will be protected via encrypted technology.] 
 
 ### Cross-border Data Transfers
 
-Information that Spartz Inc collects may be stored and processed in and transferred between any of the countries in which Spartz Inc operates to enable the use of information in accordance with this privacy policy. [In addition, personal information that you submit for publication on this website will be published on the internet and may be available around the world.] You agree to such cross-border transfers of personal information. 
+Information that Spartz, LLC collects may be stored and processed in and transferred between any of the countries in which Spartz, LLC operates to enable the use of information in accordance with this privacy policy. [In addition, personal information that you submit for publication on this website will be published on the internet and may be available around the world.] You agree to such cross-border transfers of personal information. 
 
 ### Using Cookies
 
@@ -52,11 +52,11 @@ By using our site, you consent to our website's privacy policy.
 
 ### Updating this Statement
 
-Spartz Inc may update this privacy policy by posting a new version on this website. You should check the page periodically to ensure you are familiar with any changes. 
+Spartz, LLC may update this privacy policy by posting a new version on this website. You should check the page periodically to ensure you are familiar with any changes. 
 
 ### Other Websites
 
-This website contains links to other websites. Spartz Inc is not responsible for the privacy policies or practices of any third party. 
+This website contains links to other websites. Spartz, LLC is not responsible for the privacy policies or practices of any third party. 
 
 ### Children's Online Privacy Protection Act Compliance
 
