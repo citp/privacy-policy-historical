@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the woai.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025183726id_/http%3A//www.woai.com/cc-common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woai.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318204711id_/http%3A//www.woai.com/cc-common/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | News Radio 1200 WOAI
 
-[Versión en Español](https://web.archive.org/web/20141110162912id_/http://www.woai.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
+[Versión en Español](https://web.archive.org/web/20150324064900id_/http://www.woai.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
 
 UPDATED AS OF: January 27, 2014
 
