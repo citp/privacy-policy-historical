@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131112id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318045108id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
 
 # Optimum | Protecting Your Privacy
 
 Currently viewing account details for: 
-
-__{{CommonHeaderCtrl.currentAlertIndex}}
 
 Currently viewing account details for: 
 
@@ -66,6 +64,17 @@ your billing info right now.
   * Not {{CommonHeaderCtrl.currentLoggedInUser.optimumId}}? Sign out
 
 
+
+Support
+
+#### Service status
+
+  
+
+
+#### {{CommonHeaderCtrl.outage.message}}
+
+#### {{CommonHeaderCtrl.outage.message}}
 
   *   * Search full site for **"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
   * Loading...  
@@ -813,6 +822,14 @@ Melville, NY 11747
 We will review this privacy notice periodically as we deem appropriate and when we change or update the Mobile Applications. Cablevision may, in its sole discretion, change, modify, add, or remove portions of this Notice at any time. Cablevision may notify you of any material changes by making the revised Notice available to you through the Mobile Applications, by written or electronic correspondence, or through an update - required or otherwise - to the application. Your use of the Mobile Applications, following notice of such change, modification or amendment, constitutes your acceptance of the revised privacy notice. If you do not agree to any portion of the revised Notice, you must cease all use of the application.
 
 Effective April 8, 2013 
+
+  * © Copyright 2014 CSC Holdings, LLC.
+
+
+
+  * © Copyright {{CommonFooterCtrl.fullYear}}  CSC Holdings, LLC.
+
+
 
   * © {{CommonFooterCtrl.fullYear}} CSC Holdings, LLC.
   * [](http://www.news12.com/)
