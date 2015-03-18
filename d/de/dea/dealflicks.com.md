@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dealflicks.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813170623id_/https%3A//www.dealflicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealflicks.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318033807id_/https%3A//www.dealflicks.com/privacy-policy) for the most accurate reproduction.*
 
-# Movie Ticket Deals, Discounts, Offers, & Coupons | Dealflicks
+# Privacy Policy | Movie Ticket Deals, Discounts, Offers, & Coupons
 
 At Dealflicks, we want to make your moviegoing experience better. As part of that effort, we want you to feel comfortable when you visit or use our Services (the websites and related mobile apps on which this Privacy Policy is displayed, and the services that we make available though those websites and apps). We also understand that you may have some important questions for us about what information we collect when you use our Service, why we collect that information, and how we may use and disclose it to others. We've created this Privacy Policy to help answer those questions. By using our Services, you are indicating to us that you agree to our collection, use and disclosure of your information, as described in this Privacy Policy. 
 
-#####  WHAT INFORMATION IS COLLECTED? 
+###  WHAT INFORMATION IS COLLECTED? 
 
 Here's what we collect from you when you use the Service: 
 
@@ -18,7 +18,7 @@ We also allow you to integrate various functionalities from other services with 
 
 "Cookies" Information: One form of "automatically collected" information we record is information stored by "cookies." When you use the Service, we may send one or more cookies to your computer or your mobile device. We use both "session" and "persistent" cookies to collect, store, and sometimes track various types of information. A session cookie is one that disappears after you close your browser or our mobile app. While a persistent cookie remains after you close your browser or the mobile app (and may be used by your browser or the mobile app when you later return to the Service), persistent cookies generally can be removed. You can review the appropriate "Help" file in your Web browser or your mobile device to learn the proper way to modify your cookie settings. 
 
-#####  HOW IS THE INFORMATION USED? 
+###  HOW IS THE INFORMATION USED? 
 
 Dealflicks uses the information you provide or that we collect to keep this great thing going-- that is, to develop, operate, maintain, enhance, and provide the Service, to develop new products and services, and to customize and target content that may be more interesting, relevant or useful to you, including advertisements, and for other administrative purposes. 
 
@@ -32,7 +32,7 @@ We may communicate with via email or another form of electronic notification reg
 
 If you are logged into your account and using the Service, we may associate information regarding your usage of the Service with your account and with other information that we have collected about you, such as your search history. If you have not yet established an account with us (or you have not signed into the Service using a third-party login mechanism, described above), we record the searches you perform to a cookie. If that you later establish an account with us, or sign into our Service with that cookie still present on your computer, we may associate the searches recorded on that cookie with your new account. 
 
-#####  HOW IS THE INFORMATION SHARED OR DISCLOSED? 
+###  HOW IS THE INFORMATION SHARED OR DISCLOSED? 
 
 We may provide personally identifiable information to third parties for their use in helping us perform our internal business functions. These are things like processing payments for us, or performing maintenance, security, data analysis, email transmission, or data hosting on our behalf. We will do our best to require these third parties to maintain your information securely, to not use it for purposes other than providing services to us, and to refrain from disclosing the information except when required by law. 
 
@@ -42,31 +42,41 @@ If there is a change in ownership of Dealflicks, including through a merger with
 
 Dealflicks may disclose aggregated or other types of non-personally identifiable information, including "automatically collected" and "cookies" information that is non-personally identifiable, to third parties for various purposes. For example, Dealflicks may disclose non-personally identifiable information to interested third parties to assist them in understanding the usage, viewing, and demographic patterns on the Service, or to enhance your ability to conduct efficient and accurate searches. 
 
-#####  CHOICE. 
+###  CHOICE. 
 
-You may, of course, decline to share certain information with Dealflicks, in which case Dealflicks may not be able to provide to you some of the features and functionality found on the Service. For instance, you may delete, or choose not to accept, cookies from the Service (see "Cookies" Information above for details). And through your account preferences page on the Service, you may update, correct, or delete certain categories of your profile information, and you may change your preferences. Please note that while your changes to your profile information are reflected promptly in active user databases, we may retain all information you previously submitted. If you want your information permanently anonymized, please submit a request to support@dealflicks.com. We may retain any anonymized information for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics. 
+We think that you benefit from a more personalized experience when we know more about you and what you like. However, you can limit the information you provide to Dealflicks, and you can limit the communications that Dealflicks sends to you. 
 
-#####  THIRD-PARTY ADVERTISERS AND ADVERTISING TECHNOLOGY PROVIDERS. 
+You can manage your email and notice preferences by logging into your account through the Dealflicks website, entering the “My Account” section, and selecting “Email Subscriptions,” You can also manage your subscriptions by following subscription management instructions contained in the commercial e-mails that we send you. You may choose to subscribe to some types of messages, and may choose to unsubscribe from others. You may update your subscription preferences at any time. Please note that even if you unsubscribe from promotional email messages, we may still need to contact you with important transactional information related to your account and your purchases. For example, even if you have unsubscribed from our promotional email messages, we will still send you confirmations when you make purchases on the Site. 
+
+You may manage how your browser handles Cookies by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. You can opt-out of being targeted by certain Third-Party Ad-Servers online using the National Advertising Initiative’s Opt-Out Tool, or on TRUSTe’s site. 
+
+You may manage how your mobile device and mobile browser share certain Device Data with Dealflicks, as well as how your mobile browser handles Cookies by adjusting the privacy and security settings on your mobile device. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings. 
+
+You may also manage the sharing of certain Personal Information with us when you connect with us through social networking platforms or applications. Please refer to the privacy policy and settings of the social networking website or application to determine how you may adjust our permissions and manage the interactivity between Dealflicks and your social networking account or your mobile device. 
+
+If you wish to opt out of receiving offers directly from our Business Partners, you can follow the opt-out instructions in the emails that they send you. 
+
+###  THIRD-PARTY ADVERTISERS AND ADVERTISING TECHNOLOGY PROVIDERS. 
 
 Our advertising technology partners may use technology to send, directly to your browser, the advertisements that appear on the Service. Our advertising technology partners automatically receive your IP address and other log file information when this happens. They may also use cookies to serve advertisements to you both on our Service and on other websites and services based on your visits to, and use of the Service, as well as based on your visits to third-party sites and services on the Internet (collectively, "Usage Information"). Our advertising technology partners also may, in accordance with their privacy policies, permit third parties to target advertisements that are displayed to you, both on and off the Service, based on your Usage Information. 
 
 Aside from what is described above, we do not provide personal information to our advertising technology partners without your consent. 
 
-#####  LINKS TO THIRD-PARTY SERVICES. 
+###  LINKS TO THIRD-PARTY SERVICES. 
 
 Our Services may include links to third-party services. When you link to a third-party service, you should understand that our Privacy Policy no longer applies, and that the third-party's privacy practices may not be the same as ours. 
 
-#####  THE SECURITY OF YOUR INFORMATION. 
+###  THE SECURITY OF YOUR INFORMATION. 
 
 Dealflicks employs various physical, managerial, and technical safeguards that are designed to help protect the integrity and security of our systems and to protect against the loss, misuse, and alteration of personally identifiable information that we control. For example, we scramble your password during transmission, and limit the employees who can access personally identifiable information to a small set who need such information to perform their jobs. We are not, however, in a position to guarantee the security of your information. 
 
 If Dealflicks learns of a security systems breach, then we may attempt to notify you electronically, either by email on via our website, so that you can take appropriate protective steps. These methods of communicating with you are only examples. We retain the right to decide which method we will use to notify you of a security breach, and will do so consistent with our legal obligations. 
 
-#####  WHERE WE OPERATE 
+###  WHERE WE OPERATE 
 
 Our servers and data centers are located in the United States. If you choose to use the Service from outside the U.S., then you should know that you are transferring your personally identifiable information outside of your region and into the U.S. for storage and processing. By providing your personally identifiable information to us through your use of the Service, you agree to that transfer, storage, and processing in the U.S. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Service. You should know that each region can have its own privacy and data-security laws, some of which may be less stringent than your own region. 
 
-#####  HOW WILL YOU KNOW WHETHER DEALFLICKS' PRIVACY POLICY HAS CHANGED? 
+###  HOW WILL YOU KNOW WHETHER DEALFLICKS' PRIVACY POLICY HAS CHANGED? 
 
 We may occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date at the bottom of the Privacy Policy. If we substantially revise the policy (and we will use our discretion to determine if the revision is substantial) we may send e-mails to our registered users containing a link to the updated policy. We encourage you to review this Privacy Policy from time to time to stay informed about how we are protecting the personally identifiable information we collect. If you continue to use our Services after we post an update to this Privacy Policy, this will indicate your acceptance of the update. 
 
