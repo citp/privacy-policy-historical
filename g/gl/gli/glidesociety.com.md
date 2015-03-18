@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glidesociety.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701032610id_/https%3A//www.jumptuit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glidesociety.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318122311id_/https%3A//www.jumptuit.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - jumptuit
 
@@ -77,4 +77,4 @@ This Jumptuit Service is not directed to children under 13. We do not knowingly 
 
 **VIII. How to contact us**
 
-If you have any questions about this Policy or any of the practices described herein, please contact us at 41 Madison Avenue 31st Floor New York, NY 10016 or [support@Jumptuit.com](mailto:support@Jumptuit.com). 
+If you have any questions about this Policy or any of the practices described herein, please contact us at 140 Broadway 46th Floor, New York, NY 10005 or [support@Jumptuit.com](mailto:support@Jumptuit.com). 
