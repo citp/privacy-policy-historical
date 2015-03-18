@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the havetherelationshipyouwant.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213021936id_/http%3A//www.havetherelationshipyouwant.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the havetherelationshipyouwant.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318162035id_/http%3A//www.havetherelationshipyouwant.com/privacy/index.html) for the most accurate reproduction.*
 
 # Have The Relationship You Want | Your Privacy
 
@@ -6,7 +6,7 @@ Read very carefully:
 
 ## Who do we contact?
 
-Amare Inc (Have The Relationship You Want) only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. 
+Have The Relationship You Want only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. 
 
 ## What information do we collect?
 
@@ -34,7 +34,7 @@ There is no central “opt out” place that we are aware of. There are efforts 
 
 Regardless of the state of privacy as a whole, you can avoid us finding out extra demographic information about you by doing the following:
 
-1\. email us using our [ contact page](https://web.archive.org/web/20140213021936id_/http%3A//www.havetherelationshipyouwant.com/contact.html)
+1\. email us using our [ contact page](https://web.archive.org/web/20150318162035id_/http%3A//www.havetherelationshipyouwant.com/contact.html)
 
 2\. in the subject line write: “Privacy - opt out of demographic information”
 
@@ -74,17 +74,17 @@ Clear GIFs can "work with" existing cookies on a computer if they are both from 
 
 Your email information (email address, first name) is stored at the list server that delivers Have The Relationship You Want newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive Have The Relationship You Want's newsletters.
 
-All of the newsletters that are sent to you by Have The Relationship You Want include an unsubscribe link in them. You can remove yourself at any time from our newsletters by [unsubscribing here](https://web.archive.org/web/20140213021936id_/http%3A//www.havetherelationshipyouwant.com/help/unsubscribe.html).
+All of the newsletters that are sent to you by Have The Relationship You Want include an unsubscribe link in them. You can remove yourself at any time from our newsletters by [unsubscribing here](https://web.archive.org/web/20150318162035id_/http%3A//www.havetherelationshipyouwant.com/help/unsubscribe.html).
 
-If you have purchased any of my programs, you will continue to receive mailings related to your purchase. If you are an affiliate partner, then you will continue to receive mailings related to our affiliate program. If you would like to be removed from any of these mailings, please [contact my support team](https://web.archive.org/web/20140213021936id_/http%3A//www.havetherelationshipyouwant.com/contact.html) and they can assist you.
+If you have purchased any of my programs, you will continue to receive mailings related to your purchase. If you are an affiliate partner, then you will continue to receive mailings related to our affiliate program. If you would like to be removed from any of these mailings, please [contact my support team](https://web.archive.org/web/20150318162035id_/http%3A//www.havetherelationshipyouwant.com/contact.html) and they can assist you.
 
 ## Disclaimer
 
 This policy may be changed at any time at Have The Relationship You Want's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised September 19, 2011.
 
-If you have any questions or concerns regarding our privacy policy please send us your question by [going here](https://web.archive.org/web/20140213021936id_/http%3A//www.havetherelationshipyouwant.com/contact.html). You may also send a letter to:
+If you have any questions or concerns regarding our privacy policy please send us your question by [going here](https://web.archive.org/web/20150318162035id_/http%3A//www.havetherelationshipyouwant.com/contact.html). You may also send a letter to:
 
 Amare Inc  
 Attn: "Have The Relationship You Want" Support Team  
-8605 Santa Monica Blvd #95558  
-Los Angeles, CA 90069 
+9450 SW Gemini Dr. #95558  
+Beaverton, OR 97008-7105 
