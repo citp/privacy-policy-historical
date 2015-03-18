@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007235300id_/http%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318134145id_/https%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy |Qwertee : Limited Edition Cheap Daily T Shirts | Gone in 24 Hours | T-shirt Only £8/€10/$12 | Cool Graphic Funny Tee Shirts
 
@@ -24,7 +24,7 @@ We may collect information that can identify you ("personal information"), such 
 
 Cookies are small text files that are stored in the hard drive of your computer by websites that you visit. We use cookies to improve your experience and to provide services and advertising on our Site. In particular, cookies are used to keep a record of your preferences. 
 
-We also use temporary session cookies which enable a visitor’s web browser to remember which pages on this website have already been visited. Please see our separate Cookies Policy: [www.qwertee.com/cookies](http://www.qwertee.com/cookies) for more information on the type of cookies we use and why. 
+We also use temporary session cookies which enable a visitor’s web browser to remember which pages on this website have already been visited. Please see our separate Cookies Policy: [www.qwertee.com/cookies](https://www.qwertee.com/cookies) for more information on the type of cookies we use and why. 
 
 Most Web browsers automatically accept cookies, but, if you wish, you can change the settings on your browser to refuse all cookies. However, you should note that disabling cookies may result in some parts of the Site not working efficiently or in slower downloads.
 
@@ -53,7 +53,7 @@ We will not share information with any third parties except when you have been a
 
 ## CAPACITY:
 
-Any person who registers as a user of this Site represents that they are 18 years of age or older or that they are 13 years of age or over and have obtained the consent of a parent or legal guardian. We cannot and are not required to verify the age of users of the Site. We do not knowingly collect information from children under the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us using the form at [www.qwertee.com/contact](http://www.qwertee.com/contact)
+Any person who registers as a user of this Site represents that they are 18 years of age or older or that they are 13 years of age or over and have obtained the consent of a parent or legal guardian. We cannot and are not required to verify the age of users of the Site. We do not knowingly collect information from children under the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us using the form at [www.qwertee.com/contact](https://www.qwertee.com/contact)
 
 If you are aged 13 or over but under the age of 18 you must obtain the consent of a parent or legal guardian each time you post any information on our Site. 
 
@@ -106,19 +106,19 @@ Qwertee Limited trading as Qwertee reserves the right to transfer information in
 
 ## CONTROLLING YOUR PERSONAL INFORMATION:
 
-You may request details under the Data Protection Acts 1988-2003 of personal information which we hold about you or rectify any personal information which is incorrect or incomplete. If you would like a copy of the information held on you please contact us at via the contact form: [www.qwertee.com/contact](http://www.qwertee.com/contact)
+You may request details under the Data Protection Acts 1988-2003 of personal information which we hold about you or rectify any personal information which is incorrect or incomplete. If you would like a copy of the information held on you please contact us at via the contact form: [www.qwertee.com/contact](https://www.qwertee.com/contact)
 
 If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us in writing using this contact form [www.qwertee.com/contact](http://www.qwertee.com/contact) We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us in writing using this contact form [www.qwertee.com/contact](https://www.qwertee.com/contact) We will promptly correct any information found to be incorrect.
 
 If someone else has posted your personal information on this Site without your permission and you would like it removed please contact us as using this contact form [www.qwertee.com/contact](http://www.qwertee.com/contact)
 
-Please note that is possible to permanently delete any account you registered with us. Please contact us using this contact form to do so: [www.qwertee.com/contact](http://www.qwertee.com/contact)
+Please note that is possible to permanently delete any account you registered with us. Please contact us using this contact form to do so: [www.qwertee.com/contact](https://www.qwertee.com/contact)
 
 ## HOW TO CONTACT US:
 
-If you have any questions about our Privacy Policy, our Cookies Policy or our information practices, please contact us by email via our contact form on the Qwertee.com website: [www.qwertee.com/contact](http://www.qwertee.com/contact) or by postal mail:
+If you have any questions about our Privacy Policy, our Cookies Policy or our information practices, please contact us by email via our contact form on the Qwertee.com website: [www.qwertee.com/contact](https://www.qwertee.com/contact) or by postal mail:
 
 Qwertee.com (Qwertee Limited)  
 13 Upper Baggot Street  
