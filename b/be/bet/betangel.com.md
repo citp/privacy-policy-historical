@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betangel.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204338id_/http%3A//www.betangel.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betangel.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318182429id_/http%3A//www.betangel.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Bet Angel Professional - Betfair software for the betting exchanges.
 
