@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socketloop.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618225402id_/http%3A//www.socketloop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socketloop.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318113018id_/https%3A//www.socketloop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of Socket Loop
+# Privacy Policy of Socket Loop - SocketLoop
 
 SocketLoop.com is web site that provides tutorials and also act as a venue for technical professionals ("Users") to share knowledge and network with other technical professionals. 
 
@@ -31,7 +31,7 @@ This site contains links to other sites, including those of advertisers, whose i
 This site uses a software technology called "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. Cookies themselves do not contain any personally identifiable information. Although cookies could enable us to relate a visitor's use of this Web site to personal information that a visitor has provided, such as an e-mail address, we do not use them for this purpose. We do use "cookies" to determine how many visitors we have and how often they visit various sections of the site.
 
 **CONTACT US**  
-If you have any questions, comments, or concerns regarding our privacy policy and/or practices, please contact us at socketloop@gmail.com .
+If you have any questions, comments, or concerns regarding our privacy policy and/or practices, please contact us at admin@socketloop.com .
 
 **THIRD PARTY COOKIES**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
