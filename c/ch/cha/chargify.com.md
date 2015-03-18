@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chargify.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023024528id_/https%3A//chargify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargify.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318155233id_/https%3A//www.chargify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chargify
 
-**Information Collection**. Chargify, LLC is the sole owner of the information collected on [http://chargify.com](https://web.archive.org/web/20141023024528id_/https://chargify.com/privacy-policy/index.html). Chargify collects information from our users at several different points on our Web site.
+**Information Collection**. Chargify, LLC is the sole owner of the information collected on [http://chargify.com](https://web.archive.org/web/20150318155233id_/https://www.chargify.com/privacy-policy/index.html). Chargify collects information from our users at several different points on our Web site.
 
 **Order** We request information from the user on our order form. A user must provide contact information (such as name and email). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
 
