@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the at.govt.nz privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202153650id_/https%3A//at.govt.nz/about-us/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the at.govt.nz privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318082108id_/https%3A//at.govt.nz/about-us/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -100,6 +100,6 @@ We may change this Privacy Policy from time to time.
 
 ## 9\. Acceptance
 
-The privacy policy forms a part of our [Website Terms and Conditions](https://web.archive.org/about-us/about-this-site/terms-conditions/website-terms-conditions/ "Website Terms & Conditions") and should be read in conjunction with them. By viewing and using our websites or related services offered in conjunction with our websites, you agree to Auckland Transport collecting and using your personal informal information as set out in this Privacy Policy. If you do not agree to anything in this Privacy Policy or if you do not wish to receive marketing material from Auckland Transport, you can either [ contact us](mailto:PrivacyOfficer@aucklandtransport.govt.nz "Email request") or you can stop accessing or using our websites.
+The privacy policy forms a part of our [Website Terms and Conditions](https://web.archive.org/about-us/about-this-site/terms-conditions/website-and-mobile-app-terms-conditions/ "Website Terms & Conditions") and should be read in conjunction with them. By viewing and using our websites or related services offered in conjunction with our websites, you agree to Auckland Transport collecting and using your personal informal information as set out in this Privacy Policy. If you do not agree to anything in this Privacy Policy or if you do not wish to receive marketing material from Auckland Transport, you can either [ contact us](mailto:PrivacyOfficer@aucklandtransport.govt.nz "Email request") or you can stop accessing or using our websites.
 
 If you decide not to provide the personal information requested when you use, register or open an account on our website, this may result in services or products (including related services offered in conjunction with our websites) not being offered or provided to you.
