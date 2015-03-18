@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxtelecom.co.za privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720023827id_/https%3A//www.voxtelecom.co.za/pdf/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxtelecom.co.za privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318192534id_/https%3A//www.voxtelecom.co.za/pdf/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
