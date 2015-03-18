@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetbusiness.co.uk privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730224552id_/http%3A//www.internetbusiness.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetbusiness.co.uk privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318123358id_/http%3A//www.internetbusiness.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy : Internet Business
 
