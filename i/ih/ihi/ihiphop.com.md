@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ihiphop.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703035441id_/http%3A//www.ihiphop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihiphop.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318221244id_/http%3A//www.ihiphop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iHipHopiHipHop
+# Privacy Policy
 
 **Privacy Policy**  
 Welcome to our website, [www.iHipHop.com](http://www.ihiphop.com/) and our affiliate sites. (the “Website”). We are committed to protecting your privacy. This policy provides you with details on the information we collect from you and the uses we make of your personal information.  This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit our Website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.
