@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pricezombie.com privacy policy that was archived on 2014-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141224151543id_/http%3A//www.pricezombie.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pricezombie.com privacy policy that was archived on 2015-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150318201433id_/https%3A//www.pricezombie.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta http-equiv="content-language" content="en-us">
@@ -7,133 +7,123 @@
 <meta name="description" content="PriceZombie privacy policy and terms of service">
 <meta name="keywords" content="terms of service, privacy policy">
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gppjmcjmigdbfnpilblnogepgpolhcho">
-<title>PriceZombie Privacy Policy</title>
-<link rel="stylesheet" type="text/css" media="screen" href="/css/font-non-ie.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/full.css?id=251">
-<script type="text/javascript" src="/js/full.js?id=251"></script>
+<meta name="viewport" content="width=900, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<title>Privacy Policy</title>
+<link href="https://fonts.googleapis.com/css?family=RobotoDraft" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/full.css?id=693">
+<script type="text/javascript" src="/js/full.js?id=693"></script>
 <!--[if lt IE 9]><script language="javascript" type="text/javascript" src="/js/excanvas.min.js"></script><![endif]-->
 </head>
 <body>
 <div id="wrap" style="min-width:700px;"><a name="top"></a>
 <div id="container">
-<div id="header" style="background-color:#000;">
-<div class="userLinks" style="z-index:1000000;"><div class="fpBlurb">
-<a href="#" class="doLogin">Login</a>
-or
-<a href="#" class="doRegister">Register</a>
+<ul onclick="" class="zmenu zm-response-switch zm-full-width zm-effect-fade">
+<li class="zm-logo"><a href="/"><img title="zettaMenu logo image" height="27" src="/img/pricezombie.png" alt=""></a></li>
+<li><a href="/stores">Stores &amp; Coupons</a></li>
+<li><a href="/price-drops">Price Drops</a>
+<ul class="w-200">
+<li><a href="/live-price-drops">Live Feed</a></li>
+<li><a href="/product-largest-price-drops">Top Drops</a></li>
+<li><a href="/product-lowest-price-ever">Lowest Ever Prices</a></li>
+</ul>
+</li>
+<li class="zm-right-item"><a href="/change-region"><img src="/img/flag/us.png" class="flag"> USA</a></li>
+<li class="zm-right-item"><a href="#" onclick="dynLogin();">Login / Register</a></li>
+<li class="zm-search zm-right-item">
+<form onsubmit="return doProductSearch('qMain','ttagid', 'tstoreid');">
+<input type="hidden" id="ttagid" value="">
+<input type="hidden" id="tstoreid" value="">
+<input id="qMain" name="q" type="search" style="font-size:0.85em;" placeholder="Search by keywords or URLs" value="">
+<label for="qMain" class="fa menuSearch" style=""></label>
+</form>
+</li>
+</ul>
+<script language="javascript" type="text/javascript">
+$(function() {$("#qMain")
+.bind( "keydown", function( event ) {if ( event.keyCode === $.ui.keyCode.TAB && $( this ).data( "ui-autocomplete" ).menu.active ) {event.preventDefault();}})
+.autocomplete({delay: 300,minLength: 2,source: function( request, response ) {url = "/productautocomplete/q/" + request.term;$.getJSON(url, response );},focus: function() { return false; },select: function( event, ui ) {redirectUrl = "/searchproduct/q/" + encodeURIComponent($(this).val(ui.item.value).val());window.location.href = redirectUrl;return false;}});});
+</script><div id="ajaxLogin"></div>
 </div>
-</div>
-<h1 style="margin:15px;" class="pointer" onclick="window.location = '/';">
-<img alt="PriceZombie hand" src="/img/fp/hand-logo.gif" style="padding-left:8px;padding-right:4px;float:left;">
-<span class="textLogoThin" style="margin-top:10px;float:left;">Price</span>
-<span style="margin-top:10px;float:left;" class="textLogoThin">Zombie</span>
-</h1>
+<div class="fixed"></div>
+<div id="navigation" class="breadcrumb">
+<div class="current_page_item">PriceZombie Privacy Policy</div> </div>
 <div class="fixed"></div>
 </div>
-<div class="menu_wrapper_full menu_light_theme">
-<div class="menu_container menu_black">
-<ul class="menu">
-<li class="menuitem_nodrop"><a href="/price-drops" class="drop">Price Drops</a></li>
-<li class="menuitem_nodrop"><a href="/stores" class="drop">Stores</a></li>
-<li class="menuitem_nodrop"><a href="/priceTrends" class="drop">Price Trends</a></li>
-<li class="menuitem_nodrop"><a href="/priceProtection" class="drop">Price Protection Tracker</a></li>
-<li class="menuitem_nodrop"><a href="/blog" class="drop">Blog</a></li>
-</ul>
-</div>
-</div>
-<div class="clear"></div>
 <div id="content">
 <div id="main-outer">
-<div id="top-shadow"></div>
-<div id="main" style="margin-left:20px;">
-<p style="margin-top:10px;">&nbsp;</p>
-<h2><a name="goodPrice"></a><span class="fpSayThin">PriceZombie</span> <span class="fpSayBold">Privacy Policy</span></h2>
-<div class="fpText">
+<div id="main-full" style="margin-left:20px;">
+<div class="fpText card" style="padding:20px;margin-bottom:40px;background:#f7f7f7;border-bottom: 2px solid #5F8DBB;">
 Effective July 13, 2013
 <p>&nbsp;</p>
 This document is our Privacy Policy, which describes the information we collect and how it is used.
 This Privacy Policy applies to all interactions with PriceZombie.com. Please read this Privacy Policy carefully. Your use of and/or registration with PriceZombie will constitute your agreement to our policy. If you cannot agree to the terms and conditions set forth below, please do not use our services. Additionally, our Privacy Policy is part of our User Agreement, and by using the site you agree to both.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Privacy is a Right</h2>
-<div class="fpText">
+<h5><a name="goodPrice"></a>Privacy is a Right</h5>
+<div style="margin-bottom:40px;">
 Privacy is not a gift we give to you. You have a right to privacy. We take that right seriously here at PriceZombie.
-<p style="margin-top:8px;">&nbsp;</p>
 This notice explains our online information practices and the choices you can make about the way your information is collected and used.
-<p style="margin-top:8px;">&nbsp;</p>
 Some price tracking and comparison sites serve two masters - they provide users with the information they want, while tracking the users shopping habits and selling that information to merchants.
-<p style="margin-top:8px;">&nbsp;</p>
 YOU are PriceZombie's only customer. PriceZombie has a strict policy not to share, rent or sell data to anyone without your electronic consent.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Your Private Information is Never For Sale</h2>
-<div class="fpText">Unless compelled by law to divulge information, we do not sell or otherwise give access to any information collected about our users to any third party.
+<h5><a name="goodPrice"></a>Your Private Information is Never For Sale</h5>
+<div style="margin-bottom:40px;">Unless compelled by law to divulge information, we do not sell or otherwise give access to any information collected about our users to any third party.
 Anonymous, aggregated information that cannot be linked back to an individual user may be made available to third parties in order to provide better services.
 For example, if data shows an increase in visitors from a special interest site, we may use that information to invite the participation of more stores that would interest that demographic.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>The Information We Collect</h2>
-<div class="fpText">This notice applies to all information collected or submitted on the PriceZombie.com website, our extensions and bookmarklet.</div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Information Collection</h2>
-<div class="fpText">PriceZombie requests personally identifiable information from you, including contact information such as your e-mail address, if you register to opt in to services such as our WatchList and Price Protection Notification.
-<p style="margin-top:8px;">&nbsp;</p>
+<h5><a name="goodPrice"></a>The Information We Collect</h5>
+<div style="margin-bottom:40px;">This notice applies to all information collected or submitted on the PriceZombie.com website, our extensions and bookmarklet.</div>
+<h5><a name="goodPrice"></a>Information Collection</h5>
+<div style="margin-bottom:40px;">PriceZombie requests personally identifiable information from you, including contact information such as your e-mail address, if you register to opt in to services such as our WatchList and Price Protection Notification.
 We need your email address to send you a notification if the product you are watching has dropped in price. We do not spam your email or sell your email address.
-<p style="margin-top:8px;">&nbsp;</p>
 Our extensions work by identifying products when you connect to our supported retailers. For that reason our extensions need to "see" the web pages you visit.
 If the url does not match that of a supported retailer, the program ignores that page. It does not save or transmit any information.
 If the url is the same as a product page on a supported retailer, our indexer will check if we have price history for the product.
 We publish the results in the form of price history graphs and price comparisons for you to view.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Our Supported Retailers.</h2>
-<div class="fpText">PriceZombie helps you find deals. PriceZombie does not sell products.
-<p style="margin-top:8px;">&nbsp;</p>
+<h5><a name="goodPrice"></a>Our Supported Retailers.</h5>
+<div style="margin-bottom:40px;">PriceZombie helps you find deals. PriceZombie does not sell products.
 If you click a link on PriceZombie and want to purchase an item from a supported retailer, please take the time to carefully review their Privacy Policy. Transactions occur between you and the retailer. PriceZombie is not responsible for information you provide retailers or what they do with that information.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Promotional Communications</h2>
-<div class="fpText">PriceZombie uses Twitter and Facebook to send communications on products, services, special deals, promotions and news. You can also find us on GooglePlus and Reddit.com. Just click on the link icons at the bottom of our home page, and unfriend us when you no longer wish to see our communications.
+<h5><a name="goodPrice"></a>Promotional Communications</h5>
+<div style="margin-bottom:40px;">PriceZombie uses Twitter and Facebook to send communications on products, services, special deals, promotions and news. You can also find us on GooglePlus and Reddit.com. Just click on the link icons at the bottom of our home page, and unfriend us when you no longer wish to see our communications.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Customer Service</h2>
-<div class="fpText">Based upon the personally identifiable information you provide us, we will send you a welcoming e-mail to verify your signup. We will also communicate with you in response to your inquiries, and when the items in your watchlist or price protection list meet price drop criteria.
+<h5><a name="goodPrice"></a>Customer Service</h5>
+<div style="margin-bottom:40px;">Based upon the personally identifiable information you provide us, we will send you a welcoming e-mail to verify your signup. We will also communicate with you in response to your inquiries, and when the items in your watchlist or price protection list meet price drop criteria.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Email Address Verification</h2>
-<div class="fpText">When you register we will send you an email in order to verify your email address really is yours. If you lose your password and want to reset it, we will send an email with instructions to the verified email you used at registration.
+<h5><a name="goodPrice"></a>Email Address Verification</h5>
+<div style="margin-bottom:40px;">When you register we will send you an email in order to verify your email address really is yours. If you lose your password and want to reset it, we will send an email with instructions to the verified email you used at registration.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Cookies</h2>
-<div class="fpText">A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on our sites. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You can remove cookies by following directions provided in your Internet browser's "help" file.
+<h5><a name="goodPrice"></a>Cookies</h5>
+<div style="margin-bottom:40px;">A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on our sites. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You can remove cookies by following directions provided in your Internet browser's "help" file.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Analytics Cookies</h2>
-<div class="fpText">We use a tool called Google Analytics to help us understand how users interact with our website.
+<h5><a name="goodPrice"></a>Analytics Cookies</h5>
+<div style="margin-bottom:40px;">We use a tool called Google Analytics to help us understand how users interact with our website.
 It tells us aggregate usage and traffic information, such as how the site was accessed, how long visitors stayed, and the number of first-time visitors to the site.
 By knowing how people use the site, we can make it better. No personal information is transmitted to Google Analytics.
 To learn more about Google Analytics and how it uses your data, please visit <a href="http://www.google.com/analytics/learn/privacy.html">http://www.google.com/analytics/learn/privacy.html</a>.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Disabling Cookies</h2>
-<div class="fpText">Most browsers include an option to clear existing cookies or reject new ones. However, if you do this, portions of the PriceZombie website may not function as intended.
+<h5><a name="goodPrice"></a>Disabling Cookies</h5>
+<div style="margin-bottom:40px;">Most browsers include an option to clear existing cookies or reject new ones. However, if you do this, portions of the PriceZombie website may not function as intended.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Security</h2>
-<div class="fpText">We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+<h5><a name="goodPrice"></a>Security</h5>
+<div style="margin-bottom:40px;">We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Children Under 13</h2>
-<div class="fpText">Although we welcome users from all walks of life, our site is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the Children's Online Privacy Protection Act of 1998. Individuals under the age of 13 may not create an account with us. If you believe someone 12 or younger is using our site without parental consent, please contact us.
+<h5><a name="goodPrice"></a>Children Under 13</h5>
+<div style="margin-bottom:40px;">Although we welcome users from all walks of life, our site is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the Children's Online Privacy Protection Act of 1998. Individuals under the age of 13 may not create an account with us. If you believe someone 12 or younger is using our site without parental consent, please contact us.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Changes To This Policy</h2>
-<div class="fpText">We reserve the right to change this policy to meet the changing needs of PriceZombie, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alters your rights, notice will appear prominently on your front page. More minor changes may only be highlighted by the privacy policy link in the footer of our website.
+<h5><a name="goodPrice"></a>Changes To This Policy</h5>
+<div style="margin-bottom:40px;">We reserve the right to change this policy to meet the changing needs of PriceZombie, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alters your rights, notice will appear prominently on your front page. More minor changes may only be highlighted by the privacy policy link in the footer of our website.
 </div>
-<div style="margin:30px;" class="fpDivider"></div>
-<h2><a name="goodPrice"></a>Contact Us</h2>
-<div class="fpText">If you have any questions or suggestions regarding our privacy policy, please <a href="/contact">contact us</a></div>
-<div style="margin:30px;" class="fpDivider"></div>
+<h5><a name="goodPrice"></a>Contact Us</h5>
+<div style="margin-bottom:40px;">If you have any questions or suggestions regarding our privacy policy, please <a href="/contact">contact us</a></div>
 </div>
 </div>
 <div class="fixed"></div>
@@ -148,7 +138,7 @@ To learn more about Google Analytics and how it uses your data, please visit <a 
 <a href="https://www.facebook.com/PriceZombie">
 <div class="facebook-foot"></div>
 </a>
-<a href="http://www.reddit.com/r/PriceZombie">
+<a href="https://www.reddit.com/r/PriceZombie">
 <div class="reddit-foot"></div>
 </a>
 <a href="https://twitter.com/PriceZombie">
@@ -157,7 +147,8 @@ To learn more about Google Analytics and how it uses your data, please visit <a 
 </td>
 <td valign="top">
 <ul>
-<li><a href="/about">About PriceZombie</a></li>
+<li><a href="/about">About</a></li>
+<li><a href="/blog">Blog</a></li>
 <li><a href="/contact">Contact Us</a></li>
 </ul>
 </td>
@@ -172,73 +163,11 @@ To learn more about Google Analytics and how it uses your data, please visit <a 
 </tbody></table>
 </div>
 <div id="copyright">
-Copyright © 2014 PriceZombie, LLC. </div>
-</div>
-</div>
-<script type="text/javascript">
-$(document).ready(function() {
-	$('.tooltip').tooltipster();$('.expander').expander({slicePoint:400});
-	// Chrome font render bug
-	jQuery('body')
-	  .delay(500)
-	  .queue( 
-		function(next){ 
-			jQuery(this).css('padding-right', '0px'); 
-		}
-	  );
-	jQuery("time.timeago").timeago();
-});
-</script>
-<script type="text/javascript"></script><div id="screenshot" title="Product Screenshot" style="display:none;">&nbsp;</div>
-<script language="javascript" type="text/javascript" src="/js/login.js"></script>
-<style>input.text{margin-bottom:12px;width:95%;padding:.4em;}fieldset{padding:0;border:0;margin-top:5px;}</style>
-<div id="loginForm2" name="loginForm2" title="Login" style="display: none;">
-<form method="POST" action="/login" id="loginForm" name="loginForm">
-<input type="hidden" name="op" value="login">
-<input type="hidden" name="redirect" value="L3ByaXZhY3k=">
-<fieldset>
-<label for="username">Username</label>
-<input type="text" name="username" id="username" class="text ui-widget-content ui-corner-all">
-<label for="passwd">Password</label>
-<input type="password" name="passwd" id="passwd" value="" class="text ui-widget-content ui-corner-all">
-</fieldset>
-<span style="float:left;height:40px;">
-<input type="submit" name="submit" value="PriceZombie Login" class="button" style="height:22px;" onclick="return validateLogin();">
-<p style="padding-top:5px;">
-&nbsp;<a href="/forgotpasswd">Forgot your password?</a>
-</p>
-</span>
-<span style="float:right;margin-right:4px;height:40px;">
-<a href="https://www.facebook.com/dialog/oauth?client_id=302545576547922&amp;redirect_uri=http%3A%2F%2Fwww.pricezombie.com%2Ffblogin&amp;state=7df35a4d400b86a69d8e0d63952f2263&amp;scope=email"><img height="22" src="/img/facebook_signin.gif"></a>
-<p style="padding-top:5px;">
-&nbsp;
-</p>
-</span>
-</form>
-</div>
-<div id="registerForm" title="User Registration" style="display: none;">
-<form method="POST" action="/register" id="registerForm" name="registerForm">
-<input type="hidden" name="op" value="register">
-<fieldset>
-<label for="username">Desired Username</label>
-<input type="text" name="username" id="username" class="text ui-widget-content ui-corner-all">
-<label for="email">Your Email Address</label>
-<input type="text" name="email" id="email" class="text ui-widget-content ui-corner-all">
-<label for="passwd">Enter a Password</label>
-<input type="password" name="passwd" id="passwd" value="" class="text ui-widget-content ui-corner-all">
-<label for="passwd">Enter Password Again</label>
-<input type="password" name="passwd2" id="passwd2" value="" class="text ui-widget-content ui-corner-all">
-<label for="passwd">Select Your Currency</label>
-<select name="exchangerate" class="text ui-widget-content ui-corner-all" style="width: 95%;padding: 0.4em;margin-bottom:15px;">
-<option value="1149">US Dollar ($)</option><option value="1007">Australian Dollar (AUD$)</option><option value="1048">British Pound (£)</option><option value="1026">Canadian Dollar (CDN$)</option><option value="1031">Chinese Yuan Renminbi (¥)</option><option value="1000">Emirati Dirham (¤)</option><option value="1045">Euro (€)</option><option value="1065">Indian Rupee (₹)</option><option value="1072">Japan Yen (¥)</option><option value="1103">Malaysian Ringgit (sen)</option><option value="1028">Swiss Franc (₣)</option><option value="1138">Thai Baht (฿)</option> </select>
-<label for="passwd">Your ZIP code (optional)</label>
-<input type="text" name="zip" id="zip" value="" class="text ui-widget-content ui-corner-all">
-</fieldset>
-<input type="submit" name="submit" value="Register" class="button" onclick="return validateRegister();">
-<span style="float:right;margin-right:4px;"><a href="https://www.facebook.com/dialog/oauth?client_id=302545576547922&amp;redirect_uri=http%3A%2F%2Fwww.pricezombie.com%2Ffblogin&amp;state=7df35a4d400b86a69d8e0d63952f2263&amp;scope=email"><img height="22" src="/img/facebook_signin.gif"></a></span>
-</form>
-</div>
+Copyright © 2015 PriceZombie, LLC. Designed and built in the United States. </div>
 
+
+<script type="text/javascript">$(document).ready(function() {$('.tooltip').tooltipster();$('.expander').expander({slicePoint:400});jQuery("time.timeago").timeago();});</script>
+<script type="text/javascript"></script>
  
 
 </body></html>
