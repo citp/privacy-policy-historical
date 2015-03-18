@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002031014id_/http%3A//www.motors.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318115321id_/http%3A//www.motors.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Motors.co.uk
 
@@ -8,7 +8,7 @@ This privacy policy (“ **Policy** ”) applies to the use of this website and 
 
 We have updated our Policy. This Policy has been designed to provide greater transparency and has been set out so that it is easier to read and understand. We will continue to treat your personal information with care and respect.
 
-We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. Furthermore, we may record any telephone calls made to telephone numbers included on the Site. Further information on the collection and use of data is set out below.
+We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. Furthermore, we may record any telephone calls made to telephone numbers included on the Site. Further information on the collection and use of data is set out below. We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. Furthermore, we may record any telephone calls made to telephone numbers included on the Site. Further information on the collection and use of data is set out below. To communicate with us about this Policy or any of our terms and conditions, please contact us on [privacy@motors.co.uk](mailto:privacy@motors.co.uk) or via the telephone numbers/ contact details listed at [media.motors.co.uk](http://media.motors.co.uk/contact-us/).
 
 ####  1\. About Us: 
 
@@ -36,9 +36,9 @@ If you have any questions regarding this Policy then you may contact the Legal D
 
 The type of personal information we collect could include your name and address, vehicle registration mark, telephone and fax numbers, e-mail addresses and financial and credit card information.
 
-2.2 The personal information you provide to us will be used for the purposes of administration, processing the sale and purchase of a vehicle (including registering interest in vehicles for sale and advertising vehicles for sale), the evaluation of our services, business development, trend analysis and marketing. We will also use it to create offers specifically designed to meet your needs and as set out in clause 3 below.
+2.2 The personal information you provide to us will be used for the purposes of administration, processing the sale and purchase of a vehicle (including registering interest in vehicles for sale and advertising vehicles for sale), the evaluation of our services, business development, trend analysis and marketing. We will also use it to create offers specifically designed to meet your needs and as set out in clause 3 below.  We may contact you by e-mail, text message or telephone calls based on transactional needs in relation to the purposes detailed in this clause 2.2 and for promotional purposes regarding marketing material and special offers that may be of interest to you. Should you wish to unsubscribe from any promotional communications from us, please follow the process outlined in such communication, or e-mail your request to [privacy@motors.co.uk](mailto:privacy@motors.co.uk).
 
-2.3 Please note that there may be times when we use third parties to store and process your information on our behalf. On any such occasions, we will require any such third parties to strictly comply with our instructions and to not use your personal information for their own business purposes, unless you have explicitly consented to the use of your personal information on this way.
+2.3 Please note that there may be times when we use third parties to store and process your information on our behalf. On any such occasions, we will require any such third parties to strictly comply with our instructions and to not use your personal information for their own business purposes, unless you have explicitly consented to the use of your personal information in this way.
 
 2.4 We may store, process and/or transfer personal information to countries outside of the EEA, especially to servers in the US. If you do not agree to this procedure you should not use our products or services. Your personal information, on some occasions, is transferred outside the EEA to a carefully selected third party, for our data management and business purposes, in particular, for certain outsourced data processing undertaken by organisations on our behalf. By using our products and/or services you consent to our transferring your personal information to countries outside the EEA, if necessary, for our legitimate business purposes as outlined above. We will take reasonable steps to ensure your personal information is adequately protected.
 
@@ -549,6 +549,18 @@ Serve advertisements and deliver reports on advertisements served on our Site. T
 
 Persistent, 2 Years  
   
+motPerVeh
+
+| 
+
+Enabling the site to remember the last viewed vheicle
+
+| 
+
+Persistent,
+
+30 days  
+  
 6.5 What about Hyperlinks? The Site may sometimes contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies and we urge you to review them. They will govern the use of any personal information you submit or which is collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such third party websites is at your own risk.
 
 6.6 What about Flash Cookies? A Flash Cookie is a type of cookie which is collected via Adobe Flash Player, and is a piece of software which you probably have on your device to watch videos or podcasts online. We may use Adobe Flash Player to display video or image content. It may not be possible to block or restrict or block Flash Cookies using your browser settings, however, information on how to control flash play privacy and security settings is available from the Adobe website at: http://www.adobe.com/products/flashplayer/security
@@ -565,4 +577,4 @@ Persistent, 2 Years
 
 8.1 If we need to change our Policy at some point in the future to reflect our data collection and disclosure practices we'll post the changes at least 30 days before they take effect. Our use of personal information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
 
-August 2014
+January 2015
