@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701100501id_/https%3A//www.bankofinternet.com/customer-support/disclosures/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318195037id_/https%3A//www.bankofinternet.com/customer-support/disclosures/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Bank of Internet USA
 
-Rev. August 2013
+Rev. August 2014
 
 We recognize, respect and protect the personal privacy rights of all our customers and work diligently to safeguard your privacy. We are committed to providing the highest level of security and privacy regarding the collection and use of our customers' personal information, as well as the personal information of all consumers who visit our institution.
 
-Revised 06/20/2013
+The following privacy notice explains how we use and protect the information about our customers. We ask that you read it carefully.
+
+[Privacy Notice - Rev.  08/2014](https://www.bankofinternet.com/docs/default-source/privacy/62537m_Boi_Notice_Legal.pdf)
+
+Revised 08/25/2014
 
 This Online Privacy Notice (the “Notice”) applies to anyone who visits BofI Federal Bank (“Bank”, “Us”, “Our”, “We”) website (the “Site”). This Notice describes how this website may collect, use and share information from or about you. Information you provide to us when you apply for or receive a product from us is governed by our [Privacy Notice](https://web.archive.org/customer-support/disclosures/privacy-and-security#Privacy%20Notice). Your use of this Site constitutes your acceptance of the Bank of Internet (a division of BofI Federal Bank) general terms and conditions, which we may change or modify at any time and from time to time at our sole and absolute discretion and which are available on our [Disclosure](https://www.bankofinternet.com/customer-support/disclosures/). 
 
