@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downdetector.co.uk privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916025515id_/http%3A//downdetector.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downdetector.co.uk privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318145504id_/https%3A//downdetector.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement and policy Down Detector
 
@@ -16,15 +16,23 @@ We have no access to or administration abilities over any cookies that are used 
 **  
 Third-Party Advertising – AdChoices**
 
-We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](http://www.networkadvertising.org/choices/).   
+We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](http://www.networkadvertising.org/choices/). 
+
+To opt out for Project Rubicon advertising, please visit [http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
+
+To opt out for Taboola advertising, please visit <http://www.taboola.com/privacy-policy>  
 **  
 Links to Other Websites**
 
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.  
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
+
+ **Links to Other Websites That Are Considered Endorsements or Testimonials in Advertising  
 **  
-Registration and Use of Personal Information  
+This website may contain links to other websites, where this website receives financial compensation if the person clicking on the link makes a purchase, orders a product or a service on the linked website. These kind of links are commonly referred to as 'affiliate links'. Following these links may result in a cookie being placed on the user's system by an outside service that allows the service to determine if the site visitor engages in a transaction in the future.
+
+**Registration and Use of Personal Information  
 **  
-Registration is not required in order to use or access this website. However, this site may make comments and other tools available to its users. You may be required to register for these features or use a third party tool that requires registration, such as Facebook or uservoice, particularly if you wish to leave comments.
+Registration is not required in order to use or access this website. However, this site may make comments and other tools available to its users. You may be required to register for these features or use a third party tool that requires registration, such as Facebook or Uservoice, particularly if you wish to leave comments.
 
 If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
 
@@ -56,8 +64,8 @@ info@downdetector.com
 
 Serinus42  
 Downdetector  
-Lange Herenvest 32-e  
-2011 BT Haarlem  
+Parklaan 125  
+2011 KT Haarlem  
 The Netherlands
 
-This privacy statement and policy was last updated on 29 March 2013.
+This privacy statement and policy was last updated on 19 February 2015.
