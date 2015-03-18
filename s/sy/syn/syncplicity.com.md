@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syncplicity.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522124625id_/http%3A//www.syncplicity.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncplicity.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318220248id_/https%3A//www.syncplicity.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # EMC Corporation Privacy Statement - EMC
 
