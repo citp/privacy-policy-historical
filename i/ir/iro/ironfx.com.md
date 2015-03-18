@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ironfx.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407193128id_/http%3A//www.ironfx.com/sites/all/themes/chinese/documents/com/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironfx.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318152255id_/http%3A//www.ironfx.com/sites/all/themes/ironfx/legal-documents/general/com/20150120_Privacy%2520Policy_secure.pdf) for the most accurate reproduction.*
 
-# PRIVACY
+# 
 
 PRIVACY POLICY
 Version: 25 October 2013
@@ -45,8 +45,7 @@ viewed, frequency and duration of visits, types of transactions conducted, docum
 downloaded and other websites which may have referred you or to which you link.
 3.    Use of Personal Data
 The Company may use your information for any one or more of the following purposes:
-Authorised and regulated by the Cyprus Securities and Exchange Commission                       2
-(125/10) • ASIC • FSP • CRFIN • FCA
+Authorised and regulated by FCA • ASIC • DFSA • FSB • FSP • CRFIN • CySEC                       2
 
 
                                                                               Privacy Policy
@@ -76,7 +75,7 @@ The Company will, as required by Law, monitor and record any communication you h
 with us whether in writing, by phone or by electronic mail.
 3.3 Consent
 You consent to the Company using your personal data for the above-stated purposes.
-4      Disclosure of Personal Data
+4.     Disclosure of Personal Data
 The Company may be required to provide your personal data to the Cyprus Securities and
 Exchange Commission and other regulatory and government bodies in Cyprus and other
 countries as may be required by law from time to time.
@@ -87,8 +86,7 @@ the law or comply with a legal process served on the Company or on the Company�
 (d) protect and defend the rights or property of the Company (and Group Companies’)
 websites, and, (e) act in urgent circumstances to protect the personal safety of users of the
 Company, its websites, or the public
-Authorised and regulated by the Cyprus Securities and Exchange Commission                        3
-(125/10) • ASIC • FSP • CRFIN • FCA
+Authorised and regulated by FCA • ASIC • DFSA • FSB • FSP • CRFIN • CySEC                        3
 
 
                                                                                Privacy Policy
@@ -126,14 +124,13 @@ The Company may combine your personally identifiable data with information from 
 users of this website to create impersonalized statistical data. The Company may provide this
 statistical data to its business partners or third parties. In no circumstances will you be able to
 be identified from this statistical data; you will remain anonymous.
-Authorised and regulated by the Cyprus Securities and Exchange Commission                           4
-(125/10) • ASIC • FSP • CRFIN • FCA
+5.     Your Rights
+You are not obligated to provide any of the personal data requested by the Company. In the
+absence of this information, however, the Company may not be able to open an account for
+Authorised and regulated by FCA • ASIC • DFSA • FSB • FSP • CRFIN • CySEC                           4
 
 
                                                                             Privacy Policy
-5 Your Rights
-You are not obligated to provide any of the personal data requested by the Company. In the
-absence of this information, however, the Company may not be able to open an account for
 you where the information is requested in on an application form, or to provide you with any
 other services, information or assistance you have sought.
 Under the Cyprus data protection legislation, you have (subject to certain exceptions) the
@@ -150,15 +147,15 @@ If you have any questions, complaints or requests, please write to the Company, 
 your identity and setting out in full what information you require. If a complaint is not
 resolved by the Company to your satisfaction, you may complain to the Information
 Commissioner.
-6 Consent
+6.     Consent
 By accessing this website, you consent to the Company collecting, maintaining, using and
 disclosing personal data about you and provided by you or by another person as in
 accordance with this Privacy Policy.
-7 Links
+7.     Links
 When you use this website, you may be able to link to other websites. This Privacy Policy
 does not apply to those other sites. The Company encourages you to read and understand the
 privacy policies on these other sites.
-8   Cookies
+8.     Cookies
 The Company uses cookies to gather information about your access to our website and other
 services we provide to you. Please note that this description is not comprehensive and the
 Company’s Cookie Policy contains additional information.
@@ -168,15 +165,14 @@ Most internet browsers are set up to accept cookies. If you do not wish to recei
 you may be able to change the settings of your browser to refuse all cookies or to have your
 computer notify you each time a cookie is sent to it, and thereby give yourself the choice
 whether to accept it or not. However, it is strongly recommended that you allow cookies on
-Authorised and regulated by the Cyprus Securities and Exchange Commission                    5
-(125/10) • ASIC • FSP • CRFIN • FCA
-
-
-                                                                                    Privacy Policy
 our website to ensure you have the best possible experience. Turning off cookies may result
 in reduced performance of our website and trading platform and may also impair the quality
 of the services that we provide to you in relation to your account.
-9   Security
+Authorised and regulated by FCA • ASIC • DFSA • FSB • FSP • CRFIN • CySEC                    5
+
+
+                                                                                    Privacy Policy
+9.     Security
 The Company adopts strong measures to protect the security of your Personal Data and to
 ensure it is not accessed by unauthorised persons. Access to Personal Data is restricted to
 employees and authorized service providers who need it to perform their work. You must not
@@ -185,18 +181,17 @@ The Company takes strong precautions to protect your personal data from loss, th
 misuse, unauthorised access or disclosure, alteration, or destruction. Measures include
 encryption during data transmission, strong authentication mechanisms and separation of
 machines and data to provide secure areas.
-10     Amendments to policy
+10.    Amendments to policy
 The Company reserves the right to make changes this Privacy Policy from time to time for
 any reason and will notify you of such changes by posting an updated version of this Privacy
 Policy on this website. You are responsible for regularly reviewing this Privacy Policy and if
 you use this website after any such changes are published, such use shall constitute your
 agreement to such changes.
 All queries should be emailed to us at compliance@IronFX.com.
-Version: 23 January 2014
-Copyright © 2014 IronFX. All Rights Reserved
+Version: 20 January 2015
+Copyright © 2015 IronFX. All Rights Reserved
                                             IronFX Global Limited,
                          2, Iapetou Street, Agios Athanasios, 4101 Limassol, Cyprus
                                   Tel: +357 25027000 | Fax: +357 25027001
                               Email: info@ironfx.com | Web: www.IronFX.com
-Authorised and regulated by the Cyprus Securities and Exchange Commission                          6
-(125/10) • ASIC • FSP • CRFIN • FCA
+Authorised and regulated by FCA • ASIC • DFSA • FSB • FSP • CRFIN • CySEC                          6
