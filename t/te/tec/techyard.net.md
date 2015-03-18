@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001447id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318191139id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer - TECH YARD
+
+You are here: [Home](http://www.techyard.net/) » Privacy Policy & Disclaimer
 
 At **TechYard.net** we take the privacy of our visitors very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used.
 
@@ -32,4 +34,4 @@ If our Privacy Policies change at some time in the future we will post the polic
 
 **NOTE:** ** ** This Policy is subject to change anytime at my sole discretion and any changes made will be effective immediately.
 
-[Last Update] – April 2nd, 2009.
+[Last Update] – April 2nd, 2009. 
