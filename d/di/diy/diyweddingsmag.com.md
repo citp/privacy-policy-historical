@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diyweddingsmag.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703152318id_/http%3A//www.diyweddingsmag.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyweddingsmag.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319003013id_/http%3A//www.diyweddingsmag.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DIY Weddings® Magazine | Wedding Crafts & Inspirational Budget Saving Ideas
+# Privacy Policy -
 
 **PRIVACY POLICY**
 
@@ -101,3 +101,5 @@ It is our intention to comply in all respects with the Children’s Online Priva
 ### Contacting Us
 
 We can be reached by E-mail at: [info@diyweddingsmag.com](mail:info@diyweddingsmag.com)
+
+[](https://www.pinterest.com/pin/create/button/)
