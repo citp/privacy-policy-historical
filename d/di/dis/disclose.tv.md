@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114141302id_/http%3A//www.disclose.tv/pages/view/id/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318102731id_/http%3A//www.disclose.tv/pages/view/id/2) for the most accurate reproduction.*
 
 # Disclose.tv
 
