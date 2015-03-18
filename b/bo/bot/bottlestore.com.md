@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bottlestore.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201221145id_/http%3A//www.bottlestore.com/bottlestore-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottlestore.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318164708id_/http%3A//support.bottlestore.com/customer/portal/articles/1841946-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# BottleStore.com | Privacy Policy
+
+### Privacy Policy
+
+Last Updated: Jan 27, 2015 03:42PM EST
 
 We are committed to protecting your privacy! This policy provides you with details on the information we collect from you and the uses we make of your personal information. If you have any questions, please email us at [sales@bottlestore.com](mailto:sales@bottlestore.com?subject=Privacy%20Policy). Each time you visit www.bottlestore.com (“Website”), through the use of cookies our Web server automatically recognizes your domain name and email address (where possible). You have the option of disabling cookies by accessing the tools provided to you in your Internet options. However, please note that you may not have full access to the Website if you change your cookie settings to disable them.
 
