@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizu.tv privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221211234id_/http%3A//www.bizu.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizu.tv privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318150356id_/http%3A//www.bizu.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
