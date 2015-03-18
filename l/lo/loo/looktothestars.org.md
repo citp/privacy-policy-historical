@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looktothestars.org privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026191925id_/https%3A//www.looktothestars.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looktothestars.org privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318141813id_/https%3A//www.looktothestars.org/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Look to the Stars
 
