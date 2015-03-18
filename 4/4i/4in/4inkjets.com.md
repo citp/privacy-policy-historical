@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722163738id_/http%3A//www.4inkjets.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318054741id_/http%3A//www.4inkjets.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4inkjets
 
@@ -70,7 +70,11 @@ We may record the conversations that our agents or employees have with you. We d
   18. **Effective Date.** This Policy is effective as of March 3, 2014. 
 
   
-|  | 4InkJets.com  
+| 
+
+[](http://www.bbb.org/los-angeles/business-reviews/office-supplies/ld-products-in-long-beach-ca-13140270#sealclick "Click for the Business Review of LD Products, an Office Supplies in Long Beach CA")
+
+| 4InkJets.com  
 3700 Cover Street   
 Long Beach, CA 90808  
 800.465.5387  
