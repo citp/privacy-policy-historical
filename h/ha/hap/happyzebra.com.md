@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyzebra.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701114717id_/http%3A//www.happyzebra.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyzebra.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318163243id_/http%3A//www.happyzebra.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy statement and disclaimer for www.happyzebra.com
 
