@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordimpress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050454id_/http%3A//wordimpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordimpress.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318140239id_/https%3A//wordimpress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WordImpress
+# Privacy Policy - WordImpress
 
 ### Privacy Policy:
 
