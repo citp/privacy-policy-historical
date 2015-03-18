@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectplaces.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820161530id_/http%3A//www.perfectplaces.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectplaces.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318023018id_/http%3A//www.perfectplaces.com/privacy.cfm) for the most accurate reproduction.*
 
 # Perfect Places Privacy Notice | PerfectPlaces.com
 
@@ -34,7 +34,12 @@ On certain property listing pages, you have the option of making an online reser
 
 
 Email to a Friend Information:  
-On property listing pages, you have have the option of sending email inquiries to another person by using the "Email to a Friend" link. The data entered into these forms is not stored within our system and the emails are sent directly to the email address you specify. Do not share information in the email that you do not want the receiving party you specify to see. 
+On property listing pages, you have have the option of sending email summaries of properties to another person by using the "Email to a Friend" link. Do not share information in the email that you do not want the receiving party you specify to see. The types of personal information collected when sending an email to friend are: 
+
+  * Name
+  * Email address
+
+
 
 Registered Customer Information:  
 If you are listing your property, personal information you provide to the company will be used to identify you as a customer of the company and to provide payment. The types of personal information collected for registered customers are: 
@@ -58,6 +63,9 @@ Perfect Places stores a copy of inquiries as a record for advertisers and will a
 
 Online Reservation Information:  
 Perfect Places stores a copy of online reservations as a record for advertisers and will add your email address to its mailing list. The mailing list is used exclusively by Perfect Places for newsletters and notification of special offers. Perfect Places mailing list is not given or sold to any third party. You may remove your email address from our mailing list at any time by entering your email address at our [unsubscribe](https://web.archive.org/unsubscribe.cfm) page. 
+
+Email to a Friend Information:  
+Perfect Places stores a copy of email to a friend requests as a record and will add your email address to its mailing list. The mailing list is used exclusively by Perfect Places for newsletters and notification of special offers. Perfect Places mailing list is not given or sold to any third party. You may remove your email address from our mailing list at any time by entering your email address at our [unsubscribe](https://web.archive.org/unsubscribe.cfm) page. 
 
 Registered Customer Information:  
 For registered customers who list properties with Perfect Places, personal information you provide to the company will be used to identify you as a customer of the company and in connection with delivering services or products that you order. Personal financial information will also be obtained to secure payment. By providing personal information for these purposes you agree to be placed on marketing lists and may receive promotional notices from the company. Personal information may also be gathered from you to assist with marketing programs designed to identify broad market groups for specific promotional opportunities.
@@ -84,6 +92,9 @@ You may remove your email address provided on the Email Your Inquiry page from o
 Online Reservation Information:  
 You may remove your email address provided on the Online Reservation pages from our mailing list at any time by entering your email address at our [unsubscribe](https://web.archive.org/unsubscribe.cfm) page. 
 
+Email to a Friend Information:  
+You may remove your email address provided on the on the Email To a Friend page from our mailing list at any time by entering your email address at our [unsubscribe](https://web.archive.org/unsubscribe.cfm) page. 
+
 Registered Customer Information:  
 Registered customer can modify or remove their personal information at any time using the forms provided in the Owner/Manager tools. If you are a registered customer and wish to modify or remove your information, please log in using the following link (<https://www.perfectplaces.com/tools/>) or clicking on the "Log-In" link at the top of any page. You can also have us make changes to your information on your behalf by sending us a request. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
@@ -91,4 +102,4 @@ Registered customer can modify or remove their personal information at any time 
 
 Should you have other questions or concerns about these privacy policies, please send us an email at [ customerservice@perfectplaces.com](mailto:customerservice@perfectplaces.com). 
 
-revised: February 9, 2010 
+revised: December 5, 2014 
