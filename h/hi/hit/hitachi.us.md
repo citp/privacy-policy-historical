@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitachi.us privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703033412id_/http%3A//www.hitachi.us/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachi.us privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318010854id_/http%3A//www.hitachi.us/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy & Summary : Hitachi in the U.S.A.
 
@@ -16,38 +16,36 @@ Hitachi, Ltd.
 
 ## 2\. Hitachi Personal Information Protection Policy
 
-1\. Establish rules for managing personal information protection and make continual improvements  
+  1. Establish rules for managing personal information protection and make continual improvements  
 Hitachi will make sure that executive staff and workers recognize the importance of personal information protection, and will establish rules for personal information management to appropriately use and protect personal information and ensure that the management system is put in execution. These rules will be maintained and improved continually.
-
-2\. Collect, use and provide personal information and forbid the use of such information for purposes other than the original intent   
+  2. Collect, use and provide personal information and forbid the use of such information for purposes other than the original intent   
 While carefully considering the personal information is entrusted to us in our company activities, Hitachi will handle such information appropriately by establishing a management system for personal information protection for each type of business, and also by following our rules for collecting, using or providing personal information. In addition, Hitachi will not use such information for purposes other than the original intent and will implement appropriate measures for it.
-
-3\. Implement safety measures and correct problems   
+  3. Implement safety measures and correct problems   
 To ensure the correctness and safety of personal information, in accordance with the rules for information security, Hitachi will implement various measures such as managing access to personal information, restricting the means for transporting personal information outside the company and preventing incorrect access from outside the company, and strive to prevent the leakage, loss or destruction of personal information. In addition, when any problems regarding safety measures are found, Hitachi will identify the cause to take corrective measures.
-
-4\. Follow laws and norms   
+  4. Follow laws and norms   
 Hitachi will follow the Japanese laws, guidelines and other norms for the handling of personal information. Also, Hitachi will conform our rules with personal information management to such laws, guidelines and other norms.
-
-5\. Respect a person's rights regarding his or her personal information   
+  5. Respect a person's rights regarding his or her personal information   
 When a person makes a request to disclose, correct or delete his or her own personal information, seeks to prevent the use or provision of such information, or gives any complaints or requires consultation, Hitachi will respond with sincerity, respecting the person's rights related to that personal information.
+
+
 
 ## 3\. Scope of Application
 
  This document, "About Personal Information Protection", establishes the handling of all personal information by Hitachi in the company activities.
 
-  * [Scope](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Scope](https://web.archive.org/privacy/personal-information-protection/index.html)
 
 
 
 ## 4\. Personal Information
 
- Hitachi protects and manages the personal information with the greatest care and the best effort based on the "Hitachi Privacy Policy". In this document, ["Personal information"](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html) is the information below that can be used to identify specific persons.
+ Hitachi protects and manages the personal information with the greatest care and the best effort based on the "Hitachi Privacy Policy". In this document, ["Personal information"](https://web.archive.org/privacy/personal-information-protection/index.html) is the information below that can be used to identify specific persons.
 
 Information provided by person to Hitachi by entering in "Inquiry form" or other forms. 
 
 Information provided by person to Hitachi through any method other than the above. 
 
-  * [Personal information](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Personal information](https://web.archive.org/privacy/personal-information-protection/index.html)
 
 
 
@@ -59,7 +57,7 @@ Hitachi will not provide personal information to a third party without first obt
 
 When required to do so for business activities in which Hitachi is co-operating with Hitachi group companies, Hitachi may provide such group companies with personal information such as names, workplace or home addresses, telephone numbers, fax numbers, e-mail addresses, etc. 
 
-  * [Details](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Details](https://web.archive.org/privacy/personal-information-protection/index.html)
 
 
 
@@ -67,27 +65,7 @@ When required to do so for business activities in which Hitachi is co-operating 
 
  When a person wants to request to disclose, correct, add, delete, stop usage, stop provision to a third party, or notify the purpose of usage of his/her personal information (hereinafter referred to as "disclose and so on") held by Hitachi, or wants to raise complaints, the person is requested to follow the predefined procedures to make such request.
 
-  * [Details](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
-
-
-
-## 7\. Other Important Matters
-
-1\. [Request to person](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html) about provision of personal information, acquisition of prior consent, and personal information protection 
-
-2\. [Notification on handling of "About Personal Information Protection"](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
-
-3\. Notes about usage of [cookies and Web beacons](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html) on website 
-
-4\. When a person contacts Hitachi by telephone, the conversation may be recorded to aid accurate replies. 
-
-  * [Request to person](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
-
-
-  * [Notification on handling of "About Personal Information Protection"](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
-
-
-  * [About usage of cookies and Web beacons](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Details](https://web.archive.org/privacy/personal-information-protection/index.html)
 
 
 
@@ -95,15 +73,14 @@ When required to do so for business activities in which Hitachi is co-operating 
 
  For inquiries about this document except the request to disclose and so on of personal information and the raising complaints, please contact us in the following way.
 
-  * [Details](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Details](https://web.archive.org/privacy/personal-information-protection/index.html)
 
 
   * [Contact through Inquiry form](https://www8.hitachi.co.jp/inquiry/privacy/en/form.jsp)
 
 
-  * Contact by mail 
-
-
-
+  * Contact by mail  
 Information Security Department, Corporate Information Technology & Security Division, Hitachi, Ltd.  
-1-6-6Marunouchi, Chiyoda-ku, Tokyo 100-8280 
+1-6-6Marunouchi, Chiyoda-ku, Tokyo 100-8280
+
+
