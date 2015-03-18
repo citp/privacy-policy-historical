@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the pose.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701081739id_/https%3A//pose.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pose.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318215341id_/https%3A//pose.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pose
 
-  * [How It Works](https://web.archive.org/hiw)
-  * [Shipping](https://web.archive.org/shipping)
   * [Contact Us](https://web.archive.org/contact)
   * [FAQs](https://web.archive.org/faq)
 
