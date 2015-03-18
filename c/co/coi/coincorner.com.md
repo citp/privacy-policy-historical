@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coincorner.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718073610id_/https%3A//www.coincorner.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coincorner.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318100939id_/https%3A//www.coincorner.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# CoinCorner - Privacy Policy for Coin Corner
-
-## Information We Collect
+# Privacy Policy for Coin Corner
 
 We collect details about you and use them only to use this site, and ensure you are who you say you are.. We may email you with information you might find interesting about our site.
 
