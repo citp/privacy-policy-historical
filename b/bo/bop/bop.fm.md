@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bop.fm privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909075253id_/https%3A//bop.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bop.fm privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319004652id_/https%3A//bop.fm/privacy) for the most accurate reproduction.*
 
 # bop.fm
 
