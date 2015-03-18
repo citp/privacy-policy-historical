@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630160627id_/http%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318124246id_/https%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of printed.com
 
 **Privacy and Use of Information**
 
-We at printed.com are committed to protecting and respecting your privacy. For the purposes of the Data Protection Act 1998 (Act), the data controller is Ravensworth Digital Services Limited of 84-86 Great Portland Street, London, W1W 7NR, United Kingdom.
+We at printed.com are committed to protecting and respecting your privacy. For the purposes of the Data Protection Act 1998 (Act), the data controller is Ravensworth Digital Services Limited of Threeways House, 40-44 Clipstone St, London W1W 5DW, United Kingdom.
 
 **1\. Information we may collect about you**   
 We may collect and process the following data about you:
@@ -77,7 +77,7 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 6.1.2 if Ravensworth or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; or
 
-6.1.3 if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](http://www.printed.com/terms-and-conditions) and other agreements; or to protect the rights, property, or safety of Ravensworth, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+6.1.3 if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](https://www.printed.com/terms-and-conditions) and other agreements; or to protect the rights, property, or safety of Ravensworth, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 6.2 We may pass your personal data to a third party partner organisation for the purposes of analysing customer demographic information. This third party is subject to contractual arrangements and will not pass your personal data to any other party.
 
