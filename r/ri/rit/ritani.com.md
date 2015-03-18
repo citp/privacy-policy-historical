@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritani.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706191524id_/http%3A//www.ritani.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritani.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318231803id_/https%3A//www.ritani.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ritani
 
@@ -96,7 +96,7 @@ To keep your Personal Data accurate, current, and complete, please contact us as
 
 Please also feel free to contact us if you have any questions about Ritani's Privacy Policy or the information practices of this Site.
 
-You may contact us as follows: [privacy@ritani.com](mailto:privacy@ritani.com)>privacy@ritani.com or 1.888.9RITANI (1.888.974.8264)
+You may contact us as follows: [privacy@ritani.com](mailto:privacy@ritani.com) or 1.888.9RITANI (1.888.974.8264)
 
 ## Your California Privacy Rights
 
