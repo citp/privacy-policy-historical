@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangabird.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812192227id_/http%3A//www.mangabird.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangabird.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318083351id_/http%3A//www.mangabird.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 1 | MangaBird
 
