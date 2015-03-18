@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the supervalu.ie privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204162921id_/http%3A//supervalu.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supervalu.ie privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318232108id_/https%3A//supervalu.ie/privacy-policy) for the most accurate reproduction.*
 
-# SuperValu | Privacy Statement |
-
-### Privacy Policy
+# Privacy Policy - SuperValu
 
 When you enter information on this site we gather a certain amount of data from you in order to allow you to comment on recipes, enter a competition or use other functions of the website.
 
@@ -59,22 +57,22 @@ Our Site uses a number of cookies which broadly fall under the following:
 #### Cookies required for Site Usage
 
 We use cookies which are required to login to your Real Rewards account, book Bonus Rewards and make purchases on our Online Shopping website. These are required to use the site and it will not function properly without them. You can change your cookie settings so that these cookies will not be set. You can also delete cookies which have previously been set.  
-For more information on how to manage cookies, including opt-out of all site cookies please visit: <http://www.aboutcookies.org/Default.aspx?page=1>
+For more information on how to manage cookies, including opt-out of all site cookies please visit: <http://www.aboutcookies.org/Default.aspx?page=1>
 
 #### Site Analysis cookies
 
 We also gather statistical and other analytical information of all visitors to our websites. We use this non-personal data gathered from visitors to our website in a collective form to improve the service we provide. This is not linked to your personal information and is completely anonymous.  
-The service that we use for this purpose is Google Analytics. To see how you can opt out of Google Analytics visit <https://tools.google.com/dlpage/gaoptout>  
-For more information on how to manage cookies, including opt-out of site analysis cookies please visit: <http://www.aboutcookies.org/Default.aspx?page=1>
+The service that we use for this purpose is Google Analytics. To see how you can opt out of Google Analytics visit <https://tools.google.com/dlpage/gaoptout>  
+For more information on how to manage cookies, including opt-out of site analysis cookies please visit: <http://www.aboutcookies.org/Default.aspx?page=1>
 
 #### Functional cookies
 
 Our websites use a number of cookies which perform activities such as remembering your previous choices when visiting via mobile phone, remembering not to display the same warning repeatedly etc.  
-For more information on how to manage cookies, including opting-out of functional cookies please visit: <http://www.aboutcookies.org/Default.aspx?page=1>
+For more information on how to manage cookies, including opting-out of functional cookies please visit: <http://www.aboutcookies.org/Default.aspx?page=1>
 
 #### Advertising/Re-marketing cookies
 
-As a part of our site tracking we do pass information to the Google/Doubleclick advertising network which allows advertising relevant to sites you have visited to be delivered across other websites. This information is anonymous. You can set your preferences or opt out of these programmes using the following link: <http://www.youronlinechoices.com/uk/your-ad-choices>
+As a part of our site tracking we do pass information to the Google/Doubleclick advertising network which allows advertising relevant to sites you have visited to be delivered across other websites. This information is anonymous. You can set your preferences or opt out of these programmes using the following link: <http://www.youronlinechoices.com/uk/your-ad-choices>
 
 #### Other third party cookies
 
