@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodsnearme.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101063612id_/http%3A//www.foodsnearme.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodsnearme.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318040053id_/http%3A//www.foodsnearme.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Foods Near Me
 
