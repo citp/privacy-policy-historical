@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findyourdegree.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020032336id_/http%3A//www.findyourdegree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findyourdegree.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318013330id_/http%3A//www.findyourdegree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Earn an Online Degree - Online College Search from Top Online Universities - FindYourDegree.com
 
@@ -9,10 +9,6 @@
 This privacy policy applies to AchieveYourCareer.com owned and operated by mediaspike. FindYourDegree.com is committed to safeguarding your privacy. Your privacy is very important to us and you can rest assured that our privacy practices conform to the highest industry standards. mediaspike (FindYourDegree.com) created this statement in order to assure you that any and all information that we gather about you supports our efforts in providing you with the most fulfilling learning services available. We have taken the proper measures to ensure that your experience with us is safe and secure. Collecting your personally identifiable information also allows us to provide services and features that will most likely meet your needs, and to customize our service to make your experience easy and pleasant.
 
 We will never sell your information to other companies except as described in this policy. Your privacy is important to us and we do everything possible to protect it. This statement details our information gathering and sharing practices for FindYourDegree.com.
-
-mediaspike (ÒFindYourDegree.comÓ) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers only information that is collected through this Web site, www.findyourdegree.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@FindYourDegree.com](mailto:info@FindYourDegree.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ## Information We Collect and How We Use It
 
@@ -54,13 +50,13 @@ We encourage you to be aware when you leave our site and to read the privacy sta
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersÕ movements around the site and to gather demographic information about our user base as a whole.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersï¿½ movements around the site and to gather demographic information about our user base as a whole.
 
 We do link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to pre-populate the forms and improve the users experience on the site.
 
 ## Cookies
 
-A cookie is a small text file that is stored on a userÕs computer for record-keeping purposes. We do use cookies on this site. We do link the information we store in cookies to personally identifiable information you submit while on our site .We link our cookies to your personally identifiable information so that you may visit, search, and sign-up on our site and return several days later without having to reenter the information. Most Web browsers automatically accept cookies. Browsers usually provide the option to disable this feature. We use cookies in the event it creates a better user experience. We use a third-party service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate to track usage and volume statistics. We have no access or control of these third party cookies.
+A cookie is a small text file that is stored on a userï¿½s computer for record-keeping purposes. We do use cookies on this site. We do link the information we store in cookies to personally identifiable information you submit while on our site .We link our cookies to your personally identifiable information so that you may visit, search, and sign-up on our site and return several days later without having to reenter the information. Most Web browsers automatically accept cookies. Browsers usually provide the option to disable this feature. We use cookies in the event it creates a better user experience. We use a third-party service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate to track usage and volume statistics. We have no access or control of these third party cookies.
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
