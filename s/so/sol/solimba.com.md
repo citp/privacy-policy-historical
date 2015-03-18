@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solimba.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330183430id_/https%3A//www.solimba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solimba.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318120712id_/https%3A//www.solimba.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Solimba
 
