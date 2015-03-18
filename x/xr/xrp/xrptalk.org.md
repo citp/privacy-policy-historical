@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the xrptalk.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704040851id_/https%3A//xrptalk.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xrptalk.org privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318222425id_/https%3A//xrptalk.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - XRPtalk
+
+  
+
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
@@ -14,5 +17,6 @@ This website does not store any information that would, on its own, allow us to 
 
   1.  
   2. [Privacy Policy](https://xrptalk.org/privacypolicy/)
+  3. [Disclaimers](https://xrptalk.org/index.php?app=forums&module=extras&section=boardrules "Disclaimers") · 
 
 
