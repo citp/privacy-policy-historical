@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqua-soft.org privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703225755id_/http%3A//www.aqua-soft.org/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqua-soft.org privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318151523id_/http%3A//www.aqua-soft.org/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Aqua-Soft Forums
 
