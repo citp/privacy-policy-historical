@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tractionplatform.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014230343id_/http%3A//www.traction-digital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractionplatform.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318141347id_/http%3A//tractiondigital.com/privacy) for the most accurate reproduction.*
 
-# Traction Digital - Privacy Policy
+# Traction Digital - Privacy Policy - Traction Digital
 
 #### 1 INTRODUCTION
 
@@ -21,7 +21,7 @@ We collect Personal Information about you:
 
 **2.2** **Reasons**
 
-  1. We collect only such Personal Information as we need to collect in order to supply our services to our customers. Specifically, we collect Personal Information (as relevant):
+  1. We collect only such Personal Information as we need to collect in order to supply our services to our customers. Specifically, we collect Personal Information (as relevant): 
     * to enable our customers to lawfully communicate information to you regarding their products and services;
     * to enable our customers to supply their services to you;
     * to enable you to use any goods they may supply;
@@ -71,8 +71,8 @@ You may have the practical capacity to disclose Personal Information to the gene
 We may, and likely will, transfer your Personal Information to a person or organisation in a foreign country, but only if one of the following applies:
 
   * if we provide the Personal Information to a cloud service provider located overseas for the limited purpose of storing and managing the Personal Information, our contract with the provider: 
-    1. obliges the provider not to use or disclose the Personal Information unless storing and managing the information; 
-    2. obliges any of the provider’s sub-contractors to agree to the same obligations; and 
+    1. obliges the provider not to use or disclose the Personal Information unless storing and managing the information;
+    2. obliges any of the provider’s sub-contractors to agree to the same obligations; and
     3. gives us effective control of the information;
   * we have taken such steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the Australian Privacy Principles ( **APPs** ) under the _Privacy Act 1988_ (Cth) ( **Overseas Compliance** );
   * we reasonably believe that the recipient of the information is subject to a law, or binding scheme, that has the effect of protecting the information in a way that, overall, is at least substantially similar to the way in which the APPs protect the information and there are mechanisms that you or the relevant individual can access to take action to enforce that protection of the law or binding scheme;
@@ -128,15 +128,12 @@ We may, and likely will, transfer your Personal Information to a person or organ
 
 #### 9 COMPLAINTS
 
-  1. If you wish to complain about a potential breach of the APPs by us, please write to our Privacy Co-ordinator at: 
-
-Traction Digital Pty Ltd (ACN 092 342 375)  
+  1. If you wish to complain about a potential breach of the APPs by us, please write to our Privacy Co-ordinator at:Traction Digital Pty Ltd (ACN 092 342 375)  
 Level 1, Building 1  
 85 O’Riordan Street  
 Alexandria NSW Australia 2015  
 Fax: +61 2 9469 5778  
 [Email](http://www.traction-digital.com/contact/) ****
-
   2. If we receive a complaint from you, we will handle the complaint in the following way: 
     * We will acknowledge receipt of your complaint.
     * We will conduct an investigation of your complaint.
