@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vircurex.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203235804id_/https%3A//vircurex.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vircurex.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318045751id_/https%3A//vircurex.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
 
 # Vircurex | Exchange and Trading Platform for Crypto Currencies such as Bitcoin Litecoin Namecoin and many more
 
