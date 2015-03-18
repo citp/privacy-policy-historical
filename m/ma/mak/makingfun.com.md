@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815105659id_/http%3A//www.makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318183117id_/http%3A//www.makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy -
 
 **Updated January 8, 2014:**
 
@@ -8,17 +8,17 @@ Summary of the Making Fun, Inc. Privacy Policy:
 
 **1.  INTRODUCTION – **The Introduction identifies the basic Making Fun Services covered by this Privacy Policy and provides a brief overview of what this Privacy Policy covers.
 
-**2\. SUBMISSION AND COLLECTION OF INFORMATION -  **This section addresses the types of information that Making Fun collects directly from users and collection of non-personally identifiable information via cookies and related technologies by, and on behalf of, Making Fun and third parties.
+**2\. SUBMISSION AND COLLECTION OF INFORMATION –  **This section addresses the types of information that Making Fun collects directly from users and collection of non-personally identifiable information via cookies and related technologies by, and on behalf of, Making Fun and third parties.
 
-**3\. NOTICE -  **This section provides information on how Making Fun notifies users about future Policy changes, where Making Fun stores data, and third-party websites that may link to the Making Fun Services.
+**3\. NOTICE –  **This section provides information on how Making Fun notifies users about future Policy changes, where Making Fun stores data, and third-party websites that may link to the Making Fun Services.
 
-**4\. USE AND DISCLOSURE -  **This section describes how Making Fun uses your information to provide and manage the Making Fun Services, including when Making Fun may disclose your information to third parties that assist Making Fun in providing those services.
+**4\. USE AND DISCLOSURE –  **This section describes how Making Fun uses your information to provide and manage the Making Fun Services, including when Making Fun may disclose your information to third parties that assist Making Fun in providing those services.
 
-**5\. SECURITY -  **This section describes Making Fun’s security measures.
+**5\. SECURITY –  **This section describes Making Fun’s security measures.
 
-**6.USER CONTROL AND ACCOUNT CANCELLATION -  **This section informs users how to access and change their personal information stored by Making Fun, and how to cancel their accounts.
+**6.USER CONTROL AND ACCOUNT CANCELLATION –  **This section informs users how to access and change their personal information stored by Making Fun, and how to cancel their accounts.
 
-**7.CONTACT US -  **This section instructs users how to contact Making Fun.
+**7.CONTACT US –  **This section instructs users how to contact Making Fun.
 
 **1\. INTRODUCTION**
 
