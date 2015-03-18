@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitinfocharts.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703125823id_/http%3A//bitinfocharts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitinfocharts.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318163024id_/https%3A//bitinfocharts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,7 @@
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.)
 
 **What information do we collect?**
 
