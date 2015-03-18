@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the cscglobal.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708061839id_/https%3A//www.cscglobal.com/global/web/csc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cscglobal.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318182048id_/https%3A//www.cscglobal.com/global/web/csc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy U.S. | Corporation Service Company
 
 ###  Corporation Service Company Privacy Statement
 
-At Corporation Service Company ("we" or "CSC"), we value your relationship and respect your trust. As a result, we have chosen to comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. CSC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Corporation Service Company's certification, please visit [safeharbor.export.gov](https://safeharbor.export.gov/list.aspx)
+At Corporation Service Company ("we" or "CSC"), we value your relationship and respect your trust. As a result, we have chosen to comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. CSC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Corporation Service Company's certification, please visit [safeharbor.export.gov](https://safeharbor.export.gov/list.aspx)
+
+To view CSC's Safe Harbor Compliance Statement for Data Privacy, please click here: [www.cscglobal.com/global/web/csc/safe-harbor.html](https://www.cscglobal.com/global/web/csc/safe-harbor.html)
 
 ###  About this Privacy Statement
 
 This Privacy Statement explains how we handle and protect your personal and company data, how we gather this data, and how we manage this data to serve you. We may change this Statement from time to time as the need arises to accurately reflect how we gather and manage your data.
 
-All changes to this Statement will be effective upon posting to this website without any other notice to you. Use of the website following such changes constitutes your acceptance of the revised Privacy Statement then in effect. We encourage you to frequently visit this Privacy Statement for modifications. This Statement is effective as of December 1, 2013.
+All changes to this Statement will be effective upon posting to this website without any other notice to you. Use of the website following such changes constitutes your acceptance of the revised Privacy Statement then in effect. We encourage you to frequently visit this Privacy Statement for modifications. This Statement is effective as of February 9, 2015.
 
 1\. **Personal Data**
 
@@ -18,7 +20,7 @@ Personal data, where used in this Privacy Statement shall mean any information c
 
 2\. **Scope of this Privacy Statement**
 
-This Privacy Statement applies to personal data submitted to us through this website and its various applications.
+This Privacy Statement applies to personal data submitted to us through this website and CSC's various service applications.
 
 3\. **Administration of this Privacy Statement**
 
@@ -26,13 +28,13 @@ Any questions or concerns about the interpretation or operation of this Statemen
 
 4\. **What Information We Collect, and Why**
 
-The information we collect from you at this website may include the following: your name, gender, home and work contact details, business title, email address, IP address, telephone number, date of birth, country in which you reside payment information, purchase history and your reviews and opinions about our products and services.
+The information we collect from you may include the following: your name, gender, date of birth, home and work contact details such as business title, email address, IP address, telephone number, country in which you reside, payment information, purchase history and your reviews and opinions about our products and services.  Some CSC services may require additional information which we will inform you of when we request such information.
 
 4.1. **Information Provided By You**
 
 If you use this website or its various applications, you may be required to provide the following information as part of registration: first name, last name, company name, title, address, city, state, zip, telephone, email address, preferred method of contact (email, phone, postal), account number, service and product interest information, and intended use of services or products. In addition, you may choose to provide additional information relating to yourself or your companies to take advantage of different services available on this website.
 
-We generally do not require you to provide sensitive personal data, such as that which reveals race, national origin political opinions, religion or philosophical beliefs, or trade union membership or that reveals criminal convictions, health, marital status, or sexual orientation, preference or activities. However, if it becomes necessary for us to collect such information, we may provide the opportunity to affirmatively and explicitly consent to the processing and disclosure of such sensitive data.
+We generally do not require you to provide sensitive personal data, such as that which reveals race, national origin political opinions, religion or philosophical beliefs, or trade union membership or that reveals criminal convictions, health, marital status, or sexual orientation, preference or activities. However, if it becomes necessary for us to collect such information, we will provide you the opportunity to affirmatively and explicitly consent to the processing and disclosure of such sensitive data.
 
 4.2. **Log Files**
 
@@ -164,27 +166,27 @@ Log files give us a general picture of who is visiting our website and which pag
 
 6\. **Disclosure and Transfer of Your Information**
 
-In some instances, we may be asked to disclose certain personal data pursuant to a court order, subpoena, search warrant or law enforcement request or to protect the rights, property or safety of our company, our customers, our employees or others. We may also disclose your information in order to enforce our terms of use or to protect the rights or property and/or the personal safety of (in each case) us, our staff and customers. In addition, we may disclose your information in order to permit us to pursue available remedies or limit the damages that we may sustain, to respond to an emergency and/or in the event that we sell (or propose to sell) any property, business or assets, we may disclose your information to the prospective buyer.
+In some instances, we may be asked to disclose certain personal data pursuant to a court order, subpoena, search warrant or law enforcement request. We may also disclose your information in order to enforce our terms of use or to protect the rights or property and/or the personal safety of (in each case) us, our staff, customers, and others. In addition, we may disclose your information in order to permit us to pursue available remedies or limit the damages that we may sustain, to respond to an emergency and/or in the event that we sell (or propose to sell) any property, business or assets, we may disclose your information to the prospective buyer under a confidentiality agreement.
 
 6.1. **CORPORATION SERVICE COMPANY AFFILIATES AND SERVICE PROVIDERS**
 
 We may disclose your personal data on a need to know basis to any member of our company group. Some affiliates of Corporation Service Company have their own websites with their own unique privacy statements, tailored to the services they provide. We encourage you to read those privacy statements carefully when you visit those affiliated sites.
 
-From time to time, we may engage our affiliated entities or other carefully selected third parties to provide services on our behalf, in particular to collect, process and use your personal data on our behalf. We may disclose your information to such service providers compliant with applicable data protection law and provided that they agree to use your information only for the purposes of providing services to us.
+From time to time, we may engage our affiliated entities or other carefully selected third parties to provide services on our behalf, in particular to collect, process and use your personal data as required to provide services to you. We may disclose your information to such service providers in compliance with applicable data protection law, and provided that they agree to use your information only for the purposes of providing the services.
 
 6.2. **TRANSFERS OVERSEAS**
 
-The personal data we receive will be held on our computers and systems in the United States and may be accessed by or given to our staff, one of our affiliates or carefully selected suppliers working in the United States or otherwise outside the European Union. By submitting your information to us, you agree to this transfer, storing and processing.
+The personal data we receive will be held on our computers and systems in the United States and may be accessed by or given to our staff, one of our affiliates or carefully selected suppliers working in the United States or otherwise outside the European Economic Area. By submitting your information to us, you agree to this transfer, storing and processing of your personal data for the purposes which you provided the information.
 
 7\. **Revocation of Consent**
 
-You may revoke your consent to your information being used by us. To revoke your consent, please contact us between the hours of 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at: Phone: +1 (302) 636-5400
+You may revoke your consent to your information being used by us. To revoke your consent, please contact us between the hours of 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at: Phone: +1 (302) 636-5400.
 
 We will promptly process your request, but you may continue to receive some communications from us while your request is being processed. Thereafter we may still communicate with you to respond to your new inquiries or in connection with services you have engaged.
 
 8\. **Website Links to Other Sites**
 
-For your convenience, our website may contain links to websites that are owned or operated by third parties not affiliated with Corporation Service Company. We can make no promises or guarantees regarding personal data collection or privacy practices on websites that are not owned or operated by Corporation Service Company. We strongly suggest that you review such third parties' privacy policies before providing any personal data to them. These other sites may send their own cookies to users, collect data, or solicit personal data. You should contact these entities directly if you have any questions about their use of the information that they collect.
+For your convenience, our website may contain links to websites that are owned or operated by third parties not affiliated with Corporation Service Company. We can make no promises or guarantees regarding personal data collection or privacy practices on websites that are not owned or operated by Corporation Service Company. We strongly suggest that you review each such third parties' privacy policies before providing any personal data to them. These other sites may send their own cookies to users, collect data, or solicit personal data. You should contact these entities directly if you have any questions about their use of the information that they collect.
 
 9\. **Steps We Take to Ensure your Privacy**
 
@@ -196,7 +198,7 @@ We use firewalls to secure the perimeter of our information network and monitor 
 
 9.2. **DATA SECURITY**
 
-An authentication and authorization mechanism based on user ID and password is used to restrict access to information on Corporation Service Company Global. Each authenticated user only has access to the information that he or she is authorized to use. We use physical, administrative and technical procedures to limit access to personal information.
+An authentication and authorization mechanism based on user ID and password is used to restrict access to information on Corporation Service Company's websites. Each authenticated user only has access to the information that he or she is authorized to use. We use physical, administrative and technical procedures to limit access to personal information.
 
 9.3. **TRANSACTION SECURITY**
 
@@ -212,13 +214,13 @@ Remember that you play a vital role in ensuring the security of your information
 
 11.1. **MANAGING YOUR PERSONAL DATA**
 
-Registration for access to this website requires that you provide personal data (including name, company name, address, city, state, zip code, email address, and phone number). It is your responsibility to make sure this information is accurate and current. If your personal data changes, you should update it by login into the site and visiting the account detail page or by contacting us using the contact details above. If you require assistance to update this information, you may contact our Customer Service staff from 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at: Phone: +1 (302) 636-5400
+Registration for access to this website requires that you provide personal data (including name, company name, company address, including city, state, country, zip code, company email address, and company phone number). It is your responsibility to make sure this information is accurate and current. If your personal data changes, you should update it by logging into the site and visiting the account detail page or by contacting us using the contact details above. If you require assistance to update this information, you may contact our Customer Service staff from 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at: Phone: +1 (302) 636-5400.
 
 We will process all information update requests in a timely manner.
 
 11.2. **SAFEGUARD PASSWORDS**
 
-You should take the necessary precautions to safeguard your user ID and password to prevent unauthorized access to your personal data stored on this website and the applications within. If you feel that your user ID and password have been compromised, contact our Technical Support staff immediately between the hours of 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at: Phone: +1 (302) 636-5400
+You should take the necessary precautions to safeguard your user ID and password to prevent unauthorized access to your personal data stored on this website and the applications within. If you feel that your user ID and password have been compromised, contact our Technical Support staff immediately between the hours of 8:00 a.m. to 8:00 p.m. EST, Monday through Friday, at: Phone: +1 (302) 636-5400.
 
 Your password will be reset and emailed to you at the address maintained on record.
 
@@ -236,7 +238,7 @@ We provide you with reasonable access to the personal information we hold about 
 
 13\. **Controller and Local Representatives**
 
-Corporation Service Company, 2711 Centerville Road, Suite 400, Wilmington, DE 19808, United States, act as controller in the meaning of the Directive 95/46/EC when collecting, processing and using personal data collected through this website. Our local representative in the United Kingdom is Corporation Service Company (UK) Limited, 2-5 Benjamin Street, First Floor, London EC1M 5QL. Our local representative in Germany is Corporation Service Company (DBS) GmbH, Borsigstrasse 20, 65205 Wiesbaden Germany.
+Corporation Service Company, 2711 Centerville Road, Wilmington, DE 19808, United States, act as controller in the meaning of the Directive 95/46/EC when collecting, processing and using personal data collected through this website. Our local representative in the United Kingdom is Corporation Service Company (UK) Limited, 2-5 Benjamin Street, First Floor, London EC1M 5QL. Our local representative in Germany is Corporation Service Company (DBS) GmbH, Borsigstrasse 20, 65205 Wiesbaden Germany.
 
 Complaints or concerns about this Statement should be directed to our legal department who can be contacted at +1 (302) 636-5400. We will investigate and attempt to resolve such complaints in accordance with the principles contained in this Statement.
 
