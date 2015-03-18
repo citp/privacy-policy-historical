@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revesoft.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703062512id_/http%3A//www.revesoft.com/terms/privacy-policy-main) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revesoft.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319002901id_/http%3A//www.revesoft.com/terms/privacy-policy-main) for the most accurate reproduction.*
 
 # REVE Systems Privacy Policy
 
