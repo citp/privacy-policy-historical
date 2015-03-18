@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluevine.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015084638id_/https%3A//www.bluevine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluevine.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318121452id_/https%3A//www.bluevine.com/privacy-policy) for the most accurate reproduction.*
 
 # BlueVine - Privacy Policy
 
@@ -6,7 +6,7 @@ Bluevine Capital Inc. (“ **Bluevine** “) is serious about protecting the pri
 
 **What information do we collect?**
 
-We collect information from you when you register for our service. This information includes, but is not limited to, your name, e-mail address, mailing address, phone number, social security number, bank account information. You may, however, visit our site anonymously.
+We collect information from you when you register for our service. This information includes, but is not limited to, your name, e-mail address, mailing address, phone number, social security number and bank account information. We may also collect information from third parties websites or applications as specified in this Privacy Policy below. You may, however, visit our site anonymously.
 
 **What do we do with the information we collect?**
 
@@ -38,6 +38,10 @@ We use tracking technology (cookies), which help us make our website more user-f
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating the Site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with any applicable law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+**Using Third Party Services and Data Retention**
+
+You allow us to receive information when you use the Services to log in to a third-party website or application (e.g. Facebook, Twitter or LinkedIn) (the “ **Third Parties Platform** “). Please note that we retain the information we receive from your personal profile on the Third Parties Platform while you are logged-in to the Services and even after you have logged-out from the Services if such retention is reasonably necessary to enforce this Privacy Policy and our Terms of Use, in our sole discretion.
+
 **Compliance with Governing Law**
 
 In order to protect your personal information and privacy, we have taken the necessary precautions to be in compliance with applicable law. We therefore will not distribute your personal information to outside parties without your consent.
@@ -50,4 +54,4 @@ By using the Site, you consent to our website’s privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and in such event your continued use of the Site, shall constitute your acceptance of such updated privacy policy.
 
-This Privacy Policy is Effective as of: January 31st, 2014.
+This Privacy Policy is Effective as of: December 22nd, 2014.
