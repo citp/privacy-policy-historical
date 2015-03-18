@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denniskirk.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702142656id_/https%3A//www.denniskirk.com/help_center/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denniskirk.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318044849id_/https%3A//www.denniskirk.com/help_center/privacy.jsp) for the most accurate reproduction.*
 
 # Help Center - Dennis Kirk, Inc
 
