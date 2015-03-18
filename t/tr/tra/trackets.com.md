@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackets.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714084346id_/https%3A//trackets.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackets.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318154318id_/https%3A//trackets.com/privacy_policy) for the most accurate reproduction.*
 
 # Trackets - Privacy Policy
 
