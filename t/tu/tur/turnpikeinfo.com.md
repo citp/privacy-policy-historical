@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208130917id_/http%3A//turnpikeinfo.com/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318023254id_/https%3A//turnpikeinfo.com/terms/privacy.php) for the most accurate reproduction.*
 
 # TurnpikeInfo.com Privacy Policy
 
 ## Privacy Policy: Updated June 28, 2012
 
-Welcome to this website, owned and operated by Turnpike Information Company ("TURNPIKE"), a wholly-owned subsidiary of Rodan Media Group Corporation ("RODAN"). Both companies are corporations organized under the laws of the state of Florida. Use of this website is subject the terms and conditions delineated herein. We strongly recommend you also read our [Terms Of Use](https://web.archive.org/web/20131208130917id_/http%3A//turnpikeinfo.com/terms/terms-of-use.php) and our [Refund Policy](https://web.archive.org/web/20131208130917id_/http%3A//turnpikeinfo.com/terms/refunds.php). 
+Welcome to this website, owned and operated by Turnpike Information Company ("TURNPIKE"), a wholly-owned subsidiary of Rodan Media Group Corporation ("RODAN"). Both companies are corporations organized under the laws of the state of Florida. Use of this website is subject the terms and conditions delineated herein. We strongly recommend you also read our [Terms Of Use](https://web.archive.org/web/20150318023254id_/https%3A//turnpikeinfo.com/terms/terms-of-use.php) and our [Refund Policy](https://web.archive.org/web/20150318023254id_/https%3A//turnpikeinfo.com/terms/refunds.php). 
 
 These conditions may be modified at any time, without prior notice to the user. It is your responsibility to check for modifications. By utilizing this website or ordering any products or services, you agree to the conditions outlined on these pages; if you do not agree to these conditions, you may not use this website.
 
