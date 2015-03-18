@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the weargustin.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702183643id_/https%3A//www.weargustin.com/information%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weargustin.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318104242id_/https%3A//www.weargustin.com/information%23privacy) for the most accurate reproduction.*
 
-# Redefining premium menswear | Gustin
+# Information | Gustin
 
-  * Contact
   * Press
   * Privacy Policy
   * Referral Program Terms and Conditions
@@ -11,21 +10,11 @@
 
 * * *
 
-#### Contact
-
-We're always here to help. Don't hesitate to reach out.
-
-Email: [team@weargustin.com](mailto:team@weargustin.com)
-
-* * *
-
-* * *
-
 #### Press
 
 Please reach out to us directly with any press inquiries - [team@weargustin.com](mailto:team@weargustin.com)
 
-Gustin has been covered by [Esquire](http://www.esquire.com/blogs/mens-fashion/gustin-jeans-010713), [Superfuture](http://superfuture.com/supernews/online-gustin), [Uncrate](http://www.uncrate.com/stuff/gustin-denim/), [Cool Material](http://coolmaterial.com/style/gustin-selvage-denim/), [Rawr Denim](http://www.rawrdenim.com/2013/01/gustin-hand-crafted-crowd-sourced-delivered-to-you-denim/), Werd, [Inside Hook](http://www.insidehook.com/nation/off-the-cuff/) and many others.
+Gustin has been covered by [Esquire](http://www.esquire.com/blogs/mens-fashion/gustin-jeans-010713), [APM's Marketplace](http://www.marketplace.org/topics/world/burning-down-house-levis-built/), [Forbes](http://www.forbes.com/sites/petercohan/2013/10/18/gustin-growing-at-40000-as-it-expands-beyond-6-billion-denim-market//), [Superfuture](http://superfuture.com/supernews/online-gustin), [Uncrate](http://www.uncrate.com/stuff/gustin-denim/), [Cool Material](http://coolmaterial.com/style/gustin-selvage-denim/), [Rawr Denim](http://www.rawrdenim.com/2013/01/gustin-hand-crafted-crowd-sourced-delivered-to-you-denim/), and many others.
 
 * * *
 
@@ -96,7 +85,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 LIMITED TIME ONLY. 
 
-To participate, refer friends who have not previously made a purchase from Gustin and are not current Gustin customers (each a “referred new customer”) by sending them the personal referral link provided to you as the recipient of this invite-only special offer. Each new customer you refer who clicks on your personal referral link will receive a store credit when they sign up for an account via your referral link and make a purchase of $80 or more prior to the referral offer's expiration or modification (a “qualifying purchase”).
+To participate, refer friends who have not previously made a purchase from Gustin and are not current Gustin customers (each a “referred new customer”) by sending them the personal referral link provided to you as the recipient of this invite-only special offer. Each new customer you refer who clicks on your personal referral link will receive a store credit when they sign up for an account via your referral link and make a purchase of more than $80 prior to the referral offer's expiration or modification (a “qualifying purchase”).
 
 During this limited time offer, each referring customer will receive store credit for each qualifying purchase made by a referred new customer. You may only refer up to one (1) member of your household to receive a promo code and a referral credit. The maximum referral credit any referring customer can acquire over the course of this limited time offer is $200.
 
