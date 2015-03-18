@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lufthansa-cargo.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018182620id_/http%3A//lufthansa-cargo.com/en_de/footer/bottomnav/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lufthansa-cargo.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318214029id_/http%3A//lufthansa-cargo.com/en_de/footer/bottomnav/privacy) for the most accurate reproduction.*
 
 # Lufthansa Cargo: Privacy
 
