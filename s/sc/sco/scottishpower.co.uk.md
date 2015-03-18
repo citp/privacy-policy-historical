@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704072949id_/https%3A//www.scottishpower.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318174258id_/http%3A//www.scottishpower.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScottishPower
 
@@ -32,7 +32,7 @@ Based on what we know about you, we and other carefully selected organisations m
 
 Don’t worry if you want to change your mind – you can amend your preference at any time simply by visiting the My Details page of the [My Account](http://www.scottishpower.co.uk/account/login/ "Login") section on this website. 
 
-If you told us that you didn’t want to receive details of offers but think that we’re still sending them, please let us know. Just [Contact us](https://www.spenergy.co.uk/GTConnect/SecureHttpAcceptor?gtxInitialProcess=OLEWebSite.ContactUs "Contact Us") with the relevant details.
+If you told us that you didn’t want to receive details of offers but think that we’re still sending them, please let us know. Just [Contact us](http://www.scottishpower.co.uk/contact.process "Contact Us") with the relevant details.
 
 Saying ‘no’ to details of other products and/or services won’t stop us contacting you altogether, of course. We’ll still need to send you information about the product and/or service you use. What it does mean is that we may not be able to tell you about other products that may be of financial or some other benefit to you. 
 
