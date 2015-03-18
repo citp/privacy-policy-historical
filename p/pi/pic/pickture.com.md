@@ -1,20 +1,25 @@
-> *The following text is extracted and transformed from the pickture.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702181131id_/http%3A//www.pickture.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickture.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318053928id_/http%3A//www.pickture.com/help/policy) for the most accurate reproduction.*
 
 # Pickture - Privacy
+
+  
+
+
+## What data do we collect ?
 
 We gather data in two ways :
 
   
 
 
-## 1) Auto declared data
+### 1) Auto declared data
 
 Once you subscribe to use our products, you voluntarily submit to use certain data. This may include your name, your profile picture, comments, your tastes, your e-mail that you indicated during registration and all other information that you provide to us. If you use Pickture from your mobile, you may also choose to share your location data. You may also give us the right to access to your data available on other services – for example, you can link your Facebook or Twitter profile to Pickture, that would allow us to get information from those accounts (for example, your friends or contacts). The data that we collect from those services depends on your setting and their privacy policy, thus do not forget to verify their status. 
 
   
 
 
-## 2) Technical data collected once you use our products
+### 2) Technical data collected once you use our products
 
 Every time you use a website, mobile application or other Internet service, there is certain data that is automatically created and saved. The same thing happens when you use our products, and here are some of the types of information that we collect in this way: 
 
@@ -23,6 +28,8 @@ Data connection. When you use Pickture, our servers automatically save the data 
 Depending on the way you access our products, we can use the “cookies” (small text folder sent by your computer each time you visit a website), or similar technologies to save the data logs. When we use the cookies, we can use “session cookies” (that are valid until you close your navigator) or “lasting” cookies (that are saved until you or your navigator deletes them). For example, we can use cookies to save your language choice or Pickture settings to keep your log-in details every time you connect to Pickture. 
 
 Data of the peripheral device. In addition to saving data, we can also gather information on the type of device you use whilst navigating Pickture, such as the type of the device, operating system you use, the device setting, the names of the unique devices and crash reports. Whether we collect all of such information or just a part depends on the type of device that you use and its settings. For example, the types of information that are available vary whether you use a Mac or your PC or your Android phone. To find out more about the information of your device, please consult the technical manual for your device or software supplier.
+
+## How do we use the collected data?
 
 The data we collect, we use to provide you with the best quality and personalised service, to develop new products and to protect Pickture and our users. 
 
@@ -35,6 +42,8 @@ To send you updates (for example, on certain activity that takes place at Picktu
 You can choose to no longer receive updates by e-mail by modifying your account settings.
 
 Answering to your questions or comments. The information we collect can be « personally identifiable » (meaning that the data is used to specifically identify you) or « not personally identifiable » (meaning that the data cannot be used to specifically identify you). We use two types of data, and a combination of those two types as described above. We have the right to use and save the information everywhere when Pickture operates, including countries outside of your place of residence. 
+
+## What options do you have on your data?
 
 Our objective is to give you simple and useful choices with regards to your data. For example, if you have an account at Pickture, you can:
 
@@ -49,6 +58,8 @@ The options you have, with regards to sharing your personal information, depend 
   
 
 
+## How can your data be shared?
+
 Pickture is a social network that you can use during your online purchases. The public lists you create will be seen by all the community. You can choice to make the information on your profile page visible to all. Some other limited cases when we can share your personal data include:
 
 When we have your permission. This includes all information exchange with other services (such as Facebook and Twitter), once you have chosen to link your Pickture account with other networks or to share your activity on Pickture. For example you can choose to publish your Pickture status updates on Facebook or Twitter. 
@@ -61,6 +72,8 @@ We can go through a fusion, acquisition, bankruptcy, dissolution, reorganization
 
 We also hold the right to share the specific or not-personally identifiable data with our partners or others. For example, we can notify a company that uses Pickture how many people re-pick the information they shared, or the percent of people who click on the product having seen it.
 
+## Our data policy on children
+
 Pickture is available to children from the age of 13 years of old. If you discover that your child, who is a minor, has subscribed to our service without your knowledge, please contact us.
 
 Adults, who are guardians of minors, are responsible for monitoring their use of Internet. It is also their responsibility to determine the services and the usage that they define as appropriate for the minors.
@@ -71,5 +84,7 @@ For advice, they can use the suggestions of AFA made in collaboration with the p
 
   
 
+
+## How can we change this policy? 
 
 We hold the right to modify this privacy policy, and this case, we will publish all changes on this page. If you continue to use Pickture once the changes are effective, you agree to accept the modifications. If the changes are important, we will provide a more prominent notice or obtain your consent required by law.
