@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swaggable.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029002213id_/http%3A//www.swaggable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swaggable.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318172548id_/https%3A//swaggable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Swaggable
 
@@ -61,5 +61,5 @@ You or Swaggable may terminate your membership in the Service for any reason wit
 Site Terms and Conditions  
 Use of this Site is governed by, and subject to, the legal notices contained in Swaggable’s Terms of Service. Your use, or access, of the Site constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.
 
-Comments and Questions: If you have any questions, comments or concerns about our Privacy Policy, you may contact us. MAIL Swaggable, LLC 241 N. El Camino Real, Suite #303 San Mateo, CA 94401  
+Comments and Questions: If you have any questions, comments or concerns about our Privacy Policy, you may contact us. MAIL Swaggable, LLC 1550 Rollins Rd. Suite H Burlingame, CA 94010  
 Effective Date: This privacy policy is effective and was last updated on December 3rd, 2011.
