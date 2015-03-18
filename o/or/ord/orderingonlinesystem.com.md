@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderingonlinesystem.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207180135id_/http%3A//www.orderingonlinesystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderingonlinesystem.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318115424id_/https%3A//www.orderingonlinesystem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Adding Value to Company Profile
 
@@ -57,7 +57,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.orderingonlinesystem.com](http://www.orderingonlinesystem.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.orderingonlinesystem.com](https://www.orderingonlinesystem.com/)
 
 **Your Consent**
 
