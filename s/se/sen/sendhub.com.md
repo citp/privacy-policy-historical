@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sendhub.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703044419id_/https%3A//www.sendhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendhub.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318080708id_/https%3A//www.sendhub.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SendHub
-
-Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+# Privacy - SendHub
 
 We may amend this policy at any time. All amended terms automatically take effect 10 days after they are initially posted on the Website. You agree that notice on the Website of changes to the policy is sufficient notice. Your continued use of the Website following the posting of changes to this policy will mean that you accept those changes.
 
@@ -38,12 +36,11 @@ If you post Personal Information about your contacts, we will not communicate wi
 
 It is possible that we may need to disclose Personal Information, profile information and/or information about your activities as an InfoReach user when required by subpoena or other legal process, or if InfoReach has a good faith belief that disclosure is necessary:
 
-  1. to investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies;
-  2. to enforce the TOU, to investigate and defend InfoReach against any third-party claims or allegations, or to protect the security or integrity of our Site; and/or
-  3. to exercise or protect the rights, property or personal safety of InfoReach, our users, employees or others.
+i. to investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies;
 
+ii. to enforce the TOU, to investigate and defend InfoReach against any third-party claims or allegations, or to protect the security or integrity of our Site; and/or
 
-
+iii. to exercise or protect the rights, property or personal safety of InfoReach, our users, employees or others.  
 Although we do not currently include advertisements in our Site, we may do so in the future. Any such advertisements would be hosted within other Site features, and we would not provide your email address to advertisers.
 
 InfoReach may also need to share Personal Information if our ownership status changes. For example, we may need to share Personal Information with a company that acquires us.
