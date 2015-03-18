@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkmonkey.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102213520id_/http%3A//www.pinkmonkey.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkmonkey.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318155000id_/http%3A//www.pinkmonkey.com/privacy.asp) for the most accurate reproduction.*
 
 # PinkMonkey.com - Over 350 Free Literature Notes, Literature Classics, Study Guides, Online Textbooks.
 
