@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kluje.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702074146id_/https%3A//www.kluje.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kluje.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318023917id_/https%3A//kluje.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Kluje | Kluje | Privacy Policy
-
-## Privacy Policy
+# Kluje | Privacy Policy
 
 We absolutely respect your privacy and we do not sell, trade or share personal information with organisations or individuals not connected with the Service. This section explains what information is stored and how it is used. It should be read in conjunction with our [User Agreement](https://web.archive.org/en/user-agreement) and [Payment Terms](https://web.archive.org/en/payment-terms). 
 
