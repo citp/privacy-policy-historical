@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bavun.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122421id_/http%3A//www.bavun.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bavun.in privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318010450id_/https%3A//www.bavun.in/privacy.html) for the most accurate reproduction.*
 
 # Bavun - Privacy policy
 
-Bavun has established its privacy policy to explain how your information within the purview of Bavun is protected, collected and used. This policy may be updated by Bavun. Bavun will post notices of its policy changes on the Bavun site at: <http://www.bavun.in/privacy.html>
+Bavun has established its privacy policy to explain how your information within the purview of Bavun is protected, collected and used. This policy may be updated by Bavun. Bavun will post notices of its policy changes on the Bavun site at: <https://www.bavun.in/privacy.html>
 
 **PRIVACY PROTECTION**
 
