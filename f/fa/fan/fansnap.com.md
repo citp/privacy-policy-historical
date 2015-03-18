@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213125853id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318081613id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SeatGeek
 
@@ -90,4 +90,4 @@ Persons under the age of 18 are not eligible to use any services on our Site. Se
 
 Should you have any questions, concerns or comments please email us at [hi@seatgeek.com](mailto:hi@seatgeek.com).
 
-© 2014 SeatGeek, all rights reserved. SEATGEEK, and SEATGEEK are trademarks of SeatGeek Inc. 
+© 2015 SeatGeek, all rights reserved. SEATGEEK, and SEATGEEK are trademarks of SeatGeek Inc. 
