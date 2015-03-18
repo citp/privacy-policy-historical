@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the eventim.co.uk privacy policy that was archived on 2014-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141111015057id_/http%3A//www.eventim.co.uk/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventim.co.uk privacy policy that was archived on 2015-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150318173504id_/http%3A//www.eventim.co.uk/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" is-desktop is-deskTab    col-8x col-7x col-6x col-5x  js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en-GB" xmlns:fb="http://www.facebook.com/2008/fbml" style=""><!--<![endif]--><head id="RELAUNCH"><script async="" src="https://connect.facebook.net/en_GB/all.js?_=1582524624160"></script>
+<!DOCTYPE html><html class=" is-desktop is-deskTab    col-8x col-7x col-6x col-5x   js canvas webgl no-touch csscolumns csstransforms3d csstransitions" lang="en-GB" xmlns:fb="http://www.facebook.com/2008/fbml" style=""><!--<![endif]--><head id="RELAUNCH">
 <!--[if !IE]><!--><script type="text/javascript" async="" data-ev-hover-pid="2002" data-ev-hover-ocid="2825" src="https://c.betrad.com/geo/h1.js"></script><script>if(/*@cc_on!@*/false && document.documentMode === 10){document.documentElement.className+=' ie10';}</script><!--<![endif]-->
 <script type="text/javascript">
 if(navigator.userAgent.match(/Trident.*rv:11\./)) {
@@ -29,18 +29,17 @@ if(navigator.userAgent.match(/Trident.*rv:11\./)) {
 <meta name="publisher" content="EVENTIM http://www.eventim.co.uk">
 <meta name="copyright" content="Copyright 2009 by EVENTIM http://www.eventim.co.uk">
 <meta name="author" content="EVENTIM http://www.eventim.co.uk">
-
 <meta property="fb:admins" content="556994103,100002365596888">
 <meta property="fb:page_id" content="110114015731428">
-
-
 	<link rel="shortcut icon" type="image/gif" title="" href="/obj/media/UK-eventim/specialLogos/animated_favicon.gif">
 <link rel="home" href="http://www.eventim.co.uk/">
 <link rel="author" href="http://www.eventim.co.uk/">
 <link rel="copyright" href="http://www.eventim.co.uk/">
 <meta name="MSSmartTagsPreventParsing" content="true">
 <meta http-equiv="imagetoolbar" content="false">	
-                                       				<link media="screen" rel="stylesheet" href="/obj/global/layout/css/tipped.css" type="text/css">					<link rel="stylesheet" href="/obj/advanced/default/layout/css/screen.css" type="text/css" media="screen">
+
+                                       				
+			<link media="screen" rel="stylesheet" href="/obj/global/layout/css/tipped.css" type="text/css">				<link rel="stylesheet" href="/obj/advanced/default/layout/css/screen.css" type="text/css" media="screen">
 		<link rel="stylesheet" href="/obj/advanced/default/layout/css/print.css" type="text/css" media="print">
 						<link rel="stylesheet" href="/obj/advanced/default/layout/css/modular.css" type="text/css" media="screen">		<link rel="stylesheet" href="/obj/advanced/default/layout/GB_en/css/modular.css" type="text/css" media="screen">		<link rel="stylesheet" href="/obj/advanced/default/layout/css/sidebar.css" type="text/css" media="screen">		<link media="screen" rel="stylesheet" href="/obj/global/layout/css/tippedSkins.css" type="text/css">  		<link href="/obj/advanced/relaunch/layout/css/font-awesome.css" rel="stylesheet">		<link media="screen" rel="stylesheet" href="/obj/advanced/default/layout/css/personalizationTeaser.css" type="text/css">
 		
@@ -70,7 +69,8 @@ if(navigator.userAgent.match(/Trident.*rv:11\./)) {
 	eventimContext.datepicker = [];
 	eventimContext.datepicker.close = "Close";
 </script>
-<script src="/obj/global/layout/js/modernizr.js" type="text/javascript"></script>
+
+<script src="/obj/global/layout/js/modernizr.min.js" type="text/javascript"></script>
 <script src="/obj/global/layout/js/jquery.js" type="text/javascript"></script>
 <script src="/obj/global/layout/js/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>
 <script src="/obj/global/layout/js/jquery.ui.button.js" type="text/javascript"></script>
@@ -100,7 +100,61 @@ if(navigator.userAgent.match(/Trident.*rv:11\./)) {
 </script>
 <![endif]-->	
 			
-		<script type="text/javascript" language="javascript">
+	 
+<script>
+var tmpArray = (document.cookie || '').split('; ');
+var lastVisit = '';
+var uuid = ''
+for (var i = 0; i < tmpArray.length; i++) {
+	var tmpPair = tmpArray[i].split('=');
+	var t_delimiter = '';
+	if (tmpPair[0] == 'permInfo'){
+		if(tmpPair[1].search(/A/ != -1)){
+			t_delimiter = 'A';
+		}
+		if(t_delimiter != '')
+		{
+			lastVisit = tmpPair[1].split(t_delimiter)[1];
+			uuid = tmpPair[1].split(t_delimiter)[0];
+			break;
+		}
+	}
+}
+
+tc_vars = {
+env_template : "info/dataProtection",
+env_work : "0",
+env_language : "en",
+env_country : "GB",
+env_platform_id : "5",
+env_currency : "GBP",
+env_partner_id : "976",
+env_affiliate_id : "1960",
+env_affiliate_abbrv : "EUK",
+env_configuration_id : "10",
+env_fun : "tdoc",
+env_doc : "info/dataProtection",
+env_action : "",
+env_template_directory : "advanced/euktemp/",
+env_relaunch_template : "1",
+env_plattform_foreign_languages : new Array(''),
+env_captcha_mode : "1",
+env_configuration_captcha : "1",
+env_campaign_name : "",
+	page_product_list : '',
+tec_referrer : document.referrer,
+
+
+user_session_id : "5EF54F70AA92D91FA28AE03D24D012F3",
+user_last_visit : lastVisit,
+	
+
+
+user_logged : "false",
+user_id : uuid
+}
+</script><script src="/obj/global/feature/tagCommander/tc_header.min.js" type="text/javascript"></script>
+ 	<script type="text/javascript" language="javascript">
     // <![CDATA[ <!--    
 				var eveJsIframeBlank = '/staticsite/blank.htm';
 			var eveJsUrl = 'Tickets.html?affiliate=EUK';
@@ -295,9 +349,9 @@ if(navigator.userAgent.match(/Trident.*rv:11\./)) {
 			eventimContext.isTabPhone 	= false;
 			eventimContext.isMobile 	= false;
 			eventimContext.isAndroid 	= false;
-			
-			
-			        	        	        	        	        	        	         				var numOfCats = 5;
+							eventimContext.isAdvertisement 	= true;
+							
+			        	        	        	        	        	        	         				var numOfCats = 4;
 			if(numOfCats >= 8){
 				numOfCats = 8;
 			}
@@ -305,7 +359,7 @@ if(navigator.userAgent.match(/Trident.*rv:11\./)) {
 			eventimContext.categoriesHeight 	= tmpMenuHeight;
 			
 			var	numOfCity = [];
-							numOfCity = 24;
+							numOfCity = 25;
 						
 						
 			if(numOfCity >= 8){
@@ -449,103 +503,25 @@ if(navigator.userAgent.match(/Trident.*rv:11\./)) {
         		});
         	});
         //-->
-	</script>                     
-<script>
-
-var tmpArray = (document.cookie || '').split('; ');
-var lastVisit = '';
-var uuid = ''
-for (var i = 0; i < tmpArray.length; i++) {
-	var tmpPair = tmpArray[i].split('=');
-	var t_delimiter = '';
-	if (tmpPair[0] == 'permInfo'){
-		if(tmpPair[1].search(/A/ != -1)){
-			t_delimiter = 'A';
-		}
-		if(t_delimiter != '')
-		{
-			lastVisit = tmpPair[1].split(t_delimiter)[1];
-			uuid = tmpPair[1].split(t_delimiter)[0];
-			break;
-		}
-	}
-}
-
-tc_vars = {
-env_template : "info/dataProtection",
-env_work : "0",
-env_language : "en",
-env_country : "GB",
-env_platform_id : "5",
-env_currency : "GBP",
-env_partner_id : "976",
-env_affiliate_id : "1960",
-env_affiliate_abbrv : "EUK",
-env_configuration_id : "10",
-env_fun : "tdoc",
-env_doc : "info/dataProtection",
-env_action : "",
-env_template_directory : "advanced/euktemp/",
-env_relaunch_template : "1",
-env_plattform_foreign_languages : new Array(''),
-env_captcha_mode : "1",
-env_configuration_captcha : "1",
-env_campaign_name : "",
-tec_referrer : document.referrer,
-
-
-user_session_id : "5EF54F70AA92D91FA28AE03D24D012F3",
-user_last_visit : lastVisit,
-	
-
-
-user_logged : "false",
-user_id : uuid
-}
-</script><script src="/obj/global/feature/tagCommander/tc_header.min.js" type="text/javascript"></script> <link rel="stylesheet" href="/obj/advanced/default/legacy/css/screen.css" type="text/css" media="screen">		
+	</script>                    <link rel="stylesheet" href="/obj/advanced/default/legacy/css/screen.css" type="text/css" media="screen">		
 <script type="text/javascript" async="" src="/obj/advanced/default/tracking/UK-eventim/js/xtcore.js"></script><script type="text/javascript" async="" src="https://web.archive.org/obj/global/feature/tagCommander/tc_Eventim_uk.min.js"></script><script type="text/javascript" async="" src="https://web.archive.org/obj/global/feature/tagCommander/tc_Eventim_information_science.min.js"></script></head>
 <body>
-<!-- Wrapper -->
+<div id="headShadow"><!-- Wrapper -->
 <div id="wrapper">
 	
 			
 	
-
-
-
-
-
-
-
-
-
-
+					
+					
+		<style type="text/css">
+    			
+		    		
+    	html .relaunch_false{background: #}
+    	html .relaunch_true {background: url(/obj/media/UK-eventim/wallpaper/) # no-repeat center top fixed;}
+    	#banner{background: #;}
+	</style>
 	
-					
-										
-				
-								
-		
-					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-					
 	
-
 
 <a name="top"></a>      
 	
@@ -561,8 +537,10 @@ user_id : uuid
 								<img src="/obj/media/UK-eventim/specialLogos/relaunch_header_logo.png" width="116" height="62" alt="Tickets for Concerts, Theatre, Festivals, Sports, Events and Attractions">
 							</span>
     						    					</a>
+						
     					<div class="brand">
-    					                            						<h2>Tickets for Concerts, Theatre, Festivals, Sports, Events &amp; Attractions</h2>
+    					                        															<h2 class="">Tickets for Concerts, Festivals, Theatre, Sports &amp; Attractions</h2>
+														
     						                                                </div>
                     
     
@@ -570,72 +548,73 @@ user_id : uuid
                             <ul class="inline">
                                 <li>                                       	
 			
-	<div class="navi-item">	
+	<div class="navi-item btn-group">	
         
-		<a href="javascript:void(0);" id="XPage_ToLogin_Link" class="meta-navbar-item padR4" onmouseover="return xt_click(this,'F','8','Loginlogo');">Login</a>
-
-		<ul id="loginDropdown" class="isB " style="display:none;">
-			
-            <li class="login-headline">myeventim</li>
-			<li class="divider"></li>
-			<li>
-    			<form autocomplete="off" action="https://secure.eventim.co.uk/tnl.dll" method="post" id="qlForm" class="validateInField">
-					<input type="hidden" name="token" value="AC3C6E74BE5CC2E261F0EF7565838F56">
-
-    				<input type="hidden" name="fun" value="customer">
-    				<input type="hidden" name="action" value="login">
-    				<input type="hidden" name="affiliate" value="EUK">
-    				<input type="hidden" name="id" value="">
-    				<input type="hidden" name="doc" value="feature/login">
-					<input type="hidden" name="nextdoc" value="feature/login">
-    				<input type="hidden" name="errordoc" value="globalError">
-    													
-    				<div class="control-group">
-						<input placeholder="Username / Email address" name="username" id="qlusername" required="true" type="text" class="input required" alt="" title="Username / Email address">    				
-                    </div>
-					<div class="control-group">	
-						<input placeholder="Password" type="password" name="password" id="qlpassword" required="true" class="input required" alt="" title="Password">
-    				</div>
-					<button id="loginButton" class="btn btn-login pull-right submit-form">Login</button> 
-
-    			</form>
-				<div class="additional-links">
-					<a href="Tickets.html?affiliate=EUK&amp;doc=feature/forgotPassword" class="forgot-link" title="Forgotten your login data?" target=""> Forgotten your password?</a>
+		<a href="javascript:void(0);" id="XPage_ToLogin_Link" class="logInLink meta-navbar-item padR4" onmouseover="return xt_click(this,'F','8','Loginlogo');">Login</a>
+		<div class="logIn">	
+			<ul id="loginDropdown" class="isB smallNose">
+				
+	            <li class="login-headline">myeventim</li>
+				<li class="divider"></li>
+				<li>
+	    			<form autocomplete="off" action="https://secure.eventim.co.uk/tnl.dll" method="post" id="qlForm" class="validateInField">
+						<input type="hidden" name="token" value="7962598770609583D4C5D64E5F849FAD">
+	
+	    				<input type="hidden" name="fun" value="customer">
+	    				<input type="hidden" name="action" value="login">
+	    				<input type="hidden" name="affiliate" value="EUK">
+	    				<input type="hidden" name="id" value="">
+	    				<input type="hidden" name="doc" value="feature/login">
+						<input type="hidden" name="nextdoc" value="feature/login">
+	    				<input type="hidden" name="errordoc" value="globalError">
+	    													
+	    				<div class="control-group">
+							<input placeholder="Username / Email address" name="username" id="qlusername" autocomplete="off" required="true" type="text" class="input required" alt="" title="Username / Email address">    				
+	                    </div>
+						<div class="control-group">	
+													<input type="text" style="display:none;">
+							<input placeholder="Password" type="password" name="password" id="qlpassword" required="true" class="input required" alt="" title="Password">
+	    				</div>
+						<button id="loginButton" class="btn btn-login pull-right submit-form">Login</button> 
+	
+	    			</form>
+					<div class="additional-links">
+						<a href="Tickets.html?affiliate=EUK&amp;doc=feature/forgotPassword" class="forgot-link" title="Forgotten your login data?" target=""> Forgotten your password?</a>
+						<br class="cl">
+						<a class="blue-link" href="Tickets.html?affiliate=EUK&amp;doc=feature/customerRegistration" title="Create a new account"> Create a new account</a>
+	                </div>
+					
 					<br class="cl">
-					<a class="blue-link" href="Tickets.html?affiliate=EUK&amp;doc=feature/customerRegistration" title="Create a new account"> Create a new account</a>
-                </div>
-				
-				<br class="cl">
-			</li>
-			<li class="password-send-container" style="display:none;">
-				<div id="password-form">
-    				<div class="additional-hint">
-    					Please enter your email address and we will send you an email with your new password.                    </div>
-    				<form autocomplete="off" action="https://secure.eventim.co.uk/tnl.dll" method="post" id="PasswordForgottenLoginLayer" class="ajaxForm validateForm">
-<input type="hidden" name="token" value="AC3C6E74BE5CC2E261F0EF7565838F56">
-
-    					<input type="hidden" name="fun" value="chpwd">
-                    	<input type="hidden" name="action" value="reset">
-                    	<input type="hidden" name="affiliate" value="EUK">
-                    	<input type="hidden" name="doc" value="feature/login">
-                    	<input type="hidden" name="nextdoc" value="feature/login">
-						<input type="hidden" name="errordoc" value="feature/login">
-    				
-        				<div class="input-append control-group">
-        					<input placeholder="Email address" validate="required:true" name="email" id="qlemail" type="text" class="required email input" alt="">
-        					<button id="btnPasswordForgottenLoginLayer" class="btn btn-send submit-form" type="submit">
-        					</button>
-        				</div>
-    					                    </form>
-                </div>
-				
-				<div id="password-confirmation-line" style="display:none;" class="mods"></div>
-				<div id="password-non-confirmation-line" style="display:none;" class="mods"></div>
-			</li>	
-
-    		                <li class="divider"></li>
-        		<li id="fbFlyout">
-                	                	                		
+				</li>
+				<li class="password-send-container" style="display:none;">
+					<div id="password-form">
+	    				<div class="additional-hint">
+	    					Please enter your email address and we will send you an email with your new password.	                    </div>
+	    				<form autocomplete="off" action="https://secure.eventim.co.uk/tnl.dll" method="post" id="PasswordForgottenLoginLayer" class="ajaxForm validateForm">
+	<input type="hidden" name="token" value="7962598770609583D4C5D64E5F849FAD">
+	
+	    					<input type="hidden" name="fun" value="chpwd">
+	                    	<input type="hidden" name="action" value="reset">
+	                    	<input type="hidden" name="affiliate" value="EUK">
+	                    	<input type="hidden" name="doc" value="feature/login">
+	                    	<input type="hidden" name="nextdoc" value="feature/login">
+							<input type="hidden" name="errordoc" value="feature/login">
+	    				
+	        				<div class="input-append control-group">
+	        					<input placeholder="Email address" validate="required:true" name="email" id="qlemail" type="text" class="required email input" alt="">
+	        					<button id="btnPasswordForgottenLoginLayer" class="btn btn-send submit-form" type="submit">
+	        					</button>
+	        				</div>
+	    						                    </form>
+	                </div>
+					
+					<div id="password-confirmation-line" style="display:none;" class="mods"></div>
+					<div id="password-non-confirmation-line" style="display:none;" class="mods"></div>
+				</li>	
+	
+	    			                <li class="divider"></li>
+	        		<li id="fbFlyout">
+	                		                		                		
 			
 				<div class="ssoContainerBody">
 			    		<div id="SingleSignOnContainer">
@@ -652,19 +631,19 @@ user_id : uuid
             			</div>
                 	        		            </div>
 		</div>
+									<br class="cl">
+	        		</li>
 								<br class="cl">
-        		</li>
-						<br class="cl">
-		</ul>
-
+			</ul>
+		</div>
     </div>
                     </li>
                                                                 <li>                                       			<div class="btn-group dropdown navi-item">
-	<button class="btn btn-small dropdown-toggle language-switch-toggle" id="btn-languages">
+	<button class="btn btn-small dropdown-toggle language-switch-toggle btn-languages" id="btn-languages">
 		<i class="flag-en"></i>
 	</button>
-	<div id="allLanguages" class="isB" style="display:none">
-		<ul id="languageDropdown" class="languages">			
+	<div id="allLanguages" class="allLanguages isB">
+		<ul id="languageDropdown" class="languages smallNose">			
 			<li id="current-language">				
 				<i class="flag-gb"></i>United Kingdom			</li>    								
 							<li class="selLang">
@@ -699,8 +678,8 @@ user_id : uuid
     				</a>					
     			</li>				
 			    			<li>
-    				<a href="http://www.topticket.fr" title="France http://www.topticket.fr" target="_blank">
-    					<i class="flag-fr"></i> France
+    				<a href="http://www.eventim.de" title="Germany http://www.eventim.de" target="_blank">
+    					<i class="flag-de"></i> Germany
     				</a>					
     			</li>				
 			    			<li>
@@ -798,7 +777,7 @@ user_id : uuid
 	</button>
 		    	</div>                                       <div id="menuContainer" class="navigationContainer menuContainer">	
 	<div id="Events" class="eventmenue naviMenu" data-menu="categories">
-                                       <ul class="drop" id="categoriesDropdown">
+                                       <ul class="drop bigNose" id="categoriesDropdown">
 	<li class="mainCatLink subNaviItem" data-link="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" data-tracking="xt_click(this,'C','8','AllEvents::Concerts','N');">
 		<a href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="mainCatLinkItem filterLinkElement" id="XPage_LayerCategories_Category_13" name="layerCategories_kategorie_13">
 		Concerts
@@ -810,73 +789,79 @@ user_id : uuid
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_13_664" name="layerCategories_kategorie_13_1A" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::RockandPop','N');">
 					Rock and Pop 
-					<span class="count">(900)</span>
+					<span class="count">(956)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_13_665" name="layerCategories_kategorie_13_1B" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::AlternativeandIndie','N');">
 					Alternative and Indie 
-					<span class="count">(76)</span>
+					<span class="count">(82)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_13_669" name="layerCategories_kategorie_13_1L" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1L&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::Classical','N');">
 					Classical 
-					<span class="count">(47)</span>
+					<span class="count">(30)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_13_670" name="layerCategories_kategorie_13_1D" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::ClubsandDance','N');">
 					Clubs and Dance 
-					<span class="count">(19)</span>
+					<span class="count">(12)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_13_668" name="layerCategories_kategorie_13_1E" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::CountryandFolk','N');">
 					Country and Folk 
-					<span class="count">(59)</span>
+					<span class="count">(93)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_13_671" name="layerCategories_kategorie_13_1F" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::Festivals','N');">
 					Festivals 
-					<span class="count">(7)</span>
+					<span class="count">(88)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_13_672" name="layerCategories_kategorie_13_1G" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::HardRockandMetal','N');">
 					Hard Rock and Metal 
-					<span class="count">(27)</span>
+					<span class="count">(16)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_13_666" name="layerCategories_kategorie_13_1C" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::Hip-hopandRap','N');">
 					Hip-hop and Rap 
-					<span class="count">(23)</span>
+					<span class="count">(22)</span>
 					</a>
 				</div>
 				<div class="item">
-					<a class="itemLink" id="XPage_LayerCategories_Category_13_667" name="layerCategories_kategorie_13_1I" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1I&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::Jazz,Blues_Soul','N');">
-					Jazz, Blues &amp; Soul 
-					<span class="count">(55)</span>
+					<a class="itemLink" id="XPage_LayerCategories_Category_13_667" name="layerCategories_kategorie_13_1I" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1I&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::Jazz,Blues,FunkandSoul','N');">
+					Jazz, Blues, Funk and Soul 
+					<span class="count">(65)</span>
 					</a>
 				</div>
 				<div class="item">
-					<a class="itemLink" id="XPage_LayerCategories_Category_13_673" name="layerCategories_kategorie_13_1J" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1J&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::R_B/Urban/Soul','N');">
-					R&amp;B/Urban/Soul 
-					<span class="count">(17)</span>
+					<a class="itemLink" id="XPage_LayerCategories_Category_13_673" name="layerCategories_kategorie_13_1J" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1J&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::R_B,Urban','N');">
+					R&amp;B, Urban 
+					<span class="count">(12)</span>
 					</a>
 				</div>
 				<div class="item">
-					<a class="itemLink" id="XPage_LayerCategories_Category_13_674" name="layerCategories_kategorie_13_1K" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1K&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::World','N');">
-					World 
-					<span class="count">(8)</span>
+					<a class="itemLink" id="XPage_LayerCategories_Category_13_1378" name="layerCategories_kategorie_13_1M" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1M&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::Singer-Songwriter','N');">
+					Singer-Songwriter 
+					<span class="count">(110)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_13_1362" name="layerCategories_kategorie_13_5K" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=5K&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::TributeActs','N');">
 					Tribute Acts 
-					<span class="count">(47)</span>
+					<span class="count">(46)</span>
+					</a>
+				</div>
+				<div class="item">
+					<a class="itemLink" id="XPage_LayerCategories_Category_13_674" name="layerCategories_kategorie_13_1K" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=13&amp;kategorieKuerzel=1K&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Concerts::World','N');">
+					World 
+					<span class="count">(5)</span>
 					</a>
 				</div>
 			</div>
@@ -899,7 +884,7 @@ user_id : uuid
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_14_711" name="layerCategories_kategorie_14_3A" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=3A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Sport::Boxing','N');">
 					Boxing 
-					<span class="count">(1)</span>
+					<span class="count">(4)</span>
 					</a>
 				</div>
 				<div class="item">
@@ -911,24 +896,25 @@ user_id : uuid
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_14_1143" name="layerCategories_kategorie_14_3J" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=3J&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Sport::Darts','N');">
 					Darts 
+					<span class="count">(3)</span>
+					</a>
+				</div>
+				<div class="item">
+					<a class="itemLink" id="XPage_LayerCategories_Category_14_675" name="layerCategories_kategorie_14_2A" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=2A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Sport::Athletics','N');">
+					Athletics 
 					<span class="count">(4)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_14_685" name="layerCategories_kategorie_14_2K" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=2K&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Sport::Motorsport','N');">
 					Motorsport 
-					<span class="count">(3)</span>
+					<span class="count">(4)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_14_1198" name="layerCategories_kategorie_14_40P" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=40P&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Sport::Wrestling','N');">
 					Wrestling 
-					<span class="count">(2)</span>
-					</a>
-				</div>
-				<div class="item">
-					<a class="itemLink" id="XPage_LayerCategories_Category_14_681" name="layerCategories_kategorie_14_2G" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=14&amp;kategorieKuerzel=2G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Sport::Golf','N');">
-					Golf 
+					<span class="count">(11)</span>
 					</a>
 				</div>
 			</div>
@@ -946,13 +932,19 @@ user_id : uuid
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_15_690" name="layerCategories_kategorie_15_3C" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;kategorieKuerzel=3C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Comedy_Theatre::Comedy','N');">
 					Comedy 
-					<span class="count">(110)</span>
+					<span class="count">(97)</span>
+					</a>
+				</div>
+				<div class="item">
+					<a class="itemLink" id="XPage_LayerCategories_Category_15_688" name="layerCategories_kategorie_15_3W" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;kategorieKuerzel=3W&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Comedy_Theatre::BalletandDance','N');">
+					Ballet and Dance 
+					<span class="count">(95)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_15_692" name="layerCategories_kategorie_15_3E" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;kategorieKuerzel=3E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Comedy_Theatre::Musicals','N');">
 					Musicals 
-					<span class="count">(413)</span>
+					<span class="count">(457)</span>
 					</a>
 				</div>
 				<div class="item">
@@ -964,7 +956,7 @@ user_id : uuid
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_15_1363" name="layerCategories_kategorie_15_5L" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=15&amp;kategorieKuerzel=5L&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Comedy_Theatre::MagicShows','N');">
 					Magic Shows 
-					<span class="count">(21)</span>
+					<span class="count">(26)</span>
 					</a>
 				</div>
 			</div>
@@ -982,42 +974,31 @@ user_id : uuid
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_16_696" name="layerCategories_kategorie_16_4B" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Family_Attractions::FamilyShows','N');">
 					Family Shows 
-					<span class="count">(95)</span>
+					<span class="count">(151)</span>
+					</a>
+				</div>
+				<div class="item">
+					<a class="itemLink" id="XPage_LayerCategories_Category_16_699" name="layerCategories_kategorie_16_4E" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Family_Attractions::Iceshows','N');">
+					Ice shows 
+					<span class="count">(32)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_16_700" name="layerCategories_kategorie_16_4F" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Family_Attractions::MuseumsandExhibitions','N');">
 					Museums and Exhibitions 
+					<span class="count">(7)</span>
+					</a>
+				</div>
+				<div class="item">
+					<a class="itemLink" id="XPage_LayerCategories_Category_16_701" name="layerCategories_kategorie_16_4G" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Family_Attractions::Pantomime','N');">
+					Pantomime 
+					<span class="count">(100)</span>
 					</a>
 				</div>
 				<div class="item">
 					<a class="itemLink" id="XPage_LayerCategories_Category_16_702" name="layerCategories_kategorie_16_4H" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=16&amp;kategorieKuerzel=4H&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Family_Attractions::TouristAttractions','N');">
 					Tourist Attractions 
-					<span class="count">(417)</span>
-					</a>
-				</div>
-			</div>
-		</div>
-			</li>
-	<li class="divider"></li>
-			    	    		<li class="mainCatLink subNaviItem" data-link="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=104&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" data-tracking="xt_click(this,'C','8','AllEvents::Christmas','N');">
-		<a href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=104&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="mainCatLinkItem filterLinkElement" id="XPage_LayerCategories_Category_104" name="layerCategories_kategorie_104">
-		Christmas
-		</a>
-		
-				<i class="icon-caret-right"></i>
-		<div class="subcatList bright lazy" data-original="/obj/media/UK-eventim/teaser/en/category/bright/xmas-bg-3.jpg" style="background:#ECEFF3;" data-level="8">
-			<div class="first">
-				<div class="item">
-					<a class="itemLink" id="XPage_LayerCategories_Category_104_1365" name="layerCategories_kategorie_104_20A" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=104&amp;kategorieKuerzel=20A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Christmas::ChristmasShows','N');">
-					Christmas Shows 
-					<span class="count">(113)</span>
-					</a>
-				</div>
-				<div class="item">
-					<a class="itemLink" id="XPage_LayerCategories_Category_104_1366" name="layerCategories_kategorie_104_20B" href="Tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=104&amp;kategorieKuerzel=20B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" onclick="return xt_click(this,'C','8','AllEvents::Christmas::Pantomime','N');">
-					Pantomime 
-					<span class="count">(92)</span>
+					<span class="count">(35)</span>
 					</a>
 				</div>
 			</div>
@@ -1043,7 +1024,7 @@ user_id : uuid
 
 
 
-<ul id="citiesDropdown" class="drop">
+<ul id="citiesDropdown" class="bigNose drop">
 		<li class="mainCityLink subNaviItem" data-link="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=182&amp;tipps=yes" data-tracking="xt_click(this,'C','8','AllCities::Manchester','N');">
     	<a href="Tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=182&amp;tipps=yes" class="mainCityLinkItem filterLinkElement" name="header_layerCities_ortId_182">
 		Manchester	
@@ -1052,52 +1033,52 @@ user_id : uuid
 		<div class="venueList lazy" data-original="/obj/media/UK-eventim/teaser/en/" style="background:#ECEFF3;" data-level="8">
 			<div class="">
 					    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_182_15967" href="Tickets-the-bridgewater-hall.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15967" onclick="return xt_click(this,'C','8','AllCities::TheBridgewaterHall','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_182_15967" href="the-bridgewater-hall-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15967" onclick="return xt_click(this,'C','8','AllCities::TheBridgewaterHall','N');"> 
  						<span class="itemLinkSpan">The Bridgewater Hall</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_182_16671" href="Tickets-etihad-stadium.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16671" onclick="return xt_click(this,'C','8','AllCities::EtihadStadium','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_182_16671" href="etihad-stadium-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16671" onclick="return xt_click(this,'C','8','AllCities::EtihadStadium','N');"> 
  						<span class="itemLinkSpan">Etihad Stadium</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_182_18497" href="Tickets-heaton-park.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18497" onclick="return xt_click(this,'C','8','AllCities::HeatonPark','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_182_18497" href="heaton-park-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18497" onclick="return xt_click(this,'C','8','AllCities::HeatonPark','N');"> 
  						<span class="itemLinkSpan">Heaton Park</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_182_16669" href="Tickets-hmv-ritz.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16669" onclick="return xt_click(this,'C','8','AllCities::HMVRitz','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_182_16669" href="hmv-ritz-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16669" onclick="return xt_click(this,'C','8','AllCities::HMVRitz','N');"> 
  						<span class="itemLinkSpan">HMV Ritz</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_182_15182" href="Tickets-manchester-academy.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15182" onclick="return xt_click(this,'C','8','AllCities::ManchesterAcademy','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_182_15182" href="manchester-academy-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15182" onclick="return xt_click(this,'C','8','AllCities::ManchesterAcademy','N');"> 
  						<span class="itemLinkSpan">Manchester Academy</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_182_15562" href="Tickets-manchester-opera-house.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15562" onclick="return xt_click(this,'C','8','AllCities::ManchesterOperaHouse','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_182_15562" href="manchester-opera-house-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15562" onclick="return xt_click(this,'C','8','AllCities::ManchesterOperaHouse','N');"> 
  						<span class="itemLinkSpan">Manchester Opera House</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_182_16513" href="Tickets-manchester-ruby-lounge.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16513" onclick="return xt_click(this,'C','8','AllCities::ManchesterRubyLounge','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_182_16513" href="manchester-ruby-lounge-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16513" onclick="return xt_click(this,'C','8','AllCities::ManchesterRubyLounge','N');"> 
  						<span class="itemLinkSpan">Manchester Ruby Lounge</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_182_15563" href="Tickets-manchester-sound-control.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15563" onclick="return xt_click(this,'C','8','AllCities::ManchesterSoundControl','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_182_15563" href="manchester-sound-control-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15563" onclick="return xt_click(this,'C','8','AllCities::ManchesterSoundControl','N');"> 
  						<span class="itemLinkSpan">Manchester Sound Control</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_182_14553" href="Tickets-o2-apollo-manchester.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=14553" onclick="return xt_click(this,'C','8','AllCities::O2ApolloManchester','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_182_14553" href="o2-apollo-manchester-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=14553" onclick="return xt_click(this,'C','8','AllCities::O2ApolloManchester','N');"> 
  						<span class="itemLinkSpan">O2 Apollo Manchester</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_182_15179" href="Tickets-manchester-arena.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15179" onclick="return xt_click(this,'C','8','AllCities::ManchesterArena','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_182_15179" href="manchester-arena-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15179" onclick="return xt_click(this,'C','8','AllCities::ManchesterArena','N');"> 
  						<span class="itemLinkSpan">Manchester Arena</span>                        </a>
                         <br class="cl">
     				</div>	
@@ -1113,37 +1094,37 @@ user_id : uuid
 		<div class="venueList lazy" data-original="/obj/media/UK-eventim/teaser/en/" style="background:#ECEFF3;" data-level="8">
 			<div class="">
 					    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_187_18461" href="Tickets-bramham-park.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18461" onclick="return xt_click(this,'C','8','AllCities::BramhamPark','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_187_18461" href="bramham-park-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18461" onclick="return xt_click(this,'C','8','AllCities::BramhamPark','N');"> 
  						<span class="itemLinkSpan">Bramham Park</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_187_15185" href="Tickets-the-cockpit.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15185" onclick="return xt_click(this,'C','8','AllCities::TheCockpit','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_187_15185" href="the-cockpit-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15185" onclick="return xt_click(this,'C','8','AllCities::TheCockpit','N');"> 
  						<span class="itemLinkSpan">The Cockpit</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_187_16269" href="Tickets-first-direct-arena.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16269" onclick="return xt_click(this,'C','8','AllCities::firstdirectarena','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_187_16269" href="first-direct-arena-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16269" onclick="return xt_click(this,'C','8','AllCities::firstdirectarena','N');"> 
  						<span class="itemLinkSpan">first direct arena</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_187_15535" href="Tickets-leeds-metropolitan-university.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15535" onclick="return xt_click(this,'C','8','AllCities::LeedsMetropolitanUniversity','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_187_15535" href="leeds-metropolitan-university-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15535" onclick="return xt_click(this,'C','8','AllCities::LeedsMetropolitanUniversity','N');"> 
  						<span class="itemLinkSpan">Leeds Metropolitan University</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_187_15537" href="Tickets-leeds-town-hall.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15537" onclick="return xt_click(this,'C','8','AllCities::LeedsTownHall','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_187_15537" href="leeds-town-hall-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15537" onclick="return xt_click(this,'C','8','AllCities::LeedsTownHall','N');"> 
  						<span class="itemLinkSpan">Leeds Town Hall</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_187_15645" href="Tickets-o2-academy-leeds.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15645" onclick="return xt_click(this,'C','8','AllCities::O2AcademyLeeds','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_187_15645" href="o2-academy-leeds-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15645" onclick="return xt_click(this,'C','8','AllCities::O2AcademyLeeds','N');"> 
  						<span class="itemLinkSpan">O2 Academy Leeds</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_187_16483" href="Tickets-the-wardrobe.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16483" onclick="return xt_click(this,'C','8','AllCities::TheWardrobe','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_187_16483" href="the-wardrobe-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16483" onclick="return xt_click(this,'C','8','AllCities::TheWardrobe','N');"> 
  						<span class="itemLinkSpan">The Wardrobe</span>                        </a>
                         <br class="cl">
     				</div>	
@@ -1159,38 +1140,38 @@ user_id : uuid
 		<div class="venueList lazy" data-original="/obj/media/UK-eventim/teaser/en/" style="background:#ECEFF3;" data-level="8">
 			<div class="">
 					    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_194_16684" href="Tickets-mill-volvo-tyne-theatre.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16684" onclick="return xt_click(this,'C','8','AllCities::MillVolvoTyneTheatre','N');"> 
- 						<span class="itemLinkSpan">Mill Volvo Tyne Theatre</span>                        </a>
-                        <br class="cl">
-    				</div>	
-    									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_194_15589" href="Tickets-newcastle-city-hall.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15589" onclick="return xt_click(this,'C','8','AllCities::NewcastleCityHall','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_194_15589" href="newcastle-city-hall-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15589" onclick="return xt_click(this,'C','8','AllCities::NewcastleCityHall','N');"> 
  						<span class="itemLinkSpan">Newcastle City Hall</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_194_15593" href="Tickets-newcastle-metro-radio-arena.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15593" onclick="return xt_click(this,'C','8','AllCities::NewcastleMetroRadioArena','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_194_15593" href="newcastle-metro-radio-arena-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15593" onclick="return xt_click(this,'C','8','AllCities::NewcastleMetroRadioArena','N');"> 
  						<span class="itemLinkSpan">Newcastle Metro Radio Arena</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_194_18498" href="Tickets-newcastle-racecourse.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18498" onclick="return xt_click(this,'C','8','AllCities::NewcastleRacecourse','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_194_18498" href="newcastle-racecourse-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18498" onclick="return xt_click(this,'C','8','AllCities::NewcastleRacecourse','N');"> 
  						<span class="itemLinkSpan">Newcastle Racecourse</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_194_15605" href="Tickets-o2-academy-newcastle.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15605" onclick="return xt_click(this,'C','8','AllCities::O2AcademyNewcastle','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_194_15605" href="o2-academy-newcastle-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15605" onclick="return xt_click(this,'C','8','AllCities::O2AcademyNewcastle','N');"> 
  						<span class="itemLinkSpan">O2 Academy Newcastle</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_194_16685" href="Tickets-playhouse.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16685" onclick="return xt_click(this,'C','8','AllCities::Playhouse','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_194_16685" href="playhouse-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16685" onclick="return xt_click(this,'C','8','AllCities::Playhouse','N');"> 
  						<span class="itemLinkSpan">Playhouse</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_194_18568" href="Tickets-st-james-park.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18568" onclick="return xt_click(this,'C','8','AllCities::St.James\'Park','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_194_18568" href="st-james-park-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18568" onclick="return xt_click(this,'C','8','AllCities::St.James\'Park','N');"> 
  						<span class="itemLinkSpan">St. James' Park</span>                        </a>
+                        <br class="cl">
+    				</div>	
+    									    				<div class="item">
+    					<a class="itemLink" id="header_layerCities_ortId_194_16021" href="tyne-theatre-opera-house-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16021" onclick="return xt_click(this,'C','8','AllCities::TyneTheatre&amp;OperaHouse','N');"> 
+ 						<span class="itemLinkSpan">Tyne Theatre &amp; Opera House</span>                        </a>
                         <br class="cl">
     				</div>	
     							</div>
@@ -1205,100 +1186,100 @@ user_id : uuid
 		<div class="venueList lazy" data-original="/obj/media/UK-eventim/teaser/en/" style="background:#ECEFF3;" data-level="8">
 			<div class="first">
 					    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15186" href="Tickets-100-club.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15186" onclick="return xt_click(this,'C','8','AllCities::100Club','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15186" href="100-club-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15186" onclick="return xt_click(this,'C','8','AllCities::100Club','N');"> 
  						<span class="itemLinkSpan">100 Club</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15208" href="Tickets-229.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15208" onclick="return xt_click(this,'C','8','AllCities::229','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15208" href="229-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15208" onclick="return xt_click(this,'C','8','AllCities::229','N');"> 
  						<span class="itemLinkSpan">229</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15135" href="Tickets-alexandra-palace.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15135" onclick="return xt_click(this,'C','8','AllCities::AlexandraPalace','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15135" href="alexandra-palace-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15135" onclick="return xt_click(this,'C','8','AllCities::AlexandraPalace','N');"> 
  						<span class="itemLinkSpan">Alexandra Palace</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15344" href="Tickets-bush-hall.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15344" onclick="return xt_click(this,'C','8','AllCities::BushHall','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15344" href="bush-hall-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15344" onclick="return xt_click(this,'C','8','AllCities::BushHall','N');"> 
  						<span class="itemLinkSpan">Bush Hall</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15178" href="Tickets-the-clapham-grand.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15178" onclick="return xt_click(this,'C','8','AllCities::TheClaphamGrand','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15178" href="the-clapham-grand-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15178" onclick="return xt_click(this,'C','8','AllCities::TheClaphamGrand','N');"> 
  						<span class="itemLinkSpan">The Clapham Grand</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15480" href="Tickets-earls-court.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15480" onclick="return xt_click(this,'C','8','AllCities::EarlsCourt','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15480" href="earls-court-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15480" onclick="return xt_click(this,'C','8','AllCities::EarlsCourt','N');"> 
  						<span class="itemLinkSpan">Earls Court</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15485" href="Tickets-electric-ballroom.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15485" onclick="return xt_click(this,'C','8','AllCities::ElectricBallroom','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15485" href="electric-ballroom-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15485" onclick="return xt_click(this,'C','8','AllCities::ElectricBallroom','N');"> 
  						<span class="itemLinkSpan">Electric Ballroom</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15134" href="Tickets-eventim-apollo.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15134" onclick="return xt_click(this,'C','8','AllCities::EventimApollo','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15134" href="eventim-apollo-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15134" onclick="return xt_click(this,'C','8','AllCities::EventimApollo','N');"> 
  						<span class="itemLinkSpan">Eventim Apollo</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15532" href="Tickets-indigo2.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15532" onclick="return xt_click(this,'C','8','AllCities::indigO2','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15532" href="indigo2-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15532" onclick="return xt_click(this,'C','8','AllCities::indigO2','N');"> 
  						<span class="itemLinkSpan">indigO2</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15177" href="Tickets-islington-assembly-hall.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15177" onclick="return xt_click(this,'C','8','AllCities::IslingtonAssemblyHall','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15177" href="islington-assembly-hall-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15177" onclick="return xt_click(this,'C','8','AllCities::IslingtonAssemblyHall','N');"> 
  						<span class="itemLinkSpan">Islington Assembly Hall</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15547" href="Tickets-koko.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15547" onclick="return xt_click(this,'C','8','AllCities::KOKO','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15547" href="koko-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15547" onclick="return xt_click(this,'C','8','AllCities::KOKO','N');"> 
  						<span class="itemLinkSpan">KOKO</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_14628" href="Tickets-the-o2.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=14628" onclick="return xt_click(this,'C','8','AllCities::TheO2','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_14628" href="the-o2-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=14628" onclick="return xt_click(this,'C','8','AllCities::TheO2','N');"> 
  						<span class="itemLinkSpan">The O2</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15184" href="Tickets-o2-academy-islington.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15184" onclick="return xt_click(this,'C','8','AllCities::O2AcademyIslington','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15184" href="o2-academy-islington-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15184" onclick="return xt_click(this,'C','8','AllCities::O2AcademyIslington','N');"> 
  						<span class="itemLinkSpan">O2 Academy Islington</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15647" href="Tickets-o2-shepherds-bush-empire.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15647" onclick="return xt_click(this,'C','8','AllCities::O2Shepherd\'sBushEmpire','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15647" href="o2-shepherds-bush-empire-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15647" onclick="return xt_click(this,'C','8','AllCities::O2Shepherd\'sBushEmpire','N');"> 
  						<span class="itemLinkSpan">O2 Shepherd's Bush Empire</span>                        </a>
                         <br class="cl">
     				</div>	
     								</div>
 				<div class="second">
 					    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15680" href="Tickets-roundhouse.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15680" onclick="return xt_click(this,'C','8','AllCities::Roundhouse','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15680" href="roundhouse-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15680" onclick="return xt_click(this,'C','8','AllCities::Roundhouse','N');"> 
  						<span class="itemLinkSpan">Roundhouse</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15136" href="Tickets-royal-albert-hall.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15136" onclick="return xt_click(this,'C','8','AllCities::RoyalAlbertHall','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15136" href="royal-albert-hall-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15136" onclick="return xt_click(this,'C','8','AllCities::RoyalAlbertHall','N');"> 
  						<span class="itemLinkSpan">Royal Albert Hall</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_15686" href="Tickets-scala.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15686" onclick="return xt_click(this,'C','8','AllCities::Scala','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_15686" href="scala-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15686" onclick="return xt_click(this,'C','8','AllCities::Scala','N');"> 
  						<span class="itemLinkSpan">Scala
 </span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_16030" href="Tickets-the-sse-arena-wembley.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16030" onclick="return xt_click(this,'C','8','AllCities::TheSSEArenaWembley','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_16030" href="the-sse-arena-wembley-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16030" onclick="return xt_click(this,'C','8','AllCities::TheSSEArenaWembley','N');"> 
  						<span class="itemLinkSpan">The SSE Arena Wembley</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_181_16020" href="Tickets-troxy.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16020" onclick="return xt_click(this,'C','8','AllCities::Troxy','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_181_16020" href="troxy-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16020" onclick="return xt_click(this,'C','8','AllCities::Troxy','N');"> 
  						<span class="itemLinkSpan">Troxy</span>                        </a>
                         <br class="cl">
     				</div>	
@@ -1314,32 +1295,32 @@ user_id : uuid
 		<div class="venueList lazy" data-original="/obj/media/UK-eventim/teaser/en/" style="background:#ECEFF3;" data-level="8">
 			<div class="">
 					    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_190_15481" href="Tickets-echo-arena-liverpool.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15481" onclick="return xt_click(this,'C','8','AllCities::EchoArenaLiverpool','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_190_15481" href="echo-arena-liverpool-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15481" onclick="return xt_click(this,'C','8','AllCities::EchoArenaLiverpool','N');"> 
  						<span class="itemLinkSpan">Echo Arena Liverpool</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_190_18560" href="Tickets-the-kazimier.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18560" onclick="return xt_click(this,'C','8','AllCities::TheKazimier','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_190_18560" href="the-kazimier-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18560" onclick="return xt_click(this,'C','8','AllCities::TheKazimier','N');"> 
  						<span class="itemLinkSpan">The Kazimier</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_190_16569" href="Tickets-leaf-cafe.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16569" onclick="return xt_click(this,'C','8','AllCities::LeafCafe','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_190_16569" href="leaf-cafe-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=16569" onclick="return xt_click(this,'C','8','AllCities::LeafCafe','N');"> 
  						<span class="itemLinkSpan">Leaf Cafe</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_190_15549" href="Tickets-liverpool-empire.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15549" onclick="return xt_click(this,'C','8','AllCities::LiverpoolEmpire','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_190_15549" href="liverpool-empire-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15549" onclick="return xt_click(this,'C','8','AllCities::LiverpoolEmpire','N');"> 
  						<span class="itemLinkSpan">Liverpool Empire</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_190_15604" href="Tickets-o2-academy-liverpool.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15604" onclick="return xt_click(this,'C','8','AllCities::O2AcademyLiverpool','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_190_15604" href="o2-academy-liverpool-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15604" onclick="return xt_click(this,'C','8','AllCities::O2AcademyLiverpool','N');"> 
  						<span class="itemLinkSpan">O2 Academy Liverpool</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_190_18082" href="Tickets-st-georges-hall.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18082" onclick="return xt_click(this,'C','8','AllCities::StGeorge\'sHall','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_190_18082" href="st-georges-hall-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=18082" onclick="return xt_click(this,'C','8','AllCities::StGeorge\'sHall','N');"> 
  						<span class="itemLinkSpan">St George's Hall</span>                        </a>
                         <br class="cl">
     				</div>	
@@ -1355,32 +1336,32 @@ user_id : uuid
 		<div class="venueList lazy" data-original="/obj/media/UK-eventim/teaser/en/" style="background:#ECEFF3;" data-level="8">
 			<div class="">
 					    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_186_15244" href="Tickets-birmingham-hippodrome.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15244" onclick="return xt_click(this,'C','8','AllCities::BirminghamHippodrome','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_186_15244" href="birmingham-hippodrome-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15244" onclick="return xt_click(this,'C','8','AllCities::BirminghamHippodrome','N');"> 
  						<span class="itemLinkSpan">Birmingham Hippodrome</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_186_15245" href="Tickets-birmingham-irish-centre.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15245" onclick="return xt_click(this,'C','8','AllCities::BirminghamIrishCentre','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_186_15245" href="birmingham-irish-centre-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15245" onclick="return xt_click(this,'C','8','AllCities::BirminghamIrishCentre','N');"> 
  						<span class="itemLinkSpan">Birmingham Irish Centre</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_186_15520" href="Tickets-hmv-institute.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15520" onclick="return xt_click(this,'C','8','AllCities::HMVInstitute','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_186_15520" href="hmv-institute-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15520" onclick="return xt_click(this,'C','8','AllCities::HMVInstitute','N');"> 
  						<span class="itemLinkSpan">HMV Institute</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_186_15170" href="Tickets-lg-arena.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15170" onclick="return xt_click(this,'C','8','AllCities::LGArena','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_186_15170" href="lg-arena-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15170" onclick="return xt_click(this,'C','8','AllCities::LGArena','N');"> 
  						<span class="itemLinkSpan">LG Arena</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_186_15599" href="Tickets-o2-academy-birmingham.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15599" onclick="return xt_click(this,'C','8','AllCities::O2AcademyBirmingham','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_186_15599" href="o2-academy-birmingham-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15599" onclick="return xt_click(this,'C','8','AllCities::O2AcademyBirmingham','N');"> 
  						<span class="itemLinkSpan">O2 Academy Birmingham</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_186_15812" href="Tickets-symphony-hall.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15812" onclick="return xt_click(this,'C','8','AllCities::SymphonyHall','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_186_15812" href="symphony-hall-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15812" onclick="return xt_click(this,'C','8','AllCities::SymphonyHall','N');"> 
  						<span class="itemLinkSpan">Symphony Hall</span>                        </a>
                         <br class="cl">
     				</div>	
@@ -1396,17 +1377,17 @@ user_id : uuid
 		<div class="venueList lazy" data-original="/obj/media/UK-eventim/teaser/en/" style="background:#ECEFF3;" data-level="8">
 			<div class="">
 					    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_192_15326" href="Tickets-brighton-centre.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15326" onclick="return xt_click(this,'C','8','AllCities::BrightonCentre','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_192_15326" href="brighton-centre-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15326" onclick="return xt_click(this,'C','8','AllCities::BrightonCentre','N');"> 
  						<span class="itemLinkSpan">Brighton Centre</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_192_14160" href="Tickets-brighton-dome.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=14160" onclick="return xt_click(this,'C','8','AllCities::BrightonDome','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_192_14160" href="brighton-dome-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=14160" onclick="return xt_click(this,'C','8','AllCities::BrightonDome','N');"> 
  						<span class="itemLinkSpan">Brighton Dome</span>                        </a>
                         <br class="cl">
     				</div>	
     									    				<div class="item">
-    					<a class="itemLink" id="header_layerCities_ortId_192_15478" href="Tickets-concorde-2.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15478" onclick="return xt_click(this,'C','8','AllCities::Concorde2','N');"> 
+    					<a class="itemLink" id="header_layerCities_ortId_192_15478" href="concorde-2-Tickets.html?affiliate=EUK&amp;doc=venuePage&amp;fun=venue&amp;action=overview&amp;venueGroupId=15478" onclick="return xt_click(this,'C','8','AllCities::Concorde2','N');"> 
  						<span class="itemLinkSpan">Concorde 2</span>                        </a>
                         <br class="cl">
     				</div>	
@@ -1414,7 +1395,7 @@ user_id : uuid
 		</div>
 		</li>
 										    					
-    			    	<li class="divider"></li>
+    	    	<li class="divider"></li>
     	
 					<li class="city-search isB">
 				<div class="input-append">
@@ -1434,8 +1415,7 @@ user_id : uuid
 	    			</form>
 	        	</div>
 	    	</li>
-				
-			       		
+					       		
 </ul>                    	</div>
 </div>                    </div>                    	                <div class="navi-item search">
 						<div id="searchBar">
@@ -1448,7 +1428,7 @@ user_id : uuid
 			<input type="hidden" name="action" value="grouped">
 			<input type="hidden" name="inline" value="false">
 							<div class="control-group">
-			<input id="QuickSearch_SearchText_Input" value="" autocorrect="off" autocapitalize="off" spellcheck="false" title="Search for artists and events" placeholder="Search for artists and events" type="text" name="suchbegriff" maxlength="100" autocomplete="off" required="true">
+			<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input id="QuickSearch_SearchText_Input" value="" autocorrect="off" autocapitalize="off" spellcheck="false" title="Search for artists and events" placeholder="Search for artists and events" type="text" name="suchbegriff" maxlength="100" autocomplete="off" required="true" class="ui-autocomplete-input">
     		<button id="QuickSearch_SearchButton_Button" class="btn btn-header submit-form" type="submit" name="btn" value="true">
 				<i id="searchIcon" class="icon-search icon-white"></i>
     			<div class="searchText">Search</div>
@@ -1456,13 +1436,14 @@ user_id : uuid
 		</div>
 	</form>		
 	</div>                     						</div>
-						                                       <div data-model="ShoppingCartModel" class="isB blueContainer">
+						                                       <div data-model="ShoppingCartModel" class="isB blueContainer" data-bind="css: { 'noItem': ticketsAmount() == 0 }">
     <button id="shoppingCartBtn" data-bind="css: { 'btn-shoppingCart tooltip-first' : ticketsAmount() > 0 }" data-link="Tickets.html?affiliate=EUK&amp;doc=shoppingCart&amp;fun=wkb" class="btn  btn-header" data-test="0.00">
         <span class="btnText"><i class="shoppingCart"></i>Shopping Cart</span><span data-bind="visible: ticketsAmount() > 0, text: ticketsAmount()" class="itemCounter" style="display: none;"></span>
 		    </button>
 	
-</div>
-    <div id="shoppingCartLayer" class="hide isB" data-model="ShoppingCartModel" data-levelid="8">
+
+<div class="cartHolder" id="cartHolder">
+    <div id="shoppingCartLayer" class="isB bigNose" data-model="ShoppingCartModel" data-levelid="8">
             
         <div data-bind="visible: timeout() == true">
             <span class="cartText warning">We're sorry but your ticket reservation period has expired.</span>
@@ -1534,7 +1515,8 @@ Please be aware that tickets can only be reserved for a limited period. The rema
             </div>
         </div>
     </div>
-                    				    </div>
+   </div>
+</div>                    				    </div>
 				</div>
             </div>
         </div>		
@@ -1706,7 +1688,22 @@ Please be aware that tickets can only be reserved for a limited period. The rema
 		</dd>
   	</dl>
 	
-	<p>Last update: 05.04.2011</p>			
+	<p>Last update: 05.04.2011</p>
+	
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Eventim UK Ltd.",
+  "url" : "http://www.eventim.co.uk/",
+  "sameAs" : [ "http://www.facebook.com/EventimUK",
+  "https://twitter.com/eventim_uk",
+  "https://plus.google.com/u/0/+eventimuk/",
+  "http://instagram.com/eventimuk",
+  "https://www.youtube.com/channel/UCHSjI0I_vwchFn4DyYAmrcw",
+  "https://www.linkedin.com/company/eventim-uk"] 
+}
+</script>
+			
 				
 	<div class="pageEnd">
 		<div class="pageSpacer"><hr></div>
@@ -1743,7 +1740,7 @@ Please be aware that tickets can only be reserved for a limited period. The rema
 		xtsite = "469353"; 			//site number 
 		xtn2 = "8"; 			//level 2 site 
 		xtpage = "dataProtection"; //page name (with the use of :: to create chapters) 
-		xt_multc = "&x5=EUK&x6=false&x7=en-GB&x15=1409074484015050211&x4=1"; 			//customised indicators 
+		xt_multc = "&x5=EUK&x6=false&x7=en-GB&x15=1426680131008073301&x4=1"; 			//customised indicators 
 		xt_an = "";       		//numeric identifier  
 		
 		    		//category
@@ -1758,12 +1755,12 @@ Please be aware that tickets can only be reserved for a limited period. The rema
 		
 			//-->
 	</script>
-			<script type="text/javascript" src="/obj/global/tracking//xtclicks.js"></script>	
-		<script type="text/javascript">
-    <!--
+			        <script type="text/javascript" src="/obj/global/tracking//xtclicks.js"></script>	
+    			<script type="text/javascript">
+	    <!--	
 	(function(){ var at=document.createElement('script'); at.type='text/javascript'; at.async=true; at.src="/obj/advanced/default/tracking/UK-eventim/js/xtcore.js"; (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]||document.getElementsByTagName('script')[0].parentNode).insertBefore(at,null); })();
     -->
-    </script> 
+	    </script> 
 	<noscript id="trackingNoscript" data-href="https://logs1125.xiti.com/hit.xiti?s=469353&amp;s2=8&amp;p=dataProtection&amp;ac=&amp;an="> 
 	<img width="1" height="1" src="https://logs1125.xiti.com/hit.xiti?s=469353&s2=8&p=dataProtection&ac=&an=" /> 
 	</noscript>
@@ -1772,7 +1769,8 @@ Please be aware that tickets can only be reserved for a limited period. The rema
 <!-- Footer -->
 	<script src="/obj/global/layout/js/jquery.bootstrapSwitch.js"></script>
 
-	
+
+
 
 
 
@@ -1811,7 +1809,7 @@ Please be aware that tickets can only be reserved for a limited period. The rema
 	    				<ul class="unstyled">
 	                    		                        																				                    			<li><a id="XPage_FooterLink_ticketAlarm" href="tickets.html?affiliate=EUK&amp;fun=newsletter&amp;doc=feature/ticketAlarm&amp;action=show" target="_self" title="TicketAlarm" onclick="return xt_click(true,'C','8','TicketAlarm','A');" class="" rel="">TicketAlarm</a></li>
 	                            	    						                        																				                    			<li><a id="XPage_FooterLink_newsletter" href="tickets.html?affiliate=EUK&amp;fun=newsletter&amp;doc=feature/newsletter&amp;action=show" target="_self" title="Newsletter" onclick="return xt_click(true,'C','8','Newsletter','A');" class="" rel="">Newsletter</a></li>
-	                            	    						                        																				                    			<li><a id="XPage_FooterLink_GiftVoucher" href="tickets.html?affiliate=EUK&amp;&amp;doc=campaign&amp;campaign=geschenkgutschein" target="_self" title="GiftVoucher" onclick="return xt_click(true,'C','8','GiftVoucher','A');" class="" rel="">GiftVoucher</a></li>
+	                            	    						                        																				                    			<li><a id="XPage_FooterLink_GiftVoucher" href="tickets.html?fun=erdetail&amp;doc=erdetaila&amp;erid=502222&amp;affiliate=EUK" target="_self" title="GiftVoucher" onclick="return xt_click(true,'C','8','GiftVoucher','A');" class="" rel="">GiftVoucher</a></li>
 	                            	    						                        																				                    			<li><a id="XPage_FooterLink_fanReport" href="tickets.html?affiliate=EUK&amp;fun=repstart&amp;doc=feature/fanReport/start" target="_self" title="Fan Report" onclick="return xt_click(true,'C','8','FanReport','A');" class="" rel="">Fan Report</a></li>
 	                            	    						                        																				                    			<li><a id="XPage_FooterLink_FanTicket" href="tickets.html?affiliate=EUK&amp;doc=campaign&amp;campaign=FanTicket" target="_self" title="FanTicket" onclick="return xt_click(true,'C','8','FanTicket','A');" class="" rel="">FanTicket</a></li>
 	                            	    						                        																				                    			<li><a id="XPage_FooterLink_App" href="tickets.html?affiliate=EUK&amp;doc=campaign&amp;campaign=app" target="_self" title="Eventim App<br><br>" onclick="return xt_click(true,'C','8','EventimApp<br><br>','A');" class="" rel="">Eventim App<br><br></a></li>
@@ -1830,13 +1828,19 @@ Please be aware that tickets can only be reserved for a limited period. The rema
 	                	    			    		    	</div>		
 			                                       <div class="hotline notToBePrinted">
 		<div class="footerLogo">
-    	<a href="concert-tickets.html?affiliate=EUK" title="Tickets for Concerts, Theatre, Festivals, Sports, Events and Attractions">
-			<img src="/obj/media/UK-eventim/specialLogos/relaunch_footer_logo.png" width="82" height="44" alt="Tickets for Concerts, Theatre, Festivals, Sports, Events and Attractions">
-    	</a>
-	</div>
-							<div class="orderHotline">Ticket Hotline: </div>
-				    	<div class="eventimNumber">0844 249 1000</div>
-		    	    	<div class="hotlineOpeningTimes">
+				
+
+
+
+
+
+		    		<a href="concert-tickets.html?affiliate=EUK" title="Tickets for Concerts, Theatre, Festivals, Sports, Events and Attractions">
+    			<img src="/obj/media/UK-eventim/specialLogos/relaunch_footer_logo.png" width="82" height="44" alt="Tickets for Concerts, Theatre, Festivals, Sports, Events and Attractions">
+        	</a>
+			</div>
+		    	    		    			<div class="orderHotline">Ticket Hotline: </div>
+    		    		    			<div class="eventimNumber">0844 249 1000</div>
+    		        	    	        	<div class="hotlineOpeningTimes">
     		    		    		    		    					    		    			<p><a href="Tickets.html?affiliate=EUK&amp;fun=thelpcontent&amp;doc=feature/helpContact/details&amp;hilfeid=7122" class="more">&gt; Opening Times  &gt; Call Charges</a></p>
     		    	</div>
 							
@@ -1855,17 +1859,15 @@ Please be aware that tickets can only be reserved for a limited period. The rema
 
 
 			
-
 <!-- EVIDON Tracking-->
 
-<script type="text/javascript">
-  (function() {
-    var hn = document.createElement('script'); hn.type = 'text/javascript'; hn.async = true; hn.setAttribute('data-ev-hover-pid', 2002); hn.setAttribute('data-ev-hover-ocid', 2825);
-    hn.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/geo/h1.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(hn, s);
-  })();
-</script>
-
+	<script type="text/javascript">
+      (function() {
+        var hn = document.createElement('script'); hn.type = 'text/javascript'; hn.async = true; hn.setAttribute('data-ev-hover-pid', 2002); hn.setAttribute('data-ev-hover-ocid', 2825);
+        hn.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/geo/h1.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(hn, s);
+      })();
+    </script>
 <!-- end of EVIDON Tracking-->
 	
 
@@ -1878,8 +1880,7 @@ Please be aware that tickets can only be reserved for a limited period. The rema
 </div>
 
 
-
-	<script id="FB-singleSignOn">
+        	<script id="FB-singleSignOn">
     window.fbAsyncInit = function() {
     	FB.init({
     		appId: '486084221413558',
@@ -1940,16 +1941,16 @@ Please be aware that tickets can only be reserved for a limited period. The rema
     #fbIframeButtonLogin iframe,
 	#fbIframeButton_myData span,
 	#fbIframeButton_myData iframe {
-        width: 198px! important;
+        width: 213px! important;
         height: 25px! important;
     }
 	
 	
 </style>
-    <script>
+                <script>
     		(function(window, jQuery, undefined) {   
-			
-				jQuery(function() {
+    		
+    			jQuery(function() {
                 	var e = document.createElement('script'); e.async = true;
                 	e.src = document.location.protocol + '//connect.facebook.net/en_GB/all.js';            	
                 	if(jQuery('#fb-root').length == 0){					
@@ -1958,23 +1959,18 @@ Please be aware that tickets can only be reserved for a limited period. The rema
     					jQuery("body").append(fbroot);
                 	}           		
                 	jQuery('#fb-root').append(e);
-				});						
-				
+    			});						
+    			
             }(window, jQuery));
-    </script>
+        </script>
+    
 
+			<script src="/obj/global/feature/tagCommander/tc_footer.min.js" type="text/javascript"></script>
+	
 
-
-
-
-	<script src="/obj/global/feature/tagCommander/tc_footer.min.js" type="text/javascript"></script>
-
-
-<script>
-</script>
 <!-- ec: 0 --><!-- /Footer -->
-<span id="DataProtectionPage"></span>
+</div>  <span id="DataProtectionPage"></span>
 
 
-<!--11.11.2014 02:50:57:416 Generiert vom www33 in 23 ms (s = 1; f = 0; p = 22; Request-Nr = 4866257 RequestId = 1415151784587536233; Version = 4.0.2.009; Parser = 1; ec = 0);-->
-</body></html>
+<!--18.03.2015 18:35:05:054 Generiert vom web-pdfe-e05 in 18 ms (s = 0; f = 1; p = 17; Request-Nr = 91963 RequestId = 1426685343009205944; Version = 4.0.3.013; Parser = 1; ec = 0);-->
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul></body></html>
