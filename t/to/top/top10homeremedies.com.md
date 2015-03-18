@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top10homeremedies.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702221802id_/http%3A//www.top10homeremedies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10homeremedies.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318081349id_/http%3A//www.top10homeremedies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Top 10 Home Remedies
+# Privacy Policy - Top 10 Home Remedies
 
 The owners of [www.top10homeremedies.com](http://www.top10homeremedies.com/) follow a very strict privacy policy. As a reputed home remedy site, we cater to the needs of the users and hence give high importance to the privacy policy.
 
