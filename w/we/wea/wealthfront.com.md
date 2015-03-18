@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthfront.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011105510id_/https%3A//www.wealthfront.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthfront.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318225212id_/https%3A//www.wealthfront.com/legal/privacy) for the most accurate reproduction.*
 
 # Wealthfront Privacy Policy
 
@@ -63,7 +63,7 @@ Wealthfront Inc. (“ **Wealthfront** ”) operates an online financial advisor 
   * You can also contact Wealthfront by phone at 650.249.4258 or via physical mail at:
 
 Wealthfront Inc.  
-203 Forest Ave  
+541 Cowper St.  
 Palo Alto, CA 94301 
 
 
