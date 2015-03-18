@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onthebeach.co.uk privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205100443id_/https%3A//www.onthebeach.co.uk/about-us/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthebeach.co.uk privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318014930id_/https%3A//www.onthebeach.co.uk/about-us/%23privacy-policy) for the most accurate reproduction.*
 
-# Cheap Holidays | Holiday Deals in 2014 & 2015 | On the Beach
+# About Us | Leading Online Travel Agency | On the Beach
 
-And we'll send over 1 million beach loving sun-seekers on holiday. Here are a few reasons why.
+And we'll send over 1 million beach loving sun-seekers on holiday in 2015. Here's why:
 
   
 
