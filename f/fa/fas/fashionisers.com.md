@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionisers.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022800id_/http%3A//www.fashionisers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionisers.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318140752id_/http%3A//www.fashionisers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fashion Trends, Makeup Tutorials, Hairstyles and Style Secrets
+# Privacy Policy | Fashionisers
 
 ## **Privacy Policy and User License Agreement**
 
@@ -58,7 +58,7 @@ All the images that appear on the Site are copyrighted by their respective owner
 
 ### **Warning**
 
-It is our goal to provide you with high quality, original content and we don’t spare efforts for our postings. Please note, when using any information from Fashionisers.com without making any notable changes with the content of the article(s), be sure to add a link to the original source from your website.
+It is our goal to provide you with high quality, original content and we don’t spare efforts for our postings. Please note, we don’t allow using any information from Fashionisers.com without making any notable changes with the content of the article(s). Be sure to add a link to the original source from your website when using our articles as sources for your postings.
 
 ### **Questions and Suggestions**
 
