@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pidoco.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703032347id_/https%3A//pidoco.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pidoco.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318135027id_/https%3A//pidoco.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for the Pidoco wireframing tool - by Pidoco
 
@@ -132,7 +132,7 @@ You can find further information about the collection, analysis and processing o
 
 If you are logged in at Google Plus or Google via your personal user account during your visit to our web pages, Google will be able to attribute the website visit to your account. Through the interaction with plug-ins, e.g. the clicking of the button or the posting of a comment, the respective information will be transmitted directly to Google and stored there. If you wish to avoid such transfer of data you have to log out of your Google Plus or Google account before visiting our web pages. 
 
-We do not have any influence on the extent and content of the data collected by Google via the button. You can find further information regarding this and your rights relating thereto in Google’s privacy policy, which can be accessed at [https://developers.google.com/+/web/buttons-policy](https://web.archive.org/web/20140703032347id_/https%3A//pidoco.com/en/%3Chttps://developers.google.com/+/web/buttons-policy). 
+We do not have any influence on the extent and content of the data collected by Google via the button. You can find further information regarding this and your rights relating thereto in Google’s privacy policy, which can be accessed at [https://developers.google.com/+/web/buttons-policy](https://web.archive.org/web/20150318135027id_/https%3A//pidoco.com/en/%3Chttps://developers.google.com/+/web/buttons-policy). 
 
 **dd)** In addition we have integrated buttons of the social network LinkedIn of the LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA. You can recognize the LinkedIn buttons by the LinkedIn logo. When you activate the buttons and visit our web pages and access a web page containing a LinkedIn button, your browser will establish a direct connection with the server of LinkedIn via the plug-in. Thereby LinkedIn will receive the information that you have accessed our web page. 
 
