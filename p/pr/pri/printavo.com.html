@@ -1,151 +1,160 @@
-<!--The following is the downloaded HTML source of the printavo.com privacy policy that was archived on 2013-07-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130724021051id_/https%3A//www.printavo.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the printavo.com privacy policy that was archived on 2015-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150318153144id_/https%3A//www.printavo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html xmlns:ipp=""><head>
+<script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/54374f58a16630bfef0000b3.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"3f81343aed","applicationID":"832433","transactionName":"IQkITRdbCFtXFB9bCw8DSUkXXRJWUR8=","queueTime":9,"applicationTime":21,"agentToken":null,"agent":"js-agent.newrelic.com/nr-593.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAQAWV5AAAACUFJR"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 		<title>Printavo | Privacy - Simple screen printing software to help manage your shop. Shop management software in the cloud.</title>
+
+		
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		
+<link rel="icon" type="image/x-icon" href="https://s3.amazonaws.com/www-printavo-com/files/homepage-assets/favicon.ico">
 
-		
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-		<script src="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
-		
-		
-		<script src="/assets/application-8c9f67ba3362b0d7d41b1130db871cf2.js" type="text/javascript"></script>
-		<link href="/assets/application-61f807332bce2e8120d8b9c8316020cf.css" media="screen" rel="stylesheet" type="text/css">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://s3.amazonaws.com/printavo-assets-prod/assets/fav-icons/apple-touch-icon-144-precomposed-3b37b82f84ee56fdede1b03ceedd744c.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://s3.amazonaws.com/printavo-assets-prod/assets/fav-icons/apple-touch-icon-114-precomposed-a1c89d000b18f3cd09ba54f4f036fde0.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://s3.amazonaws.com/printavo-assets-prod/assets/fav-icons/apple-touch-icon-72-precomposed-6492709a514017bbfc7ce6893871e8de.png">
+<link rel="apple-touch-icon-precomposed" href="https://s3.amazonaws.com/printavo-assets-prod/assets/fav-icons/apple-touch-icon-57-precomposed-578543771b3624abafbbf1575f266612.png">
+
+<meta name="keywords" content="screen, printing, screenprinting, embroidery, shop, management, help, manage, store, plastisol, centralize, orders, customers, accounting, books, settings">
+
+<meta name="description" content="Manage your screen-printing shop easily.  Keep track of your screen printing shop without a hassle.  Screen printing shop management, digital printing business software, embroidery management software, sign manufacturing software. Time saving print shop software.">
+
+<link rel="canonical" href="https://www.printavo.com">
+<link rel="author" href="https://plus.google.com/u/1/102799136510507291241/posts">
+<meta name="google-site-verification" content="y0_ijkUxCCHxRsFj0qY5C3Z89xeg36PPjTNu2Nf6bww">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Simple screen printing software in the cloud to help manage your shop.">
+<meta property="og:url" content="https://www.printavo.com">
+<meta property="og:site_name" content="Printavo">
+<meta property="og:image" content="https://s3.amazonaws.com/www-printavo-com/files/logo.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@printavo">
+<meta name="twitter:creator" content="@printavo">
+<meta name="twitter:url" content="https://www.printavo.com">
+<meta name="twitter:title" content="Printavo">
+<meta name="twitter:description" content="The easiest way to help manage your screen-printing, embroidery and sign manufacturing shop.  Simple shop management software.">
+<meta name="twitter:image" content="https://s3.amazonaws.com/www-printavo-com/files/logo.png">
+<meta name="twitter:domain" content="https://www.printavo.com">
+
+<!--[if IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]>
+<style type="text/css">
+.gradient { filter: none; }
+</style>
+<![endif]-->
+
+<link href="https://s3.amazonaws.com/printavo-assets-prod/assets/application-971d838684383b4d885e8fe1a36115a2.css" media="all" rel="stylesheet" type="text/css">
+
+  <link href="https://s3.amazonaws.com/printavo-assets-prod/assets/pages/home-7f4d02f37e0819a073a7794a64d9fd4c.css" media="all" rel="stylesheet" type="text/css">
+
+<link href="https://s3.amazonaws.com/printavo-assets-prod/assets/print-3ba7cdf55d5dff7b0a89b09980515952.css" media="print" rel="stylesheet" type="text/css">
+<link href="https://s3.amazonaws.com/printavo-assets-prod/assets/responsive-cd519e2bc9620bd72695108bb5e57373.css" media="all" rel="stylesheet" type="text/css">
+
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular-route.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular-resource.js"></script>
+
+<script src="https://s3.amazonaws.com/printavo-assets-prod/assets/application-89b1ae0ec3c6f2369ed461739d838d86.js" type="text/javascript"></script>
+<script src="//api.filepicker.io/v1/filepicker.js" type="text/javascript"></script>
 
 
 
-			<!-- External CSS -->
-			<link href="/assets/home-8d298332395a4453e2044c6d1e5fac25.css" media="screen" rel="stylesheet" type="text/css">
 
 
-		<link href="/assets/print-0188e1f344383b811515e37c78ee4dd7.css" media="print" rel="stylesheet" type="text/css">
-		
-		<link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-		
-		<meta content="authenticity_token" name="csrf-param">
-<meta content="P05kxkaxZfUhfYgtaxh/hG7BxD/cfcDhqJBhW6ysnf0=" name="csrf-token">
-
-		<meta name="keywords" content="screen, printing, screenprinting, embroidery, shop, management, help, manage, store, plastisol, centralize, orders, customers, accounting, books, settings">
-
-		<meta name="description" content="Manage your screen-printing shop easily.  Keep track of your screen printing shop without a hassle.  Screen printing shop management, digital printing business software, embroidery management software, sign manufacturing software. Time saving print shop software.">
-
-		<link rel="canonical" href="https://www.printavo.com">
-    <link rel="author" href="https://plus.google.com/u/1/102799136510507291241/posts">
-    <meta name="google-site-verification" content="y0_ijkUxCCHxRsFj0qY5C3Z89xeg36PPjTNu2Nf6bww">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="Simple screen printing software in the cloud to help manage your shop.">
-    <meta property="og:url" content="https://www.printavo.com">
-    <meta property="og:site_name" content="Bruce Ackerman">
-    <meta property="og:image" content="assets/home/logo.png">
-    <meta property="og:type" content="website">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@printavo">
-    <meta name="twitter:creator" content="@printavo">
-    <meta name="twitter:url" content="https://www.printavo.com">
-    <meta name="twitter:title" content="Printavo">
-    <meta name="twitter:description" content="The easiest way to help manage your screen-printing, embroidery and sign manufacturing shop.  Simple shop management software.">
-    <meta name="twitter:image" content="https://www.printavo.com/assets/home/logo.png">
-    <meta name="twitter:domain" content="https://www.printavo.com">
-
-		<!--[if IE 8]>
-		<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-
-		<!--[if gte IE 9]>
-		<style type="text/css">
-		.gradient { filter: none; }
-		</style>
-		<![endif]-->
 
 	</head>
 	<body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+		<noscript>
+			*** Please enable JavaScript to use Printavo correctly. Thanks! ***
+		</noscript>
 
-
-		<div id="banner" class="page-banner">
-  <div class="row-fluid">
-    <div class="span12">
-      <div class="navbar navbar-inverse">
-  <div class="navbar-inner">
-    <div class="container">
-      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-			<a href="/home/index" class="brand"><img alt="Logo@2x" src="/assets/home-new/logo@2x-2d59c36134b5488b0695869ba15ff3a2.png"></a>
-      <div class="nav-collapse collapse">
-        <ul class="nav pull-right">
-          <li><a href="/home/contact">(312) 488-9065</a></li>
-		      <li><a href="/home/pricing">Plans &amp; Pricing</a></li>
-          <li class="local-scroll"><a href="/home/index#features-begin">Features</a></li>
-		      <li><a href="/home/privacy">Security</a></li>
-					<li><a href="/users/sign_in">Login</a></li>
-					<li class="signup"><a href="/users/sign_up" class="btn btn-success">Sign Up</a></li>
-				</ul>
-      </div>
-    </div>
-  </div>
-</div>
-
- 
-
-
-      <div class="page-title text-center">
-        <h1>Privacy Policy &amp; Security</h1>
-        <h2>Making sure you and your data are safe is our #1 concern.</h2>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div id="plans">
+			<nav class="navbar external-navigation" role="navigation">
   <div class="container">
-    <div class="row-fluid">
-      <div class="span8 offset2">
-        <div class="span2"> <img alt="Lock" id="lock" src="/assets/lock-259f003db82af53de55b2022cc5c8994.png"> </div>
-        <div class="span10">
-          <h3> Security is our top priority</h3>
-          <br>
-          <br>
-          When you enter your own data or customer data, it is encrypted through a secure 256-bit SSL connection.  We follow industry standards to protect your personal information since your privacy and level of comfort is very important to us.  We use trusted Amazon EC2 cloud security – ISO 27001, SAS-70, FIPs, FISMA &amp; PCI certified.<br>
-          <br>
-          <h3> What information do we collect?</h3>
-          We collect information from you when you register on our site. 
-          When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
-          <h3> What do we use your information for?</h3>
-          Any of the information we collect from you may be used in one of the following ways:
-          <ul>
-            <li>To personalize your experience and respond better to your needs</li>
-            <li>To improve customer service and service you more efficiently </li>
-            <li>To process transactions</li>
-          </ul>
-          <br>
-          Your information, whether public or private, will not
-          be sold, exchanged, transferred, or given to any other company for any reason whatsoever without your consent, other than for the express purpose of delivering the purchased product or service requested.
-          <h3> How do we protect your information?</h3>
-          We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.  All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted to our payment gateway providers database.  After a transaction, your private information (credit cards, social security numbers, financials, etc.) is not stored on Printavo's servers.  <a href="https://stripe.com/help/security" target="_blank">Read more</a> about our payment processors security measures. 
-          <h3> Do we use cookies?</h3>
-          Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow it) that enable the site’s or service provider’s systems to recognize your browser and capture and remember certain information. We use cookies to keep you logged in. You can opt out of this if you would like.
-          <h3> Do we disclose any information to outside parties?</h3>
-          We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-bars navbar-toggler"></i>
+      </button>
+      <a href="/" class="navbar-brand">Printavo</a>
+    </div>
 
-          <h3> Your Consent</h3>
-          By using our site, you consent to our <a style="text-decoration:none; color:#3C3C3C;" href="http://www.freeprivacypolicy.com/" target="_blank">web site privacy policy</a>.
-          <h3> Contacting Us</h3>
-          If there are any questions regarding this privacy policy, you may contact us using the information below. 
-          www.printavo.com<br>
-          info@printavo.com<br><br><br>
-        </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse navbar-ex1-collapse pull-right external-navigation__menu">
+      <ul class="nav navbar-nav">
+        <li><a href="/pricing">Plans &amp; Pricing</a></li>
+        <li>
+            <a href="/index#features-begin" class="smooth-scroll">Features</a>
+        </li>
+        <li><a href="/privacy">Security</a></li>
+        <li><a href="/users/sign_in">Login</a></li>
+        <li class="signup margin-left-10 xs-margin-left-0 xs-padding-left-10 xs-padding-right-10"><a href="/users/sign_up" class="btn btn-success">Try it Free</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container -->
+</nav>
+<div class="clearfix"></div>
+
+<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init("e1319e20a0919636a0fb63498d2e9c27");</script><!-- end Mixpanel -->
+
+		<div class="home-page__large-banner margin-bottom-30">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="clearfix"></div>
+        <h1 class="home-page__main-title text-center margin-top-40 margin-bottom-5 animated fadeInDown">Security &amp; Privacy Policy</h1>
+        <h2 class="home-page__secondary-title text-center margin-top-0 margin-bottom-40 animated fadeInDown">Making sure you and your data are safe is our #1 concern.</h2>
       </div>
     </div>
   </div>
 </div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 margin-bottom-40">
+      <h4 class="bold-weight margin-top-20"> Security is our top priority</h4>
+      <p>When you enter your own data or customer data, it is encrypted through a secure 256-bit SSL connection.  We follow industry standards to protect your personal information since your privacy and level of comfort is very important to us.  We use trusted Amazon EC2 cloud security – ISO 27001, SAS-70, FIPs, FISMA &amp; PCI certified.</p>
+
+      <h4 class="bold-weight margin-top-20"> What information do we collect?</h4>
+      <p>We collect information from you when you register on our site. 
+      When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.</p>
+
+      <h4 class="bold-weight margin-top-20"> What do we use your information for?</h4>
+      <p>Any of the information we collect from you may be used in one of the following ways:</p>
+      <ul>
+        <li>To personalize your experience and respond better to your needs</li>
+        <li>To improve customer service and service you more efficiently </li>
+        <li>To process transactions</li>
+      </ul>
+      
+      <p>Your information, whether public or private, will not
+      be sold, exchanged, transferred, or given to any other company for any reason whatsoever without your consent, other than for the express purpose of delivering the purchased product or service requested.</p>
+      <h4 class="bold-weight margin-top-20"> How do we protect your information?</h4>
+      <p>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.  All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted to our payment gateway providers database.  After a transaction, your private information (credit cards, social security numbers, financials, etc.) is not stored on Printavo's servers.  <a href="https://stripe.com/help/security" target="_blank">Read more</a> about our payment processors security measures. </p>
+      <h4 class="bold-weight margin-top-20"> Do we use cookies?</h4>
+      <p>Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow it) that enable the site’s or service provider’s systems to recognize your browser and capture and remember certain information. We use cookies to keep you logged in. You can opt out of this if you would like.</p>
+      <h4 class="bold-weight margin-top-20"> Do we disclose any information to outside parties?</h4>
+      <p>We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. </p>
+
+      <h4 class="bold-weight margin-top-20"> Contacting Us</h4>
+      If there are any questions regarding this privacy policy, you may contact us using through info@printavo.com or (312) 488-9065.
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+    mixpanel.track("Privacy Page")
+</script>
+
 
 <!-- begin olark code -->
 <script type="text/javascript">/*{literal}<![CDATA[*/window.olark||(function(i){var e=window,h=document,a=e.location.protocol=="https:"?"https:":"http:",g=i.name,b="load";(function(){e[g]=function(){(c.s=c.s||[]).push(arguments)};var c=e[g]._={},f=i.methods.length; while(f--){(function(j){e[g][j]=function(){e[g]("call",j,arguments)}})(i.methods[f])} c.l=i.loader;c.i=arguments.callee;c.f=setTimeout(function(){if(c.f){(new Image).src=a+"//"+c.l.replace(".js",".png")+"&"+escape(e.location.href)}c.f=null},20000);c.p={0:+new Date};c.P=function(j){c.p[j]=new Date-c.p[0]};function d(){c.P(b);e[g](b)}e.addEventListener?e.addEventListener(b,d,false):e.attachEvent("on"+b,d); (function(){function l(j){j="head";return["<",j,"></",j,"><",z,' onload="var d=',B,";d.getElementsByTagName('head')[0].",y,"(d.",A,"('script')).",u,"='",a,"//",c.l,"'",'"',"></",z,">"].join("")}var z="body",s=h[z];if(!s){return setTimeout(arguments.callee,100)}c.P(1);var y="appendChild",A="createElement",u="src",r=h[A]("div"),G=r[y](h[A](g)),D=h[A]("iframe"),B="document",C="domain",q;r.style.display="none";s.insertBefore(r,s.firstChild).id=g;D.frameBorder="0";D.id=g+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){D.src="javascript:false"} D.allowTransparency="true";G[y](D);try{D.contentWindow[B].open()}catch(F){i[C]=h[C];q="javascript:var d="+B+".open();d.domain='"+h.domain+"';";D[u]=q+"void(0);"}try{var H=D.contentWindow[B];H.write(l());H.close()}catch(E){D[u]=q+'d.write("'+l().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}c.P(2)})()})()})({loader:(function(a){return "static.olark.com/jsclient/loader0.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]});
@@ -155,47 +164,48 @@ olark.identify('8314-452-10-7662');/*]]>{/literal}*/</script>
 
 
 <div id="footer">
-	<div class="container">
-		<div class="row-fluid">
-			<div class="span3">
-				<h6>Company</h6>
-				<ul class="unstyled">
-					<li><a href="/home/pricing">Pricing &amp; Signup</a></li>
-					<li><a href="/home/about">About Us</a></li>
-					<li><a href="/home/faq">FAQ</a></li>
-					<li><a href="/home/contact">Contact</a></li>
-					<li><a href="/home/privacy">Privacy Policy</a></li>
-					<li><a href="http://blog.printavo.com">Blog</a></li>
-					<li><a href="/users/sign_in">Login</a></li>
-					<li><span>(312) 488-9065</span></li>
-				</ul>
-			</div>
-			<div class="span3">
-				<h6>Extras</h6>
-				<ul class="unstyled">
-					<li><a href="http://www.learnhowtoscreenprint.com" target="_blank">Learn How To Screen Print</a></li>
-					<li><a href="http://blog.printavo.com/2012/11/how-to-start-a-screen-printing-business/" target="_blank">How to Start a Screen-Printing Business</a></li>
-					<li><a href="http://blog.printavo.com/2012/11/how-to-start-a-successful-clothing-business/" target="_blank">How to Start a Successful Clothing Company</a></li>
-					<li><a href="5 Ways to Drive More Sales to Your Print Shop" target="_blank">5 Ways to Drive More Sales to Your Print Shop</a></li>
-				</ul>
-			</div>
-			<div class="span3">
-				<h6>Follow Us</h6>
-				<ul class="unstyled">
-					<li><a href="http://facebook.com/printavo" target="_blank"><i class="icon-facebook-sign"></i> Facebook</a></li>
-					<li><a href="https://twitter.com/printavo" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></li>
-					<li><a href="http://blog.printavo.com" target="_blank"><i class="icon-rss"></i> Blog</a></li>
-				</ul>
-			</div>
-			<div class="span3">
-				<div id="copy">
-					Copyright© 2013 Printavo, LLC.  All Rights Reserved. Made with love of screen-printing.
-					<div class="clearfix"></div>
-					<a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a>
-				</div>
-			</div>
-		</div>
-	</div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+        <h5>Company</h5>
+        <ul class="list-unstyled">
+          <li><a href="/pricing">Pricing &amp; Signup</a></li>
+          <li><a href="/about">About Us</a></li>
+          <li><a href="/using-printavo">How Printavo is Used</a></li>
+          <li><a href="/faq">FAQ</a></li>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/privacy">Privacy Policy</a></li>
+          <li><a href="http://blog.printavo.com">Blog</a></li>
+          <li><a href="/users/sign_in">Login</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+        <h5 class="xs-margin-top-20 xs-margin-bottom-5">Extras</h5>
+        <ul class="list-unstyled">
+          <li><a href="http://www.learnhowtoscreenprint.com" target="_blank">Learn How To Screen Print</a></li>
+          <li><a href="http://blog.printavo.com/2012/11/how-to-start-a-screen-printing-business/" target="_blank">How to Start a Screen-Printing Business</a></li>
+          <li><a href="http://blog.printavo.com/2012/11/how-to-start-a-successful-clothing-business/" target="_blank">How to Start a Successful Clothing Company</a></li>
+          <li><a href="http://blog.printavo.com/2013/07/09/5-ways-to-drive-more-sales-to-your-print-shop/" target="_blank">5 Ways to Drive More Sales to Your Print Shop</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+        <h5 class="xs-margin-top-20 xs-margin-bottom-5">Follow Us</h5>
+        <ul class="list-unstyled">
+          <li><a href="http://facebook.com/printavo" target="_blank">Facebook</a></li>
+          <li><a href="https://twitter.com/printavo" target="_blank">Twitter</a></li>
+          <li><a href="http://blog.printavo.com" target="_blank">Blog</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+        <small>Copyright© 2014 Printavo, LLC.  All Rights Reserved. Made with love of screen-printing in Chicago.</small>
+        <div class="clearfix"></div>
+        <br>
+        <small>(312) 488-9065</small>
+        <div class="clearfix"></div>
+        <a href="https://mixpanel.com/f/partner" class="hidden-xs"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a>
+      </div>
+    </div>
+  </div>
 </div>
 
 
@@ -205,33 +215,37 @@ olark.identify('8314-452-10-7662');/*]]>{/literal}*/</script>
 
 
 
+		
+
 
 		<script type="text/javascript">
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-21299846-1']);
-			_gaq.push(['_trackPageview']);
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21299846-1']);
+  _gaq.push(['_trackPageview']);
 
-			(function() {
-				var ga = document.createElement('script');
-				ga.type = 'text/javascript';
-				ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(ga, s);
-			})();
-		</script>	
+  (function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+</script> 
 
-	<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "rpm-images.newrelic.com/42/eum/rum.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","3f81343aed","832433","IQkITRdbCFtXFB9bCw8DSUkXXRJWUR8=",10,30,new Date().getTime(),"","","","",""]);</script>
+  
+<script type="text/javascript">
+  (function() {
+    window._pa = window._pa || {};
+    // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
+    // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
+    // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/54374f58a16630bfef0000b3.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+  })();
+</script>
 
-<script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script></body></html>
+	
+
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
