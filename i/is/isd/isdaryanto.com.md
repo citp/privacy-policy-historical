@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isdaryanto.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701203651id_/http%3A//www.isdaryanto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isdaryanto.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318152342id_/http%3A//www.isdaryanto.com/privacy-policy) for the most accurate reproduction.*
 
 # DISCLAIMER >> Privacy Policy | Isdaryanto.Com Page
 
