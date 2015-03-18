@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeinternetpictures.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004100544id_/http%3A//www.freeinternetpictures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeinternetpictures.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318224755id_/http%3A//www.freeinternetpictures.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Internet Pictures | Free Internet Pictures
+# Privacy Policy - Free Internet Pictures
 
 **www.freeinternetpictures.com**  takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
