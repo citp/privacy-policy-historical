@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017170628id_/http%3A//sendloop.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318201759id_/https%3A//sendloop.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sendloop
-
-[Read Turkish version](https://web.archive.org/privacy_policy/tr/)
+# Privacy Policy | Sendloop
 
 We respect the privacy needs of our valued customers and members. This privacy policy ("Privacy Policy") outlines what specific information is gathered on the Sendloop site and how that information is used.
 
