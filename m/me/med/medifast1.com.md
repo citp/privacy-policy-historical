@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the medifast1.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828021725id_/http%3A//www.medifast1.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medifast1.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318235850id_/http%3A//www.medifast1.com/privacy.jsp) for the most accurate reproduction.*
 
-# Medifast | DMCA Notice
-
-**MEDIFAST, INC. PRIVACY POLICY**
+# Privacy Policy & Security
 
 **_I_ _. ABOUT THIS PRIVACY POLICY AND USING OUR SITE AND TOOLS_**  
 This Privacy Policy applies to the Medifast1.com website, information as provided by Medifast, Inc. and its subsidiaries. Within this privacy policy, the name "Medifast1.com" pertains to any and all websites hosted and/or operated by Medifast, Inc., including co-branded, product and divisional websites.
@@ -15,8 +13,11 @@ While you may use some of the functionality of Medifast1.com without registratio
 Even if you do not register with Medifast1.com, we collect Non-Personal Information about your use of our website, special promotions and newsletters. 
 
 > **A. Cookies**   
->  We collect Non-Personal Information about your use of our website and your use of the websites of selected sponsors and advertisers through the use of Cookies. Medifast1.com assigns every computer a different Cookie. The information collected by Cookies (i) helps us dynamically generate advertising and content on web pages or in newsletters, (ii) allows us to statistically monitor how many people are using our website and selected sponsors' and advertisers' sites, (iii) how many people open our emails, and (iv) for what purposes these actions are being taken. We may use Cookie information to target certain advertisements to your browser or to determine the popularity of certain content or advertisements. Cookies are also used to facilitate a user's log-in, as navigation aides and as session timers, but not to retain Personal Health Information about you. Cookies used by Medifast1.com are also used to restrict underage use of the tools.   
->  Your browser software can be set to reject all Cookies. Most browsers offer instructions on how to reset the browser to reject Cookies in the "Help" section of the toolbar. If you reject our Cookies, certain of the functions and conveniences of our website may not work properly but you do not have to accept our Cookies in order to productively use our site. We do not link Non-Personal Information from Cookies to Personally Identifiable Information without your permission and do not use Cookies to collect or store Personal Health Information about you.
+>  We collect Non-Personal Information about your use of our website and your use of the websites of selected sponsors and advertisers through the use of Cookies. Medifast1.com assigns every computer a different Cookie. The information collected by Cookies (i) helps us dynamically generate advertising and content on web pages or in newsletters, (ii) allows us to statistically monitor how many people are using our website and selected sponsors' and advertisers' sites, (iii) how many people open our emails, and (iv) for what purposes these actions are being taken. We may use Cookie information to target certain advertisements to your browser or to determine the popularity of certain content or advertisements. Cookies are also used to facilitate a user's log-in, as navigation aides and as session timers, but not to retain Personal Health Information about you. Cookies used by Medifast1.com are also used to restrict underage use of the tools. 
+> 
+> Your browser software can be set to reject all Cookies. Most browsers offer instructions on how to reset the browser to reject Cookies in the "Help" section of the toolbar. If you reject our Cookies, certain of the functions and conveniences of our website may not work properly but you do not have to accept our Cookies in order to productively use our site. We do not link Non-Personal Information from Cookies to Personally Identifiable Information without your permission and do not use Cookies to collect or store Personal Health Information about you.
+> 
+> We and our service providers also use cookies to collect information from you over time and across this and other websites to provide you with and improve the performance of our advertising that our service providers deliver to you on other websites. If you wish to opt out of the use of data collected on our site to send you targeted Medifast advertising during your visits to other websites, click on these three links: (1) [DAA Opt-Out](http://www.aboutads.info/choices/); (2) [Struq Opt-Out](http://www.struq.com/cookie-and-privacy-policy/); (3) [TruEffect Opt-out](http://te.medifast1.com/optout.html). 
 > 
 > **  
 > B. Web Beacons**   
@@ -27,7 +28,7 @@ Even if you do not register with Medifast1.com, we collect Non-Personal Informat
 > 
 > **  
 > C. Third-Party Web Beacons**   
-> We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here.](https://ondemand.indextools.com/optout,OptOut.vm)" 
+> We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here.](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html)
 
 _**III. PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT ABOUT YOU**_  
 We collect Personally Identifiable Information that you provide to us when you register as a member of Medifast1.com and/or when you update your member profile. We use the Personally Identifiable Information that you provide to respond to your questions, provide you the specific services you select, send you emails about website maintenance and updates, and inform you of significant changes to this Privacy Policy. 
