@@ -1,0 +1,1255 @@
+<!--The following is the downloaded HTML source of the designhotels.com privacy policy that was archived on 2015-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150318161450id_/https%3A//www.designhotels.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUOUFVaGwACUVVQDwc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="Content-Language" content="en">
+<title>Privacy Policy – Design Hotels™</title><meta name="description" content="Learn about Design Hotels™ privacy policy and how we protect your data."><meta name="google-site-verification" content="uE6TipuG-4VIxhzg6mfw1tNbyeCXUNxFYXEXqLdYa4o">
+
+<link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="https://f22bfca7a5abd176cefa-59c40a19620c1f22577ade10e9206cf5.ssl.cf1.rackcdn.com/u/DH-fav-32x32px-r.ico">
+<link rel="apple-touch-icon" sizes="96x96" href="https://f22bfca7a5abd176cefa-59c40a19620c1f22577ade10e9206cf5.ssl.cf1.rackcdn.com/u/DH-icon-96x96.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://f22bfca7a5abd176cefa-59c40a19620c1f22577ade10e9206cf5.ssl.cf1.rackcdn.com/u/DH-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://f22bfca7a5abd176cefa-59c40a19620c1f22577ade10e9206cf5.ssl.cf1.rackcdn.com/u/DH-icon-152x152.png">
+<meta name="application-name" content="Design Hotels">
+<meta name="msapplication-TileImage" content="https://f22bfca7a5abd176cefa-59c40a19620c1f22577ade10e9206cf5.ssl.cf1.rackcdn.com/u/DH-icon-144x144.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+
+<base href="//www.designhotels.com/">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
+<script src="//google-maps-utility-library-v3.googlecode.com/svn/tags/infobox/1.1.12/src/infobox.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.ui.dialog-clickoutside.js?version=master-7.07.28"></script>
+<script type="text/javascript">
+var lang = 'en';
+var global_dateStart = "";
+var global_dateEnd = "";
+</script>
+            <script type="text/javascript" src="/min/?g=js&amp;v=3&amp;version=master-7.07.28"></script>
+	<meta name="google-site-verification" content="pTjJXZfqk6Qv2JEkezb-HQj_Eirb1iWL7Gq7so1A_Jc"> 
+<!-- Add fancyBox main JS and CSS files -->
+<script type="text/javascript" src="/assets/js/jquery.fancybox.pack.js?version=master-7.07.28"></script>
+
+<link rel="stylesheet" type="text/css" href="/assets/css/jquery.fancybox.css?version=master-7.07.28" media="screen">
+
+<!--[if !lte IE 9]> -->
+<link type="text/css" href="/assets/css/dh.css?version=master-7.07.28" media="screen" rel="stylesheet">
+<!-- <![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" href="/assets/css/ie9-0.css?version=master-7.07.28" media="screen" rel="stylesheet" />
+<link type="text/css" href="/assets/css/ie9-1.css?version=master-7.07.28" media="screen" rel="stylesheet" />
+<link type="text/css" href="/assets/css/ie9-2.css?version=master-7.07.28" media="screen" rel="stylesheet" />
+<link type="text/css" href="/assets/css/ie9-3.css?version=master-7.07.28" media="screen" rel="stylesheet" />
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css?version=master-7.07.28" media="screen">
+<link type="text/css" href="/assets/css/scrollbar.css?version=master-7.07.28" media="screen" rel="stylesheet">
+
+<!--[if lt IE 9]>
+    <script src="/assets/js/html5shiv.js"></script>
+    <script src="/assets/js/respond.js"></script>
+<![endif]-->
+
+<!--[if IE ]>  
+<style>
+	img{
+	    height:100%;
+	}
+</style>
+<![endif]-->
+<!--IE 10-->
+<style>
+@media screen and (min-width:0\0) { 
+    img{
+    	height:100%;
+    }
+}
+</style>
+<script src="//s3.amazonaws.com/searchdiscovery-satellite-production/de1ce1d8b27b68cc698527ecfdfcb3ed0b3a190b/satelliteLib-d3ade39457800d67b02c1e07839b03bf8a0d1229.js"></script>
+
+    <script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/1fa1b795-ebd8-4362-a602-9e3cdfee7bfd.js"></script></head>
+    <body class="privacyPolicy">
+        <div id="wrapper">
+            
+<header id="searchEngineMobile" class="mobile-only">
+    <div class="container">
+        <div class="mobile-header-button menu-button">
+            <i class="font-icon icon-menu"></i>
+        </div>
+        
+        <div class="mobile-header-button search-button">
+            <i class="font-icon icon-magnifier"></i>
+        </div>
+        
+        <div class="logo">
+            <a href="/" class="icon-logo-head"></a>
+        </div>
+        
+        <div class="search">
+            <ul class="auto-suggest">
+                <li class="auto-suggest-list"></li>
+                <!--<li class="hotels-and-resorts">
+                    <div>Hotels &amp; Resorts <span class="count">(0)</span></div>
+                    <ul class="hotels-list" style="left: 425px;"></ul>
+                </li>-->
+            </ul>
+            
+            <input type="text" class="search-box" placeholder="Hotel, destination or keyword" value=""><div class="button">Search</div>
+            <div class="geo-location-button"></div>
+            
+            <div class="search-more">
+                <div class="row">
+                    <div class="input-holder">
+                        <div class="label label-checkin"><i class="icon-font icon-calendar"></i>Check In</div>
+                        <input type="hidden" class="input-checkin" value="">
+                    </div>
+                    
+                    <div class="input-holder">
+                        <div class="label label-checkout"><i class="icon-font icon-calendar"></i>Check Out</div>
+                        <input type="hidden" class="input-checkout" value="">
+                    </div>
+                </div>
+                
+                <div class="calendar-holder">
+                    <div class="inner">
+                        
+                    </div>
+                    
+                    <div class="clear-all">× <span>Clear All</span></div>
+                    <div class="clear"><!-- --></div>
+                </div>
+                
+                <div class="row">
+                    <div class="input-holder">
+                        <div class="label label-adults">Adults</div>
+                        
+                        <select class="select-adults">
+                            <option></option>
+ 
+                            <option>1</option>
+ 
+                            <option>2</option>
+ 
+                            <option>3</option>
+ 
+                            <option>4</option>
+ 
+                            <option>5</option>
+ 
+                            <option>6</option>
+ 
+                            <option>7</option>
+ 
+                            <option>8</option>
+ 
+                        </select>
+                        
+                        <div class="icon-dropdown"></div>
+                    </div>
+                    
+                    <div class="input-holder">
+                        <div class="label label-children">Children</div>
+                        
+                        <select class="select-children">
+                            <option></option>
+ 
+                            <option>0</option>
+ 
+                            <option>1</option>
+ 
+                            <option>2</option>
+ 
+                            <option>3</option>
+ 
+                            <option>4</option>
+ 
+                            <option>5</option>
+ 
+                            <option>6</option>
+ 
+                            <option>7</option>
+ 
+                            <option>8</option>
+ 
+                        </select>
+                        
+                        <div class="icon-dropdown icon-dropdown-children"></div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</header>
+<header id="searchEngine">
+    <div id="searchEngineForm">
+        <ul id="searchEngineAutocomplete">
+            <li class="auto-suggest-list"></li>
+            <li>
+                <div>Hotels &amp; Resorts <span class="count">(4)</span></div>
+                <ul class="hotels-list"></ul>
+            </li>
+            <li>
+                <div>Deals <span class="count">(8)</span></div>
+                <ul class="hotels-list"></ul>
+            </li>
+            <!--li><div>Made by Originals <span class="count">(2)</span></div></li-->
+        </ul>
+        <form action="" id="SearchForm">
+            <ul>
+			    <li id="searchIcon"><span class="icon"></span></li>
+<!--			    <li class="blink"></li>-->
+                <li id="searchInputWrap">
+                    <input type="text" placeholder="Enter hotel, destination or keyword" value="" autofocus="">
+                   
+				</li>
+				<li class="divider"></li>
+                <li id="searchDateCheckIn" class="searchDateWrapper"><a href="javascript:void(0)">Check In</a><span class="icon"></span>
+                    <input value="" type="hidden">
+                   
+				</li>
+				<li class="divider"></li>
+                <li id="searchDateCheckOut" class="searchDateWrapper"><a href="javascript:void(0)">Check Out</a><span class="icon"></span>
+                    <input value="" type="hidden">
+                   
+				</li>
+				<li class="divider"></li>
+                <li id="searchGuestsWrapper" class="selected">
+<!--                    <a href="javascript:void(0)">Adults</a>-->
+                    <a id="searchGuestsTotals" href="javascript:void(0)">
+                        <span id="searchGuestsTotalAdults">2 Adults</span>
+                        <br><span id="searchGuestsTotalChildren">0 Children</span>
+                    </a>
+                    <ul id="guestsPicker">
+                        <li id="guestsPickerAdults"><span id="label_adult">Adult</span><div class="spinner"></div>
+                            <input value="2" type="hidden" id="guestsPickerAdultsValue" name="guestsPickerAdultsValue">
+                        </li>
+                        <li id="guestsPickerChildren"><span id="label_children">Children</span><div class="spinner"></div>
+                            <input value="0" type="hidden" id="guestsPickerChildrenValue" name="guestsPickerChildrenValue">
+                        </li>
+                    </ul>
+                    <span class="icon"></span>
+                </li>
+                <li id="searchButtonWrap"><a href="javascript:void(0)">Search</a></li>
+            </ul>
+        </form>
+    </div>
+	 <div id="datePicker">
+	    <div id="dividerCal"></div>
+		<div id="datePickerArrow"></div>
+		<div id="datePickerClearAll"><span class="clearIcon"></span><a href="javascript:void(0)">Clear All</a></div>
+		<a href="javascript:void(0)" id="datePickerPrevMonth"><span></span></a>
+		<a href="javascript:void(0)" id="datePickerNextMonth"><span></span></a>
+	</div>
+    <!--div class="datePicker" id="datePickerCheckIn">    
+			<div id="dividerCal1"></div>
+			<div id="datePickerArrow1"></div>
+			<div id="datePickerClearAll1" class="datePickerClearAll"><span class="clearIcon"></span><a href="javascript:void(0)">Clear All</a></div>
+			<a href="javascript:void(0)" id="datePickerPrevMonth1" class="datePickerPrevMonth"><span></span></a>
+			<a href="javascript:void(0)" id="datePickerNextMonth1" class="datePickerNextMonth"><span></span></a>
+    </div>
+	 <div class="datePicker" id="datePickerCheckOut">
+		    <div id="dividerCal2"></div>
+			<div id="datePickerArrow2"></div>
+			<div id="datePickerClearAll2"  class="datePickerClearAll"><span class="clearIcon"></span><a href="javascript:void(0)">Clear All</a></div>
+			<a href="javascript:void(0)" id="datePickerPrevMonth2" class="datePickerPrevMonth"><span></span></a>
+			<a href="javascript:void(0)" id="datePickerNextMonth2"  class="datePickerNextMonth"><span></span></a>
+    </div-->
+    </header>            <div id="sidebar">
+    <div id="sidebarTop">
+        <div id="mobile-close" class="mobile-only"><i class="font-icon icon-close-small"></i></div>
+        <a href="/" id="logo"><h5 class="the-logo-header">Design Hotels™</h5><i class="icon-font icon-logo mobile-only-inline"></i></a>
+        <nav id="mainMenu">
+            <ul>
+                <li class="sectionHeadingBar menu-spacer"></li>
+                                                    <li><a target="_self" href="/hotels">Hotels &amp; Resorts</a></li>
+                                                                    <li><a target="_self" href="/deals">Deals</a></li>
+                                                                    <li><a target="_self" href="discover-us-at-a-glance">Discover Us</a></li>
+                                                <li><a href="/mycommunity">COMMUNITY AREA</a></li>
+            </ul>
+        </nav>
+    </div>
+    <nav id="userMenu">
+        <!-- TODO: p.sidebar-tagline may need translation -->
+        <p class="sidebar-tagline mobile-only">Become a member to enjoy the best benefits!</p>
+        <ul>
+            <!--li><a href="javascript:void(0)" id="spinit">spin</a></li-->
+            <!--li><a href="#">Shopping Cart <span class="total">5</span></a></li-->
+            <li class="sectionHeadingBar"></li>
+          <li id="icon_login" class="desktop-only">
+                <div class="icon-LHN-Icon-Login menu-font"></div>
+                <a class="callLogin" href="javascript:void(0)">Log in</a> <span style="color:#C3C3C3;">|</span>
+				<!-- signup source = 68 is for Homepage registration-->
+                <a class="callRegister" href="javascript:void(0)" data-signup="68">Sign up</a>
+            </li>
+
+            <!-- TODO: Fix duplicate IDs -- address any JS that attaches -->
+            <li id="icon_login" class="mobile-only">
+				<!-- signup source = 68 is for Homepage registration-->
+                <a class="callRegister" href="javascript:void(0)" data-signup="68">Sign up</a>
+                <a class="callLogin" href="javascript:void(0)">Log in</a>
+            </li>
+
+            <li id="icon_phone" class="desktop-only"><div class="icon-LHN-Icon-Assistance menu-font"></div><a href="/toll-free-numbers">Need assistance?</a></li>
+    
+            <!--li><a href="#">Favorites <span class="total">5</span></a></li-->
+            <!--li><a href="#">Why Join?</a></li-->
+
+
+            <!--li id="locationSwitch" class="menu-spacer"><span class="icon"></span><a href="javascript:void(0)">United States<span class="arrow"></span></a></li-->
+
+            <!--Social Icons-->
+
+            <li id="icon_social" class="mobile-only">
+                <a class="font-icon icon-Design-Hotels-Social-Link-Facebook" target="_blank" href="http://www.facebook.com/DesignHotelsAG" alt="Facebook" title="Facebook"></a>
+                <a class="font-icon icon-Design-Hotels-Social-Link-Twitter" target="_blank" href="http://twitter.com/Design_Hotels" alt="Twitter" title="Twitter"></a>
+                <a class="font-icon icon-Design-Hotels-Social-Link-Pinterest" target="_blank" href="http://pinterest.com/design_hotels/" alt="Pinterest" title="Pinterest"></a>
+                <a class="font-icon icon-Design-Hotels-Social-Link-Instagram" target="_blank" href="http://instagram.com/design_hotels" alt="Instagram" title="Instagram"></a>
+                <a class="font-icon icon-Design-Hotels-Social-Link-GooglePlus" target="_blank" href="https://google.com/+designhotels" alt="Google+" title="Google+"></a>
+                <a class="font-icon icon-Design-Hotels-Social-Link-YouTube" target="_blank" href="http://www.youtube.com/designhotels" alt="Youtube" title="Youtube"></a>
+            </li>
+
+            <!--Currency Dropdown-->
+
+            <li class="currencySwitch desktop-only" id="icon_currency">
+    <div class="icon-LHN-Icon-Currency-V2 menu-font"></div><div id="currency_label">Currency</div>
+      
+    <div class="currencySwitchButton"><a href="javascript:void(0)"><span class="currency">USD</span><span class="arrow"></span></a></div>
+    <div class="currencySwitchList">
+        <ul>
+            <li><a href="javascript:void(0)" data-currency="AED">AED United Arab Emirates dirham</a></li>
+            <li><a href="javascript:void(0)" data-currency="ALL">ALL Albanian lek</a></li>
+            <li><a href="javascript:void(0)" data-currency="AUD">AUD Australian Dollar</a></li>
+            <li><a href="javascript:void(0)" data-currency="BDT">BDT Bangladeshi Taka</a></li>
+            <li><a href="javascript:void(0)" data-currency="BGN">BGN Bulgarian lev</a></li>
+            <li><a href="javascript:void(0)" data-currency="BHD">BHD Bahraini dinar</a></li>
+            <li><a href="javascript:void(0)" data-currency="BRL">BRL Brazilian Real</a></li>
+            <li><a href="javascript:void(0)" data-currency="CAD">CAD Canadian dollar</a></li>
+            <li><a href="javascript:void(0)" data-currency="CHF">CHF Swiss franc</a></li>
+            <li><a href="javascript:void(0)" data-currency="CNY">CNY Chinese Yuan (Renminbi)</a></li>
+            <li><a href="javascript:void(0)" data-currency="CZK">CZK Czech koruna</a></li>
+            <li><a href="javascript:void(0)" data-currency="DJF">DJF Djiboutian franc</a></li>
+            <li><a href="javascript:void(0)" data-currency="DKK">DKK Danish Kroners</a></li>
+            <li><a href="javascript:void(0)" data-currency="DZD">DZD Algerian dinar</a></li>
+            <li><a href="javascript:void(0)" data-currency="EGP">EGP Egyptian pound</a></li>
+            <li><a href="javascript:void(0)" data-currency="ETB">ETB Ethiopian birr</a></li>
+            <li><a href="javascript:void(0)" data-currency="EUR">EUR Euro</a></li>
+            <li><a href="javascript:void(0)" data-currency="FJD">FJD Fijian Dollar</a></li>
+            <li><a href="javascript:void(0)" data-currency="GBP">GBP Pound sterling</a></li>
+            <li><a href="javascript:void(0)" data-currency="GEL">GEL Georgian lari</a></li>
+            <li><a href="javascript:void(0)" data-currency="GMD">GMD Gambian dalasi</a></li>
+            <li><a href="javascript:void(0)" data-currency="HKD">HKD Hong Kong Dollar</a></li>
+            <li><a href="javascript:void(0)" data-currency="HRK">HRK Croatian kuna</a></li>
+            <li><a href="javascript:void(0)" data-currency="HUF">HUF Hungarian forint</a></li>
+            <li><a href="javascript:void(0)" data-currency="IDR">IDR Indonesian Rupiah</a></li>
+            <li><a href="javascript:void(0)" data-currency="ILS">ILS Israeli new shekel</a></li>
+            <li><a href="javascript:void(0)" data-currency="ISK">ISK Icelandic Krona</a></li>
+            <li><a href="javascript:void(0)" data-currency="INR">INR India, Rupee</a></li>
+            <li><a href="javascript:void(0)" data-currency="JOD">JOD Jordanian dinar</a></li>
+            <li><a href="javascript:void(0)" data-currency="JPY">JPY Japanese Yen</a></li>
+            <li><a href="javascript:void(0)" data-currency="KRW">KRW Korea (South) Won</a></li>
+            <li><a href="javascript:void(0)" data-currency="KWD">KWD Kuwaiti dinar</a></li>
+            <li><a href="javascript:void(0)" data-currency="LBP">LBP Lebanese pound</a></li>
+            <li><a href="javascript:void(0)" data-currency="LTL">LTL Lithuanian litas</a></li>
+            <li><a href="javascript:void(0)" data-currency="LYD">LYD Libyan dinar</a></li>
+            <li><a href="javascript:void(0)" data-currency="MAD">MAD Moroccan dirham</a></li>
+            <li><a href="javascript:void(0)" data-currency="MOP">MOP Macau Pataca</a></li>
+            <li><a href="javascript:void(0)" data-currency="MUR">MUR Mauritian rupee</a></li>
+            <li><a href="javascript:void(0)" data-currency="MYR">MYR Malaysian Ringgit</a></li>
+            <li><a href="javascript:void(0)" data-currency="NGN">NGN Nigerian naira</a></li>
+            <li><a href="javascript:void(0)" data-currency="NOK">NOK Norwegian Kroners</a></li>
+            <li><a href="javascript:void(0)" data-currency="OMR">OMR Omani Rial</a></li>
+            <li><a href="javascript:void(0)" data-currency="PKR">PKR Pakistani rupee</a></li>
+            <li><a href="javascript:void(0)" data-currency="PLN">PLN Polish zâoty</a></li>
+            <li><a href="javascript:void(0)" data-currency="QAR">QAR Qatari riyal</a></li>
+            <li><a href="javascript:void(0)" data-currency="RUB">RUB Russian ruble</a></li>
+            <li><a href="javascript:void(0)" data-currency="SAR">SAR Saudi riyal</a></li>
+            <li><a href="javascript:void(0)" data-currency="SCR">SCR Seychellois rupee</a></li>
+            <li><a href="javascript:void(0)" data-currency="SEK">SEK Swedish krona</a></li>
+            <li><a href="javascript:void(0)" data-currency="SGD">SGD Singapore Dollar</a></li>
+            <li><a href="javascript:void(0)" data-currency="SYP">SYP Syrian pound</a></li>
+            <li><a href="javascript:void(0)" data-currency="THB">THB Thailand Baht</a></li>
+            <li><a href="javascript:void(0)" data-currency="TND">TND Tunisian dinar</a></li>
+            <li><a href="javascript:void(0)" data-currency="TRY">TRY Turkish lira</a></li>
+            <li><a href="javascript:void(0)" data-currency="TWD">TWD Taiwan Dollar</a></li>
+            <li><a href="javascript:void(0)" data-currency="UGX">UGX Ugandan shilling</a></li>
+            <li><a href="javascript:void(0)" data-currency="USD">USD United States dollar</a></li>
+            <li><a href="javascript:void(0)" data-currency="VND">VND Vietnamese Dong</a></li>
+            <li><a href="javascript:void(0)" data-currency="XAF">XAF Central African CFA franc</a></li>
+            <li><a href="javascript:void(0)" data-currency="XOF">XOF West African CFA franc</a></li>
+            <li><a href="javascript:void(0)" data-currency="XPF">XPF CFP Franc</a></li>
+            <li><a href="javascript:void(0)" data-currency="YER">YER Yemeni rial</a></li>
+            <li><a href="javascript:void(0)" data-currency="ZAR">ZAR South African rand</a></li>
+        </ul>
+
+        <div class="currencySwitchArrow"></div>
+    </div>
+</li>
+        </ul>
+
+        <!-- import mobile currency selector -->
+                <div class="mobile-currency mobile-only">
+            <span><i class="font-icon icon-LHN-Icon-Currency-V2"></i> Currency:</span>
+            <div class="selected-currency">USD <i class="icon-font icon-arrow-down-grey"></i></div>
+            <select class="mobile-only">
+ 
+                <option value="AED" data-currency="AED">AED United Arab Emirates dirham</option> 
+ 
+                <option value="ALL" data-currency="ALL">ALL Albanian lek</option> 
+ 
+                <option value="AUD" data-currency="AUD">AUD Australian Dollar</option> 
+ 
+                <option value="BDT" data-currency="BDT">BDT Bangladeshi Taka</option> 
+ 
+                <option value="BGN" data-currency="BGN">BGN Bulgarian lev</option> 
+ 
+                <option value="BHD" data-currency="BHD">BHD Bahraini dinar</option> 
+ 
+                <option value="BRL" data-currency="BRL">BRL Brazilian Real</option> 
+ 
+                <option value="CAD" data-currency="CAD">CAD Canadian dollar</option> 
+ 
+                <option value="CHF" data-currency="CHF">CHF Swiss franc</option> 
+ 
+                <option value="CNY" data-currency="CNY">CNY Chinese Yuan (Renminbi)</option> 
+ 
+                <option value="CZK" data-currency="CZK">CZK Czech koruna</option> 
+ 
+                <option value="DJF" data-currency="DJF">DJF Djiboutian franc</option> 
+ 
+                <option value="DKK" data-currency="DKK">DKK Danish Kroners</option> 
+ 
+                <option value="DZD" data-currency="DZD">DZD Algerian dinar</option> 
+ 
+                <option value="EGP" data-currency="EGP">EGP Egyptian pound</option> 
+ 
+                <option value="ETB" data-currency="ETB">ETB Ethiopian birr</option> 
+ 
+                <option value="EUR" data-currency="EUR">EUR Euro</option> 
+ 
+                <option value="FJD" data-currency="FJD">FJD Fijian Dollar</option> 
+ 
+                <option value="GBP" data-currency="GBP">GBP Pound sterling</option> 
+ 
+                <option value="GEL" data-currency="GEL">GEL Georgian lari</option> 
+ 
+                <option value="GMD" data-currency="GMD">GMD Gambian dalasi</option> 
+ 
+                <option value="HKD" data-currency="HKD">HKD Hong Kong Dollar</option> 
+ 
+                <option value="HRK" data-currency="HRK">HRK Croatian kuna</option> 
+ 
+                <option value="HUF" data-currency="HUF">HUF Hungarian forint</option> 
+ 
+                <option value="IDR" data-currency="IDR">IDR Indonesian Rupiah</option> 
+ 
+                <option value="ILS" data-currency="ILS">ILS Israeli new shekel</option> 
+ 
+                <option value="ISK" data-currency="ISK">ISK Icelandic Krona</option> 
+ 
+                <option value="INR" data-currency="INR">INR India, Rupee</option> 
+ 
+                <option value="JOD" data-currency="JOD">JOD Jordanian dinar</option> 
+ 
+                <option value="JPY" data-currency="JPY">JPY Japanese Yen</option> 
+ 
+                <option value="KRW" data-currency="KRW">KRW Korea (South) Won</option> 
+ 
+                <option value="KWD" data-currency="KWD">KWD Kuwaiti dinar</option> 
+ 
+                <option value="LBP" data-currency="LBP">LBP Lebanese pound</option> 
+ 
+                <option value="LTL" data-currency="LTL">LTL Lithuanian litas</option> 
+ 
+                <option value="LYD" data-currency="LYD">LYD Libyan dinar</option> 
+ 
+                <option value="MAD" data-currency="MAD">MAD Moroccan dirham</option> 
+ 
+                <option value="MOP" data-currency="MOP">MOP Macau Pataca</option> 
+ 
+                <option value="MUR" data-currency="MUR">MUR Mauritian rupee</option> 
+ 
+                <option value="MYR" data-currency="MYR">MYR Malaysian Ringgit</option> 
+ 
+                <option value="NGN" data-currency="NGN">NGN Nigerian naira</option> 
+ 
+                <option value="NOK" data-currency="NOK">NOK Norwegian Kroners</option> 
+ 
+                <option value="OMR" data-currency="OMR">OMR Omani Rial</option> 
+ 
+                <option value="PKR" data-currency="PKR">PKR Pakistani rupee</option> 
+ 
+                <option value="PLN" data-currency="PLN">PLN Polish zâoty</option> 
+ 
+                <option value="QAR" data-currency="QAR">QAR Qatari riyal</option> 
+ 
+                <option value="RUB" data-currency="RUB">RUB Russian ruble</option> 
+ 
+                <option value="SAR" data-currency="SAR">SAR Saudi riyal</option> 
+ 
+                <option value="SCR" data-currency="SCR">SCR Seychellois rupee</option> 
+ 
+                <option value="SEK" data-currency="SEK">SEK Swedish krona</option> 
+ 
+                <option value="SGD" data-currency="SGD">SGD Singapore Dollar</option> 
+ 
+                <option value="SYP" data-currency="SYP">SYP Syrian pound</option> 
+ 
+                <option value="THB" data-currency="THB">THB Thailand Baht</option> 
+ 
+                <option value="TND" data-currency="TND">TND Tunisian dinar</option> 
+ 
+                <option value="TRY" data-currency="TRY">TRY Turkish lira</option> 
+ 
+                <option value="TWD" data-currency="TWD">TWD Taiwan Dollar</option> 
+ 
+                <option value="UGX" data-currency="UGX">UGX Ugandan shilling</option> 
+ 
+                <option selected="" value="USD" data-currency="USD">USD United States dollar</option> 
+ 
+                <option value="VND" data-currency="VND">VND Vietnamese Dong</option> 
+ 
+                <option value="XAF" data-currency="XAF">XAF Central African CFA franc</option> 
+ 
+                <option value="XOF" data-currency="XOF">XOF West African CFA franc</option> 
+ 
+                <option value="XPF" data-currency="XPF">XPF CFP Franc</option> 
+ 
+                <option value="YER" data-currency="YER">YER Yemeni rial</option> 
+ 
+                <option value="ZAR" data-currency="ZAR">ZAR South African rand</option> 
+ 
+                
+            </select>
+        </div>
+
+    </nav>
+</div>
+            <div id="main">
+                 <section id="privacyPolicy">
+                    <header>
+                        <div class="sectionHeadings">
+                            <div class="sectionHeading">Privacy Policy</div>
+                        </div>
+                    </header>
+                    <div class="content">
+                        <div class="subtitle">
+                            <h2>Information on Data Protection</h2>
+                        </div>
+                        <div class="copy">
+                            <p>Design Hotels™ would like to ensure your trust in the online reservation of hotels &amp; travel services.<br> &nbsp;<br> Therefore, Design Hotels™ hereby informs you extensively about:&nbsp;<br> • What kind of information Design Hotels™ necessitates from you, and&nbsp;<br> • How this information is made use of</p>
+<p>Design Hotels™ assures you that the data protection clauses of the German Data Protection Act are observed at all times.<br> &nbsp;<br> ANONYMOUS USE OF RESERVATION SERVICE<br> You may at any time anonymously inquire about hotels, rates and offers with our reservation service, i.e. without the requirement to issue any personal information or registering with Design Hotels™.<br> &nbsp;<br> DESIGN HOTELS™ COMMUNITY MEMBERSHIP<br> In registering to the Design Hotels™ Community we initially ask for your email address, to which a welcome email is sent to verify said email address and activate the account; after activation you are able to log in and provide further personal data voluntarily under “profile settings”. If you provide additional voluntary personal data, it will be used to prefill the personal details form upon making a booking, and/or be used to provide you with more refined topics in our communications, should you have opted in to any of our newsletters.</p>
+<p>HOTEL BOOKINGS<br> In order to make a booking via Design Hotels™, personal data such as full name, address and credit card details are required in order to process the booking(s) – required data is explicitly indicated during the booking process. Obligatory and additional voluntarily submitted data – the extent of which can be extracted from the personal information form – is transferred to the respective member hotel for the arrangement of the contractual relationship. With each booking on designhotels.com the indicated email address will be automatically registered with an account that stores the booking, as well as the given email address, full name and address provided during the booking. In order to access the account it must be activated by following the instructions of the welcome email (see paragraph above, “DESIGN HOTELS™ COMMUNITY MEMBERSHIP”).<br> <br> TRANSACTIONAL DATA<br> When making a booking with Design Hotels™, the required data needed to fulfill the accommodation contract is forwarded by Design Hotels™ to the individual contract partners, i.e. the member hotel(s). Your bookings will be recorded for the purpose of making the specific information accessible to you and the statistic information available to Design Hotels™.<br> &nbsp;<br> NEWSLETTERS<br> As a member of the Design Hotels™ Community (either by registering directly or by making a booking on designhotels.com), you will receive newsletter communications from Design Hotels™. In order to provide you with more relevant information and customize content to your needs and interests, we may in instances track which links you have clicked on in our newsletters. By registering to the Design Hotels™ Community you explicitly agree hereto. Based on this information and other personal details you have provided to us as part of your membership and/or reservation(s) we may customize newsletters for you. You may unsubscribe from newsletter communications from Design Hotels™ at any time by updating your “profile settings” in your Design Hotels™ Community account or deleting your account by following the instructions in the newsletter.</p>
+<p>DELETION OF INFORMATION AND/OR ACCOUNT<br> You may delete your Design Hotels™ Community account and the details contained within from the “profile settings” of your account or by following the instructions in the footer of our email communications (deleting your account also removes you from any newsletter communications). On request, Design Hotels™ deletes your data completely and immediately. Please contact us via <a href="mailto:yourprivacy@designhotels.com">yourprivacy@designhotels.com</a>&nbsp;if you should need to request this. Please note, that a deletion of data can only be fully completed when all open transactions have been closed.</p>
+<p>COOKIES<br>For statistical purposes, Design Hotels™ makes use of Google Analytics, a web analytics service from Google Inc. ("Google") and Adobe Analytics, a web analytics service from Adobe Systems Incorporated ("Adobe"). Both services use "cookies" – text files that are stored on your computer and enable your use of the website to be analyzed. The information generated by the Adobe cookie about your use of the Web site (including your IP address) will be transmitted to servers in Ireland from where the information will be forwarded to servers in the United States in anonymised form. The information generated by the Google cookie regarding your use of this website is transferred to one of Google’s servers in the USA and stored there. However, since anonymisation is activated on this web page, Google shortens your IP address beforehand within member states of the European Union or in other signatory nations to the Treaty on the European Economic Area. Only in exceptional cases will the full IP address be transferred to one of Google’s servers in the USA and shortened there. Google and Adobe respectively use this information on behalf of us to analyze your usage of the website, to compile reports on your website activity and to provide further services connected to the use of the website and Internet on our behalf. The IP address transferred from your browser via Google Analytics or Adobe Analytics will not be combined with other data from Google or Adobe. You can prevent the storage of the cookies by changing the settings in your browser; however, please note that if you do so you may not be able to use all functions of this website fully. Further, by downloading and installing the browser plug-in available from the following link, you can prevent the information generated by the Google cookie about your use of the website (including your IP address) from being transmitted to and processed by Google: <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a>. You may also opt out to the collection of data by Adobe for the future at any time. Further information about opting out is available at http://www.adobe.com/misc/optout.html.</p>
+<p>For further information regarding Google Analytics refer to http://tools.google.com/dlpage/gaoptout and http://www.google.com/intl/de/analytics/learn/privacy.html (general information on Google Analytics and data protection). Please note that Google Analytics has been expanded using the code “gat._anonymizeIp();” on this page to guarantee anonymous collation of IP addresses (known as IP masking).</p>
+<p>Further information about Adobe Analytics is available at <a href="http://www.adobe.com//privacy/analytics.html">http://www.adobe.com//privacy/analytics.html</a>.</p>
+<p>RIGHT TO INFORMATION<br> As a registered user, Design Hotels™ informs you about what data we record about you, at any time, free of charge. Please turn to&nbsp;<a href="mailto:yourprivacy@designhotels.com">yourprivacy@designhotels.com</a>&nbsp;for any inquiries.<br><br></p>                        </div>
+                    </div>
+                </section>
+            </div>
+            <footer id="mainFooter">
+    <!--p id="footerQuote"><span class="spacer"></span>If you don't feel passionate, it's better not to do things. <span class="credit">Emanuele Garosci, <i>Race-Car Driver & Hotel Developer</i></span></p-->
+    <ul id="footerLinks">
+                <li>
+            <ul>
+                <li class="sectionHeadingBar"></li>
+                <li class="header"><i class="icon-font icon-arrow-small-down mobile-only"></i>Quick Links</li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="https://www.designhotels.com/hotels">HOTELS &amp; RESORTS</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="https://www.designhotels.com/deals">DEALS</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="https://www.designhotels.com/new-hotels">NEW HOTELS</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="https://www.designhotels.com/mycommunity">COMMUNITY AREA</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="https://www.designhotels.com/cancel-booking">CANCEL BOOKING</a></li>
+                            </ul>
+        </li>
+                <li>
+            <ul>
+                <li class="sectionHeadingBar"></li>
+                <li class="header"><i class="icon-font icon-arrow-small-down mobile-only"></i>Hotels</li>
+                                <li class="footerURL external-link">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_blank" href="http://corporate.designhotels.com">MEMBERS PORTAL</a></li>
+                                <li class="footerURL external-link">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_blank" href="http://corporate.designhotels.com/become_a_member">BECOME A MEMBER HOTEL</a></li>
+                            </ul>
+        </li>
+                <li>
+            <ul>
+                <li class="sectionHeadingBar"></li>
+                <li class="header"><i class="icon-font icon-arrow-small-down mobile-only"></i>TRAVEL PROFESSIONALS</li>
+                                <li class="footerURL external-link">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="/stories/travelpro">Register / Login</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="https://www.designhotels.com/deals/commission">Special Offers</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="commissionable-rates">Commissionable Rates</a></li>
+                            </ul>
+        </li>
+                <li>
+            <ul>
+                <li class="sectionHeadingBar"></li>
+                <li class="header"><i class="icon-font icon-arrow-small-down mobile-only"></i>CORPORATE</li>
+                                <li class="footerURL external-link">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_blank" href="http://corporate.designhotels.com/investor_relations">INVESTOR RELATIONS</a></li>
+                                <li class="footerURL external-link">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_blank" href="http://corporate.designhotels.com/career">CAREERS</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="https://www.designhotels.com/partners">PARTNERS</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="https://www.designhotels.com/discover-us-at-a-glance">DISCOVER US</a></li>
+                            </ul>
+        </li>
+                <li>
+            <ul>
+                <li class="sectionHeadingBar"></li>
+                <li class="header"><i class="icon-font icon-arrow-small-down mobile-only"></i>PRESS OFFICE</li>
+                                <li class="footerURL external-link">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_blank" href="http://press.designhotels.com">PRESS PORTAL</a></li>
+                                <li class="footerURL external-link">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_blank" href="http://press.designhotels.com/press/press_releases">PRESS RELEASES</a></li>
+                                <li class="footerURL external-link">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_blank" href="http://press.designhotels.com/press/press_kit">PRESS KIT</a></li>
+                            </ul>
+        </li>
+                <li>
+            <ul>
+                <li class="sectionHeadingBar"></li>
+                <li class="header"><i class="icon-font icon-arrow-small-down mobile-only"></i>CONTACT US</li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="toll-free-numbers">CALL TOLL FREE</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="toll-free-numbers">EMAIL</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="headquarters">HEADQUARTERS</a></li>
+                                <li class="footerURL">
+                    <!-- TODO: Apply the external link ONLY if needed (check subdomains for != www, or null) -->
+                    <i class="icon-font icon-external-link mobile-only"></i><a target="_self" href="global-offices">GLOBAL OFFICES</a></li>
+                            </ul>
+        </li>
+            </ul>
+    <!--div id="logos">
+        <a href="#" class="visa"></a>
+        <a href="#" class="paypal"></a>
+        <a href="#" class="americanExpress"></a>
+        <a href="#" class="lufthansa"></a>
+    </div-->
+    <p id="copyright">© Design Hotels™ 2015            &nbsp;•&nbsp; <a target="_self" href="privacy-policy">Privacy Policy</a> 
+            &nbsp;•&nbsp; <a target="_self" href="impressum">Impressum</a> 
+        </p>
+    <div id="socialMedia">
+        <ul>
+            <li><a class="icon-Design-Hotels-Social-Link-Facebook" target="_blank" href="http://www.facebook.com/DesignHotelsAG" alt="Facebook" title="Facebook"></a></li>
+            <li><a class="icon-Design-Hotels-Social-Link-Twitter" target="_blank" href="http://twitter.com/Design_Hotels" alt="Twitter" title="Twitter"></a></li>
+            <li><a class="icon-Design-Hotels-Social-Link-Pinterest" target="_blank" href="http://pinterest.com/design_hotels/" alt="Pinterest" title="Pinterest"></a></li>
+            <li><a class="icon-Design-Hotels-Social-Link-Instagram" target="_blank" href="http://instagram.com/design_hotels" alt="Instagram" title="Instagram"></a></li>
+            <li><a class="icon-Design-Hotels-Social-Link-GooglePlus" target="_blank" href="https://google.com/+designhotels" alt="Google+" title="Google+"></a></li>
+            <li><a class="icon-Design-Hotels-Social-Link-YouTube" target="_blank" href="http://www.youtube.com/designhotels" alt="Youtube" title="Youtube"></a></li>
+             <span class="vertical-bar"></span>
+             <li class="norton"><a target="_blank" href="http://www.symantec.com/verisign/ssl-certificates" alt="Norton" title="Norton"></a></li>
+        </ul>
+       
+        <!--table class="norton" width="84" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications." style="float:right">
+            <tr>
+                <td width="84" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.designhotels.com&amp;size=XS&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script><br />
+                    <a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+            </tr>
+        </table-->
+    </div>
+</footer>
+
+<!-- TODO:
+
+    - 3 types of 'mobile bars' are below, with unique class names for each, so we just need to determine which to show per page
+    - Anchor tags need to be reworked with IDs/Classes for targets
+
+    -->
+
+
+<footer id="mainMobileFooter" class="mobile-footer mobile-footer-standard mobile-only">
+    <div class="mobile-footer-call">
+
+        <!-- TODO: Use the prefix 'tel:' in front of the geo-located, dynamic phone number to support iPhone + Android -->
+        <a href="tel:004930884940040"><i class="icon-font icon-LHN-Icon-Assistance"></i> Help? <b>CALL US</b></a>
+    </div>
+    <div class="mobile-footer-location">
+        <a><i class="icon-font icon-geolocator"></i> Hotels near me</a>
+    </div>
+    <div class="mobile-footer-currency">
+                <div class="mobile-currency mobile-only">
+            <span><i class="font-icon icon-LHN-Icon-Currency-V2"></i> Currency:</span>
+            <div class="selected-currency">USD <i class="icon-font icon-arrow-down-grey"></i></div>
+            <select class="mobile-only">
+ 
+                <option value="AED" data-currency="AED">AED United Arab Emirates dirham</option> 
+ 
+                <option value="ALL" data-currency="ALL">ALL Albanian lek</option> 
+ 
+                <option value="AUD" data-currency="AUD">AUD Australian Dollar</option> 
+ 
+                <option value="BDT" data-currency="BDT">BDT Bangladeshi Taka</option> 
+ 
+                <option value="BGN" data-currency="BGN">BGN Bulgarian lev</option> 
+ 
+                <option value="BHD" data-currency="BHD">BHD Bahraini dinar</option> 
+ 
+                <option value="BRL" data-currency="BRL">BRL Brazilian Real</option> 
+ 
+                <option value="CAD" data-currency="CAD">CAD Canadian dollar</option> 
+ 
+                <option value="CHF" data-currency="CHF">CHF Swiss franc</option> 
+ 
+                <option value="CNY" data-currency="CNY">CNY Chinese Yuan (Renminbi)</option> 
+ 
+                <option value="CZK" data-currency="CZK">CZK Czech koruna</option> 
+ 
+                <option value="DJF" data-currency="DJF">DJF Djiboutian franc</option> 
+ 
+                <option value="DKK" data-currency="DKK">DKK Danish Kroners</option> 
+ 
+                <option value="DZD" data-currency="DZD">DZD Algerian dinar</option> 
+ 
+                <option value="EGP" data-currency="EGP">EGP Egyptian pound</option> 
+ 
+                <option value="ETB" data-currency="ETB">ETB Ethiopian birr</option> 
+ 
+                <option value="EUR" data-currency="EUR">EUR Euro</option> 
+ 
+                <option value="FJD" data-currency="FJD">FJD Fijian Dollar</option> 
+ 
+                <option value="GBP" data-currency="GBP">GBP Pound sterling</option> 
+ 
+                <option value="GEL" data-currency="GEL">GEL Georgian lari</option> 
+ 
+                <option value="GMD" data-currency="GMD">GMD Gambian dalasi</option> 
+ 
+                <option value="HKD" data-currency="HKD">HKD Hong Kong Dollar</option> 
+ 
+                <option value="HRK" data-currency="HRK">HRK Croatian kuna</option> 
+ 
+                <option value="HUF" data-currency="HUF">HUF Hungarian forint</option> 
+ 
+                <option value="IDR" data-currency="IDR">IDR Indonesian Rupiah</option> 
+ 
+                <option value="ILS" data-currency="ILS">ILS Israeli new shekel</option> 
+ 
+                <option value="ISK" data-currency="ISK">ISK Icelandic Krona</option> 
+ 
+                <option value="INR" data-currency="INR">INR India, Rupee</option> 
+ 
+                <option value="JOD" data-currency="JOD">JOD Jordanian dinar</option> 
+ 
+                <option value="JPY" data-currency="JPY">JPY Japanese Yen</option> 
+ 
+                <option value="KRW" data-currency="KRW">KRW Korea (South) Won</option> 
+ 
+                <option value="KWD" data-currency="KWD">KWD Kuwaiti dinar</option> 
+ 
+                <option value="LBP" data-currency="LBP">LBP Lebanese pound</option> 
+ 
+                <option value="LTL" data-currency="LTL">LTL Lithuanian litas</option> 
+ 
+                <option value="LYD" data-currency="LYD">LYD Libyan dinar</option> 
+ 
+                <option value="MAD" data-currency="MAD">MAD Moroccan dirham</option> 
+ 
+                <option value="MOP" data-currency="MOP">MOP Macau Pataca</option> 
+ 
+                <option value="MUR" data-currency="MUR">MUR Mauritian rupee</option> 
+ 
+                <option value="MYR" data-currency="MYR">MYR Malaysian Ringgit</option> 
+ 
+                <option value="NGN" data-currency="NGN">NGN Nigerian naira</option> 
+ 
+                <option value="NOK" data-currency="NOK">NOK Norwegian Kroners</option> 
+ 
+                <option value="OMR" data-currency="OMR">OMR Omani Rial</option> 
+ 
+                <option value="PKR" data-currency="PKR">PKR Pakistani rupee</option> 
+ 
+                <option value="PLN" data-currency="PLN">PLN Polish zâoty</option> 
+ 
+                <option value="QAR" data-currency="QAR">QAR Qatari riyal</option> 
+ 
+                <option value="RUB" data-currency="RUB">RUB Russian ruble</option> 
+ 
+                <option value="SAR" data-currency="SAR">SAR Saudi riyal</option> 
+ 
+                <option value="SCR" data-currency="SCR">SCR Seychellois rupee</option> 
+ 
+                <option value="SEK" data-currency="SEK">SEK Swedish krona</option> 
+ 
+                <option value="SGD" data-currency="SGD">SGD Singapore Dollar</option> 
+ 
+                <option value="SYP" data-currency="SYP">SYP Syrian pound</option> 
+ 
+                <option value="THB" data-currency="THB">THB Thailand Baht</option> 
+ 
+                <option value="TND" data-currency="TND">TND Tunisian dinar</option> 
+ 
+                <option value="TRY" data-currency="TRY">TRY Turkish lira</option> 
+ 
+                <option value="TWD" data-currency="TWD">TWD Taiwan Dollar</option> 
+ 
+                <option value="UGX" data-currency="UGX">UGX Ugandan shilling</option> 
+ 
+                <option selected="" value="USD" data-currency="USD">USD United States dollar</option> 
+ 
+                <option value="VND" data-currency="VND">VND Vietnamese Dong</option> 
+ 
+                <option value="XAF" data-currency="XAF">XAF Central African CFA franc</option> 
+ 
+                <option value="XOF" data-currency="XOF">XOF West African CFA franc</option> 
+ 
+                <option value="XPF" data-currency="XPF">XPF CFP Franc</option> 
+ 
+                <option value="YER" data-currency="YER">YER Yemeni rial</option> 
+ 
+                <option value="ZAR" data-currency="ZAR">ZAR South African rand</option> 
+ 
+                
+            </select>
+        </div>
+    </div>
+</footer>        </div>
+         
+
+
+
+<div id="lightboxRegister" class="lightbox" title="">
+    <h5>Join the Design Hotels<sup>TM</sup> Community</h5>
+    <a href="javascript:void(0)" class="close"><span></span></a>
+    <div id="lightboxRegisterForm">
+        <p>Please double check your email address and confirm.<br>
+            You may opt out of email communications about services from Design Hotels
+            <sup>TM</sup> via your account settings at any time.
+        </p>
+        <form action="/mycommunity/register" method="post">
+            <ul>
+                 <li>
+                    <input type="hidden" name="signup_source" id="signup_source">
+                    <label for="emailAddress">Email Address</label><input id="registerEmailAddress" name="emailAddress" type="text">
+                    <div class="errorMessage"></div>
+                    <div class="valid"></div>
+                </li>
+                <li class="lightboxCheckboxWrapper"><label for="agreeWithTerms"><span class="checkbox"></span><span class="label">I agree to the <a href="/terms">legal terms</a></span></label><input id="agreeWithTerms" name="agreeWithTerms" value="0" type="text">
+                    <div class="errorMessage"></div>
+                    <div class="valid"></div>
+                </li>
+
+
+            </ul>
+            <a href="javascript:void(0)" class="submit">Confirm</a>
+        </form>
+        <div class="lightboxFooter">
+            Already a member? <a class="callLogin" href="javascript:void(0)">Log in here</a> Or did you <a class="callForgotPassword" href="javascript:void(0)">forget your password?</a>
+
+        </div>
+    </div>
+    <div id="lightboxRegisterSuccess">
+        <p id="lightboxRegisterThanks">
+            Thank you for registering and welcome to the Design Hotels<sup>TM</sup> Community
+        </p>
+        <a href="/mycommunity/overview" class="gobtn">GO EXPLORE</a>
+       <p>Please don't forget to validate your membership by following the instructions in your welcome email.</p>
+    </div>
+</div>
+<div id="lightboxRegisterAuto" class="lightbox" title="">
+    <div class="wrapper">
+        <a href="javascript:void(0)" class="close"><span></span></a>
+        
+        <h5>The Design Hotels<sup>TM</sup> Community</h5>
+        
+        <div class="register-content register-content14">
+            <div class="inside-content">
+                <div class="intro">
+                    Already a member? <a class="callLogin" href="javascript:void(0)">Log in</a> to access<br>
+                    special rates, exclusive offers, and more!<br>
+                    Not a member?<br>
+                    Join now for immediate access:
+                </div>
+                
+                <div class="checkbox"></div>
+                <div class="checkbox-check"></div>
+                <div class="checkbox-please"></div>
+                <div class="checkbox-label"><span>I agree with the</span> <a href="/terms" target="_blank">Terms and Conditions</a></div>
+                
+                <input type="text" class="email-address" placeholder="Enter your E-mail address">
+                <div class="join-button">Join For Free</div>
+            </div>
+        </div>
+        
+        <div class="lightboxFooter">
+            You may opt out of email communications about services from Design Hotels<sup>TM</sup> at any time.
+        </div>
+        
+        <div id="lightboxRegisterAutoSuccess">
+            <p id="lightboxRegisterAutoThanks">
+                Thank you for registering and welcome to the Design Hotels<sup>TM</sup> Community
+            </p>
+            <a href="/mycommunity/overview" class="gobtn">GO EXPLORE</a>
+           <p>Please don't forget to validate your membership by following the instructions in your welcome email.</p>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    
+    $(function() {
+        var checkboxChecked = false;
+        
+        var checkboxCheck = $('#lightboxRegisterAuto .checkbox-check');
+        var checkboxBox = $('#lightboxRegisterAuto .checkbox');
+        var checkboxLabel = $('#lightboxRegisterAuto .checkbox-label span');
+        var joinButton = $('#lightboxRegisterAuto .join-button');
+        var emailInput = $('#lightboxRegisterAuto .email-address');
+        var checkboxPlease = $('#lightboxRegisterAuto .checkbox-please');
+        
+        var toggleCheckbox = function() {
+            checkboxBox.removeClass('checkbox-error');
+            checkboxPlease.hide();
+            
+            if (checkboxCheck.hasClass('checkbox-check-visible')) {
+                checkboxChecked = false;
+                checkboxCheck.removeClass('checkbox-check-visible');
+            } else {
+                checkboxChecked = true;
+                checkboxCheck.addClass('checkbox-check-visible');
+            }
+        }
+        
+        var submit = function() {
+            var valid = true;
+            
+            if (!checkboxChecked) {
+                checkboxBox.addClass('checkbox-error');
+                checkboxPlease.show();
+                valid = false;
+            }
+            
+            var emailAddress = emailInput.val();
+            var emailPattern = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            
+            if (!emailPattern.test(emailAddress)) {
+                emailInput.val('Please enter a valid E-mail');
+                emailInput.addClass('email-address-error');
+                valid = false;
+            }
+            
+            if (!valid) {
+                return;
+            }
+            
+            $.ajax({
+                type: "POST",
+                url: "/user/ajax/register",
+                data: {emailAddress: emailAddress, travelAgent: false}
+            }).done(function(msg) {
+                s.events = 'even1, event4';
+                s.prop4 = 'signup';
+                if (typeof msg.success != 'undefined') {
+                    if (ScreenSizeIsMobile) {
+                        window.location.href = '/mycommunity/thankyou';
+                    } else {
+                        $('div#lightboxRegisterAuto').dialog('close');
+                        $('div#lightboxSignupWelcome').dialog('open');
+                    }
+                } else {
+                    emailInput.val('The email address is in use');
+                    emailInput.addClass('email-address-error');
+                }
+            });
+        }
+        
+        emailInput.focus(function() {
+            if (emailInput.hasClass('email-address-error')) {
+                emailInput.val('');
+                emailInput.removeClass('email-address-error');
+            }
+        });
+        
+        checkboxBox.click(toggleCheckbox);
+        checkboxLabel.click(toggleCheckbox);
+        checkboxCheck.click(toggleCheckbox);
+        joinButton.click(submit);
+        
+    });
+    
+</script><div id="lightboxLogin" class="lightbox" title="">
+    <h5>Login</h5>
+    <a href="javascript:void(0)" class="close"><span></span></a>
+    <div id="lightboxLoginForm">
+        <form action="/mycommunity/login" method="post">
+            <ul>
+                <li>
+                    <label for="emailAddress">Email Address</label><input id="loginEmailAddress" name="emailAddress" type="text">
+                    <div class=" errorMessage"></div>
+                    <div class="valid"></div>
+                </li>
+                <li>
+                     <div class="emailAddressConfirmWrap"><div class="emailAddressConfirmLabelWrap"><label for="emailAddressConfirm">Password</label></div><div class="forgotpasswordWrap"><a href="javascript:void(0)" class="callForgotPassword">Forgot Password</a></div></div>
+                    <input id="loginPassword" name="password" type="password">
+                    <div class="errorMessage"></div>
+                    <div class="valid"></div>
+                </li>
+               
+            </ul>
+            <a href="javascript:void(0)" class="submit">Login</a>
+            <input type="hidden" id="fromBookingFlow" value="0">
+        </form>
+        <div class="lightboxFooter">
+			<!-- signup source = 68 is for Homepage registration-->
+            <p class="cancel">Not a member? <a href="javascript:void(0)" class="callRegister" data-signup="68">Register</a></p>
+        </div>
+    </div>
+</div>
+
+
+<div id="lightboxForgotPassword" class="lightbox" title="">
+    <h5>Forgot Password</h5>
+    <a href="javascript:void(0)" class="close"><span></span></a>
+
+    <div id="lightboxForgotPasswordForm">
+        <form action="/mycommunity/forgottenpassword" method="post">
+
+            <ul>
+                <li>
+                    <label for="emailAddress">Email Address</label><input id="forgottenpasswordEmailAddress" name="forgottenpasswordAddress" type="text">
+                    <div class="errorMessage"></div>
+                    <div class="valid"></div>
+                    <input style="display:none" name="preventEnterKey" type="text">
+                </li>
+            
+            </ul>
+            <a href="javascript:void(0)" class="submit">Submit</a>
+        </form>
+        <div class="lightboxFooter">
+            <p class="cancel"><a href="javascript:void(0)">Cancel</a></p>
+            <p class="help"><span class="icon phone"></span>Need help? <a href="/toll-free-numbers">Call us 24/7 toll free</a></p>
+        </div>
+    </div>
+    <div id="lightboxRegisterSuccess">
+        <p id="lightboxRegisterThanks">We've sent password reset instructions to your email <br>address. Please check your inbox.<br><br><br>
+        If you don't receive instructions within a minute or <br>two, check your email's spam and junk filters, or try<br> <a href="javascript:void(0)" id="resendAgain">resending your request</a></p><br>
+        <p class="help"><span class="icon phone"></span>Need help? <a href="/toll-free-numbers">Call us 24/7 toll free</a></p>
+    </div>
+</div><div id="lightboxAccountSaved" class="lightbox" title="">
+    <h5>Profile Saved!</h5>
+    <a href="javascript:void(0)" class="close"><span></span></a>
+    <div id="lightboxAccountSavedForm">
+        <p>Your profile changes have been successfully saved.</p>
+    </div>
+</div><div id="lightboxAccountDelete" class="lightbox" title="">
+    <h5>Delete Account</h5>
+    <a href="javascript:void(0)" class="close"><span></span></a>
+    <div id="lightboxAccountDeleteForm">
+        <p>Are you sure that you want to delete your account?<br>You will lose all of your saved information.</p>
+        <a href="javascript: void(0);" id="cancel">cancel</a>
+
+        <form id="frmAccountDelete" action="/mycommunity/delete" method="post">
+            <input type="hidden" id="deleteEmail" name="deleteEmail" value="">
+            <a href="javascript:void(0)" class="submit" id="lnkDeleteAccount">Delete</a>
+        </form>
+    </div>    
+</div><div id="lightboxSignupWelcome" class="lightbox" title="">
+    <div class="wrapper">
+        <a href="javascript:void(0)" class="close"><span></span></a>
+        <div class="inside-content">
+            <div class="intro">
+                <div class="bigLine"></div>
+                <h3>Thank you for registering and welcome to the Design Hotels™ Community! <em>Your account is now active.</em></h3>
+                <p>Please don't forget to validate your membership by following the instructions in your welcome e-mail.</p>
+            </div>
+            <a id="btn-welcome-continue" href="javascript:void(0)" class="gobtn">Continue what I was doing</a>
+            <span>OR</span>
+            <a id="btn-welcome-showme" href="/mycommunity/overview" class="gobtn">Show me what I signed up for</a>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    $( "#btn-welcome-continue, #lightboxSignupWelcome a.close" ).click(function() {
+             location.reload(true);
+    });
+
+</script>
+
+<!-- For sidebar if autologin directs to login lightbox -->
+<script>
+            var passwordSetUp=false;
+	
+
+</script>
+
+<!-- Omniture implementations -->
+
+
+<script language="JavaScript" type="text/javascript">
+s.pageName = "privacy_policy";
+s.channel = "privacy_policy";
+s.hier1 = "privacy-policy";
+s.pageType = ""; s.server="www.designhotels.com"; //servername
+// timeparting config variables, needs to be updated every year
+s.dstStart="03/08/2015";
+s.dstEnd="11/01/2015";
+s.currentYear="2015";
+
+var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+var prop6 = 'desktop';
+if (w <= 768) {
+    prop6 = 'mobile';
+}
+
+s.prop1 = "";  s.prop2 = "";  s.prop3 = "";  s.prop4 = "";  s.prop5 = "notloggedin" ; s.prop6 = prop6;  s.prop7 = "";  s.prop8 = "";  s.prop10 = ""; s.prop11 = "";
+s.prop12 = "";
+s.prop13 = "";
+s.prop14 = "";
+s.prop15 = "";
+s.prop16="www.designhotels.com"; //page URL
+s.prop17 = "";
+s.prop18 = "";
+s.prop19 = "";
+s.prop20 = ""; s.prop21 = ""; s.prop22 = ""; s.prop23 = ""; s.prop24 = ""; s.prop25 = $('body').attr('id');
+s.prop26 = "";
+s.prop27 = ""; s.prop29 = ""; 
+s.campaign = ""; s.eVar1 = ""; 
+s.eVar2 = "";
+s.eVar3 = "";
+s.eVar4 = "";
+s.eVar5 = s.prop5;
+s.eVar6 = s.prop6;
+s.eVar7 = "";
+s.eVar8 = "";
+s.eVar9 = "";
+s.eVar10 = "";
+s.eVar11 = "";
+s.eVar12 = "";
+s.eVar13 = "";
+s.eVar14 = "";
+s.eVar15 = "";
+s.eVar16 = "";
+s.eVar17 = "";
+s.eVar18 = "";
+s.eVar19 = "";
+s.eVar20 = "";
+s.eVar21 = "";
+s.eVar22 = "";
+s.eVar23 = "";
+s.eVar24 = "";
+s.eVar25 = "";
+s.eVar26 = "";
+s.eVar27 = "";
+s.eVar28 = "";
+s.eVar29 = "";
+s.eVar30 = "";
+s.eVar31 = "";
+s.eVar32 = "";
+s.eVar33 = "";
+s.eVar34 = "";
+s.eVar35 = "";
+s.eVar36 = "";
+s.eVar37 = "";
+s.eVar38 = "";
+s.eVar39 = "";
+s.eVar40 = ""; 
+s.eVar41 = "";
+s.eVar42 = "";
+s.eVar43 = "";
+s.eVar44 = "";
+s.eVar45 = "";
+s.eVar46 = "";
+s.eVar47 = "";
+s.eVar48 = "";
+s.eVar49 = "";
+s.eVar50 = "";
+s.eVar51 = "";
+s.eVar52 = "";
+s.eVar53 = "";
+s.eVar54 = "";
+s.eVar55 = "";
+s.eVar56 = "";
+s.eVar57 = "";
+s.eVar58 = "";
+
+s.products = ""; s.state = "";
+s.zip = "";
+s.purchaseID = "";
+s.transactionID = "";
+
+// /* Sets custom events */
+s.events = 'event1';
+
+
+//<!--
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//-->
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src=http://clientdomain.122.2o7.net/b/ss/REPORTSUITEID/1/H.24.3--NS/0 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End Reports & Analytics code version: H.24.3. -->
+<!-- End of Omniture implementations -->
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3432972-1']);
+    _gaq.push(['_setDomainName', 'designhotels.com']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push (['_gat._anonymizeIp']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_addIgnoredRef', '.designhotels.com']);
+
+    _gaq.push(['_addOrganic', 'suche.web.de', 'su']);
+    _gaq.push(['_addOrganic', 'suche.t-online.de', 'q']);
+    _gaq.push(['_addOrganic', 'suche.gmx.net', 'su']);
+
+        
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	      })();
+
+</script>
+
+<!-- -->
+
+<script type="text/javascript">_satellite.pageBottom();</script>
+<!-- Mouseflow Code -->
+<script type="text/javascript">
+var _mfq = _mfq || [];
+(function() {
+var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true; mf.src = "//cdn.mouseflow.com/projects/1fa1b795-ebd8-4362-a602-9e3cdfee7bfd.js";
+document.getElementsByTagName("head")[0].appendChild(mf);
+})();
+var mouseflowPath = document.location.pathname; if ($(window).width() <= 1025) { mouseflowPath += "/1025"; } else if ($(window).width() <= 1150) { mouseflowPath += "/1150"; } </script>
+<!-- End Mouseflow Code -->
+
+
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"448c072440","applicationID":"3254286","transactionName":"Y1MAYUFUD0AAAEAPCloZI1ZHXA5dThNXC0pEVwVQHFwPVwQb","queueTime":0,"applicationTime":62,"ttGuid":"","agentToken":"","atts":"TxQDFwlOHE4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
