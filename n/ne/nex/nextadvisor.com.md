@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextadvisor.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922060243id_/http%3A//nextadvisor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextadvisor.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318231454id_/http%3A//www.nextadvisor.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NextAdvisor.com
 
@@ -12,14 +12,14 @@ We may collect IP addresses. IP addresses do not contain any personally identifi
 
 We use cookies to make the site more easy to navigate as well as to understand what links our users like to click on and what sites they came from. Our cookies do not contain any personally identifiable information. We do our best to ensure the information we provide is accurate but cannot guarantee its accuracy. Users should independently confirm the information we provide.
 
-Please use our [contact form](https://web.archive.org/web/20140922060243id_/http%3A//nextadvisor.com/contactus.php) if you have any questions regarding our Privacy Policy and Terms of Use.
+Please use our [contact form](https://web.archive.org/web/20150318231454id_/http%3A//www.nextadvisor.com/contactus.php) if you have any questions regarding our Privacy Policy and Terms of Use.
 
 [ ](http://www.bbb.org/greater-san-francisco/business-reviews/information-bureaus/nextadvisorcom-in-san-francisco-ca-376041#bbblogo "NextAdvisor.com is a BBB Accredited Information Bureau in San Francisco, CA")
 
   
 
 
-Copyright© 2006 - 2014 NextAdvisor.com - All rights reserved. 
+Copyright© 2006 - 2015 NextAdvisor.com - All rights reserved. 
 
 **_Advertiser Disclosure_** : NextAdvisor.com is a consumer information site that offers free, independent reviews and ratings of online services. We receive advertising revenue from most but not all of the companies whose products and services we review. For credit cards, we review cards from all of the top 10 US issuers by purchase volume (according to Issue 1035 of The Nilson Report, Feb 2014) excluding issuers that require additional accounts to be a cardholder and private label issuers. We may also review cards from other issuers in select cases. We do not review all products in a given category. We are independently owned and operated and all opinions expressed on this site are our own.
 
