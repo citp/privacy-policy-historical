@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosoftdownload.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220221611id_/http%3A//www.rosoftdownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosoftdownload.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318164712id_/http%3A//www.rosoftdownload.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Read Terms and Conditions- RoSoftDownload
 
@@ -41,4 +41,5 @@ Even though **RoSofDownload.com** works hard to test and verify all the software
   There are inherent dangers in the use of any software available for download on the Internet, and RoSoftDownload.com cautions you to make sure that you completely understand the potential risks before downloading any of the software. You are the sole responsible for adequate protection and backup of the data and equipment used in connection with any of the software, and RoSoftDownload.com will not be liable for any damages that you may suffer in connection with using, modifying or distributing any of the software.
 
 [Contact](https://web.archive.org/contact.php) | [Privacy Policy](https://web.archive.org/privacy.php)  
-Copyright © 2008 - 2013 RoSoftDownload.com - All rights reserved. [ ](http://validator.w3.org/check?uri=referer "W3C Valid HTML \(Link opens in a new window\)")
+Copyright © 2008 - 2015 [RoSoftDownload.com](http://www.rosoftdownload.com/ "RoSoftDownload.com") \- All rights reserved. [ ](http://validator.w3.org/check?uri=referer "W3C Valid HTML \(Link opens in a new window\)")  
+
