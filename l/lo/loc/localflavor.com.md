@@ -1,146 +1,153 @@
-> *The following text is extracted and transformed from the localflavor.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207121237id_/http%3A//localflavor.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localflavor.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318115255id_/https%3A//www.localflavor.com/privacynotice) for the most accurate reproduction.*
 
-# Local Flavor | Eat local. Get cash.
+# LocalFlavor :: discover savings where you live
 
-Local Flavor Inc. (“LFI”), is committed to respecting your privacy, and we have created this privacy policy (the “Privacy Policy”) to give you a clear understanding of how our Website operates, and how personally identifiable information is handled. We have a clear Privacy Policy: we collect no personally identifiable information through this Website unless you voluntarily supply it. We define personally identifiable information as information that can uniquely identify an individual person. This privacy statement explains under what circumstances we gather personal information, how we use it, your choices in regard to our use of the information and how we protect the information. By using our Website, you consent to the collection and use of information as set forth in this Privacy Policy. 
+### Last Updated: January 23, 2015
 
-  1. Type of Information Collected
-  2. Why Are We Gathering This Information From You?
-  3. Our Use of the Information
-  4. Notice
-  5. Consent
-  6. Access to Review, Correct, and Delete Information
-  7. Security
-  8. Retention of Personally Identifiable Information
-  9. Cookies
-  10. Google Analytics
-  11. IP Addresses
-  12. Changes to this Privacy Policy
-  13. Last Modified
-  14. Contact Us
+We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Notice.
+
+This Privacy Notice discloses the privacy practices of this website ("Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/TermsOfService). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we’ll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.
+
+## Your California Privacy Rights
+
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
+
+Mark Faris  
+Online Privacy Coordinator  
+LocalFlavor.com  
+Gannett Law Department  
+7950 Jones Branch Drive  
+McLean, VA 22107
+
+## How We Collect and Use Information
+
+We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information that you voluntarily supply to us while on our Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
+
+We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
+
+If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable cookies. To disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy." Select "High" or "Block All Cookies." To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu. If you choose to disable cookies, you may not be able to use or participate in some or all of the features offered through the Site.
+
+The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.
+
+We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.
+
+In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.
+
+We also may provide your information to our affiliates or to third parties, including our third-party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.
+
+If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.
+
+For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."
+
+Our Site also may include links to other websites and may provide access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third party, use of any information you provide is governed by the privacy notice of the operator of the site you are visiting or the provider of such products or services.
+
+We also may make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages or purchasing any coupons, products or services that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy notice of our provider partner may apply to the provider partner's use of your information. The privacy notice of our provider partners may differ from ours. If you have any questions regarding the privacy notice of one of our provider partners, you should contact the provider partner directly for more information.
+
+Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/TermsOfService); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
+
+## Data Collected in Connection with Ad Serving and Targeting
+
+We may use cookies, web beacons and similar technologies, and/or third-party ad-serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
+
+We also may use third-party service providers to target and serve some of the advertisements you see on the pages of our Site, and these providers likewise may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers' advertising networks, that are tailored to match the perceived interests of consumers. This information also may be used to help measure and research an advertisement's effectiveness, or for other purposes.
+
+The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.
+
+The use and collection of information by third-party advertising service providers is governed by the relevant third party's privacy notice and is not covered by our privacy notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, please Click HERE.
+
+## Information You Post to Discussion Forums and Other Community Posting or Social Networking Areas of the Site
+
+Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example, posting a comment or review on discussion forums or any community posting or social networking area of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+
+## Children's Privacy Statement
+
+This Children's Privacy Statement explains our practices with respect to the online collection and use of personal information from children under the age of 13, and provides important information regarding their rights under federal law with respect to such information.
+
+  * This Site is not directed to children under the age of 13 and we do NOT knowingly collect personally identifiable information from children under the age of 13 as part of the Site. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records.
+  * Because we do not collect any personally identifiable information from children under the age of 13 via the Site, we also do NOT knowingly distribute such information to third parties.
+  * We do NOT knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information through the Site.
+  * Because we do not collect any personally identifiable information from children under the age of 13 via the Site, we do NOT condition the participation of a child under 13 in the Site's online activities on providing personally identifiable information.
+
+
+
+## How To Make Changes to Your Information
+
+If you are a registered member of our Site, you can make changes to your account information by logging in to the Site and using the account tools available via the Site. If you have any questions about modifying your account or preference information, please visit the "Customer Service" pages of our Site.
+
+## Storage of Information
+
+All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site's servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
+
+## Questions Regarding Privacy
+
+If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
+
+Mark Faris  
+Online Privacy Coordinator  
+Local Flavor  
+Gannett Law Department  
+7950 Jones Branch Drive  
+McLean, VA 22107
+
+## Community Rules
+
+### Last Updated: January 23, 2015
+
+This Site may include a variety of features, such as discussion forums, blogs, photo and video sharing pages, personalized home pages, email services and social networking features, which allow users to interact with each other and third parties on the Site and to post content and materials for display on the Site.
+
+Responsibility for what is posted on the Site or sent via any e-mail services that are made available via the Site, lies with each user – you alone are responsible for the material you post or send. We do not control the messages, information or files that you or others may transmit, post or otherwise provide on or through the Site.
+
+We invite you to submit your original videos, photos and comments. In order to keep these interactive forums enjoyable and interesting for all of our users, we ask that you follow the rules outlined below.
+
+## Comments
+
+As we are alerted to them, we reserve the right at all times, but do not assume the obligation, to remove comments including, but not limited, to the following types of specific information or language:
+
+  * Potentially libelous statements. In general terms, that means a comment that states or implies a false fact that harms a person's reputation (as opposed to expressing an opinion);
+  * Sexually explicit or crude sexual comments;
+  * Threatening statements or statements that suggests violent acts;
+  * Crude comments about a child;
+  * Swearing or obscenity;
+  * Derogatory phrases to define a group of people;
+  * Nasty name-calling. If the number of unacceptable comments on a story gets out of control, we may turn off commenting on that item.
+
+
+
+As long as they don't include the kind of comments described above:
+
+  * We will allow opinions that some may find offensive about tough social issues around race and sexual orientation.
+  * We will allow criticism of public figures.
+  * We will allow criticism of people who are subjects of stories.
+  * We will allow conversation that is simply strident in tone.
 
   
 
 
-## Type of Information Collected
-
-When you visit our Site, we may collect and store information from you that you voluntarily choose to give us or enter on our Site, including personally identifiable information. To register as a Member of Local Flavor we will collect your name, address, date of Birth, Social Security Number and information regarding one or more Visa cards to be used in qualifying transactions at Local Flavor Participating Restaurants and other information. In these instances, we will obtain your consent. Our primary purposes in collecting and processing your personally identifiable information are to provide you with the services you request or to issue to you a CashWards Reward Card and other offers for you. 
-
-We are collecting this information to enable us to issue to you a CashWards™ Reward Card when you have accumulated sufficient rewards. 
-
-  
-
-
-## Why Are We Gathering This Information From You?
-
-To help the government fight the funding of terrorism and money laundering activities, Federal law (USA Patriot Act) requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. Your Card will be issued by Palm Desert National Bank. The Card is considered to be like an account at that bank. What this means for you: When you qualify for a CashWards Card we by law must ask for your name, address, date of birth, Social Security Number and other information that will allow us to identify you. 
-
-We may also ask you to enter your driver's license state and number. 
-
-  
-
-
-## Our Use of the Information
-
-If you need to provide personal information to access features or services, we will clearly disclose how the information will be used. 
-
-We do not sell, trade, or rent your personally identifiable information to others. However, we may share your personally identifiable information with other LFI affiliates, our agents, contractors or business partners in order that they may perform services for us. For example, your personally identifiable information may be shared (i) with contractors we use to support our business (e.g. fulfillment services, technical support, delivery services, and financial institutions) or (ii) where required by applicable laws, court orders, or government regulations. 
-
-In addition, since we may conduct research on user demographics, interests, and behaviors based upon information provided to us during use of our Websites, we may combine your information with information collected from other individuals to produce anonymous, aggregated, and statistical information. Aggregated and statistical data does not include personally identifiable information. We use this information, such as the percentage of male or female visitors, or the percentage of visitors within certain age brackets, to improve the content of our site. We also may share this anonymous aggregated or statistical information with partners or other third parties. 
-
-As our company changes and grows, we might sell or buy companies, subsidiaries, products or assets. In such transactions, customer information generally is one of the transferred business assets. In the event LFI goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its products or assets, your personal information will likely be transferred. 
-
-  
-
-
-## Notice
-
-Where LFI collects personally identifiable information directly from individuals, we inform them about the purpose and use of the collected information, and the choices and means, if any, we offer individuals for limiting the use and disclosure of their personal information. Notice is provided in clear and conspicuous language when individuals are asked for the information. LFI does not use or disclose the information for a purpose other than that for which it was originally collected. 
-
-  
-
-
-## Consent
-
-LFI believes that consent is one of the most important privacy principles. You have the choice not to submit any personally identifiable information to us (although under such circumstances you may be unable to participate in all aspects of our Website). 
-
-  
-
-
-## Access to Review, Correct, and Delete Information
-
-LFI uses personally identifiable information only in ways that are compatible with your consent and the purposes for which it was collected. We take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current. 
-
-One such step is granting users access to the personally identifiable information they provided on a Website. You may mail your request for access to us at 4080 McGinnis ferry Road, Suite 1307, Alpharetta, GA 30005.. In some of restricted portions of our Site, you may log in to your account profile or preferences to view and modify the information as appropriate. 
-
-  
-
-
-## Security
-
-We are committed to the security of personally identifiable information and we take reasonable precautions to maintain that protection. 
-
-LFI has implemented SSL technology to protect the transmission of personally identifiable information. This technology encrypts the information prior to transmission over the Internet between your computer and our servers. While LFI has implemented SSL technology for some purposes, we cannot guarantee the privacy of all transmissions (including, e-mail communications) to and from our Websites. We protect personally identifiable information stored on the Website servers from unauthorized access using reasonable technical and procedural controls. 
-
-Although LFI uses physical and administrative procedures to attempt to safeguard personally identifiable information, we cannot guarantee that it is completely secure from people who might attempt to evade security measures or intercept transmissions over the Internet. 
-
-  
-
-
-## Retention of Personally Identifiable Information
-
-Once you have provided personally identifiable information to LFI, we store and maintain the information you have volunteered for so long as we need it to provide the service that you requested, unless you have directed us otherwise, or for so long as we are required by law. 
-
-  
-
-
-## Cookies
-
-Cookies are tokens of information that our Websites may provide to your browser, which is used only by our Websites while you are at those sites. The LFI Site supplies your web browser with cookies that contain a unique identifier used to better understand Website usage in the aggregate so that we know what areas of our site users prefer (e.g., based on the number of visits to those areas). 
-
-LFI will only be able to read those cookies that we place; we cannot access or read other parties’ cookies. We may also use cookies on an aggregate basis to track site navigation and traffic trends. This aggregated and anonymous information will help us to improve Site content, and may be shared with partners or other third parties. 
-
-If you are a registered user on the LFI Website, when you login, we may supply you with a cookie that is maintained by your browser and contains your identifier. This type of cookie is used to identify you and provide you with access to areas of our Website that are limited to registered users, such as those that allow you to view and manage your account. 
-
-If you simply want to browse, you do not have to accept cookies from our site. Should you decide, however, that you would like to register and login to special areas of the Website and you have modified your browser settings not to accept the cookies, you will need to re-set your browser to accept cookies that we send it. Otherwise, we will not be able to let you participate in certain areas of the Website. Most browsers are defaulted to accept and maintain cookies. To learn more about cookies and how to specify your cookie preferences, please search for “cookie” in the “Help” portion of your browser. 
-
-  
-
-
-## Google Analytics
-
-LFI uses Google Analytics to better understand who is using the Service, and how people are using it. Google Analytics uses cookies to collect information such as time of visit, pages visited, the time spent on each page of the website, IP address, and type of operating system used. We use this information to improve the Service and make it appealing to as many users as possible. Google has developed a [browser plugin](http://tools.google.com/dlpage/gaoptout?hl=en) to allow you to opt-out of Google Analytics' tracking software. 
-
-  
-
-
-## IP Addresses
-
-An Internet Protocol (IP) address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP) whenever you connect to the Internet. Like other Internet sites, LFI may collect IP addresses to analyze aggregate information about the number of visitors and site usage. Your IP address is not linked with personal information that you provide. LFI does reserve the right, however, to use IP addresses to identify individuals who threaten our site, service, or customers in accordance with regulatory requirements. 
-
-  
-
-
-## Changes to this Privacy Policy
-
-This Privacy Policy may be revised periodically. By using this Site you acknowledge our right to change this policy, without prior notification, and our 
-
-  
-
-
-## Last Modified
-
-This Policy was last modified on December 21, 2010. We have commitment to post changes on this page so that you are informed of the types of information we collect, how we use it, and under what circumstances, if any, it is disclosed. We will indicate on the Privacy Policy web page the date of the last Privacy Policy update. We recommend that you visit our Privacy Policy page whenever you visit this Site so that you are aware of any changes. 
-
-  
-
-
-## Contact Us
-
-If you have questions about this policy or LFI's information collection, use, and disclosure practices, you may contact us at: 4080 McGinnis ferry Road, Suite 1307, Alpharetta, GA 30005 
-
-We will use reasonable efforts to respond promptly to requests, questions or concerns you may have regarding our use of personal information about you. Except where required by law, LFI cannot ensure a response to questions or comments regarding topics unrelated to this policy or LFI's privacy practices. 
-
-This Privacy Policy was last revised on December 21, 2010. 
-
-© 2010 Local Flavor Inc. All Rights Reserved. 
+## This Website
+
+In addition, by accessing and using any feature on this Site, you represent and agree that you:
+
+  * Will not restrict or inhibit any other user from using and enjoying the Site;
+  * Will not use the Site to impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+  * Will not interfere with or disrupt any servers or networks used to provide the Site or its features, or disobey any requirements, procedures, policies or regulations of the networks we use to provide the Site;
+  * Will not use the Site to instigate or encourage others to commit illegal activities or cause injury or property damage to any person;
+  * Will not gain unauthorized access to the Site, or any account, computer system, or network connected to this Site, by means such as hacking, password mining or other illicit means;
+  * Will not obtain or attempt to obtain any materials or information through any means not intentionally made available through this Site;
+  * Consistent with the Site’s commenting policies you will not use the Site to post or transmit any unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane or indecent information of any kind, including without limitation any transmissions constituting or encouraging conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any local, state, national or international law;
+  * Will not use the Site to post, transmit or in any way exploit any information, software or other material for commercial purposes, or that contains advertising;
+  * Will not use the Site to advertise or solicit to anyone to buy or sell products or services, or to make donations of any kind, without our express written approval;
+  * Will not gather for marketing purposes any email addresses or other personal information that has been posted by other users of the Site;
+  * Will not contact anyone who has asked not to be contacted;
+  * Will not use the Site to post or transmit any information, software or other material that violates or infringes upon the rights of others, including material that is an invasion of privacy or publicity rights or that is protected by copyright, trademark or other proprietary right, or derivative works with respect thereto, without first obtaining permission from the owner or rights holder;
+  * Will not use the Site to post or transmit any information, software or other material that contains a virus or other harmful component;
+  * Will not repeatedly post the same or similar content or otherwise impose an unreasonable or disproportionately large load on our infrastructure;
+  * Take or cause to be taken any action that disrupts the normal flow of postings and dialogue on our Site (such as submitting an excessive number of messages – i.e. a flooding attack), or that otherwise negatively affects other users’ ability to use the Site and/or services;
+  * Will not use automated means, including spiders, robots, crawlers, data-mining tools, or the like to download data from our Site. Exception is made for Internet search engines (e.g., Google) and non-commercial public archives (e.g., archive.org) that comply with our [Terms of Service](https://web.archive.org/TermsOfService). We reserve the right to deny access to the Site or any features of the Site to anyone who violates these Community Rules or who, in our sole judgment, interferes with the ability of others to enjoy our website or infringes upon the rights of others.
+
+
+
+All users of this Site are reminded that as set forth in the “[Responsibility for User-Provided Content](https://web.archive.org/TermsOfService#userprovidedcontentresponsibility)” section of these [Terms of Service](https://web.archive.org/TermsOfService) we may preserve content and materials submitted by you, and may also disclose such content and materials if required to do so by law or if, in our business judgment, such preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce these [Terms of Service](https://web.archive.org/TermsOfService); (c) respond to claims that any content or materials submitted by you violate the rights of third parties; or (d) protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
