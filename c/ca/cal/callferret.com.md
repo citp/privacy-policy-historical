@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the callferret.com privacy policy that was archived on 2011-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110911150806id_/http%3A//www.callferret.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callferret.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318025936id_/http%3A//www.callferret.com/privacy.php) for the most accurate reproduction.*
 
 # CallFerret.com Privacy Policy
-
-CallFerret needs your help ! Please take a quick look at our [donation support page](http://www.gofundme.com/callferret "Support CallFerret") and keep information free and highly visible...
 
 Please read the terms and conditions of use before using this site: <http://www.callferret.com/terms.html>. By continuing to access or use this site, or any service on this site, you signify YOUR ACCEPTANCE OF THESE TERMS AND CONDITIONS OF USE.
 
