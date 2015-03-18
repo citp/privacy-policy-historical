@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcredit.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705215636id_/https%3A//www.smartcredit.com/help/terms-and-privacy/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcredit.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318150922id_/https%3A//www.smartcredit.com/help/terms-and-privacy/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - SmartCredit
 
@@ -62,15 +62,13 @@ We may also disclose your personal information in the event our business or our 
 
 You have choices with regard to marketing communications and data sharing. In particular: 
 
-Regardless of how you access our services, you can opt-out of receiving marketing communication from us (and our joint marketing partners) or from our sharing your personal information with third parties for their own marketing by clicking on the opt-out link below: 
+Regardless of how you access our services, you can opt-out of receiving marketing communication from us (and our joint marketing partners) or from our sharing your personal information with third parties for their own marketing by clicking on the opt-out link below:
 
-[https://optout.consumerdirect.com  ](https://optout.consumerdirect.com/)
+[https://optout.consumerdirect.com](https://optout.consumerdirect.com/)
 
-You may opt-out of receiving promotional telephone calls from us by asking the operator to place you on our do not call list or by clicking on the opt-out link below. 
+You may opt-out of receiving promotional telephone calls from us by asking the operator to place you on our do not call list or by informing Customer Service that you wish to opt out of telemarketing calls. When contacting Customer Service, please provide your complete name, address and telephone number. Instructions for contacting Customer Service are found [here](https://web.archive.org/help/contact-us/).
 
-[https://teleoptout.consumerdirect.com ](https://teleoptout.consumerdirect.com/)
-
-You may opt-out of email marketing, by following the opt-out instructions included in every commercial email we send. You may also opt out by sending a written request to us at 265 Briggs Avenue, Costa Mesa, CA 92626. 
+You may opt-out of email marketing, by following the opt-out instructions included in every commercial email we send. You may also opt out by contacting [Customer Service](https://web.archive.org/help/contact-us/) with your name and email address.
 
 Please note that we may continue to communicate with you regarding your Membership and Actions you take. 
 
