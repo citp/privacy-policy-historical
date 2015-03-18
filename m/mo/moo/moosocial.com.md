@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moosocial.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030213132id_/http%3A//www.moosocial.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moosocial.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318091041id_/https%3A//www.moosocial.com/privacy-policy.php) for the most accurate reproduction.*
 
-# mooSocial - The Web 2.0 Social Networking Script & Software
+# Privacy policy | mooSocial - an Open Source Social Network Software
 
 ## Privacy Policy
 
