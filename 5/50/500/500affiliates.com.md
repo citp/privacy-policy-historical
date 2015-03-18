@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 500affiliates.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022095728id_/http%3A//www.500affiliates.com/Help/PrivacyPolicyAgreement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 500affiliates.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318232255id_/http%3A//www.500affiliates.com/Help/PrivacyPolicyAgreement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Agreement | +500Affiliates™
 
