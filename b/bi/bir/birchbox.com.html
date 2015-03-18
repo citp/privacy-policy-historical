@@ -1,35 +1,25 @@
-<!--The following is the downloaded HTML source of the birchbox.com privacy policy that was archived on 2014-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202210121id_/https%3A//www.birchbox.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the birchbox.com privacy policy that was archived on 2015-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150318021135id_/https%3A//www.birchbox.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us"><head>
-<meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAQFUVRaGwAJXFZWAQg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<!DOCTYPE html><html lang="en_US"><head>
+<meta charset="utf-8">
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="">
-
-
-  
 
 <title>Privacy Policy | Birchbox</title>
 <meta name="description" content="Birchbox helps you find products that you'll love. Try our monthly subscription service, explore our personalized shop, or start with our editor tips and tricks.">
 
-<script>
-window.onerror=function(b,e,f,g,h){function c(a){return(a=document.cookie.match(new RegExp("(?:^| )"+a+"=([^;]*)","i")))&&2===a.length?a[1]:null}var d=(new Date).getTime();b={b:b||"not supported",url:e||"not supported",d:f||"not supported",a:g||"not supported",c:h||"not supported"};data=[(d-d%1E3)/1E3,"1",c("bbox-vid"),c("bbox-vid-count"),"web","client-side","client-debugger",JSON.stringify(b)];data=data.concat([navigator.userAgent.replace(/(\r\n|\n|\r|\x01)/gm,""),"","","",Math.floor(1E9*Math.random()+
-1),""]);(new Image).src="//event.api.birchbox.com/log/event/?payload="+encodeURIComponent(data.join(String.fromCharCode(1)))};
-</script>
-
-
-  <meta name="js-loader-modules" content="event-tracking/0.2.4/bbox-tracking-core;">
-  <meta name="css-loader-modules" content="">
-  <link href="https://edge.birchbox.com/fonts/1/birchbox-fonts.css" rel="stylesheet" type="text/css">
-  <link href="/shop/css/birchbox-black.css?0.3.122112514" rel="stylesheet" type="text/css">
-  <!--[if lt IE 10]><script src="https://edge.birchbox.com/modules/core-javascript/1.2.3/us/legacy.min.js"></script><![endif]-->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-  <script id="js-loader-script" src="https://edge.birchbox.com/modules/core-javascript/1.2.3/us/core.min.js" data-cache-control="0.3.122112514" data-template=""></script>
-
+<meta name="js-loader-modules" content="event-tracking/1.0.1/bbox-tracking-core;">
+<meta name="css-loader-modules" content="">
+<link href="https://edge.birchbox.com/fonts/1.1.0/birchbox-fonts.css" rel="stylesheet" type="text/css">
+<link href="/shop/css/birchbox-black.css?0.3.15303052015" rel="stylesheet" type="text/css">
+<!--[if lt IE 10]><script src="https://edge.birchbox.com/modules/core-javascript/1.3.18/us/legacy.min.js"></script><![endif]-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script id="js-loader-script" src="https://edge.birchbox.com/modules/core-javascript/1.3.18/us/core.min.js" data-cache-control="0.3.15303052015" data-page-type="about"></script>
 
 <meta property="og:title" content="Privacy Policy | Birchbox">
-<meta property="og:url" content="https://www.birchbox.com/about/privacy-policy">
 <meta property="og:description" content="Birchbox helps you find products that you'll love. Try our monthly subscription service, explore our personalized shop, or start with our editor tips and tricks.">
+<meta property="og:url" content="https://www.birchbox.com/about/privacy-policy">
 <meta property="og:image" content="https://edge.birchbox.com/img/site/birchbox-logo-square.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Birchbox">
@@ -40,32 +30,14 @@ window.onerror=function(b,e,f,g,h){function c(a){return(a=document.cookie.match(
 <link rel="shortcut icon" href="//edge.birchbox.com/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon" href="//d261kc6uk3sor6.cloudfront.net/images/birchbox-black/regula-no-mask.png">
 
-<style>
 
-.article-content ul li:after {
-    clear: both;
-    content: ".";
-    display: block;
-    height: 0;
-    visibility: hidden;
-}
-.article-content ul li {
-    display: inline-block;
-}
-.article-content ul li {
-    display: block;
-    margin-bottom: 13px;
-}
 
-a.twitter-follow-button {display:none;}
-a.twitter-share-button {display:none;}
-div.fb-like > span {vertical-align:top!important;}
 
-</style>
 
 </head>
+
 <body>
-  <!-- BEGIN page/html/header.phtml -->
+<!-- BEGIN page/html/header.phtml -->
 <header class="site-header">
     <div class="wrapper bbox-header-userbar">
         <div class="container">
@@ -87,7 +59,7 @@ div.fb-like > span {vertical-align:top!important;}
                         </nav>
                     </div>
                     <div class="widget-menu iphone-hidden" id="header-raf">
-                        <h1>Psst, Pass It On!</h1>
+                        <div class="header">Psst, Pass It On!</div>
                         <p>Earn 50 Birchbox points for every friend that purchases a subscription.</p>
                         <form class="form content-logged-in" action="/shop/referral/index/postEmails/" method="post" id="raf-header-form">
                             <input id="raf-header-email" type="text" placeholder="Your friend's email" class="validate-email required-entry">
@@ -108,13 +80,12 @@ div.fb-like > span {vertical-align:top!important;}
                 <div class="span12 clearfix">
                     <nav class="main-nav clearfix span9">
                         <a id="home-logo" href="/"><img src="//edge.birchbox.com/img/site/birchbox-logo-white.png" style="width:230px" alt="Birchbox"></a>
-                        <a class="iphone-hidden" href="#" data-panel-nav="#site-shop-nav">SHOP <b class="icon-caret-down"></b></a>
-                        <a class="iphone-hidden" href="#" data-panel-nav="#site-holiday-nav">HOLIDAY <b class="icon-caret-down"></b></a>
-                        <a class="iphone-hidden" href="#" data-panel-nav="#site-content-nav">MAGAZINE <b class="icon-caret-down"></b></a>
-                        <a class="iphone-hidden content-no-logged-in" id="nav-box" href="#" data-panel-nav="#site-box-nav">BOX <b class="icon-caret-down"></b></a>
+                        <a class="iphone-hidden hide" href="/men/shop" data-panel-nav="#site-men-nav" style="cursor:pointer;">Men <b class="icon-caret-down"></b></a>
+                        <a class="iphone-hidden hide" href="/shop/" data-panel-nav="#site-women-nav" style="cursor:pointer;">Women <b class="icon-caret-down"></b></a>
+                        <a class="iphone-hidden hide" href="#" data-panel-nav="#site-shop-nav">Shop <b class="icon-caret-down"></b></a>
+                        <a class="iphone-hidden hide" href="#" data-panel-nav="#site-content-nav">MAGAZINE <b class="icon-caret-down"></b></a>
                         <a class="iphone-hidden" href="/shop/gift" data-panel-nav="clear">GIFT</a>
-                        <a class="iphone-hidden content-no-logged-in btn btn-nav " href="/shop/join?ref=main-nav" data-panel-nav="clear">SUBSCRIBE</a>
-                        <a class="iphone-hidden content-logged-in btn-nav-border" id="nav-box-border" href="#" data-panel-nav="#site-box-nav">YOUR BOX <b class="icon-caret-down"></b></a>
+                        <a class="iphone-hidden btn-nav-border" style="display:none;" id="nav-box-btn" href="#" data-panel-nav="#site-box-nav"><b class="icon-caret-down"></b></a>
                     </nav>
                     <form id="form-site-search" action="/shop/search" method="get" class="span3 iphone-hidden" data-search-ab-segment="0.25">
                         <input type="hidden" name="s" value="all">
@@ -142,10 +113,10 @@ div.fb-like > span {vertical-align:top!important;}
                             <div class="pull-left" style="width:77%">
                                 <div class="clearfix">
                                     <div class="pull-left clearfix">
-                                        <h2><a href="/shop">Women</a> <span><a href="/shop/brands">Shop by Brand</a></span></h2>
+                                        <h2><a href="/shop">Women</a> <span><a href="/shop/brands">Shop By Brand</a></span></h2>
                                     </div>
                                     <div class="pull-left clearfix">
-                                        <h2><a href="/men/shop">Men</a> <span><a href="/men/brands">Shop by Brand</a></span></h2>
+                                        <h2><a href="/men/shop">Men</a> <span><a href="/men/brands">Shop By Brand</a></span></h2>
                                     </div>
                                 </div>
                                 <div class="clearfix" style="width:100%" id="target-shop-nav">
@@ -160,7 +131,7 @@ div.fb-like > span {vertical-align:top!important;}
                                 </div>
                             </div>
                             <div class="pull-right" id="nav-shop-promo">
-                                <p><a title="Promo" href="/shop/limited-edition-home-sweet-homespun"><img src="//www.birchbox.com/images/uploads/Homespun_DropdownBanner_160x260.jpg" alt="Promo"></a></p>                            </div>
+                                <p><a title="Promo" href="/shop/featured/limited-edition-boxes/limited-edition-home-sweet-homespun"><img src="//www.birchbox.com/images/uploads/Homespun_DropdownBanner_160x260.jpg" alt="Promo"></a></p>                            </div>
                             <div class="hide" id="nav-content-shop">
                                 <ul class="column primary women">
 <li><a title="Body" href="/shop/bath-body">Body</a></li>
@@ -178,11 +149,11 @@ div.fb-like > span {vertical-align:top!important;}
 <li><a title="Best Sellers" href="/shop/best-sellers">Best Sellers</a></li>
 <li><a title="Birchbox Exclusives" href="/shop/featured/birchbox-exclusives">Birchbox Exclusives</a></li>
 <li><a title="Bonus Shop" href="/shop/featured/birchbox-bonus-shop">Bonus Shop</a></li>
-<li><a title="Holiday" href="/shop">Holiday Gifts</a></li>
-<li><a title="Promo" href="/shop/promo/limited-edition-boxes">Limited Edition Boxes</a></li>
+<li><a title="Featured" href="/shop/promo/limited-edition-boxes">Limited Edition Boxes</a></li>
+<li><a title="Marketing" href="/shop/featured/top-rated">Top Rated</a></li>
 <li><a title="Value Kits" href="/shop/featured/value-kits">Value Kits</a></li>
-<li><a title="Featured" href="/shop/featured/new">What's New</a></li>
-<li><a title="Monthly Box" href="/shop/november-2014-box">November's Box</a></li>
+<li><a title="New" href="/shop/featured/new">What's New</a></li>
+<li><a title="Monthly Box" href="/shop/march-2015-box">March's Box</a></li>
 </ul>
 <ul class="column primary men">
 <li><a title="Beard &amp; Shave" href="/men/shave">Beard &amp; Shave</a></li>
@@ -200,20 +171,12 @@ div.fb-like > span {vertical-align:top!important;}
 <li><a title="Best Sellers" href="/men/best-sellers">Best Sellers</a></li>
 <li><a title="Birchbox Exclusives" href="/men/featured/birchbox-exclusives">Birchbox Exclusives</a></li>
 <li><a title="Bonus Shop" href="/men/featured/birchbox-man-bonus-shop">Bonus Shop</a></li>
-<li><a title="Holiday" href="/men/shop">Holiday Gifts</a></li>
+<li><a title="Top Rated" href="/men/featured/top-rated">Top Rated</a></li>
 <li><a title="Promo" href="/men/promo/birchbox-for-jetblue-travel-essentials">Travel Essentials</a></li>
 <li><a title="Value Kits" href="/men/featured/value-kits">Value Kits</a></li>
 <li><a title="New" href="/men/featured/new">What's New</a></li>
-<li><a title="Monthly Box" href="/men/december-2014-box">December's Box</a></li>
+<li><a title="Monthly Box" href="/men/march-2015-box">March's Box</a></li>
 </ul>                            </div>
-                        </div>
-                    </nav>
-                    <nav class="panel-nav hide" id="site-holiday-nav">
-                        <div class="tooltip-arrow top"></div>
-                        <div class="wrap clearfix">
-                            <div><a href="/shop/gift">Gift a Subscription</a></div>
-                            <div><a href="/shop">Shop Women’s</a></div>
-                            <div><a href="/men/shop">Shop Men’s</a></div>
                         </div>
                     </nav>
                     <nav class="panel-nav hide" id="site-content-nav">
@@ -227,26 +190,24 @@ div.fb-like > span {vertical-align:top!important;}
                             </div>
                             <div class="pull-left" id="nav-featured-magazine">
                                 <div>
-  <div id="magazine-featured"><div class="content-women"><a href="/magazine/article/how-to-use-makeup-brushes"><img alt="The Makeup Brushes You Need and How to Use Them" src="/images/uploads/November_MakeupGifs_Hero_700x400.gif"></a></div><div class="content-women" style="font-size:12px;font-family: 'Novecento';font-weight: bold;text-transform: uppercase;">Featured</div><div class="caption content-women"><a href="/magazine/article/how-to-use-makeup-brushes">The Makeup Brushes You Need and How to Use Them</a></div>
+  <div id="magazine-featured"><div class="content-women"><a href="/magazine/article/how-much-beauty-product-you-need-to-use"><img alt="Portion Control For Your Beauty Products" src="/images/uploads/Content_HowMuchProduct_hero.jpg"></a></div><div class="content-women" style="font-size:12px;font-family: 'Novecento';font-weight: bold;text-transform: uppercase;">Featured</div><div class="caption content-women"><a href="/magazine/article/how-much-beauty-product-you-need-to-use">Portion Control For Your Beauty Products</a></div>
 
-  <div class="content-men"><a href="/guide/article/best-beard-style-for-your-face-shape"><img alt="How To: Find the Best Beard Style for Your Face Shape" src="/images/uploads/hero-beard-700x400.jpg"></a></div><div class="content-men" style="font-size:12px;font-family: 'Novecento';font-weight: bold;text-transform: uppercase;">Featured</div><div class="caption content-men"><a href="/guide/article/best-beard-style-for-your-face-shape">How To: Find the Best Beard Style for Your Face Shape</a></div>
+  <div class="content-men"><a href="/guide/article/what-is-the-best-shaving-regimen"><img alt="How to Pick the Shaving Regimen That’s Right for You" src="/images/uploads/March_HierarchyOfShaveRegimens_700x400.jpg"></a></div><div class="content-men" style="font-size:12px;font-family: 'Novecento';font-weight: bold;text-transform: uppercase;">Featured</div><div class="caption content-men"><a href="/guide/article/what-is-the-best-shaving-regimen">How to Pick the Shaving Regimen That’s Right for You</a></div>
   </div>
-</div>
-
-                            </div>
+</div>                            </div>
                             <div class="hide" id="nav-content-magazine">
-                                <ul>
-<li><a class="track-event" href="/magazine/article/november-2014-editors-letter1">November's Issue</a></li>
+                                <ul class="women">
+<li><a class="track-event" href="/magazine/tag/issue/march-2015">March's Issue</a></li>
 <li><a class="track-event" href="/magazine/tag/topic/how-to/">How-To</a></li>
-<li><a class="track-event" href="/magazine/tag/topic/hairstyle">Hair Style</a></li>
+<li><a class="track-event" href="/magazine/tag/topic/hair-style">Hair Style</a></li>
 <li><a class="track-event" href="/magazine/tag/topic/makeup">Makeup</a></li>
 <li><a class="track-event" href="/magazine/tag/topic/skincare">Skincare</a></li>
 <li><a class="track-event" href="/magazine/tag/topic/trends">Trends</a></li>
 <li><a class="track-event" href="/magazine/video">Video</a></li>
 <li><a class="track-event" href="/magazine/tag/publication/magazine">View All</a></li>
 </ul>
-<ul>
-<li><a class="track-event" href="/guide/article/december-2014-editors-letter">December's Issue</a></li>
+<ul class="men">
+<li><a class="track-event" href="/guide/tag/issue/men-march-2015">March's Issue</a></li>
 <li><a class="track-event" href="/guide/tag/topic/grooming">Grooming</a></li>
 <li><a class="track-event" href="/guide/tag/topic/how-to">How-To</a></li>
 <li><a class="track-event" href="/guide/tag/topic/style">Style</a></li>
@@ -255,264 +216,65 @@ div.fb-like > span {vertical-align:top!important;}
 </ul>                            </div>
                         </div>
                     </nav>
-                    <nav class="panel-nav hide" id="site-box-nav">
-                        <div class="tooltip-arrow top"></div>
-                        <div id="site-box-experience-nav">
-                            <div class="wrap">
-                                <div class="clearfix">
-                                    <a href="/shop/birchbox-1" class="pull-left mobile-show">Women's Box</a>
-                                    <a href="/shop/join?ref=nav-box" class="content-logged-in content-no-subscriberWomen btn btn-nav pull-right">Subscribe</a>
-                                </div>
-                                <div class="clearfix">
-                                    <a href="/men/box" class="pull-left mobile-show">Men's Box</a>
-                                    <a href="/men/join?ref=nav-box" class="content-logged-in content-no-subscriberMen btn btn-nav pull-right">Subscribe</a>
-                                </div>
-                            </div>
-                        </div>
-                    </nav>
+                    <nav class="panel-nav hide" id="site-box-nav"></nav>
                 </div>
             </div>
         </div>
     </div>
-    <!-- this needs to be before the top nav script? -->
-    <script id="nav-box-experience-template" type="text/html">
+    <div class="wrapper bbox-trim" id="bbox-trim">
+    </div>
+    <nav class="panel-nav-wide hide men" id="site-men-nav">
         <div class="tooltip-arrow top"></div>
-        <div class="box-exp-nav-container mini-headers">
-            <header>Women</header>
-            {{#women}}
-            <div class="exp-nav-content">
-                {{#is_subscriber}}
-                {{>nav-box-experience-menu-template}}
-                {{/is_subscriber}}
-                {{#is_not_subscriber}}
-                <a class="btn btn-nav-border btn-box-exp" href="/shop/join?ref=main-nav">Get the Women's Box</a>
-                {{/is_not_subscriber}}
-                {{#is_past_subscriber}}
-                <div class="menu" style="margin-top: 10px">
-                    <a href="{{this_month}}">Sampled this month</a>
+        <div class="container">
+            <div class="clearfix">
+                <div class="pull-left" style="width:230px;">
+                    <h5><a href="/men/shop">Birchbox Man Shop</a></h5>
                 </div>
-                <div class="menu top-border">
-                    <a href="/me/boxes/women/">Your past box</a>
+                <div class="pull-left position-relative" style="width:260px;">
+                    <h5>Featured</h5>
+                    <div class="vr" style="right:45px;"></div>
                 </div>
-                <a class="btn btn-nav-border btn-box-exp" style="margin-top:0" href="/shop/join?ref=main-nav">Re-subscribe</a>
-                {{/is_past_subscriber}}
+                <div class="pull-left position-relative" style="width:250px;">
+                    <h5><a href="/guide">The Guide</a></h5>
+                    <div class="vr" style="right:40px;"></div>
+                </div>
+                <div class="pull-left text-center tout" data-asset-broker-block="site-nav-men" data-asset-broker-slot-type="json">
+                </div>
             </div>
-            {{/women}}
-            <header>Men</header>
-            {{#men}}
-            <div class="exp-nav-content">
-                {{#is_subscriber}}
-                {{>nav-box-experience-menu-template}}
-                {{/is_subscriber}}
-                {{#is_not_subscriber}}
-                <a class="btn btn-nav-border btn-box-exp" href="/men/join?ref=main-nav">Get the Men's Box</a>
-                {{/is_not_subscriber}}
-                {{#is_past_subscriber}}
-                <div class="menu" style="margin-top: 10px">
-                    <a href="{{this_month}}">Sampled this month</a>
+            <footer>
+                <a href="/men/brands" style="width:230px">Shop by Brand</a>
+            </footer>
+        </div>
+    </nav>
+    <nav class="panel-nav-wide hide women" id="site-women-nav">
+        <div class="tooltip-arrow top"></div>
+        <div class="container">
+            <div class="clearfix">
+                <div class="pull-left" style="width:230px;">
+                    <h5><a href="/shop/">Birchbox Shop</a></h5>
                 </div>
-                <div class="menu top-border">
-                    <a href="/me/boxes/men/">Your past box</a>
+                <div class="pull-left position-relative" style="width:260px;">
+                    <h5>Featured</h5>
+                    <div class="vr" style="right:45px;"></div>
                 </div>
-                <a class="btn btn-nav-border btn-box-exp" style="margin-top:0" href="/men/join?ref=main-nav">Re-subscribe</a>
-                {{/is_past_subscriber}}
+                <div class="pull-left position-relative" style="width:250px;">
+                    <h5><a href="/magazine">Ideas &amp; Inspiration</a></h5>
+                    <div class="vr" style="right:40px;"></div>
+                </div>
+                <div class="pull-left text-center tout" data-asset-broker-block="site-nav-women" data-asset-broker-slot-type="json">
+                </div>
             </div>
-            {{/men}}
+            <footer>
+                <a href="/brands" style="width:230px">Shop by Brand</a>
+            </footer>
         </div>
-    </script>
-    <script id="nav-box-experience-menu-template" class="partial" type="text/html">
-        {{#first}}
-        <div class="menu">
-            {{#is_new}}<span class="new-box">New</span>{{/is_new}}
-            <a href="/me/boxes/{{vertical}}/this-month">{{name}}</a>
-        </div>
-        {{/first}}
-        {{#second}}
-        <div class="menu">
-            <a href="/me/boxes/{{vertical}}/last-month">{{name}}</a>
-        </div>
-        {{/second}}
-        {{#history_title}}
-        <div class="menu">
-            <a class="see-all" href="/me/samples/{{vertical}}">All samples</a>
-        </div>
-        {{/history_title}}
-        <div class="menu top-border">
-            <a href="/shop/subscription/profile/edit/type/{{vertical}}/">Update your profile</a>
-        </div>
-    </script>
-
-    <script id="nav-box-experience-template-mobile" type="text/html">
-        <div class="box-exp-nav-container mini-headers">
-            <header>Women</header>
-            {{#women}}
-            <div class="exp-nav-content">
-                {{#is_subscriber}}
-                {{>nav-box-experience-menu-template-mobile}}
-                {{/is_subscriber}}
-                {{#is_not_subscriber}}
-                <a href="/shop/join?ref=main-nav">Get the Women's Box</a>
-                {{/is_not_subscriber}}
-                {{#is_past_subscriber}}
-                <div class="menu">
-                    <a href="{{this_month}}">Sampled this month</a>
-                </div>
-                <div class="menu top-border">
-                    <a href="/me/boxes/women">Your past boxes</a>
-                </div>
-                <a href="/shop/join?ref=main-nav">Re-subscribe</a>
-                {{/is_past_subscriber}}
-            </div>
-            {{/women}}
-            <header>Men</header>
-            {{#men}}
-            <div class="exp-nav-content">
-                {{#is_subscriber}}
-                {{>nav-box-experience-menu-template-mobile}}
-                {{/is_subscriber}}
-                {{#is_not_subscriber}}
-                <a href="/men/join?ref=main-nav">Get the Men's Box</a>
-                {{/is_not_subscriber}}
-                {{#is_past_subscriber}}
-                <div class="menu">
-                    <a href="{{this_month}}">Sampled this month</a>
-                </div>
-                <div class="menu top-border">
-                    <a href="/me/boxes/men">Your past boxes</a>
-                </div>
-                <a href="/men/join?ref=main-nav">Re-subscribe</a>
-                {{/is_past_subscriber}}
-            </div>
-            {{/men}}
-        </div>
-    </script>
-    <script id="nav-box-experience-menu-template-mobile" class="partial" type="text/html">
-        {{#history_title}}
-        <div class="menu">
-            <a class="see-all" href="/me/samples/{{vertical}}">All samples</a>
-        </div>
-        {{/history_title}}
-        <div class="menu top-border">
-            <a href="/shop/subscription/profile/edit/type/{{vertical}}/">Update your profile</a>
-        </div>
-    </script>
-
-    <script>
-        var getBoxList = function(vertical, boxes) {
-              var deferred = jQuery.Deferred();
-              var data = [];
-
-              // return this month and (if available) next month
-              (function getMonthBox(index) {
-                  if (index == boxes.length || data.length==2) {
-                      // Done! Do the callback
-                      deferred.resolve(data);
-                  } else {
-                      bbui.boxStorage.getBox(boxes[index].id)
-                        .then(function (box) {
-                            if (box.subscription_name.toLowerCase() == vertical) {
-                                data.push(box);
-                            }
-                            getMonthBox(index+1);
-                        });
-                  }
-              })(0);
-              return deferred;
-          },
-          cleanUpBoxData = function(boxes) {
-              var data = {};
-              if (boxes[0]) {
-                  data.vertical = boxes[0].subscription_name.toLowerCase();
-                  data.first = {
-                      month: (boxes[0].month<10?'0':'') + boxes[0].month,
-                      year: boxes[0].year,
-                      vertical: boxes[0].subscription_name.toLowerCase(),
-                      name: "This month's box",
-                      is_new: boxes[0].is_openable && (!boxes[0].is_opened),
-                      className: (boxes[0].is_openable && (!boxes[0].is_opened)) ? "new-box" : "user-box"
-                  }
-              }
-
-              if (boxes[1]) {
-                  data.second = {
-                      month: (boxes[1].month<10?'0':'') + boxes[1].month,
-                      year: boxes[1].year,
-                      vertical: boxes[1].subscription_name.toLowerCase(),
-                      name: "Last month's box"
-                  }
-              }
-              return data;
-          };
-
-        jQuery.when(bbui.dfds.userDataReady, bbui.dfds.allClear).then(function () {
-            if (_.contains(bbui.context.get('user.rollout_features'), 'box') || '1'=='1') {
-                var user = bbui.context.get('user'),
-                  shopNav = jQuery('#target-shop-nav');
-                bbui.boxStorage.getBoxList().then(function (data) {
-                    var boxPromises = [],
-                      hasWomensBoxes = user.is_subscriber_women || user.is_gift_subscriber_women,
-                      hasMensBoxes = user.is_subscriber_men  || user.is_gift_subscriber_men;
-                    if (hasWomensBoxes) boxPromises.push(getBoxList('women', data.boxes).then(cleanUpBoxData));
-                    if (hasMensBoxes) boxPromises.push(getBoxList('men', data.boxes).then(cleanUpBoxData));
-                    jQuery.when.apply(jQuery, boxPromises).then(function (sub1, sub2) {
-                        var menBoxData, womenBoxData;
-                        if (sub2) {
-                            womenBoxData = sub1;
-                            menBoxData = sub2;
-                        } else {
-                            if (sub1 && sub1.vertical === 'men') {
-                                menBoxData = sub1;
-                            } else if (sub1 && sub1.vertical === 'women') {
-                                womenBoxData = sub1;
-                            }
-                        }
-                        if (womenBoxData && data.boxes.length > 2) {
-                            womenBoxData.history_title = 'See your ' + data.boxes.length + ' boxes'
-                        }
-                        if (menBoxData && data.boxes.length > 2) {
-                            menBoxData.history_title = 'See your ' + data.boxes.length + ' boxes'
-                        }
-
-                        var renderData = {
-                            women: {
-                                is_subscriber: womenBoxData,
-                                is_past_subscriber: !womenBoxData && user.is_past_subscribe_women,
-                                is_not_subscriber: !(user.is_past_subscribe_women || hasWomensBoxes),
-                                this_month: shopNav.find('[title="Monthly Box"][href^="/shop"]').attr('href')
-                            },
-                            men: {
-                                is_subscriber: menBoxData,
-                                is_past_subscriber: !menBoxData && user.is_past_subscriber_men,
-                                is_not_subscriber: !(user.is_past_subscriber_men || hasMensBoxes),
-                                this_month: shopNav.find('[title="Monthly Box"][href^="/men"]').attr('href')
-                            }
-                        };
-
-                        // Need to explicitly refresh the template here.
-                        ich.grabTemplates();
-                        // Render it!
-                        if(!head['iphone']) {
-                            jQuery('#site-box-experience-nav').html(ich['nav-box-experience-template'](renderData));
-                        } else {
-                            jQuery('#jPanelMenu-menu #menu-your-box ul').html(ich['nav-box-experience-template-mobile'](renderData));
-                        }
-                        jQuery.publish(bbui.tracking.rebind);
-                    });
-                });
-            }
-        });
-    </script>
-    <div class="wrapper bbox-header-promo">
-          <div data-ad-server-content="//asset-broker.api.birchbox.com/asset/?slot=16">
-    <div style=""><a href="" title=""><img alt=""></a>
-    </div>
-  </div>
-    </div>
+    </nav>
 </header>
+
 <div class="modal fade hide" id="modal-login" style="width:700px">
     <header class="modal-header">
         <b class="icon-remove-circle" data-dismiss="modal"></b>
-        <div class="header">Login or Create an Account</div>
+        <div class="header">Login or Create Account</div>
     </header>
     <div class="modal-body">
         <div class="row-fluid">
@@ -537,8 +299,7 @@ div.fb-like > span {vertical-align:top!important;}
                             <div class="controls">
                                 <label for="modal-login-password" class="checkbox">
                                     <input name="login[rememberme]" type="checkbox" title="Remember Me" id="modal-login-rememberme" checked="checked">
-                                    Remember Me
-                                </label>
+                                    Remember Me                                </label>
                             </div>
                         </div>
                         <div class="control-group">
@@ -551,7 +312,7 @@ div.fb-like > span {vertical-align:top!important;}
                 </form>
             </div>
             <div class="span6">
-                <h3 class="title">Sign up</h3>
+                <h3 class="title">Sign Up</h3>
                 <p style="width:85%">Create a free account to check out faster, store multiple shipping addresses, view and track your orders in your account, and much more.</p>
                 <p class="buttons"><a class="btn btn-primary btn-fixed-width" href="/shop/customer/account/create/">Join Now</a> Received a gift? <a href="/shop/gift/redeem/claim">Redeem Now!</a></p>
             </div>
@@ -562,7 +323,7 @@ div.fb-like > span {vertical-align:top!important;}
 <div class="modal fade hide" id="modal-revalidate" style="width:700px">
     <header class="modal-header">
         <b class="icon-remove-circle" data-dismiss="modal"></b>
-        <div class="header">Confirm password</div>
+        <div class="header">Confirm Password</div>
     </header>
     <div class="modal-body">
         <p>Please enter your password to continue.</p>
@@ -585,110 +346,6 @@ div.fb-like > span {vertical-align:top!important;}
     </div>
 </div>
 
-
-
-<script id="bbox-header-nav-template" type="text/html">
-    <a href="/shop/checkout/cart/" class="bbox-header-cart iphone-visible">
-        <i class="icon-shopping-cart iphone-visible"></i>
-        <span class="bbox-header-cart-count iphone-visible">{{cartCount}}</span>
-    </a>
-    <a href="/shop/checkout/cart/" class="iphone-hidden"><b class="icon icon-shopping-cart" style="font-size:17px;"></b>&nbsp;&nbsp;{{cartCount}}</a>
-    {{#authenticated}}
-        <a href="/shop/referral/index" data-reveal-hover="#header-raf" class="iphone-hidden" style="width:20px;"></a>
-        <a href="/shop/customer/account/" data-reveal-hover="#site-account-nav" class="iphone-hidden">{{customerName}} <b class="icon-caret-down iphone-hidden"></b></a>
-    {{/authenticated}}
-    {{^authenticated}}
-        <a href="#modal-login" class="iphone-hidden" data-toggle="modal">LOGIN</a>
-    {{/authenticated}}
-    <i class="icon-reorder iphone-visible"></i>
-</script>
-
-<script id="bbox-header-account-template" type="text/html">
-    <header>
-        <a href="/shop/reward/customer/info/"><strong>{{points}}</strong>&nbsp;&nbsp;Birchbox Points</a>
-    </header>
-</script>
-
-<script id="bbox-header-cart-template" type="text/html">
-    {{#cart_items}}
-        <div class="clearfix">
-            {{#product.is_subscription}}
-                <img src="{{product.image_url}}" alt="" class="pull-left">
-                <div class="pull-left">
-                    <p class="style-cart-product-name">{{product.name}}</p>
-            {{/product.is_subscription}}
-            {{^product.is_subscription}}
-                <a href="/shop/catalog/product/view/id/{{product.id}}"><img src="{{product.image_url}}" alt="" class="pull-left"></a>
-                <div class="pull-left">
-                    <p class="style-cart-product-name"><a href="/shop/catalog/product/view/id/{{product.id}}">{{product.name}}</a></p>
-            {{/product.is_subscription}}
-                {{#product.options}}
-                    <p class="style-cart-product-option">{{value}}</p>
-                {{/product.options}}
-                <p class="style-cart-product-option">${{product.price}}<span>&bull;</span>Qty {{quantity}}</p>
-            </div>
-        </div>
-    {{/cart_items}}
-    <div class="clearfix text-center">
-        <a href="/shop/checkout/cart/" title="Cart">View Cart {{more_items}}</a>
-    </div>
-    <footer class="text-center">
-        <a class="btn btn-primary" href="/shop/checkout" data-target="flyout-checkout" title="Checkout">Check out<span>|</span>${{subtotal}}</a>
-        {{#has_free_shipping}}
-            <div>Your order ships free!</div>
-        {{/has_free_shipping}}
-    </footer>
-</script>
-
-<script id="bbox-header-suggest-template" type="text/html">
-    <b class="icon-caret-up"/>
-    <footer class="suggest-row">
-        <div class="details">
-            <a href="/shop/search?s={{search_vertical}}&stype=tbm&q={{query}}" class="suggest-see-all">See all {{product_count}} results for {{query}}...</a></footer>
-        </div>
-    <header>
-        <div class="suggest-close pull-right hide">close</div> <div>Products</div>
-    </header>
-    {{#page_products}}
-    <div class="suggest-row product">
-        <div class="details">
-            <div><a class="suggestion" href="{{url}}" data-position="{{pos}}" data-product-id="{{id}}" data-event="click" title="{{name}}"><span class="product-name">{{{formatted_name}}}</span></a></div>
-            <!--
-            <div><span class="ratings-stars {{rating_class}}"></span><span class="reviews-count">({{review_count}})</span></div>
-            <div>{{price.formatted}}</div>
-            -->
-        </div>
-        <!--
-        <div class="pull-left thumb"><a href="{{url}}"><img src="{{image.url}}" /></a></div>
-        -->
-    </div>
-    {{/page_products}}
-    {{#show_categories}}
-    <header>
-        <div>Categories</div>
-    </header>
-    {{#categories}}
-    <div class="suggest-row category">
-        <div class="details">
-            <div><a class="suggestion" href="{{url}}" data-position="{{pos}}" data-category-id="{{category_id}}" data-event="click" title="{{name}}"><span class="category-name">{{{category_name}}} <em>in {{{store_name}}}</em></span></a></div>
-        </div>
-    </div>
-    {{/categories}}
-    {{/show_categories}}
-    {{#show_brands}}
-    <header>
-        <div>Brands</div>
-    </header>
-    {{#brands}}
-    <div class="suggest-row brand">
-        <div class="details">
-            <div><a class="suggestion" href="{{url}}" data-position="{{pos}}" data-brand-id="{{category_id}}" data-event="click" title="{{name}}"><span class="brand-name">{{{category_name}}} <em>in {{{store_name}}}</em></span></a></div>
-        </div>
-    </div>
-    {{/brands}}
-    {{/show_brands}}
-</script>
-
 <script type="application/ld+json">
 {
    "@context": "http://schema.org",
@@ -701,6 +358,7 @@ div.fb-like > span {vertical-align:top!important;}
    }
 }
 </script>
+
 <!-- END page/html/header.phtml -->
 
 
@@ -729,84 +387,111 @@ div.fb-like > span {vertical-align:top!important;}
             <div class="page-header">
               <h1>Privacy Policy</h1>
             </div>
-            <p>Birchbox Inc. (“Birchbox”, “we” or “us”), the operator of this web site, is committed to preserving the privacy of those who visit <a href="//birchbox.com" class="track-event">www.birchbox.com</a> site (the “Site”).  This document will outline how we gather and utilize various sources of information obtained during your visit to the Site.  We adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the <a href="https://safeharbor.export.gov/list.aspx" class="track-event">U.S. Department of Commerce</a> (the “Principles”) with respect to all such data. If there is any conflict between the Policies in this privacy policy and the Principles, the Principles shall govern.  This Privacy Policy applies solely to information collected at this Site, and is made a part of and incorporated into the Site <a href="/about/terms-conditions" class="track-event">Terms and Conditions</a>.</p>
+            <p>Birchbox Inc. (“Birchbox”, “we” or “us”), the operator of this web site, developer and operator of this Application, and operator of this Retail Store, is committed to preserving the privacy of those who visit the <a href="//birchbox.com" class="track-event">www.birchbox.com</a> site (the “Site”), who download and use the Birchbox Application (the “App”), and who visit and shop at our Retail Store located at 433 West Broadway New York, NY 10012 (the “Store”). This document will outline how we gather and utilize various sources of information obtained during your visit to the Site, App, and Store. We adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the <a href="https://safeharbor.export.gov/list.aspx" class="track-event">U.S. Department of Commerce</a> (the “Principles”) with respect to all such data. If there is any conflict between the Policies in this privacy policy and the Principles, the Principles shall govern. This Privacy Policy applies solely to information collected at this Site, in this App, and at this Store and is made a part of and incorporated into the Site, App, and Store <a href="/about/terms-conditions" class="track-event">Terms and Conditions</a>.</p>
 
 <p>This Privacy Policy communicates how, when, and why we gather information about our customers and what we do with it.</p>
 
-<p><strong>THIS PRIVACY POLICY DOES NOT APPLY TO OTHER WEBSITES TO WHICH WE LINK. YOU AGREE THAT YOUR USE OF THE SITE SIGNIFIES YOUR ASSENT TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, YOU ARE NOT AUTHORIZED TO USE THIS SITE.</strong></p>
+<p><strong>THIS PRIVACY POLICY DOES NOT APPLY TO OTHER WEBSITES TO WHICH WE LINK. YOU AGREE THAT YOUR USE OF THE SITE, APP, AND STORE SIGNIFIES YOUR ASSENT TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, YOU ARE NOT AUTHORIZED TO USE THIS SITE, APP, AND STORE.</strong></p>
 
 <h3>Information Collected</h3>
 
-<p>If you subscribe to Birchbox and/or place an order through Birchbox.com, we will ask you for your name, e-mail address, shipping address, telephone number and credit card information or certain other personally identifiable information about yourself ("Personal Information").  We use this information to process and fulfill your order and to notify you of your order status. All archived credit card information is maintained in a secure and safe environment. Telephone numbers and e-mail addresses are used to contact you regarding your order. In addition, when you respond to a contest, survey, questionnaire, sweepstakes or other promotional feature, we may ask you for your name, address and email address or other Personal Information. We do not collect any Personal Information about you unless it is voluntarily provided by you.  <strong>Birchbox will never sell, rent or share your Personal Information, including your e-mail address, with any third parties for marketing purposes without your express permission.</strong></p>
+<h3>PERSONAL INFORMATION</h3>
 
-<p>In addition, we may also collect non-personally identifiable information, such as IP host address, pages viewed, browser type, duration and frequency of visits, and other data, and may aggregate any information collected in a manner which does not identify any individual ("Aggregate Information"). Information obtained in connection with the Site may be intermingled with and used by us in conjunction with information obtained through sources other than the Site, including both offline and online sources.</p>
+<p>If you subscribe to Birchbox and/or place an order through Birchbox.com, sign up and/or place an order through the App, or subscribe and/or place an order through the Store we will ask you for your name, e-mail address, shipping address, telephone number and credit card information or certain other personally identifiable information about yourself ("Personal Information").</p>
+
+<p>We use this information to process and fulfill your order and to notify you of your order status. All archived credit card information is maintained in a secure and safe environment. Telephone numbers and e-mail addresses are used to contact you regarding your order. 
+In addition, when you respond to a contest, survey, questionnaire, sweepstakes or other promotional feature, we may ask you for your name, address and email address or other Personal Information. We do not collect any Personal Information about you unless it is voluntarily provided by you. <strong>Birchbox will never sell, rent or share your Personal Information, including your e-mail address, with any third parties for marketing purposes without your express permission.</strong></p>
+
+<h3>NON-PERSONALLY IDENTIFIABLE INFORMATION</h3>
+
+<p>In addition, we may also collect non-personally identifiable information, such as IP host address, pages viewed, browser type, duration and frequency of visits, and other data, and may aggregate any information collected in a manner which does not identify any individual ("Aggregate Information"). Information obtained in connection with the Site, the App, and the Store may be intermingled with and used by us in conjunction with information obtained through sources other than the, Site, App, and Store including both offline and online sources.</p>
 
 <h3>How We Use Your Information</h3>
 
-<p>We will not share or disclose your information to anyone except as described in this Privacy Policy. We use Personal Information in order to give you a more enjoyable convenient shopping experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your Personal Information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site. We may also track your past purchases to provide you with a personalized profile of your shopping history. In addition, we may notify you about new services or special promotional programs, or send you offers or information.
-In connection with their performance of services to maintain and operate the Site and certain features on the Site, certain trusted third parties may be permitted to access your information. For example, we may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders. Unless you specifically consent to the disclosure of your Personal Information, aside from us, only our affiliates, technical consultants, third party auditors and other third parties who make our Site available, enhance its functionality, assist with the processing of your purchases, or provide associated services and/or who deal with you in delivering content, samples, products, gifts and prizes, have access to this information, and we require them to agree that they are covered by this policy.</p>
+<p>We will not share or disclose your information to anyone except as described in this Privacy Policy.</p>
 
-<p>Please note that Birchbox reserves the right to and may disclose Personal Information about you in response to (a) requests from local, state or federal law enforcement officials; (b) any judicial, administrative or similar proceeding or order, such as subpoena; (c) if required by law; or (d) to investigate suspected fraud, harassment, physical threats, or other violations of any law, rule or regulation, the Site rules or policies, or the rights of third parties or to investigate any suspected conduct which we deem improper.  Please also note that we do reserve the right to transfer your Personal Information and other information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control. In such a circumstance the Transferee would be bound by the terms of this Privacy Policy.
-We use non-personally identifiable information in the aggregate, so that we can improve the Site and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.</p>
+<h3>ENHANCED AND PERSONALIZED SHOPPING EXPERIENCE</h3>
 
-<p>If you submit your email address to be added to a mailing list or Sweepstakes or other promotion, we will use the email address for the sole purpose of sending you announcements, special offers from Birchbox and its promotional partners along with site updates. Each email we send will contain information on how to unsubscribe from our mailing list. You can also unsubscribe by sending an email to <a href="mailto:info@birchbox.com" class="track-event">info@birchbox.com</a>.</p>
+<p>We use Personal Information in order to give you a more enjoyable convenient shopping experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your Personal Information to support and enhance your use of the Site, and its features, the App, and the Store, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site, App, and Store.</p>
 
-<p>If you elect to use our referral services for informing a friend about our site, we ask you for the friend's name and email address. Birchbox will automatically send the friend a one-time email inviting them to visit the site. Birchbox stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Birchbox at to request the removal of this information from our database.</p>
+<p>We may also track your past purchases to provide you with a personalized profile of your shopping history. In addition, we may notify you about new services or special promotional programs, or send you offers or information. In connection with their performance of services to maintain and operate the Site, the App, and the Store and certain features on the Site, the App, and the Store, certain trusted third parties may be permitted to access your information. For example, we may use third parties to host the Site; operate various features available on the Site and the App; send emails; analyze data; provide search results and links and assist in fulfilling your orders.</p>
+
+<h3>AFFILIATES; CONSULTANTS; THIRD PARTIES</h3>
+
+<p>Unless you specifically consent to the disclosure of your Personal Information, aside from us, only our affiliates, technical consultants, third party auditors and other third parties who make our Site, App, and Store available, enhance its functionality, assist with the processing of your purchases, or provide associated services and/or who deal with you in delivering content, samples, products, gifts and prizes, have access to this information, and we require them to agree that they are covered by this policy.</p>
+
+<h3>LAW ENFORCEMENT AND INVESTIGATIONS</h3>
+
+<p>Please note that Birchbox reserves the right to and may disclose Personal Information about you in response to (a) requests from local, state or federal law enforcement officials; (b) any judicial, administrative or similar proceeding or order, such as subpoena; (c) if required by law; or (d) to investigate suspected fraud, harassment, physical threats, or other violations of any law, rule or regulation, the Site, App, or Store rules or policies, or the rights of third parties or to investigate any suspected conduct which we deem improper.</p>
+
+<h3>CHANGE OF CONTROL</h3>
+
+<p>Please also note that we do reserve the right to transfer your Personal Information and other information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control. In such a circumstance the Transferee would be bound by the terms of this Privacy Policy.</p>
+
+<h3>NON-PERSONALLY IDENTIFIABLE INFORMATION</h3>
+
+<p>We use non-personally identifiable information in the aggregate, so that we can improve the Site, App, and Store and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.</p>
+
+<h3>SWEEPSTAKES</h3>
+
+<p>If you submit your email address to be added to a mailing list or Sweepstakes or other promotion, we will use the email address for the sole purpose of sending you announcements, special offers from Birchbox and its promotional partners along with Site, App, and Store updates. Each email we send will contain information on how to unsubscribe from our mailing list. You can also unsubscribe by sending an email to info@birchbox.com.</p>
+
+<h3>REFERRALS</h3>
+
+<p>If you elect to use our referral services for informing a friend about our Site, App, or Store we ask you for the friend's name and email address. Birchbox will automatically send the friend a one-time email inviting them to visit the Site. Birchbox stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Birchbox at to request the removal of this information from our database.</p>
 
 <h3>Use of Cookies</h3>
 
-<p>Our Site may pass a "cookie" (a string of information that is sent by a web site to be resident on your system's hard drive, and/or temporarily in your computer's memory blocks). The purpose of a cookie is to tell the web server that you have returned to a particular page.  The Site may use cookies in on-line catalogs to keep track of your status and contents of your shopping cart.  or to  retain information gathered in cookies to allow you access to password-protected areas of the Site .  You may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some interactive features of the Site.</p>
+<p>Our Site may pass a "cookie" (a string of information that is sent by a web site to be resident on your system's hard drive, and/or temporarily in your computer's memory blocks). The purpose of a cookie is to tell the web server that you have returned to a particular page. The Site may use cookies in on-line catalogs to keep track of your status and contents of your shopping cart. or to retain information gathered in cookies to allow you access to password-protected areas of the Site. You may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some interactive features of the Site.</p>
 
 <h3>How We Protect Your Information</h3>
 
-<p>We are committed to protecting the information we receive from you.  However, Birchbox will not be liable for disclosures of your Personal Information due to errors in transmission or unauthorized acts of third parties.  We have undertaken all commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our servers, however, due to the inherent open nature of the Internet, Birchbox cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk.  Users must accept all risks associated with any data transmission, including the risk that their Personal Information may be intercepted in transit.</p>
+<p>We are committed to protecting the information we receive from you. However, Birchbox will not be liable for disclosures of your Personal Information due to errors in transmission or unauthorized acts of third parties. We have undertaken commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our servers, however, due to the inherent open nature of the Internet, Birchbox cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. Users must accept all risks associated with any data transmission, including the risk that their Personal Information may be intercepted in transit.</p>
 
 <p>The Site encrypts your credit card number and other Personal Information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees and third parties who need access to you information in order to perform their duties are allowed such access.</p>
 
 <h3>Accessing and Updating Your Personal Information and Preferences</h3>
 
-<p>If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to  [info@birchbox.com(mailto:info@birchbox.com).</p>
+<p>If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to info@birchbox.com.</p>
 
-<p>You may also update or change your Personal Information or Preferences by sending email to  <a href="mailto:info@birchbox.com" class="track-event">info@birchbox.com</a>. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.</p>
+<p>You may also update or change your Personal Information or Preferences by sending email to info@birchbox.com. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.</p>
 
 <p>While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction.</p>
 
-<h3>Enforcement and Dispute Resolution</h3>
+<p>Enforcement and Dispute Resolution
+Birchbox uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles.</p>
 
-<p>Birchbox uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles.</p>
-
-<p>Birchbox Inc participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of [participation[(http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by internet by <a href="https://feedback-form.truste.com/watchdog/request" class="track-event">here</a>.  Fax to 415-520-3420, or mail to TRUSTe Safe Harbor Complaints Dept., <a href="http://www.truste.com/about-TRUSTe/contact-us" class="track-event">click here</a> for mailing address.  If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click <a href="http://www.truste.com/products-and-services/dispute-resolution-services/" class="track-event">here</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
+<p>Birchbox Inc participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of <a href="http://export.gov/safeharbor/" class="track-event">participation</a> in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe <a href="https://feedback-form.truste.com/watchdog/request" class="track-event">here</a>. Fax to 415-520-3420, or mail to TRUSTe Safe Harbor Complaints Dept., click <a href="http://www.truste.com/about-TRUSTe/contact-us" class="track-event">here</a> for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
 
 <h3>Children's Privacy and Parental Controls</h3>
 
-<p>This Site is not intended for persons under the age of 13, and we have no intention of collecting or soliciting Personal Information from persons under the age of 13.  If you are not 13  or older, you are not authorized to use the Site. Parents should be aware that there are parental control tools available online that you can use to prevent your children from submitting information online without parental permission or from accessing material that is harmful to minors.  If a child under age 13 has provided us with Personal Information, we will use all reasonable efforts to delete such information from our database.</p>
+<p>This Site and the App are not intended for persons under the age of 13, and we have no intention of collecting or soliciting Personal Information from persons under the age of 13. If you are not 13 or older, you are not authorized to use the Site or the App. Parents should be aware that there are parental control tools available online that you can use to prevent your children from submitting information online without parental permission or from accessing material that is harmful to minors. If a child under age 13 has provided us with Personal Information, we will use all reasonable efforts to delete such information from our database.</p>
 
 <h3>Links To Third Party Sites</h3>
 
-<p>Our Site may contain links to other web sites, including our affiliated or co-branded web sites. Other web sites may also reference or link to our Site.  These "other" domains (web sites) are not controlled by Birchbox.  We encourage our users to be aware when they leave our Site to read the privacy policies of each and every web site that collects personally identifiable information.  We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other web sites.  Visiting these other web sites is at your own risk.</p>
+<p>Our Site may contain links to other web sites, including our affiliated or co-branded web sites. Other web sites may also reference or link to our Site. These "other" domains (web sites) are not controlled by Birchbox. We encourage our users to be aware when they leave our Site to read the privacy policies of each and every web site that collects personally identifiable information. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other web sites. Visiting these other web sites is at your own risk.</p>
 
-<h3>Site Terms and Conditions</h3>
+<h3>Site, App, and Store Terms and Conditions</h3>
 
-<p>Use of this Site is governed by, and subject to, the legal notices contained in our <a href="/about/terms-conditions" class="track-event">Terms and Conditions</a>.  Your use, or access, of the Site constitutes your agreement to be bound by these provisions. <strong>IF YOU DO NOT AGREE TO THESE TERMS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.</strong></p>
+<p>Use of this Site, App, and Store is governed by, and subject to, the legal notices contained in our Terms and Conditions. Your use, or access, of the Site, App, or Store constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE, THE APP, OR THE STORE.</p>
 
 <h3>Privacy Policy Changes</h3>
 
-<p>We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If we decide to change our Privacy Policy for the Site, we will post the revised Privacy Policy here so that you will always know what information we gather, how we might use that information and whether we may disclose it to anyone.  Any changes will be consistent with the stated Principles of the Safe Harbor Agreement. Your continued use of the Site indicates your assent to the Privacy Policy as posted. Please check this page periodically for changes to this Privacy Policy.</p>
+<p>We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If we decide to change our Privacy Policy, we will post the revised Privacy Policy here so that you will always know what information we gather, how we might use that information and whether we may disclose it to anyone. Any changes will be consistent with the stated Principles of the Safe Harbor Agreement. Your continued use of the Site, App, and Store indicates your assent to the Privacy Policy as posted. Please check this page periodically for changes to this Privacy Policy. If we make any change to this Privacy Policy that we in our sole discretion deem material, we will notify you in a manner we deem appropriate.</p>
 
 <p>If you have any questions about the Birchbox.com Privacy Policy please contact us at:</p>
 
-<p>Birchbox Inc<br>
+<p>Birchbox Inc <br>
 28 East 28th Street<br>
 12th Floor<br>
 New York, NY 10016<br>
 (877) 487-7272<br>
 <a href="info@birchbox.com" class="track-event">info@birchbox.com</a></p>
 
-<h3>United States of America</h3>
+<h4>United States of America</h4>
 
-<p>Our Site is maintained in the United States of America.  By using the Site, you authorize the export of Personal Information to the USA and its storage and use as specified in this policy.</p>
-
-<p><strong>Effective Date:</strong>  This Privacy Policy is effective and was last updated on April 5, 2013.</p>
+<p>Our Site, App, and Store are maintained in the United States of America. By using the Site, App, or Store you authorize the export of Personal Information to the USA and its storage and use as specified in this policy.
+Effective Date: This Privacy Policy is effective and was last updated on February  24, 2015.</p>
 
           </div>
               </div>
@@ -818,7 +503,7 @@ New York, NY 10016<br>
       Get a monthly box of five personalized beauty samples.
     </div>
     <div class="span3 text-center">
-      <a class="btn learn-more" href="/shop/join">Learn more</a>
+      <a class="btn learn-more" href="/subscribe/women">Learn more</a>
     </div>
   </div>
 </div>
@@ -829,69 +514,39 @@ New York, NY 10016<br>
       Get a monthly box of personalized grooming samples, plus a stylish accessory.
     </div>
     <div class="span3 text-center">
-      <a class="btn learn-more" href="/men/join">Learn more</a>
+      <a class="btn learn-more" href="/subscribe/men">Learn more</a>
     </div>
   </div>
 </div>
-  <!-- BEGIN birchbox-white/template/page/html/footer.phtml -->
-
-<footer class="site-footer" data-message-cookie-name="bbox_msgs">
+  
+<footer class="site-footer">
   <div class="site-footer-primary wrapper">
     <div class="container">
       <div class="row-fluid">
         <div class="span7">
           <div class="site-footer-primary-nav row-fluid iphone-hidden">
             <div class="span4">
-              <nav class="footer-block-nav">
-                <a href="/about" title="About">About</a>
-                <a href="/shop/brands" title="Terms">Brands</a>
-                <a href="/mobile" title="Mobile Apps">Mobile Apps</a>
-                <a href="/stores/soho" title="Locations">Locations</a>
+              <nav class="footer-block-nav"><a href="/about" title="About">About</a><a href="/shop/brands" title="Brands">Brands</a><a href="/mobile" title="Mobile Apps">Mobile Apps</a><a href="/stores/soho" title="Locations">Locations</a>
               </nav>
             </div>
             <div class="span4">
-              <nav class="footer-block-nav">
-                <a href="/about/careers" title="Careers">Careers</a>
-                <a href="/about/press" title="Press">Press</a>
-                <a href="/about/contact-us" title="Contact Us">Contact</a>
+              <nav class="footer-block-nav"><a href="/about/careers" title="Careers">Careers</a><a href="/about/press" title="Press">Press</a><a href="/about/contact-us" title="Contact Us">Contact</a>
               </nav>
             </div>
             <div class="span4">
-              <nav class="footer-block-nav">
-                <a href="/gift/claim" title="Received a Gift?">Received a Gift?</a>
-                <a href="http://blog.birchbox.com/" title="Blog">Blog</a>
+              <nav class="footer-block-nav"><a href="/gift/claim" title="Received a Gift?">Received a Gift?</a><a href="http://blog.birchbox.com/" title="Blog">Blog</a>
               </nav>
             </div>
           </div>
           <div class="site-footer-primary-nav iphone-visible clearfix">
-            <nav class="footer-block-nav pull-left">
-              <a href="/about" title="About">About</a>
-              <a href="/shop/brands" title="Terms">Brands</a>
-              <a href="/mobile" title="Mobile Apps">Mobile Apps</a>
-              <a href="/stores/soho" title="Locations">Locations</a>
-              <a href="/about/careers" title="Careers">Careers</a>
+            <nav class="footer-block-nav pull-left"><a href="/about" title="About">About</a><a href="/shop/brands" title="Brands">Brands</a><a href="/mobile" title="Mobile Apps">Mobile Apps</a><a href="/stores/soho" title="Locations">Locations</a><a href="/about/careers" title="Careers">Careers</a>
             </nav>
-            <nav class="footer-block-nav pull-left">
-              <a href="/about/press" title="Press">Press</a>
-              <a href="/about/contact-us" title="Contact Us">Contact</a>
-              <a href="/gift/claim" title="Received a Gift?">Received a Gift?</a>
-              <a href="http://blog.birchbox.com/" title="Blog">Blog</a>
+            <nav class="footer-block-nav pull-left"><a href="/about/press" title="Press">Press</a><a href="/about/contact-us" title="Contact Us">Contact</a><a href="/gift/claim" title="Received a Gift?">Received a Gift?</a><a href="http://blog.birchbox.com/" title="Blog">Blog</a>
             </nav>
           </div>
           <div class="row-fluid">
-            <div class="span12">
-              <nav class="span6 footer-social-nav">
-                <a href="http://facebook.com/birchbox" class="img-social-link facebook">Facebook</a>
-                <a href="http://twitter.com/birchbox" class="img-social-link twitter">Twitter</a>
-                <a href="http://pinterest.com/birchbox" class="img-social-link pinterest">Pinterest</a>
-                <a href="http://youtube.com/birchboxtv" class="img-social-link youtube">Youtube</a>
-                <a href="http://birchbox.tumblr.com" class="img-social-link tumblr">Tumblr</a>
-                <a href="http://instagram.com/birchbox" class="img-social-link instagram">Youtube</a>
-              </nav>
-              <div class="span6 position-relative">
-                <img class="site-footer-holiday-logo" src="//edge.birchbox.com/img/site/footer/open-for-holiday@2x.png" style="width:127px;">
-              </div>
-            </div>
+            <nav class="span6 footer-social-nav"><a href="http://facebook.com/birchbox" title="Facebook" class="img-social-link facebook">Facebook</a><a href="http://twitter.com/birchbox" title="Twitter" class="img-social-link twitter">Twitter</a><a href="http://pinterest.com/birchbox" title="Pinterest" class="img-social-link pinterest">Pinterest</a><a href="http://youtube.com/birchboxtv" title="YouTube" class="img-social-link youtube">YouTube</a><a href="http://birchbox.tumblr.com/" title="Tumblr" class="img-social-link tumblr">Tumblr</a><a href="http://instagram.com/birchbox" title="Instagram" class="img-social-link instagram">Instagram</a>
+            </nav>
           </div>
           <div class="row-fluid">
             <div class="span12">
@@ -899,18 +554,25 @@ New York, NY 10016<br>
             </div>
           </div>
         </div>
-        <div class="span5 footer-email-signup">
-          <h1>Let’s keep in touch</h1>
-          <p style="line-height:16px;">Get exclusive offers, sneak peeks, and insider tips delivered straight to your inbox.</p>
-          <form method="post" action="/shop/waitlist/index/submit/" id="footer-email-signup-form">
-            <input id="checkbox-lead-gen" name="waitlist_ids[]" type="checkbox" checked="checked" class="hide" value="47">
-            <div class="controls-row">
-              <input id="footer-email-input" class="span8 validate-email required-entry" type="email" name="email" value="" maxlength="255" placeholder="Email Address">
-              <input class="btn span4" type="submit" value="Bring It">
+        <div class="span5 footer-right">
+          <div class="row-fluid footer-external-channels">
+            <div class="span6 channel"><a href="/stores/soho"><img src="//edge.birchbox.com/img/site/footer/mobile-BB-bag.png" class="footer-icon"></a><a href="/stores/soho" class="channel-title">Visit Our NYC Store</a><a href="/stores/soho" class="call-to-action">Learn More</a></div>
+            <div class="span6 channel"><a href="/mobile"><img src="//edge.birchbox.com/img/site/footer/mobile-BB-phone.png" class="footer-icon"></a><a href="/mobile" class="channel-title">Download Our App</a><a href="/mobile" class="call-to-action">Go</a></div>
+          </div>
+          <div class="row-fluid">
+            <div class="span12 footer-email-signup">
+              <div class="header">Let’s keep in touch</div>
+              <p style="line-height:16px;">Get exclusive offers, sneak peeks, and insider tips delivered straight to your inbox.</p>
+              <form id="footer-email-signup-form" method="post" action="/shop/waitlist/index/submit">
+                <input id="checkbox-lead-gen" name="waitlist_ids[]" type="checkbox" checked="checked" value="47" class="hide">
+                <div class="controls-row">
+                  <input id="footer-email-input" type="email" name="email" value="" maxlength="255" placeholder="Email Address" class="span8 validate-email required-entry">
+                  <input type="submit" value="Bring It" class="btn span4">
+                </div>
+                <div class="email-signup-message hide"></div>
+              </form>
             </div>
-            <div class="email-signup-message hide">
-            </div>
-          </form>
+          </div>
         </div>
       </div>
     </div>
@@ -919,21 +581,10 @@ New York, NY 10016<br>
     <div class="container">
       <div class="row-fluid">
         <div class="span12">
-          <nav class="footer-nav">
-            <span class="dropdown">
-              <a style="margin:0" class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);"><span class="img-flag img-flag-left img-flag-us"></span><span>USA</span> <span class="caret"></span></a>
-              <div class="dropdown-menu" role="menu">
-                <div class="tooltip-arrow bottom"></div>
-                <a rel="alternate" hreflang="en-ca" href="https://www.birchbox.ca?utm_source=birchbox-us&amp;utm_medium=footer&amp;utm_campaign=geoip"><span class="img-flag img-flag-left img-flag-right img-flag-ca"></span>Canada</a>
-                <a rel="alternate" hreflang="fr-fr" href="http://birchbox.fr?utm_source=birchbox-us&amp;utm_medium=footer&amp;utm_campaign=geoip"><span class="img-flag img-flag-left img-flag-right img-flag-fr"></span>France</a>
-                <a rel="alternate" hreflang="es" href="http://birchbox.es?utm_source=birchbox-us&amp;utm_medium=footer&amp;utm_campaign=geoip"><span class="img-flag img-flag-left img-flag-right img-flag-es"></span>Spain</a>
-                <a rel="alternate" hreflang="en-gb" href="http://birchbox.co.uk?utm_source=birchbox-us&amp;utm_medium=footer&amp;utm_campaign=geoip"><span class="img-flag img-flag-left img-flag-right img-flag-uk"></span>UK</a>
-              </div>
-            </span>
-            <a href="/about/terms-conditions" title="Terms">Terms</a>
-            <a href="/about/privacy-policy" rel="nofollow" title="Privacy">Privacy</a>
-            <a href="http://nytm.org/made/" target="_blank" title="Made in NYC">Made in NYC</a>
-            <span>© 2014 Birchbox</span>
+          <nav class="footer-nav"><span class="dropdown"><a style="margin:0;" data-toggle="dropdown" href="javascript:void(0);" class="dropdown-toggle"><span class="img-flag img-flag-left img-flag-us"></span><span>USA</span><span class="caret"></span></a>
+              <div role="menu" class="dropdown-menu">
+                <div class="tooltip-arrow bottom"></div><a rel="alternate" hreflang="en-ca" href="http://birchbox.ca?utm_source=birchbox-us&amp;utm_medium=footer&amp;utm_campaign=geoip"><span class="img-flag img-flag-left img-flag-right img-flag-ca"></span>Canada</a><a rel="alternate" hreflang="fr-fr" href="http://birchbox.fr?utm_source=birchbox-us&amp;utm_medium=footer&amp;utm_campaign=geoip"><span class="img-flag img-flag-left img-flag-right img-flag-fr"></span>France</a><a rel="alternate" hreflang="es-es" href="http://birchbox.es?utm_source=birchbox-us&amp;utm_medium=footer&amp;utm_campaign=geoip"><span class="img-flag img-flag-left img-flag-right img-flag-es"></span>Spain</a><a rel="alternate" hreflang="en-gb" href="http://birchbox.co.uk?utm_source=birchbox-us&amp;utm_medium=footer&amp;utm_campaign=geoip"><span class="img-flag img-flag-left img-flag-right img-flag-gb"></span>UK</a>
+              </div></span><a href="/about/terms-conditions" title="Terms">Terms</a><a href="/about/privacy-policy" title="Privacy" rel="nofollow">Privacy</a><a href="http://nytm.org/made/" title="Made in NYC" target="_blank">Made in NYC</a><span>© 2015 Birchbox</span>
           </nav>
         </div>
       </div>
@@ -941,83 +592,7 @@ New York, NY 10016<br>
   </div>
 </footer>
 
-<script id="ich-product-grid-row" type="text/html">
-{{#productRows}}
-  <div class="row-fluid products grid bbox-grid-products">
-    {{#products}}
-      <div class="{{spanClass}} bbox-item" data-product-id="{{ entity_id }}">
-        {{#wink_url}}
-          <img src="{{wink_url}}">
-        {{/wink_url}}
-        {{^wink_url}}
-          {{#favoritable}}
-          {{>bbox-favorite-buttons}}
-          {{/favoritable}}
-          <div class="product-image">
-            <a href="{{ canonical_url }}" {{#exclusive}}class="exclusive_product"{{/exclusive}} title="{{ name }}"><img data-full-src="{{ img_cached }}" alt="{{ name }}"></a>
-          </div>
-          <div class="product-info">
-            <a href="{{ canonical_url }}" title="{{ name }}" class="product_name">{{ name }}</a>
-            {{#total_reviews}}
-              <span class="acr-stars acr-stars-small ratings-info" data-rating="{{ rating }}" data-count="{{total_reviews}}">
-                <span class="ratings-average ratings-stars ratings-{{rating_star}}" title="{{ rating }} out of 5 stars"></span>
-                <span class="reviews-count"><a href="/shop/feedback/review/index/product_id/{{ entity_id }}/" title="Read all reviews" class="prp-link">{{total_reviews}}</a></span>
-              </span>
-            {{/total_reviews}}
-            <div class="product_price">
-              <div class="price-box">
-                <span class="regular-price">
-
-                  {{#special_price}}
-                    <span class="price">${{special_price}}</span>
-                    <span class="valPrice">(${{price}} value)</span>
-                  {{/special_price}}
-                  {{^special_price}}
-                    <span class="price">${{price}}</span>
-                  {{/special_price}}
-                </span>
-              </div>
-              {{#has_free_shipping}}
-              <span class="label-free-shipping">Ships Free</span>
-              {{/has_free_shipping}}
-            </div>
-            {{#is_configurable}}
-              <div class="product-options-available">
-                <a class="bbox-link" href="{{ canonical_url }}" title="More Options Available">More Options Available</a>
-              </div>
-            {{/is_configurable}}
-          </div>
-        {{/wink_url}}
-      </div>
-    {{/products}}
-  </div>
-{{/productRows}}
-</script>
-
-<script id="bbox-favorite-buttons" class="partial" type="text/html">
-    <div class="bbox-button remove">
-    <a class="bbox-link icon-heart" title="Remove from favorites" href="/shop/favorites/index/removefavorite"></a>
-    </div>
-    <div class="bbox-button add">
-    <a class="bbox-link icon-heart-empty" title="Add to favorites" href="/shop/favorites/index/addfavorite"></a>
-    </div>
-</script>
-<script id="bbox-pager-template" type="text/html">
-{{#pager}}
-  {{^current}}
-    <li class="bbox-item {{classname}}">
-      <a href="{{href}}" class="bbox-link">{{label}}</a>
-    </li>
-  {{/current}}
-  {{#current}}
-    <li class="bbox-item current">{{label}}</li>
-  {{/current}}
-{{/pager}}
-</script>
-<!-- END birchbox-white/template/page/html/footer.phtml -->
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"3bbb8b743a","applicationID":"3987469","transactionName":"NVYAZkVTDBZXV0wLXAwcI1FDWw0LGXF9TVoMVwdK","queueTime":0,"applicationTime":992,"ttGuid":"","agentToken":"","atts":"GREDEA1JHxg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
