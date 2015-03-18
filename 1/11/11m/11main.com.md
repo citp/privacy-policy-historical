@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 11main.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008233213id_/https%3A//11main.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 11main.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318173355id_/https%3A//11main.com/privacy) for the most accurate reproduction.*
 
 # 11 Main Privacy Policy
 
@@ -167,4 +167,4 @@ California Civil Code Section 1798.83, known as the “Shine The Light” law, p
 
 * ### Contact 11 Main
 
-If you have questions or suggestions, you can contact 11 Main's support team via our Help site.
+If you have questions or suggestions, you can contact 11 Main's support team via our [Help Center](https://web.archive.org/HelpCenter).
