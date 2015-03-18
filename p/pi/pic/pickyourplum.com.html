@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the pickyourplum.com privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702111824id_/http%3A//www.pickyourplum.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pickyourplum.com privacy policy that was archived on 2015-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150318210159id_/http%3A//www.pickyourplum.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8HVFVUGwAEVVJXBgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy</title>
 <meta name="description" content="Get it before your neighbor!">
 <meta name="keywords" content="">
@@ -17,15 +17,17 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://d31b8op83vnnxz.cloudfront.net/media/css/269395e75e22e54cdb2a2b8c1d251b0d.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://d31b8op83vnnxz.cloudfront.net/media/css/9b75cb7d59cd3173f577ce1da5b027b9.css" media="print">
-<script type="text/javascript" src="http://d31b8op83vnnxz.cloudfront.net/media/js/9b27e329f5caaca4bfeab76b2fb69bf0.js"></script>
-<!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" href="http://d31b8op83vnnxz.cloudfront.net/media/css/f2a5b888d740f4eb0e257823da1a1550.css" media="all" />
-<script type="text/javascript" src="http://d31b8op83vnnxz.cloudfront.net/media/js/e0317f870db38bbd8611f90c9c5dd040.js"></script>
+<link rel="stylesheet" type="text/css" href="http://d31b8op83vnnxz.cloudfront.net/media/css/87f5cc15d522eefffeaa216c88798a31.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://d31b8op83vnnxz.cloudfront.net/media/css/07bb9c0190f110756817f9dbfdf5e089.css" media="print">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" defer="" async="" src="https://pyp.oro-cloud.com/bundles/orotracking/js/piwik.min.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/e436c6513671542f874e596fe352ef90113cfbe0.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://d31b8op83vnnxz.cloudfront.net/media/js/1cfd0d324b015a77fa1a5724e0cb2a9b.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://d31b8op83vnnxz.cloudfront.net/media/css/d4e33811e0b3f68f8532383ad7ab59d7.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://d31b8op83vnnxz.cloudfront.net/media/js/8c5da4072d83ffce75737f3ed6eaea46.js"></script>
+<script type="text/javascript" src="http://d31b8op83vnnxz.cloudfront.net/media/js/b8815ee6c02a924d1387b469b5d25d3e.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://d31b8op83vnnxz.cloudfront.net/media/js/0395e46fa0dcc594e5b0df4c9dcac25c.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -40,17 +42,13 @@ Mage.Cookies.domain   = '.www.pickyourplum.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<meta property="fb:app_id" content="223517454339018">
-<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script>    </head>
-    <body class=" cms-page-view cms-privacy-policy">
-        <!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
 //<![CDATA[
     var _gaq = _gaq || [];
     
 _gaq.push(['_setAccount', 'UA-43608447-1']);
+
 _gaq.push(['_trackPageview']);
     
     (function() {
@@ -62,7 +60,45 @@ _gaq.push(['_trackPageview']);
 //]]>
 </script>
 <!-- END GOOGLE ANALYTICS CODE -->
-        <div class="wrapper">
+<meta property="fb:app_id" content="223517454339018">
+        <meta property="og:title" content="Privacy Policy">
+        <script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><script type="text/javascript">
+jQuery(function() {
+
+
+/* Listrak Modal */
+if (jQuery(".welcome-msg.user-not-logged-in").length > 0 || jQuery("dl#menu dd.menu-box ul:last li a").text().indexOf("Log") != 0) {
+_ltk.Modal.load("Modal");
+}
+/* End Listrak Modal */
+jQuery('div.account-create ul.form-list:first').append('<li style="display:none;" class="control"><div class="input-box"><input type="checkbox" checked="checked" name="email_subscribe" id="email_subscribe_optin"></div><label style="font-size: 18px; color: #f2712a;">Join our email list for daily savings</label></li>');
+
+jQuery('div.login-modal div.modal-content div.modal-content-form div.input-box button').attr('id', 'emailModalSubmit');
+
+});
+</script>
+
+<script type="text/javascript">var _kmq = _kmq || [];
+var _kmk = _kmk || 'e436c6513671542f874e596fe352ef90113cfbe0';
+function _kms(u){
+  setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0],
+    s = d.createElement('script');
+    s.type = 'text/javascript'; s.async = true; s.src = u;
+    f.parentNode.insertBefore(s, f);
+  }, 1);
+}
+_kms('//i.kissmetrics.com/i.js');
+_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+<style>
+#login-modal-wrapper { display:none; }
+#login-modal { display:none; }
+</style>    </head>
+    <body class=" cms-page-view cms-privacy-policy">
+                <div class="wrapper">
                 <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
@@ -74,9 +110,7 @@ _gaq.push(['_trackPageview']);
     </noscript>
             <div class="header-container">
     <div class="header-panel">
-        
-
-                <!--        -->        <div class="checkout-link"><div class="top-cart">
+                        <!--        -->        <div class="checkout-link"><div class="top-cart">
     <div class="block-title">
         <ul class="links cart-link">
             <li></li>
@@ -157,34 +191,137 @@ if (itemsInCart == '0' && topCartTitle) {
             <div class="branding">
                                     <a href="http://www.pickyourplum.com/" title="Pick Your Plum" class="logo">
                         <strong>Pick Your Plum</strong>
-                        <img src="http://d31b8op83vnnxz.cloudfront.net/skin/frontend/enterprise/pyp/../../enterprise/pyp/images/logo.gif" alt="Pick Your Plum">
+                        <img src="http://d31b8op83vnnxz.cloudfront.net/skin/frontend/default/pyp/../../default/pyp/images/logo.gif" alt="Pick Your Plum">
                     </a>
                                             </div>
             <div class="quick-access">
                                 <ul class="links">
 <li class="first"><a class="top-link-home" title="Home" href="http://www.pickyourplum.com/">Home</a></li>
-<li><a class="top-link-help" title="Help" href="http://www.pickyourplum.com/help/">Help</a></li>
-<li><a class="top-link-who-we-are" title="Who We Are" href="http://www.pickyourplum.com/who-we-are/">Who We Are</a></li>
-<li class="last"><a title="PYP Gift Card" href="http://www.pickyourplum.com/gift-card/">Gift Card</a></li>
-</ul>                                <strong class="header-tag"><p>New deals posted 7am MDT every day</p></strong>
+<li><a title="PYP Gift Card" href="/gift-card.html">Gift Card</a></li>
+<li><a title="Share &amp; Earn" href="/loyalty">Share &amp; Earn</a></li>
+<li class="last"><a class="top-link-help" title="Help" href="http://www.pickyourplum.com/help/">Help</a></li>
+</ul>                                <strong class="header-tag"><p>New deals posted 7am MST every day</p></strong>
             </div>
         </div>
                     </div>
 </div>
-                        <div class="breadcrumbs">
-    <ul>
-                    <li class="home">
-                            <a href="http://www.pickyourplum.com/" title="Go to Home Page">Home</a>
-                                        <span>/ </span>
-                        </li>
-                    <li class="cms_page">
-                            <strong>Privacy Policy</strong>
-                                    </li>
-            </ul>
-</div>
-            <div class="main col1-layout">
+                                    <div class="main col1-layout">
                 <div class="col-main">
-                        <div class="page-title">
+                    
+<div class="rewardssocial-widgets">
+                                    
+                                            
+                                            
+                                            
+                    <div class="rewardssocial-widget rewardssocial-referral-share rewardssocial-referral-share-counter"><div class="referral-share-button rewardssocial-rewardable">
+    <a href="javascript://" class="btn">
+        <i></i>
+        <span class="label">Refer Friends</span>
+    </a>
+</div>
+
+
+<div id="rewards_referral_share_modal" style="display: none;">
+    <div class="rewards-modal block">
+        <div class="head block-title">
+            <strong style="display: inline-block;">Share your referral link!</strong>
+            <a href="javascript://" title="Close" class="btn-remove" style="margin-top: 3px;">Close</a>
+        </div>
+        <div class="content block-content">
+            <div class="modal-step">
+                <div id="referral-share-please-wait" class="please-wait" style="display:none">
+                    <img src="http://d31b8op83vnnxz.cloudfront.net/skin/frontend/default/pyp/images/opc-ajax-loader.gif" alt="" class="v-middle"> Loading ...                </div>
+                <div id="messages_product_view"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="rewards_modal_mask" class="rewards-modal-mask"></div>
+</div>
+
+<script type="text/javascript">
+    Event.observe(document, 'dom:loaded', function() {
+        var modalCloseButton = $$('#rewards_referral_share_modal .head .btn-remove')[0];
+        var modalMask = $('rewards_modal_mask');
+        var modal = $('rewards_referral_share_modal');
+
+        var closeModal = function()
+        {
+            modal.style.display = 'none';
+        };
+
+        Event.observe(window, 'keydown', function(e) {
+            if (!e) { var e = window.event; }
+
+            // Escape key is pressed
+            if (e.keyCode == 27) {
+                closeModal();
+            }
+        });
+
+        Event.observe(modalCloseButton, 'click', function() {
+            closeModal();
+        });
+
+        Event.observe(modalMask, 'click', function() {
+            closeModal();
+        });
+    });
+</script>
+<script type="text/javascript">
+    Event.observe(document, 'dom:loaded', function() {
+        var shareItButton = $$('.referral-share-button')[0];
+        var modal = $('rewards_referral_share_modal');
+
+        Event.observe(shareItButton, 'click', function(e) {
+            getReferralShareContent();
+            modal.style.display = '';
+            jQuery('#referral-share-please-wait').show();
+        });
+    });
+    function getReferralShareContent()
+    {
+        var d = new Date().getTime();
+        jQuery.get('pyp_rewardssocial/ajax/referralshare/?' + d , function(data) {
+            msg = data;
+            jQuery('#messages_product_view').html(msg);
+            jQuery('#referral-share-please-wait').hide();
+        });
+    };
+</script>
+
+                <script type="text/javascript">
+                    Event.observe(document, 'dom:loaded', function() {
+                        rewardsSocialWidgetHover.addWidget('referral-share');
+                    });
+                </script>
+            </div>                                            
+            
+    
+<div class="rewardssocial-widget points-notification rewardssocial-widgets-points-notification" style="">
+    <span id="rewardssocial-notification-loading" style="display: none;">
+        <img src="http://d31b8op83vnnxz.cloudfront.net/skin/frontend/base/default/images/rewardssocial/ajax-loader.gif">
+    </span>
+    <span class="not-logged-in" style="display: none;">
+        <a href="https://www.pickyourplum.com/customer/account/login/">Login or create an account</a> to earn <b>Plum Points</b> for sharing!    </span>
+    <span class="many-rewards" style="display: none;">
+        Earn <b>Plum Points</b> for sharing!    </span>
+    </div>
+
+<script type="text/javascript">
+    var socialWidgetName = 'rewardsSocialWidgetHover';
+    window[socialWidgetName] = new RewardsSocialWidgetHover();
+</script>
+
+</div>
+
+                <script type="text/javascript">
+                    Event.observe(document, 'dom:loaded', function() {
+                        rewardsSocialWidgetHover.data = rewardsSocialWidgetHover.data || {};
+                        rewardsSocialWidgetHover.data.productId = '';
+                    });
+                </script>
+                <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
 <div class="std"><p>Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.</p>
@@ -200,7 +337,7 @@ if (itemsInCart == '0' && topCartTitle) {
 </ul>
 </div>
 <p>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</p>
-<p style="text-align: center;"><img title="Pick Your Plum Signature" src="/skin/frontend/enterprise/pyp/images/cms-plum.jpg" alt="Pick Your Plum Signature" width="537" height="159"></p></div><div id="bubble" class="bubble_tooltip" style="z-index: 6000; height: auto; visibility: visible; width: 162px; left: 1016px; top: 171px; display: none;">
+<p style="text-align: center;"><img title="Pick Your Plum Signature" src="/skin/frontend/enterprise/pyp/images/cms-plum.jpg" alt="Pick Your Plum Signature" width="537" height="159"></p></div><div id="bubble" class="bubble_tooltip" style="z-index: 6000; height: auto; visibility: visible; width: 162px; left:auto; right: -92px; top: 171px; display: none;">
     <div class="clearfix" style="padding: 0px; margin: 0px 0px 12px;">
         <div class="clearfix">
             <ul class="borderFrame" style="width: 162px;">
@@ -237,7 +374,7 @@ if (itemsInCart == '0' && topCartTitle) {
         </div>
     </div>
     <div class="bubble_tooltip_Stem" style="height: 12px; top: auto; bottom: 0px;">
-        <div style="height: 12px; width: 15px; background: url(http://d31b8op83vnnxz.cloudfront.net/skin/frontend/enterprise/default/js/amasty/amconf/images/bot_right.png) no-repeat scroll left top transparent; margin: 0px 6px 0px 0px; float: right;"></div>
+        <div style="height: 12px; width: 15px; background: url(http://d31b8op83vnnxz.cloudfront.net/skin/frontend/base/default/js/amasty/amconf/images/bot_right.png) no-repeat scroll left top transparent; margin: 0px 0px 0px 6px; float: left;"></div>
     </div>
 </div>
 
@@ -258,14 +395,14 @@ if (itemsInCart == '0' && topCartTitle) {
         </div>
         <footer class="footer-container">
     <div id="page_loader" style="display: none;">
-        <img id="loading-image" src="http://d31b8op83vnnxz.cloudfront.net/skin/frontend/enterprise/pyp/images/ajax-loader.gif" alt="Loading...">
+        <img id="loading-image" src="http://d31b8op83vnnxz.cloudfront.net/skin/frontend/default/pyp/images/ajax-loader.gif" alt="Loading...">
     </div>
     <div class="footer">
-        <address class="copyright">© 2014 Pick Your Plum. All Rights Reserved.</address>
+        <address class="copyright">© 2015 Pick Your Plum. All Rights Reserved.</address>
         <ul class="links">
-                                    </ul>
-<ul class="links">
-<li class="first"><a title="Terms of Use" href="http://www.pickyourplum.com/terms-of-use">Terms of Use</a></li>
+<li class="first"><a title="About Us" href="/who-we-are">About Us</a></li>
+<li><a title="Share &amp; Earn" href="/loyalty">Share &amp; Earn</a></li>
+<li><a title="Terms of Use" href="http://www.pickyourplum.com/terms-of-use">Terms of Use</a></li>
 <li class="footer-link-privacy-policy"><a title="Privacy Policy" href="http://www.pickyourplum.com/privacy-policy">Privacy Policy</a></li>
 <li class="footer-link-affiliate-giveaways"><a title="Affiliate/Giveaways" href="http://www.pickyourplum.com/affiliate-giveaways">Affiliate/Giveaways</a></li>
 <li class="footer-link-careers"><a title="Careers" href="http://www.pickyourplum.com/careers">Careers</a></li>
@@ -281,10 +418,59 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_86qTl9c5", "5", "s", "wh
 <li><a class="social-link-facebook" title="Facebook" href="https://www.facebook.com/pickyourplum">Facebook</a></li>
 <li><a class="social-link-pinterest" title="Pinterest" href="http://pinterest.com/pickyourplum/">Pinterest</a></li>
 <li><a class="social-link-instagram" title="Instagram" href="http://instagram.com/pickyourplum">Instagram</a></li>
-</ul>
+</ul><ul class="links">
+                                    </ul>
     </div>
 </footer>
-        <script type="text/javascript">
+        
+
+    
+    <!-- Using the JavaScript SDK -->
+    <div id="fb-root"></div>
+
+    <script>
+        Event.observe(document, 'dom:loaded', function() {
+            window.fbAsyncInit = function() {
+                FB.init({appId: '282582421939941',
+                    xfbml: true});
+            };
+            (function() {
+                var e = document.createElement('script'); e.async = true;
+                e.src = document.location.protocol +
+                    '//connect.facebook.net/en_US/all.js';
+                document.getElementById('fb-root').appendChild(e);
+            }());
+        });
+    </script>
+
+
+
+<!-- Using the JavaScript SDK -->
+<script type="text/javascript">
+Event.observe(document, 'dom:loaded', function() {
+    window.fbAsyncInit = window.fbAsyncInit || function() {
+        FB.init({
+            xfbml: true
+        });
+    };
+
+    if (document.getElementById('fb-root') == undefined) {
+        // if FB is not already defined (currently by Evolved Like) insert div and load JS SDK async
+        var fbRootDiv = new Element('div');
+        fbRootDiv.id = "fb-root";
+        $$('body')[0].insert(fbRootDiv);
+
+        // Load the SDK asynchronously
+        (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    }
+});
+</script><script type="text/javascript">
 arrEcjs = [];
 function _ecjs(ecid,email) { new Ajax.Request("http://www.pickyourplum.com/remarketing/email/", {parameters:{cid: ecid, email: email}}); }
 function ecjsInit() {for(var ecjsi = 0; ecjsi < arrEcjs.length; ecjsi++) {if($(arrEcjs[ecjsi].id)) {$(arrEcjs[ecjsi].id).stopObserving("change", arrEcjs[ecjsi].fn);$(arrEcjs[ecjsi].id).observe("change", arrEcjs[ecjsi].fn);}}}
@@ -293,7 +479,23 @@ arrEcjs.push({id:"ltkmodal-email", fn: function() { _ecjs(4, $(this).value);}});
 arrEcjs.push({id:"email", fn: function() { _ecjs(5, $(this).value);}});
 document.observe("dom:loaded", function() { ecjsInit(); 
 Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
-</script><script type="text/javascript">
+</script><script type="text/javascript">var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cscript src='" + biJsHost + "s1.listrakbi.com/scripts/script.js?m=DkLjG0XnE5OH&v=1' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://s1.listrakbi.com/scripts/script.js?m=DkLjG0XnE5OH&amp;v=1" type="text/javascript"></script><script type="text/javascript">var _mlm = setInterval(function() { if(!window.jQuery) { return; }clearInterval(_mlm);jQuery(document).bind("ltkmodal.show", function() { if(typeof ecjsInit === "function") { ecjsInit(); } }); }, 100);</script>
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['setUserId', "id=guest; visitor-id=8031768"]);
+    _paq.push(['setConversionAttributionFirstReferrer', false]);
+    _paq.push(['trackPageView']);
+
+                
+    (function() {
+        var u="https://pyp.oro-cloud.com/";
+        _paq.push(['setTrackerUrl', u+'tracking.php']);
+        _paq.push(['setSiteId', 'WWWSTORE']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+        g.defer=true; g.async=true; g.src=u+'bundles/orotracking/js/piwik.min.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<script type="text/javascript">
 //<![CDATA[
 (function(d){
   var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
@@ -313,6 +515,18 @@ Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
 }(document, 'script', 'facebook-jssdk'));
 //]]>
 </script>
-            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"81ef7ee75e","applicationID":"3413512","transactionName":"ZgNSYUMFWRBTUxVfWF9JcVZFDVgNHVMMRRhBB1dQHhJeBkU=","queueTime":0,"applicationTime":333,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script type="text/javascript">
+    Event.observe(document, "dom:loaded", function() {
+        if (typeof window.twttr == 'undefined') {
+            window.twttr = (function (d,s,id) {
+                var t, js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+                js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+                return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+            } (document, "script", "twitter-wjs"));
+        }
+    });
+</script>            
+
+</body></html>
