@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyus.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702201952id_/https%3A//www.joyus.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyus.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318144432id_/https%3A//www.joyus.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Joyus - Privacy Policy
 
@@ -52,6 +52,6 @@ Joyus may at our sole discretion edit this Privacy Policy. Notice of all changes
 
 Joyus is committed to protecting your privacy. The information collected from our Site helps us better understand our market and consumer interests. This allows us to serve our customers and business associates with the level of satisfaction they deserve.
 
-If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to [privacy@joyus.com](mailto:privacy@joyus.com).
+If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to [support@joyus.com](mailto:support@joyus.com).
 
 375 Alabama Street, Suite 325; San Francisco, CA 94110
