@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaconads.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041402id_/http%3A//beaconads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaconads.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318142503id_/https%3A//beaconads.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beacon Ads
 
@@ -28,7 +28,9 @@ When you use the Site, we may send one or more cookies (a small data file) to yo
 
 We may disclose your personal information to third parties who work on our behalf to provide products and services requested by you and to banks, processors, card associations, and other financial institutions and payment processors that are involved in the processing or screening of transactions applicable to your Account. We share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information, however, we are not liable to you for any disclosure of your information made by such third parties.
 
-Depending on the types of payment processing you choose with us, you may be required to or choose to have accounts directly with one or more of these third party providers, such as PayPal. Such third part providers’ privacy policies apply for information provided to them.
+Depending on the types of payment processing you choose with us, you may be required to or choose to have accounts directly with one or more of these third party providers, such as PayPal. Such third party providers’ privacy policies apply for information provided to them.
+
+In the event of a sale, merger, liquidation, dissolution or transfer of part of the business, trade or assets of BEACON and/or any of its individual affiliates, personal information collected about you may be sold, assigned, or transferred to the party acquiring all or substantially all of the equity or assets or business of BEACON and/or its affiliates. Subject to your consent as described below, by using this website, you consent to the sale and transfer of your information as described in this paragraph.
 
 Non-personally-identifiable information, and data in an aggregate form without disclosure of personally-identifiable information, may be provided to other parties for various business, marketing, and advertising uses, including but not limited to advertisers assessing the effectiveness of their ads.
 
@@ -54,6 +56,6 @@ In your browser’s settings, there should be an option to remove cookies. The d
 
 If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [support@beaconads.com](mailto:support@beaconads.com) or by U.S. mail to 186 South Street, Boston, MA 02111.
 
-Date last updated: January 10, 2014
+Date last updated: September 10, 2014
 
 – End –
