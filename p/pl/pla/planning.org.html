@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the planning.org privacy policy that was archived on 2014-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140910172239id_/https%3A//www.planning.org/apaataglance/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planning.org privacy policy that was archived on 2015-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150318203843id_/https%3A//www.planning.org/apaataglance/privacy.htm) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:c1="http://c1.composite.net/StandardFunctions" class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 		<meta charset="utf-8" xmlns="">
@@ -108,7 +108,7 @@
 					</div>
 					<div id="search-wrap">
 						<div id="search-wrap2">
-							<form id="sitewide-search-form" action="/search/results/"><input id="sitewide-search-keyword" name="Keyword" type="text" value="Search APA" class="search-keyword" onfocus="apa.ui.focusSearch('sitewide-search-keyword');"><a href="javascript:apa.ui.submitForm('sitewide-search-form')"><img id="sitewide-search-button" src="/image/icon-search.png" alt="Search Submit Button"></a></form>
+							<form id="sitewide-search-form" action="/search/results/"><input id="sitewide-search-keyword" name="Keyword" type="text" value="Search APA" class="search-keyword" onfocus="apa.ui.focusSearch('sitewide-search-keyword');"><input type="hidden" name="url" value="['' TO *]"><a href="javascript:apa.ui.submitForm('sitewide-search-form')"><img id="sitewide-search-button" src="/image/icon-search.png" alt="Search Submit Button"></a></form>
 						</div>
 					</div>
 				</div>
@@ -180,18 +180,13 @@
 												</a>
 												<div id="myapa-menu-small" class="onlysmall-hidden notLoggedIn">
 													<div id="myapa-login">
-														<form id="myapa-login-form">
-															<div class="formfield"><label for="myapa_login_username">ID or E-mail</label><input id="myapa_login_username" name="UserName" type="text" value="" onkeypress="apa.ui.checkEnter(event, function() {apa.ui.userLogin({formID:'myapa-login-form'})});"></div>
-															<div class="formfield"><label for="myapa_login_password">Password</label><input id="myapa_login_password" name="Password" type="password" onkeypress="apa.ui.checkEnter(event, function() {apa.ui.userLogin({formID:'myapa-login-form'})});"></div>
-															<div class="formfield"><input id="myapa_login_rememberme" name="RememberMe" value="true" type="checkbox" onkeypress="apa.ui.checkEnter(event, function() {apa.ui.userLogin({formID:'myapa-login-form'})});"><label for="myapa_login_rememberme"> Remember Me</label></div>
-															<div id="myapa-login-error">
-																<a href="javascript:;" onclick="document.getElementById('myapa-login-error').style.display='none'" class="x-close"></a>
-																<div id="myapa-login-error-msg" class="clear"></div>
-																<div class="formfield"><a class="arrowlink" href="javascript:apa.ui.userLogin({formID:'myapa-login-form'});"><strong>Try Again</strong></a></div>
-																<div class="formfield"><a href="/login/help.htm" class="arrowlink">Login Help</a></div>
-															</div>
-															<a href="/login/help.htm" class="arrowlink">Login Help</a>
+														<form id="login_form" name="login_form" method="POST" action="https://conference.planning.org/login_legacy/">
+															<p>ID or E-mail: <br><input type="text" name="username"><br></p>
+															<p>Password: <br><input type="password" name="password"></p>
+															<input type="hidden" name="relative_url" value="/apaataglance/privacy.htm">
+															<span><input id="login-button" type="submit" value="Log In" style="position: absolute; left: -9999px; width: 1px; height: 1px;" onclick="            apa.ui.showDisplay('myapa-login-loading');            apa.ui.hideDisplay('login_form');           "></span>
 														</form>
+														<div class="formfield"><a href="/login/help.htm" class="arrowlink">Login Help</a></div>
 														<div id="myapa-login-loading"></div>
 													</div>
 													<a id="myapa-link-join" href="/join">
@@ -238,7 +233,7 @@
 						</nav>
 					</div>
 					<div id="footer-wrap-1">
-						<div id="footer-links-1"><a href="/foundation/">Donate Today</a><a href="/join/">Become a Member</a><a href="/jobs/">Search Jobs</a><a href="/customerservice/?CustomerServiceID=218">Customer Service</a></div>
+						<div id="footer-links-1"><a href="/foundation/">Foundation</a><a href="/join/">Become a Member</a><a href="/jobs/">Search Jobs</a><a href="/customerservice/?CustomerServiceID=218">Customer Service</a></div>
 						<div id="footer-social-media">
 							<div class="social-wrap">
 								<div class="icon-social"><a href="http://www.youtube.com/user/AmericanPlanningAssn" target="_blank"><img src="/image/icon-youtube.png" alt="YouTube Icon"></a></div>
@@ -254,7 +249,7 @@
 					</div>
 					<div id="footer-wrap-2">
 						<div id="footer-links-2"><a href="javascript:print();">Print</a><a href="/customerservice/?CustomerServiceID=218">Contact Us</a><a href="/apaataglance/privacy.htm">Privacy Statement</a><a href="/apaataglance/copyright.htm">Legal</a></div>
-						<div id="footer-copyright"><a href="/apaataglance/copyright.htm">©2014 APA. All Rights Reserved</a></div>
+						<div id="footer-copyright"><a href="/apaataglance/copyright.htm">©2015 APA. All Rights Reserved</a></div>
 					</div>
 				</footer>
 			</div>
