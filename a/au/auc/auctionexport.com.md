@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the auctionexport.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702054130id_/https%3A//www.auctionexport.com/en/Home/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionexport.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318034251id_/https%3A//www.auctionexport.com/en/Home/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Auction Export
+
+  | 
 
   
 
 
-### PRIVACY POLICY
+###  PRIVACY POLICY
 
 AuctionExport.com recognizes the importance of protecting the privacy of all information provided by users of our website. We created the following policy guidelines with a fundamental respect for our users' right to privacy. By using [www.auctionexport.com](https://web.archive.org/) , please carefully read that you are agreeing to all the terms and conditions of our privacy policy. 
 
@@ -21,7 +23,7 @@ Our website AuctionExport.com will request that you provide personal information
 
 While we gather this information, none of it is associated with you as an individual. We use these statistics to improve our website, to monitor its performance, and to make it easier for you and other visitors to use.  
 **  
-Use of Information**   
+Use of Information **   
 Auction Export uses reasonable precautions to keep the personal information disclosed to us secure and does not disclose this information to third parties unless you first provide us with your express consent. Information obtained via our website is strictly used by Auction Export internally. Any information collected during the registration process will not be distributed or sold to outside parties unless we are ordered to do so by a legal process, such as a court order.  
 
 
@@ -51,3 +53,5 @@ We reserve the right to update our privacy policy at any time. We will post a no
 Auction Export is not responsible for the content or the privacy policies of Third-Party Websites to which it may provide links. Those are links to websites maintained by other businesses and organizations. Those links are provided as a service to users. AuctionExport.com also cannot take any liability for the accuracy or source of the information contained on any of those websites or the content of any file the user might download from those sites. We recommend to review the privacy policies of these websites to be informed of their respective privacy practices. 
 
 If you have any concerns or questions about our privacy policy or the manner in which we are implementing it, please contact us at [info@auctionexport.com](mailto:info@auctionexport.com)
+
+|  
