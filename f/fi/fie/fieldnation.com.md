@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fieldnation.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026144044id_/http%3A//www.fieldnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldnation.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318192048id_/https%3A//www.fieldnation.com/privacy) for the most accurate reproduction.*
 
-# Field Nation, LLC Privacy Policy | Field Nation
+# Field Nation, LLC Privacy Policy | Find & Hire Freelancers | Freelance Projects; Work Online
 
 **Information Collection  **
 
