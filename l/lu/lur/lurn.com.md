@@ -1,60 +1,68 @@
-> *The following text is extracted and transformed from the lurn.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128185518id_/http%3A//www.lurn.com/privacy-policy.html%3Fparams%3Dmain/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lurn.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318184411id_/https%3A//lurn.com/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Lurn
+# Lurn : Privacy Policy
 
-Thank you for visiting the Lurn.com ("Lurn.com") personal data management and e-commerce Internet web site ("Site") located at the URL [www.Lurn.com](http://www.lurn.com/).
+**What information do we collect?**
 
-This Privacy Policy details certain policies governing Lurn.com's use of personally identifiable information provided to Lurn.com via this Site.
+We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. 
 
-**Privacy Policy Updates**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Due to the Internet's rapidly evolving nature, Lurn.com may need to update this Privacy Policy from time to time. If so, Lurn.com will post its updated Privacy Policy on our Site located at www. Lurn..com so you are always aware of what personally identifiable information we may collect and how we may use this information. Lurn.com encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**Information Collection and Use**
+ **What do we use your information for?**
 
-You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site, for you to use certain services, we may require you to register for an account, or we may invite you to submit questions or comments or request information, participate in surveys, questionnaires or contests, subscribe to newsletters or participate in community forums. Due to the nature of some of these activities, we may ask that you complete and submit an online form with personally identifiable information such as your name, username, email address, contact information and credit card information.
+Any of the information we collect from you may be used in one of the following ways: 
 
-We may use your personally identifiable information to deliver certain services, products or information you have requested, verify your authority to enter certain password protected areas of the Site, send you notices for products and/or services that you have used or that may be of interest to you, and improve the content and general administration of the Site.
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-If you are a registered user and post to any of the Site's community areas such as forums, other registered users of this Site may view your username and may send you emails, but they will not be able to see your actual email address.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-We may use your personally identifiable information to send you advertisements and other promotional information regarding our products and services, or the products and services provided by our product lines, third party marketing partners, and/or other communications related to the Site.
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-**Children's Privacy**
+; To process transactions
 
-Lurn.com recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. No personally identifiable information is collected by Lurn.com and Lurn.com's services and Site are not intended for children under the age of 13.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-Lurn.com does not target its services or this Site to children under 13. Lurn.com does not knowingly collect personally identifiable information from children under the age of 13.
+; To administer a contest, promotion, survey or other site feature
 
-**Cookies**
+; To send periodic emails
 
-We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user's visit. Cookies generally do not permit us to personally identify you. Cookies must be enabled for you to use certain areas of the Site.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Advertisements that may appear on this Site are delivered to users by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. Lurn.com does not have access to or control of the cookies that may be placed by the third party advertisers.
+ **How do we protect your information?**
 
-**Aggregate Information**
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses, External Web Sites (defined below) linked to, and we may analyze this data for trends and statistics in the aggregate.  However, such information will be maintained, used, and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movements, and gather broad demographic information for aggregate use. We may share this aggregate information with third parties to assist them in targeting advertisements to appropriate audiences.
+**Do we use cookies?**
 
-**Disclosure**
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We may provide your personally identifiable information that we collect and the data generated by cookies to the vendors and service agencies that we may engage to assist us. For example, we may provide your personally identifiable information to an organization in order to complete a service (e.g., process a payment).
+ **Do we disclose any information to outside parties?**
 
-We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any other company or organization except that we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Lurn.com participates, or to a purchaser of all or substantially all of Lurn.com's assets to which this Site relates.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Links to Third Party Sites**
+ **Third party links**
 
-The Site may provide links to other Web sites or resources over which Lurn.com does not have control ("External Web Sites"). Such links do not constitute an endorsement by Lurn.com of those External Web Sites. You acknowledge that Lurn.com is providing these links to you only as a convenience, and further agree that Lurn.com is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Security**
+ **Your Consent**
 
-We may employ procedural and technological security measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Lurn.com may use encryption, secure socket layer, firewalls, internal restrictions, password protection and other security measures to help prevent unauthorized access to your personally identifiable information.
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
 
-**Correction/Updating Personally Identifiable Information**
+ **Changes to our Privacy Policy**
 
-Lurn.com provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us…
+If we decide to change our privacy policy, we will post those changes on this page. 
 
-* You may access your account and review, correct and delete your personally identifiable information  
-* Or you may contact us through our contact form .
+**Contacting Us**
 
-If you have any questions regarding this Privacy Policy please contact us using  this form .
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+https://lurn.com  
+100 Lakeforest Boulevard, Suite 610  
+Gaithersburg, MD 20877  
+United States  
+customersupport@lurn.com
