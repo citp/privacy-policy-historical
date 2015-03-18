@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tileshop.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704071835id_/http%3A//www.tileshop.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tileshop.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318212231id_/http%3A//www.tileshop.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security All things Tiles!
+# Privacy and Security
 
 ### **SUMMARY**
 
