@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdonalds.com.au privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102162206id_/https%3A//mcdonalds.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.au privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318092508id_/https%3A//mcdonalds.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | McDonald's Australia
 
