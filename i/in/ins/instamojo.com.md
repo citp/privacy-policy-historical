@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instamojo.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712220744id_/https%3A//www.instamojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamojo.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318080330id_/https%3A//www.instamojo.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,7 +14,8 @@ We gather various types of Personal Information from our users, as explained mor
 
 **II. WHAT INFORMATION DOES COMPANY COLLECT?**
 
-**A. Information You Provide to Us:** We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, email address, bank account information, browser information, and third-party account credentials (for example, your log-in credentials for Facebook or other third party sites). If you provide your third-party account credentials to us, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.
+**A. Information You Provide to Us:**  
+We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, email address, bank account information, browser information, and third-party account credentials (for example, your log-in credentials for Facebook or other third party sites). If you provide your third-party account credentials to us, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.
 
 If you have provided us with a means of contacting you, we may use such means to communicate with you. For example, we may communicate with you about your use of the Services. Also, we may receive a confirmation when you open a message from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us that are not important to the Service, please indicate your preference by clicking on the unsubscribe link provided at the bottom of each email sent to you by us. Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes. 
 
@@ -44,13 +45,19 @@ We neither rent nor sell your Personal Information in personally identifiable fo
 
 Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism. appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
 
-We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. The Services may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
+We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.   
+The Services may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
 
 **V. WHAT PERSONAL INFORMATION CAN I ACCESS?**
 
 Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
 
-• name, User ID and password • email address • location • payment information • bank account information • user profile information, including images and videos you have uploaded to the site
+• name, User ID and password  
+• email address  
+• location  
+• payment information  
+• bank account information  
+• user profile information, including images and videos you have uploaded to the site
 
 The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at [support@instmojo.com](mailto:support@instmojo.com). Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to [privacy@instamojo.com](mailto:privacy@instamojo.com).
 
