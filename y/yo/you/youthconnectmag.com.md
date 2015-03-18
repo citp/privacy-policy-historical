@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthconnectmag.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628033951id_/http%3A//www.youthconnectmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthconnectmag.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318145921id_/http%3A//www.youthconnectmag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Youth Connect
 
