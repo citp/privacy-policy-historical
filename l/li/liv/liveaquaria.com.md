@@ -1,36 +1,47 @@
-> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208175610id_/http%3A//www.liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318221316id_/http%3A//www.liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D506) for the most accurate reproduction.*
 
-# LiveAquaria.com Privacy & Security Policies
+# Welcome to LiveAquaria.com!
 
-LiveAquaria.com is very sensitive to the issues of online privacy and electronic security. As we establish and maintain an online relationship with you, we want you to know we will always do whatever possible to ensure a secure and private environment to maintain your unquestioned trust.
+|  | 
 
-**Privacy Policy**  
-At LiveAquaria.com, we are committed to honoring and respecting your individual privacy. The following paragraphs describe our privacy policies regarding the personal information you provide us as well as information we collect about how our visitors use our site. 
+|  |  |  [ Freshwater Fish ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=830) |  [ Pond Fish ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=900) |  [ Pond Plants ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=767) |  [ Foods/Marine Plants ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=3468) |  [ Freshwater Inverts ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=1075) |  [ Freshwater Plants ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=768)  
+---|---|---|---|---|---  
+[ Marine Fish ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=15) |  [ Corals ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=597) |  [ Live Rock ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=393) |  [ Reef Cleaner Packs ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=420) |  [ Marine Inverts ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=497) |  [ ORA Fish/Coral/Inv ](http://www.liveaquaria.com/product/aquarium-fish-supplies.cfm?c=3352)  
+  
+Welcome to LiveAquaria.com!
 
-**Personal Information**  
-When placing your first order on LiveAquaria.com, you will be asked to provide billing and shipping information which will be stored securely and used to process your order. Your information will then be pre-filled for your convenience on future orders. If you choose, we can also pre-fill your credit card information on subsequent orders. 
+|   | 
 
-The information you supply is protected by your personal Password, along with your User ID, so that only you have access to your account information. You are free to review or change your account information at any time by clicking on the My Account link at the top of each page. 
+Effective February 2, 2015, we have updated our Privacy Policy in connection with our joining the Petco family of companies, and to reflect the growth and progress of our business, as well as to clarify the information that may be collected through our site and how that information may be used and shared. Information collected through liveaquaria.com after that date will be subject to the terms of our new Privacy Policy. Read the full [Privacy Policy here](http://www.petco.com/petco_page_PC_privacypolicy.aspx).
 
-**E-mail**  
-We believe that your email address is private information and you have our assurance that we do not rent or sell your email address to anyone. We use your email address to send you order-related emails, like shipping confirmations, as well as informational/sale newsletters. 
+Here are the primary changes:
 
-_We will always try to contact you by phone if we have a question about an order you placed. If we are unable to reach you by phone, we may also try to contact you by email._
+  * As our business has expanded, our family of online stores has become more active. We have expanded the disclosure regarding the types of information that you may provide when making purchases through our site or one of our affiliated sites.
+  
 
-You may opt out at any time from any or ALL email newsletters, either online or by using the links provided in every newsletter issue. 
+  * You may have noticed that we have expanded our business to offer you a wider variety of services for your pet and different ways to interact with our site. We have clarified that information about you may be collected from interactive forums, social networks, and other functionalities on our site; and that your location information may be collected.
+  
 
-  * Read our [Email Newsletter Manager FAQ](https://web.archive.org/general/general.cfm?general_pagesid=296)
-  * [**View samples & sign up today!**](https://web.archive.org/Newsletters/index.cfm)
+  * We have clarified how we and our affiliated companies may use information collected through our site. 
+  
 
+  * We have expanded our disclosures regarding the use of cookies and similar technologies to reflect new technologies that we and our business partners may use on our site, and that usage data and the like is generated by certain activities on our site.
+  
 
+  * We have added disclosures about do-not-track technologies and the collection of information through our site by third parties, in accordance with recent legislation. 
+  
 
-**Secure Shopping**  
-[](https://www.scanalert.com/RatingVerify?ref=liveaquaria.com) All orders on our site are encrypted using Secure Socket Layer (SSL) technology - one of the most prevalent and secure systems available online. SSL is an extremely complex form of cryptography that makes it virtually impossible for a third party to decrypt any personal information you provide. You can rest assured that your personal and credit card information is protected when transmitted online. You can find detailed information about SSL technology and how it works online using any of the search engines. 
+  * We have clarified that, in the event of a merger or acquisition, the information collected through the site may be transferred to our acquirer. In addition, we have clarified that there are other circumstances in which we may disclose information to third parties; for example, to comply with a legal process or government regulation, enforce our agreements, protect our and others' safety and security, to permit our service providers to perform functions on our behalf, or to complete a transaction for you.
+  
 
-**Cookies**  
-We use computer "cookies" only to assist us in identifying our valued returning customers and tracking items placed in their shopping carts. We store an identification number in your cookie that is only significant to LiveAquaria.com. No personal information is stored in your cookie. If you attempt to shop and have cookies disabled, we will not be able to remember items you have placed in your shopping cart. 
+  * California customers are entitled by law to know with whom we share certain types of information (affiliates and third parties) who are permitted to use it for marketing purposes. Our updated privacy policy provides an easy mechanism for you to request and receive such information.
+  
 
-**JavaScript**  
-We use JavaScript for many useful features such as instantly displaying backordered items, recalculating your order total when selecting a different shipping method and for displaying pop-up information for products and assistance throughout our site. Having JavaScript enabled isn't a requirement for using our site. However, these features are designed to enhance your online shopping experience and to make shopping online more convenient for you. 
+  * We take the security and privacy of your information seriously, but even with appropriate precautions, there is always the unfortunate possibility of a security breach. Our updated Privacy Policy clarifies that any information submitted through the site is at your risk, and that you play a part in securing your information by protecting your log-in information.
+  
 
-**If you have any questions regarding our privacy practices, please[contact us](https://web.archive.org/forms/contact_us.cfm)!**
+  * Finally, we have expanded the ways in which you can contact us to include our phone number and address, and the ways you can update your information and preferences.
+
+  
+  
+---|---
