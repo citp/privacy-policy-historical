@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentpay.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701123411id_/https%3A//www.parentpay.com/ParentPay/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentpay.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318161452id_/https%3A//www.parentpay.com/ParentPay/Privacy-Policy) for the most accurate reproduction.*
 
 # - ParentPay
 
@@ -48,12 +48,15 @@ This policy will be reviewed and updated versions will be posted on the website.
 
 **Further information**  
 To request a copy of the data held about you, or if you would like more information about Data Protection in ParentPay, contact:  
-The Data and Information Security Officer  
-ParentPay Ltd  
-Number Three Siskin Drive  
-Middlemarch Business Park  
-Coventry  
-CV3 4FJ
+The Data and Information Security Officer
+
+ParentPay Limited, 
+
+The Exchange Express Park, 
+
+Bristol Road, Bridgwater, Somerset. TA6 4RR 
+
+Tel:02476 994 820
 
 Requests for data access will normally be responded to within 40 calendar days of receipt. ParentPay charges a fee for dealing with a data access request and will not provide the data until the fee has been received. The current fee is £10 and should be sent by cheque made payable to “ParentPay Limited” to the address above, along with the data access request.
 
