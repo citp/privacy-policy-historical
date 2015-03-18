@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trinket.io privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629185736id_/http%3A//trinket.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinket.io privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318025213id_/https%3A//trinket.io/privacy) for the most accurate reproduction.*
 
-# Trinket: Privacy
+# Privacy
 
 Our privacy policy applies to information we collect when you use or access our website, application, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective six (6) weeks after we post the revised privacy policy (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
 
