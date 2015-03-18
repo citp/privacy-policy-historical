@@ -1,37 +1,38 @@
-> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410150248id_/http%3A//www.ruroc.com/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318194213id_/http%3A//www.ruroc.com/content/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Ruroc
 
-Ruroc is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Ruroc Web site and governs data collection and usage. By using the Ruroc website, you consent to the data practices described in this statement.
+Ruroc is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Ruroc Limited (company number 07450896) whose registered office is at North Warehouse Second Floor, Gloucester Docks, Gloucester, United Kingdom ("Ruroc") This privacy policy applies to the Ruroc Web site <http://www.ruroc.com/> and governs our collection and use of personal data. By using the Ruroc website, you consent to the data practices described in this statement.
 
 ## Collection of your Personal Information
 
-Ruroc collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Ruroc also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.  
+When you get in touch or make a purchase, Ruroc collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Ruroc also collects demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favourites.  
 There is also information about your computer hardware and software that is automatically collected by Ruroc. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Ruroc for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Ruroc Web site.  
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Ruroc public message boards, this information may be collected and used by others. Note: Ruroc does not read any of your private online communications.  
-Ruroc encourages you to review the privacy statements of Web sites you choose to link to from Ruroc so that you can understand how those Web sites collect, use and share your information. Ruroc is not responsible for the privacy statements or other content on Web sites outside of the Ruroc and Ruroc family of Web sites.
+Ruroc encourages you to review the privacy statements of third party Web sites you choose to visit from Ruroc so that you can understand how those Web sites collect, use and share your information. Ruroc is not responsible for the privacy statements or other content on Web sites outside of the Ruroc and Ruroc family of Web sites.
 
 We do not store credit card details nor do we share customer details with any 3rd parties
 
-## Use of your Personal Information
+### Use of your Personal Information
 
-Ruroc collects and uses your personal information to operate the Ruroc Web site and deliver the services you have requested. Ruroc also uses your personally identifiable information to inform you of other products or services available from Ruroc and its affiliates. Ruroc may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.  
-Ruroc does not sell, rent or lease its customer lists to third parties. Ruroc may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Ruroc may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Ruroc, and they are required to maintain the confidentiality of your information.  
+Ruroc collects and uses your personal information to operate the Ruroc Web site and deliver the products or services you have requested. Ruroc also uses your personally identifiable information to inform you of other products or services available from Ruroc and its affiliates. Ruroc may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.  
+Ruroc does not sell, rent or lease its customer data to third parties. Ruroc may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Ruroc may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Ruroc, and they are required to maintain the confidentiality of your information.  
 Ruroc does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.  
 Ruroc keeps track of the Web sites and pages our customers visit within Ruroc, in order to determine what Ruroc services are the most popular. This data is used to deliver customized content and advertising within Ruroc to customers whose behavior indicates that they are interested in a particular subject area.  
 Ruroc Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Ruroc or the site; (b) protect and defend the rights or property of Ruroc; and, (c) act under exigent circumstances to protect the personal safety of users of Ruroc, or the public.
 
 ## Use of Cookies
 
-The Website use "cookies" to help you personalize your online experience. For more information please read [About Cookies](http://www.ruroc.com/info/4/privacy-policy/#about-cookies) below.
+The Website use "cookies" to help you personalize your online experience. For more information please read About Cookies below.
 
 ### Cookies Used
 
 The Website uses the following essential cookies, including one other cookie used to store your shopping cart etc. This cookie usually has a long, non-descript name, which changes regularly for your security.
 
-Google Analytics  
----  
+## Google Analytics
+
 __utma | We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. These we deem necessary in order to improve our website and provide data to ensure any improvements are effective. | You can find out more about Google's position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
+---|---|---  
 __utmb  
 __utmc  
 __utmd  
@@ -52,7 +53,7 @@ You should check the respective policies of each of these sites to see how exact
 
 ## Social Plugins.
 
-On some pages within the site we use 'socail plugins'. These enable you to utilize your existing Facebook account to login to the site or post comments. They are there to enhance your experience and make interacting with the site easier. In order to implement these plugins, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website.
+On some pages within the site we use 'social plugins'. These enable you to utilize your existing Facebook account to login to the site or post comments. They are there to enhance your experience and make interacting with the site easier. In order to implement these plugins, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website.
 
 ## About Cookies
 
@@ -68,34 +69,14 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 Ruroc secures your personal information from unauthorized access, use or disclosure. Ruroc secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-## Changes to this Statement
+## Your data
 
-Ruroc will occasionally update this Statement of Privacy to reflect company and customer feedback. Ruroc encourages you to periodically review this Statement to be informed of how Ruroc is protecting your information.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at info@ruroc.com.
 
-## Contact Information
+## Changes to this policy
 
-Ruroc welcomes your comments regarding this Statement of Privacy. If you believe that Ruroc has not adhered to this Statement, please contact Ruroc at admin@ruroc.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
 
-## Haftungsausschluss:
+## Contact
 
-RUROC übernimmt keinerlei Gewähr für die Aktualität, Richtigkeit, Vollständigkeit oder Qualität der bereitgestellten Informationen.  
-Wir behalten es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Für etwaige Schäden, die beim Aufrufen oder Herunterladen von Daten durch Computerviren oder der Installation oder Nutzung von Software verursacht werden übernimmt RUROC keine Haftung.
-
-## Verweise und Links
-
-RUROC ist nur für die eigenen Inhalte verantwortlich. Bei direkten oder indirekten Verweisen auf fremde Internetseiten ("Links"), die außerhalb des Verantwortungsbereiches von RUROC  liegen, kann eine Haftungsverpflichtung nur in Kraft treten, wenn RUROC von den Inhalten Kenntnis hat und es technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.   
-Auf die aktuelle und zukünftige Gestaltung, die Inhalte oder die Urheberschaft der gelinkten/verknüpften Seiten haben wir keinerlei Einfluss. Für illegale oder fehlerhafte Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart der Informationen entstehen, haftet allein der Anbieter der jeweiligen Seite.
-
-## Urheber und Kennzeichenrecht
-
-RUROC ist bestrebt, in allen Publikationen die Urheberrechte zu beachten, von ihm selbst erstellte Grafiken, Texte oder dergleichen zu nutzen oder auf lizenzfreie Grafiken, Bilder und Texte zurückzugreifen.  
-Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind!  
-Das Copyright für veröffentlichte, selbst erstellte Objekte bleibt allein bei RUROC. Eine Vervielfältigung oder Verwendung in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung nicht gestattet.
-
-## Datenschutz
-
-Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (Emailadressen, Namen, Anschriften) besteht, erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Die Inanspruchnahme und Bezahlung aller angebotenen Dienste ist - soweit technisch möglich und zumutbar - auch ohne Angabe solcher Daten bzw. unter Angabe anonymisierter Daten oder eines Pseudonyms gestattet.
-
-## Rechtwirksamkeit des Haftungsausschlusses
-
-Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@ruroc.com
