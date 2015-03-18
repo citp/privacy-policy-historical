@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the insty.me privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921102324id_/http%3A//insty.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insty.me privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318234013id_/https%3A//insty.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  * [Privacy Policy](https://web.archive.org/privacy.php)
-  * [Terms of Service](https://web.archive.org/terms.php "Terms of Service")
-  * [DMCA Policy](https://web.archive.org/web/20140921102324id_/http%3A//insty.me/dmca.php "DMCA Policy")
-
-
+# Privacy Policy — Insty.me
 
 ### We're committed to ensuring that we respect and protect our customers' privacy
 
