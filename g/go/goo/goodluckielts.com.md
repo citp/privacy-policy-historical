@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodluckielts.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701163056id_/http%3A//www.goodluckielts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodluckielts.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318124200id_/http%3A//www.goodluckielts.com/privacy.html) for the most accurate reproduction.*
 
 # Good Luck IELTS - Advice, Tips, and Guides to the IELTS Exam
 
