@@ -1,83 +1,85 @@
-> *The following text is extracted and transformed from the e-c.al privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220163553id_/http%3A//ecal.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-c.al privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318144218id_/http%3A//ecal.com/privacy) for the most accurate reproduction.*
 
-# Professional Event Management Software
+# Privacy Policy | ECAL
 
-## About us
+Last updated October 2014
 
-ECAL is a calendar content portal service operated by E-DIARY Pty Ltd an Australian company, ABN 57 141 986 110.
+****1\. Introduction****
 
-## Commitment to protecting privacy
+ECAL is a free service that allows users to receive digital calendar information via subscription (in the form of an **Event** , **Date** or **Schedule** ) shown on a website or app into their personal digital calendar ( **Calendar** ). The information within each unique event in a user’s Calendar ( **Event** ) can be changed by E-DIARY Pty Ltd or the third party source publisher of the Schedule ( **Publisher** )
 
-Privacy concerns are important, and we want our users to understand what sort of information we collect from them if they engage the ECAL application, access the ECAL website, or otherwise utilise our services, and what that information may be used for.
+ECAL is owned and operated worldwide by E-DIARY Pty Ltd ( **EPL** ). We take the privacy and security of our customer information very seriously and we are committed to ensuring that we collect, use, disclose and store your information in accordance with applicable data protection and privacy laws.
 
-This Privacy Policy explains the ways in which ECAL collects, uses, stores, and, in certain circumstances, discloses your personal information. It applies to all services provided by ECAL, including but not limited to our website and ECAL applications.
+Participation and use of the ECAL service is voluntary. If you no longer wish to receive Event-related information (including ads), you can delete your Schedule subscription anytime from within the settings in your personal Calendar and cancel the ECAL service.
 
-As an Australian incorporated entity it is ECAL’s policy to comply with the National Privacy Principles, as set out in the _Privacy Act 1988_ (Cth).
+We also follow our own ECAL contact policy (“contact standards”) which means we will only ever send Event-related information directly to your Calendar if it is deemed, in our sole opinion, ‘specific and relevant’ to you (based on your known profile) or one of your Schedules or Events.
 
-Your use of ECAL services and any personal information you provide remain subject to the terms of this Privacy Policy and associated ECAL User Terms of Service.
+We may vary this Privacy Policy from time to time, the most recent version can always be accessed at [www.ecal.com](http://www.ecal.com/ "www.ecal.com").
 
-Where our Service contains links to third-party websites, these sites are governed by their own privacy statements. ECAL is not responsible for their operation, including but not limited to their information privacy practices.
+**2\. Information gathering**
 
-## Types of information collected
+We may collect the following types of information:
 
-When you use our services, we collect personal information about you. Personal information we may collect includes, but is not limited to, your name, date of birth, gender, current and previous addresses, telephone or mobile numbers, email addresses, user names, and geographic information. For access to paid or subscription services, we may require you to provide credit card or other payment information. We may also ask you to provide your username and password for third party websites or services in order to provide access to articles and information published on such sites.
+  * ****Information you provide us** – **Personal information that you provide to us (for example, during registration or subscribing for a particular Schedule) including but not limited to: your name, email address, telephone number, physical address, birth date, gender, country or postcode.
+  * **Usage information** – We may receive and store certain types of information relating to your usage of the ECAL service. For example, we may collect data relating to you subscribing to a Schedule, opening, accepting or declining specific Events within a Schedule, the Calendar software platform you are using, device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number), click-stream data, your location, browser fingerprints, the Calendar and browser’s communication with our servers and information from your social networks if you use our social/‘single sign on’ feature. We may also use audience and traffic measurement services that allow us (and Publishers and our third party marketing agencies and partners) to collect anonymous traffic and behavioral information from the ECAL service by monitoring anonymous visitor activity.
+  * ****Information from other sources** – **We may receive information about you from other sources (including publicly available social network information) and add it to your personal information.
 
-## Collection from third parties
 
-Where it is reasonable and practicable to do so, we will collect personal information about you only from you. We may sometimes be provided with information about you from a third party, such as a social networking site, or other site through which you have used our services. We will typically only do this with your consent.
 
-## Passive collection
+We aim to continually improve the service we offer, and the information we collect allows us to tailor our service to best suit you.
 
-When you visit our website, our server attaches a small data file called a “cookie” to your computer’s memory.
+**3\. How we may use the information collected**
 
-Cookies are pieces of information that may be transferred to your computer’s memory when you visit a website for record keeping purposes. Most web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your web browser to refuse cookies. We use cookies to provide us with anonymous information on the use of our website and to know what you find interesting on our website. We do not link this information back to your identity or other information that you have provided to us. We do not store any information that identifies you inside cookies.
+The information we collect may be used to:
 
-In addition to the information that you provide to us when you use our services, we collect information about the URLs, titles and content of the web pages and other information you access through the ECAL service. The types of passive information we collect include your Internet Service Provider, browser type, device type, settings, time zone, language, and other information related to the manner in which you access the ECAL website or applications. We also collect information about your use of the ECAL services, such as what you have read or viewed, which device you used to have access content, and what you choose to share with others. We compile aggregated data by combining information from many users, without including any information that could be used to identify you or anyone else by name.
+  * contact you in relation to your ECAL service, a particular Schedule or a particular Event;
+  * ensure that ECAL content is presented in the most effective and secure manner for you and for your device and settings;
+  * send you promotional material or offers including on behalf of ECAL Publishers or our third party marketing agencies or partners;
+  * customise the content you see including ads;
+  * provide technical support;
+  * contact you relating to your registration and/or account status;
+  * confirm or fulfill a request you have made;
+  * monitor or improve the use of the ECAL service or our website;
+  * monitor compliance with ECAL Terms & Conditions of Use;
+  * make content or service recommendations; and
+  * generally maintain and develop our relationship with you.We may not be able to do these things without your personal information. For example, we may not be able to provide our ECAL service to you.
 
-## Purpose of collection
 
-The primary purpose for collecting information is to enable ECAL to better provide you with the products or services ECAL offers, in a manner tailored to your use of the services. We may also use the information collected for other secondary purposes related to this primary purpose.
 
-## Consequences of not providing information
+****4\. With whom we share your information****
 
-If you choose not to supply certain personal information, we may not be able to provide you with the level of service or the services you require.
+At times, we may share your personal information with others for various purposes.
 
-## Use of information
+  * **Publishers:** We may provide your personal information to the Publisher(s) relating to the particular Schedule(s) that you have subscribed to via the ECAL service. Publishers may use that information to send you advertising material, marketing offers or other information relating to the Publisher’s products, services or activities (including by content updates in your Calendar, email or SMS).
+  * **Suppliers and agents:**  We may employ other businesses, certain services and individuals to perform functions on our behalf. Examples include sending e-mail, system analysis, analysing data, providing marketing assistance and providing customer service. They may have access to personally identifiable information needed to perform their functions but may not use it for their own purposes such or sending you marketing offers about their products.
+  * **Aggregate Information:**  We may share aggregate information, such as demographics and service usage statistics, with Publishers, advertisers, sponsors or other organisations. When this type of information is shared, the receiving parties do not have access to your personally identifiable information.
+  * **Other Promotional Offers:**  We may send offers to you on behalf of third party marketing agencies or our marketing partners.
+  * **Third-Party Ad Serving & Audience and Traffic Measurement Services:** We may use a third party network advertiser to serve the advertisements through the ECAL service or may use a traffic measurement service to analyse the traffic on our system. Network advertisers are third parties that display advertisements based on your usage of the ECAL service, your preferences and your usage of other sites or services you have visited. Third-party ad serving enables us to target advertisements to you for products or services you might be interested in.
 
-We use the information we collect from you to provide our services, such as accessing content, and sharing content with another person. The information that you provide and that we collect are also used to determine things such as the format for content delivery, which may differ depending on your device, and to provide other services.
 
-Information you provide is used to operate and improve ECAL, and to help us deliver the products and services we offer. For example, we may use your contact information to respond to provide you with customer support, respond to your inquiries, and to supply any products or services you have requested.
 
-Aggregate data is information (originally personally identifiable or non-personally identifiable) that subsequently is used in aggregate form. Although aggregate data may be based in part on personally 
+The ECAL Publisher(s) to which you subscribe will have access to your information, and they may send you Event-related information into your Calendar, suiting your known profile in the ECAL system.
 
-identifiable information about you, it does not identify you personally. We may use aggregate data we collect in order to conduct analysis or research, such as research about customer demographics, internet use, and interests and behaviour. We may share this type of aggregate data with a variety of third parties, including our affiliates, advertisers and other current and prospective business partners. As this form of data does not identify particular users, these third parties will not be able to contact you based solely on this data.
+We may process your personal information on a server located outside the country where you live. Organisations to whom we may disclose your information may be based outside the country where you live. For example, we may process your information or disclose your information to entities based in Australia, United Kingdom and the United States of America.
 
-Aggregate data may also be used for website administration, advertising, and promotional purposes, and we may share this information with various affiliated and unaffiliated entities. We may also enter into agreements with outside companies that possess the technology that allows us to customise the advertising and marketing messages you receive while using the ECAL services. Your non-personally identifiable information and clickstream data about your activities may be shared with these companies so this customisation can be accomplished. Our agreement with these companies restricts them from sharing your information with third parties or using it for any other purpose. Clickstream and demographic information may also be shared with our advertisers and business partners.
+**5.** ** **Links to other websites****
 
-ECAL may provide targeted advertisements based on information about you, such as your interests. ECAL does not provide any personally identifiable information to the advertiser when you interact with or view a targeted ad, although advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria.
+You should be aware that when you use the ECAL service, there may be links in the Event entries delivered to your personal Calendar. These links when clicked may direct you to other websites and services beyond our control. For example, if you click on a ‘Tickets’ link, this may take you to the specific ticketing provider site for that Event. This includes links from advertisers, sponsors and marketing partners that may use the ECAL service as part of a co-branding agreement. These other websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a website that is linked to our system or service, you should consult that website’s privacy policy before providing any personal information.
 
-## Disclosure of information
+**6\. Access and updating**
 
-We may disclose personal information to third parties such as consultants, contractors, agents, service providers, and other persons, in the course of the performance of their duties or for the purpose of processing such information on our behalf. These parties are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide to them for any other purpose except to facilitate the specific operation requested, unless you have explicitly agreed or given your prior permission to them for additional uses.
+If you would like to request a copy of this privacy policy or your data or would like to change the information we hold about you, please email privacy@ecal.com. We may refuse to provide access and may charge a fee for access if the relevant law allows us to do so, in which case we will provide reasons for our decision as required by law.
 
-## Access to information
+**7\. Security**
 
-Subject to certain exceptions under the _Privacy Act 1988_ (Cth), you have a right to access your personal information. We will take reasonable steps to correct any information you establish is not accurate, complete and up-to-date. To request access to any personal information we hold about you, contact us in writing as per the contact details at the end of this Privacy Policy. To access any information we hold we will require you to verify your identity, and specify what information you require access to.
+The transmission of information via the internet is not completely secure. We cannot guarantee the security of your data transmitted to our website or ECAL service; any transmission is at your own risk. Once we have received your information, we will take reasonable steps to protect personal information we collect from you from misuse, loss or unauthorised access, modification or disclosure.
 
-## Disposal of information
+**8\. Contact us**
 
-We will take reasonable steps to destroy or de-identify personal information if it is no longer needed for any purpose for which it may be used or disclosed.
-
-## Future amendments to policy
-
-Please note this Privacy Policy will change from time to time, as we renew and update it. We may amend this Privacy Policy at any time by posting the amended terms on our website (accessible at ECAL.com) or through the menu of the ECAL application. All personal information held by us will be governed by our most recent Privacy Policy. The current version is accessible through the ECAL website, or by contacting us.
-
-## Contact
-
-For further information, or if you have any questions, comments, or concerns about any of the provisions of this Privacy Policy, please contact us:
+If you have any questions about this privacy statement, or your dealings with us, please email support@ecal.com.
 
 **E-DIARY Pty Ltd**
 
-4-10 Charter House  
-Melbourne, Victoria 3000  
-Australia
+10 Queens Road, Melbourne VIC 3004.  Australia
+
+__
