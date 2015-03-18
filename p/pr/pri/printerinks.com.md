@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718102347id_/http%3A//www.printerinks.com/privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318140603id_/http%3A//www.printerinks.com/privacy-Policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -30,7 +30,7 @@ Printerinks.com takes precautions to protect its customers' information. When yo
 
 When our registration/order form asks you to enter sensitive information (such as your credit card number), that information is encrypted and is protected with the best encryption software currently available in the industry - SSL. Printerinks.com uses the most advanced form of SSL software available: 128-bit encryption by VeriSign. To learn more about SSL, follow this link [www.verisign.com](http://www.verisign.com/ "PayPal"). 
 
-Access to all of our users' information is restricted. Printerinks.com operates in a secured and locked facility that requires all employees to check in and wear valid ID badges. Security cameras are positioned throughout the building in conjunction with multiple alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We do not store your financial information in our system so for future transactions, you will be required to re-enter your information. 
+Access to all of our users' information is restricted. Printerinks.com operates in a secured and locked facility that requires all employees to check in and wear valid ID badges. Security cameras are positioned throughout the building in conjunction with multiple alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We do not store your financial information in our system. 
 
 All Printerinks.com servers, including web servers and database servers, are housed and maintained in secure locations. Access to the database is strictly monitored and protected from outside access. Internet access is restricted and protected by multiple Checkpoint and Cisco firewalls and password protection. The servers on which we store personally identifiable information are kept in a secured environment, inside a secured and locked room. All backups are stored and locked in a high-level security room. Only personnel with proper security clearance have access to these restricted areas. Tape backups are not permitted to leave the premises without prior authorization. 
 
