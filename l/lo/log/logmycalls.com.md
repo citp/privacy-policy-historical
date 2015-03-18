@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logmycalls.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230074805id_/http%3A//www.logmycalls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logmycalls.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318144052id_/http%3A//www.logmycalls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
