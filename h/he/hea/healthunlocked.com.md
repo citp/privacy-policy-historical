@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705133632id_/https%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318145642id_/https%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
 
-# HealthUnlocked
+# HealthUnlocked | The social network for health
 
-**Last modified: 15/5/2013**
+**Last modified: 15/5/2013**  
+ **Last reviewed: 15/7/2014**
 
 At HealthUnlocked we believe in the potential of shared experiences to transform lives and uncover understanding in health. Because this may involve you sharing sensitive information about your health and treatment we also believe in the importance of clear and transparent privacy guidelines. As a user it’s important you know how we use and share your data and how you can control what happens to information you share in HealthUnlocked.
 
@@ -38,11 +39,11 @@ We may contact you for research purposes, such as taking part in surveys or clin
 
 ##### Patient Organizations and other Affiliates
 
-Health organizations and other affiliates of HealthUnlocked can access and export anonymized and aggregated data reports from users within their HealthUnlocked community who have chosen to share their data. An affiliate refers to any non-profit health organization, patient group, individual, hospital, or medical professional with which HealthUnlocked is in partnership and who has agreed to and filled out the [Terms of Engagement for Affiliates](http://healthunlocked.com/policies/?toe_affiliates).
+Health organizations and other affiliates of HealthUnlocked can access and export anonymized and aggregated data reports from users within their HealthUnlocked community who have chosen to share their data. An affiliate refers to any non-profit health organization, patient group, individual, hospital, or medical professional with which HealthUnlocked is in partnership and who has agreed to and filled out the [Terms of Engagement for Affiliates](http://healthunlocked.com/policies/communities/terms).
 
 ##### Doctors and other Healthcare Professionals
 
-HealthUnlocked welcomes Healthcare Professionals (HCPs) using both the HealthUnlocked Communities® and the HealthUnlocked In Clinic® systems. When Doctors and Healthcare Professionals use HealthUnlocked to manage their patients online, information will not be made available to them unless a patient chooses to share this information with them. If patients consent, this information can also be used and aggregated for research and audit by the doctors in their academic studies. See the [Terms of Engagement for HCPs](http://healthunlocked.com/policies?toe_hcps).
+HealthUnlocked welcomes Healthcare Professionals (HCPs) using both the HealthUnlocked Communities® and the HealthUnlocked In Clinic® systems. When Doctors and Healthcare Professionals use HealthUnlocked to manage their patients online, information will not be made available to them unless a patient chooses to share this information with them. If patients consent, this information can also be used and aggregated for research and audit by the doctors in their academic studies.
 
 ##### Institutions and Industry
 
@@ -80,7 +81,7 @@ Our service is hosted on third party servers with may be outside the EEA. We hav
 
 HealthUnlocked uses cookies to provide basic site functionality and to improve the performance and user experience throughout the site. We may also store encrypted information about you using cookies which we can access when you visit our site in the future.
 
-Learn more about HealthUnlocked, cookies and how you can control which cookies are used [here](http://healthunlocked.com/policies/?cookies).
+Learn more about HealthUnlocked, cookies and how you can control which cookies are used [here](http://healthunlocked.com/policies/cookies).
 
 ### 6\. Communications With You
 
