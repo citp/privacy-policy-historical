@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muppetism.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122174238id_/http%3A//www.muppetism.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muppetism.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318181611id_/https%3A//www.muppetism.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Muppetism
 
