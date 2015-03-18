@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bermanhosting.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703031123id_/https%3A//bermanhosting.com//privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bermanhosting.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319005849id_/https%3A//bermanhosting.com//privacy.php) for the most accurate reproduction.*
 
 # BermanHosting.com - Privacy Policy
 
 ## In an effort to protect our clients' and site visitors privacy and rights, BermanHosting.com has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather.
 
-If you are looking for a reliable, flexible and friendly host, I would recommend Berman Hosting without hesitation. 
+You guys are absolutely FANTASTIC! I don't get service this good anywhere else but you guys deliver for me every single time. Great help, great turnaround time on requests. I just can't praise your service and your people enough. 
 
-Adam Jubane, AJ Media
+P. Sandler, TEK
 
 This Privacy Policy governs the manner in which BermanHosting.com collects, uses, maintains and discloses information collected from users of this Web site (each, a "User").
 
