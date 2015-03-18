@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopatdisney.in privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703005727id_/http%3A//www.shopatdisney.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopatdisney.in privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318122521id_/http%3A//www.shopatdisney.in/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
