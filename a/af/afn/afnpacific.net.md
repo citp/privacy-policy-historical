@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afnpacific.net privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829130123id_/http%3A//www.afnpacific.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afnpacific.net privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318052236id_/http%3A//afnpacific.net/privacy.aspx) for the most accurate reproduction.*
 
 # American Forces Network Pacific > Home
 
