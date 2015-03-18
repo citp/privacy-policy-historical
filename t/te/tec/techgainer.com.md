@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the techgainer.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014195924id_/http%3A//www.techgainer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgainer.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318021848id_/http%3A//www.techgainer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechGainer
+
+### Privacy Policy
 
 At TechGainer.com, we take the privacy of our users very seriously. Please note that any personal information you provide us or we collect ourselves, is never shared or sold with any entity or individual. You can find details below about when, how and what we may record some of personal information of our users. Read on.
 
