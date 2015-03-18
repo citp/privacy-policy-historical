@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learncamtasia.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215022552id_/http%3A//www.learncamtasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learncamtasia.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318223927id_/http%3A//www.learncamtasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learn Camtasia - Online Camtasia Training and Tutorials
 
