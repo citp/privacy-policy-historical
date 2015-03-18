@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lisaangelettieblog.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813050335id_/http%3A//wp.me/PfZux-5g) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lisaangelettieblog.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318052815id_/http%3A//wp.me/PfZux-5g) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,9 +70,9 @@ Company is controlled, operated and administered entirely within Pennsylvania. T
 **Advertising**  
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you:
 
-\- Google, as a third party vendor, uses cookies to serve ads on our site.  
-\- Google’s use of the DART cookie enables it to serve ads to users based on visits to our sites and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+– Google, as a third party vendor, uses cookies to serve ads on our site.  
+– Google’s use of the DART cookie enables it to serve ads to users based on visits to our sites and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 The following two tabs change content below.
 
