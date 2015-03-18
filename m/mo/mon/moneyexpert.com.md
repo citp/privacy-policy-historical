@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901082903id_/http%3A//www.moneyexpert.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318093455id_/http%3A//www.moneyexpert.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,19 +36,19 @@ By using our website, and completing an enquiry form, you will be regarded as ha
 
 MoneyExpert Limited use third party email service suppliers to send our customers emails.
 
-If you do not wish to be contacted by via email us in future, please click the unsubscribe link in the email and follow the instructions. We will then cease to contact your via email to offer products and services that you may be interested in.
+If you do not wish to be contacted by us via email in future, please click the unsubscribe link in the email and follow the instructions. We will then cease to contact your via email to offer products and services.
 
 Alternatively, you can email us at unsubscribe@moneyexpert.com, requesting that your email address is removed.
 
-MoneyExpert's price comparison service involves us passing the details you input to our website to our partners. This enables the partners to provide us with quotations on the products and services that you have requested. If you do decide to enter into a contract with one of our partners then the information which we have supplied to them (as well as any further information requested by them to enable to them to complete the contract) will be held by the partner. You are therefore advised to read the partners privacy policy before entering into any contract with them.
+MoneyExpert's price comparison service involves us passing the details you input on our website to our partners. This enables our partners to provide us with quotations on the products and services that you have requested. If you do decide to enter into a contract with one of our partners then the information which we have supplied to them (as well as any further information requested by them to enable to them to complete the contract) will be held by the partner. You are therefore advised to read the partners privacy policy before entering into any contract with them.
 
-We may also share your personal information with other and other professional advisers, financial organisations and advisers, sponsors and advertisers. Such parties may contact you by phone, e-mail or otherwise to inform you about products and services that may be of interest to you. If you prefer to opt out of such direct marketing activity, please let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you.
+We may also share your personal information with other professional advisers, financial organisations and advisers, sponsors and advertisers. Such parties may contact you by phone, e-mail or otherwise to inform you about any products and services that may be of interest to you. If you prefer to opt out of such direct marketing activity, please let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about any products or services that may benefit you.
 
-If you provide us with information about another person, you confirm that they have appointed you to act for them and they have consented to the processing of their personal data as set out above.
+If you provide us with information about another person, you confirm that they have appointed you to act for them and they have given consent for you to process their personal data as set out above.
 
-If your enquiry is in regard to Mortgage advice, we will arrange for one of our to contact you by phone. In some circumstances, we may arrange for an alternative Mortgage Adviser to contact you. In these cases, we will notify you of the name of the adviser and request your permission for your details to be sent to them before any contact is made.
+If your enquiry is in regard to Mortgage advice, we will arrange for one of our partners to contact you by phone. In some circumstances, we may arrange for an alternative Mortgage Adviser to contact you. In these cases, we will notify you of the name of the adviser and request your permission for your details to be sent to them before any contact is made.
 
-MoneyExpert may also disclose your personal information to governmental bodies and regulators where required to do so by law, or where necessary for MoneyExpert Limited to fulfil our regulatory obligations.
+MoneyExpert may also disclose your personal information to government bodies and regulators where required to do so by law, or where necessary for MoneyExpert Limited to fulfil our regulatory obligations.
 
 ### Information disclosure outside of the UK
 
