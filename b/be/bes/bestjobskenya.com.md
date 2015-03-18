@@ -1,63 +1,87 @@
-> *The following text is extracted and transformed from the bestjobskenya.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702223838id_/http%3A//www.bestjobskenya.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobskenya.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318021041id_/http%3A//www.bestjobskenya.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy :: Best Jobs Kenya
+# 
 
-**PRIVACY POLICY**  
----  
-  
-  * **Overview**
+See also [Legal Disclaimer](https://web.archive.org/web/20150318021041id_/http://www.bestjobskenya.com/legal/)
 
-**Best Jobs Kenya** is committed to ensuring that your privacy is protected. We are committed to upholding the eight data protection principles of good information handling practice.
+## 1\. Privacy and data protection
 
-  *  **General privacy statement**
+This Privacy and Data Protection Policy regulates the treatment we give to the information received in the access and use of the services of the Website, which DGNET LTD. (Hereinafter "BJN") makes available free of charge to Internet users interested in its services and content (hereinafter "Users").In accordance with current legislation regarding the protection of personal data, the Data Protection Act 1998, BJN and other owners of the website must meet certain requirements to ensure that any information that Users provide to us is treated with care and confidentiality.
 
-We may only use your email address or personal details to contact you from time to time about matters directly related to our website, such as sending you a password reminder, or changes in our website that may affect you. Your email address or any other part of your personal information will never be used for marketing purposes or be disclosed to third parties. You will be able to remove any of your personal information stored in our systems at any time, by using the on-line forms in our website.
+## 2\. Data collected
 
-We use your IP address to help diagnose problems with our server, to administer our web site, and to keep a record of pages accessed by our visitiors. Your IP address is used to gather broad demographic information. Demographic and profile data is also collected at our site. This information could be shared with advertisers on an aggregate basis only.
+If the user registers on the Website he will be requested personal data by filling in a registration form. The data requested are strictly necessary to achieve the purpose of the Website, and will be stored and processed exclusively with the object and always within the established regulatory framework.The personal data requested from the individual include name, address, email address, academic and professional history and experience. Fields marked with an asterisk (*) in the registration form must be filled compulsorily because they are essential to fulfill his request of services.Additionally, BJN collects User responses and results of evaluations and assessments of employability conducted in different parts of the Site, in addition to aggregated (not individually identifiable) information that provides a better understanding of the Users of the Website as a whole and helps us provide a better service.
 
-This site contains links to other sites. We are not responsible for the privacy practices or the content of such web sites.
+## 3\. Purpose
 
-  *  **The privacy of your resume**
+BJN collects personal data of users in order to facilitate contact between Jobseekers and Employers, and provide tools and services that support the search processes, including the sending via email of job offers, offers of training services and other related products which, according to the User profile, Best Jobs considers may be of interest.Users aggregated data is also collected to perform statistical analysis to analyze and improve the performance of services and the Site.
 
-We consider your resume as a personal document and we wish you to have full control over it, and whether or not you wish to have your contact details (name, address, telephone number) visible to employers.
+## 4\. User Consent
 
-We give you the option of putting your resume in our searchable database and we don't oblige you to give any personal details, except your email address. We provide you with the choice of which personal details you wish to give and which you do not. It's entirely up to you to decide what personal information you want to be included.
+The use of the Website and the registration or delivery to BJN of personal data implies consent of the User to automatic processing of personal data and sending electronic communications with information related to BJN and its initiatives. During the registration process, the user determines his level of privacy settings. The User agrees that his data may be transferred to third parties according to the functionality of the website, unless you have opted for other privacy settings. For these purposes the term “third party” is used to identify "those users or entities wishing to contact the User" in relation to the recruitment process.The user who registers (both Jobseeker and Employers) expresses his knowledge and therefore expressly consents that their data and the content he provides will be publicly viewable on the Website and Internet search engines, and may be provided to other companies as part of the service, for example to companies providing payment gateways.The User expressly consents to the transfer of his data to companies associated or belonging to the DGNET group or its shareholders for sending promotions and deals themselves or from others related to the interests and profile of the User. The effects of this authorization shall extend to all parties involved in a sale, merger, transfer of assets or corporate reorganization.
 
-When registering your resume, we will ask you to give us your email address. This email address will be disclosed to potential employers and recruiters looking for employees in our online database, and apart from that, we will only use it to send you resume update reminders and to contact you about matters directly related to this website.
+## 5\. Security
 
-Making your resume searchable considerably increases your exposure to potential employers. To prevent your resume from being searched and viewed by our clients you can choose to remove it from our database at any time, by using our on-line form. After removing your resume from our database, no copy of your details will be kept in any of our systems, and you can be sure they have been completely deleted and no further access will be possible from anyone, including us.
+The security of your data is very important for BJN.
 
-We make an effort to limit access to our resume services only to employers or recruiters wishing to find employees. If any business is found to be using our resume services for something different to this, then we will immediately terminate their use of our services.
+BJN has taken the necessary technical and organizational measures established by legal regulations to ensure the security of personal data and avoid its alteration, loss, or unauthorized access, given the state of technology, the nature of the data stored and the risks to which they are exposed.When customers make payments online on the Website, the information in the User’s credit card is encrypted using SSL (Secure Socket Layer). This protocol makes it difficult for the card information from being intercepted during transmission. We use several specialized companies to process all online payments. For more information on privacy policies and security mechanisms of these companies, please click here.
 
-Although you may remove your resume from our searchable database at any time, companies who have had access to the database may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of your resume by companies in these instances.
+## 6\. Cookie Settings
 
-  *  **Jobs by email service**
+The Best Jobs Website uses cookies to improve your browsing experience. It is the best way to provide personalized and relevant content through the Website.
 
-If you subscribe to the _Jobs by email_ service, you will receive once or twice a week, a free email message including those jobs that have been published in the locations and categories specified by you when you subscribed. You can change your search criteria at any time or unsubscribe at any time by using our on-line forms. Your email address will never be disclosed to any third party, and will only be used by us to send you job updates, or to contact you about matters directly related to our website.
+### What are cookies?
 
-  *  **Use of cookies**
+A cookie is a small file that is stored on the User’s computer, smartphone or tablet that collects information about your browsing or your device. Cookies monitor the User’s session, improve the loading time of the Website, avoid showing the user repetitive information, etc.
 
-We use _"cookies"_ to "remember" log-in details of users who enter the employers area. A _"cookie"_ is a text file that is placed on your hard drive by a web page server. Each time the browser requests a page from the server, this text is sent back. _"Cookies"_ are not used to run programs or deliver viruses to your computer. _"Cookies"_ are uniquely assigned to your computer, and can only be read by a web server in the domain that issued the cookie to you. If you are using a shared computer and have entered the employers area, please ensure that you log out or close down the browser before leaving the computer for the next user.
+### Cookies from BJN
 
-  *  **Security**
-
-We have implemented reasonable technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, we cannot guarantee that unauthorised third parties will never be able to defeat those measures or use your personal information for improper purposes.
-
-When you make payment on-line on this site, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it extremely difficult for your credit card information to be intercepted or stolen while being transmitted. We use a service company to process our credit card transactions. For further information on this company's privacy and security practices, please [click here](http://www.worldpay.com/).
-
-  *  **Children**
-
-This site is not intended for children under 16 years of age. We do not knowingly collect any information from children under 16.
-
-  *  **Changes to this privacy policy**
-
-If we ever change this privacy policy, we will post the changes on this page and inform by email all our users so that anyone may be aware of them and they will be given a chance to ask us not to use their information for the changed purposes.
-
-  *  **Contact**
-
-The **Best Jobs Kenya** website is property of DGNET LTD., private limited company incorporated in Scotland(UK), number 189977, and with registerd office in 10 York Place, Edinburgh EH1 3EP (United Kingdom). If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, you can [contact us here (click here)](https://web.archive.org/contact.htm). We welcome your comments concerning this privacy policy. If you believe that we have not adhered to this policy, please let us know and we will make reasonable efforts to promptly determine and solve the problem.
-
-Thank you for using **Best Jobs Kenya**.
+  * There are different types of cookies. The ones used by BJN to provide the best service to its users are:
+    * Strictly necessary Cookies: These cookies are essential for the proper functioning of the services expected by the user, and to avoid displaying certain informational pages that the user has chosen to ignore. Without these cookies, the user would perceive that the requested service is not working properly.
+    * Analytical Cookies: These cookies are used by BJN or any third party to monitor user performance and to analyse their patterns or behaviour; number of users accessing the Website, pages viewed or visited sections; duration of the navigation session; data related to browsers used, accessed websites and specific information about the navigation process itself.
 
 
 
+The aim is to improve the user experience on the website, with regard to the source through which the user accesses the portal, and create statistical reports on website traffic, global audience and audience of a particular advertising campaign, with the goal of documenting generic patterns of the visitors to the website.
+
+We inform that the third parties that may have access to this information are Google Analytics ( http://www.google.com/intl/en/policies/technologies/cookies ) and Score Card Research (Full Circle studies, Inc) ( http://www.scorecardresearch.com/privacy.aspx ), without prejudice to other companies. To view the privacy policy about cookies of these companies, we recommend accessing to their legal conditions through the links above. BJN obtains user information added by third parties (such as age, gender and interests) through Google Analytics.
+
+  * Advertising Cookies: These cookies are correctly treated by BJN or third parties, and allow to manage, as efficiently as possible, the advertising space offered on the website, adapting the content to the service requested, or the use made of the website. That way BJN can analyse behaviour of Internet browsing and show the User only ads that best fit their interests. Furthermore cookies are needed to manage advertising campaigns by tracking various patterns like the number of times you have viewed an ad, or to improve and manage the exposure of advertisements, preventing the user viewing an ad that has already been shown to him.
+  * We use Google Analytics Remarketing technology for online advertising.
+  * Other providers, including Google, may show BJN ads in other Internet sites. BJN and third party providers, including Google, use cookies (such as cookies from Google Analytics) and cookies from third parties (such as DoubleClick cookie) to inform, optimize and report how our ad impressions, other advertising services uses, interactions with these impressions and advertising services affect site visits, and provide advertising based on previous visits that the user has made to our website. We inform that the third party provider that could access this information is DoubleClick.net ( http://www.google.com/doubleclick ) without prejudice to other companies. To view the privacy policy about cookies on this company, we recommend accessing the conditions through the above link.
+  * Behavioral Cookies: These cookies manage advertising campaigns according to the specific profile of each user.
+
+
+
+If strictly analytical, behavioural, or advertising cookies are not enabled, it will not affect the user. However, successful ads that provide income to BJN will be affected as well as the ability of BJN to offer free services and content.
+
+### Disabling cookies
+
+The user is free to deactivate and / or delete cookies, as directed by your Internet browser. However, these actions can significantly reduce the ability of the user to surf the web and even make it incompatible with their interests or needs. Users can choose at any time what they plan to enable cookies through your browser settings:
+
+  * Chrome, from https://support.google.com/chrome/answer/95647?hl=en
+  * Explorer, from http://windows.microsoft.com/en-us/windows7/how-to-manage-cookies-in-internet-explorer-9
+  * Firefox, from http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+  * Safari, from http://support.apple.com/kb/ph5042
+
+
+
+### External Alternatives
+
+  * 'Opt-out' (off) for each type of cookies: using this system may install on the user's computer a cookie "rejection" to enforce the deactivation of cookies requested by the user.
+  * Other third-party tools available online allow the user to detect all cookies from each visited website and manage their deactivation.
+  * Systems "opt-out" available for Google Analytics: https://tools.google.com/dlpage/gaoptout/
+
+
+
+BJN is not responsible for the content and accuracy of the privacy policies of third parties contained in this cookie policy. For any questions, please contact BJN through the contact form.
+
+## 7\. Right of Access, Correction, Opposition and, Cancellation of Data.
+
+The User has the right at any time to access his information, correct the details that are incorrect, change his privacy settings, oppose the processing of his data or deregister from BJN services.These rights can be exercised through the configuration of the website. In case of trouble for doing this online, as well as for any other queries or concerns about our privacy policy please contact us by writing to:DGNET Ltd. 10 York Place, Edinburgh EH1 3EP, United Kingdom
+
+## 8\. Modification of the Privacy and Data Protection
+
+BJN reserves the right to amend this policy to adapt to future legislative developments.
+
+Any change that does not result from adaptation to legislative or legal changes will be advertised on the Web page itself or, if significant, communicated by email to Users.
