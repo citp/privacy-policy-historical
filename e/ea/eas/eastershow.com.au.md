@@ -1,137 +1,185 @@
-> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2014-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140304113652id_/http%3A//www.eastershow.com.au/privacy.aspx) for the most accurate reproduction.*
-
-# || Sydney Royal Easter Show
-
-**PRIVACY INFORMATION**
-
-**ROYAL AGRICULTURAL SOCIETY OF NSW ABN 69 793 644 351 (“RAS”)**
-
-**Trading as: Sydney Showground**
-
-**Sydney Royal Easter Show**
-
-**Australasian Animal Registry**
-
-**PRIVACY STATEMENT**
-
-Information provided to the Royal Agricultural Society of New South Wales ("RAS") via this website is used for the purpose of processing membership, your enquiry, your application, providing you with general information and ensuring that the records of the RAS are correct and efficient. This information will remain confidential at all times except for disclosure which you have consented to or which is otherwise required by law.
-
-We may use your information to advise you about other services or facilities which we offer, or are offered through the **RAS of NSW Foundation Limited** ABN 84 124 177 608, a wholly owned subsidiary of the RAS. The provision of information is voluntary, however, if this information is not provided the RAS may not be able to use your information to effect the purposes for which the information has been provided or collected.
-
-You have the right of access to and alteration of personal information concerning yourself in
-
-accordance with the Privacy Laws. This may be done by contacting our Privacy Officer on
-
-(02) 9704 1111 or in writing to the RAS, Locked Bag 4317, Sydney Olympic Park NSW 2127.
-
-**DISCLAIMER**
-
-This website provides information about the Royal Agricultural Society of New South Wales ("RAS"). It is only intended to provide a general outline and is not complete or definitive. Nothing in this website constitutes an offer to enter into a legally binding contract. Changes may be made to this website, or to the services or prices published on this website at any time without notice. RAS does not give any warranty or accept any responsibility for outdated or inaccurate information on this website. Except as required by the law, RAS will not be liable for any loss, damage, cost or expense incurred as a result of any error, omission or misrepresentation contained in this website.
-
-Material may contain links to other websites. RAS does not necessarily endorse or approve of any material on such websites. RAS makes no warranties or representations regarding the quality, accuracy, merchantability or fitness for purpose of any material which may violate any person's rights or any law. RAS will not be responsible for any loss, damage, cost or expense incurred as a result of accessing those other websites.
-
-This website is created and controlled by RAS, as such, the laws of the State of NSW will govern these disclaimers, terms and conditions. We reserve the right to make changes to our website and these disclaimers, terms and conditions from time to time.
-
-No part of this website may be reproduced in any form without the prior written permission of the RAS.
-
-**PRIVACY POLICY**
-
-**What is the RAS Privacy Policy?**
-
-The RAS is committed to ensuring adherence to the National Privacy Act Principles and providing the highest levels of service. We understand that privacy in all our dealings with our members, volunteers, licensees, exhibitors, competitors and all third parties is paramount. 
-
-Our Privacy Policy details how we handle personal information supplied to the RAS.
-
-**The RAS**
-
-The RAS is a not for profit entity with the principal aim of promoting, fostering and encouraging the development of agricultural pursuits. The RAS pursues this aim through the holding of the annual Sydney Royal Easter Show, conducting the Sydney Royal Fine Food and Wine Shows, a number of other agricultural activities, and acts as a venue for the holding of exhibitions, entertainment activities and functions. As a result it has access to the personal information of its exhibitors, licensees, competitors and other third parties. The RAS is also the parent company of its wholly owned subsidiary RAS of NSW Foundation Limited ABN 84 124 177 608 which operates for the purpose of granting funds to education, sustainable agriculture and rural projects in accordance with the overarching framework of the mission, values and purposes of the RAS.
-
-**What personal information does the RAS collect and how is it collected?**
-
-When you register with the RAS using our website registration form or if you send us an email, facsimile or postal article, we receive record and utilise this information for the purpose given. This information may include (but not limited to) your name, current and previous address, credit card details, and occupation. If you choose not to provide personal information, we may not be able to provide you with the services you require, information requested or entry into any exhibition or competition. The RAS also trades as 'Sydney Showground', ‘Sydney Royal Easter Show’ and ‘Australasian Animal Registry’. 
-
-**Where and how does the RAS store personal information?**
-
-Any personal information received by the RAS is stored electronically in our database or recorded manually. Any such information may be printed and stored in our filing system. Access to your information in the animal registry database is password protected by your name and microchip number. If you would like further password protection for your account please contact (02) 9704 1111 during business hours.
-
-**How does the RAS use your personal information?**
-
-Your personal information may be used in order to (but not limited to):
-
-• provide the services and information you require;
-
-• conduct and record the agricultural competitions at the Sydney Royal Easter Show;
-
-• promote and advertise the agricultural competitions and associated activities at the Sydney Royal Easter Show using media services;
-
-• administer and manage those services, including charging billing and collecting debts;
-
-• inform you of RAS activities, events, facilities and services;
-
-• conduct appropriate checks for credit worthiness and for fraud;
-
-• research, develop and expand our facilities and services;
-
-• gain an understanding of our members’, exhibitors’ and patrons’ needs to provide a better service in all its areas of activities;
-
-• maintain and develop our internal systems and infrastructure including upgrading of these systems;
-
-• the personal information may also be collected to promote and market other services that we consider important or beneficial to our objects or not for profit status such as the RAS of NSW Foundation; and
-
-• archival and museum purposes.
-
-• process your recruitment application and conduct research into the recruitment process.
-
-**When does the RAS disclose your personal information?**
-
-We do not disclose your personal information unless you have consented to such disclosure. However, in some circumstances we may indirectly disclose your personal information to persons outside the RAS to assist the RAS in performing its functions and these include:
-
-• Outsourced service providers who may manage services we provide;
-
-• Mailing systems;
-
-• Billing and debt recovery functions;
-
-• Information technology services;
-
-• Marketing, telemarketing; and
-
-• Market Research
-
-• Credit reporting agencies;
-
-• Credit providers for credit related purposes such as credit worthiness, credit rating, credit provision;
-
-• RAS professional advisors including accountants, auditors and lawyers;
-
-• Government and regulatory authorities and other organisations as required or authorised by law; and
-
-• Achieving its agricultural objects through the RAS of NSW Foundation Limited ABN 84 124 177 608.
-
-**Does the RAS send personal information outside Australia?**
-
-In the event any competition entered attracts an international judge or the particular competition or exhibition is deemed to be an international competition, catalogues containing personal information may be sent to any such international judge or international competitors.
-
-**How does the RAS use this information and to whom is it disclosed?**
-
-The RAS uses the information supplied for the purpose given. Disclosure to unrelated third parties only occurs with your approval.
-
-**Children and Privacy**
-
-The RAS will not knowingly collect personally identifiable information from children without obtaining prior verifiable parental or guardian consent. We ask that children have their parents review our Privacy Policy and complete the registration process for their children. If we become aware that a user is under the age of 15 and has registered without prior verifiable parental or guardian consent, we will remove their personally identifiable information from our files.
-
-**How can you find out what personal information the RAS holds about you and**
-
-**correct/alter it if need be?**
-
-If you would like to update your personal information or if you seek to know what personal information we currently hold about you please contact the RAS Privacy Officer on (02) 9704 1111 or write to the RAS, Locked Bag 4317, Sydney Olympic Park NSW 2127.
-
-**Currency**
-
-Changes may be made to our Privacy Policy from time to time.
-
-Privacy Policy last updated July 2012.
-
-MICHAEL KENNY
-
-**Chief Executive**
+> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319005130id_/http%3A//www.rasnsw.com.au/edm/website/PRIVACY-POLICY-2014.pdf) for the most accurate reproduction.*
+
+# PRIVACY POLICY
+
+                                    PRIVACY POLICY
+The RAS recognises the importance of privacy and is committed to protecting the information you
+provide to us. RAS complies with the Australian Privacy Principles and the purpose of this Privacy
+Policy is to clearly communicate to you how the RAS collects, holds, uses and disclosed personal
+information in accordance with the provisions as contained in the:
+     -   Privacy Act 1988 (Cth), and
+     -   Privacy Amendment (Enhancing Privacy Protection) Act 2012.
+For the purpose of this Privacy Policy the definition of the ‘RAS’ includes:
+RAS of NSW Foundation Limited ABN 84 124 177 608; and
+Royal Agricultural Society of NSW ABN 69 793 644 351
+Trading as:      Sydney Royal
+                 Sydney Showground
+                 Sydney Royal Easter Show
+                 Australasian Animal Registry
+The RAS is a not for profit entity with the principal aim of promoting, fostering and encouraging the
+development of agricultural pursuits. The RAS pursues this aim via the annual Sydney Royal Easter
+Show, conducting the Sydney Royal Fine Food and Wine Shows, and acts as a venue for the holding
+of events such as festivals, exhibitions, conferences, entertainment activities and functions.
+The RAS also manages the RAS of NSW Foundation which operates for the purpose of granting funds
+to education, sustainable agriculture and rural projects in accordance with the overarching
+framework of the mission, values and purposes of the RAS.
+By providing personal information to the RAS and by having access to this Privacy Policy, you
+consent to the RAS collecting, holding, using and disclosing personal information in accordance
+with this policy.
+The Purpose of the Collection
+The RAS will provide a ‘Collection Statement’ at the point of collection informing you of the reason
+why the information is being collected. The point of collection is usually an Entry Form, Registration
+Form, online or in person. The information collected will be used for the primary purpose detailed in
+the Collection Statement, and any secondary purpose to which you have consented. The RAS will not
+disclose information for another purpose unless you have consented to the disclosure in the normal
+course of the service or good we are providing to you, or unless it is required to be disclosed by law.
+In some instances, the RAS uses contractors and suppliers to provide the service to which you have
+consented, which will require disclosure of your personal information to these third parties. The
+third parties used are also bound by the Australian Privacy Principles, or if they are an international
+company, are bound by contract to adhere to the Australian Privacy Principles in order to protect
+the information.
+(02/14)
+
+
+Access, Amendments and Complaints
+Access to this Privacy Policy is free, it is available online at:
+ www.rasnsw.com.au,
+www.sydneyshowground.com.au
+www.sydneyroyal.com.au.
+You may also request a hardcopy of the Privacy Policy by contacting our Privacy Officer. You can
+request access to and alteration of personal information concerning yourself in accordance with the
+Privacy Laws. You may contact the RAS Privacy Officer by the following methods:
+Telephone         (02) 9704 1111
+ Mail             RAS Locked Bag 4317, Sydney Olympic Park NSW 2127.
+Email             privacy@rasnsw.com.au
+You can request that your personal information be corrected. You can also request that your
+account be deleted. You may contact us at any time to request to opt out of any electronic,
+telephone or other form of direct marking. There will be an ‘Opt Out’ link at the bottom of each
+email.
+The Privacy Officer will deal with all initial queries and complaints. If you are not content with the
+way in which our Privacy Officer has dealt with your issue or if you have not received a response
+within 30 days, and you wish to lodge a formal written complaint to the General Manager. The
+General Manager will provide a written response to you within 30 days. You may address the matter
+to:               General Manager, Corporate Services,
+                  1 Showground Road, Sydney Olympic Park, 2127.
+If you are not content with the response from the RAS General Manager, you may wish to raise the
+issue with an external complaint body such as Office of Australian Information Commissioner (OAIC).
+By email          enquiries@oaic.gove.au
+By telephone (02) 9284 9666
+By post           Office of Australian Information Commissioner
+                 GPO Box 5218,
+                 Sydney NSW 2001
+Types of Personal Information
+The information you provide us may include:
+     (a) Personal information that is required in order to facilitate an application, purchase a
+         product, use a particular service or participate in an activity.
+     (b) Personal information that is optional. This information is not required but will always be
+         directly related to the RAS’s functions and activities. This information enables the RAS to
+         improve or maintain the functions and activities we offer you.
+     (c) Sensitive Information that is required in order to process financial payments for example.
+         This information will be kept only for the purpose of dealing with the transaction or matter.
+(02/14)
+
+
+Consent - You could be asked to confirm that you would like to receive updates or will agree to a
+particular activity. If all of the required personal information is not provided, then RAS might not be
+able to accept an application by an individual to participate in the competition. Where an application
+is made by a company entity, the company may provide the personal information of key employees
+or directors who are deemed to have consented to the release of their names and employment title
+as provided by the employer.
+Pseudonyms – In circumstances where your legal name is not required, such as carnival update
+emails, you may use a pseudonym. However, in most cases your consent, payment or competition
+entry will require your legal name.
+Use of Personal Information
+Different departments of the RAS uses information collected for different purposes, and you consent
+to your information being disclosed when necessary and legal to do so in order to provide the
+service or good that you require.
+To protect from misuse or loss, the RAS takes all reasonable steps in each case to protect the
+personal information provided in different circumstances. Examples of use and disclosure are as
+follows:
+     1) Membership – RAS is a membership society and Members details are held securely. Your
+         information will be used to send you direct mail for RAS publications (such as the RAS
+         Times), or RAS related promotions, events, discounts to which you have consented.
+         Information about links to family members or commercial opportunities will be linked in
+         your membership account, and details provided by other family members may be collected
+         for junior and youth accounts.
+     2) Sydney Showground – Information is collected to contract with you for the hire of venues
+         on the Showground. Information may be collected from suppliers or contractors who are
+         providing services for the event being held. In order to run a smooth event, RAS will disclose
+         information to other involved parties in order to efficiently coordinate the event. If you
+         require any documents to remain confidential, please inform RAS staff and mark the
+         documents clearly on the front page. Deposits and pre-payment of operational services are
+         often required so we keep your financial information secure until the end of the event when
+         the refund and settlement of your account can be made.
+     3) Sydney Royal Competitions – The competitions for the Easter Show and Fine Food and Wine
+         Shows will all require personal information to be collected in order to hold the competition,
+         assess entries, create event timetables and schedules, to run the competition and provide
+         prize money cheques to the winners. During the competitions your personal information will
+         be listed in competition schedules and displayed on the internet. Winners of competitions
+         may be interviewed and your details will be kept in the RAS archives and kept in the History
+         Centre.
+(02/14)
+
+
+     4) Sydney Royal Easter Show – In addition to the Sydney Royal Competitions held, there are
+        many contractors, commercial exhibitors and carnival licensees who need to provide
+        personal information in order for the RAS to contract with you. Most transactions require
+        payment in which your legal name will be required. RAS will hold your information securely
+        and restrict access to only those who are involved in the transaction. Your information may
+        be disclosed to third party contractors or suppliers who need to contact you for Easter Show
+        related services to be provided.
+     5) Australasian Animal Registry (AAR) – The AAR database is held for the purpose of matching
+        micro-chip numbers implanted in animals with the personal information of person who is
+        either the legal owner of the animal, or the person who is responsible for the daily care and
+        control of the animal. The AAR database is not a register of proprietary ownership. RAS will
+        disclose this information to Councils, government agencies or animal welfare organisations
+        such as the RSPCA, who are trying to re-unite the animal with its owner. Disclosure may also
+        be required by law, to trace the owners of a dangerous dog for example.
+     6) RAS of NSW Foundation – The Foundation is the charitable arm of the RAS and requests for
+        donations or details of fund raising events or projects may be sent to you. Personal details
+        will be collected on paper forms and also through online procedures. The details of
+        unsuccessful applicants will be held for up to 7 years and will be sent details of other
+        opportunities for scholarships or grants. The recipients of scholarships and grants may have
+        disclosure of their name, suburb, career and educational information disclosed as part of the
+        conditions of the award.
+     7) Other RAS Data – The RAS Corporate Services may use your information for billing purposes,
+        and collecting debts and may conduct credit checks on entities when appropriate. Human
+        Resources collect personal information for recruitment purposes which will be destroyed
+        securely after a reasonable time. The RAS may want to conduct market research to develop
+        internal systems or upgrade processes in which your data may be used. The RAS also runs
+        the RAS Heritage Centre in which documents and trophies which may hold your personal
+        information will be stored and released to Members or the media as reasonably required.
+        Cross-border disclosure may also be required for benchmarking or external storage of
+        information, in which case having access to this Privacy Policy and providing your
+        information is deemed to be consent to the cross-border disclosure.
+The types of personal information collected in each RAS department is detailed on the following
+page.
+(02/14)
+
+
+                                          Sydney
+                                          Royal        Sydney       RES        Carnival                       Corporate
+  Type of Information          Membership Competitions Showground   Commercial Riders Club AAR   Foundation   Services
+  First Name                      Yes         Yes          Yes          Yes        Yes       Yes     Yes           Yes
+  Surname                         Yes         Yes          Yes          Yes                  Yes     Yes           Yes
+  Gender                          Yes         Yes          Yes          Yes
+  Date of Birth                   Yes         Yes      As Necessary                Yes                        As Necessary
+  Phone                           Yes         Yes          Yes          Yes                  Yes     Yes           Yes
+  Email                           Yes         Yes          Yes          Yes        Yes       Yes     Yes           Yes
+  Postal Address                  Yes         Yes          Yes          Yes    Suburb only   Yes     Yes           Yes
+  Occupation                              As Necessary     Yes          Yes                      As Necessary      Yes
+  Employer                                As Necessary     Yes          Yes                      As Necessary      Yes
+  Alternate contact for Health
+  and Safety                              As Necessary     Yes          Yes                                   As Necessary
+  Credit Card                     Yes         Yes          Yes          Yes                  Yes     Yes           Yes
+                                                                        As
+  Bank Account                                Yes          Yes       Necessary                       Yes           Yes
+                                                                        As
+  Animals under your care                     Yes                    Necessary               Yes
+  Password                                                                                   Yes                   Yes
+  Drivers Licence (for working
+  with children check)                        Yes                       Yes                                   As Necessary
+  Details about your
+  children/family                 Yes         Yes                                                                  Yes
+  Alternate contact for AAR                                                                  Yes
+(02/14)
