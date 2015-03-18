@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the anime-sub.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702022236id_/http%3A//www.anime-sub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-sub.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318060526id_/http%3A//www.anime-sub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Privacy Policy Episodes Sub Online
-
-Game advertisements by [Game Advertising Online](http://www.game-advertising-online.com) require iframes.
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
