@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftsforyounow.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824084458id_/http%3A//www.giftsforyounow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsforyounow.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318171739id_/http%3A//www.giftsforyounow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ GiftsForYouNow.com
 109 Shore Drive  
 Burr Ridge, IL 60527
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these organizations for marketing purposes.
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these organizations for marketing purposes. We may also transfer information as part of sale of all or part of the company.
 
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
