@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728082040id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318021852id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
 
 # HomeDecorators.com
 
-Last updated: November 28, 2008
+Last updated: February 27, 2014
 
 We appreciate the trust you place in Home Decorators Collection, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. HomeDecorators.com is owned by The Home Depot. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
 
@@ -50,11 +50,11 @@ We contract with other companies to provide certain services, including credit c
 
 From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products we believe will be of interest to you. If you prefer that we do not share any information with these companies, please contact us at:
 
-Home Decorators Collection   
-8920 Pershall Road   
-Hazelwood, MO 63042   
-Phone: 1-877-537-8539 (toll-free)  
-Fax: 1-314-521-5780   
+Home Decorators Collection  
+3074 Chastain Meadows Parkway   
+Marietta, GA 30066   
+Phone: 1-800-245-2217 (toll-free)  
+Fax: 1-800-537-1467   
 [Email us](http://www.homedecorators.com/emailUs.php)
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
@@ -62,34 +62,34 @@ On rare occasions, we may disclose specific information upon governmental reques
 **Your Choices**  
 We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from Home Decorators Collection, please contact us at:
 
-Home Decorators Collection   
-8920 Pershall Road   
-Hazelwood, MO 63042   
-Phone: 1-877-537-8539 (toll-free)  
-Fax: 1-314-521-5780   
+Home Decorators Collection  
+3074 Chastain Meadows Parkway   
+Marietta, GA 30066   
+Phone: 1-800-245-2217 (toll-free)  
+Fax: 1-800-537-1467   
 [Email us](http://www.homedecorators.com/emailUs.php)
 
 If you no longer wish to receive our e-newsletters and email promotions you may electronically [unsubscribe here](http://www.homedecorators.com/page.php?file=faq&faqId=59) or contact us at:
 
-Home Decorators Collection   
-8920 Pershall Road   
-Hazelwood, MO 63042   
-Phone: 1-877-537-8539 (toll-free)  
-Fax: 1-314-521-5780   
+Home Decorators Collection  
+3074 Chastain Meadows Parkway   
+Marietta, GA 30066   
+Phone: 1-800-245-2217 (toll-free)  
+Fax: 1-800-537-1467   
 [Email us](http://www.homedecorators.com/emailUs.php)
 
 If you do not want to receive mailings from other carefully screened companies, please contact us at:
 
-Home Decorators Collection   
-8920 Pershall Road   
-Hazelwood, MO 63042   
-Phone: 1-877-537-8539 (toll-free)  
-Fax: 1-314-521-5780   
+Home Decorators Collection  
+3074 Chastain Meadows Parkway   
+Marietta, GA 30066   
+Phone: 1-800-245-2217 (toll-free)  
+Fax: 1-800-537-1467   
 [Email us](http://www.homedecorators.com/emailUs.php)
 
 Please be sure to provide us your exact name and address, or the mailing label from your catalog, so that we can be sure to identify you correctly. Because we plan our mailings in advance, it may take several weeks for your request to become effective. If you continue to receive our communications, please contact us again and we will make every effort to correct the situation.
 
-**Cookies and Pixel Tags**  
+**Cookies, Pixel Tags, Tracking Techniques, and Choices**  
 A cookie is a small data file that is stored by your Web browser on your computer. Cookies enable you to place an order on our website. 
 
 If you set your browser to refuse cookies, please call us at 1-877-537-8539 (toll-free) to place your order.
@@ -98,7 +98,9 @@ We also use cookies and pixel tags (tiny graphic images) to tell us what parts o
 
 We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Home Decorators Collection.
 
-We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this website. They may collect anonymous information about your visits to our website. They may also use information about your visits to this and other sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifiable information about users of this website.
+We collect personal information about users over time and across different Web sites when you use this Web site or service. We also have third parties that collect personal information this way. We also use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this website. They may collect anonymous information about your visits to our website. They may also use information about your visits to this and other sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifiable information about users of this website. You can opt-out of online behavioral advertising by going to [www.aboutads.info/choices](http://www.aboutads.info/choices/)
+
+Some browsers have a "Do Not Track" feature that lets you tell websites that you do not want to have your online activities tracked. These browser features are not uniform, so we are not currently set up to respond to those signals. You can control certain tracking tools. In particular, your browser gives you the ability to delete or reject browser cookies. If you block cookies, certain features on our website may not work. If you block or delete cookies, not all of the tracking that we have described in this policy will stop.
 
 **How We Use Email**   
 When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at HomeDecorators.com, you will receive an email confirmation and, in most cases, an email with delivery tracking information.
