@@ -1,141 +1,6 @@
-> *The following text is extracted and transformed from the carling.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426011004id_/http%3A//www.carling.com/terms.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carling.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318205002id_/http%3A//www.carling.com/privacy) for the most accurate reproduction.*
 
-# Carling Lager - Terms and Conditions
-
-**THIS WEBSITE IS PROVIDED ONLY FOR USE BY PEOPLE WHO ARE 18 OR OVER
-
-BY CONTINUING TO USE THIS WEBSITE YOU ARE CONFIRMING THAT YOU ARE AT LEAST 18 YEARS OF AGE AND ACCEPT OUR TERMS AND CONDITIONS SET OUT BELOW.
-
-IF YOU ARE UNDER 18 OR DO NOT ACCEPT THESE TERMS AND CONDITIONS, YOU MUST LEAVE THIS WEBSITE IMMEDIATELY
-
-**
-
-### 1\. About us
-
-This website is provided by Molson Coors Brewing Company (UK) Ltd (Molson Coors), a company incorporated in England and Wales under company number 26018. Our VAT Number is 745774690. If you need any information or have a complaint about this website or any of our services please contact us by one of the following methods:
-
-### 2\. Privacy 
-
-Your privacy is important to us. Please see our Privacy Policy for details of what information we collect and how we will use and protect it.
-
-### 3\. Competitions
-
-From time to time, this website may include competitions for which additional terms, which form part of these terms and conditions, apply. Please click here to read these terms.
-
-### 4\. Beer Finder
-
-Additional terms, which form part of these terms and conditions, apply to the use of this Molson Coors website. Please [click here](http://www.carling.com/beerfinder/terms.html) to view the terms.
-
-### 5\. One-All
-
-Additional terms, which form part of these terms and conditions, apply to the use of this Molson Coors website. Please [click here](http://www.carling.com/oneall/terms.html) to view the terms.
-
-### 6\. Carling Cup - Fixtures
-
-"Copyright © and Database Right 2009(/10) The Football Association Premier League Ltd / The Football League Ltd / The Scottish Premier League Ltd / The Scottish Football League. All rights reserved. No part of this publication may be reproduced, stored in a retrieval system or transmitted in any way or by any means, (including photocopying, recording or storing it in any medium by electronic means), without the written permission of the copyright/database right owner. Applications for written permission should be addressed c/o Football DataCo Ltd, 30 Gloucester Place, London W1U 8PL." 
-
-### 7\. Registration
-
-Visitors to this website may be required to register in order to use its facilities. We are not under any obligation to accept a request for registration and reserve the right to suspend or terminate access at any time if your continued use is believed to prejudice us or other users. By registering to use this website you confirm that the information you provide during the registration process is accurate and complete. You agree to update your registration details promptly if they change. All registration information you provide will be kept secure and processed in accordance with our Privacy Policy.
-
-### 8\. User id and passwords
-
-During the registration process you may be allocated, or invited to choose, your own user id and password which will be unique to you. You are responsible for keeping your user id and password confidential and for ensuring that they are not used by any other person.
-
-### 9\. Commercial Partners
-
-Our Commercial Partners and other third parties may occasionally promote their goods or services on this website or through other direct marketing initiatives. Whilst we try to encourage our partners to offer good quality products and services at competitive prices we have no control over them or other third parties, we do not endorse the products or services they offer, or give you any assurance that they will be suitable for your needs. It is your responsibility to satisfy yourself in this regard and we have no liability in connection with the same.
-
-### 10\. Ownership of materials and licence terms
-
-This website and the materials on it or provided to you through it are protected by copyright, trade mark and other intellectual property rights and laws throughout the world and are owned by, or are licensed to Molson Coors and/or third parties. You are permitted to display the materials on this website on a computer screen and to download and print a hard copy for your personal use provided you do not alter or remove any of the content or any part of the website without our express permission to do so and that you do not change or delete any copyright, trade mark or other proprietary notices.
-
-You agree not to:
-
-  * use this website or any of the materials on it for: 
-    * any unlawful purpose or in contravention of applicable law
-    * commercial exploitation without our prior written consent
-    * any purpose or in any manner that may give a false or misleading impression of us, our staff or our services
-  * use, upload or transmit 
-    * any material that is defamatory, offensive, obscene or otherwise unlawful, or which may cause offence or distress or which may affect or infringe the rights of any other person
-    * any device, software, file or mechanism which may interfere with the proper operation of this website or our systems
-  * You agree not to: establish a link to this website from any other website, intranet or extranet site without our prior written constent or unless established via an approved social bookmarking site; or
-  * do anything that may interfere with or disrupt this website or our service
-  * encourage or permit others to do any of the above
-
-
-
-**IN THE EVENT THAT YOU DO NOT COMPLY WITH THE ABOVE RESTRICTIONS, ANY PERSON AFFECTED BY YOUR ACTIONS MAY BRING A CLAIM AGAINST YOU AND/OR MOLSON COORS. WE WILL PURSUE A CLAIM AGAINST YOU FOR ANY LOSSES AND COSTS (INCLUDING LEGAL COSTS) WE MAY SUFFER AS A RESULT OF YOUR ACTIONS**
-
-### 11\. Suitability of materials
-
-We do not give any assurance that the materials provided or available to you on or through this website are suitable for your requirements or that they will be secure, error or virus free and we will have no liability in respect of those materials.
-
-### 12\. Website availability
-
-This website is provided free of charge and we make no guarantee that it will be uninterrupted or error free. We reserve the right to modify, suspend or withdraw the whole or any part of the website or any of its content at any time without notice and without incurring any liability.
-
-### 13\. Links from this website
-
-We may, from time to time, provide links from this website to websites that are owned and controlled by third parties. These links are provided only for your convenience and we have no control over and will have no liability in respect of those websites.
-
-### 14\. Monitoring
-
-Molson Coors may monitor activity and content on this website and may take any action we consider appropriate if we suspect you may be in breach of these Terms and Conditions including suspending, attaching conditions to or terminating your access and/or notifying the authorities or relevant regulators of your activities.
-
-### 15\. Security
-
-Internet transmissions are never completely private or secure and there is a risk, therefore, that any message or information you send to us from this website may be intercepted and potentially read by others. We will have no liability in respect of any transmissions you send to us and you do so entirely at your own risk.
-
-### 16\. Accuracy of information
-
-We take care to ensure that all information available on our website about our services is accurate. However:
-
-(A) our services are continually developing and, occasionally, the information we put on this website may be out of date. We reserve the right to change such information at any time. Any newsletters, blogs and other items offering information have been prepared for general interest only and are not a substitute for specific professional advice and should not be read or used as such;
-
-(B) information provided by our Commercial Partners and/or other third parties is not checked by us and we have no responsibility for it. Any redress for such information should be made against the relevant Commercial Partner or third party. 
-
-### 17\. Disclaimer
-
-MOLSON COORS BREWING COMPANY (UK) LIMITED DOES NOT WARRANT OR REPRESENT THAT THE MATERIAL ON THIS WEBSITE IS ACCURATE, COMPLETE OR CURRENT OR THAT THE WEBSITE WILL BE FREE OF DEFECTS OR VIRUSES.
-
-NOTHING CONTAINED IN THE PAGES OF THIS WEBSITE SHOULD BE CONSTRUED AS LEGAL, FINANCIAL OR OTHER PROFESSIONAL ADVICE. DETAILED PROFESSIONAL ADVICE SHOULD BE OBTAINED BEFORE TAKING OR REFRAINING FROM ANY ACTION BASED ON ANY OF THE INFORMATION OR MATERIAL CONTAINED IN THIS WEBSITE.
-
-### 18\. Use of this Website outside England and Wales
-
-Molson Coors makes no claims or representations that any or all of the content of this website may be lawfully viewed or downloaded outside England and Wales and, unless otherwise specifically stated, the content and this website is directed solely at users who access this website from England and Wales. 
-
-IF YOU CHOOSE TO ACCESS THE WEBSITE FROM OUTSIDE ENGLAND AND WALES, YOU DO SO AT YOUR OWN RISK AND ARE RESPONSIBLE FOR COMPLIANCE WITH THE LAWS OF YOUR JURISDICTION.
-
-### 19\. Liability for our mistakes
-
-WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE (IN CONTRACT, NEGLIGENCE OR OTHERWISE) WHERE:
-
-(A) THERE IS NO BREACH OF A LEGAL DUTY OF CARE OWED TO YOU BY US;
-
-(B) THE LOSS OR DAMAGE IS NOT A REASONABLY FORESEEABLE RESULT OF ANY SUCH BREACH; OR
-
-(C) ANY LOSS OR DAMAGE OR INCREASE IN LOSS OR DAMAGE RESULTS FROM A BREACH BY YOU OF THESE TERMS AND CONDITIONS.
-
-NOTHING IN THESE TERMS AND CONDITIONS EXCLUDES OR LIMITS OUR LIABILITY FOR FRAUDULENT MISREPRESENTATION OR FOR DEATH OR PERSONAL INJURY CAUSED BY OUR NEGLIGENCE.
-
-**NOTHING IN THESE TERMS AND CONDITIONS SHALL AFFECT YOUR STATUTORY RIGHTS**
-
-### 20\. Third party rights
-
-Nothing in these Terms and Conditions is intended to nor shall it confer a benefit on any third party under the Contracts (Rights of Third Parties) Act 1999 and a person who is not a party to these Terms and Conditions has no rights to enforce them.
-
-### 21\. Waiver
-
-No delay or decision not to enforce rights under these terms and conditions will constitute a waiver of the right to do so and will not affect rights in relation to any subsequent breach.
-
-### 22\. Governing law
-
-These Terms and Conditions are subject to the laws of England and Wales and each of us hereby submits to the non-exclusive jurisdiction of the English and Welsh courts.
-
-**WE RESERVE THE RIGHT TO CHANGE THESE TERMS AND CONDITIONS AT ANY TIME. THE NEW VERSION WILL BE POSTED ON THIS WEBSITE AND WILL TAKE EFFECT IMMEDIATELY UPON POSTING**
-
-**IF YOU USE THE WEBSITE AFTER THE NEW TERMS AND CONDITION SHAVE COME INTO EFFECT, YOU WILL BE INDICATING YOUR AGREEMENT TO BE BOUND BY THE NEW TERMS AND CONDITIONS**
+# Privacy Policy | Carling.com
 
 ### ABOUT US
 
@@ -165,7 +30,7 @@ Our cookies are used to enable us to develop our website to reflect our customer
 
 Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored. Please note, if you do turn cookies off this will limit the service that we are able to provide to you and may affect your visitor experience.
 
-For further information on cookies and how to switch them off see [www.allaboutcookies.org](https://web.archive.org/web/20130426011004id_/http%3A//www.carling.com/www.allaboutcookies.org).
+For further information on cookies and how to switch them off see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 ### HOW WE WILL USE YOUR INFORMATION
 
@@ -215,11 +80,24 @@ You may update or correct your personal information by contacting us in writing 
 
 ### YOUR RIGHTS TO ACCESS YOUR PERSONAL INFORMATION
 
-You have the right to receive a copy of the personal information that we hold about you. We may charge a small fee towards the cost of administering any request you make. The current fee is £10.00.
+You have the right to receive a copy of the personal information that we hold about you. We may charge a small fee towards the cost of administering any request you make. The current fee is |ANAMP|pound;10.00.
 
 ### HOW TO CONTACT US
 
+Telephone
+    03457 112244
+Email
+    [Click here to visit our Contact Us section](https://web.archive.org/questions)
+Mail (registered office)
+     **Molson Coors Brewing Company (UK) Ltd.**  
+137 High Street  
+Burton-on-Trent  
+Staffordshire  
+DE14 1JZ 
+
 **THE FOLLOWING ADDITIONAL TERMS APPLY TO COMPETITIONS ON THIS WEBSITE**
+
+## COMPETITION RULES
 
 ### 1\. Age and residency restrictions
 
@@ -268,5 +146,3 @@ All competitions are operated under the laws of England and Wales. Molson Coors 
 ### 12\. Withdrawal of competition
 
 Molson Coors reserves the right to withdraw, alter or suspend any competition for legal or technical reasons without any liability. Molson Coors will notify withdrawal or suspension of a competition by posting notice to that effect on the website as soon as reasonably possible.
-
-[Competition Terms and Conditions](https://web.archive.org/members/termsandconditions.html)
