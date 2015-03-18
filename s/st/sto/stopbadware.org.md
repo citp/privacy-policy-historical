@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopbadware.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230232828id_/https%3A//www.stopbadware.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopbadware.org privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318234831id_/https%3A//www.stopbadware.org/privacy) for the most accurate reproduction.*
 
 # Privacy | StopBadware
 
@@ -92,5 +92,5 @@ This Privacy Statement is effective as of December 22, 2010.
 If you have any questions about this Privacy Statement, you may contact us by email at [contact@stopbadware.org](mailto:contact@stopbadware.org) or by mail to:
 
 StopBadware  
-One Broadway, 14th Floor  
-Cambridge, MA 02142-1187
+PO Box 230899  
+Boston, MA 02123
