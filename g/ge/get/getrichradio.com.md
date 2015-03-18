@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the getrichradio.com privacy policy that was archived on 2011-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110115090734id_/http%3A//getrichradio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrichradio.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318191848id_/http%3A//www.mdtn.com/legal_stuff/privacy) for the most accurate reproduction.*
 
-# Get Rich Radio
+# legal_stuff
 
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-MINORS  
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
+MINORS   
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information. 
 
 POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE
 
@@ -49,10 +49,10 @@ You may choose to provide personal information to website visitors or other thir
 
 AUTORESPONDERS
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to [support@prosperityalliance.com](mailto:%20support@prosperityalliance.com), or sending us mail to the address listed below. 
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to [support@prosperityalliance.com](mailto:%20support@prosperityalliance.com) , or sending us mail to the address listed below. 
 
-CHILDREN'S PRIVACY STATEMET  
-This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+CHILDREN'S PRIVACY STATEMET   
+This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information. 
 
 This Site is not directed to children under the age of thirteen and we do NOT _knowingly_ collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site. 
 
@@ -66,24 +66,24 @@ POLICY CHANGES
 
 The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to [support@prosperityalliance.com](mailto:%20support@prosperityalliance.com) and providing us with information relating to your concern.
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to [support@prosperityalliance.com](mailto:%20support@prosperityalliance.com) and providing us with information relating to your concern. 
 
 You may also mail your concerns to us at the following address:
 
-Get Rich Radio LLC  
-1027 S. Rainbow Blvd. Ste.281  
-Las Vegas, Nevada 89145  
-United States
+Million Dollar Television Network LLC   
+1027 S. Rainbow Blvd. Ste.281   
+Las Vegas, Nevada 89145   
+United States 
 
-CALIFORNIA PRIVACY RIGHTS
+CALIFORNIA PRIVACY RIGHTS 
 
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to [support@prosperityalliance.com](mailto:%20support@prosperityalliance.com) or write us at the following address:
+If you are a California resident and our customer, Cal. Civ. Code � 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please contact us by submitting a support ticket [[click here]](http://mdtn.com/support) or write us at the following address: 
 
-Get Rich Radio LLC  
-S. Rainbow Blvd. Ste.281  
-Las Vegas, Nevada 89145  
-United States
+Million Dollar Television Network LLC   
+S. Rainbow Blvd. Ste.281   
+Las Vegas, Nevada 89145   
+United States 
 
 This privacy policy was last updated on 08-03-2010.
 
-Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at [www.getrichradio.com](https://web.archive.org/web/20110115090734id_/http%3A//getrichradio.com/index.php). All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2010-2011 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/) , and licensed for use by the owner of this website at [www.mdtn.com](https://web.archive.org/web/20150318191848id_/http%3A//www.mdtn.com/legal_stuff/index.php) . All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
