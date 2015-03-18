@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idreamprom.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008061941id_/http%3A//www.idreamprom.com/faq.php%3Ffaqs_id%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idreamprom.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318200039id_/http%3A//www.idreamprom.com/faq.php%3Ffaqs_id%3D42) for the most accurate reproduction.*
 
 # Privacy Policy
 
