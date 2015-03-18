@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cancerhelp.org.uk privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419102431id_/http%3A//www.cancerresearchuk.org/cancer-help/ssNODELINK/chprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerhelp.org.uk privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318073613id_/http%3A//www.cancerresearchuk.org/about-cancer/ssNODELINK/chprivacy) for the most accurate reproduction.*
 
-# Privacy statement : Cancer Research UK : CancerHelp UK
+# Privacy statement | Cancer Research UK
 
 At Cancer Research UK we are committed to protecting your privacy. This statement describes how Cancer Research UK collects and uses personal information about people who visit our websites. The terms of this statement may change, so please check it from time to time.
 
@@ -27,9 +27,9 @@ If you enter your contact details in one of our online registration forms, we ma
 
 We may need to share your information with our service providers, associated organisations and agents for the purposes described above.
 
-If you contact the [cancer information nurses](https://web.archive.org/web/20140419114233id_/http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/contact-cancer-nurses), you may choose to provide details of a personal nature. Only the cancer information nurses will use your personal information and only for the purposes of dealing with your enquiry. They will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
+If you contact the [cancer information nurses](https://web.archive.org/web/20150318055713id_/http://www.cancerresearchuk.org/about-cancer/utilities/privacy/ssNODELINK/contact-cancer-nurses), you may choose to provide details of a personal nature. Only the cancer information nurses will use your personal information and only for the purposes of dealing with your enquiry. They will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
 
-Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](https://web.archive.org/web/20140419114233id_/http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/SendAQuestion).
+Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](https://web.archive.org/web/20150318055713id_/http://www.cancerresearchuk.org/about-cancer/utilities/privacy/ssNODELINK/SendAQuestion).
 
 If you send website feedback, the feedback will be noted and acted on as appropriate.  Your feedback will be recorded within a month of receipt, but your contact details will not be kept. If you have sent a complaint to the site, the correspondence will be kept securely in a complaints file for a maximum of one year, in case we need to refer back to it.
 
@@ -39,11 +39,11 @@ Cancer Research UK is concerned to protect the privacy of children aged under 16
 
 ## Do we use cookies?
 
-Please refer to [our cookie policy](https://web.archive.org/web/20140419114233id_/http://www.cancerresearchuk.org/cancer-help/utilities/privacy/ssNODELINK/abt-us-cookies-policy) for details of how we use cookies and the type of cookies served through our web sites.
+Please refer to [our cookie policy](https://web.archive.org/web/20150318055713id_/http://www.cancerresearchuk.org/about-cancer/utilities/privacy/ssNODELINK/abt-us-cookies-policy) for details of how we use cookies and the type of cookies served through our web sites.
 
 All of our online forms are protected by encryption. We also use a secure server when you make a donation or payment via our websites. We take appropriate measures to ensure that the personal information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
 
-As indicated above, we may pass your information to our service providers, agents and associated organisations for the purpose of completing tasks and providing services to you (other than information provided in a query to CancerHelp UK or the cancer information nurse teams). Where we use service providers we will make sure there are appropriate controls in place.
+As indicated above, we may pass your information to our service providers, agents and associated organisations for the purpose of completing tasks and providing services to you (other than information provided in a query to the patient information web team or the cancer information nurse team). Where we use service providers we will make sure there are appropriate controls in place.
 
 We may also need to disclose your information if required by law (for example to government bodies and law enforcement agencies) or if we have your permission to do so.
 
