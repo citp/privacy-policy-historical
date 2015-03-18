@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sketch.io privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701191652id_/https%3A//sketch.io/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketch.io privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318095757id_/https%3A//sketch.io/privacy-policy.html) for the most accurate reproduction.*
 
-# Building (HTML5) Computer-Aided Design Tools for Mankind
+# Sketch.IO - Computer-Aided Design Tools (HTML5)
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate, and disclose personal information. The following outlines our privacy policy.
 
