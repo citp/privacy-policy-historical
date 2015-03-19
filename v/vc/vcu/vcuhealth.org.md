@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcuhealth.org privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224004415id_/http%3A//www.vcuhealth.org%3Fid%3D440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcuhealth.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319032301id_/http%3A//www.vcuhealth.org%3Fid%3D440) for the most accurate reproduction.*
 
 # Web Privacy Statement - Virginia Commonwealth University Health System
 
