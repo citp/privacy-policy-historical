@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixoto.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625003047id_/http%3A//www.pixoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixoto.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320000649id_/http%3A//www.pixoto.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixoto
 
@@ -10,7 +10,7 @@ At Pixoto we value your Privacy. The following information outlines what informa
 
 We collect information from you when you register on our site, place an order, fill out a form, participate in an ImageDuel™, comment on an image, or follow other users.  We also keep a record of your activity on our website.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. Additional information will be requested if you would like to become a “Player” and upload images to our website. You may, however, visit our site anonymously and view leader boards and other content pages.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. Additional information will be requested if you would like to become a “Contributor” and upload images to our website. You may, however, visit our site anonymously and view leader boards and other content pages.
 
 * * *
 
@@ -50,7 +50,7 @@ We use cookies to understand and save your preferences for future visits and com
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable non-public information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-If you are a player, publically available information on our website will also be made available through our API.
+If you are a Contributor, publically available information on our website will also be made available through our API.
 
 * * *
 
