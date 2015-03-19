@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypremiercreditcard.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703223352id_/https%3A//www.mypremiercreditcard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypremiercreditcard.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319072331id_/https%3A//www.mypremiercreditcard.com/privacy.aspx) for the most accurate reproduction.*
 
 # First PREMIER Bank/PREMIER Bankcard
 
@@ -12,7 +12,7 @@ This Privacy Statement applies to this website.  It regulates the processing of
 
 **_Information We Collect._**
 
-We collect general types of information about you when you visit and use our website,   including personal information, demographic information, and behavioral information.  
+We collect general types of information about you when you visit and use our website, including personal information, demographic information, and behavioral information.  
 
 Personal information is information that can be used to identify you.  This is information which you are prompted to provide to us during the registration process or in customer service communications.   This collection includes, but is not limited to, your name, address, telephone number(s), and email address, credit card number(s) or bank account(s). 
 
@@ -24,7 +24,7 @@ Third party information is information about you that we acquire from a third pa
 
 _No Information Collected from Children_.  You must be 18 years of age to use our website.  As such, we will never knowingly collect any Personal Information from children under the age of 13.  If we obtain actual knowledge that we have collected Personal Information about a child under the age of 13, that information will be immediately deleted from our database. 
 
-_No sensitive health information is collected._   We do not collect information about past, present or potential future medical conditions or treatments. _ _
+_No sensitive health information is collected._   We do not collect information about past, present or potential future medical conditions or treatments. 
 
 _Credit Card Information and Bank Account Information_.  We may, in certain instances, collect credit card number(s), bank account and related information, when you request a product or service on our website.  When the credit card or bank account information is submitted to us, such information is encrypted and is protected with SSL encryption software.  We will use the credit card or bank account information for the purpose of processing and completing the transaction you requested.  Such information will be disclosed to third parties as necessary to complete the requested purchase transaction. 
 
