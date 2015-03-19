@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803010034id_/http%3A//www.hardwareandtools.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319014157id_/http%3A//www.hardwareandtools.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
