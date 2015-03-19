@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carrotfry.com privacy policy that was archived on 2014-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215063813id_/http%3A//www.carrotfry.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carrotfry.com privacy policy that was archived on 2015-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319074220id_/http%3A//www.carrotfry.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" xml:lang="en-US"><head id="Head1">
     
@@ -10,7 +10,7 @@
     <script type="text/javascript">
         var GetLastCount = 0;
         var GetLastCountElement = 0;
-        var getTitle;        
+        var getTitle;
         function IsSpecialInviteTitle() {
             var getTitle = document.title;
             $(document).attr('title', '');
@@ -316,8 +316,8 @@ color: #fff;text-align: center;margin-bottom: 10px;
             }
             return true;
         }
-        $(function(){
-           openpopup('divJoinUsPopUp', '');
+        $(function () {
+            openpopup('divJoinUsPopUp', '');
             $('#txtSignUpEmailPop').focusout(function () {
                 if ($('#txtSignUpEmailPop').val() != "")
                     ValidateEmailPop();
@@ -329,26 +329,25 @@ color: #fff;text-align: center;margin-bottom: 10px;
             var divbg = document.getElementById('bg');
             divbg.style.visibility = "hidden";
             document.getElementById('divJoinUsPopUp').style.display = "none";
-            
+
             $('#lbtnExpertSubmit').click(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test($('#txtExpertEmail').val());
-                    if ($('#txtExpertMsg').val() == "") {
-                        alert("Please enter your message and email. ");
-                        return false;
-                    }
-                    if ($('#txtExpertEmail').val() == "") {
-                        alert("Please Enter Email.");
-                        return false;
-                    }
-                    if (valid == false)
-                    {
-                        alert("Please Enter Valid Email.");
-                        return false;
-                    }
-                    return true;
-                });
-        }); 
+                var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+        var valid = emailReg.test($('#txtExpertEmail').val());
+        if ($('#txtExpertMsg').val() == "") {
+            alert("Please enter your message and email. ");
+            return false;
+        }
+        if ($('#txtExpertEmail').val() == "") {
+            alert("Please Enter Email.");
+            return false;
+        }
+        if (valid == false) {
+            alert("Please Enter Valid Email.");
+            return false;
+        }
+        return true;
+        });
+        });
         function ValidateEmailPop() {
             $.ajax({
                 cache: false,
@@ -421,83 +420,84 @@ color: #fff;text-align: center;margin-bottom: 10px;
     </script>
     
 <script language="javascript">
-        
-        function ValidSearch()
-        {
-          if(document.getElementById('txt_search').value=="")
-            return false;
-          else
-            return true;
-        }
-        function openpopup(id, url) {
-            if(id=="popupcoupon")
-              document.getElementById('hdnPop').value ="1";
-            if(document.getElementById('hdnPopUpUrl').value=="")
-               document.getElementById('hdnPopUpUrl').value = url;
-            document.getElementById('divLoginPopUp').style.display = "none";
-            document.getElementById('divJoinUsPopUp').style.display = "none";
-            document.getElementById('divForgotPopUp').style.display = "none";
-            //Calculate Page width and height 
-            var pageWidth = window.innerWidth;
-            var pageHeight = window.innerHeight;
-            if (typeof pageWidth != "number") {
-                if (document.compatMode == "CSS1Compat") {
-                    pageWidth = document.documentElement.clientWidth;
-                    pageHeight = document.documentElement.clientHeight;
-                } else {
-                    pageWidth = document.body.clientWidth;
-                    pageHeight = document.body.clientHeight;
-                }
-            }
-            //Make the background div tag visible... 
-            var divbg = document.getElementById('bg');
-            divbg.style.visibility = "visible";
-            divbg.style.display = "block";
 
-            var divobj = document.getElementById(id);
-            divobj.style.visibility = "visible";
-            divobj.style.display = "block";
-            if (navigator.appName == "Microsoft Internet Explorer")
-                computedStyle = divobj.currentStyle;
-            else computedStyle = document.defaultView.getComputedStyle(divobj, null);
-            //Get Div width and height from StyleSheet 
-            var divWidth = computedStyle.width.replace('px', '');
-            var divHeight = computedStyle.height.replace('px', '');
-            var divLeft = (pageWidth - divWidth) / 2;
-            var divTop = (pageHeight - divHeight) / 3;
-            //Set Left and top coordinates for the div tag 
-            divobj.style.left = divLeft + "px";
-            divobj.style.top = divTop + "px";
-            //Put a Close button for closing the popped up Div tag 
-            if (divobj.innerHTML.indexOf("closepopup('" + id + "')") < 0)
-                divobj.innerHTML = "<a href=\"http://www.carrotfry.com/joinus\" onclick=\"closepopup('" + id + "');return false;\"><span class=\"close_button\">X</span></a>" + divobj.innerHTML;
+    function ValidSearch() {
+        if (document.getElementById('txt_search').value == "")
+            return false;
+        else
+            return true;
+    }
+    function openpopup(id, url) {
+        if (id == "popupcoupon")
+            document.getElementById('hdnPop').value = "1";
+        if (document.getElementById('hdnPopUpUrl').value == "")
+            document.getElementById('hdnPopUpUrl').value = url;
+        document.getElementById('divLoginPopUp').style.display = "none";
+        document.getElementById('divJoinUsPopUp').style.display = "none";
+        document.getElementById('divForgotPopUp').style.display = "none";
+        //Calculate Page width and height 
+        var pageWidth = window.innerWidth;
+        var pageHeight = window.innerHeight;
+        if (typeof pageWidth != "number") {
+            if (document.compatMode == "CSS1Compat") {
+                pageWidth = document.documentElement.clientWidth;
+                pageHeight = document.documentElement.clientHeight;
+            } else {
+                pageWidth = document.body.clientWidth;
+                pageHeight = document.body.clientHeight;
+            }
         }
-        function closepopup(id) {
-            document.getElementById('hdnPopUpUrl').value = "";
-            var divbg = document.getElementById('bg');
-            divbg.style.visibility = "hidden";
-            var divobj = document.getElementById(id);
-            divobj.style.visibility = "hidden";
-              document.getElementById('hdnStoreID').value ="";
-              document.getElementById('hdnCouponID').value ="";
-              document.getElementById('hdnDealID').value ="";
-            document.getElementById('divLoginPopUp').style.display = "none";
-            document.getElementById('divJoinUsPopUp').style.display = "none";
-            document.getElementById('divForgotPopUp').style.display = "none";
-        }
+        //Make the background div tag visible... 
+        var divbg = document.getElementById('bg');
+        divbg.style.visibility = "visible";
+        divbg.style.display = "block";
+
+        var divobj = document.getElementById(id);
+        divobj.style.visibility = "visible";
+        divobj.style.display = "block";
+        if (navigator.appName == "Microsoft Internet Explorer")
+            computedStyle = divobj.currentStyle;
+        else computedStyle = document.defaultView.getComputedStyle(divobj, null);
+        //Get Div width and height from StyleSheet 
+        var divWidth = computedStyle.width.replace('px', '');
+        var divHeight = computedStyle.height.replace('px', '');
+        var divLeft = (pageWidth - divWidth) / 2;
+        var divTop = (pageHeight - divHeight) / 3;
+        //Set Left and top coordinates for the div tag 
+        divobj.style.left = divLeft + "px";
+        divobj.style.top = divTop + "px";
+        //Put a Close button for closing the popped up Div tag 
+        if (divobj.innerHTML.indexOf("closepopup('" + id + "')") < 0)
+            divobj.innerHTML = "<a href=\"http://www.carrotfry.com/joinus\" onclick=\"closepopup('" + id + "');return false;\"><span class=\"close_button\">X</span></a>" + divobj.innerHTML;
+    }
+    function closepopup(id) {
+        document.getElementById('hdnPopUpUrl').value = "";
+        var divbg = document.getElementById('bg');
+        divbg.style.visibility = "hidden";
+        var divobj = document.getElementById(id);
+        divobj.style.visibility = "hidden";
+        document.getElementById('hdnStoreID').value = "";
+        document.getElementById('hdnCouponID').value = "";
+        document.getElementById('hdnDealID').value = "";
+        document.getElementById('divLoginPopUp').style.display = "none";
+        document.getElementById('divJoinUsPopUp').style.display = "none";
+        document.getElementById('divForgotPopUp').style.display = "none";
+    }
     </script>
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
 
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
 
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
 
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-  ga('create', 'UA-40783751-1', 'auto');
+    ga('create', 'UA-40783751-1', 'auto');
 
-  ga('send', 'pageview');
+    ga('send', 'pageview');
 
 </script>
 
@@ -506,20 +506,55 @@ color: #fff;text-align: center;margin-bottom: 10px;
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ND26P3"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-ND26P3');</script>
+<script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-ND26P3');</script>
 <!-- End Google Tag Manager -->
 
     <form method="post" action="privacypolicy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYIAgIPFgIeB1Zpc2libGVoZAINDxYCHwBoFgICAQ8WAh8AaGQCDg8WAh8AaGQCEA8WAh4JaW5uZXJodG1sBYUFPGEgaHJlZj0namF2YXNjcmlwdDo7Jz4gVHJhdmVsIE9mZmVycyA8L2E+PGRpdiBjbGFzcz0nZHJvcGRvd25fNGNvbHVtbnMnPjxkaXYgY2xhc3M9J2NvbF80Jz48L2Rpdj48ZGl2IGNsYXNzPSdjb2xfMic+PHVsPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmNhcnJvdGZyeS5jb20vb2ZmZXJzL2FsbC1kb21lc3RpYy1mbGlnaHQtb2ZmZXJzLWFuZC1mbGlnaHQtY291cG9ucy1pbi1pbmRpYSc+RG9tZXN0aWMgRmxpZ2h0IE9mZmVyczwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmNhcnJvdGZyeS5jb20vb2ZmZXJzL2FsbC1pbnRlcm5hdGlvbmFsLWZsaWdodC1vZmZlcnMtYW5kLWNoZWFwLWZsaWdodC10aWNrZXRzJz5JbnRlcm5hdGlvbmFsIEZsaWdodCBPZmZlcnM8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3d3dy5jYXJyb3RmcnkuY29tL29mZmVycy9hbGwtb25saW5lLWJ1cy10aWNrZXQtYm9va2luZy1vZmZlcnMtYm9vay1idXMtdGlja2V0cyc+QnVzIE9mZmVyczwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmNhcnJvdGZyeS5jb20vb2ZmZXJzL2FsbC1vbmxpbmUtaG90ZWwtY291cG9ucy1hbmQtaG90ZWwtYm9va2luZy1vZmZlcnMnPkhvdGVsIE9mZmVyczwvYT48L2xpPjwvdWw+PC9kaXY+PC9kaXY+ZGR9evRapNjdKqhXuF+oaOh8UweEIOl8GKoyNlatyfdcwg==">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYIAgIPFgIeB1Zpc2libGVoZAINDxYCHwBoFgICAQ8WAh8AaGQCDg8WAh8AaGQCEA8WAh4JaW5uZXJodG1sBYUFPGEgaHJlZj0namF2YXNjcmlwdDo7Jz4gVHJhdmVsIE9mZmVycyA8L2E+PGRpdiBjbGFzcz0nZHJvcGRvd25fNGNvbHVtbnMnPjxkaXYgY2xhc3M9J2NvbF80Jz48L2Rpdj48ZGl2IGNsYXNzPSdjb2xfMic+PHVsPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmNhcnJvdGZyeS5jb20vb2ZmZXJzL2FsbC1kb21lc3RpYy1mbGlnaHQtb2ZmZXJzLWFuZC1mbGlnaHQtY291cG9ucy1pbi1pbmRpYSc+RG9tZXN0aWMgRmxpZ2h0IE9mZmVyczwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmNhcnJvdGZyeS5jb20vb2ZmZXJzL2FsbC1pbnRlcm5hdGlvbmFsLWZsaWdodC1vZmZlcnMtYW5kLWNoZWFwLWZsaWdodC10aWNrZXRzJz5JbnRlcm5hdGlvbmFsIEZsaWdodCBPZmZlcnM8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3d3dy5jYXJyb3RmcnkuY29tL29mZmVycy9hbGwtb25saW5lLWJ1cy10aWNrZXQtYm9va2luZy1vZmZlcnMtYm9vay1idXMtdGlja2V0cyc+QnVzIE9mZmVyczwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmNhcnJvdGZyeS5jb20vb2ZmZXJzL2FsbC1vbmxpbmUtaG90ZWwtY291cG9ucy1hbmQtaG90ZWwtYm9va2luZy1vZmZlcnMnPkhvdGVsIE9mZmVyczwvYT48L2xpPjwvdWw+PC9kaXY+PC9kaXY+ZGRJbYsNafbqFUIP765mOGk8wMOpOsSMs9ygxuhTNI+vOw==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
-<script src="/ScriptResource.axd?d=wF_tzjyejXG32oN2WL-a74NxVpoSrJAue5k_ExziaIs_TBKi_9uN-ct8ZGpNH2yjyBKlBQk4GUHYBP4k3nN9AYrRCgOGLHFkJ3LLsQE_UwJ9d338V1fHpSZwiSurXpc5xK-PUk7qPtmzkFJcqm9vArmC1Hhgyf3OwlBppgTlP9E1&amp;t=6119e399" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAB5zpOgWW8K5M9AjGbuIft6TqmnQWtWg89VPdDy9cmBZ4jWRnFSjzfR4BhwFYeKHakFykeKq0ccQrrSlXu1fHuRxU6DO1DAg9PDRGtVUTYwMtlV6RkAfufrqJa6LpqnGFgurso+AjPkYOyt7Lm7k63eI/vu0TsWzkZOFcMEFcDZTT1psT4BNIhlmelqFJFlk1aLtYOVF3oOoDqu5wlSRFn6OG8jycQxZVtiBF9whDSLEbo2OlE+CUr82FHXSLcPNjsZFvdgBKPDp5XjmjCN4o7aOqznenfX7IsEoK6qokDsYKrKQPOLERu2I4MkX2uwU1hHTQmnPkTGmVln2SWuOMX+fR1CJ86xNtNvRlDtB8YbkCMtgON7+UMMQCDg0WPKhvtIVDwTtSj0Po5RVQYQ27Pf0epdjl8rtA2xrnh/+bkTr7E9CIRLkeIP27F8p+7Zwq5yRvhwPGnPKPi9flNmaWqnhbwNwGa3j6kjaLcrZTmkHDrW2bajerCDxLy3KWhxd2dTu29GSv3umCGJAPv3x78luNsksK2ms9vbV6yF51ZWVTwTkOOHLo33kZS4COuwPAY+ToChVH+60E+JsLHC4hQPGktAT/H9h423+NcENWuYcC3IdovK9Qu56kT7bJ5QPUQozE22RToE416Gv3CrTM11uNo+acjpoDwp5X8q2eM1rXQ==">
-         
+<script src="/WebResource.axd?d=gXkkzTjFVF_nVCv-DOmXZP-sl-wFJfXfOrLNGYggHP-h_jv_xzGp5tcS7Iq036AtsW4dJx1foIgiocnJ8AbBQRFNIXNPXQGJqXwrBvKgG5E1&amp;t=634774110100000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=JHHr8_gMsJAtYhxp_xNy6ftkPFpRAn6cKbByOhGJueXmgF0Flj3_80houtM0nGkE5f33h_SApC3hEmBerUWK3NZ-OSx5hesrfs-QTgNj4O3I8s0iCuZaXMzbBfYAZwI1nPT_VVJmA0sVU4KluAsI6C0k7_540-fobXvnykelXns1&amp;t=6119e399" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2dp8E19GVtPExXh3HrmRWdS3i_uaG7V9u_Wb9rkLT_vvDyQxVvNsLuonndce719EKObaa9ltsTNyHxaMWTMi_g47u8yM7N_v7EniQkEP5_mTjKGt7Y8DFkI49gSsjMad8KVrHbUYAersqvsCVkmTZs-duj5XANtueW3SCsdWc3hlugeaJZJ-d0HCakLxxxhW0&amp;t=6119e399" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAB5xUNd5rwUv9cdENGT6aVhjqmnQWtWg89VPdDy9cmBZ4jWRnFSjzfR4BhwFYeKHakFykeKq0ccQrrSlXu1fHuRxU6DO1DAg9PDRGtVUTYwMtlV6RkAfufrqJa6LpqnGFgurso+AjPkYOyt7Lm7k63eI/vu0TsWzkZOFcMEFcDZTT1psT4BNIhlmelqFJFlk1aLtYOVF3oOoDqu5wlSRFn6OG8jycQxZVtiBF9whDSLEbo2OlE+CUr82FHXSLcPNjsZFvdgBKPDp5XjmjCN4o7aOqznenfX7IsEoK6qokDsYKrKQPOLERu2I4MkX2uwU1hHTQmnPkTGmVln2SWuOMX+fR1CJ86xNtNvRlDtB8YbkCMtgON7+UMMQCDg0WPKhvtIVDwTtSj0Po5RVQYQ27Pf0epdjl8rtA2xrnh/+bkTr7E9CIRLkeIP27F8p+7Zwq5yRvhwPGnPKPi9flNmaWqnhbwNwGa3j6kjaLcrZTmkHDrW2bajerCDxLy3KWhxd2dTu29GSv3umCGJAPv3x78luNsksK2ms9vbV6yF51ZWVTwTkOOHLo33kZS4COuwPAY+ToChVH+60E+JsLHC4hQPGktAT/H9h423+NcENWuYcC3IdovK9Qu56kT7bJ5QPUQo1ExhL8Rn6BmJo/8H/eGkdHqXxEIIQmlAp46eZjp+V8A==">
+</div>
+         <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
         <div class="headertop">
             <div class="head_socialicon">
                 <a href="http://wwww.facebook.com/carrotfry" class="head_facebook" target="_blank"></a>
@@ -575,8 +610,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 <span id="spanOnam" class="span-sep"></span>-->
 
-<li id="liDiwali">
-<a href="http://www.carrotfry.com/gosf-offers" id="aDiwali">Gosf 2014 Offers</a>
+<li id="liDiwali"> 
+<a href="http://www.carrotfry.com/ugadi-offers" id="aDiwali">Ugadi Offers 2015</a>
 </li>
 <span id="spanDiwali" class="span-sep"></span>
 
@@ -676,7 +711,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<a href="http://www.carrotfry.com/category/sitewide-deals" title="Sitewide Deals">Sitewide Deals</a>
 	</li>
 	<li>
-	<a href="http://www.carrotfry.com/category/others-deals" title="Other Deals">Other serivces</a>
+	<a href="http://www.carrotfry.com/category/others-deals" title="Other Deals">Other Services</a>
 	</li>
 	</ul>
 </li>
@@ -946,67 +981,64 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div id="bg" class="popup_bg"></div>
         <input type="hidden" id="hdnPop" value="0">
         <script type="text/javascript">
-             function SetStoreID(id)
-		      {
-               document.getElementById('hdnStoreID').value = id;
-		      }
-		      function SetCouponID(id)
-		      {
-               document.getElementById('hdnCouponID').value = id;
-		      }
-		      function SetDealID(id)
-		      {
-               document.getElementById('hdnDealID').value = id;
-		      }
+            function SetStoreID(id) {
+                document.getElementById('hdnStoreID').value = id;
+            }
+            function SetCouponID(id) {
+                document.getElementById('hdnCouponID').value = id;
+            }
+            function SetDealID(id) {
+                document.getElementById('hdnDealID').value = id;
+            }
             $(document).ready(function () {
-                             
+
                 openpopup('divLoginPopUp', '');
                 $('#txtLoginEmailPopUp').keyup(function () {
                     var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test($('#txtLoginEmailPopUp').val());
-                    if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
-                        $('#loginPop').css('display', "block");
-                    else
-                        $('#loginPop').css('display', "none");
+            var valid = emailReg.test($('#txtLoginEmailPopUp').val());
+            if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
+                $('#loginPop').css('display', "block");
+            else
+                $('#loginPop').css('display', "none");
 
-                });
-                $('#txtLoginEmailPopUp').change(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test($('#txtLoginEmailPopUp').val());
-                    if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
-                        $('#loginPop').css('display', "block");
-                    else
-                        $('#loginPop').css('display', "none");
-                });
-                $('#txtLoginEmailPopUp').blur(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test($('#txtLoginEmailPopUp').val());
-                    if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
-                        $('#loginPop').css('display', "block");
-                    else
-                        $('#loginPop').css('display', "none");
-                });
-                $('#txtLoginPasswordPopUp').keyup(function () {
-                    if ($('#txtLoginPasswordPopUp').val() == "")
-                        $('#password').css('display', "block");
-                    else
-                        $('#password').css('display', "none");
+            });
+            $('#txtLoginEmailPopUp').change(function () {
+                var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        var valid = emailReg.test($('#txtLoginEmailPopUp').val());
+                        if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
+                            $('#loginPop').css('display', "block");
+                        else
+                            $('#loginPop').css('display', "none");
+                        });
+                        $('#txtLoginEmailPopUp').blur(function () {
+                            var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        var valid = emailReg.test($('#txtLoginEmailPopUp').val());
+                        if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
+                            $('#loginPop').css('display', "block");
+                        else
+                            $('#loginPop').css('display', "none");
+                        });
+                        $('#txtLoginPasswordPopUp').keyup(function () {
+                            if ($('#txtLoginPasswordPopUp').val() == "")
+                                $('#password').css('display', "block");
+                            else
+                                $('#password').css('display', "none");
 
-                });
-                $('#txtLoginPasswordPopUp').change(function () {
-                    if ($('#txtLoginPasswordPopUp').val() == "")
-                        $('#password').css('display', "block");
-                    else
-                        $('#password').css('display', "none");
-                });
-                $('#txtLoginPasswordPopUp').blur(function () {
-                    if ($('#txtLoginPasswordPopUp').val() == "")
-                        $('#password').css('display', "block");
-                    else
-                        $('#password').css('display', "none");
-                });
-                $('#lbtnloginPopUp').click(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        });
+                        $('#txtLoginPasswordPopUp').change(function () {
+                            if ($('#txtLoginPasswordPopUp').val() == "")
+                                $('#password').css('display', "block");
+                            else
+                                $('#password').css('display', "none");
+                        });
+                        $('#txtLoginPasswordPopUp').blur(function () {
+                            if ($('#txtLoginPasswordPopUp').val() == "")
+                                $('#password').css('display', "block");
+                            else
+                                $('#password').css('display', "none");
+                        });
+                        $('#lbtnloginPopUp').click(function () {
+                            var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
                     var valid = emailReg.test($('#txtLoginEmailPopUp').val());
                     if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
                         $('#loginPop').css('display', "block");
@@ -1020,153 +1052,153 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         return false;
                     else
                         return true;
-                });
+                    });
 
 
-                openpopup('divForgotPopUp', '');
-                $('#txtForgotPwdEmailPop').keyup(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
-                    if ($('#txtForgotPwdEmailPop').val() == "" || valid == false)
-                        $('#forgotEmail').css('display', "block");
-                    else
-                        $('#forgotEmail').css('display', "none");
+                    openpopup('divForgotPopUp', '');
+                    $('#txtForgotPwdEmailPop').keyup(function () {
+                        var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
+                        if ($('#txtForgotPwdEmailPop').val() == "" || valid == false)
+                            $('#forgotEmail').css('display', "block");
+                        else
+                            $('#forgotEmail').css('display', "none");
 
-                });
-                $('#txtForgotPwdEmailPop').change(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
-                    if ($('#txtForgotPwdEmailPop').val() == "" || valid == false)
-                        $('#forgotEmail').css('display', "block");
-                    else
-                        $('#forgotEmail').css('display', "none");
-                });
-                $('#txtForgotPwdEmailPop').blur(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
-                    if ($('#txtForgotPwdEmailPop').val() == "" || valid == false)
-                        $('#forgotEmail').css('display', "block");
-                    else
-                        $('#forgotEmail').css('display', "none");
-                });
-                $('#lbtnForgotPwdEmailPop').click(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
-                    if ($('#txtForgotPwdEmailPop').val() == "" || valid == false) {
-                        $('#forgotEmail').css('display', "block");
-                        return false;
-                    }
-                    else {
-                        $('#forgotEmail').css('display', "none");
-                        return true;
-                    }
-                });
+                        });
+                        $('#txtForgotPwdEmailPop').change(function () {
+                            var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
+                        if ($('#txtForgotPwdEmailPop').val() == "" || valid == false)
+                            $('#forgotEmail').css('display', "block");
+                        else
+                            $('#forgotEmail').css('display', "none");
+                        });
+                        $('#txtForgotPwdEmailPop').blur(function () {
+                            var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
+                        if ($('#txtForgotPwdEmailPop').val() == "" || valid == false)
+                            $('#forgotEmail').css('display', "block");
+                        else
+                            $('#forgotEmail').css('display', "none");
+                        });
+                        $('#lbtnForgotPwdEmailPop').click(function () {
+                            var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
+                        if ($('#txtForgotPwdEmailPop').val() == "" || valid == false) {
+                            $('#forgotEmail').css('display', "block");
+                            return false;
+                        }
+                        else {
+                            $('#forgotEmail').css('display', "none");
+                            return true;
+                        }
+                        });
 
-                openpopup('divJoinUsPopUp', '');
-                $('#txtFirstNamePop').keyup(function () {
-                    if ($('#txtFirstNamePop').val() == "")
-                        $('#fname').css('display', "block");
-                    else
-                        $('#fname').css('display', "none");
+                        openpopup('divJoinUsPopUp', '');
+                        $('#txtFirstNamePop').keyup(function () {
+                            if ($('#txtFirstNamePop').val() == "")
+                                $('#fname').css('display', "block");
+                            else
+                                $('#fname').css('display', "none");
 
-                });
-                $('#txtFirstNamePop').change(function () {
-                    if ($('#txtFirstNamePop').val() == "")
-                        $('#fname').css('display', "block");
-                    else
-                        $('#fname').css('display', "none");
-                });
-                $('#txtFirstNamePop').blur(function () {
-                    if ($('#txtFirstNamePop').val() == "")
-                        $('#fname').css('display', "block");
-                    else
-                        $('#fname').css('display', "none");
-                });
-                $('#txtLastNamePop').keyup(function () {
-                    if ($('#txtLastNamePop').val() == "")
-                        $('#lname').css('display', "block");
-                    else
-                        $('#lname').css('display', "none");
+                        });
+                        $('#txtFirstNamePop').change(function () {
+                            if ($('#txtFirstNamePop').val() == "")
+                                $('#fname').css('display', "block");
+                            else
+                                $('#fname').css('display', "none");
+                        });
+                        $('#txtFirstNamePop').blur(function () {
+                            if ($('#txtFirstNamePop').val() == "")
+                                $('#fname').css('display', "block");
+                            else
+                                $('#fname').css('display', "none");
+                        });
+                        $('#txtLastNamePop').keyup(function () {
+                            if ($('#txtLastNamePop').val() == "")
+                                $('#lname').css('display', "block");
+                            else
+                                $('#lname').css('display', "none");
 
-                });
-                $('#txtLastNamePop').change(function () {
-                    if ($('#txtLastNamePop').val() == "")
-                        $('#lname').css('display', "block");
-                    else
-                        $('#lname').css('display', "none");
-                });
-                $('#txtLastNamePop').blur(function () {
-                    if ($('#txtLastNamePop').val() == "")
-                        $('#lname').css('display', "block");
-                    else
-                        $('#lname').css('display', "none");
-                });
+                        });
+                        $('#txtLastNamePop').change(function () {
+                            if ($('#txtLastNamePop').val() == "")
+                                $('#lname').css('display', "block");
+                            else
+                                $('#lname').css('display', "none");
+                        });
+                        $('#txtLastNamePop').blur(function () {
+                            if ($('#txtLastNamePop').val() == "")
+                                $('#lname').css('display', "block");
+                            else
+                                $('#lname').css('display', "none");
+                        });
 
-                $('#txtMobilePop').keyup(function () {
-                    if ($('#txtMobilePop').val().length != "10")
-                        $('#mobile').css('display', "block");
-                    else
-                        $('#mobile').css('display', "none");
+                        $('#txtMobilePop').keyup(function () {
+                            if ($('#txtMobilePop').val().length != "10")
+                                $('#mobile').css('display', "block");
+                            else
+                                $('#mobile').css('display', "none");
 
-                });
-                $('#txtMobilePop').change(function () {
-                    if ($('#txtMobilePop').val().length != "10")
-                        $('#mobile').css('display', "block");
-                    else
-                        $('#mobile').css('display', "none");
-                });
-                $('#txtMobilePop').blur(function () {
-                    if ($('#txtMobilePop').val().length != "10")
-                        $('#mobile').css('display', "block");
-                    else
-                        $('#mobile').css('display', "none");
-                });
-                $('#txtSignUpEmailPop').keyup(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        });
+                        $('#txtMobilePop').change(function () {
+                            if ($('#txtMobilePop').val().length != "10")
+                                $('#mobile').css('display', "block");
+                            else
+                                $('#mobile').css('display', "none");
+                        });
+                        $('#txtMobilePop').blur(function () {
+                            if ($('#txtMobilePop').val().length != "10")
+                                $('#mobile').css('display', "block");
+                            else
+                                $('#mobile').css('display', "none");
+                        });
+                        $('#txtSignUpEmailPop').keyup(function () {
+                            var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
                     var valid = emailReg.test($('#txtSignUpEmailPop').val());
                     if ($('#txtSignUpEmailPop').val() == "" || valid == false)
                         $('#email').css('display', "block");
                     else
                         $('#email').css('display', "none");
 
-                });
-                $('#txtSignUpEmailPop').change(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test($('#txtSignUpEmailPop').val());
-                    if ($('#txtSignUpEmailPop').val() == "" || valid == false)
-                        $('#email').css('display', "block");
-                    else
-                        $('#email').css('display', "none");
-                });
-                $('#txtSignUpEmailPop').blur(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    var valid = emailReg.test($('#txtSignUpEmailPop').val());
-                    if ($('#txtSignUpEmailPop').val() == "" || valid == false)
-                        $('#email').css('display', "block");
-                    else
-                        $('#email').css('display', "none");
-                });
-                $('#txtPasswordPop').keyup(function () {
-                    if ($('#txtPasswordPop').val() == "")
-                        $('#spassword').css('display', "block");
-                    else
-                        $('#spassword').css('display', "none");
+                    });
+                    $('#txtSignUpEmailPop').change(function () {
+                        var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        var valid = emailReg.test($('#txtSignUpEmailPop').val());
+                        if ($('#txtSignUpEmailPop').val() == "" || valid == false)
+                            $('#email').css('display', "block");
+                        else
+                            $('#email').css('display', "none");
+                        });
+                        $('#txtSignUpEmailPop').blur(function () {
+                            var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        var valid = emailReg.test($('#txtSignUpEmailPop').val());
+                        if ($('#txtSignUpEmailPop').val() == "" || valid == false)
+                            $('#email').css('display', "block");
+                        else
+                            $('#email').css('display', "none");
+                        });
+                        $('#txtPasswordPop').keyup(function () {
+                            if ($('#txtPasswordPop').val() == "")
+                                $('#spassword').css('display', "block");
+                            else
+                                $('#spassword').css('display', "none");
 
-                });
-                $('#txtPasswordPop').change(function () {
-                    if ($('#txtPasswordPop').val() == "")
-                        $('#spassword').css('display', "block");
-                    else
-                        $('#spassword').css('display', "none");
-                });
-                $('#txtPasswordPop').blur(function () {
-                    if ($('#txtPasswordPop').val() == "")
-                        $('#spassword').css('display', "block");
-                    else
-                        $('#spassword').css('display', "none");
-                });
-                $('#btnJoinusPop').click(function () {
-                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                        });
+                        $('#txtPasswordPop').change(function () {
+                            if ($('#txtPasswordPop').val() == "")
+                                $('#spassword').css('display', "block");
+                            else
+                                $('#spassword').css('display', "none");
+                        });
+                        $('#txtPasswordPop').blur(function () {
+                            if ($('#txtPasswordPop').val() == "")
+                                $('#spassword').css('display', "block");
+                            else
+                                $('#spassword').css('display', "none");
+                        });
+                        $('#btnJoinusPop').click(function () {
+                            var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
                     var valid = emailReg.test($('#txtSignUpEmailPop').val());
                     if ($('#txtFirstNamePop').val() == "" || $('#txtLastNamePop').val() == "" || $('#txtMobilePop').val().length != "10" || $('#txtSignUpEmailPop').val() == "" || valid == false || $('#txtPasswordPop').val() == "") {
                         $('#forgotEmail').css('display', "block");
@@ -1176,56 +1208,55 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         $('#forgotEmail').css('display', "none");
                         return true;
                     }
-                });
-             var divbg = document.getElementById('bg');
-             if(document.getElementById('hdnPop').value =="0")
-             {
-                divbg.style.visibility = "hidden";
-                
-              }
-              document.getElementById('divLoginPopUp').style.display = "none";
-                document.getElementById('divJoinUsPopUp').style.display = "none";
-                document.getElementById('divForgotPopUp').style.display = "none";
-            
-                //openpopup('divLoginPopUp', '');
-            });
+                    });
+                    var divbg = document.getElementById('bg');
+                    if (document.getElementById('hdnPop').value == "0") {
+                        divbg.style.visibility = "hidden";
+
+                    }
+                    document.getElementById('divLoginPopUp').style.display = "none";
+                    document.getElementById('divJoinUsPopUp').style.display = "none";
+                    document.getElementById('divForgotPopUp').style.display = "none";
+
+                    //openpopup('divLoginPopUp', '');
+                    });
         </script>
         
         <script type="text/javascript">
-        $(function () {
-            $('#txt_search').autocomplete({
-                source: function (request, response) {
-                    $.ajax({
-                        url: "http://www.carrotfry.com/Carrotfry.asmx/GetAutoCompleteData",
-                        data: "{ 'MerchantName':'" + request.term + "'}",
-                        dataType: "json",
-                        type: "POST",
-                        contentType: "application/json; charset=utf-8",
-                        success: function (data) {
-                            response($.map(data.d, function (item) {
-                                return { value: item }
-                            }))
-                        },
-                        error: function (XMLHttpRequest, textStatus, errorThrown) {
-                            //alert(textStatus);
-                        }
-                    });
-                }
+            $(function () {
+                $('#txt_search').autocomplete({
+                    source: function (request, response) {
+                        $.ajax({
+                            url: "http://www.carrotfry.com/Carrotfry.asmx/GetAutoCompleteData",
+                            data: "{ 'MerchantName':'" + request.term + "'}",
+                            dataType: "json",
+                            type: "POST",
+                            contentType: "application/json; charset=utf-8",
+                            success: function (data) {
+                                response($.map(data.d, function (item) {
+                                    return { value: item }
+                                }))
+                            },
+                            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                                //alert(textStatus);
+                            }
+                        });
+                    }
+                });
             });
-        });
     </script>
     
     
-    <input type="hidden" name="ctl00$shieldsquare_response_PID" id="shieldsquare_response_PID" value="AE81E443-2bc5-C2FC-82DE-8800294124E5">
+    <input type="hidden" name="ctl00$shieldsquare_response_PID" id="shieldsquare_response_PID" value="CFF1EDE4-2bc5-53BC-83DF-5E697CB931FB">
 <input type="hidden" name="ctl00$shieldsquare_response_url" id="shieldsquare_response_url" value="getData.ashx">
 <input type="hidden" name="ctl00$shieldsquare_response_js" id="shieldsquare_response_js" value="var __uzdbm_c = 2+2">
 <input type="hidden" name="ctl00$shieldsquare_response" id="shieldsquare_response" value="Allow User Request">
-    <!--<p> Shieldsquare TID AE81E443-2bc5-C2FC-82DE-8800294124E5 </p>
+    <!--<p> Shieldsquare TID CFF1EDE4-2bc5-53BC-83DF-5E697CB931FB </p>
     <p> Shieldsquare URL getData.ashx </p>
     <p> Shieldsquare Dynamic JS var __uzdbm_c = 2+2 </p>
     <p> Shieldsquare Response Allow User Request </p>-->
-<script type="text/javascript">  
-    var __uzdbm_a = "AE81E443-2bc5-C2FC-82DE-8800294124E5";
+<script type="text/javascript">
+    var __uzdbm_a = "CFF1EDE4-2bc5-53BC-83DF-5E697CB931FB";
     var __uzdbm_b = "getData.ashx";
     eval("var __uzdbm_c = 2+2");
 </script>  
