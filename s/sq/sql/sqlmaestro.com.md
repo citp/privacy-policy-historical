@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207103800id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319094000id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
@@ -6,9 +6,9 @@ Partners
 
 Testimonials
 
-**Craig Cordell:** "The simplicity of your code generator is fantastic. We've evaluated dozens of others over the past few years but have yet to find one that is as easy to use as yours".
+**Marco De Luca:** "I can handle now both version of SQLite Databases, 2.x and 3.x. Your SQLite PHP Generator is among the best tools I have seen".
 
-**Charles Phillips:** "I very much like the program and all of its functionality! Would be happy to give you an endorsement or recommend it to others - saves me a ton of time".
+**Steve Horne:** "All in all it's a great product, I used the freeware version for a while but purchased a commercial license recently as I am now using it for my work. The ability to query SharePoint lists using SQL makes my administration tasks much easier".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -71,24 +71,24 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
-Nov 24, 2014
+Mar 16, 2015
 
-New version introduces SQL Anywhere 16 compatibility, enhanced Data Import abilities, nullable column checker, data export to JSON, and other new features.
+New version features an ability to select or disable certain synchronization operations, executing SQL scripts before and after processing each table, a brand new start page, connectivity enhancements, and some other useful things.
 
-Oct 24, 2014
+Jan 12, 2015
 
-Long-awaited major version introduces new and updated controls, powerful JavaScript API, enhanced customization features, user-defined authorization, new application level events, multi-group menus and lots of other useful things.
+New version comes with support of user authentication and management, read-only database connections, colored tabs, and some other new features.
 
-Sep 1, 2014
+Dec 12, 2014
 
-A new data reporting tool, lots of new features in SQL editors and viewers, nullable column checker, updated Data Import and SQL Dump tools, data export to JSON, and many other useful things.
+This is MySQL Schema Browser: an application to investigate the structure of your MySQL databases.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/postgresql/phpgenerator/screenshots/common/master_detail_presentation/)
+[](http://www.sqlmaestro.com/products/db2/maestro/screenshots/getting_started/support_utf8/)
 
-PHP Generator supports master-detail presentations used to display a list of detail records related to a selected record on the page. 
+DB2 Maestro supports UTF-8 data in grids.
 
-[](http://www.sqlmaestro.com/products/mysql/codefactory/screenshots/getting_started/blob_viewer/)
+[](http://www.sqlmaestro.com/products/postgresql/codefactory/screenshots/getting_started/sq_leditor/)
 
-Using MySQL Code Factory you can view or edit BLOB data in the following ways: hexadecimal dump, plain text, graphical image or HTML page. 
+PostgreSQL Code Factory provides you with all the features (such as viewing, editing, grouping, sorting and filtering) to analyze the data in the most convenient way.
