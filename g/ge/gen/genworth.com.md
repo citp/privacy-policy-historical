@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genworth.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214224223id_/https%3A//www.genworth.com/site-tools/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genworth.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319133701id_/https%3A//www.genworth.com/site-tools/privacy-policy.html) for the most accurate reproduction.*
 
 # Corporate Privacy Policy - Genworth
 
