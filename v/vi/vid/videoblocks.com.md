@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the videoblocks.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015013656id_/http%3A//www.videoblocks.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoblocks.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320002632id_/http%3A//www.videoblocks.com/documents/VideoBlocks/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Video Blocks
+# Privacy Policy
 
-Effective on July 23, 2014
+Effective on April 4, 2014
 
-This privacy statement describes how Video Blocks collects and uses the personal information you provide on our Web site: [www.videoblocks.com](http://www.videoblocks.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how VideoBlocks collects and uses the personal information you provide on our Web site:[www.VideoBlocks.com](http://www.videoblocks.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Collection and Use of Personal Information
 
@@ -41,13 +41,9 @@ We use this information to
   * Conduct research and analysis
   * Display content based upon your interests
 
-
-
 **Choice/Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@videoblocks.com ](mailto:support@videoblocks.com).
-
-To opt-out of VideoBlocks data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.videoblocks.com/optout.html).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at[support@VideoBlocks.com](mailto:support@VideoBlocks.com).
 
 **Information Obtained from Third Parties**
 
@@ -59,31 +55,20 @@ We will share your personal information with third parties only in the ways that
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
-If you provide the name of your company, we may use the name of your company (but not other personal information) on a list of current or former customers for promotional purposes.
-
 We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Video Blocks is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * if GraphicStock is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
 
 
-We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [support@videoblocks.com](mailto:support@videoblocks.com).
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at[support@VideoBlocks.com](mailto:support@VideoBlocks.com).
 
 ## Cookies and Other Tracking Technologies
 
-The Site may automatically collect information as you browse, such as Internet Service Provider, browser type and version, operating system and device type, average time spent on our site(s), pages viewed, information accessed, the Internet Protocol (IP) address used to connect your computer to the Internet and other relevant statistics. Such information is sometimes referred to as web analytics and/or clickstream data. 
-
-We and our partners may use cookies and action tags to keep track of your visits, preferences and profile information. 
-
-  * A cookie is a small, unique text file that a website can send to your computer when you visit a site. We may use session cookies, which terminate when a user closes his or her browser, and/or persistent cookies, which remain on the user's computer until manually deleted. Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. If you do not want us to deploy cookies to your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie on your computer. Rejecting cookies may affect your ability to use the Site.
-  * An action tag is similar to a cookie. Action tags help us identify and track the performance of web pages on the Site, allowing us to measure the performance and quality of the Site and to manage Site content. In addition, we may use action tags in emails. This allows us to gauge the effectiveness of certain communications and the effectiveness of marketing campaigns by showing, for example, how many emails have been opened.
-
-
-
-Electronic tracking technologies are used to enhance your experience on the Site, including allowing you to remain logged in on the Site. Cookies and pixel tags may also be used to collect general usage and aggregated statistical information that does not identify you personally. However, we and our third party partners may use cookies to store some of your preferences (including limited Personal Information) or to display relevant content based upon what you view on our site. 
+We do not use cookies on this site.
 
 ## Security
 
@@ -91,9 +76,9 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@videoblocks.com](mailto:support@videoblocks.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at[support@VideoBlocks.com](mailto:support@VideoBlocks.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you have any questions about security on our Web site, you can contact us at [support@videoblocks.com](mailto:support@videoblocks.com)
+If you have any questions about security on our Web site, you can contact us at[support@VideoBlocks.com](mailto:support@VideoBlocks.com)
 
 ## Additional Policy Information
 
@@ -101,7 +86,7 @@ Our Web site includes Widgets, which are interactive mini-programs that run on o
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [support@videoblocks.com](mailto:support@videoblocks.com).
+To review and update your personal information to ensure it is accurate, contact us at[support@VideoBlocks.com](mailto:support@VideoBlocks.com).
 
 **Notification of Privacy Statement Changes**
 
@@ -109,8 +94,8 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Video Blocks
+VideoBlocks
 
 10780 Parkridge Blvd Suite 70
 
-Reston,VA,United States 20191
+Reston,VA,United States20191
