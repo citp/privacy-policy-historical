@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eucalyptus.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131805id_/https%3A//www.eucalyptus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eucalyptus.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319041019id_/https%3A//www.eucalyptus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Eucalyptus
 
@@ -64,7 +64,3 @@ We take seriously the security for all personal and non-personal information ass
 ### Change of Control
 
 In the event that another company acquires all or substantially all of the assets related to the Website, or if we experience some other change of control event such as merger, insolvency, bankruptcy or receivership, we reserve the right to include any or all user-related information among the assets transferred to the acquiring company. We do not guarantee that any entity receiving such information in connection with any of these transactions will comply with all the terms of this policy.
-
-### For More Information
-
-If you have questions about this privacy policy, please contact Eucalyptus: [privacy@eucalyptus.com](mailto:privacy@eucalyptus.com).
