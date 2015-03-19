@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the isaumya.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205173045id_/http%3A//www.isaumya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isaumya.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319134757id_/https%3A//www.isaumya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Saumya Majumder
 
 At  **iSaumya.com** , I am dedicated to safeguarding and preserving your privacy when visiting my site or communicating electronically with me. This Privacy Policy, together with myterms of use, explains what happens to any personal data that you provide to me, or that I collect from you when you are on this site. I do update this Policy from time to time so please do return and review this Policy regularly.
 
-###  **Information I  Collect**
+### **Information I  Collect**
 
 In operating my website I may collect and process the following data about you:
 
- **i.**  Details of your visits to my website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
+**i.**  Details of your visits to my website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
 
- **ii.**  Information that you provide by filling in forms on my website, such as when you registered for information or make a purchase.
+**ii.**  Information that you provide by filling in forms on my website, such as when you registered for information or make a purchase.
 
- **iii.**  Information provided to me when you communicate with me for any reason.
+**iii.**  Information provided to me when you communicate with me for any reason.
 
-###  **Use of Your Information**
+### **Use of Your Information**
 
 The information that I collect and store relating to you is primarily used to enable me to provide my services to you. In addition, I may use the information for the following purposes:
 
- **i.**  To provide you with information requested from me, relating to my products or services. To provide information on other products which I feel may be of interest to you, where you have consented to receive such information.
+**i.**  To provide you with information requested from me, relating to my products or services. To provide information on other products which I feel may be of interest to you, where you have consented to receive such information.
 
- **ii.**  To meet my contractual commitments to you.
+**ii.**  To meet my contractual commitments to you.
 
- **iii.**  To notify you about any changes to my website, such as improvements or service/product changes, that may affect my service.
+**iii.**  To notify you about any changes to my website, such as improvements or service/product changes, that may affect my service.
 
 If you are an existing customer, I may contact you with information about goods and services similar to those which were the subject of a previous sale to you.  
 Further, I may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which I consider may be of interest to you. I or they may contact you about these goods and services by any of the methods that you consented to at the time your information was collected.
@@ -44,11 +44,11 @@ The transmission of information via the internet is not completely secure and th
 Where applicable, I may disclose your personal information to any member of my group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).  
 I may also disclose your personal information to third parties:
 
- **i.**  Where I sell any or all of my business and/or my assets to a third party.
+**i.**  Where I sell any or all of my business and/or my assets to a third party.
 
- **ii.**  Where I are legally required to disclose your information.
+**ii.**  Where I are legally required to disclose your information.
 
- **iii.**  To assist fraud protection and minimize credit risk.
+**iii.**  To assist fraud protection and minimize credit risk.
 
 ### Third Party Links
 
@@ -56,7 +56,7 @@ You may find links to third party websites on my website. These websites shou
 
 ### Information used by Third Party
 
- **iSaumya.com**  will not provide customer Information or any other personal or private data to third parties without the customer’s rights or permission and only in exceptional circumstances where such disclosure is
+**iSaumya.com**  will not provide customer Information or any other personal or private data to third parties without the customer’s rights or permission and only in exceptional circumstances where such disclosure is
 
 necessary to process transactions or provide services to the customer.
 
