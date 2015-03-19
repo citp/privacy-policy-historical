@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolzpop.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224131247id_/http%3A//lolzpop.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolzpop.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319235523id_/http%3A//lolzpop.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lolz Pop
 
