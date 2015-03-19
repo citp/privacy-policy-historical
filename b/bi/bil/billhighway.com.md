@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928085555id_/http%3A//www.billhighway.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319115326id_/http%3A//www.billhighway.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Billhighway
 
 ## At Billhighway (Automated Payment Highway) your privacy is our top priority.
 
-### Any information given to us from you, whether personal or group based is confidential. We want you to understand how the Billhighway process works and how we collect and use the personal information you provide to us on www.billhighway.com, so we ask that you carefully read our Privacy and Security Statement.
+**Any information given to us from you, whether personal or group based is confidential. We want you to understand how the Billhighway process works and how we collect and use the personal information you provide to us on www.billhighway.com, so we ask that you carefully read our Privacy and Security Statement.**
 
-Billhighway has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.billhighway.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@billhighway.com. If you are not satisfied with our response, you can contact TRUSTe [here](http://www.truste.org/consumers/watchdog_complaint.php). The TRUSTe program covers only information that is collected through this website and does not cover information that may be collected through our applications.
+Billhighway has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.billhighway.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request/>.
 
 [](https://privacy.truste.com/privacy-seal/Automated-Payment-Highway/validation?rid=cdf10401-9411-484b-8642-36d365697f77 "TRUSTe online privacy certification")
 
@@ -50,23 +50,17 @@ We will retain your information for as long as your account is active or as need
 
 ### Cookies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Billhighway uses cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
-
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you logoff and/or close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
-
-We set a persistent cookie to store preference information, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
-
-The use of cookies by our partners and affiliates is not covered by our privacy statement. We do not have access or control over these cookies.
-
-### Clear Gifs
-
-We employ a software technology called clear gifs (aka Web Beacons/ Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to tract the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of a sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+We use cookies session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. We set a persistent cookie to store preference information, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 ### Log Files
 
 As is trust of most Web sites, we use a third party tracking-utility partner gather certain information automatically and store it in log files. This information included internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, administer the site, track users’ movements around the site and gather demographic information about our user base as a whole.
+
+### Tracking Technologies
+
+Technologies such as: cookies, beacons, tags and scripts are used by Billhighway, affiliates, or analytics. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 ### Opt-Out Options
 
@@ -90,17 +84,19 @@ We post customer testimonials on our website, which may contain personally ident
 
 Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@billhighway.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if you are unable to do so and why.
 
+Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
+
 ### Re-Targeted Advertising
 
 Re-Targeted advertising used information collected on an individual’s web browsing behavior such as the pages they have visited or the searched they have made. This information is then used to display ads. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either come from Billhighway or through third party website publishers. If you would like to opt-out of re-targeted advertising form Billhighway that occurs when visiting our third party advertising publishers, please contact us at support@billhighway.com. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ### Links to 3rd Party Sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Billhighway. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
+Our Site includes links to other Web sites whose privacy practices may differ from those of Billhighway. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
 ### Social Media Widgets
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ### Disclosure Policy
 
@@ -110,7 +106,7 @@ In the event Billhighway goes through a business transition, such as a merger, a
 
 ### Modifications to Privacy Statement
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior user notice in case of a material change is required.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
 
 ### How to Contact Us Regarding Privacy and Security Issues
 
@@ -124,4 +120,4 @@ Troy, MI 48084
 
 Thank you for using Billhighway!
 
-Effective Date: 10/02/2013
+Effective Date: 10/23/2014
