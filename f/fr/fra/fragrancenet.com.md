@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172643id_/http%3A//www.fragrancenet.com/f/net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319060546id_/http%3A//www.fragrancenet.com/f/net/privacy.html) for the most accurate reproduction.*
 
 # FragranceNet.com® Privacy Policy
 
-## Privacy & Safety
+[ ](http://www.fragrancenet.com/)
+
+Privacy & Safety 
 
 At FragranceNet.com, our goal is to make your shopping experience safe, convenient and worry-free. Our privacy and security programs make sure that every transaction made at FragranceNet.com is 100% safe and guaranteed. 
 
