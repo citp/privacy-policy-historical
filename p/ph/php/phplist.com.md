@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phplist.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814125709id_/http%3A//www.phplist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phplist.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319130135id_/https%3A//www.phplist.com/privacy) for the most accurate reproduction.*
 
-# phplist.com : phpList Beta : Privacy Policy
+# Privacy Policy : phpList
 
 Below is our privacy policy for the personal information we collect from you and how we safeguard and protect that information. PhpList Hosted (beta) is part of phpList Hosted services, offered by phpList Ltd through [www.phplist.com](https://web.archive.org/hosted). The companies registered address is Kneath Point, a Flitton Rd, Greenfield, Bedfordshire, MK45 5DJ United Kingdom. Company Number is 07582966. 
 
