@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidminer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103037id_/http%3A//rapidminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidminer.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319123703id_/https%3A//rapidminer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RapidMiner
 
@@ -42,7 +42,7 @@ Our websites and the information and services provided thereon are not intended 
 
 ## SAFE HARBOR PRIVACY NOTICE
 
-RapidMiner certifies that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of job applicant, consumer, customer, supplier and other Personal Data (as defined below) transferred from the European Economic Area (“EEA”) and Switzerland to the United States. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.
+RapidMiner certifies that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of job applicant, consumer, customer, supplier and other Personal Data (as defined below) transferred from the European Economic Area (“EEA”) and Switzerland to the United States. To learn more about the Safe Harbor program, and to view our certification, please visit [https://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
 
 For purposes of this Safe Harbor Privacy Notice, “Personal Data” means information that (i) is transferred from the EEA and Switzerland to the United States, (ii) is recorded in any form, (iii) is about, or relates to, an identified or identifiable job applicant, consumer, customer, supplier or other individual (excluding RapidMiner employees), and (iv) can be linked to that job applicant, consumer, customer supplier or other individual. This Notice outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Data.
 
@@ -86,7 +86,7 @@ We take reasonable steps to ensure that Personal Data collected by RapidMiner is
 
 We have established procedures for periodically verifying implementation of and compliance with our privacy policy and the Safe Harbor principles. We conduct an annual self-assessment of our practices with respect to Personal Data to verify that representations we make about our Personal Data privacy practices are true and that related privacy policies have been implemented as represented.
 
-RapidMiner participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click [here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+RapidMiner participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](http://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click [here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 ### HOW TO CONTACT US
 
@@ -94,8 +94,8 @@ Please address any questions or concerns regarding our Privacy Policy by writing
 
 RapidMiner  
 Attention: Office of the COO  
-101 Main St., 15th Floor  
-Cambridge, MA 02142, USA  
+10 Fawcett St., 5th Floor  
+Cambridge, MA 02138, USA  
 E-Mail: [privacy@rapidminer.com](mailto:privacy@rapidminer.com)
 
 ### AMENDMENT
