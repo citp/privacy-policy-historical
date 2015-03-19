@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the desmos.com privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702200957id_/https%3A//www.desmos.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the desmos.com privacy policy that was archived on 2015-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319075828id_/https%3A//www.desmos.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta name="Description" content="Explore math with desmos.com, a free online graphing calculator">
   <meta name="apple-itunes-app" content="app-id=653517540">
  
   
-      <link rel="stylesheet" href="/assets/build/frontpage/all-f69496535c4bb3d70a3b9008e3f8d5eee4a7ec69.min.css">
+      <link rel="stylesheet" href="/assets/build/frontpage/all-695be0255e651994e63515b451d41313bcc555f1.min.css">
   
   
   <meta property="og:site_name" content="Desmos.com">
@@ -58,17 +58,20 @@
         <a href="/partners" class="">
           Partners
         </a>
+
         <a href="http://blog.desmos.com/">
           Blog
         </a>
-        
+
+        <a href="/careers" class="">
+          Careers
+        </a>
+
         <a id="create-account" href="/calculator?create_account" class="dcg-btn dcg-btn-green action-createaccount">Create Account</a>
 
       </div>
     </div>
   </div>
-
-  <div id="header-shadow"></div>
 
   
 <div class="graph-section">
@@ -146,14 +149,12 @@ email: info@desmos.com
           <a href="/team">Our Team</a><br>
           <a href="/careers">Careers</a><br>
           <a href="http://support.desmos.com/home" target="_blank">Support</a><br>
-          <a href="/terms">Terms of Use</a><br>
-          <a href="/privacy">Privacy Policy</a>
         </td>
         <td width="53%">
           <h4>Sign up for our Newsletter</h4>
           <!-- Begin MailChimp Signup Form -->
           <div id="mc_embed_signup" style="width:200px">
-            <form action="http://desmos.us5.list-manage.com/subscribe/post?u=ebec17c65ade785afdc700908&amp;id=b28a57e5ce" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"><table><tbody><tr><td><input type="email" value="" name="EMAIL" class="email input" id="mce-EMAIL" placeholder="email address" required=""></td><td><input type="submit" value="Join Newsletter »" name="subscribe" id="mc-embedded-subscribe" class="button"></td></tr></tbody></table></form>
+            <form action="//desmos.us5.list-manage.com/subscribe/post?u=ebec17c65ade785afdc700908&amp;id=b28a57e5ce" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"><table><tbody><tr><td><input type="email" value="" name="EMAIL" class="email input" id="mce-EMAIL" placeholder="email address" required=""></td><td><input type="submit" value="Join Newsletter »" name="subscribe" id="mc-embedded-subscribe" class="button"></td></tr></tbody></table></form>
           </div>
 
         </td>
@@ -162,10 +163,6 @@ email: info@desmos.com
           <a href="http://twitter.com/desmos">
             <i class="dcg-icon-twitter"></i>
             <span>Connect with us on Twitter</span>
-          </a>
-          <a href="http://pinterest.com/desmos">
-            <i class="dcg-icon-pinterest"></i>
-            <span>Join us on Pinterest</span>
           </a>
           <a href="http://blog.desmos.com">
             <i class="dcg-icon-comments"></i>
@@ -183,44 +180,34 @@ email: info@desmos.com
 
   <div id="footer-container">
     <div id="desmos-footer">
-      <table width="100%">
-        <tbody><tr>
-          <td valign="top" width="25%">
-            <h4>Contact Us</h4>
-            Email: <a href="mailto:info@desmos.com">info@desmos.com</a><br>
-            Phone: (415) 484-5342<br>
-            Fax: (415) 534-0941
-          </td>
+      <span>
+        <span class="footer-title">Contact Us</span>
+        <a href="mailto:info@desmos.com">info@desmos.com</a>
+      </span>
 
-          <td valign="top" width="25%">
-            <h4>Office Address</h4>
-            1061 Market Street<br>
-            San Francisco, CA 94103
-          </td>
+      <span class="legal">
+        <span class="footer-title">Legal</span>
+        <a href="/terms" class="terms">Terms of Use</a> | <a href="/privacy" class="privacy">Privacy Policy</a>
+      </span>
 
-
-          <td valign="top" width="25%">
-            <h4>Resources</h4>
-            <a href="http://blog.desmos.com">Our Blog</a><br>
-            <a href="http://support.desmos.com/home" target="_blank">Support Pages</a><br>
-            <a href="http://youtube.com/desmosinc">YouTube Channel</a><br>
-          </td>
-
-          <td valign="top" width="25%">
-            <h4>Legal</h4>
-            <a href="/terms">Terms of Use</a> <br>
-            <a href="/privacy">Privacy Policy</a>
-          </td>
-        </tr>
-      </tbody></table>
-      <div id="legal">Copyright © 2012 Desmos, Inc.</div>
+      <span class="copyright">
+        Copyright © 2014 Desmos, Inc.
+      </span>
     </div><!--end desmos-footer-->
   </div><!--end footer-container-->
 
   
-    <script src="/assets/build/frontpage_main-92ae17be9e091b67c16e3c0fae4b5c7d1556e553.min.js"></script>
+    <script src="/assets/build/frontpage_main-26150b13aa3126e6fa3add52d7fef7a5b72770e3.min.js"></script>
     
   
+
+  <!-- Should really have each page declare when it's loaded, but partners, explore, and team
+       are all defined within frontpage_main right now, so this doesn't smell any worse -->
+  <script>
+    require(['toplevel/frontpage_main','testbridge'], function (frontpage, TestBridge) {
+      TestBridge.ready();
+    });
+  </script>
 
 
 </body></html>
