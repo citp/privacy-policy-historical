@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fastcardtech.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626115353id_/http%3A//www.fastcardtech.com/article-2-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcardtech.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319191347id_/https%3A//www.fastcardtech.com/article-2.html) for the most accurate reproduction.*
 
-# Privacy Policy_Security & Privacy_HELP CENTER_SYSTEM FILE_Wholesale price buy Android phone Android tablets PC in fastcardtech
+# Privacy Policy_Security & Privacy_HELP CENTER_SYSTEM FILE_Cheap android mobile phone & tablets from China at FastCardTech wholesale store
 
-Fastcardtech Best Prices!Best Quality!Best Service! / 
+Fastcardtech Best Prices!Best Quality!Best Service! / 2009-08-22
 
 **Private Information Security**
 
@@ -60,4 +60,4 @@ Minors (those under the age of 18) are not eligible to use fastcardtech unless t
 
 We go to great lengths to protect all of your information on our Site. In order to help us maintain the security of your personal information, we ask that you do not share your password with anybody. Sharing this information could put you and your rating as a buyer/seller at risk. If you lose control of your password or you think that somebody has obtained unauthorized access to your account, immediately change your password. Please contact us if you have any questions.
 
-Next：[Terms Of Use](https://web.archive.org/web/20140626115353id_/http%3A//www.fastcardtech.com/article.php?id=16)
+Next：[Terms Of Use](https://web.archive.org/web/20150319191347id_/https%3A//www.fastcardtech.com/article.php?id=16)
