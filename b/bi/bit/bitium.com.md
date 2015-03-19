@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitium.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001090635id_/https%3A//www.bitium.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitium.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319100927id_/https%3A//www.bitium.com/site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bitium
+# Legal | Bitium | Manage Your Apps and Passwords
 
 ## PRIVACY POLICY
 
