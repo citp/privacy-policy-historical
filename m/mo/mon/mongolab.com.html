@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mongolab.com privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231175200id_/https%3A//mongolab.com/company/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mongolab.com privacy policy that was archived on 2015-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319063852id_/https%3A//mongolab.com/company/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Privacy Policy | MongoLab: MongoDB-as-a-Service</title>
@@ -16,11 +16,12 @@
 
 <!-- fonts -->
 <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans">
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300">
 <link rel="stylesheet" type="text/css" href="/base/css/webfonts/MyFontsWebfontsKit.css">
 
 <!-- jQuery Library and jQuery UI Tools -->
 <!-- (downloaded from: http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js) -->
-<script type="text/javascript" src="/base/js/jquery.tools.min-1.2.7.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/base/js/jquery.tools.min-1.2.7.js"></script>
 
 <!-- YUI reset css -->
 <link rel="stylesheet" type="text/css" href="/base/css/yui-2.9.0-reset-fonts-grids.css">
@@ -30,6 +31,40 @@
 
 <!-- custom Javascript -->
 <script type="text/javascript" encoding="utf-8">
+
+  function getUrlVars() {
+    var vars = [], hash;
+    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+    for(var i = 0; i < hashes.length; i++)
+    {
+        hash = hashes[i].split('=');
+        vars.push(hash[0]);
+        vars[hash[0]] = hash[1];
+    }
+    return vars;
+  }
+
+
+  function gotoSignupWithSourceParam(url) {
+    var paramName = "s"
+    var paramValue = getUrlVars()[paramName]
+    if (url == null) {
+      if (typeof window.DEFAULT_SIGNUP_URL === 'undefined') {
+        DEFAULT_SIGNUP_URL = "/signup"
+      }
+      url = DEFAULT_SIGNUP_URL
+    }
+    if (paramValue) {
+      if (url.indexOf('?') > -1) {
+        url += "&" + paramName + "=" + paramValue
+      }
+      else {
+        url += "?" + paramName + "=" + paramValue
+      }
+    }
+    //alert(url)
+    window.location.href=url
+  }
 
   function getParameterByName(name) {
   name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
@@ -89,9 +124,9 @@
   }
 
   function hideMarketingContent() {
-  $("li.marketingLinks").hide();  
-  $("a.marketingLink").hide();  
-  $("div.marketingContent").hide();  
+  $("li.marketingLinks").hide();
+  $("a.marketingLink").hide();
+  $("div.marketingContent").hide();
   }
 
   $(document).ready(function() {
@@ -103,7 +138,20 @@
   $("a[href^='http://mongodb-inc.mongolab.com']").attr("target", "_self");
   $("a[href^='https://mongodb-inc.mongolab.com']").attr("target", "_self");
 
+  // if landing page
+  if (location.pathname.indexOf('/lp/') == 0) {
+  hideLoginLink();
+  }
+
   $("#header .links").show();
+
+  // ensures that any links with /signup are done correctly
+  $("a[href*='/signup']").click(function(){
+    $(this).removeAttr("href");
+    $(this).css("cursor", "pointer");
+    gotoSignupWithSourceParam(null);
+  })
+
   })
 </script>
 
@@ -112,24 +160,24 @@
 <link rel="stylesheet" type="text/css" href="/base/css/centered-layout.css">
 
 <script type="text/javascript">
-  $(document).ready(function() {
+    $(document).ready(function() {
 
-  // add 'current' class to current nav element
-  splits = location.pathname.split('/');
-  if (splits.length >= 4) {
-    pathPrefix = "/" + splits[1] + "/" + splits[2] + "/";
-  }
-  else {
-    pathPrefix = "/" + splits[1] + "/";
-  }
-  $("#nav a:[href$='" + pathPrefix + "']").addClass("current");
+    // add 'current' class to current nav element
+    splits = location.pathname.split('/');
+    if (splits.length >= 4) {
+        pathPrefix = "/" + splits[1] + "/" + splits[2] + "/";
+    }
+    else {
+        pathPrefix = "/" + splits[1] + "/";
+    }
+    $("#nav a:[href$='" + pathPrefix + "']").addClass("current");
 
-  // only show the nav after it's ready
-  $("#nav").show();
+    // only show the nav after it's ready
+    $("#nav").show();
 
  <!-- if logged in -->
  
-  })
+    })
 </script>
 
   </head>
@@ -141,11 +189,12 @@
     </div>
     <div class="links" style="">
       <a id="headerWelcomeLink" href="/welcome" class="marketingLink" style="display:none;">Welcome</a>
-      <a href="/products" class="marketingLink">Products</a>
-      <a href="/products/pricing" class="marketingLink">Pricing</a>
-      <a href="http://docs.mongolab.com" target="_blank">Docs &amp; Support</a>
+      <a href="/plans" class="marketingLink">Plans &amp; Features</a>
+      <a href="/plans/pricing" class="marketingLink">Pricing</a>
+      <a id="docPortalLink" href="http://docs.mongolab.com" target="_blank">Docs &amp; Support</a>
+      <a id="createTicketLink" href="https://support.mongolab.com/anonymous_requests/new" target="_blank" style="display:none;">Support</a>
       <a id="headerAccountLink" href="/account-details" style="display:none;">Account</a>
-      <a id="headerSignupLink" href="/signup" class="signup">Sign up</a>
+      <a id="headerSignupLink" onclick="gotoSignupWithSourceParam();" class="signup">Sign up</a>
       <a id="headerHomeLink" href="/home" class="login" style="display:none;">Manage</a>
       <a id="headerLoginLink" href="/login" class="login">Log in</a>
       <!-- To protect against use in a CSRF attack, logout should be a POST, so we need a simple form here rather than
@@ -159,21 +208,21 @@
     <div id="content">
       <div class="company legal twoCol">
         <div id="nav" style="">
-  <div class="wrap">
-    <a href="/company/">Overview<div class="arrow-down"></div></a>
-    <a href="/company/management/">Management<div class="arrow-down"></div></a>
-    <a href="/company/investors/">Investors<div class="arrow-down"></div></a>
-    <a href="/company/partners/">Partners<div class="arrow-down"></div></a>
-    <a href="/company/brand/">Brand<div class="arrow-down"></div></a>
-    <a href="/company/legal/">Legal<div class="arrow-down"></div></a>
-  </div>
+    <div class="wrap">
+        <a href="/company/">Overview<div class="arrow-down"></div></a>
+        <a href="/company/management/">Management<div class="arrow-down"></div></a>
+        <a href="/company/investors/">Investors<div class="arrow-down"></div></a>
+        <a href="/company/partners/">Partners<div class="arrow-down"></div></a>
+        <a href="/company/brand/">Brand<div class="arrow-down"></div></a>
+        <a href="/company/legal/">Legal<div class="arrow-down"></div></a>
+    </div>
 </div><!-- /#subnav -->
 
         <div class="wrap">
           <div class="colA">
-	    <h3></h3>
+            <h3></h3>
             <ul>
-              <li id="msaLink" style="display:none;"><a href="/company/legal/msa">Master Services Agreement</a></li>	      
+              <li id="msaLink" style="display:none;"><a href="/company/legal/msa">Master Services Agreement</a></li>
               <li><a href="/company/legal/tos/">Terms of Service</a></li>
               <li><a href="/company/legal/aup/">Acceptable Use Policy</a></li>
               <li><span>Privacy Policy</span></li>
@@ -187,14 +236,14 @@
                 ObjectLabs Corporation (henceforward "MongoLab", "we" or "us") understands that users care about their privacy and how their personal information is used and shared. As such, we at MongoLab have a firm commitment to the privacy and protection of our users.
               </p>
               <p style="text-align:justify">
-                This privacy policy applies to <a href="https://mongolab.com" target="_self">mongolab.com</a>, owned and operated by ObjectLabs Corporation. This policy describes how we collect and use the personal information you provide on our web site.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  By visiting our site, you are consenting to the practices described in this privacy policy.
+                This privacy policy applies to <a href="https://mongolab.com" target="_self">mongolab.com</a>, owned and operated by ObjectLabs Corporation. This policy describes how we collect and use the personal information you provide on our web site.    It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.    By visiting our site, you are consenting to the practices described in this privacy policy.
               </p>
               <p style="text-align:justify">
-                Please also visit our <a href="/company/legal/tos">Terms of Service</a> which establishes the use, disclaimers and limitations of liability governing the users of our website.  Capitalized terms that are not defined in this document have been defined in our Terms of Service.
+                Please also visit our <a href="/company/legal/tos">Terms of Service</a> which establishes the use, disclaimers and limitations of liability governing the users of our website.    Capitalized terms that are not defined in this document have been defined in our Terms of Service.
               </p>
-              <p style="text-align:justify">ObjectLabs Corporation complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  We have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <a rel="nofollow" href="http://www.export.gov/safeharbor" target="_blank">http://www.export.gov/safeharbor</a>.
+              <p style="text-align:justify">ObjectLabs Corporation complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.    We have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.    To learn more about the Safe Harbor program, and to view our certification page, please visit <a rel="nofollow" href="http://www.export.gov/safeharbor" target="_blank">http://www.export.gov/safeharbor</a>.
               </p>
-              <p style="text-align:justify">In compliance with the US-EU and US-Swiss Safe Harbor Principles, ObjectLabs Corporation commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us by emailing us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.
+              <p style="text-align:justify">In compliance with the US-EU and US-Swiss Safe Harbor Principles, ObjectLabs Corporation commits to resolve complaints about your privacy and our collection or use of your personal information.    European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us by emailing us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.
               </p>
               <p style="text-align:justify">We have further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at <a rel="nofollow" href="http://www.bbb.org/us/safe-harbor-complaints" target="_blank">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.
               </p>
@@ -212,7 +261,7 @@
 
               </p>
               <p style="text-align:justify">
-                <em>Log file information—</em> Information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends. These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.  We use this information, which does not identify individual users, to analyze trends, to administer the site, to track averaged usersâ movements around the site and to gather demographic information about our user base as a whole.
+                <em>Log file information—</em> Information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends. These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.    We use this information, which does not identify individual users, to analyze trends, to administer the site, to track averaged usersâ movements around the site and to gather demographic information about our user base as a whole.
 
               </p>
               <h2>What do we use your information for?</h2>
@@ -223,7 +272,7 @@
               </p>
               <h2>When would we share your information?</h2>
               <p style="text-align:justify">
-                MongoLab does not sell, trade, rent or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you (e.g. to process your credit card transactions or provide customer support services).  These companies are authorized to use your personal information only as necessary to provide these services to us. If we do this, such third parties' use of your information will be bound by this privacy policy.
+                MongoLab does not sell, trade, rent or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you (e.g. to process your credit card transactions or provide customer support services).    These companies are authorized to use your personal information only as necessary to provide these services to us. If we do this, such third parties' use of your information will be bound by this privacy policy.
               </p>
               <p style="text-align:justify">
                 We may store personal information in locations outside the direct control of MongoLab (e.g. on servers at hosting providers).
@@ -241,32 +290,32 @@
                 If you invite another user to share your Application (e.g. by adding an additional account user), we will share the Application and associated Content with that user. </p>
               <h2>How can you access your information?</h2>
               <p style="text-align:justify">
-                If your personally identifiable information changes, or if you no longer desire our Service, you may correct, update, amend or remove it by making the change on our member information page or by contacting us by email, telephone or postal mail at the contact information listed below.  We will respond to your request to access within 30 days.</p>
+                If your personally identifiable information changes, or if you no longer desire our Service, you may correct, update, amend or remove it by making the change on our member information page or by contacting us by email, telephone or postal mail at the contact information listed below.    We will respond to your request to access within 30 days.</p>
               <p style="text-align:justify">
-                We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+                We will retain your information for as long as your account is active or as needed to provide you services.    We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
               </p>
               <h2>What tracking technologies do you utilize?</h2>
               <p style="text-align:justify">
-                We use cookies on our site.  A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+                We use cookies on our site.    A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
               </p>
               <p style="text-align:justify">
-                We use both session ID cookies and persistent cookies.  Session cookies are required for most of the functionality of our web site and for web tools such as our administrative application. These cookies are used to implement application authentication, allowing us to implement secure access to your data. A session ID cookie expires when you close your browser.
+                We use both session ID cookies and persistent cookies.    Session cookies are required for most of the functionality of our web site and for web tools such as our administrative application. These cookies are used to implement application authentication, allowing us to implement secure access to your data. A session ID cookie expires when you close your browser.
               </p>
               <p style="text-align:justify">
                 A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Persistent cookies enable us to track and target the interests of our users and to improve our site. For security reasons, we do not use persistent cookies for application authentication.
               </p>
-<p style="text-align:justify">
-              If you reject cookies, you may still use our site, but your ability to use some key areas of our site, such as our administrative application tools, will be disabled.
+              <p style="text-align:justify">
+                If you reject cookies, you may still use our site, but your ability to use some key areas of our site, such as our administrative application tools, will be disabled.
               </p>
               <p style="text-align:justify">
-                We also partner with a third party ad network to either display advertising on our web site or to manage our advertising on other sites.  Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="//preferences-mgr.truste.com/" target="_blank">here</a>.  Please note this does not opt you out of being served advertising; you will continue to receive generic ads.
+                We also partner with a third party ad network to either display advertising on our web site or to manage our advertising on other sites.    Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests.    If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="//preferences-mgr.truste.com/" target="_blank">here</a>.    Please note this does not opt you out of being served advertising; you will continue to receive generic ads.
               </p>
               <h2>How do we protect your information?</h2>
               <p style="text-align:justify">
-                The security of your personal information is important to us.  On those pages where our users can register for our service and/or log-in, we encrypt the transmission of that information using secure socket layer technology (SSL).
+                The security of your personal information is important to us.    On those pages where our users can register for our service and/or log-in, we encrypt the transmission of that information using secure socket layer technology (SSL).
               </p>
               <p style="text-align:justify">
-                We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our web site, you can email us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.
+                We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.    No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.    Therefore, we cannot guarantee its absolute security. If you have any questions about security on our web site, you can email us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.
               </p>
               <h2>What else should you know about?</h2>
               <div>
@@ -276,17 +325,17 @@
                 </p>
                 <h3>Blog / Support Forum</h3>
                 <p style="text-align:justify">
-                  Our web site offers a publicly accessible blog and a community forum in the customer support section of our site. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+                  Our web site offers a publicly accessible blog and a community forum in the customer support section of our site. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.    In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
                 <h3>Testimonials</h3>
                 <p style="text-align:justify">
-                  We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial.  If you wish to update or delete your testimonial, you can contact us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.</p>
+                  We display personal testimonials of satisfied customers on our site in addition to other endorsements.    With your consent we may post your testimonial.    If you wish to update or delete your testimonial, you can contact us at <a href="mailto:support@mongolab.com">support@mongolab.com</a>.</p>
                 <h3>Single Sign-On</h3>
                 <p style="text-align:justify">
-                  In the customer support area of our site, you can log in using sign-in services such as "Sign in Using Google". These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services of this nature give you the option to sync and share information with others within your network.
+                  In the customer support area of our site, you can log in using sign-in services such as "Sign in Using Google". These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.    Services of this nature give you the option to sync and share information with others within your network.
                 </p>
                 <h3>Social Media Widgets</h3>
                 <p style="text-align:justify">
-                  Certain portions of our web site, such as the blog, include Social Media Features, such as the Facebook Like button or Twitter button.  These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+                  Certain portions of our web site, such as the blog, include Social Media Features, such as the Facebook Like button or Twitter button.    These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing it.
                 </p>
 
                 <h2>Changes to our privacy policy</h2>
@@ -318,7 +367,7 @@
     </div>
     <div class="links marketingContent" style="display:block;">
       <span class="message">Get 500 MB <strong>FREE</strong></span>
-      <a href="/signup" class="signup">Sign up</a>
+      <a onclick="gotoSignupWithSourceParam();" class="signup">Sign up</a>
     </div>
     <div class="clearer"></div>
   </div>
@@ -337,19 +386,26 @@
           </ul>
         </li>
         <li class="marketingLinks">
-          <strong>Products</strong>
+          <strong>Plans</strong>
           <ul>
-            <li><a href="/products">Product Overview</a></li>
-            <li><a href="/products/pricing">Plans &amp; Pricing</a></li>
-            <li><a href="/products/architecture">Technical Architecture</a></li>
+            <li><a href="/plans">Features</a></li>
+            <li><a href="/plans/pricing">Pricing</a></li>
           </ul>
         </li>
-        <li>
+        <li style="margin-left:-38px;">
           <strong>Support</strong>
           <ul>
             <li><a href="http://status.mongolab.com" target="_blank">MongoLab Status</a></li>
             <li><a href="http://docs.mongolab.com" target="_blank">Documentation</a></li>
             <li><a href="https://support.mongolab.com/anonymous_requests/new" target="_blank">Ask a Question</a></li>
+          </ul>
+        </li>
+        <li>
+          <strong>Clouds</strong>
+          <ul>
+            <li><a href="/aws">Amazon (AWS)</a></li>
+            <li><a href="/azure">Azure</a></li>
+            <li><a href="/google">Google</a></li>
           </ul>
         </li>
         <li class="share">
@@ -358,7 +414,7 @@
             <li>
               <a style="margin-right:3px;" href="https://twitter.com/mongolab" target="_blank"><img src="/base/img/icon_twitter.png" width="26" height="26"></a>
               <a style="margin-right:3px;" href="https://www.facebook.com/MongoLab" target="_blank"><img src="/base/img/icon_facebook.png" width="26" height="26"></a>
-              <a href="https://plus.google.com/101536713548676687538" target="_blank"><img src="/base/img/icon_googleplus.png" width="24" height="24" style="margin-left:2px; margin-bottom:2px;"></a>
+              <a href="https://plus.google.com/+MongoLab" target="_blank"><img src="/base/img/icon_googleplus.png" width="24" height="24" style="margin-left:2px; margin-bottom:2px;"></a>
             </li>
           </ul>
         </li>
@@ -372,19 +428,14 @@
       <a href="http://mongodb.org" target="_blank"><img src="/base/img/powered-by-mongoDB.png" alt="powered by MongoDB"></a>
     </div>
     <div class="copyright">
-      © 2013 <a style="margin-left:0px;" href="http://objectlabs.com" target="_blank">ObjectLabs Corporation</a> <a href="/company/legal/tos">Terms of Service</a><a href="/company/legal/privacy">Privacy Policy</a>
+      © 2015 <a style="margin-left:0px;" href="http://objectlabs.com" target="_blank">ObjectLabs Corporation</a> <a href="/company/legal/tos">Terms of Service</a><a href="/company/legal/privacy">Privacy Policy</a>
     </div>
     <div class="clearer"></div>
   </div>
 </div>
-<script type="text/javascript">
-  // SnapEngage widget
-  // (please note additional changes to this widget in portal's footer.jsp file)
-  document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https://snapabug.appspot.com":"http://www.snapengage.com") + "/snapengage-mongolab.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://snapabug.appspot.com/snapengage-mongolab.js" type="text/javascript"></script><script type="text/javascript">
-  SnapABug.setButton("/css/images/button-snapengage.gif");
-  SnapABug.addButton("43487a64-584c-49c5-a8c9-1766b6316043","1","252px");
 
-  //console.log(window.location.hostname);
+<script type="text/javascript">
+<!-- SnapEngage code removed from this location -->
 
   var domain = window.location.hostname
   if (domain.indexOf("mongolab.com") !== -1) {
