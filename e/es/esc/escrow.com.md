@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escrow.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207165038id_/https%3A//www.escrow.com/escrow-101/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escrow.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319170034id_/https%3A//escrow.com/escrow-101/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Escrow.com
 
