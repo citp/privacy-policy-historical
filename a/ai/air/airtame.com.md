@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtame.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010170940id_/https%3A//airtame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtame.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319195648id_/https%3A//airtame.com/privacy) for the most accurate reproduction.*
 
 # AIRTAME
 
