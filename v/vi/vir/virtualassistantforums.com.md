@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtualassistantforums.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704012334id_/http%3A//www.virtualassistantforums.com/goto.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualassistantforums.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319142430id_/http%3A//www.virtualassistantforums.com/goto.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - Virtual Assistant Forums - Information and Resources for Professional VAs
+# Privacy Policy - Virtual Assistant Forums
 
 ## COMMITMENT TO YOUR PRIVACY 
 
@@ -10,7 +10,7 @@ Because we gather certain types of information about our users, we feel you shou
 
 We invite you to contact us if you have questions about this policy. 
 
-You may contact us via [Contact form](https://web.archive.org/web/20140704012334id_/http%3A//www.virtualassistantforums.com/sendmessage.php).
+You may contact us via [Contact form](https://web.archive.org/web/20150319142430id_/http%3A//www.virtualassistantforums.com/sendmessage.php).
 
 **Additional Information** : 
 
