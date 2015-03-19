@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxibid.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915072550id_/https%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxibid.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319183451id_/https%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Leader in Online Timed & Live Webcast Auctions Auctions Online | Proxibid
 
@@ -9,7 +9,7 @@ At, Proxibid, your privacy is one of our highest priorities. We provide this Pri
 **POLICY ACCEPTANCE**
 
   * This privacy policy applies to all information collected by or supplied to [www.proxibid.com](http://www.proxibid.com/). By visiting [www.proxibid.com](http://www.proxibid.com/) you are accepting the practices described in this Privacy Policy
-  * If you choose to visit [www.proxibid.com](https://web.archive.org/web/20140915072550id_/https%3A//www.proxibid.com/asp/www.proxibid.com), your visit and any dispute over privacy is subject to this Privacy Policy and our Unified User Agreement, including limitations on damages and application of the law of the State of Nebraska.
+  * If you choose to visit [www.proxibid.com](https://web.archive.org/web/20150319183451id_/https%3A//www.proxibid.com/asp/www.proxibid.com), your visit and any dispute over privacy is subject to this Privacy Policy and our Unified User Agreement, including limitations on damages and application of the law of the State of Nebraska.
 
 
 
@@ -121,13 +121,13 @@ At, Proxibid, your privacy is one of our highest priorities. We provide this Pri
 
   * Buyers and Sellers may obtain access to their personal information to review, update and correct using the Proxibid web site.
   * Buyers and Sellers may withdraw personal information by contacting Proxibid at 1-877-505-7770.
-  * Requests to withdraw personal information could render the Buyer's or Seller's account inactive.
+  * Requests to withdraw personal information could render the Buyer?s or Seller?s account inactive.
 
 
 
 ## COMMUNICATION OPT-IN / REMOVAL
 
-  * Our Web site gives you the opportunity to opt-in to receive communication from Proxibid and our partners at the point where you create your account. If you wish to remove your information from our database to stop receiving communications or our service, you may send an E-mail to: [marketing@proxibid.com](mailto:marketing@proxibid.com). 
+  * Our Web site gives you the opportunity to opt-in to receive communication from Proxibid and our partners at the point where you create your account. If you wish to remove your information from our database to stop receiving communications or our service, you may send an E-mail to:marketing@proxibid.com. 
   * Please note that Buyers who opt out may still receive communications from Sellers. Opting out of Proxibid communications has no impact upon a Seller's use of Buyer information. Buyers should contact a Seller directly to opt out of communications from a Seller.
 
 
@@ -188,7 +188,7 @@ We will only disclose your information to a third party when (i) the disclosure 
 
 ## RETENTION AND DISPOSAL OF PERSONAL INFORMATION
 
-If Proxibid disposes of any personal information protected under this Privacy Policy, such disposal will be conducted in a secure manner in accordance with Proxibid's data retention and disposal policy.
+If Proxibid disposes of any personal information protected under this Privacy Policy, such disposal will be conducted in a secure manner in accordance with Proxibid?s data retention and disposal policy.
 
 ## SECURITY
 
