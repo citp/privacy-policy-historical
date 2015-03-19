@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711151542id_/http%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319220540id_/http%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Cirrus Insight
 
@@ -30,6 +30,10 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 We may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://www.cirrusinsight.com/terms).
 
+**U.S.-EU Safe Harbor Framework**
+
+Cirruspath complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Cirruspath has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Cirruspath’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+
 #### Changes
 
 Cirruspath, LLC may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Cirrus Insight account or by placing a prominent notice on our site.
@@ -37,3 +41,5 @@ Cirruspath, LLC may periodically update this policy. We will notify you about si
 #### Questions
 
 Any questions about this Privacy Policy should be addressed to [customersupport@cirruspath.com](mailto:customersupport@cirruspath.com?subject=Privacy%20Policy).
+
+[](http://www.cirrusinsight.com/wp-content/uploads/2013/03/safeharbor-logo.png)
