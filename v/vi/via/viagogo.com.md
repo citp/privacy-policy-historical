@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagogo.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915100935id_/http%3A//www.viagogo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319053642id_/http%3A//www.viagogo.com/help/privacy) for the most accurate reproduction.*
 
 # viagogo - Buy & Sell Concert, Sport & Theater Tickets
 
@@ -8,7 +8,7 @@ Please review this Privacy Policy, which sets out our policies regarding the col
 
 Please note that when browsing our site, the provision of any personal information is not required unless and until you choose to make a purchase or sign up for one of our email newsletters or other services as described below. Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of your parents or guardians. 
 
-In order to purchase tickets and related services through our site, essential personal information such as your name, your telephone number, your email address, and any additional information required for authenticating a purchase is required. If you are purchasing multiple tickets or buying tickets on behalf of others, please ensure that each of these other customers agrees, in advance, to disclosure of their personal information to us. 
+In order to purchase tickets and related services through our site, essential personal information such as your name, your telephone number, your email address, and any additional information required for authenticating a purchase is required. If you are purchasing multiple tickets or buying tickets on behalf of others, please ensure that each of these other customers agrees, in advance, to the disclosure of their personal information to us. 
 
 If you purchase ticket(s), your name and address may be provided to another user for the sole purpose of delivering the specific purchased product(s). The other user agrees to not use this information for any other purpose, either in connection with such shipment(s) or separately from such shipment(s). The other user also agrees not to separately contact you at any time for any reason. 
 
@@ -46,7 +46,7 @@ We may use third-party advertising companies, to serve or track ads on our web s
 
 Please note that from time to time, viagogo may transfer your personal and/or financial information to a related company or partner in order to improve our services or to help our security, credit risk or fraud protection activities. By submitting to us your details, you are providing consent to the transfer of your information for the purposes set out in this paragraph. Please acknowledge that any transfer of information will take place in accordance with this Privacy Policy and as permitted by law. 
 
-In the event that viagogo is sold, or transferred some of its assets to another party, our customer information will most likely also be transferred in connection with such acquisition. If your personal information is transferred, use of such information would remain subject to this Privacy Policy. Your personal information will be passed on to a successor in interest in the event of a liquidation or administration of viagogo.
+In the event that viagogo is sold, or transferred some of its assets to another party, our customer information will most likely also be transferred in connection with such acquisition. If your personal information is transferred, use of such information would remain subject to this Privacy Policy. Your personal information will be passed on to a successor in interest in the event of a liquidation or administration of viagogo. 
 
 You should be aware that in addition to the circumstances described above, viagogo may disclose your financial or personal information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of viagogo or its affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. 
 
@@ -55,10 +55,7 @@ This policy is effective as of March 19, 2009. Any material changes in the way v
 You can always submit concerns regarding our Privacy Policy or our privacy practices via email by [clicking here](https://web.archive.org/ContactUs.aspx). Please reference the privacy policy in your subject line. viagogo will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. You can also write to us at: 
 
 **viagogo**  
-Attn: Privacy Team   
-160 Greentree Drive,   
-Suite 101,   
-Dover, Delaware,   
-County of Kent, 19904. 
+Attn: Privacy Team  
+viagogo AG, Rue de Lyon 109, 1203 Geneva, Switzerland 
 
 Thank you for using viagogo! 
