@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprouts.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704145948id_/https%3A//www.sprouts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprouts.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319122818id_/https%3A//www.sprouts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sprouts Farmers Market
 
@@ -8,7 +8,7 @@
 
 **SPROUTS PRIVACY POLICY**
 
-This Sprouts Privacy Policy (the "Policy") was developed by Sprouts Farmers Markets, LLC ("Sprouts") as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our valued customers, and the companies, businesses and organizations they represent (collectively, "you").
+This Sprouts Privacy Policy (the "Policy") was developed by Sprouts Farmers Markets, Inc. ("Sprouts") as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our valued customers, and the companies, businesses and organizations they represent (collectively, "you").
 
 **_IF YOU DO NOT AGREE TO THE POLICY, YOU SHOULD NOT USE THIS INTERNET WEBSITE (THE "WEBSITE"). SPROUTS MAY MODIFY THE POLICY FROM TIME TO TIME AND POST THOSE MODIFICATIONS HERE. YOUR CONTINUED USE OF THE WEBSITE AFTER ANY SUCH MODIFICATION CONSTITUTES YOUR ACCEPTANCE OF THE MODIFIED AGREEMENT._**
 
@@ -60,15 +60,14 @@ REST ASSURED THAT SPROUTS DOES NOT SELL YOUR PERSONAL INFORMATION TO THIRD PARTI
 
 **9\. Assignment.**  Sprouts may assign this Policy, in whole or in part, to any third party without notice to or permission from you or any third party.
 
-SPROUTS and the Sprouts logo are trademarks of Sprouts Farmers Markets, LLC, and may not be used without prior written permission.
+SPROUTS and the Sprouts logo are trademarks of Sprouts Farmers Markets, Inc., and may not be used without prior written permission.
 
 If you have any questions or comments about Sprouts or this Policy, you may contact Sprouts at:
 
-Sprouts Farmers Markets, LLC  
-11811 North Tatum Boulevard  
-Suite 2400  
-Phoenix, AZ 85268  
+Sprouts Farmers Markets, Inc.  
+5455 E. High Street, Suite 111  
+Phoenix, AZ 85054  
 Fax: 480-814-8017  
-Phone: 480-814-8016 
+Phone: 480-814-8016
 
   
