@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithlife.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628144638id_/https%3A//faithlife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithlife.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319124243id_/https%3A//faithlife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Faithlife
 
@@ -8,7 +8,7 @@ We record standard information on site visitors, including IP addresses, times a
 
 ### Registration
 
-In order to use Faithlife.com, the Faithlife Study Bible, or other Logos products, you will need to create an account with us. We require your name and email address. You must create a password. We do not store the password, and cannot access it or email it to you if lost; we store an encrypted hash of your password and can only email you a link to reset your password.
+In order to use Faithlife.com, the Faithlife Study Bible, or other Faithlife products, you will need to create an account with us. We require your name and email address. You must create a password. We do not store the password, and cannot access it or email it to you if lost; we store an encrypted hash of your password and can only email you a link to reset your password.
 
 If you purchase something from us, we collect your address, telephone number, and credit card information as necessary to complete the transaction. We exercise great care with credit card information and follow industry-standard security procedures for storing billing information.
 
@@ -56,7 +56,7 @@ Faithlife can also gather information from IP addresses, a number assigned to al
 
 ### Embedded Widgets
 
-Some features of our web sites and software applications are available as ‘widgets’ that can be embedded in other sites operated by third-parties. Most of these widgets are implemented in an ‘iframe’. When you visit a third-party site with a widget from Faithlife, Biblia.com, or another Logos property, your web browser will load a portion of our web site within the iframe. From a technical point of view, this is just like visiting our site, only from within another site. This enables a variety of useful features: you may be able to access your Logos-licensed electronic books from a widget on another site or post a comment to My Faithlife from an article on another site. It also enables Faithlife to record the time, date, web address, and more of the site you are visiting that has embedded a Faithlife widget. 
+Some features of our web sites and software applications are available as ‘widgets’ that can be embedded in other sites operated by third-parties. Most of these widgets are implemented in an ‘iframe’. When you visit a third-party site with a widget from Faithlife, Biblia.com, or another Faithlife property, your web browser will load a portion of our web site within the iframe. From a technical point of view, this is just like visiting our site, only from within another site. This enables a variety of useful features: you may be able to access your Logos electronic books from a widget on another site or post a comment to My Faithlife from an article on another site. It also enables Faithlife to record the time, date, web address, and more of the site you are visiting that has embedded a Faithlife widget. 
 
 ### Affiliated Sites
 
@@ -66,7 +66,7 @@ We operate dozens of web sites and share accounts and information between them. 
 
 We use the information we collect from you to personalize your Faithlife experience, to improve our web site and product offerings, to keep Faithlife safe and secure, to make suggestions to you about groups to join or follow, to recommend products to you, to improve customer service, to process transactions you initiate, to administer contests, promotions, surveys, and other marketing campaigns.
 
-At times Logos Research Systems may make certain personal information available to strategic partners. We only work with reputable partners who will respect your communication preferences.
+At times Faithlife may make certain personal information available to strategic partners. We only work with reputable partners who will respect your communication preferences.
 
 All of our email subscriptions include clear instructions for unsubscribing. You may choose to unsubscribe from emails sent for marketing purposes or to tell you about new products.
 
