@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beeline.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002195025id_/http%3A//www.beeline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeline.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319201547id_/https%3A//www.beeline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Beeline
+# Privacy Policy - Beeline.com
 
 Beeline.com, Inc. respects the privacy of personal information it receives in the course of our business. This policy expresses Beeline’s commitment to maintain the privacy of personal information that is shared with us, outlines what types of personally identifiable information Beeline receives, and summarizes what we do with this personal information.
 
