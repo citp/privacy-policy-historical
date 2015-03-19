@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bulletproofexec.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129230212id_/https%3A//www.bulletproofexec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulletproofexec.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319011138id_/https%3A//www.bulletproofexec.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bulletproof
+# Privacy Policy - Bulletproof
 
 Updated on June 4th, 2014
 
