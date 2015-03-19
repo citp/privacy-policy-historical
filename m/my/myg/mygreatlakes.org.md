@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mygreatlakes.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630101015id_/https%3A//www.mygreatlakes.org/borrower/login/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygreatlakes.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319041526id_/https%3A//home.mygreatlakes.org/web/about/gl/PrivacyPolicy) for the most accurate reproduction.*
 
-# mygreatlakes.org | Changing Lives for the Better
+# Great Lakes Higher Education Corporation & Affiliates
 
 ## Privacy Policies for Great Lakes Higher Education Corporation Affiliates
 
@@ -22,11 +22,11 @@ Your privacy is important to us. Great Lakes has a strong commitment to providin
 
 This website does not collect personally identifiable information from your computer when you browse this site. This means that unless you provide us with personally identifiable information, voluntarily and knowingly, we will not know your name, your email address, or any other personally identifiable information about you.
 
-We do automatically collect and store: the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our sites; and the Internet address of the site from which you linked directly to our site. This information is collected from all users, including those with "Do Not Track" signals enabled in their web browsers. We use this information to evaluate use of the site, to address any problems or issues with the site, and to help us make our site more useful. Great Lakes will not sell or give this information to a third party for purposes unrelated to Great Lakes, except that Great Lakes may disclose this information as it considers necessary to comply with a legal requirement, and in connection with investigating fraudulent activity or the misuse of this site. 
+We do automatically collect and store: the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our sites; and the Internet address of the site from which you linked directly to our site. We track this information for all users, including those with "Do Not Track" signals enabled in their web browsers. We use this information to evaluate use of the site, to address any problems or issues with the site, and to help us make our site more useful. Great Lakes will not sell or give this information to a third party for purposes unrelated to Great Lakes, except that Great Lakes may disclose this information as it considers necessary to comply with a legal requirement, and in connection with investigating fraudulent activity or the misuse of this site. 
 
-### Session Cookies
+### Cookies
 
-Our website uses "cookie" technology. "Cookies" are strings of text that a website stores on a user's computer. Session cookies enable a website to keep track of a user's activity within the website but only for the duration of each visiting session. For example, a session cookie enables a user to login within the "Your Account" section and then view the account balance on a subsequent page without having to login again. But, as stated above, each session cookie expires at the end of each session.
+Our website uses "cookie" technology to offer a more convenient user experience. "Cookies" are strings of text that a website stores on a user's computer. A cookie enables the website to keep track of a user's activity and preferences within the website. Great Lakes does not share the information contained in cookies with other parties and does not allow other parties to set cookies on user computers. This means other parties cannot collect your personally identifiable information when you use our website.
 
 ### The Information We Collect When You Request a Service
 
@@ -50,7 +50,7 @@ If you find what you believe is an error or inaccuracy in your records, please c
 
 ### Our Commitment to Data Security
 
-We take strict security precautions to protect your confidential information. We permit only authorized employees who are trained in the proper handling of customer information to have access to confidential customer information.
+We take strict security precautions to protect your confidential information. We permit only authorized employees who are trained in the proper handling of customer information to have access to confidential customer information. [View more information about how we keep your information safe.](https://web.archive.org/web/about/gl/DataSecurity)
 
 ### Privacy Statement Changes
 
