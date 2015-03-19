@@ -1,101 +1,238 @@
-> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2007-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070807191723id_/https%3A//www.mysubwaycard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319052442id_/https%3A//www.mysubwaycard.com/English/privacy/privacy) for the most accurate reproduction.*
 
-# My SUBWAY® Cash Card | Privacy Policy
+# My SUBWAY® Card | Privacy Policy
 
-### Introduction
+Read MoreRead Less
 
-Independent Purchasing Cooperative, Inc. ( « IPC » ), a cooperative comprised of SUBWAY® Franchisees and its wholly owned subsidiary Value Pay Services LLC. ( « VPS » ) (collectively referred to as "IPC") recognizes the valuable need to protect the information gathered from our franchisees, potential franchisees, customers, and visitors. For this reason, IPC has implemented a Privacy Policy. This Privacy Policy applies to all information gathered through any web site operated by or on behalf of IPC. By using these web sites, or participating in any program or service managed by IPC, you consent to the data practices described in this Privacy Policy. If you have questions about this Privacy Policy or the protection of your Personal Information, please contact us through our web site at www.ipcoop.com or directly, or as outlined below in the Section entitled Contact Information. 
+VPS Privacy Policy
 
-### Modifications
+**Value Pay Services, LLC  
+9200 South Dadeland Boulevard, Suite 800  
+Miami, Florida 33156  
+Telephone: 1-888-445-9239  
+Technical Support: [webmaster@ipcoop.com](mailto:webmaster@ipcoop.com)**
 
-IPC will update this Privacy Policy occasionally. When IPC posts changes to this Privacy Policy, we also will revise the "last updated" date on the Privacy Policy. If there are material changes to this Privacy Policy, IPC will notify you by placing prominent notice on the Web site. IPC encourages you to review this Privacy Policy periodically to be informed of how IPC is protecting your information and to be aware of any changes to the Privacy Policy. This Privacy Policy is incorporated into any Terms of Use governing the various web sites and any programs or services operated or managed on or behalf of IPC. Any changes to this Privacy Policy are effective immediately after being posted by IPC.
+I. General and Express Consent by Accessing Websites
 
-### User Name and Password
+**A.** This Privacy Policy discloses how Value Pay Services LLC (“VPS”) collects, protects, uses and shares information, including Personal Information as defined in Section II hereof, gathered about you. VPS is a wholly owned subsidiary of Independent Purchasing Cooperative, Inc. (“IPC”), a member owned and operated non- stock corporation, in which the members are all of the SUBWAY® Franchisees located in the United States of America and its territories and Canada (“SUBWAY® Franchisees”).
 
-In order to access the member or non-public pages on web sites operated by IPC, you must create a user name and password. IPC does not divulge user names or passwords to anyone internal or external to IPC. Should you need to need to change or remove your user name or password, contact us through the web site form posted on www.ipcoop.com or directly as further outlined below. 
+VPS shares information, including Personal Information, with IPC and IPC’s wholly owned subsidiaries, including, but not limited to, IPC Financial Solutions, LLC (“IPCFS”), IPC Insurance Solutions, LLC (“IPCIS”) and Independent Purchasing Incorporated (“IPI”). IPC and its wholly owned subsidiaries are collectively referred to herein as “IPC”.
 
-### What Is Personal Information?
+VPS shares information, including Personal Information, with international purchasing cooperatives, including, but not limited to, European Independent Purchasing Cooperative (“EIPC”), Latin America and Caribbean Independent Purchasing Cooperative (“LACIPC”), Independent Purchasing Cooperative (Australasia) Limited (“IPCA”) and Middle East Independent Purchasing Cooperative (“MEIPC”), all of which are member owned and operated entities, composed of all of the SUBWAY® Franchisees located in the respective geographical areas as follows: the European Union (EIPC), Latin America and the Caribbean (LACIPC), Australia (IPCA) and the Middle East (MEIPC). EIPC, LACIPC, IPCA and MEIPC are collectively referred to herein as the “Co-op Group”.
 
-Personal Information is defined as any information concerning the personal or material circumstances of an identified or identifiable individual. An identifiable person is one who can be identified, directly or indirectly, by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural or social identity. Personal Information shall include but is not limited to: Social Security Number, name, address, telephone number, financial statement and similar identifying information. 
+VPS shares information, including Personal Information, with Franchise World Headquarters, LLC ( “FWH”), which operates as a service-oriented company for and on behalf of the SUBWAY® System worldwide by providing core business related services for Doctor’s Associates Inc. (“DAI”). DAI owns and licenses the SUBWAY® trademark and SUBWAY® Restaurant System to its affiliates, including, but not limited to, Subway International B.V. (“SIBV”), Subway Systems Australia Pty Ltd (“SSA”), Subway Franchise Systems of Canada, Ltd. (“SFSC”), Subway Partners Colombia C.V. (“SPCCV”), Subway Systems do Brasil Ltda. (“SSB”), Sandwich and Salad Franchises of South Africa Pty Ltd. (“SSFSA”) and Subway Systems India Private Limited (“SSIPL”), in order to develop SUBWAY® restaurants worldwide. FWH, DAI, SIBV, SSA, SFSC, SPCCV, SSB, SSFSA, and SSIPL are collectively referred to herein as the “SUBWAY® Group”.
 
-IPC will never collect Sensitive Personal Information. Sensitive Personal Information shall include but is not limited to: information pertaining to racial or ethnic origins, political or religious beliefs, health, and sexual orientation. 
+VPS shares information, including Personal Information, with the following SUBWAY® Group advertising entities: Subway Franchisee Advertising Fund Trust, Ltd. (“SFAFT”), Subway Franchisee Advertising Fund of Canada, Inc. (“SFAFC”), Subway Franchisee Advertising Fund of Australia Pty. Ltd. (“SFAFA”) and Subway Franchisee Advertising Fund Trust B.V. (“SFAFTBV”). SFAFT, SFAFC, SFAFA and SFAFTBV are collectively referred to herein as the “FAF Group”.
 
-### What Personal Information We Collect from Franchisees 
+All information is collected in a fair and non-intrusive manner, with your voluntary consent, obtained directly from you by VPS, IPC, the Co-op Group, the SUBWAY® Group and/or the FAF Group.
 
-IPC collects and uses Personal Information in order to provide services to you as a SUBWAY® restaurant franchisee. IPC will collect your Personal Information in a fair and non-intrusive manner, with your voluntary consent. Personal Information collected from franchise owners includes but is not limited to: your name, birth date, address, telephone number, facsimile number, email address, password, and taxpayer identification number. IPC will also collect store name, address, bank account information for Electronic Funds Transfer, credit card information, social security numbers, and other related information necessary for billing purposes, such as mailing address for credit card validation. 
+**B.** VPS respects the privacy of the SUBWAY® Franchisees, potential SUBWAY® Franchisees, SUBWAY® customers and other visitors to its websites who may choose to provide information. VPS recognizes the need for appropriate protections and management of the information that you provide. VPS has adopted, implemented and conducts its business pursuant to this Privacy Policy to assist you in understanding what types of information VPS may collect, how that information may be used, and with whom the information may be shared. This Privacy Policy applies to all information gathered for and on behalf of VPS, whether in writing, verbally or electronically, through any website operated by or on behalf of VPS, including, but not limited to, [www.mysubwaycard.com](https://www.mysubwaycard.com/), [www.mysubwaycard.com](https://www.mysubwaycard.com/) and www.subwaycatering.com, together with any and all future websites that are operated by or on behalf of VPS (the “Websites”). By using the Websites, or participating in any program or service managed by VPS, you consent to the data practices described in this Privacy Policy. If you have questions about this Privacy Policy or the protection of your information, please contact VPS through [www.ipcoop.com](https://www.ipcoop.com/) or directly, as set forth in Section XIII hereof.
 
-IPC may collect this information from you directly or IPC may receive it from Doctor's Associates Inc. ( « DAI » ). For example, in order to implement the SUBWAY® Cash Card and Rewards Card Programs, IPC must have access to a franchisee's Personal Information, including, but not limited to: name, address, and the bank account information that you provided to DAI to establish your pre-authorized account for the payment of royalties, advertising fees, and other charges. If a franchisee does not wish to disclose this information, it must notify the Privacy Officer at DAI, or, if collected by IPC, the Privacy Officer at IPC, in writing as described in the section titled Contact Information below. Failure to provide requested Personal Information may negatively impact your ability to operate as a franchisee or to participate in certain programs that may be mandatory for franchisees. 
+BY SUBMITTING PERSONAL INFORMATION TO VPS, AND/OR BY ACCESSING AND USING THE WEBSITES, YOU AGREE THAT VPS MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND THE TERMS AND CONDITIONS AS PERMITTED OR REQUIRED BY LAW.
 
-### What Personal Information We Collect from Customers
+**C. Consent to Share and Disclose Information, Including International Data Transfers.** In addition to consenting to this Privacy Policy and the Terms and Conditions, including any relevant supplemental policies, you expressly consent to VPS sharing the information that you have provided, as described herein. VPS may share information with IPC, the Co-op Group, the SUBWAY® Group and the FAF Group. VPS may also share information with companies that provide support services to it, such as credit card processors, mailing houses, web hosts, technical support providers, fulfillment centers or other service providers or for enforcing or investigating transactions or business operations, because these companies may need information about you in order to perform their functions. These companies are not authorized to use the information VPS shares with them for any other purpose, but VPS does not control these companies. You agree that VPS and those with whom it shares information (the “Recipients”) may disclose and transfer your information worldwide, including in and outside the U.S, the European Union, the geographical areas serviced by the Co-op Group, the SUBWAY® Group and the FAF Group, and other jurisdictions, for any purpose relating to VPS’s operations and programs
 
-IPC will not collect customer Personal Information unless the customer contacts IPC directly. Holders of SUBWAY® Rewards Cards and SUBWAY® Cash Cards may voluntarily register their cards through the SUBWAY® Card web site, administered by IPC. To register your Card, you may be asked to provide Personal Information including, but not limited to: date of birth, card number, and e-mail address. YOU MUST BE 13 YEARS OLD OR OLDER TO REGISTER A SUBWAY® CARD. Your purchase history may also be linked to this information. IPC uses this information as part of its Lost/Stolen Card Program and to provide you with targeted offers, from the SUBWAY® restaurants that you dine at, or from selected third parties, i.e., suppliers of products offered through the SUBWAY® system whose offers IPC will forward to you. If you do not wish to receive promotional materials with your use of the SUBWAY® Card, you may update your preferences at [www.mysubwaycard.com](http://www.mysubwaycard.com/).
+**D. Consent to Electronic Notice If There is a Security Breach.** If VPS or a Recipient is required to provide notice of unauthorized access of certain security systems, you agree that VPS, or the Recipient, may do so when required or voluntarily by posting notice on the Websites or sending notice to any email address VPS or the Recipient has for you, in the good faith discretion of VPS or the Recipient. You agree that notice to you will count as notice to any other individual for whom you are acting and agree to provide the notice to any such individual.
 
-### How We Use Your Personal Information
+II. Types of Information VPS Collects
 
-IPC may use your Personal Information to operate its various web sites, to implement and administer the Cash Card and Rewards Card Program, to fulfill purchases by you, to provide any other services you have requested, such as subscription requests by you for The Link or other IPC publications, to address quality complaints that you submit, and to provide online equipment valuation services. Your Personal Information also may be used to communicate with you regarding your account(s) with IPC. 
+**A. Personal Information.** Personal Information is defined as any information concerning the personal or material circumstances of an identified or identifiable individual. An identifiable individual is one who can be identified, directly or indirectly, by reference to a Social Security Number and/or Identification Number (hereinafter “SSN/I.N.”) or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. Personal Information shall include but is not limited to: name, home address, home and/or mobile telephone numbers, personal email address, SSN/I.N., and financial information such as may be found on credit card applications and financial statements. VPS takes measures to maintain the confidentiality of your SSN/I.N., to protect your SSN/I.N. from unlawful disclosure and to limit access to your SSN/I.N. VPS will not make your SSN/I.N. available to the general public, print your SSN/I.N. on any card, require you to provide your SSN/I.N. to access any products or s ervices, transmit your SSN/I.N. over the internet unless the connection is secure or your SSN/I.N. has been encrypted, or require the use of your SSN/I.N. to access the Websites without additional authentication.
 
-We also may use your e-mail address to respond to incoming service and support requests from you, to collect franchisee feedback, to conduct franchisee satisfaction surveys, to offer promotions to you, and to send other service informational mailings. Your Personal Information may be provided to a courier or freight forwarder in order to fulfill an order you may have requested from IPC. 
+**B. Sensitive Personal Information.** Sensitive Personal Information includes, but is not limited to: information pertaining to racial or ethnic origin, political affiliation, religious belief, sexual orientation, disabilities, health and veteran status. VPS will never share your Sensitive Personal Information unless you give your explicit consent to share your Sensitive Personal Information.
 
-### Disclosure of Your Information
+**C. Business Contact Information.** Business Contact Information is considered non-Personal Information and, under the laws of the jurisdictions named in Sections X and XII hereof, is not subject to special protection. Accordingly, Business Contact Information can be routinely shared with anyone inside or outside of VPS. Business Contact Information shall include but is not limited to: business name, business address, business telephone number. To the extent that the laws of other jurisdictions do not so provide, such laws will be identified in Section XV hereof.
 
-Except as described in this Privacy Policy, IPC will not share your Personal Information with a third party, unless you request or otherwise consent to such disclosure or disclosure is required or authorized by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on IPC or its web sites; (b) protect or defend the rights or property of IPC, its web sites or its web site users or (c) act under exigent circumstances to protect the personal safety of users of IPC, its web sites or the public. 
+III. Collection and Use of Personal Information.
 
-IPC also reserves the right to disclose and/or transfer Personal Information to a third party in the event of a proposed or actual purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, or financing of all or any portion of IPC or of any of the business or assets or shares of IPC or a division thereof in order for you to continue to receive the same products and services from the third party.
+VPS collects and uses your Personal Information to operate the Websites for their intended purposes. VPS may collect and use your Personal Information as follows:
 
-### Sharing of Personal Information
+**A. Personal Information Collected on the Websites.** Personal Information is collected on each of the Websites as follows:
 
-Personal Information may be shared with IPC affiliates pursuant to the service contracts between them to better service franchise owners. However, any affiliates with whom your Personal Information is shared will be subject to agreements to maintain the confidentiality and security of your Personal Information. 
+  1. [www.mysubwaycard.com](https://www.mysubwaycard.com/) Personal Information collected on this Website includes, but is not limited to, name, email address, zip code, birthdate, gender, home telephone number, mobile phone number, Subway Card number, credit card and billing address information (for card purchases or card loads or re-loads). VPS shares this information with the SUBWAY® Group and the FAF Group for the purposes of communications and marketing. VPS may also share certain information with third parties in order to provide support services related to the SUBWAY® Card Program.
+  
 
-IPC may share and exchange Personal Information in order to administer and implement the SUBWAY® Cash Card and Rewards Card program, and to service your franchisee needs and related administrative functions.
+  2. [www.mysubwaycard.com](https://www.mysubwaycard.com/) Personal Information collected on this Website includes, but is not limited to, email, mobile telephone number, birthday, anniversary, and survey feedback related to your experiences in SUBWAY® Restaurants. VPS shares this information with the Co-op Group, the SUBWAY® Group and the FAF Group for marketing purposes if you elect to receiving communications.
+  
 
-### Internet Protocol (IP) Address
+  3. [www.subwaycatering.com](https://www.subwaycatering.com/) Personal Information collected on this Website includes, but is not limited to, name, address, email address, telephone number, birthday and credit card information. VPS shares this information by transmitting your name and contact information to the SUBWAY® restaurant for the purpose of fulfilling your catering order. VPS will also provide the SUBWAY® Group and the FAF Group with your customer contact information for marketing purposes if you elect to receiving communications.
 
-An Internet Protocol (IP) Address is associated with your computer's connection to the Internet. We may use your IP address to help diagnose problems with our server, and to administer our web site and to maintain contact with you as you navigate through our web site. Your computer's IP address also may be used to provide you with personalized content. Your computer's IP address by itself does not identify you personally. 
 
-### Aggregate Information
 
-To measure our visitors' interest in and use of various areas of our web site and the various programs that we administer, we will rely upon aggregate information, which is information that does not identify you, such as statistical and navigational information. With this aggregate information, we may undertake statistical and other summary analyses of our visitors' behavior and characteristics. Although we may share this aggregate information with third parties, none of this information will allow anyone to identify you, or to determine anything else personal about you.
+**B. Website Visitors.**
 
-IPC also collects information in aggregate that is not considered personal concerning the food items purchased and the demographics of the purchasers. IPC may share this information with DAI and its affiliates to improve product marketing and advertising. 
+  1. **User Name and Password.** In order to access the Member or non-public pages on the Websites operated by VPS, a user name and password must be created. VPS does not divulge user names or passwords to anyone internal or external to VPS. Should you need to need to change or remove yo ur user name or password, contact VPS through www.ipcoop.com or directly, as set forth in Section XIII hereof.
+  
 
-### Supplemental Information
+  2. **Email & Mobile Updates.** You may have the opportunity to elect to receive email and mobile communications from VPS. VPS will only email you or send you mobile alerts if you elect to receive them. If you elect to receive email and mobile communications, VPS will send you occasional updates about new additions to the Websites as well as special offers and promotions of which you can take advantage. If at any time you decide you would rather not receive these types of communications from VPS, you can revoke your election by clicking the unsubscribe link at the bottom of any VPS email or updating the contact preferences for your account.
+  
 
-We may supplement the information that you provide us with information that is received from third parties. 
+  3. **Contests and Surveys.** From time to time, the Websites may feature voluntary contests or surveys, which may request Personal Information, such as your name, address, telephone number and/or e - mail address. VPS will use the information provided solely in connection with the contest or survey conducted.
+  
 
-### Storage of Personally Identifiable Information
+  4. **Cookies – Internet User.** Cookies are pieces of information a website sends to an individual’s hard drive while he or she is viewing the website. Cookies allow the website to remember important information that will make your visit to the site more useful. VPS uses Cookies to help improve your future visits to the Websites and to deliver advertisements to you that are based on your likes and preferences as described in Section VI below.
 
-IPC uses commercially reasonable efforts to ensure that Personal Information is safeguarded against loss, access, use, modification, disclosure, or other misuse. All reasonable steps are taken to prevent unauthorized use or disclosure of your Personal Information. Personally identifiable information collected by IPC may be stored and processed in the United States or any other country in which IPC or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. 
+If you do not wish to receive a Cookie, or if you wish to set your browser to warn you each time a Cookie is being sent, or if you wish to disable all Cookies, use the options on your internet browser to assist you.
 
-### Security
+The “Help” option on your internet browser may assist you in changing your Cookie preferences. Please note that by disabling Cookies, you may not have access to many features available on the Websites.
 
-We take seriously the security of all personal and non-personal information associated with our franchisees, customers and visitors. We use the encryption process Secure Sockets Layering (SSL) to secure transmission of your order. Only those IPC employees who need access to your information in order to perform their duties are allowed access. 
+  
 
-### Retention of Personal Information
+  5. **Internet Protocol (IP) Address.** An internet Protocol (IP) address is associated with your computer’s connection to the internet. VPS may use your IP address to help diagnose problems with VPS ’s server, to administer the Websites and to maintain contact with you as you navigate through the Websites. Your computer’s IP address also may be used to provide you with information based upon your navigation through the Websites. VPS does not link IP addresses to any Personal Information.
+  
 
-IPC will retain your Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purposes(s) remains valid after termination of our relationship with you.
+  6. **Aggregate Information.** To measure the visitors’ interest in, and use of, various areas of the Websites and the various programs that VPS administers, VPS will rely upon aggregate information, which is information that does not identify you, such as statistical and navigational information. With this aggregate information, VPS may undertake statistical and other summary analyses of the visitors’ behaviors and characteristics. Although VPS may share this aggregate information with third parties, none of this information will allow anyone to identify you, or to determine anything else personal about you.
 
-### Accuracy of Personal Information
+VPS also collects aggregate information that VPS does not consider Personal Information concerning the food items purchased and the demographics of SUBWAY® restaurant customers. VPS may share this information with the Co-op Group, the SUBWAY® Group and the FAF Group to improve product marketing and advertising.
 
-We take all reasonable steps to insure that your Personal Information is accurate, up-to-date, complete, relevant and not misleading.
+  
 
-### Third Party Web Sites 
 
-For your convenience, we may include on our web site certain links to other web sites. We provide these links as a convenience only and we do not endorse the content or services offered by, or the privacy policies in place at, these other web sites. Our Privacy Policy covers only information we collect through our web site, and other web sites to which we link may have privacy policies that differ considerably from our Privacy Policy. We have structured our web site to make it reasonably clear when you leave our web site and enter another web site. We encourage you to review the privacy policies of each web site you visit through our links, to ensure you are comfortable with their policies. We are not responsible for the conduct or policies of these third parties. You should examine carefully the privacy policies of any third party web sites linking to or from any IPC web site. IPC is not responsible for the privacy practices of such other web sites.
 
-### Children 
+**C. SUBWAY® Franchisees.** VPS collects and uses Personal Information from SUBWAY® Franchisees in order to provide services to the SUBWAY® Franchisee. VPS will collect a SUBWAY® Franchisee’s Personal Information in a fair and non-intrusive manner, with such SUBWAY® Franchisee’s voluntary consent. Personal Information collected from SUBWAY® Franchisees includes, but is not limited to: name, birth date, address, telephone number, facsimile number, email address, password, and SSN/I.N. VPS will also collect a SUBWAY® Franchisee’s store name, address, bank account information for Electronic Funds Transfer, credit card information and other related information necessary for billing purposes, such as the SUBWAY® Franchisee’s mailing address for credit card validation. VPS may collect this information from the SUBWAY® Franchisees directly or VPS may receive it from IPC, the Co-op Group, SUBWAY® Group and/or FAF Group. For example, in order to implement the SUBWAY® Cash Card and Rewards Card Programs, VPS must have access to the SUBWAY® Franchisee’s Personal Information, including, but not limited to: name, address, and the bank account information provided to DAI and/or FWH to establish such SUBWAY® Franchisee’s pre-authorized account. If you are a SUBWAY® Franchisee and you do not want VPS to disclose this information, you must notify the Privacy Officer at VPS and, if such information is collected by DAI and/or FWH, you must notify the Privacy Officer at DAI and/or FWH, in writing as set forth in Section XIII hereof. Failure to provide the requested Personal Information may negatively impact a SUBWAY® Franchisee’s ability to operate as a SUBWAY® Franchisee or to participate in certain programs that may be mandatory for SUBWAY® Franchisees.
 
-Children under 13 years of age are required to obtain the express permission of a parent or guardian before submitting any Personal Information to this site. In accordance with the Children's Online Privacy Protection Act of 1998, if we learn that a child under 13 has provided us with Personal Information, we will delete this information from our database(s). We encourage parents to supervise their children while online.
+VPS also may use a SUBWAY® Franchisee’s email address to respond to incoming service and support requests from such SUBWAY® Franchisee, to collect Franchisee feedback, to conduct Franchisee satisfaction surveys, to offer promotions to such SUBWAY® Franchisee and to send other service informational mailings. A SUBWAY® Franchisee’s Personal Information also may be used to communicate with the SUBWAY® Franchisee regarding such SUBWAY® Franchisee’s account(s) with VPS. A SUBWAY® Franchisee’s Personal Information may be provided to a courier or freight forwarder in order to fulfill any order such SUBWAY® Franchisees may have requested from VPS.
 
-### Cookies - Internet Users
+**D. Customers of SUBWAY® Restaurants.** VPS collects and uses Personal Information from SUBWAY® Franchisees in order to provide services to the SUBWAY® Franchisee. VPS will collect a SUBWAY® Franchisee’s Personal Information in a fair and non-intrusive manner, with such SUBWAY® Franchisee’s voluntary consent. Personal Information collected from SUBWAY® Franchisees includes, but is not limited to: name, birth date, address, telephone number, facsimile number, email address, password, and SSN/I.N. VPS will also collect a SUBWAY® Franchisee’s store name, address, bank account information for Electronic Funds Transfer, credit card information and other related information necessary for billing purposes, such as the SUBWAY® Franchisee’s mailing address for credit card validation. VPS may collect this information from the SUBWAY® Franchisees directly or VPS may receive it from IPC, the Co-op Group, SUBWAY® Group and/or FAF Group. For example, in order to implement the SUBWAY® Cash Card and Rewards Card Programs, VPS must have access to the SUBWAY® Franchisee’s Personal Information, including, but not limited to: name, address, and the bank account information provided to DAI and/or FWH to establish such SUBWAY® Franchisee’s pre-authorized account. If you are a SUBWAY® Franchisee and you do not want VPS to disclose this information, you must notify the Privacy Officer at VPS and, if such information is collected by DAI and/or FWH, you must notify the Privacy Officer at DAI and/or FWH, in writing as set forth in Section XIII hereof. Failure to provide the requested Personal Information may negatively impact a SUBWAY® Franchisee’s ability to operate as a SUBWAY® Franchisee or to participate in certain programs that may be mandatory for SUBWAY® Franchisees.
 
-Cookies are pieces of information a web site sends to an individual's hard drive while he or she is viewing the web site. Cookies allow the web site to remember important information that will make your visit to the site more useful. We use cookies to help improve your future visits.
+**E. Election to Limit VPS’ Use of Personal Information.** If you do not want VPS to use or share your Personal Information for the purpose of sending you marketing or promotional materials, please contact the VPS Privacy Officer at privacyofficer@ipcoop.com. If you do not want to receive any further emails from VPS you can so elect by means of the “opt-out” or unsubscribe link in the email message. Your request will be handled promptly but you may still receive marketing communications that were already in the process of being sent prior to VPS ’s receipt of your request.
 
-If you do not wish to receive a cookie or if you wish to set your browser to warn you each time a cookie is being sent, or if you wish to turn off all cookies, use the options on your browser to assist you. The "Help" option on your Browser may assist you in changing your cookie preferences. Please note that by turning cookies off, you may not have access to many features available on our web site.
+IV. Storage, Disclosure and Retention of Personal Information.
 
-### Contact Information
+**A. Storage of Personal Information.** VPS uses commercially reasonable efforts to ensure that Personal Information is safeguarded against loss, access, use, modification, disclosure, or misuse. All commercially reasonable steps are taken to prevent the unauthorized use or disclosure of your Personal Information. Personally identifiable information collected by VPS may be stored and processed in the United States or any other country in which VPS or its affiliates, subsidiaries or agents maintain facilities and by using the Websites, you consent to any such transfer of information outside of your country.
 
-If you have any questions or complaints, or you wish to access, correct or delete your Personal Information, please contact the Privacy Officer. The Privacy Officer can be reached by telephone at: 1-888-445-9239; by Facsimile at: (305) 670-4465; online though the "Contact Us" area at www.ipcoop.com ; or by mail at Independent Purchasing Cooperative, Inc., 9200 South Dadeland Boulevard, Suite 705, Miami, FL 33156, attention: Privacy Officer. If necessary, the Privacy Officer will contact another employee to assist in completing your requested task. If you need to contact DAI's Privacy Officer, their Privacy Officer can be reached by telephone at: (203) 877-4281 or 1-800-888-4848; by Facsimile at: (203) 876-6690; by email at: [privacyofficer@subway.com](mailto:privacyofficer@subway.com) ; or by mail at Doctor's Associates Inc., 325 Bic Drive, Milford, CT, 06460, USA.
+**B. Disclosure of Personal Information.** Except as described in this Privacy Policy, VPS will not disclose your Personal Information to a third party, unless you request or otherwise consent to such disclosure or such disclosure is required or authorized by law or, if in VPS’s good-faith belief, VPS determines that such disclosure is necessary to: (a) comply to the law or comply with legal process served on VPS or the Websites; (b) protect or defend the rights or property of VPS, the Websites or the Website users; or (c) act under exigent circumstances to protect the personal safety of the SUBWAY® Franchisees and/or employees of VPS, users of the Websites or the public.
 
-### Members of the European Union
+**C. Retention of Personal Information.** VPS will retain your Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws. Your consent to the use of your Personal Information for such purposes(s) remains valid after termination of VPS ’s relationship with you.
 
-If you are a resident of a Member State of the European Union and have any concerns or complaints, please first address these issues to the Privacy Officer. IPC is located in the United States, as are the servers that make this site and most programs or services available. All matters relating to privacy issues and this web site are governed by the laws of the United States and the State of Florida. If the Privacy Officer does not satisfactorily address a complaint within thirty (30) days, any dispute, controversy or claim shall be settled by an arbitration administered by an arbitration agency, such as the American Arbitration Association ("AAA"). All arbitrations will be conducted in English. Judgment rendered by the arbitrator may be entered in any court having jurisdiction. The costs of the arbitration will be borne equally by the parties. Florida, U.S.A. shall be the site of all hearings, and such hearings shall be before a single arbitrator. You may also submit complaints to the Federal Trade Commission at <http://www.ftc.gov/ftc/complaint.htm> or via phone at (202) 382-4357.
+**D. Security.** VPS endeavors to protect your Personal Information by using physical, electronic or procedural security measures appropriate to the sensitivity of the information in its control. These measures include safeguards to protect Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use and modification.
+
+VPS safeguards your Personal Information on the internet by using industry-standard practices. Although guaranteed security does not exist either on or off the internet, VPS makes commercially reasonable efforts to make the collection and security of such information consistent with this Privacy Policy and all applicable laws and regulations.
+
+The Websites utilize a variety of different security measures designed to protect Personal Information by users both inside and outside of VPS, including the use of encryption mechanisms, such as Secure Socket Layers or SSLs, password protection, and other security measures to help prevent unauthorized access to your Personal Information. This helps maintain the confidentiality, privacy, and integrity of your Personal Information and any transactions or services you may request, initiate and/or perform on the Websites from loss, misuse, interception and hacking.
+
+V. VPS Websites and Third Party Websites.
+
+For your convenience, VPS may include on the Websites links to other websites. VPS provides these links as a convenience only and VPS does not endorse the content or services offered by, or the privacy policies in place at, these other websites. This Privacy Policy covers only Personal Information that VPS collects through the Websites and websites not operated by or on behalf of VPS to which links are included on the Websites may have privacy policies that differ substantially from this Privacy Policy. VPS has structured the Websites to make it reasonably clear when you leave a Website and enter another website. VPS encourages you to review the privacy policy of each website you visit through a link from the Websites, to ensure you are comfortable with such policy. VPS is not responsible for the conduct or policy of any third party. The Personal Information you provide to unrelated third parties is not protected by this Privacy Policy. You should examine carefully the privacy policy of any third party website linking to or from the Websites.
+
+VI. Online Behavioral Advertising.
+
+****VPS advertises products and services on the Websites. Such advertisements may be in the the form of banner advertisements, splash advertisements (advertisements that appear as you sign-in or sign-out of your account) or other format. VPS may use non-Personal Information collected, such as your past browsing history, to deliver advertisements to you that are more directed towards your own likes and preferences. Such non-Personal Information is collected through the use of Cookies as described in Section III.B.4 above.
+
+  
+
+
+  1. **Advertising on our Websites.** VPS uses third-party advertising service providers to help determine the advertisements that are most likely to be of interest to you. VPS shares non-Personal Information collected through the use of Cookies with such advertising service providers for the sole purpose of providing such advertising services to VPS, but VPS does not control such advertising service providers.
+  
+
+  2. **Advertising on other Websites.** VPS contracts with third-party advertising companies to advertise products and services on websites which are not operated by or on behalf of VPS. Some of these advertisements may contain Cookies placed by such advertising companies which permit the monitoring of your response to such advertisements. Any such Cookies placed by such advertising companies will not collect Personal Information. VPS limits such non-Personal Information collected by such advertising companies to the sole purpose of providing advertising services to VPS, but VPS does not control such advertising companies.
+
+If you do not want to have your non-Personal Information used as described in this Section VI, change your Cookie settings as described in Section III.B.4 above. Please note that even if you disable Cookies, you may still receive online advertising from VPS, IPC, the Co-op Group, the SUBWAY® Group and/or the FAF Group. Disabling Cookies means that the advertisements you do receive will not be based on your likes or preferences.
+
+  
+
+
+
+VII. Children and Data Collection.
+
+****VPS adheres to the federal privacy protection standards as stated in the Children’s Online Privacy Protection Act (“COPPA”). VPS cares about the safety of children. VPS will not knowingly allow anyone under thirteen (13) years of age to provide VPS with any Personal Information. Children under thirteen (13) years of age are required to obtain the express permission of a parent or guardian before submitting any Personal Information about themselves over the internet. If a child under thirteen (13) years of age has provided VPS with Personal Information without the consent of a parent or guardian, the parent or guardian of that child should contact the Privacy Officer immediately at privacyofficer@ipcoop.com. VPS will use commercially reasonable efforts to promptly delete such child’s information from its servers.
+
+VIII. California Privacy Rights.
+
+  
+
+
+****Under California law, California residents can now ask companies with whom they have an established business relationship to provide certain information about such companies’ sharing of personal information with third parties for direct marketing purposes during the past year.
+
+VPS’s policy is to share your Personal Information for direct marketing purposes only with your informed consent. With your consent, from time to time, VPS may provide share your Personal Information with its subsidiaries and/or affiliates for purposes of marketing relevant services, products and programs to you. If you previously provided VPS with such consent but no longer want your Personal Information to be shared, please contact the VPS Privacy Officer at privacyofficer@ipcoop.com and request a change in your preference and/or opt-out of communications without charge.
+
+IX. International Data Transfers.
+
+****IPC may transfer the Personal Information it collects about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the Personal Information. When IPC transfers your Personal Information to other countries, IPC will protect that Personal Information as described in this Privacy Policy.
+
+X. Canada’s Personal Information Protection and Electronic Documents Act (“PIPEDA”).
+
+****Canada has enacted federal privacy legislation, the Personal Information Protection and Electronic Documents Act (“PIPEDA”), which incorporates ten (10) “Fair Information Principles” regarding your Personal Information. IPC adheres to these Fair Information Principles for Personal Information collected and/or transferred from Canada, which are as follows:
+
+  
+
+
+  * **Principle 1 -** Accountability. An organization is responsible for personal information under its control and shall designate an individual or individuals who are accountable for the organization’s compliance with the fair information principles.
+  
+
+  * **Principle 2 -** Identifying Purposes. The purposes for which personal information is collected shall be identified by the organization at or before the time the information is collected.
+  
+
+  * **Principle 3 -** Consent. The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where inappropriate.
+  * **Principle 4 -** Limiting Collection. The collection of personal information shall be limited to that which is necessary for the purposes identified by the organization. Information shall be collected by fair and lawful means.
+  
+
+  * **Principle 5 -** Limiting Use, Disclosure and Retention. Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.
+  
+
+  * **Principle 6 -** Accuracy. Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.
+  
+
+  * **Principle 7 -** Security Safeguards. Personal information shall be protected by security safeguards appropriate to the sensitivity of the Personal Information.
+  
+
+  * **Principle 8 -** Openness Concerning Policies and Practices. An organization shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
+  
+
+  * **Principle 9 -** Individual Access to Personal Information. Upon request, an individual shall be informed of the existence, use, and disclosure of his or her personal information and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
+  
+
+  * **Principle 10 -** Challenging Compliance. An individual shall be able to address a challenge concerning compliance with the fair information principles to the designated individual or individuals accountable for the organization’s compliance.
+  
+
+
+
+XI. Safe Harbor Compliance.
+
+****VPS is in compliance with the U.S. Department of Commerce Safe Harbor requirements regarding the transfer of personal information from the European Economic Area and Switzerland to the United States. VPS has been Self-Certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal data transferred from the European Economic Area and/or Switzerland to the U.S., in accordance with the EU Directive on Personal Data Protection. The principles of Safe Harbor compliance are:
+
+  
+
+
+  * **Notice -** Individuals must be informed that their data is being collected and about how it will be used;
+  
+
+  * **Choice -** Individuals must have the ability to opt-out of the collection and forward transfer of the data to third parties;
+  
+
+  * **Onward Transfer -** Transfers of data to third parties may only occur to other organizations that follow adequate data protection principles;
+  
+
+  * **Security -** Reasonable efforts must be made to prevent loss of collected information;
+  
+
+  * **Data Integrity -** Data must be relevant and reliable for the purpose for which it was collected;
+  
+
+  * **Access -** Individuals must be able to access information held about them, and correct or delete it if it is inaccurate; and
+  
+
+  * **Enforcement -** There must be effective means of enforcing these principles.
+  
+
+
+
+XII. Contact Information.
+
+****If you have any questions or complaints, or you wish to access, correct or delete your Personal Information, please contact the VPS Privacy Officer. The VPS Privacy Officer can be reached by telephone at: 1-888-445-9239; by Facsimile at: (305) 670-4465; by email at privacyofficer@ipcoop.com; or by mail at Value Pay Services LLC, 9200 South Dadeland Boulevard, Suite 800, Miami, FL 33156, Attention: Privacy Officer. If necessary, the Privacy Officer will contact another employee to assist in completing your requested task.
+
+****If you need to contact DAI’s Privacy Officer, the DAI Privacy Officer can be reached by telephone at: (203) 877- 4281 or 1-800-888-4848; by Facsimile at: (203) 876-6690; by email at privacyofficer@subway.com; or by mail at Doctor’s Associates Inc., 325 Bic Drive, Milford, CT, 06461, USA.
+
+****If you need to contact FWH’s Privacy Officer, the FWH Privacy Officer can be reached by telephone at: (203) 877- 4281; by Facsimile at: (203) 783-7479; by email at privacyofficer@subway.com; or by mail at Franchise World Headquarters, LLC, 325 Bic Drive, Milford, CT, 06461, USA.
+
+XIII. Changes to This Privacy Policy.
+
+****VPS will update this Privacy Policy occasionally. When VPS posts changes to this Privacy Policy, It will also update the “Revised” date below. If there are material changes to this Privacy Policy, VPS will notify you by email or by means of a notice on the Website home page describing the material changes. VPS encourages you to review this Privacy Policy periodically to be informed of how VPS is protecting your information and to be aware of any changes to the Privacy Policy. Your continued use of the Website after the posting of any revised Privacy Policy shall constitute your agreement to be bound by any such changes. This Privacy Policy is incorporated into any Terms and Conditions governing the various Websites and any programs or services operated or managed by or on behalf of VPS. Any changes to this Privacy Policy are effective immediately after being posted by VPS.
+
+XIV. Changes and or Modifications Required by the Laws of Other Jurisdictions.
+
+****Reserved for future use.
+
+****Revised December 5, 2012
+
+  
+
