@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018025810id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319012135id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # money.co.uk Privacy Policy
 
@@ -24,7 +24,7 @@ We may collect, store and use the following kinds of personal information:
 
 (h) information supplied to us when you sign up to our money saving newsletter via a third party promotion, including via email campaigns, competition sites and survey websites (including your title, first name, surname and email address and in some cases your address and gender);
 
-(i) information you post on the site (including deals, discussions, responses, questions, answers, comments, journal entries, photos, action plans, tips, reviews and success stories); and
+(i) information you post on the site (including responses, comments and reviews); and
 
 (j) any other information that you choose to send to us (including testimonials, feedback and questions).
 
@@ -103,9 +103,9 @@ You can find out more about cookies by visiting <http://www.aboutcookies.org/> o
 
 (f) send you email notifications when products you have told us you are interested in are introduced, or when products you hold change.
 
-(g) send you email notifications when there has been activity on posts that you have interacted with in the money.co.uk community.
+(g) send you email notifications when there has been activity on posts that you have interacted with on money.co.uk.
 
-(h) send you other periodic emails that you will have the ability to control the frequency of or unsubsribe from at any time.
+(h) send you other periodic emails that you will have the ability to control the frequency of or unsubscribe from at any time.
 
 (i) share reviews added to money.co.uk with third parties (personal information will not be used to identify any individual user).
 
@@ -137,11 +137,9 @@ Information that we collect may be stored and processed in and transferred betwe
 
 6.4 You are responsible for keeping your password and user details confidential. We will not ask you for your password (save when you log on to the website).
 
-6.5 You have control and responsibility over the privacy settings on your account. 3 privacy settings are available: public (anyone can view post), friends only (only “friends” can view post) or private (only the member who submitted the post can view post). These privacy settings can be applied to your action plan progress, your journals, your photos, who can send you private messages and who can view activity within your profile. However, if you respond to a post made by another user, the privacy setting of your post will default to the privacy setting of the post you are responding to. These privacy setting may be expanded in the future to include other types of content posted to the website.
+6.5 Some user content will be published on the website (such as blog comments, ratings, reviews and testimonials).
 
-6.6 Some user content will be published on the website (such as blog comments, questions and answers, success stories, tips, ratings, reviews and testimonials).
-
-6.7 Should you wish to keep your identity anonymous when you post on the website, this will be your sole responsibility.
+6.6 Should you wish to keep your identity anonymous when you post on the website, this will be your sole responsibility.
 
 ### 7\. Policy amendments
 
@@ -151,7 +149,7 @@ We may update this Privacy Policy from time-to-time by posting a new version on 
 
 8.1 You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
 
-8.2 You may instruct us not to process your personal information for marketing purposes at any time by using our website contact form. (In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.)
+8.2 You may instruct us not to process your personal information for marketing purposes at any time by using our website contact information. (In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.)
 
 ### 9\. Third party websites
 
@@ -159,7 +157,7 @@ The website contains links to other websites. We are not responsible for the pri
 
 ### 10\. Updating information
 
-Please keep the account information we hold about you up-to-date. (You are able to amend your account information when logged in to your account.)
+Please keep the account information we hold about you up-to-date. You are able to amend your account information when logged in to your account.
 
 ### 11\. Contact
 
