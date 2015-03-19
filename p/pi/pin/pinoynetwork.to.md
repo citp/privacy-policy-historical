@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoynetwork.to privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027113952id_/http%3A//www.pinoynetwork.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoynetwork.to privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319050152id_/http%3A//www.pinoynetwork.to/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PinoyNetwork.to
 
