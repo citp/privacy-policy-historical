@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directtoolsoutlet.com privacy policy that was archived on 2013-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130720053428id_/https%3A//www.directtoolsoutlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directtoolsoutlet.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319042411id_/https%3A//directtoolsoutlet.com/privacy) for the most accurate reproduction.*
 
-# Direct Tools Privacy Policy | Direct Tools Factory Outlet
+# Direct Tools | Direct Tools Privacy Policy |
 
 Techtronic Industries Factory Outlets, Inc. d/b/a Direct Tools Factory Outlet ("we", "us", "our", or "Direct Tools") created this Web Site Privacy Policy ("Privacy Policy") in order to ensure the confidence of visitors and customers ("you" or "your") of and to our Web site, directtoolsoutlet.com (the "Site"), and to demonstrate our commitment to fair information practices and the protection of privacy, including compliance with California Privacy Rights. This Privacy Policy does not apply to collection of data from sources other than the Site. 
 
