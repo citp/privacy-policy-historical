@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therichestimages.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629044836id_/http%3A//therichestimages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therichestimages.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319210133id_/http%3A//therichestimages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheRichest – The World's Most Entertaining Site
 
@@ -30,4 +30,4 @@ Whenever we change our privacy policy, we will post those changes to this Privac
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:legal@therichest.com).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:legal@valnetinc.com).
