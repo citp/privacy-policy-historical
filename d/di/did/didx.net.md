@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didx.net privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715180408id_/https%3A//www.didx.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didx.net privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319110350id_/https%3A//www.didx.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | DIDx
 
