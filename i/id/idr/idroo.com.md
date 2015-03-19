@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idroo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052229id_/http%3A//idroo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idroo.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319095938id_/https%3A//idroo.com/privacy) for the most accurate reproduction.*
 
 # IDroo | Privacy Policy
 
