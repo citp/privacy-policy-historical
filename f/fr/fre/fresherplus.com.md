@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the fresherplus.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524215532id_/http%3A//www.fresherplus.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresherplus.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319133230id_/http%3A//www.fresherplus.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Fresherplus - Advanced fresher forum for freshers,career, colleges,Higher Study's, Institutes
-
-**You must Have at least 3 Posts to download on fresherplus. Need help ? - [READ HERE](http://www.fresherplus.com/topic/444-how-to-download-on-fresherplus/)**
-
-[](http://coupons.fresherplus.com/)   [](http://www.jobs.fresherplus.com/)
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
