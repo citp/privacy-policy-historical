@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the currentlydown.com privacy policy that was archived on 2014-07-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140720081044id_/http%3A//www.currentlydown.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the currentlydown.com privacy policy that was archived on 2015-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319051704id_/http%3A//www.currentlydown.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -21,7 +21,7 @@
         <!-- Loading Custom Stylesheets -->    
         <link href="/themes/cascade/css/custom.css" rel="stylesheet">
 
-        <link rel="shortcut icon" href="images/favicon.ico">
+        <link rel="shortcut icon" href="/favicon.png">
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>
 
@@ -35,7 +35,8 @@
         <!--[if lt IE 9]>
         <script src="js/html5shiv.js"></script>
         <![endif]-->
-    <style type="text/css" media="screen, projection">
+    <link rel="stylesheet" type="text/css" href="/assets/3a944358/css/typeahead.css">
+<style type="text/css" media="screen, projection">
 /*<![CDATA[*/
     @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
 /*]]>*/
@@ -45,34 +46,18 @@
     <body>
     <div class="site-holder">
 
-        <div class="container">
+        
     <nav class="navbar navbar-default navbar-custom" role="navigation">
+        <div class="container">
 
         <div class="container-fluid">
 
 
             <div class="navbar-header">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <!--                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-                                    <span class="sr-only">Toggle navigation</span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                </button>-->
-
-
-
-
-
-                <a class="navbar-brand" href="/">Currently<strong>Down</strong>.com</a>
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hovernav icon"><a href="http://www.pinterest.com/currentlydown/" target="_blank" rel="nofollow" title="Follow us on Pinterest"><i class="fa fa-pinterest"></i></a></li>
-                    <li class="hovernav icon"><a href="http://facebook.com/CurrentlyDownCom" target="_blank" rel="nofollow" title="Follow us on Facebook"><i class="fa fa-facebook"></i></a></li>
-                    <li class="hovernav icon"><a href="http://twitter.com/downcurrently" target="_blank" rel="nofollow" title="Follow us on Twitter"><i class="fa fa-twitter"></i></a></li>
-                </ul>
+                <a class="navbar-brand" href="/"><img src="http://media.currentlydown.com/img/logo-com.png" alt=""></a>
 
                 <form class="navbar-form navbar-left" id="check-form" action="/policy" method="post">                <div class="input-group input-group-lg">
-                    <input spellcheck="false" name="CheckInputForm[url]" id="CheckInputForm_url" class="form-control" placeholder="Website URL" type="text">                    <span class="input-group-btn">
+                    <input spellcheck="false" name="CheckInputForm[url]" id="CheckInputForm_url" class="form-control" placeholder="Domain name" type="text">                    <span class="input-group-btn">
                         <button class="btn btn-primary" type="submit" name="yt0">Check</button>                    </span>
                 </div>
                                 </form>
@@ -85,9 +70,9 @@
         </div>
         <!--<div class="collapse navbar-collapse" id="navbar-collapse-1">-->
 
-</nav></div>
+</div>
 
-</div><!-- /.container-fluid -->
+</nav></div><!-- /.container-fluid -->
 
         <div class="container content">
             <div class="row">
@@ -118,12 +103,41 @@
             <p> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. </p>
         </div>
         <div class="footer-2">
-                    © CurrentlyDown.com 2014 - <a rel="nofollow" href="/policy">Privacy Policy</a> - <a href="http://myaccount.zendesk.com/account/dropboxes/2830039812" onclick="script: Zenbox.show(); return false;">Contact</a>
+                    © CurrentlyDown.com 2015 - <a rel="nofollow" href="/policy">Privacy Policy</a> - <a href="http://myaccount.zendesk.com/account/dropboxes/2830039812" onclick="script: Zenbox.show(); return false;">Contact</a>
 
                 </div>    
+<script type="text/javascript" src="/assets/3a944358/libs/typeahead.js/typeahead.bundle.min.js"></script>
+<script type="text/javascript" src="/assets/3a944358/libs/handlebars-v2.0.0.js"></script>
 <script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
+ // Instantiate the Bloodhound suggestion engine
+                var domains = new Bloodhound({
+                    datumTokenizer: function (datum) {
+                        return Bloodhound.tokenizers.whitespace(datum.value);
+                    },
+                    queryTokenizer: Bloodhound.tokenizers.whitespace,
+                    remote: {
+                        url: '/site/typeaheaddomain?q=%QUERY',
+                    }
+                });
+
+                // Initialize the Bloodhound suggestion engine
+                domains.initialize();
+
+                // Instantiate the Typeahead UI
+                $('#CheckInputForm_url').typeahead({
+                    highlight: true,
+                    minLength: 2,
+                    autoselect: true,
+                    }, 
+                    {
+                    displayKey: 'd',
+                    source: domains.ttAdapter()
+                });
+                $('#CheckInputForm_url').siblings('input.tt-hint').addClass('hint-large');
+                
+            
         if (typeof (Zenbox) !== "undefined") {
         Zenbox.init({
             dropboxID: "20246861",
