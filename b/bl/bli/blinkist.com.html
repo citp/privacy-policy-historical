@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the blinkist.com privacy policy that was archived on 2014-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141021122634id_/https%3A//www.blinkist.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blinkist.com privacy policy that was archived on 2015-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319152407id_/https%3A//www.blinkist.com/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"1530258c6c","applicationID":"2832861","transactionName":"IAkMQkQKXlpcRUtQXxBJEldRAEEZSUUNRVMAHw==","queueTime":4,"applicationTime":66,"agent":"js-agent.newrelic.com/nr-627.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcFVlFRGwEIV1NaAQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
       <!-- Content descriptions -->
       <meta http-equiv="language" content="en">
       <meta http-equiv="content-language" content="en">
@@ -15,10 +17,10 @@
       <link rel="apple-touch-icon" href="/apple-touch-icon.png">
       <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png">
       <meta name="apple-itunes-app" content="app-id=568839295">
-      <link rel="alternate" hreflang="en" href="https://www.blinkist.com/de/press/">
+      <link rel="alternate" hreflang="en" href="https://www.blinkist.com/de/collections/5232d694082b639215000003/">
 <!-- SEO optimization -->
 
-<title>Blinkist terms of service and privacy policy - Blinkist: Serving curious minds.</title>
+<title>Blinkist terms of service and privacy policy - Terms of Service and Privacy Policy from Blinkist</title>
 <meta content="Blinkist offers summaries of great nonfiction books’ key insights in a made for mobile format. Learn something new every day - on your smartphone, tablet or PC." name="description">
 <meta content="knowledge,books" name="keywords">
 <meta content="website" property="og:type">
@@ -26,7 +28,7 @@
 <meta content="Blinkist: Serving curious minds." property="og:title">
 <meta content="Blinkist Webpage" property="og:site_name">
 <meta content="Blinkist offers summaries of great nonfiction books’ key insights in a made for mobile format. Learn something new every day - on your smartphone, tablet or PC." property="og:description">
-<meta content="https://db0his2obn5eo.cloudfront.net/assets/extra/og/default_sharing_image-661d578fc7dcaf514dbd76cd729fe1bc.jpg" property="og:image">
+<meta content="https://db0his2obn5eo.cloudfront.net/assets/extra/og/default_sharing_image-4b271ea3284aa0f86aafd1d9a8179c5b.jpg" property="og:image">
 <meta content="summary_large_image" property="twitter:card">
 <meta content="@blinkist" property="twitter:site">
 <meta content="id568839295" property="twitter:app:id:iphone">
@@ -37,10 +39,11 @@
 <meta content="Blinkist - The essential insights from non-fiction book bestsellers" property="twitter:app:name:googleplay">
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="3sd03tAcFk+wPXYEdcaVeZbW8vypnhWfXvJEUo98Nno=" name="csrf-token">
+<meta content="dJV8NltnbPphBtAzRKkOuzktNAX91QzfomTuCzRdros=" name="csrf-token">
 
 <!-- Application start -->
-<link data-turbolinks-track="true" href="https://db0his2obn5eo.cloudfront.net/assets/application-cc2c69b03184944767e0c723bb7abe7d.css" media="all" rel="stylesheet">
+<link data-turbolinks-track="true" href="https://db0his2obn5eo.cloudfront.net/assets/application-8c824ff0935fc6d90cf8d1e805b17331.css" media="all" rel="stylesheet">
+
 <!--[if lt IE 9]>
 <script data-turbolinks-track="true" src="https://db0his2obn5eo.cloudfront.net/javascripts/html5-3.6-respond-1.1.0.min.js"></script>
 <![endif]-->
@@ -49,8 +52,10 @@
     Typekit.load();
 } catch (e) {
 }</script>
-<script data-turbolinks-track="true" src="https://db0his2obn5eo.cloudfront.net/assets/application-427872ff4ac7fc22bf2535f6f6cc608f.js"></script>
-<script src="//dev.visualwebsiteoptimizer.com/j.php?a=28244&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141021122634id_%2Fhttps%3A%2F%2Fwww.blinkist.com%2Fen%2Fprivacy%2F&amp;r=0.21377547416951992" type="text/javascript"></script></head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script data-turbolinks-track="true" src="https://db0his2obn5eo.cloudfront.net/assets/application-196aa85ffaa1c5c5d07bd9587255d13a.js"></script>
+<script data-turbolinks-track="true" src="https://db0his2obn5eo.cloudfront.net/assets/public-da0287c34d84ca98f4d9044419722ac7.js"></script>
+</head>
 <body class="pages__privacy">
 
 <div id="fb-root"></div>
@@ -63,6 +68,17 @@
 <script type="text/javascript">
     window._config_supported_languages = ["en"];
 </script>
+<script>
+//<![CDATA[
+
+    window.adroll_adv_id = "P2T524C3R5HUNBSL7IRON2";
+    window.adroll_pix_id = "EKNAWORMHJCJ3ITBGX4VRN";
+
+
+    window.quantcast_segments = "anonymous";
+
+//]]>
+</script>
     <script type="text/javascript">
         window._config_swiftype = undefined;
     </script>
@@ -70,7 +86,7 @@
 <script type="text/javascript">
     window._config_stripe = {
         public_key: 'pk_live_FT7Vxi3PZ9ltcuKPlmW45rIS',
-        image_url: 'https://db0his2obn5eo.cloudfront.net/assets/extra/stripe/icon-7ad5720f4f18723286c8b3b0c8b1633e.png'
+        image_url: 'https://db0his2obn5eo.cloudfront.net/assets/extra/stripe/icon-57f678010727296478dc83332823e39c.png'
     };
 </script>
 <script type="text/javascript">
@@ -85,53 +101,74 @@
 <![endif]-->
 
 <div class="page">
-
-  <a class="badge-popup" href="https://play.google.com/store/apps/details?id=com.blinkslabs.blinkist.android" target="_blank">
-    <div class="badge-popup__close-icon"></div>
-    <div class="badge-popup__headline">Now for Android, too! Get it here.</div>
-</a>
+  
   <header>
   <div class="top-menu">
     <div class="top-menu__left">
-          <a class="top-menu__logo" href="https://www.blinkist.com/en/"></a>
+      <a class="top-menu__logo" href="https://www.blinkist.com/en/"></a>
     </div>
-    <div class="top-menu__center">
-      <div class="top-menu__item"><a class="top-menu__item__browse" href="#"><i class="top-menu__item__browse-icon"></i>Browse</a>
-          <ul class="top-menu__dropdown browse">
-            <li class="top-menu__dropdown__item browse">
-              <a href="/en/blinks/">Just added</a>
-            </li>
-            <li class="top-menu__dropdown__item browse">
-              <a href="/en/collections/">Collections</a>
-            </li>
+        <div class="top-menu__center">
+          <div class="top-menu__item"><a class="top-menu__item__browse" href="#"><i class="top-menu__item__browse-icon"></i>Browse</a>
+              <ul class="top-menu__dropdown browse">
                 <li class="top-menu__dropdown__item browse">
-                  <a href="/en/categories/50efb867e4b0746ff368a308/">Politics &amp; History</a>
+                  <a href="/en/blinks/">Just added</a>
                 </li>
                 <li class="top-menu__dropdown__item browse">
-                  <a href="/en/categories/50647d0ee4b08bcecce09449/">Productivity &amp; Self-help</a>
+                  <a href="/en/collections/">Collections</a>
                 </li>
-                <li class="top-menu__dropdown__item browse">
-                  <a href="/en/categories/50efb849e4b0746ff368a305/">Health &amp; Happiness</a>
-                </li>
-                <li class="top-menu__dropdown__item browse">
-                  <a href="/en/categories/507445dee4b0c9817ab36592/">Popular Science</a>
-                </li>
-                <li class="top-menu__dropdown__item browse">
-                  <a href="/en/categories/50744610e4b0c9817ab36595/">Business &amp; Career</a>
-                </li>
-                <li class="top-menu__dropdown__item browse">
-                  <a href="/en/categories/507445d4e4b0c9817ab36591/">Society</a>
-                </li>
-                <li class="top-menu__dropdown__item browse">
-                  <a href="/en/categories/50647cf9e4b08bcecce09447/">Entrepreneurship</a>
-                </li>
-          </ul>
-</div>    </div>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/5478905464393200083f0000/">Time Management</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/547890366439320008360000/">Psychology</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/54788fef6439320008240000/">Personal Finance &amp; Investing</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/54788fac6439320008130000/">Motivation &amp; Inspiration</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/54788e1066333100094b0000/">Management &amp; Leadership</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/54788f8164393200080b0000/">Human Resources</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/54788f416439320008020000/">Communication &amp; Social Skills</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/5478901464393200082d0000/">Biography &amp; History</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/50efb867e4b0746ff368a308/">Economics &amp; Politics</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/50647d0ee4b08bcecce09449/">Personal Transformation</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/50efb849e4b0746ff368a305/">Health &amp; Fitness</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/507445dee4b0c9817ab36592/">Science</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/50744610e4b0c9817ab36595/">Marketing &amp; Sales</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/507445d4e4b0c9817ab36591/">Society &amp; Current Affairs</a>
+                    </li>
+                    <li class="top-menu__dropdown__item browse">
+                      <a href="/en/categories/50647cf9e4b08bcecce09447/">Entrepreneurship &amp; Small Business</a>
+                    </li>
+              </ul>
+</div>        </div>
         <div class="top-menu__right">
           <a class="cta-link" data-remote="true" href="/en/login/">Log In</a>
         </div>
-    </div>
-    </header>
+  </div>
+</header>
+
   
   
 
@@ -147,7 +184,7 @@
     <h2>General Terms and Conditions Blinkist</h2>
 
 
-    <p><strong>Effective on 2014-7-10</strong></p>
+    <p><strong>Effective on 2015-1-1</strong></p>
 
     <h3>1. Subject and Scope of the General Terms and Conditions</h3>
 
@@ -205,7 +242,7 @@
 
     <p>Blinkist will provide you with a summary of nonfiction books (so called “Blinks”) that enable you to comprehend
       their essential contents within minutes. Blinkist will additionally provide you with a personal area in which you
-      can fill your selected Blinks in categories “to read” and “already read” at your discretion.</p>
+      can organize your selected Blinks and textmarkers into different lists or categories at your discretion.</p>
 
     <h4>2.2</h4>
 
@@ -258,7 +295,7 @@
 
     <h4>3.6</h4>
 
-    <p>You may also register with our iPhone or iPad App after downloading it.</p>
+    <p>You may also register with our apps for iOS, Android or Kindle Fire after downloading it.</p>
 
     <h4>3.7</h4>
 
@@ -282,57 +319,65 @@
     <p>Blinkist shall be entitled <a href="#privacy">» Privacy policy</a> to save and process your data provided
       during the registration process pursuant to the data protection regulations.</p>
 
-    <h3>4.&nbsp;Subscription to Premium Access</h3>
+    <h3>4. Subscription to Subscription Access</h3>
 
     <h4>4.1</h4>
 
-    <p>There is a fee-based subscription available (“Premium Access”) so that you can use the full scope of Blinkist’s
-      services. The subscription can be entered into for different periods which are presented to you in the order
-      options.</p>
+    <p>There is a fee-based subscription available (“Subscription Access”) so that you can use the full scope of
+      Blinkist’s services. The subscription can be entered into for different periods which are presented to you in
+      the order options.</p>
 
     <h4>4.2</h4>
 
-    <p>Blinkist’s premium access is a fee-based and advertisement-free subscription which enables you to access our
-      mobile and web based applications for all books in Blinkist and to read these even without internet connection.
-      The access to our library persists for the subscription period.</p>
+    <p>Blinkist’s subscription accesses are fee-based and advertisement-free subscriptions which enable you to access a
+      set of our content and features through our mobile and web based applications, depending on the subscription
+      tier you’ve purchased. We offer two subscription tiers with the following service levels:</p>
+
+    <p>Blinkist Plus gives you unlimited reading access to all of our existing books and new releases and lets you make
+      as many highlights / textmarkers as you want. </p>
+
+    <p>Blinkist Premium contains all the services of Blinkist Plus, but in addition gives you unlimited access to our
+      Audio summaries (“listening access”) and lets you use our Send-to-Kindle and Evernote-Sync features.</p>
+
+    <p>The access to our library persists for the subscription period.</p>
 
     <h4>4.3</h4>
 
-    <p>To become the holder of a Blinkist account with premium access you will have to register with your user data,
-      submit your credit card data and confirm your subscription by clicking the button “subscribe for xx€”.
+    <p>To become the holder of a Blinkist account with subscription access you will have to register with your user
+      data, submit your credit card data and confirm your subscription by clicking the button “subscribe for xx€”.
       You will receive a subscription confirmation email as soon as you have done this. Your subscription starts on
       this day. Please read our data protection notification for information regarding gathering, using and processing
       of your data.</p>
 
     <h4>4.4</h4>
 
-    <p>You can also subscribe via In-App-Purchase via our iPhone or iPad App. For this purpose, you will have to choose
-      the desired option on the subscription screen of the App (monthly, quarterly or annual subscription), whereupon a
-      pop-up will appear in which you have to enter your Apple-password. As soon as you have done this, another pop-up
-      will appear in which you have to confirm the subscription purchase again. You may still cancel the process at this
-      stage.</p>
+    <p>You can also subscribe via In-App-Purchase via iOS- or Android-Apps. For this purpose, you will have to choose
+      the desired option on the subscription screen of the App, whereupon a pop-up will appear in which you have to
+      enter your Apple- / Google-Play-password. As soon as you have done this, another pop-up will appear in which you
+      have to confirm the subscription purchase again. You may still cancel the process at this stage.</p>
 
     <h3>5.&nbsp;Trials/Test Periods</h3>
 
     <h4>5.1</h4>
 
-    <p>Blinkist will occasionally offer new users the use of the premium access for trial purposes for a certain
-      time free-of-charge (so called “trial”). Blinkist determines at its own discretion if you can participate in
-      the trial. Blinkist shall have the right to stop or change a free trial at any time without prior notification
-      or termination period if good cause is present.</p>
+    <p>Blinkist will occasionally offer new users the use of the subscription access for trial purposes for a certain
+      time free-of-charge (so called “trial”). Blinkist determines at its own discretion if you can participate in the
+      trial. Blinkist shall have the right to stop or change a free trial at any time without prior notification or
+      termination period if good cause is present.</p>
 
     <h4>5.2</h4>
 
     <p>Participation in certain trials might only be possible if you enter your payment data during trial registration.
       In such event, we will need your consent at the beginning of the trial that your free access will be switched to
-      a fee-based premium access subscription on the day after your trial expired (cipher 4.). In this event your
-      subscription will subsequently renew itself on a monthly basis and can be terminated every month (cipher 8.3).</p>
+      a fee-based subscription access on the day after your trial expired (cipher 4.). In this event your subscription
+      will subsequently renew itself depending on the term you’ve committed to when accepting the trial access and can
+      be terminated until one day before the subscription is set to renew (cipher 8.3).</p>
 
     <h4>5.3</h4>
 
-    <p>If you do not want the premium service in an event of cipher 5.2 and the corresponding charges, you will have to
-      terminate the premium access provided within the trial prior to the trial expiry (e.g. conveniently via your
-      Blinkist Account Settings).</p>
+    <p>If you do not want the subscription service in an event of cipher 5.2 and the corresponding charges, you will
+      have to terminate the subscription access provided within the trial prior to the trial expiry
+      (e.g. conveniently via your Blinkist Account Settings).</p>
 
     <h3>6.&nbsp;Revocation Right</h3>
 
@@ -423,7 +468,7 @@
 
     <h4>7.1</h4>
 
-    <p>The conclusion of the premium access subscription (cipher 4.) is subject to charges.</p>
+    <p>The conclusion of the subscription access (cipher 4.) is subject to charges.</p>
 
     <h4>7.2</h4>
 
@@ -442,7 +487,7 @@
 
     <h4>7.5</h4>
 
-    <p>In the event of a subscription via our iPhone or iPad App, payment shall occur via Apple’s
+    <p>In the event of a subscription via our iOS- or Android-Apps, payment shall occur via Apple’s or Google’s
       In-App-Purchase process.</p>
 
     <h4>7.6</h4>
@@ -465,10 +510,9 @@
 
     <h4>8.3</h4>
 
-    <p>The fee-based premium access subscription (cf. cipher 4.) shall run at least for your initially selected period
-      (1 month, 3 months or 12 months) and shall automatically renew itself if you do not terminate at least 24 hours
-      prior expiry of this period. The subscription period shall extend respective of its currently used subscription
-      model for 1 month, 3 months or 12 months.</p>
+    <p>The fee-based subscription access (cf. cipher 4.) shall run at least for your initially selected period and
+      shall automatically renew itself if you do not terminate at least 24 hours prior expiry of this period.
+      The subscription period shall extend respective of its currently used subscription model.</p>
 
     <h4>8.4</h4>
 
@@ -477,15 +521,16 @@
 
     <h4>8.5</h4>
 
-    <p>You can terminate a fee-based subscription concluded via our iPhone or iPad App in the iTunes settings.</p>
+    <p>You can terminate a fee-based subscription concluded via our iOS or Android Apps in the iTunes / Google
+      Play settings.</p>
 
     <h4>8.6</h4>
 
-    <p>Termination of the premium access shall become effective the day after the last day of your subscription period
-      and you will be downgraded to a free user contract (Free Service). After renewing your subscription you will
-      however be able to access your old status and your reading lists. If you intend to delete your entire account,
-      you can do so via the settings of our Web-App (cf. cipher 8.2.). All data will be deleted irrevocably in this
-      case. </p>
+    <p>Termination of the subscription access shall become effective the day after the last day of your subscription
+      period and you will be downgraded to a free user contract (Free Service). After renewing your subscription you
+      will however be able to access your old status and your reading lists. If you intend to delete your entire
+      account, you can do so via the settings of our Web-App (cf. cipher 8.2.). All data will be deleted irrevocably
+      in this case.</p>
 
     <h4>8.7</h4>
 
@@ -503,7 +548,7 @@
 
     <p>For redeeming the code, you will first have to register with Blinkist (cf. cipher 3.) first and subsequently
       activate the code through the specifically herefore created website(currently:
-      <a href="http://www.blinkist.com/friends">http://www.blinkist.com/friends</a>).</p>
+      <a href="http://www.blinkist.com/voucher">http://www.blinkist.com/voucher</a>).</p>
 
     <h4>9.3</h4>
 
@@ -516,9 +561,9 @@
 
     <h4>9.5</h4>
 
-    <p>After expiry of the respective period, the premium access ends automatically and you will be downgraded to the
-      Free Service. If you want to continue the premium access use, you can enter into a new subscription (cf. 4.) any
-      time. If you intend to delete your entire account, you can do so via the settings of our Web-App
+    <p>After expiry of the respective period, the subscription access ends automatically and you will be downgraded to
+      the Free Service. If you want to continue the subscription access use, you can enter into a new subscription
+      (cf. 4.) any time. If you intend to delete your entire account, you can do so via the settings of our Web-App
       (cf. cipher 8.2.). All data will be deleted irrevocably in this case.</p>
 
     <h3>10. Liability</h3>
@@ -899,6 +944,18 @@
       changes, particularly regarding collection, use or processing of your personal data, we will notify you of this
       via e-mail or inform you no later than during your next Blinkist login.</p>
 
+
+          <script>
+//<![CDATA[
+
+        (function ($) {
+
+            window.track_quantcast_event({ "labels": "Information" });
+
+        })(jQuery);
+
+//]]>
+</script>
 </article>
   </main>
 
@@ -910,13 +967,12 @@
     <div class="navigation left"><a href="http://app.adjust.io/qmx92l" target="_blank">Read Anywhere. Get Blinkist for iPhone and iPad.</a></div>
     <div class="navigation right">
         <ul>
-          <li><a href="http://support.blinkist.com/" target="_blank">Help</a></li>
+          <li><a href="http://support.blinkist.com/hc" target="_blank">Help</a></li>
           <li><a href="/en/about/">About</a></li>
           <li><a href="/en/making_a_blink/">How it works</a></li>
           <li><a href="/en/publishers/">Partner</a></li>
-          <li><a href="http://blog.blinkist.com/">Blog</a></li>
-          <li><a href="/en/imprint/">Imprint</a></li>
-          <li><a href="/en/privacy/">Privacy</a></li>
+          <li><a href="/en/disclaimer/">Disclaimer</a></li>
+          <li><a href="/en/privacy/">Terms and Privacy</a></li>
         </ul>
     </div>
   </div>
@@ -924,15 +980,6 @@
 
 
 <div class="errors_cookies">Please test your cookie settings and activate them for Blinkist</div>
-
-<script type="text/javascript">
-    var _vwo_code=(function(){
-        var account_id=28244,
-                settings_tolerance=2000,
-                library_tolerance=2500,
-                use_existing_jquery=false,
-                f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script>
 
 <script type="text/javascript">
     /* <![CDATA[ */
@@ -950,4 +997,4 @@
 </noscript>
 
 
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
