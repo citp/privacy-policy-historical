@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carowinds.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226021745id_/https%3A//www.carowinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carowinds.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319075330id_/https%3A//www.carowinds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carowinds, Charlotte NC
 
