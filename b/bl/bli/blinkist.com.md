@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the blinkist.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021122634id_/https%3A//www.blinkist.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkist.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319152407id_/https%3A//www.blinkist.com/en/privacy) for the most accurate reproduction.*
 
-# Blinkist terms of service and privacy policy - Blinkist: Serving curious minds.
+# Blinkist terms of service and privacy policy - Terms of Service and Privacy Policy from Blinkist
 
 » Blinkist Terms of Services  
 » ToS & Privacy Policy
 
 ## General Terms and Conditions Blinkist
 
-**Effective on 2014-7-10**
+**Effective on 2015-1-1**
 
 ### 1\. Subject and Scope of the General Terms and Conditions
 
@@ -43,7 +43,7 @@ In the event that you object the changes, Blinkist shall be entitled to terminat
 
 #### 2.1
 
-Blinkist will provide you with a summary of nonfiction books (so called “Blinks”) that enable you to comprehend their essential contents within minutes. Blinkist will additionally provide you with a personal area in which you can fill your selected Blinks in categories “to read” and “already read” at your discretion.
+Blinkist will provide you with a summary of nonfiction books (so called “Blinks”) that enable you to comprehend their essential contents within minutes. Blinkist will additionally provide you with a personal area in which you can organize your selected Blinks and textmarkers into different lists or categories at your discretion.
 
 #### 2.2
 
@@ -85,7 +85,7 @@ You may register via email address or log-in through a so called social-connect 
 
 #### 3.6
 
-You may also register with our iPhone or iPad App after downloading it.
+You may also register with our apps for iOS, Android or Kindle Fire after downloading it.
 
 #### 3.7
 
@@ -103,37 +103,43 @@ Registration shall require a minimum age of 18 years. As a minor you are only al
 
 Blinkist shall be entitled » Privacy policy to save and process your data provided during the registration process pursuant to the data protection regulations.
 
-### 4. Subscription to Premium Access
+### 4\. Subscription to Subscription Access
 
 #### 4.1
 
-There is a fee-based subscription available (“Premium Access”) so that you can use the full scope of Blinkist’s services. The subscription can be entered into for different periods which are presented to you in the order options.
+There is a fee-based subscription available (“Subscription Access”) so that you can use the full scope of Blinkist’s services. The subscription can be entered into for different periods which are presented to you in the order options.
 
 #### 4.2
 
-Blinkist’s premium access is a fee-based and advertisement-free subscription which enables you to access our mobile and web based applications for all books in Blinkist and to read these even without internet connection. The access to our library persists for the subscription period.
+Blinkist’s subscription accesses are fee-based and advertisement-free subscriptions which enable you to access a set of our content and features through our mobile and web based applications, depending on the subscription tier you’ve purchased. We offer two subscription tiers with the following service levels:
+
+Blinkist Plus gives you unlimited reading access to all of our existing books and new releases and lets you make as many highlights / textmarkers as you want. 
+
+Blinkist Premium contains all the services of Blinkist Plus, but in addition gives you unlimited access to our Audio summaries (“listening access”) and lets you use our Send-to-Kindle and Evernote-Sync features.
+
+The access to our library persists for the subscription period.
 
 #### 4.3
 
-To become the holder of a Blinkist account with premium access you will have to register with your user data, submit your credit card data and confirm your subscription by clicking the button “subscribe for xx€”. You will receive a subscription confirmation email as soon as you have done this. Your subscription starts on this day. Please read our data protection notification for information regarding gathering, using and processing of your data.
+To become the holder of a Blinkist account with subscription access you will have to register with your user data, submit your credit card data and confirm your subscription by clicking the button “subscribe for xx€”. You will receive a subscription confirmation email as soon as you have done this. Your subscription starts on this day. Please read our data protection notification for information regarding gathering, using and processing of your data.
 
 #### 4.4
 
-You can also subscribe via In-App-Purchase via our iPhone or iPad App. For this purpose, you will have to choose the desired option on the subscription screen of the App (monthly, quarterly or annual subscription), whereupon a pop-up will appear in which you have to enter your Apple-password. As soon as you have done this, another pop-up will appear in which you have to confirm the subscription purchase again. You may still cancel the process at this stage.
+You can also subscribe via In-App-Purchase via iOS- or Android-Apps. For this purpose, you will have to choose the desired option on the subscription screen of the App, whereupon a pop-up will appear in which you have to enter your Apple- / Google-Play-password. As soon as you have done this, another pop-up will appear in which you have to confirm the subscription purchase again. You may still cancel the process at this stage.
 
 ### 5. Trials/Test Periods
 
 #### 5.1
 
-Blinkist will occasionally offer new users the use of the premium access for trial purposes for a certain time free-of-charge (so called “trial”). Blinkist determines at its own discretion if you can participate in the trial. Blinkist shall have the right to stop or change a free trial at any time without prior notification or termination period if good cause is present.
+Blinkist will occasionally offer new users the use of the subscription access for trial purposes for a certain time free-of-charge (so called “trial”). Blinkist determines at its own discretion if you can participate in the trial. Blinkist shall have the right to stop or change a free trial at any time without prior notification or termination period if good cause is present.
 
 #### 5.2
 
-Participation in certain trials might only be possible if you enter your payment data during trial registration. In such event, we will need your consent at the beginning of the trial that your free access will be switched to a fee-based premium access subscription on the day after your trial expired (cipher 4.). In this event your subscription will subsequently renew itself on a monthly basis and can be terminated every month (cipher 8.3).
+Participation in certain trials might only be possible if you enter your payment data during trial registration. In such event, we will need your consent at the beginning of the trial that your free access will be switched to a fee-based subscription access on the day after your trial expired (cipher 4.). In this event your subscription will subsequently renew itself depending on the term you’ve committed to when accepting the trial access and can be terminated until one day before the subscription is set to renew (cipher 8.3).
 
 #### 5.3
 
-If you do not want the premium service in an event of cipher 5.2 and the corresponding charges, you will have to terminate the premium access provided within the trial prior to the trial expiry (e.g. conveniently via your Blinkist Account Settings).
+If you do not want the subscription service in an event of cipher 5.2 and the corresponding charges, you will have to terminate the subscription access provided within the trial prior to the trial expiry (e.g. conveniently via your Blinkist Account Settings).
 
 ### 6. Revocation Right
 
@@ -194,7 +200,7 @@ Date
 
 #### 7.1
 
-The conclusion of the premium access subscription (cipher 4.) is subject to charges.
+The conclusion of the subscription access (cipher 4.) is subject to charges.
 
 #### 7.2
 
@@ -210,7 +216,7 @@ In the event of download bundle purchase, payment shall also occur by charging t
 
 #### 7.5
 
-In the event of a subscription via our iPhone or iPad App, payment shall occur via Apple’s In-App-Purchase process.
+In the event of a subscription via our iOS- or Android-Apps, payment shall occur via Apple’s or Google’s In-App-Purchase process.
 
 #### 7.6
 
@@ -228,7 +234,7 @@ You can terminate the free user contract at any time. For this purpose, you can 
 
 #### 8.3
 
-The fee-based premium access subscription (cf. cipher 4.) shall run at least for your initially selected period (1 month, 3 months or 12 months) and shall automatically renew itself if you do not terminate at least 24 hours prior expiry of this period. The subscription period shall extend respective of its currently used subscription model for 1 month, 3 months or 12 months.
+The fee-based subscription access (cf. cipher 4.) shall run at least for your initially selected period and shall automatically renew itself if you do not terminate at least 24 hours prior expiry of this period. The subscription period shall extend respective of its currently used subscription model.
 
 #### 8.4
 
@@ -236,11 +242,11 @@ You can terminate subscriptions that you entered into via our Web-App in the set
 
 #### 8.5
 
-You can terminate a fee-based subscription concluded via our iPhone or iPad App in the iTunes settings.
+You can terminate a fee-based subscription concluded via our iOS or Android Apps in the iTunes / Google Play settings.
 
 #### 8.6
 
-Termination of the premium access shall become effective the day after the last day of your subscription period and you will be downgraded to a free user contract (Free Service). After renewing your subscription you will however be able to access your old status and your reading lists. If you intend to delete your entire account, you can do so via the settings of our Web-App (cf. cipher 8.2.). All data will be deleted irrevocably in this case. 
+Termination of the subscription access shall become effective the day after the last day of your subscription period and you will be downgraded to a free user contract (Free Service). After renewing your subscription you will however be able to access your old status and your reading lists. If you intend to delete your entire account, you can do so via the settings of our Web-App (cf. cipher 8.2.). All data will be deleted irrevocably in this case.
 
 #### 8.7
 
@@ -254,7 +260,7 @@ If you purchased a Blinkist code with which you can use a premium access for the
 
 #### 9.2
 
-For redeeming the code, you will first have to register with Blinkist (cf. cipher 3.) first and subsequently activate the code through the specifically herefore created website(currently: <http://www.blinkist.com/friends>).
+For redeeming the code, you will first have to register with Blinkist (cf. cipher 3.) first and subsequently activate the code through the specifically herefore created website(currently: <http://www.blinkist.com/voucher>).
 
 #### 9.3
 
@@ -266,7 +272,7 @@ Please be aware that when using a code or another offer, specific provisions rel
 
 #### 9.5
 
-After expiry of the respective period, the premium access ends automatically and you will be downgraded to the Free Service. If you want to continue the premium access use, you can enter into a new subscription (cf. 4.) any time. If you intend to delete your entire account, you can do so via the settings of our Web-App (cf. cipher 8.2.). All data will be deleted irrevocably in this case.
+After expiry of the respective period, the subscription access ends automatically and you will be downgraded to the Free Service. If you want to continue the subscription access use, you can enter into a new subscription (cf. 4.) any time. If you intend to delete your entire account, you can do so via the settings of our Web-App (cf. cipher 8.2.). All data will be deleted irrevocably in this case.
 
 ### 10\. Liability
 
