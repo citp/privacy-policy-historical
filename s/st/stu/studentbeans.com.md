@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentbeans.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829025703id_/http%3A//studentbeans.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentbeans.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319170928id_/http%3A//www.studentbeans.com/info/privacy) for the most accurate reproduction.*
 
 # Student Beans
 
