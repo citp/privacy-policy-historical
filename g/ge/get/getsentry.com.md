@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getsentry.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716145236id_/https%3A//www.getsentry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsentry.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319061902id_/https%3A//www.getsentry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sentry
 
-**Your data is never made available to anyone. We only store what you give us, and we only share it with who you tell us.**
+Your data is never made available to anyone. We only store what you give us, and we only share it with who you tell us.
 
 ### Who has access to my data?
 
