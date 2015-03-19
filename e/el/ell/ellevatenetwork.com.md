@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellevatenetwork.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701083837id_/https%3A//www.ellevatenetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellevatenetwork.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319022233id_/https%3A//www.ellevatenetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Ellevate – a global professional women's network
 
@@ -68,7 +68,7 @@ In addition, You may not, in connection with Your use of the Site:
 
 (ix) collect or "harvest" from the Site the names of other users for the purpose of transmitting to those other users unsolicited commercial messages.
 
-If You discover this kind of material or activity on the Site, please contact [info@ellevatenetwork.com](mailto:info@ellevatenetwork.com).
+If You discover this kind of material or activity on the Site, please contact [info@ellevatenetwork.com](mailto:info@ellevatenetwork.com). 
 
 This Privacy Policy is effective as of June 3, 2014. This Privacy Policy is subject to the Terms of Use posted on the Site, including provisions regarding change or modification of this Privacy Policy and other policies as set forth in the Terms of Use and this Privacy Policy. You are responsible for checking this page periodically for changes and updates to the Privacy Policy. If we make material changes, we will post a revised version of the Privacy Policy on the Site and notify You by indicating that the Privacy Policy has been revised. Your use of the Site following any posted changes to the Privacy Policy will be deemed an acceptance of such changes. This Privacy Policy is part of, and incorporated into the Terms of Use.
 
