@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnwebdevelopment.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702053450id_/http%3A//www.learnwebdevelopment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnwebdevelopment.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319060833id_/http%3A//www.learnwebdevelopment.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » LearnWebDevelopment.com
+# Privacy Policy - LearnWebDevelopment.com
 
 LearnWebDevelopment.com is dedicated to protecting your privacy and handling your personal information with care and respect. The information we collect about you is provided by you. These are the various ways we collect this information:
 
