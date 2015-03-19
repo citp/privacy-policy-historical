@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowandrock.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713224321id_/http%3A//www.snowandrock.com/cookies-privacy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowandrock.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319140112id_/http%3A//www.snowandrock.com/cookies-privacy/content/fcp-content) for the most accurate reproduction.*
 
 # Cookie Policy | Privacy Policy - Snow+Rock
 
@@ -37,7 +37,8 @@ Please find below the list of cookies that we use here on snowandrock.com.
 
 Cookie Name | Further Details  
 ---|---  
-_utma, _utmb, _utmc, _utmz | These are google analytics cookies which enable us to view and analyse visitor information and this in turn helps us to improve our website to make your shopping experience the best it can be. Find more information about google's privacy policy here: [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html)  
+_utma, _utmb, _utmc, _utmt, _utmz | These are google analytics cookies which enable us to view and analyse visitor information and this in turn helps us to improve our website to make your shopping experience the best it can be. Find more information about google's privacy policy here: [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html)  
+Fcp_last_category, LastCategory, LastSuccessfulCategory, | These cookies record the categories you've browsed whilst on the website, so that we can provide easy back links to previously viewed categories.  
 Fcp_last_category, LastCategory, LastSuccessfulCategory, | These cookies record the categories you've browsed whilst on the website, so that we can provide easy back links to previously viewed categories.  
 fcp_shopping_basket | Retains your shopping basket contents between visits to the website.  
 Language_iso | This cookie is used to remember your language preference.  
@@ -65,13 +66,14 @@ If you would like more information about the cookies used by these partners, as 
 
 Supplier Name | Further Details  
 ---|---  
-myThings | We work with myThings to deliver relevant advertising to you on a selection of other websites. Please see our section on banner advertising for more information, alternatively, to view their privacy policy, visit their site: [www.mythings.com/optout_website.htm](http://www.mythings.com/optout_website.htm)  
+Criteo | The purpose of Criteo's service is to find visitors of Criteo advertising clients' properties (websites, apps and newsletters) and serve them personalized ads. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo services, please click here: [Criteo Privacy Policy](http://www.criteo.com/privacy/)  
 Webgains | Webgains are our affiliate marketing partner - find out more about their cookie policy here: [www.webgains.com/public/privacy/webgains-cookies](http://www.webgains.com/public/privacy/webgains-cookies)  
 Google Analytics | We work with Google to be able to view and analyse visitor information. This helps us to improve our website to make your shopping experience the best it can be. Find more information about google's privacy policy here: [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html)  
-more2 | more2 is our database and email marketing partner. more2 maintains our marketing database, sends emails on our behalf and helps us to analyse how recipients are interacting with these emails. This enables us to improve the content and make our emails more relevant to our customers.  
+RedEye | RedEye is our database and email marketing partner. RedEye maintains our marketing database, sends newsletter emails and helps us to analyse how recipients are interacting with these emails. This enables us to improve the content and make our emails more relevant to our customers. Find more information about RedEye's privacy policy here: [www.redeye.com/company/about-us/cookie-policy/](http://www.redeye.com/company/about-us/cookie-policy/)  
+Barilliance | Barilliance uses browser cookies to personalize your shopping experience by presenting product recommendations that are relevant. We use cookies to track the products you showed interest and in turn use that information to recommend the right products either during the current session or when you return to the site in the future. View their privacy policy here: [www.barilliance.com/privacy-policy/](http://www.barilliance.com/privacy-policy/)  
 Bazaarvoice | Bazaarvoice are our ratings and reviews partner, enabling you to find reviews of each Snow+Rock product on the site and help you make a more informed decision when making a purchase. To find out more about their cookie policy, see here: [www.bazaarvoice.co.uk/ugc-cookie-policy](http://www.bazaarvoice.co.uk/ugc-cookie-policy)  
-Kenshoo | Kenshoo is a digital marketing software company that provides us with technology solutions for search marketing. View their privacy policy here: [www.kenshoo.com/Privacy_Policy ](http://www.kenshoo.com/Privacy_Policy)  
 Sli systems | Sli Systems provide the search functionality on our website. View their privacy policy here: [www.sli-systems.com/about/legal](http://www.sli-systems.com/about/legal)  
+Optimizely | Optimizely is used to deliver our best customer experience via optimization of the site. View their privacy policy here: [www.www.optimizely.com/privacy/](https://www.optimizely.com/privacy/)  
 Social media sharing tools including facebook and addthis | Snowandrock.com carries embedded share tools to enable you to easily share information and products you like with your friends. These sites may set a cookie when you are also logged in to their service. The Snow+Rock group does not control the delivery of these cookies and you should check the relevant third party website for more information about these.  
   
 Back to top
@@ -90,15 +92,9 @@ Please be aware that restricting cookies may impact on the functionality of the 
 
 Back to top
 
-We have chosen to work with myThings, a trusted and well-known advertising specialist, to deliver personalised adverts to you when you visited other designated websites.
+We have chosen to work with Criteo, a trusted and well-known advertising specialist, to deliver personalised adverts to you when you visited other designated websites.
 
-All of the data gathered to deliver this personalised advertising is completely anonymous and doesn't contain any sensitive information or any of your personal information.
-
-For more information on myThings privacy policy, please visit their website: [www.mythings.com/optout_website.htm](http://www.mythings.com/optout_website.htm) or view their full privacy policy here: <http://www.mythings.com/privacy_policy.htm>
-
-You can choose to opt out of this style of advertising from myThings permanently by visiting [www.mythings.com/optout_website.htm](http://www.mythings.com/optout_website.htm) and clicking 'Opt out'
-
-Please note that if you subsequently choose to delete your cookies as well, your myThings opt-out choice will be forgotten.
+The purpose of Criteo's service is to find visitors of Criteo advertising clients' properties (websites, apps and newsletters) and serve them personalized ads. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo services, please click here: <http://www.criteo.com/privacy/>
 
 Back to top
 
