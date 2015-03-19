@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privateschoolexam.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002013545id_/http%3A//www.privateschoolexam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateschoolexam.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319214824id_/http%3A//privateschoolexam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ISEE & SSAT Test Prep & Online Tutoring
 
