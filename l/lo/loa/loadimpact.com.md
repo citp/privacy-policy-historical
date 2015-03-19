@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadimpact.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227190808id_/http%3A//loadimpact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadimpact.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319223531id_/https%3A//loadimpact.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Load Impact
 
