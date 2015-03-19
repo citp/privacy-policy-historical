@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133846id_/http%3A//www.cvisiontech.com/legal/general/privacy.html%3Flang%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319190507id_/http%3A//www.cvisiontech.com/legal/general/privacy.html%3Flang%3Deng) for the most accurate reproduction.*
 
 # Privacy
 
@@ -41,4 +41,4 @@ With respect to security: When we transfer and receive certain types of sensitiv
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-Generated in 0.57619 Seconds
+Generated in 0.54736 Seconds
