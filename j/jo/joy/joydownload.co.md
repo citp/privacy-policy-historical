@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the joydownload.co privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703212609id_/http%3A//www.joydownload.co/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joydownload.co privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319120915id_/http%3A//www.joydownload.co/info/privacy-policy.html) for the most accurate reproduction.*
 
-# JoyDownload.co
+# Privacy Policy - JoyDownload.co
 
 Privacy Policy 
 
-JoyDownload.co (“We” or “JoyDownload”) know that you care about how your personal information is used and shared, and We take your privacy seriously.
+http://www.joydownload.co/ (“We” or “ JoyDownload.co ”) know that you care about how your personal information is used and shared, and We take your privacy seriously.
 
-This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) and other information We gather when you are accessing our website at [http://www.JoyDownload.co](http://www.joydownload.co/) (the “Site”).
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) and other information We gather when you are accessing our website at [ http://www.joydownload.co/ ](http://www.joydownload.co/) (the “Site”).
 
 In addition, this Privacy Policy also covers our treatment of Personal Information and other information We gather when you use any of our services or products, including the wrapper installation utility.
 
@@ -16,7 +16,7 @@ Please note this policy does not apply to (and We are not responsible for) the p
 
 1\. SUMMARY OF OUR PRIVACY POLICY
 
-This Privacy Policy pertains to the JoyDownload.co Site and to the products and services available through the Site. To better explain what information We collect, and how We use the information We collect, We have broken out our Privacy Policy into the following sections:
+This Privacy Policy pertains to the http://www.joydownload.co/ Site and to the products and services available through the Site. To better explain what information We collect, and how We use the information We collect, We have broken out our Privacy Policy into the following sections:
 
 Section 2: WHAT WE COLLECT AND WHY. This section explains what information We collect from:
 
@@ -48,7 +48,7 @@ Communication Anytime you send us a communication We may keep this communication
 
 Information You Provide. We also receive and store any information you enter on our Site or provide to us in any other way, including information you may provide to us to create a user account. The types of Personal Information collected when you create a user account may include your name, user name and email address. The Personal Information you provide is used for such purposes as customizing and improving our services, and communicating with you about specials and new features.
 
-Third Party Software, Applications, Websites, Advertisements, Links and Services. JoyDownload may allow third party software and applications, as well as links to third party websites and services (“Third Party Services”), to be offered or made available by third parties not affiliated with JoyDownload (“Third Party Providers”), through the Site or its services. The Site may also contain advertisements that link to other websites. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, you will be directed to that Third Party Provider’s website.
+Third Party Software, Applications, Websites, Advertisements, Links and Services. JoyDownload.co may allow third party software and applications, as well as links to third party websites and services (“Third Party Services”), to be offered or made available by third parties not affiliated with JoyDownload.co (“Third Party Providers”), through the Site or its services. The Site may also contain advertisements that link to other websites. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, you will be directed to that Third Party Provider’s website.
 
 This Privacy Policy only applies to our Site and services. We do not exercise control over any websites that our Site, or that a third party application, may link to. These other applications, websites, links or services may place their own cookies or other files on your computer, collect data or solicit personal information from you. Information collected by such third parties, including information collected through links to social media sites, is governed by the third party privacy policies of those applications, websites, links or services. In addition, the fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement of such Third Party Provider’s privacy or information security policies or practices. We recommend that you read the privacy policies, terms of use or end user license agreements of the other websites you visit.
 
@@ -56,11 +56,11 @@ b. USERS WHO INSTALL THIRD PARTY SOFTWARE USING THE  INSTALLATION UTILITY
 
 If you are a user who has downloaded and installed third party software, or have clicked on or use third party websites, links and services:
 
-JoyDownload may allow Third Party Services to be offered or made available by Third Party Providers, through the Site or its services. This Privacy Policy only applies to our Site and services. We do not exercise control over any Third Party Services that our Site, or that a third party application, may link to or access.
+JoyDownload.co may allow Third Party Services to be offered or made available by Third Party Providers, through the Site or its services. This Privacy Policy only applies to our Site and services. We do not exercise control over any Third Party Services that our Site, or that a third party application, may link to or access.
 
 These Third Party Services may place their own cookies or other files on your computer, collect data or solicit personal information from you. Information collected by Third Party Providers, including information collected through links to social media sites, is governed by the privacy policies of such Third Party Providers for such Third Party Services. When utilizing Third Party Services, we recommend that you should read the relevant terms of use regarding use of such third party websites, software or products, including any applicable privacy policies, terms of use and end user license agreements.
 
-d. USERS WHO RECEIVE SOFTWARE RECOMMENDATIONS
+c. USERS WHO RECEIVE SOFTWARE RECOMMENDATIONS
 
 If you are a user receiving recommendations for Third Party Software through the OpenCandy Network or other software recommendation networks:
 
@@ -70,11 +70,11 @@ Third party software available for download or installation from the Site may, a
 
 For all Personal Information and other information We collect, we may share or use such information as follows:
 
-Protection of JoyDownload and Others.
+Protection of JoyDownload.co  and Others.
 
-We may share your Personal Information and other information if We have a good faith belief that it is required to: (1) comply with law, regulation, subpoena or court order; (2) detect, prevent or otherwise address fraud, security or technical issues; (3) enforce the provisions of this Privacy Policy and/or any other agreements between you and JoyDownload, including investigation of potential violations thereof; or (4) protect against harm to the rights, property or safety of JoyDownload, its visitors, users and/or the public.
+We may share your Personal Information and other information if We have a good faith belief that it is required to: (1) comply with law, regulation, subpoena or court order; (2) detect, prevent or otherwise address fraud, security or technical issues; (3) enforce the provisions of this Privacy Policy and/or any other agreements between you and JoyDownload.co , including investigation of potential violations thereof; or (4) protect against harm to the rights, property or safety of JoyDownload.co , its visitors, users and/or the public.
 
-Business Transfers. If JoyDownload or substantially all of its assets were acquired, or in the unlikely event that JoyDownload goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. Accordingly, We may transfer or assign all the information We have collected as part of a merger, acquisition, sale or other change of control. You acknowledge that such transfers may occur, and that any acquiror may continue to use your Personal Information and other information as set forth in this policy.
+Business Transfers. If JoyDownload.co  or substantially all of its assets were acquired, or in the unlikely event that JoyDownload.co  goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. Accordingly, We may transfer or assign all the information We have collected as part of a merger, acquisition, sale or other change of control. You acknowledge that such transfers may occur, and that any acquiror may continue to use your Personal Information and other information as set forth in this policy.
 
 Non-Personal Information. We may share your non-personally identifiable information with partners and other third parties for the purpose of helping us improve our recommendations and the overall performance of our service. For example, We may utilize data to determine the probability that a consumer will enjoy a specific product.
 
@@ -86,7 +86,7 @@ We endeavor to take security measures to guard against unauthorized access to th
 
 5\. UPDATING YOUR INFORMATION
 
-Through the process provided on our sites, We allow you to access certain information about you for the purpose of viewing, and in certain situations, updating that information. The types of information that you can access and update will change as our sites change. You may request deletion of your JoyDownload account by sending an email to license@JoyDownload.co and responding affirmatively to any confirmation emails that We may send. Please note that some information may remain in our records after deletion of your account.
+Through the process provided on our sites, We allow you to access certain information about you for the purpose of viewing, and in certain situations, updating that information. The types of information that you can access and update will change as our sites change. You may request deletion of your JoyDownload.co  account by sending an email to license@joydownload.com and responding affirmatively to any confirmation emails that We may send. Please note that some information may remain in our records after deletion of your account.
 
 6\. CHILDREN’S ONLINE PRIVACY PROTECTION ACT
 
