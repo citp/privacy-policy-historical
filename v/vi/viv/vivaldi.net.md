@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the vivaldi.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702093004id_/https%3A//vivaldi.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaldi.net privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319200746id_/https%3A//vivaldi.net/en-US/privacy) for the most accurate reproduction.*
 
 # Vivaldi.net - Privacy
+
+Details
+     Category: [Documents](https://vivaldi.net/en-US/privacy)
+     Published: December 02 2013 
+     Created: December 02 2013 
+     Hits: 6583 
 
 ## General
 
