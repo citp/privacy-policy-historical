@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the played.to privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706184005id_/http%3A//played.to/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the played.to privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319025934id_/http%3A//played.to/privacy.html) for the most accurate reproduction.*
 
 # PLAYED - Fast, free and reliable video storage
 
