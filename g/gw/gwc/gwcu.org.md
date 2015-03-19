@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gwcu.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704084243id_/https%3A//www.gwcu.org/compliance/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwcu.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319124623id_/https%3A//www.gwcu.org/compliance/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Terms, Conditions, and Disclosures - Goldenwest Credit Union
 
-Rev. 09/2013  
+Rev. 01/2015  
   
 Who We Are |    
-Who is providing this notice? | Goldenwest Federal Credit Union and USU Credit Union a division of Goldenwest.  
+Who is providing this notice? | Goldenwest Credit Union and USU Credit Union a division of Goldenwest means Goldenwest Federal Credit Union and USU Credit Union a division of Goldenwest.  
 What We Do |    
 How does Goldenwest Credit Union and USU Credit Union a division of Goldenwest protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
 
@@ -21,9 +21,7 @@ Why can't I limit all sharing? | Federal law gives you the right to limit only
 • affiliates from using your information to market to you  
 • sharing for nonaffiliates to market to you
 
-State laws and individual companies may give you additional rights to limit sharing.
-
-See below for more on your rights under state law.  
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.  
   
 Definitions |    
 Affiliates | Companies related by common ownership or control. They can be financial and non-financial companies.  
