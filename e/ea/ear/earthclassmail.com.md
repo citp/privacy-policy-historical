@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712100628id_/https%3A//www.earthclassmail.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320005417id_/https%3A//earthclassmail.com/Privacy) for the most accurate reproduction.*
 
 # Earth Class Mail
 
 ### Privacy Policy
 
-Last Modified: March 17, 2009
+Last Modified: August 11, 2014
 
 This is the privacy policy of Earth Class Mail Corp. (ECM) applicable to the website at [www.EarthClassMail.com](https://web.archive.org/) (“the Website”) and, should you become a customer, to our secure hosted software application, which requires registration and payment and may include online postal mail, check processing, or for other mail-related services that we perform (“the Hosted Services”). We take very seriously the jobs of providing high quality service and protecting your privacy. The information below outlines the commitment we have made to protect your privacy. We do reserve the right to change this agreement, but any changes made will be posted here. 
+
+[](https://thedma.org/consumer-guide/)
 
 ECM adheres to the U.S., EU, and Swiss Safe Harbor Frameworks which are administered by the U.S. Department of Commerce. We comply with the Safe Harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. Details on the frameworks are found at: <http://export.gov/safeharbor/>. 
 
@@ -103,7 +105,7 @@ When you use our Hosted Services, we make good-faith efforts to provide you with
 
 Enforcement – Customer Service is staffed to assist and support our customers’ activities and accounts, and also to enforce adherence to our User Agreement terms and conditions. Customer Service can suspend and/or terminate service for any account for breach of those terms or operating in a manner inconsistent with the terms of service. Earth Class Mail’s Human Resources department also works closely with department heads to ensure policies are adhered to and when necessary to terminate employment for any employee, permanent or temporary, that breaches the terms of hire, or presents a security risk.
 
-ECM regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or ECM's treatment of personal information by contacting us through this web site or by writing to us at Your Privacy Rights, c/o Earth Class Mail, 93 S. Jackson Street, #101, Seattle, Washington 98104. When we receive formal written complaints at this address, it is ECM's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between ECM and an individual. 
+ECM regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or ECM's treatment of personal information by contacting us through this web site or by writing to us at Your Privacy Rights, c/o Earth Class Mail, 9450 SW Gemini Dr, #101, Beaverton, Oregon 97008-7105. When we receive formal written complaints at this address, it is ECM's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between ECM and an individual. 
 
 European residents with inquiries regarding data privacy can contact us at the above address or at [privacy @ earthclassmail.com](mailto:privacy@earthclassmail.com). If, after contacting us, you believe your data privacy inquiry has not been resolved to your satisfaction, you may contact the Direct Marketing Association at:
 
@@ -112,7 +114,7 @@ Direct Marketing Association
 1615 L St. NW, Ste 1100  
 Washington, DC 20036-5624  
 [safeharbor @ the-dma.org](mailto:safeharbor@the-dma.org)  
-<http://www.dmaresponsibility.org/SafeHarbor/consumers.shtml>
+<https://thedma.org/consumer-guide/>
 
   
 
@@ -121,4 +123,4 @@ Washington, DC 20036-5624
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. In any event, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Your Privacy Rights, c/o Earth Class Mail, 93 S. Jackson Street, #101, Seattle, Washington 98104. 
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Your Privacy Rights, c/o Earth Class Mail, 9450 SW Gemini Dr, #101, Beaverton, Oregon 97008-7105. 
