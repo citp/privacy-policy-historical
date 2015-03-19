@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vmall.eu privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202906id_/https%3A//www.golem.eu/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D84%26Itemid%3D159%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmall.eu privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319074445id_/https%3A//www.golem.eu/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D84%26Itemid%3D159%26lang%3Den) for the most accurate reproduction.*
 
-# GOLEM ® Domain Aftermarket - Privacy Statement
+# GOLEM Domain Aftermarket - Privacy Statement
 
   * Register with our site
   * Subscribe to our newsletter
@@ -37,7 +37,9 @@ We employ the services of Piwik analytics to statistically evaluate the characte
 
 We employ a variety of security measures to ensure the safety of your personal information. Our secure server uses Secure Socket Layer (SSL) technology. All information received is encrypted into our payment gateway provider's database systems. Information is only accessible by those individuals with special authorization to access said systems. These individuals are required to keep this information strictly confidential.
 
-After you place a transaction, private information such as credit or social security numbers, and financials **will not** be retained by our servers.
+All passwords are hashed and **not saved as plain text**.
+
+Credit card numbers **will not** be retained by our servers.
 
 Yes. Cookies are small files transferred to your hard drive through your web browser by a site or service provider. When you _allow_ your browser to accept cookies, they are used by your browser to capture and retain certain information
 
@@ -49,11 +51,7 @@ We never sell, trade, or transfer your personal information to outside parties. 
 
 We may release your information only when we believe that it is necessary to maintain compliance with the law, enforce site policies, or protect the rights, property, or safety of ourselves and others. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other purposes.
 
-Because we value your privacy, we have taken the necessary steps ensure compliance with the California Online Privacy Protection Act. Therefore, we will never distribute your personal information to outside parties without your express consent.
-
-Users of our site may make any changes to their information at any time by logging into their personal control panel and/or by contacting user support.
-
-Please also visit our Terms and Conditions section which establishes the use, disclaimers, and limitations of liability governing the use of our website at http://www.golem.eu/en/agb
+Please also visit our Terms and Conditions section which establishes the use, disclaimers, and limitations of liability governing the use of our website.
 
 By using our site, you acknowledge that you consent to our website's privacy policy.
 
