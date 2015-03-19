@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weasyl.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045418id_/https%3A//www.weasyl.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weasyl.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319071808id_/https%3A//www.weasyl.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Weasyl
 
