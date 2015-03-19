@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ichange.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704025852id_/http%3A//www.ichange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichange.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319112844id_/http%3A//www.ichange.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iChange
 
