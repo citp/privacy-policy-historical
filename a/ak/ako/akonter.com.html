@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the akonter.com privacy policy that was archived on 2014-09-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140915032616id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akonter.com privacy policy that was archived on 2015-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319112150id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -42,7 +42,12 @@
 <script src="/templates/akonter11/js/main.js" type="text/javascript"></script>
 
 
-<script type="text/javascript" src="http://www.akonter.com/js/tipFrame.js.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+function expandTipFrame(){try{var tipFrameBig=document.getElementById("tipFrameBig");var tipFrameSmall=document.getElementById("tipFrameSmall");tipFrameSmall.style.display="none";tipFrameBig.style.display="";setCookie("tipFrameState","expand",100);}catch(e){}}function colapseTipFrame(){try{var tipFrameBig=document.getElementById("tipFrameBig");var tipFrameSmall=document.getElementById("tipFrameSmall");tipFrameBig.style.display="none";tipFrameSmall.style.display="";setCookie("tipFrameState","colapse",100);}catch(e){}}function setDefTipFrame(){var state=readCookie("tipFrameState");if(state=="colapse"){colapseTipFrame();}else{expandTipFrame();}}function readCookie(cookieName){var theCookie=""+document.cookie;var ind=theCookie.indexOf(cookieName);if(ind==-1||cookieName==""){return"";}var ind1=theCookie.indexOf(";",ind);if(ind1==-1){ind1=theCookie.length;}return unescape(theCookie.substring(ind+cookieName.length+1,ind1));}function setCookie(cookieName,cookieValue,nDays){var today=new Date();var expire=new Date();if(nDays==null||nDays==0){nDays=1;}expire.setTime(today.getTime()+3600000*24*nDays);document.cookie=cookieName+"="+escape(cookieValue)+";expires="+expire.toGMTString();}
+//]]>
+</script>
 
 <!--[if lt IE 7]>
 <script type="text/javascript" src="/templates/akonter11/js/jquery/jquery.js"></script>
@@ -54,7 +59,6 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
 
-<script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/s/b?url=www.akonter.com"></script>
 
 
 
@@ -63,6 +67,25 @@
 
 
 
+<script>
+var my_pligg_base='';
+
+function tweet_story(htmlid, linkid)
+{
+	var url = my_pligg_base + "/modules/twitter/sendtweet.php";
+	var mycontent = "htmlid=" + htmlid + "&linkid=" + linkid;
+
+	$('#tweet-'+htmlid).html("<img src='http://www.akonter.com/modules/twitter/templates/images/tweet_sending.gif' width='110' height='20' style='border:0;padding:0;marign:0;' title='Sending Tweet...' alt='Sending Tweet...' />");
+
+    	$.post(url, mycontent, function (data) {
+		if (data.match (new RegExp ("^ERROR:"))) {
+			$('#tweet-'+htmlid).html('<font color=red>'+data.substring(6, data.length)+'</font>');
+   		} else {
+			$('#tweet-'+htmlid).html(data);
+		}
+	}, "text");
+}
+</script>
 
 </head>
 <body dir="ltr">
@@ -84,6 +107,16 @@
             //]]>
 			</script>
 		
+
+<script type="text/javascript">
+//<![CDATA[
+if( (self.parent && !(self.parent===self))
+    &&(self.parent.frames.length!=0)){
+    self.parent.location=document.location
+}
+//]]>
+</script>
+
 
 				
 		
@@ -110,9 +143,9 @@ var some_search='Search..';
 <!-- START NAVBAR -->
 <div id="nav">
      <ul>
-		<li><a href="http://www.akonter.com/">Home</a></li>
-	<li><a href="http://www.akonter.com/recent-bookmarks/">Recent Bookmarks</a></li>
-	<li><a href="http://www.akonter.com/static/tools/">Tools</a></li>
+	        <li><a href="http://www.akonter.com/">Home</a></li>
+		      <li><a href="http://www.akonter.com/recent-bookmarks/">Recent Bookmarks</a></li>
+     	<li><a href="http://www.akonter.com/static/tools/">Tools</a></li>
 	<li><a href="http://www.akonter.com/static/faq/">FAQ</a></li>
 
 	<li><a href="/submit/">Submit a New Story</a></li>
@@ -123,10 +156,14 @@ var some_search='Search..';
     </div>
 	<div id="nav2">
      <ul>
-                         <li><a href="http://www.akonter.com/tagcloud/">Tags</a></li>
-<li class="current"><a href="/xdsQUF/">Register</a></li><li class="current"><a href="/login.php?return=%2Fstatic%2Fprivacy-policy">Login</a></li>     </ul>
+                                                  <li><a href="http://www.akonter.com/tagcloud/">Tags</a></li>
+                         <li class="current"><a href="/gWwJPz/">Register</a></li><li class="current"><a href="/login.php?return=%2Fstatic%2Fprivacy-policy">Login</a></li>     </ul>
     </div>
 <!-- END NAVBAR -->
+
+
+
+
 
 
 
@@ -138,8 +175,7 @@ var some_search='Search..';
 	</form>
  </div>
 
-<div class="bookmax-ads">
-<a href="http://www.bookmax.net/" target="_blank"><img src="/images/Bookmax.jpg" alt="Bookmax" height="60" width="234"></a>
+<div class="bookmax-ad">
 </div>
 
 
@@ -228,8 +264,7 @@ var some_search='Search..';
 <table border="0" width="100%" id="table1">
 	<tbody><tr>
 		<td align="center">
-
-<a href="http://www.akonter.com/submit/#offers" target="_blank"><img src="/images/ads.gif" alt="propellerads" height="250" width="250"></a>
+<a href="/MxnDmv/" target="_blank"><img src="/images/300x250_05.gif" alt="Propellerads" height="250" width="264"></a>
 
 	</td>
 	</tr>
@@ -239,6 +274,7 @@ var some_search='Search..';
 <div>
 </div>
 
+	
 	
 </div>
 	
@@ -264,7 +300,7 @@ var some_search='Search..';
 			| <a href="/submit/">Submit a New Story</a>
 			        	        </div>
         <div id="subfooter">
-        	Copyright © 2014 <a href="http://www.akonter.com/">Akonter</a>
+        	Copyright © 2015 <a href="http://www.akonter.com/">Akonter</a>
         	| <a href="http://www.akonter.com/static/about/">About</a> | <a rel="nofollow" href="http://www.akonter.com/static/privacy-policy/">Privacy Policy</a> | <a href="http://www.akonter.com/static/terms/">Terms of Use</a> | <a rel="nofollow" href="http://www.akonter.com/static/contact-us/">Contact Us</a> | <a href="/sitemap.xml">Sitemap</a> | <a href="/users-sitemap.xml">Users Sitemap</a>
 
 <!-- Google Code for list -->
@@ -308,7 +344,7 @@ var google_remarketing_only = true;
 <!-- END FOOTER --> 
 	</div>
 <!-- END CONTENT --> 
-	<script src="/templates/xmlhttp.php" type="text/javascript"></script> 
+	<script async="" src="/templates/xmlhttp.php" type="text/javascript"></script> 
 	
 
 
