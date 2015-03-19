@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061520id_/http%3A//hrblock.ca/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319073710id_/https%3A//www.hrblock.ca/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - H&R Block
 
@@ -39,13 +39,13 @@ H&R Block limits the collection of personal information to that which is necessa
 
 H&R Block collects personal information about you so that we can effectively provide the services and products to you that you have requested (including completing and filing your income tax return and/or providing you with Instant Cash Back), establish your identity, manage our operations, and comply with legal and regulatory requirements. And, if we need to your personal information for any other purpose, we will identify that purpose to you.
 
-We may also use your personal information to enable us to understand your needs and preferences and then to alert you by mail, or phone or e-mail to current and future product offerings, and to tailor marketing material to your specific needs (though you may of course choose not to receive these materials at any time by contacting us a 1-800-561-2154 or at [customer.support@hrblock.ca](mailto:customer.support@hrblock.ca).
+We may also use your personal information to enable us to understand your needs and preferences and then to alert you by mail, or phone or e-mail to current and future product offerings, and to tailor marketing material to your specific needs (though you may of course choose not to receive these materials at any time by contacting us a 1-800-561-2154 or at customer.support[at]hrblock.ca.
 
 Consent to the collection, use or disclosure of personal information.
 
 We may obtain your express consent in writing, through electronic means, or verbally. You consent may also be implied by an action that you have taken. You can always refuse or withdraw your consent to the collection, use or disclosure of your personal information. Doing so may, in some cases, mean that we will be unable to provide you with the product or service that you have requested.
 
-If you wish to withdraw your consent to the collection, use or disclosure of your personal information (unless it is required to provide you with the services you have requested or to provide you with necessary information relating to your accounts with us or as required by law.) and/or do not want to receive information about our current and future product offerings, special promotions or other services, please contact us at 1-800-561-2154 or at [customer.support@hrblock.ca](mailto:customer.support@hrblock.ca)
+If you wish to withdraw your consent to the collection, use or disclosure of your personal information (unless it is required to provide you with the services you have requested or to provide you with necessary information relating to your accounts with us or as required by law.) and/or do not want to receive information about our current and future product offerings, special promotions or other services, please contact us at 1-800-561-2154 or at customer.support[at]hrblock.ca
 
 ## Disclosure of personal information. 
 
@@ -86,7 +86,7 @@ H&R Block Canada, Inc.
 200, 340 Midpark Way SE  
 Calgary AB T2X 1P1  
 By phone: 1-800-561-2154  
-By e-mail: [customer.support@hrblock.ca](mailto:customer.support@hrblock.ca)
+By e-mail: customer.support[at]hrblock.ca
 
 In addition, as noted above, you can refuse to provide personal information to us and you may also at any time, on reasonable notice to us, in person or via telephone or email, withdraw your consent to the collection, use or disclosure of any of your personal information, unless it is required to provide you with the services you have requested or to provide you with necessary information relating to your accounts with us or as required by law.
 
@@ -98,4 +98,4 @@ H&R Block is accountable for our compliance with this Privacy Policy and applica
 
 In addition, we may collect information online through the use of "cookies". A "cookie" is a small piece of information/text sent by a web server to be stored on a user's web browser so it can later be read back from that browser on subsequent visits to a website. We use cookies to store visitors' preferences and to record session information which allows us to customize our website for you as you visit various components of www.hrblock.ca. Through the use of cookies, we can display items that may be of interest to you, or make it easier for you to access your account information. 
 
-We do not link the information we store in cookies to any personal information you provide while on our site. You may be able to configure your browser to accept or reject all or some cookies, or to notify you when a cookie is set, however, cookies must be enabled in order to access most functions on the site. Since each browser is different, please check the "Help" menu of your browser to learn how to change your cookie preferences. 
+We do not link the information we store in cookies to any personal information you provide while on our site. You may be able to configure your browser to accept or reject all or some cookies, or to notify you when a cookie is set, however, cookies must be enabled in order to access most functions on the site. Since each browser is different, please check the "Help" menu of your browser to learn how to change your cookie preferences.
