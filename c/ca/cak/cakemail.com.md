@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakemail.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054243id_/http%3A//cakemail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakemail.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320005320id_/https%3A//www.cakemail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CakeMail
 
@@ -43,7 +43,7 @@ In addition to Google Analytics, CakeMail also uses KISSmetrics for intelligence
 
 ### Secured payment
 
-CakeMail is permitted to use a third party in the purchasing process of the CakeMail service. This intermediary has the exclusive permission to store, on behalf of CakeMail, the data pertaining to the executed transactions by Clients of the site [www.CakeMail.com](http://www.cakemail.com/) with the goal of ensuring a secure method of payment and proof of purchase archive, allowing for the protection of Cake’s Clients and swift follow-up. This transactional data may be used for validation and registration purposes of Clients of the CakeMail service.
+CakeMail is permitted to use a third party in the purchasing process of the CakeMail service. This intermediary has the exclusive permission to store, on behalf of CakeMail, the data pertaining to the executed transactions by Clients of the site [https://www.cakemail.com](https://www.cakemail.com/) with the goal of ensuring a secure method of payment and proof of purchase archive, allowing for the protection of Cake’s Clients and swift follow-up. This transactional data may be used for validation and registration purposes of Clients of the CakeMail service.
 
 ### Consent and identity
 
