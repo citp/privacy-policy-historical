@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaikisses.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626093352id_/http%3A//www.thaikisses.com/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaikisses.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319131445id_/http%3A//www.thaikisses.com/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # Thai Kisses
 
@@ -94,4 +94,4 @@ The author intended not to use any copyrighted material for the publication or, 
 
 This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
   
-[Books](https://web.archive.org/amazonbooklinks.php) | [Learn Thai](https://web.archive.org/learn_thai.php?language=thai&l=en) | [Hotel Thailand](https://web.archive.org/hotel_thailand.php) | [Freeware](https://web.archive.org/freeware.php?l=en&randm=5&randw=9) | [Languages](https://web.archive.org/languages_all.php?l=en&randm=5&randw=9) | [Privacy Policy](https://web.archive.org/datasavety.php?l=en&randm=5&randw=9) | [Terms of service](https://web.archive.org/agb.php?l=en&randm=5&randw=9) | [Feedback](https://web.archive.org/ikfeedback.php?l=en) | [Thai Girls](https://web.archive.org/thai-girls/index.php?l=en)
+[Learn Thai](https://web.archive.org/learn_thai.php?language=thai&l=en) | [Freeware](https://web.archive.org/freeware.php?l=en&randm=5&randw=9) | [Languages](https://web.archive.org/languages_all.php?l=en&randm=5&randw=9) | [Privacy Policy](https://web.archive.org/datasavety.php?l=en&randm=5&randw=9) | [Terms of service](https://web.archive.org/agb.php?l=en&randm=5&randw=9) | [Feedback](https://web.archive.org/ikfeedback.php?l=en) | [Help](http://ik-dating-singles.com/) | [Thai Girls](https://web.archive.org/thai-girls/index.php?l=en) | [Affiliate Program](http://www.ik-affiliates.com/) | [AlliedWallet billing](https://web.archive.org/alliedwallet_info.php)
