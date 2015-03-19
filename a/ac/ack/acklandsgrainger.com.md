@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acklandsgrainger.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118094157id_/https%3A//www.acklandsgrainger.com/AGIPortalWeb/WebSource/Policies/begin.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acklandsgrainger.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319204946id_/https%3A//www.acklandsgrainger.com/AGIPortalWeb/WebSource/Policies/begin.do) for the most accurate reproduction.*
 
-# Policies
+# Acklands-Grainger : Industrial Supply, Safety Equipment and Fasteners
 
-﻿ 
+? 
 
 **Customer Privacy Policy**
 
