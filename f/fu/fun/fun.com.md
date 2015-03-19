@@ -1,120 +1,146 @@
-> *The following text is extracted and transformed from the fun.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010081844id_/http%3A//fun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319053549id_/http%3A//www.fun.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Domain Development Corp. and its affiliates (collectively, "DDC") are committed to protecting the privacy of your information. This privacy policy (the "Privacy Policy") describes DDC's information practices with respect to the websites owned or operated by DDC ("Sites") and DDC products ("Products") and services ("Services") available or enabled via the Sites, provided that this Privacy Policy does not apply to DDC or DDC affiliated websites relating to loans and/or insurance or to any products or services available on such loan and/or insurance sites, all of which are governed by the privacy policies accessible directly from the applicable website(s). This Privacy Policy is subject to the Terms of Service posted on the applicable Site(s). By using DDC's Sites, Products and/or Services, you expressly consent to DDC's collection, storage, use and disclosure of your information as described in this Privacy Policy. 
+[](https://privacy.truste.com/privacy-seal/HalloweenCostumes-com/validation?rid=74501bb4-f55f-4c32-a870-0a70df31346e "TRUSTe online privacy certification")
 
-COLLECTED 
+Effective on date 03/03/2015
 
-Automatic Collection: DDC uses common Internet technologies such as cookies and Web beacons to keep track of users' interactions with DDC's Sites, Products and Services and to improve the quality of its service. DDC may also collect your Internet Protocol (IP) address to track and aggregate non-personally identifiable information, your referring website addresses, browser type, domain name and access times.
+This privacy policy applies to [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) owned and operated by Fun.com, Inc. This privacy policy describes how Fun.com collects and uses the personal information you provide on our Web site [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Cookie: When you visit one of DDC's Sites and/or utilize a DDC Product or Service, DDC's servers send a cookie (a small file with a string of characters) to your computer. Standing alone, cookies do not personally identify you but would recognize your web browser; unless you choose to identify yourself to DDC (through an account or otherwise), you will remain anonymous to DDC. A cookie can be either session based (assigned to you each time you sign in) or persistent (it identifies browsers that have previously visited DDC's Sites or utilized a Product or Service). Most web browsers are initially set up to accept cookies, but you can disable your web browser's ability to accept cookies; however, if you do so, certain Site, Product or Service features may not work.
+Fun.com has been received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with the [TRUSTe](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these web sites: [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/).
 
-Web Beacon: A web beacon is an electronic image on a web page that recognizes certain types of information on your computer when you visit that particular web page.
+## Collection and Use of Personal Information
 
-IP Address: an Internet Protocol Address is a numerical label that is assigned to each computer on the Internet.
+We collect the following personal information from you:
 
-Referring website address: a referring website address identifies the address of the webpage you were on previously.
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Unique Identifiers such as user name, account number, password
 
-Browser: A browser is a software application used for retrieving, presenting, and traversing information resources on the World Wide Web.
 
-In addition, DDC may utilize third parties to track and analyze usage information, and in so doing may use third party cookies. Please see more detailed information below under "Third Parties" if you would like to know more about third party cookies.
 
-Voluntary Collection: DDC may collect certain information that personally identifies you ("PI") or is protected personal information ("PPI"), such as your name, address, email address and/or billing information (collectively referred to herein as "personally identifiable information"), if you choose to share such information. For example, this information may be requested as part of account registration, the purchase of Products or Services, or some other information request. The decision to provide this information is optional; however, if you elect not to register or provide the requested information, you may not be able to access certain content, products, services or features or participate in certain areas of the Site.
+We also collect the following optional information from you:
 
-Publicly Posted: Information that you post on or through any public areas on the Sites (or elsewhere on the Internet) may be collected and used by anyone and may result in unsolicited messages or other contact from others. 
+  * Information about your business such as company name
 
-DO WE USE THE INFORMATION WE COLLECT?
 
-The information we collect enables DDC to: 
 
-customize the advertising and content you see
+We use this information to:
 
-fulfill your requests for Products and Services
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Send product updates
+  * Administer your account or process refunds
+  * Send you a newsletter
+  * Send you marketing communications
+  * Administer contests and sweepstakes you entered, and notify you if you won
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your interests
+  * List you in our member directory made available only to select employees
 
-improve its services
 
-contact and communicate with you 
 
-conduct research and analysis
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We do not link this automatically collected data to other information we collect about you.
 
-provide anonymous reporting for internal and external clients
+## Choice/Opt-Out
 
-provide you with additional information
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can [contact us](http://www.fun.com/contact-us.aspx).
 
-WHEN DO WE SHARE OR DISCLOSE YOUR INFORMATION?
+## Testimonials
 
-We may share non-personal information with others, such as advertisers, sponsors and business partners, in aggregate anonymous form (meaning the information shared will not contain any personally identifiable information about you).
+We post customer testimonials on our web site which may contain personal information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personal information that is being displayed on our website under public pages please send your request to our [contact form](http://www.fun.com/contact-us.aspx).
 
-Other than as noticed in this Privacy Policy, we will not sell, share, rent or otherwise disclose to third parties your personally identifiable information without your permission. 
+## Information Obtained from Third Parties
 
-We may share your personally identifiable information with third parties who facilitate communication on behalf of DDC for DDC's marketing and promotional efforts and/or for other information dissemination on behalf of DDC.
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. Your friend may contact us using our contact form to request that we remove this information from our database.
 
-We may sell, rent or share your personally identifiable information, provided we have received your prior permission, to third parties to send you marketing and promotional information not related to DDC that may be of interest to you.
+## Information Sharing
 
-Your personally identifiable information may be transferred to third parties such as technical agents, payment processing vendors, consultants, advertising companies and among our affiliates for the performance of DDC services or making products available to you.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-As in any transaction, if you provide your credit card information to us for purchases, your credit card company will be provided with all relevant information about the vendor, items(s) purchased, cost and other information necessary to process the transaction.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
-All companies working for and with us that DDC provides with your personally identifiable information are contractually required to protect your personally identifiable information and keep it confidential; they are not permitted to sell or otherwise disclose your information to third parties except as authorized by us and you or as permitted or required by law.
+We may also disclose your personal information
 
-Please also note further details about DDC's disclosure of your personally identifiable information in the website-specific descriptions at the end of this Privacy Policy.
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Fun.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so
 
-In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation, we may transfer, sell or assign to third parties information concerning your relationship with us, including personally identifiable information that you provide and other information concerning your relationship with us. 
 
-We may disclose your personally identifiable information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our customers or users of our Sites, Products or Services.
 
-By agreeing to this Privacy Policy, you are authorizing us to share your personally identifiable information with and among DDC affiliated companies.
+### Third Party E-Commerce Solutions Provider
 
-PARTIES UNDER 13 
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.
 
-We do not knowingly collect personal information online from children under 13 to ensure compliance with the Children's Online Privacy Protection Act of 1998 ("COPPA"). COPPA and its accompanying regulations under United States federal law protect the privacy of children using the Internet. Because we do not knowingly collect personal information from children under the age of 13, we do not knowingly distribute information to third parties. Our Sites, Products and Services may include content that may be unsuitable for children under 13 and are not necessarily monitored. DDC encourages parents to talk to their children about online safety and to monitor their children's use of the Internet.
+## Cookies and Other Tracking Technologies
 
-THIRD PARTIES 
+Technologies such as: cookies, beacons, tags and scripts are used by Fun.com and partners (Share-A-Sale; AvantLink; Google Analytics), affiliates, or analytics or service providers (Criteo; Bronto; Sales Force). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Privacy Policy does not cover how third parties use cookies or other technologies or any information third parties gather or share; third party information practices are addressed in the third parties' privacy policies. DDC shall not be liable for information collected by third parties.
+We use cookies for our shopping cart to remember our user's settings (e.g. language preference) for our shopping cart and authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-Services: 
+We use Local Storage Objects (LSOs) such as Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
 
-From time to time, DDC might establish a business relationship with other persons or entities to perform certain services on behalf of DDC. For example, DDC might contract with service providers to provide credit card processing, data management, promotional services, web hosting, web development, etc. In such cases, DDC would provide the service providers with the information needed for them to perform their respective services. Service providers may use third party cookies. 
+We Partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-Data Gathering: 
+### Links to Other Web Sites
 
-DDC may establish business relationships with third parties to track and analyze non-personally identifiable usage information from users who visit DDC's Sites or utilize the Products or Services, or to track the performance of advertisements; such third parties may create reports on website traffic, statistics, advertisements, and "click-throughs" among others. These third parties may use third party cookies, web beacons and/or other monitoring technologies and may share information they gather with other third parties, or use other third parties to collect information on their behalf. Among others, DDC uses Media Online Inc. ("Magnetic") to track and analyze Site information and to create reports; the full text of Magnetic's privacy policy is at http://privacy.magnetic.is. In addition, note that you may go to http://www.networkadvertising.org/managing/opt_out.asp to opt-out of a wide selection of third party tracking.
+Our Site includes links to other Web sites whose privacy practices may differ from those of Fun.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
-Advertisers: 
+ **Analytics**
 
-Advertisements appearing on the Sites or through Products and Services may be delivered to users by DDC or one of its advertising partners. Advertising partners may set third party cookies (or other technologies such as pixel tags), to compile information about where you or others who are using your computer saw their advertisements and analyze and optimize the performance of the ads. 
+Protecting Your Online PrivacyOur priority is to keep your online data safe. As part of our promise to you, we wanted to let you know that this website uses Google Analytics, Google Display Advertising, and Google Analytics Demographics and Interest Reporting to help us understand how visitors use our site. The tools mentioned above use "cookies," which are essentially text files placed on your computer to gather standard Internet log information and user behavior information in an anonymous form. The information created by the cookie about your use of the website (including IP address) is transmitted to Google and is then used to evaluate visitors' use of the website and to compile statistical reports on website activity for our site specifically. 
 
-THIRD PARTY WEBSITES
+We will never (nor will we allow any third party to) use the statistical analytics tool to track or to collect any Personal Information of visitors to our website. Google will not associate your IP address with any other data held by Google, nor will Google link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personal Information from any source, unless you explicitly submit that information via a fill-in form on our website.
 
-The Sites, Products and Services may contain links to websites or content operated and maintained by third parties over which DDC has no control. Privacy policies on such linked websites may be different from our Privacy Policy, and you access such linked websites or third party content at your own risk.
+If you would like to opt out of being tracked using Google Analytics on any website, then simply head over to [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) and install the add-on in your browsers. 
 
-SECURITY
+## Data Retention
 
-Information that DDC collects from the Sites, Products and Services is stored on servers that DDC solely manages, using standard security procedures and practices appropriate to the nature of the information. Please be aware that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, DDC cannot guarantee or warrant the security of any information you transmit on or through the Sites, Products or Services and you do so at your own risk.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services please [contact us](http://www.fun.com/contact-us.aspx). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce agreements.
 
-FOREIGN COUNTRIES
+## Security
 
-Your personal information may be transferred to and maintained on servers or databases located outside your state or country or to a jurisdiction where the privacy laws may not be as protective as those in your location. If you are located outside of the United States, please be advised that DDC processes and stores all information in the United States and your consent to this Privacy Policy represents your agreement to and understanding of this processing.
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us](http://www.fun.com/contact-us.aspx).
 
-CHANGES TO PRIVACY POLICY
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information (such as credit card information) collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
-DDC reserves the right to change this Privacy Policy at any time and will do so by posting the revised Privacy Policy on the Sites. The new Privacy Policy will apply to all current and past users of the Sites, Products and Services and will replace any prior Privacy Policies that are inconsistent. Your continued use of the Sites constitutes your agreement to the Privacy Policy as revised.
+## Additional Policy Information
 
-DISPUTE RESOLUTION
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
-Privacy Policy shall be governed by and construed in accordance with the laws of the State of California applicable to agreements made and performed in California, excluding the application of the conflict of laws provisions. You agree that any action or suit brought by a party to enforce or adjudicate your rights under this agreement shall be brought in the federal or state courts located in Los Angeles, California.
+Our Web site offers a publicly accessible blog or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access it. The blog is mediated and you may have comments made by yourself removed by [contacting us](http://www.fun.com/contact-us.aspx).
 
-CONTACT US
+Live chat option is available on our websites, which will allow you to communicate with our customer service representative. You will be asked to provide your Personal Information to initiate a chat. This information is only used by Fun.com to assure proper quality control and will not be use for any other purpose than to provide the Live Chat service.
 
-If you have any questions about this Privacy Policy or DDC's privacy practices, please email us at support@ddc.com. 
+## Correcting and Updating Your Personal Information
 
-Or you can contact us by mail at:
+To review, delete or update your personal information to ensure it is accurate or if you no longer desire our service, please [contact us](http://www.fun.com/contact-us.aspx).
 
-26500 W. Agoura Road, Suite 102-595  
-Calabasas, CA 91302
+## Notification of Privacy Statement Changes
 
-In addition, if you wish to exclude your personally identifiable information from our direct marketing or from being shared with, or rented or sold to a third party, or if you would like to update or delete your email address, mailing address or other personally identifiable information, or otherwise manage communications your receive from DDC, please contact us at the above.
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Effective [January, 2012]
+## Contact Information
+
+You can contact us by phone, mail or email:
+
+FUN.com  
+2080 Lookout Drive  
+North Mankato, MN 56003
+
+Phone: (507) 386-8383 (Monday through Thursday 7am to 7pm CST  
+Friday 9am to 5pm CST.)
+
+[Contact Form](http://www.fun.com/contact-us.aspx)
+
+## California Residents: Your California Privacy Rights
+
+Under California law, our customers that are California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. As detailed above, we do not share our customer's personal information with unaffiliated third parties for direct marketing purposes without their approval.
+
+If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from FUN.com (via email or postal mail) about new products, services, or promotions, you can do so. You can contact us by through our [contact form](http://www.fun.com/contact-us.aspx). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
