@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candb.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205181314id_/http%3A//www.candb.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candb.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320001928id_/https%3A//www.candb.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - candb.com
 
