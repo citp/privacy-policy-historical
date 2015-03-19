@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swrve.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225222648id_/http%3A//www.swrve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swrve.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319043024id_/https%3A//www.swrve.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Swrve - Mobile Marketing Automation : Analytics, A/B Testing, In-App Campaigns, Push Notifications
 
