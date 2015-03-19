@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the programming-free.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702070302id_/http%3A//www.programming-free.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programming-free.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319135859id_/http%3A//www.programming-free.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ProgrammingFree
 
