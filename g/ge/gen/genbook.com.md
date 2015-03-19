@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genbook.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122155id_/http%3A//www.genbook.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genbook.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319145510id_/https%3A//www.genbook.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy | Legal | Genbook
+# Privacy Policy | Genbook
 
 [](https://privacy.truste.com/privacy-seal/Genbook,-Inc-/validation?rid=d7d295a6-9377-49b1-b899-195938c405b8 "Validate TRUSTe privacy certification")
 
@@ -8,7 +8,7 @@ Dated August 18, 2013
 
 Genbook, Inc. owns and provides various websites, mobile websites, services, and software that facilitate online scheduling and management of appointments (collectively, the “Services”). Genbook, Inc. respects your privacy and values your trust. In this Privacy Policy, we may refer to Genbook, Inc. as “Genbook,” “us,” or “we.” “Business User” shall refer to any business using the Services for online scheduling and appointment management purposes. “Consumer” shall refer to an end consumer using the Services to schedule or manage an appointment, provide feedback or submit a review, or utilize any other aspect of the Services. “You” shall refer to both Consumers and Business Users. The following Privacy Policy outlines how Genbook will treat information as you use the Services. BY USING THE SERVICES, YOU ACCEPT THE TERMS SET FORTH IN THIS PRIVACY POLICY AND IN OUR TERMS OR USE.
 
-This Privacy Policy covers our collection, use and disclosure of information we collect through our website [www.genbook.com](http://www.genbook.com/) and our mobile website m.genbook.com. The use of information collected through the Services shall be limited to the purpose of providing the Services.
+This Privacy Policy and the TRUSTe certification covers our collection, use and disclosure of information we collect through our website [www.genbook.com](http://www.genbook.com/) and our mobile website m.genbook.com. The use of information collected through the Services shall be limited to the purpose of providing the Services.
 
 Genbook has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/manager/contactus). If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
 
