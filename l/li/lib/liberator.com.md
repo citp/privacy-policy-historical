@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberator.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011121543id_/http%3A//www.liberator.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberator.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319063932id_/http%3A//www.liberator.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
