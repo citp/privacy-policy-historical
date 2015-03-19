@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628093440id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319181700id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CommonBond
-
-  
-
 
 ### Introduction
 
@@ -15,10 +12,11 @@ CommonBond does not issue loans directly to students. Students who are intereste
 
 ### What Information Does CommonBond Collect From Visitors to This Website?
 
-Because CommonBond does not issue loans, we do not collect loan application information such as social security number, income or assets. However, we do collect the following information from students and visitors to our website:
+CommonBond collects the following information from students and visitors to our website:
 
   * information you provide on our website such as contact information, school affiliation or feedback; and
   * basic traffic information about your visit such as IP address, host name and pages on our site visited.
+  * loan application information such as social security number, income, and assets to be shared with our partner bank for loan decisions.
 
 
 
@@ -69,8 +67,8 @@ By using our website, you consent to the collection, processing and storage of i
 Customers may access, review and/or correct all their personally identifiable information that we collect online by sending an email to [info@commonbond.co](mailto:info@commonbond.co).
 
 CommonBond, Inc.  
-183 State Street, 6th Floor  
-Brooklyn, NY, 11201  
+120 Walker St, 4th floor  
+New York, NY, 10013  
 United States of America
 
 ### Contact Us
