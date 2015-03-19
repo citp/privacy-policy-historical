@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045243id_/http%3A//www.linkdelight.com/Security-and-Privocy/security-a-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319051316id_/http%3A//www.linkdelight.com/Security-and-Privocy/security-a-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy | Security and Privocy
 
@@ -12,13 +12,11 @@ To authenticate the security of your connection before submitting any of your pe
 
 Some browser versions and some firewalls do not permit communication through secure servers. In that case, we suggest that you contact us by phone, or fax your order to us.
 
-**Data Collection**
+**What information do we collect and store?**
 
-When you choose to place an order with us, you are invited to log in, so that we can identify who you are. As a newcomer, it will be suggested that you register for future identification. The registration page asks you to enter your name, a user ID, a password, and your e-mail address. You can update this information at any time by clicking on the "my account" link at the top of every page and selecting "Account Information." to update in the next page.
+Registered email/ password /nickname/ IP address/ the date and time/ browser and operating system/ the URL you requested/ your PayPal email / your PayPal shipping address and other information. Some examples of why we need this information include assisting in pre orders, delivery, payment verification, promotions and newsletters, statistics on website use to aid in improving our customer experience and offering the most popular products. To contact you about sales, special offers and new site features, unless you have elected not to receive promotional communications in connection with this website. If you no longer want to receive our newsletter, you can click the unsubscribe link.
 
-When you decide to place an order, you are asked to complete an order form. The order form requires your name, billing and shipping address etc. You should also include other information fields such as your telephone number, to allow us to contact you regarding your order if necessary. This information is collected to make your shopping experience with us as smooth and pleasant as possible. It is used only for the benefit of Linkdelight and you, our customer.
-
-We do NOT sell collected data to 3rd parties: All data collected is used strictly for the purposes defined in the above clauses. We will never sell collected data to any 3rd party individual or organization.
+ **Note:** No one other than yourself can access your password, including our staff.
 
 **Cookies**
 
@@ -34,4 +32,17 @@ Customers may opt-in and opt-out of our newsletter service. Our newsletter subsc
 
 Our web site contains links to other web sites that are not operated by linkdelight.com. linkdelight.com is not responsible for the privacy practices of the Web sites that it does not operate. Some parts of the Web site are animated using various downloadable applications, such as Macromedia’s Shockwave/Flash.
 
-__**Article Copyright Disclaimer:** The article content published on linkdelight.com is for the purpose of sharing useful information with our customers and visitors. Some of these may contain excerpts from other internet sources. If you believe an article has infringed on your copyright, please contact us and we'll delete or revise it immediately. 
+ **Questions or Concerns**
+
+Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](https://web.archive.org/contact/LinkDelight-Ltdhtml.html)" link in the side menu. Or through the following methods:
+
+Tel: +86-13692245940
+
+Email: [info@linkdelight.com](mailto:info@linkdelight.com) .
+
+Contact Address:
+
+Linkdelight Limited 5F, Building 9, Bagualing Industrial Estate, No.2  
+Bagua Road, 518029, Shenzhen, PRC China 
+
+Phone:+86-13692245940(Office time: 9:00am to 6:00pm GMT + 08:00.  on Monday through Saturday)
