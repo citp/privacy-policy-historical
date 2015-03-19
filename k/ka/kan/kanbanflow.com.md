@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanbanflow.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811233519id_/https%3A//kanbanflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanbanflow.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319042134id_/https%3A//kanbanflow.com/privacy-policy) for the most accurate reproduction.*
 
 # KanbanFlow - Lean project management, simplified
 
@@ -13,20 +13,16 @@ When ordering or signing up on our site, as appropriate, you may be asked to ent
 Any of the information we collect from you may be used in one of the following ways:
 
 To personalize your experience  
-(your information helps us to better respond to your individual needs)
+(Your information helps us to better respond to your individual needs)
 
 To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+(We continually strive to improve our website offerings based on the information and feedback we receive from you)
 
 To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+(Your information helps us to more effectively respond to your customer service requests and support needs)
 
 To send periodic emails  
-
-
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+(The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email)
 
 ## Who owns your content?
 
@@ -38,9 +34,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ## Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes.  
+(Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser that enables the sites or service providers systems to recognize your browser and capture and remember certain information)
 
-We use cookies to understand and save your preferences for future visits.
+We use cookies to understand and save your preferences for future visits. You need to have cookies enabled to be able to log in to the sevice.
 
 ## Childrens Online Privacy Protection Act Compliance
 
@@ -52,7 +49,7 @@ Please also visit our Terms of service establishing the use, disclaimers, and li
 
 ## Your consent
 
-By using our site, you consent to our web site privacy policy.
+By using our site, you consent to our privacy policy.
 
 ## Changes to our privacy policy
 
