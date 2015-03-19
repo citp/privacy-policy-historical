@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purpleport.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205000id_/http%3A//purpleport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpleport.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319084405id_/http%3A//purpleport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Portfolio hosting and networking for models, photographers and related creatives / PurplePort
 
