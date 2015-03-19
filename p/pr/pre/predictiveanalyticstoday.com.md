@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the predictiveanalyticstoday.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219223345id_/http%3A//www.predictiveanalyticstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictiveanalyticstoday.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319135824id_/http%3A//www.predictiveanalyticstoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Predictive Analytics Today | Predictive Analytics Today
+# Privacy Policy - Predictive Analytics Today
 
 Last Updated on December 09, 2013. This Privacy Policy is effective immediately for users of predictiveanalyticstoday.com
 
