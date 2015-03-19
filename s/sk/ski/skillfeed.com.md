@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skillfeed.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706005619id_/https%3A//www.skillfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillfeed.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319015951id_/https%3A//www.skillfeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skillfeed
 
-The following is a legally binding agreement between you and Skillfeed, the owner and operator of www.skillfeed.com (the "Site"). The practices of Skillfeed, with respect to personal information, are governed by this Privacy Policy. If you have questions or concerns regarding this policy, you should first contact privacy@skillfeed.com. 
+The following is a legally binding agreement between you and Skillfeed, the owner and operator of www.skillfeed.com (the "Site"). The practices of Skillfeed, with respect to personal information, are governed by this Privacy Policy. If you have questions or concerns regarding this policy, you should first contact support@skillfeed.com. 
 
 ### 1\. PERSONAL INFORMATION
 
@@ -84,7 +84,7 @@ You may "opt out" of receiving Skillfeed’s email updates, newsletters and/or p
     * iii. Your Personal Information is encrypted whenever it is transmitted to Skillfeed. 
     * iv. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
   * b. We strive to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. While we use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. 
-  * c. If you have any questions about security on our Site, you can send email to us at [privacy@skillfeed.com](mailto:privacy@skillfeed.com). 
+  * c. If you have any questions about security on our Site, you can send email to us at [support@skillfeed.com](mailto:support@skillfeed.com). 
 
 
 
@@ -106,8 +106,8 @@ We do not intend to solicit or collect Personal Information from anyone under th
 
 ### 14\. PRIVACY COMPLAINTS
 
-Skillfeed takes its users’ privacy concerns seriously. If you believe that Skillfeed has not complied with this Privacy Policy with respect to your Personal Information, please contact us at 1-800-870-5479, or by email to privacy@skillfeed.com. In your correspondence, please describe in as much detail as possible the ways in which you believe that the Skillfeed Privacy Policy has not been complied with. 
+Skillfeed takes its users’ privacy concerns seriously. If you believe that Skillfeed has not complied with this Privacy Policy with respect to your Personal Information, please contact us at 1-800-870-5479, or by email to support@skillfeed.com. In your correspondence, please describe in as much detail as possible the ways in which you believe that the Skillfeed Privacy Policy has not been complied with. 
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at [privacy@skillfeed.com](mailto:privacy@skillfeed.com). 
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at [support@skillfeed.com](mailto:support@skillfeed.com). 
 
 [Updated: 1/23/13] 
