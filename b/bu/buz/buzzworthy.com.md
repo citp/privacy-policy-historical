@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzworthy.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213235231id_/http%3A//www.thebuzzworthy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzworthy.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319065347id_/http%3A//www.buzzworthy.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Buzzworthy || The Webs Sweetspot
+# Privacy
 
 Because your privacy is important to us, BUZZWORTHY has established procedures to protect any personal information you provide to us in accordance with the following principles:
 
@@ -35,8 +35,6 @@ If at any time you believe BUZZWORTHY has not adhered to these principles, pleas
 We use third-party advertising companies to serve ads when you visit BUZZWORTHY’s websites. The third-party advertising technology that we use on BUZZWORTHY uses information derived from your visits to BUZZWORTHY to target advertising within BUZZWORTHY. In addition, our advertisers may use other third-party advertising technology to target advertising on BUZZWORTHY’s websites or other websites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed in your browser. In addition, BUZZWORTHY may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable BUZZWORTHY to recognize a browser’s cookie when a browser visits this site, and to learn which banner ads bring users to our Web site. To “opt-out,” please click here → <http://www.networkadvertising.org/consumer/opt_out.asp>
 
 terms of service
-
-TheBuzzworthy.com is a website owned, operated and maintained by Leftrock Design Inc.
 
 Third parties may collect certain types of information about visits to our site(s), including interaction with content on these sites.
 
