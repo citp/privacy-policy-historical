@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placebuzz.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084356id_/http%3A//www.placebuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placebuzz.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319233818id_/http%3A//www.placebuzz.com/privacy) for the most accurate reproduction.*
 
 # Placebuzz - Privacy Policy
 
