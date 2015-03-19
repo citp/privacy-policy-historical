@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tentkotta.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703202417id_/https%3A//www.tentkotta.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tentkotta.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319052328id_/https%3A//www.tentkotta.com/privacy-policy.php) for the most accurate reproduction.*
 
 # TentKotta
 
