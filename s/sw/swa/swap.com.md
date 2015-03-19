@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swap.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209032711id_/http%3A//support.swap.com/entries/21859233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swap.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319045022id_/http%3A//support.swap.com/entries/21859233) for the most accurate reproduction.*
 
 # Privacy policy – Swap.com Support
 
@@ -99,4 +99,4 @@ From time to time we may change this Privacy Policy. You can tell when changes h
 
 ### VIII. Questions or Concerns?
 
-Should you have any questions regarding this Privacy Policy, your privacy as it relates to the use of the Service, or the protection of the personal data we hold about you, please contact us via e-mail at  or by mail at Netcycler Inc., 715 W. Racquet Club Dr., Addison, IL 60101. We seek to swiftly resolve any concerns you may have.
+Should you have any questions regarding this Privacy Policy, your privacy as it relates to the use of the Service, or the protection of the personal data we hold about you, please contact us via e-mail at  or by mail at Netcycler Inc., 3 Timber Court, Bolingbrook, IL 60440. We seek to swiftly resolve any concerns you may have.
