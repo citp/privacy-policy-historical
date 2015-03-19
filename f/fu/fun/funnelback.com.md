@@ -1,64 +1,103 @@
-> *The following text is extracted and transformed from the funnelback.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718061723id_/http%3A//www.funnelback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnelback.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319124946id_/https%3A//www.funnelback.com/privacy) for the most accurate reproduction.*
 
-# Funnelback Website and Enterprise Search - Privacy Policy
+# Privacy - Funnelback
 
-Personal information collected by Funnelback is treated as confidential and is protected by the Australian Privacy Act 1988. Personal information is information relating to an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion provided.
+Funnelback takes its responsibilities regarding privacy seriously and complies with all laws and regulations to the extent they apply in the jurisdictions in which Funnelback conducts business. A summary of the key elements of Funnelback's privacy policy is shown below. 
 
-**Site visit data.** This site is operated by Funnelback with the use of an external service provider. When visiting this site, a record of your visit is logged. The following information is recorded for statistical purposes and is used by Funnelback to help improve the site. The following information is supplied by your browser:
+Funnelback is strongly committed to protecting your privacy when you use our services or interact with us. 
 
-  * the user's server address
-  * the user's operating system (for example Windows, Mac etc)
-  * the user's top level domain name (for example .com, .gov, .au, .uk etc)
-  * the date and time of the visit to the site
-  * the pages accessed and the documents downloaded
-  * the previous site visited
-  * the type of browser used.
+This Privacy Policy explains: 
 
-
-
-No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the internet service provider's logs.
-
-**Collection of personal information.** When you e-mail us:
-
-  * we will record your e-mail address
-  * we will only use your e-mail address for the purpose for which you provided it
-  * we will not disclose it without your consent except where Funnelback may be required by law to disclose certain information.
+  * when this Privacy Policy applies; 
+  * what information we collect and why we collect it; 
+  * our use of cookies to collect information and how you can control or delete these cookies; 
+  * how we may disclose that information; 
+  * how you can access and update the information we hold about you; 
+  * how we protect your information. 
 
 
+  1. ### Application of this Privacy Policy
 
-Should you decide to use an online form, such as the Funnelback quote request form:
+This Privacy Policy applies to personal information collected by Funnelback. 
 
-  * we will record your name, e-mail address, address, telephone number, and other information as requested.
-  * we will only use this information for the purpose for which you provided it
-  * we will not disclose this information without your consent except where Funnelback may be required by law to disclose certain information.
+  2. ### What personal information we collect and why we collect it
+
+We collect personal information like your name, email address, telephone number and your organisation's name and location. 
+
+We collect information about you because: 
+
+    * you have provided it to us – for example, if you contact us to ask us questions or make comments or participate in a community forum; 
+    * we need it to provide a product or service that you have requested – for example, if you receive support services from us; 
+    * we would like to improve our services – for example, through the collection and analysis of statistical and research data and use of cookies; 
+    * you register to attend a Funnelback event; 
+    * you apply for a job with us; 
+    * you work for us; or 
+    * for purposes directly related to the above. 
+  3. ### How we collect information
+
+Broadly, there are two types of information or data we collect: 
+
+    1. _Information that you specifically give us_
+
+In some instances, you must provide personal information if you wish to receive a particular service or participate in an activity. 
+
+You may choose to provide some personal information which is not required but is directly related to our functions and activities. This type of information will usually enable us to improve or broaden the services we offer you. If you choose not to provide this optional information, we would still be able to offer you the service although it may be with fewer options than if you had provided the optional information. 
+
+If you provide us with unsolicited information that we do not require or which is not directly related to our functions or activities, we may be required to destroy or de-identify that information, provided it is lawful and reasonable to do so. 
+
+In some instances, you will be asked to confirm that you agree to a particular activity such as expressly agreeing that you would like to receive our newsletter or other marketing communications. You can always opt out of receiving emails from us by clicking on the unsubscribe link at the bottom of the email or by visiting our [email subscription management page](http://engage.squiz.net/Unsubscribe-funnelback.html)). 
+
+    2. _Automatic collection_
+
+We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies do not contain information by which we can identify you – they only identify your computer to our servers. 
+
+Cookies are used by our website to enable certain functionality, to remember the preferences of our users and to monitor how the site is being used. They help us to enhance the usability of the website and to personalise our content to better suit your needs. 
+
+Generally, these cookies expire at the end of each browsing session. You may, however, restrict or block those cookies through your browser settings. Please refer to your browser's 'Help' function or visit [www.aboutcookies.org](http://www.aboutcookies.org/) for detailed information about how to do this on a wide variety of browsers. Please note that if you disable any, or all, cookies you may have a degraded user experience. 
+
+  4. ### Cookies used on this site
+
+_Google Analytics TM_
+
+We use Google Analytics _TM_ to measure which pages on our site attract the most interest and to inform our content strategy so we can ensure we deliver the best quality content possible. 
+
+_Marketo®_
+
+Marketo helps us learn what specific solutions you might be seeking so that we can provide you with the most relevant content on our site, at events or in email communications. 
+
+_Opentracker_
+
+This is similar to Google AnalyticsTM in that it allows us to track how you move through the site. We use it to monitor use of our site in real time to make sure we're providing useful and relevant content to you. 
+
+  5. ### Disclosure of information
+
+We may share your personal information with Funnelback's related corporate entities. 
+
+Otherwise, we do not share personal information with other companies, organisations and individuals unless one of the following circumstances applies: 
+
+    * with your consent – we will share your personal information when we have your consent to do so; or 
+    * for legal reasons. 
+  6. ### Accessing your information
+
+You can request us to provide you with access to the personal information we hold about you by sending us an email to [info@funnelback.com](mailto:info@funnelback.com) or your Account Manager or Business Development Manager. 
+
+If particular circumstances apply, we are permitted by the Privacy Act to deny your request for access or limit the access we provide. We will let you know why your request is denied or limited. 
+
+  7. ### Protecting your information
+
+We are committed to keeping secure the personal information you provide to us. We take all reasonable precautions to protect the personal information we hold about you from misuse and loss and from unauthorised access, modification or disclosure. 
+
+Our web site may contain links to third party web sites. Whilst such links are provided for your convenience, you should be aware that the information handling practices of the linked web sites might not be the same as ours. 
+
+  8. ### Changes to our Privacy Policy
+
+We may, from time to time, review and update this Privacy Policy. All information held by us will be governed by the most recently updated policy. 
+
+  9. ### Who to contact
+
+If you have any questions or concerns in relation to our Privacy Policy, please contact us by sending an email to [info@funnelback.com](mailto:info@funnelback.com). 
 
 
 
-We will, at your request, provide you with access to any information which we have collected about you through this website in accordance with Information Privacy Principle 6, Privacy Act 1988 (Cth). To gain access to this information you should contact us (see details below). If you believe that any information is inaccurate, incomplete or out of date, please contact us and we will revise the relevant information in accordance with Information Privacy Principle 7, Privacy Act 1988 (Cth).
 
-**Cookies**. A cookie is a text string that is included with Hypertext Transfer Protocol (HTTP) requests and responses. Cookies are used to maintain state information as you navigate different pages on a web site or return to the web site at a later time. Cookies cannot be used to execute code (run programs) or deliver viruses to your computer.
-
-**Persistent vs. session cookies**. Cookies are either stored in memory (session cookies) or placed on your hard disk (persistent cookies).
-
-**How to access cookies settings in your browser.** You have the ability to enable or disable cookies, or have Internet Explorer or Netscape prompt you before accepting cookies. Note that disabling cookies may prevent some web services from working correctly, and disabling cookies does not make you anonymous or prevent web sites from tracking your browsing habits. HTTP requests still include information about where you came from (HTTP Referer), your IP address, browser version, operating system, and other information (see Site Visit Data above).
-
-**Internet Explorer**
-
-  1. In Internet Explorer, click Internet Options on the Tools menu, and then click the Security tab.
-  2. Click the Web content zone you want, and then click Custom Level.
-  3. Under Cookies , click the options you want, click OK , and then click OK.
-
-
-
-**Netscape**
-
-  1. From the Edit menu, choose Preferences.
-  2. Click the Advanced category.
-  3. Click one of the radio buttons in the Cookies section. Important: In most cases, "Accept all cookies" is the best choice. The second button means that your computer will not send a cookie to a server that did not originate it.
-  4. If you want to be notified when Communicator accepts a cookie, check "Warn me before accepting a cookie."
-
-
-
-**Security of information.** Your personal information will not be released unless the law requires or permits it or your permission is given. We provide a secure environment and a reliable system but you should be aware that there may be inherent risks associated with the transmission of information via the Internet. For those who do not wish to use the Internet, Funnelback provides alternative ways of obtaining and providing information.
-
-**Who to contact.** If you have any question or concerns in relation to our privacy policy, please [contact us](http://www.funnelback.com/about-us/contact).
+Google Analytics is a trade mark of Google Inc. Marketo is a registered trade mark of Marketo Inc. 
