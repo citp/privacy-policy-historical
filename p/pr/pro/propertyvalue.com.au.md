@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the propertyvalue.com.au privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806030316id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyvalue.com.au privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319073454id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
 
-# RP Data Privacy Policy
+# Privacy Policy | CoreLogic RP Data
+
+  * [__Home](https://web.archive.org/)
+  * [ __General](https://web.archive.org/general)
+  * __Privacy Policy
+
+
 
 RP Data Pty Ltd (ABN 67 087 759 171) and its related and associated bodies corporate ( **us, we, our, RP Data** ) maintain a policy of strict confidence concerning your (you, your) personal information ( **Privacy Policy** ). This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth) ( **Privacy Act** ) and the Australian Privacy Principals ( **APPs** ) made under that Act. The Privacy Policy applies to the collection, storage, use and disclosure of your personal information by us. By accessing the following websites and platforms ( **Sites** ), you accept the terms of this Privacy Policy: 
 
@@ -296,7 +302,7 @@ We may charge a reasonable fee for providing that information.
 
 If you have a complaint about our treatment of your personal information, please contact our Privacy Officer (see Contact Us below). Our Privacy Officer will consider and if, in our reasonable opinion, necessary, investigate your complaint and endeavour to respond to you within a reasonable period of time. 
 
-If we do not adequately answer your concerns, you have the right to make a complaint to the [Office of the Australian Information Commissioner](http://www.rpdata.com/Office%20of%20the%20Australian%20Information%20Commissioner). 
+If we do not adequately answer your concerns, you have the right to make a complaint to the Office of the Australian Information Commissioner. 
 
 ## 14\. Contact Us
 
