@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidangel.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701172927id_/https%3A//www.vidangel.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidangel.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319074527id_/http%3A//www.vidangel.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy | VidAngel Parental Controls
+# Privacy | VidAngel
 
 Effective Date: October 12, 2013
 
@@ -125,8 +125,8 @@ If you have questions about the privacy aspects of our Site or would like to mak
 Attn: VidAngel Privacy Policy
 
 VidAngel  
-276 Everett Ave.  
-Palo Alto, CA 94301
+251 N University Ave.  
+Provo, UT 84601
 
 **Changes to this Policy**
 
