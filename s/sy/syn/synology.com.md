@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109131909id_/https%3A//www.synology.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319024652id_/https%3A//www.synology.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Legal - About Synology - Synology - Network Attached Storage (NAS)
 
