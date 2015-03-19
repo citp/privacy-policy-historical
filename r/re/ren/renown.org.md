@@ -1,221 +1,175 @@
-> *The following text is extracted and transformed from the renown.org privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022014854id_/http%3A//www.renown.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renown.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319021938id_/https%3A//www.renown.org/tools/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Renown Health
 
-NOTICE OF PRIVACY PRACTICES
+  * [Tools](https://www.renown.org/?page_id=744)
+  * [Privacy Policy](https://www.renown.org/?page_id=748)
 
-Effective Date: September 1, 2003
 
-THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-If you have any questions about this notice, please contact the Renown Health System Privacy Office at (775) 982-8300.
+## Joint Notice of Privacy Practice
 
-WHO WILL FOLLOW THIS NOTICE.
+This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review carefully.
 
-This notice describes the practices of the Renown Health and the following entities, including but not limited to:
+#### You have the right to:
 
-Renown Regional Medical Center
+  * Get a copy of your paper or electronic medical record
+  * Correct your paper or electronic medical record
+  * Request confidential communication
+  * Ask us to limit the information we share
+  * Get a list of those with whom we've shared your information
+  * Get a copy of this privacy notice
+  * Choose someone to act for you
+  * File a complaint if you believe your privacy rights have been violated
 
-Renown South Meadows Medical Center healthcare operations including:
 
-  * Renown South Meadows Medical Center
-  * Renown Rehabilitation Hospital
-  * Renown Rehabilitation Therapy
-  * Renown Skilled Nursing
 
+#### We may use and share your information as we:
 
+  * Treat you
+  * Run our organization
+  * Bill for your services
+  * Help with public health and safety issues
+  * Do research
+  * Comply with the law
+  * Collect audience data
+  * Respond to organ and tissue donation requests
+  * Work with a medical examiner or funeral director
+  * Address workers' compensation, law enforcement, and other government requests
+  * Respond to lawsuits and legal actions
 
-Renown Health healthcare operation including:
 
-  * The Pregnancy Center
-  * X-Ray and Imaging
-  * Breast Health Center
 
+## Your Rights
 
+When it comes to your health information, you have certain rights. This section explains  
+your rights and some of our responsibilities to help you.
 
-Renown Professional Center, Inc., healthcare operations including:
+#### Get an electronic or paper copy of your medical record
 
-  * Professional Center Pharmacy
-  * HealthWear Plus
-  * Northern Sierra Dialysis Center, LLC
+  * You can ask to see or get an electronic or paper copy of your medical record and other health information we have about you. Ask us how to do this.
+  * We will provide a copy or a summary of your health information, usually within 30 days of your request. We may charge a reasonable, cost-based fee.
 
 
 
-HHP Management Corporation, Inc., healthcare operations including:
+#### Ask us to correct your medical record
 
-  * Renown Medical Group (at Ryland, South Meadows, and Vista)
-  * The Healthcare Center Clinic (professional services)
-  * Renown Medical Group Seniors (professional services)
+  * You can ask us to correct health information about you that you think is incorrect or incomplete. Ask us how to do this.
+  * We may say "no" to your request, but we'll tell you why in writing within 60 days.
 
 
 
-Provider Network, Inc., healthcare operations including:
+#### Request confidential communications
 
-  * Renown Medical Group (at Fernley)
-  * Renown Medical Group Pediatrics
-  * Community Care Services, LLC
+  * You can ask us to contact you in a specific way (for example, home or office phone) or to send mail to a different address.
+  * We will say "yes" to all reasonable requests.
 
 
 
-Urgent Care, LLC
+#### Ask us to limit what we use or share
 
-  * Urgent care (at Fernley, Ryland, South Meadows, and Vista)
+  * You can ask us not to use or share certain health information for treatment, payment, or our operations. We are not required to agree to your request, and we may say "no" if it would affect your care.
+  * If you pay for a service or healthcare item out-of-pocket in full, you can ask us not to share that information for the purpose of payment or our operations with your health insurer. We will say "yes" unless a law requires us to share that information.
 
 
 
-Carson Valley Medical Center, a partnership with Barton Health.
+#### Get a list of those with whom we've shared information
 
-And those of:
+  * You can ask for a list (accounting) of the times we've shared your health information for six years prior to the date you ask, who we shared it with, and why.
+  * We will include all the disclosures except for those about treatment, payment, and healthcare operations, and certain other disclosures (such as any you asked us to make). We'll provide one accounting a year for free but will charge a reasonable, cost-based fee if you ask for another one within 12 months.
 
-  * Any health care professional authorized to enter information into your medical chart at one of the above-referenced entities.
-  * All departments and units of the above-referenced entities.
-  * Any member of a volunteer group, including the Renown Medical Auxiliary, that we allow to help you while you are in any of the above-referenced facilities.
-  * All employees, staff and other personnel of the above-described entities. 
 
 
+#### Get a copy of this privacy notice
 
-For purposes of this notice, the above-referenced entities, sites and locations will be referred to in this notice as the “health network.” The Renown Health entities follow the terms of this notice. In addition, health network may share medical information with each other for treatment, payment or hospital operations purposes described in this notice.
+  * You can ask for a paper copy of this notice at any time, even if you have agreed to receive the notice electronically. We will provide you with a paper copy promptly.
 
-OUR PLEDGE REGARDING MEDICAL INFORMATION:
 
-We understand that medical information about you and your health is personal. We are committed to protecting medical information about you. We create a record of the care and services you receive at the Renown Health entities. We need this record to provide you with quality care and to comply with certain legal requirements. This notice applies to all of the records of your care generated by the Renown Health entities, whether made by the Renown entity personnel or your personal doctor. Your personal doctor may have different policies or notices regarding the doctor's use and disclosure of your medical information created in the doctor's office or clinic.
 
-This notice will tell you about the ways in which we may use and disclose medical information about you. We also describe your rights and certain obligations we have regarding the use and disclosure of medical information.
+#### Choose someone to act for you
 
-We are required by law to:
+  * If you have given someone medical power of attorney or if someone is your legal guardian, that person can exercise your rights and make choices about your health information.
+  * We will make sure the person has this authority and can act for you before we take any action.
 
-  * make sure that medical information that identifies you is kept private;
-  * give you this notice of our legal duties and privacy practices with respect to medical information about you; and 
-  * follow the terms of the notice that is currently in effect.
 
 
+#### File a complaint if you feel your rights are violated
 
-HOW WE MAY USE AND DISCLOSE MEDICAL INFORMATION ABOUT YOU.
+  * You can complain if you feel we have violated your rights by contacting us using the information on page 4.
+  * You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting [www.hhs.gov/ocr/privacy/hipaa/complaints/](http://www.hhs.gov/ocr/privacy/hipaa/complaints/ "HIPAA").
+  * We will not retaliate against you for filing a complaint.
 
-The following categories describe different ways that we use and disclose medical information. For each category of uses or disclosures, we will explain what we mean and try to give some examples. Not every use or disclosure in a category will be listed. However, all of the ways that we are permitted to use and disclose information will fall within one of the categories.
 
-For Treatment. We may use medical information about you to provide you with medical treatment or services. We may disclose medical information about you to doctors, nurses, technicians, medical students or other Renown Health entity personnel who are involved in taking care of you at the Renown Health entity. For example, a doctor treating you for a broken leg may need to know if you have diabetes because diabetes may slow the healing process. In addition, the doctor may need to tell the dietitian if you have diabetes so that we can arrange for appropriate meals. Different departments of a Renown Health entity also may share medical information about you in order to coordinate the different things you need, such as prescriptions, lab work and x-rays. We also may disclose medical information about you to people outside of the Renown Health entities who may be involved in your medical care after you leave our care, such as family members, clergy or others we use to provide services that are part of your care.
 
-For Payment. We may use and disclose medical information about you so that the treatment and services you receive at the Renown Health entities may be billed to, and payment may be collected from, you, an insurance company or a third party. For example, we may need to give your health plan information about surgery you received at Renown Regional Medical Center so that your health plan will pay us or reimburse you for the surgery. We may also tell your health plan about a treatment you are going to receive to obtain prior approval or to determine whether your plan will cover the treatment.
+For certain health information, you can tell us your choices about what we share. If you have a clear preference for how we share your information in the situations described below, talk to us. Tell us what you want us to do, and we will follow your instructions.
 
-For Health Care Operations. We may use and disclose medical information about you for health care operations. These uses and disclosures are necessary to run the Renown Health entities and make sure that all of our patients receive quality care. For example, we may use medical information to review our treatment and services and to evaluate the performance of our staff in caring for you. We may also combine medical information about many hospital patients to decide what additional services the hospital should offer, what services are not needed, and whether certain new treatments are effective. We may also disclose information to doctors, nurses, technicians, medical students and other hospital personnel for review and learning purposes. We may also combine the medical information we have with medical information from other hospitals to compare how we are doing and see where we can make improvements in the care and services we offer. We may remove information that identifies you from this set of medical information so others may use it to study health care and health care delivery without learning who the specific patients are.
+#### In these cases, you have both the right and choice to tell us to:
 
-Appointment Reminders. We may use and disclose medical information to contact you as a reminder that you have an appointment for treatment or medical care.
+  * Share information with your family, close friends, or others involved in your care
+  * Share information in a disaster relief situation
+  * Include your information in a hospital directory
 
-Treatment Alternatives. We may use and disclose medical information to tell you about or recommend alternative treatments, therapies, health care providers or care settings that may be of interest to you.
 
-Health Care Providers and Services. We may use and disclose medical information to tell you about affiliated health care providers and health care services that we provide that may be of interest to you.
 
-Fundraising Activities. We may use medical information about you to contact you in an effort to raise money for the hospital and its operations. We may disclose medical information to Renown Health Foundation, a foundation related to the hospital, so that the foundation may contact you in raising money for the hospital. We only would release contact information, such as your name, address and phone number and the dates you received treatment or services at the hospital. If you do not want the hospital to contact you for fundraising efforts, you must notify the Renown Health System Privacy Officer at 1155 Mill Street, Mail Code Z-7, Reno, Nevada 89502-1474 in writing.
+If you are not able to tell us your preference, for example if you are unconscious, we may go ahead and share your information if we believe it is in your best interest. We may also share your information when needed to lessen a serious and imminent threat to health or safety.
 
-Hospital Directory. We may include certain limited information about you in the hospital directory while you are a patient at the hospital. This information may include your name, location in the hospital, your general condition (for example, fair, stable, etc.) and your religious affiliation. Unless there is a specific written request from you to the contrary, this directory information, except for your religious affiliation, may also be released to people who ask for you by name. Your religious affiliation may be given to a member of the clergy, such as a priest or rabbi, even if they don't ask for you by name. This information is released so your family, friends and clergy can visit you in the hospital and generally know how you are doing.
+#### In these cases we never share your information unless you give us written permission:
 
-Individuals Involved in Your Care or Payment for Your Care. We may release medical information about you to a friend or family member who is involved in your medical care. We may also give information to someone who helps pay for your care. Unless there is a specific written request from you to the contrary, we may also tell your family or friends your condition and that you are in the hospital. In addition, we may disclose medical information about you to an entity assisting in a disaster relief effort so that your family can be notified about your condition, status and location.
+  * Marketing purposes
+  * Sale of your information
 
-Research. Under certain circumstances, we may use and disclose medical information about you for research purposes. For example, a research project may involve comparing the health and recovery of all patients who received one medication to those who received another for the same condition. All research projects, however, are subject to a special approval process. This process evaluates a proposed research project and its use of medical information, trying to balance the research needs with patients' need for privacy of their medical information. Before we use or disclose medical information for research, the project will have been approved through this research approval process, but we may, however, disclose medical information about you to people preparing to conduct a research project, for example, to help them look for patients with specific medical needs, so long as the medical information they review does not leave the hospital. We will almost always ask for your specific permission if the researcher will have access to your name, address or other information that reveals who you are, or will be involved in your care at the hospital.
 
-As Required By Law. We will disclose medical information about you when required to do so by federal, state or local law.
 
-To Avert a Serious Threat to Health or Safety. We may use and disclose medical information about you when necessary to prevent a serious threat to your health and safety or the health and safety of the public or another person. Any disclosure, however, would only be to someone able to help prevent the threat.
+#### In the case of fundraising:
 
-SPECIAL SITUATIONS
+We may contact you for fundraising efforts, but you can tell us not to contact you again.
 
-Organ and Tissue Donation. If you are an organ donor, we may release medical information to organizations that handle organ procurement or organ, eye or tissue transplantation or to an organ donation bank, as necessary to facilitate organ or tissue donation and transplantation.
+#### We typically use or share your health information in the following ways.
 
-Military and Veterans. If you are a member of the armed forces, we may release medical information about you as required by military command authorities. We may also release medical information about foreign military personnel to the appropriate foreign military authority.
+**Treat you:**  We can use your health information and share it with other professionals who are treating you.
 
-Workers' Compensation. We may release medical information about you for workers' compensation or similar programs. These programs provide benefits for work-related injuries or illness.
+> Example: A doctor treating you for an injury asks another doctor about your overall health condition.
 
-Public Health Risks. We may disclose medical information about you for public health activities. These activities generally include the following:
+**Run our organization:**  We can use and share your health information to run our practice, improve your care, and contact you when necessary.
 
-  * to prevent or control disease, injury or disability;
-  * to report births and deaths; 
-  * to report the abuse or neglect of children, elders and dependent adults; 
-  * to report reactions to medications or problems with products; 
-  * to notify people of recalls of products they may be using; 
-  * to notify a person who may have been exposed to a disease or may be at risk for contracting or spreading a disease or condition; and
-  * to notify the appropriate government authority if we believe a patient has been the victim of abuse, neglect or domestic violence. We will only make this disclosure if you agree or when required or authorized by law. 
+> Example: We use health information about you to manage your treatment and services.
 
+**Bill for your services:**  We can use and share your health information to bill and get payment  from health plans or other entities.
 
+> Example: We give information about you to your health insurance plan so it will pay for your services.
 
-Health Oversight Activities. We may disclose medical information to a health oversight agency for activities authorized by law. These oversight activities include, for example, audits, investigations, inspections and licensure. These activities are necessary for the government to monitor the health care system, government programs and compliance with civil rights laws.
+#### How else can we use or share your health information?
 
-Lawsuits and Disputes. If you are involved in a lawsuit or a dispute, we may disclose medical information about you in response to a court or administrative order. We may also disclose medical information about you in response to a subpoena, discovery request or other lawful process by someone else involved in the dispute, but only if efforts have been made to tell you about the request (which may include written notice to you) or to obtain an order protecting the information requested.
+We are allowed or required to share your information in other ways - usually in ways that contribute to the public good, such as public health and research. We have to meet many conditions in the law before we can share your information for these purposes. For more information see:
 
-Law Enforcement. We may release medical information if asked to do so by a law enforcement official:
+[www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html](http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html "HIPAA")
 
-  * In response to a court order, subpoena, warrant, summons or similar process;
-  * To identify or locate a suspect, fugitive, material witness or missing person; 
-  * About the victim of a crime if, under certain limited circumstances, we are unable to obtain the person's agreement;
-  * About a death we believe may be the result of criminal conduct;
-  * About criminal conduct at the hospital; or
-  * In emergency circumstances to report a crime; the location of the crime or victims; or the identity, description or location of the person who committed the crime.
+#### Help with public health and safety issues
 
+We can share health information about you for certain situations such as:
 
+  * Preventing disease
+  * Helping with product recalls
+  * Reporting adverse reactions to medications
+  * Reporting suspected abuse, neglect, or domestic violence
+  * Preventing or reducing a serious threat to anyone's health or safety
 
-Nevada Attorney General and Grand Jury Investigations. We may release medical information if asked to do so by an investigator for the Nevada Attorney General, or a grand jury, investigating an alleged violation of Nevada laws prohibiting patient neglect, elder abuse or submission of false claims to the Medicaid program. We may also release medical information to an investigator for the Nevada Attorney General investigating an alleged violation of Nevada workers’ compensation laws.
 
-Coroners, Medical Examiners and Funeral Directors. We may release medical information to a coroner or medical examiner. This may be necessary, for example, to identify a deceased person or determine the cause of death. We may also release medical information about patients of the hospital to funeral directors as necessary to carry out their duties.
 
-National Security and Intelligence Activities. We may release medical information about you to authorized federal officials for intelligence, counterintelligence and other national security activities authorized by law.
+#### Do research
 
-Protective Services for the President and Others. We may disclose medical information about you to authorized federal officials so they may provide protection to the President, other authorized persons or foreign heads of state or conduct special investigations.
+We can use or share your information for health research.
 
-Inmates. If you are an inmate of a correctional institution or under the custody of a law enforcement official, we may release medical information about you to the correctional institution or law enforcement official. This release would be necessary (1) for the institution to provide you with health care; (2) to protect your health and safety or the health and safety of others; or (3) for the safety and security of the correctional institution.
+#### Comply with the law
 
-YOUR RIGHTS REGARDING MEDICAL INFORMATION ABOUT YOU.
+We will share information about you if state or federal laws require it, including with the  
+Department of Health and Human Services if it wants to see that we're complying with federal  
+privacy law.
 
-You have the following rights regarding medical information we maintain about you:
+#### Collect audience data
 
-Right to Inspect and Copy. You have the right to inspect and copy medical information that may be used to make decisions about your care. Usually, this includes medical and billing records, but may not include some mental health information.
+We work with online advertising networks that may place anonymous cookies on your computer when you visit our website properties. This common practice allows the advertising networks to understand your interests based on your online activities and tailor more relevant ads to you. If you do not wish to receive tailored advertising, you can visit this [page ](http://www.networkadvertising.org/choices/)to opt out of most companies that engage in this type of advertising. Please note that opting out will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.
 
-To inspect and copy medical information that may be used to make decisions about you, you must submit your request in writing to the Renown Health System health care provider that provided the care that is the subject of your request. If you request a copy of the information, we may charge a fee for the costs of copying, mailing or other supplies associated with your request.
+#### Respond to organ and tissue donation requests
 
-We may deny your request to inspect and copy in certain very limited circumstances. If you are denied access to medical information, you may request that the denial be reviewed. Another licensed health care professional chosen by the hospital will review your request and the denial. The person conducting the review will not be the person who denied your request. We will comply with the outcome of the review.
-
-Right to Amend. If you feel that medical information we have about you is incorrect or incomplete, you may ask us to amend the information. You have the right to request an amendment for as long as the information is kept by or for the hospital.
-
-To request an amendment, your request must be made in writing and submitted to the Renown Health System Privacy Officer at 1155 Mill Street, Mail Code Z-7, Reno, Nevada 89502-1474. In addition, you must provide a reason that supports your request.
-
-We may deny your request for an amendment if it is not in writing or does not include a reason to support the request. In addition, we may deny your request if you ask us to amend information that:
-
-  * Was not created by us, unless the person or entity that created the information is no longer available to make the amendment; 
-  * Is not part of the medical information kept by or for the hospital; 
-  * Is not part of the information which you would be permitted to inspect and copy; or 
-  * Is accurate and complete.
-
-
-
-Right to an Accounting of Disclosures. You have the right to request an "accounting of disclosures." This is a list of the disclosures we made of medical information about you other than our own uses for treatment, payment and health care operations, as those functions are described above.
-
-To request this list or accounting of disclosures, you must submit your request in writing to the Renown Health System Privacy Officer at 1155 Mill Street, Mail Code Z-7, Reno, Nevada 89502-1474. Your request must state a time period that may not be longer than six years and may not include dates before April 14, 2003. Your request should indicate in what form you want the list (for example, on paper, electronically). The first list you request within a 12-month period will be free. For additional lists, we may charge you for the costs of providing the list. We will notify you of the cost involved and you may choose to withdraw or modify your request at that time before any costs are incurred.
-
-Right to Request Restrictions. You have the right to request a restriction or limitation on the medical information we use or disclose about you for treatment, payment or health care operations. You also have the right to request a limit on the medical information we disclose about you to someone who is involved in your care or the payment for your care, like a family member or friend. For example, you could ask that we not use or disclose information about a surgery you had.
-
-We are not required to agree to your request. If we do agree, we will comply with your request unless the information is needed to provide you with emergency treatment.
-
-To request restrictions, you must make your request in writing to the Renown Health System Privacy Officer at 1155 Mill Street, Mail Code Z-7, Reno, Nevada 89502-1474. In your request, you must tell us: (1) what information you want to limit; (2) whether you want to limit our use, disclosure or both; and (3) to whom you want the limits to apply (for example, disclosures to your spouse).
-
-Right to Request Confidential Communications. You have the right to request that we communicate with you about medical matters in a certain way or at a certain location. For example, you can ask that we only contact you at work or by mail.
-
-To request confidential communications, you must make your request in writing to the Renown Health System Privacy Officer at 1155 Mill Street, Mail Code Z-7, Reno, Nevada 89502-1474. We will not ask you the reason for your request. We will accommodate all reasonable requests. Your request must specify how or where you wish to be contacted.
-
-Right to a Paper Copy of This Notice. You have the right to a paper copy of this notice. You may ask us to give you a copy of this notice at any time. Even if you have agreed to receive this notice electronically, you are still entitled to a paper copy of this notice.
-
-You may obtain a copy of this notice at our website, [www.renown.org](http://www.renown.org/)
-
-To obtain a paper copy of this notice, contact your Renown Health health care provider.
-
-CHANGES TO THIS NOTICE
-
-We reserve the right to change this notice. We reserve the right to make the revised or changed notice effective for medical information we already have about you as well as any information we receive in the future. We will post a copy of the current notice in the hospital. The notice will contain on the first page, in the top right-hand comer, the effective date. In addition, each time you register at or are admitted to the hospital for treatment or health care services as an inpatient or outpatient, we will offer you a copy of the current notice in effect.
-
-COMPLAINTS
-
-If you believe your privacy rights have been violated, you may file a complaint with Renown Health or with the Secretary of the Department of Health and Human Services. To file a complaint with Renown Health, contact the Renown Health Privacy Officer, 1155 Mill Street, Mail Code Z-7, Reno, Nevada 89502-1474, (775) 982-8300. All complaints must be submitted in writing.
-
-You will not be penalized for filing a complaint.
-
-OTHER USES OF MEDICAL INFORMATION.
-
-Other uses and disclosures of medical information not covered by this notice or the laws that apply to us will be made only with your written authorization. If you provide us permission to use or disclose medical information about you by signing an authorization, you may revoke that permission, in writing, at any time. If you revoke your permission, we will no longer use or disclose medical information about you for the reasons covered by your written authorization. You understand that we are unable to take back any disclosures we have already made with your permission, and that we are required to retain our records of the care that we provided to you.
+We can share health information about you with organ procurement organizations.
