@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatango.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706171310id_/http%3A//chatango.com/page%3Ffull_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatango.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319042143id_/https%3A//chatango.com/page%3Ffull_privacy) for the most accurate reproduction.*
 
 # Chatango Terms of Use
 
@@ -14,6 +14,9 @@ When you use Chatango, a cookie and an Adobe Flash Shared Object are stored on y
 
 **IP addresses**  
 We do store IP addresses of all incoming connections to Chatango servers. This information is stored for security purposes such as preventing abuse or intrusion. When a user sends a message to a Chatango Group, the IP address of the sender is recorded and displayed to the group owner and to the group moderators created by the group owner, so that the group owner and moderators can ban the sender from the group. IP addresses contain no personal or confidential information. 
+
+**Chatango app**  
+When available, we store the device identification information (model, operating system version, serial number, IMEI) and a phone number of the device where Chatango apps are installed. This information is stored strictly for security (moderation and spam prevention) and crash debugging purposes and is not shared with any Chatango users or third parties. The appropriate permissions to access this information are requested by Google Play Store and Apple App Store when the Chatango app is installed. 
 
 **Payment Information**  
 We store payment information (credit card type, card holder's name, credit card expiration date, PayPal account email) for all payments and donations made to Chatango. Credit card numbers are not stored on our servers. This information is only used for security purposes, such as preventing fraudulent payments. 
@@ -48,4 +51,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 **Changes to this Policy** Please note this Privacy Policy may change from time to time. Any new version or updates will be posted on this page. If you have any additional questions, please [contact us](https://web.archive.org/feedback). 
 
-Feb 22, 2011 
+Mar 16, 2015 
