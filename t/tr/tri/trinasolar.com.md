@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trinasolar.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705021753id_/http%3A//www.trinasolar.com/us/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinasolar.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319212154id_/http%3A//www.trinasolar.com/us/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Trina Solar
 
