@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorphoto.co.za privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531180939id_/http%3A//www.outdoorphoto.co.za/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphoto.co.za privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319081952id_/https%3A//www.outdoorphoto.co.za/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
