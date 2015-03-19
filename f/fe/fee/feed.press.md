@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feed.press privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011151103id_/https%3A//feed.press/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feed.press privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320004659id_/https%3A//feed.press/privacy) for the most accurate reproduction.*
 
 # FeedPress
 
