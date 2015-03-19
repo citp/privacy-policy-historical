@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128031221id_/http%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319081406id_/https%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nihongo Master, Learn Japanese Online
 
@@ -16,7 +16,7 @@ If you don't feel like reading all the legal words to the right, here's a summar
 
 This document was last updated on June 23, 2012 
 
-This Privacy Policy governs the manner in which Nihongo Master collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.nihongomaster.com](http://www.nihongomaster.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Nihongo Master. 
+This Privacy Policy governs the manner in which Nihongo Master collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.nihongomaster.com](https://www.nihongomaster.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Nihongo Master. 
 
 ### Personal identification information
 
