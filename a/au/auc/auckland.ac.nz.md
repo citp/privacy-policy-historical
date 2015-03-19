@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auckland.ac.nz privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009231146id_/https%3A//www.auckland.ac.nz/en/admin/footer-links/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auckland.ac.nz privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319072441id_/https%3A//www.auckland.ac.nz/en/admin/footer-links/privacy.html) for the most accurate reproduction.*
 
 # Privacy - The University of Auckland
 
@@ -96,7 +96,13 @@ Official Information does not include:
 
 
 
-Requests for official information under the Act should be directed to the Registrar, Office of the Vice-Chancellor, Private Bag, 92 019 Auckland.
+Requests for official information under the Act should be sent by email to [legal@auckland.ac.nz](mailto:legal@auckland.ac.nz) or by post to:
+
+**General Counsel**  
+Office of the Vice-Chancellor  
+The University of Auckland  
+Private Bag 92 019  
+Auckland 1142, New Zealand.
 
 The request should be as specific as possible about the information at issue. It is preferable to put requests in writing.
 
