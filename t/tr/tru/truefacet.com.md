@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the truefacet.com privacy policy that was archived on 2014-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140725014817id_/https%3A//www.truefacet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truefacet.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319152005id_/https%3A//www.truefacet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrueFacet
 
 TrueFacet, Inc. ("TrueFacet," "we," "us," or "our") welcomes you. We're really excited that you have decided to access and use our website located at www.TrueFacet.com ("Site").
 
-This Privacy Policy sets forth TrueFacet's policy with respect to personally identifiable information and other information that is collected from Site visitors and Registered Users. By using the Site, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use. Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use. If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at privacy@TrueFacet.com.
+This Privacy Policy sets forth TrueFacet's policy with respect to personally identifiable information and other information that is collected from Site visitors and Registered Users. By using the Site, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use. Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use. If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at [privacy@TrueFacet.com](mailto:privacy@truefacet.com).
 
 ## Information We Collect
 
@@ -94,4 +94,4 @@ When you invite a friend to join the Site, your circle (network of friends) or y
 
 ## Newsletters and Alerts
 
-At various places on the Site you will be given the option to receive recurring event sales newsletters and to set alerts and reminders. You can unsubscribe from newsletters by clicking on the unsubscribe link. You can manage your alerts through your account. How to Contact Us If you have questions about this Privacy Policy, please e-mail us at privacy@TrueFacet.com. You may also write to us at TrueFacet, 592 5th Avenue, 11th Floor, New York, NY 10036.
+At various places on the Site you will be given the option to receive recurring event sales newsletters and to set alerts and reminders. You can unsubscribe from newsletters by clicking on the unsubscribe link. You can manage your alerts through your account. How to Contact Us If you have questions about this Privacy Policy, please e-mail us at [privacy@TrueFacet.com](mailto:privacy@truefacet.com). You may also write to us at TrueFacet, 592 5th Avenue, 11th Floor, New York, NY 10036.
