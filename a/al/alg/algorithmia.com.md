@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the algorithmia.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218204759id_/https%3A//algorithmia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algorithmia.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319211847id_/https%3A//algorithmia.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Algorithmia
 
 Privacy Policy
 
-**LAST UPDATED** 7/25/2014 
+**LAST UPDATED** 3/11/2015
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Algorithmia, Inc. [and our subsidiaries and affiliated companies] ("Algorithmia," "we" or "us. This Privacy Policy applies to information we collect when you use our websites, products, services, applications or software (collectively, the "Services") or when you otherwise interact with us. 
 
@@ -80,7 +80,7 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 ### Promotional Communications
 
-You may opt out of receiving promotional communications from Algorithmia by following the instructions in those communications or by visiting https://algorithmia.com/optout. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. 
+You may opt out of receiving promotional communications from Algorithmia by following the instructions in those communications or by visiting [/optout](https://web.archive.org/optout). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. 
 
 ## Contact
 
