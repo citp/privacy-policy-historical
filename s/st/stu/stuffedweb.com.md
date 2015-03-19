@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffedweb.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714134801id_/http%3A//www.stuffedweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffedweb.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320005524id_/http%3A//www.stuffedweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StuffedWeb
 
