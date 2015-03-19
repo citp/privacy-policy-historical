@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptgui.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625211851id_/http%3A//www.ptgui.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptgui.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319113052id_/http%3A//www.ptgui.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.ptgui.com
 
