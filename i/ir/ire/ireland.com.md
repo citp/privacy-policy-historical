@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204020243id_/http%3A//www.ireland.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319190100id_/http%3A//www.ireland.com/en-us/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Ireland.com
 
-This website www.ireland.com and the services on these pages are being offered to you by:
+Keem Bay, Achill Island
 
 Tourism Ireland,  
 5th Floor Bishop's Square,  
@@ -49,7 +49,7 @@ If you decide that you no longer wish to receive promotional information, you ca
 
 ### Access to the information we hold on you
 
-If you wish to query the information we hold on you or inform us about how we should treat that data or request the deletion of that information, [contact us](https://web.archive.org/Home/core/contact-us-form) in writing at: 
+If you wish to query the information we hold on you or inform us about how we should treat that data or request the deletion of that information, contact us in writing at: 
 
 Data Protection Officer,  
 Tourism Ireland,   
@@ -66,7 +66,7 @@ On Tourism Ireland consumer websites, IP addresses (the Internet address of a co
 
 ## Cookies
 
-See our [Cookie policy](http://ireland.com/legal-information/cookies-policy).
+See our Cookie policy.
 
 ## Behavioral Advertising Disclosure
 
@@ -78,7 +78,7 @@ Tourism Ireland complies with the highest standards when collecting and using pe
 
 ## Security
 
-Tourism Ireland takes appropriate measures to ensure the security, integrity and privacy of personal information submitted to our sites, and periodically updates its security measures in light of current technologies. You need to be aware, however, of inherent risks associated with the transmission of information via the Internet. Tourism Ireland cannot guarantee or warrant the security of any personal information you submit to our sites. If you have concerns in this regard, Tourism Ireland has other ways of obtaining and providing information such as post or telephone. [Contact us](https://web.archive.org/Home/core/contact-us-form) for more information.
+Tourism Ireland takes appropriate measures to ensure the security, integrity and privacy of personal information submitted to our sites, and periodically updates its security measures in light of current technologies. You need to be aware, however, of inherent risks associated with the transmission of information via the Internet. Tourism Ireland cannot guarantee or warrant the security of any personal information you submit to our sites. If you have concerns in this regard, Tourism Ireland has other ways of obtaining and providing information such as post or telephone. Contact us for more information.
 
 Tourism Ireland sites may also be linked to websites operated by third parties. These links are meant for your convenience only. Links to third party sites do not constitute endorsement on the part of Tourism Ireland of those sites and we are not responsible for the privacy practices of the owners and operators of those sites. We encourage you to review the privacy policies and practices on each site which asks you to submit personal information. 
 
@@ -96,8 +96,24 @@ We keep this Privacy Statement under regular review.
 
 ## Queries
 
-If you have any queries regarding this Privacy Statement, you can [contact us](https://web.archive.org/Home/core/contact-us-form) via email
+If you have any queries regarding this Privacy Statement, you can contact us via email
 
 ## Jurisdiction
 
 This Privacy Statement is an agreement between you and Tourism Ireland Limited. Any and all complaints or disputes should be addressed to Tourism Ireland Limited at the address at the top of this Privacy Statement
+
+Save this page to a Scrapbook:
+
+[Add](https://web.archive.org/web/20150319190100id_/http://www.ireland.com/Controls/RichControls/#createScrapbook)
+
+Save this page to your Scrapbook:
+
+[Add](https://web.archive.org/web/20150319190100id_/http://www.ireland.com/Controls/RichControls/#addToScrapbook) [Add](https://web.archive.org/web/20150319190100id_/http://www.ireland.com/Controls/RichControls/#newScrapbook)
+
+You have Scrapbooks created. Click below to see all of your saved pages.
+
+[See Scrapbooks](https://web.archive.org/web/20150319190100id_/http://www.ireland.com/Controls/RichControls/#)
+
+This page has been save to your Scrapbook
+
+[View](https://web.archive.org/web/20150319190100id_/http://www.ireland.com/Controls/RichControls/#)
