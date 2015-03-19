@@ -1,14 +1,19 @@
-<!--The following is the downloaded HTML source of the rdg.ac.uk privacy policy that was archived on 2014-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140924103254id_/http%3A//www.reading.ac.uk/about/about-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rdg.ac.uk privacy policy that was archived on 2015-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319031619id_/http%3A//www.reading.ac.uk/about/about-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-uk" class="no-js hover c-rubine_selection"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
 	Privacy policy and cookies information – University of Reading
-</title><meta charset="utf-8">
+</title>
+  <!--Page meta defined via a page's properties in AE-->
+<meta name="description" content="Privacy policy governing the use of the University of Reading website and those of its wholly owned subsidiaries">    <!--replaces meta description tag -->
+<meta name="keywords" content="privacy policy, cookies, privacy, policy, University of Reading, UK, web site privacy, website privacy, act, DPA, data protection act, 1998, personal information, information officer, IMPS, security, disclosure, personal data, safe harbor,"><!--replaces meta keywords tag -->
+
+  <meta charset="utf-8">
 
 <!-- STYLE SHEETS -->
-<link rel="stylesheet" type="text/css" href="/web/stylesheets/rdg_stylesheet.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/web/stylesheets/rdg_stylesheet.css?dr-pgr-v=1.0" media="screen">
 <link rel="stylesheet" type="text/css" href="/web/stylesheets/rdg_colours.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/web/stylesheets/rdg_mediaqueries.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/web/stylesheets/rdg_mediaqueries.css?dr-pgr-v=1.0" media="screen">
 <noscript><link rel="stylesheet" type="text/css" href="/web/stylesheets/rdg_noscript.css" media="screen"></noscript>
 <link rel="stylesheet" type="text/css" href="/web/stylesheets/rdg_print.css" media="print">
 <link rel="stylesheet" type="text/css" href="/web/stylesheets/rdg_high-contrast.css" media="screen">
@@ -281,12 +286,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 
 <script>
-//format breadcrumbs
 $(document).ready(function() {
+  var rtn = (function () {
+	  var i = 0;
+	  return location.pathname.match(/^\/closed\/university-strategy\/WhatsHappening\/CurrentActivity\//)
+	  	? function () { return (i++ === 4) ? '' : '<span class="breadcrumbs-divider">&#9656;</span>'; }
+	    : function () { return '<span class="breadcrumbs-divider">&#9656;</span>'; }
+	    ;
+  }());
+
   $('.breadcrumbs-list').each(function(index) {
-    var replaceArrow = $(this).html().replace(/&gt;/g,'<span class="breadcrumbs-divider">&#9656;</span>').replace(/&nbsp;/g,'');
+    var replaceArrow = $(this).html().replace(/&gt;/g, rtn).replace(/&nbsp;/g,'');
     $(this).html(replaceArrow);
   });
+
+  // Fix Current Activites on Strategy pages
+  if (location.pathname.match(/^\/closed\/university-strategy\/WhatsHappening\/CurrentActivity\//)) {
+    $('.breadcrumbs-list a:nth-of-type(5)').hide();
+  }
+
 });
 </script>
   </div>
