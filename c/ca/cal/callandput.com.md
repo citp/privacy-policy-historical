@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callandput.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818044943id_/http%3A//trading.callandput.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callandput.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319073454id_/https%3A//trading.callandput.com/en/privacy) for the most accurate reproduction.*
 
 # Trading Binary Options with CallAndPut
 
@@ -6,7 +6,7 @@
 
 ### 1\. Introduction
 
-callandput.com (the "Company" or "we") offers binary options and financial market trading services via the Internet. When you use the Company's services via its online trading platform, you shall be asked to provide personal identifiable information ("Personal Information") to the Company. We are committed to respecting your privacy and to complying with applicable data protection and privacy laws. We have therefore provided this Privacy Policy to help you understand how we collect, use, store and protect your Personal Information for the purpose of offering you trading services. If you do not understand this Privacy Policy or how we handle or use the Personal Information which you provide to us then you are invited to send in your questions to [support@callandput.com](mailto:support@callandput.com) and we will do our best to answer your questions in full as quickly as possible. You should read this Privacy Policy in conjunction with our End User License Agreement [**"Terms"**](https://web.archive.org/web/20140818044943id_/http%3A//trading.callandput.com/terms). 
+callandput.com (the "Company" or "we") offers binary options and financial market trading services via the Internet. When you use the Company's services via its online trading platform, you shall be asked to provide personal identifiable information ("Personal Information") to the Company. We are committed to respecting your privacy and to complying with applicable data protection and privacy laws. We have therefore provided this Privacy Policy to help you understand how we collect, use, store and protect your Personal Information for the purpose of offering you trading services. If you do not understand this Privacy Policy or how we handle or use the Personal Information which you provide to us then you are invited to send in your questions to [support@callandput.com](mailto:support@callandput.com) and we will do our best to answer your questions in full as quickly as possible. You should read this Privacy Policy in conjunction with our End User License Agreement [**"Terms"**](https://web.archive.org/web/20150329031041id_/https://trading.callandput.com/terms). 
 
 ### 2\. Modifications to the Privacy Policy
 
