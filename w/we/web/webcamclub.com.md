@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamclub.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704081033id_/http%3A//www.webcamclub.com%3Fc2hvdz1wcml2YWN5JndpZHRoPTkwMA%3D%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamclub.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319092447id_/http%3A//www.webcamclub.com%3Fc2hvdz1wcml2YWN5JndpZHRoPTkwMA%3D%3D) for the most accurate reproduction.*
 
 # WebCamClub - Live Sex Web Cam Video Chat - Free Memberships, XXX Live Sex Girls
 
@@ -9,11 +9,11 @@
   
 
 
-## for WebCamClub Network of Websites
+## for DynaSocial LLC Network of Websites
 
-## Athinodorou, 3, Dasoupoli, Strovolos, Nicosia - Cyprus
+## 848 N Rainbow Blvd #3974
 
-## +1.888.649.9178
+## +1.2094777676
 
   
 
@@ -23,9 +23,9 @@
 ## Last Updated: January 14th 2013
 
   1. General
-    1. The operative parties referred to in this policy are WebCamClub (hereinafter referred to as "COMPANY"), and you, the user of this site.
+    1. The operative parties referred to in this policy are DynaSocial LLC (hereinafter referred to as "COMPANY"), and you, the user of this site.
 
-      1. COMPANY, is the publisher and operator of the web sites [www.webcamclub.com](http://www.webcamclub.com/) and [www.webcamclub.tv](http://www.webcamclub.tv/) (hereinafter the "Webistes"). When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to WebCamClub d/b/a [www.webcamclub.com](http://www.webcamclub.com/) and [www.webcamclub.tv](http://www.webcamclub.tv/). Additionally, when the terms "the Websites" or "Websites" are used, these terms refer to [www.webcamclub.com](http://www.webcamclub.com/) and [www.webcamclub.tv](http://www.webcamclub.tv/).
+      1. COMPANY, is the publisher and operator of the web sites [www.webcamclub.com](http://www.webcamclub.com/) and [www.webcamclub.tv](http://www.webcamclub.tv/) (hereinafter the "Webistes"). When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to DynaSocial LLC d/b/a [www.webcamclub.com](http://www.webcamclub.com/) and [www.webcamclub.tv](http://www.webcamclub.tv/). Additionally, when the terms "the Websites" or "Websites" are used, these terms refer to [www.webcamclub.com](http://www.webcamclub.com/) and [www.webcamclub.tv](http://www.webcamclub.tv/).
 
       2. You, the User - As the user of these Websites, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the Websites shall be referred to in applicable second-person pronouns.
 
