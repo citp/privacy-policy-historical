@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affinityplus.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704025136id_/https%3A//www.affinityplus.org/portals/0/documents/AP-Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinityplus.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319065248id_/https%3A//www.affinityplus.org/portals/0/documents/AP-Privacy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                                         Rev. 4/12
+                                                                                                                         Rev. 9/14
                         WHAT DOES AFFINITY PLUS FEDERAL CREDIT UNION DO
 FACTS                   WITH YOUR PERSONAL INFORMATION?
 Why?                    Financial companies choose how they share your personal information. Federal law gives
@@ -29,14 +29,14 @@ investigations, or to report to credit bureaus
 For our marketing purposes –                                                   Yes                               No
 to offer our products and services to you
 For joint marketing with other financial companies                             Yes                               No
-For our affiliates’ everyday business purposes –                               No                        We don't share
+For our affiliates’ everyday business purposes –                               Yes                               No
 information about your transactions and experiences
-For our affiliates’ everyday business purposes –                               No                        We don't share
+For our affiliates’ everyday business purposes –                               No                         We don't share
 information about your creditworthiness
-For our affiliates to market to you                                            No                        We don't share
-For nonaffiliates to market to you                                             No                        We don't share
+For our affiliates to market to you                                            No                         We don't share
+For nonaffiliates to market to you                                             No                         We don't share
 Questions?              Call (651) 291-3700 or (800) 322-7228 or go to www.affinityplus.org
-                                                                                               DMNVL1 (DXPS00 PNDM03)
+                                                                                              DMNVL2 (DXPS00 PNDM03)-e
 
 
 Page 2
@@ -59,7 +59,8 @@ Why can’t I limit all sharing?   Federal law gives you the right to limit only
 Definitions
 Affiliates                       Companies related by common ownership or control. They can be financial and
                                  nonfinancial companies.
-                                 - Affinity Plus Federal Credit Union does not share with our affiliates.
+                                 - Our affiliates include Affinity Plus Title Company and Affinity Plus Investment
+                                    Center.
 Nonaffiliates                    Companies not related by common ownership or control. They can be financial and
                                  nonfinancial companies.
                                  - Affinity Plus Federal Credit Union does not share with our nonaffiliates so they
