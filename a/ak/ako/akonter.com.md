@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akonter.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915032616id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akonter.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319112150id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Akonter
 
@@ -27,7 +27,7 @@ Akonter bookmarks is a social bookmarking service which lets you save favorites 
 
 [ ](https://www.facebook.com/akonter "Follow us on Facebook") [ ](https://twitter.com/akonterr "Follow us on twitter") [ ](https://plus.google.com/103263747725718063263 "Follow us on Google")
 
-[](http://www.akonter.com/submit/#offers)
+[](https://web.archive.org/MxnDmv/)
 
   
 
