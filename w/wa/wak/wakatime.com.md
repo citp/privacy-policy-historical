@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the wakatime.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917164737id_/https%3A//wakatime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakatime.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319014314id_/https%3A//wakatime.com/privacy) for the most accurate reproduction.*
 
 # WakaTime · Privacy
 
-Last Modified: Tuesday February 11th, 2014 ([view all changes](https://github.com/wakatime/legal/commits/master/privacy.md))
+Last Modified: Monday December 22nd, 2014 ([view all changes](https://github.com/wakatime/legal/commits/master/privacy.md))
 
 ## Information we collect
 
 We collect information to provide better services to all of our users. We collect information in two ways:
 
   * **Information you give us.** For example, information such as your email from when you signed up. This will never be shared publicly without your consent.
-  * **Information from your use of our text editor plugins.** We collect and store the timestamps, file names, project names, and tags you upload using our text editor plugins. This information will never be shared publicly without your consent.
+  * **Information from your use of our text editor plugins.** We collect and store the timestamps, file names, project names, branch names, syntax languages, and detected dependencies you upload using our text editor plugins. We display the syntax languages and detected dependencies on your public profile. This information, excluding syntax language data and detected dependency data, will never be shared publicly without your consent.
   * **Information from your use of our services.** We may collect information about the services you use and how you use them, like which pages you visit and which features you use. We use cookies with unique identifiers to authenticate your login session. Third parties, including but not limited to Google Analytics, may also use cookies to track your return visits to the website. 
 
 
