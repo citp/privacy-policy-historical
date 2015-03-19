@@ -1,46 +1,63 @@
-> *The following text is extracted and transformed from the seeking.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220092541id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeking.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319140525id_/https%3A//www.seekingarrangement.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Wealthy Dating | Privacy Policy | SeekingArrangement | The #1 Site for Mutually Beneficial Arrangements | SeekingArrangement.com
 
-Updated: April 20, 2009
+## Privacy Policy
 
-Your privacy is important to us, so we have created the following Privacy Policy to let you know what information we collect when you visit our web sites and when we serve advertisements on our network of websites, why we collect it and how it is used.
+SeekingArrangement.com respects your privacy. All personal information you submitted to SeekingArrangement.com will be kept in the strictest confidence.
 
-Please read this privacy policy carefully since by visiting this site you agree to be bound by the terms and conditions of this Privacy Policy and our website Terms and Conditions.
+Personal information you provide to us will only be used by SeekingArrangement.com, and will never be sold or given to third parties for any purpose without your consent. We are strongly committed to protecting your privacy online and have taken steps to protect information you share with us. For example, we use SSL encryption to safeguard your credit card data when used in E-commerce transactions. To help us protect your privacy, please maintain secrecy of username and password used in connection with your participation in any SeekingArrangement.com service.
 
-During your visit to the Site, we and/or our third party vendors may collect certain information, as follows.  
+### Our Commitment
 
+We are committed to protecting the privacy of our users. We want to provide a safe and secure user experience. We will use our best efforts to ensure that the information submitted to us remain private, and is used only for the purposes set forth herein.
 
-## Personally Identifiable Information
+### Privacy Scope
 
-We do not collect "Personally Identifiable Information" or"PII" on any of our websites.  PII means any information that may be used to identify an individual, including first and last name, physical address, email address, or telephone number.
+This privacy policy covers SeekingArrangement.com's treatment of personally identifiable information that is collected when you are on the SeekingArrangement.com website, and when you use SeekingArrangement.com services. This policy also covers our treatment of any personally identifiable information that our business partners share with us.
 
-## Non-Personally Identifiable Information
+### Information Collected
 
-We automatically receive and record anonymous information that your browser sends whenever you visit our website. We use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, one or more cookies that may uniquely identify your browser, and responses by a web surfer to an advertisement delivered by us. This information may be stored on our systems for about one year. We use technology, including technology from its third party advertising vendors, which includes cookies, "web beacons" and/or "action tags." A "cookie" is a small text file stored by your browser on your computer when you visit our Network. A "web beacon" or "action tag" is a small image (usually 1x1 pixel) embedded in a web page or email. We use cookies, web beacons and action tags to collect non-personally identifiable data to provide better and more relevant services and messages to that user. Cookies, web beacons and action tags permit us to recognize users and avoid repetitive requests for the same information.
+When you register as a member of SeekingArrangement.com, you are asked for a number of personal information, including your name, email address, zip code, phone numbers, occupation, hobbies and interests. Our website also automatically receives and records information on our server logs from your browser, including your IP address, browser type and SeekingArrangement.com cookie information. SeekingArrangement.com uses this information to personalize the content you see, to fulfill your service requests, to inform you of updates to our services, and to alert you to products and services we believe may be of interest to you.
 
-As a rule, non-personally identifiable information is anonymous and is not used to identify a specific person.
+### Visitor Information
 
-Web surfers may elect not to provide non-personally identifiable information by following the cookie opt-out procedures set forth below.
+We gather information about all users collectively, such as what areas users visits most frequently and what services users access the most. We only use such data anonymously and in the aggregate. This information helps us determine what is the most benefitial for our users and how we can continually create a better overall user experience. We may share this information with our partners, but only in the aggregate, so that they may also understand how our visitors use our website.
 
-## Personally identifiable information
+### Specific Information
 
-We do not collect PII.
+In certain cases, when you signup to use a services, respond to an offer, submit your profile, or purchase a product or service, for example, we may collect more specific information about you, such as your name, address, phone number, email, credit card number, etc. During your visit to our website, we may also ask you for other information, such as information on your interests, likes and dislikes regarding the website, etc., in an effort to deliver the best user experience.
 
-## Non-personally identifiable information
+Personal information collected are used solely by SeekingArrangement.com and are never sold or given to third parties for any purpose without your explicit consent.
 
-We may use your non-personal information in order to better target advertisements, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.  We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use. 
+We also provide you with the opportunity to opt-opt out of serveral types of communications at the time of registration. If you choose to receive these types of communications at the time of registration, but later decide you no longer want to receive them, simply change your preferences on your account setting or communicate your preferences to us via email.
 
-We do not collect PII.
+### General Disclosure Information
 
-We employ commercially reasonable security measures to ensure the security of all data. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Except as described in this privacy policy, we do not disclose information about your individual visits to SeekingArrangement.com, or personal information you provide, such as your name, address, email, phone number, credit card number, etc., to any third parties, except when we believe it is required by law or to protect SeekingArrangement.com, our users or others. However, we may record and share aggregate information with our partners.
 
-## Non-personally identifiable information
+We employ other companies and individuals to perform functions on our behalf. Examples may include hosting our web servers, analyzing data, providing marketing services, processing credit card payments, and other services. These companies may have access to your personal information as necessary to perform their functions, but they may not share that information with any third party.
 
-Our advertising partners may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) and work with industry leading companies to address important privacy and consumer protection issues in online advertising.
+### Disclosure for Accounts Payable or Collections
 
-If you prefer not to receive behavioral ads you may opt-out of this anonymous ad targeting. Please note that if you opt-out ad companies may continue to collect non-personal information in connection with ad serving for limited reporting and auditing purposes. Examples of these include but are not limited to reporting overall advertising performance, geographic activity, and other similar analyses.  Most browsers will accept cookies unless you change your browser settings to refuse them and opt-out of the use of cookies and those of our third party advertising technology vendors. For more information on cookies and how to manage and delete them, please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+It is your duty to make sure that your keep your account(s) in good standing with us.  If you have an outstanding balance, or if you dispute you payment to us with your credit card or financial institution for any reason, please note that all information collected from your activity on our website may be disclosed to the bank and/or collections agency we work with for the purposes of establishing proof of user’s identify, proof of use, proof that service was provided, and / or collecting any outstanding debt owed to us.
 
-We are very sensitive to the issue of children's privacy and make every effort to protect the privacy of children using the Internet. Our website, products, and services are not developed for or directed at children under 13. For that reason, we does not knowingly collect or maintain information on the websites from persons under 13 years of age. If you are under 13 years of age, please do not use or access the websites at any time or in any manner.
+### Updating Account Information
 
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.  For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of this website constitutes your agreement to this Privacy Policy and any updates.
+SeekingArrangement.com allows you to change your personal information at any time. To do so, simply logon to SeekingArrangement.com with your username and password, and you will be able to update the information you have submitted.
+
+### Online Transactions
+
+When you place an order online, your personal details and credit card information are encrypted using SSL encryption techology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details, SSL makes it very difficult for your information to be stolen or intercepted while being transferred.
+
+Our credit card transactions are processed by [MultiCards](http://www.multicards.com/). All information sent to MultiCards is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For MultiCards' privacy statement, please click [HERE](https://www.multicards.com/en/privacy.html).
+
+### Cookies
+
+To enhance your experience at SeekingArrangement.com and to access member services, we use a feature on your Internet browser called a 'cookie'. Cookies are small files that your web browser places on your computer's hard drive. We use cookies for remembering user preferences, user sessions, tracking visits to understand visitor behavior, and planning for increased loads. Because of our use of cookies, we can deliver a faster services and a more personalized website experience. You have the option of setting your browser to reject cookies. However, doing so will hinder your ability to logon or use member services offered on our website.
+
+### Privacy Policy Changes
+
+If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about our privacy policy, please feel free to email us at **privacy(at)SeekingArrangement.com**
+
+SeekingArrangement.com uses reasonable precautions to keep personal information disclosed to us secure. However, we are not responsible for any breach of security. This privacy policy is not intended to, and does not, create any contractual or other legal rights in or on behalf of any party.
