@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftd.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010152809id_/http%3A//www.ftd.com/custserv/security.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftd.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319093401id_/https%3A//www.ftd.com/custserv/security.epl) for the most accurate reproduction.*
 
 # Security & Privacy
 
@@ -10,7 +10,7 @@ Links to Other Web Sites Child Protection Opt Out / Modify Your Consent |
 
 Revised December 10, 2012
 
-FTD.com ("FTD," "we" or "us") is committed to protecting our customers' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at, or linked to, the URL: [www.FTD.COM](http://www.ftd.com/). Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy.
+FTD.com ("FTD," "we" or "us") is committed to protecting our customers' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at, or linked to, the URL: [www.FTD.COM](https://www.ftd.com/350). Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy.
 
 In general, you can visit our Site without telling us who you are or revealing any personal information about yourself. In order to better provide you with numerous products and services, our Site collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. 
 
