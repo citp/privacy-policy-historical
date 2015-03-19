@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolcashonline.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214053717id_/https%3A//schoolcashonline.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolcashonline.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319110117id_/https%3A//schoolcashonline.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # SchoolCashOnline.com:
 
@@ -72,7 +72,7 @@ Caution should be exercised in regard to the disclosure of User Information. In 
 
 User Information will be retained for a reasonable period of time in order to comply with applicable legislation following the end of the User relationship. Following the end of the User relationship, User Information will be stored in a secure storage facility. After the aforementioned reasonable period of time elapses, all User documentation will be destroyed in a manner commensurate with its sensitivity unless there are legal requirements that require its retention. 
 
-KEV transfers User Information to service providers under contract to KEV that provide technical support, accounting, legal, tax preparation and like services. KEV remains responsible for User Information while it is in the hands of third party service providers and protects the information (and KEV) through contractual requirements for its service providers to afford User Information the same level of protection as it is given by KEV.
+KEV transfers User Information to service providers under contract to KEV that provide technical support, accounting, legal, tax preparation and like services in a foreign country and it may be accessible to law enforcement and national security authorities of that jurisdiction. KEV remains responsible for User Information while it is in the hands of third party service providers and protects the information (and KEV) through contractual requirements for its service providers to afford User Information the same level of protection as it is given by KEV.
 
 User Information must be as accurate, complete, and up to date as necessary for the purposes for which it is to be used and will only be routinely updated where necessary for those purposes.
 
