@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the free-strip-games.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727143512id_/http%3A//www.free-strip-games.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-strip-games.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319073623id_/http%3A//www.free-strip-games.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and terms | Free-Strip-Games.com
+
+Follow us!
+
+Best Friends
+
+[ ](http://www.pov-house.com/)
+
+[ ](http://affiliates.lifeselector.com/track/MTg2MS4zLjMuMy4xLjYyNi4wLjAuMA)
+
+  
+
 
 ##  What information do we collect?
 
@@ -54,3 +65,12 @@ This policy was last modified on 2014-01-29.
 ##  Contacting us
 
 If there are any questions regarding this privacy policy you may contact us using this email:
+
+[ ](http://www.strip-poker.xxx/)
+
+More Friends
+
+[ ](http://www.uplay-istrip.com/)
+
+  
+
