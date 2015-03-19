@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tropo.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031114542id_/https%3A//www.tropo.com/terms-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropo.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319082054id_/https%3A//www.tropo.com/terms-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Tropo | Tropo - Cloud API for Voice and SMS
 
