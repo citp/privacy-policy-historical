@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123072005id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319132232id_/https%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
 
 # RomanceStuck Privacy Policy | ♥ RomanceStuck.com
 
@@ -10,7 +10,7 @@ To protect your privacy, **RomanceStuck** has instituted policies that give you 
 
  **RomanceStuck** offers a 'refer-a-friend' service that requires a user to submit their email address and those of their friends to whom they are recommending the site. **RomanceStuck** only uses this information to send the 'refer-a-friend' email at the time that the form is filled out.
 
- **RomanceStuck** requires email addresses, names, and other submission information from those users who choose to submit their romance ideas, tips and/or articles for inclusion in **RomanceStuck's** database. The email address is used only used to contact the user in regards to their site submission and will not be used in any other manner. Other submitted data will appear on the appropriate page within **RomanceStuck.com**. All users submitting ideas, tips, and/or articles must agree to the [submission terms](http://www.romancestuck.com/submit-rules.htm).
+ **RomanceStuck** requires email addresses, names, and other submission information from those users who choose to submit their romance ideas, tips and/or articles for inclusion in **RomanceStuck's** database. The email address is used only used to contact the user in regards to their site submission and will not be used in any other manner. Other submitted data will appear on the appropriate page within **RomanceStuck.com**. All users submitting ideas, tips, and/or articles must agree to the [submission terms](https://www.romancestuck.com/submit-ideas.htm).
 
  **RomanceStuck** requires an email address, name, and website information from those webmasters who choose to submit their romance related web site for addition into **RomanceStuck's** Romance Directory. This information is used only used to contact the webmaster in regards to their site submission.
 
@@ -24,4 +24,9 @@ For specific privacy policies for other **RomanceStuck** services offered via ot
 
  **UNDER NO CIRCUMSTANCES WILL ROMANCESTUCK SHARE YOUR EMAIL ADDRESS WITH A THIRD PARTY.**
 
-If you have any questions, about this privacy statement, our online practices, or your dealings with our web sites, you can contact: [webmaster\@romancestuck.com](http://www.romancestuck.com/contactus.php)
+If you have any questions, about this privacy statement, our online practices, or your dealings with our web sites, you can find our contact information on our [Contact Us](https://www.romancestuck.com/contactus.php) page.
+
+With thousands of romantic ideas, RomanceStuck helps you find love and stay in love!  
+All content of this site is ©Copyright RomanceStuck.com 2000-2015. All rights reserved.  
+No part of this website may be copied without the written permission of RomanceStuck.com.  
+
