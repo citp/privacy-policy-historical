@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the svp.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143942id_/https%3A//www.svp.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svp.co.uk privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319014728id_/https%3A//www.svp.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  *     * The product Blaupunkt 23 inch HD Ready LED TV with Freeview Tuner Built-in DVD Player and USB PVR Function - Red has been added to comparison list.
-
-
 
 **Use of Cookies  **  
 We use technology to track the patterns of behaviour of visitors to our site. This includes using a "cookie" which is stored by your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
@@ -25,4 +21,6 @@ Questions/comments about privacy? Email us at [data@svp.co.uk](mailto:data@svp.
 
 Change Cookie Settings
 
-We use cookies to give you the best possible experience on our website. By continuing to browse this site, you give consent for cookies to be used. For more details, including how you can amend your preferences, please read our Cookie Policy. [Read About Our Cookies](https://www.svp.co.uk/https:/www.svp.co.uk/) Allow Cookies Refuse Cookies Close 
+We use cookies to give you the best possible experience on our website. By continuing to browse this site, you give consent for cookies to be used. For more details, including how you can amend your preferences, please read our Cookie Policy. 
+
+[Read About Our Cookies](https://www.svp.co.uk/) Allow Cookies Refuse Cookies Close 
