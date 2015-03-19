@@ -1,26 +1,30 @@
-<!--The following is the downloaded HTML source of the viagogo.com privacy policy that was archived on 2014-09-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140915100935id_/http%3A//www.viagogo.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viagogo.com privacy policy that was archived on 2015-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319053642id_/http%3A//www.viagogo.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
 	
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window['adrum-start-time']=new Date().getTime();</script>
+<script type="text/javascript" src="http://cdn.viagogo.net/js/rum.js?v=1285287198"></script>
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"8654c4f5f1","applicationID":"219501","transactionName":"Yl1RYhZQWkYCUxdQClsXd1kQf1FBIF8NTRdaVF9TFh58UA9ATHoKW0xWWBB2RloWQA==","queueTime":0,"applicationTime":55,"ttGuid":"79F2B4B15FAE4DBA","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcDVVFVGwEBXVRSBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <!-- New Relic Header -->
 
 <title>viagogo - Buy &amp; Sell Concert, Sport &amp; Theater Tickets</title>
 <meta name="description" content="viagogo is an online ticket exchange that allows people to buy and sell live event tickets in a safe and guaranteed way">
 <meta name="keywords" content="viagogo, buy tickets, sell tickets, concert tickets, sport tickets, theatre tickets">
 
-    <link rel="stylesheet" type="text/css" href="http://cdn.viagogo.net/css/default/default.css?v=1909469133">
+<link rel="stylesheet" type="text/css" href="http://cdn.viagogo.net/css/default/desktopb.css?v=2090844629">
+
+    <!--[if lt IE 10]><link rel="stylesheet" type="text/css" href="http://cdn.viagogo.net/areas/themes/default_ie/ieadditionalb.css?v=1694571706" /><![endif]-->
+
+
+<link rel="stylesheet" type="text/css" href="http://cdn.viagogo.net/css/default/lang/en.css">
 
 <link title="viagogo" rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml">
-<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://cdn.viagogo.net/areas/themes/default_ie/ie6.css?v=442459995" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://cdn.viagogo.net/areas/themes/default_ie/ie7.css?v=1928132545" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://cdn.viagogo.net/areas/themes/default_ie/ie7.css?v=468552081" /><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://cdn.viagogo.net/areas/themes/default_ie/ie8.css?v=1325473891" /><![endif]-->
 <!--[if IE 9]><link rel="stylesheet" type="text/css" href="http://cdn.viagogo.net/areas/themes/default_ie/ie9.css?v=1507862398" /><![endif]-->
- 
-
-
-<script type="text/javascript" src="http://cdn.viagogo.net/js/common.js?v=460489292"></script>	
+<script type="text/javascript" src="http://cdn.viagogo.net/js/common.js?v=539454628"></script>
+	
 <meta property="og:url" content="http://www.viagogo.com/help/privacy"><meta property="og:title" content=""><meta property="og:type" content="article"><meta property="og:image" content="http://edge.viagogo.net/img/assets/logo/viagogo_logo_fb.png"><meta property="og:description" content=""><meta property="og:site_name" content="viagogo.com"><meta property="fb:admins" content="1838832188,100004244673138,100001535457519"><meta property="fb:app_id" content="3021345037">
 	
 	
@@ -29,18 +33,16 @@
 
 </head>
 
-<body class="go_L1033 go_A3 go_CUSD v-L-1033 v-A-3 v-C-USD go_help v-help go_help_contentgroup v-help-contentgroup vt1">
+    <body class="go_L1033 go_A3 go_CUSD v-L-1033 v-A-3 v-C-USD go_help v-help go_help_contentgroup v-help-contentgroup vt1">
+        <div class="wrap">
 <div id="vg-root"></div>
 <div id="fb-root"></div>
-<script type="text/javascript">
-	//<![CDATA[
-	window.vgAsyncExec = [];
-	window.fbAsyncExec = [];
-	//]]>
-</script>
-	
-	
-	
+<script type="text/javascript">//<![CDATA[
+window.vgAsyncExec = [];window.fbAsyncExec = [];
+//]]></script>
+            
+
+
 
 
 
@@ -58,30 +60,50 @@
 
 
 
-<div id="hdr">
-    <div class="pgw rel cfix">
-
+    <div id="hdr" class="pg gRow m0">
         
-            <a href="http://www.viagogo.com/" id="l1" style="z-index:9999;">
-                <i class="i-via cWht"></i><i class="i-go cGrn2"></i><i class="i-go cWht"></i>
+            <a href="http://www.viagogo.com/" id="l1">
+                <i class="i-via"></i><i class="i-go"></i><i class="i-go"></i>
             </a>
+                        <div id="srchWrp">
+                    <div class="rel">
+
+<div id="srch" class="form">
+    
+    <div class="fg inlbtn">
+        <div class="rel">
+            <input id="search" class="radius" name="q" type="text" value="" placeholder="Search for an event, venue or city" autocomplete="off" spellcheck="false">
+            <i class="i-search nosel"></i>
+            <div id="loading" style="display:none;"><div class="spin s"></div></div>
+            <div id="searchX"><i aria-hidden="true" class="i-remove"></i></div>
+            
+        </div>
+
+
+
+        <div>
+            <input type="submit" id="searchButton" style="position: absolute; left: -9999px; width: 1px; height: 1px;" class="btn pri" value="Search">
+        </div>
     </div>
-</div>    <div id="v-header-navbar">
-        
-
-<div id="v-header-global-navigation" class="v-page-width">
-	<ul class="v-tabs">
-
-		<li class="v-selected v-first"><a href="/"><span>Home</span></a></li>
-	
-			<li class=""><a href="/Concert-Tickets"><span>Concert Tickets</span></a></li>
-			<li class=""><a href="/Sports-Tickets"><span>Sports Tickets</span></a></li>
-			<li class=""><a href="/Arts-and-Theater-Tickets"><span>Arts and Theater Tickets</span></a></li>
-			<li class=""><a href="/Festival-Tickets"><span>Festival Tickets</span></a></li>
-			<li class=" v-last"><a href="/Upcoming"><span>Upcoming</span></a></li>
-        <li id="sellNav"><a href="/selltickets">Sell Tickets</a></li>
-	</ul>
+    <div id="searchResults" class="grouped" style="display: none;"></div>
+    
 </div>
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+    </div>
+
+
+    
+    <div id="v-header-navbar">
+        
     </div>
     <div id="v-content">
 
@@ -107,7 +129,7 @@ Please review this Privacy Policy, which sets out our policies regarding the col
 Please note that when browsing our site, the provision of any personal information is not required unless and until you choose to make a purchase or sign up for one of our email newsletters or other services as described below.  Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us.  If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of your parents or guardians.
 </p>
 	<p>
-In order to purchase tickets and related services through our site, essential personal information such as your name, your telephone number, your email address, and any additional information required for authenticating a purchase is required.  If you are purchasing multiple tickets or buying tickets on behalf of others, please ensure that each of these other customers agrees, in advance, to disclosure of their personal information to us.
+In order to purchase tickets and related services through our site, essential personal information such as your name, your telephone number, your email address, and any additional information required for authenticating a purchase is required.  If you are purchasing multiple tickets or buying tickets on behalf of others, please ensure that each of these other customers agrees, in advance, to the disclosure of their personal information to us.
 
 </p><p>
 If you purchase ticket(s), your name and address may be provided to another user for the sole purpose of delivering the specific purchased product(s). The other user agrees to not use this information for any other purpose, either in connection with such shipment(s) or separately from such shipment(s). The other user also agrees not to separately contact you at any time for any reason.
@@ -143,11 +165,9 @@ As a viagogo customer, you may opt in at any time to occasionally receive update
 If you opt in, viagogo's partners may sell, rent or trade personal information (excluding credit or bank card details) to certain third parties. If you do not wish viagogo's partners to pass on these details, please do not opt in, or if you have already opted in, use the opt out procedure as described in above paragraph. </p>
 	<p>Our web site has security features in place to protect against loss, misuse and alteration of the information under our control. All personal information you provide to viagogo is transmitted using 128 bit Secure Server Software SSL (Secure Socket Layer) encryption. SSL is a proven coding system that allows your browser to automatically encrypt, or scramble, all of your personal data before you send it to us. It will not therefore be possible for your payment method data, name and address to be read as the information travels over the Internet. In addition, whenever you transact on viagogo, you are protected by viagogo’s guarantee.
 </p>
-
 	<p>
 We do not sell, rent or trade your personal information to third parties for marketing purposes without your express consent.
 </p>
-
 	<p>
 viagogo may contain links to other web sites for which we are not responsible. By clicking on any such links, you are entering another web site which will contain content and practices for which viagogo has no responsibility. We therefore encourage you to read the privacy statements of all such sites independently as their policies may be materially different from this Privacy Policy. Please note that it is your responsibility to maintain the secrecy of your passwords and your viagogo membership account information. Please be vigilant with this information, especially whenever you are online.
 </p><p>
@@ -156,27 +176,23 @@ We may use third-party advertising companies, to serve or track ads on our web s
 	<p>
 Please note that from time to time, viagogo may transfer your personal and/or financial information to a related company or partner in order to improve our services or to help our security, credit risk or fraud protection activities. By submitting to us your details, you are providing consent to the transfer of your information for the purposes set out in this paragraph. Please acknowledge that any transfer of information will take place in accordance with this Privacy Policy and as permitted by law.
 </p>
-	<p>In the event that viagogo is sold, or transferred some of its assets to another party, our customer information will most likely also be transferred in connection with such acquisition. If your personal information is transferred, use of such information would remain subject to this Privacy Policy. Your personal information will be passed on to a successor in interest in the event of a liquidation or administration of viagogo.</p>
+	<p>
+In the event that viagogo is sold, or transferred some of its assets to another party, our customer information will most likely also be transferred in connection with such acquisition. If your personal information is transferred, use of such information would remain subject to this Privacy Policy. Your personal information will be passed on to a successor in interest in the event of a liquidation or administration of viagogo.
+</p>
 	<p>
 You should be aware that in addition to the circumstances described above, viagogo may disclose your financial or personal information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of viagogo or its affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. 
 </p><p>
 This policy is effective as of March 19, 2009. Any material changes in the way viagogo uses personal information will be described in future versions of this Privacy Statement.  
 </p><p>
 You can always submit concerns regarding our Privacy Policy or our privacy practices via email by <a href="/ContactUs.aspx">clicking here</a>. Please reference the privacy policy in your subject line. viagogo will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. You can also write to us at:
-</p>
-<p>
+</p><p>
 <b>viagogo</b><br>
-Attn: Privacy Team <br>
-160 Greentree Drive, <br>
-Suite 101, <br>
-Dover, Delaware, <br>
-County of Kent, 19904.  
+Attn: Privacy Team<br>
+viagogo AG, Rue de Lyon 109, 1203 Geneva, Switzerland
 </p>
 <p>
 Thank you for using viagogo!
 </p>
-
-
 </div>
 </div>
 
@@ -190,313 +206,122 @@ Thank you for using viagogo!
     <div id="modal" class="mzodal" style="display:none;"></div>
 
     
+        <div id="ftr">
+            <div class="pg">
+                <div class="gRow mb0">
+                        <div class="gCol3 mb0 gCol4-l gCol7-m g0">
+                            <h6 class="t m pbl cWht">Regional Settings</h6>
 
+    <div class="w80r">
+        <ul class="regionals">
+                <li data-user-setting="1">
+                    <i class="i-globe fs18 mrxxs"></i> Country:<span> United States</span>
+                </li>
+                            <li data-user-setting="2">
+                    <i class="i-comment mrxxs"></i> Language:<span> English (US)</span>
+                </li>
+                            <li data-user-setting="3">
+                    <i class="i-banknote mrxxs"></i> Currency:<span> US$ United States Dollar</span>
+                </li>
+        </ul>
+    </div>
 
-
-
-
-
-
-
-
-
-<div id="ftr">
-    <div class="pgw">
-        
-<div id="ftrBdy">
-	<ul>
-		<li><a href="/Sports-Tickets/International-Soccer/Spanish-Premier-League/Real-Madrid-FC-Tickets" title="Real Madrid FC Tickets">Real Madrid FC Tickets</a></li><li><a href="/Sports-Tickets/International-Soccer/Spanish-Premier-League/FC-Barcelona-Tickets" title="FC Barcelona Tickets">FC Barcelona Tickets</a></li><li><a href="/Sports-Tickets/International-Soccer/Italian-Premier-League/AC-Milan-Tickets" title="AC Milan Tickets">AC Milan Tickets</a></li><li><a href="/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets" title="Michael Bublé Tickets">Michael Bublé Tickets</a></li><li><a href="/Concert-Tickets/Rock-and-Pop/Elton-John-Tickets" title="Elton John Tickets">Elton John Tickets</a></li><li><a href="/Concert-Tickets/Rock-and-Pop/Justin-Timberlake-Tickets" title="Justin Timberlake Tickets">Justin Timberlake Tickets</a></li><li><a href="/Concert-Tickets/Rock-and-Pop/Robbie-Williams-Tickets" title="Robbie Williams Concert Tickets">Robbie Williams Concert Tickets</a></li><li><a href="/Concert-Tickets/Alternative-and-Indie/Arctic-Monkeys-Tickets" title="Arctic Monkeys Tickets">Arctic Monkeys Tickets</a></li><li><a href="/Sports-Tickets/Formula-1/Monaco-F1-GP-Tickets" title="Monaco F1 GP Tickets">Monaco F1 GP Tickets</a></li><li><a href="/Concert-Tickets/R+B-Urban-Soul/Beyonce-Tickets" title="Beyonce Tickets">Beyonce Tickets</a></li><li><a href="/Sports-Tickets/Formula-1/Belgian-F1-GP-Tickets" title="Belgian F1 GP Tickets">Belgian F1 GP Tickets</a></li><li><a href="/Concert-Tickets/R+B-Urban-Soul/Rihanna-Tickets" title="Rihanna Tickets">Rihanna Tickets</a></li><li><a href="/Concert-Tickets/Rock-and-Pop/Depeche-Mode-Tickets" title="Depeche Mode Tickets">Depeche Mode Tickets</a></li><li><a href="/Sports-Tickets/International-Soccer/FIFA-Confederations-Cup-Tickets" title="FIFA Confederations Cup Tickets">FIFA Confederations Cup Tickets</a></li><li><a href="/Festival-Tickets/Festivals-in-Belgium/Tomorrowland-Tickets" title="Tomorrowland 2014 Tickets">Tomorrowland 2014 Tickets</a></li>
-	</ul>
-</div>
-
-
-<div id="ftrAdmin">
-	<a href="/help">Help</a><a href="/about">About Us</a><a href="/Corporate-Service">Corporate Service</a><a href="/affiliates">Affiliates</a><a href="/Careers">Careers</a>
-</div>        <div id="ftrTCs">
-	Use of this web site constitutes acceptance of the <a href="/help/termsandconditions" rel="nofollow" data-modal="true">Terms and Conditions</a> and <a href="/help/privacy" rel="nofollow" data-modal="true">Privacy Policy</a><br>Copyright © viagogo Inc 2014
-
-</div>
-
-
- 
+                        </div>
+                        <div class="gCol2 gCol3-l gCol4-m offset1-m">
+                                <h6 class="t m pbl cWht">More</h6>
+<ul id="ftrAdmin">
+	<li><a href="/Help">Help</a></li>
+	<li><a href="/about">About Us</a></li>
+	<li><a href="/Corporate-Service">Corporate Service</a></li>
+	<li><a href="/affiliates">Affiliates</a></li>
+	<li><a href="/Careers">Careers</a></li>
+</ul>                                                            <h6 class="t m pbl cWht">Stay Up to Date</h6>
+                                <ul id="ftrSocial">
+                                    <li><a href="https://www.facebook.com/viagogo" target="blank" rel="me"><i class="i-facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/viagogo" target="blank" rel="me"><i class="i-twitter"></i></a></li>
+                                    <li><a href="https://plus.google.com/+viagogo" target="blank" rel="me"><i class="i-google-plus"></i></a></li>
+                                </ul>
+                        </div>
+                            <div class="gCol7 gCol5-l gCol12-m">
+                                <h6 class="t m pbl cWht">Popular Events</h6>
+                                <div id="ftrHot">
+                                    
+                                    <ul>
+	<li class="gCol4 mb0 gCol6-xl"><a href="/Sports-Tickets/International-Soccer/Spanish-Premier-League/FC-Barcelona-Tickets" title="FC Barcelona Tickets">FC Barcelona Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Sports-Tickets/International-Soccer/Spanish-Premier-League/Real-Madrid-FC-Tickets" title="Real Madrid FC Tickets">Real Madrid FC Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Festival-Tickets/Festivals-in-Belgium/Tomorrowland-Tickets" title="Tomorrowland 2015 Tickets">Tomorrowland 2015 Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Sports-Tickets/Formula-1/Monaco-F1-GP-Tickets" title="Monaco F1 GP Tickets">Monaco F1 GP Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/Rock-and-Pop/Robbie-Williams-Tickets" title="Robbie Williams Concert Tickets">Robbie Williams Concert Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Sports-Tickets/International-Soccer/Italian-Premier-League/AC-Milan-Tickets" title="AC Milan Tickets">AC Milan Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets" title="Michael Bublé Tickets">Michael Bublé Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/Rock-and-Pop/Elton-John-Tickets" title="Elton John Tickets">Elton John Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/Alternative-and-Indie/Arctic-Monkeys-Tickets" title="Arctic Monkeys Concert Tickets">Arctic Monkeys Concert Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/Rock-and-Pop/Justin-Timberlake-Tickets" title="Justin Timberlake Tickets">Justin Timberlake Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Sports-Tickets/Formula-1/Belgian-F1-GP-Tickets" title="Belgian F1 GP Tickets">Belgian F1 GP Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/R+B-Urban-Soul/Beyonce-Tickets" title="Beyonce Concert Tickets">Beyonce Concert Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/R+B-Urban-Soul/Rihanna-Tickets" title="Rihanna Tour 2015">Rihanna Tour 2015</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/Rock-and-Pop/Depeche-Mode-Tickets" title="Depeche Mode Tour 2015">Depeche Mode Tour 2015</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Sports-Tickets/International-Soccer/FIFA-Confederations-Cup-Tickets" title="FIFA Confederations Cup Tickets">FIFA Confederations Cup Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/Rock-and-Pop/Bruno-Mars-Tickets" title="Bruno Mars Tour 2015">Bruno Mars Tour 2015</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Sports-Tickets/Other-Sports/Rugby-Union/Hong-Kong-Sevens-Tickets" title="Hong Kong Sevens Tickets">Hong Kong Sevens Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Sports-Tickets/International-Soccer/Spanish-Premier-League/FC-Barcelona-Tickets" title="FC Barcelona Tickets">FC Barcelona Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Sports-Tickets/International-Soccer/Spanish-Premier-League/Real-Madrid-FC-Tickets" title="Real Madrid FC Tickets">Real Madrid FC Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Festival-Tickets/US-Festivals/Coachella-Tickets" title="Coachella Tickets">Coachella Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Festival-Tickets/International-Festivals/Ultra-Music-Festival-Tickets" title="Ultra Music Festival Tickets">Ultra Music Festival Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/Rock-and-Pop/Eurovision-Song-Contest-Tickets" title="Eurovision Song Contest Tickets">Eurovision Song Contest Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Concert-Tickets/Hard-Rock-Metal/AC-DC-Tickets" title="AC/DC Tour 2015">AC/DC Tour 2015</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Festival-Tickets/Festivals-in-Belgium/Tomorrowland-Tickets" title="Tomorrowland 2015 Tickets">Tomorrowland 2015 Tickets</a></li><li class="gCol4 mb0 gCol6-xl"><a href="/Sports-Tickets/International-Soccer/Bundesliga/FC-Bayern-Muenchen-Tickets" title="FC Bayern München Tickets">FC Bayern München Tickets</a></li>
+</ul>
+                                </div>
+                            </div>
+                    <div class="gCol12 mtxxxl">
+                         
 <div id="ftrClientSwitch" class="v-text-std">
 
+</div>                        <div id="ftrTCs">
+	Copyright © viagogo AG 2015 <a href="/about/company" data-modal="true" target="_blank">Company Details</a><br>Use of this web site constitutes acceptance of the <a href="/help/termsandconditions" rel="nofollow" data-modal="true" target="_blank">Terms and Conditions</a> and <a href="/help/privacy" rel="nofollow" data-modal="true" target="_blank">Privacy Policy</a>
 </div>
-        <div id="ftrPgID">
-<span id="PageIdent"> - : W4 : - </span>
 
+                        <div id="ftrPgID">
+<span id="PageIdent"> - : W3 : - </span>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-    </div>
-</div>
-
-
-
-
 
 
 
     
 
 
-
-
-
-<div id="hdrIcons">
-    <div class="pgw rel cfix">
-
-            <div id="srchDD">
-                <div id="srchWrp">
-                    <div class="rel">
-
-
-    <div id="v-search-panel" style="padding-top:0; font-size:100%;">
-        <div id="v-search-input">
-            <input id="search" type="text" placeholder="Search" class="v-search-field v-span-8" maxlength="50" autocomplete="Off">
-            <i id="magnifier" class="i-search"></i>
-            <div id="loading" style="display:none;"><div class="spin s"></div></div>
-            <div id="searchX"><i aria-hidden="true" class="i-remove fs20"></i></div>
-        </div>
-        <div id="searchResults" style="display: none;"></div>      
-          
-        
-        <script id="searchTmpl" type="text/x-jquery-tmpl">
-
-<div class="tile sq uu0">
-    {{each  data}}
-    <div class="rel">
-        <a class="bk camo js-searchResult" href="${Url}" data-item-id="${Id}" ping="/Search/InsertStats?searchType=${$item.searchType}&amp;id=${Id}&amp;type=${EntityType}&amp;searchTerm=${$item.text}&amp;itemDepth=${$index+1}&amp;searchGuid=${$item.searchGuid}">
-            ${Title}
-        </a>
-        <span>${EntityTypeDescription}</span>
-    </div>
-    {{/each}}
-</div>
-        </script>
-    </div>
-
-                    </div>
-                </div>
+<div id="hdrLinks">
+            <div class="pg rel cfix">
+                <ul id="menu" class="fltr cfix">
+                            <li>
+                                <a data-menu="#ddsignup">
+                                    Sign Up
+                                    <i class="i-sortd plxxs"></i>
+                                </a>
+                            </li>
+                        <li>
+                            <a data-menu="#ddlogin">
+                                    <span>Log In<i class="i-sortd plxs"></i></span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/Help">
+                                Help
+                            </a>
+                        </li>
+                                            <li><a href="/selltickets" class="btn pri s">Sell Tickets</a></li>
+                                    </ul>
             </div>
+            <div id="hdrDropdowns">
+<div id="ddsignup" style="display:none;" class="hdd">
+<div class="cfix ps" style="width: 300px">
+    <div class="txtc t m cGry4 mbm">New Customers</div>
 
-        <ul id="menu" class="fltr cfix">
-                <li>
-                    <a id="hdrGeog" data-menu="#geographyDropdown"><i class="i-globe"></i></a>
-                </li>
+<p></p><ul class="ul">
+	<li>Get personalised recommendations</li>
+	<li>Be the first to hear about special offers</li>
+	<li>Manage your purchases, listings or sales</li>
+</ul><p></p>
+	
+<a class="btn bk mbs" href="https://www.viagogo.com/secure/loginregister/register">Sign Up with Email</a>
 
-                <li>
-                    <a id="hdrLanguage" data-menu="#languageDropdown">
-                        <i class="i-comment"></i>
-                    </a>
+        <div class="mbxs bar t xxs caps">or</div>
+        <div>
+                <input type="button" id="btnFBLogin" onclick=" VGAuth.FBLogin() " class="btn fb bk" value="Sign Up with Facebook">
+        </div>
 
-                </li>
-
-                <li>
-                    <a id="hdrCurrency" data-menu="#currencyDropdown">
-                        <span class="currencyIcon">US$</span>
-                    </a>
-
-                </li>
-
-                <li>
-                    <a data-menu="#ddmuser">
-                            <span class="showl">Sign in / Register</span>
-                            <i class="i-user hidel"></i>
-                    </a>
-                </li>
-        </ul>
-    </div>
-		<div id="hdrDropdowns" class="">
-
-
-<div id="geographyDropdown" class="hdd" style="display: none;">
-    <ul id="geogPanel">
-        <li class="act sel">
-            <a title="United States" href="http://www.viagogo.com">United States</a>
-        </li>
-                <li class="">
-                    <a title="Argentina" href="http://www.viagogo.com/ar">Argentina</a>
-                </li>
-                <li class="">
-                    <a title="Australia" href="http://www.viagogo.com/au">Australia</a>
-                </li>
-                <li class="">
-                    <a title="Austria" href="http://www.viagogo.at">Austria</a>
-                </li>
-                <li class="">
-                    <a title="Bahrain" href="http://www.viagogo.com/bh">Bahrain</a>
-                </li>
-                <li class="">
-                    <a title="Belgium" href="http://www.viagogo.be">Belgium</a>
-                </li>
-                <li class="">
-                    <a title="Bolivia" href="http://www.viagogo.com/bo">Bolivia</a>
-                </li>
-                <li class="">
-                    <a title="Brazil" href="http://www.viagogo.com/br">Brazil</a>
-                </li>
-                <li class="">
-                    <a title="Canada" href="http://www.viagogo.ca">Canada</a>
-                </li>
-                <li class="">
-                    <a title="Chile" href="http://www.viagogo.com/cl">Chile</a>
-                </li>
-                <li class="">
-                    <a title="China" href="http://www.viagogo.com/cn">China</a>
-                </li>
-                <li class="">
-                    <a title="Columbia" href="http://www.viagogo.com/co">Columbia</a>
-                </li>
-                <li class="">
-                    <a title="Denmark" href="http://www.viagogo.dk">Denmark</a>
-                </li>
-                <li class="">
-                    <a title="Dominican Republic" href="http://www.viagogo.com/do">Dominican Republic</a>
-                </li>
-                <li class="">
-                    <a title="Ecuador" href="http://www.viagogo.com/ec">Ecuador</a>
-                </li>
-                <li class="">
-                    <a title="Finland" href="http://www.viagogo.com/fi">Finland</a>
-                </li>
-                <li class="">
-                    <a title="France" href="http://www.viagogo.fr">France</a>
-                </li>
-                <li class="">
-                    <a title="Germany" href="http://www.viagogo.de">Germany</a>
-                </li>
-                <li class="">
-                    <a title="Greece" href="http://www.viagogo.gr">Greece</a>
-                </li>
-                <li class="">
-                    <a title="Holland" href="http://www.viagogo.nl">Holland</a>
-                </li>
-                <li class="">
-                    <a title="Hong Kong" href="http://www.viagogo.com/hk">Hong Kong</a>
-                </li>
-                <li class="">
-                    <a title="India" href="http://www.viagogo.com/in">India</a>
-                </li>
-                <li class="">
-                    <a title="Indonesia" href="http://www.viagogo.com/id">Indonesia</a>
-                </li>
-                <li class="">
-                    <a title="Israel" href="http://www.viagogo.com/il">Israel</a>
-                </li>
-                <li class="">
-                    <a title="Italy" href="http://www.viagogo.it">Italy</a>
-                </li>
-                <li class="">
-                    <a title="Japan" href="http://www.viagogo.com/jp">Japan</a>
-                </li>
-                <li class="">
-                    <a title="Kuwait" href="http://www.viagogo.com/kw">Kuwait</a>
-                </li>
-                <li class="">
-                    <a title="Luxembourg" href="http://www.viagogo.lu">Luxembourg</a>
-                </li>
-                <li class="">
-                    <a title="Malaysia" href="http://www.viagogo.com/my">Malaysia</a>
-                </li>
-                <li class="">
-                    <a title="Mexico" href="http://www.viagogo.com.mx">Mexico</a>
-                </li>
-                <li class="">
-                    <a title="New Zealand" href="http://www.viagogo.com/nz">New Zealand</a>
-                </li>
-                <li class="">
-                    <a title="Norway" href="http://www.viagogo.com/no">Norway</a>
-                </li>
-                <li class="">
-                    <a title="Paraguay" href="http://www.viagogo.com/py">Paraguay</a>
-                </li>
-                <li class="">
-                    <a title="Peru" href="http://www.viagogo.com/pe">Peru</a>
-                </li>
-                <li class="">
-                    <a title="Poland" href="http://www.viagogo.pl">Poland</a>
-                </li>
-                <li class="">
-                    <a title="Portugal" href="http://www.viagogo.pt">Portugal</a>
-                </li>
-                <li class="">
-                    <a title="Puerto Rico" href="http://www.viagogo.com/pr">Puerto Rico</a>
-                </li>
-                <li class="">
-                    <a title="Qatar" href="http://www.viagogo.com/qa">Qatar</a>
-                </li>
-                <li class="">
-                    <a title="Rep. of Ireland" href="http://www.viagogo.ie">Rep. of Ireland</a>
-                </li>
-                <li class="">
-                    <a title="Russia" href="http://www.viagogo.ru">Russia</a>
-                </li>
-                <li class="">
-                    <a title="Saudi Arabia" href="http://www.viagogo.com/sa">Saudi Arabia</a>
-                </li>
-                <li class="">
-                    <a title="Singapore" href="http://www.viagogo.com/sg">Singapore</a>
-                </li>
-                <li class="">
-                    <a title="Slovakia" href="http://www.viagogo.com/sk">Slovakia</a>
-                </li>
-                <li class="">
-                    <a title="South Africa" href="http://www.viagogo.co.za">South Africa</a>
-                </li>
-                <li class="">
-                    <a title="South Korea" href="http://www.viagogo.com/kr">South Korea</a>
-                </li>
-                <li class="">
-                    <a title="Spain" href="http://www.viagogo.es">Spain</a>
-                </li>
-                <li class="">
-                    <a title="Sweden" href="http://www.viagogo.se">Sweden</a>
-                </li>
-                <li class="">
-                    <a title="Switzerland" href="http://www.viagogo.ch">Switzerland</a>
-                </li>
-                <li class="">
-                    <a title="Taiwan" href="http://www.viagogo.com/tw">Taiwan</a>
-                </li>
-                <li class="">
-                    <a title="Turkey" href="http://www.viagogo.com.tr">Turkey</a>
-                </li>
-                <li class="">
-                    <a title="United Arab Emirates" href="http://www.viagogo.com/ae">United Arab Emirates</a>
-                </li>
-                <li class="">
-                    <a title="United Kingdom" href="http://www.viagogo.co.uk">United Kingdom</a>
-                </li>
-                <li class="">
-                    <a title="Uruguay" href="http://www.viagogo.com/uy">Uruguay</a>
-                </li>
-                <li class="">
-                    <a title="Venezuela" href="http://www.viagogo.com/ve">Venezuela</a>
-                </li>
-                <li class="">
-                    <a title="worldwide" href="http://www.viagogo.com/ww">worldwide</a>
-                </li>
-
-    </ul>
+ 
 </div>
-<div id="languageDropdown" class="hdd" style="display: none;">
-    <ul id="langPanel"></ul>
 </div>
-<div id="currencyDropdown" class="hdd" style="display: none;">
-    <ul id="topList">
-        <li class="act" data-code="USD"><a><span>US$</span>United States Dollar</a></li>
-    </ul>
-    <ul id="showAllCurrencies"><li><a><i class="i-plus"></i>&nbsp;More Currencies</a></li></ul>
-    <ul id="allList" style="display: none;"></ul>
-</div>
-
-
-<div id="ddmuser" style="display:none;" class="hdd">
+<div id="ddlogin" style="display:none;" class="hdd">
         <form id="loginForm" action="https://www.viagogo.com/secure/loginregister/login" method="post">
+            <input name="__RequestVerificationToken" type="hidden" value="cvw54Jph6AAMXtHazpfgoEnBYAcmIgYQy1rbOriBmV-dM9c_5vONQIhrGZxnbwBtiTpEJerZHkfXsiCccKAaEddO03VykjAOMkAeKYguY581">
 
-<div id="hdrLogin">
-    <div class="cfix ps" style="min-width: 500px">
-        <div class="w50 fltl bdrr bbox prxl">
-            <div class="t m cGry4 mbm txtc">Existing Customers</div>
+<div class="cfix ps txtc" style="width: 300px">
+    <div class="t m cGry4 mbm txtc">Existing Customers</div>
 
 <div class="form txtl">
     <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
@@ -512,97 +337,53 @@ Thank you for using viagogo!
         <a class="t xxs bk mtxxs txtr" id="lnkForgotPassword" href="https://www.viagogo.com/secure/loginregister/forgotpassword">Forgot your password?</a>
     </div>
     <div class="mbs">
-        <input type="submit" id="sbmt" class="btn bk js-nodoubleclick" value="Sign in">
+        <input type="submit" id="sbmt" class="btn bk js-nodoubleclick" value="Log In">
     </div>
     
-        <div class="mbxs bar t xxs caps">or</div>
-        <div>
-            <input type="button" id="btnFBLogin" onclick="VGAuth.FBLogin()" class="btn fb bk" value="Login using facebook">
-        </div>
+            <div class="mbxs bar t xxs caps">or</div>
+            <div>
+                
+                    <input type="button" id="btnFBLogin" onclick=" VGAuth.FBLogin() " class="btn fb bk" value="Log In with Facebook">
+            </div>
+
 </div>
-        </div>
-        <div class="w50 fltr bbox plxl">
-            <div class="t m cGry4 mbm">New Customers</div>
-
-	
-<p>Register now to be the first to hear about exclusive offers and member discounts.</p>
-	
-<a class="btn bk mbs" href="https://www.viagogo.com/secure/loginregister/register">Register here</a>
-
-	<div class="mbxs bar t xxs caps">or</div>
-	<div>
-		<input type="button" id="btnFBLogin" onclick=" VGAuth.FBLogin() " class="btn fb bk" value="Register using facebook">
-	</div>
-
-
-
-        </div>
-    </div>
 </div>
 <input type="hidden" name="ReturnUrl" id="ReturnUrl" value="http://www.viagogo.com/help/privacy">
         </form>
 </div>
 
-		</div>
+
+                            </div>
 </div>
 
+
+   
     
 
 </div> <!--// v-page //-->
 
-	
-	
+            
+            
 
-	
+            
 
-<script type="text/javascript" src="http://cdn.viagogo.net/js/vg.js?v=1638327325"></script>
+<script type="text/javascript" src="http://cdn.viagogo.net/js/vg.js?v=670088080"></script>
 <script type="text/javascript">
-    
-    /* ECMAScript 5 small polyfills for IE - Riskified uses it */
-    /* if (!Object.keys) {
-        Object.keys = function(obj) {
-            var keys = [];
-
-            for (var i in obj) {
-                if (obj.hasOwnProperty(i)) {
-                    keys.push(i);
-                }
-            }
-
-            return keys;
-        };
-    }
-    if ( !Array.prototype.forEach ) {
-        Array.prototype.forEach = function(fn, scope) {
-            for(var i = 0, len = this.length; i < len; ++i) {
-                fn.call(scope, this[i], i, this);
-            }
-        }
-    } */
-    /* End of ECMAScript 5 polyfill */
-
-    //<![CDATA[
-    VGPage.init(
-    {
+    VGPage.init({
         Locale: "en_US",
-        SessionId: 'acdbb66b-447b-4ce3-8610-60bf8dbc84d4',
-        PageVisitId: "377c771f-adae-498d-a141-3321f7ced913",
+        SessionId: '0ba7f51a-bb83-432f-b9a6-77972c2ae546',
+        PageVisitId: "7d1f5643-3826-4d83-baef-a87a261e0a09",
         SecureUrlStart: "https://www.viagogo.com",
         NonSecureUrlStart: 'http://www.viagogo.com',
         NumberDecimalSeparator: ".",
         NumberGroupSeparator: ",",
-        CurrencyGroupSeparator: ",",
-        CurrencyDecimalSeparator: ".",
         ViewType: 1,
         IsDebug: false
     });
     VGModal.init({
         MaxColorboxWidth: 400
     });
-
-
-    VGAuth.init(
-    {
+    VGAuth.init({
         IsVGAuthenticated: false,
         FBAppId: '3021345037',
         DisableFB_SSO: false,
@@ -610,11 +391,8 @@ Thank you for using viagogo!
         LinkedFacebookUserId : null,
         ViewType: 1
     });
-
-    VGAnalytics.init();
-
-    VGModal.init(
-    {
+        VGPageEvent.init();
+    VGModal.init({
         MaxColorboxWidth: 400
     });
 
@@ -762,7 +540,6 @@ Thank you for using viagogo!
     //
     //
     VGAuth.writeUrl = VGPage.writeUrl;
-    VGAuth.insertAnalyticsEvent = VGAnalytics.insertAnalyticsEvent;
     VGAuth._maxColorBoxWidth = VGModal.MaxColorboxWidth;
 
     VGPage.runAsyncFunctions();
@@ -784,87 +561,165 @@ Thank you for using viagogo!
 
 </script>
 
+
+        <script id="searchTmpl" type="text/x-jquery-tmpl">
+            
+
+
+{{each(i, item) data.results}}
+<div class="bdrt ent${entity}">
+    <h6 class="h s">${desc}</h6>
+    {{each item.results}}
+    <div class="rel">
+        <a class="t s bk camo js-searchResult" href="${url}" data-item-id="${id}" {{if highlight}} data-highlight="${highlight}" {{/if}} data-eventname="Select" data-eventtype="click" data-trackingstored="true" data-trackingpagearea="Grouped Search" data-trackingitems='{"SearchResult":"${title}"{{if entity === 0}}, "TopResult":"true" {{else entity === 1}}, "CategoryId":"${id}"{{else entity === 2}}, "EventId":"${id}"{{else entity === 3}}, "VenueId":"${id}"{{else entity === 4}}, "MetroAreaId":"${id}"{{/if}}}'>
+            ${title}
+            {{if item.entity === 0 && i === 0}}
+            - <span>${desc}</span>
+            {{/if}}
+            {{if subdata}}
+            <span class="bk">${subdata}</span>
+            {{/if}}
+        </a>
+
+    </div>
+    {{/each}}
+</div>
+{{/each}}
+
+{{if data.more}}
+<div class="bdrt">
+    <div class="rel mtxs">
+        <a class="t s bk camo js-more" href="http://www.viagogo.com/search?q=${$item.text}" data-eventname="Select" data-eventtype="click" data-trackingstored="true" data-trackingpagearea="Grouped Search" data-trackingdatavaluename="AllResults" data-trackingdatavaluecustom="true">
+            View all results for <em>'${$item.text}'</em>
+        </a>
+    </div>
+</div>
+{{/if}}
+
+        </script>
 <script type="text/javascript">
-            
-                
-
-                $(function() {
-
-                    var searchOpts = {
-                        elm_searchBox: '#sBox',
-                        elm_searchInput: '#search',
-                        elm_searchForm: '#searchForm',
-                        elm_searchPanel: '#searchPanel',
-                        elm_resultsContainer: '#searchResults',
-                        elm_clearInputButton : "#searchX",
-                        elm_cancelButton: '#searchCancel',
-                        elm_emptyContainer: '#searchEmpty',
-                        elm_loadingContainer: '#loading',
-                        elm_searchIcon: '#magnifier',
-
-                        
-                        searchUrl : ["http:","","www.viagogo.com","Search","TabletSearch"].join("/"),
-                        searchType: 1,
-                        platform : 'desktop',
-
-                        metroAreaId : 0,
-                        venueID : null,
-                        serviceUrl : ["http:","","www.viagogo.com","Search","SearchWithParams"].join("/"),
-                        navigateUrl : ["http:","","www.viagogo.com","Search","Navigate"].join("/"),
-                        searchResultsUrl : "http://www.viagogo.com/search?q=",
-                        moreTextContent : "View all results for"
-                    };
-
-                    viagogo.CrossSearch(searchOpts);
-                });
-
-            
         
-                                
-        $(document).ready(function () {
+            $(function() {
 
-            var currencyDropdownOptions = {
-                topCurrenciesRoute: ["","browse","home","gettopcurrencies"].join("/"),
-                otherCurrenciesRoute: ["","browse","home","getothercurrencies"].join("/")
-            };
+                var pageEventTimeout;
 
-            var currencyDropdown = new CurrencyDropdown(currencyDropdownOptions);
-            currencyDropdown.init();
+                var searchOpts = {
+                    elm_searchBox: '#srchWrp',
+                    elm_searchInput: '#search',
+                    elm_searchButton: '#searchButton',
+                    elm_searchForm: '#searchForm',
+                    elm_searchPanel: '#searchPanel',
+                    elm_resultsContainer: "#searchResults",
+                    elm_clearInputButton: "#searchX",
+                    elm_cancelButton: "#searchCancel",
+                    
+                    elm_loadingContainer: "#loading",
+                    elm_searchIcon: ".i-search",
+                    moreTextContent: "View all results for",
+                    searchUrl: ["http:","","www.viagogo.com","search","groupsearch"].join("/"),
+ 
+                    searchType : 1,
+                     
+                    platform: 'desktop',
+                    useDropdownMenu: false,
+                    useAutocomplete: false,
+                    onSearch: function(searchTerm) {
+                        clearTimeout(pageEventTimeout);
+                        pageEventTimeout = setTimeout(function() {
+                            
+                            VGPageEvent.insertPageEvent(VGPageEvent.createPageEvent('Change', [{ 'SearchTerm': searchTerm }]));
+                        }, 300);
+                    }
+                };
 
-        });
-    
+                var recentlyViewed = viagogo.recentlyViewed.get(5);
+                if(recentlyViewed.length > 0) {
+                    var initialData = reformatRecentlyViewed(recentlyViewed);
+                    searchOpts.initialData = initialData;
+                }
 
-    
-        $(function () {
-            $("a[rel='logout']").click(function (e) {
-                VGAuth.Logout(function () {
-                    window.location.href = window.location.href;
+                var search = viagogo.CrossSearch(searchOpts);
+
+                viagogo.recentlyViewed.onChanged(function() {
+                    var newInitialData = reformatRecentlyViewed(viagogo.recentlyViewed.get(5));
+                    search.updateSettings('initialData', newInitialData);
                 });
-                e.preventDefault();
-                
+
+                function reformatRecentlyViewed(data) {
+                    var entities = [];
+
+                    for(var i = 0; i < data.length; i++) {
+                        var entity = null;
+                        for(var y = 0; y < entities.length; y++) {
+                            if(entities[y].entity === data[i].data.entity) {
+                                entity = entities[y];
+                            }
+                        }
+                        if(!entity) {
+                            entity = {
+                                entity: data[i].data.entity,
+                                desc: data[i].data.desc,
+                                results: []
+                            };
+                            entities.push(entity);
+                        }
+                        var item = data[i].data;
+                        item.title = item.categoryName;
+                        if(item.date)
+                        {
+                            item.subdata = item.date.format('dddd d mmmm yyyy');
+                        }
+                        entity.results.push(item);
+                    }
+                    return {
+                        more: false,
+                        results: entities
+                    };
+                }
             });
-        });
+        
+
+             
+                 $(function () {
+                     $('[data-user-setting]').click(function (e) {
+                         e.preventDefault();
+                         var type = $(this).data('user-setting');
+                         $.modal.post(VGPage.mergeUrlElements('http://www.viagogo.com/Browse/DefaultMaster/LocationSettings', '?selected=' + type + '&hide=False'));
+                     });
+                 });
+             
+        
+        
+            $('a[data-modal]').click(function (e) {
+                if (window.location.protocol === 'http:') {
+                    e.preventDefault();
+                    $.modal.get($(this).attr('href') + '?modal=true');
+                }
+            });
+        
     
+        
+            $(function () {
+                $("a[rel='logout']").click(function (e) {
+                    VGAuth.Logout(function () {
+                        window.location.href = window.location.href;
+                    });
+                    e.preventDefault();
 
-		
-			$(document).ready(function () {
-			    $("#menu").dropDownMenu();
+                });
+            });
+        
 
-			    // JosephS - I've moved the below to the new cross-search plugin
-                // keep this code here for reference but it should be regarded as moved
+            
+                $(function() {
+                    $("#menu").dropDownMenu({
+                        switchOnHover: true
+                        });
+                });
+            
 
-                /*
-				$('#search').on('focus', function () { $('#hdrIcons').addClass('srchAct'); });
-				//so blur needed a delay to allow the click to happen - who knew?
-				$('#search').on('blur', function () {
-					setTimeout(function () {
-						$('#hdrIcons').removeClass('srchAct');
-					}, 200);
-				});
-                */
-			});
-		
-	
+        
+
     
         //<![CDATA[
 		    window.fbAsyncExec.push(function () {
@@ -874,8 +729,7 @@ Thank you for using viagogo!
     
 </script>
 
-
-    
+            
 
 <script type="text/javascript">
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','__ga');
@@ -884,7 +738,8 @@ __ga('create','UA-266806-12','auto');        __ga('send', 'pageview');
 
 
 
-	
-	
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+            
+        </div>
+    
+</body></html>
