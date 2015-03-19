@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231212449id_/http%3A//www.harlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319050558id_/http%3A//www.harlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
 
 # Harlequin.com | Privacy Policy
 
-[Click here](https://web.archive.org/web/20131231212449id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
+[Click here](https://web.archive.org/web/20150319050558id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
 
 **Effective Date: October 3, 2006**   
-**Last Updated: August 19, 2011**
+**Last Updated: March 9, 2015**
 
 Thank you for reading Harlequin's Privacy Policy. As one of the world's leading publishers of women's fiction, Harlequin Enterprises Limited ("Harlequin") is committed to protecting the privacy and confidentiality of personal information entrusted to us. 
 
@@ -79,7 +79,9 @@ Harlequin has implemented physical, electronic and administrative measures to pr
 
 **Cookies and Other Tracking Methods**
 
-Cookies are small pieces of information stored on your hard drive, not on our websites. We use cookies, or, in a limited number of cases, IP addresses for a number of reasons. First, cookies allow you to store your password without having to constantly reenter it. Second, cookies help us tailor messages that better match your needs and interests. Third, cookies allow us to better understand how users in general use our sites, which in turn helps us to focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our sites may not work properly if you do. 
+Cookies are small pieces of information stored on your hard drive, not on our websites. We use cookies, or, in a limited number of cases, IP addresses for a number of reasons. First, cookies allow you to store your password without having to constantly reenter it. Second, cookies help us tailor messages that better match your needs and interests. Third, cookies allow us to better understand how users in general use our sites, which in turn helps us to focus our resources on features that are most popular with our users. In certain cases we may also use tracking technologies to serve online advertisements to you for our products on third party websites.
+
+Cookies and tracking pixels are used to collect non-personally identifiable information about your activities during your visits to a website. Certain browsers allow you to block third party cookies in order to prevent being tracked. Please note that blocking all cookies could result in loss of login information for certain sites and some parts of our sites may not work properly if you do. For further opt-out options please see <http://www.aboutads.info/choices>.
 
 **Note: Harlequin may place advertising and/or links on our sites that originate from outside advertisers. In some cases, if you click on or view these ads, a cookie may be assigned by the advertisers. Harlequin does not control these cookies nor is it responsible for any marketing or other use of your name by the advertisers. We encourage you to investigate and ask questions before disclosing information to third parties.**
 
@@ -207,3 +209,13 @@ on Twitter
 
 [](http://pinterest.com/HarlequinBooks)Follow us   
 on Pinterest 
+
+Copyright © 2000–2014 Harlequin Enterprises Limited. All Rights Reserved.
+
+  * [Privacy Policy](https://web.archive.org/articlepage.html?articleId=897&chapter=0)
+  * [Terms & Conditions](https://web.archive.org/articlepage.html?articleId=50&chapter=0)
+  * [Intellectual Property Notice](https://web.archive.org/articlepage.html?articleId=50&chapter=0#copyright)
+
+
+
+*Harlequin Enterprises Limited (Harlequin.com) is located at 225 Duncan Mill Rd, Don Mills, Ontario Canada M3B 3K9 and sends promotional emails on behalf of itself and Harlequin Digital Sales Corporation. Subscribers can unsubscribe at any time.
