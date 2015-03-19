@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bravelets.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701170505id_/https%3A//bravelets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravelets.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319070435id_/https%3A//www.bravelets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Policy
+# Privacy Policy
+
+### BRAVELETS PRIVACY POLICY
 
 Last Modified: October 2013
 
@@ -90,11 +92,11 @@ Unfortunately, the transmission of information via the internet is not completel
 
 How does Bravelets protect kids’ privacy?
 
-We are concerned about the privacy and safety of children when they use the internet. Our Website is not targeted to or intended for use by children, and we do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at _[info@bravelets.com](mailto:info@bravelets.com)_ or Bravelets, 1200 East 3rd Street #3B, Austin, TX 78702, Attn: Bravelets Legal.
+We are concerned about the privacy and safety of children when they use the internet. Our Website is not targeted to or intended for use by children, and we do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at _[info@bravelets.com](mailto:info@bravelets.com)_ or Bravelets, 620 W 34th St, Austin TX 78705, Attn: Bravelets Legal.
 
 Your California Privacy Rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to _[info@bravelets.com](mailto:info@bravelets.com)_ or write us at: Bravelets, 1200 East 3rd Street #3B, Austin, TX 78702, Attn: Bravelets Legal.
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to _[info@bravelets.com](mailto:info@bravelets.com)_ or write us at: Bravelets, 620 W 34th St, Austin TX 78705, Attn: Bravelets Legal.
 
 Changes to Our Privacy Policy
 
@@ -110,6 +112,6 @@ Address:
 
 Attn: Bravelets Legal
 
-1200 East 3rd Street #3B
+620 W 34th St
 
-Austin, TX 78702
+Austin TX 78705
