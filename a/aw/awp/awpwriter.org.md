@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awpwriter.org privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023060915id_/https%3A//www.awpwriter.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awpwriter.org privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320004907id_/https%3A//www.awpwriter.org/privacy_policy) for the most accurate reproduction.*
 
-# Association of Writers & Writing Programs
+# AWP: Privacy Policy
 
 AWP works to maintain the privacy of visitors to awpwriter.org. This privacy policy explains AWP’s limited uses of the information we collect from you when you visit the site, create a user account, or purchase a product or service.
 
@@ -26,4 +26,4 @@ AWP sometimes conducts comprehensive surveys of our members in order to gather d
 
 ## Your Street Address
 
-We use your name and USPS address, when applicable, to fulfill your _Writer’s Chronicle_ subscription and to solicit individual donations. From time to time, we make your mailing address available for rental to our peer literary organizations. Please contact us at [awp@awpwriter.org](mailto:awp@awpwriter.org) to exclude your address from any future list rental.
+We use your name and USPS address, when applicable, to fulfill your _Writer’s Chronicle_ subscription and to solicit individual donations. From time to time, we make your mailing address available for rental to our peer literary organizations for postal mail solicitations. Please contact us at [awp@awpwriter.org](mailto:awp@awpwriter.org) to exclude your address from any future list rental.
