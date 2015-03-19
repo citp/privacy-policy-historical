@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanjobsact.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230201126id_/http%3A//www.democrats.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanjobsact.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319012438id_/http%3A//www.democrats.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Democrats.org
 
