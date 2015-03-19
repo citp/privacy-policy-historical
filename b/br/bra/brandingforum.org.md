@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandingforum.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123070643id_/http%3A//brandingforum.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandingforum.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319175314id_/https%3A//brandingforum.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | World Branding Forum
+# Privacy Policy
 
 What information do we collect?
 
