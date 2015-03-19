@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webtimesheet.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611055848id_/http%3A//www.webtimesheet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtimesheet.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319225151id_/http%3A//www.replicon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Replicon
 
-("Replicon" or "we", "us", "our", etc.)  
+("Replicon" or "we", "us", "our", etc.)   
 GENERAL PRIVACY POLICY
 
 Replicon is committed to maintaining the privacy of individuals and protecting personal information in its custody or control in accordance with privacy legislation applicable to Replicon. This Policy is intended to comply with the requirements of Alberta's Personal Information Protection Act ("PIPA"). However, in certain circumstances, other legislation may be applicable.
@@ -191,7 +191,7 @@ Alberta law also provides that Replicon may choose not to disclose personal info
   * the disclosure of the information would reveal confidential commercial information and it is not unreasonable to withhold that information;
   * the personal information was collected by Replicon for an investigation or legal proceeding;
   * the disclosure of the personal information might result in similar information no longer being provided to us when it is reasonable that it would be provided;
-  * the personal information was collected or created by a mediator or arbitrator in the conduct of a mediation or arbitration for which he or she was appointed to act 
+  * the personal information was collected or created by a mediator or arbitrator in the conduct of a mediation or arbitration for which he or she was appointed to act
 
     * under an agreement,
     * under an enactment, or
@@ -238,6 +238,6 @@ If you have any questions with respect to our policies concerning the collection
 
 If you remain dissatisfied after our Privacy Contact has reviewed and responded to your concern, or have other concerns or questions, you have the right at any time to contact the Office of the Information and Privacy Commissioner at:
 
-410, 9925 - 109 Street  
-Edmonton, AB T5K 2J8  
+410, 9925 - 109 Street   
+Edmonton, AB T5K 2J8   
 Telephone (780) 422-6860 or Fax (780) 422-5682
