@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeep4x4center.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704020640id_/http%3A//www.jeep4x4center.com/popup/privacy-promise-popup.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeep4x4center.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319014228id_/http%3A//www.jeep4x4center.com/popup/privacy-promise-popup.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Morris 4x4 Center
 
@@ -29,29 +29,29 @@ If you choose to purchase a product from us, we will collect your personally ide
 **E-Mail Newsletter Registration Request**   
 If you choose to provide more information to us through our e-mail registration, we will periodically send you newsletters in which you will find special offers, new product announcements and other related information. Your registration information will enable us to provide you information regarding future products and services that may suit your particular interests.
 
-You may **"opt-out"** of our e-mail newsletter at any time by calling us at 1-877-553-5337 or by emailing us and notating "Stop" or "Unsubscribe". Email us here at [memberservices@morris4x4center.com](mailto:memberservices@morris4x4center.com "Member Services - Unsubscribe")
+To opt out of any email communications from us, please click the " **unsubscribe** " link at the foot of the email in question.  
+You may also **"opt-out"** of our e-mail newsletter at any time by calling us at 1-877-553-5337 or by emailing us and notating "Stop" or "Unsubscribe".   
+Email us here at [memberservices@morris4x4center.com](mailto:memberservices@morris4x4center.com "Member Services - Unsubscribe")
 
 We do NOT sell, trade or share our e-mail list with any other person or organization. 
 
-Our Address: Morris 4x4 Center | 1020 SW 10th Avenue | Pompano Beach, Florida | 33069 | Phone: (877) 553-5337 
+Our Address: Morris 4x4 Center | 2031 SW 2nd ST | Pompano Beach, Florida | 33069 | Phone: (877) 553-5337 
 
   
 
 
-**Email Tracking - Web Site Navigational Information**   
+**Email Tracking - dotMailer Cookies**   
 
 
-Emailvision uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web sites ("Web Site Navigational Information"). This section describes the types of Web Site Navigational Information the Company may collect and how the Company may use this information.
+**How we use cookies**
 
-**Email Cookies**
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-Emailvision uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, Emailvision’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Emailvision, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a "Contact" or a "Free Campaign Commander™ Demo" Web form), you remain anonymous to the Company. There are two types of cookies: session-based and persistent-based.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website and services in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. If you have chosen to identify yourself to Emailvision, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Service, a session cookie containing an encrypted, unique identifier that is tied to your account is placed in your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Service and to process your online transactions and requests. Session cookies are required to use the Service.
+Overall, cookies help us provide you with a better website and service, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
-Persistent cookies remain on your computer after you close your browser or turn off your computer. Emailvision uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company’s Web sites. When you purchase the Service or provide the Company with personal information, a unique identifier is assigned you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. If you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Web sites, but you will not be able to successfully use the Service.
-
-Emailvision may use information from session and persistent cookies in combination with Data About Emailvision Customers to provide you with information about the Company and the Service.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
   
 
