@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redevolution.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730012757id_/http%3A//www.redevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redevolution.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319151525id_/https%3A//www.redevolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,10 +73,10 @@ Some of the services we use such as Google Analytics, Clicky Analytics and addTh
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
 
-You can request us not to use any of your personal details; you will usually ask in advance whether you agree to our use of your personal data.  If not you can instruct us not to use your personal data by emailing us at [info@redevolution.com](mailto:info@redevolution.com)
+You can request us not to use any of your personal details; you will usually ask in advance whether you agree to our use of your personal data.  If not you can instruct us not to use your personal data by emailing us at info@redevolution.com
 
 These terms and conditions, together with our privacy policy constitute the entire agreement between you and us in relation to your use of our website, and supersede all previous agreements in respect of your use of this website.
 
 **Contact us**
 
-If you need any more information please contact us at Red Evolution (Aberdeen) Ltd [info@redevolution.com](mailto:info@redevolution.com)
+If you need any more information please contact us at Red Evolution (Aberdeen) Ltd info@redevolution.com
