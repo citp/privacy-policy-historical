@@ -1,60 +1,27 @@
-> *The following text is extracted and transformed from the pennyskateboards.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127042315id_/http%3A//www.pennyskateboards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyskateboards.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319022557id_/http%3A//www.pennyskateboards.com/penny-redirect.php%3Fx%3Dprivacy) for the most accurate reproduction.*
 
-# Penny Custom Skateboards | Official FULL Customizer
+# Privacy Policy | Penny Skateboards
 
-This Privacy Policy applies to all Personal Information collected by Absolute about its Customers.
+**Collection of your personal information**
 
-We do not store credit card details nor do we share customer details with any 3rd parties.
+There are many aspects of the site which can be viewed without providing personal information, however, for access to future Penny Skateboards customer support features you are required to submit personally identifiable information. This may include but not limited to a unique username and password, or provide sensitive information in the recovery of your lost password.
 
-Absolute is committed to responsibly managing Personal Information collected from Customers during their dealings with us. Absolute abides by the National Privacy Principles of the Privacy Act 1988 (Cth) (Law).
+**Sharing of your personal information**
 
-1.1 How to contact us about privacy
+We may occasionally hire other companies to provide services on our behalf, including but not limited to handling customer support enquiries, processing transactions or customer freight shipping. Those companies will be permitted to obtain only the personal information they need to deliver the service. Penny Skateboards takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
 
-Privacy is very important to us. For that reason, please read this Privacy Policy carefully and contact us if you have any questions via any of the means below:  
-e: privacy@absoluteboardco.com  
-Customer Service: 1300 362 025  
-Absolute Board Co Pty Ltd ACN 134 044 812  
-PO Box 5331, Daisy Hill, QLD 4217, Australia.
+**Use of your personal information**
 
-1.2 Collection of Personal Information
+For each visitor reaching the site, we expressively collected the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is used solely internally for the purpose of gauging visitor traffic, trends and delivering personalized content to you while you are at this Site. 
 
-(a) Absolute collects personal information if Customers input it into the Site when creating a shopping cart and subsequently making an order. We collect personal information by only lawful means.  
-(b) Laws require us to collect personal information about Customers only from them, if it is reasonable and practical to do so and we need it to do business with you.
+Penny Skateboards uses YouTube and Vimeo to display campaign and content videos, please review YouTube ([www.youtube.com](http://www.youtube.com/)) and Vimeo’s ([www.vimeo.com](http://www.vimeo.com/)) Privacy Polices as viewing our videos will subject you to their policies. 
 
-1.3 Use of Cookies
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only, data collected from the time of the policy change forward will adhere to our updated practices. 
 
-(a) We may automatically receive and record information on our server logs from the Customers browser, including the Customers IP address and cookie information.  
-(b) We may use cookies on our Sites to improve the User experience, but do not associate the information gathered from the Cookie with a Customer's personal information other than for the purposes of remarketing and storing the content of a User's shopping cart.  
-(c) In all other respects Customer's personal information is not associated with or linked to information collected in cookies.
+**Changes to this Privacy Policy**
 
-1.4 Email newsletters
+Penny reserves the right to make amendments to this Privacy Policy at any time. If you have objections to the Privacy Policy, you should not access or use the Site.
 
-Customers can unsubscribe to any email newsletters by clicking a functional unsubscribe facility.
+**Accessing Your Personal Information**
 
-1.5 Purpose
-
-The purpose for which we collect personal information is to provide Customers with the best service experience possible on the Site. Generally, Customers have no obligation to provide any information requested by us. However, if Customers do not provide us with certain types of personal information, Customers may be unable to enjoy the full functionality of the Site.
-
-1.6 Use and disclosure of Personal Information
-
-The Law requires us to take reasonable steps to protect the security of personal information. We customarily disclose personal information only to our service providers who assist us to provide our products to our Customers.  
-Customer's personal information will not be disclosed to any other third party, unless such disclosure is permitted by Law or with the Customers consent.
-
-1.7 Data quality
-
-Absolute takes reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date.
-
-1.8 Security
-
-Absolute takes reasonable steps to protect the personal information we collect and hold from misuse and loss and from authorised access, modification or disclosure.  
-Further, we take reasonable steps to destroy or permanently de-identify personal information if it is no longer needed.
-
-1.9 Access and correction
-
-The Law allows Customers to get access to, and correct, the personal information we hold about them in certain circumstances. Customers can obtain such access, by contacting us on the details set out above.
-
-1.10 Transfer out of Jurisdiction
-
-We may transfer all data on the Site (including any personal information) to our hosting service provider(s). Customers hereby consent to this transfer.
-
-See below for further Privacy Policy details applicable to www.pennyskateboards.com and our e-commerce storefront: 
+You have a right to access your personal information, subject to exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. Penny reserves the right to charge a fee for searching for, and providing access to, your information on a per request basis.
