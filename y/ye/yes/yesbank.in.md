@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesbank.in privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701090613id_/http%3A//www.yesbank.in/images/all_pdf/PrivacyPromiseforOurCustomers.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesbank.in privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319050530id_/http%3A//www.yesbank.in/images/all_pdf/PrivacyPromiseforOurCustomers.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
