@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onehub.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061335id_/https%3A//onehub.com/security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehub.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319065620id_/https%3A//www.onehub.com/security/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Security • Onehub
 
@@ -98,4 +98,4 @@ Although most changes are likely to be minor, Onehub may change its Privacy Poli
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: [support@onehub.com](mailto:support@onehub.com) or via postal mail at 105 S Main ST STE 240, Seattle, WA 98104.
+If you have any questions or suggestions regarding our privacy policy, please contact us at: [support@onehub.com](mailto:support@onehub.com) or via postal mail at 1109 First Avenue STE 406, Seattle, WA 98101.
