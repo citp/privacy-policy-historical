@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informationweek.in privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123124454id_/http%3A//www.informationweek.in/static/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informationweek.in privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319130344id_/http%3A//www.informationweek.in/static/privacy-statement) for the most accurate reproduction.*
 
 # Static page - InformationWeek – IT news & articles
 
