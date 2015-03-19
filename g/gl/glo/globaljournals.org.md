@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaljournals.org privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031144104id_/https%3A//globaljournals.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaljournals.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319171421id_/https%3A//globaljournals.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
