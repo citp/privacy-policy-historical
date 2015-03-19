@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the netartmedia.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629162721id_/http%3A//www.netartmedia.net/index.php%3Fmod%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netartmedia.net privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319054517id_/http%3A//www.netartmedia.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Software company, web php scripts blogs jobs cars real estate e-commerce store mall
+# Privacy Policy
 
 **What information do we collect?**
 
-We collect information from you when you place an order. When ordering you may be asked to enter your name, e-mail and other contact information. 
+We don't collect any information from you, except when you place an order for a product or service on our website. When placing an order you may be asked to enter your name, e-mail and other contact information. 
 
-We do not collect or transmit sensitive information (such as credit card numbers) over the internet; all information regarding credit card holder or credit card number, or other like is verifying and processing by third parties (PayPal or any other payment processing company) in order to process the credit card transaction.   
-You may, however, visit our site anonymously. 
+We do not collect or transmit sensitive information (such as credit card numbers) over the internet; all information when placing an order regarding the credit card holder or credit card number is verified and processed by third party companies (like FastSpring, PayPal etc.). 
+
+You visit our website and the different pages on it anonymously. 
 
 **What do we use your information for?**
 
