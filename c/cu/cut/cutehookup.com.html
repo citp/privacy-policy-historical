@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the cutehookup.com privacy policy that was archived on 2014-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140806203018id_/http%3A//www.cutehookup.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cutehookup.com privacy policy that was archived on 2015-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319132650id_/http%3A//www.cutehookup.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<!--Update this as necessary-->
-        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+            <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 				
       
         <title>CuteHookup - Find cuties for naughty fun!</title>
@@ -17,7 +17,7 @@
 <meta name="revisit-after" content="">
 <meta name="page-topic" content="">
 
-                    <link rel="stylesheet" type="text/css" href="/css/998/3/main.385.css">
+                    <link rel="stylesheet" type="text/css" href="/css/998/3/main.467.css">
 
 <!--IE ONLY CSS-->
 <!--[if IE]>
@@ -68,10 +68,13 @@
 
 .wcc_photo_border
 {
-	padding: 3px;
+	padding: 4px;
 	border: 1px solid #dfdfdf;
 }
-
+.wcc_model_name_bold
+{
+	font-weight: bold;
+}
 .wcc_photo_border_white_thick
 {
 	margin: 3px;
@@ -133,13 +136,18 @@
         <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
         <script type="text/javascript" src="/js/jquery.ajaxqueue.js"></script>
         <script type="text/javascript">jQuery.noConflict();</script>
+        <script type="text/javascript" src="/js/common.js"></script>
         <script type="text/javascript" src="/js/sprintf.js"></script>
         <script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
         <script type="text/javascript" src="/js/jquery.mousewheel.js"></script>
         <script type="text/javascript" src="/js/jquery.jscrollpane.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.parseUri.js"></script>
+        <script type="text/javascript" src="/js/json2.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.flex_modal.js"></script>
         <link rel="stylesheet" type="text/css" href="/css/jquery.jscrollpane.css">
         <script type="text/javascript" src="/js/jquery.simplePagination.js"></script>
         <link rel="stylesheet" type="text/css" href="/css/simplePagination.css">
+        <link rel="stylesheet" type="text/css" href="/css/font-awesome-4.0.3/css/font-awesome.min.css">
 
         
         <link rel="stylesheet" href="/css/jquery/jquery-ui.css" type="text/css" media="all">
@@ -147,6 +155,187 @@
                 <script type="text/javascript" src="/js/jquery_extras/dropMenu/jquery.hoverIntent.minified.js"></script>
         <script type="text/javascript" src="/js/jquery_extras/dropMenu/jquery.dropMenu.1.0.js"></script>
         <link rel="stylesheet" href="/css/dropMenu/dashboard.css" type="text/css" media="all">
+
+        
+<style>
+    /******************************************************
+    * Global Modal Styles
+    ******************************************************/
+    #flex_modal                     { position: absolute; display: inline-block; width: 80%; top: 0px; margin: 4% auto auto 10%; box-shadow: 0px 30px 30px -25px #000000; overflow: hidden; z-index: 1001; }
+    #flex_modal:after               { padding-top: 56.25%; display: block; content: ''; }
+    #flex_modal .modal_content      { position: absolute; top: 0; right: 0; bottom: 0; left: 0; background: #FFFFFF; }
+    #flex_modal .logo               { position: absolute; width: 100%; height: 8%; top: 4%; background-size: contain; background-repeat: no-repeat; background-position: top center; z-index: 3; }
+    #flex_modal .button:hover       { box-shadow: 0px 1px 2px rgba(0,0,0,0.8),inset 0px 0px 100px 100px rgba(255,255,255,0.1); }
+    #flex_modal .button.small       { font-size: 21px; }
+    #flex_modal .mainvideo          { position: relative; display: inline-block; width: 60%; border: 2px solid rgba(0,0,0,0.1); background: rgba(255,255,255,0.5); z-index: 3; }
+    #flex_modal .mainvideo:after    { padding-top: 56.25%; display: block; content: ''; }
+    #flex_modal .mainvideo_video    { position: absolute; top: 0; right: 0; bottom: 0; left: 0; background: #000000; box-shadow:0px 7px 16px rgba(0,0,0,.9); }
+    #flex_modal .footer             { width: 100%; height: auto; position: absolute; bottom: 0px; background: rgba(0,0,0,.6); color: white; font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #777; padding: 10px; box-sizing: border-box; z-index: 4; }
+    #flex_modal span.terms          { position: absolute; width: 90%; bottom: 4px; left: 0; display: inline-block; padding: 0 10px; font: 11px arial; text-align: left; color: #777777; z-index: 4; }
+    #flex_modal .exit               { float: right; cursor: pointer; font-size: 13px; color: white; font-weight: bold; }
+    #flex_modal .button             { position: relative; padding: 10px 0px; margin: 2% auto; width: 60%; height: auto; border-radius: 5px; box-shadow: 0px 1px 2px rgba(0,0,0,0.8); font: bold 26px 'Open Sans', sans-serif; text-transform: uppercase; text-align: center; color: #eee; letter-spacing: -1px; cursor: pointer; z-index: 1; }
+    #flex_modal .spinner            { position: relative; width: 60%; height: 32px; margin: 2% auto; text-align: center; border-radius: 10px; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/ajax_bar_2.gif') no-repeat center rgba(0,0,0,0.4); z-index: 1; }
+
+    #flex_modal .mainvideo.upsale_result { background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/sale_results_bg.jpg'); background-size: cover; }
+    
+    #flex_modal table.upsale_result         { position: absolute; margin: 100px auto auto 14%; }
+    #flex_modal table.upsale_result td      { font-size: 16px; }
+    #flex_modal table.upsale_result strong  { font-size: 24px; }
+    #flex_modal table.upsale_result a       { color: #CC0000; }
+    #flex_modal table.upsale_result a:hover { color: #FF0000; }
+    #flex_modal table.upsale_result.processing { }
+
+    /******************************************************
+    * Naughty Access Styles
+    ******************************************************/
+    #flex_modal.na_modal .logo          { height: 8%; background-image: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/naughty_access/logo.png'); }
+    #flex_modal.na_modal .mainvideo     { margin: 8% auto auto; margin-left: calc(20% - 2px); }
+
+    #flex_modal.na_modal .videobg       { position: absolute; top: 0; right: 0; bottom: 0; left: 0; z-index: 1; overflow: hidden; border: 2px solid #000; opacity: 1; -webkit-animation: video_na .3s linear; -moz-animation: video_na .3s linear; animation: video_na .3s linear; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/naughty_access/image_fallback.jpg') top center no-repeat; background-size: cover; }
+        @-webkit-keyframes video_na         { 0% {opacity: 0;} 100% {opacity: 1;} }
+        @-moz-keyframes video_na            { 0% {opacity: 0;} 100% {opacity: 1;} }
+        @keyframes video_na                 { 0% {opacity: 0;} 100% {opacity: 1;} }
+
+    #flex_modal.na_modal .videobg video { width: 120%; margin: -2% 0 0 -10%; height: 106%; z-index: 3; }
+    #flex_modal.na_modal .icon_l, 
+    #flex_modal.na_modal .icon_r        { width: 18%; position: absolute; display: inline-block; height: 70%; z-index: 2; margin: 10% .5% 0% .5%; -webkit-animation: icons_na 1.5s linear; -moz-animation: icons_na 1.5s linear; animation: icons_na 1.5s linear; }
+    #flex_modal.na_modal .icon_l        { background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/naughty_access/icon_dvds.png') no-repeat top center; background-size: contain; left: 0px; }
+    #flex_modal.na_modal .icon_r        { background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/naughty_access/icon_performers.png') no-repeat top center; background-size: contain; right: 0px; }
+        @-webkit-keyframes icons_na         { 0%,10% {top: 100%; opacity: 0;} 50% {top: 20px; opacity:.7;} 100% {top: 0; opacity: 1;} }
+        @-moz-keyframes icons_na            { 0%,10% {top: 100%; opacity: 0;} 50% {top: 20px; opacity:.7;} 100% {top: 0; opacity: 1;} }
+        @keyframes icons_na                 { 0%,10% {top: 100%; opacity: 0;} 50% {top: 20px; opacity:.7;} 100% {top: 0; opacity: 1;} }
+    #flex_modal.na_modal table.upsale_result { margin: auto; padding: 0 14px; }
+    #flex_modal.na_modal table.upsale_result p { font-size: 12px; }
+    #flex_modal.na_modal table.upsale_result a { font-size: 16px; }
+
+    /******************************************************
+    * Pornstar Platinum Styles
+    ******************************************************/
+    #flex_modal.psp_modal .modal_content { background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/pornstar_platinum/main_bg.jpg') no-repeat top center; background-size: cover; }
+    #flex_modal.psp_modal .logo          { height: 12%; background-image: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/pornstar_platinum/logo.png'); }
+    #flex_modal.psp_modal .mainvideo     { margin: 10% auto auto; margin-left: calc(20% - 2px); }
+
+    #flex_modal.psp_modal table.upsale_result { margin: auto; padding: 0 14px; }
+    #flex_modal.psp_modal table.upsale_result p { font-size: 12px; }
+    #flex_modal.psp_modal table.upsale_result a { font-size: 16px; }
+
+    /******************************************************
+    * Reality Kings Styles
+    ******************************************************/
+    #flex_modal.rk_modal .modal_content { background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/reality_kings/main_bg.jpg') no-repeat top center; background-size: cover; }
+    #flex_modal.rk_modal .line {
+        height:				100%;
+        width:				100%;
+        display:			inline-block;
+        background:			url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/reality_kings/overlay.png') no-repeat top center;
+        background-size:	cover;
+        z-index:			3;
+        position:			absolute;
+        right:				-100%;
+        -webkit-animation: 	line .7s linear .2s;
+        -moz-animation: 	line .7s linear .2s;
+        animation: 			line .7s linear .2s;
+    }
+    @-webkit-keyframes line {
+        10% {right:  100%;	opacity:  1;}
+        100% {right: -100%;	opacity: .6;}
+    }
+
+    @-moz-keyframes line {
+        10% {right:  100%;	opacity:  1;}
+        100% {right: -100%;	opacity: .6;}
+    }
+
+    @keyframes line {
+        10% {right:  100%;	opacity:  1;}
+        100% {right: -100%;	opacity: .6;}
+    }
+
+
+
+    #flex_modal.rk_modal .mainvideo     { margin: 10% auto auto; margin-left: calc(20% - 2px); }
+
+    #flex_modal.rk_modal table.upsale_result { margin: auto; padding: 0 14px; }
+    #flex_modal.rk_modal table.upsale_result p { font-size: 12px; }
+    #flex_modal.rk_modal table.upsale_result a { font-size: 16px; }
+
+    /******************************************************
+    * Videos Plus Styles
+    ******************************************************/
+
+    #flex_modal.vp_modal .modal_content { background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/videos_plus/main_bg.jpg') no-repeat top center; background-size: cover; }
+    #flex_modal.vp_modal .line {
+        height:				100%;
+        width:				100%;
+        display:			inline-block;
+        background:			url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/videos_plus/overlay.png') no-repeat top center;
+        background-size:	cover;
+        z-index:			3;
+        position:			absolute;
+        right:				-100%;
+        -webkit-animation: 	line .7s linear .2s;
+        -moz-animation: 	line .7s linear .2s;
+        animation: 			line .7s linear .2s;
+    }
+    @-webkit-keyframes line {
+        10% {right:  100%;	opacity:  1;}
+        100% {right: -100%;	opacity: .6;}
+    }
+
+    @-moz-keyframes line {
+        10% {right:  100%;	opacity:  1;}
+        100% {right: -100%;	opacity: .6;}
+    }
+
+    @keyframes line {
+        10% {right:  100%;	opacity:  1;}
+        100% {right: -100%;	opacity: .6;}
+    }
+
+
+
+    #flex_modal.vp_modal .mainvideo     { margin: 10% auto auto; margin-left: calc(20% - 2px); }
+
+    #flex_modal.vp_modal table.upsale_result { margin: auto; padding: 0 14px; }
+    #flex_modal.vp_modal table.upsale_result p { font-size: 12px; }
+    #flex_modal.vp_modal table.upsale_result a { font-size: 16px; }
+
+    /******************************************************
+    * Attraction Formula Styles
+    ******************************************************/
+    #flex_modal.af_modal .logo          { height: 8%; background-image: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/attraction_formula/logo.png'); }
+    #flex_modal.af_modal .mainvideo     { margin: 2% auto auto; margin-right: 50px; float: right; }
+    #flex_modal.af_modal .button        { margin: 1% 50px; float: right; }
+    #flex_modal.af_modal .no_float      { margin: auto; float: none; }
+    #flex_modal.af_modal .mainbg        { position: absolute; top: 0; right: 0; bottom: 0; left: 0; overflow: visible; border: 2px solid #000; opacity: 1; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/attraction_formula/modal_background.jpg') top center ; background-size: cover;           z-index: 1; }
+    #flex_modal.af_modal .header        { position: relative; width: 100%; height: 18%; max-height: 180px; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/attraction_formula/header.png') top center; background-size: cover; z-index: 3; }
+    #flex_modal.af_modal .book          { position: absolute; display: inline-block; width: 18%; height: 105%; top: 5%; right: 0px; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/attraction_formula/book.png') no-repeat top center; background-size: contain; z-index: 2; }
+    #flex_modal.af_modal .mainvideo .overlay_text { position: absolute; top: -4%; width: 100%; padding-bottom: 5%; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modals/upsales/attraction_formula/video_text.png') top center no-repeat; background-size: contain; z-index: 5; }
+    #flex_modal.af_modal .spinner       { margin: 1% 50px; float: right; }
+    #flex_modal.af_modal table.upsale_result { margin: auto; padding: 0 14px; }
+    #flex_modal.af_modal table.upsale_result p { font-size: 12px; }
+    #flex_modal.af_modal table.upsale_result a { font-size: 16px; }
+
+    /************************************************************************************************************/
+    #flex_modal .red {
+        text-shadow:    0px -1px 0px #a30000, 0px 0px 5px rgba(0,0,0,0.05);
+        background:     #f90000;
+        background:     -moz-linear-gradient(top,  #f90000 0%, #b70000 50%, #a30000 50%, #8e0000 82%, #d80000 100%);
+        background:     -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f90000), color-stop(50%,#b70000),color-stop(50%,#a30000), color-stop(82%,#8e0000), color-stop(100%,#d80000));
+        background:     -webkit-linear-gradient(top,  #f90000 0%,#b70000 50%,#a30000 50%,#8e0000 82%,#d80000 100%);
+        background:     -o-linear-gradient(top,  #f90000 0%,#b70000 50%,#a30000 50%,#8e0000 82%,#d80000 100%);
+        background:     -ms-linear-gradient(top,  #f90000 0%,#b70000 50%,#a30000 50%,#8e0000 82%,#d80000 100%);
+        background:     linear-gradient(to bottom,  #f90000 0%,#b70000 50%,#a30000 50%,#8e0000 82%,#d80000 100%);
+        filter:         progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5b5d', endColorstr='#b40000',GradientType=0 );
+    #flex_modal .no_float           { margin: auto; float: none;
+    @media only screen and (max-width : 1024px) {
+        #flex_modal .button { font-size: 20px; padding: 8px 0px; }
+        #flex_modal .footer { padding: 5px; }
+    }
+    @media only screen and (max-width : 720px) {
+        #flex_modal .button { font-size: 16px; padding: 5px 0px; }
+    }
+</style>
 
 				<script src="/js/jquery.emailverifyservice.js"></script>
 				
@@ -445,9 +634,9 @@ function whitebox_stretchy(align){
         <script type="text/javascript" src="/js/swfobject.js"></script>
         <script type="text/javascript" src="/js/wcc/core.js"></script>
         <script type="text/javascript" src="/js/wcc/featured_shows.js"></script>
+
         
-        <script type="text/javascript" src="/js/upgrade/obj.upgrade.js"></script>
-<script type="text/javascript" src="/js/modals/upsales.js?version=1"></script>
+        <script type="text/javascript" src="/js/jquery_extras/jcarousel/jquery.jcarousel.min.js"></script>
 
 
     	            
@@ -482,8 +671,10 @@ jQuery().ready( function()
 
                     </head>
     <body>
+
     
-    
+
+        
     <div id="mainpage_container">
                         <table width="984" align="center" cellspacing="0" cellpadding="0" class="main_menu">
         <tbody><tr>
@@ -677,7 +868,7 @@ Strovolos, P.C. 2028, Nicosia, Cyprus<br>
     <tbody><tr>
         <td align="left" valign="middle">
             <div style="font-size: 12px;">
-                <span class="footer_sitename">CuteHookup</span> <span class="footer_copyright">© 2014 All Rights Reserved.</span>
+                <span class="footer_sitename">CuteHookup</span> <span class="footer_copyright">© 2015 All Rights Reserved.</span>
             </div>
 			            <div style="font-size: 10px;">
                 <a class="footer_2257" href="/pop.php?page=2257" onclick="notice(); return false;">18 U.S.C. 2257 Record-Keeping Requirements<br>Compliance Statement</a>
@@ -708,125 +899,99 @@ Strovolos, P.C. 2028, Nicosia, Cyprus<br>
 
                                 </div>
 
-     
-    
-    <style type="text/css">
-        #coreModal_grey_frame { display: none; position: fixed; width: 628px; height: 200px; z-index: 1001; border: 6px solid #E9E9E9; background: #E9E9E9; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
-        #coreModal_grey_frame div.coreModal_grey_close    { position: absolute; right: 20px; top: 15px; width: 12px; height: 13px; font-size: 0px; cursor: pointer; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/reminders/close.png'); z-index: 2; }
-        #coreModal_grey_frame div.coreModal_grey_header   { position: relative; height: 44px; padding-left: 15px; font-family: myriadpro-semibold-webfont, Arial, Helvetica, sans-serif; font-size: 16pt; line-height: 44px; color: #000; text-shadow: 0px 1px 0px #FFFFFF; border-bottom: 1px solid #DCDCDC; -moz-border-top-left-radius: 6px; border-top-left-radius: 6px; -moz-border-top-right-radius: 6px; border-top-right-radius: 6px; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/reminders/header_bg.png') repeat-x; z-index: 1; }
-        #coreModal_grey_frame div.coreModal_grey_interior { position: relative; margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; height: 100%; -webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modal_gradient.jpg') repeat-x; background-size: contain; z-index: 0; }
-    </style>
+         
 
 
-<div id="coreModal_grey_frame" style="display: none;">
-    <div class="coreModal_grey_close"></div>
-    <div class="coreModal_grey_header" style="display: none;"></div>
-    <div class="coreModal_grey_interior"></div>
-</div>
-
-
-<script type="text/javascript">
-
-// the semi-colon before the function invocation is a safety
-// net against concatenated scripts and/or other plugins
-// that are not closed properly.
-;(function($, undefined) {
-
-    var objFrame    = $('#coreModal_grey_frame');
-    var objClose    = $('#coreModal_grey_frame div.coreModal_grey_close');
-    var objHeader   = $('#coreModal_grey_frame div.coreModal_grey_header');
-    var objInterior = $('#coreModal_grey_frame div.coreModal_grey_interior');
-
-    //=============================================================================
-    function hideModal () {
-        $('iframe').removeClass('hide_ads');
-        $('#modal_fade, #coreModal_grey_frame').fadeOut(50);
+<style type="text/css">
+    #coreModal_frame { 
+        position: fixed;
+        width: 628px;
+        height: 200px;
+        z-index: 1001;
     }
 
-    //=============================================================================
-    var methods = {
+    #coreModal_frame div.coreModal_close { 
+        position: absolute;
+        right: 20px;
+        top: 15px;
+        width: 12px;
+        height: 13px;
+        font-size: 0px;
+        cursor: pointer;
+        z-index: 2;
+    }
 
-        //=============================================================================
-        init : function(options) {
-        
-            // Create the defaults
-            var defaults = $.extend({}, 
-                {   
-                    title: '', 
-                    width: '628px', 
-                    height: '200px', 
-                    outerClickClose: true, 
-                    closeBtn: true,
-                    supportsFixed: supportsFixed()
-                }, options);
+    #coreModal_frame div.coreModal_header { 
+        position: relative;
+        height: 44px;
+        padding-left: 15px;
+        font-family: myriadpro-semibold-webfont, Arial, Helvetica, sans-serif;
+        font-size: 16pt;
+        line-height: 44px;
+        color: #000;
+        text-shadow: 0px 1px 0px #FFFFFF;
+        z-index: 1;
+    }
 
-            // Place initialization logic here
-            if( defaults.title ) {
-                objHeader.html(defaults.title);
-                objHeader.show();
-            }
-            
-            if ( !defaults.closeBtn )
-            	objClose.hide();
+    #coreModal_frame div.coreModal_interior { 
+        position: relative;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+        height: 100%;
+        z-index: 0;
+    }
 
-            //-----------------------------------------------------------------------------
-            objFrame.css({
-                width:  defaults.width,
-                height: defaults.height,
-                position: (defaults.supportsFixed ? 'fixed' : 'absolute')
-            });
-            objInterior.html(this.html());
-            objFrame.screenPosition('cm', defaults.supportsFixed);
-            
-            objClose.on('click', hideModal);
-            
-            if ( defaults.outerClickClose )
-            	$('#modal_fade').on('click', hideModal);
-            else
-            	$('#modal_fade').off('click', hideModal);
-
-            return this;
-        },
-
-        //=============================================================================
-        show : function(callback) {
-            $('iframe').addClass('hide_ads');
-            //$('#coreModal_grey_frame').screenPosition('cm');  // The position is handled when it is initialized, this shouldn't be here - kth
-            $('#modal_fade').show();
-            $('#coreModal_grey_frame').fadeIn( 400, callback );
-
-            return this;
-        },
-
-        //=============================================================================
-        hide : function() {
-            hideModal();
+    /**************************************************************************
+    * Standard Grey interface
+    **************************************************************************/
+        #coreModal_frame.cm_grey { 
+            border: 6px solid #E9E9E9;
+            -webkit-border-radius: 10px;
+            -moz-border-radius: 10px;
+            border-radius: 10px;
+            background: #E9E9E9;
         }
-    };
-
-    //=============================================================================
-    $.fn.coreModal = function(method){
-        // Method calling logic
-        if( methods[method] ) {
-            return methods[method].apply( this, Array.prototype.slice.call( arguments, 1 ));
-
-        } else if ( typeof method === 'object' || ! method ) {
-            return methods.init.apply( this, arguments );
-
-        } else {
-            $.error( 'Method ' +  method + ' does not exist on jQuery.tooltip' );
+        #coreModal_frame.cm_grey div.coreModal_close { background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/reminders/close.png'); }
+        #coreModal_frame.cm_grey div.coreModal_header { 
+            border-bottom: 1px solid #DCDCDC;
+            -moz-border-top-left-radius: 6px;
+            border-top-left-radius: 6px;
+            -moz-border-top-right-radius: 6px;
+            border-top-right-radius: 6px;
+            background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/reminders/header_bg.png') repeat-x;
         }
-    };
+        #coreModal_frame.cm_grey div.coreModal_interior { 
+            -webkit-border-radius: 6px;
+            -moz-border-radius: 6px;
+            border-radius: 6px;
+            background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/modal_gradient.jpg') repeat-x;
+            background-size: contain;
+        }
 
-})(jQuery);
+    /**************************************************************************
+    * Profile Completion interface
+    **************************************************************************/
+        #coreModal_frame.cm_proCon { 
+        }
 
-</script>
+</style>
 
-    <div id="modal_fade" style="position: fixed; display: none; width: 100%; height: 100%; top: 0px; left: 0px; background-color: black; opacity: 0.8; filter:alpha(opacity=80); z-index: 1000;"></div>
+
+<div id="coreModal_frame" style="display: none;">
+    <div class="coreModal_close"></div>
+    <div class="coreModal_header" style="display: none;"></div>
+    <div class="coreModal_interior"></div>
+</div>    
+    <div id="modal_fade" style="position: fixed; display: none; width: 100%; height: 100%; top: 0px; left: 0px; background-color: black; opacity: 0.5; filter:alpha(opacity=50); z-index: 1000;"></div>
     <div id="wait_throbber" style="position: fixed; display: none; width: 100%; height: 100%; top: 0px; left: 0px; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32494/icon_wait.gif') no-repeat center center white; opacity: 0.8; filter:alpha(opacity=80); z-index: 1000;"></div>
 
     
-    
+    <script type="text/javascript" src="/js/core_modal.js"></script>
+
     
 
     
