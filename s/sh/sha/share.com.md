@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the share.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128035933id_/https%3A//www.share.com/a/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the share.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319140439id_/https%3A//www.share.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - The Share Centre
+# Privacy Policy - The Share Centre
 
-### Privacy policy 
+## Your personal information is important to us
 
 We recognise that, when you provide us with information, you expect us to use it responsibly, to keep it up to date and to ensure it is only used for the purpose for which it is provided. At the same time, the more information we have, the better able we are to help you achieve your investment aims.
 
@@ -14,8 +14,8 @@ In the sections below you'll see why we need certain pieces of information, how 
 
 Your personal information falls into two categories:
 
-  * _information you give us directly_ – this may be your address, telephone numbers, email address and investment information you provide when you register for the Advice Service
-  * _information we obtain indirectly from the way you use your account_ – this will include your dealing frequency, the type of investments you make and the range of services you use.
+  * Information you give us directly – this may be your address, telephone numbers, email address and investment information you provide when you register for the Advice Service.
+  * Information we obtain indirectly from the way you use your account – this will include your dealing frequency, the type of investments you make and the range of services you use. 
 
 
 
@@ -25,11 +25,11 @@ However this information is received we aim to store it securely and accurately,
 
 Information you provide is stored in two ways; in paper format and electronically.
 
-_Paper-based information_ may include application forms you complete, letters and faxes you send to us and correspondence we send to you. (Correspondence received from you is also scanned and stored electronically for easy reference in the event of a query.)
+ **Paper-based information** may include application forms you complete, letters and faxes you send to us and correspondence we send to you. (Correspondence received from you is also scanned and stored electronically for easy reference in the event of a query.)
 
 All paper records are stored at our premises in Aylesbury and access is controlled by electronic pass card and 24-hour security is in place.
 
-_Electronic information_ includes all personal details extracted from application forms etc, and transactional data from activity passing through your Accounts, such as credits to your Account, withdrawals, dividends received, share sales and purchases.
+ **Electronic information** includes all personal details extracted from application forms etc, and transactional data from activity passing through your Accounts, such as credits to your Account, withdrawals, dividends received, share sales and purchases.
 
 All electronic information is stored in our own database which is not accessible other than by authorised employees of The Share Centre and its agents. Our agents include organisations that assist us with mailing your half-yearly account statement, copies of The Shareholder and other large volumes mailings. In order to ensure the security of data, all agents are carefully selected and abide by stringent Service Level and Non-Disclosure agreements.
 
@@ -41,9 +41,8 @@ Naturally, off-site storage of data is subject to the same stringent safeguards 
 
 Use of your information falls into two main categories:
 
-_Maintaining your Account records_
-
-Information is used to ensure the correct details are recorded and that we can maintain contact with you, both actively and in response to requests you may make.
+ **Maintaining your Account records  
+** Information is used to ensure the correct details are recorded and that we can maintain contact with you, both actively and in response to requests you may make.
 
 It is therefore important that details like your address, contact telephone numbers and Bank account details are kept up to date. Please therefore remember to advise us of any changes to these details.
 
@@ -51,9 +50,8 @@ For security purposes, some changes need to be made in a secure manner and we wi
 
 We make it easy for you to update your records and control how you manage your account through the 'my profile'.
 
-_Providing you with information on products and services_
-
-As new products are introduced, or changes made to existing services we would, from time to time, like to advise you of them.
+ **Providing you with information on products and services  
+** As new products are introduced, or changes made to existing services we would, from time to time, like to advise you of them.
 
 Naturally, we want to ensure we only advise you of services that are directly relevant or which may be of interest. To help identify this we will take into account your previous investment activity and other criteria, such as age, investment requirements and the type of investments you make, which may indicate a possible interest.
 
@@ -78,7 +76,7 @@ The Share Centre
 P O Box 2000   
 Aylesbury   
 Bucks   
-HP21 8ZB 
+HP21 8ZB
 
 ## How can I help safeguard it?
 
@@ -88,38 +86,37 @@ Online, we use a technology called "session cookies" in order to provide you wit
 
 Once you have signed in, you will have access to all parts of the site. If you are inactive for 20 minutes we will, for your own security, automatically sign you out from that 'session'. When you return to your account details (or other areas of the site where you need to be signed in) you will need to re-enter your customer reference and password.
 
-_Here are some ways you can help ensure your online security:_
+ **Here are some ways you can help ensure your online security:**
 
-  * When you sign in to your account online, make sure you are using a secure computer – internet cafes, public networks and even work-based computers may all enable other users to see what sites you've used and even 'remember' your access details.
-  * Some computers and programs allow you to 'store' a password for later use. Consider carefully whether or not other individuals may have access to that computer and may, therefore, be able to access your account. We recommend that you do not use these 'auto-complete' features and so when you sign in using the top right corner of our site, your auto-complete function will not be activated.
-  * We will never ask you for your internet password – so if you receive any request asking for these details you should not respond.
-  * You can store a memorable name/word and a memorable date as additional ways for us to confirm your identity. We will never call you, or write to you, asking you to confirm these details, so if you receive such a request you should not respond.
+  * When you sign in to your account online, make sure you are using a secure computer – internet cafes, public networks and even work-based computers may all enable other users to see what sites you've used and even 'remember' your access details. 
+  * Some computers and programs allow you to 'store' a password for later use. Consider carefully whether or not other individuals may have access to that computer and may, therefore, be able to access your account. We recommend that you do not use these 'auto-complete' features and so when you sign in using the top right corner of our site, your auto-complete function will not be activated. 
+  * We will never ask you for your internet password – so if you receive any request asking for these details you should not respond. 
+  * You will be asked to provide a memorable word as an additional way for us to confirm your identity. Please note that we will never send you an email, text message or a direct link to a website asking you to enter your memorable word details. If you receive anything of the kind **do not reply** but forward it to our compliance team at [compliance@share.co.uk](mailto:compliance@share.co.uk "compliance@share.co.uk").
   * When you call us with instructions we may ask you for these memorable details. This security check is for your protection and so, while on occasions you just feel you want to get on with the business in hand, we do hope you will help us to safeguard your interests by providing them. If you do happen to provide the wrong details inadvertently we know you will understand why we cannot provide the information requested. On the, hopefully, rare occasions this may happen we will however write to you with the details you had requested.
 
 
 
-## Our formal privacy policy 
+## Our formal privacy policy
 
-_Privacy of information:_
+ **Privacy of information:  
+** Safeguarding our customers' personal details and that of individuals enquiring about our services and products is of great importance to us. Please note that:
 
-Safeguarding our customers' personal details and that of individuals enquiring about our services and products is of great importance to us. Please note that:
-
-  * You need not provide any personal information on our web site unless you choose to
-  * No personal information is stored simply by browsing the public areas of the site
-  * Where we do have a record of your personal information, this will be used in the operation of your account, to improve the level and range of services offered to you or to keep you advised of new developments which may be of interest to you
-  * We may also use your details to advise you of services provided by other companies
-  * Should you not wish us to keep you informed, please contact Customer Service on 01296 41 41 41
-  * We may disclose any information provided by you as required by law or regulation;
-  * You are entitled to a copy of the personal data held by us, upon request. If you wish to update any information held, please contact Customer Service or [email us](mailto:service@share.co.uk?subject=enquiry)
-
+  * You need not provide any personal information on our web site unless you choose to.
+  * No personal information is stored simply by browsing the public areas of the site.
+  * Where we do have a record of your personal information, this will be used in the operation of your account, to improve the level and range of services offered to you or to keep you advised of new developments which may be of interest to you.
+  * We may also use your details to advise you of services provided by other companies. 
+  * Should you not wish us to keep you informed, please contact Customer Service on 08456 185 185. 
+  * We may disclose any information provided by you as required by law or regulation.
+  * You are entitled to a copy of the personal data held by us, upon request. If you wish to update any information held, please contact Customer Service or [email us](mailto:service@share.co.uk "email us").
 
 
-_Security of Information:_
 
-  * Your personal information can only be accessed by providing your unique Customer Reference and Password which should never be disclosed to anyone
-  * Upon exiting your account, you should use the 'sign out' button
-  * A technology called "session cookies" is used in order to provide you with access to your account information. Session cookies are small pieces of data which are sent to your Internet browser. They are not permanently stored on your computer 
-  * By accessing our site through the Internet, Secure Socket Layer technology is used in order to protect communications by server authentication and data encryption
+ **Security of Information:**
+
+  * Your personal information can only be accessed by providing your unique Customer Reference and Password which should **never** be disclosed to anyone.
+  * Upon exiting your account, you should use the 'sign out' button.
+  * A technology called "session cookies" is used in order to provide you with access to your account information. Session cookies are small pieces of data which are sent to your Internet browser. They are not permanently stored on your computer.
+  * By accessing our site through the Internet, Secure Socket Layer technology is used in order to protect communications by server authentication and data encryption.
 
 
 
@@ -131,13 +128,13 @@ The Share Centre supports the protection of children from potentially harmful ma
 
 If you have any questions or concerns regarding the collection; storage, use or accessibility of your personal information please let us know.
 
-In the first instance you may raise your query directly with our Customer Service team by calling us on 01296 41 41 41 or writing to us at:
+In the first instance you may raise your query directly with our Customer Service team by calling us on 08456 185 185 or writing to us at:
 
 The Share Centre   
 P O Box 2000   
 Aylesbury   
 Bucks   
-HP21 8ZB 
+HP21 8ZB
 
 If your question cannot be answered to your complete satisfaction it can then, at your request, be referred to our Data Protection Manager who will acknowledge your query and provide a written response or update within 10 days.
 
