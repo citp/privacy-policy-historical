@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seekingarrangement.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628014842id_/https%3A//www.seekingarrangement.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingarrangement.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319140525id_/https%3A//www.seekingarrangement.com/privacy) for the most accurate reproduction.*
 
-# Sugar Daddy & Sugar Baby Dating | Seeking Arrangement
+# Wealthy Dating | Privacy Policy | SeekingArrangement | The #1 Site for Mutually Beneficial Arrangements | SeekingArrangement.com
 
 ## Privacy Policy
 
@@ -50,7 +50,7 @@ SeekingArrangement.com allows you to change your personal information at any tim
 
 When you place an order online, your personal details and credit card information are encrypted using SSL encryption techology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details, SSL makes it very difficult for your information to be stolen or intercepted while being transferred.
 
-Our credit card transactions are processed by [MultiCards](https://www.multicards.com/). All information sent to MultiCards is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For MultiCards' privacy statement, please click [HERE](https://www.multicards.com/en/privacy.html).
+Our credit card transactions are processed by [MultiCards](http://www.multicards.com/). All information sent to MultiCards is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For MultiCards' privacy statement, please click [HERE](https://www.multicards.com/en/privacy.html).
 
 ### Cookies
 
@@ -58,6 +58,6 @@ To enhance your experience at SeekingArrangement.com and to access member servic
 
 ### Privacy Policy Changes
 
-If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about our privacy policy, please feel free to email us at **privacy(at)seekingarrangement.com**
+If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about our privacy policy, please feel free to email us at **privacy(at)SeekingArrangement.com**
 
 SeekingArrangement.com uses reasonable precautions to keep personal information disclosed to us secure. However, we are not responsible for any breach of security. This privacy policy is not intended to, and does not, create any contractual or other legal rights in or on behalf of any party.
