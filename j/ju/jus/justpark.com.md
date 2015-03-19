@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the justpark.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010223120id_/https%3A//www.justpark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justpark.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319104425id_/https%3A//www.justpark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | JustPark
 
   1. ### Introduction
 
     1. ParkatmyHouse Limited, trading as JustPark ("we" or "us") take the privacy of your information very seriously. This policy explains how and for what purposes we use the information collected about you via this site (referred to below as "the Site"). Please read this privacy policy carefully. By using the Site and any services we offer via the Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
-    2. If you have any queries about the policy, please [get in touch](http://help.justpark.com//) and we will do our best to answer your questions.
+    2. If you have any queries about the policy, please [get in touch](https://help.justpark.com/) and we will do our best to answer your questions.
   
 
   2. ### Personal information collected
