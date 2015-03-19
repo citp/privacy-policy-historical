@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misk.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703214350id_/https%3A//www.misk.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misk.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319102446id_/https%3A//www.misk.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Misk.com
 
@@ -59,5 +59,5 @@ Contact By Email
   
 Contact By Mail  
 Misk.com, Inc.  
-228 Park Ave S #33544  
-New York, NY 10003 
+93 S Jackson St #33544  
+Seattle, WA 98104-2818 
