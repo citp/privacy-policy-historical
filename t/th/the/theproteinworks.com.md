@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theproteinworks.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008023933id_/http%3A//www.theproteinworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theproteinworks.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319062636id_/http%3A//www.theproteinworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ The Protein Works™ is committed to ensuring that your privacy is protected at 
 
 The Protein Works™ may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from November 1st 2012.
 
-## What we collect
+## What We Collect
 
 We may collect the following information:
 
@@ -19,7 +19,7 @@ We may collect the following information:
 
 
 
-## What we do with the information we gather
+## What We Do With the Information We Gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -34,7 +34,7 @@ We require this information to understand your needs and provide you with a bett
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-## How we use cookies
+## How We Use Cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -44,16 +44,32 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-## Links to other websites
+## Links to Other Websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-## Controlling your personal information
+## How to Unsubscribe From Our Emails
+
+We hope our marketing emails will always be welcome in your inbox, but we appreciate you might want to pull back a bit at some point. If you wish to [unsubscribe](http://email.theproteinworks.com/interface/signup_preload.php?url=http://www.uploadlibrary.com/Theproteinworks/prefCentre/index.html) from our marketing emails, please just visit your [TPW™ Preferences](http://email.theproteinworks.com/interface/signup_preload.php?url=http://www.uploadlibrary.com/Theproteinworks/prefCentre/index.html) and update them at any time. You can choose which emails you are most interested to receive or you can (and devastate us all) [unsubscribe](http://email.theproteinworks.com/interface/signup_preload.php?url=http://www.uploadlibrary.com/Theproteinworks/prefCentre/index.html) completely.
+
+We'll always welcome you back with open arms, should you get your training back on track and need some TPW™ supplement support!
+
+## How to Get in Touch by Post
+
+You can contact us in any of the following ways on just about anything:
+
+  * Email us at helpdesk@theproteinworks.com
+  * Call us on 01928-571-677 or 0845-467-2411
+  * Post us at TPW™ Towers, Unit 2 Aragon Court, Manor Park, Runcorn, Cheshire, WA7 1SP
+
+
+
+## Controlling Your Personal Information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@theproteinworks.com
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at helpdesk@theproteinworks.com
 
 
 
