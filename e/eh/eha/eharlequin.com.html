@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eharlequin.com privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231212449id_/http%3A//www.harlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eharlequin.com privacy policy that was archived on 2015-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319050558id_/http%3A//www.harlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="cufon-active has-js cufon-ready"><head>
 <!-- ./about_us_article.vm -->
@@ -43,8 +43,8 @@
   
   <link rel="stylesheet" href="/media/css/social.gigya.css" type="text/css" media="all" charset="utf-8">
 
-		   <!-- Gigya  starts  http://cdn.gigya.com/js/socialize.js-->
-				<script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_OQrudUCVd0fJfAIbhObYWpTB9at_y-XqjISz8ggha6XORuuN-TfKyvc85sUslnBA">
+		   <!-- Gigya  starts  http://cdn.gigya.com/js/gigya.js-->
+				<script type="text/javascript" src="https://cdns.gigya.com/js/gigya.js?apiKey=3_OQrudUCVd0fJfAIbhObYWpTB9at_y-XqjISz8ggha6XORuuN-TfKyvc85sUslnBA">
 				{
 					siteName: 'harlequin.com'
 					//,enabledProviders: 'facebook,google,yahoo,twitter,messenger,linkedin'
@@ -72,11 +72,21 @@
   <!-- Add to Cart Dropdown -->        
   <script type="text/javascript" src="/media/js/addToCartDropDown.js?v1.1"></script>  
   <script type="text/javascript" src="/media/js/home-banner-ga.js?v1.1"></script> 
-  <script type="text/javascript" src="/media/js/harlequin-common.js?v1.1"></script> 
+  <script type="text/javascript" src="/media/js/harlequin-common.js?v1.2"></script> 
+<link rel="stylesheet" type="text/css" href="//assets.resultspage.com/js/rac/sli-rac.1.6.css">
+<link rel="stylesheet" type="text/css" href="//harlequin.resultspage.com/rac/sli-rac.css"> 
+
+
+<script type="text/javascript">
+function ajaxsearchsubmit(form){
+var search = encodeURIComponent(form.w.value); document.activeElement.blur(); window.location="http://books.harlequin.com/search#w="+search
+return false;
+}
+</script>
 	<link rel="stylesheet" href="/media/css/social.gigya.css" type="text/css" media="all" charset="utf-8">
 
-		   <!-- Gigya  starts  http://cdn.gigya.com/js/socialize.js-->
-				<script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_OQrudUCVd0fJfAIbhObYWpTB9at_y-XqjISz8ggha6XORuuN-TfKyvc85sUslnBA">
+		   <!-- Gigya  starts  http://cdn.gigya.com/js/gigya.js-->
+				<script type="text/javascript" src="https://cdns.gigya.com/js/gigya.js?apiKey=3_OQrudUCVd0fJfAIbhObYWpTB9at_y-XqjISz8ggha6XORuuN-TfKyvc85sUslnBA">
 				{
 					siteName: 'harlequin.com'
 					//,enabledProviders: 'facebook,google,yahoo,twitter,messenger,linkedin'
@@ -92,8 +102,36 @@
 
   <!-- ./common/header.vm -->
 
+<script type="text/javascript" src="/media/js/base64.js"></script>
 
+<script language="JavaScript">
 
+function getMyCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) != -1) return Base64.decode(c.substring(name.length,c.length));
+    }
+    return "";
+}
+function setBase64Cookie(cname, cvalue) {
+	document.cookie = cname +"=" +  Base64.encode(cvalue) + "; expires=-1;domain=.harlequin.com; path=/";
+}
+function removeCookie(cname) {
+    var pastTime = new Date();
+    pastTime.setTime(pastTime.getTime() - 600000);
+	document.cookie = cname+"=; expires="+pastTime.toUTCString()+";domain=.harlequin.com;path=/";
+}
+
+function setHerderInfoCookie() {
+ 	setBase64Cookie("hqMiniBasket", "0|||||");
+    
+      removeCookie("hqUserInfo");
+  } 
+setHerderInfoCookie();
+</script>
 
 
 
@@ -107,18 +145,10 @@
         <img src="/media/images/hqnLogo-Header.png" alt="Harlequin" width="286" height="57">
       </a>
       
-      <form action="catalogsearch.html" method="get" id="SiteSearch" class="no-print">
-        <label for="SearchTerm" class="search-left">Search</label>
-        <input type="text" value="Search" name="keyword" class="text search-input inline-label" id="SearchTerm">
-                  <input id="activetab" name="tab" type="hidden" value="items">
-                <input type="hidden" name="vcname" value="Catalog_Search">
-        <input type="submit" value="go" class="submit search-submit">
-      </form>
-      <script type="text/javascript">
-        //<![CDATA[
-        new trapeze.InlineLabel({field: "#SearchTerm", selector: ".search-left"});
-        //]]>
-      </script>
+      <form id="SiteSearch" class="no-print" name="searchform" action="http://books.harlequin.com/search" method="get" onsubmit="return ajaxsearchsubmit(this)"> <label for="SearchTerm" class="search-left">Search</label>
+		<input type="text" name="w" value="" onfocus="this.value=''" class="text search-input inline-label" id="sli_search_1" autocomplete="off"> 
+		<input value="go" class="submitbutton submit search-submit" type="submit"> 
+	 </form>
   
       
   
@@ -132,7 +162,9 @@
           <li class="viewcart"><a href="/basket.html"><strong>View your shopping cart</strong></a></li>
         </ul><!-- #cartLinks-->
 
-          
+        <div id="cart_dropdown_block">
+                  </div>
+  
         <div id="cartWrapperBottom"></div>
   
       </div><!-- #cartWrapper -->
@@ -147,7 +179,7 @@
   <div id="Header" class="content-area">
     <div id="MainNavWrapper">
       <div class="wrapper">
-				  <ul id="MainNav" class="navigation-list topLevel">
+				<ul id="MainNav" class="navigation-list topLevel">
     <li class="first-child mega-menu-item" id="BooksBlock">
       <a href="#" class="mega-link">Books</a>
       <ul class="mega-menu-block">
@@ -159,8 +191,7 @@
                 <li class="col col1">
                   <ul>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=233">All Harlequin Series</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=3586">Cosmo Red-Hot Reads</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622360">Harlequin E</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=3586">COSMOPOLITAN Red-Hot Reads from Harlequin</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=244">Harlequin American Romance</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=192">Harlequin Blaze</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=2869">Harlequin Desire</a></li>
@@ -168,7 +199,6 @@
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=191">Harlequin Historical</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=225">Harlequin Intrigue</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=482">Harlequin Kimani Romance</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=3344&amp;month=1">Harlequin KISS</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=264">Harlequin Medical Romance</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=2577">Harlequin Nocturne</a></li>
 					
@@ -188,7 +218,6 @@
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=3236">Love Inspired Special Releases</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=994">Love Inspired Historical</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=359">Love Inspired Suspense</a></li>
-                    <li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=3235">Heartsong Presents</a></li>
 					<li class="megaMenuThirdTierEndcap-Double"></li>                      
                   </ul>
                 </li>
@@ -199,17 +228,19 @@
               <ul class="single-tier-menu thirdLevel">
                 <li class="col col1">
                   <ul>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622790">Avon</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622793">Avon Red</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622794">Avon Inspire</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622791">Avon Impulse</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622795">Avon Red Impulse</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622792">Avon Inspire Impulse</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=2860">Carina Press</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=2357">Harlequin Teen</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=330">Harlequin HQN</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=369">Harlequin Kimani Arabesque</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=590">Harlequin Kimani TRU</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=372">Harlequin Kimani Press</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=309">Harlequin LUNA</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=242">Harlequin MIRA</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=330">HQN </a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=242">MIRA</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=481">Rogue Angel</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=235">Silhouette Special Releases</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=373">SPICE</a></li>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=337">Worldwide Mystery</a></li>
                     <li class="megaMenuThirdTierEndcap-Single"></li>
                   </ul>
@@ -219,7 +250,7 @@
           
              <li class="menu-hover ">
               <span class="inline-hover">Nonfiction Categories</span>
-              <ul class="single-tier-menu thirdLevel">
+               <ul class="single-tier-menu thirdLevel">
                 <li class="col col1">
                   <ul>
 					<li class="inline-title"><a href="http://www.harlequin.com/store.html?vcid=659649">Biography and Memoir</a></li>
@@ -277,51 +308,51 @@
             </li>
 			
 			
-            <li class="menu-hover ">
+           <li class="menu-hover ">
               <span class="inline-hover">Sales &amp; Spotlights</span>
-               <ul class="double-tier-menu thirdLevel">
+              <ul class="double-tier-menu thirdLevel">
                 <li class="col col1">
                   <ul>
-					<li class="inline-title"><a href="http://www.harlequin.com/TheSullivans">Seasons of Love with Bella Andre</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=2684">Winter Stock-up Sale</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/EroticFiction">Our Guide to Erotic Fiction</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/EroticFlowchart">Harlequin's Erotic Fiction Flowchart</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/thereturned">The Returned </a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/cosmo">Cosmo Red-Hot Reads</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/NewAdult">What is New Adult?</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/Christmas">Christmas Books</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622326">Winter is Here</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/ChristmasCountdown">Christmas Countdown</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622357">Jennifer L. Armentrout</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=2715">The Best of 2013</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622359">2014 Preview</a></li>
-                   </ul>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622875">Fresh Start</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622876">Romance Through the Ages</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622874">It's a Secret Baby!</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/MischiefBay">Susan Mallery's Sisters of the Heart</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622798"><em>The Apple Orchard</em> by Susan Wiggs</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/contemporaryromance">Beginners' Guide to Contemporary Romance</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/FatalSeries">Marie Force's Fatal Series</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=3448">Guide to Erotic Romance</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=3450">Erotic Fiction Flowchart</a></li>
+					
+					</ul>
                 </li>
                 <li class="col col2">
                   <ul>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622358">Tablet Guide</a></li>
-					<li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=622392">New Year, New You</a></li>
-                    <li class="megaMenuThirdTierEndcap-Double"></li>
-                  </ul>
+				  	<li class="inline-title"><a href="http://www.harlequin.com/Westerns">Wild About Westerns</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/RivetingReads">Riveting Reads</a></li>
+					<li class="inline-title"><a href="http://www.harlequin.com/cosmo">Cosmo Red-Hot Reads</a></li>
+					<li class="inline-title"><a href="http://www.balloonsandchapters.com/book/comic" target="_blank">Harlequin Digital Comics</a></li>
+					<li class="megaMenuThirdTierEndcap-Double"></li>
+			   </ul>
                 </li>
               </ul>  
             </li>
+                
           
             <li class="menu-hover ">
               <span class="inline-hover noChild">
-              	<a href="/upcomingbooks.html?catId=233&amp;upMonth=1&amp;serId=244">Upcoming Books</a>
+              	<a href="http://www.harlequin.com/upcomingbooks.html?catId=233&amp;upMonth=1&amp;serId=244">Upcoming Books</a>
               </span>
             </li>
 
             <li class="menu-hover ">
               <span class="inline-hover noChild">
-              	<a href="/newrelease.html">New Releases</a>
+              	<a href="http://www.harlequin.com/newrelease.html">New Releases</a>
               </span>
             </li>
 
             <li class="menu-hover ">
               <span class="inline-hover noChild">
-              	<a href="/store.html?cid=622304">Larger Print</a>
+              	<a href="http://www.harlequin.com/store.html?cid=622304">Larger Print</a>
               </span>
             </li>
 
@@ -381,9 +412,9 @@
                 <li class="col col1">
                   <ul>
                     <li class="inline-title"><a href="http://www.harlequin.com/articlelist.html?activeTab=READ" rel="nofollow">All Online Reads</a></li>
-                    <li class="inline-title"><a href="http://www.harlequin.com/articlepage.html?articleId=1892&amp;chapter=1">One Night in Vegas</a></li>
-                    <li class="inline-title"><a href="http://www.harlequin.com/articlepage.html?articleId=1891&amp;chapter=1">No Christmas Without You </a></li>
-                    <li class="inline-title"><a href="http://www.harlequin.com/articlepage.html?articleId=1889&amp;chapter=1">A Silver Creek Christmas</a></li>
+                    <li class="inline-title"><a href="http://www.harlequin.com/articlepage.html?articleId=1979&amp;chapter=1">The Dallas Contract</a></li>
+                    <li class="inline-title"><a href="http://www.harlequin.com/articlepage.html?articleId=1998&amp;chapter=1">Dangerous Justice</a></li>
+                    <li class="inline-title"><a href="http://www.harlequin.com/articlepage.html?articleId=1969&amp;chapter=1">Society Wedding Secrets</a></li>
                     <li class="megaMenuThirdTierEndcap-Single"></li>                      
                   </ul>
                 </li>
@@ -426,7 +457,7 @@
                 <li class="col col1">
                   <ul>
                     <li class="inline-title"><a href="http://www.soyouthinkyoucanwrite.com/" target="_blank">So You Think You Can Write</a></li>
-                    <li class="inline-title"><a href="http://www.harlequin.com/articlepage.html?articleId=538&amp;chapter=0">Writing Guidelines</a></li>
+                    <li class="inline-title"><a href="http://www.harlequin.com/articlepage.html?articleId=538&amp;chapter=0">Write for Harlequin</a></li>
                     <li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=535">Writing Articles</a></li>
                     <li class="inline-title"><a href="http://www.harlequin.com/store.html?cid=598">Submission Samples</a></li>
                     <li class="megaMenuThirdTierEndcap-Single"></li>                      
@@ -470,14 +501,19 @@
           
             <li class="menu-hover">
               <span class="inline-hover">Our Blogs</span>
-              <ul class="single-tier-menu thirdLevel">
+               <ul class="double-tier-menu thirdLevel">
                 <li class="col col1">
                   <ul>
                     <li class="inline-title"><a href="http://harlequinblog.com/" target="_blank">Harlequin Blog</a></li>
                     <li class="inline-title"><a href="http://www.iheartpresents.com/" target="_blank">Harlequin Presents Blog</a></li>
-                    <li class="inline-title"><a href="http://paranormalromanceblog.com/" target="_blank">Paranormal Romance Blog</a></li>
                     <li class="inline-title"><a href="http://carinapress.com/blog" target="_blank">Carina Press Blog</a></li>
-                    <li class="megaMenuThirdTierEndcap-Single"></li>                      
+					 </ul>
+                </li>
+                <li class="col col2">
+                  <ul>
+				  	<li class="inline-title"><a href="http://sold.soyouthinkyoucanwrite.com/" target="_blank">SOLD! Blog</a></li>
+                    <li class="inline-title"><a href="http://www.harlequinteen.com" target="_blank">Harlequin TEEN</a></li>
+					<li class="megaMenuThirdTierEndcap-Double"></li>                      
                   </ul>
                 </li>
               </ul>  
@@ -501,12 +537,24 @@
       </ul>
     </li>
       
+    <li class="mega-menu-item" id="MyRewardsBlock" style="display: none;">
+	</li>
+	
+<script language="JavaScript">
+	var domainCookies = document.cookie;
+	if(domainCookies.indexOf("pt_login_cookie") > -1){
+	    $('#MyRewardsBlock').show();
+	    $('#MyRewardsBlock').append('<a href="myrewardsprogram.html" class="mega-link">My Rewards</a>');
+	}else{
+	    $('#MyRewardsBlock').hide();
+	}
+</script>
   </ul>
                 
   <div id="loginWrapper">
-        	        <a href="signin.html;jsessionid=2B81AA6947DFC5C25AA8E77EAA3C4222?mt=1&amp;redirecturl=/customerselfservice.html" class="sign-in-link account-link">Register</a> 
+        	        <a href="signin.html?mt=1&amp;redirecturl=/customerselfservice.html" class="sign-in-link account-link">Register</a> 
         <span class="loginDivider">|</span> 
-        <a href="signin.html;jsessionid=2B81AA6947DFC5C25AA8E77EAA3C4222?mt=1&amp;redirecturl=/customerselfservice.html">Login</a>
+        <a href="signin.html?mt=1&amp;redirecturl=/customerselfservice.html">Login</a>
         
         <div id="loginBoxSocialMediaWrapper">
           <a href="" class="socialMediaLogin" id="socialMediaLoginFacebook">
@@ -545,8 +593,7 @@
   </div>
   <!-- gigya ends -->
 
-  
-
+<!-- for myrewardsprogram.html, do not show the login area in menu bar -->
       </div>
     </div>
   </div>
@@ -580,7 +627,7 @@
         <p class="emphasized"></p>
         <p><a href="../media/images/pdf/HarlequinPrivacyPolicy.pdf" target="_blank">Click here</a> for a printable version of Harlequin's Privacy Policy. 
 </p><p><strong>Effective Date: October 3, 2006</strong> <br>
-<strong>Last Updated: August 19, 2011</strong></p>
+<strong>Last Updated: March 9, 2015</strong></p>
 <p>Thank you for reading Harlequin's Privacy Policy. As one of the world's leading publishers of women's fiction, Harlequin Enterprises Limited ("Harlequin") is committed to protecting the privacy and confidentiality of personal information entrusted to us. </p>
 <p><strong>What Is Personal Information? </strong></p>
 <p>As a Canadian publisher, Harlequin is subject to Canada's privacy legislation, the <em>Personal Information Protection and Electronic Documents Act</em> (the "Act"). This Act covers the collection, use and disclosure of personal information by an organization in the course of any commercial activity. "Personal information" is defined in the Act as "information about an identifiable individual, but does not include the name, title or business address or telephone number of an employee of an organization."</p>
@@ -617,8 +664,9 @@ As well, in the event Harlequin was ever sold, your personal information would b
 <p><strong>What Security Measures Does Harlequin Have in Place To Safeguard Personal Information? </strong></p>
 <p>Harlequin has implemented physical, electronic and administrative measures to protect your information from error, loss or unauthorized access. For example, we use industry-standard efforts, such as passwords, firewalls and Secure Socket Layers, to safeguard the confidentiality of your personal information contained on our computer systems. In addition, our employees and any third parties are contractually bound to protect the confidentiality of your information and access is restricted to those with a need to know the information to carry out the identified purpose. In the unlikely event unauthorized access and use of your credit card occurs, Harlequin has a credit card guarantee. If you are using a credit card, your liability for any unauthorized use will usually be limited to $50.00 by your financial institution or credit card provider. We will reimburse you up to a maximum of $50.00, provided the fraudulent use of your card was not through your own fault but was a result of purchases made from Harlequin. In this event, you must notify your credit card provider in accordance with their notification requirements and ask them to notify us that you are being held liable. </p>
 <p><strong>Cookies and Other Tracking Methods </strong></p>
-<p>Cookies are small pieces of information stored on your hard drive, not on our websites. We use cookies, or, in a limited number of cases, IP addresses for a number of reasons. First, cookies allow you to store your password without having to constantly reenter it. Second, cookies help us tailor messages that better match your needs and interests. Third, cookies allow us to better understand how users in general use our sites, which in turn helps us to focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our sites may not work properly if you do. </p>
-<p><strong>Note: Harlequin may place advertising and/or links on our sites that originate from outside advertisers. In some cases, if you click on or view these ads, a cookie may be assigned by the advertisers. Harlequin does not control these cookies nor is it responsible for any marketing or other use of your name by the advertisers. We encourage you to investigate and ask questions before disclosing information to third parties. </strong></p>
+<p>Cookies are small pieces of information stored on your hard drive, not on our websites. We use cookies, or, in a limited number of cases, IP addresses for a number of reasons. First, cookies allow you to store your password without having to constantly reenter it. Second, cookies help us tailor messages that better match your needs and interests. Third, cookies allow us to better understand how users in general use our sites, which in turn helps us to focus our resources on features that are most popular with our users. In certain cases we may also use tracking technologies to serve online advertisements to you for our products on third party websites.</p>
+<p>Cookies and tracking pixels are used to collect non-personally identifiable information about your activities during your visits to a website. Certain browsers allow you to block third party cookies in order to prevent being tracked.  Please note that blocking all cookies could result in loss of login information for certain sites and some parts of our sites may not work properly if you do. For further opt-out options please see <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a>.</p>
+<p><strong>Note: Harlequin may place advertising and/or links on our sites that originate from outside advertisers. In some cases, if you click on or view these ads, a cookie may be assigned by the advertisers. Harlequin does not control these cookies nor is it responsible for any marketing or other use of your name by the advertisers. We encourage you to investigate and ask questions before disclosing information to third parties.</strong></p>
 <p><strong>Non-personal Information </strong></p>
 <p>Non-personal or aggregated information is information that cannot be associated with or traced back to a specific person. When you browse our websites, for example, we do not collect any personally identifiable information about you, but we do gather information about the number of people who are viewing each page so that we can learn what features are the most popular. We also use this data, both aggregated and personally identifiable, to personalize and enhance your onsite experience by displaying content and marketing messages we believe will be of interest to you. We disclose aggregated information about our websites to third parties.</p>
 <p>In addition, to help us better understand our markets, we may gather demographic information for analytical purposes on an aggregate basis. This information is not kept, used or disclosed at the individual level, but may be disclosed to third parties on an aggregate basis. </p>
@@ -722,7 +770,7 @@ Fax Number: (416) 391-7055</p>
             }
           </script>
                       <form id="form-subscribe-newsletter" class="form-subscribe-newsletter" action="https://www.harlequin.com/newsletterregister.html" method="post" onsubmit="javascript:return hqnValidateEmail('form-subscribe-newsletter','newsletterSubscribe');">
-              <label><h3>Subscribe to our Newsletter</h3></label>
+              <label><h4>Sign-up to receive promotional emails from Harlequin*</h4></label>
               <div class="input-text-wrapper"><div class="textfield-tl" style="top:0px;left:0px;"><!-- --></div><div class="textfield-tr" style="top:0px;left:271px;"><!-- --></div><input type="text" class="text inline-label size-6" id="NewsletterSubscribe" name="newsletterSubscribe" value="Enter email address"><div class="textfield-bl" style="top:21px;left:0px;"><!-- --></div><div class="textfield-br" style="top:21px;left:271px;"><!-- --></div></div>
               <input type="hidden" name="mt" value="1">
               <input value="Subscribe »" class="submit" type="submit">
@@ -752,6 +800,7 @@ Fax Number: (416) 391-7055</p>
       </ul>
       <ul>
         <li class="first-child"><h4>Your Purchases</h4></li>
+        <li><a href="/myrewards.html?mt=loyalty">My Rewards Program</a></li>
         <li><a href="/store.html?cid=2680#Policiesrates">Shipping Rates</a></li>
         <li><a href="/store.html?cid=2680#Returnpolicy">Returns</a></li>
         <li><a href="/articlepage.html?articleId=897&amp;chapter=0">Privacy</a></li>
@@ -763,9 +812,9 @@ Fax Number: (416) 391-7055</p>
         <li><a href="/store.html?cid=527">Press</a></li>
       </ul>
       <ul>
-        <li class="first-child"><h4>Write for Us</h4></li>
-        <li><a href="/articlepage.html?articleId=538&amp;chapter=0">Writing Guidelines</a></li>
-        <li class="last-child"><a href="http://www.harlequin.com/articlepage.html?articleId=1770&amp;chapter=0">Submit to Harlequin</a></li>
+        <li class="first-child"><h4>Authors</h4></li>
+        <li><a href="/articlepage.html?articleId=538&amp;chapter=0">Write for Harlequin</a></li>
+        <li class="last-child"><a href="http://www.digimarc.com/products/guardian/submit-report" target="_blank">Report Piracy</a></li>
         <li><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.harlequin.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
         <a href="http://www.verisign.com/verisign-trust-seal" target="_blank"></a></li>	
       </ul>
@@ -788,13 +837,13 @@ Fax Number: (416) 391-7055</p>
   <div id="LegalWrapper">
     <div id="Legal">
       <span id="Copyright">
-        Copyright © 2000–2013 Harlequin Enterprises Limited. All Rights Reserved.
-      </span>
+        Copyright © 2000–2014 Harlequin Enterprises Limited. All Rights Reserved.</span>
       <ul id="Policy" class="navigation-list">
         <li class="first-child"><a href="/articlepage.html?articleId=897&amp;chapter=0">Privacy Policy</a></li>
         <li><a href="/articlepage.html?articleId=50&amp;chapter=0">Terms &amp; Conditions</a></li>
         <li class="last-child"><a href="/articlepage.html?articleId=50&amp;chapter=0#copyright">Intellectual Property Notice</a></li>
       </ul>
+	  <div style="text-align:left"><br>*Harlequin Enterprises Limited (Harlequin.com) is located at 225 Duncan Mill Rd, Don Mills, Ontario Canada M3B 3K9 and sends promotional emails on behalf of itself and Harlequin Digital Sales Corporation. Subscribers can unsubscribe at any time.</div>
     </div>
   </div>
 
@@ -857,7 +906,7 @@ s.prop4="";
 s.prop5="";
 s.prop6="";
 s.prop7="";
-s.prop8="207.241.237.236|Corporate: About us: Privacy Policy||";
+s.prop8="207.241.229.151|Corporate: About us: Privacy Policy||";
 s.prop9="";
 
     
@@ -911,6 +960,22 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
         
       	
   </div>
+<script type="text/javascript" src="//harlequin.resultspage.com/rac/sli-rac.config.js"></script>
+
+<!--Adblock Check --> 
+<!-- disable adblock due to conflict with sli-search
+<script type="text/javascript" src="/media/js/adsense.js"></script> 
+<script type="text/javascript">
+jQuery(document).ready(checkAds()); 
+function checkAds()
+{if (document.getElementById('adsense')!=undefined)
+	{document.write("<script>_gaq.push(['_trackEvent', 'Adblock Unblocked', 'Unblocked', 'false',,true]);</sc" + "ript>");
+	}else{
+	document.write("<script>_gaq.push(['_trackEvent', 'Adblock Blocked', 'Blocked', 'true',,true]);</sc" + "ript>");
+}} 
+</script> 
+-->
+<!--End Adblock Check-->
 
 
 </body></html>
