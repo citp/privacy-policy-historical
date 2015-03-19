@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdomjobs.co.za privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215044637id_/http%3A//www.wisdomjobs.co.za/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdomjobs.co.za privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319111154id_/http%3A//www.wisdomjobs.co.za/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Wisdomjobs.co.za
 
@@ -118,9 +118,9 @@ Don’t provide the below details which were asked by third parties. The below i
 
 |    
   
-  * You can correct the personally identified information provided with Wisdom IT Services and its partner sites. If you want to stop our services may also contact us by sending an Email or calling us to the Telephone numbers mentioned in [**Contact Us**](https://web.archive.org/web/20140215044637id_/http%3A//www.wisdomjobs.co.za/contact_us.php) page.
-  * Your accounts will be retained as long as you desire our services. Incase if you want to delete, deactivate or remove the changes in Membership information you may contact us at [jobseekers@wisdomjobs.co.za](mailto:jobseekers@Wisdomjobs.co.za) or [support@wisdomjobs.co.za](mailto:support@Wisdomjobs.co.za) or filling the details of [**Contact Us**](https://web.archive.org/web/20140215044637id_/http%3A//www.wisdomjobs.co.za/contact_us.php) page.
-  * We have an official blog, which is free accessible and the information provided in these areas may be accessed by all. You can send a request to us to remove your personal details from blog by sending an email or through [**Contact Us**](https://web.archive.org/web/20140215044637id_/http%3A//www.wisdomjobs.co.za/contact_us.php) from. We’ll incorporate your request if it is able to do, otherwise we’ll let you know the reason why we are unable to do it.
+  * You can correct the personally identified information provided with Wisdom IT Services and its partner sites. If you want to stop our services may also contact us by sending an Email or calling us to the Telephone numbers mentioned in [**Contact Us**](https://web.archive.org/web/20150319111154id_/http%3A//www.wisdomjobs.co.za/contact_us.php) page.
+  * Your accounts will be retained as long as you desire our services. Incase if you want to delete, deactivate or remove the changes in Membership information you may contact us at [jobseekers@wisdomjobs.co.za](mailto:jobseekers@Wisdomjobs.co.za) or [support@wisdomjobs.co.za](mailto:support@Wisdomjobs.co.za) or filling the details of [**Contact Us**](https://web.archive.org/web/20150319111154id_/http%3A//www.wisdomjobs.co.za/contact_us.php) page.
+  * We have an official blog, which is free accessible and the information provided in these areas may be accessed by all. You can send a request to us to remove your personal details from blog by sending an email or through [**Contact Us**](https://web.archive.org/web/20150319111154id_/http%3A//www.wisdomjobs.co.za/contact_us.php) from. We’ll incorporate your request if it is able to do, otherwise we’ll let you know the reason why we are unable to do it.
 
 
 
@@ -129,7 +129,7 @@ Don’t provide the below details which were asked by third parties. The below i
 #### Contact Information
 
 |    
-‘Wisdom IT Services (India) Pvt.Ltd.’welcomes your comments regarding this privacy statement at the contact address given at the website. We invite your concerns about contravention of this Privacy Policy; ‘Wisdom IT Services (India) Pvt.Ltd.’will employ all commercially reasonable efforts to address the same. You can [**Contact Us**](https://web.archive.org/web/20140215044637id_/http%3A//www.wisdomjobs.co.za/contact_us.php) always by sending your queries. |    
+‘Wisdom IT Services (India) Pvt.Ltd.’welcomes your comments regarding this privacy statement at the contact address given at the website. We invite your concerns about contravention of this Privacy Policy; ‘Wisdom IT Services (India) Pvt.Ltd.’will employ all commercially reasonable efforts to address the same. You can [**Contact Us**](https://web.archive.org/web/20150319111154id_/http%3A//www.wisdomjobs.co.za/contact_us.php) always by sending your queries. |    
   |    
   
 #### Updating this Privacy Policy
