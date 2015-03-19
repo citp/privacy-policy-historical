@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elements4health.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926202220id_/http%3A//www.elements4health.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elements4health.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320000825id_/http%3A//www.elements4health.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,4 +49,4 @@ In an attempt to provide you with increased value, we may include third party li
 
 Questions and feedback:
 
-Elements4Health welcomes your comments regarding this Privacy Policy. If you believe that Elements4Health has not adhered to this Policy, please contact us by using our online feedback form and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+Elements4Health welcomes your comments regarding this Privacy Policy. If you believe that Elements4Health has not adhered to this Policy, please contact us by using our online feedback form and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
