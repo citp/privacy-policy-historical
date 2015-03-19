@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipard.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701111642id_/http%3A//www.tipard.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipard.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319092027id_/http%3A//www.tipard.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Tipard
 
@@ -22,7 +22,7 @@ You can help us by also taking precautions to protect your personal data when yo
 
 ## RegNow
 
-RegNow is the software industry’s premier registration commerce provider. Tipard uses RegNow to provide you with very secure and fast online purchase.
+RegNow is the software industry's premier registration commerce provider. Tipard uses RegNow to provide you with very secure and fast online purchase.
 
 ## Cookies
 
