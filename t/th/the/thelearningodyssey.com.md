@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelearningodyssey.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722131807id_/https%3A//www.thelearningodyssey.com/LoginContent/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelearningodyssey.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319044607id_/https%3A//thelearningodyssey.com/LoginContent/privacypolicy.html) for the most accurate reproduction.*
 
-# CompassLearning Odyssey
+# CompassLearning
 
 COMPASSLEARNING RESPECTS YOUR PRIVACY. 
 
@@ -8,7 +8,7 @@ Please read below to see what personal information and/or personally identifiabl
 
 PERSONALLY IDENTIFIABLE INFORMATION 
 
-In connection with your use of certain CompassLearning or Renzulli products or services, such as, CompassLearning Odyssey and Renzulli Learning, we will collect personally identifiable information about you when you or your school provide it to us or if it is collected passively through cookies. We do collect and sometimes share information, such as anonymous statistical or de-identified information, about your visit with companies with which we have partnered. 
+In connection with your use of certain CompassLearning or Renzulli products or services, such as, CompassLearning and Renzulli Learning, we will collect personally identifiable information about you when you or your school provide it to us or if it is collected passively through cookies. We do collect and sometimes share information, such as anonymous statistical or de-identified information, about your visit with companies with which we have partnered. 
 
 We may share personally identifiable information with your school. Teachers, administrators and district administrators can configure reports based on student information. These reports can be exported to PDF’s or spreadsheets. We may also share personally identifiable information with researchers or analysts who have agreed in writing to protect the confidentiality of such information in order for them to prepare white papers or analysis regarding the efficacy of our products or services. No white papers or analysis shared publicly would disclose any personally identifiable information. Except solely as provided herein, we will not sell, lease or provide any third party personally identifiable information we may collect from you except pursuant to a written confidentiality agreement as necessary to make one of our products or services available to you, in connection with a sale or change of control of CompassLearning or any of its assets, or if CompassLearning has reason to believe that doing so is necessary to identify, contact, or bring legal action against someone damaging, injuring, or interfering with our rights, property, or users. 
 
@@ -18,7 +18,7 @@ PERSONAL INFORMATION PRACTICES REGARDING CHILDREN
 
 What personal information is collected from children?
 
-Through the course of providing access to and use of certain CompassLearning or Renzulli products or services, such as, CompassLearning Odyssey and/or Renzulli Learning, we may collect or have access to: your name, grade level, student school ID, user name, password, gender, ethnicity, race, whether you have special needs, certain sociological/economic factors regarding you that may impact your learning, factors relating to your scholastic performance, status and/or enrollment status, log domain names, IP address, a processor or device serial number, geolocation data, and/or a unique device identifier. 
+Through the course of providing access to and use of certain CompassLearning or Renzulli products or services, such as, CompassLearning and/or Renzulli Learning, we may collect or have access to: your name, grade level, student school ID, user name, password, gender, ethnicity, race, whether you have special needs, certain sociological/economic factors regarding you that may impact your learning, factors relating to your scholastic performance, status and/or enrollment status, log domain names, IP address, a processor or device serial number, geolocation data, and/or a unique device identifier. 
 
 How is this personal information used?
 
