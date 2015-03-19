@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibollytv.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230185742id_/http%3A//www.ibollytv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibollytv.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319020718id_/http%3A//www.ibollytv.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Hindi Movies Online, Bollywood Movies Online, Indian TV Serials Online
 
