@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relateiq.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017142729id_/http%3A//www.relateiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relateiq.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319020313id_/https%3A//www.relateiq.com/privacy-policy) for the most accurate reproduction.*
 
 # RelateIQ - Privacy Policy
 
