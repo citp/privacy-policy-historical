@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dynamiclevels.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707045645id_/https%3A//www.dynamiclevels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamiclevels.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319032723id_/https%3A//www.dynamiclevels.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy-policy - Dynamiclevels
 
 **Privacy policy**
 
