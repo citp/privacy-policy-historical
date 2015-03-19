@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsvpify.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213002832id_/http%3A//rsvpify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsvpify.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319053946id_/https%3A//rsvpify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RSVPify.
 
@@ -124,4 +124,4 @@ LAST UPDATED
 
 September 7, 2013
 
-© 2014 RSVPify. All rights reserved. Patent pending.
+© 2015 RSVPify. All rights reserved. Patent pending.
