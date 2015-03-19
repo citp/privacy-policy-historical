@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109002704id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319185135id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LuxSci
 
@@ -159,5 +159,12 @@ You may return signed versions of these documents to Lux Scientiae by:
 
 
 
-|  |   
+|  | 
+
+Starting at $10/mo
+
+Sign Up
+
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.luxsci.com "McAfee Certified Secure")  
+  
 ---|---|---
