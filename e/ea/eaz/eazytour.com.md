@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eazytour.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811040138id_/http%3A//eazytour.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eazytour.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319160333id_/https%3A//eazytour.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.eazytour.com](http://eazytour.com/www.eazytour.com)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.eazytour.com](https://eazytour.com/www.eazytour.com)
 
  **Your Consent**
 
