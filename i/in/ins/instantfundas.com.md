@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantfundas.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020191312id_/http%3A//www.instantfundas.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantfundas.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319021845id_/http%3A//www.instantfundas.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Instant Fundas - All Things Technology and More
 
