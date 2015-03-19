@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the everest.edu privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019123721id_/http%3A//www.everest.edu/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everest.edu privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319103457id_/http%3A//www.everest.edu/legal/privacy_policy) for the most accurate reproduction.*
 
 # 
 
-Corinthian Colleges, Inc. ("Everest", "we", "us") is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
+Everest (we", "us") is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
 
 ## WHAT PERSONALLY IDENTIFIABLE INFORMATION DOES EVEREST COLLECT FROM ME?
 
@@ -110,7 +110,7 @@ Everest does not sell or rent user information to anyone except as disclosed in 
 
 ### Business Transitions
 
-In the event Corinthian Colleges, Inc. (Parent of Everest) goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.
+In the event Everest goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.
 
 ### Links to Other Sites
 
@@ -139,9 +139,9 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Privacy  
-Corinthian Colleges, Inc.  
-6 Hutton Centre Drive, Suite 400  
-Santa Ana, CA 92618  
+Everest Colleges, Institutes, & Universities  
+5 Hutton Centre Drive, Suite 500  
+Santa Ana, CA 92707  
 Phone: (866) 786-2765   
 [privacy@cci.edu](mailto:privacy@cci.edu)
 
