@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417144110id_/http%3A//www.campsaver.com/service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319170806id_/http%3A//www.campsaver.com/service/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security :: CampSaver.com
 
-  *     * The product Commute Messenger Bag has been added to comparison list.
-    * The product Moench Longsleeve Shirt - Men's has been added to comparison list.
-    * The product Adaptor CoolMax Travel Liner has been added to comparison list.
-    * The product Run 2.0 Original Weight Mini-Crew Sock - Men's has been added to comparison list.
-    * The product eVac Dry Sack - 35L has been added to comparison list.
-    * The product 20 mm Accessory Straps has been added to comparison list.
 
 
 
@@ -18,6 +12,10 @@
 Because we value our customers, we will provide any information our guests request about the information we have collected about them. By request we will erase any information that our guests do nor want us to maintain. All employees at Camp Saver LLC are required to keep personal data of our guests and customers confidential. The Camp Saver LLC web site uses secure server transactions and follows federal regulations to collect personal data.
 
 ## Data Collection
+
+### Credit Card Data
+
+We do not store credit card numbers on our website. We require our customers to enter their credit card details on every purchase in order to protect your personal data
 
 ### Non-personal Data Collected
 
@@ -49,7 +47,7 @@ We do not knowingly collect any information from children.
 
 ## Email
 
-We do not sell, rent, lease or give your email to any third-party organizations. We do not send unsolicited email. **We do not spam**. If you choose to provide us with your email address we will use it to send: 
+We do not sell, rent, lease or give your email to any third-party organizations. We do not send unsolicited email. **We do not spam**. If you choose to provide us with your email address we will use it to send:
 
   * answers to questions and/or requested information, order confirmations, and receipts.
   * newsletters, product announcements and/or special promotions.
@@ -60,4 +58,4 @@ If you have opted to receive promotional email from Camp Saver LLC and later dec
 
 ## Support
 
-If you have any questions regarding the Camp Saver LLC Privacy Policy, please [contact us](http://www.campsaver.com/service/contact/).
+If you have any questions regarding the Camp Saver LLC Privacy Policy, please [contact us](https://web.archive.org/web/20150319170806id_/http://www.campsaver.com/service/privacy-security/%3C?php%20echo%20$this-%3EgetUrl\(%27service/contact%27\);%20?%3E).
