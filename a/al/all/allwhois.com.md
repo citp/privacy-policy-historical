@@ -1,29 +1,57 @@
-> *The following text is extracted and transformed from the allwhois.com privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323232916id_/http%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwhois.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319041212id_/https%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
 
-# MarkMonitor - Privacy Policy
+# MarkMonitor | Legal - Privacy Policy
 
-MarkMonitor values your personal privacy rights. Our privacy policy is therefore adopted with a commitment to safeguarding these rights:
+#### Privacy Statement
 
-#### No Sharing of Information.
+This Privacy Statement relates solely to the online information collection and use practices of our Web Site located at [www.markmonitor.com](https://web.archive.org/index.php) (this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
-All information gathered is used by MarkMonitor and MarkMonitor staff only. MarkMonitor does not sell or rent user information to anyone. MarkMonitor does not share or crossreference personal information gathered through site usage with any other databases or third parties other than in two (2) exceptional cases: (1). When the site is legally compelled to do so; (2). Where disclosure is made at the request or with the written consent of the user. Therefore, unless required to do so as set forth above, we shall not respond to any inquiry from any third party unless we hold your written consent. If an inquiry is received without our having had your written consent to reply, we shall write to you requesting such consent. Our site makes no representations with respect to the creation of profiles or the use of cookies by external Web sites that have links from our site or that read and use information visible on our site.
+Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [privacy.inquiries@markmonitor.com](mailto:privacy.inquiries@markmonitor.com).
 
-#### Gathering of Information.
+#### What Information About You Do We Collect?
 
-Our IP address log is used to gather broad demographic information. Our site receives feedback from members primarily through email. This information is not shared with any third party except in the two (2) exceptional cases referred to above or unless you authorize us to do so. Our site's registration form requires you, the user, to give us contact information (like your name, telephone post and email addresses). We use that information to contact you when necessary. Financial information that may be collected via secure means is used only for billing purposes. Our site uses state-of-the-art technology to keep your personal information, including your billing and account information, as secure as possible. Additionally, every MarkMonitor employee must abide by our privacy policy. Employees who violate our privacy policy are subject to disciplinary action, up to and including termination.
+When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services. 
 
-#### Use of Cookies.
+#### Personally Identifiable Information You Choose to Provide
 
-As part of its personalized services, MarkMonitor may use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All sites on MarkMonitor that are customizable require that you accept cookies. Any information obtained from the cookies will be used solely to improve our services to you. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Rejecting all cookies may limit your ability to access all areas of the MarkMonitor service.
+We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. We also request your name and e-mail address each time you contact us by clicking on the "Request Contact" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications. 
 
-#### Security of Service.
+#### Non-Personally Identifiable Information We Collect
 
-We have state-of-the-art security systems that are protecting your account. However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we do our utmost to protect your information, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. We recommend that you not divulge your password to anyone and that you do not provide access to your account to any other third party. Also remember to sign out of your account and close the browser window when you have completed your work.
+_Cookies/ Web server logs_ : Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
 
-#### Delete/Deactivate.
+You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
 
-Our site gives you the option of changing your personal information. You may modify your account information at any time by clicking on the "Manage Account" link in your account page. You may also modify your account information at any time by sending an email to Email: [info@markmonitor.com](mailto:info@markmonitor.com).
+_Third Party Services_ : We may use services hosted by third parties, such as Google Analytics, to assist in providing our services and to help us understand how our website is used. These services may collect information sent by a browser as part of a web page request, including IP addresses or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.
 
-#### Comments regarding Service.
+#### How Do We Use the Information We Collect? 
 
-We make every effort to maximize your privacy rights while you use this service. If you have any questions, concerns or comments, regarding our privacy policy or any other aspect of our service, please e-mail us at Email: [support@markmonitor.com.](mailto:support@markmonitor.com.)
+We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive information from us, you may send us an email at [marketing@markmonitor.com](mailto:marketing@markmonitor.com) with ‘unsubscribe’ in the subject line; or follow the "unsubscribe" link provided in the e-mail that you receive. Please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site. 
+
+We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer. 
+
+We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement. 
+
+We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose. 
+
+We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses. 
+
+#### Privacy Protections for Children Using the Internet
+
+Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.
+
+#### Data Security
+
+We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk. 
+
+#### Consent to Transfer
+
+This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States and/or third countries. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+
+#### Links
+
+This Web Site contains links to third party sites. Please be aware that MarkMonitor is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson Reuters sites may differ from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site. 
+
+#### Revision Date 
+
+This Privacy Statement was last revised in March 2015. 
