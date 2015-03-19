@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbiagasohio.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627124824id_/https%3A//www.columbiagasohio.com/terms-of-use/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbiagasohio.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319034227id_/https%3A//www.columbiagasohio.com/terms-of-use/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Columbia Gas of Ohio
 
@@ -15,7 +15,7 @@ Columbus, OH 43216-2318
 
 Customer Contact Center: **1-800-344-4077**
 
-Columbia Gas of Ohio (referred to as the “Company”, “we”, “our” or “us”) understands how important customer privacy is to you. We hope this statement will answer your questions about our information and privacy practices. Generally, this Privacy Statement does not apply to information which is already available to the public, or which becomes available to the public hereafter.   Any dispute related to this Privacy Statement will be governed by our [Terms of Use](http://preview.columbiagasohio.com/terms-of-use). 
+Columbia Gas of Ohio (referred to as the “Company”, “we”, “our” or “us”) understands how important customer privacy is to you. We hope this statement will answer your questions about our information and privacy practices. Generally, this Privacy Statement does not apply to information which is already available to the public, or which becomes available to the public hereafter.   Any dispute related to this Privacy Statement will be governed by our [Terms of Use](https://web.archive.org/terms-of-use). 
 
 ### The Information We Collect About You
 
