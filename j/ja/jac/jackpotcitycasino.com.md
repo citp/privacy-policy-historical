@@ -1,19 +1,12 @@
-> *The following text is extracted and transformed from the jackpotcitycasino.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018210119id_/http%3A//www.jackpotcitycasino.com/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpotcitycasino.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319113346id_/https%3A//www.jackpotcitycasino.com/security.aspx) for the most accurate reproduction.*
 
 # JackpotCity Online Casino – Casino Terms
-
-  
-
-
-* * *
-
-Security and Privacy 
 
 Latest Update 27 September 2012
 
 This site is operated by Digimedia Limited (our "Site"). We have created this privacy policy ("Privacy Policy") to outline our firm commitment to your privacy. Our policy is based on the Malta Data Protection Act 2001 and the principles held within that Act. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data.
 
-By using www.jackpotcity.com you acknowledge and accept both the rules, terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
+By using www.jackpotcitycasino.com you acknowledge and accept both the rules, terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
 
 ## How your Personal Data is stored and used 
 
@@ -41,7 +34,7 @@ To protect us and any other users of the Site against fraud including use of sto
 
 ## Cookies
 
-Cookies are small files of Data which are stored on your computer. On your first visit to [www.jackpotcity.com](http://www.jackpotcity.com/), a piece of Personal Data called a cookie will be sent to your browser for the purpose of tracking your navigation patterns. You can disable cookies by changing your browser settings. However, please note that the functionality of our website will be impaired.
+Cookies are small files of Data which are stored on your computer. On your first visit to [www.jackpotcitycasino.com](https://web.archive.org/), a piece of Personal Data called a cookie will be sent to your browser for the purpose of tracking your navigation patterns. You can disable cookies by changing your browser settings. However, please note that the functionality of our website will be impaired.
 
 ## Legal Disclaimer
 
