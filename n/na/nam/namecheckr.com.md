@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namecheckr.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111813id_/http%3A//www.namecheckr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namecheckr.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319095241id_/https%3A//www.namecheckr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | namecheckr.com
 
@@ -9,7 +9,7 @@
 
 #### Introduction
 
-Welcome to Namecheckr, an online service designed to permit Users to check the availability of domain names and social usernames across multiple networks. Please read our [Terms of Service](http://www.namecheckr.com/terms-of-service) and this Privacy Policy carefully as you must agree to both in order to use our Service.
+Welcome to Namecheckr, an online service designed to permit Users to check the availability of domain names and social usernames across multiple networks. Please read our [Terms of Service](https://www.namecheckr.com/terms-of-service) and this Privacy Policy carefully as you must agree to both in order to use our Service.
 
 #### Definitions
 
