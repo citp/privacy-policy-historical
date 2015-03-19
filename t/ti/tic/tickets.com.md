@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704181904id_/http%3A//www.tickets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319153457id_/http%3A//www.tickets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tickets.com
 
@@ -55,7 +55,7 @@ Tickets.com may release your information if, at our sole discretion, we believe 
 
 Tickets.com utilizes Email as a vital and primary communication channel with registered users of this Site. By providing us with your Email address, you grant to Tickets.com (and its service providers) permission to communicate with you via Email for any purposes Tickets.com determines to be relevant to your use of this Site or your relationship with Tickets.com, including, but not limited to, system messages, product updates, service announcements and other marketing messages. You may opt out of receiving any marketing messages that we may send to you.
 
-Users who do not wish to receive marketing Emails are requested to contact Tickets.com Client Services via Email [(Support@Tickets.com)](mailto:Support@Tickets.com). Users are not able to un-subscribe from system messages, product updates and service announcements, which contain important information about service notices and responsibilities. Tickets.com occasionally communicates with its users via Email to provide information about requested services and regarding issues related to their account.
+Users who do not wish to receive marketing Emails are requested to contact Tickets.com Client Services via Email [(optout@tickets.com)](mailto:optout@tickets.com). Users are not able to un-subscribe from system messages, product updates and service announcements, which contain important information about service notices and responsibilities. Tickets.com occasionally communicates with its users via Email to provide information about requested services and regarding issues related to their account.
 
 * **How Long Is Your Personal Information Retained?**
 
@@ -99,7 +99,7 @@ Tickets.com, Inc.
 555 Anton Boulevard, 11th Floor,  
 Costa Mesa, California,  
 92626  
-Attn: Craig Frost
+Attn: Curt Clausen
 
 * **Terms of Use.**
 
@@ -123,5 +123,5 @@ Tickets.com, Inc.
 555 Anton Boulevard, 11th Floor,  
 Costa Mesa, California,  
 92626  
-Attn: Craig Frost  
+Attn: Curt Clausen  
 support@tickets.com
