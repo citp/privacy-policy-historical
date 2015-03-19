@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the snappower.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016101753id_/http%3A//www.snappower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappower.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319103823id_/http%3A//www.snappower.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - SnapPower
+# SnapPower | Privacy Policy
+
+PRIVACY STATEMENT
+
+—-
 
 SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -20,7 +24,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [support@snappower.com](mailto:support@snappower.com) or mailing us at:
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at support@snappower.com or mailing us at:
 
 Snap Power
 
@@ -90,6 +94,8 @@ _secure_session_id, unique token, sessional
 
 storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
+n
+
 SECTION 8 – AGE OF CONSENT
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
@@ -102,7 +108,7 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@snappower.com](mailto:support@snappower.com) or by mail at
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@snappower.com or by mail at
 
 SnapPower
 
