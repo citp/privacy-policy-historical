@@ -1,28 +1,218 @@
-> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325041756id_/https%3A//www.alaskausa.org/service/security/privacy.asp%3Ft%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319141811id_/https%3A//www.alaskausa.org/service/security/privacynotice.asp%3Ft%3Df) for the most accurate reproduction.*
 
-# Privacy Policy
+# Alaska USA Privacy Notice
 
-**Alaska  USA recognizes that members have certain expectations about how the credit union uses member information. The credit union diligently protects all information about its members and the business that they conduct with Alaska USA.**
+This privacy notice is sent annually to Alaska USA members, and provided on opening a new account. You may [download a pdf version](https://web.archive.org/service/download.asp#privacy) of this notice.
 
-For more information about how Alaska USA handles your personal information, refer to Alaska USA's [privacy notice](https://web.archive.org/web/20140325041756id_/https%3A//www.alaskausa.org/service/security/privacynotice.asp). 
+Rev. 11/12
 
-## Privacy details regarding Alaska USA's web site
+FACTS
 
-### Browsing the site
+| 
 
-Alaska USA web servers record information about each page request. These server log files contain no personally identifiable information other than the IP address of the machine used to access the site. Alaska USA retains and aggregates this information and analyzes it to better understand the nature of the use of the site and to improve its usability. 
+WHAT DOES ALASKA USA FEDERAL CREDIT UNION  
+DO WITH YOUR PERSONAL INFORMATION?  
+  
+---|---  
+  
+Why?
 
-### Cookies
+| 
 
-A cookie is a piece of data that a website can send to your browser. No personal information will be stored in a cookie provided by Alaska USA's website. 
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+  
+What?
 
-### Linked sites
+| 
 
-As a convenience, Alaska USA provides links to a number of websites hosted by other organizations. These organizations do not have a contractual relationship with Alaska USA and the credit union is not responsible for the accuracy of the content presented at these sites. Similarly, Alaska USA does not control security on the site or information collected at the site and does not represent either party in any transactions entered into at the site. You are encouraged to review posted privacy and/or user agreements for all third-party sites.
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-### Contract service providers
+  * Social Security number and credit history.
+  * Credit scores and credit card or other debt.
+  * Transaction history and payment history.
 
-Alaska USA uses a number of contract service organizations to provide members online access to financial information or services. These sites may display Alaska USA's logo, but are not part of Alaska USA's domain (web site). Security and privacy are controlled by the site's host and not by Alaska USA. While generally similar, security practices and privacy policies may be different at these sites. Refer to the posted privacy statement and/or user agreements at each site for additional information about how that particular organization manages information. Alaska USA requires all service providers to agree to adhere to the principles in its privacy policy.
 
-|   
----|---
+
+When you are no longer our member, we continue to share your information as described in this notice.  
+  
+How?
+
+| 
+
+All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Alaska USA Federal Credit Union chooses to share; and whether you can limit this sharing.  
+  
+Reasons we can share your personal information
+
+| 
+
+Does Alaska USA share?
+
+| 
+
+Can you limit this sharing?  
+  
+---|---|---  
+  
+**For our everyday business purposes -**   
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+**For our marketing purposes -**   
+to offer our products and services to you
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+**For joint marketing with other financial companies**
+
+| 
+
+No
+
+| 
+
+We don't share  
+  
+**For our affiliates' everyday business purposes -**   
+information about your transactions and experiences
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+**For our affiliates' everyday business purposes -**   
+information about your creditworthiness
+
+| 
+
+No
+
+| 
+
+We don't share  
+  
+**For our affiliates to market to you**
+
+| 
+
+No
+
+| 
+
+We don't share  
+  
+**For nonaffiliates to market to you**
+
+| 
+
+No
+
+| 
+
+We don't share  
+  
+Questions?
+
+| 
+
+Call (800) 525-9094 ext. 2554  
+  
+---|---  
+  
+Who we are  
+  
+---  
+  
+**Who is providing this notice?**
+
+| 
+
+Alaska USA Federal Credit Union  
+  
+What we do  
+  
+---  
+  
+**How does Alaska  USA protect my personal information?**
+
+| 
+
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+  
+**How does Alaska  USA collect my personal information?**
+
+| 
+
+We collect your personal information, for example, when you
+
+  * Open an account or use your credit or debit card.
+  * Apply for financing or give us your income information.
+  * Show your government issued ID.
+
+
+
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+  
+**Why can't I limit all sharing?**
+
+| 
+
+Federal law gives you the right to limit only
+
+  * Sharing for affiliates' everyday business purposes - information about your creditworthiness.
+  * Affiliates from using your information to market to you.
+  * Sharing for nonaffiliates to market to you.
+
+
+
+State laws and individual companies may give you additional rights to limit sharing.  
+  
+Definitions  
+  
+---  
+  
+**Affiliates**
+
+| 
+
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * Affiliated companies include Alaska USA Insurance Brokers, Alaska USA Mortgage Company, Alaska USA Title Agency and Alaska USA Trust Company.
+
+  
+  
+**Nonaffiliates**
+
+| 
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * Nonaffiliated companies include credit bureaus, credit screening companies, and retirement account administrators
+
+  
+  
+**Joint marketing**
+
+| 
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+
+  * Alaska USA does not share.
+
+
