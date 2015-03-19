@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mongolab.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231175200id_/https%3A//mongolab.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mongolab.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319063852id_/https%3A//mongolab.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MongoLab: MongoDB-as-a-Service
 
