@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressbyte.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705055152id_/http%3A//www.pressbyte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressbyte.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320024020id_/http%3A//www.pressbyte.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PressByte
 
