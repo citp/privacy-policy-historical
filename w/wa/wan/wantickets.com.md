@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828094213id_/http%3A//wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320094320id_/http%3A//wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Wantickets United States - United States Wantickets Events
+# Wantickets Washington DC - Washington DC Wantickets Events
 
-PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THE WANTICKETS RDM, INC. WEBSITE (the "Site"). 
+PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THE Wantickets RDM, LLC. WEBSITE (the "Site"). 
 
 :: OUR PRIVACY POLICY 
 
@@ -33,12 +33,12 @@ Unless specified otherwise on the Site, users must be 18 years or older before r
 
 If a sweepstakes or contest winner is under 18 years old, we will require a consent form signed by the winner's parent or guardian in order to award the prize. We have taken steps to ensure that personally identifiable information collected is secure, including limiting the number of people who have physical access to its database servers, as well as electronic security systems and password protections which guard against unauthorized access. 
 
-We encourage users to be smart about choosing when, and to whom to release information online. Additionally, we will allow users or their parents to opt out of the Wantickets RDM, Inc. database in the following manners: 
+We encourage users to be smart about choosing when, and to whom to release information online. Additionally, we will allow users or their parents to opt out of the Wantickets RDM, LLC. database in the following manners: 
 
-(1) To remove your name or your child's name from the database of an specific Wantickets RDM, Inc. sweepstakes or contest or other similar activity: Send an e-mail to [support@wantickets.com](mailto:support@wantickets.com) with the following information in the body of the e-mail form:
+(1) To remove your name or your child's name from the database of an specific Wantickets RDM, LLC. sweepstakes or contest or other similar activity: Send an e-mail to [support@wantickets.com](mailto:support@wantickets.com) with the following information in the body of the e-mail form:
 
-Name, Email address used to register, Name of Wantickets RDM, Inc. sweepstakes or contest or activity, entered Username (if applicable) 
+Name, Email address used to register, Name of Wantickets RDM, LLC. sweepstakes or contest or activity, entered Username (if applicable) 
 
-(2) To remove your name or your child's name from the Wantickets RDM, Inc. database entirely including, but not limited to, registration for all of RNG Tickets websites:
+(2) To remove your name or your child's name from the Wantickets RDM, LLC. database entirely including, but not limited to, registration for all of RNG Tickets websites:
 
 Send an e-mail to [support@wantickets.com](mailto:support@wantickets.com) with the following information in the body of the e-mail form: Name, Email address used to register, Username (if applicable) 
