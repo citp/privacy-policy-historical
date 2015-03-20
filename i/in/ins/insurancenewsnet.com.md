@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126195551id_/http%3A//insurancenewsnet.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320075113id_/http%3A//insurancenewsnet.com/privacy.aspx) for the most accurate reproduction.*
 
 # INN : Disclaimer and Privacy Information
 
@@ -66,7 +66,7 @@ We **DO NOT** Share Personally Identifiable Information with Third Parties excep
 
  **Testimonials**
 
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name.  We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.  If you wish to update or delete your testimonial, you can contact us at [info@insurancenewsnet.com](https://web.archive.org/web/20141126195551id_/http%3A//insurancenewsnet.com/info@insurancenewsnet.com).
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name.  We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.  If you wish to update or delete your testimonial, you can contact us at [info@insurancenewsnet.com](https://web.archive.org/web/20150320075113id_/http%3A//insurancenewsnet.com/info@insurancenewsnet.com).
 
  **Legal Disclaimer**
 
@@ -87,7 +87,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 **Telephone:** 717-441-9357
 
-**Email:** [info@insurancenewsnet.com](https://web.archive.org/web/20141126195551id_/http%3A//insurancenewsnet.com/info@insurancenewsnet.com) or 
+**Email:** [info@insurancenewsnet.com](https://web.archive.org/web/20150320075113id_/http%3A//insurancenewsnet.com/info@insurancenewsnet.com) or 
 
 **Postal mail:** InsuranceNewsNet.com,   
 355 North 21st Street, Suite 211   
@@ -135,7 +135,7 @@ Access to Personally Identifiable Information
 
 If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page:
 
-[https://www.insurancenewsnet.com/subscription_update.aspx](https://web.archive.org/web/20141126195551id_/http%3A//insurancenewsnet.com/subscription_update.aspx)   
+[https://www.insurancenewsnet.com/subscription_update.aspx](https://web.archive.org/web/20150320075113id_/http%3A//insurancenewsnet.com/subscription_update.aspx)   
 or by contacting Customer Service by calling: 717-441-9357, email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail: 
 
 InsuranceNewsNet.com,   
