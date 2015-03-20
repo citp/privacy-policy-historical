@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iaai.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809082456id_/https%3A//www.iaai.com/Auctions/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaai.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320015314id_/https%3A//www.iaai.com/Auctions/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | IAA-Insurance Auto Auctions
 
@@ -60,7 +60,7 @@ Your Consent to this Privacy Policy
     By using this Site you consent to the collection and use of information by IAA as specified in this Privacy Policy and agree to be bound by the provisions set forth in this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Specific areas or pages of this Site may include additional or different provisions relating to collection and disclosure of personal information. In the event of a conflict between such provisions and this Privacy Policy, such specific terms shall control.
 Terms of Use  
 
-    Please read our [Terms of Use](https://web.archive.org/web/20140809082456id_/https%3A//www.iaai.com/Auctions/TermsOfUse.aspx) carefully before using this Site. 
+    Please read our [Terms of Use](https://web.archive.org/web/20150320015314id_/https%3A//www.iaai.com/Auctions/TermsOfUse.aspx) carefully before using this Site. 
     This Website Privacy Policy is effective as of August 7th, 2007. 
 
 Unless otherwise indicated, all material on this Site © 2007 Insurance Auto Auctions, Inc. All rights reserved.
