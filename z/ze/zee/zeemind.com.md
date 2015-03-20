@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeemind.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215004757id_/http%3A//www.zeemind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeemind.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320145405id_/http%3A//www.zeemind.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
