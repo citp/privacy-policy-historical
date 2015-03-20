@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627143259id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320035134id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Our Privacy Policy
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.moneymakingmommy.com%2Fprivacy-policy-statement%2F&media=http%3A%2F%2Fwww.moneymakingmommy.com%2Fwp-content%2Fuploads%2F2011%2F02%2FiStock_000011690232XSmall1.jpg&description=)[](http://pinterest.com/kellyland/)
 
 MoneyMakingMommy.com’s Privacy PolicyThis is the web site of MoneyMakingMommy.com, Inc.
 
