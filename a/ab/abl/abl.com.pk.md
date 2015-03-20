@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abl.com.pk privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025925id_/http%3A//www.abl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abl.com.pk privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320111152id_/https%3A//abl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Allied Bank
 
