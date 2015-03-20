@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examtime.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234827id_/https%3A//www.examtime.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examtime.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320223806id_/https%3A//www.examtime.com/en/privacy_policy) for the most accurate reproduction.*
 
 # ExamTime - Privacy Policy
 
@@ -22,17 +22,17 @@ We may collect and process the following data about you:
   * If you contact us, we may keep a record of that correspondence. 
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
   * Details of transactions (that is, if you or with the consent of your parent or guardian decide to subscribe for any service or buy any product or service from us) you carry out through our site and of the fulfillment of any orders. 
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
+  * Details of your visits to our site including, but not limited to, age, gender traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. This information may be collected through Google Analytics Advertising Features (Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, Google Analytics Demographics and Interest Reporting). 
 
 
 
-##  INFORMATION WE MAY COLLECT 
+##  INFORMATION WE MAY COLLECT FROM YOUR COMPUTER 
 
 We may collect information about your computer, including where available your IP address, operating system of your computer and browser type of your computer, for our system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions (i.e. use of our website) and patterns, and does not identify you or any individual. 
 
 ##  COOKIES 
 
-Our website uses "Cookies" to distinguish you from other users of our website. A Cookie is a small text file implanted by us and most other website operators (or an advertiser on this site) on the hard disk of your computer when you visit the site. Cookies can collect information about users of our site like you, such as your names, address, e-mail details, passwords and your user preferences. While cookies and the information they obtain may not identify a living individual on their own, they may be able to do so in combination with other information held by us or a third party. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. The types of cookies used are highlighted on browsing to our website for the first time. The website uses session cookies for site navigation purposes. These cookies expire and are deleted at the end of a browsing session. We also use Google Analytics for tracking purposes. 
+Our website uses "Cookies" to distinguish you from other users of our website and to anonymously track visiting and browsing patterns. A Cookie is a small text file implanted by us and most other website operators (or an advertiser on this site) on the hard disk of your computer when you visit the site. Cookies can collect information about users of our site like you, such as your names, address, e-mail details, passwords and your user preferences. While cookies and the information they obtain may not identify a living individual on their own, they may be able to do so in combination with other information held by us or a third party. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. The website uses session cookies for site navigation purposes. These cookies expire and are deleted at the end of a browsing session. We also use Google Analytics for tracking and data capture purposes. Data collected through cookies is always anonymous and aggregated. 
 
 ##  WHERE WE STORE YOUR PERSONAL DATA 
 
@@ -74,6 +74,8 @@ We may disclose your personal information to third parties:
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at contactus@examtime.com 
 
+You may click [ here ](https://tools.google.com/dlpage/gaoptout/) to opt out of the Google Analytics Advertising Features. 
+
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
 ##  ACCESS TO INFORMATION 
@@ -107,7 +109,7 @@ When we receive the affidavit we will be able to carry out your instructions. If
 
 ##  CHANGES TO OUR PRIVACY POLICY 
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. 
+Any changes we may make to our privacy policy in the future will be posted on this page. This page was last updated on 21st November 2014. 
 
 ##  CONTACT 
 
