@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705040007id_/https%3A//www.citysocializer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320033512id_/https%3A//www.citysocializer.com/privacy) for the most accurate reproduction.*
 
-# citysocializer - Privacy Policy
+# citysocializer social club privacy policy
 
 CitySocialising Ltd. (herein referred to as “citysocializer”) values your privacy in your personal information and your Content that you store in our Service. This Privacy Policy explains what information citysocializer collects about you and why, what we may do with that information and how we handle your Content. We uphold the highest standards with respect to protection of privacy and of personal information, and have made a notification to the UK Information Commissioner, under the no. Z1605027. Our technical teams do their utmost to ensure the safety of our sites. Internet security is a complex issue and no system can be considered 100% secure. Should a security breach occur citysocializer.com will endeavour to act as fast as possible to remedy the problem. 
 
@@ -65,7 +65,7 @@ Aggregated information that we may share with our marketing partners includes, b
 8.1. If members have any questions or suggestions regarding this Policy, please contact the Secretary of citysocializer using postal mail or email, as follows:   
 Postal Address:   
 CitySocialising Ltd., 5 Wormwood Street, London EC2M 1RQ   
-Email: contact@Citysocializer.com   
+For any membership queries or general questions please visit our [support section.](https://citysocializer.zendesk.com/home)   
 
 
 This Privacy Policy is governed by the terms of the citysocializer Terms of Service Agreement, including but not limited to Section 17 of such Terms of Service Agreement.
