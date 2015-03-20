@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the redflymarketing.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703224358id_/http%3A//www.redflymarketing.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redflymarketing.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321001057id_/http%3A//www.redflymarketing.com/w3c/policy.html) for the most accurate reproduction.*
 
-# RedFly Marketing - Privacy Policy
+# Redfly Digital - Privacy Policy - Redfly Online Marketing, Dublin, Ireland
 
 **This privacy statement applies to the website of:**
 
-RedFly LTD   
-29 Forest Court, Rivervalley, Swords   
-Co Dublin   
-NA   
-00000   
-IE   
-0877675934   
-info(at)redfly(period)ie   
+**RedFly LTD**   
+64 Lower Mount Street   
+Dublin 2   
+Ireland   
+sales(at)redflymarketing(period)com   
+Ireland: +353 (01) 4433840   
 
 
 We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document.
