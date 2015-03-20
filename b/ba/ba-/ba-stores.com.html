@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ba-stores.com privacy policy that was archived on 2014-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204043353id_/http%3A//www.ba-stores.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ba-stores.com privacy policy that was archived on 2015-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321003816id_/https%3A//www.ba-stores.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -15,12 +15,12 @@
     <link href="/images/bootstrap.min.css" rel="stylesheet">
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <link href="/images/style.css.php" rel="stylesheet">
 
-    <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>-->
-    <script type="text/javascript" async="" src="http://codes.mallter.com/codes.js?url=www.ba-stores.com%7Cprivacy-policy%7C"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/js/jquery.min.js"></script>
+    <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>-->
+    <script type="text/javascript" async="" src="//codes.mallter.com/codes.js?url=www.ba-stores.com%7Cprivacy-policy%7C"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/js/jquery.min.js"></script>
     <script src="/js/jquery.cookie.js"></script>
     <script src="/js/jquery.ikSelect.min.js"></script>
     <script src="/js/highslide.js"></script>
@@ -28,10 +28,11 @@
     <link rel="stylesheet" href="/holiday/bf/style.css">	
     <link href="/images/highslide.css" rel="stylesheet">
 
+
     
     
     <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="alternate" type="application/rss+xml" title="B/A Stores : RSS New Products Feed" href="http://www.ba-stores.com/rss.xml">
+    <link rel="alternate" type="application/rss+xml" title="B/A Stores : RSS New Products Feed" href="https://www.ba-stores.com/rss.xml">
 
     <link href="/images/colors.css" rel="stylesheet">
         
@@ -65,10 +66,10 @@
           <ul class="nav" id="customer-nav">
                                                             <li class="navbar-top-sub"><a href="#">Customer Service</a>
               <ul class="customer-subnav">
-                                <li><a href="http://www.ba-stores.com/privacy-policy/">Privacy Policy</a></li>
-                                <li><a href="http://www.ba-stores.com/shipping-policy/">Shipping Policy</a></li>
-                                <li><a href="http://www.ba-stores.com/return-policy/">Return Policy</a></li>
-                                <li><a href="http://www.ba-stores.com/guarantee/">Our Guarantee</a></li>
+                                <li><a href="https://www.ba-stores.com/privacy-policy/">Privacy Policy</a></li>
+                                <li><a href="https://www.ba-stores.com/shipping-policy/">Shipping Policy</a></li>
+                                <li><a href="https://www.ba-stores.com/return-policy/">Return Policy</a></li>
+                                <li><a href="https://www.ba-stores.com/guarantee/">Our Guarantee</a></li>
                               </ul>
             </li>
                                                             <li class="navbar-top-line">&nbsp;</li>
@@ -278,7 +279,7 @@
             }
 
             function submit_check(){
-              link_category = 'http://www.ba-stores.com/catalogue/brand/';
+              link_category = 'https://www.ba-stores.com/catalogue/brand/';
               name_form = 'search-form';
               name_text = 'q';
               name_category = 'brids';
@@ -304,13 +305,62 @@
                 return true;
               }
             }
+			
+			function submit_check1(){
+              link_category = 'https://www.ba-stores.com/catalogue/brand/';
+              name_form = 'search-form2';
+              name_text = 'q2';
+              name_category = 'brids2';
+              search_text_default = '';
+              search_text_default2= 'all';
+              message_warning1 = 'You should select brand or enter keyword with length more than 2 characters';
+              message_warning2 = 'Enter keyword with length more than 2 characters or leave blank';
+
+              search_text = document.getElementById(name_text).value;
+              search_category = document.getElementById(name_category).value;
+
+              if( (search_text.length < 3 || search_text == search_text_default || search_text == search_text_default2) && (search_category == 0) ) {
+                alert(message_warning1);
+                return false;
+              } else if( search_text.length < 3 && search_text != search_text_default && search_text != '' ){
+                alert(message_warning2);
+                return false;
+              } else if( search_category != 0 && (search_text == search_text_default2 || search_text == '') ){
+                document.location.href=link_category+search_category;
+                return false;
+              } else {
+                document.getElementById(name_form).submit();
+                return true;
+              }
+            }
+			
+			function on_focus1(n){
+              name_text = 'q2';
+              name_category = 'brids2';
+              search_text_default = 'search...';
+              search_text_default2= 'all';
+
+              search_text = document.getElementById(name_text).value;
+              search_category = document.getElementById(name_category).value;
+
+              switch(n){
+                case 0:
+                  if ( search_text == search_text_default || search_text == search_text_default2 ) document.getElementById(name_text).value='';
+                  break;
+                case 1:
+                  if ((search_text == '' || search_text == search_text_default) && search_category != 0) document.getElementById(name_text).value = search_text_default2;
+                  if ( (search_text == '' || search_text == search_text_default2) && search_category <= 0) document.getElementById(name_text).value = search_text_default;
+                  break;
+              }
+              return true;
+            }
             
             
             </script>
 
             <div id="mod_search_small">
               <div id="mod_search_small-form">
-                <form id="search-form" method="get" action="http://www.ba-stores.com/search/" onsubmit="return submit_check()">
+                <form id="search-form" method="get" action="https://www.ba-stores.com/search/" onsubmit="return submit_check()">
                   <table>
                     <tbody><tr>
                       <td style="width:1%;padding:0;padding-right:5px;margin:0">
@@ -335,11 +385,11 @@
                                                         <option value="b-modern">B-Modern</option>
                                                         <option value="bestar">Bestar</option>
                                                         <option value="beverly-hills-furniture-inc-">Beverly Hills Furniture Inc.</option>
-                                                        <option value="big-apple-furniture">Big Apple Furniture</option>
                                                         <option value="boraam-industries">Boraam Industries</option>
                                                         <option value="boss-office-products">Boss Office Products</option>
                                                         <option value="butler-furniture">Butler Furniture</option>
                                                         <option value="casabianca-furniture">CasaBianca Furniture</option>
+                                                        <option value="casamode-furniture">Casamode Furniture</option>
                                                         <option value="chelsea-home-furniture">Chelsea Home Furniture</option>
                                                         <option value="chintaly-imports-furniture">Chintaly Imports Furniture</option>
                                                         <option value="classic-home-furniture">Classic Home Furniture</option>
@@ -350,7 +400,6 @@
                                                         <option value="de-courcy-mattresses">De Courcy Mattresses</option>
                                                         <option value="design-group-ny">Design Group NY</option>
                                                         <option value="diamond-sofa">Diamond Sofa</option>
-                                                        <option value="directions-east-furniture">Directions East Furniture</option>
                                                         <option value="domitalia-furniture">DomItalia Furniture</option>
                                                         <option value="dupen-furniture">Dupen Furniture</option>
                                                         <option value="eangee-home-design">Eangee Home Design</option>
@@ -358,6 +407,7 @@
                                                         <option value="enitial-lab-furniture">Enitial Lab Furniture</option>
                                                         <option value="enso-sleep-systems">Enso Sleep Systems</option>
                                                         <option value="esf-furniture">ESF Furniture</option>
+                                                        <option value="eurointerior">EuroInterior</option>
                                                         <option value="euro-style">Eurø Style</option>
                                                         <option value="euro-modern">EurоModern</option>
                                                         <option value="fatboy-usa">Fatboy USA</option>
@@ -374,7 +424,7 @@
                                                         <option value="kenroy-home">Kenroy Home</option>
                                                         <option value="klaussner-furniture">Klaussner Furniture</option>
                                                         <option value="kodiak-furniture">Kodiak Furniture</option>
-                                                        <option value="lifestyle-solutions">Lifestyle Solutions</option>
+                                                        <option value="lc-mobili">LC Mobili</option>
                                                         <option value="lounge22">Lounge22</option>
                                                         <option value="lumi-source">Lumi Source</option>
                                                         <option value="magniflex">Magniflex</option>
@@ -415,7 +465,7 @@
                                                         <option value="walker-edison">Walker Edison</option>
                                                         <option value="white-line-imports">White Line Imports</option>
                                                         <option value="zuo-modern">Zuo Modern</option>
-                                                      </select><div class="ik_select_link"><span class="ik_select_link_text">SEARCH by brand</span></div><div class="ik_select_block " style="display: none; width: 228px;"><div class="ik_select_list" style="position: static;"><div class="ik_select_list_inner" style="width: 222px; float: none; height: 200px; overflow: auto; position: relative;"><ul style="width: 222px;"><li class="ik_select_hover ik_select_active ik_select_has_events"><span class="ik_select_option" title="0">SEARCH by brand</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="ace-decore">Ace Decore</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="acme-furniture">Acme Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="acura-rugs">Acura Rugs</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="adesso-inc-">Adesso Inc.</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="aflighting">AFLighting</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="aico-michael-amini-signature-series">AICO Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="alliyah-rugs">Alliyah Rugs</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="american-eagle-furniture">American Eagle Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="american-furniture-alliance">American Furniture Alliance</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="arason-enterprises">Arason Enterprises</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="arteriors-home">Arteriors Home</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="artisan-house-wall-sculptures">Artisan House Wall Sculptures</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="athomeusa">At Home USA</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="atlantic-furniture">Atlantic Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="avenue-six">Avenue Six</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="b-modern">B-Modern</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="bestar">Bestar</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="beverly-hills-furniture-inc-">Beverly Hills Furniture Inc.</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="big-apple-furniture">Big Apple Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="boraam-industries">Boraam Industries</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="boss-office-products">Boss Office Products</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="butler-furniture">Butler Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="casabianca-furniture">CasaBianca Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="chelsea-home-furniture">Chelsea Home Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="chintaly-imports-furniture">Chintaly Imports Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="classic-home-furniture">Classic Home Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="coaster-co">Coaster Co.</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="collegiate-furnishings">Collegiate Furnishings</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="couristan">Couristan</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="creative-furniture">Creative Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="de-courcy-mattresses">De Courcy Mattresses</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="design-group-ny">Design Group NY</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="diamond-sofa">Diamond Sofa</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="directions-east-furniture">Directions East Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="domitalia-furniture">DomItalia Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="dupen-furniture">Dupen Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="eangee-home-design">Eangee Home Design</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="east-end-imports">East End Imports</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="enitial-lab-furniture">Enitial Lab Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="enso-sleep-systems">Enso Sleep Systems</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="esf-furniture">ESF Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="euro-style">Eurø Style</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="euro-modern">EurоModern</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="fatboy-usa">Fatboy USA</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="fine-mod-imports">Fine Mod Imports</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="furnitech">Furnitech</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="global-furniture-usa">Global Furniture USA</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="gold-bond">Gold Bond</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="homelegance">Homelegance</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="innovation-usa">Innovation USA</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="istikbal">Istikbal</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="jandm-furniture">J&amp;M Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="jesper-office-furniture">Jesper Office Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="kalora-interiors-inc">Kalora Interiors Inc.</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="kenroy-home">Kenroy Home</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="klaussner-furniture">Klaussner Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="kodiak-furniture">Kodiak Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="lifestyle-solutions">Lifestyle Solutions</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="lounge22">Lounge22</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="lumi-source">Lumi Source</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="magniflex">Magniflex</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="mat-ma-trading-company">MAT (MA Trading Company)</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="matrix-imports-furniture">Matrix Imports Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="mdd-office-furniture">MDD Office Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="meyan-furniture">Meyan Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="modloft">Modloft</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="monarch-specialties">Monarch Specialties</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="natuzzi-editions">Natuzzi Editions</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="newspec">NewSpec</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="nova-lighting">Nova Lighting</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="novo-home">NOVO Home</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="nuans-design">Nuans Design</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="office-star-products">Office Star Products</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="osaki">Osaki</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="otis-bed">Otis Bed</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="pablo-designs">Pablo Designs</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="palace-imports">Palace Imports</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="pop-modern">POP Modern</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="prepac-furniture">Prepac Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="pulaski-furniture">Pulaski Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="rain-furniture">Rain Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="rossetto">Rossetto</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="rta-furniture">RTA Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="serta-mattress">Serta Mattress</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="sis-futon-covers">SIS Futon Covers</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="sohoconcept">SohoConcept</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="source-outdoor">Source Outdoor</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="sunshine-cowhides">Sunshine Cowhides</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="surya">Surya</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="tag-furnishings-group">Tag Furnishings Group</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="the-rug-market-america">The Rug Market America</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="tov-furniture">TOV Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="truemodern">TrueModern</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="uttermost">Uttermost</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="vig-furniture">VIG Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="walker-edison">Walker Edison</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="white-line-imports">White Line Imports</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="zuo-modern">Zuo Modern</span></li></ul></div></div></div></div>
+                                                      </select><div class="ik_select_link"><span class="ik_select_link_text">SEARCH by brand</span></div><div class="ik_select_block " style="display: none; width: 228px;"><div class="ik_select_list" style="position: static;"><div class="ik_select_list_inner" style="width: 222px; float: none; height: 200px; overflow: auto; position: relative;"><ul style="width: 222px;"><li class="ik_select_hover ik_select_active ik_select_has_events"><span class="ik_select_option" title="0">SEARCH by brand</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="ace-decore">Ace Decore</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="acme-furniture">Acme Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="acura-rugs">Acura Rugs</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="adesso-inc-">Adesso Inc.</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="aflighting">AFLighting</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="aico-michael-amini-signature-series">AICO Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="alliyah-rugs">Alliyah Rugs</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="american-eagle-furniture">American Eagle Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="american-furniture-alliance">American Furniture Alliance</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="arason-enterprises">Arason Enterprises</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="arteriors-home">Arteriors Home</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="artisan-house-wall-sculptures">Artisan House Wall Sculptures</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="athomeusa">At Home USA</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="atlantic-furniture">Atlantic Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="avenue-six">Avenue Six</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="b-modern">B-Modern</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="bestar">Bestar</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="beverly-hills-furniture-inc-">Beverly Hills Furniture Inc.</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="boraam-industries">Boraam Industries</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="boss-office-products">Boss Office Products</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="butler-furniture">Butler Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="casabianca-furniture">CasaBianca Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="casamode-furniture">Casamode Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="chelsea-home-furniture">Chelsea Home Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="chintaly-imports-furniture">Chintaly Imports Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="classic-home-furniture">Classic Home Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="coaster-co">Coaster Co.</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="collegiate-furnishings">Collegiate Furnishings</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="couristan">Couristan</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="creative-furniture">Creative Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="de-courcy-mattresses">De Courcy Mattresses</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="design-group-ny">Design Group NY</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="diamond-sofa">Diamond Sofa</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="domitalia-furniture">DomItalia Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="dupen-furniture">Dupen Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="eangee-home-design">Eangee Home Design</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="east-end-imports">East End Imports</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="enitial-lab-furniture">Enitial Lab Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="enso-sleep-systems">Enso Sleep Systems</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="esf-furniture">ESF Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="eurointerior">EuroInterior</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="euro-style">Eurø Style</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="euro-modern">EurоModern</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="fatboy-usa">Fatboy USA</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="fine-mod-imports">Fine Mod Imports</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="furnitech">Furnitech</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="global-furniture-usa">Global Furniture USA</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="gold-bond">Gold Bond</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="homelegance">Homelegance</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="innovation-usa">Innovation USA</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="istikbal">Istikbal</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="jandm-furniture">J&amp;M Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="jesper-office-furniture">Jesper Office Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="kalora-interiors-inc">Kalora Interiors Inc.</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="kenroy-home">Kenroy Home</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="klaussner-furniture">Klaussner Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="kodiak-furniture">Kodiak Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="lc-mobili">LC Mobili</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="lounge22">Lounge22</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="lumi-source">Lumi Source</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="magniflex">Magniflex</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="mat-ma-trading-company">MAT (MA Trading Company)</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="matrix-imports-furniture">Matrix Imports Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="mdd-office-furniture">MDD Office Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="meyan-furniture">Meyan Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="modloft">Modloft</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="monarch-specialties">Monarch Specialties</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="natuzzi-editions">Natuzzi Editions</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="newspec">NewSpec</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="nova-lighting">Nova Lighting</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="novo-home">NOVO Home</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="nuans-design">Nuans Design</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="office-star-products">Office Star Products</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="osaki">Osaki</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="otis-bed">Otis Bed</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="pablo-designs">Pablo Designs</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="palace-imports">Palace Imports</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="pop-modern">POP Modern</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="prepac-furniture">Prepac Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="pulaski-furniture">Pulaski Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="rain-furniture">Rain Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="rossetto">Rossetto</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="rta-furniture">RTA Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="serta-mattress">Serta Mattress</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="sis-futon-covers">SIS Futon Covers</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="sohoconcept">SohoConcept</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="source-outdoor">Source Outdoor</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="sunshine-cowhides">Sunshine Cowhides</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="surya">Surya</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="tag-furnishings-group">Tag Furnishings Group</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="the-rug-market-america">The Rug Market America</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="tov-furniture">TOV Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="truemodern">TrueModern</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="uttermost">Uttermost</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="vig-furniture">VIG Furniture</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="walker-edison">Walker Edison</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="white-line-imports">White Line Imports</span></li><li class="ik_select_has_events"><span class="ik_select_option" title="zuo-modern">Zuo Modern</span></li></ul></div></div></div></div>
                         </div>
                       </td>
                       <td style="width:98%;padding:0;margin:0">
@@ -438,7 +488,151 @@
       </div>
       </div>
     </div><div class="top-menu" id="top-menu">
-  <div class="wrapper">
+
+   <div class="wrapper">
+
+<div class="top-panel-menu">
+   <div class="top-panel-logo"><a href="/"><img src="/images/logo.png"></a></div>
+   <div class="top-panel-search">
+
+             <div id="mod_search_small">
+              <div id="mod_search_small-form">
+                <form id="search-form2" method="get" action="https://www.ba-stores.com/search/" onsubmit="return submit_check1()">
+                  <table>
+                    <tbody><tr>
+                      <td style="width:1%;padding:0;padding-right:5px;margin:0">
+                        <div id="mod_search_small-select">
+							  <select id="brids2" name="brids[]" onchange="on_focus1(1)" onclick="on_focus1(1)" style="background: url('/images/ik_select_link.png') repeat-x scroll right center #F4F4F4;">
+								<option value="0">SEARCH by brand</option>
+																<option value="ace-decore">Ace Decore</option>
+																<option value="acme-furniture">Acme Furniture</option>
+																<option value="acura-rugs">Acura Rugs</option>
+																<option value="adesso-inc-">Adesso Inc.</option>
+																<option value="aflighting">AFLighting</option>
+																<option value="aico-michael-amini-signature-series">AICO Furniture</option>
+																<option value="alliyah-rugs">Alliyah Rugs</option>
+																<option value="american-eagle-furniture">American Eagle Furniture</option>
+																<option value="american-furniture-alliance">American Furniture Alliance</option>
+																<option value="arason-enterprises">Arason Enterprises</option>
+																<option value="arteriors-home">Arteriors Home</option>
+																<option value="artisan-house-wall-sculptures">Artisan House Wall Sculptures</option>
+																<option value="athomeusa">At Home USA</option>
+																<option value="atlantic-furniture">Atlantic Furniture</option>
+																<option value="avenue-six">Avenue Six</option>
+																<option value="b-modern">B-Modern</option>
+																<option value="bestar">Bestar</option>
+																<option value="beverly-hills-furniture-inc-">Beverly Hills Furniture Inc.</option>
+																<option value="boraam-industries">Boraam Industries</option>
+																<option value="boss-office-products">Boss Office Products</option>
+																<option value="butler-furniture">Butler Furniture</option>
+																<option value="casabianca-furniture">CasaBianca Furniture</option>
+																<option value="casamode-furniture">Casamode Furniture</option>
+																<option value="chelsea-home-furniture">Chelsea Home Furniture</option>
+																<option value="chintaly-imports-furniture">Chintaly Imports Furniture</option>
+																<option value="classic-home-furniture">Classic Home Furniture</option>
+																<option value="coaster-co">Coaster Co.</option>
+																<option value="collegiate-furnishings">Collegiate Furnishings</option>
+																<option value="couristan">Couristan</option>
+																<option value="creative-furniture">Creative Furniture</option>
+																<option value="de-courcy-mattresses">De Courcy Mattresses</option>
+																<option value="design-group-ny">Design Group NY</option>
+																<option value="diamond-sofa">Diamond Sofa</option>
+																<option value="domitalia-furniture">DomItalia Furniture</option>
+																<option value="dupen-furniture">Dupen Furniture</option>
+																<option value="eangee-home-design">Eangee Home Design</option>
+																<option value="east-end-imports">East End Imports</option>
+																<option value="enitial-lab-furniture">Enitial Lab Furniture</option>
+																<option value="enso-sleep-systems">Enso Sleep Systems</option>
+																<option value="esf-furniture">ESF Furniture</option>
+																<option value="eurointerior">EuroInterior</option>
+																<option value="euro-style">Eurø Style</option>
+																<option value="euro-modern">EurоModern</option>
+																<option value="fatboy-usa">Fatboy USA</option>
+																<option value="fine-mod-imports">Fine Mod Imports</option>
+																<option value="furnitech">Furnitech</option>
+																<option value="global-furniture-usa">Global Furniture USA</option>
+																<option value="gold-bond">Gold Bond</option>
+																<option value="homelegance">Homelegance</option>
+																<option value="innovation-usa">Innovation USA</option>
+																<option value="istikbal">Istikbal</option>
+																<option value="jandm-furniture">J&amp;M Furniture</option>
+																<option value="jesper-office-furniture">Jesper Office Furniture</option>
+																<option value="kalora-interiors-inc">Kalora Interiors Inc.</option>
+																<option value="kenroy-home">Kenroy Home</option>
+																<option value="klaussner-furniture">Klaussner Furniture</option>
+																<option value="kodiak-furniture">Kodiak Furniture</option>
+																<option value="lc-mobili">LC Mobili</option>
+																<option value="lounge22">Lounge22</option>
+																<option value="lumi-source">Lumi Source</option>
+																<option value="magniflex">Magniflex</option>
+																<option value="mat-ma-trading-company">MAT (MA Trading Company)</option>
+																<option value="matrix-imports-furniture">Matrix Imports Furniture</option>
+																<option value="mdd-office-furniture">MDD Office Furniture</option>
+																<option value="meyan-furniture">Meyan Furniture</option>
+																<option value="modloft">Modloft</option>
+																<option value="monarch-specialties">Monarch Specialties</option>
+																<option value="natuzzi-editions">Natuzzi Editions</option>
+																<option value="newspec">NewSpec</option>
+																<option value="nova-lighting">Nova Lighting</option>
+																<option value="novo-home">NOVO Home</option>
+																<option value="nuans-design">Nuans Design</option>
+																<option value="office-star-products">Office Star Products</option>
+																<option value="osaki">Osaki</option>
+																<option value="otis-bed">Otis Bed</option>
+																<option value="pablo-designs">Pablo Designs</option>
+																<option value="palace-imports">Palace Imports</option>
+																<option value="pop-modern">POP Modern</option>
+																<option value="prepac-furniture">Prepac Furniture</option>
+																<option value="pulaski-furniture">Pulaski Furniture</option>
+																<option value="rain-furniture">Rain Furniture</option>
+																<option value="rossetto">Rossetto</option>
+																<option value="rta-furniture">RTA Furniture</option>
+																<option value="serta-mattress">Serta Mattress</option>
+																<option value="sis-futon-covers">SIS Futon Covers</option>
+																<option value="sohoconcept">SohoConcept</option>
+																<option value="source-outdoor">Source Outdoor</option>
+																<option value="sunshine-cowhides">Sunshine Cowhides</option>
+																<option value="surya">Surya</option>
+																<option value="tag-furnishings-group">Tag Furnishings Group</option>
+																<option value="the-rug-market-america">The Rug Market America</option>
+																<option value="tov-furniture">TOV Furniture</option>
+																<option value="truemodern">TrueModern</option>
+																<option value="uttermost">Uttermost</option>
+																<option value="vig-furniture">VIG Furniture</option>
+																<option value="walker-edison">Walker Edison</option>
+																<option value="white-line-imports">White Line Imports</option>
+																<option value="zuo-modern">Zuo Modern</option>
+															  </select>
+                        </div>
+                      </td>
+                      <td style="width:98%;padding:0;margin:0">
+                        <div id="mod_search_small-input">
+                          <input type="text" name="q" id="q2" class="mod_search_small-input" value="search..." onfocus="on_focus1(0)" onclick="on_focus1(0)" onblur="on_focus1(1)">
+                          <div id="mod_search_small-submit">
+                            <img onclick="return submit_check1()" src="/images/z_top-search-button.png" title="Search" alt="Search">
+                          </div>
+                        </div>
+                      </td>
+                      <td style="width:1%"><div style="width:13px">&nbsp;</div></td>
+                    </tr>
+                  </tbody></table>
+                </form>
+              </div>
+            </div>
+
+   </div>
+   <div class="top-panel-user">
+     <ul>
+       <li class="top-panel-item"><div style="font-size:20px; padding-top:5px;">Toll Free: 855-815-6395</div></li>
+       <li class="top-panel-iline"></li>
+       <li class="top-panel-item"><a href="https://www.ba-stores.com/my/" title="Guest"><p style="background: url(/images/myaccount.png) no-repeat 0 7px; padding-left: 30px !important; color:#355B6A;">My account<br>(Guest)</p></a></li>
+       <li class="top-panel-iline"></li>
+       <li class="top-panel-item"><a href="https://www.ba-stores.com/my/shopping-cart/" class="cart" id="numitems"><p style="background: url(/images/shopping-cart.png) no-repeat; padding: 5px 0 8px 40px; font-size: 20px; color:#4D4D4F;">0</p></a></li>
+     </ul>
+   </div>
+</div>
+   <div style="clear:both;"></div>
+  <div class="top-menu-fon">
     <a class="home home-noactive" href="/"><!-- --></a>
     <ul>
       <li class="top-menu-item"><a href="#">Bedroom</a>
@@ -449,25 +643,25 @@
               <td class="col6-td">
                                                                               <h3 class="subname">Bedroom Furniture</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/bedding-top-of-bed">Bedding</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/bedroom-armoires">Bedroom Armoires</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/bedroom-sets">Bedroom Sets</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/beds">Beds</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/closets-wardrobes">Closets / Wardrobes</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/daybeds">Daybeds</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/dressers-and-chests">Dressers &amp; Chests</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/headboards-footboards-side-rails-bed-frames">Headboards, Footboards, Side Rails, Bed Frames</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/nightstands">Nightstands</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/vanities-and-mirrors">Vanities and Mirrors</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/bedding-top-of-bed">Bedding</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/bedroom-armoires">Bedroom Armoires</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/bedroom-sets">Bedroom Sets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/beds">Beds</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/closets-wardrobes">Closets / Wardrobes</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/daybeds">Daybeds</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/dressers-and-chests">Dressers &amp; Chests</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/headboards-footboards-side-rails-bed-frames">Headboards, Footboards, Side Rails, Bed Frames</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/nightstands">Nightstands</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/vanities-and-mirrors">Vanities and Mirrors</a></li>
                                       </ul>
-                                                                                                                                                                                                                                                                                                                                                                                                                      </td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    </td>
               <td class="col6-td">
-                                                                                                                                                                                                                                                                                                                                                                                          <h3 class="subname">Mattress &amp; Pillows</h3>
+                                                                                                                                                                                                                                                                                                                                                                                                                        <h3 class="subname">Mattress &amp; Pillows</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/foundations">Foundations</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/mattress">Mattress</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/memory-foam-products">Memory Foam Products</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/pillows">Pillows</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/foundations">Foundations</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/mattress">Mattress</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/memory-foam-products">Memory Foam Products</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/pillows">Pillows</a></li>
                                       </ul>
                                                                                                           </td>
               </tr>
@@ -486,30 +680,30 @@
               <tbody><tr>
               <td class="col6-td">
                                                                                                             <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/beanbags">Beanbags</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/bunk-beds">Bunk Beds</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-armoires-and-wardrobes">Kids Armoires and Wardrobes</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-bedroom-sets">Kids Bedroom Sets</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-beds">Kids Beds</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-chairs">Kids Chairs</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-desks-and-tables">Kids Desks and Tables</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-dressers-chests">Kids Dressers &amp; Chests</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-headboards">Kids Headboards and Storage</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-lamps">Kids Lamps</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/beanbags">Beanbags</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/bunk-beds">Bunk Beds</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-armoires-and-wardrobes">Kids Armoires and Wardrobes</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-bedroom-sets">Kids Bedroom Sets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-beds">Kids Beds</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-chairs">Kids Chairs</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-desks-and-tables">Kids Desks and Tables</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-dressers-chests">Kids Dressers &amp; Chests</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-headboards">Kids Headboards and Storage</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-lamps">Kids Lamps</a></li>
                                       </ul>
-                                                                                                                                                                                                                                                                                                                                                                                        </td>
+                                                                                                                                                                                                                                                                                                                                                                                                                      </td>
               <td class="col6-td">
                                                                                                             <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-mirrors">Kids Mirrors</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-nightstands">Kids Nightstands</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-ottomans">Kids Ottomans</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-pillows">Kids Pillows</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-shelves">Kids Shelves</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-sofa-and-sofa-beds">Kids Sofas and Sofa Beds</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-storage-benches">Kids Storage Benches</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/kids-table-sets">Kids Table Sets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-mirrors">Kids Mirrors</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-nightstands">Kids Nightstands</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-ottomans">Kids Ottomans</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-pillows">Kids Pillows</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-shelves">Kids Shelves</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-sofa-and-sofa-beds">Kids Sofas and Sofa Beds</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-storage-benches">Kids Storage Benches</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/kids-table-sets">Kids Table Sets</a></li>
                                       </ul>
-                                                                                                                                                                                                                                                                                                                                                                                        </td>
+                                                                                                                                                                                                                                                                                                                                                                                                                      </td>
               </tr>
             </tbody></table>
           </div>
@@ -526,22 +720,22 @@
               <td class="col6-td">
                                                                                                                                                                         <h3 class="subname">Dining Room Furniture</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/caddies-and-dollies">Caddies and Dollies</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/chairs-armchairs-and-stools">Chairs, Armchairs and Stools</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/china-buffets-and-cabinets">China, Buffets and Cabinets</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/dining-sets">Dining Sets</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/dining-tables">Dining Tables</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/caddies-and-dollies">Caddies and Dollies</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/chairs-armchairs-and-stools">Chairs, Armchairs and Stools</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/china-buffets-and-cabinets">China, Buffets and Cabinets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/dining-sets">Dining Sets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/dining-tables">Dining Tables</a></li>
                                       </ul>
-                                                                                                                                                                                                                                                                                                                            </td>
+                                                                                                                                                                                                                                                                                                                                                          </td>
               <td class="col6-td">
                                                 <h3 class="subname">Bar Furniture</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/bar-tables-and-sets">Bar, Pub Tables &amp; Sets</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/barstools">Barstools</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/home-bars">Home Bars</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/wine-racks">Wine Racks</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/bar-tables-and-sets">Bar, Pub Tables &amp; Sets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/barstools">Barstools</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/home-bars">Home Bars</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/wine-racks">Wine Racks</a></li>
                                       </ul>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                    </td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </td>
               </tr>
             </tbody></table>
           </div>
@@ -558,33 +752,33 @@
               <td class="col6-td">
                                                                                                                                                                                                                                                                   <h3 class="subname">Home Accessories</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/clocks">Clocks</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/coat-racks-and-umbrella-stands">Coat Racks &amp; Umbrella Stands</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/decorative-accents">Decorative Accents</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/dividers">Dividers</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/etageres">Etageres</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/fountains">Fountains</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/holders">Holders</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/mirrors">Mirrors</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/paintings">Paintings</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/plant-stands">Plants and Plant Stands</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/rugs">Rugs</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/shelving-units">Shelving Units</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/shoe-coat-storage">Shoe &amp; Coat Storage</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/telephone-stands">Telephone Stands</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/towel-and-quilt-racks">Towel and Quilt Racks</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/clocks">Clocks</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/coat-racks-and-umbrella-stands">Coat Racks &amp; Umbrella Stands</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/decorative-accents">Decorative Accents</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/dividers">Dividers</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/etageres">Etageres</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/fountains">Fountains</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/holders">Holders</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/mirrors">Mirrors</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/paintings">Paintings</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/plant-stands">Plants and Plant Stands</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/rugs">Rugs</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/shelving-units">Shelving Units</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/shoe-coat-storage">Shoe &amp; Coat Storage</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/telephone-stands">Telephone Stands</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/towel-and-quilt-racks">Towel and Quilt Racks</a></li>
                                       </ul>
-                                                                                                                                                                                                                                  </td>
+                                                                                                                                                                                                                                                                </td>
               <td class="col6-td">
-                                                                                                                                                                                                                                                                                                                              <h3 class="subname">Lighting</h3>
+                                                                                                                                                                                                                                                                                                                                                            <h3 class="subname">Lighting</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/desk-lamps">Desk Lamps</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/lighting-accessories">Lighting Accessories</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/outdoor-lamps">Outdoor lamps</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/pendants">Pendants</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/table-lamps">Table Lamps</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/torchiere-floor-lamps">Torchiere/Floor Lamps</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/wall-lamps">Wall Lamps</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/desk-lamps">Desk Lamps</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/lighting-accessories">Lighting Accessories</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/outdoor-lamps">Outdoor lamps</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/pendants">Pendants</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/table-lamps">Table Lamps</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/torchiere-floor-lamps">Torchiere/Floor Lamps</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/wall-lamps">Wall Lamps</a></li>
                                       </ul>
                                                                                                                                                                       </td>
               </tr>
@@ -599,15 +793,15 @@
         <div class="container-fluid container-fluid-one top-submenu" style="width:158px">
           <div class="row-fluid">
             <div class="span12">
-                                                                                                                                                                                                                                                                                                <h3 class="subname">Home Office, Computer Furniture</h3>
+                                                                                                                                                                                                                                                                                                                              <h3 class="subname">Home Office, Computer Furniture</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/desks-and-tables">Desks and Tables Kit</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/home-office-sets">Home Office Sets</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/hutches-bookcases">Hutches, Bookcases</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/lateral-and-rolling-file-cabinets">Lateral and Rolling File Cabinets</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/office-chairs">Office Chairs</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/office-storage-cabinets">Office/Storage Cabinets</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/reception-desks">Reception Desks</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/desks-and-tables">Desks and Tables Kit</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/home-office-sets">Home Office Sets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/hutches-bookcases">Hutches, Bookcases</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/lateral-and-rolling-file-cabinets">Lateral and Rolling File Cabinets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/office-chairs">Office Chairs</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/office-storage-cabinets">Office/Storage Cabinets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/reception-desks">Reception Desks</a></li>
                                       </ul>
                                                                                                                                                                                                   </div>
           </div>
@@ -622,41 +816,41 @@
             <table>
               <tbody><tr>
               <td class="col6-td">
-                                                                                                                                                                                                                                                                                                                                                            <h3 class="subname">Living Room Furniture</h3>
+                                                                                                                                                                                                                                                                                                                                                                                          <h3 class="subname">Living Room Furniture</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/accent-chairs">Accent Chairs</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/chairs-and-benches">Chairs &amp; Benches</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/chaises">Chaises</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/coffee-side-and-end-tables">Coffee, Side and End Tables</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/console-tables">Console Tables</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/curios">Curios</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/fireplaces">Fireplaces</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/love-seats">Love seats</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/ottomans">Ottomans</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/recliners">Recliners</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/sectional-sofas">Sectional Sofas</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/sofa-beds">Sofa Beds</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/sofa-sets">Sofa Sets</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/sofas">Sofas</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/stools">Stools</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/accent-chairs">Accent Chairs</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/chairs-and-benches">Chairs &amp; Benches</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/chaises">Chaises</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/coffee-side-and-end-tables">Coffee, Side and End Tables</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/console-tables">Console Tables</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/curios">Curios</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/fireplaces">Fireplaces</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/love-seats">Love seats</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/ottomans">Ottomans</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/recliners">Recliners</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/sectional-sofas">Sectional Sofas</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/sofa-beds">Sofa Beds</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/sofa-sets">Sofa Sets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/sofas">Sofas</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/stools">Stools</a></li>
                                       </ul>
                                                                                                                                         </td>
               <td class="col6-td">
                                                                                                                                                                                                       <h3 class="subname">Entertainment Furniture</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/cd-and-dvd-media-storage">CD &amp; DVD Media Storage</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/entertainment-centers-and-wall-units">Entertainment Centers and Wall Units</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/home-theater-seating">Home Theater Seating</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/tv-plasma-stands-and-armoires">TV / Plasma Stands and Armoires</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/cd-and-dvd-media-storage">CD &amp; DVD Media Storage</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/entertainment-centers-and-wall-units">Entertainment Centers and Wall Units</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/home-theater-seating">Home Theater Seating</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/tv-plasma-stands-and-armoires">TV / Plasma Stands and Armoires</a></li>
                                       </ul>
-                                                                                                                                                                                                                                                                                              <div class="subname-line"></div>
+                                                                                                                                                                                                                                                                                                                            <div class="subname-line"></div>
                                                                                                                                                                                                                                     <h3 class="subname">Futons</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/futon-covers">Futon Covers</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/futon-mattress">Futon Mattress</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/futon">Futons</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/futon-covers">Futon Covers</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/futon-mattress">Futon Mattress</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/futon">Futons</a></li>
                                       </ul>
-                                                                                                                                                                                                                                                                </td>
+                                                                                                                                                                                                                                                                                              </td>
               </tr>
             </tbody></table>
           </div>
@@ -669,16 +863,31 @@
         <div class="container-fluid container-fluid-one top-submenu" style="width:131px">
           <div class="row-fluid">
             <div class="span12">
-                                                                                                                                                                                                                                                                                                                                                                                                                        <h3 class="subname">Outdoor Furniture</h3>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      <h3 class="subname">Outdoor Furniture</h3>
                   <ul>
-                                          <li><a href="http://www.ba-stores.com/catalogue/outdoor-accessories">Outdoor Accessories</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/outdoor-fountains">Outdoor Fountains</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/outdoor-loungers">Outdoor Loungers</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/outdoor-seating">Outdoor Seating</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/outdoor-sets">Outdoor Sets</a></li>
-                                          <li><a href="http://www.ba-stores.com/catalogue/outdoor-tables">Outdoor Tables</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/outdoor-accessories">Outdoor Accessories</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/outdoor-fountains">Outdoor Fountains</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/outdoor-loungers">Outdoor Loungers</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/outdoor-seating">Outdoor Seating</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/outdoor-sets">Outdoor Sets</a></li>
+                                          <li><a href="https://www.ba-stores.com/catalogue/outdoor-tables">Outdoor Tables</a></li>
                                       </ul>
                                                                           </div>
+          </div>
+        </div>
+      </li>
+
+      <li class="top-menu-iline"></li>
+
+      <li class="top-menu-item"><a href="#">Home Improvement</a>
+        <div class="container-fluid container-fluid-one top-submenu" style="width:131px">
+          <div class="row-fluid">
+            <div class="span12">
+                                                                                                                                                                                                                                                                                                <h3 class="subname">Home Improvement</h3>
+                  <ul>
+                                          <li><a href="https://www.ba-stores.com/catalogue/interior-doors">Interior Doors</a></li>
+                                      </ul>
+                                                                                                                                                                                                                                </div>
           </div>
         </div>
       </li>
@@ -691,19 +900,20 @@
             <div class="span12">
               <h3 class="subname">HOT!</h3>
               <ul>
-                                <li><a href="/!/christmas">Furniture for Christmas</a></li>
-                                <li><a href="/!/designer_furniture_in_new_york_from_ba_stores_com">Designer Furniture in New York from Ba-stores.com</a></li>
                                 <li><a href="/!/furniture-for-small-spaces">Small Furniture for small spaces</a></li>
+                                <li><a href="/!/designer_furniture_in_new_york_from_ba_stores_com">Designer Furniture in New York from Ba-stores.com</a></li>
                                 <li><a href="/!/furniture-for-victorian-house">Furniture for Victorian House on the BA-Store</a></li>
                                 <li><a href="/bestsellers/">Bestsellers</a></li>
                 <li><a href="/specials/">Specials</a></li>
                 <li><a href="http://blog.ba-stores.com/">Our Blog</a></li>                
               </ul>
+             
             </div>
           </div>
         </div>
       </li>      
     </ul>
+   </div>
   </div>
 </div></header>
 
@@ -715,7 +925,7 @@
           			            <!-- Path -->
 			<div class="content-center" id="mod_nav">
 				<p class="path">
-                    <a href="http://www.ba-stores.com/">Home</a> » Privacy Policy					
+                    <a href="https://www.ba-stores.com/">Home</a> » Privacy Policy					
 				</p>
 			</div>
 			<!-- /Path -->
@@ -727,26 +937,25 @@
 <div class="left-block-content">
 <ul class="news-list">
     <li>
-    <!--<div class="news-date">December 02, 2014</div>-->
+    <!--<div class="news-date">January 22, 2014</div>-->
         <div class="news-title">                    
-              <a href="/news/2014-12-02/">Holiday Deals on Coaster's Ophelia Dining Collection</a>
+              <a href="/news/2014-01-22/">Price falls on Innovation USA</a>
           </div>
-        <div class="news-descr">A set perfect for everyday use, this super mod dining collection is luxurious and chic for holiday dinners and dinner parties. Save your money and use our Holiday Discounts!</div>
+        <div class="news-descr">Now gorgeous and famous <a href="http://www.ba-stores.com/catalogue/sofa-beds/brids%5B%5D/92/"><strong>Innovation USA</strong></a> is ready to furnish your home with stylish and high quality furniture. We have <strong>reduced the prices by 10%</strong> on the superb sofas, sofa beds and other product by Innovation!</div>
   </li>
     <li>
-    <!--<div class="news-date">November 27, 2014</div>-->
+    <!--<div class="news-date">December 30, 2014</div>-->
         <div class="news-title">                    
-              <a href="/news/2014-11-27/">Black Friday - Big Discounts on all furniture!</a>
+              <a href="/news/2014-12-30/">Modern and Chic Chairs and Sofas by Lounge22</a>
           </div>
-        <div class="news-descr">Enjoy Big Discounts and Free Shipping on all furniture! 
-Black Friday starts Friday 11/29 Midnight CST. Celebrate the chance to purchase the furniture for your home and office with our Black Friday Discount!</div>
+        <div class="news-descr">We're sure that these <a href="http://www.ba-stores.com/catalogue/sofas/brand/lounge22"><strong>sofas</strong></a> and armchairs will be very popular in 2015. Impressive style, excellent quality and amazing colors</div>
   </li>
     <li>
-    <!--<div class="news-date">September 04, 2014</div>-->
+    <!--<div class="news-date">December 19, 2014</div>-->
         <div class="news-title">                    
-              <a href="/news/2014-09-04/">Subscribe to discounts</a>
+              <a href="/news/2014-12-19/">Ultra modern Reception Desks by MDD Office</a>
           </div>
-        <div class="news-descr">60% of customers purchase our products at a discount. Do not miss the chance to save your money! We offer discounts on brands, seasonal and holiday discounts. Subscribe and learn about discounts the first.</div>
+        <div class="news-descr">Now quality office furniture becomes not only functional but stylish as well! We have added the gorgeous collection of ultra modern and fashionable reception/office desks by MDD Office Furniture</div>
   </li>
   </ul>
 <div class="all-news">
@@ -795,7 +1004,9 @@ Black Friday starts Friday 11/29 Midnight CST. Celebrate the chance to purchase 
              
         </div><!--/span-->
       </div><!--/row-->
-
+<a href="/catalogue/sofa-beds/brids%5B%5D/92/" title="Price falls on Innovation USA"><div style="background: url('/uploads/big-sale-block.jpg'); text-align: center; width:100%; padding: 10px 0; margin: 10px 0;">
+<img src="/uploads/sales_innovation-usa.png">
+</div></a>
       <div class="row-fluid">
         <div class="span12">
           <div class="row-fluid" id="bottom-menu">
@@ -881,10 +1092,10 @@ Black Friday starts Friday 11/29 Midnight CST. Celebrate the chance to purchase 
         <td>
           <a target="_blank" rel="nofollow" href="http://twitter.com/furniturespot"><img src="/images/twitter.png" alt="Twitter"></a> &nbsp;
           <a target="_blank" rel="nofollow" href="http://www.facebook.com/ba.stores"><img src="/images/facebook.png" alt="Facebook"></a> &nbsp;
-          <a target="_blank" rel="nofollow" href="https://plus.google.com/111484335438411446810?prsrc=1"><img src="/images/google-plus.png" alt="Google +"></a> &nbsp;
+          <a target="_blank" rel="publisher" href="https://plus.google.com/111484335438411446810"><img src="/images/google-plus.png" alt="Google +"></a> &nbsp;
           <a target="_blank" rel="nofollow" href="http://pinterest.com/furnitureny/"><img src="/images/pinterest.png" alt="Pinterest"></a> &nbsp;
           <!-- Houzz BEGIN -->
-          <a target="_blank" rel="nofollow" href="http://www.houzz.com/pro/bafurniturestores/ba-furniture-stores"><img width="20" height="20" src="http://www.houzz.com/pic/badge20_20.png?v=1496" alt="houzz interior design ideas"></a>
+          <a target="_blank" rel="nofollow" href="http://www.houzz.com/pro/bafurniturestores/ba-furniture-stores"><img width="20" height="20" src="//www.houzz.com/pic/badge20_20.png?v=1496" alt="houzz interior design ideas"></a>
           <a target="_blank" rel="nofollow" href="http://instagram.com/ba.stores"><img src="/images/instagram.png" alt="Instagram"></a>
           <!-- Houzz END-->
           <a target="_blank" rel="nofollow" href="https://www.youtube.com/user/bastoresfurniture/videos"><img src="/images/youtube.png" alt="YouTUBE"></a> &nbsp;
@@ -899,7 +1110,7 @@ Black Friday starts Friday 11/29 Midnight CST. Celebrate the chance to purchase 
       <footer>
         <div class="copyright">
           B/A Stores LLC. All rights reserved.<br>
-          Copyright (c) 2009-2014 B/A Stores,          
+          Copyright (c) 2009-2015 B/A Stores,          
         </div>
         <div class="toll-free">
           Toll Free: 855-815-6395<br>
@@ -952,7 +1163,7 @@ Black Friday starts Friday 11/29 Midnight CST. Celebrate the chance to purchase 
     <script type="text/javascript">
       (function() {
         var getcode = document.createElement('script'); getcode.type = 'text/javascript'; getcode.async = true;
-        getcode.src = 'http://codes.mallter.com/codes.js?url=www.ba-stores.com%7Cprivacy-policy%7C';
+        getcode.src = '//codes.mallter.com/codes.js?url=www.ba-stores.com%7Cprivacy-policy%7C';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(getcode, s);
         
       })();
@@ -961,6 +1172,6 @@ Black Friday starts Friday 11/29 Midnight CST. Celebrate the chance to purchase 
     
   
 
-<!-- Time spent executing MySQL query: 0.11651 seconds -->
-<!-- The total number of MySQL queries 54 -->
-<!-- Page genered in 0.150846 sec --><div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 100000; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="glossy-dark highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table></div></body></html>
+<!-- Time spent executing MySQL query: 0.12857 seconds -->
+<!-- The total number of MySQL queries 55 -->
+<!-- Page genered in 0.155236 sec --><div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 100000; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="glossy-dark highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table></div></body></html>
