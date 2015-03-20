@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progrids.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702210338id_/https%3A//progrids.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progrids.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320094044id_/https%3A//progrids.com/info/privacy) for the most accurate reproduction.*
 
 # ProGrids
 
@@ -52,7 +52,7 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [ProGrids](https://web.archive.org/)  
 [www.progrids.com](https://web.archive.org/)  
-5201 Great America PKWY STE 340 Santa Clara, CA 95054  
+1901 S Bascom Ave #500 Campbell, CA 95008  
 info@progrids.com
 
 This document was last updated on October 23, 2013
