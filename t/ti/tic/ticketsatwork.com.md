@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketsatwork.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325233810id_/https%3A//www.ticketsatwork.com/tickets/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketsatwork.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320120451id_/https%3A//www.ticketsatwork.com/tickets/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - TicketsAtWork
+# Privacy Policy - TicketsatWork
 
 _Privacy Policy Effective Date: January 1, 2014_
 
