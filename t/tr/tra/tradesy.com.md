@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradesy.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705040316id_/https%3A//www.tradesy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradesy.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320203900id_/https%3A//www.tradesy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tradesy
 
@@ -66,6 +66,10 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc.You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/ privacy_ads.html](http://www.google.com/%20privacy_ads.html)
 
+### Opt out
+
+In order to opt-out off all communications from our company, Tradesy, send us an e-mail at [team@tradesy.com](mailto:team@tradesy.com) or call us at 323.356.0649 and we will be able to assist.
+
 ### Changes to this privacy policy
 
 Tradesy Inc has the discretion to update this privacy policy at any time.When we do, we will revise the updated date at the bottom of this page.We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -76,10 +80,10 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 ### Contacting Us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, your dealings with this site, please contact us at:
 
 Tradesy Inc  
-1420 2nd St  
+1217 2nd Street FL 3  
 Santa Monica, CA 90401   
 323.356.0649 
 
