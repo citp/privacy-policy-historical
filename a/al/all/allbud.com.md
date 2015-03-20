@@ -1,100 +1,70 @@
-> *The following text is extracted and transformed from the allbud.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbud.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320020812id_/https%3A//www.allbud.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# AllBud.com | MMJ Dispensary Locator and Strain Resource - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+#### _PRIVACY POLICY_
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Last updated on _July 3, 2014_. This Privacy Policy is effective immediately for users.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our websites, mobile applications and related services ("Site"). The terms "we", "us", and "Allbud.com" refer to AB Resources, LLC, a Nevada company. When you use the Site, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+ _1\. INFORMATION WE COLLECT AND HOW WE USE IT_
 
-**Information Collection and Use**
+We may store the information you submit to or through the Site, as well as information we collect in connection with your use of the Site.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We use the information to fulfill your requests, provide the Site’s functionality, improve the Site’s quality, personalize your experience, track usage of the Site, provide feedback to businesses that are listed on the Site, display relevant advertising, provide customer support, message you, back up our systems and allow for disaster recovery, enhance the security of the Site, and comply with legal obligations.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Among the information we collect, please note: 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  1. _Account Information:_ If you create an account on the Site, we may store and use your full name, email address, user name and other information you may provide with your account. The personal information you submit through the registration process will not be publicly displayed. The information you submit through contact clinic forms on the Site is not stored or used. 
+  2. _Communications:_ When you sign up for an account or subscribe to our newsletter, you are opting in to receive emails from Allbud.com itself and third parties that send email on behalf of Albud.com. You cannot opt out of receiving certain administrative or legal notices from Allbud.com. When you submit information through a contact clinic form on the Site you are opting in to receive emails from the recipient. 
+  3. _Site Activity:_ We may store information about your use of the Site, such as your search activity, the pages you view, the date and time of your visit, your geographic location, and the businesses you visit from the Site. We also may store information that your computer or mobile device provides to us in connection with your use of the Site, such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+_2\. COOKIES_
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We, and third parties with whom we partner, may use cookies, web beacons, local shared objects (sometimes called "flash cookies"), HTML5, local storage and similar technology in connection with your use of the Site and third party websites ("Cookies"). Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Site, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. Cookies may be persistent or stored only during an individual session. Types of Cookies used on the Site include Processes, Authentication, Security and Compliance, Preferences, Notifications and Analytics.
 
-**Security**
+Managing Cookies:
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+It may be possible to disable some (but not all) cookies through your device or browser settings, but doing so may affect your ability to use the Site. The method for disabling cookies may vary by device and browser, but can usually be found in preferences or security settings.
 
-**Updating Your Information**
+ _3\. THIRD PARTIES_
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We may share information about you with third parties as follows:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  1.  _Aggregate Information:_ We may share user information in the aggregate with third parties, such as advertisers and third party businesses. For example, we may disclose the number of users that have been exposed to, or have clicked on, advertisements. 
+  2. _Business Transfers:_ We may share information from or about you with subsidiaries, joint ventures, or other companies under common control, in which case we will require them to honor this Privacy Policy. If another company acquires Allbud.com or all or substantially all of our assets, that company will possess the same information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy. 
+  3. _Businesses on the Site:_ We may share information from or about you and your use of the Site (such as which businesses you have visited) with businesses on the Site. 
+  4. _Investigations:_ We may investigate and disclose information from or about you if we have a good faith belief that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with the Site; or (c) protect our rights, reputation, property, or that of our users, affiliates, or the public. 
+  5. _Links:_ The Site may contain links to unaffiliated third party websites. Except as set forth herein, we do not share your personal information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites. 
+  6. _Third Party Services:_ The Site is using Google Maps APIs; the Google privacy policy can be found here: <http://www.google.com/privacy.html> and is incorporated by reference. The Site uses Google Analytics to understand how our visitors use the Site, you can learn more about how Google Analytics collects and processes data here: <http://www.google.com/policies/privacy/partners/>. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+_4\. DATA RENTENTION AND ACCOUNT TERMINATION_
 
-**Sending Emails**
+In the event you terminate your account we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Site or to comply with legal obligations. Please note that businesses cannot remove their business listings by terminating their accounts.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+To terminate your account, email us at [budtender@allbud.com](mailto:budtender@allbud.com?Subject=Terminate%20My%20Account).
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+ _5\. CHILDREN_
 
-**Compliance with Laws and Law Enforcement**
+The Site is intended for adult audiences and is not directed to children under 18. We do not knowingly collect personal information from children under 18. If you become aware that a child has provided us with personal information without parental consent, please contact us. If we become aware that a child under 18 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+ _6\. SECURITY_
 
-**Third Party Service Providers**
+We follow generally accepted industry standards, including SSL, to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+ _7\. DISPUTE RESOLUTION:_
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If you believe that Allbud.com has not adhered to this Privacy Policy you may email us at [legal@allbud.com](mailto:legal@allbud.com?Subject=Privacy%20Policy).
 
-**Supplementation of Information**
+ _8\. JURISDICTION_
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+The information we obtain from or about you may be processed and stored in the United States, which may provide for different data protection rules than the country in which you reside. 
 
-**Contests/Surveys**
+_9\. MODIFICATIONS TO THIS PRIVACY POLICY_
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of information about you. If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on the Site prior to the effective date of the changes. By continuing to access or use the Site after those changes become effective, you agree to be bound by the revised Privacy Policy.
