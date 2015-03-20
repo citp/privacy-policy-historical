@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113826id_/http%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320014643id_/http%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy :: GettingPersonal.co.uk
+# Privacy Policy | GettingPersonal.co.uk
 
 GettingPersonal.co.uk is committed to preserving the privacy of all visitors to our website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
 
@@ -18,7 +18,9 @@ To maintain customer service standards and to assist staff training, we may reco
 
 Your information will enable us to provide you with access to all parts of our website and to supply the goods or services you have requested. It will also enable us to bill you and to contact you where necessary concerning your orders. We will also use and analyse the information we collect so that we can administer, support, improve, develop our business and where we are required to do so to report sales to our business partners . 
 
-In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the website or our services. Further, where you have consented, we might also use your information to let you know by email about other products and services which we, other companies within our group and our business partners offer which may be of interest to you. If you change your mind about being contacted in the future, please let us know. 
+In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the website or our services. Further, where you have consented, we might also use your information to let you know by email about other products and services which we, other companies within our group and our business partners offer which may be of interest to you. If you change your mind about being contacted in the future, please let us know.
+
+Where you have entered your credit card details for payment of goods or services on www.gettingpersonal.co.uk, we will not store your credit card data. 
 
 **Opt-out information:**
 
@@ -79,7 +81,9 @@ You may also set up your computer to reject cookies by following the relevant in
 
 **Security and Data Retention**
 
-We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires. 
+We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
+
+Where you have entered your credit card details for payment of goods or services on www.gettingpersonal.co.uk, we will not store your credit card data.
 
 **Accessing and Updating**
 
