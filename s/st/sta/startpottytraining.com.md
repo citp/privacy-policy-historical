@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startpottytraining.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103151017id_/http%3A//www.startpottytraining.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startpottytraining.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320052549id_/http%3A//www.startpottytraining.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Start Potty Training privacy policy
 
