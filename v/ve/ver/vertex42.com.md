@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705004551id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320062339id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
 
 # Vertex42 Privacy Policy
 
-Last Revised: **Oct 31, 2011**
+Last Revised: **Nov 6, 2014**
 
 **We take privacy very seriously** , and if you are reading this, you probably do as well. First of all, you should know that except for the trusted services that we use for managing our newsletter, processing payments, logging into the website, rating and reviewing, and our web host, no other outside party will have access to your personal information unless you happen to publish it yourself by adding it to a public comment on a message board, blog post, comment, review, etc. **We do not share personal information or email lists** with third parties beyond those specifically named herein.
 
@@ -46,7 +46,7 @@ It is unlikely to happen, but we may have to share personal customer information
 
 Our sites may use cookies to manage your session on our sites. They may be used to let you save your username or password to make it easier for you log in and to recall your information for subsequent visits. A **cookie** is a small piece of information stored on your computer, but is not stored on our websites. You can remove cookies from your computer via your browser (typically accessed via your browser's settings or tools menu).
 
-## Site Usage Statistics
+## Site Usage Statistics and Advertising
 
 This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to help determine how to improve the usability of Vertex42.com. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
@@ -57,6 +57,7 @@ We use third-party advertising companies to serve ads when you visit our website
   * Google, as a third party vendor, uses cookies to serve ads on our website.
   * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads on this site based on your visit to our site and other sites on the Internet.
   * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * We also use media.net to publish ads on some pages. You can view their privacy policy at <http://www.media.net/privacy-policy>
 
 
 
