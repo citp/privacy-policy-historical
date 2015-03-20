@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aproplan.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230942id_/http%3A//www.aproplan.com/footer/Support/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aproplan.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320154438id_/http%3A//www.aproplan.com/footer/Support/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Aproplan
+# AproPLAN
 
 This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the AproPLAN service (the “Service”) through our website www.AproPLAN.com, applications on Devices, through APIs, and through third-parties. A “Device” is any computer used to access the AproPLAN Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the AproPLAN Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information.”
 
