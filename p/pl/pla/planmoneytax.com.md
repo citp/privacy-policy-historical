@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planmoneytax.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113210033id_/http%3A//www.planmoneytax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planmoneytax.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320064149id_/http%3A//www.planmoneytax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PlanMoneyTax
 
@@ -33,3 +33,5 @@ This online privacy policy applies only to information collected through our web
 **Your Consent**
 
 By using our site, you consent to our web site privacy policy.
+
+Last Updated: 16th February, 2014
