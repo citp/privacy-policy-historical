@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the vagrantcloud.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702022324id_/https%3A//vagrantcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagrantcloud.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320171445id_/https%3A//atlas.hashicorp.com/privacy) for the most accurate reproduction.*
 
-# Vagrant Cloud
+# Atlas by HashiCorp
 
-We at **_HashiCorp, Inc_**. ("Company", "we", "us", "our") know that our users ("you", "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.** Any capitalized terms used herein without definition shall have the meaning given to them in the [Company Terms of Use](https://vagrantcloud.com/terms). 
+We at **_HashiCorp, Inc_**. ("Company", "we", "us", "our") know that our users ("you", "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.** Any capitalized terms used herein without definition shall have the meaning given to them in the [Company Terms of Use](https://atlas.hashicorp.com/terms). 
 
 ## I. What Does This Privacy Policy Cover?
 
 This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. 
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our [Terms of Use](https://vagrantcloud.com/terms)). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@hashicorp.com](mailto:support@hashicorp.com). 
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our [Terms of Use](https://atlas.hashicorp.com/terms)). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@hashicorp.com](mailto:support@hashicorp.com). 
 
 We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to personalize and improve our services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties, as described below. 
 
@@ -52,7 +52,7 @@ The Services may contain links to other sites. We are not responsible for the pr
 
 V. what personal information can i access? 
 
-Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us via your account settings on [vagrantcloud.com](https://vagrantcloud.com/): 
+Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us via your account settings on [atlas.hashicorp.com](https://atlas.hashicorp.com/): 
 
   * Name and password 
   * Email address 
