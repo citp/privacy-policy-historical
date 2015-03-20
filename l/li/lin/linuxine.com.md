@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxine.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108065015id_/http%3A//www.linuxine.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxine.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320093511id_/http%3A//www.linuxine.com/legal) for the most accurate reproduction.*
 
 # Terms and Conditions
 
