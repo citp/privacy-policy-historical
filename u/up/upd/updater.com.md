@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updater.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108050002id_/http%3A//www.updater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updater.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320222347id_/https%3A//www.updater.com/privacy) for the most accurate reproduction.*
 
 # Updater | Privacy
 
@@ -49,7 +49,7 @@ Any User who does not want Updater to use his or her personal information in eit
 
  **With the website operator hosting Updater technology**
 
-Updater technology is made available on third party websites. In all such situations, the Services offered are clearly marked "powered by Updater". When Updater technology is powering websites other than https://www.updater.com, we may need to share your personal information with the applicable third party that owns and operates the website. In such situations, we may share your personal information only with the applicable third party business that owns and operates the hosting website, and such business will protect your personal information pursuant to their privacy policy. For example, if an Updater User creates their account on http://www.changeofaddressform.com or http://www.whitefence.com using technology powered by Updater, Updater will share certain personal information of such User with WhiteFence pursuant to their privacy policy.
+Updater technology is made available on third party websites. In all such situations, the Services offered are clearly marked "powered by Updater". When Updater technology is powering websites other than https://www.updater.com, we may need to share your personal information with the applicable third party that owns and operates the website. In such situations, we may share your personal information only with the applicable third party business that owns and operates the hosting website, and such business will protect your personal information pursuant to their privacy policy. For example, if an Updater User creates their account on https://www.changeofaddressform.com or https://www.whitefence.com using technology powered by Updater, Updater will share certain personal information of such User with WhiteFence pursuant to their privacy policy.
 
 ###### Information we collect
 
@@ -65,7 +65,7 @@ The information that we collect from Users includes, at minimum, their email add
 
 ###### Security
 
-Updater is committed to protecting the information of our Users, which is why we have chosen to protect all User information using Amazon’s Web Services cloud-based computing and data storage infrastructure. You may read more about how Amazon Web Services incorporates best practices regarding data security at this link: <http://aws.amazon.com/security/>
+Updater is committed to protecting the information of our Users, which is why we have chosen to protect all User information using Amazon’s Web Services cloud-based computing and data storage infrastructure. You may read more about how Amazon Web Services incorporates best practices regarding data security at this link: <https://aws.amazon.com/security/>
 
 ###### Questions
 
