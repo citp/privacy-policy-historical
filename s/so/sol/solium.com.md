@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702184639id_/https%3A//solium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320015644id_/https%3A//solium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solium
 
@@ -8,7 +8,7 @@ September 10, 2013
 
 Solium Capital Inc. (“Solium”) is dedicated to conforming to all privacy standards that have been established by industry bodies as well as federal and provincial regulations.
 
-This Privacy Policy covers and describes how Solium collects, uses and disclosure of information we collect through our website www.solium.com and our service Shareworks. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Solium
+This Privacy Policy covers and describes how Solium collects, uses and disclosure of information we collect through our website www.solium.com and our service Shareworks. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Solium.
 
 Solium has developed this privacy policy for our users of our public website and users of our Shareworks platform. These guidelines deal with the rights of individuals to have access to their personal information and to have it corrected, if necessary, as well as the ways in which Solium collects, uses and discloses personal information. Using PIPEDA as a guide, personal information includes any factual or subjective information, recorded or not, about an individual but does not include the name, title or business address or telephone number of an employee of an organization.
 
@@ -84,7 +84,7 @@ You can contact us by writing or email us at the addresses below:
 1500, 800 – 6th Ave SW  
 Calgary, Alberta, Canada  
 T2P 3G3  
-[compliance@solium.com](https://web.archive.org/web/20140702184639id_/https://solium.com/privacy-policy/compliance@solium.com)
+[compliance@solium.com](https://web.archive.org/web/20150320015644id_/https://solium.com/privacy-policy/compliance@solium.com)
 
 ## Privacy for Shareworks Platform Users
 
