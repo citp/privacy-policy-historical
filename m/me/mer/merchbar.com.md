@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the merchbar.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920204909id_/http%3A//www.merchbar.com/pages/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchbar.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320225425id_/https%3A//www.merchbar.com/pages/help/privacy) for the most accurate reproduction.*
 
-# Merchbar: Band Merch, Fan Gear, Rock Apparel. Shop Now!
+# Privacy Policy
 
 PRIVACY POLICY 
 
