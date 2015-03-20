@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120142109id_/http%3A//www.groceryrun.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320033441id_/https%3A//www.groceryrun.com.au/privacy) for the most accurate reproduction.*
 
 # Groceries online | Online Grocery Store | GroceryRun.com.au
 
@@ -38,7 +38,7 @@
 
 **2.6** We will collect personal information from you by lawful and fair means and not in an unreasonably intrusive way. 
 
-**2.7** When you visit our Website, we, and/or third parties, may place cookies on your browser to enhance and manage our website and improve our business and the services we provide to you. We and/or Google may use this information to optimise and place advertisements, including advertisements of third party vendors and remarketing advertisements based on past visits to this website, on our own and third party websites. Google’s ability to use and share information collected by Google Analytics is restricted by the Google Analytics [Terms of Use](http://www.google.com.au/analytics/terms/us.html) and [Privacy Policy](http://www.google.com/intl/en/policies/privacy/). 
+**2.7** When you visit our Website, we, and/or third parties, may place cookies on your browser to enhance and manage our website and improve our business and the services we provide to you. We and/or Google may use this information to optimise and place advertisements, including advertisements of third party vendors and remarketing advertisements based on past visits to this website, on our own and third party websites. Google’s ability to use and share information collected by Google Analytics is restricted by the Google Analytics [Terms of Use](https://www.google.com.au/analytics/terms/us.html) and [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). 
 
 By using the website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies may be used by us to collect the following information: 
 
