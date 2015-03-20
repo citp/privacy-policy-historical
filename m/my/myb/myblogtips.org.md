@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myblogtips.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702204433id_/http%3A//www.myblogtips.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogtips.org privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320055551id_/http%3A//www.myblogtips.org/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger Tips and Tricks
 
