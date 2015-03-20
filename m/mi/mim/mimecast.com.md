@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718022944id_/http%3A//www.mimecast.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320170541id_/https%3A//www.mimecast.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy
 
 ### Privacy Policy
 
-This is the privacy policy for www.mimecast.com (Site). The Site is operated by Mimecast (we, us and our). We are committed to ensuring the privacy of customer information on the Site. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have.  By using the Site, you consent to the collection and use of information in accordance with this privacy policy. We reserve the right to change this privacy policy from time to time by changing it on the Site.  This privacy policy was last updated on 25 October 2010.
+This is the privacy policy for www.mimecast.com (Site). The Site is operated by Mimecast (we, us and our). We are committed to ensuring the privacy of customer information on the Site. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have. By using the Site, you consent to the collection and use of information in accordance with this privacy policy. We reserve the right to change this privacy policy from time to time by changing it on the Site. This privacy policy was last updated on 12 January 2015.
 
 ### Gathering information
 
@@ -12,11 +12,11 @@ We will request and gather personal information in certain areas of the Site.  
 
 \- information (such as your name, email address, postal address and telephone number) that you provide by completing forms on the Site, including if you submit a general enquiry, partner enquiry, support request, training request or E-shot opt in;
 
-\- in connection with an account sign-in facility, your log-in and password details;
+\- in connection with an account sign-in facility, your log-in and password detail
 
 \- communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding the Site or its content; 
 
-\- information from surveys that we may, from time to time, run on the Site for research purposes, if you choose to respond to them;
+- information from surveys that we may, from time to time, run on the Site for research purposes, if you choose to respond to them;
 
 \- details of your visits to the Site, the resources you access and any data you download;
 
@@ -28,7 +28,7 @@ We use the personal information you volunteer in a number of ways:
 
 \- to assist in responding to your enquiries, including answering your questions on product, pricing and technical information relating to Mimecast's services;
 
-\- in determining ways to creating better products and services to address your requirements;
+\- in determine ways to creating better products and services to address your requirements;
 
 \- to audit the downloading of data from the Site;
 
@@ -70,6 +70,10 @@ The Site may, from time to time, contain links to external sites. We are not res
 
 We place great importance on the security of all personally identifiable information associated with our users. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to personal information. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it. You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via the Site whilst it is in transit over the internet and any such submission is at your own risk. It is advisable to close your browser when you have finished your user session to help ensure others do not access your personal information if you use a shared computer or a computer in a public place.
 
+### Safe Harbor
+
+We comply with the U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certificate, please visit <http://www.export.gov/safeharbor>
+
 ### Storage of your information
 
 Information that you submit via the Site is sent to and stored on secure servers located in the United Kingdom. This is necessary in order to process the information. Information submitted by you may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above, which may be situated outside the European Economic Area and may be processed by staff operating outside the European Economic Area, including by staff employed by Mimecast’s affiliate in South Africa. By submitting information via the Site, you agree to this storing, processing and/or transfer.
@@ -77,12 +81,6 @@ Information that you submit via the Site is sent to and stored on secure servers
 ### Your rights
 
 You have a legal right under the Data Protection Act 1998 to a copy of all the personal information about you held by us. On request, we will provide you with a copy of this information subject to a fee not exceeding £10. You also have a right to correct any errors in that information. As mentioned above, you have a right to prevent the use of your personal information for direct marketing purposes.
-
-### Safe Harbor affirmation
-
-Mimecast complies with the U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Mimecast has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, and enforcement. To learn more about the Safe Harbor program, and to view Mimecast’s certification, please visit <http://www.export.gov/safeharbor/>
-
-As set out in the U.S. – EU and U.S. – Swiss Safe Harbor Principles, adherence to the Principles may be limited (a) to the extent necessary to meet national security, public interest, or law enforcement requirements.
 
 ### Contacting us
 
