@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indialist.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702153516id_/http%3A//indialist.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialist.org privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320090920id_/http%3A//indialist.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - INDIA LIST 2014
+# Privacy Policy - INDIA LIST 2015
 
 At [indialist.org](http://indialist.org/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [indialist.org](http://indialist.org/) and how it is used.
 
