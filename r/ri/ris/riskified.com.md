@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riskified.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216204545id_/http%3A//www.riskified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riskified.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320040026id_/http%3A//www.riskified.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Riskified eCommerce Fraud Prevention Solution
 
