@@ -1,177 +1,85 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205165832id_/http%3A//www.taxbrain.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320035251id_/https%3A//www.taxbrain.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Taxbrain®
 
-  
-[](http://www.truste.org/ivalidate.php?url=www.taxbrain.com&sealid=101) Privacy Policy 
+[](https://privacy.truste.com/privacy-seal/JTH-Tax,-Inc/validation?rid=1a41bffd-eced-4ad4-bb8c-8a9005567e8a "TRUSTe online privacy certification")
 
-**Liberty Tax Service takes privacy seriously.** We process millions of financial transactions each year and have implemented a variety of technologies and policies to protect privacy. Please read the following to learn more about our privacy policy.
+At JTH Tax, Inc., doing business as Liberty Tax Service ("Liberty," "we," or "our"), we recognize the importance of protecting your personal information. We are committed to safeguarding the privacy of your information and want you to know the protective measures we take.
 
-As an Authorized IRS e-file provider our company adheres to Federal and state regulations designed to ensure the security and confidentiality of personal information shared with our company. Taxbrain exceeds the federal requirements and meets or exceeds our industry standards for security and privacy. 
+This Website Privacy Policy concerns the information we collect when you view our websites and our affiliated companies' websites, including, [www.esmarttax.com](http://www.esmarttax.com/), [www.esmarttax.com/ffa](http://www.esmarttax.com/ffa), [www.freetax.com](http://www.freetax.com/), [www.libertytax.com](http://www.libertytax.com/), [www.libertytax.com/online/](http://www.libertytax.com/online/), and [www.taxbrain.com](http://www.taxbrain.com/), (collectively, our "Websites").If you come to one of our offices for tax preparation you will be subject to a separate privacy policy disclosed to you when you use those services.
 
-Liberty Tax Service has created a web-based tax product designed to quickly and easily fulfill tax compliance requirements in the United States. We have developed this application using the most sophisticated encryption technology on the market. Security is our top priority and protecting privacy is what you should expect from Liberty Tax Service.
+Liberty may also offer the ability to apply for financial products through various affiliated and non-affiliated companies. Our privacy policies, and those of our non-affiliated partners, may vary depending on the type of service or products offered. This privacy policy applies solely to our Websites.
 
-Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we do not knowingly attempt to solicit or receive any information from children. Liberty Tax Service is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.taxbrain.com/ (Taxbrain, Taxbrain.com). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+JTH Tax, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the Websites.
 
-Questions regarding the Taxbrain Web sites' privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites should be directed to us at [support@Taxbrain.com](mailto:support@Taxbrain.com) . If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
-  * What personally identifiable information Taxbrain collects. 
-  * What organization collects the information. 
-  * How Taxbrain uses the information. 
-  * With whom Taxbrain may share user information. 
-  * What choices are available to users regarding collection, use and distribution of the information. 
-  * What types of security procedures are in place to protect the loss, misuse or alteration of information under Taxbrain control. 
-  * How users can correct any inaccuracies in the information. 
+**Information We Collect**
 
+If you use our Websites, we collect the following types of information:
 
+**Tracking Technologies**. Technologies such as: cookies, beacons, tags and scripts are used by JTH Tax, Inc and our trusted marketing, advertising, and technology partners. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
-Below is detailed information on how users can correct any inaccuracies in the information
+We use cookies for online customer support, and analytics service providers _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-  
-Information Collection and Use  
----  
-  
-**Information Collection**
+**Log files**. As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
 
-Liberty Tax Service is the sole owner of the information collected on Taxbrain.com. Taxbrain collects information from our users at several different points on our Web site. 
+**Voluntary Registration.** If you choose to submit your contact information to indicate an interest in either a franchise or tax course, we receive from you your name, address, telephone number and e-mail address. If you choose to submit your e-mail address to indicate an interest in our electronic newsletter, we receive from you your e-mail address. If you choose to use our electronic Refer a Friend on this site, we collect from you your name, address your e-mail address and your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [privacy@libtax.com](mailto:privacy@libtax.com) to request that we remove this information from our database or use the opt-out mechanism in the email. We may receive your personal information, including (which includes, without limitation, your name, address, email or phone number) if you participate in any of our surveys or contests or if you request a service from us. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. 
 
-**Registration**
+Our website does not currently support "do not track" settings on your browser or have any similar mechanism that allows you to opt out of or otherwise control the collection of certain information about your online activities.
 
-In order to use this Web site, a user must first complete the registration form. During registration a user is required to give contact information such as name, address, phone number and email address. We use this information to contact the user about services on our site for which they have expressed interest.
+**How We May Use the Information**
 
-**Order Information**
+We may use your information collected in the Websites to provide the services or products you requested, to process transactions that you initiate, to improve our services and Websites, for marketing or promotional purposes and to contact you regarding our services or your use of the Websites.
 
-We request information from users on our order form. A user must provide contact information such as name, email, address and phone number and financial information such as credit card number, expiration date and bank account information. All financial information collected on our site will remain absolutely confidential and will never be disclosed to any non-affiliated companies except as required by law. Financial information includes information such as credit card numbers and bank account information. We may store such information on our secure servers to expedite processing of certain services and products we provide to you. We may use your contact information to notify you of important product updates, significant tax law changes or promotional opportunities - if you have chosen to receive such offers. 
+**Information We Disclose**
 
-**Tax Related Information**
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
 
-When a tax return is prepared on Taxbrain the information contained in the tax return will be treated with extreme care and confidence. To prepare a tax return on our site you will have to enter the personal information, which is required to file. In addition to your own personally identifying information you will have to enter the information for anyone else listed on the return, such as your spouse or dependents. As a method for detecting fraud in tax information transmitted via the Internet, the Internal Revenue Service (IRS) requires Liberty Tax Service to provide to the IRS, in connection with the electronic filing of tax returns, the Internet Protocol (IP) address of the computer from which the return originated. We are also required to notify the IRS whether the e-mail address of the person electronically filing the return has been collected. 
+Affiliated and non-affiliated third parties may be given access to your information only as permitted by law or upon your express authorization to process the transactions which you have engaged us to perform. Our affiliated and non-affiliated third parties may offer you the opportunity to receive information concerning their products and services. If you elect to receive such communications from these third-parties, we may share your name and contact information. 
 
-**Identifying and Contact Information**
+If you have inputted information into our website to express an interest in being contacted about tax courses, your information is transferred to a local Liberty Tax Service office, most of which are franchised, so the office may contact you. Also, we may contact you directly about a tax course in one of our offices, or an online tax course, or we may contact you about franchise opportunities with us.
 
-From time to time, users may be asked to provide certain Identifying and Contact Information, such as name, e-mail address, mailing address, telephone number, user name, and demographic information. This information is used to verify identity, determine eligibility for special programs or services we may offer and complete transactions. At times it will be necessary to use Contact Information to communicate with users concerning administrative matters, responding to user requests and notifying users of the status of their transactions. However, we will not disclose Identifying and Contact Information to third parties without prior consent, except as required by law.  
+If you entered your contact information into our website to express an interest in being contacted about a franchise opportunity, we use your information to contact you about this opportunity.
 
+If you submitted your e-mail address to sign up for our electronic newsletter, we use your e-mail address to e-mail our newsletter to you and we may contact you about franchise opportunities with us. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [privacy@libtax.com](mailto:privacy@libtax.com).
 
-**  
-Cookies **
+If you submitted your e-mail address to us for any purpose, we may contact you to invite you to prepare your tax return with us.
 
-A “cookie” is a small piece of information that our Web sites may provide to a user's browser while they are at our site. Registered users on Taxbrain will receive a cookie when they login. This cookie is maintained by their browser and contains their unique identifier. This cookie is also used to authenticate their identity and provide access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing. The cookie is tied to the user's account id. Only Taxbrain knows what personal information matches the account id number. There is no way any personally identifiable information could be directly extracted from our cookie. However, if a user has opted to have their username and password remembered, the information is stored in the cookie. 
+If you submit your personal information for the purposes of preparing and filing your tax returns, our use or disclosure of that information may be limited by the Internal Revenue Code, 7216, the Gramm-Leach-Bliley Act, and other law. We will not use or disclose to third parties your tax information for any other purpose other than the preparing, assisting you in preparing, or filing your tax return, unless you authorize us by providing to us written consent to use or disclose or unless expressly required or authorized by law or pursuant to a court order. 
 
-**Log Files**
+We may disclose your information to non-affiliated third parties that perform operational, marketing or accounting services for us. Our sharing of information may be with a financial product provider with whom we have a joint-marketing agreement or non-financial companies that provides technical services such as software services. These companies are authorized to use your personal information _only as necessary to provide_ these services to us. Such sharing will be done in accordance with applicable law.
 
-Like most standard Web site servers we use log files. With or without cookies, our Web site keeps track of usage data, such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. We use this data to better understand Web site usage in the aggregate so that we know what areas of our Web site users prefer. This information is stored in log files and is used for aggregated and statistical reporting. We also record your IP address as is required by the IRS. This IP address would only be released if ordered by a US court of law.
+We may also disclose or transfer your information in response to legal process such as to comply with a subpoena, or similar legal process or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, where required by applicable law, or if we are acquired by or merged with another company. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified a prominent notice on our Website(s) of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-**Legal Disclaimer**  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe such disclose is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site. 
+**Behavioral Targeting/Re-Targeting**
 
-Back to Top   
-  
-   
-Third Party Intermediaries  
-  
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-**Financial Service Providers**
+We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google's Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
-We partner with other third party banks, such as Sunrise Banks N.A. ("Bank"), to provide specific financial services. When users sign up for these particular services, we share names or other contact information (such as name, address, social security number and phone number), along with certain tax return information, that is necessary for the third party to provide these services. The taxpayer must sign a Consent to Disclosure as required by federal law before we can disclose this information.  These third party banks may or may not use personally identifiable information for purposes other than providing these services. The taxpayer will be provided with the bank's Privacy Notice, along with information on contacting the bank to opt-out of certain uses of their information.  
+**Updating Your Information**
 
+If you are using our Websites to prepare and file your tax returns, you may update your log in and password information by logging into your account or by contacting customer support at [onlinesupport@libtax.com](mailto:onlinesupport@libtax.com). Other information we collect as described in this privacy policy is not stored in an online accessible format or does not identify you personally. For all other inquiries related to your information, including updating or deactivation, deleting or no longer using your submitted information please contact us via [privacy@libtax.com](mailto:privacy@libtax.com) or by postal mail to JTH Tax, Inc. c/o Privacy, 1716 Corporate Landing Parkway, Virginia Beach, Virginia 23454.
 
-**  
-Live Chat **
+We will retain your information for as long as your account is active or as needed to provide you services or as required under applicable law. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-To better serve our users we contract with LivePerson to offer live chat. LivePerson's privacy policy can be reviewed at <http://www.liveperson.com/help/privacy.asp>. To use the chat service you will be required to enter your email address. Upon exiting the chat session you will be given an option of having a transcript of your chat emailed to you. LivePerson may store a log of your chat session for up to 13 months, however they will not share your information with anyone unless it is required by law.   
+**Information Security**
 
+We maintain physical, electronic and procedural security measures that comply with applicable legal and regulatory standards to safeguard your personal information. Access to such information is restricted to those employees who are trained in the proper handling of client information and have a legitimate business need to access that information. We follow generally accepted standards, such as encryption and secure socket layer technology, to protect the personal information you submit to us, whether that information is in transit or at rest. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@taxbrain.com. 
 
-**  
-Business Transitions **
+**Additional Information**
 
-In the event Taxbrain goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email and prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
+**Links to 3rd Party Sites.** Our Website(s) includes links to other Web sites whose privacy practices may differ from ours. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
-**Links**
+**Social Media Widgets.** Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-This Web site contains links to other sites. Please be aware that we, Liberty Tax Service, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+**Acceptance of These Terms**
 
-Back to Top   
-  
-   
-Communications from the Site  
-  
-**Special Offers and Updates**
+_You understand that any information you provide to us through any of the Websites shall be governed by this privacy policy. If you do not agree with these terms, you should not use the Websites. Your continued use of the Websites indicates your acceptance of these terms._
 
-We send all new members a welcoming email to verify registration. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for our users privacy we provide a self-service opt-out of these communications at <http://www.taxbrain.com/optout.asp>.   
+This privacy policy is effective December 20, 2014.
 
+Because privacy is important, we pledge to work with you to protect and safeguard the security of your personal customer information. If this privacy policy changes, we will notify you of the changes by posting a notice on our Websites. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**  
-Service Announcements **
-
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.  
-
-
-**  
-Customer Service **
-
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the your wishes.
-
-Our site does link to other sites in order to provide all of the tax and financial services users might need. Liberty Tax Service has partnered with these sites for content use and may share user information disclosed on our site with them on an aggregate basis for advertisement tracking only. We will not disclose personally identifying information without prior consent. Taxbrain provides services in conjunction with third party companies. With your permission, you will have the ability upload information to your Taxbrain account, from accounts you hold with third party partners. This upload of information to Taxbrain.com is done to fulfill the full service of our site and no other purpose. For example, we can upload W-2s from employers and other content for forms from our partner organizations. These are the instances in which we will share users' personal information.
-
-Back to Top  
-  
-   
-  
-Security Information  
-  
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.   
-Taxbrain account information is password-protected so that only the registered owner of an account will have access to their personal information. Account information may be updated by entering a user name and password to gain access to the account. We strongly recommend that users do not share their user name and password with anyone. Liberty Tax Service will never ask a user for their user name or password via unsolicited phone call or e-mail. Security is of utmost importance to Liberty Tax Service and we use the latest SSL technology to protect confidential information.   
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected computers. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked door in a locked facility. If users have any questions about the security at our Web site, users can send an email to [support@taxbrain.com](mailto:support@taxbrain.com) . 
-
-**  
-Correcting/Updating/Deleting/Deactivating Personal Information **
-
-We provide the opportunity to update or correct the contact and tax return information provided to us. Users can update their information at any time by logging into myTaxbrain and accessing their return file or account information page. The tax return information and personally identifiable information collected through this site is contained in tax returns and in product registration information. Once a tax return has been completed using the Taxbrain Web product, and directed that it be electronically filed, it cannot be changed because the tax return has become a legal record of the tax filing. Any changes made to a tax return after it has already been electronically filed, and acknowledged by the IRS, will generate a Form 1040X (amended return).  
-
-
-**  
-Notification of Changes **
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
-  
-If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. 
-
-**TRUSTE Watchdog Dispute Resolution URL**   
-If you feel that you have an unresolved privacy issue with a TrustE shareholder, you can complete a claim online at: <http://www.truste.org/consumers/watchdog_complaint.php>
-
-Back to Top   
-  
-   
-Contact Us  
-  
-If users have any questions or suggestions regarding our privacy policy,   
-please contact us at:
-
-_Mailing Address:_  
-Liberty Tax Service, Taxbrain  
-1716 Corporate Landing Pkwy  
-Virginia Beach, VA 23453 
-
-_Shipping Address:_  
-Liberty Tax Service, Taxbrain  
-1716 Corporate Landing Pkwy  
-Virginia Beach, VA 23453
-
-Email: [support@taxbrain.com](mailto:support@taxbrain.com)
-
-Web site URL: [http://www.taxbrain.com](https://web.archive.org/)
-
-Back to Top  
-  
-  
-   
-  
-PRIVATE WEB FORM EMAIL  
-Your most secure means of support is the personal web form provided within your myTaxbrain page. From there we can answer tax, technical, customer service and other support questions. All questions receive a response within 24 hours, while most questions are answered right away.  
-  
-Back to Top
-
-  
-
+If you have any questions about this privacy policy, you may contact us by e-mail at [privacy@libtax.com](mailto:privacy@libtax.com) or by mail at Privacy, Liberty Tax Service, 1716 Corporate Landing Parkway, Virginia Beach, Virginia 23454.
