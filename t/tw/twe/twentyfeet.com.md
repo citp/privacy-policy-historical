@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twentyfeet.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022004350id_/https%3A//sumall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twentyfeet.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320031948id_/https%3A//sumall.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SumAll
 
@@ -161,8 +161,8 @@ SumAll welcomes your comments or questions regarding this Privacy Policy. Please
 
 SumAll  
 Attn: Matthew Law  
-247 Centre Street, 6th Floor  
-New York, NY 10013  
+123 Williams St. 22nd floor  
+New York, NY 10038  
 +1 917 719 0255
 
 We updated this on September 29, 2014. Your diligence is appreciated.
