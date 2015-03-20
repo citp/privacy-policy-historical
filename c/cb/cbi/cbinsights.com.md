@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbinsights.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921034214id_/http%3A//www.cbinsights.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbinsights.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320063140id_/https%3A//www.cbinsights.com/privacy-policy.php) for the most accurate reproduction.*
 
 # CB Insights Privacy Policy
 
