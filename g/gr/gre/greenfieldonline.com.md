@@ -1,36 +1,36 @@
-> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130071611id_/https%3A//uk.toluna.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320133045id_/https%3A//uk.toluna.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Toluna
 
-[](https://privacy.truste.com/privacy-seal/Toluna-USA,-Inc-/validation?rid=13b9fcd6-c5a4-4a06-82e7-c2b6f17e3e41 "TRUSTe European Safe Harbor certification")
+[ ](https://privacy.truste.com/privacy-seal/Toluna-USA,-Inc-/validation?rid=13b9fcd6-c5a4-4a06-82e7-c2b6f17e3e41 "TRUSTe European Safe Harbor certification")
 
-Last updated: September 9, 2014
+Last updated: February 23, 2015
 
 This privacy policy applies to http://www.toluna.com owned and operated by Toluna (“ Toluna”, “we”, “us”, “our”). This privacy policy describes how Toluna collects and uses the personal information you provide on our web site http://www.toluna.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Toluna has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and underlying practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements) transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe programme does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.toluna.com and does not cover information that may be collected through our mobile application. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organisations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Toluna has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and underlying practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements) transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe programme does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.toluna.com and does not cover information that may be collected through our mobile application. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organisations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-Toluna complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Toluna has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to Toluna's certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
+Toluna complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Toluna has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to Toluna's certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
 
-When you visit a website displaying the **TRUSTe** mark, you can expect to be notified of the following:
+When you visit a website displaying the  **TRUSTe**  mark, you can expect to be notified of the following:
 
-What information this site gathers/tracks about you.  
-What this site does with the information it gathers/tracks.  
-With whom this site shares the information it gathers/tracks.  
-This site’s policy with regards to 3rd party tracking technologies.  
-This site's opt-out policy.  
-This site's policy on correcting and updating personal information.  
-This site's policy on deleting or deactivating your name from its database.  
-Notification of changes.  
-This site's policy regarding security.  
-This site's policy regarding business transfers.  
-This site's policy regarding links to third-party sites.  
-This site's policy regarding legal disclaimers.  
-This site's policy regarding children's privacy.  
-This site's policy regarding Social Media Widgets.  
-This site's policy regarding Single Sign-On.  
-This site’s policy regarding Referral  
-This site’s policy regarding Adding Contacts
+ What information this site gathers/tracks about you.  
+ What this site does with the information it gathers/tracks.  
+ With whom this site shares the information it gathers/tracks.  
+ This site’s policy with regards to 3rd party tracking technologies.  
+ This site's opt-out policy.  
+ This site's policy on correcting and updating personal information.  
+ This site's policy on deleting or deactivating your name from its database.  
+ Notification of changes.  
+ This site's policy regarding security.  
+ This site's policy regarding business transfers.  
+ This site's policy regarding links to third-party sites.  
+ This site's policy regarding legal disclaimers.  
+ This site's policy regarding children's privacy.  
+ This site's policy regarding Social Media Widgets.  
+ This site's policy regarding Single Sign-On.  
+ This site’s policy regarding Referral  
+ This site’s policy regarding Adding Contacts
 
 ## Overall privacy
 
@@ -46,9 +46,9 @@ In some circumstances, Toluna may ask you to inform us of your sensitive persona
 
 If you take a survey or provide us with personal information without being a member of our panel, the only personal information we will preserve is your email address, gender, age, ethnicity and zip code, machine ID and IP address. We do this so we may contact you if you have won a prize or are entitled to an incentive, to match you to appropriate surveys and improve the user experience. Unless you elect to become a member of the Toluna panel, we will not contact you for any reason other than to notify you that you have won a prize or are eligible for an incentive. If you are entitled to a prize or an incentive, we will collect and maintain such personal information, as we are required to maintain or report by virtue of any law or regulation.
 
-You should be aware that any personal information you choose to make public on the site, in the Community area (under a public message on your wall, as an opinion, topic, battle, thumb it, or any other public area or forum) can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit or make public. In addition, we are not responsible for the content you publicly post on the site that can be found via web-based search engines. To request removal of your personal information from our blog or community forum, contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+You should be aware that any personal information you choose to make public on the site, in the Community area (under a public message on your wall, as an opinion, topic, battle, thumb it, or any other public area or forum) can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit or make public. In addition, we are not responsible for the content you publicly post on the site that can be found via web-based search engines. To request removal of your personal information from our blog or community forum, contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com).
 
 ## Use of this information
 
@@ -72,10 +72,14 @@ By the use of the site all site users authorise cookies to be put in place and t
 
 Site users may disable the installation of "cookies" or to delete cookies installed by Toluna or its clients. To do so you should modify your browser settings click on the help section of your Internet browser and follow the instructions.
 
+## Analytical Cookies 
+
+Toluna uses analytical cookies to aggregate the number of people visiting the site and analyze which parts of the website are most popular. We gather feedback and improve the website to better serve our users and members. To find out more about the Google Analytics security and privacy policy please click [here](https://support.google.com/analytics/answer/6004245?hl=en). You could choose to accept or to refuse analytical cookies below:
+
 ## Third Party Tracking:
 
 The use of cookies by our [partners, affiliates, tracking utility company, service providers] is not covered by our privacy policy. We do not have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.] Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.  
- 
+
 
 ## Digital Finger printing:
 
@@ -89,7 +93,7 @@ In the event that Toluna discovers or learns of any unethical conduct in connect
 
 ## Access to Your Information; Member Services Area/Update, Correct, Delete Information
 
-In accordance with the provisions of Law No. 78-17 concerning Data Processing and Civil Rights, dated 6 January 1978, you have the right to gain access to your data and correct it. In order to access this data you may either write to the address below or Contact Us at [privacyna@toluna.com](mailto:privacyna@toluna.com).
+In accordance with the provisions of Law No. 78-17 concerning Data Processing and Civil Rights, dated 6 January 1978, you have the right to gain access to your data and correct it. In order to access this data you may either write to the address below or Contact Us at [privacyna@toluna.com](mailto:privacyna@toluna.com).
 
 We provide you with a Members Area on our site; here you may correct or update your membership information or delete your membership. If you are a panel member and delete your membership, your profile information will be permanently removed, but may be stored in our disaster recovery databases, and in such circumstances will not be used for commercial purposes. Please note that in most cases, it will take two or three business days for your information to be completely removed from our records; but please allow up to fifteen days.
 
@@ -105,7 +109,7 @@ If you need to correct any of your profile information or if you would like to u
 
 ## Delete/Deactivate policy;
 
-If you choose to end your membership with Toluna or to require us to cease processing your personal data, you may automatically discontinue your membership by going to “Account” and selecting “Unsubscribe Options” on the bottom left hand corner, then “[Cancel your account](https://uk.toluna.com/Home/Unsubscribe)”. By following the appropriate directions, your record will be marked as "do not contact", and you will no longer receive communications from Toluna. In addition, you will forfeit any incentive balance that has not been requested as of the time you opt out. In most cases it will take 2 to 3 days to process this change, but please allow up to two full weeks for your status to be finalised. In the meantime, you may receive emails from us. As an alternative, you may send an email directly to [contact@toluna.com](mailto:contact@toluna.com) requesting to be removed. Email links are provided on the site so that you may contact us directly with any questions or concerns you may have. Each email we receive is read and responded to individually; please allow two to three business days for us to get back to you.
+If you choose to end your membership with Toluna or to require us to cease processing your personal data, you may automatically discontinue your membership by going to “Account” and selecting “Unsubscribe Options” on the bottom left hand corner, then “[Cancel your account](https://uk.toluna.com/Home/Unsubscribe)”. By following the appropriate directions, your record will be marked as "do not contact", and you will no longer receive communications from Toluna. In addition, you will forfeit any incentive balance that has not been requested as of the time you opt out. In most cases it will take 2 to 3 days to process this change, but please allow up to two full weeks for your status to be finalised. In the meantime, you may receive emails from us. As an alternative, you may send an email directly to [contact@toluna.com](mailto:contact@toluna.com) requesting to be removed. Email links are provided on the site so that you may contact us directly with any questions or concerns you may have. Each email we receive is read and responded to individually; please allow two to three business days for us to get back to you.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -144,7 +148,7 @@ You can log in to our site using sign-in services such as Facebook Connect or an
 
 ## Referral
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Toluna stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com) to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Toluna stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com) to request that we remove this information from our database.
 
 ## Add/Import Contacts
 
@@ -165,4 +169,4 @@ Toluna
 21 River Road  
 Wilton, Connecticut 06897  
 USA  
-E-Mail: [privacyna@Toluna.com](mailto:privacyna@Toluna.com)
+E-Mail: [privacyna@Toluna.com](mailto:privacyna@Toluna.com)
