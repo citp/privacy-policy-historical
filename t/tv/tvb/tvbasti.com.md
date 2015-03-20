@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvbasti.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111164617id_/http%3A//www.tvbasti.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvbasti.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320181137id_/http%3A//www.tvbasti.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - TvBasti - Home of Indian Television
 
