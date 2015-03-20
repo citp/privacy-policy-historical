@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top20sites.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704022244id_/http%3A//www.top20sites.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top20sites.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320010005id_/http%3A//www.top20sites.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Top20Sites.com
 
