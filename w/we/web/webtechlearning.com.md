@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtechlearning.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716054215id_/http%3A//www.webtechlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtechlearning.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320070246id_/http%3A//www.webtechlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,8 +10,8 @@ Updated: Sep 29, 2013
 
 **Inquiries:** Information collected during the course of You submitting an inquiry via online form, e-mail, fax, or telephone call may be used by Webtech Learning  to respond to Your inquiries or to contact You to inform You of services of  Webtech Learning that may be of use to You. Information collected during the course of an inquiry will not be disclosed to any third party.
 
-**Cancellation policy:** Webtech Learning follows a transparent and no fuss cancellation policy. Here are the terms of the policy: All Cancellation requests will be considered within 12 hours of course admissions date. Webtech Learning will not be held responsible for any third party services, such as job placement, freelancing work and their own live projects.
+**Cancellation policy:** Webtech Learning follows a transparent and no fuss cancellation policy. Here are the terms of the policy: All Cancellation requests will be considered within 12 hours of course admissions date. Webtech Learning will not be held responsible for any third party services, such as job placement, freelancing work, money making, personal business and their own live projects.
 
-**Refund policy:** Due to the nature of its services, Webtech Learning does not guarantee any refunds upon cancellation. Webtech Learning does not make any guarantees on the basis of job placement etc. and will not be held responsible for any refund claims thereof.
+**Refund policy:** Due to the nature of its services, Webtech Learning does not guarantee any refunds upon cancellation. Webtech Learning does not make any guarantees on the basis of job placement, Freelancing work, money making etc. and will not be held responsible for any refund claims thereof.
 
 **Browsing the Website:** Information collected while You’re browsing our website may be used to analyze trends, administer the website, improve site performance, gather broad demographic information, and for security purposes. Such Information will not be disclosed to third parties
