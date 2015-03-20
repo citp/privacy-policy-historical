@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216003621id_/https%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320161223id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
 
 # LAP Publishing | Imprint and Privacy Policy
 
@@ -11,8 +11,7 @@ Heinrich-Böcking-Straße 6-8
 66121 Saarbrücken  
 Germany
 
-Phone: +49 681 9100-698  
-Fax: +49 681 9100-988
+Fax: +49 681 93 81 567-9
 
 Email: info[at]lap-publishing.com
 
@@ -22,11 +21,11 @@ Register court/number: Handelsregister Amtsgericht Saarbrücken HRA 10356
 Identification Number (Verkehrsnummer): 13955  
 VAT Reg No: DE 258118575
 
-Partner with unlimited liability/Persönlich haftende Gesellschafterin: VDM Management GmbH
+Partner with unlimited liability/Persönlich haftende Gesellschafterin: OmniScriptum Management GmbH
 
 Register court/number: Handelsregister Amtsgericht Saarbrücken HRB 18918
 
-Managing director/Geschäftsführer: Thorsten Ohm (CEO)
+Managing director/Geschäftsführung: Marta Lusena (CEO)
 
 Dieses Impressum gilt auch für die Facebookseite <https://www.facebook.com/lappublishing>.
 
@@ -42,7 +41,7 @@ All data and information accessible via the websites of OmniScriptum GmbH & Co
 OmniScriptum GmbH & Co. KG understands that the data protection laws must be adhered to. This is to inform you of the steps that we take to protect your rights. We consider personal details to be a) any information you provide in order to complete our forms, e.g. your e-mail address, any order and invoice details, as well as postal address and payment terms b) any data retrieved through authentication and tracking logs. By using our website, you agree to this personal information being collected and stored in our databases. We take reasonable precautions to protect the safety, integrity and privacy of your personal details. OmniScriptum GmbH & Co. KG uses your data to provide you with the products and services that you order from us. Upon ordering any product or service with OmniScriptum GmbH & Co. KG, you agree that OmniScriptum GmbH & Co. KG may use your e-mail address in the aforementioned ways. Authentication and tracking logs are used to create user statistics. These details do not contain any retraceable personal information. OmniScriptum GmbH & Co. KG reserves the right to have these logs and databases analysed by third-party service providers. Here, too, we will do everything to protect the safety, integrity and intimacy of your data.  
 Should you have any further questions regarding data security policy, please contact our data security officer.
 
-e-mail: datenschutz[at]omniscriptum.de
+e-mail: datenschutz[at]omniscriptum.com
 
 ## Piwik Privacy Policy:
 
