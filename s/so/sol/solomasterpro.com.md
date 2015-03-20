@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solomasterpro.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729154836id_/http%3A//solomasterpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solomasterpro.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320085209id_/http%3A//solomasterpro.com/privacy.html) for the most accurate reproduction.*
 
 # Solo Master Pro :: Privacy Policy
 
