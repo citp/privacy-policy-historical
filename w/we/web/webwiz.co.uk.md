@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webwiz.co.uk privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704155342id_/https%3A//www.webwiz.co.uk/legal/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwiz.co.uk privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320090813id_/https%3A//www.webwiz.co.uk/legal/privacy-statement.htm) for the most accurate reproduction.*
 
 # Web Wiz Data Protection and Privacy Policy
 
-|    
+  
   
   
 
@@ -43,7 +43,7 @@ By their very nature the Forum, Guestbook, Listing Directories, etc. are open to
 Parents or guardians that find that their children have given private information in accessing any parts of 'Web Wiz' can request that this information be destroyed by emailing using the [contact us form](https://web.archive.org/contact/). 
 
   6. **Cookies**  
-Web Wiz uses small bits of data stored on your computer called 'cookies'. Find out what Web Wiz uses them for, and how to control their use at our '[How cookies are used by Web Wiz](https://web.archive.org/web/20140704155342id_/https%3A//www.webwiz.co.uk/legal/cookies.htm)' Page.
+Web Wiz uses small bits of data stored on your computer called 'cookies'. Find out what Web Wiz uses them for, and how to control their use at our '[How cookies are used by Web Wiz](https://web.archive.org/web/20150320090813id_/https%3A//www.webwiz.co.uk/legal/cookies.htm)' Page.
   7. **Data**  
 In the UK we operate and are registered in accordance with applicable data protection legislation.
   8. **Consent**  
@@ -56,4 +56,6 @@ If you have any questions or concerns about the information we hold about you, y
 
 
   
-| 
+  
+  
+Copyright ©2001-2015 Web Wiz Ltd. All rights reserved.
