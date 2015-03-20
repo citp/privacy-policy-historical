@@ -1,41 +1,87 @@
-> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121180242id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320165334id_/https%3A//www.becu.org/%7E/media/Files/PDF/6524.pdf) for the most accurate reproduction.*
 
-# Privacy Policy
+# FACTS
 
-### Protecting Your Accounts
+                                                                                                              Rev.  10/2014
+                      WHAT DOES Boeing Employees' Credit Union ("BECU")
+ FACTS                DO WITH YOUR PERSONAL INFORMATION?
+ Why?                 Financial companies choose how they share your personal information. Federal law gives
+                      consumers the right to limit some but not all sharing. Federal law also requires us to tell you
+                      how we collect, share, and protect your personal information. Please read this notice carefully to
+                      understand what we do.
+ What?                The types of personal information we collect and share depend on the product or service you
+                      have with us. This information can include:
+                          Social Security number and income
+                           account balances       and payment history
+                           credit history         and credit scores
+                      When you are no longer our customer, we continue to share your information as described in this
+                      notice.
+ How?                 All ﬁnancial companies need to share members' personal information to run their everyday
+                      business. In the section below, we list the reasons ﬁnancial companies can share their
+                      members' personal information; the reasons BECU chooses to share; and
+                      whether you can limit this sharing.
+                                                                Does BECU
+ Reasons we can share your personal information                                              Can you limit this sharing?
+                                                                              share?
+ For our everyday business purposes—
+ such as to process your transactions, maintain
+ your account(s), respond to court orders and legal                       Yes                             No
+ investigations, or report to credit bureaus
+ For our marketing purposes—
+ to offer our products and services to you                                Yes                             No
+ For joint marketing with other ﬁnancial companies
+                                                                          Yes                             No
+ For our afﬁliates’ everyday business purposes—
+ information about your transactions and experiences                      No                       We don't share
+ For our afﬁliates’ everyday business purposes—
+ information about your creditworthiness                                  No                       We don't share
+ For nonafﬁliates to market to you                                        No                       We don't share
+ Questions?            Call 800-233-2328    or go to www.becu.org
+BECU 6524
 
-BECU never initiates requests for sensitive information by email or text messaging (such as Social Security numbers, Telephone Banking PINs, passwords, or account numbers). If you receive an email or text message requesting this type of information, please contact BECU immediately. [Report email and text fraud](mailto:phishing@becu.org). 
 
-### Information Collected Through the Use of Our Sites
-
-BECU and its affiliates, BECU Trust Services and BECU Financial Services, Inc., ("We") believe that you are our most important asset. We work very hard to earn and maintain your trust. Consequently, we protect your personal information by taking steps to keep it secure and confidential. We have not and will not sell your account information.
-
-Although perfect security is not possible, we have policies and procedures in place to protect the safety of your personal and financial information.
-
-Our site does make use of a feature of your web browser called "cookies". A cookie does not personally identify you. A cookie is used to customize your Site experience. Additionally, we collect aggregate information about the use of our Site that does not personally identify you via cookies. These cookies may be used to present advertisements about our products and services you may be interested in. These advertisements may appear on the BECU or other websites. If you do not wish to receive such advertisements from BECU please review these services: 
-
-Opt out from Online Behavioral Advertising
-
-Consumer Opt-out
-
-### Security
-
-You communicate with our computer systems, web site, by using your computer's web browser. Your web browser will need to be updated periodically for continued safe and secure use of our web site. 
-
-Our Websites are secured via digital certificates and industry standard encryption and time-sensitive session cookies in order to obtain personal information for member transactions. We only support browsers that use Secure Sockets Layer ("SSL") 3.0 (or higher). SSL is intended to help ensure that: 
-
-You are in fact dealing with BECU, instead of a site impersonating us. Your information reaches us through SSL to help protect the contents of the message from eavesdropping, and interception, however, no security is perfect and it is your responsibility to use up-to-date software, security features such as anti-virus, anti-malware, and connect via trusted networks. 
-
-### Honoring Your Preferences
-
-BECU and BECUFS may send (or arrange for others to send) emails regarding surveys, focus-groups, promotions, and products and services offered by BECU or third parties. You are not required to complete online surveys or take advantage of promotions. If you do not want to receive those communications in the future, please contact us. If you enrolled in Online Banking, you agreed to our Electronic Communications Disclosure and therefore we may periodically send other disclosures and important information to you electronically. Such enrollment process did not include an opportunity to opt-out of receiving electronic communications from us; however, you may opt-out of receiving subsequent electronic communications at the time of receipt by selecting "unsubscribe".
-
-### Children's Online Privacy
-
-From our website, we do not knowingly collect or use personal information from children under 13.
-
-### Changes
-
-We reserve the right to change this Statement, and you agree it is your responsibility to check this Statement periodically for any changes.
-
-Copyright © 2012 BECU. All Rights Reserved.
+ Page 2
+ Who we are
+                                                Boeing Employees' Credit Union ("BECU")
+ Who is providing this notice?
+ What we do
+ How does BECU                                 To protect your personal information from unauthorized access
+ protect my personal information?              and use, we use security measures that comply with federal law.
+                                               These measures include computer safeguards and secured ﬁles
+                                               and buildings.
+                                                We authorize our employees and service providers to access your
+                                                information only to the extent necessary for the business purpose.
+ How does BECU                                 We collect your personal information, for example, when you
+ collect my personal information?
+                                                    open an account or make deposits or withdrawals
+                                                    pay your bills or apply for a loan
+                                                   use your credit card or debit card
+                                                We also collect your personal information from others, such as credit
+                                                bureaus, affiliates, or other companies.
+ Why can’t I limit all sharing?                Federal law gives you the right to limit only
+                                                   sharing for afﬁliates’ everyday business purposes—information
+                                                    about your creditworthiness
+                                                   afﬁliates from using your information to market to you
+                                                   sharing for nonafﬁliates to market to you
+                                               State laws and individual companies may give you additional rights to
+                                               limit sharing. See below for more on your rights under state law.
+ Deﬁnitions
+ Afﬁliates                                     Companies related by common ownership or control. They can be
+                                               ﬁnancial and nonﬁnancial companies.
+                                                    BECU has no affiliates.
+ Nonafﬁliates                                  Companies not related by common ownership or control. They can be
+                                               ﬁnancial and nonﬁnancial companies.
+                                                    Non-affiliates we share with can include mortgage companies,
+                                                     insurance companies, direct marketing companies and non-profit
+                                                     organizations.
+ Joint marketing                               A formal agreement between nonafﬁliated ﬁnancial companies that
+                                               together market ﬁnancial products or services to you.
+                                                    Our joint marketing partners include credit card companies and
+                                                     other financial service providers.
+ Other important information
+  State Laws.
+  VT and CA: Accounts with a Vermont or California mailing address are automatically treated as if they have limited the
+  sharing as described on page 1. For joint marketing we will only disclose your name, contact information and
+  information about your transactions. NV: We are providing you this notice pursuant to Nevada law. If you prefer not to
+  receive marketing calls from us, you may be placed on our Do Not Call List by calling 1-800-233-2328.
+BECU 6524
