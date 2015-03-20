@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the mediahint.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702062820id_/https%3A//mediahint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediahint.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320214615id_/https%3A//mediahint.com/privacy) for the most accurate reproduction.*
 
-# Media Hint
+# Privacy Policy « Media Hint Support
 
-MediaHint.com is a provider of proxy server services that are accessible via MediaHint browser extensions (“Our Software”) and are marketed on our website www.MediaHint.com (“Our Site”), together either separately called “Our Services”.
-
-Our Terms of Use and Privacy Policy apply to everybody who visits Our Site (“Visitors of Our Site”) and to everybody who downloads or uses Our Software (“Users of Our Software”), together either separately called “Users of Our Services”.
-
-Our Terms of Use and Privacy Policy apply to all Users of Our Services.
-
-Our Terms of Use (together with any other documents referred to in it) regulate the use of Our Services as well as our liabilities and rights.
-
-Our Privacy Policy (together with any other documents referred to in it) discusses all of the ways Our Site, Our Software and Third Parties gather and use data of Users of Our Software.
+MediaHint.com is a provider of proxy server services that are accessible via MediaHint browser extensions (“Our Software”) and are marketed on our website www.MediaHint.com (“Our Site”), together either separately called “Our Services”.Our Terms of Use and Privacy Policy apply to everybody who visits Our Site (“Visitors of Our Site”) and to everybody who downloads or uses Our Software (“Users of Our Software”), together either separately called “Users of Our Services”.Our Terms of Use and Privacy Policy apply to all Users of Our Services.Our Terms of Use (together with any other documents referred to in it) regulate the use of Our Services as well as our liabilities and rights.Our Privacy Policy (together with any other documents referred to in it) discusses all of the ways Our Site, Our Software and Third Parties gather and use data of Users of Our Software. 
 
 Please read the Terms of Use and Privacy Policy carefully before you start to use Our Services.
 
@@ -18,33 +10,33 @@ By using Our Services you indicate that you accept our Privacy Policy and Terms 
 
 If you have any questions regarding our Terms of Use or Privacy Policy, you can contact us by email ([contact@mediahint.com](mailto:contact@mediahint.com)).
 
-This privacy policy discusses all of the ways Our Site, Our Software and Third Parties gather and use data of Our Site visitors and Our Software users.
+This privacy policy discusses all of the ways Our Site, Our Software and Third Parties gather and use data of Our Site visitors and Our Software users. 
 
-## 1    DATA WE DON’T COLLECT:
+### 1    DATA WE DON’T COLLECT:
 
 We DO NOT monitor, collect or store any information about the websites you visit or information you provide in any of these websites while using Our Services.
 
-## 2    DATA WE COLLECT:
+### 2    DATA WE COLLECT:
 
-We collect data only about your behaviour on Our Site and information you submit to us yourself. All the data collected is used only to improve quality of Our Services. Permissions granted to and data collected by Our Software, Our Site and by Third Parties are discussed into detail in following sections:
+We collect data only about your behavior on Our Site and information you submit to us yourself. All the data collected is used only to improve quality of Our Services. Permissions granted to and data collected by Our Software, Our Site and by Third Parties are discussed into detail in following sections:
 
-### 2.1    USE OF OUR SOFTWARE
+#### 2.1    USE OF OUR SOFTWARE
 
 Our Software has an access only to proxy server settings in the browsers of Users of Our Software. This is access is essential and is granted only for the purpose of delivering Our Services. Our Software doesn’t have any additional access and it doesn’t collect any data about Users of Our Software.
 
 Other information may be gathered by Third Parties (Google Inc. and Mozilla Corporation) that we are using to deliver Our Software in a form Google Chrome extension or Mozilla Firefox add-on. Information gathered by these Third Parties may vary depending on their privacy policies.
 
-### 2.2    USE OF OUR SITE
+#### 2.2    USE OF OUR SITE
 
 Our Site uses Google Analytics to help analyze how users use the site. We use this tool only to better meet your needs and improve Our Services based on behavior of Users of Our Services.
 
-The tool uses "cookies," which are text files placed on your computer, to collect standard Internet log information and visitor behavior information in an anonymous form. The anonymous information generated by the cookie about your use of Our Site (including IP address) is transmitted to Google. This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity only for the use of Mediahint.com. We will not (and will not allow any Third Party) to use the statistical analytics tool to track or to collect any personally identifiable information of visitors to Our Site. We will not associate any data gathered from Our Site with any personally identifying information from any source as part of our use of the Google statistical analysis tool. Google will not associate your IP address with any other data held by Google. Neither MediaHint.com nor Google will link, or seek to link, an IP address with the identity of a computer user.
+The tool uses “cookies,” which are text files placed on your computer, to collect standard Internet log information and visitor behavior information in an anonymous form. The anonymous information generated by the cookie about your use of Our Site (including IP address) is transmitted to Google. This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity only for the use of Mediahint.com. We will not (and will not allow any Third Party) to use the statistical analytics tool to track or to collect any personally identifiable information of visitors to Our Site. We will not associate any data gathered from Our Site with any personally identifying information from any source as part of our use of the Google statistical analysis tool. Google will not associate your IP address with any other data held by Google. Neither MediaHint.com nor Google will link, or seek to link, an IP address with the identity of a computer user.
 
 More information about Google Analytics regarding privacy and cookies may be found at <http://www.google.com/analytics/tos.html> and <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies>.
 
-### 2.3    SUBMISSION OF PERSONAL INFORMATION
+#### 2.3    SUBMISSION OF PERSONAL INFORMATION
 
-Our Feedback Forum is operated by UserVoice, Inc., a Third Party service provider. In order to leave a comment on Our Site you must login to UserVoice or provide your email address. Any information provided by Our Site visitors who use the Feedback Forum is collected by UserVoice.com. That information is shared with MediaHint.com and you hereby consent to UserVoice sharing that information with MediaHint.com. All information collected by UserVoice is governed by UserVoice's Terms of Service and Privacy Policy, which can be found at <https://uservoice.com/tos> and <https://uservoice.com/privacy>. MediaHint.com has no control over and cannot be responsible for UserVoice. If you wish to change or remove your personal information at UserVoice, they may be reached at <http://www.uservoice.com/>.
+Feedback and support submissions are operated by Intercom, Inc., a Third Party service provider. Any information provided by Our Site visitors who use the contact support form is collected by Intercom, Inc. That information is shared with MediaHint.com and you hereby consent to Intercom, Inc. sharing that information with MediaHint.com. All information collected by Intercom, Inc. is governed by Intercom’s Terms of Service and Privacy Policy, which can be found at <http://docs.intercom.io/privacy>.
 
 * * *
 
