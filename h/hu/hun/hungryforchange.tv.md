@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hungryforchange.tv privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705143241id_/http%3A//www.hungryforchange.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryforchange.tv privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320143415id_/http%3A//www.hungryforchange.tv/privacy) for the most accurate reproduction.*
 
-# Privacy | FOODMATTERS®
+# Privacy | HUNGRY FOR CHANGE
 
 **Privacy Policy**
 
