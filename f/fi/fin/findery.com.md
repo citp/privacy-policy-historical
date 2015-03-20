@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findery.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023001608id_/https%3A//findery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findery.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320050756id_/https%3A//findery.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy • Findery
 
