@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostessblog.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131535id_/http%3A//www.hwtm.com/index.cfm%3Fpage%3Dabout/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostessblog.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320175928id_/http%3A//www.hwtm.com/index.cfm%3Fpage%3Dabout/privacypolicy) for the most accurate reproduction.*
 
 # Hostess with the Mostess® - Inspiration for Life's Celebrations
 
@@ -6,7 +6,7 @@
 
 **Updated July 7, 2011**
 
-**Our Privacy Policy governs information that is collected through the HWTM.com Website and the Hostessblog.com Website ("Site"), through our company, HWTM, LLC ("Company," "Hostess With The Mostess," "HWTM, "we" or "us"), through the use of the Site, software, and other services offered on or through the Site (collectively, the "Services"). This Privacy Policy is incorporated by reference into the[Terms and Conditions of Use](https://web.archive.org/web/20140626131535id_/http%3A//www.hwtm.com/index.cfm%3Fpage%3Dabout/index.cfm?page=about/termsandconditions).**
+**Our Privacy Policy governs information that is collected through the HWTM.com Website and the Hostessblog.com Website ("Site"), through our company, HWTM, LLC ("Company," "Hostess With The Mostess," "HWTM, "we" or "us"), through the use of the Site, software, and other services offered on or through the Site (collectively, the "Services"). This Privacy Policy is incorporated by reference into the[Terms and Conditions of Use](https://web.archive.org/web/20150320175928id_/http%3A//www.hwtm.com/index.cfm%3Fpage%3Dabout/index.cfm?page=about/termsandconditions).**
 
 Please read the Privacy Policy carefully. This explains what Personal Information we will gather from you, and when and how this information is used. **Our Terms of Use explains the legal obligations of HWTM, LLC and you, the user, and also outlines what you can and cannot do while accessing the Site and Services.**
 
