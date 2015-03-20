@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325194116id_/http%3A//www.gowildcasino.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320020822id_/https%3A//www.gowildcasino.com/privacy-policy) for the most accurate reproduction.*
 
-# Secure Casino Games | Top Secure Gambling Websites Online | Go Wild
+# GoWild Casino Privacy Policy
 
 This website (the "Site") is operated by and information collected from this Site is collected by GoWild Malta Ltd, a company incorporated and based in Malta (company registration no. C43606) ("GoWild", "us" or "we").
 
@@ -76,8 +76,3 @@ Please remember that protection of your privacy begins with you. You are solely 
 Corrections, Updates and Removal of Information If you are concerned with the accuracy of the personal information provided by you and maintained by GoWild or would like your personal information removed from GoWild records, you may use the tools made available on the Site to update or remove such information.
 
 GoWild reserves the right to charge a reasonable fee for supplying copies of such information. If you choose to delete your personal information, you may not be able to access some areas of the Site and/or Services to which you have subscribed. We will not provide a refund for any prepaid Service which is inaccessible to you because of the deletion of your personal information. We may, however, still retain your personal information in our files to resolve disputes, to enforce our user agreement, and to comply with any and all technical and legal requirements and constraints related to the security, integrity and operation of the Site.
-
-  
-
-
-## E-mail Contacts
