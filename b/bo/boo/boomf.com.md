@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomf.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004143059id_/https%3A//boomf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomf.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320053113id_/https%3A//boomf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Boomf
 
@@ -29,9 +29,9 @@ To fulfil your order with Boomf
 To communicate with you about Boomf and other Boomf products  
 To provide you with order and billing information
 
-### PayPal
+### Payment
 
-Payment for Boomf products is made via PayPal, which may ask you to provide further information (including credit or debit card details). This information is retained by PayPal and will not be passed on to us. We advise you to read the Terms and Condition and Privacy Policy on the PayPal site for further information on what information will be required and the way PayPal will use it.
+Payment for Boomf products is made via PayPal Pro and Spreedly. We do not store credit card details nor do we share customer details with any 3rd parties
 
 ### Use of your information
 
