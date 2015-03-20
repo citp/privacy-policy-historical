@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turtlerockstudios.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710122839id_/https%3A//www.turtlerockstudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlerockstudios.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321003959id_/https%3A//www.turtlerockstudios.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Turtle Rock Studios
 
@@ -10,13 +10,13 @@ Turtle Rock Studios, Inc. (“ ** _TRS,_** ” “ ** _we,_** ” “ ** _us_** 
 
 This policy answers the following questions:
 
-\-   What information do we collect about you and how do we use it?
+–   What information do we collect about you and how do we use it?
 
 \-   Will we share your personal information with third parties?
 
-\-   What choices do you have about the collection and use of your personal information?
+–   What choices do you have about the collection and use of your personal information?
 
-\-   What security measures do we take to safeguard your personal information?
+–   What security measures do we take to safeguard your personal information?
 
 ### **What Information Do We Collect About You and How Do We Use It?**
 
