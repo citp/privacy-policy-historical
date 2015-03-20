@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handshake.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710172554id_/https%3A//www.handshake.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handshake.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320032534id_/https%3A//www.handshake.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Terms of Service | Security | EULA | Handshake
 
