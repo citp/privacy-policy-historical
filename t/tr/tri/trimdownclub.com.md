@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trimdownclub.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630021113id_/http%3A//www.trimdownclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimdownclub.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320165437id_/http%3A//www.trimdownclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trim Down Club
 
-Last modified as of August 19, 2013
+Last modified as of August 04, 2014
 
 B2C Media Solutions Ltd. trading as Trim Down Club  and its affiliates (individually and collectively, “B2C”) operate the website located at [_http://www.TrimDownClub.com_](http://www.trimdownclub.com/) and/or at other websites on the Internet, now or that may be located on the Internet hereafter (individually and collectively the “Website”), on which B2C offers a subscription to its Program and Products (as such terms are defined in B2C’s [Terms & Conditions](http://www.trimdownclub.com/terms-condition)).  
 As a routine part of transacting business on the Website, B2C may receive personally identifiable information from you such as, without any limitation, your name, address, email address, telephone number, email address, birth date, sex, weight and height, as well as information secured by B2C’s service providers such as your credit card number, telephone number and address (individually and collectively the “Personal Information”).  
@@ -84,5 +84,5 @@ You will have the opportunity to sign up for e-mails about the Products, sales a
 **Special Note Regarding Children  
 ****CHILDREN UNDER THE AGE OF 13 ARE NOT PERMITTED TO USE THE WEBSITE**. Children between the ages of 13 and 18 may use the Website only with the permission and active involvement of a parent or legal guardian. If you believe that a child has submitted Personal Information on or through the Website without the consent and supervision of a parent or guardian, please contact B2C. Please see the Terms of Use for additional information regarding this and other requirements regarding age eligibility.
 
-**Contacting B2C** : If you have any questions concerning the Privacy Policy, you may contact B2C at: B2C MEDIA SOLUTIONS Ltd. at POB 105 Kibutz Alonim, 36577 Israel or 548 Market St #79661 San Francisco, CA, 94104-5401, United States; via phone at 1-877-280-1463; or via email at info@ b2cmsl.com.  
+**Contacting B2C** : If you have any questions concerning the Privacy Policy, you may contact B2C at: B2C MEDIA SOLUTIONS Ltd. at POB 326 Yoqneam, 2069205 Israel or 548 Market St #79661 San Francisco, CA, 94104-5401, United States; via phone at 1-877-280-1463; or via email at info@ b2cmsl.com.  
 B2C strives to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or B2C’s practices, please feel free to contact B2C using one of the methods listed above.
