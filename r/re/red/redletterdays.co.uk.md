@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813124422id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320160407id_/https%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
 
 # Red Letter Days - Gift Experience Vouchers - Birthday presents and unique gift ideas
 
@@ -16,7 +16,9 @@ We also ask for your telephone number, which enables us to contact you urgently 
 
 To book a date for your experience, we need you know your name, address, email address, answers to any questions required by our experience partners, and a telephone number (preferably mobile) so that we can contact you if there are any last-minute changes to your experience. We will also email you answers to any online booking questions submitted and responses to booking date requests. If you provide us with a mobile phone number, we will send you an SMS reminder the day before you are due to take part in your experience.
 
-If you have a web account, you can also access a copy of the booking confirmation letter to print and bring with you on the day. When you create an account, or login at any time after this, you are able to choose whether you wish to receive occasional emails from us about offers, promotions and our latest gift ideas. 
+If you have a web account, you can also access a copy of the booking confirmation letter to print and bring with you on the day. When you create an account, or login at any time after this, you are able to choose whether you wish to receive occasional emails from us about offers, promotions and our latest gift ideas.
+
+We send out newsletters only to those that have opted in for this service. Customers are able to opt out at any time – details of how to opt out appear on every newsletter and can usually be found at both the top and bottom of the newsletter.  Users will be able to able to opt out either through a dedicated unsubscribe link or through the dedicated preferences area.
 
 ###  How does Red Letter Days protect customer information? 
 
@@ -119,8 +121,6 @@ Partners that may drop a cookie on redletterdays.co.uk include:
 
 Partner Name | Cookie Use  
 ---|---  
-MyThings Media | MyThings Media use cookies to deliver personalised adverts when visiting other websites based on your visit to our site.  
-Adobe SiteCatalyst | SiteCatalyst is used to improve your online shopping experience. Information gathered is not confidential or interchangeable. No personal details are stored.  
 DC Storm, Affiliate Window, Affilinet, Google, MSN/Yahoo Search Alliance, Fan Distribution | Sometimes we advertise on third party websites. DC Storm cookies are used to enable us to track which advertisements you click on and interact with. Each advertiser uses its own tracking cookies; information gathered is not confidential or interchangeable.  
   
 ### Social Networking sites
@@ -189,16 +189,8 @@ For more information about cookies and how to manage them, please visit [aboutco
   
 
 
-## Advertising on other websites (MyThings Media)
-
-Red Letter Days work with MyThings Media to offer you a selection of products that may be of interest to you based on your visit to our site. MyThings Media is the appointed agency for Red Letter Days and work with third party sites to advertise Red Letter Days products. Adverts will contain a variety of products from various sections of our site, based on the browsing history on your computer. Cookies are used to enable MyThings Media to do this.
-
 ### Your Privacy
 
-Please remember that the information stored in cookies is completely anonymous and does not contain any personal information. You can find out more information on how MyThings Media works [here](http://www.mythings.com/English/General/OptOut).
-
-### Disabling Adverts
-
-If you decide that you no longer wish to receive adverts relevant to you, you can opt out permanently [here](http://www.mythings.com/English/General/OptOut).
+Please remember that the information stored in cookies is completely anonymous and does not contain any personal information.
 
 To find out more about cookies and how to opt out of certain ones, please visit Your Online Choices [here](http://www.youronlinechoices.com/uk/your-ad-choices).
