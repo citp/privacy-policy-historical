@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referralsaasquatch.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916160010id_/http%3A//www.referralsaasquatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralsaasquatch.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320170229id_/http%3A//www.referralsaasquatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Referral SaaSquatch Privacy Policy
 
