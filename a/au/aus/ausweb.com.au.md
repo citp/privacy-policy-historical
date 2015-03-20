@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530133715id_/https%3A//online.ausweb.com.au/clients/knowledgebase/12/AUSWEB-Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320012450id_/https%3A//my.ausweb.com.au/knowledgebase/12/AUSWEB-Privacy-Statement.html) for the most accurate reproduction.*
 
 # AUSWEB Privacy Statement - Knowledgebase - AUSWEB Web Hosting
 
-[Portal Home](http://online.ausweb.com.au/clients/index.php) > [Knowledgebase](http://online.ausweb.com.au/clients/knowledgebase.php) > [Legals](http://online.ausweb.com.au/clients/knowledgebase/3/Legals) > [AUSWEB Privacy Statement](http://online.ausweb.com.au/clients/knowledgebase/12/AUSWEB-Privacy-Statement.html)
+[Portal Home](https://my.ausweb.com.au/index.php) > [Knowledgebase](https://my.ausweb.com.au/knowledgebase.php) > [Legals](https://my.ausweb.com.au/knowledgebase/3/Legals) > [AUSWEB Privacy Statement](https://my.ausweb.com.au/knowledgebase/12/AUSWEB-Privacy-Statement.html)
 
   
   
@@ -47,7 +47,7 @@
 > 
 > 7\. AusWeb will cooperate with law enforcement personnel and legal investigations of our users. All customer information, however, will be private unless ordered by a court to surrender this information.
 
-[Add to Favourites](http://online.ausweb.com.au/clients/#)    [Print this Article](http://online.ausweb.com.au/clients/#)
+[Add to Favourites](https://my.ausweb.com.au/#)    [Print this Article](https://my.ausweb.com.au/#)
 
 Also Read
 
