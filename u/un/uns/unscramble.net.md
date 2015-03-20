@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unscramble.net privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915010102id_/http%3A//www.unscramble.net/legal-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unscramble.net privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320231646id_/https%3A//www.unscramble.net/legal-privacy.html) for the most accurate reproduction.*
 
-# Word Unscrambler - Anagram Solver
+# Unscramble Words and Letters
 
 **Privacy Statement**
 
