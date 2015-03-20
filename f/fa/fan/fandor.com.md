@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010144309id_/http%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321005132id_/https%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fandor
 
@@ -20,7 +20,7 @@ Active Collection. We collect certain information you voluntarily provide to us,
 
 Passive Collection. When you use the Service, some information may also be automatically collected, such as your Internet Protocol (IP) address, your operating system, browser type, the address of a referring Web site, and your activity on the Service. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
-We may also automatically collect certain information through the use of "cookies" or web beacons. Cookies are small data files stored on your hard drive at the request of a Web site. Web beacons are small, invisible graphic images that may be used on the site or in emails relating to the Service to collect certain information and monitor user activity. We use these tools to help us improve the Service and your experience. If we link cookies or beacon data to any personally identifying information, we will treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, choosing to remove or reject cookies could affect or disable certain features of the Service. 
+We may also automatically collect certain information through the use of "cookies" or web beacons. Cookies are small data files stored on your hard drive at the request of a Web site. Web beacons are small, invisible graphic images that may be used on the site or in emails relating to the Service to collect certain information and monitor user activity. We use these tools to help us improve the Service and your experience. If we link cookies or beacon data to any personally identifying information, we will treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, choosing to remove or reject cookies could affect or disable certain features of the Service.
 
 Fandor uses anonymized internet-based audience data from Google's DoubleClick cookie to gauge the demographics of visitors in order to improve recommendations and features. Google users may opt-out of this program by updating the ad settings for their account. Fandor does not store personally-identifiable information in this way, nor does it provide this data to any third party.
 
@@ -50,7 +50,7 @@ Where we use third parties for the processing of any personal information, we im
 
 You understand that when you use the Service, information you post in your profile, film reviews, and other interactive areas of the Service, as well as any information you share or permit us to share through the Service or via third-party services like Facebook or Twitter, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out sensitive personal information to others or sharing personal information in public online forums.
 
-We are not responsible for the actions of third parties, nor are we responsible for any additional information you provide directly or indirectly to any third parties. We encourage you to become familiar with their privacy practices before disclosing personal information to any such parties. 
+We are not responsible for the actions of third parties, nor are we responsible for any additional information you provide directly or indirectly to any third parties. We encourage you to become familiar with their privacy practices before disclosing personal information to any such parties.
 
 ## Links To Other Web sites
 
@@ -60,9 +60,13 @@ The Site may contain links to other Web sites. Any personal information you prov
 
 We take reasonable measures to protect your personal information in an effort to prevent loss, misuse, unauthorized access, disclosure, alteration, and destruction. Please be aware that, despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against interception or other misuse. To protect the confidentiality of personal information, you must keep your login information confidential and not disclose it to any other person. You are responsible for all uses of the Service by any person using your login information. Please advise us immediately if you believe your password has been misused.
 
+## How Is My Email Address Used for Marketing Communications?
+
+After you create an account with Fandor or agree to subscribe to our email marketing communications, you will receive information we believe that will be of use and interest to you, such as offers, promotions, product updates and notices about Fandor services. You may opt out of receiving these marketing email communications at any time.
+
 ## What Choices Do You Have Regarding The Use Of Your Information?
 
-You may opt out of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by emailing us at [marketing@fandor.com](mailto:marketing@fandor.com "Contact the marketing department at Fandor"). If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
+You may opt out of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by emailing us at marketing@fandor.com. Finally, you may manage your email preferences by going to the Edit Email Preferences page in your Account section. If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
 
 ## Questions?
 
