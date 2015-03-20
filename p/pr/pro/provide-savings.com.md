@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the provide-savings.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705011024id_/https%3A//provide-savings.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provide-savings.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320024346id_/https%3A//provide-savings.com/content/privacy) for the most accurate reproduction.*
 
 # Fast, Free Auto Insurance Quotes
 
@@ -10,7 +10,7 @@ Effective date January 20, 2014
 
 ### Introduction
 
-AdHarmonics, Inc. (herein referred to as "we", "us" or "our") considers your privacy a very important issue. We design and operate our services with the protection of your privacy as a primary concern. 
+AdHarmonics (herein referred to as "we", "us" or "our") considers your privacy a very important issue. We design and operate our services with the protection of your privacy as a primary concern. 
 
 This privacy policy (the "Policy") applies to our website, provide-savings.com (the "Site") and outlines the types of information we collect via the Site, how we use that information, and the efforts we make to safeguard it. By providing any information through the Site, you agree to the use of that information consistent with this Policy. 
 
