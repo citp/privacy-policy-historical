@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoxnation.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008114158id_/http%3A//nation.foxnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoxnation.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320072134id_/http%3A//nation.foxnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fox Nation
 
