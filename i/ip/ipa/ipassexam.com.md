@@ -1,12 +1,22 @@
-> *The following text is extracted and transformed from the ipassexam.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629153929id_/http%3A//www.ipassexam.com/legal%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipassexam.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320084857id_/https%3A//www.ipassexam.com/legal%23privacy-policy) for the most accurate reproduction.*
 
-# Terms and Conditions
+# The iPassExam Terms and Conditions
 
 This iPassExam website is owned by iTutor Ltd.
 
 ## Use of Our Website
 
 Please read the following Terms and Conditions, which relate to information regarding general use of our websites and the terms and conditions relating to purchases of subscriptions. By using our websites, you are agreeing to these Terms and Conditions whether as a registered user or subscriber. By using our site you are indicating you accept these terms of use and that you agree to abide by them. From time to time we may change these Terms and Conditions, and will post revisions on this website. We recommend that you read these Terms and Conditions prior to using our sites and thereafter regularly review any changes and you are responsible for doing so.
+
+## Account Sharing
+
+You may not share the Account or the login information with anyone other than as expressly set forth herein. You are responsible for maintaining the confidentiality of your login information, and, provided that you act negligently or wilfully, you will be responsible for all uses of the login information, including purchases, whether or not authorized by you. In the event you become aware of or reasonably suspect any breach of security, including without limitation any loss, theft, or unauthorized disclosure of the Login Information, you must immediately notify iTutor through our web [contact form](https://web.archive.org/contact)
+
+If someone used your account to sign-in on a separate machine/browser your authentication session will be terminated (forced logout), and you will be presented with a message informing you of the reason. Should this happen to you we recommend immediately changing your password. Should an account show an unusual count of forced logouts we reserve the write to lock the account.
+
+Excessive usage: For the smooth operation of the system and integrity of the performance of the website, the system is designed to restrict the consecutive resets allowed on any resource (100). If you hit the maximum limit of resource resets the reset functionality will be removed for that resource.
+
+Multi user accounts: While we do not support multi user accounts we do provide licences for organisations with a need to give access to multiple employees. For further details please refer to our institutional packages [https://www.ipassexam.com/catalogue#institutional-packages](https://web.archive.org/catalogue#institutional-packages).
 
 ## Privacy
 
@@ -52,7 +62,7 @@ Any material you upload will be considered non-confidential and non-proprietary 
 
 ## Permission for use of our intellectual property
 
-Any request for permission to use our content or images, or other use of our intellectual property not authorised under a subscription, should be made by [emailing us](http://www.ipassexam.com/contact).
+Any request for permission to use our content or images, or other use of our intellectual property not authorised under a subscription, should be made by [emailing us](https://web.archive.org/contact).
 
 ## Links
 
@@ -118,11 +128,15 @@ There are various sections of the website, for which we collect different inform
 
 ### Use of Cookies
 
+Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies are used to track visitor activities while at our site.
+
 #### Cookie law
 
 On the 26th of May 2012 it became [European Union (EU) law](http://ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies) to inform you, as a user of this website, how we use cookies on this website.
 
 #### How this website uses cookies
+
+iTutor uses Cookies to determine the number of unique and returning visitors to our website. We do not store any personal information into cookies. Log data collected on web servers, both within our control and under the control of third party service providers, is used to identify IP addresses to analyze trends, administer the site, track visitor movement to, through and from the site, and gather broad demographic information for aggregate use.
 
 We use Google Analytics to evaluate and improve this website and services. If you have any concerns about such third-party data collection or simply want to be kept up-to-date about analytics cookies, you can [learn how Google safeguards data collection](http://www.google.com/analytics/learn/privacy.html).
 
@@ -199,7 +213,7 @@ The information we collect about people visiting the site is stored in secure en
 
 ## 5\. Contact us
 
-Please contact us if any of the data we hold about you becomes inaccurate and if you have any queries or concerns about the data we are holding about you. Also, we welcome your feedback about what you like or don't like about our sites. Your feedback is stored on a secure internal system that allows the appropriate person to respond to you. Please contact us through our [Contact us section](http://www.ipassexam.com/contact).
+Please contact us if any of the data we hold about you becomes inaccurate and if you have any queries or concerns about the data we are holding about you. Also, we welcome your feedback about what you like or don't like about our sites. Your feedback is stored on a secure internal system that allows the appropriate person to respond to you. Please contact us through our [Contact us section](https://web.archive.org/contact).
 
 ## 6\. Linking to external sites
 
@@ -211,7 +225,7 @@ By submitting your information, you consent to the use of that information as se
 
 Thank you for reviewing this information.
 
-If you have any questions, please send us an e-mail through our [Contact us section](http://www.ipassexam.com/contact).
+If you have any questions, please send us an e-mail through our[Contact us section](https://web.archive.org/contact).
 
 ### Last updated May 2010.
 
