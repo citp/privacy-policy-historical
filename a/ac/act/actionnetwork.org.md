@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328190218id_/https%3A//actionnetwork.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320225229id_/https%3A//actionnetwork.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - The Action Network
+# Privacy Policy - Action Network
 
 ## Privacy Policy
 
@@ -20,7 +20,7 @@ If you visit the site:
 In addition, if you take action on the site:
 
   * We may make public information like your name, city, state, and comments as part of your signing of a petition, RSVPing for an event, or the like
-  * We will share your personal information with the creators, sponsors, and referrers of the actions you take, assuming you do not opt out of sharing that information when you take action
+  * We will share your personal information with the creators, sponsors, and referrers of the actions you take
   * We will email you "transactional" email related to actions you take on the site (ex: sending a thank you email after you sign a petition), from which you can unsubscribe at any time
   * We will not send you mass email updates
   * We will allow the creators, sponsors, and referrers of the actions you take to send you mass email using our system, from which you can unsubscribe at any time
@@ -51,7 +51,7 @@ Personal Information does not include "aggregate" information, which is data col
 
 ##### Information Collected by the Site
 
-You may voluntarily provide Personal Information to Corporate Action Network when you:
+You may voluntarily provide Personal Information to Action Network when you:
 
   * Create an account/profile
   * Enter your username/password
@@ -149,7 +149,7 @@ We may provide Personal Information to third-party service providers to:
 
 
 
-Note that if the Action Network discloses personal information (including a user's name, address or email) to a third party for direct marketing purposes, under California law Corporate Action Network must allow California users to request certain information about the disclosure. The California statute excludes from the definition of direct marketing the use of personal information (a) by bona fide tax exempt charitable or religious organizations to solicit charitable contributions, or (b) to raise funds from and communicate with individuals regarding politics and government. Our understanding is that the Action Network does not intend to disclose users' personal information to third parties for direct marketing purposes as defined in the statute.
+Note that if the Action Network discloses personal information (including a user's name, address or email) to a third party for direct marketing purposes, under California law Action Network must allow California users to request certain information about the disclosure. The California statute excludes from the definition of direct marketing the use of personal information (a) by bona fide tax exempt charitable or religious organizations to solicit charitable contributions, or (b) to raise funds from and communicate with individuals regarding politics and government. Our understanding is that the Action Network does not intend to disclose users' personal information to third parties for direct marketing purposes as defined in the statute.
 
 ##### Cookies
 
@@ -196,7 +196,7 @@ To change any Personal Information that you provided as part of your account/pro
 
 ##### Visitors from Outside the United States
 
-The Site’s offices and data processing equipment are located in the United States. If you visit the Site from another country, please be aware that information you provide to us or that we obtain through your use of the Site may be transferred to and processed in the United States and will be subject to United States law. United States privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with information, you consent to the collection, transfer, storage, and processing of information to and in the United States, and acknowledge that Corporate Action Network is not bound by the privacy and data protection laws of any other country.
+The Site’s offices and data processing equipment are located in the United States. If you visit the Site from another country, please be aware that information you provide to us or that we obtain through your use of the Site may be transferred to and processed in the United States and will be subject to United States law. United States privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with information, you consent to the collection, transfer, storage, and processing of information to and in the United States, and acknowledge that Action Network is not bound by the privacy and data protection laws of any other country.
 
 ##### Children Under Age 13
 
@@ -208,4 +208,4 @@ The Action Network may update the Policy at any time to reflect changes in our p
 
 ##### Questions
 
-If you have any questions about the Policy, please contact [contact@corporateactionnetwork.org](mailto:contact@corporateactionnetwork.org).
+If you have any questions about the Policy, please contact [info@actionnetwork.org](mailto:info@actionnetwork.org).
