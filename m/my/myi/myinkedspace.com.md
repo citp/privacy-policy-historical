@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the myinkedspace.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927111006id_/http%3A//www.myinkedspace.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinkedspace.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320085057id_/http%3A//myinkedspace.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | MyInkedSpace
-
-**Privacy Policy**
+# Privacy Policy | Zocialized
 
 Updated on March 26th, 2012.
 
-This Privacy Policy describes the information collected by MyInkedSpace, operated by MyInkedSpace LLC., (we, us or MyInkedSpace), how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. 
+This Privacy Policy describes the information collected by Zocialized, operated by MyInkedSpace LLC., (we, us or MyInkedSpace), how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. 
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
 
@@ -44,7 +42,7 @@ In General. We may use information that we collect about you to:
 
 ### With whom we share your information
 
-When you buy Points or subscribe to VIP you share your personal information with the payment provider and are subject to their terms and conditions and privacy policy. 
+When you buy Bling Bucks or subscribe to VIP you share your personal information with the payment provider and are subject to their terms and conditions and privacy policy. 
 
 Aggregated and non-personal information. We may share non-personal information we collect under any of the above circumstances. 
 
@@ -66,13 +64,13 @@ We take appropriate security measures (including physical, electronic and proced
 
 ### Children's privacy
 
-We restrict the use of our service to individuals age 18 and above. We do not knowingly collect personal information from children under the age of 13. 
+Although our website is a general audience site, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect personal information from children under the age of 13. 
 
-### How Does MyInkedSpace Protect Children's Privacy?
+### How Does Zocialized Protect Children's Privacy?
 
 The safety and privacy of children is extremely important to us.
 
-MyInkedSpace does not permit persons under the age of 18 from becoming a member. If we receive information suggesting that a user who has registered with MyInkedSpace is under the age of 18, we require the user to provide evidence confirming that the user is at least 18 years old. The users account is immediately suspended while waiting for such information. If the user fails to provide such information within 48 hours, we immediately terminate the user's account and nullify all personally identifiable information displaying on the site. 
+Zocialized is a general audience web site that complies with the Children's Online Privacy Protection Act (COPPA). Our registration process is designed to restrict children under the age of 13 from becoming members of Zocialized and using our site. If we receive information suggesting that a user who has registered with Zocialized is under the age of 18, we require the user to provide evidence confirming that the user is at least 18 years old. If the user fails to provide such information within 48 hours, we immediately terminate the user's account and nullify all personally identifiable information displaying on the site. 
 
 ### Visiting our websites from outside the United States
 
@@ -96,4 +94,4 @@ Cookies: A cookie is a small text file that is stored on a user's computer for r
 
 For example, when you sign in to our website, we will record your user or member ID and the name associated with your user or member ID in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising. 
 
-We may allow third-parties, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you to provide advertisements about goods and services likely to be of greater interest to you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice (www.networkadvertising.org). This policy covers the use of cookies by MyInkedSpace only and does not cover the use of cookies by any advertisers. 
+We may allow third-parties, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you to provide advertisements about goods and services likely to be of greater interest to you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice (www.networkadvertising.org). This policy covers the use of cookies by Zocialized only and does not cover the use of cookies by any advertisers. 
