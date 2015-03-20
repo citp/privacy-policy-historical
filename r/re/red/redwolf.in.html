@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the redwolf.in privacy policy that was archived on 2014-07-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703185110id_/http%3A//www.redwolf.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redwolf.in privacy policy that was archived on 2015-03-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150320084726id_/https%3A//www.redwolf.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy</title>
-<base href="http://www.redwolf.in/">
+<base href="https://www.redwolf.in/">
 <meta property="fb:app_id" content="202626393154400">
 <meta property="fb:admins" content="564777065">
 
-<link href="http://www.redwolf.in/image/data/Icon.png" rel="icon">
-<link href="http://fonts.googleapis.com/css?family=Cabin:400,600,700" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:800" rel="stylesheet" type="text/css">
+<link href="https://www.redwolf.in/image/data/Icon.png" rel="icon">
+<link href="https://fonts.googleapis.com/css?family=Cabin:400,600,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:800" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/CartMania-Clean/stylesheet/stylesheet.css">
-<script src="//cdn.viralmint.com/js/viralmint-min.js" id="viralmint-js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
+<script src="//cdn.viralmint.com/js/viralmint-min.js" id="viralmint-js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/CartMania-Clean/stylesheet/jquery-ui-1.8.9.custom.css">
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
@@ -34,8 +34,6 @@
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/CartMania-Clean/stylesheet/tabs.css" media="screen">
 <script type="text/javascript" src="catalog/view/theme/CartMania-Clean/js/jquery.tweet.js"></script>
 <link rel="stylesheet" href="catalog/view/theme/CartMania-Clean/js/jquery.tweet.css" type="text/css" media="screen">
-<script type="text/javascript">var switchTo5x=false;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 
          <script type="text/javascript">
 var isIE8 = false;
@@ -50,7 +48,7 @@ var isIE8 = false;
 <script type="text/javascript" src="catalog/view/theme/CartMania-Clean/js/jquery.bxSlider.min.js"></script>
 <!--share this> -->
 <script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "7d7b2933-c1b6-48ef-a02f-6a2b25c748c9", onHover: false}); </script> 
 
 <!--[if IE 7]>
@@ -106,10 +104,27 @@ a:hover {
 }
 </style>
 
-
 </head>
 <body>
-				
+			
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '202626393154400',
+      xfbml      : true,
+      version    : 'v2.2'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
 <!-- ViralMint JS -->
 <script type="text/javascript">
 	window.vrlmnt = (function(d, s, id) {
@@ -150,7 +165,7 @@ a:hover {
   <div class="invisible"></div>
   <div class="heading">
     <h4>Shopping Cart</h4>
-    <a><span id="cart-total">0 item(s) - Rs. 0</span></a></div>
+    <a><span id="cart-total">0 item(s) - Rs. 0.00</span></a></div>
   <div class="content">
         <div class="empty">Your shopping cart is empty!</div>
       </div>
@@ -161,7 +176,7 @@ a:hover {
 				</a>
 			</div-->
 			<div class="center-content">	
-				<a href="http://www.redwolf.in/index.php?route=checkout/cart">
+				<a href="https://www.redwolf.in/index.php?route=checkout/cart">
 					<img src="catalog/view/theme/CartMania-Clean/image/topbaricons/checkout.png">
 					<div class="text">Review Shopping Cart &amp; Checkout</div>
 				</a>
@@ -171,17 +186,13 @@ a:hover {
 						<div class="bb-right">
 			<ul>
 									<li id="fblogin">
-						<a href="fbconnect/"><img id="fb-logo" src="catalog/view/theme/CartMania-Clean/image/topbaricons/facebook.png">
+						<a onclick="fbLoginPopup();"><img id="fb-logo" src="catalog/view/theme/CartMania-Clean/image/topbaricons/facebook.png">
 						<div class="text">Login</div></a>
 					</li>
-								<li>
+				<img style="float:left; margin:0 0px 0 8px;" src="catalog/view/theme/CartMania-Clean/image/topbaricons/whitedivider.png">
+								<li class="padded" style="width:125px;">
 					<div class="text-left">
-						Welcome&nbsp;&nbsp;
-					</div>
-				</li>
-				<li class="padded">
-					<div class="text-left">
-													<a href="http://www.redwolf.in/index.php?route=account/account"><u>Guest</u></a>
+													<a href="https://www.redwolf.in/index.php?route=account/account">Login&nbsp;&nbsp;&nbsp;via&nbsp;&nbsp;email</a>
 											</div>
 				</li>
 			</ul>
@@ -195,7 +206,7 @@ a:hover {
 					<img src="catalog/view/theme/CartMania-Clean/image/topbaricons/tel.png">
 				</li>
 				<li>
-					<div class="text">+91-22-32183087</div>
+					<div class="text">+91-9892729300&nbsp;&nbsp;(11am - 6pm)</div>
 				</li>
 			</ul>
 		</div>
@@ -208,13 +219,13 @@ a:hover {
   <div class="div222">
     </div>
   
-    <div id="logo"><a href="http://www.redwolf.in/"><img src="http://www.redwolf.in/image/redwolf-t-shirts-india-logo.png" title="Redwolf" alt="Redwolf"></a></div>
+    <div id="logo"><a href="https://www.redwolf.in/"><img src="https://www.redwolf.in/image/redwolf-t-shirts-india-logo.png" title="Redwolf" alt="Redwolf"></a></div>
   
   <div id="cart">
     <div class="invisible"></div>
     <div class="heading">
       <h4>Shopping Cart</h4>
-      <a><span id="cart-total">0 item(s) - Rs. 0</span></a></div>
+      <a><span id="cart-total">0 item(s) - Rs. 0.00</span></a></div>
     <div class="content"></div>
   </div>
   <div class="apple_overlay" id="goodoverlay">
@@ -228,36 +239,77 @@ Cash on Delivery has an additional handling charge of Rs 75 per 500 grams.</p>
 <script type="text/javascript"><!--
 jQuery('#cart').stickyfloat({duration: 400, offsetY: 85, lockBottom: false});
 $(document).ready(function(){
-$('.slider').hover(function(){
-		$(this).stop().animate({top:'32px'},{queue:false,duration:300});
-	}, function() {
-		$(this).stop().animate({top:'0px'},{queue:false,duration:300});
+	$('.slider').hover(function(){
+			$(this).stop().animate({top:'32px'},{queue:false,duration:300});
+		}, function() {
+			$(this).stop().animate({top:'0px'},{queue:false,duration:300});
+		});
+	var api;
+
+	$("a.overlaytrigger").overlay({
+		fixed: false, 
+		closeOnClick: true,
+		onBeforeLoad: function() {
+			$('#background').show();
+		},onBeforeClose: function() {
+			$('#background').hide();
+		},
+
 	});
-var api;
-$("a.overlaytrigger").overlay({
-	fixed: false, 
-	closeOnClick: true,
-	onBeforeLoad: function() {
-		$('#background').show();
-	},onBeforeClose: function() {
-		$('#background').hide();
-	},
 
-});
-$('#background').click( function () {
-	var api = $('a.overlaytrigger').data('overlay');
-	api.close();
+	$('#background').click( function () {
+		var api = $('a.overlaytrigger').data('overlay');
+		api.close();
+	});
 });
 
-
-});
 function openFaq () {
-	faqwindow = window.open("http://www.redwolf.in/faq.html", "FAQ", "location=1,status=1,scrollbars=1, menubar=0, directories=0,  width=600,height=600");
+	faqwindow = window.open("https://www.redwolf.in/faq.html", "FAQ", "location=1,status=1,scrollbars=1, menubar=0, directories=0,  width=600,height=600");
 }
+
+
+function fbLoginPopup() {
+	FB.login(function(response) {
+		if (response.status === 'connected') {
+			fbLoginSuccess();
+		} else {
+			fbLoginFail();
+		}
+	}, {scope: 'public_profile,email'});
+}
+
+function fbLoginSuccess() {
+			var route = '';
+	//	console.log('Facebook login was successful');
+	FB.api('/me', function(response) {
+	//	console.log(JSON.stringify(response));
+		$.ajax({
+			url: 'index.php?route=account/login/facebook',
+			type: 'post',
+			data: {firstname: response.first_name,
+				lastname: response.last_name,
+				email: response.email,
+				profile_id: response.id,
+				return_page: route },
+			dataType: 'json',
+			success: function(json) {
+				if (json['redirect']) {
+					location = json['redirect'];
+				}
+			}
+		});	
+	});
+}
+
+function fbLoginFail() {
+//	console.log('Facebook login was un-successful');
+	$('.warning').remove();
+	$('#notification').html('<div class="warning" style="display: none;">Unable to connect with Facebook. Please <a style="color:black;" href="https://www.redwolf.in/index.php?route=account/login">log in via email</a> or <a style="color:black;" href="https://www.redwolf.in/index.php?route=account/register">register a new account</a>.</div>');
+	$('.checkout .panes .pane').prepend('<div class="warning" style="display: none;">Unable to connect with Facebook. Please <a style="color:black;" href="https://www.redwolf.in/index.php?route=account/login">log in via email</a> or <a style="color:black;" href="https://www.redwolf.in/index.php?route=account/register">register a new account</a>.</div>');
+	$('.warning').fadeIn('slow');
+}
+
 //--></script>  
-
-
-  
 </div>
 </div>
 
@@ -266,13 +318,12 @@ function openFaq () {
 <div class="navbar">
 
 <ul id="topnav">
-<li class="menu0"><a href="http://www.redwolf.in/tees"><h2>Tees</h2></a><div class="subcat"><ul><li><a href="http://www.redwolf.in/t-shirts-for-men">Guys</a></li><li><a href="http://www.redwolf.in/girls-tops-t-shirts">Girls</a></li></ul><div></div></div></li><li class="menu1"><a href="http://www.redwolf.in/accessories"><h2>Accessories</h2></a><div class="subcat"><ul><li><a href="http://www.redwolf.in/posters-india">Posters</a></li><li><a href="http://www.redwolf.in/badges">Badges</a></li><li><a href="http://www.redwolf.in/laptop-skins">Laptop Skins</a></li></ul><div></div></div></li><li class="menu2"><a href="http://www.redwolf.in/sweatshirts-hoodies"><h2>Sweatshirts</h2></a></li><li class="menu3"><a href="http://www.redwolf.in/marketplace"><h2>Marketplace</h2></a><div class="subcat"><ul><li><a href="http://www.redwolf.in/coshish">Coshish</a></li><li><a href="http://www.redwolf.in/demonic-resurrection">Demonic Resurrection</a></li><li><a href="http://www.redwolf.in/dualist-inquiry">Dualist Inquiry</a></li><li><a href="http://www.redwolf.in/headbangers">Headbanger's Kitchen</a></li><li><a href="http://www.redwolf.in/nucleya">Nucleya</a></li><li><a href="http://www.redwolf.in/yeh-hai-bakrapur">Yeh Hai Bakrapur</a></li><li><a href="http://www.redwolf.in/blakc">BLAKC</a></li><li><a href="http://www.redwolf.in/loveguru">Radio City Love Guru</a></li><li><a href="http://www.redwolf.in/bakchod">All India Bakchod</a></li></ul><div></div></div></li><li class="menu4"><a href="http://www.redwolf.in/preorder-t-shirts"><h2>Pre-order</h2></a></li>    
-</ul>
+<li class="menu0"><a href="https://www.redwolf.in/tees"><h2>Tees</h2></a><div class="subcat"><ul><li><a href="https://www.redwolf.in/t-shirts-for-men">Guys</a></li><li><a href="https://www.redwolf.in/girls-tops-t-shirts">Girls</a></li><li><a href="https://www.redwolf.in/t-shirts-sale">Sale</a></li><li><a href="https://www.redwolf.in/designer-tees">Designer Tees</a></li><li><a href="https://www.redwolf.in/themes">Themes</a></li><li><a href="https://www.redwolf.in/archive-tees">Archive</a></li></ul><div></div></div></li><li class="menu1"><a href="https://www.redwolf.in/accessories"><h2>Accessories</h2></a><div class="subcat"><ul><li><a href="https://www.redwolf.in/posters-india">Posters</a></li><li><a href="https://www.redwolf.in/badges">Badges</a></li><li><a href="https://www.redwolf.in/laptop-skins">Laptop Skins</a></li></ul><div></div></div></li><li class="menu2"><a href="https://www.redwolf.in/marketplace"><h2>Marketplace</h2></a><div class="subcat"><ul><li><a href="https://www.redwolf.in/indies-kvlture-project">#indieskvltureproject</a></li><li><a href="https://www.redwolf.in/bacon-tadka">Bacon Tadka</a></li><li><a href="https://www.redwolf.in/coshish">Coshish</a></li><li><a href="https://www.redwolf.in/damm-phone-covers">DAMM!</a></li><li><a href="https://www.redwolf.in/demonic-resurrection">Demonic Resurrection</a></li><li><a href="https://www.redwolf.in/demonstealer-records">Demonstealer Records</a></li><li><a href="https://www.redwolf.in/dualist-inquiry">Dualist Inquiry</a></li><li><a href="https://www.redwolf.in/headbangers">Headbanger's Kitchen</a></li><li><a href="https://www.redwolf.in/i-love-bollywood-dil-se">I Love Bollywood-Dil Se</a></li><li><a href="https://www.redwolf.in/nucleya">Nucleya</a></li><li><a href="https://www.redwolf.in/pangea">Pangea</a></li><li><a href="https://www.redwolf.in/new-wave-festival">The New Wave Festival</a></li><li><a href="https://www.redwolf.in/wolves">Wolves</a></li><li><a href="https://www.redwolf.in/yeh-hai-bakrapur">Yeh Hai Bakrapur</a></li><li><a href="https://www.redwolf.in/blakc">BLAKC</a></li><li><a href="https://www.redwolf.in/loveguru">Radio City Love Guru</a></li><li><a href="https://www.redwolf.in/bakchod">All India Bakchod</a></li></ul><div></div></div></li><li class="menu3"><a href="https://www.redwolf.in/preorder-t-shirts"><h2>Pre-order</h2></a></li></ul>
 
   
   <!--div id="search">
     <div class="button-search"></div>
-    <b>Notice</b>: Undefined variable: filter_name in <b>/var/www/html/catalog/view/theme/CartMania-Clean/template/common/column_left.tpl</b> on line <b>42</b>    <input type="text" name="filter_name" value="<b>Notice</b>: Undefined variable: text_search in <b>/var/www/html/catalog/view/theme/CartMania-Clean/template/common/column_left.tpl</b> on line <b>45</b>" onclick="this.value = '';" onkeydown="this.style.color = '#000000';" />
+    <b>Notice</b>: Undefined variable: filter_name in <b>/var/www/redwolf.in/catalog/view/theme/CartMania-Clean/template/common/column_left.tpl</b> on line <b>41</b>    <input type="text" name="filter_name" value="<b>Notice</b>: Undefined variable: text_search in <b>/var/www/redwolf.in/catalog/view/theme/CartMania-Clean/template/common/column_left.tpl</b> on line <b>44</b>" onclick="this.value = '';" onkeydown="this.style.color = '#000000';" />
       </div-->
 
 <!--The flag and the div inside the for is dirty code. Sorry. -->
@@ -281,15 +332,18 @@ function openFaq () {
   <div class="box-heading">Info</div>
   <div class="box-content">
     <ul>
-            <li><a href="http://www.redwolf.in/about_us">About Us</a></li>
-            <li><a href="http://www.redwolf.in/delivery-information">Delivery Information</a></li>
-            <li><a href="http://www.redwolf.in/privacy-policy">Privacy Policy</a></li>
-            <li><a href="http://www.redwolf.in/return-policy">Return Policy</a></li>
-            <li><a href="http://www.redwolf.in/terms-and-conditions">Terms &amp; Conditions</a></li>
-            <li><a href="http://www.redwolf.in/contact-us">Contact Us</a></li>
-      <li><a href="http://www.redwolf.in/sitemap">Site Map</a></li>
+            <li><a href="https://www.redwolf.in/about_us">About Us</a></li>
+            <li><a href="https://www.redwolf.in/delivery-information">Delivery Information</a></li>
+            <li><a href="https://www.redwolf.in/privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://www.redwolf.in/return-policy">Return Policy</a></li>
+            <li><a href="https://www.redwolf.in/terms-and-conditions">Terms &amp; Conditions</a></li>
+            <li><a href="https://www.redwolf.in/contact-us">Contact Us</a></li>
+      <li><a href="https://www.redwolf.in/sitemap">Site Map</a></li>
     </ul>
   </div>
+</div>
+<div class="box">
+<a href="careers"><div class="box-heading">CAREERS</div></a>
 </div>
 		</div>
 		</div>
@@ -322,8 +376,8 @@ jQuery(document).ready(function() {
 //--></script> 
 <div id="container-shadow">
 <div id="content" class="information_block">  <div class="breadcrumb">
-        <a href="http://www.redwolf.in/">Home</a>
-        <div class="breadcrumb-separator">&nbsp;</div><a href="http://www.redwolf.in/privacy-policy">Privacy Policy</a>
+        <a href="https://www.redwolf.in/">Home</a>
+        <div class="breadcrumb-separator">&nbsp;</div><a href="https://www.redwolf.in/privacy-policy">Privacy Policy</a>
       <div class="breadcrumb-end">&nbsp;</div>
   </div>
   <h1>Privacy Policy</h1>
@@ -408,7 +462,7 @@ jQuery(document).ready(function() {
 		<strong>E-Mail ID:&nbsp;</strong><a href="mailto:contact@redwolf.in">contact@redwolf.in</a></li>
 </ul>
   <div class="buttons">
-    <div class="right"><a href="http://www.redwolf.in/" class="button"><span>Return To Home</span></a></div>
+    <div class="right"><a href="https://www.redwolf.in/" class="button"><span>Return To Home</span></a></div>
   </div>
   </div>
 </div>
@@ -426,13 +480,12 @@ jQuery(document).ready(function() {
 
 <div id="footer-nav">
 	<ul id="bottomnav">
-		<li><a href="http://www.redwolf.in/index.php?route=account/voucher">Gift Vouchers</a></li>
-		<li><a href="http://www.redwolf.in/index.php?route=account/account">My Account</a></li>
-		<li><a href="http://www.redwolf.in/index.php?route=account/order">Order History</a></li>
-		<!--<li><a href="http://www.redwolf.in/index.php?route=account/wishlist">Wish List</a></li> -->
-		<li><a href="http://www.redwolf.in/index.php?route=account/return/insert">Returns</a></li>
-		<li><a href="http://www.redwolf.in/sitemap">Site Map</a></li>
+		<li><a href="https://www.redwolf.in/index.php?route=account/voucher">Gift Vouchers</a></li>
+		<li><a href="https://www.redwolf.in/index.php?route=account/account">My Account</a></li>
+		<li><a href="https://www.redwolf.in/index.php?route=account/order">Order History &amp; Returns</a></li>
+		<li><a href="https://www.redwolf.in/sitemap">Site Map</a></li>
 		<li><a href="/blog" target="_blank">Blog</a></li>
+		<li><a href="https://www.redwolf.in/index.php?route=affiliate/account">Affiliates</a></li>
 		<li><div id="search">
 			<div class="button-search"></div>
 						<input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#ffffff';">
@@ -461,7 +514,7 @@ jQuery(document).ready(function() {
 	</div>
 	<div class="flasher">
 		We accept:<br>
-		<a href="http://www.ebs.in/" target="_blank" rel="nofollow"><img class="ebs-flasher" src="http://ebs.in/banner/payment_options_sans_mc.gif" title="EBS"></a>
+		<a href="http://www.ebs.in/" target="_blank" rel="nofollow"><img class="ebs-flasher" src="https://ebs.in/banner/payment_options_sans_mc.gif" title="EBS"></a>
 	</div>
 </div>
 		<div id="disclaimer">All artwork posted on this website is intended as fan art and is not purpoted to be official merchandise. If you have any issues regarding the artwork, do write in to us at contact@redwolf.in</div>
