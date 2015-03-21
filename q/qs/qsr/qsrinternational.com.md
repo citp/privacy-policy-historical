@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the qsrinternational.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065307id_/http%3A//www.qsrinternational.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsrinternational.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321184920id_/http%3A//www.qsrinternational.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### 
-
-Want to know more about QSR? Read our company brochure.
-
-  * [Download PDF](https://web.archive.org/web/20140625065307id_/http%3A//www.qsrinternational.com/FileResourceHandler.ashx/RelatedDocuments/DocumentFile/499/QSR_Company_Brochure.pdf)
-
-
 
 At QSR we don't automatically collect the personal information of website visitors. The only way we access your personal details is if you provide them to us directly.
 
@@ -52,7 +44,7 @@ When using NCapture to capture data from social media sites, you may be asked by
 
 
 
-When you import data captured using NCapture into NVivo, you have the option to exclude some unwanted information (such as individuals’ age, gender or religion). Refer to the Help documentation in NCapture and NVivo for further details.
+When you import data captured using NCapture into NVivo, you have the option to exclude some unwanted information (such as Location or Bio). Refer to the Help documentation in NCapture and NVivo for further details.
 
 ### With whom may QSR International share the information it collects?
 
