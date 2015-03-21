@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420182232id_/https%3A//www.schoology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321202452id_/https%3A//www.schoology.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Schoology
 
@@ -50,7 +50,7 @@ If you believe that a student’s school, district, or teacher has not required 
 
 **If you are accessing Schoology as a Teacher, the following provisions also apply:**
 
-  * You represent and warrant that you have permission from your school or district to enter into these Terms, to use Schoology as part of your curriculum, and that you have the authority to bind your school or district to these Terms.
+  * You represent and warrant that you have permission from your school or district to enter into these Terms, to use Schoology as part of your curriculum.
   * You represent and warrant that you are solely responsible for complying with COPPA, which requires verifiable parental consent for online collection of personal information from children under 13.
   * You must obtain Consent from all parents whose children under 13 will be accessing Schoology and provide a copy to us upon our request. For more information on COPPA, please see www.ftc.gov/privacy.
   * When obtaining Consent, you must provide parents with a copy of our Privacy Policy.
