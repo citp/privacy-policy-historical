@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3ds-games-cards.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219231553id_/http%3A//3ds-games-cards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3ds-games-cards.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321094927id_/http%3A//3ds-games-cards.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Cheap Cards from UK EU Seller, Free Shipping
 
