@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringgitplus.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331145357id_/https%3A//ringgitplus.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringgitplus.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321221633id_/https%3A//ringgitplus.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - RinggitPlus
 
@@ -238,44 +238,3 @@ E-mel: [dataprivacy@ringgitplus.com](mailto:dataprivacy@ringgitplus.com)
 Telefon: 03 7495 5600
 
 RinggitPlus merizab hak untuk mengemaskinikan dan meminda dasar ini dari semasa ke semasa. Sebarang perubahan material akan dimaklumkan di laman web kami dengan Dasar Privasi yang dikemaskinikan.
-
-#### Top Credit Card Comparisons
-
-[Top 5 Business Credit Cards](https://web.archive.org/en/lifestyle-card/Credit-Cards-for-the-Entrepreneur.html)
-    Compare the best credit cards for small business, startups, entrepreneurs and the self-employed.
-[Top 5 Business Travel Cards](https://web.archive.org/en/lifestyle-card/Credit-Cards-for-the-Business-Traveller.html)
-    Compare the top credit cards for frequent business travellers on Malaysia Airlines Business Class and leading airlines in South East Asia.
-[Top 5 Holiday & Travel Cards](https://web.archive.org/en/lifestyle-card/Best-Holiday-and-Travel-Credit-Cards.html)
-    Our comparison of the top credit cards for holidays and heavy travellers, frequent flyers, Air Asia VIPs, get free air miles faster.
-[Top 5 Islamic Banking Cards](https://web.archive.org/en/lifestyle-card/Best-Islamic-Credit-Cards.html)
-    Read about all available islamic card-i banking cards that are Shariah compliant and free of Riba and Gharar.
-[Top 5 Petrol Credit Cards](https://web.archive.org/en/lifestyle-card/Best-Petrol-Credit-Cards.html)
-    Browse the top petrol credit cards for drivers and commercial travellers, fill your tank for less at Petronas, Shell, BHP, and other petrol stations
-[Top 5 Premium Credit Cards](https://web.archive.org/en/lifestyle-card/Best-Premium-Credit-Cards.html)
-    Leading premium credit cards for the VIP, instant access to airport lounge privileges, golf benefits, luxury resorts and major hotels.
-[Top 5 Shopping Credit Cards](https://web.archive.org/en/lifestyle-card/Best-Credit-Cards-for-Shopping.html)
-    Our top list of shopping credit cards gets you more discounts and rebates on your everyday purchases at leading supermarkets,hypermarkets, and malls. Shop more for less at AEON, Tesco, Giant, Parkson, and more.
-
-#### Personal Finance Library
-
-[Malaysian Money News](https://web.archive.org/en/blog/)
-    Personal finance news and reviews from the leading financial comparison website in Malaysia. Learn tips on how to save money, get out of credit card debt, and better manage your budget.
-[Credit Card Reviews](https://web.archive.org/en/credit-card/reviews/)
-    Reviews for the top credit cards in Malaysia. Understand the pros and cons for each card and discover the features and benefits that could save you thousands of ringgit every year.
-[Credit Card Promotions](https://web.archive.org/en/promotions/)
-    Connect to the latest promotions available for your Malaysian credit cards and debit cards. Explore the promotions you need to save on dining, travel, and shopping.
-[Bank Negara](http://www.bnm.gov.my/)
-    Official website of the national central bank of Malaysia.
-[AKPK](http://www.akpk.org.my/)
-    Official website of the Agensi Kaunseling Dan Pengurusan Kredi. This is the agency to contact if you're having serious debt issues or are on the verge of bankruptcy.
-[Banking Terms & Definitions](https://web.archive.org/en/banking-terms-and-definitions.html)
-    Get explanations on banking terms and jargon straight from the mouth of the leading financial comparison website in Malaysia. We've made our glossary to help you understand the fine print like a banker.
-
-#### About Us
-
-##### RinggitPlus is Malaysia's leading comparison website. Everyday, we'll help you get more for your money - whether you're [applying for a credit card](https://web.archive.org/en/credit-card/) or [personal loan](https://web.archive.org/en/personal-loan/), planning the best [mortgage](https://web.archive.org/en/home-loan/) for your dream house, or looking for [great discounts](https://web.archive.org/en/promotions/).
-
-  * [Read more about RinggitPlus](https://web.archive.org/en/about-us.html)
-  * [Contact us](https://web.archive.org/en/contact-us.html)
-
-
