@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dcuniverseonline.com privacy policy that was archived on 2014-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140820082148id_/https%3A//www.soe.com/sonyonline/privacy.vm%3Flocale%3Den_US) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dcuniverseonline.com privacy policy that was archived on 2015-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321215610id_/https%3A//www.soe.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -10,13 +10,14 @@
 <meta name="google-site-verification" content="mmsdQT_DHV0cfs6avUic6lgTYT5XgQxbSTbOMnHadRg">
 <meta name="verify-v1" content="FAL4eTH1ff6uBoYCGOj7efgHT8xkCPuQZwN7GIOL8hA=">
 
-	<meta name="description" content="SOE.com is Sony Online Entertainment's ultimate online gaming destination, providing immersive entertainment for your PC and Console. Whether you enjoy playing games by yourself or with friends, competitively or casually, there's something for everyone on SOE.com.  Play immediately in any of our free to play games, join a massive multiplayer game with a friend, download new content, your options are almost limitless on SOE.com!  Whether you have just a few minutes or several hours, SOE.com offers fun, action and adventure for everyone. Check out our free to play online games, or become a subscriber/member in any of our games to take advantage of subscriber/member benefits today!">
+	<meta name="description" content="daybreakgames.com is Daybreak Game Company's ultimate online gaming destination, providing immersive entertainment for your PC and Console. Whether you enjoy playing games by yourself or with friends, competitively or casually, there's something for everyone on daybreakgames.com.  Play immediately in any of our free to play games, join a massive multiplayer game with a friend, download new content, your options are almost limitless on daybreakgames.com!  Whether you have just a few minutes or several hours, daybreakgames.com offers fun, action and adventure for everyone. Check out our free to play online games, or become a subscriber/member in any of our games to take advantage of subscriber/member benefits today!">
 
 
 <link href="https://www-cdn.soe.com/favicon.ico?v=1342699076" rel="SHORTCUT ICON">
-<title>Sony Online Entertainment - Privacy Policy</title>
+<title>Daybreak Game Company - Privacy Policy</title>
 
-																						<link rel="stylesheet" href="https://www.soe.com/minify-css?locale=en_US&amp;files=bootstrap^core^legal&amp;v=743852676" type="text/css">
+
+																																					<link rel="stylesheet" href="https://www.soe.com/minify-css?locale=en_US&amp;files=browserErrors/browserErrors^web-make-believe-bar/web-make-believe^footer-alerts^bootstrap^core^legal&amp;v=3480186970" type="text/css">
 
 <script type="text/javascript">
 
@@ -25,9 +26,10 @@ var globs = globs || {};
 var webReg = webReg || {};
 
 globs.wdl = globs.wdl || {};
-globs.wdl.gameName = "Sony Online Entertainment";
-globs.wdl.game = "soe";
+globs.wdl.gameName = "Daybreak Game Company";
+globs.wdl.gameCode = "SOE";
 globs.wdl.theme = "soe";
+globs.wdl.game = "soe";
 globs.wdl.sitePrefix = "soe";
 globs.wdl.scope = "full site";
 globs.wdl.business = "mktg";
@@ -40,7 +42,8 @@ globs.wdl.productArray = [];
 globs.wdl.skuArray = [];
 globs.wdl.username = "";
 globs.wdl.userLoggedIn = false;
-globs.wdl.gvidEnabled = false;
+globs.wdl.gvidEnabled = true;
+globs.wdl.wdlCookDNT = false;
 
 globs.soelocale = "en_US";
 globs.urlparameters = {};
@@ -50,15 +53,46 @@ globs.urls.login = "/login";
 globs.urls.logout = "https://www.soe.com/j_spring_cas_security_logout";
 globs.urls.returnURL = "https://www.soe.com";
 globs.urls.returnURL_encoded = "https%3A%2F%2Fwww.soe.com";
-globs.urls.downloadURL = "$propertyTool.getProperty('web.downloadUrl')";
-globs.urls.uramRootUrl = "https://account.station.sony.com";
-globs.urls.redeemURL = "https://account.station.sony.com/authenticated/cam/enterActivationCode!input.action?gameCode=soe&theme=soe&service=https://www.soe.com&locale=en_US";
-globs.urls.stationcashPath = "https://account.station.sony.com/authenticated/link/wallet/fundWallet.action?theme=soe&locale=en_US&service=https://www.soe.com";
+globs.urls.downloadURL = "";
+globs.urls.uramRootUrl = "https://account.station.sony.com"; globs.urls.uramAjaxUrl = "https://account.station.com";
 globs.urls.dcsRoot = "https://assets.soe.com/query";
 globs.urls.censusUrl = "https://census.soe.com";
 globs.urls.socialServiceURL = "https://social.station.sony.com";
 globs.urls.sessionTrackingUrl = "https://lp.soe.com/soe/live/session.js";
 globs.urls.tealiumUrl = "//tags.tiqcdn.com/utag/soe/soe/prod/utag.js";
+globs.urls.appengRestUrl = "https://ar.station.com";
+globs.urls.helpUrl = "https://help.soe.com";
+globs.urls.installerUrl = "https://launch.soe.com/installer";
+globs.urls.forumRootUrl = "https://forums.station.sony.com";
+globs.urls.soeRootUrl = "https://www.soe.com";
+
+globs.urls.pacmanRoot = "/goto?type=afterReg&targetUrlKey=pacmanRoot&theme=soe&locale=en_US";
+globs.urls.camAmHome = "/goto?type=afterReg&targetUrlKey=camAmHome&theme=soe&locale=en_US";
+globs.urls.camEnterActivationCode = "/goto?type=afterReg&targetUrlKey=camEnterActivationCode&theme=soe&locale=en_US&gameCode=SOE&service=https%3A%2F%2Fwww.soe.com";
+globs.urls.camUpdateAccountInfo = "/goto?type=afterReg&targetUrlKey=camUpdateAccountInfo&theme=soe&locale=en_US";
+globs.urls.camSubscriptionsInfo = "/goto?type=afterReg&targetUrlKey=camSubscr_iptionsInfo&theme=soe&locale=en_US";
+globs.urls.camUpdateOptIns = "/goto?type=afterReg&targetUrlKey=camUpdateOptIns&theme=soe&locale=en_US";
+globs.urls.camStationCashBalance = "/goto?type=afterReg&targetUrlKey=camStationCashBalance&theme=soe&locale=en_US";
+globs.urls.camPaymentHistory = "/goto?type=afterReg&targetUrlKey=camPaymentHistory&theme=soe&locale=en_US";
+globs.urls.camPaymentSources = "/goto?type=afterReg&targetUrlKey=camPaymentSources&theme=soe&locale=en_US";
+globs.urls.camParentalControlsParentalControls = "/goto?type=afterReg&targetUrlKey=camParentalControlsParentalControls&theme=soe&locale=en_US";
+globs.urls.dlcBuyDLCWithSkuAndMOPEntryPoint = "/goto?type=afterReg&targetUrlKey=dlcBuyDLCWithSkuAndMOPEntryPoint&theme=soe&locale=en_US";
+globs.urls.dlcBuyDLContentFlow = "/goto?type=afterReg&targetUrlKey=dlcBuyDLContentFlow&theme=soe&locale=en_US";
+globs.urls.dlcPreorderEntry = "/goto?type=afterReg&targetUrlKey=dlcPreorderEntry&theme=soe&locale=en_US";
+globs.urls.csgCsgPurchaseFlow = "/goto?type=afterReg&targetUrlKey=csgCsgPurchaseFlow&theme=soe&locale=en_US";
+globs.urls.betaBetaRegistration = "/goto?type=afterReg&targetUrlKey=betaBetaRegistration&theme=soe&locale=en_US";
+globs.urls.betaSignUpForBetaRedirect = "/goto?type=afterReg&targetUrlKey=betaSignUpForBetaRedirect&theme=soe&locale=en_US";
+globs.urls.commerceTryBuyOrActivate = "/goto?type=afterReg&targetUrlKey=commerceTryBuyOrActivate&theme=soe&locale=en_US";
+globs.urls.commerceKronosDeepEntry = "/goto?type=afterReg&targetUrlKey=commerceKronosDeepEntry&theme=soe&locale=en_US";
+globs.urls.commerceAllAccessFlow = "/goto?type=afterReg&targetUrlKey=commerceAllAccessFlow&theme=soe&locale=en_US";
+globs.urls.hardgoodBuyAuthenticatorFlow = "/goto?type=afterReg&targetUrlKey=hardgoodBuyAuthenticatorFlow&theme=soe&locale=en_US";
+globs.urls.linkWalletFundWallet = "/goto?type=afterReg&targetUrlKey=linkWalletFundWallet&theme=soe&locale=en_US";
+globs.urls.linkWalletFundWalletWithMOP = "/goto?type=afterReg&targetUrlKey=linkWalletFundWalletWithMOP&theme=soe&locale=en_US";
+globs.urls.membershipMembership = "/goto?type=afterReg&targetUrlKey=membershipMembership&theme=soe&locale=en_US&gameCode=SOE&service=https%3A%2F%2Fwww.soe.com";
+globs.urls.membershipMembershipWithSku = "/goto?type=afterReg&targetUrlKey=membershipMembershipWithSku&theme=soe&locale=en_US";
+globs.urls.regForgotStationName = "/goto?type=afterReg&targetUrlKey=regForgotStationName&theme=soe&locale=en_US";
+globs.urls.regForgotPassword = "/goto?type=afterReg&targetUrlKey=regForgotPassword&theme=soe&locale=en_US";
+
 
 webReg.isBeta = false;
 webReg.betaID = -1;
@@ -69,43 +103,101 @@ webReg.theme = "soe";
 </head>
 
 <body class="privacy">
-														<link rel="stylesheet" href="https://www.soe.com/minify-css?locale=en_US&amp;files=web-make-believe-bar/web-make-believe-dark&amp;v=3541248904" type="text/css">
+					
+
+ <script type="text/template" class="non-member">
+ 		<li id="mb-allAccess" class="account-dropdown top-level visible-xs visible-sm visible-md visible-lg"><span id="mb-isMember">Get</span><img src="https://www-cdn.soe.com/web-platform/includes/framework/web-platform/make-believe-bar/images/allAccess.png?v=3031380614" id="allAccessLogo"><span id="downArrow"></span>
+			<ul class="dropdown-level mb-getAllAccess" >
+				<li id="mb-allAccess-title">Try All Access today and enjoy these benefits:</li>
+				<li><span class="promo-title"><span class="promo-title">Premium benefits</span> in participating DBG games</li>
+				<li><span class="promo-title"><span class="promo-title">10% off unlimited</span> marketplace purchases*</li>
+				<li><span class="promo-title"><span class="promo-title">500 Station Cash Reward</span> to claim each month</li>
+				<li>Special membership promotions and offers</li>
+				<li id="mb-find-out-more"><a href="https://www.soe.com/allaccess" class="btn btn-find-out-more btn-primary">Find out more</a></li>
+			</ul>
+		</li>
+ </script>
+
+ <script type="text/template" class="member">
+ 		<li id="mb-allAccess" class="account-dropdown top-level visible-xs visible-sm visible-md visible-lg"><span id="mb-isMember">Get</span><img src="https://www-cdn.soe.com/web-platform/includes/framework/web-platform/make-believe-bar/images/allAccess.png?v=3031380614" id="allAccessLogo"><span id="downArrow"></span>
+			<ul class="dropdown-level mb-myAllAccess" >
+				<% if( scGrantClaimed == true) { %>
+					<% if( !mbExpirationDate ) { %>
+						<li id="scGrant"><span class="mb-rewards">500 SC Reward</span><br>Date of next reward: <%- scGrantDate %></li>
+					<% } %>
+				<% } else { %>
+					<li id="scGrant"><span class="mb-rewards">500 SC Reward</span><br>Date this reward expires: <%- scGrantDate %></li>
+				<% } %>
+				<% if( mbExpirationDate ) { %>
+					<li>Your membership expires on <%- mbExpirationDate %>.<br>Add time so you don't miss your next 500SC reward by <a href="#" id="membershipLink">clicking here</a>.</li>
+				<% } %>
+
+				<li id="mb-member-info-link"><a href="/goto?type=afterReg&targetUrlKey=camSubscr_iptionsInfo&theme=soe&locale=en_US&theme=soe&service=https://www.soe.com">View my membership info >></a></li>
+															</ul>
+		</li>
+ </script>
 
 <div id="topBar">
 	<div id="topBarAlign">
 		<div id="soeTopBarLogoAlign" style="float: left;">
-			<a href="http://www.soe.com" id="soeLogo"></a>
-		</div>
-					<div id="navMenu" style="float: right">
-				<ul id="playerTools" class="account-area visible-md visible-lg visible-sm hidden-xs">
-					<li class="top-level hidden-xs visible-sm visible-md visible-lg" id="signinDesktop">
-													<a href="/login" class="auth-link" id="loginLink">Login</a> or <a href="/register" class="auth-link" id="accountCreate">Create An Account</a>
-											</li>
-					<li id="accountOptions" class="account-dropdown top-level hidden-xs visible-sm visible-md visible-lg"><a href="https://account.station.sony.com?theme=soe">My Account</a><span></span>
-						<ul class="dropdown-level">
-							<li><a href="https://account.station.sony.com/authenticated/cam/enterActivationCode!input.action?theme=soe">Enter Activation Code</a></li>
-							<li><a href="https://account.station.sony.com/authenticated/cam/updateAccountInfo!input.action?theme=soe">Update Account Info</a></li>
-							<li><a href="https://account.station.sony.com/authenticated/cam/subscriptionsInfo.action?theme=soe">Membership Info</a></li>
-							<li><a href="https://account.station.sony.com/authenticated/cam/updateOptIns!input.action?theme=soe">Join newsletter</a></li>
-							<li><a href="https://account.station.sony.com/authenticated/cam/stationCashBalance.vm?theme=soe">Station Cash Balance</a></li>
-						</ul>
-					</li>
-					<li class="top-level hidden-xs visible-sm visible-md visible-lg"><a href="https://forums.station.sony.com/soe/index.php">Forums</a></li>
-					<li class="top-level hidden-xs visible-sm visible-md visible-lg"><a href="http://www.soe.com/en/support/supportTopics.vm?category=PC&amp;id=033&amp;locale=en">Support</a></li>
-				</ul>
-			</div>
-				<button type="button" class="btn btn-navbar btn-default" data-toggle="collapse" data-target=".nav-collapse">
+					</div>
+		<button type="button" id="btn-navbar" class="btn btn-navbar btn-default" data-toggle="collapse" data-target="#mbNavCollpase">
 			<span class="navbar-text">Menu</span>
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		</button>
-	</div>
+					<div id="navMenu" style="float: right">
+				<ul id="playerTools" class="account-area visible-md visible-lg visible-sm visible-xs">
+																		<li class="top-level visible-xs visible-sm visible-md visible-lg" id="signinDesktop">
+								<a href="/register" class="auth-link" id="accountCreate">Create an Account</a>
+							</li>
+																			<li class="account-dropdown top-level visible-xs visible-sm visible-md visible-lg" id="mb-accountOptions">
+								<a href="/login" class="auth-link" id="loginLink">Log in</a>
+																	<div id="login-link-dropdown">
+										<span id="downArrow"></span>
+											<ul class="dropdown-level">
+			<li><a href="/goto?type=afterReg&amp;targetUrlKey=camEnterActivationCode&amp;theme=soe&amp;locale=en_US&amp;gameCode=SOE&amp;service=https%3A%2F%2Fwww.soe.com">Enter Activation Code</a></li>
+			<li><a href="/goto?type=afterReg&amp;targetUrlKey=camUpdateAccountInfo&amp;theme=soe&amp;locale=en_US&amp;service=https://www.soe.com">Update Account Info</a></li>
+			<li><a href="/goto?type=afterReg&amp;targetUrlKey=camSubscr_iptionsInfo&amp;theme=soe&amp;locale=en_US&amp;service=https://www.soe.com">Membership Info</a></li>
+			<li><a href="/goto?type=afterReg&amp;targetUrlKey=camUpdateOptIns&amp;theme=soe&amp;locale=en_US&amp;service=https://www.soe.com">Join newsletter</a></li>
+			<li><a href="/goto?type=afterReg&amp;targetUrlKey=linkWalletFundWallet&amp;theme=soe&amp;locale=en_US&amp;service=https://www.soe.com">Buy Station Cash</a></li>
+				</ul>
+									</div>
+															</li>
+																						<span id="mb-all-access"></span>
+																<li class="top-level hidden-xs visible-sm visible-md visible-lg"><a href="https://forums.station.sony.com/soe/index.php">Forums</a></li>
+																<li class="top-level hidden-xs visible-sm visible-md visible-lg"><a href="https://www.soe.com/en/support/supportTopics.vm?category=PC&amp;id=033&amp;locale=en">Support</a></li>
+									</ul>
+			</div>
+			</div>
 </div>
 
-		
-												<link rel="stylesheet" href="https://www.soe.com/minify-css?locale=en_US&amp;files=browserErrors/browserErrors&amp;v=3777023281" type="text/css">
-			<script language="JavaScript" type="text/javascript" src="https://www.soe.com/minify-js?locale=en_US&amp;files=web-platform/component/browserErrors&amp;v=2999734842"></script>
+<div class="navbar-collapse nav-collapse collapse relative-position noPadding" id="mbNavCollpase">
+	<ul class="top-level-list nav">
+									<li class="visible-xs" id="signinDesktopMoble">
+					<a href="/register" class="auth-link" id="accountCreate">Create an Account</a>
+				</li>
+				<li class="visible-xs mb-loggedInLinks">
+						<ul class="dropdown-level">
+			<li><a href="/goto?type=afterReg&amp;targetUrlKey=camEnterActivationCode&amp;theme=soe&amp;locale=en_US&amp;gameCode=SOE&amp;service=https%3A%2F%2Fwww.soe.com">Enter Activation Code</a></li>
+			<li><a href="/goto?type=afterReg&amp;targetUrlKey=camUpdateAccountInfo&amp;theme=soe&amp;locale=en_US&amp;service=https://www.soe.com">Update Account Info</a></li>
+			<li><a href="/goto?type=afterReg&amp;targetUrlKey=camSubscr_iptionsInfo&amp;theme=soe&amp;locale=en_US&amp;service=https://www.soe.com">Membership Info</a></li>
+			<li><a href="/goto?type=afterReg&amp;targetUrlKey=camUpdateOptIns&amp;theme=soe&amp;locale=en_US&amp;service=https://www.soe.com">Join newsletter</a></li>
+			<li><a href="/goto?type=afterReg&amp;targetUrlKey=linkWalletFundWallet&amp;theme=soe&amp;locale=en_US&amp;service=https://www.soe.com">Buy Station Cash</a></li>
+				</ul>
+				</li>
+					
+			<li class="visible-xs" id="forumLink">
+				<a href="https://forums.station.sony.com/soe/index.php">Forums</a>
+			</li>
+			<li class="visible-xs" id="supportLink">
+				<a href="https://www.soe.com/en/support/supportTopics.vm?category=PC&amp;id=033&amp;locale=en">Support</a>
+			</li>
+				</ul>
+</div>
+
+	
 		
 <noscript>
 	<div id="noscript" class="soeErrMsg">
@@ -142,58 +234,51 @@ webReg.theme = "soe";
 		Cookies must be enabled in order to view this site correctly.  Please enable Cookies by changing your browser options.
 	</div>
 </div>
-		<div class="theme" id="top" name="top">
-	<div id="topBarShim"></div>
-	<div id="contentAlign">
-			<div id="navigation">
-	<div id="menuItems">
-		<ul class="top-nav">
-			<li class="has-sub-nav">
-			<a href="/stationcash/" class="has-sub-nav">Shop</a>
-			<ul class="sub-nav">
-				<li><a href="/gamecards?locale=en_US">SOE Game Cards</a></li>
-				<li><a href="/stationcash?locale=en_US">Station Cash</a></li>
-				<li><a href="/allaccess?locale=en_US" class="last-item">SOE All Access</a></li>
-			</ul>
-			</li>
-			<li class="has-sub-nav">
-				<a href="/community" class="has-sub-nav">Community</a>
-				<ul class="sub-nav">
-					<li><a href="/news">News</a></li>
-					<li><a href="/webcasts">Webcasts</a></li>
-					<li><a href="/community-casts">Community-Casts</a></li>
-					<li><a href="https://player-studio.soe.com">Player Studio</a></li>
-					<li><a href="/player-direct">Player Direct</a></li>
-					<li><a href="/soelive" class="last-item">SOE Live</a></li>
-				</ul>
-			</li>
-			<li class="has-sub-nav">
-				<a href="/missionstatement/" class="has-sub-nav">Company</a>
-				<ul class="sub-nav">
-					<li><a href="/soe-mission?locale=en_US">Who We Are</a></li>
-					<li><a href="/soe-history?locale=en_US">History of SOE</a></li>
-					<li><a href="/careers?locale=en_US">Careers</a></li>
-					<li><a href="/execs?locale=en_US">Executive Staff</a></li>
-					<li><a href="http://www.soepress.com" class="last-item">SOE Press</a></li>
-				</ul>
-			</li><li><a href="/register" class="red-nav" onclick="playNow.buttonAction(); return false;">Join Free</a></li>
-			
+		<div class="theme" id="top">
+			<div id="topBarShim"></div>
+		<div id="contentAlign" class="container">
+																	<link rel="stylesheet" href="https://www.soe.com/minify-css?locale=en_US&amp;files=global_soe_navbar&amp;v=3404334358" type="text/css">
+<ul class="top-nav">
+	<li>
+		<a href="https://www.soe.com/stationcash">Shop</a>
+		<ul class="sub-nav">
+			<li><a href="https://www.soe.com/gamecards">Game Cards</a></li>
+			<li><a href="https://www.soe.com/stationcash">Station Cash</a></li>
+			<li><a href="https://www.soe.com/allaccess">All Access</a></li>
 		</ul>
-	</div>
-</div>
-			<div id="contentPage">
-			<div class="content_hdr">
+	</li>
+	<li>
+		<a href="https://www.soe.com/community">Community</a>
+		<ul class="sub-nav">
+			<li><a href="https://www.soe.com/news">News</a></li>
+			<li><a href="https://www.soe.com/webcasts">Webcasts</a></li>
+			<li><a href="https://www.soe.com/community-casts">Community-Casts</a></li>
+			<li><a href="https://player-studio.soe.com">Player Studio</a></li>
+			<li><a href="https://www.soe.com/player-direct?locale=en_US">Player Direct</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="https://www.soe.com/soe-mission">Company</a>
+		<ul class="sub-nav">
+			<li><a href="https://www.soe.com/soe-mission">Who We Are</a></li>
+			<li><a href="https://www.soe.com/careers">Careers</a></li>
+			<li><a href="http://www.soepress.com?locale=en_US">Press</a></li>
+		</ul>
+	</li>
+				<li><a href="https://www.soe.com/register" class="red-nav">Join Free</a></li>
+	</ul>
+				<div class="content_hdr">
 	<h2>Legal</h2>
 																																																																																																																																																																																																	<ul class="locale_menu">
-		<li>Language:<img src="https://www-cdn.soe.com/images/flags/en.png?v=2712935325" class="current_lang"> <span class="label">EN</span>
+		<li>:<img src="https://www-cdn.soe.com/images/flags/en.png?v=2712935325" class="current_lang"> <span class="label">EN</span>
 			<ul class="dropdown">
-																																		<li><a href="?locale=fr_FR"><img src="https://www-cdn.soe.com/images/flags/fr.png?v=345483556"> FR</a></li>
-																									<li><a href="?locale=de_DE"><img src="https://www-cdn.soe.com/images/flags/de.png?v=2524521767"> DE</a></li>
-																									<li><a href="?locale=es_ES"><img src="https://www-cdn.soe.com/images/flags/es.png?v=651011922"> ES</a></li>
+																				<li><a href="?locale=de_DE"><img src="https://www-cdn.soe.com/images/flags/de.png?v=2524521767"> DE</a></li>
+																																							<li><a href="?locale=es_ES"><img src="https://www-cdn.soe.com/images/flags/es.png?v=651011922"> ES</a></li>
+																									<li><a href="?locale=fr_FR"><img src="https://www-cdn.soe.com/images/flags/fr.png?v=345483556"> FR</a></li>
 																									<li><a href="?locale=it_IT"><img src="https://www-cdn.soe.com/images/flags/it.png?v=1795365972"> IT</a></li>
 																									<li><a href="?locale=ja_JA"><img src="https://www-cdn.soe.com/images/flags/ja.png?v=2877939277"> JA</a></li>
-																									<li><a href="?locale=ru_RU"><img src="https://www-cdn.soe.com/images/flags/ru.png?v=3102805617"> RU</a></li>
 																									<li><a href="?locale=pt_PT"><img src="https://www-cdn.soe.com/images/flags/pt.png?v=3027067957"> PT</a></li>
+																									<li><a href="?locale=ru_RU"><img src="https://www-cdn.soe.com/images/flags/ru.png?v=3102805617"> RU</a></li>
 												</ul>
 		</li>
 	</ul>
@@ -201,128 +286,229 @@ webReg.theme = "soe";
 <div style="clear:both"></div>
 <div class="content_page">
 	<div class="content_landing">
-		<a href="#top" class="scroll back_to_top">Back to Top</a>
 		<div class="content_block">
 			<ul class="legal_nav">
 	<li><a href="/legal?locale=en_US">Legal Notices</a></li>
 	<li><a class="current" href="javascript:;">Privacy Policy</a></li>
 	<li><a href="/terms-of-service?locale=en_US">Terms of Service</a></li>
 	<li><a href="/photosensitive?locale=en_US">Photosensitive Warning</a></li>
-	</ul>
-			<a href="https://www.esrb.org/confirm/soe-confirmation.jsp" class="esrb_emblem en_US"><img src="https://assets-cdn.soe.com/uploads/dcsclient/000/000/027/302.gif?v=0.0" width="70" height="97"></a>
-			<h3>Sony Online Entertainment LLC<br>PRIVACY POLICY</h3>
-			<div class="content_intro">
-				<p>(Revised July 22, 2011)</p> <p>Sony Online Entertainment LLC ("<strong>SOE</strong>" or "<strong>we</strong>" or "<strong>our</strong>") respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using The Station (as defined below). Your use of The Station is subject to your agreement to the terms of this privacy policy ("Privacy Policy") and our Station <a href="/termsofservice.vm">Terms of Service</a>.</p> <p>This Privacy Policy sets out the basis on which any Personal Information we collect from you, or that you provide to us, will be processed by us and is intended to provide you with notice of the following:</p>
+	<li><a href="/cookies?locale=en_US">Cookies</a></li>
+</ul>
+			<a href="https://www.esrb.org/confirm/soe-confirmation.jsp" class="esrb_emblem horiz-margin en_US"><img src="https://assets-cdn.soe.com/uploads/dcsclient/000/000/027/302.gif?v=0.0" width="70" height="97"></a>
+			<h1 class="horiz-margin">Daybreak Game Company LLC<br>PRIVACY POLICY</h1>
+			<div class="content_intro horiz-margin">
+				<p><strong>(Last Updated: March 13, 2015)</strong></p>
+				<p>Click <a href="/images/legal/downloads/daybreak_privacy_policy_20150313.pdf" target="_blank">here</a> for a printer-friendly version of the privacy policy</p> <p>Daybreak Game Company LLC (“<strong>Daybreak Games</strong>” or “<strong>we</strong>” or “<strong>our</strong>”) respects your privacy and is committed to protecting the Personal Information (as defined below) that you may provide us while using the Services (as defined below).  Your use of the Services is subject to your agreement to the terms and conditions of this Privacy Policy (the “<strong>Privacy Policy</strong>”) and our <a href="/terms-of-service">Terms of Service</a> (the “<strong>Daybreak Terms of Service</strong>”).</p>
+				<p>This Privacy Policy sets out the basis on which we process the Personal Information and Other Information (as defined below) that we collect from or about you and is intended to notify you of our privacy practices concerning the following topics.</p>
 			</div>
 		</div>
-		<div class="content_block last">
-																<ul class="content_index">
-																		<li><a href="#YourRights" class="scroll">Your rights with respect to the processing of your Personal Information<br> Disclosure of your Personal Information to third parties for their direct marketing purposes</a></li>
-																								<li><a href="#ESRBOnlinePrivacyProgram" class="scroll">Our participation in and certification by online privacy programs</a></li>
-																								<li><a href="#WebSitesAndServices" class="scroll">The web sites and services covered by this Privacy Policy</a></li>
-																								<li><a href="#Children" class="scroll">Our policies concerning Children's Personal Information</a></li>
-																								<li><a href="#WhatPersonalInformation" class="scroll">What "Personal Information" (information that directly or indirectly identifies a particular individual, for example, the individual's full name (first name and surname together), postal address, and e-mail address) we collect from you</a></li>
-																								<li><a href="#WhatNonPersonalInformation" class="scroll">What non-Personal Information we collect from you</a></li>
-																								<li><a href="#Cookies" class="scroll">Information on SOE's use of "cookies" and related technology</a></li>
-																								<li><a href="#HowWeUse" class="scroll">How and for what purposes we process, use and share the information that we collect from you</a></li>
-																								<li><a href="#CoPublishedGames" class="scroll">Information about co-published games</a></li>
-																								<li><a href="#ThirdParties" class="scroll">Information about links and third parties related to The Station</a></li>
-																								<li><a href="#AccessOrChangeTheInformation" class="scroll">How you may access, change or delete the information you have provided to us</a></li>
-																								<li><a href="#OtherAgreements" class="scroll">Other important agreements that govern your use of The Station</a></li>
-																								<li><a href="#OutsideTheUnitedStates" class="scroll">Information for persons outside the United States</a></li>
-																								<li><a href="#OurCommitment" class="scroll">Our commitment to secure the Personal Information we have collected</a></li>
-																								<li><a href="#NoticeOfChanges" class="scroll">Notice of changes to this Privacy Policy</a></li>
-																								<li><a href="#Contact" class="scroll">Contact us with questions, comments or requests</a></li>
-															</ul>
-				<div class="content_policy">
-																										<h4 id="YourRights">Your Privacy Rights</h4>
-								<p>As further discussed in this Privacy Policy, we may from time to time provide you with the opportunity to receive information about products and services offered by the Sony Family (defined below) and/or our third party marketing partners. Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please contact us through any of the means described below:</p> <ol> <li>Via e-mail at: <a href="mailto:accounts@soe.sony.com">accounts@soe.sony.com</a></li> <li>By phone at: 858-577-3100</li> <li>By regular mail at: <br> SOE Privacy Officer<br> Sony Online Entertainment LLC<br> 8928 Terman Court<br> San Diego, California 92121<br> USA</li> </ol> <p>You can prevent future disclosures of your Personal Information to the SOE Family and/or third parties for their direct marketing purposes, at no charge, by exercising your "opt out" rights through any of the means described below:</p> <ol> <li>Via e-mail expressly making such request to <a href="mailto:accounts@soe.sony.com">accounts@soe.sony.com</a></li> <li>By regular mail at: <br> Sony Online Entertainment LLC<br> 8928 Terman Court<br> San Diego, California 92121<br> USA<br></li> <li>You can access your user profile and modify your privacy preferences by opting-out of direct marketing communications from SOE, the Sony Family and/or our third party marketing partners, or</li> <li>Upon receipt of any electronic marketing communication from SOE or from the Sony Family, you can click on a link on the bottom of such communication to "unsubscribe" to any future marketing communications from SOE or the Sony Family.</li> </ol> <p>Because we provide you with the ability to exercise your "opt out" rights as described above, we do not provide the names and addresses of third parties that received Personal Information from us for such third parties' direct marketing purposes.</p>
-																																							<h4 id="ESRBOnlinePrivacyProgram">Our participation in and certification by online privacy programs</h4>
-								<p>This Privacy Policy and the certification seal located above confirm that SOE is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. We have voluntarily undertaken this privacy initiative and The Station has been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this program, we are subject to frequent audits of The Station and other enforcement and accountability mechanisms administered independently by ESRB.</p> <p>If you have any questions, complaints, or comments regarding this Privacy Policy, please contact SOE Customer Service at <a href="mailto:support@soe.sony.com" target="_blank">support@soe.sony.com</a>. For complaints, you can also contact ESRB Privacy Online directly at <a href="http://www.esrb.org/privacy/contact.jsp" target="_blank">http://www.esrb.org/privacy/contact.jsp</a> or by regular mail at 317 Madison Avenue, New York, NY 10017.</p>
-																																							<h4 id="WebSitesAndServices">The web sites and services covered by this Privacy Policy</h4>
-								<p>We currently operate the web site located at <a href="http://www.station.com/" target="_blank">www.station.sony.com</a>, including all of its subsites (typically any web pages which end in station.sony.com, including the examples set out below) and all software, products, features, games and services made available, displayed, or offered by or through our web site or subsites (collectively, "<strong>The Station</strong>").</p> <p>In addition, we own many other domain names (e.g. <a href="http://www.soe.com/">www.soe.com</a>, <a href="http://www.freerealms.com">www.freerealms.com</a>, and <a href="http://www.everquest.com">www.everquest.com</a>) that may redirect you to the home page of The Station and/or content-specific "subsites" of The Station, and these subsites are also considered part of The Station for purposes of this Privacy Policy.</p> <p>Examples of subsites include:</p> <blockquote> store.station.sony.com (the "<strong>Store</strong>")<br> stationexchange.station.sony.com<br> everquest.station.sony.com<br> freerealms.station.sony.com (and freerealms.com)<br> eqlive.station.sony.com<br> starwarsgalaxies.station.sony.com and<br> planetside.station.sony.com. </blockquote> <p>From time to time, we may add new subsites to The Station that may not initially be listed above, but such subsites will provide a link to this Privacy Policy and will be governed by this Policy and our <a href="http://www.station.sony.com/termsofservice.vm">Terms of Service</a>.</p>
-																																							<h4 id="Children"><a href="https://www.esrb.org/confirm/soe-confirmation.jsp" class="esrb_emblem"><img src=" https://www.esrb.org/privacy/members/privacy_kids-2008.gif"></a>Our policies concerning Children's Personal Information</h4>
-								<h5>A. General</h5> <p>Please take note that most content, games and services provided on The Station are not directed towards children under the age of 13 ("<strong>Children</strong>" and individually each, a "<strong>Child</strong>"). Therefore, except as otherwise expressly permitted by our Station <a href="http://www.station.sony.com/termsofservice.vm">Terms of Service</a> and our Privacy Policy, membership and/or registration for access to such content, games and services by Children is strictly prohibited. In any event individuals under the age of 18 should consult their parents or legal guardians before providing us with any of their Personal Information.</p> <p>Our subsite Free Realms is an area on The Station that is directed to Children. In order to afford Children additional protections and to comply with applicable laws we have instituted additional privacy protections and controls regarding the collection of Personal Information from Children in accordance with the United States' Children's Online Privacy Protection Act ("<strong>COPPA</strong>"), Canada's Personal Information Protection and Electronic Documents Act, and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ("<strong>EU Data Protection Directive</strong>"). In particular, we will inform parents and legal guardians ("<strong>Parents</strong>" and individually each, a "<strong>Parent</strong>") of how we collect, use and disclose Personal Information collected from Children (if any such information is collected, used, or disclosed), and we will obtain, where required and subject to certain limited exceptions permitted by applicable laws, the consent of a Parent prior to collecting, using or disclosing any Child's Personal Information. A Child's access to The Station, whether as a registered or unregistered user, is subject at all times to this Privacy Policy and The Station <a href="http://www.station.sony.com/termsofservice.vm">Terms of Service</a>.</p> <h5>B. Information for Parents</h5> <p>Parents are encouraged to spend time online with their kids under the age of 18 and to become familiar with the types of content available on The Station and the Internet in general. Parents should regularly oversee their kid's use of e-mail and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for kids. You can find out about software that protects your Children at the Direct Marketing Association's home page at: <a href=" http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm">http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm</a> and at <a href="http://kids.getnetwise.org/tools">http://kids.getnetwise.org/tools/</a>. If your son or daughter has used your credit card on The Station without your permission, contact us immediately at <a href="mailto:accounts@soe.sony.com"><u>accounts@soe.sony.com</u></a>.</p> <h5>C. What Types of Personal Information do we collect directly from a Child?</h5> <p>We ask users who wish to register for a Station Account to submit their date of birth, gender, email address, and country of residence. For certain of our products and services, such as Free Realms, that are marketed to Children, we ask users who wish to register for his or her age, country of residence, and email address (or, depending on age, the Parent's email address, as set forth herein). Where the date of birth or age response indicates that a user is under the age of 13, such users are directed to our Restricted Activation procedure (as set forth in the Station <a href="http://www.station.sony.com/termsofservice.vm">Terms of Service</a>), wherein we collect directly from the Child, the Child's Station Account username and password, and the e-mail address for the Child's Parent (additionally, a secret question and answer may be subsequently created after account registration). We will not knowingly collect any further Personal Information from such Child until he or she turns 13 years of age or we have first sought and obtained verifiable parental consent from the Child's Parent.</p> <p>Please note that the sections in "<u>Our Policies Concerning Users Generally</u>" dealing with our collection of non-Personal Information and our use of cookies and related technologies to passively collect information apply to the use of The Station by Children, as well as to users over the age of 13.</p> <p>Please also note that we will never condition a Child's registration for a Station Account, or a Child's participation in any other game, service activity or offering provided via The Station, on the Child disclosing more Personal Information than is reasonably necessary to participate in such activity or offering. To read about the steps SOE takes to protect the confidentiality, security, and integrity of Children's Personal Information, please see "<u>Our commitment to secure Personal Information we have collected</u>" below.</p> <h5>D. When may we collect and use Personal Information provided by a Child without parental consent?</h5> <p>In some instances, certain portions of The Station or any of its subsites may allow Children to submit Personal Information such as their name and/or the Child's or his or her Parent's e-mail address without first obtaining their Parents' consent.</p> <p>For example:</p> <ul> <li>We may collect the name or online contact information of a Parent or Child for the purpose of obtaining parental consent and/or providing the Parent with any information regarding their Child's use of The Station or any of its subsites as required by law. </li> <li>We may collect online contact information from a Child if such information is used on a one-time basis to respond directly to a specific request from the Child. </li> <li>We may collect online contact information from a Child to be used to respond directly more than once to a specific request from the Child (e.g., to receive a newsletter or in-game communications from SOE), provided that in such case the Child's Parent shall have the right to refuse to permit further contact with the Child and require the deletion of Personal Information about or collected from the Child by following the steps outlined in "<u>How can Parents access, change and delete Personal Information collected about Children?</u>" below. We will use reasonable efforts to notify the Child's Parent (e.g., via e-mail) of such ongoing communications with the Child promptly after our initial response to the Child and before making any subsequent responses to the Child. </li> <li>We may collect online contact information from a Child to the extent reasonably necessary to protect the safety of a Child participant on The Station, provided that we have used reasonable efforts to provide notice to the Child's Parent (e.g., via e-mail). If the Parent fails to respond to such notice, we may use such online contact information for the purpose stated therein. </li> <li>We may collect a Child's name and/or online contact information to the extent reasonably necessary to protect the security or integrity of The Station, to take precautions against liability, to respond to judicial process or to the extent permitted under other provisions of applicable laws, to provide information to law enforcement agencies or for an investigation on a matter related to public safety. </li> <li>We may collect details of a Child's visits to our site including, but not limited to, traffic data, location data, logs and other communication data and the resources that the Child accesses. </li> </ul> <h5>E. When may we share Personal Information provided by a Child with Third Parties?</h5> <p>We may share a Child's Personal Information with third parties solely to the extent necessary for such third party to perform a service on our behalf, to protect the security or integrity of The Station, to take precautions against liability, to respond to judicial process, or to the extent otherwise required by applicable law. In addition, as further discussed below, we may share a Child's Personal Information with an assignee to all of SOE's rights and obligations regarding the use of the Child's Personal Information at the time of a bankruptcy, merger, acquisition, sale of all or substantially all of the Site's assets to a subsequent owner or operator, or similar event, and we will use reasonable efforts to notify you, via email and/or a public posting on The Station if such an event occurs.</p> <h5>F. How can Parents access, change and delete Personal Information collected about Children?</h5> <p>At any time, a Parent may request that we cease to collect further Personal Information from their Child and can also request that any Personal Information we have collected be changed or deleted from our records, in accordance with applicable law. A Parent can contact us with a request to access, change or delete his or her Child's Personal Information or to cease to collect and/or use Personal Information about or collected from the Child by sending an e-mail to <a href="mailto:accounts@soe.sony.com">accounts@soe.sony.com</a>.</p>
-																																							<h4 id="WhatPersonalInformation">What Personal Information we collect from you</h4>
-								<h5><strong>A. General</strong></h5> <p>We do not collect any Personal Information from you, unless you provide it to us voluntarily (e.g. through interaction or registration with The Station). If you decide to provide us your Personal Information (e.g., name, e-mail address, and mailing address), we will only collect the Personal Information which is needed to fulfill your requests and/or our legitimate business objectives, as set out in this Privacy Policy, and we will keep it no longer than is necessary to fulfill such purposes and objectives. If you refuse to divulge your Personal Information when requested, and the disclosure of such Personal Information is indicated as being required (rather than voluntary), you may not be able to access certain functionality or areas of The Station (such as chat rooms and message boards). </p> <h5><strong>B. Memberships and Registration</strong></h5> <p>Some areas of The Station may allow you to visit as a guest and remain anonymous, but you may not be able to access all the content and features of those areas without registering (<em>e.g.</em> in order to play our subscription-based games, additional information, such as your real name and billing information, will be required). Important information regarding account registration procedures and the security of your account is set out in The Station <a href="http://www.station.sony.com/termsofservice.vm">Terms of Service</a>. </p> <h5><strong>C. E-mail Newsletters and Friend to Friend Promotions</strong></h5> <p>Typically you need to have an account in order to receive e-mails from us, provided that you may receive e-mail communications from us on a one-time basis if you have contacted us directly with regard to a specific request or if you do not have an account and have expressly agreed to receive e-mail communications for promotion and/or marketing, or for e-mail newsletters. You may be asked for additional Personal Information when you subscribe. You can opt-out of receiving future marketing e-mails from us by following the directions contained in the e-mail to "unsubscribe." Also, except in jurisdictions where it may be prohibited by law to do so, The Station or service offerings available thereon may allow you to submit information about other people. For example, we may offer "Send to a Friend" promotions, like electronic postcards available on The Station or through our newsletters. In these situations, you may provide the e-mail address and, sometimes, the name of a friend. After the "Send to a Friend" transaction is completed, that information is deleted. We will not retain the recipient's email address for longer than necessary to complete the transmittal. In our communication to your friend in this circumstance, he or she will also be presented with an opportunity to "opt-out" from receiving future e-mails from us. You might also submit a person's name and other information if you purchase a gift and want to have it sent directly to the recipient. A record of that transaction will be maintained as allowed and/or required by law.</p> <h5><strong>D. Sweepstakes, Contests, and Promotions</strong></h5> <p>To participate in some of our sweepstakes, contests, surveys, and other promotions, you may be asked to provide additional Personal Information such as your mailing address. This information may be collected by SOE or by third parties such as co-sponsors or vendors for the promotion. Potential winners may be required to provide additional Personal Information for the purpose of verifying eligibility and awarding prizes, and for tax purposes. SOE's use of any such information will be governed by this Privacy Policy. The names of third parties such as co-sponsors (other than vendors hired by SOE to conduct, administer, and execute a promotion on behalf of SOE) will be disclosed to you when you are asked to sign up for the promotion. You should review such third parties' privacy policies to see how they may use any information that they collect. </p> <h5><strong>E. Online Purchases and Technical Support</strong></h5> <p>When you sign up to play one of our fee-based games or you make certain online purchases from the us, we may also require that you provide us with the necessary billing information such as your real name, credit card or payment information, street address, etc., so that we may provide the content, game, service, or product to you (according to the terms of the sale, including for example the end user license agreements and terms of use for our fee-based games). In order to resolve issues related to customer service, billing questions, technical and computer support, etc., we may also require you to provide us with some Personal Information so that we may resolve such issues properly.</p> <h5><strong>F. Online Games</strong></h5> <p>When you play any of the games offered and/or served by SOE, or use any of the communication features on The Station, your IP address (the Internet protocol address from which you access any of the above) may be stored in our records. When any game is updated or "patched," our patch routine may check your computer to see that you have the most recent version of game-specific files; when you communicate within any game or any other communication feature within The Station (e.g. live chat, instant message services and the like), even "privately" to another person, you do so with the understanding that those communications go through our servers, you expressly agree to waive any rights of confidentiality that you may have in and to your communications (if any) when using any of The Station's communication features, you agree you have no expectation of privacy in any of those communications and, accordingly, and where and to the extent permitted by applicable law, you expressly consent to monitoring of communications (including technical support and customer service communications) that you send and receive. When you log into one of our online games, your system specifications (such as OS, RAM, video card, monitor, system configuration, crash data etc.) may be reviewed/recorded by us for the purposes of analyzing and optimizing your game experience and in order to provide you with customer service.</p> <h5><strong>G. Hosting of Third-Party Tournament Services</strong></h5> <p>Certain SOE services, such as the Gamers Round Table, may be provided to you in conjunction with a third party, such as with Comic Images for the <em>Stargate Trading Card Game</em> or with Bandai America for the <em>Naruto Collectible Card Game</em>. During the registration process for any tournament service(s) related to such games, you may be notified that such third party wishes access to some of your Personal Information. In such a situation, you will be given an opportunity to decline to share that information with that third party before any such information is shared. If you decline to share such information with the relevant third party, you may not be able to use the tournament services for that game. As described in the registration process, a third party's (such as Comic Images') use of the shared Personal Information will be governed by any privacy policy such third party may have in place and SOE's use of such information shall, of course, be governed by the terms of this Privacy Policy. You may change your preferences concerning the sharing of your information by contacting customer service. </p> <h5><strong>H. Consent to Monitor</strong></h5> <p>Please note that, when running, some SOE games may monitor your computer's random access memory ("<strong>RAM</strong>"), media access control ("<strong>MAC</strong>") address, configuration files and system files, etc., for unauthorized third party programs running concurrently with your SOE game which, in SOE's sole determination: (i) enable or facilitate cheating of any type; (ii) allow users to modify or hack the applicable SOE game interface, environment, and/or experience in any way not expressly authorized by SOE; or (iii) intercept, "mine" or otherwise collect information from or through the applicable SOE game (an "<strong>Unauthorized Third Party Program</strong>"). In the event that an SOE game detects an Unauthorized Third Party Program, (a) the SOE game may communicate information back to SOE, including without limitation your Station Account username, details about the Unauthorized Third Party Program detected and the activities or functions performed thereby, and/or details about your computer, and/or (b) SOE may exercise any or all of its rights and remedies under this Agreement or the applicable SOE game end user license agreement without prior notice to the user linked to such Unauthorized Third Party Program. </p> <p>You acknowledge that any and all character data that is stored and is resident on our servers, and any and all communications that you make within The Station or any SOE games (including, but not limited to, messages solely directed at another player or group of players) traverse through our servers, may or may not be monitored by us or our agents (to the extent permitted by applicable law), you have no expectation of privacy in any such communications and expressly consent to such monitoring of communications you send and receive. For example, SOE may monitor chat rooms in certain portions of The Station directed at Children. You expressly agree to waive any rights of confidentiality that you may have in and to your communications (if any) when using any of The Station's communication features, you agree you have no expectation of privacy in any of those communications and, accordingly, and you expressly consent to such monitoring of communications (including technical support and customer service communications) that you send and receive. </p> <h5><strong>I. Resume Submissions and Business Capacity</strong></h5> <p>SOE allows for the online submission of resumes. Please be advised that information (including Personal Information) contained in a job applicant's resume or otherwise submitted to SOE in a business capacity is not subject to the terms of any other section of this Privacy Policy. The information obtained from your resume will only be used for the purpose of accepting and evaluating your submission for a job and contacting you, your previous employers and your references in connection with that purpose.</p> <h5><strong>J. Indirect Collection of Personal Information</strong></h5> <p>Please note that, as mentioned elsewhere in this Privacy Policy and/or in The Station <a href="http://www.station.sony.com/termsofservice.vm">Terms of Services</a> and/or on The Station itself, SOE may collect from you Personal Information relating to certain third parties, such as your Parents, other family members, friends, etc. ("<strong>Indirect Personal Information</strong>"). Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Indirect Personal Information to us and/or any to third-party without the relevant third party's consent.</p>
-																																							<h4 id="WhatNonPersonalInformation">What non-Personal Information we collect from you</h4>
-								<p>General, aggregated, demographic, and non-Personal Information may be collected by SOE. It will not be linked to any of your Personal Information, through cookies or other means, without your consent. This type of anonymous, aggregated profiling and session data may include information that you have provided to us through surveys, polls, etc., but will not be tied to any Personal Information, without your consent. It may also include aggregated anonymous information about web site usage and the customer base.</p> <p>As part of the registration process for some services, you may be asked to provide information that does not personally identify you. For example, you may be asked to provide information concerning your entertainment preferences, purchasing habits, and the like. This information is generally optional, but where provided it may be included in your account profile and you hereby consent to this information being tied to your Personal Information. SOE requests this information to understand you better and to also bring to your attention new services, programs, or offers that may be of interest to you. Where SOE automatically collects non-Personal Information as stated above, and it is possible to link this information to your Personal Information, you hereby consent to SOE linking relevant non-Personal information to your Personal Information.</p> <p>In many cases, SOE will automatically collect certain non-Personal Information about your use of The Station. SOE might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your "click path" through a Site, and the web site or advertisement that was linked to or from a Site when you visited. To do this, SOE may use cookies and other technology (see below). Your visits to The Station, and information provided through these technologies, will be anonymous unless you provide us with Personal Information or have provided such information in the past. For example, if you've created an account, your account information (including e-mail address, and billing and shipping information) may be linked to the items you purchased at our online store (i.e., purchase order history).</p>
-																																							<h4 id="Cookies">Information on cookies and related technology</h4>
-								<p>The Station, and some services and advertisements displayed or made available thereon, may contain "cookies." A cookie is a piece of data that is sent to your browser, which will store the cookie on your computer if your browser is enabled to accept cookies. Technology and tools such as clear gifs (also known as "web beacons") assist in the delivery of cookies.</p> <p>SOE uses cookies, clear gifs, frames, server log analysis and other technology to: </p> <ul> <li>store information about your preferences, so as to allow us to customize your experience with The Station and its subsites;</li> <li>estimate our audience size and usage patterns;</li> <li>to speed up your searches; and</li> <li>recognize you when you return to our site. </li> </ul> <p>Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Certain cookies are required to allow or facilitate electronic communications or are necessary to allow the provision of online services at the request of the user. On their own, cookies or related technologies do not contain or reveal any Personal Information but can be combined with and use to process Personal Information. Personal Information collected through the use of these technologies will be collected, stored and processed according to this Privacy Policy. </p> <p>Most internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or "Help" screen to learn more about how to manage cookies. Please note, however, that if you block cookies, some portions of The Station may not function properly.</p> <p>SOE does not control cookies in third party ads, and visitors are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. The ads appearing on The Station may be delivered to you by third-party advertising companies. These companies may use information about your visits to this and other web sites in order to provide advertisements on The Station and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">http://www.networkadvertising.org/optout_nonppii.asp</a>.</p>
-																																							<h4 id="HowWeUse">How we use and share the information that we collect from you</h4>
-								<h5><strong>A. How we use information that we collect from you</strong></h5> <p>Personal Information which we collect for a particular purpose will only be saved and used for that purpose, unless you have agreed to allow us to use it for some other purpose, as described in this Privacy Policy. For example, if you make an online purchase from us, unless you have given us permission to do otherwise, we will only collect and save the Personal Information you provided to us, including your billing and delivery information, in order to (1) complete the sale, (2) comply with tax and other applicable statutes, (3) maintain accurate business and financial records (in accordance with accepted standards), and (4) assist with customer service and returns. </p> <p>We may use the Personal Information we collect from you to enable us to:</p> <ul> <li>provide you with technical support, customer service, and account maintenance;</li> <li>learn what you like and tailor your experience accordingly; </li> <li>to improve The Station and its subsites and our other products and services;</li> <li>provide services or products you request;</li> <li>allow you to participate in or use the SOE Communication Features; </li> <li>allow you to play one of our fee-based games, or free games and download any other game; </li> <li>allow you to benefit from any other services, as the case may be, such as sweepstakes, contests and promotions; </li> <li>manage your Station Account and respond to your potential orders, requests and online purchases; </li> <li>inform you of any changes made to The Station and its subsites; and </li> <li>inform you of products, services, promotions and offers which you may find interesting. </li> </ul> <p>If you do not want us to use your Personal Information in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.</p> <h5><strong>B. Information we provide to third parties</strong></h5> <p>Where and to the extent required by the applicable laws, you hereby expressly consent to your Personal Information being shared with or otherwise transferred by SOE to third parties.</p> <p>When you have provided Personal Information to us for a particular purpose, we may disclose your information to other companies that we have engaged to assist us in fulfilling your request and who we subject to confidentiality requirements. This may include, but is not limited to, fulfillment houses, billing services, transaction managers, credit verification services, and other third party service providers. We may also disclose any of your Personal Information to law enforcement or other appropriate third parties in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable laws, or, as we deem necessary in our sole discretion, in order to protect the rights, property or safety of SOE, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. </p> <p>We will also provide your Personal Information to third party processors so that it can be administered and processed for the purposes notified to you in the Privacy Policy and the Station <a href="http://www.station.sony.com/termsofservice.vm">Terms of Services</a>, and we may also share details with third parties (such as auditors or legal advisors) in order to obtain professional advice. Any such processing will be governed by an agreement in the form required by applicable laws, preserving any and all of your statutory data protection rights. </p> <p>Except as described in this policy, we will not give any of your Personal Information to any third party without your express approval, and other than with respect to Personal Information disclosed in connection with co-published games (as further described below), the only Personal Information we will request to share with third parties is your name, mailing address and e-mail address. If you don't want us to share your Personal Information with third parties, you can "opt-out" in the manner discussed under "<u>Your Privacy Rights</u>" set forth on the first page of this Privacy Policy. We sometimes share general, demographic, or aggregated non-Personal Information with third parties about our user base, but that information does not include any Personal Information.</p> <p>You will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of The Station, of any Personal Information contained in the SOE database for such site, if SOE or one of its companies assigns all of its rights and obligations regarding the use of your Personal Information at the time of a bankruptcy, merger, acquisition, sale of all or substantially all of the Site's assets to a subsequent owner or operator, or similar event.</p> <h5><a name="SonyFamilyInitiatives" id="SonyFamilyInitiatives"> </a><strong>C. Information about Sony Family Initiatives</strong></h5> <p>When you provide us with Personal Information, you may be given the option of receiving information about other Sony products and/or services. If you choose ("opt-in") to receive such information, you may be contacted directly by members of the "Sony Family" as defined below, and they will handle your Personal Information in accordance with their respective privacy policies.</p> <p>If you allow us to do so, we may share Personal Information about you with the "Sony Family" which consists of (i) any company in which 25% or more of its outstanding shares are owned by Sony Corporation, directly or indirectly, and any company with "Sony" as part of its trade name. Likewise, the aforementioned Sony companies may provide us your Personal Information about you in accordance with their respective privacy policies. So, for instance, if you opt-in (or in some cases fail to opt-out) to have your information shared within the Sony Family, we may share basic name and point of contact information (e-mail address, physical address, and/or phone number) with Sony Corporation of America, who may in turn provide Personal Information about you to other members of the Sony Family in order to facilitate the management of your account, and to notify you of products and services that may be of interest to you; we may also share that Personal Information directly with other members of the Sony Family.</p>
-																																							<h4 id="CoPublishedGames">Information about co-published games</h4>
-								<p>Certain SOE games, such as Star Wars Galaxies, may be provided to you in conjunction with a third party publisher. During the registration process for such games, you may be notified that such third party wishes access to some of your Personal Information. In such a situation, you will be given an opportunity to consent to the sharing of that information before such information is disclosed to the applicable third party. However, if you do not provide consent then you may be unable to participate in the applicable co-published game. For example, you may have agreed, when you registered to play Star Wars Galaxies, that your name, address, and e-mail information could be shared with SOE's publishing partner Lucas Arts, a division of LucasFilm Entertainment Company Ltd. ("<strong>LucasArts</strong>"). As described in the registration process, a third party's (such as LucasArts') use of the shared Personal Information will be governed by its privacy policy and SOE's use of such information shall, of course, be governed by the terms of this Privacy Policy. </p>
-																																							<h4 id="ThirdParties">Information about links and third parties related to The Station</h4>
-								<p>You have the right to access information held about you by SOE. Your right of access can be exercised in accordance with applicable data protection and privacy laws.</p> <p>This Privacy Policy applies only to information collected online by SOE through The Station, as maintained by SOE and affiliated companies that SOE may own or control. From time to time, we may provide links to third party web sites (e.g., exchange.livegamer.com). This Privacy Policy does not apply to third party web sites, whether we provide a link to such sites or not, so we encourage you to review the policies of all such sites carefully, as your rights will be governed by those third party policies and not by SOE's. Additionally, there may be unauthorized third party web sites that may be providing links from their sites to The Station without our knowledge or control. We are not responsible for the content of any third party web sites, expressly disclaim any statements or assertions made on such web sites, and deny all liability associated with your use of, and the content on, such other sites or advertisements contained therein.</p>
-																																							<h4 id="AccessOrChangeTheInformation">How you may access, change or delete the information you have provided to us</h4>
-								<p>Subject to security and privacy concerns (e.g., regarding your password and credit card number), your Station Account will give you the ability to access, change, delete and/or update your information and communications preferences. If you choose to have your Personal Information removed from our active databases, we will do so within a reasonable time after your request and we will take reasonable steps to ensure that your Personal Information is not used (except as may be required by law) by SOE after your notification to us.<a name="OtherAgreements" id="OtherAgreements"> </a> In addition, if you change your mind and later decide that you do not want to receive promotional e-mails from us and/or to have us share your name and e-mail address (or other Personal Information) with third parties or the Sony Family, you may send an e-mail to us at <a href="mailto:accounts@soe.sony.com">accounts@soe.sony.com</a>. You may also contact us via mail at: Attn: SOE Privacy Officer, 8928 Terman Court, San Diego, CA 92121 or via phone at 858-577-3100 and ask for the Privacy Officer. Alternatively, you may also "opt-out" of such e-mails, or access, change and/or delete any of your Personal Information retained by us, by logging on to you Station Account using your user name and password.</p>
-																																							<h4 id="OtherAgreements">Other important agreements that govern your use of The Station</h4>
-								<p>In addition to this Privacy Policy, your rights and obligations concerning The Station are governed by The Station <a href="http://www.station.sony.com/termsofservice.vm">Terms of Service</a>, and where appropriate, the applicable subsite terms of service or terms of sale, the applicable game's end user license agreement and/or terms of use, and other applicable policies, guidelines, FAQ's and requirements. When you sign up to use The Station and/or any of our services, please review each such agreements carefully, as you must agree to be bound by each such agreement before you may use The Station and/or the relevant service.</p>
-																																							<h4 id="OutsideTheUnitedStates">Information for persons outside the United States</h4>
-								<p>For persons in the European Union ("<strong>EU</strong>") as used herein, terms such as "Personal Information" refer to "personal data" as defined by the EU Data Protection Directive and applicable local laws. </p> <p>Your personal data may be transferred to, stored at and processed in the United States (and/or other non- European Economic Area ("<strong>EEA</strong>") jurisdictions). Please note that the level of legal protection provided in the United States or other non-EEA countries where The Station operates may not be as stringent as that under EEA privacy standards. We will not collect any personal data from you unless you provide it voluntarily by providing us with your freely given specific and informed consent. By using The Station, you agree that we may transfer, store and process your personal data outside the EEA in connection with the purposes stated in this Privacy Policy. </p> <p>In certain countries other than the United States, some of our online games and the services related thereto, may be provided to you by third party distribution partners. To the extent that a third party distributor is providing services related to your account, you understand and agree that each such distributor will collect and use your Personal Information in accordance with its own privacy policies (which you will have access to when you register to play). To the extent that SOE collects or retains any of your Personal Information, its use will continue to be governed by the terms of this Privacy Policy. </p> <p>For example, in EU countries, to the extent that third party publishers and distributors ("<strong>Third Party Distributors</strong>") are performing services related to your account, we elect the applicable Third Party Distributor(s) as SOE's representative (as defined in the EU Data Protection Directive) in each such country with respect to the online games for which such Third Party Distributor(s) is the distributor and the related personal data collected for such game. All such Third Party Distributors must enter into an agreement with SOE to maintain such personal data in accordance with their privacy policy, available on their web site.</p>
-																																							<h4 id="OurCommitment">Our commitment to secure the Personal Information we have collected</h4>
-								<p>In order to provide you with added protection, SOE employs a security technology known as a secure-socket-layer ("<strong>SSL</strong>") to protect the transmission of payment information to the Site. Unless otherwise specified herein or on the Site where you make a purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes.</p> <p>While SOE takes reasonable precautions against possible breaches of The Station and customer databases, no web site or Internet transmission is completely secure. Consequently, SOE cannot and does not guarantee that unauthorized access, hacking, data loss, or other breaches will never occur, but we have in place reasonable technical and organizational security measures to protect your Personal Information against accidental or intentional manipulation, loss, destruction, or against unauthorized disclosure or access to the information we collect online. SOE urges you to take steps to keep your Personal Information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your user account, and closing your web browser. </p>
-																																							<h4 id="NoticeOfChanges">Notice of changes to this Privacy Policy</h4>
-								<p>SOE reserves the right to change this Privacy Policy at any time by notifying registered users via e-mail of the existence of a new Privacy Policy and/or posting the new Privacy Policy on The Station. All changes to the Privacy Policy will be effective when posted, and your continued use of any of the Sony web sites or services after the posting will constitute your acceptance of, and agreement to be bound by, those changes. </p>
-																																							<h4 id="Contact">Contact us with questions, comments or requests</h4>
-								<p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to:</p> <ul> <li>Email: <a href="mailto:accounts@soe.sony.com">accounts@soe.sony.com</a></li> <li>Mail: SOE Privacy Officer, 8928 Terman Court, San Diego, CA 92121 </li> <li>Phone: 858-577-3100 (ask for the Privacy Officer)</li> <li>For non-English speaking users, please see our <a href="http://www.station.sony.com/termsofservice.vm">Terms of Service</a> for further information about how to contact SOE</li> </ul>
-																						</div>
-					</div>
-	</div>
-</div>		</div>
-	</div>
-
-	<div class="footer">
-	<div class="ulitems">
-		<ul>
-			<li class="footer_header">SOE.com</li>
-			<li><a href="/register">Register</a></li>
-			<li><a href="https://account.station.sony.com/?theme=soe">Manage Account</a></li>
-			<li><a href="/community">Community</a></li>
-		</ul>
-		<ul>
-			<li class="footer_header">Shop</li>
-			<li><a href="/gamecards?locale=en_US">SOE Game Cards</a></li>
-			<li><a href="/stationcash?locale=en_US">Station Cash</a></li>
-			<li><a href="/allaccess?locale=en_US">SOE All Access</a></li>
-		</ul>
-		<ul>
-			<li class="footer_header">Company</li>
-			<li><a href="/soe-mission?locale=en_US">Who We Are</a></li>
-			<li><a href="/soe-history?locale=en_US">History of SOE</a></li>
-			<li><a href="/careers?locale=en_US">Careers</a></li>
-			<li><a href="/execs?locale=en_US">Executive Staff</a></li>
-			<li><a href="http://www.soepress.com">SOE Press</a></li>
-		</ul>
-		<ul>
-			<li class="footer_header">Help</li>
-			<li><a href="http://help.soe.com/">Customer Support</a></li>
-			<li><a href="http://help.soe.com/">Account Help</a></li>
-			<li><a href="http://help.soe.com/">Billing Help</a></li>
-			<li><a href="http://help.soe.com/">Support Forums</a></li>
-		</ul>
-		<ul>
-			<li class="footer_header">Legal</li>
-			<li><a href="/legal?locale=en_US">Legal Notices</a></li>
-			<li><a href="/privacy?locale=en_US">Privacy Policy</a></li>
-			<li><a href="/terms-of-service?locale=en_US">Terms of Service</a></li>
-			<li><a href="/photosensitive?locale=en_US">Photosensitive Warning</a></li>
-					</ul>
-		<div class="footer_images">
-			<a href="/">
-				<img src="https://www-cdn.soe.com/images/soe_images/soelogofooter.png?v=3433104900">
-			</a>
-						<a href="https://www.esrb.org/confirm/soe-confirmation.jsp"><img alt="ESRB Privacy" src="https://assets-cdn.soe.com/uploads/dcsclient/000/000/027/304.gif?v=0.0" border="0"></a>
-						<div style="clear:both;"></div>
+		<div class="content_block horiz-margin">
+			<script id="indexTemplate" type="text/html">
+				<li><a href="<%= data.anchor %>"><%= data.title %></a></li>
+			</script>
+			<ul id="contentIndex" class="content_index"></ul>
 		</div>
-		<div style="clear:both;"></div>
+		<div class="content_block policy-contents horiz-margin">
+			<h2>The websites and services covered by this Privacy Policy</h2>
+<p>The Privacy Policy applies to the websites, software applications or programs, games, HTML email messages, information we collect through social media pages, and other properties and services that are operated by us and that link to this Privacy Policy (collectively, the “<strong>Services</strong>”). Please note that when visiting Daybreak Games’ pages hosted on social media websites (e.g., Facebook, Twitter, YouTube, Google+) or any other third-party websites, you should refer to their privacy policies and terms of use for more information about how they handle your information.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>Our participation in and certification by online privacy programs.</h2>
+<p>This Privacy Policy and the certification seals shown on our websites confirm that Daybreak Games is a valid licensee and participating member in the <a href="http://www.esrb.org/privacy/faq.jsp">ESRB Privacy Certified Program</a>. We have voluntarily undertaken this privacy initiative and the Services have been reviewed and certified by the ESRB Privacy Certified Program to meet established online information collection and use practices. As part of this program, we are subject to frequent audits of the Services and other enforcement and accountability mechanisms administered independently by ESRB.</p>
+<p>If you have any questions, complaints, or comments regarding this Privacy Policy, please contact Daybreak Games Customer Service at <a href="mailto:support@daybreakgames.com">support@daybreakgames.com</a>. For complaints, you can also contact the ESRB Privacy Certified Program directly at <a href="mailto:privacy@esrb.org">privacy@esrb.org</a> or by mail at Attn: Privacy Certified Program, 420 Lexington Avenue, Suite 2024, New York, NY 10170.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>Personal Information we collect from and about you</h2>
+<h3>A. General</h3>
+<p>“<strong>Personal Information</strong>” is information that identifies you as an individual or relates to an identifiable person, including for example, your name, e-mail address, postal address, phone number, and payment card information. We do not collect any Personal Information from you unless you provide it to us voluntarily (e.g., through interaction or registration with the Services). We may combine the Personal Information we receive from you with information we receive about you from other sources, such as our affiliates, public databases, joint marketing partners, social media platforms, from people with whom you are friends or otherwise connected on social media platforms, and from other third parties. For example, if you elect to connect your social media account to your Services account, certain Personal Information from your social media account may be shared with us, such as your name, email address, photo, and location. This Personal Information may be combined with other information that is part of your profile or your friends’ profiles.</p>
+<h3>B. Memberships and Registration</h3>
+<p>Some areas of the Services may allow you to visit as a guest and remain anonymous, but you may not be able to access all the content and features of those areas without registering (e.g., in order to play our subscription-based games, information such as your real name and billing information is required). Important information regarding account registration procedures and the security of your account is set out in the Daybreak <a href="/terms-of-service">Terms of Service</a>.</p>
+<h3>C. E-mail Newsletters and Friend to Friend Promotions</h3>
+<p>Typically you need to have an account in order to receive e-mails from us, provided that you may receive e-mail communications from us if you have contacted us directly with regard to a specific request or if you have expressly agreed to receive e-mail communications for promotion, marketing, or newsletters. You may be asked for additional Personal Information when you subscribe. You can opt-out of receiving future marketing e-mails from us by following the unsubscribe directions contained in the e-mail. Also, except in jurisdictions where it may be prohibited by law, we may allow you to submit information about other people, such as in connection with a “Send to a Friend” promotion. In these situations, you may provide the e-mail address and, sometimes, the name of a friend. After the “Send to a Friend” transaction is completed, that information is deleted.</p>
+<h3>D. Sweepstakes, Contests, and Promotions</h3>
+<p>To participate in some of our sweepstakes, contests, surveys, and other promotions, you may be asked to provide additional Personal Information such as your physical mailing address. This information may be collected by Daybreak Games and/or by third parties such as co-sponsors or vendors for the promotion. Potential winners will be required to provide additional Personal Information for the purpose of verifying eligibility, awarding prizes, and for tax purposes. The names of third parties such as co-sponsors (other than vendors hired by Daybreak Games to conduct, administer, and execute a promotion on behalf of Daybreak Games) will be disclosed to you when you are asked to sign up for the promotion. You should review such third parties’ privacy policies to see how they may use any information that they collect.</p>
+<h3>E. Online Purchases and Technical Support</h3>
+<p>When you sign up to play one of our fee-based games or you make certain online purchases from us, we will require that you provide us with the necessary billing information, such as your name, credit card or payment information, street address, etc., so that we may provide the content, game, service, or product to you. In order to resolve issues related to customer service, billing questions, technical, and computer support, etc., we may also require you to provide us with some Personal Information so that we may resolve such issues properly.</p>
+<p>We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by such third party and not by us and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use, and disclosure of your Personal Information.</p>
+<h3>F. Hosting of Third-Party Services</h3>
+<p>Certain Services may be provided to you in conjunction with a third party. During the registration process for any such Service, you may be notified that such third party wishes access to some of your Personal Information and you will be given an opportunity to decline to share that information with that third party. If you decline, you may not be able to use the relevant Services. A third party’s use of the shared Personal Information will be governed by the third party’s own privacy policy, and Daybreak Games’ use of such information will be governed by this Privacy Policy.</p>
+<h3>G. Consent to Store &amp; Monitor</h3>
+<p>Please note that, when running, some of our games may monitor your computer’s random access memory (“<strong>RAM</strong>”), media access control (“<strong>MAC</strong>”) address, configuration files and system files, etc., for unauthorized third party programs running concurrently with your game which, in Daybreak Games’ sole determination: (i) enable or facilitate cheating of any type; (ii) allow users to modify or hack the applicable Daybreak Games game interface, environment, and/or experience in any way not expressly authorized by Daybreak Games; or (iii) intercept, “mine” or otherwise collect information from or through the applicable Daybreak Games game (each, an “<strong>Unauthorized Third Party Program</strong>”). In the event that a Daybreak Games game detects an Unauthorized Third Party Program, (a) the Daybreak Games game may communicate information back to Daybreak Games, including without limitation, your Daybreak Games account username, details about the Unauthorized Third Party Program detected and the activities or functions performed thereby, and/or details about your computer, and/or (b) Daybreak Games may exercise any or all of its rights and remedies, including, without limitation, its rights and remedies under the Daybreak <a href="/terms-of-service">Terms of Service</a> and/or the Daybreak Games end user license agreement without prior notice to the user linked to such Unauthorized Third Party Program.</p>
+<p>When you communicate with another game player or with us within the Services (e.g., through live chat, instant message services, message boards, and the like), even when you believe you are doing so “privately” with another person, you do so with the understanding that those communications go through our servers, and you expressly agree to waive any rights of confidentiality that you may have in and to such communications, you agree you have no expectation of privacy in such communications and, accordingly, where and to the extent permitted by applicable law, you expressly consent to our (or our agents’) monitoring of the communications that you send and receive through the Services (including, without limitation, technical support and customer service communications). You also acknowledge that any and all character data that is stored and is resident on our servers may be monitored by us or our agents (to the extent permitted by applicable law).</p>
+<h3>H. Business Capacity and Resume Submissions</h3>
+<p>Daybreak Games allows for the online submission of tax forms and resumes. Please be advised that information (including Personal Information) contained in a tax form, a job applicant’s resume, or otherwise submitted to Daybreak Games in a business capacity is not subject to the terms of any other section of this Privacy Policy. The information obtained in these instances will only be used for the purpose for which it was collected (i.e., accepting and evaluating your submission for a job, contacting you, your previous employers, and your references, processing payments, etc.).</p>
+<p>When we collect Social Security numbers in the course of our business (such as when a vendor or Player Studio registrant submits a tax form), it is our policy to protect the confidentiality of such numbers, prohibit their unlawful disclosure, and limit access to them.</p>
+<h3>I. Collection of Personal Information about Other Individuals</h3>
+<p>Daybreak Games may collect from you Personal Information relating to certain third parties, such as your family members and friends. Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Personal Information to us or our service providers without the relevant individual’s consent.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>Other Information we collect from you</h2>
+<p>We and our service providers may collect information that does not reveal your specific identity or does not directly relate to an individual (“<strong>Other Information</strong>”). Because Other Information does not personally identify you, we may use and disclose it for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for all the purposes for which we use and disclose Personal Information.</p>
+<p>We may combine the Other Information we collect from and about you with Personal Information. If we do, we will treat the combined information as Personal Information for as long as it is combined.</p>
+<p>We and our service providers may collect Other Information in a variety of ways, including:</p>
+<h3>A. Browser and Device Information</h3>
+<p>Certain information is collected by most browsers or automatically through your device or with session information, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the name and version of the Services you are using. We use this information to ensure that the Services function properly.</p>
+<p>Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications, and other services. We use IP Addresses for purposes such as calculating usage levels of the Services, helping diagnose server problems, and administering the Services.</p>
+<p>In addition, when you play our games or use the communication features available through the Services, we may collect your IP address. When any Daybreak Games game is updated or “patched,” our patch routine may check your computer to see that you have the most recent version of Daybreak Games game-specific files. When you log into one of the Daybreak Games’ games, we may collect your system specifications (such as RAM, video card, monitor, system configuration, crash data, etc.) for the purposes of analyzing and optimizing your Daybreak Games game experience and in order to provide you with customer service.</p>
+<h3>B. Through your use of our apps</h3>
+<p>When you download and use one of our applications, we and our service providers may track and collect app usage data, such as the date and time the app on your device accesses our servers and what information and files have been downloaded to the app based on your device number.</p>
+<h3>C. Information collected through cookies, pixel tags, and other technology</h3>
+<p>We and our service providers may use cookies, pixel tags, and other tracking technology when you visit or use the Services. Please see our <a href="/cookies">Cookie Policy</a> for details on our use of these technologies and instructions on how you may manage them.</p>
+<p>We assign a unique identifier to every user of our websites and launchpad (i.e., our game launchers). The unique identifier allows us to recognize the same user when he or she uses our various Services, including through different devices, and to track his or her use of the Services, thereby giving us a full picture of the user’s activity across our Services. If we have collected your Personal Information, or if we collect your Personal Information in the future, we will combine it with the information we have collected through our use of the unique identifier. We use the information collected for analytics purposes and to serve targeted Daybreak Games offers and content to you when you are on the Services.</p>
+<p>We and our service providers may also use cookies and other technologies to automatically collect the website or advertisement from which you reached the Services, to track responses to our online advertisements, and to collect information across your use of different Daybreak Games websites. We do not track your behavior on third-party websites or other online services.</p>
+<p>Daybreak Games does not control cookies in third party ads and visitors are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. The ads appearing on the Services may be delivered to you by third-party advertising companies. These companies may use information about your visits to the Services and other sites or online services in order to provide advertisements on the Services and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices with respect to it, please visit here <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a> or <a href="http://www.aboutads.info/">http://www.aboutads.info/</a>.</p>
+<p>We use Google Analytics, which uses cookies and similar technologies to analyze how users use the Services, compile statistical reports on Services activity, and provide other services related to the Services. Google Analytics may also collect information about our users’ use of other websites. For more information about Google Analytics, or to opt out of Google Analytics, please go to: <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</p>
+<h3>D. Physical location</h3>
+<p>We may collect the physical location of your device by, for example, using satellite, cell phone tower, or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. In some instances, you may be permitted to allow or deny such uses of your device’s location, but if you do, we may not be able to provide you with the applicable personalized services and content.</p>
+<h3>E. Demographic information and other information provided by you</h3>
+<p>In connection with some Services, or through surveys or polls, we may ask you to provide information that does not personally identify you. For example, we may ask you to provide information concerning your entertainment preferences, purchasing habits, and the like. This information is generally optional. Daybreak Games requests this information to understand you better and to also bring to your attention new services, programs, or offers that may be of interest to you. Unless combined with Personal Information, this information does not personally identify you.</p>
+<h3>F. Aggregated information</h3>
+<p>Aggregated Personal Information does not personally identify you or any other user of the Services (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>How we use and share the information that we collect from you</h2>
+<h3>A. How we use information that we collect from you</h3>
+<p>In addition to the uses described in the sections above, we may use the Personal Information we collect from and about you to enable us:</p>
+<ul>
+<li>To provide you with technical support, customer service, and account maintenance;</li>
+<li>To learn what you like and tailor your experience accordingly;</li>
+<li>To improve and develop the Services and our other products and services;</li>
+<li>To provide services or products you request;</li>
+<li>To allow you to participate in or use our communication features;</li>
+<li>To allow you to download and/or play one of our games;</li>
+<li>To allow you to benefit from any other promotions or offers, such as sweepstakes and contests;</li>
+<li>To manage your Daybreak Games account and fulfill your orders and respond to your requests;</li>
+<li>To inform you of any changes made to the Services or send other administrative information to you;</li>
+<li>To inform you of products, services, promotions, and offers which you may find interesting, including by serving advertisements to you when you are on third-party sites, services, and social media platforms; and</li>
+<li>For our internal business purposes, such as data analysis, audits, fraud monitoring and prevention, determining the effectiveness of our promotional campaigns, and operating and expanding our business activities.</li>
+</ul>
+<h3>B. Information disclosed to third parties</h3>
+<p>We may disclose your Personal Information to other companies that we have engaged to provide services to us and whom we subject to confidentiality requirements. This may include, but is not limited to, fulfillment houses, billing services, transaction managers, credit verification services, ad serving services, and other third party service providers.</p>
+<p>We may disclose your Personal Information to identify you to anyone to whom you send messages through the Services.</p>
+<p>You may disclose your Personal Information on message boards, chat, profile pages, and other services to which you are able to post information and materials. Any information you post or disclose through these services will become public information and may be available to other users of the Services and to the general public. Please be careful when deciding to disclose your Personal Information, or any other information, on or through the Services.</p>
+<p>We may disclose your Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock, including in connection with any bankruptcy or similar proceedings.</p>
+<p>We may use or disclose your Personal Information if we believe such disclosure is necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.</p>
+<h3>C. Information about affiliated companies</h3>
+<p>Daybreak Games may share your Personal Information for the purposes described in this Privacy Policy (except for direct marketing) with its parent companies, which consist of Columbus Nova Private Equity Group (“<strong>CN</strong>”) and any company controlled by CN that directly or indirectly owns fifty percent (50%) or more of the outstanding equity in Daybreak.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>Information about links</h2>
+<p>We may provide links to third party websites. This Privacy Policy does not apply to any such websites, and we are not responsible for them, so we encourage you to review the policies of all such sites carefully. Additionally, there may be unauthorized third party websites that may be providing links from their sites to the Services without our knowledge or control. We are not responsible for the content of any third party websites, expressly disclaim any statements or assertions made on such websites, and deny all liability associated with your use of, and the content on, such other sites or advertisements contained therein.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>How you may access, change, or delete the information you have provided to us</h2>
+<p>Subject to security and privacy concerns (e.g., regarding your password and credit card number), your Daybreak Games account will give you the ability to access, change, delete, and/or update the Personal Information you have provided, and adjust your communications preferences. If you choose to have your Personal Information removed from our active databases, we will try to do so within a reasonable time after your request and we will take reasonable steps to ensure that your Personal Information is not used (except as may be required by law) by Daybreak Games after your notification to us.</p>
+<p>Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>Special note about children’s privacy</h2>
+<p>The Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from such children. If Daybreak Games learns that we have inadvertently gathered personal data from children under the age of 13, Daybreak Games will take reasonable measures to promptly delete such personal data from Daybreak Games’ records.</p>
+<p>If you believe that we have unintentionally collected personal information about your child, please contact us:</p>
+<p>Email: <a href="mailto:accounts@daybreakgames.com">accounts@daybreakgames.com</a></p>
+<p>Mail: Daybreak Games Privacy Officer, 8928 Terman Court, San Diego, CA 92121</p>
+<p>Phone: 858-577-3100 (ask for the Privacy Officer)</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>Special note about California Minors</h2>
+<p>Please note that if you are a resident of California, under the age of 18, and a registered user of our Services (a “<strong>Minor</strong>”), you have the right to remove or to request the removal of content or information you may have posted publicly on bulletin boards, message boards, chat rooms, communities, or other publicly viewable forums. We strongly recommend that all of our users avoid posting personal or sensitive information at any time. Should you wish to edit or remove this content or information after you have posted it, you may do so by accessing your account profile.</p>
+<p>Removal of this content or information from public view does not guarantee complete or comprehensive removal. After your removal request has been honored, we may retain copies of the content or information you have previously posted on our servers. We are not required to remove your posted content or information if it has been rendered anonymous or if we are required by law to retain it. Additionally, we do not have control over third parties (e.g., other users) who may have copied or reposted this information.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>Information for persons outside the United States</h2>
+<p>The Services are operated and controlled by us from the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services, you consent to the transfer of information to countries outside your country of residence, including the United States, which may have different data protection rules than your country.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>Our commitment to secure the Personal Information we have collected</h2>
+<p>In order to provide you with added protection, Daybreak Games employs a security technology known as a secure-socket-layer (“<strong>SSL</strong>”) to protect the transmission of payment information to the Services. Unless otherwise specified herein or on the Services where you make a purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes.</p>
+<p>We seek to use reasonable organizational, technical, and administrative measures to protect Personal Information within our organization. Unfortunately, no website data transmission or storage system can be guaranteed to be completely secure. Daybreak Games urges you to take steps to keep your Personal Information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your user account, and closing your web browser when you are finished using the Services. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the <em>“Contact Us”</em> section below.</p>
+<p>We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>Notice of changes to this Privacy Policy</h2>
+<p>Daybreak Games reserves the right to modify this Privacy Policy from time to time and to provide you with notice of such modifications by any reasonable means, including, without limitation, by making available the revised version of the Privacy Policy through the Services. You can determine when the policy was last revised by referring to the “Last Updated” legend at the top of this Privacy Policy. Your continued use of the Services following our making available any revised version of this Privacy Policy will mean that you accept that revised version; however, any material change to this Privacy Policy will not apply retroactively to any claim or dispute between you and us in connection with this Privacy Policy that arose prior to the “Last Updated” date applicable to that version of this Privacy Policy in which we included such material change. If we make any material changes in the way we collect, use, or share your Personal Information, we will notify you by prominently posting notice of the changes on Daybreak Games’ home page. If you do not agree to any changes made to this Privacy Policy, you may not access or use the Services.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+<h2>Contact us with questions, comments, or requests</h2>
+<p>Questions, comments, and requests regarding this Privacy Policy are welcomed and should be addressed to:</p>
+<p>Email: <a href="mailto:accounts@daybreakgames.com">accounts@daybreakgames.com</a></p>
+<p>Mail: Daybreak Games Privacy Officer, 8928 Terman Court, San Diego, CA 92121</p>
+<p>Phone: 858-577-3100 (ask for the Privacy Officer)</p>
+<p>If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <a href="https://www.esrb.org/privacy/contact.jsp">https://www.esrb.org/privacy/contact.jsp</a>, or 420 Lexington Avenue, Suite 2024, New York, NY 10170.</p>
+<p><a class="scroll" href="#top">Back to top</a></p>
+		</div>
 	</div>
-</div></div>					<script language="JavaScript" type="text/javascript" src="https://www.soe.com/minify-js?locale=en_US&amp;files=libs/jquery/jquery-1.9.1.min^bootstrap/bootstrap.min^web-platform/init^web-platform/helpers/misc^core&amp;v=80904481"></script>
+</div>
+	</div>
+													<link rel="stylesheet" href="https://www.soe.com/minify-css?locale=en_US&amp;files=global_soe_footer&amp;v=1871385130" type="text/css">
+	<div class="foot-wrap">
+		<div class="footer container">
+			<div class="row">
+				<div class="col-md-9">
+					<ul>
+						<li class="foot-head">daybreakgames.com</li>
+																			<li><a href="https://www.soe.com/register">Register</a></li>
+							<li><a href="/goto?type=afterReg&amp;targetUrlKey=pacmanRoot&amp;theme=soe&amp;locale=en_US">Manage Account</a></li>
+												<li><a href="https://www.soe.com/community">Community</a></li>
+						<li><a href="https://help.soe.com/app/answers/detail/a_id/28939" target="_blank">Customer Support</a></li>
+					</ul>
+					<ul>
+						<li class="foot-head">Shop</li>
+						<li><a href="https://www.soe.com/gamecards">Game Cards</a></li>
+						<li><a href="https://www.soe.com/stationcash">Station Cash</a></li>
+						<li><a href="https://www.soe.com/allaccess">All Access</a></li>
+					</ul>
+					<ul>
+						<li class="foot-head">Company</li>
+						<li><a href="https://www.soe.com/soe-mission">Who We Are</a></li>
+						<li><a href="https://www.soe.com/careers?locale=en_US">Careers</a></li>
+						<li><a href="http://www.soepress.com?locale=en_US">Press</a></li>
+					</ul>
+					<ul>
+						<li class="foot-head">Legal</li>
+						<li><a href="https://www.soe.com/legal?locale=en_US">Legal Notices</a></li>
+						<li><a href="https://www.soe.com/privacy?locale=en_US">Privacy Policy</a></li>
+						<li><a href="https://www.soe.com/terms-of-service?locale=en_US">Terms of Service</a></li>
+						<li><a href="https://www.soe.com/photosensitive?locale=en_US">Photosensitive Warning</a></li>
+						<li><a href="https://www.soe.com/cookies?locale=en_US">Cookies</a></li>
+					</ul>
+				</div>
+				<div class="foot-images col-md-3 pull-right">
+					<a href="https://www.esrb.org/confirm/soe-confirmation.jsp" id="privacyCert" class="en_US">
+						<img src="https://assets-cdn.soe.com/uploads/dcsclient/000/000/027/304.gif?v=0.0">
+					</a>
+																			</div>
+							</div>
+		</div>
+	</div>
+</div>
+
+		<div id="footerAlerts">
+		<div class="footer-alert legal-update-notice">
+	<div class="footer-alert-header">
+		<h6>Terms of Service &amp; Privacy Policy Changes<div class="footer-alert-close"></div></h6>
+	</div>
+	<div class="footer-alert-body">
+		<p>As part of our transition to Daybreak Games, we’ve updated our <a href="https://www.soe.com/privacy" target="_blank">Privacy Policy</a>, <a href="https://www.soe.com/cookies" target="_blank">Cookie Policy</a>, and <a href="https://www.soe.com/terms-of-service" target="_blank">Terms of Service</a> effective March 13, 2015. By continuing to use our <a href="https://www.soe.com/websites" target="_blank">websites</a> and play our games, you are agreeing to these updated terms and policies.</p>
+	</div>
+</div>
+<script type="text/javascript">
+	window.SOE = window.SOE || {};
+	window.SOE.legalUpdate = {};
+	window.SOE.legalUpdate.lastUpdate = "2015-03-11";
+	window.SOE.legalUpdate.noticeDuration = 62;
+</script>
+		<div class="footer-alert soe-cookie-policy">
+	<div class="footer-alert-header">
+		<h6>About cookies on this site<div class="footer-alert-close"></div></h6>
+	</div>
+	<div class="footer-alert-body">
+		<p>Daybreak Game Company uses cookies to help improve your online experience. By continuing to use our websites without changing your cookie preferences we will assume that you are agreeing to our use of cookies. A list of our websites is available <a href="https://www.soe.com/websites" target="_blank">here</a>. For more information, or to change your cookie preferences, visit our <a href="https://www.soe.com/cookies" target="_blank">cookie policy</a>.</p>
+	</div>
+</div>
+<script type="text/javascript">
+	window.SOE = window.SOE || {};
+	window.SOE.cookiePolicyVersion = 1;
+</script></div>
 		
-			<script language="JavaScript" type="text/javascript" src="https://www.soe.com/minify-js?locale=en_US&amp;files=web-platform/helpers/buffer^web-platform/track/tracker^web-platform/track/data-layer&amp;v=1999192656"></script>
+			<script language="JavaScript" type="text/javascript" src="https://www.soe.com/minify-js?locale=en_US&amp;files=web-platform/init^web-platform/helpers/misc^libs/jquery/jquery^libs/twitter/bootstrap^libs/utils/underscore-min^libs/jquery/plugins/xdr^web-platform/component/browserErrors^core^web-platform/component/legal-update^web-platform/component/cookie-policy&amp;v=328442982"></script>
 		
-			<script language="JavaScript" type="text/javascript" src="https://www.soe.com/minify-js?locale=en_US&amp;files=jquery.scrollTo-1.4.3.1-min^_pages/privacy&amp;v=1782323319"></script>
+
 		
+						<script type="text/javascript" src="/gvid-one?format=js"></script>
+			
+					<script language="JavaScript" type="text/javascript" src="https://www.soe.com/minify-js?locale=en_US&amp;files=web-platform/helpers/buffer^web-platform/track/tracker^web-platform/track/data-layer&amp;v=4164703446"></script>
+		
+			<script language="JavaScript" type="text/javascript" src="https://www.soe.com/minify-js?locale=en_US&amp;files=jquery.scrollTo-1.4.3.1-min^_pages/privacy^web-platform/component/global-nav&amp;v=1657909919"></script>
+		
+
+
 
 </body></html>
