@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701182428id_/http%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321043428id_/https%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Healing Natural Oils - Amoils.com
 
-|  | 
+[](https://www.amoils.com/ "Healing Natural Oils")
 
 When accessing our Website, Healing Natural Oils will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
@@ -19,13 +19,3 @@ The information collected is for statistical purposes. Healing Natural Oils may 
 For site security purposes and to ensure that this service remains available to all users, Healing Natural Oils uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 Healing Natural Oils will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
-
-|   
----|---|---  
-  
-[Home](http://www.amoils.com/) | [Terms and Conditions](http://www.amoils.com/terms-and-conditions.html) | [Privacy Policy](http://www.amoils.com/privacy-policy.html) | [Contact Us](http://www.amoils.com/contact.html) | [Sitemap](http://www.amoils.com/amoils-sitemap.html) | [Become an Affiliate](http://www.amoils.com/affiliate.html)
-
-Healing Natural Oils 5195 Del Mar Mesa Rd San Diego, CA 92130 (858) 794-8474  
-© Copyright 2001 - 2014 Amoils.com All Rights Reserved 
-
-[Disclaimer](http://www.amoils.com/disclaimer.html) \- These products, the information and statements contained within this web site, including any links to external sites, are designed for educational purposes only and are not intended to replace medical advice. These statements have not been assessed by the FDA . Use as instructed and if your condition persists, consult your medical professional. 
