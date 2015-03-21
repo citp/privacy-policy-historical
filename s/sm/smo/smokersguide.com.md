@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smokersguide.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125162905id_/http%3A//www.smokersguide.com/info/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokersguide.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321145908id_/https%3A//www.smokersguide.com/info/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Smokers Guide info
 
