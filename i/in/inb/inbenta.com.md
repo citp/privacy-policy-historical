@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the inbenta.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705222401id_/https%3A//www.inbenta.com/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbenta.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321233144id_/https%3A//www.inbenta.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Inbenta.com
 
 [](https://privacy.truste.com/privacy-seal/Inbenta-Technologies-Inc-/validation?rid=56e47a9b-8ca8-4d74-a32c-0470f0184d01 "TRUSTe European Safe Harbor certification")
 
-_Effective Date: 11/28/2013_
+_Effective Date: 02/04/2015_
 
-This privacy policy applies to [www.inbenta.com](https://www.inbenta.com/ "www.inbenta.com") owned and operated by Inbenta Technologies Inc. This privacy policy describes how Inbenta Technologies Inc. (“We”) collects and uses the personal information you provide on our web site: [www.inbenta.com](https://www.inbenta.com/ "www.inbenta.com"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [https://www.inbenta.com](https://www.inbenta.com/ "www.inbenta.com") owned and operated by Inbenta Technologies Inc. This privacy policy describes how Inbenta Technologies Inc. (“We”) collects and uses the personal information you provide on our web site: [https://www.inbenta.com](https://www.inbenta.com/ "www.inbenta.com") and our service [https://backstage.inbenta.com](https://backstage.inbenta.com/ "https://backstage.inbenta.com"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Inbenta Technologies Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers our collection, use and disclosure of information we collect through our website www.inbenta.com. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Inbenta Technologies Inc.
+Inbenta Technologies Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers our collection, use and disclosure of information we collect through our website [https://www.inbenta.com](https://www.inbenta.com/ "www.inbenta.com") and our service [https://backstage.inbenta.com](https://backstage.inbenta.com/ "https://backstage.inbenta.com"). The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Inbenta Technologies Inc.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
@@ -53,21 +53,26 @@ We will retain personal data we process on behalf of our Clients for as long as 
 
 **Cookies and other Tracking Technologies**
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personal information you submit while on our site.
+Technologies such as: cookies, beacons, tags and scripts are used by Inbenta Technologies Inc. and our partners such as Act-On, Google, affiliates,  or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory.
+We use cookies  for our online experience, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+We use Local Storage Objects (LSOs) such as Flash to store [content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information.
 
-The use of cookies by our service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our service providers use session ID and persistent cookies to make it easier for you to navigate our site.
+To manage Flash LSOs please click here:<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+We do not link this automatically collected data to other information we collect about you.  
 
-We do not link this automatically-collected data to personal information.
 
-**Security**
+ **Advertising**  
+
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/ "here") (or if located in the European Union click [here](http://www.youronlinechoices.eu/ "here"))  Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
+
+ **Security**  
+
 
 The security of your personal information is important to us. When you enter sensitive information (such as log in credentials) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
