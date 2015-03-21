@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019120127id_/http%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321155251id_/https%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Ace2Three Rummy Users Privacy
 
