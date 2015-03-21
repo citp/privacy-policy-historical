@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnaclecart.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723091335id_/https%3A//www.pinnaclecart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclecart.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321132915id_/https%3A//www.pinnaclecart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Our Privacy Policy was developed as an extension of our commitment to combine th
 
 ### What Information Do We Collect?
 
-When you visit [www.pinnaclecart.com](http://www.pinnaclecart.com/ "Pinnacle Cart's Shopping Cart Website") you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+When you visit [www.pinnaclecart.com](https://www.pinnaclecart.com/ "Pinnacle Cart's Shopping Cart Website") you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
 ### 1\. Personal Information You Choose to Provide
 
