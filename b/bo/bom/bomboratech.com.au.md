@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bomboratech.com.au privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208073807id_/http%3A//bomboratech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bomboratech.com.au privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321173734id_/http%3A//www.bomboratech.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » Bombora Technologies
+# Privacy Policy - Bombora Technologies
 
 #### Introduction
 
@@ -30,21 +30,21 @@ The _Privacy Act 1988_ (the **Act** ), regulates the way in which many private s
 
 Personal information is defined under the Act as:
 
- _“…information or an opinion about an identified individual, or an individual who is reasonably identifiable, whether the information or opinion is true or not and whether the information or opinion is recorded in a material form or not.”_
+_“…information or an opinion about an identified individual, or an individual who is reasonably identifiable, whether the information or opinion is true or not and whether the information or opinion is recorded in a material form or not.”_
 
 The Act aims to give people greater control over the way information about them is handled, by requiring organisations to comply with thirteen Australian Privacy Principles or to establish an approved privacy code.
 
 The Australian Privacy Principles cover areas such as collection, use and disclosure of personal information, data quality and security and access and correction rights for individuals.
 
- **How we collect personal information**
+**How we collect personal information**
 
 We generally collect personal information directly from the relevant individual but in some cases we may collect it indirectly from a third party, for example from domain name Registrars to whom you have given registration information. There may be other circumstances in which we may collect personal information about an individual, such as the operation of our website www.bomboratech.com.
 
- **Information about individuals**
+**Information about individuals**
 
 Personal information collected by us generally comprises name, address, date of birth, gender and contact details (including telephone, facsimile and e-mail). Personal information is only accessible by authorised Bombora Technologies personnel or authorised service providers who use the information accurately to administer the business of Bombora Technologies or to provide you with our products and services.
 
- **Why do we need your personal information?**
+**Why do we need your personal information?**
 
 The personal information that we collect is used by us to conduct our business and is also used in conjunction with the provision of goods and services to you by Bombora Technologies.
 
@@ -58,7 +58,7 @@ Personal information may also be used in connection with:
 
 
 
- _Third party service providers_
+_Third party service providers_
 
 There are other organisations that are connected to the services we provide to you and which may have access to your personal information. They include:
 
@@ -70,27 +70,27 @@ There are other organisations that are connected to the services we provide to y
 
 We will only disclose personal information to these organisations to enable them to undertake specified management and administration services. We require our service providers to adhere to strict privacy guidelines and not to keep this information or use it for any unauthorised purposes.
 
- _Transfer outside of Australia_
+_Transfer outside of Australia_
 
 Our holding, use and disclosure of your personal information may involve transfer of the personal information to countries outside Australia. Where your personal information is transferred outside Australia, we will do so in accordance with Australian Privacy Principle 8, including taking reasonable steps to ensure that the overseas recipient does not breach the Australian Privacy Principles.
 
- _Legal disclosure requirements_
+_Legal disclosure requirements_
 
 We will also disclose personal information in circumstances where we are required by law to do so. This includes disclosure to certain courts, tribunals and regulatory authorities as authorised or required by law.
 
- _Other people authorised by you_
+_Other people authorised by you_
 
 Where a person authorises another party to receive information and/or undertake transactions, the authorising person must notify us in writing.
 
- _Use of general statistical information_
+_Use of general statistical information_
 
 From time to time we may use general statistical information for future planning so that we can improve our business. If you do not consent to us doing so, please let us know.
 
- _Unsolicited Information_
+_Unsolicited Information_
 
 Where we receive personal information about you that is unsolicited, if it is not reasonably necessary for one or more of the uses set out herein, we shall de-identify or destroy it as soon as practicable.
 
- _Direct communication_
+_Direct communication_
 
 We may send relevant communication material to you from time to time, such as direct communications (which may include information from third parties) about special offers and promotions that are available for you, where you have given express or implied consent to be included in our mailing list.
 
