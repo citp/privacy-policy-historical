@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nordstromrack.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704052616id_/https%3A//www.nordstromrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordstromrack.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321141356id_/https%3A//www.nordstromrack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We respect your privacy, and take great care to safeguard information in our possession. Your preferences for use of your information are our highest priority. 
 
-The Nordstrom family of companies (Nordstrom, Nordstrom Rack, Nordstrom.com, Nordstrom fsb, Nordstrom Canada, and HauteLook) takes seriously the protection and proper use of your personal information, including social security numbers. In this policy, we may use "we," "our," "us" and "Nordstrom" to refer to the Nordstrom family of companies. 
+The Nordstrom family of companies (Nordstrom, Nordstrom Rack, Nordstrom.com, Nordstrom fsb, Nordstrom Canada, HauteLook, Inc., Jeffrey and Trunk Club, Inc.) takes seriously the protection and proper use of your personal information, including social security numbers. In this policy, we may use "we," "our," "us" and "Nordstrom" to refer to the Nordstrom family of companies. 
 
 Nordstrom does not share customer information (including email addresses) outside the Nordstrom family of companies unless it is necessary to provide you with products or services available from Nordstrom. We may also disclose information when you tell us to do so, to identify or contact you, to protect your rights or the rights of Nordstrom or as required or permitted by law. 
 
@@ -36,6 +36,7 @@ We collect personal information when communicating or interacting with you throu
   * when you apply for employment which may include your social security number or social insurance number 
   * working with our salespeople who assist you with your fashion needs and purchases 
   * through communications with you, or through the Nordstrom family of companies 
+  * when you are recorded by in-store cameras used for safety, security and operational purposes, such as to measure traffic patterns in our stores 
   * contacting us with a comment, question or complaint 
 
 
@@ -48,7 +49,7 @@ We use the personal information that we and our service providers collect to con
 
 ##  How We Share Your Information 
 
-To best serve you, we may share your personal information with other members of the Nordstrom family of companies and with service providers that provide support services to us or that help us market our products and services, administer our programs, operations, fulfill your requests, surveys, contests, sweepstakes and product reviews, or provide you with membership information. Service providers, third parties who perform services on our behalf, are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from Nordstrom. We may also, in certain instances, disclose your personal information when we have reason to believe that it is necessary to identify you, contact you, to advise you of a product recall, detect and protect you or us from fraud, manage information security or bring legal action to protect your rights or the rights of Nordstrom or others. We may also disclose your personal information when you ask us to do so or when we believe it is required or permitted by law. 
+To best serve you, we may share your personal information with other members of the Nordstrom family of companies and with service providers that provide support services to us or that help us market our products and services, administer our programs, operations, fulfill your requests, surveys, contests, sweepstakes and product reviews, or provide you with membership information. Service providers, third parties who perform services on our behalf, are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from Nordstrom. We may also, in certain instances, disclose your personal information when we have reason to believe that it is necessary to identify you, contact you, to advise you of a product recall, detect and protect you or us from fraud or theft, manage information security or bring legal action to protect your rights or the rights of Nordstrom or others. We may also disclose your personal information when you ask us to do so or when we believe it is required or permitted by law. 
 
 ##  Personal Book 
 
@@ -57,6 +58,14 @@ One of our most valuable tools we have for building and maintaining our relation
 To best serve you, we record and access information in Personal Book, including your name, address, telephone numbers, email address, interests, privacy preferences and purchase history. All Nordstrom Salespeople are expected to use Personal Book in an ethical and appropriate manner. This includes only entering accurate customer information, voluntarily given by you to the Salesperson, for the specific purpose of entering it into Personal Book or any other Nordstrom-approved data device. 
 
 Personal Book allows our Salespeople to follow through on our commitment to serving you in a professional manner, and we are dedicated to ensuring that the information you provide is protected and secure. Personal Book is the property of Nordstrom and may be used for Nordstrom-related purposes only. 
+
+##  Our Salesperson Texting App "NEXT" 
+
+Many of our customers want a better shopping experience that is personalized, relevant and intuitive. We are pleased to offer you the ability to opt-in for text messages with your individual salesperson as another way to communicate through our NEXT app. You who elect to enroll to receive text messages from your salesperson who uses our NEXT app may receive easy-to-check text messages about things such as fashion, recommendations, and reminders for upcoming sales, events and services. We hope the NEXT app helps you save time while allowing you to seamlessly opt-in or opt-out as you choose with your salesperson. Please see a salesperson to learn how to enroll. 
+
+##  Video Recording 
+
+We conduct video surveillance at our stores for security, fraud and loss prevention purposes and for incident reporting purposes. We use the images and information from such videos only as required for such purposes and for certain operational purposes, such as to measure traffic patterns in our stores. 
 
 ##  Mobile Privacy 
 
@@ -150,11 +159,12 @@ To be sure your connection is secure, look at the bottom status bar of your brow
 
 We also ask customers to carefully review their accounts and immediately report any unexpected activity to Nordstrom and their issuing bank or credit card company. Additionally, we are asking all our customers to take measures to help protect personal information in their online accounts, including the following: 
 
-  * Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses 
+  * Install the latest security updates and anti-virus software on your computer or mobile devices to help prevent malware and viruses 
   * Reset your email account password 
   * Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters) 
   * Do not use the same password on more than one website 
   * Do not share your password with others 
+  * Password protect your personal mobile device(s) 
   * Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal 
   * Visit these additional resources: 
   * <http://www.us-cert.gov/cas/tips/>
@@ -165,7 +175,7 @@ We also ask customers to carefully review their accounts and immediately report 
 
 ##  Fraud Alerts: Protecting Your Personal Information 
 
-You may come in contact with websites, emails or texts that try to lure you into providing personal information with the offer of a Nordstrom gift card. Nordstrom does not sponsor these offers nor are we affiliated with the promotion originators. If you become aware of any potentially fraudulent activity on a website or in an email or text, please forward the information to [onlinefraud@nordstrom.com](mailto:onlinefraud@nordstrom.com) or call us at 1-888-282-6060 so that we can follow up. We take these matters, and the protection of our customers' sensitive information, very seriously. [View](http://shop.nordstrom.com/c/fraud-alert) our Fraud Alerts page. 
+You may come in contact with websites, emails or texts that try to lure you into providing personal information such as an offer of a Nordstrom gift card. Nordstrom does not sponsor these offers nor are we affiliated with the promotion originators. If you become aware of any potentially fraudulent activity on a website or in an email or text, please forward the information to [onlinefraud@nordstrom.com](mailto:onlinefraud@nordstrom.com) or call us at 1-888-282-6060 so that we can follow up. We take these matters, and the protection of our customers' sensitive information, very seriously. [View](http://shop.nordstrom.com/c/fraud-alert) our Fraud Alerts page. 
 
 ##  Data Processing and Storage 
 
@@ -243,4 +253,4 @@ Los Angeles, CA 90015
 
 The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive. 
 
-12/30/13 
+11/24/14 
