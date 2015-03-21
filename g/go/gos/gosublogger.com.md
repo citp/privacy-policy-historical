@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosublogger.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112013352id_/http%3A//gosublogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosublogger.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321162809id_/http%3A//gosublogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GosuBlogger
 
