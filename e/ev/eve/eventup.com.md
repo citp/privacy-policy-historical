@@ -1,126 +1,119 @@
-> *The following text is extracted and transformed from the eventup.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217034013id_/http%3A//eventup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventup.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321134452id_/https%3A//eventup.com/privacy) for the most accurate reproduction.*
 
 # Event Venues & Space for Corporate Events & Weddings | Eventup
 
-## Eventup Privacy Policy
+## Effective Nov. 13, 2012
 
-### Effective Nov. 13, 2012
+Eventup, Inc. (“EVENTup,” “we” or “us”) provides this Privacy Policy (the “Policy”) to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.eventup.com (the “Site”), our mobile application (the “App”), and all services available via the EVENTup Site and App (collectively, the “Services” refers to the Site, the App, and the services available through the Site and App)
 
-Eventup, Inc. provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.eventup.com (the "Site"). This Privacy Policy applies only to information that you provide to us through the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Eventup Terms of Service, accessible at http://eventup.com/terms/.
+This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our EVENTup Terms of Service, accessible at http://eventup.com/terms/. 
 
-As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
+### Information Collection
 
-**Information Collection and Use**
+We may collect information directly and indirectly from users, as well as from third parties. 
 
-Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your use of our offering (together, the "Service") and to enable users to enjoy and easily navigate the Site. 
+### Information We Collect Directly
 
-**Personally Identifiable Information.**
+You can browse our Site and download our App without registering. However to use certain features or conduct certain activities (such as to create a listing, sign up to the Site or make a booking), you must be registered for an EVENTup Account. In addition, we may collect other information about you when you use certain features, such as information about an event you are planning, etc.
 
-\- If you choose to create a Listing or make a booking, you must register via the Site to create an Account. When you (i) register with us through the Site to become a Venue Owner or Member, (ii) choose to add information to your profile webpage or (iii) create a Listing, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you ("Personal Information"). Personal Information includes, but is not limited to, your name, company name (if applicable), phone number, credit card or other billing information, email address and home and Venue postal addresses, as applicable. We use your Personal Information mainly to provide the Services and administer your inquiries. 
+Registration. You can register with us by creating an EVENTup account, or by logging in through your social media account.
 
-\- You may register to use the Services directly via the Site or by logging into your account with certain third party social media or social networking services ("SNS") (including, but not limited to, Facebook) via the Site, as described herein. If you decide to register through an SNS, we will extract the Personal Information you have provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS) from the account you have with the applicable SNS and use that information to create your Account. The specific information that we extract may depend on the privacy settings you have with the SNS. You hereby consent to our access to and collection of such personal information about you. 
+EVENTup Account. To create an EVENTup account, you must provide us with your name, company name (if applicable), phone number, credit card or other billing information, email address and home and venue postal addresses, as applicable. 
 
-\- We also collect the other information that you provide as part of registration, creation of Listings and the administration and personalization of your profile webpage (e.g., without limitation, zip code (on its own) and individual preferences) ("Non-Identifying Information").
+Social Networking Account. You may also register to use the Services by logging into your account with certain third party social media or social networking services ("SNS") (including, but not limited to, Facebook). For example, if you login in through Facebook, we will ask your permission to collect your public profile information, friend list, email address, birthday and personal description. If you don’t grant us permission you can’t log-in to the Services via Facebook. Once you’ve logged in through Facebook, we may ask you for additional profile information, as noted below.
 
-\- We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Services, complete your transactions, and administer your inquiries. 
+Profile and Other Information. Once you have registered with us, we may collect additional, optional information from you, including your preferences and certain demographic information, the information you choose to include in your profile, and, if applicable, any venue or event details you provide. From time-to-time, we may also run contests, surveys and promotions, and if you choose to participate we may collect additional information from you.
 
-\- Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Eventup Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
+### Information We Collect Automatically
 
-\- We also use your Personal Information to contact you with Eventup newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. 
+When you visit the Site or use the App or Services, we automatically collect information about you (via cookies, log files, pixel tags, third party analytics tools, and other methods), including IP address; browser type and operating system; referring URL (or the webpage you were visiting before you came to our Site); location information; pages of our Site or App that you visit and the time spent on those pages; the links you click; information you search for; access times and dates, device ID or other identifier; language information; and other statistics. 
 
-_Log Data_. When you visit the Site, whether you have registered via the Site as a Venue Owner or Member or are a non-registered user just browsing (any of these, an "Eventup User"), our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use Google Analytics to collect, monitor and analyze this information in order to increase our Site's functionality and user-friendliness, and to better tailor it to our visitors' needs. Accordingly, Log Data is shared with Google, which has its own privacy policy addressing how it uses such information. We encourage you to review this privacy policy to understand how Google uses such information. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. We do not treat Log Data as Personal Information unless we use it in association with other Personal Information. We may aggregate, analyze and evaluate Log Data for the same purposes as stated above regarding other Non-Identifying Information.
+### How We Use the Information We Collect
 
-**Cookies**
+We use the information we collect as follows:
 
-Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Eventup Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. 
+To provide our Services, complete your transactions, fulfil your orders, respond to you, and for other customer service purposes.
 
-**Emailing Via an Eventup Account**  
-As part of the Services, Members and Venue Owners may communicate with each other through the use of their Accounts. Where a Member or Venue Owner has selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Eventup to those email addresses on their behalf. 
+To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, to display targeted ads on our Site and App, as well as on third party websites, and to otherwise personalize your experiences while using our Services.
 
-**Phishing**  
-Identity theft and the practice currently known as "phishing" are of great concern to Eventup. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your Account login information, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
+For marketing and promotional purposes. For example, we may send our customers news and newsletters, special offers, and promotions, or to otherwise contact you about products or information we think may interest you. 
 
-**Information Sharing and Disclosure**
+To better understand how users access and use our Services, both on an aggregated and individualized basis, in order to improve our Services and respond to user desires and preferences, and for other research and analytical purposes.
 
-_Members and Venue Owners_
+### Cookies and Tracking
 
-. If you create a Listing, Eventup Users will see the content of your Listing and your contact information. You can choose what Personal Information you provide as part of your Listing. We recommend that you guard your sensitive information. As a Member, if you request a Venue Visit, request a Venue Booking Fee quote or make a booking via the Services, we may share your name, phone number and email address with the applicable Venue Owner in order to fulfill your request or booking, as applicable.
+We and our third party service providers use cookies and other tracking mechanisms to track information about your use of our Services. We may combine this information with other personal information we collect from you (and our third party service providers may do so on our behalf). 
 
- _Bookings_
+Do Not Track. Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies); you also may opt-out of certain targeted advertising by following the instructions in the Third Party Ad Network section.
 
-. If you make a booking of a Venue via the Services, we will share your Personal Information, including, but not limited to, your name and email address, as well as other information about your booking, (e.g. the number of attendees, the type of event) with the applicable Venue Owner so that such Venue Owner can coordinate the booking with you.
+Cookies. Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor usage and web traffic routing on the Services. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can control how your browser accepts cookies by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. 
 
-_Aggregate Information and Non-Identifying Information_. We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information. 
+Local Storage Objects. We may use Flash Local Storage Objects (“Flash LSOs”) to store your preferences and to personalize your visit. Flash LSOs are different from browser cookies because of the amount and type of data stored. Typically, you cannot control, delete, or disable the acceptance of Flash LSOs through your web browser. For more information on Flash LSOs, or to learn how to manage your settings for Flash LSOs, go to the Adobe Flash Player Help Page, choose “Global Storage Settings Panel” and follow the instructions. 
 
-_Service Providers_. We may employ third party companies and individuals to facilitate our Service, to provide the Services on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, payment processing, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+Clear GIFs. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs (a.k.a. web beacons, web bugs or pixel tags), in connection with our Services to, among other things, track the activities of users, and to help us manage content and compile statistics about usage. We and our third party service providers also use clear GIFs in HTML e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded.
 
-_Eventup Partners_. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications. 
+Third-party Analytics. We use third party analytics tools, including Google Analytics, to collect, monitor and analyze this information in order to improve functionality and user-friendliness, and to better tailor the Services to our visitors' needs. Accordingly, usage data is shared with Google, which has its own privacy policy addressing how it uses such information. We encourage you to review this privacy policy to understand how Google uses such information. 
 
-_SNS_. Members and Venue Owners may link their Accounts with certain SNS. In these instances, with your permission and on your behalf, we will share information about your activities on the Site and Service, which may include your Personal Information, including, but not limited to, information contained in any Listings, with the applicable SNS. Through use of such services' APIs, as stated above, we also receive certain information (which may include your Personal Information) in accordance with the privacy settings you have set in your SNS account, if any. Other than what we may share with the SNS in connection with your linking of accounts, the personal information an SNS has about you is obtained by the SNS independent of our Service. Other services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other services you use.
+### Targeted Advertising and Ad Networks 
 
-_Compliance with Laws and Law Enforcement_. Eventup cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Eventup or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity. 
+We (or our third party service providers) may send users targeted ads, based on location and activities within our Site and your use of our Services. We may also participate in third-party ad networks, such as Google AdSense and allow third parties to use cookies, pixel tags and other tracking technologies to collect usage information, to display targeted ads to you on our Site and App, and on third party sites, and to track the effectiveness of advertising campaigns. These third parties may be able to associate the information they collect with other information they have about you from other sources.
 
-_Business Transfers_. Eventup may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+For information about Google AdSense, including how to opt out, visit the Google Advertising page. You may also opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: www.networkadvertising.org/optout_nonppii.asp and www.aboutads.info/choice
 
-**Changing or Deleting Your Information**
+### Emailing Via an EVENTup Account
 
-All Members and Venue Owners may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your account in our system, please contact us at info@eventup.com with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+As part of the Services, in certain circumstances, Members and Venue Owners may communicate with each other about listings and requests made through the Services, by filling out a contact form. If you disclose your email in any communication initiated through the Service, the person you are contacting may be able to email you directly. You are prohibited from using our Services to send any unsolicited commercial communications. 
 
-**Security**
+### Information Sharing and Disclosure
 
-Eventup is very concerned with safeguarding your information. We are not in the business of providing information security. We do employ limited data security measures, such as encryption, on some but not all systems. Do not provide your personal information if you are concerned with its disclosure.
+Members and Venue Owners. If you create a listing, EVENTup users will see the content of your listing. You can choose what information you provide as part of your listing; however, certain information is not permitted to be included in your listing. We recommend that you guard your sensitive information. As a Member, if you request a Venue Visit, request a Venue Booking Fee quote, or make a booking via the Services, we may share your name, phone number and email address with the applicable Venue Owner in order to fulfill your request or booking, as applicable.
 
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+Bookings. If you make a booking via the Services, we will share your the information we collect from you, including, but not limited to, your name and email address, as well as other information about your booking, (e.g. the number of attendees, the type of event) with the applicable Venue Owner and other Event providers, so that they can coordinate the booking with you.
 
-**International Transfer**
+Service Providers. We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, payment processing, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Services are used. . 
 
-Your information may be transferred to â and maintained on â computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Eventup transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+EVENTup Partners. We may also provide personal information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. 
 
-**Links to Other Sites**
+SNS. Members and Venue Owners may link their Accounts with certain SNS. In these instances, with your permission, we will share information about your activities within the Services, which may include your personal information and any information contained in any listings. We encourage you to read the privacy policies or statements of the other services you use.
 
-Our Site contains links to other websites, online services or applications (each a "Third Party Service"), e.g.:  
-â¢ Your Account may be linked to an SNS;  
-â¢ There may be advertisements served to you within the Site; or  
-â¢ You may be brought to the website of our third party payment processors.
+Compliance with Laws and Law Enforcement. Eventup cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Eventup or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity, or as evidence in litigation. 
+
+Business Transfers. Eventup may sell, transfer or otherwise share s the information it collects as one of its assets, , in connection with a merger, acquisition, reorganization or sale of assets, or in the event of bankruptcy. 
+
+Aggregate Information and Non-Identifying Information. We may share aggregated or de-identified information with third parties for industry analysis, marketing, demographic profiling and other purposes. 
+
+### Changing or Deleting Your Information
+
+All Members and Venue Owners may review, update, correct or delete the personal information in their profile by contacting us. If you completely delete all such information or otherwise delete your account, then your account willbe deactivated, and you will not be able to recover your account or account information However, we may retain an archived copy of your records in our systems.
+
+### Security
+
+We have implemented safeguards to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. P lease be aware that despite our best efforts, no data security measures can guarantee 100% security. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
+
+### International Transfer
+
+If you are located outside the United States and choose to provide information to us, your information will be transferred to the United States and to other jurisdictions where Eventup or its service providers are located; the privacy laws in these jurisdictions may not be as protective as those in your jurisdiction. By agreeing to this Privacy Policy, you are consenting to the transfer of your personal information as described in this Policy.
+
+### Links to Other Sites
+
+Our Site and Services may contain links to other websites, online services or applications (each a "Third Party Service"), e.g.:
+
+Your Account may be linked to an SNS;
+
+There may be advertisements served to you; or
+
+You may be brought to the website of our third party payment processors.
 
 If you click on another third party link, you will be directed to that third party's website or online service. The fact that we link to a Third Party Service is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over Third Party Services. Such Third Party Services may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and online services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other Third Party Services you visit.
 
-**Our Policy Toward Children**
+### Special Information for California Consumers
 
-The Service is not directed to persons under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at info@eventup.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: info@evetnup.com. Please allow up to thirty (30) days for a response.
 
-**Contacting Us**
+### Children
 
-If you have any questions about this Privacy Policy, please contact us at Info@eventup.com or at 600 West Chicago Ave, Suite 775 Chicago, IL 60654 
+The Service is not directed to persons under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at info@eventup.com. If we become aware that a child under 13 has provided us with personal information, we will delete such information from our files. 
 
-## Eventup Copyright Policy
+### Contacting Us
 
-Notification of Copyright Infringement:
-
-Eventup, Inc. (" **Eventup** ") respects the intellectual property rights of others and expects its users to do the same. 
-
-It is Eventup's policy, in appropriate circumstances and at its discretion, to disable and/or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other intellectual property rights of others.
-
-In accordance with the Digital Millennium Copyright Act of 1998, the text of which may be found on the U.S. Copyright Office website at http://www.copyright.gov/legislation/dmca.pdf, Eventup will respond expeditiously to claims of copyright infringement committed using the Eventup website or other online network accessible through a mobile device or other type of device (collectively, the "Sites") that are reported to Eventup's Designated Copyright Agent, identified in the sample notice below. 
-
-If you are a copyright owner, or are authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through the Sites by completing the following DMCA Notice of Alleged Infringement and delivering it to Eventup's Designated Copyright Agent. Upon receipt of the Notice as described below, Eventup will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged material from the Sites.
-
-**DMCA Notice of Alleged Infringement ("Notice")**
-
-1\. Identify the copyrighted work that you claim has been infringed, or - if multiple copyrighted works are covered by this Notice - you may provide a representative list of the copyrighted works that you claim have been infringed.
-
-2\. Identify the material that you claim is infringing (or to be the subject of infringing activity) and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material, including at a minimum, if applicable, the URL of the link shown on the Site(s) where such material may be found.
-
-3\. Provide your mailing address, telephone number, and, if available, email address.
-
-4\. Include both of the following statements in the body of the Notice:  
-\- "I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use)."  
-\- "I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed."
-
-5\. Provide your full legal name and your electronic or physical signature.
-
-Deliver this Notice, with all items completed, to Eventup's Designated Copyright Agent:
-
-Copyright Agent  
-c/o 600 West Chicago Ave, Suite 775 Chicago, IL 60654  
-info@eventup.com
+If you have any questions about this Privacy Policy, please contact us at info@eventup.com or at 600 West Chicago Ave, Suite 775 Chicago, IL 60654 
