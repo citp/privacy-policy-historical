@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoresense.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704093912id_/http%3A//www.scoresense.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoresense.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321155429id_/https%3A//www.scoresense.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ScoreSense Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Last updated: 3/5/2010
 
-We use the terms 'you' and 'your' to include any person who accesses the Sites or purchases the any product or service offered on the Sites (the 'Services') for any amount of time. We use the terms 'we', 'us' and 'our' to refer to One Technologies, L.P. (the 'Company'), which owns and/or operates this website, and our employees, members, officers, partners, affiliated entities, representatives, attorneys, and agents. 
+We use the terms 'you' and 'your' to include any person who accesses the Sites or purchases any product or service offered on the Sites (the 'Services') for any amount of time. We use the terms 'we', 'us' and 'our' to refer to One Technologies, L.P. (the 'Company'), which owns and/or operates this website, and our employees, members, officers, partners, affiliated entities, representatives, attorneys, and agents. 
 
 We understand how important your privacy is to you, so we are committed to assuring your privacy. This page outlines all of the steps we take to protect your privacy and what we do with your information that you provide to us through our web site.
 
@@ -38,7 +38,7 @@ We may also provide Non-Personally Identifiable Information about our customers'
 
 Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. 
 
-We also allow some of our employees and independent contractors access to both Personally Identifiable Information and Non-Personally Identifiable Information to enable us to assist us with our business and provide the services and products that we offer to you. We endeavor to have all such employees and contractors sign non-disclosure or confidentiality agreements with us in order to protect your information. From time to time, we make the e-mail addresses of those who provide them to us available to other reputable organizations whose products or services we think you might find interesting. If you supply us with your postal address on-line you may receive mailings from other reputable companies. 
+We also allow some of our employees and independent contractors access to both Personally Identifiable Information and Non-Personally Identifiable Information to enable us to assist us with our business and provide the services and products that we offer to you. We endeavor to have all such employees and contractors sign non-disclosure or confidentiality agreements with us in order to protect your information. From time to time, we make the email addresses of those who provide them to us available to other reputable organizations whose products or services we think you might find interesting. If you supply us with your postal address on-line you may receive mailings from other reputable companies. 
 
 **Privacy Policies of Third Parties**
 
@@ -51,6 +51,10 @@ Corrections or updates to your account information, including your email address
 **Business transitions**
 
 As we continue to develop our business, we might sell or buy assets. In such transactions, customer information (both Personally Identifiable and Non-Personally Identifiable Information) may be one of the transferred business assets. Also, in the event that we, or substantially all of our assets, are acquired, such customer information will be included within the transferred assets. 
+
+**California Customers**
+
+During enrollment in the Services offered by the Sites, we ask for your permission to receive offers from the Company and/or third parties. Should you give your permission initially but no longer wish to receive our offers, then follow the process outlined in the below section by unsubscribing. If you receive offers from third parties, we recommend following that third parties’ instructions to unsubscribe. Lastly, California residents have the right to know how we respond to web browser “Do Not Track” signals or other mechanisms. We do not respond to such signals or other mechanisms at this time.
 
 **Opting out**
 
@@ -82,4 +86,4 @@ Sunday, 12PM to 6PM CST
 
 We invite you to learn more about your privacy rights on the Internet. The following resources provide an array of information and services you might find helpful and informative. Electronic Privacy and Information Center (EPIC) EPIC is a public interest research center in Washington, DC. Established in 1994, EPIC works in association with Privacy International, an international human rights group based in London, and is a member of the Global Internet Liberty Campaign and the Internet Privacy Coalition. The Federal Trade Commission (FTC) The Federal Trade Commission enforces a variety of federal antitrust and consumer protection laws. The commission works to enhance the smooth operation of the marketplace by eliminating acts or practices that are unfair or deceptive. National Fraud Information Center (NFIC) The National Fraud Information Center is a project of the National Consumers League, America's oldest nonprofit consumer organization. NFIC helps consumers report fraud and offers advice on how to avoid being victimized. The Privacy Rights Clearinghouse (PRC) PRC provides consumers with valuable information on protecting their personal privacy. 
 
-©2014 _ScoreSense_. All Rights Reserved
+©2015 _ScoreSense_. All Rights Reserved
