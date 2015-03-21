@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyoflash.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817033803id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoflash.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321155320id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.*
 
 # Tokyoflash Japan : Privacy & Security
 
@@ -19,14 +19,14 @@ Should you wish to delete any cookies from your computer then you can find this 
 
 ## Your personal information
 
-We collect personal information from you when you place an order or register with us.
+We collect personal information from you when you place an order or register with us. This information is used only to speed up your shopping experience & provide warranty on your purchase.
 
-When you register we keep your email address and name so we can inform you about special offers, competitions and new products. We will ABSOLUTELY NEVER give out your email address or name to anyone else, unless required by law.
+When you sign up for our email newsletter we keep your email address and name so we can inform you about special offers, competitions and new products. We will ABSOLUTELY NEVER give out your email address or name to anyone else, unless required by law.
 
-We hate SPAM as much as anyone else, so we try to keep our emails to a minimum. You can expect to receive no more than 3 emails a month from us.  
+We hate SPAM as much as anyone else, so we try to keep our emails to a minimum. You can expect to receive 1 email per month from us. (Holiday season Nov/Dec we may send up to 3 a month)  
 If at anytime, you wish to UNSUBSCRIBE from our email list, you will find an 'unsubscribe' link at the foot of our email newsletter.
 
-When you place a order with us we collect your personal information such as name, address and credit card details so we can charge your account & deliver your purchase. Your Credit Card information is stored in an encrypted form. Not even our staff can access your credit card information.   
+When you place a order with us we collect your personal information such as name, address and credit card details so we can charge your account & deliver your purchase. Your Credit Card information is stored in an encrypted form & we do not keep the whole number, only part of it to help with fraud prevention. Not even our staff can access your credit card information.   
 We keep a record of your purchase to provide warranty support. If you have a warranty issue, we know exactly when & what you purchased so we can provide a fast and efficent replacement, repair or refund. Our customers satisfaction is top priority.
 
 If you have any questions or comments about your security or privacy, please contact 
