@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shouldbeviral.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108022751id_/http%3A//shouldbeviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shouldbeviral.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321214418id_/http%3A//shouldbeviral.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Should Be Viral - Follow Celebrity Rumors, Scandals, News & More
+# Privacy Policy - Should Be Viral
 
 This policy describes how and why Online Business Services SA, incorporated in Costa Rica, collects non-personally identifiable data from users and website visitors to http://WWW.SHOULDBEVIRAL.COM, and how that data will be used. Online Business Services SA is committed to respecting the privacy of non-personal identifiable data gathered.
 
@@ -44,4 +44,4 @@ This Privacy Policy is governed by and construed in accordance with the laws of 
 
 **Contact us**
 
-Please direct all questions in connection with this Policy via e-mail to: **INFO(AT)SHOULDBEVIRAL(DOT)COM**.
+Please direct all questions in connection with this Policy via e-mail to:  **INFO(AT)SHOULDBEVIRAL(DOT)COM**.
