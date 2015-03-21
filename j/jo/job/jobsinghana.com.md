@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsinghana.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712190208id_/https%3A//www.jobsinghana.com/home/%3Fview%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinghana.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321191735id_/https%3A//www.jobsinghana.com/home/%3Fview%3D7) for the most accurate reproduction.*
 
 # Jobsinghana.com - Ghana's Leading Recruitment Site
 
