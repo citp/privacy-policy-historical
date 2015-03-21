@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172235id_/http%3A//www.appboy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321075224id_/https%3A//www.appboy.com/privacy) for the most accurate reproduction.*
 
 # Read our Privacy Policy | Appboy
 
@@ -110,7 +110,7 @@ If you have any questions about this Privacy Policy, you may contact us at:
 
 Appboy, Inc.  
 Privacy Policy Issues  
-265 W. 37th Street  
-Suite 1212  
+263 W. 38th Street  
+16th Floor  
 New York, NY 10018  
 [privacy@appboy.com](mailto:privacy@appboy.com)
