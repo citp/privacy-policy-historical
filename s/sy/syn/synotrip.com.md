@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synotrip.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202190733id_/http%3A//www.synotrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synotrip.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321060105id_/http%3A//www.synotrip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - | Synotrip
 
