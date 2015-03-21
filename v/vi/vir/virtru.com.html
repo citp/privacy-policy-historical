@@ -1,24 +1,25 @@
-<!--The following is the downloaded HTML source of the virtru.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626032848id_/http%3A//www.virtru.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtru.com privacy policy that was archived on 2015-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321232950id_/https%3A//www.virtru.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="svg"><head>
-    <script id="www-widgetapi-script" src="http://web.archive.org/web/20140505072032/http://s.ytimg.com/yts/jsbin/www-widgetapi-vflkfgkJ8.js" async=""></script><script src="https://web.archive.org/web/20140505072146/https://www.youtube.com/iframe_api"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.io/analytics.js/v1/36r9psxney/analytics.min.js"></script><script type="text/javascript">
+    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.io/analytics.js/v1/36r9psxney/analytics.min.js"></script><script type="text/javascript">
         if (window.location.protocol != "https:")
            window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
     </script>
-    
+
+    <script src="//cdn.optimizely.com/js/2403150026.js"></script>
     
     <meta charset="utf-8">
     <title>Privacy Policy | Virtru</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Please read Virtru's privacy policy here.">
     
-    <link href="/theme/css/style.css" rel="stylesheet">
-    <link href="/theme/css/get-virtru.css" rel="stylesheet">
+    <link href="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/css/style.css" rel="stylesheet">
+    <link href="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/css/get-virtru.css" rel="stylesheet">
     <!-- Collapses at 768px -->
-    <!-- <link href="/theme/css/style-sm.css" rel="stylesheet"> -->
-    <link rel="shortcut icon" href="/theme/img/favicon.ico">
-    <link rel="shortcut icon" href="/theme/img/favicon.png">
+    <!-- <link href="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/css/style-sm.css" rel="stylesheet"> -->
+    <link rel="shortcut icon" href="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/img/favicon.ico">
+    <link rel="shortcut icon" href="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/img/favicon.png">
 
     <!-- Chrome Web Store Link -->
     <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/nemmanchfojaehgkbgcfmdiidbopakpp">
@@ -30,16 +31,54 @@
     <script type="text/javascript" src="//use.typekit.net/jwo4onu.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
+    <meta name="google-site-verification" content="RNtmwcjXr-Rig7KSjSkBdM6tdQUK1b7vfVD4Fa2Qfvc">
+
     <script type="text/javascript">
-  window.analytics=window.analytics||[],window.analytics.methods=["identify","group","track","page","pageview","alias","ready","on","once","off","trackLink","trackForm","trackClick","trackSubmit"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var key=window.analytics.methods[i];window.analytics[key]=window.analytics.factory(key)}window.analytics.load=function(t){if(!document.getElementById("analytics-js")){var a=document.createElement("script");a.type="text/javascript",a.id="analytics-js",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.io/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)}},window.analytics.SNIPPET_VERSION="2.0.9",
-  window.analytics.load("36r9psxney");
+  window.analytics = window.analytics || [];
+  window.analytics.methods = ['identify', 'group', 'track',
+    'page', 'pageview', 'alias', 'ready', 'on', 'once', 'off',
+    'trackLink', 'trackForm', 'trackClick', 'trackSubmit'];
+  window.analytics.factory = function(method){
+    return function(){
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      window.analytics.push(args);
+      return window.analytics;
+    };
+  };
+  for (var i = 0; i < window.analytics.methods.length; i++) {
+    var key = window.analytics.methods[i];
+    window.analytics[key] = window.analytics.factory(key);
+  }
+  window.analytics.load = function(key){
+    if (document.getElementById('analytics-js')) return;
+    var script = document.createElement('script');
+    // catch an error if any.
+    script.onerror = function(e){
+      //custom: we set failedToLoad to true so we can trigger
+      //callbacks to .track() calls.
+      window.analytics.failedToLoad = true;
+    };
+    script.type = 'text/javascript';
+    script.id = 'analytics-js';
+    script.async = true;
+    script.src = ('https:' === document.location.protocol
+      ? 'https://' : 'http://')
+      + 'cdn.segment.io/analytics.js/v1/'
+      + key + '/analytics.min.js';
+
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  window.analytics.SNIPPET_VERSION = '2.0.9';
+  window.analytics.load('36r9psxney');
   window.analytics.page();
 </script>
 
     <!-- HTML5 shiv, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-      <script src="/theme/js/html5shiv.js"></script>
-      <script src="/theme/js/respond.js"></script>
+      <script src="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/js/html5shiv.js"></script>
+      <script src="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/js/respond.js"></script>
     <![endif]-->
     
     
@@ -56,15 +95,15 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="/">
-        <img src="/theme/img/virtru-logo-beta@2x.png" alt="" class="icon-logo">
+        <div class="icon-logo"></div>
       </a>
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
 
-        <li><a id="get-virtru" href="/get-secure-email">Get Virtru</a></li>      
+        <li><a id="get-virtru" href="/get-secure-email">Get Virtru</a></li>
+        <li style=""><a id="pricing" href="/pricing">Pricing</a></li> 
         <li style=""><a id="how-it-works" href="/how-it-works">How It Works</a></li>
-        <li style=""><a id="business" href="/business">Virtru for Business</a></li>
         <li style=""><a id="blog" href="http://blog.virtru.com">Blog</a></li>
         <!-- <li style=""><a id="webviewer" href="/secure-reader" >Web Viewer</a></li> -->
         <!-- <li style=""><a href="/dashboard" class="secondary">Dashboard</a></li>-->  
@@ -439,13 +478,14 @@
 					<h5>Virtru</h5>
 					<ul class="no-bullet">
 					<li style=""><a id="about" href="/guided-by-privacy">About</a></li>
-						<li><a href="/business">Virtru for Business</a></li>
+						<li><a href="/business">Virtru for Google Apps</a></li>
 						<!-- <li style="display:none;"><a href="/digital-security-news.html">Blog</a></li> -->
 						<li><a target="blank" href="http://blog.virtru.com/virtru-faqs/">FAQs</a></li>
-						<li><a target="blank" href="https://virtru.desk.com/">Support</a></li>
+						<li><a target="blank" href="http://support.virtru.com/">Support</a></li>
 						<li><a href="/contact-us">Contact Us</a></li>
 						<li><a href="/privacy-policy">Privacy Policy</a></li>
 						<li><a href="/terms-of-service">Terms of Service</a></li>
+						<li><a href="/careers">Careers</a></li>
 					</ul>
 				</div>
 				<div class="col-sm-4 pad-left border-right">
@@ -480,14 +520,14 @@
 			<div class="row">
 				<div class="col-sm-5">
 					<div class="logo footer">
-						<img src="/theme/img/vmark-white@2x.png" alt="">
+						<img src="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/img/vmark-white@2x.png" alt="">
 					</div>
-					<p class="padded inline">Copyright © 2014 Virtru Corporation</p>
+					<p class="padded inline">Copyright © <span id="copyrightYear"></span> Virtru Corporation</p>
 				</div>
 
         <div class="col-sm-2">
           <div class="canary-logo footer">
-            <a href="http://blog.virtru.com/virtru-reports/transparency-report-march-2014/" title="Click to view Virtru's most recent Transparency Report">
+            <a href="http://blog.virtru.com/virtru-reports/" title="Click to view Virtru's most recent Transparency Report">
               <div class="inner"></div>
             </a>
           </div>
@@ -519,7 +559,7 @@
 						</li>
 						<li class="linkedin">
 							<div>
-								<a target="blank" href="http://www.linkedin.com/company/virtru"><img src="/theme/img/footer-linkedin@2x.png" alt=""></a>
+								<a target="blank" href="http://www.linkedin.com/company/virtru"><img src="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/img/footer-linkedin@2x.png" alt=""></a>
 							</div>
 						</li>
 					</ul>
@@ -530,8 +570,8 @@
 </footer>
 
     
-        <script type="text/javascript" src="/theme/js/build.js"></script>
-<script type="text/javascript" src="/theme/js/yt.js"></script>
+        <script type="text/javascript" src="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/js/build.js"></script>
+<script type="text/javascript" src="https://d1q9pph2h761r6.cloudfront.net/1426620455/a/fmw/js/yt.js"></script>
 <script>
   window.require('virtru-static');
 </script>
