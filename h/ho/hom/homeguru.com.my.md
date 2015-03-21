@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the homeguru.com.my privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806013617id_/http%3A//www.propertyguru.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeguru.com.my privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321014057id_/http%3A//www.propertyguru.com.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Modified: 1 February 2014
+**[English](http://www.propertyguru.com.my/privacy) | [Bahasa Malaysia](http://media.propertyguru.com.my/PrivacyPolicy_BM.html) version**  
+  
+Last Modified: 1 February 2014  
+
 
 PropertyGuru International (Malaysia) Sdn. Bhd (" **we** " or " **us** ") is the operator of [http://www.propertyguru.com.my](http://www.propertyguru.com.my/) (the " **Website** "), and we are committed to safeguarding your personal data.
 
