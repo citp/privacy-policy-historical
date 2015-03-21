@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the teachingstrategies.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104158id_/http%3A//teachingstrategies.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingstrategies.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321200343id_/http%3A//teachingstrategies.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Teaching Strategies, LLC
+# Privacy and Security Policies - Teaching Strategies, LLC
 
-Inside this page: Security Policy | Privacy Policy
+Ecommerce Security
 
-**Our Security Policy**
+Ecommerce and Web Privacy
+
+### Ecommerce Security
 
 Teaching Strategies uses great care to protect your  **credit card**  and personal  **contact information**  when you buy from the Teaching Strategies Web site.
 
@@ -18,7 +20,7 @@ Whenever your credit card information is requested or displayed, you’ll notice
 
 back to top
 
-**Our Privacy Policy**
+### Ecommerce and Web Privacy
 
 Teaching Strategies knows that you care how information about you is used and shared, and we appreciate your trust.
 
@@ -32,9 +34,9 @@ Teaching Strategies knows that you care how information about you is used and sh
 
 Examples of the information we collect include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; and cookie number.
 
-**E-Mail Communications:**  If you place an order with us, we will use your e-mail address to communicate with you regarding your order. If you are a  _Teaching Strategies GOLD_ ® online user, we may also send you monthly e-mails with information about GOLD and related resources. We will not send you our other marketing e-mails, about Teaching Strategies products and services, unless you subscribe to them. When you subscribe to our marketing e-mails, you are giving us permission to communicate with you.
+**E-Mail Communications:**  If you place an order with us, we will use your e-mail address to communicate with you regarding your order. If you use _GOLD_ ™ by Teaching Strategies® online, we may also send you monthly e-mails with information about GOLD™ and related resources. We will not send you our other marketing e-mails, about Teaching Strategies products and services, unless you subscribe to them. When you subscribe to our marketing e-mails, you are giving us permission to communicate with you.
 
-It’s easy to unsubscribe from our marketing e-mails and the e-mails sent to  _Teaching Strategies GOLD_ online users. Each e-mail you receive will contain a link through which you can quickly and easily unsubscribe.
+It’s easy to unsubscribe from our marketing e-mails and the e-mails sent to  _GOLD_ ™ online users. Each e-mail you receive will contain a link through which you can quickly and easily unsubscribe.
 
 If you are a member of the Teaching Strategies Community, you may choose to subscribe to e-mail alerts, on a per-discussion basis. In this case, we will send you an e-mail when a new comment is posted to a discussion you’ve subscribed to. You can unsubscribe to these e-mail alerts on the “Manage E-mail Subscriptions” page that’s accessed via the “My E-mail Alerts” link when you are signed into the Community.
 
