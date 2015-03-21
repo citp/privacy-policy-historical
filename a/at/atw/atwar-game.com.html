@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the atwar-game.com privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702001433id_/http%3A//www.atwar-game.com/home/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atwar-game.com privacy policy that was archived on 2015-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321033953id_/http%3A//atwar-game.com/home/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy policy - atWar</title>
@@ -32,13 +32,14 @@
 <!-- CSS -->
 <link rel="stylesheet" href="../css/font-awesome.min.css" type="text/css" media="all">
 <link href="../css/styles.css" type="text/css" rel="stylesheet" media="all">
+<!--<link href=../css/prettyCheckable.css type=text/css rel=stylesheet media='all'>-->
 <!--<link href=../css/bootstrap-switch.min.css type=text/css rel=stylesheet media='all'>-->
 <!-- <link href=../css/jquery-ui-1.9.2.custom.min.css type=text/css rel=stylesheet> -->
 <!-- <link rel=stylesheet href=/css/prettyPhoto.css type=text/css media=screen charset=utf-8 /> -->
 
 <!-- FONTS -->
 <!--<link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>-->
-<link href="http://fonts.googleapis.com/css?family=Titillium+Web:400,200" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Titillium+Web:400,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
 
 
 <script type="text/javascript">
@@ -55,6 +56,9 @@
 </head>
 <body style="">
 
+<div id="overlay">
+	<div class="text-center"><i class="fa fa-spinner fa-spin green"></i> Loading...</div>
+</div>
 <div id="wrapper">
 
 <nav class="navbar navbar-inverse navbar-static-top" id="top-toolbar" role="navigation" style="margin-bottom:0px">
@@ -67,23 +71,32 @@
 			<span class="icon-bar"></span>
 		</button>
 		
-		<div style="float:left" class="hidden-xs"><div class="pull-left text-center" style="width:49px;height:49px;background:#2a2a2a; color:#222222;padding-top:12.5px;margin:1px;margin-top:0px;float:left"><i class="fa fa-user fa-2x"></i></div></div><ul class="nav navbar-nav navbar-left uncollapsed" style="margin-left:0px"><li>
-					<a style="padding:14px;" href="https://www.facebook.com/dialog/oauth?client_id=132736180079596&amp;redirect_uri=http%3A%2F%2Fatwar-game.com%2Fusers%2Flogin.php%3Flogin_facebook%3Dyes&amp;state=92b4c373f84bdd4fb6cda416f76b2a94&amp;scope=email" rel="nofollow" onclick="$('#fb_image').hide();$('#fb_image_small').hide();$('#fb_loader').show();"><img class="hidden-md hidden-lg hidden-xl" id="fb_image_small" src="../images/fb_connect_small.gif" style="padding-top:0px" width="84" height="21"><img class="hidden-xs hidden-sm" id="fb_image" src="../images/fb_connect.gif" style="padding-top:0px" width="169" height="21"><i id="fb_loader" class="fa fa-spinner fa-spin green" style="display:none;margin-left:5px;margin-top:5px"></i></a>
-				</li>
-				<li><a rel="nofollow" href="../users/login.php">Login</a></li>
-				<li><a rel="nofollow" href="../users/register.php">Register</a></li></ul>
+		<div style="float:left" class="hidden-xs"><div class="pull-left text-center" style="width:49px;height:49px;background:#2a2a2a; color:#222222;padding-top:12.5px;margin:1px;margin-top:0px;float:left"><i class="fa fa-user fa-2x"></i></div></div><ul class="nav navbar-nav navbar-left uncollapsed" style="margin-left:0px"><li><a rel="nofollow" href="../users/login.php">Login</a></li>
+				<li><a rel="nofollow" href="../users/register.php">Register</a></li><li class="hidden-xs">
+					<div class="pull-left dark" style="margin-left:10px; margin-top:15px;margin-right:5px">or use</div><a class="btn btn-block btn-social-icon btn-facebook pull-left" href="../auth/?provider=Facebook" style="margin:7px 0px 0px 3px" title="Login/Register with Facebook">
+							<i class="fa fa-facebook"></i>
+						</a><a class="btn btn-block btn-social-icon btn-twitter pull-left" href="../auth/?provider=Twitter" style="margin:7px 0px 0px 3px" title="Login/Register with Twitter">
+							<i class="fa fa-twitter"></i>
+						</a><a class="btn btn-block btn-social-icon btn-google pull-left" href="../auth/?provider=Google" style="margin:7px 0px 0px 3px" title="Login/Register with Google">
+							<i class="fa fa-google-plus"></i>
+						</a><a class="btn btn-block btn-social-icon btn-yahoo pull-left" href="../auth/?provider=Yahoo" style="margin:7px 0px 0px 3px" title="Login/Register with Yahoo">
+							<i class="fa fa-yahoo"></i>
+						</a><a class="btn btn-block btn-social-icon btn-steam pull-left" href="../auth/?provider=Steam" style="margin:7px 0px 0px 3px" title="Login/Register with Steam">
+							<i class="fa fa-steam"></i>
+						</a></li></ul>
 	</div><div class="collapse navbar-collapse" id="main_menu">
-	  <ul class="nav navbar-nav navbar-right"><li><a href="../home/"><i class="fa fa-home fa-2x"></i> Home</a></li><li class="dropdown">
+	  <ul class="nav navbar-nav navbar-right"><li><a href="../home/"><i class="fa fa-home fa-2x"></i> Home</a></li><li class="dropdown hidden-xs">
 			<a rel="nofollow" href="../forum/"><i class="fa fa-users fa-2x"></i> Community</a>
 			<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"><b class="caret"></b></a>
 			<ul class="dropdown-menu">
 				<li><a rel="nofollow" href="../forum/">Forum</a></li>
 				<li><a rel="nofollow" href="../users/">Players</a></li>
 				<li><a rel="nofollow" href="../cln/">Coalitions</a></li></ul>
-		</li><li><a href="../home/features.php"><i class="fa fa-list fa-2x"></i> Features</a></li>
+		</li><li class="visible-xs"><a rel="nofollow" href="../forum/"><i class="fa fa-comments fa-2x"></i> Forum</a></li>
+		<li class="visible-xs"><a rel="nofollow" href="../users/"><i class="fa fa-users fa-2x"></i> Players</a></li><li><a href="../home/features.php"><i class="fa fa-list fa-2x"></i> Features</a></li>
 			<li><a href="../home/risk.php"><i class="fa fa-question-circle fa-2x"></i> Risk Online?</a></li><li><a class="green-strict" rel="nofollow" href="/guest/" style="text-transform:uppercase"><i class="fa fa-chevron-circle-right fa-2x"></i> Play as guest</a></li><li class="dropdown">
 			<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" style="padding-top:9px;padding-bottom:9px;padding-left:10px;margin-right:0px"><img src="../images/flags/en.png" style="width:32px;height:32px;"> <b class="caret"></b></a>
-			<ul class="dropdown-menu"><li><a href="http://ar.atwar-game.com"><img src="../images/flags/ar.png" style="vertical-align:-20%;width:22px;height:22px"> Arabic</a></li><li><a href="http://bs.atwar-game.com"><img src="../images/flags/bs.png" style="vertical-align:-20%;width:22px;height:22px"> Bosnian</a></li><li><a href="http://cn.atwar-game.com"><img src="../images/flags/cn.png" style="vertical-align:-20%;width:22px;height:22px"> Chinese Simplified</a></li><li><a href="http://tw.atwar-game.com"><img src="../images/flags/tw.png" style="vertical-align:-20%;width:22px;height:22px"> Chinese Traditional</a></li><li><a href="http://hr.atwar-game.com"><img src="../images/flags/hr.png" style="vertical-align:-20%;width:22px;height:22px"> Croatian</a></li><li><a href="http://cs.atwar-game.com"><img src="../images/flags/cs.png" style="vertical-align:-20%;width:22px;height:22px"> Czech</a></li><li><a href="http://nl.atwar-game.com"><img src="../images/flags/nl.png" style="vertical-align:-20%;width:22px;height:22px"> Dutch</a></li><li><a href="http://fi.atwar-game.com"><img src="../images/flags/fi.png" style="vertical-align:-20%;width:22px;height:22px"> Finnish</a></li><li><a href="http://fr.atwar-game.com"><img src="../images/flags/fr.png" style="vertical-align:-20%;width:22px;height:22px"> French</a></li><li><a href="http://de.atwar-game.com"><img src="../images/flags/de.png" style="vertical-align:-20%;width:22px;height:22px"> German</a></li><li><a href="http://el.atwar-game.com"><img src="../images/flags/el.png" style="vertical-align:-20%;width:22px;height:22px"> Greek</a></li><li><a href="http://he.atwar-game.com"><img src="../images/flags/he.png" style="vertical-align:-20%;width:22px;height:22px"> Hebrew</a></li><li><a href="http://hi.atwar-game.com"><img src="../images/flags/hi.png" style="vertical-align:-20%;width:22px;height:22px"> Hindi</a></li><li><a href="http://it.atwar-game.com"><img src="../images/flags/it.png" style="vertical-align:-20%;width:22px;height:22px"> Italian</a></li><li><a href="http://la.atwar-game.com"><img src="../images/flags/la.png" style="vertical-align:-20%;width:22px;height:22px"> Leetspeak</a></li><li><a href="http://no.atwar-game.com"><img src="../images/flags/no.png" style="vertical-align:-20%;width:22px;height:22px"> Norwegian</a></li><li><a href="http://pl.atwar-game.com"><img src="../images/flags/pl.png" style="vertical-align:-20%;width:22px;height:22px"> Polish</a></li><li><a href="http://pt.atwar-game.com"><img src="../images/flags/pt.png" style="vertical-align:-20%;width:22px;height:22px"> Portuguese</a></li><li><a href="http://ro.atwar-game.com"><img src="../images/flags/ro.png" style="vertical-align:-20%;width:22px;height:22px"> Romanian</a></li><li><a href="http://ru.atwar-game.com"><img src="../images/flags/ru.png" style="vertical-align:-20%;width:22px;height:22px"> Russian</a></li><li><a href="http://sr.atwar-game.com"><img src="../images/flags/sr.png" style="vertical-align:-20%;width:22px;height:22px"> Serbian</a></li><li><a href="http://sc.atwar-game.com"><img src="../images/flags/sc.png" style="vertical-align:-20%;width:22px;height:22px"> Serbo-Croatian</a></li><li><a href="http://sl.atwar-game.com"><img src="../images/flags/sl.png" style="vertical-align:-20%;width:22px;height:22px"> Slovene</a></li><li><a href="http://es.atwar-game.com"><img src="../images/flags/es.png" style="vertical-align:-20%;width:22px;height:22px"> Spanish</a></li><li><a href="http://tr.atwar-game.com"><img src="../images/flags/tr.png" style="vertical-align:-20%;width:22px;height:22px"> Turkish</a></li></ul>
+			<ul class="dropdown-menu"><li><a href="http://ar.atwar-game.com"><img src="../images/flags/ar.png" style="vertical-align:-20%;width:22px;height:22px"> Arabic</a></li><li><a href="http://bs.atwar-game.com"><img src="../images/flags/bs.png" style="vertical-align:-20%;width:22px;height:22px"> Bosnian</a></li><li><a href="http://cn.atwar-game.com"><img src="../images/flags/cn.png" style="vertical-align:-20%;width:22px;height:22px"> Chinese Simplified</a></li><li><a href="http://tw.atwar-game.com"><img src="../images/flags/tw.png" style="vertical-align:-20%;width:22px;height:22px"> Chinese Traditional</a></li><li><a href="http://hr.atwar-game.com"><img src="../images/flags/hr.png" style="vertical-align:-20%;width:22px;height:22px"> Croatian</a></li><li><a href="http://cs.atwar-game.com"><img src="../images/flags/cs.png" style="vertical-align:-20%;width:22px;height:22px"> Czech</a></li><li><a href="http://nl.atwar-game.com"><img src="../images/flags/nl.png" style="vertical-align:-20%;width:22px;height:22px"> Dutch</a></li><li><a href="http://fi.atwar-game.com"><img src="../images/flags/fi.png" style="vertical-align:-20%;width:22px;height:22px"> Finnish</a></li><li><a href="http://fr.atwar-game.com"><img src="../images/flags/fr.png" style="vertical-align:-20%;width:22px;height:22px"> French</a></li><li><a href="http://de.atwar-game.com"><img src="../images/flags/de.png" style="vertical-align:-20%;width:22px;height:22px"> German</a></li><li><a href="http://el.atwar-game.com"><img src="../images/flags/el.png" style="vertical-align:-20%;width:22px;height:22px"> Greek</a></li><li><a href="http://he.atwar-game.com"><img src="../images/flags/he.png" style="vertical-align:-20%;width:22px;height:22px"> Hebrew</a></li><li><a href="http://hi.atwar-game.com"><img src="../images/flags/hi.png" style="vertical-align:-20%;width:22px;height:22px"> Hindi</a></li><li><a href="http://it.atwar-game.com"><img src="../images/flags/it.png" style="vertical-align:-20%;width:22px;height:22px"> Italian</a></li><li><a href="http://la.atwar-game.com"><img src="../images/flags/la.png" style="vertical-align:-20%;width:22px;height:22px"> Leetspeak</a></li><li><a href="http://no.atwar-game.com"><img src="../images/flags/no.png" style="vertical-align:-20%;width:22px;height:22px"> Norwegian</a></li><li><a href="http://pl.atwar-game.com"><img src="../images/flags/pl.png" style="vertical-align:-20%;width:22px;height:22px"> Polish</a></li><li><a href="http://pt.atwar-game.com"><img src="../images/flags/pt.png" style="vertical-align:-20%;width:22px;height:22px"> Portuguese</a></li><li><a href="http://ro.atwar-game.com"><img src="../images/flags/ro.png" style="vertical-align:-20%;width:22px;height:22px"> Romanian</a></li><li><a href="http://ru.atwar-game.com"><img src="../images/flags/ru.png" style="vertical-align:-20%;width:22px;height:22px"> Russian</a></li><li><a href="http://sr.atwar-game.com"><img src="../images/flags/sr.png" style="vertical-align:-20%;width:22px;height:22px"> Serbian</a></li><li><a href="http://sl.atwar-game.com"><img src="../images/flags/sl.png" style="vertical-align:-20%;width:22px;height:22px"> Slovene</a></li><li><a href="http://es.atwar-game.com"><img src="../images/flags/es.png" style="vertical-align:-20%;width:22px;height:22px"> Spanish</a></li><li><a href="http://tr.atwar-game.com"><img src="../images/flags/tr.png" style="vertical-align:-20%;width:22px;height:22px"> Turkish</a></li></ul>
 		</li>
 	  </ul>
 	</div>
@@ -200,7 +213,7 @@ This privacy policy was last updated on 11/06/13. Our privacy policy may change 
 			</div>
 			<div class="col-sm-4 col-md-6" style="padding-bottom:20px">
 				<span class="megatitle">Join us on</span><br><hr style="margin-bottom:10px">
-				<a rel="nofollow" href="http://www.facebook.com/AfterwindGame" target="_blank"><img src="../images/buttons/facebook.png" onmouseover="this.src='../images/buttons/facebook1.png'" onmouseout="this.src='../images/buttons/facebook.png'"></a>
+				<a rel="nofollow" href="http://www.facebook.com/atWarGame" target="_blank"><img src="../images/buttons/facebook.png" onmouseover="this.src='../images/buttons/facebook1.png'" onmouseout="this.src='../images/buttons/facebook.png'"></a>
 				<a rel="nofollow" href="http://twitter.com/atWar_game" target="_blank"><img src="../images/buttons/twitter.png" onmouseover="this.src='../images/buttons/twitter1.png'" onmouseout="this.src='../images/buttons/twitter.png'"></a>
 			</div>
 			<div class="col-sm-4 col-md-3" style="padding-bottom:20px">
@@ -223,7 +236,7 @@ This privacy policy was last updated on 11/06/13. Our privacy policy may change 
 
 
 <!-- Modal Dialog -->
-<div class="modal fade" id="modal" role="dialog" aria-labelledby="confirmDeleteLabel" aria-hidden="true">
+<div class="modal fade" id="modal" role="dialog" aria-labelledby="confirmDeleteLabel" aria-hidden="true" style="display:none">
   <div class="modal-dialog" style="width:380px;padding-top: 15%;">
     <div class="modal-content" style="border:0px;">
       <div class="modal-body dark">
@@ -232,7 +245,7 @@ This privacy policy was last updated on 11/06/13. Our privacy policy may change 
       <div class="modal-footer text-center padding-5" style="border:0px;margin:0px">
 		<div class="rounded padding-15 text-center" style="background:#f0f0f0">
 			<button type="button" class="btn btn-success" data-dismiss="modal" id="btnConfirm" style="min-width:110px">Confirm</button>
-			<button type="button" class="btn" data-dismiss="modal" style="min-width:110px">Cancel</button>
+			<button type="button" class="btn btn-default" data-dismiss="modal" style="min-width:110px">Cancel</button>
 		</div>
       </div>
     </div>
@@ -241,28 +254,21 @@ This privacy policy was last updated on 11/06/13. Our privacy policy may change 
 
 
 <!-- Modal Dialog -->
-<div class="modal fade" id="white_modal" role="dialog" aria-labelledby="confirmDeleteLabel" aria-hidden="true">
+<div class="modal fade" id="white_modal" role="dialog" aria-labelledby="confirmDeleteLabel" aria-hidden="true" style="display:none">
   <div class="modal-dialog">
-    
+	<div class="modal-content" style="border:0px;">
+	
+	</div>
   </div>
-</div>
-
-
-    
+</div>    
 
 
 
 
 <!-- JS -->
 <script type="text/javascript" src="../java/java.js"></script>
-<!-- <script type='text/javascript' src="../java/jquery-ui.min.js"></script> for gialogs
-<script type='text/javascript' src="../java/jquery.autosize.min.js"></script> --> <!-- textarea autogrow (included in java.js) -->
 <script type="text/javascript" src="../java/bootstrap.min.js"></script>
-<script type="text/javascript" src="../java/imagelightbox.min.js"></script>
-<script type="text/javascript" src="../java/waypoints.min.js"></script>
-<!-- <script type='text/javascript'  src="../java/bootstrap-switch.min.js"></script>-->
-<!-- <script type=text/javascript src=../java/jquery.prettyPhoto.js charset=utf-8></script> -->
-
+<script type="text/javascript" src="../java/jquery.cookie.js"></script>
 
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-537322ec483103f6"></script>
@@ -284,27 +290,5 @@ This privacy policy was last updated on 11/06/13. Our privacy policy may change 
 
 </script>
 
-<script type="text/javascript" charset="utf-8">
-	
-	$(function(){
-		$( '[rel^="lightbox"]' ).imageLightbox(
-		{
-			quitOnEnd:true,
-			onStart: 	 function() { overlayOn();  closeButtonOn(); },
-			onEnd:	 	 function() { overlayOff(); activityIndicatorOff();  closeButtonOff();},
-			onLoadStart: function() { activityIndicatorOn(); },
-			onLoadEnd:	 function() { activityIndicatorOff(); }
-		});	// lightbox
-		
-       $('[rel="tooltip"]').tooltip();	// tooltip
-	   $('textarea').autosize();	// Autogrow
-	   // $("[rel='switch']").bootstrapSwitch();	// switch
-    });
-	$(document).ready(function() {
-		$('.infinite-container').waypoint('infinite', {
-		});
-	});
-	
-	
-</script>
+<script type="text/javascript" charset="utf-8" src="../java/footer.js"></script>
 <textarea tabindex="-1" style="position: absolute; top: -999px; left: 0px; right: auto; bottom: auto; border: 0px; padding: 0px; box-sizing: content-box; overflow-wrap: break-word; overflow: hidden; transition: none 0s ease 0s; height: 0px !important; min-height: 0px !important; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 400; font-style: normal; letter-spacing: 0px; text-transform: none; word-spacing: 0px; text-indent: 0px; line-height: 20px; width: 74px;" class="autosizejs"></textarea></body></html>
