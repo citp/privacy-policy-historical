@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piryx.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702025556id_/http%3A//www.piryx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piryx.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321232719id_/http%3A//piryx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Piryx
 
