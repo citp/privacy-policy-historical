@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.ca privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701205944id_/http%3A//www.readersdigest.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.ca privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321173644id_/http%3A//www.readersdigest.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
