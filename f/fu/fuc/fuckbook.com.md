@@ -1,120 +1,176 @@
-> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703143644id_/https%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321133815id_/https%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fuckbook
 
-We are committed to protecting our users' privacy
+**
 
-We at Fuckbook offer this Privacy Policy ("Policy") to inform Users of the Fuckbook ("Website") how we define, collect, use, and disclose the personal information you provide to us. We reserve the right, at our sole discretion, to alter this Policy at any time. Alterations shall become effective immediately once posted on the Website. We will notify you of a substantive change to this Policy by posting a notice of such substantial change on the home page of the Website and we may also email you to notify you of such changes. Your continued use of the Website following the posting of changes and/or modifications will constitute your acceptance of the revised privacy policy.  
-By providing personal information to us, and by using the Website or Service, you consent to our collection, use and disclosure of your personal information in accordance with this Policy.  
-Please read this Policy carefully and save it. If you do not agree with the terms of this Policy, you should leave the Website and discontinue use of the Service immediately. In addition, if you are an individual who wishes to become a Registered User or Member, you must read this Policy and indicate your acceptance of its terms by following the instructions on the "[REGISTRATION]" page and check the box labelled "I have read and agree to the Privacy Policy and Terms and Conditions. I confirm I have reached the age of majority in my jurisdiction."   
-For the purposes of this Policy, "personal information" shall mean any information that can identify an individual directly or through other reasonable means. 
+NOTICE: LAST UPDATED: March 13, 2015
 
-### 1) Information We Gather Automatically. 
+** **
 
-Each time a visitor visits the Website, our servers collect certain non-personal technical information, including, but not necessarily limited to, the visitor's IP Address, referral data and browser/platform type. This information is recorded by the standard operation of Fuckbook's Internet servers. We also count, track, and aggregate a visitor's activity into our analysis of general traffic flows at the Website (e.g., tracking where traffic comes from, how traffic flows within the Website, etc.). The information collected here cannot identify who you are as an individual. However, we may use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with our Terms of Use or to protect our service, the Website, users, or others.  
-We may merge information about visitors and visits into group data, which may then at our discretion be shared on an aggregated basis with our advertisers. We will not disclose your individual identity or personally identifiable data without your permission.   
-What are IP Addresses? An IP address is a number that's automatically assigned to your computer by your Internet service provider whenever you're surfing the Internet. We do not link IP addresses to personally identifiable information, which means that your session will be logged anonymously.   
-What are Cookies? We use cookies to store visitors' preferences and to record session information for purposes including ensuring that visitors are not repeatedly offered the same advertisements, and to customize advertising and web page content for individual users. A cookie is an alphanumeric identifier which we transfer to your hard drive through your web browser when you visit our Website. It enables our own system to recognize you when you visit our Website again and improve our service to you. Cookies may also be used to compile aggregate information about areas of our Website that are visited most frequently.   
-This traffic information can be used to enhance the content of our Website and make your use of it easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website. Note that you must enable cookies from Fuckbook.com in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies can be found in [our FAQs](https://www.fuckbook.com/about/faq). Please note that Fuckbook allows third parties who are presenting advertisements on some of our pages to set and access their cookies on your computer in a process that Fuckbook does not control. Advertisers' uses of cookies are subject to their own privacy policies, not this Policy. Therefore, we suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share, and disclose your personal information. 
+www.fuckbook.com IS INTENDED FOR CONSENTING ADULTS, OVER AGE 18, OR INDIVIDUALS THAT HAVE REACHED THE AGE OF MAJORITY IN THEIR APPLICABLE JURISDICTION, WHICHEVER IS OLDER.
 
-### 2) Information Required for Registration. 
+**
 
-Fuckbook will identify to you the purposes for which it will collect or use personal information before or at the time the information is collected. The type of personal information we may request depends on and is related to the reason (or purpose) such personal information was provided to us. During the process to become a User of the Website, we ask for general identifying information to provide you with customized service. We gather personal contact information such as screen name, email address, and some demographic information such as age, gender, and general geographic location. Any other information you choose to enter, such as your personal interests and preferences and general indications of the type of partner you are looking for using the Service, is completely optional.   
-We encourage Users to fill out their profiles as completely as possible, with the understanding that, once entered, contact information is treated anonymously and is not available to other Fuckbook Users. Any communications from other Users are done via our internal systems, which are used to match the message to you and generate an e-mail notification without disclosing any information aside from your chosen screen name.  
-The choice to provide us with your personal information is always yours. However, your decision to withhold particular information may result in limiting our ability to respond to your inquiries or provide you with the Services you requested. If a new purpose is identified for the use of the information collected, the new purpose will be explained prior to its new use. Unless the new purpose is required by law, your consent is required before information can be used for that purpose. Demographic information may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals at any time.  
-Note that, during the Membership process, third party billing agents will collect personally identifiable information required to process payments for the service. Fuckbook retains information (name and address) to correctly identify you in dealings with third party billing agents. Additional information gathered by third party billing agents is not controlled by Fuckbook or this Policy. 
+Persons under the age of majority are not eligible to register for, use and/or purchase the services and/or products featured on www.fuckbook.com (“Website”) or to become a member. www.fuckbook.com does not knowingly collect information from children under 18 years of age. 
 
-### 3) Voluntary Inclusion of Personal Information. 
+### Summary of Privacy Policy
 
-Personally identifiable information that you enter into your profile, that you include in communications with other Members or Users, or that you disclose in any media (text, chat streams, graphical, audio, visual, or audio-visual), or that you post or display on the Website is accessible by other Users (Registered Users and Members) of the Website. Fuckbook is not responsible for any privacy issues arising from your own voluntary posting or transmission of personal information via the Service. You acknowledge and agree that you (not Fuckbook or our affiliates, advertisers, employees, and content providers) shall be solely responsible and liable for all damages, liability or other consequences, foreseen or unforeseen, of all information which you submit, publish, display, disseminate, or otherwise communicate through the Website even if a claim for damages or liability should arise after termination of service. 
+This Policy applies to customer information we collect through our websites (for purposes of this Policy, “websites” includes mobile applications). Your privacy is important to us and we want you to clearly understand how information provided by you, or collected during your use of the website, is utilized to make your visit more enjoyable and to bring to you information and opportunities that may be of interest. 
 
-### 4) Communication. 
+### Information We Collect
 
-The Website directly communicates with Members and Users through email, instant messaging, and in some cases, downloaded executables. This enables Members to receive information when they are not on the Website, so they remain current on internal communication and updates from other Users or from us directly. The Website may also use personally identifiable information within your profile to send information to you that, in some cases, are targeted to your interests, such as special banners and promotions. Should you not wish Fuckbook to send you information on other services or products, please just contact us using the information provided in section 17 below.   
-Members of the Website can directly communicate with you through messaging services that are part of the Service (mail, chat, or via comments). We may use personally identifiable information within your profile to send notifications of these communications to you, but your personally identifiable information is not disclosed to other Members by us. 
+We collect your information from the following sources: 
 
-### 5) Referrals. 
-
-If you choose to use our external referral service to tell a friend about the Website, we will ask you for your friend's contact information. The Website will automatically send your friend an e-mail inviting them to visit the Website. The Website maintains this information for the sole purpose of sending this email and tracking the success of the referral. 
-
-### 6) Your Use of Other Users' Information. 
-
-You may not use other Users' information for commercial purposes, to send SPAM or SPIM, to harass, to make unlawful threats, or for any other illegal purpose. Fuckbook reserves the right to terminate the Service to those who misuse other Users' information.  
-If you receive communications that you find to have violated this Policy, please contact us using the information provided in section 17 below, being sure to include the message text and the User who sent the communication to you. 
-
-### 7) Accuracy of Personal Information, Information Review and Removal. 
-
-We shall make every reasonable effort to ensure your personal information is accurate, complete, and up-to-date. You are responsible for advising Fuckbook of any inaccuracies or changes to your personal information.   
-Users may modify or remove any of their information associated with their profile at any time by logging into their account and accessing the Edit Profile feature.  
-Users may, at any time, delete their profiles or remove any images or audio-visual material that they have posted to the Website. 
-
-### 8) Promotion. 
-
-From time to time, Fuckbook may sponsor sweepstakes, contests, or other events of interest to our users. Fuckbook may co-sponsor these events with third party organizations, and may be required to share demographic information to be used for the event. Any shared demographic information will not be associated with individual users; it will only be presented as aggregated information.   
-In some cases, promotions or sweepstakes that may be of interest to our users may require us to share email information with third party sponsors or partners. A User's personal email information will not be released to any third party organization without the User's express consent and disclosure of the sponsor organization's name, and Fuckbook will request that such named sponsors uphold the privacy of the registrant's information by not distributing or sharing such information with any other businesses or organizations, and we will ensure that such sponsors agree to be bound by the terms of this Policy.   
-Should you not wish to receive notices or be considered for sweepstakes, contests, or other events, please contact us using the information provided in section 17 below. 
-
-### 9) Disclosure and Retention of Personal Information. 
-
-We will only use or disclose your personal information in accordance with the purposes for which it was originally collected unless you have otherwise consented, or when required or permitted by law. We will keep your personal information only for so long as it is required to fulfill the purpose for which it was collected or as required by law. Except as explained in this Policy, or as otherwise consented to by you, we do not disclose any personal information to third parties. The following are the limited instances where we may disclose your personal information to third parties: 
-
-  1. When this information must be shared to provide a product or service you have requested. 
-  2. We need to send the information to companies who work on our behalf to provide a product or service to you. 
-  3. To investigate and/or enforce violations of our Terms and Conditions and/or this Policy, or to protect our interests in our operation and our legal rights and protections. 
-  4. To investigate potentially fraudulent or questionable activities. 
-  5. When required or permitted by law. Fuckbook (including our affiliates, advertisers, and content providers) independently reserves the right to fully cooperate with requests from any recognized law enforcement authority, and to court orders, requesting or directing Fuckbook (including our affiliates, advertisers, and content providers) to disclose the identity or other information regarding any person who is using or has used the Website or the Service or has obtained any Content available through or in association with the Website. By accepting this Policy and using the Website and/or the Service, you waive and hold harmless Fuckbook, our affiliates, content providers, and the operators of the Website from any and all claims resulting from any and all actions taken by any of the foregoing during, or as a result of any law enforcement authority's investigations or inquiries. 
-  6. In the course of a sale or potential sale, reorganization, consolidation, merger, or amalgamation of our business. In order to ensure a smooth transition of the Service in the event of a merger, acquisition, reorganization, sale of all or substantially all of its assets or the sale of an individual website owned by Fuckbook, Fuckbook may transfer your personally identifiable information to a third party as a part of such merger, acquisition, reorganization, or sale. In the event the transaction proceeds, we will require that the receiving party agree that they will be similarly bound by the provisions of this privacy policy and that they will only use and disclose your personal information as we are similarly entitled under this privacy policy. In the event the sale does not proceed, we will require the potential purchaser to not use or disclose your personal information in any manner whatsoever and to completely erase the same. 
-  7. Where such disclosure is described elsewhere in this Policy.This Policy does not protect information you post to any online profile, bulletin board, e-note, video chat room, or any other forum accessible to other Users or other sites within Fuckbook. 
+  * Information you give us, including through website registrations, creation of profiles and other information voluntarily supplied by you through posting on the website or engaging in media such as chat. 
+  * Information automatically collected when you visit or use our websites, such as IP address, browser type and via cookies, analytic tools and third-party services in the same fashion as most other websites. 
+  * Our mobile applications collect certain information automatically, such as the type of mobile device you use and the location of your device. You must first provide permission through your device before the application obtains such location information from technologies like GPS. (If applicable). 
 
 
 
-### 10) Location of Personal Information
+### How We Use and/or Disclose Your Information
 
-We are an international organization with servers located in various jurisdictions. As a result, User's and Member's personal information may be transferred to and stored in Canada, Ireland, or elsewhere. We do the best we can to ensure your personal information is protected to the greatest extent possible. However, please note that the jurisdiction in which we store your personal information may not have similar standards for protecting your personal information as are provided for in your country. As well, government organizations from the jurisdiction in which the personal information is stored may have access to your personal information in accordance with the laws of such jurisdiction. 
-
-### 11) Employee Access to Your Personal Information. 
-
-In the course of daily operations, access to private, sensitive, and confidential information is restricted to authorized employees who have a legitimate business purpose and reason for accessing it. As a condition of their employment, all employees of Fuckbook are required to follow this Policy. Employees are informed about the importance of privacy and they are required to agree to a code of conduct that prohibits the disclosure of any personal information to unauthorized individuals or parties.   
-Unauthorized access to and/or disclosure of personal information by an employee of Fuckbook is strictly prohibited. All employees are expected to maintain the confidentiality of personal information at all times and failing to do so will result in appropriate disciplinary measures, which may include dismissal. 
-
-### 12) Our Commitment to Data Security.
-
-The security of your personal information is a priority to Fuckbook. We are responsible for protecting personal information under our control, including personal information that has been transferred to, or received from, a third party.  
-Registered User and Member accounts are secured by member-created passwords. We use reasonable measures to protect registration and membership information that is stored within our database, and we restrict access to User information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff, and such employees shall be required to respect the privacy of that information.   
-In the event that personal information is transferred to a third party, Fuckbook will take steps to ensure that such recipients safeguard the personal information and use the information only for authorized purposes. Some examples of such measures are as follows: 
-
-  1. Physical security measures such as restricted access facilities and locked filing cabinets. 
-  2. Electronic security measures for computerized personal information such as password protection, database encryption, and personal identification numbers. 
-  3. Organizational processes such as limiting access to such personal information to a selected group of individuals. 
-  4. Contractual obligations with third parties who need access to personal information by agreements stipulating the confidentiality of the information and requiring them to protect and secure the personal information. 
+  * We use your information to enhance our provision of services to you. 
+  * We may combine all the information we collect from users to determine ways in which our website and offerings can be improved. 
+  * We may disclose or transfer your personal information from time to time to affiliates and third parties to help with our business operations and to bring to you offers that we believe might be of interest to you. 
+  * We may contact you by email for customer service purposes as well as to make you aware of specials, new services and opportunities from our marketing customers. 
+  * We also use such information to protect you, other users and the integrity of our website against fraud or as may be required by law. 
+  * We want to communicate with you in ways you want to hear from us. Examples include email newsletters, special offers, and new product announcements. We will not contact you via phone or text message without your express consent (opt-in). We use an opt-out standard for all communications other than administrative communication concerning your account. 
+  * We participate in re-marketing and interest-based advertising with Google and other companies. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising on other websites based on your browsing behavior across websites. Learn how to opt-out from participating by [clicking here](https://tools.google.com/dlpage/gaoptout). 
 
 
 
-Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. 
+**
 
-### 13) Our Commitment to Children's Privacy.
+### FULL PRIVACY POLICY
 
-Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information from those we actually know are under 18 years of age, and no part of Fuckbook is structured to attract anyone under 18 years of age. If you are younger than 18 years of age, you are not permitted to use this site. 
+**
 
-### 14) Websites Governed by this Privacy Policy.
+### What This Privacy Policy Covers
 
-The Website that is governed by the provisions and practices stated in this Policy is: Fuckbook. Fuckbook's Website may contain links to other third party sites that are not governed by this Policy. Although we endeavor to only link to sites with high privacy standards, our Policy will no longer apply once you leave Fuckbook's Website. Additionally, we are not responsible for the privacy practices employed by other third party websites, nor are we responsible for the content of any such web property, company, or organization that we do not control. Further, we cannot control and are not responsible for the actions of the employees, agents, or assigns of any such web property, company, or organization. Therefore, we suggest that you examine the privacy policies of those sites to learn how your information may be collected, used, shared, and disclosed. 
+This Privacy Policy covers our treatment of information gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any information about you that our partners share with us or that we share with our partners. 
 
-### 15) Terms and Conditions, Notices and Revisions.
+We are committed to protecting our user’s privacy. This Privacy Policy sets forth the policies and practices with respect to information or data gathered regarding registered users and members of the www.fuckbook.com website and/or other domains, products, advertising products, services, and/or content, including iOS, Android, and Windows Phone mobile application (collectively, the “Website”). While this Privacy Policy also covers our treatment of any information about you that our partners share with us or that we share with our partners, you should understand that this Privacy Policy does not apply to the practices of such third parties. We encourage you to carefully review the privacy policies of all third-party websites you access. Additionally, this Privacy Policy does not govern what our registered users and members do on their individual www.fuckbook.com pages and we hereby disclaim any and all responsibility for the information collected by us as a result of postings by users and members on their individual pages. 
 
-Your use of the Website, and any disputes arising from it, is subject to this Policy as well as our Terms and Conditions and all of its dispute resolution provisions including, but not limited to, limitations of liability and governing law. 
+### Changes To The Privacy Policy
 
-### 16) Updating this Privacy Policy. 
+We reserve the right to change or update this Privacy Policy at any time by posting a notice on the Website explaining that we are changing our Privacy Policy. If the manner in which we use personal information changes, we will notify our registered users and members by posting the changes on this Website and, in our sole discretion, we may send out an e-mail notification to our registered users and members notifying them of the changes. 
 
-This Policy is subject to change by Fuckbook at any time. We may modify any of the terms contained in this Policy at any time in our sole discretion. Any changes to our privacy policy and information handling practices will be acknowledged in this policy in a timely manner. We may add, modify, or remove portions of this policy when we feel it is appropriate to do so. You may determine when this policy was last updated by referring to the date at the bottom of this privacy policy.   
-If any modification to this Policy is unacceptable to you, you agree that your only recourse is to terminate this Policy. Your continued use of the Service following our posting of a change notice or new agreement on the Website will constitute your binding acceptance of the change.   
-BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTION, USE, AND DISCLOSURE OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS POLICY. 
+NOTICE: USE OF THIS WEBSITE BY A REGISTERED USER OR MEMBER CONSTITUTES AN EXPRESS ASSENT TO THE USE OF PERSONAL INFORMATION COLLECTED BY THE WEBSITE. AGAIN, CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE YOUR REGISTRATION AND MEMBERSHIP TO AND USE OF THIS WEBSITE WILL EXPRESSLY SIGNIFY THAT YOU AGREE TO THIS PRIVACY POLICY AND THAT YOU CONSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY, YOU SHOULD NOT REGISTER, BECOME A MEMBER, OR USE THIS WEBSITE. 
 
-### 17) Handling Complaints, Questions and Suggestions. 
+### Information We Gather Automatically (Non- Personal Technical Data)
 
-To stop or resume receiving email notifications regarding various site activity or offers, users can edit their [account preferences](https://www.fuckbook.com/account).  
-If you have any further questions, or concerns about Fuckbook's privacy policies and use of personal information, please contact us using our online [contact form](https://www.fuckbook.com/about/contact). 
+Each time an individual visits the Website, our servers collect certain non-personal technical information, including, but not necessarily limited to, the visitor’s IP Address, referral data and browser/platform type. This information is recorded by the standard operation of our Internet servers. We also count, track, and aggregate a visitor’s activity into our analysis of general traffic flows at the Website (e.g., tracking where traffic comes from, how traffic flows within the Website, etc.). The information collected in this regard either cannot identify who you are as an individual or is not used in that manner. 
 
-### 18) Dispute Resolution 
+### IP Address
 
-Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or Fuckbook's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary. 
+An “IP Address” is a number that is automatically assigned to your computer or by your Internet service provider whenever you are surfing the Internet. We may use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with our Terms of Use or to protect our service, the Website, registered users, members, affiliates or other third parties. An IP address can also provide some information concerning your whereabouts. We do this by converting your IP Address into a rough geographical location. We may merge information about visitors and the number of visits into group data, which may then, at our discretion, be shared on an aggregated basis with our third-party advertisers/affiliates. In those circumstances, your individual personal information is not disclosed, nor under those circumstances will we disclose your individual identity or personally identifiable data without your permission. 
+
+### Like Most Websites, We Use Cookies/Browser Information/Web Beacons
+
+We use cookies to store your preferences and to record session information for purposes such as ensuring that you are not repeatedly offered the same advertisements or to customize advertising and web page content for individual registered users and members. Cookies also enable our own system to recognize you when you visit the Website again and enable us to improve our service to you. Cookies are text files that may be sent to and saved by your web browser when you access a website; your web browser stores these cookies in a way associated with each website you visit, and you can generally see your cookies through your browser settings, depending on what browser you’re using. You must enable cookies from the Website in order to use many of the functions of the Website. Nevertheless, if you wish to reject or disable our cookies, you can configure your browser to do so. Instructions for disabling cookies can likely be found in your browser’s “Frequently Asked Questions” section. Please note, however, that the Website allows third parties who are presenting advertisements on some of our web pages to set and access their cookies on your computer in a process that we do not control. Cookies may also be used to compile aggregate information about areas of the Website visited most frequently. We reserve the right to automatically receive and record information from your web browser when you interact with the Website, such as your browser type and version, what sort of device you are using, your operating system and version, your language preference, the website or service that referred you to the Website, the date and time of each request you make to the Website, your screen display information, and information from any cookies we have placed on your web browser (as described hereinabove). We also sometimes detect whether you are using certain web browser extensions and store that information in a manner associated with your membership. 
+
+Similarly, a web beacon or pixel are types of code used by web developers which may also be embedded in a web page or email, and allows us or a third-party to see that you have looked at a particular web page. From time to time, we may run limited-time studies using web beacons, sometimes with third parties, to, for example, measure the effectiveness of our advertising or e-mail marketing/communications. 
+
+### Information Related To Your Mobile Device
+
+We also reserve the right to collect and store information related to your mobile device. In some cases, either we, or our mobile analytic provider, may receive, generate, or assign your mobile device a unique identifier. We may also request you to provide your mobile number to enable new products and improve our product. Our mobile applications collect certain information automatically, such as the type of mobile device you use and the location of your device. You must first provide permission through your device before the application obtains such location information from technologies like GPS. 
+
+### Required And/or Optional Information For Becoming A Registered User And Member
+
+When any adult registered user logs on to the Website as a member of this Website, the registered user and/or member may provide certain personal, as well as demographic, information which may include, but is not necessarily limited to, their name, address, age, gender, e-mail address, username and password, personal interests or affiliations and geographical location. This Website collects any and all such information and includes it in its customer database. 
+
+The choice to provide us with your personal information is always yours. However, your decision to withhold particular information may result in limiting our ability to respond to your inquiries or provide you with the services you requested. If a new purpose is identified for the use of the information collected, the new purpose will be explained in an updated privacy policy prior to its new use. Unless such new purpose is required by law, your consent is required before information can be used for that purpose. Your continued use of the Website after the posting of the revised privacy policy shall be considered consent to the new use of the information. Demographic information may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals at any time. Note that, during the membership process, third-party billing service providers will collect personally identifiable information required to process payments for the Website’s services. We retain information (name and address) to correctly identify you in dealings with these third-party billing service providers. The Website does not control any and all additional information gathered by third-party billing service providers. As such, please review the applicable third-party billing service provider’s Website for its own policies governing the collection and usage of such information. 
+
+If the Website features or conducts any special events, special promotions, third-party offers, contests or polls, a registered user or member of the Website may be asked to provide information in order to participate. If the registered user and member voluntarily provide that information, all such information may be collected by the Website and included in its customer database. When a registered user or member of this Website requests web pages from the Website’s server or clicks on banners or other third-party hypertext links, the Website will automatically collect some information or data about the registered user or member, including the IP address of the registered user or member. The information collected may also indicate any special preferences or requests of the registered user or member. All such information and data will be collected by the Website and included in our customer database. If a registered user or member sends any personal communication or correspondence, by any means, to the Website, or any to any of the Website’s employees, agents or representatives, the Website may collect any information regarding that communication and include that information in its customer database. 
+
+### Profile Information That You Provide and User Content
+
+We encourage registered users to fill out their profiles as completely as possible. Any communications from other registered users are done via our internal systems, which are used to match the message to you and generate an e-mail notification without disclosing any information aside from your chosen screen name. Accordingly, other registered users may not obtain your personal contact information such as your name, email, or telephone number unless you share it with them. However, any and all personally identifiable information that you: (i) enter into your profile; (ii) include in communications with other registered users or members; (iii) disclose in any media (e.g., text, chat streams, graphical, audio, visual, or audio-visual); or (iv) post or display on the Website is indeed accessible by other registered users and members of the Website. We are therefore not responsible for the disclosure of your personal information in this manner, nor are we liable for any other privacy-related claims or issues arising from your own voluntary disclosure, posting or transmission of personal information via the Website. You hereby acknowledge and agree that you shall be solely responsible and liable for any and all damages, liability and/or other consequences, foreseen or unforeseen, of all information which you submit, publish, display, disseminate, or otherwise communicate through the Website even if a claim for damages or liability should arise after termination or cancellation of our services. 
+
+### How We Use Your Personal Information
+
+The personally identifiable information obtained from our users is used in a variety of ways. 
+
+  * It may be used to create, modify, and maintain the personal profiles of the users, to serve search utilities, to implement the functionality of the web site, to track usage, to target advertising, and to make the use of its Services enjoyable and rewarding for everyone involved in it. 
+  * You may be contacted by email to confirm or terminate registration, to notify you of changes in our Terms and Conditions, to deal with any issues particular to you, or to promote events, services, and/or products that we or third-party vendors may wish to bring to your attention. We may use personally-identifiable information in correspondence with the user or with any other person. 
+  * We may license or enter in to agreements with third-parties to transfer or sell outright, the use of personally-identifiable information. 
+  * We may use and disclose any information to anyone, when, in our judgment, it is necessary or expedient to do so for the protection of individuals’, other users’ or the publics’ property. 
+  * We may transfer any or all of the information to any successor in interest as a result of the sale of the web site, its Services, or of a substantial part of its assets. 
+  * We may use personally identifiable information about our users for any reasonable commercial purpose to further your enjoyment, or to bring you opportunities we believe may be of interest to you. 
+  * We participate in interest-based advertising. Interest based advertisements are ads that are served to you based on your browsing behavior. The goal is to show you ads more tailored to your interests. Advertisements may relate to our site or to others. In addition, we belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. You may see ads on participating websites based on how you browse our website and those sites. 
+  * You may get more information on opting-out of either interest-based advertising on our website, or interest-based advertising on other sites, by [clicking here](https://tools.google.com/dlpage/gaoptout). 
+
+
+
+You may access third-party services through the Website by clicking on links from our third-party advertisers or business partners. We may also share information that you provide to us with those third-party providers. Be advised, however, that this Privacy Policy only governs information we collect and you are responsible for reading and understanding those third-party providers’ privacy policies. 
+
+### How We Use Your E-Mail Address
+
+As part of the Services, you may occasionally receive emails and other communications from us. Administrative communications relating to your Account (e.g., for purposes of Account recovery or password reset) are considered part of the Services for your Account, which you will not be able to opt-out from receiving. We also may send you other kinds of emails, of which you can opt-out by using the “Opt-Out” link in the emails themselves or going to the account section (link it) of your profile. By submitting your email address at the Website, you also agree to receive email marketing from us and our third-party advertisers. You may also opt-out from receiving marketing emails from third-party advertisers by clicking on the unsubscribe link on the email, following the instructions in the privacy policy of the third-party or going to the account section of your profile. For visitors located in the United States, you agree that registering or providing personal information to us constitutes consent, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, that we or our designee retain the right, and you hereby expressly authorize us and/or our designee, to contact you via telemarketing or text messaging. Moreover, by registering with, or requesting information from us or another third-party advertisers at, or through, the Website, such action shall constitute your written consent to be contacted via e-mail, instant messaging, text messaging, direct mail and/or telemarketing by such third-party advertisers. 
+
+### To Better Serve You, We Aggregate Information To Bring You Information That May Be Of Interest To You
+
+We may share or disclose non-private information, aggregate information, or other non-personally identifying information with third parties that we do business with. 
+
+### Website And Member Communications
+
+Members of the Website can directly communicate with other members through messaging services that are part of the services we provide at the Website (e.g., mail, chat, or via comments). We may use personally identifiable information within your profile to send notifications of these communications to you, but your personally identifiable information is not disclosed to other members by us. 
+
+The Website also directly communicates with registered users and members through e-mail, instant messaging, and in some cases, downloaded executables thereby allowing our registered users and members to receive information when they are not on the Website. Our registered users and members can thereby remain current on internal communications and updates from other registered users, members or from us directly. The Website may also use personally identifiable information within your profile to send information to you that, in some cases, is targeted to your interests, such as special banners and promotions. If you do not want us to send you information on other third-party services or products, please [contact us](https://www.fuckbook.com/about/contact). 
+
+### Analytic Applications
+
+Personal Data is also collected to enable us to monitor and analyze web traffic and can be used to keep track of User behavior. 
+
+For example, Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. 
+
+### Application Data Collected
+
+Information collected automatically from this Application (or third-party services employed in this Application) may include: the IP addresses of the computers utilized by the Users who use this Application, the URL addresses or domain (Uniform Resource Identifier) or domain name, the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the user, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the user's IT environment. 
+
+### Explanation of the Use of Application Data and User ID
+
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network. In that regard, Google Analytics makes use of a feature called user ID. This setup allows for a more accurate tracking of users by associating that user with the same ID over various sessions and devices. It is set up in a way that doesn’t allow Google to personally identify an individual or permanently identify a particular device. 
+
+The user ID extension might make it possible to connect Data from Google Analytics with other Data about the user collected by this Application. The opt-out link below will only opt you out for the device you are on, but not from tracking performed independently by us. Contact us via the email address provided in this privacy policy to object to the aforementioned tracking. To opt-out through the Google tool [click here](https://tools.google.com/dlpage/gaoptout). 
+
+### Referral Service
+
+If you choose to use our referral service to tell a friend about the Website, we will ask you for your friend’s contact information. The Website will automatically send your friend an e-mail inviting them to visit the Website. The Website maintains this information for the sole purpose of sending this e-mail and tracking the success of the referral. 
+
+### Third-Party Advertisers
+
+We are able to offer our services to you, in part, based on your willingness to be targeted by our third-party advertisers. By allowing us to make the information you supply available to our third-party advertising affiliates/partners, you will receive information on products and services that may be of interest to you. As set forth hereinabove, this information may also be shared with our third-party advertisers on an aggregate basis. Please be advised however, that we do not control, and are not responsible for, the practices of our third-party advertisers. Please review the terms and privacy policy of any third-party advertiser that you may choose to contact. 
+
+### Third-Party Offers
+
+From time to time, we may sponsor or co-sponsor sweepstakes, offers, products, contests, or other services or events of interest to our registered users and members. In order to receive such offers, products or services, sweepstakes, or contests, your personal information will be shared with such third-party companies. We do this to ensure that they may provide their products and/or services to you without mandating that you first have to re-register. You may opt-out of receiving these communications by [contacting us](https://www.fuckbook.com/about/contact). 
+
+### Service Providers
+
+Like many businesses, we sometimes hire other companies to present offers, products, contests, or other services or events of interest to our members and registered users. Service Providers may assist us, by way of example, in sending emails, maintaining databases, or providing hosting services. When we employ a Service Provider to perform a function of this nature, we provide it with the information that it needs to perform its specific function, which may include personal data and other information that you provide to us via the Website. Please keep in mind, though, that we do not control, and are not responsible for, the practices of our Service Providers. 
+
+### Legal Requirements
+
+We reserve the right to access and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third-parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm. Moreover, you hereby consent to disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time. By accepting this Privacy Policy and using the Website and/or the services hereon, you waive and hold us, as well as our affiliates, content providers, and the operators of the Website harmless from any and all claims resulting from any and all of the foregoing action or as a result of any law enforcement authority’s investigations or inquiries. 
+
+### The Security Of Your Information
+
+Consistent with the policies set forth herein, the Website has adopted and implemented reasonable, appropriate and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to registered users or members that is collected by the Website to prevent unauthorized access, disclosure, modification or unauthorized destruction of data. 
+
+Your registration and member information is protected by a password for your privacy and security. We may enable additional security features in the future, in our sole discretion. You need to prevent unauthorized access to your account and information by creating a unique, secure, and protected password and limiting access to your computer and browser by signing off after you have finished accessing your account on the Website. We seek to protect your information (including your account information) to ensure that it is kept private; however, we cannot guarantee the security of any information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. 
+
+All registered users or members should consider any information provided to or collected by the Website as non-confidential, and consequently the Website assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
+
+### What Happens To Your Information If The Business Is Sold
+
+As our business grows, there is always the possibility that we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, your information may be part of the transferred assets and you hereby consent to such transfer of your information. 
+
+### Opt-Out Policy
+
+To stop receiving future communications from us or to opt out of having your personal information shared with third parties, please [send us](https://www.fuckbook.com/about/contact) your registration information and e-mail address. To cancel your registration and/or membership, please [contact us](https://www.fuckbook.com/about/contact) with your registration information and e-mail address. If your personal information changes, or if you no longer desire our services, you may correct, update or cancel your registration and/or membership, and/or deactivate your account, by [contacting us](https://www.fuckbook.com/about/contact). 
+
+### Questions About the Privacy Policy
+
+If you have any questions concerning this privacy policy, please [contact us](https://www.fuckbook.com/about/contact). 
