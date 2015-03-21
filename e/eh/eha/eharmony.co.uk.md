@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.co.uk privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720054157id_/http%3A//www.eharmony.co.uk/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.co.uk privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321052844id_/http%3A//www.eharmony.co.uk/privacy/statement) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy
 
@@ -128,7 +128,7 @@ If you have any questions about this privacy statement, the practices of this si
 Site Administrator  
 eHarmony UK Ltd.  
 BM Box 5904, London WC1N 3XX  
-0-800-098-8448
+0-800-028-0308
 
 **Acceptance of Privacy Statement**
 
