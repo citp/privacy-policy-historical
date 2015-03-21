@@ -1,96 +1,140 @@
-> *The following text is extracted and transformed from the tokbox.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728005546id_/https%3A//tokbox.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokbox.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321080056id_/https%3A//tokbox.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | TokBox
 
-TokBox, Inc. (the “Company”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Company’s website at http://www.tokbox.com (the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+TokBox, Inc. (the “TokBox”) knows that you care about how your information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the TokBox’s web site at http://www.tokbox.com (the “Web Site”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-## What Does This Privacy Policy Cover? 
+## What does this Privacy Policy cover? 
 
-This Privacy Policy covers Company’s treatment of personally identifiable information ("Personal Information") that Company gathers when you are accessing the Website and when you use our services. This policy does not apply to the practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.
+This Privacy Policy covers TokBox’s treatment of information that TokBox gathers when you are accessing the Web Site and when you use our services. This Privacy Policy describes how TokBox collects and uses the information you provide on our Web Site and services. It also describes the choices available to you regarding our use of your information and how you can access and update this information. This policy does not apply to the practices of companies that TokBox does not own or control, or to individuals that TokBox does not employ or manage.
 
-## What Personal Information Does Company display or Collect? 
+TokBox has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our Web Site http://www.tokbox.com and our services. The use of information collected through our services shall be limited to the purpose of providing the services for which you have engaged TokBox.
 
-The information we gather from users enables us to personalize and improve our services, and to allow our users to set up a user account and profile that can be used to interact with other users through the Website. In connection with the Website, we request and display some personal information to other users and visitors of the Website, which allows users to identify each other.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here.](https://feedback-form.truste.com/watchdog/request)
 
-### We collect the following types of information from our users. 
+TokBox complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. TokBox has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TokBox’s certification, please visit http://www.export.gov/safeharbor/.
 
-**Personal Information You Provide to Us:**
+## What information does Tokbox collect from you? 
 
-We receive and store any information you enter on the Website or provide to us in any other way. The types of Personal Information collected include your name, e-mail address, and any other data you actively choose to provide. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, customizing the advertising and content you see, and communicating with you about specials and new features. You may modify or remove any of your personal information at any time by logging into your account and accessing features to edit your profile and account information.
+We collect and store the following types of information from our users:
 
-**Personal Information Collected Automatically:**
+**Information You Provide to Us:**
 
-  * We receive and store certain types of information whenever you interact with the Website or obtain services from us. Company automatically receives and records information on our server logs from your browser including your IP address, Company cookie information, and the page you requested. We also record the details of your transactions on the Website.
-  * Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. Company only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often users use parts of the Website or services so that we can make the Website appealing to as many users as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and the Website, so that they, too, may provide you with an optimal online experience. Again, Company never discloses aggregate information to a partner in a manner that would identify you personally.
+We receive and store any information you enter on the Web Site or provide to us in any other way.The types of information collected include your name, e-mail address, and any other data you actively choose to provide. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The information you provide is used for such purposes as responding to your requests for certain information, products and services, customizing the advertising and content you see, and communicating with you about specials and new features. You may modify or remove any of your account information at any time by logging into your account and accessing features to edit your profile and account information. 
 
+**Information Collected Automatically:**
 
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
+
+We do not link this automatically collected data to other information we collect about you. 
 
 **E-mail Communications:**
 
-We often receive a confirmation when you open an e-mail from Company if your computer supports this type of program. Company uses this confirmation to help us make e-mails more interesting and helpful. We also compare our user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our users.
+We may receive correspondence from you from time to time in connections with our Web Site and our services, including questions you may have about this Privacy Policy, customer support interactions or other matters.
 
 **What About Cookies?**
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Company cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is.
-  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Website’s most attractive features.
-  * Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies by any advertisers.
+Technologies such as: cookies, beacons, tags and scripts are used by TokBox and our advertising partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+
+We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+We partner with a third party to either display advertising on our Web Site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here ](http://preferences-mgr.truste.com/)(or if located in the European Union click [here ](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads.  You will continue to receive generic ads. 
+
+We also use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
+
+## How do we use information collected from you? 
+
+We want to give you and all of our users the best possible services and a positive user experience. We use the information we collect from you in the following ways: 
+
+  * To provide, maintain, tailor and improve our Web Site and our service;
+  * To provide you with customer support and troubleshoot problems;
+  * To inform you about service updates and faults;
+  * To request feedback or participation in on-line surveys;
+  * To resolve disputes;
+  * To verify your identity;
+  * To customize, measure, and improve TokBox’s service, software and our website;
+  * To organize and carry out TokBox’s marketing or promotional operations/offers, contests, games and similar events. If you do not wish to receive these offers, please send us an email to unsubscribe or follow the unsubscribe link included in these emails; 
+  * To help you with questions you may have about this Privacy Policy.
+  * To protect TokBox, you and others those use our Web Site and our service.
+  * To anonymize and then to aggregate information about how you and other users use our Web Site and our services (“Aggregate Data”), to identify trends and better understand users’ behaviour. When we say that Aggregate Data is “anonymous” we mean that it will not contain information from which you may be personally identified or contacted.
 
 
 
-## Will Company Share Any of the Personal Information it Receives? 
+## Will TokBox share any of the information it receives? 
 
-Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
+We neither rent nor sell your information to anyone. We don’t share your information with other organizations or individuals outside of TokBox, except as described below.
 
-_Affiliated Businesses We Do Not Control_ : We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may operate stores at the Website or sell items to you through the Website. In other situations, Company may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share user information that is related to such transactions with that affiliated business.
+  * With our affiliates and trusted business partners that cooperate with us to provide you our services or in collecting, storing or processing your information for us. We only provide them with the information they need to perform their specific obligations and we require them to do so based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. 
+  * When we have a good-faith belief that it is reasonably necessary to: 
+    * meet any applicable law, regulation, legal process or enforceable governmental request. 
+    * enforce the Terms of Service, including investigation of potential violations.
+    * detect, prevent, or otherwise address fraud, security or technical issues.
+  * protect against or prevent harm to the rights, property or safety of TokBox, you, other users or the public as required or permitted by law.
+  * With your permission.
 
-_Agents_ : We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, Company’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
-_User profiles_ : User profile information including users’ name and email address may be displayed to other users in connection with User Submissions (as defined in the Terms of Use) to facilitate user interaction within the Website. E-mail addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Users’ full names will not be directly revealed to other users by Company, however, to facilitate searching User Submissions, Company allows users to search for other users by using first and last name and other information users provide in their profile.
 
-_Communication in response to User Submissions_ : As part of the Website and our services, you will receive from Company and other users e-mail, video-conference and other communication relating to your use of the Website or User Submissions. You acknowledge and agree that by posting such User Submissions or otherwise using the Website, Company and other users may send you e-mail, contact you for video-conferencing or engage in other communication that they determine in their sole discretion relate to your User Submissions or use of the Website.
+We may share Aggregate Data publicly and with our partners. For example, we may share information publicly to show trends about the general use of our Web Site and our service. Your information may be stored and processed in the United States or any other country in which TokBox, its affiliates, subsidiaries, or service providers maintain servers. As such, TokBox reserves the right to transfer your information outside of the country in which you live. By using our Web Site and our services you consent to any such transfer.
 
-_Promotional Offers_ : We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send us an email to unsubscribe.
+If TokBox is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. You will be notified via email and/or a prominent notice on our Web Site of any change in ownership or uses of your information, as well as any choices you may have regarding your information. 
 
-_Business Transfers_ : In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Company may continue to use your Personal Information as set forth in this policy.
+## Is information about me secure? 
 
-_Protection of Company and Others_ : We may release Personal Information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection.
+Your TokBox account information is protected by a password for your privacy and security. You need to ensure authorized access to your account and information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
 
-_With Your Consent_ : Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information.
+When you enter sensitive information (such as a credit card number or login credentials) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL). TokBox endeavors to protect user information to ensure that user account information is kept private, however, TokBox cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures TokBox uses in connection with the Web Site, please contact us at [support@tokbox.com](mailto:support@tokbox.com). 
 
-## Is Personal Information About me Secure? 
+You may change the privacy settings of your profile through your account portal. If you believe that an unauthorized profile has been created about you, you can request for it be removed by contacting us at [support@tokbox.com](mailto:support@tokbox.com).
 
-Your Company account Personal Information is protected by a password for your privacy and security. You need ensure unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+The Web Site contains links to other sites. TokBox is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Web Site. 
 
-Company endeavors to protect user information to ensure that user account information is kept private, however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Company uses in connection with the Website, please contact us at lauren@tokbox.com.
+Our Web Site also includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our Web Site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Web Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
-The Website contains links to other sites. Company is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.
+Please be aware that whenever you voluntarily post information to public areas on the Web Site or any other public forums, such information can be accessed by the public. 
 
-Please be aware that whenever you voluntarily post information to public areas on the Website or any other public forums, such information can be accessed by the public.
+Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy. 
 
-## What Personal Information Can I Access? 
+We also display Success Stories of satisfied customers on our site in addition to other endorsements. With your consent we may post your Success Story along with your name. If you wish to update or delete your testimonial, you can contact us at [support@tokbox.com](mailto:support@tokbox.com). 
 
-Company allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Website changes. You may currently access the following information:
+## What information can I access?
 
-  * account information, 
-  * user profile, 
+TokBox allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information by logging in to your account or contacting us at [support@tokbox.com](mailto:support@tokbox.com). We will respond to your request to access within 30 days. This list will change as the Web Site changes. You may currently access the following information: 
+
+  * account information,
+  * user profile,
   * user preferences, and
-  * video and image content in your account. 
+  * video and image content in your account.
 
 
 
-## What Other Choices Do I Have? 
+## What other choices do I have?
 
-  * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Company features.
-  * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request deletion of your Company account by sending an e-mail to our webmaster at lauren@tokbox.com. Please note that some information may remain in our records after deletion of your account.
-  * Company may use a user’s e-mail address to send updates, a newsletter or news regarding the Website or Company services. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
+As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain TokBox features. 
 
+You are able to add or update certain information on pages, such as those listed in the “What information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
 
+We will retain your information for as long as your account is active or as needed to provide you services. You may request deletion of your TokBox account or if you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@tokbox.com](mailto:support@tokbox.com). Please note that some information may remain in our records after deletion of your account. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-## Changes to this Privacy Policy 
+TokBox may use a user’s e-mail address to send updates, a newsletter or news regarding the Web Site or TokBox services. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Web Site, and you are responsible for reviewing such legal notices for changes. 
 
-Company may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you via e-mail or by posting an announcement on the Website. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
+## Information related to data collected for our developers and other clients
 
-## Questions or Concerns 
+TokBox collects information under the direction of its developers and other clients, and has no direct relationship with the end users whose personal data it processes. If you are a customer of one of our developers or other clients that use our service and would no longer like to be contacted by them, please contact the developer or other client of ours that you interact with directly.  We may transfer certain information related to data collected for our developers or other clients to companies that help us provide our service. Transfers of such information to subsequent third parties are covered by the service agreements between TokBox and its developers or other clients. 
 
-If you have any questions or concerns regarding privacy at TokBox, please send us a detailed message to lauren@tokbox.com. We will make every effort to resolve your concerns.
+An end user who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the TokBox’s developer or other client (the data controller). If requested to remove data we will respond within 30 days. 
+
+We will retain personal data we process on behalf of our developers and other clients for as long as needed to provide services to our developer or other client TokBox will retain this information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+## Changes to this Privacy Policy
+
+TokBox may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make any material changes or changes in the way we use information, we will notify you via e-mail or by posting an announcement on the Web Site prior to the change becoming effective. Users are bound by any changes to the Privacy Policy when he or she uses the Web Site after such changes have been first posted. 
+
+## Questions or Concerns
+
+If you have any questions or concerns regarding privacy at TokBox, please send us a detailed message to [support@tokbox.com](mailto:support@tokbox.com). We will make every effort to resolve your concerns. 
+
+TokBox, Inc.  
+San Francisco  
+501 2nd Street, Suite 310  
+San Francisco, CA 94107   
+
