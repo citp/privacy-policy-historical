@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the taggingkit.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327024849id_/http%3A//www.taggingkit.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taggingkit.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321223745id_/http%3A//taggingkit.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taggingkit
+
+  * [Published News](http://taggingkit.com/index.php)
+  * [Upcoming News](https://web.archive.org/upcoming.php)
+  * [Submit a New Story](https://web.archive.org/submit.php)
+  * [Groups](https://web.archive.org/groups.php)
+
+
 
   
 
@@ -39,3 +46,7 @@ TaggingKit.com is your resource for social news and networking. You can submit y
 
   
 
+
+  
+Recommended Hosting:  
+[ ](http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=kitano-)
