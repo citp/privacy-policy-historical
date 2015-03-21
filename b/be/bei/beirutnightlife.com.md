@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beirutnightlife.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202010451id_/http%3A//www.beirutnightlife.com/terms-of-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beirutnightlife.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321122006id_/http%3A//www.beirutnightlife.com/terms-of-service-privacy-policy) for the most accurate reproduction.*
 
-# Terms of Service & Privacy Policy | Beirut The Only Way It Should Be, NightLife, Clubbing, Events, DineOut, Concerts, Festivals, Clubs, Pubs, Bars, Hotels, Restaurants, Lifestyle, Music, Fashion
+# Terms of Service & Privacy Policy - BNL
 
 The following are the terms and conditions for use of the BeirutNightLife.com member services including membership account, member private email service, venue posting, VIP passes, job postings, photo uploads, press releases, event postings, referral emails and or any other future service offered from time to time on the BeirutNightLife.com website (each feature individually and collectively referred to as the “Service”). Please read them carefully. This Service is provided to individuals who are at least 18 years old or minors who have parental permission to open and maintain a membership. BY CLICKING THE “I ACCEPT” BUTTON AND COMPLETING THE REGISTRATION PROCESS, YOU ARE STATING THAT YOU ARE ELIGIBLE FOR AN ACCOUNT AND THAT YOU AGREE TO BE BOUND BY ALL OF THESE TERMS AND CONDITIONS OF THE SERVICE (“TOS”). The Service is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein.
 
@@ -36,12 +36,11 @@ BeirutNightLife has no obligation to monitor the Service or any user’s use the
 
 **LINKS TO THIRD PARTY SITES**
 
-THE LINKS INCLUDED WITHIN THE SERVICE MAY LET YOU LEAVE THE SERVICE WEBITES  
 THE LINKS INCLUDED WITHIN THE SERVICE MAY LET YOU LEAVE THE SERVICE WEB SITES (“LINKED SITES”). THE LINKED SITES ARE NOT UNDER THE CONTROL OF BeirutNightLife AND BeirutNightLife IS NOT RESPONSIBLE FOR THE CONTENTS OF ANY LINKED SITE OR ANY LINK CONTAINED IN A LINKED SITE, OR ANY CHANGES OR UPDATES TO SUCH SITES. BeirutNightLife IS PROVIDING THESE LINKS TO YOU ONLY AS A CONVENIENCE, AND THE INCLUSION OF ANY LINK DOES NOT IMPLY ENDORSEMENT BY BeirutNightLife OF THE SITE OR ANY ASSOCIATION WITH THEIR OPERATORS.
 
 **PERSONAL DETAILS**
 
-****Our applications (Windows 8, Windows Phone, iPhone, and Android) do not use your location data once given your consent to the inclusion of location settings for items that you send us.The location information is only collected with your consent, and only when you have enabled Location. This option must be enabled tracking for each consignment item. If you do not activate it, we do not collect the location information.The information collected is sent with the article and can be used to identify the location of the information that you sent. The information can be directly linked to your account, but only our editors can see it.  
+Our applications (Windows 8, Windows Phone, iPhone, and Android) do not use your location data once given your consent to the inclusion of location settings for items that you send us.The location information is only collected with your consent, and only when you have enabled Location. This option must be enabled tracking for each consignment item. If you do not activate it, we do not collect the location information.The information collected is sent with the article and can be used to identify the location of the information that you sent. The information can be directly linked to your account, but only our editors can see it.  
 We do not publish location information in any of our publications (web, phone or paper) and we do not retain this information after the item has passed through our validation process.
 
 **TERMINATION**
@@ -59,4 +58,10 @@ It is the express will of the parties that this agreement and all related docume
 
 **COPYRIGHT AND TRADEMARK NOTICES**
 
-All contents of the Service are: Copyright © 2012, BeirutNightLife s.a.r.l., Beirut, Lebanon, all rights reserved.
+All contents of the Service are: Copyright © 2015, BeirutNightLife s.a.r.l., Beirut, Lebanon, all rights reserved.
+
+**Showing advertising that is relevant to your interests:**
+
+We sell space on our website(s) to advertisers. The resulting adverts often contain cookies. The advertisers’ uses the browsing information collected from these cookies to help show other ads that are relevant to you while you’re on our websites. This is often called online behavioral advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests.
+
+Although the OBA data collected uses your browsing activity to understand your interests, the data is anonymous and isn’t linked to you as a person. Even if you log in to our website, the OBA data is still not linked to you in person. Neither we, nor the companies who show ads on our sites sell data collected from cookies to any other organizations.
