@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frankie.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626150543id_/http%3A//frankie.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankie.com.au privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321225534id_/http%3A//www.frankie.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy
+# privacy • frankie magazine
 
 **At Morrison Media, we see the protection of your privacy to be of the highest importance. We do not automatically log personal data/information, nor do we link information automatically logged by other means with personal data about specific individuals.**
 
