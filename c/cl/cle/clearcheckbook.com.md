@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearcheckbook.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719061316id_/https%3A//www.clearcheckbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearcheckbook.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321235803id_/https%3A//www.clearcheckbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: ClearCheckbook.com
 
@@ -26,22 +26,12 @@ Should you have other questions or concerns about these privacy policies, please
 
 #### Already have an account?
 
-Sign in at the [Log in](https://web.archive.org/user/login "Log in") page. 
+Sign in at the [Log in](https://web.archive.org/login "Log in") page. 
 
 #### Not a Member? Not a Problem!
 
 If you're not a member of ClearCheckbook yet, we encourage you to watch some videos that showcase the main features of the site on our [tour](https://web.archive.org/tour "Tour") page.
 
-After taking the tour, you can go to our [register](https://web.archive.org/user/register "Register") page and create a completely FREE account! 
+After taking the tour, you can go to our [register](https://web.archive.org/register "Register") page and create a FREE account! 
 
 #### Latest ClearCheckbook News
-
-5/5/2014 in ClearCheckbook News
-
-4/9/2014 in ClearCheckbook News
-
-1/22/2014 in ClearCheckbook Updates
-
-1/3/2014 in ClearCheckbook Updates
-
-11/27/2013 in ClearCheckbook Updates
