@@ -1,19 +1,27 @@
-> *The following text is extracted and transformed from the sareez.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230064730id_/http%3A//www.sareez.com/help.php%3Fhelp_id%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sareez.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321213335id_/http%3A//www.sareez.com/help.php%3Fhelp_id%3D38) for the most accurate reproduction.*
 
 # Privacy Policy | Bridal Sarees, Wedding Sarees, Traditional Sarees, Designer Sarees, Embroidered Sarees, Salwar Kameez
 
-Right to privacy is of paramount importance to us and is a matter of prime concern at our company. All information pertaining to you or your account is strictly treated as confidential. We value the importance of your personal details and ensure that it is not leaked once it is shared with us. We are here to foster a long-term relation with you! 
+Sareez protects the right to privacy of each of its visitors and customers. The accounts are treated with utmost confidentiality as we look forward to a long lasting relationship with you. We urge you to kindly read through the following policies and guidelines in order to understand your rights better: 
 
-We collect information about you for processing your order and to provide you with the best possible service. The privacy and security of your personal information is taken care of. 
+Personal Information: 
 
-Your personal information is used to facilitate your requests and transactions, to evaluate your needs and to give you additional information about products and services. We will never collect sensitive information about you without your explicit consent. 
+**The Personally Identifiable Information We Gather**   
+All information gathered during registration, purchase, promotional campaigning, and on other social media platforms require you to provide basic personal information such as complete name, physical address, e-mail address, and contact number. This information is used solely to serve you better and keep you up-to-date with latest offers and promotion at sareez.com.   
+We do not collect any explicit information that may be sensitive to you and encourage you not to share any such information at any of the above mentioned platforms.   
+The information that you share with us is secured through our strict confidential agreement and hence, not shared with any agent or affiliate.   
+Our customer service staff and live-chat representatives are bounded by a confidentiality agreement between the company and them which restricts them from using any of customer’s personal information for any purpose other than related to that of your purchase, registration, promotional offers and event, and the like.   
+Our employees with access to the confidential information of the client are required to adhere to our privacy policy. As per the confidentiality agreement between us and our employees, they respect as well as protect the customers’ personal information.   
+We monitor the behavior of our site visitors. However, by virtue of a cookie- based website, the browsing history is never saved 
 
-In our continued effort to serve, you better; we use the information given by you through web or via other channel and use, it to give you a better service, which includes advising you about our products or services and other offers that may possibly interest you. 
+Public Forums:
 
-As a client, you need not worry of your personal information being shared with an agent or affiliate, since the information is passed only after a strict confidential agreement. We take into account the fact that the companies hired by us to provide support services like payment processing must match our privacy standards. It has been entrusted in our corporate policy that employees having access to our client’s confidential information will only use information for business purpose and for nothing else. All employees of our company are required to protect and respect the privacy of customer’s personal information as mentioned in their confidentiality agreements with our company. 
+The website of Sareez offers publicly accessible blogs and forums. It has to be noted that the information provided on this social media platforms can be read, collected and used by others accessing these blogs and forums. 
 
-It has been a part of continuing endeavor to safeguard your personal information and make every possible step effort to keep your personal information accurate and up to date. However, if you identify or locate any error in your personal information or desire to make a change to that information, please contact us and we will promptly check and update our records 
+**Disclaimer:**
 
-We may monitor the behavior of the visitors to our site, to analyse our performance. It is in no way going to hinder your movement. Our website is cookie- disabled, so once you leave our website, your past browsing won’t be saved. So don’t bother and enjoy shopping of saree,salwar kameej,lehengas with us. Happy shopping! 
+Sareez reserves the sole right to change and modify these policies at any given point in time if required. Customers will be notified of such changes through e-mail. We request all our customers to adhere to the company policies and guidelines, and visit this page time to time for updates on the latest modifications of our privacy policies.
 
-**For any queries or concerns, please[ Contact Us](http://www.sareez.com/contact_us.php)**
+For any further queries, please
+
+[ contact us.](http://www.sareez.com/contact_us.php)
