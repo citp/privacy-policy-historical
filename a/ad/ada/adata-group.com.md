@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adata-group.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113125639id_/http%3A//www.adata-group.com/index.php%3Faction%3Daa_main%26page%3Daa_privacy%26lan%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adata-group.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321074437id_/http%3A//adata.com/index.php%3Faction%3Daa_main%26page%3Daa_privacy%26lan%3Dus) for the most accurate reproduction.*
 
 # Privacy_ADATA Technology
 
