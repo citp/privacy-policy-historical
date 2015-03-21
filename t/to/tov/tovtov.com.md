@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tovtov.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092108id_/http%3A//tovtov.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tovtov.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321100034id_/http%3A//tovtov.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : TovTov
 
@@ -73,4 +73,4 @@ The Site contains links to other websites. If you choose to visit an advertiser 
 
  **VIOLATIONS AND COMMENTS**
 
-Please report any violations of the TOS to contact@tovtov.com, titled : Abuse; or make any comments to contact@tovtov.com.
+Please report any violations of the TOS to contact@tovtov.com, titled : Abuse; or make any comments to contact@tovtov.com. 
