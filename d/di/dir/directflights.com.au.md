@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directflights.com.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629165116id_/http%3A//www.directflights.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directflights.com.au privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321133013id_/https%3A//www.directflights.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Online Cheap Flights, Hotels, Car Hire & Holiday Booking Australia - Privacy Policy
 
@@ -18,7 +18,7 @@ We may provide aggregate statistics about our customers, sales, traffic patterns
 
 The Direct Flights eNewsletter is only sent if you have signed up for the service or have purchased with Direct Flights. The eNewsletter is sent out  with the latest holiday and flight deals available. Additional newsletters are also sent when there are any hot specials or last minute deals.
 
-If you are not wish you received newsletters please click [ here](http://www.directflights.com.au/eNewsletter.aspx) to unsubscribe to this service. 
+If you are not wish you received newsletters please click [ here](https://www.directflights.com.au/Newsletter_Unsubscribe.aspx) to unsubscribe to this service. 
 
 By placing an order with Direct Flights, you consent to the collection and use of the information you provide solely for the purposes of processing and fulfilling your order.
 
