@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the mysliderule.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926203855id_/https%3A//www.mysliderule.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysliderule.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321071632id_/https%3A//www.mysliderule.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SlideRule
 
-### SlideRule Labs, Inc.
-
-#### PRIVACY POLICY
+SlideRule Labs, Inc.  
+PRIVACY POLICY
 
 This privacy policy ( **“Policy”** ) describes how SlideRule Labs, Inc. and its related companies ( **“Company”** ) collect, use and share personal information of consumer users of this website, www.mysliderule.com (the **“Site”** ). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements. 
 
-#### WHAT WE COLLECT
+##### WHAT WE COLLECT
 
 We get information about you in a range of ways. 
 
@@ -20,7 +19,7 @@ We get information about you in a range of ways.
 
 
 
-#### USE OF PERSONAL INFORMATION
+##### USE OF PERSONAL INFORMATION
 
 We use your personal information as follows: 
 
@@ -33,7 +32,7 @@ We use your personal information as follows:
 
 
 
-#### SHARING OF PERSONAL INFORMATION
+##### SHARING OF PERSONAL INFORMATION
 
 We may share personal information as follows: 
 
@@ -48,9 +47,9 @@ We may share personal information as follows:
 
 
 
-We may also share aggregated and/or anonymized data with others for their own uses.
+We may also share aggregated and/or anonymized data with others for their own uses. 
 
-#### INFORMATION CHOICES AND CHANGES
+##### INFORMATION CHOICES AND CHANGES
 
   * Our marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you. 
   * You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information. 
@@ -58,15 +57,15 @@ We may also share aggregated and/or anonymized data with others for their own us
 
 
 
-#### SECURITY OF YOUR PERSONAL INFORMATION
+##### SECURITY OF YOUR PERSONAL INFORMATION
 
 We take steps to help protect personal information. No company can fully prevent security risks, however. Mistakes may happen. Bad actors may defeat even the best safeguards. 
 
-#### CONTACT INFORMATION
+##### CONTACT INFORMATION
 
 We welcome your comments or questions about this privacy policy. You may also contact us at our address: privacy[at]mysliderule.com 
 
-#### CHANGES TO THIS PRIVACY POLICY
+##### CHANGES TO THIS PRIVACY POLICY
 
 We may change this privacy policy. If we make any changes, we will change the Last Updated date below. 
 
