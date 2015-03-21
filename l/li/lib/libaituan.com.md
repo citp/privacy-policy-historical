@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libaituan.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728040732id_/http%3A//www.libaituan.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libaituan.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321125415id_/http%3A//www.libaituan.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Libaituan.com | An SEO Friendly PHPLD Directory - About Us
 
