@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applytexas.org privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710210234id_/https%3A//www.applytexas.org/adappc/html/applytexas_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applytexas.org privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321181329id_/https%3A//www.applytexas.org/adappc/html/applytexas_privacy.html) for the most accurate reproduction.*
 
 # ApplyTexas Web Privacy Statement
 
