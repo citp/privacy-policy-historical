@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228130006id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321071925id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
 
 # Privacy | Business.govt.nz
 
@@ -14,7 +14,7 @@
   * [Public records](http://www.business.govt.nz/help-support/privacy#public-records "\[bookmark\]")
   * [Call recording](http://www.business.govt.nz/help-support/privacy#call-recording "\[bookmark\]")
   * [Business.govt.nz calendar](http://www.business.govt.nz/help-support/privacy#business.govt-calendar "\[bookmark\]")
-  * [ Search Results](http://www.business.govt.nz/help-support/privacy#companies-office-search-results "\[bookmark\]")
+  * [Companies Office Search Results](http://www.business.govt.nz/help-support/privacy#companies-office-search-results "\[bookmark\]")
   * [Compliance Matters](http://www.business.govt.nz/help-support/privacy#compliance-matters "\[bookmark\]")
   * [Employee Cost Calculator](http://www.business.govt.nz/help-support/privacy#employee-cost-calculator "\[bookmark\]")
   * [Rights of access and correction](http://www.business.govt.nz/help-support/privacy#rights-of-access-and-correction "\[bookmark\]")
@@ -144,7 +144,7 @@ Private Bag 92061
 Victoria Street West  
 Auckland 1142.
 
-For more information on the privacy laws in New Zealand and contact details for the Office of the , please visit the [Privacy Commissioner's website](https://opcwebsite.cwp.govt.nz/ "\[link to Privacy Commissioner's website\]. ").
+For more information on the privacy laws in New Zealand and contact details for the Office of the Privacy Commissioner, please visit the [Privacy Commissioner's website](https://opcwebsite.cwp.govt.nz/ "\[link to Privacy Commissioner's website\]. ").
 
  [Top](http://www.business.govt.nz/help-support/privacy# "\[bookmark\] Back to top. ")
 
@@ -172,7 +172,17 @@ The statistical information referred to above will be viewable by site administr
 
 Browser or ‘web’ cookies are small text files that are sent by a website and stored on your computer's hard drive. Cookies are generally used to improve your experience of a website (e.g. by remembering preferences you have set) and to track site usage.
 
-MBIE does not use cookies on this website to gather any personally identifiable information. We use cookies to gather data about trends in site usage using a tool called Google Analytics.
+MBIE does not use cookies on this website to gather any personally identifiable information. We use cookies to gather data about trends in site usage using a tool called Google Analytics. We also use cookies to gather data about your browsing history on the MBIE website. We may use this data to enhance your browsing experience, improve our website, or target advertising to you.
+
+The types of Advertising Features implemented on the MBIE website may include:
+
+  * Remarketing with Google Analytics
+  * Google Display Impression Reporting
+  * DoubleClick Platform integrations
+  * Google Analytics Demographics and Interest reporting.  
+ 
+
+
 
 You can read Google’s privacy statement, and access a Google Analytics opt-out tool, at the [Google Privacy Center](http://www.google.com/intl/en/policies/privacy/ "\[link to Google website\] Privacy and terms. ").
 
