@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weblogbetter.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100250id_/http%3A//weblogbetter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblogbetter.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321130321id_/http%3A//weblogbetter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » We Blog Better
+# Privacy Policy
 
 **What information do we collect?** We collect information from you when you subscribe to our newsletter. 
 
