@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the plaingreenloans.com privacy policy that was archived on 2014-07-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140724165621id_/http%3A//www.plaingreenloans.com/faq/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plaingreenloans.com privacy policy that was archived on 2015-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321172026id_/https%3A//www.plaingreenloans.com/faq/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html><head>   
     
     <meta name="viewport" content="width=device-width">
+    <meta http-equiv="x-ua-compatible" content="ie=edge"> 
     <title>
         
     
@@ -17,9 +18,14 @@
     <link href="/Scripts/jquery-ui-1.8.2/css/smoothness/jquery-ui-1.8.2.custom.css" rel="stylesheet">
     <link href="/Scripts/validationEngine/css/validationEngine.jquery.css" rel="stylesheet">
     <link href="/ExternalContent/CSS/printer-friendly.css" media="print" rel="stylesheet">
+    
+    <link rel="SHORTCUT ICON" href="/ExternalContent/Images/common/favicon.ico">
+    <link rel="icon" href="/ExternalContent/Images/common/favicon.ico">
+
     <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-F6Z9"></script><script type="text/javascript" src="/Scripts/swfobject/swfobject.js"></script>
     <script type="text/javascript" src="/Scripts/jquery-1.4.2.min.js"></script>
     <script type="text/javascript" src="/Scripts/jquery-ui-1.8.2/jquery-ui-1.8.2.custom.min.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.blockUI.js"></script>
     <script type="text/javascript" src="/Scripts/validationEngine/js/jquery.validationEngine-en.js"></script>
     <script type="text/javascript" src="/Scripts/validationEngine/js/jquery.validationEngine.js"></script>
     <script type="text/javascript" src="/Scripts/jquery.validate.js"></script>
@@ -44,6 +50,7 @@
  
     
     <script type="text/javascript">
+   
       var isAuth = eval('False'.toLowerCase());
 	    var idleTimerMinutes = 14.5;
       var idleTimerAjaxCallMilliseconds = 1500;
@@ -60,52 +67,70 @@
             c.idleTimer(isAuth, idleTimerMinutes, idleTimerAjaxCallMilliseconds); // starts idleTimer if authenticated, function (isAuth, idleAfterMinutes)
           });
         });
+
+        $(document).ready(function () {
+                   
+             if (IsBrowserSupported())
+              return;
+
+             if (!CheckForViewToDisplay())
+              return;                     
+
+             $(".alertBrowser").show();
+           
+        });
+
+        function IsBrowserSupported()
+        {       
+            var isSupported = false;           
+            //Navigator.saysWho : Returns in the format "browserName:browserVersion".
+            var agent = navigator.saysWho.split(':');         
+
+            if(agent.length < 2)
+                return false; 
+                
+            var browserName = agent[0];
+            var browserVer = agent[1];           
+
+            switch(browserName)
+            {
+                case "MSIE" : 
+                case "IE"   : isSupported = (browserVer >= 8) || document.documentMode > 7  ? true: false; //IE version > 8
+                break;
+                case "Chrome" : isSupported = browserVer >= 35 ? true: false;//Chrome version > 35
+                break;
+                case "Firefox" : isSupported = browserVer >= 30 ? true: false;//Firefox version > 30
+                break;
+                case "Safari" : isSupported = browserVer >= 7 ? true: false;//Safari version > 7
+                break;
+                default : isSupported = false;
+                break;
+            }
+            
+            return isSupported;
+        }
+
+        function CheckForViewToDisplay()
+        {
+            var status = false;
+            var currentViewName = 'privacy-policy'.toLowerCase();  
+            var currentControllerName = 'faq'.toLowerCase();
+                 
+            switch(currentViewName){
+                case "index"    :   status = isAuth && currentControllerName == "myaccount" ? true: false ;//Display message only for authenticated and My Account controller.
+                break;
+                case "contact-us" : 
+                case "quickapply"  : status = true;
+                break;
+                default : status = false;            
+            }
+            return status;
+        }
         
     </script>
-    <!-- SiteCatalyst code version: H.24.3.
-    Copyright 1996-2012 Adobe, Inc. All Rights Reserved
-    More info available at http://www.omniture.com -->
-    <script type="text/javascript" src="/scripts/omniture_s_code.js"></script>
-    <script type="text/javascript">
-        /* You may give each page an identifying name, server, and channel on the next lines. */
-        s.pageName = "faq/privacy-policy";
-        s.server = "server 2";
-        s.channel = "";
-        s.pageType = "";
-        s.prop1 = "";
-        s.prop2 = "";
-        s.prop3 = "";
-        s.prop4 = "";
-        s.prop5 = "";
-        /* Conversion Variables */
-        s.campaign = "";
-        s.state = "";
-        s.zip = "";
-        s.products = "";
-        s.purchaseID = "";
-        s.eVar1 = "";
-        s.eVar2 = "";
-        s.eVar3 = "";
-        s.eVar4 = "";
-        s.eVar5 = "";
-        s.eVar8 = "";
-        s.eVar9 = "";
-        s.transactionID = "";
-        s.events = "";
-        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-        var s_code = s.t(); if (s_code) document.write(s_code);
-    </script>
-    <script type="text/javascript">
-      <!--if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-'); //-->
-    </script>
-    <noscript>
-        <img src="http://mobiloans.112.2o7.net/b/ss/mblnspgloans/1/H.24.3--NS/0"
-            height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-    <!-- End SiteCatalyst code version: H.24.3. -->
     
     
 
-    <link rel="SHORTCUT ICON" href="/ExternalContent/Images/common/plaingreenicon.ico">
      
     <meta name="verify-v1" content="0HxoNEqfGhL9Eu7sXTi6FbKfHu+Ra1cK9wSpNDceAwA=">
     
@@ -143,6 +168,9 @@
     </div>
     <div class="wrapper">
         <div class="wrapper_main_m">
+        <div class="alertBrowser">
+        We're sorry, but it appears your browser is no longer supported. We recommend using the latest browser for the best experience.
+        </div>
             <div class="header">
                 <div class="logo">
                     <a href="/" title="Plain Green">
@@ -163,13 +191,13 @@
                     </ul>
                 </div>
                 
-                <table class="loginTable" cellpadding="0" cellspacing="0" width="340">
+                <table class="loginTable">
                     <tbody><tr>
-                        <td valign="bottom" height="55" align="right">
+                        <td>
                             <div class="login">
                                 <div>
                                     
-                                    <a href="/Login">
+                                    <a href="/login">
                                         <img alt="Account Login" id="btnAccountLogin" src="//www.plaingreenloans.com/ExternalContent/Images/btn/btn_account_login.png" title="Account Login">
                                     </a>
                                     
@@ -187,107 +215,60 @@
     <div class="leftCol">
         
         <div class="dialog" style="width:241px;"><div class="content"><div class="t"></div>
-<div class="getstarted"><h2>Get Started Today!</h2><form action="https://www.plaingreenloans.com/Apply/QuickApply" id="form0" method="post">
-        <table border="0" cellspacing="0" cellpadding="0"> 
-            <tbody><tr><td colspan="2">
+<div class="getstarted">
+  <h2>Get Started Today!</h2><form action="https://www.plaingreenloans.com/apply/quickapply" id="form0" method="post">
+  <table style="padding: 0;">
+    <tbody><tr>
+      <td colspan="2">
+        
     <div class="editor-label"><label for="FirstName">First Name</label></div>
 
 <div class="editor-field">
 <input id="FirstName" name="FirstName" type="text" value=""><span class="field-validation-valid" id="FirstName_validationMessage"></span>
-</div></td></tr>
-            <tr><td colspan="2">
+</div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        
     <div class="editor-label"><label for="LastName">Last Name</label></div>
 
 <div class="editor-field">
 <input id="LastName" name="LastName" type="text" value=""><span class="field-validation-valid" id="LastName_validationMessage"></span>
-</div></td></tr>
-            <tr><td colspan="2">
+</div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        
     <div class="editor-label"><label for="EmailAddress">E-mail Address</label></div>
 
 <div class="editor-field">
 <input id="EmailAddress" name="EmailAddress" type="text" value=""><span class="field-validation-valid" id="EmailAddress_validationMessage"></span>
-</div></td></tr>
-            <tr>
-                <td style="padding-right: 8px">
-                    
-
-<div class="editor-label"><label for="State">State</label></div>
-<div class="editor-field-very-short">
-    <select class="styled" id="State" name="State"><option value=""></option>
-<option value="AL">AL</option>
-<option value="AK">AK</option>
-<option value="AZ">AZ</option>
-<option value="AR">AR</option>
-<option value="CA">CA</option>
-<option value="CO">CO</option>
-<option value="CT">CT</option>
-<option value="DE">DE</option>
-<option value="DC">DC</option>
-<option value="FL">FL</option>
-<option value="GA">GA</option>
-<option value="HI">HI</option>
-<option value="ID">ID</option>
-<option value="IL">IL</option>
-<option value="IN">IN</option>
-<option value="IA">IA</option>
-<option value="KS">KS</option>
-<option value="KY">KY</option>
-<option value="LA">LA</option>
-<option value="ME">ME</option>
-<option value="MD">MD</option>
-<option value="MA">MA</option>
-<option value="MI">MI</option>
-<option value="MN">MN</option>
-<option value="MS">MS</option>
-<option value="MO">MO</option>
-<option value="MT">MT</option>
-<option value="NE">NE</option>
-<option value="NV">NV</option>
-<option value="NH">NH</option>
-<option value="NJ">NJ</option>
-<option value="NM">NM</option>
-<option value="NY">NY</option>
-<option value="NC">NC</option>
-<option value="ND">ND</option>
-<option value="OH">OH</option>
-<option value="OK">OK</option>
-<option value="OR">OR</option>
-<option value="PA">PA</option>
-<option value="RI">RI</option>
-<option value="SC">SC</option>
-<option value="SD">SD</option>
-<option value="TN">TN</option>
-<option value="TX">TX</option>
-<option value="UT">UT</option>
-<option value="VT">VT</option>
-<option value="VA">VA</option>
-<option value="WA">WA</option>
-<option value="WV">WV</option>
-<option value="WI">WI</option>
-<option value="WY">WY</option>
-</select><span class="field-validation-valid" id="State_validationMessage"></span>
 </div>
-                </td>
-                <td>
-                    
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        
     <div class="editor-label"><label for="PromoCode">Promo Code</label></div>
 
-<div class="editor-field-medium">
+<div class="editor-field">
 <input id="PromoCode" name="PromoCode" type="text" value=""><span class="field-validation-valid" id="PromoCode_validationMessage"></span>
 </div>
-                    
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2">
-                    <input class="submitBtn" type="image" name="apply" src="/ExternalContent/Images/btn/apply_now.png" alt="Apply Now">
-                </td>
-            </tr>
-        </tbody></table>        
-    </form><script type="text/javascript">
+        
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <input class="submitBtn" type="image" name="apply" src="/externalcontent/Images/btn/apply_now.png" alt="Apply Now">
+      </td>
+    </tr>
+  </tbody></table>
+  </form><script type="text/javascript">
 //<![CDATA[
 if (!window.mvcClientValidationMetadata) { window.mvcClientValidationMetadata = []; }
-window.mvcClientValidationMetadata.push({"Fields":[{"FieldName":"FirstName","ReplaceValidationMessageContents":true,"ValidationMessageId":"FirstName_validationMessage","ValidationRules":[{"ErrorMessage":"First Name can not exceed 50 characters","ValidationParameters":{"minimumLength":0,"maximumLength":50},"ValidationType":"stringLength"},{"ErrorMessage":"First Name contains illegal symbols.","ValidationParameters":{"pattern":"[a-zA-Z\u0027\\- ]+"},"ValidationType":"regularExpression"}]},{"FieldName":"LastName","ReplaceValidationMessageContents":true,"ValidationMessageId":"LastName_validationMessage","ValidationRules":[{"ErrorMessage":"Last Name can not exceed 50 characters","ValidationParameters":{"minimumLength":0,"maximumLength":50},"ValidationType":"stringLength"},{"ErrorMessage":"Last Name contains illegal symbols.","ValidationParameters":{"pattern":"[a-zA-Z\u0027\\- ]+"},"ValidationType":"regularExpression"}]},{"FieldName":"EmailAddress","ReplaceValidationMessageContents":true,"ValidationMessageId":"EmailAddress_validationMessage","ValidationRules":[{"ErrorMessage":"Email Address can not exceed 50 characters","ValidationParameters":{"minimumLength":0,"maximumLength":50},"ValidationType":"stringLength"},{"ErrorMessage":"Email Address is Invalid.","ValidationParameters":{"pattern":"^(([A-Za-z0-9]+_+)|([A-Za-z0-9]+\\-+)|([A-Za-z0-9]+\\.+)|([A-Za-z0-9]+\\++))*[A-Za-z0-9_]+@((\\w+\\-+)|(\\w+\\.))*\\w{1,63}\\.[a-zA-Z]{2,6}$"},"ValidationType":"regularExpression"}]},{"FieldName":"State","ReplaceValidationMessageContents":true,"ValidationMessageId":"State_validationMessage","ValidationRules":[]},{"FieldName":"PromoCode","ReplaceValidationMessageContents":true,"ValidationMessageId":"PromoCode_validationMessage","ValidationRules":[{"ErrorMessage":"Promo Code contains illegal symbols.","ValidationParameters":{"pattern":"[^\u003c\u003e]+"},"ValidationType":"regularExpression"}]}],"FormId":"form0","ReplaceValidationSummary":false});
+window.mvcClientValidationMetadata.push({"Fields":[{"FieldName":"FirstName","ReplaceValidationMessageContents":true,"ValidationMessageId":"FirstName_validationMessage","ValidationRules":[{"ErrorMessage":"First Name can not exceed 50 characters","ValidationParameters":{"minimumLength":0,"maximumLength":50},"ValidationType":"stringLength"},{"ErrorMessage":"First Name contains illegal symbols.","ValidationParameters":{"pattern":"[a-zA-Z\u0027\\- ]+"},"ValidationType":"regularExpression"}]},{"FieldName":"LastName","ReplaceValidationMessageContents":true,"ValidationMessageId":"LastName_validationMessage","ValidationRules":[{"ErrorMessage":"Last Name can not exceed 50 characters","ValidationParameters":{"minimumLength":0,"maximumLength":50},"ValidationType":"stringLength"},{"ErrorMessage":"Last Name contains illegal symbols.","ValidationParameters":{"pattern":"[a-zA-Z\u0027\\- ]+"},"ValidationType":"regularExpression"}]},{"FieldName":"EmailAddress","ReplaceValidationMessageContents":true,"ValidationMessageId":"EmailAddress_validationMessage","ValidationRules":[{"ErrorMessage":"Email Address can not exceed 50 characters","ValidationParameters":{"minimumLength":0,"maximumLength":50},"ValidationType":"stringLength"},{"ErrorMessage":"Email Address is Invalid.","ValidationParameters":{"pattern":"^(([A-Za-z0-9]+_+)|([A-Za-z0-9]+\\-+)|([A-Za-z0-9]+\\.+)|([A-Za-z0-9]+\\++))*[A-Za-z0-9_]+@((\\w+\\-+)|(\\w+\\.))*\\w{1,63}\\.[a-zA-Z]{2,6}$"},"ValidationType":"regularExpression"}]},{"FieldName":"PromoCode","ReplaceValidationMessageContents":true,"ValidationMessageId":"PromoCode_validationMessage","ValidationRules":[{"ErrorMessage":"Promo Code contains illegal symbols.","ValidationParameters":{"pattern":"[^\u003c\u003e]+"},"ValidationType":"regularExpression"}]}],"FormId":"form0","ReplaceValidationSummary":false});
 //]]>
 </script>
 </div>
@@ -586,7 +567,7 @@ window.mvcClientValidationMetadata.push({"Fields":[{"FieldName":"FirstName","Rep
         <div class="WordSection1" style="padding-top: 6px;">
             <p style="text-align: right; width: 668px;">
                 <span style="font-size: 10.0pt; font-weight: bold; font-family: Arial, Helvetica, sans-serif">
-                    Effective November 2013</span></p>
+                    Effective December 2014</span></p>
             <br>
             <p style="width: 668px;">
                 <span style="font-size: 10.0pt; font-weight: bold; text-decoration: underline; font-family: Arial, Helvetica, sans-serif">
@@ -782,7 +763,7 @@ window.mvcClientValidationMetadata.push({"Fields":[{"FieldName":"FirstName","Rep
                         padding: 0in 5.4pt 0in 5.4pt">
                         <p class="MsoBodyText3" align="center" style="margin-top: 2.0pt; margin-right: 0in;
                             margin-bottom: 2.0pt; margin-left: 0in; text-align: center">
-                            <b><span style="font-size: 10.0pt; font-family: Arial, Helvetica, sans-serif">NO</span></b></p>
+                            <b><span style="font-size: 10.0pt; font-family: Arial, Helvetica, sans-serif">YES</span></b></p>
                     </td>
                 </tr>
                 <tr>
@@ -1239,51 +1220,51 @@ window.mvcClientValidationMetadata.push({"Fields":[{"FieldName":"FirstName","Rep
             <div class="clearLeft">
             </div>
             <div class="copyright">
-                © 2014&nbsp;Plain Green Loans&nbsp;All Rights Reserved
+                © 2015&nbsp;Plain Green Loans&nbsp;All Rights Reserved
                 <br>
                 [2]
             </div>
             <div class="disclaimer">
-                *Plain Green, LLC is a tribal lending entity wholly owned by the Chippewa Cree Tribe of
-the Rocky Boy's Indian Reservation, Montana, a sovereign nation located within the
-United States of America, and is operating within the Tribe's Reservation. Applications
-processed and approved before 6 p.m. ET are typically funded the next business day.
-In some cases, we may not be able to verify your application information and may ask
-you to provide certain documents. Maximum loan amount for initial loan is $1,000.00.
-Refer to <a href="/loan-cost-and-terms">Loan Cost &amp; Terms</a> for additional
-details. Complete disclosures of APR, fees and payment terms are provided within the
+                *Plain Green, LLC is a tribal lending entity wholly owned by the Chippewa Cree Tribe of 
+the Rocky Boy's Indian Reservation, Montana, a sovereign nation located within the 
+United States of America, and is operating within the Tribe's Reservation. Applications 
+processed and approved before 6 p.m. ET are typically funded the next business day. 
+In some cases, we may not be able to verify your application information and may ask 
+you to provide certain documents. Maximum loan amount for initial loan is $1,000.00. 
+Refer to <a href="/loan-cost-and-terms">Loan Cost &amp; Terms</a> for additional 
+details. Complete disclosures of APR, fees and payment terms are provided within the 
 Loan Agreement.<br>
 <br>
 <strong>Important Disclosures</strong><br>
-This is an expensive form of credit. Plain Green loans are designed to help you meet
-your emergency borrowing needs. Appropriate emergencies might be a car repair, medical
-care for you or your family, or travel expenses in connection with your job. This
-service is not intended to provide a solution for longer-term credit or other financial
-needs. Alternative forms of credit, such as a credit card cash advance, personal loan,
-home equity line of credit, existing savings or borrowing from a friend or relative,
-may be less expensive and more suitable for your financial needs. Refinancing may be
-available and is not automatic. Refinancing your loan will extend the term of the loan
-and result in additional interest charges. Late fees and non-sufficient funds/returned
-item fees may apply as described in your Loan Agreement. We will never charge you any
-"hidden fees" that are not fully disclosed in the Loan Agreement or the
-<a href="/loan-cost-and-terms">Loan Cost &amp; Terms</a>. If you don't make a payment
-on time we will attempt to contact you via one or more authorized methods. We adhere to
-the principles of the federal Fair Debt Collection Practices Act (FDCPA). Because we
-may report your payment history to one or more credit bureaus, late or non-payment of
-your loan may negatively impact your credit rating. If you fail to repay your loan in
-accordance with its terms, we may place your loan with or sell your loan to a
-third-party collection agency or other company that acquires and/or collects delinquent
+This is an expensive form of credit. Plain Green loans are designed to help you meet 
+your emergency borrowing needs. Appropriate emergencies might be a car repair, medical 
+care for you or your family, or travel expenses in connection with your job. This 
+service is not intended to provide a solution for longer-term credit or other financial 
+needs. Alternative forms of credit, such as a credit card cash advance, personal loan, 
+home equity line of credit, existing savings or borrowing from a friend or relative, 
+may be less expensive and more suitable for your financial needs. Refinancing may be 
+available and is not automatic. Refinancing your loan will extend the term of the loan 
+and result in additional interest charges. Late fees and non-sufficient funds/returned 
+item fees may apply as described in your Loan Agreement. We will never charge you any 
+"hidden fees" that are not fully disclosed in the Loan Agreement or the 
+<a href="/loan-cost-and-terms">Loan Cost &amp; Terms</a>. If you don't make a payment 
+on time we will attempt to contact you via one or more authorized methods. We adhere to 
+the principles of the federal Fair Debt Collection Practices Act (FDCPA). Because we 
+may report your payment history to one or more credit bureaus, late or non-payment of 
+your loan may negatively impact your credit rating. If you fail to repay your loan in 
+accordance with its terms, we may place your loan with or sell your loan to a 
+third-party collection agency or other company that acquires and/or collects delinquent 
 consumer debt.<br>
 <br>
-<sup>1</sup>First-time Plain Green customers typically qualify for an installment loan of
-$250 to $1,000, with an APR of 299.17% to 378.95%, which is less than the average 706.08%
-APR for a payday loan. For example, a $700 loan from Plain Green Loans repaid in 14
-bi-weekly installments of $116.63, including of $932.70 interest, has an APR of 364.00%.
-After the 14th successful payment, your loan would be paid in full. A typical payday loan
-of $700 repaid in 14 days has an APR of 706.08% and a total payment of $889.58. Typical
-payday loan pricing is based on Texas-originated loans with 14-day terms facilitated by
-Credit Service Organizations/Credit Access Businesses such as CashNet USA®
-(664.30% APR), ChecknGo® (661.77%) and MyCashCenter (792.16%) as of May 27, 2014.</div>
+<sup>1</sup>First-time Plain Green customers typically qualify for an installment loan of 
+$250 to $1,000, with an APR of 299.17% to 378.95%, which is less than the average 706.08% 
+APR for a payday loan. For example, a $700 loan from Plain Green Loans repaid in 14 
+bi-weekly installments of $116.63, including of $932.70 interest, has an APR of 364.00%. 
+After the 14th successful payment, your loan would be paid in full. A typical payday loan 
+of $700 repaid in 14 days has an APR of 706.08% and a total payment of $889.58. Typical 
+payday loan pricing is based on Texas-originated loans with 14-day terms facilitated by 
+Credit Service Organizations/Credit Access Businesses such as CashNet USA® 
+(664.30% APR), ChecknGo® (661.77%) and MyCashCenter (792.16%) as of December 23, 2014.</div>
             <br>
             <div class="logos rightFooter">
                 <a href="http://www.mynafsa.org" target="_blank">
@@ -1293,10 +1274,10 @@ Credit Service Organizations/Credit Access Businesses such as CashNet USA®
                     <img style="padding: 0 0 10px 0;" src="/externalcontent/images/policy_responsible_lending/responsible_lending.png" alt="Responsible Lending" width="187" height="50"></a>
                          
                 <a href="https://sentinel.whitehatsec.com/gateway/certified/confirmed.html?badge_key=7bff95aa-4680-48c2-99cb-76692c20dc82" target="_blank">
-                    <img style="padding-bottom: 10px" src="/externalcontent/images/whitehat/WhiteHatLogo.png" border="0" alt="whitehat">
+                    <img style="padding-bottom: 10px; border:0" src="/externalcontent/images/whitehat/WhiteHatLogo.png" alt="whitehat">
                 </a>
                 <a href="http://www.onlinelendersalliance.org/?page=hotline" target="_blank">
-                  <img style="padding-top: 0" src="/externalcontent/images/fraudbutton/fraudbutton.png" alt="fraud" border="0">
+                  <img style="padding-top: 0; border:0" src="/externalcontent/images/fraudbutton/fraudbutton.png" alt="fraud">
                 </a>
             </div>
         </div>
