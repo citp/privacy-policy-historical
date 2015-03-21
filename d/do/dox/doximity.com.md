@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the doximity.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703133555id_/https%3A//www.doximity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doximity.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321052855id_/https%3A//www.doximity.com/physicians/privacy) for the most accurate reproduction.*
 
 # Doximity Privacy Policy
+
+We do not rent or sell your information to third parties for marketing purposes. Any information that you provide will be secured with industry standard protocols and technology.
 
 ## 1\. Personal Information Collected
 
@@ -65,7 +67,7 @@ ATTN: Privacy Policy Issues
 60 E Third Ave Suite 115  
 San Mateo, CA 94401
 
-Return to top
+ __Return to top
 
 * * *
 
@@ -87,7 +89,7 @@ Doximity takes the privacy of Users very seriously. We do not sell, rent, or oth
 
 As part of our Services, we may share personal information with accredited Continuing Medical Education (CME) and Continuing Education (CE) providers who certify CME and CE activities, to process CME or CE activities you may choose to take through our Service.
 
-As part of our Services, we may also share public profile information with medical leading publications and ranking bodies, such as US News and World Reports to increase the visibility of our Users.
+As part of our Services, we may also share public profile information with medical leading publications and ranking bodies, such as U.S. News and World Reports to increase the visibility of our Users.
 
 When you use the Doximity Service through a Doximity website, newsletter, mobile app or other medium, you may be presented with advertisements or opportunities to engage in informational programs consisting of sponsor-selected content. Examples of these programs include sponsored news alerts or branded or unbranded discussion groups. All sponsored programs will be labeled clearly as sponsored.
 
@@ -127,7 +129,7 @@ It is possible that we may need to disclose personal information when required b
 
 We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of substantially all of the business of Doximity. Any third party to which we transfer or sell Doximity’s assets will have the right to continue to use the personal and other information that you provide to us.
 
-Return to top
+ __Return to top
 
 * * *
 
@@ -149,7 +151,7 @@ To request that we close your account and remove your information from the Doxim
 
 If we learn that a User is deceased, we may memorialize the User's account. In these cases we may restrict profile access, remove messaging functionality, and close an account if we receive a formal request from the User's next of kin or other proper legal request to do so.
 
-Return to top
+ __Return to top
 
 * * *
 
@@ -166,7 +168,7 @@ As a User, you have certain obligations toward the other Users with whom you wil
 
 Any violation of these guidelines may lead to the restriction, suspension or termination of your account by Doximity, as we take these principles seriously and consider them to be the basis on which our Users adhere to the Doximity website and the services which it offers.
 
-Return to top
+ __Return to top
 
 * * *
 
@@ -186,7 +188,7 @@ If you use the Doximity service after notice of these changes have been posted, 
 
 Insurance and other data is provided to Doximity by [docspot.com](http://www.docspot.com/)
 
-Return to top
+ __Return to top
 
 * * *
 
@@ -194,7 +196,7 @@ Return to top
 
 In order to secure your personal information, access to your data on Doximity is password-protected. It is your responsibility to protect the security of your login information.
 
-Return to top
+ __Return to top
 
 * * *
 
@@ -234,7 +236,7 @@ By providing information to us, you represent and warrant that you are entitled 
 
 ##### C. Service Eligibility
 
-To be eligible to use the Service, you must meet the following criteria and represent and warrant that you: (1) are 18 years of age or older; (2) a certified US physician, medical student, or other health care professional (3) are not currently restricted from the Services, or not otherwise prohibited from having a Doximity account, (4) are not a competitor of Doximity or are not using the Services for reasons that are in competition with Doximity; (5) will only maintain one Doximity account at any given time; (6) have full power and authority to enter into this Agreement and doing so will not violate any other agreement to which you are a party; (7) will not violate any rights of Doximity, including intellectual property rights such as copyright or trademark rights; and (8) agree to provide at your cost all equipment, software, and internet access necessary to use the Services.
+To be eligible to use the Service, you must meet the following criteria and represent and warrant that you: (1) are 18 years of age or older; (2) a certified U.S. physician, medical student, or other health care professional (3) are not currently restricted from the Services, or not otherwise prohibited from having a Doximity account, (4) are not a competitor of Doximity or are not using the Services for reasons that are in competition with Doximity; (5) will only maintain one Doximity account at any given time; (6) have full power and authority to enter into this Agreement and doing so will not violate any other agreement to which you are a party; (7) will not violate any rights of Doximity, including intellectual property rights such as copyright or trademark rights; and (8) agree to provide at your cost all equipment, software, and internet access necessary to use the Services.
 
 ##### D. Sign-In Credentials
 
@@ -326,7 +328,7 @@ The Health Insurance Portability and Accountability Act of 1996 generally requir
 
 #### 8\. LIMITATION OF LIABILITY
 
-Neither Doximity nor any employees, shareholders, representatives or directors ("Doximity Affiliates") shall be cumulatively liable for (a) any damages in excess of US $10, or (b) any special, incidental, indirect, punitive or consequential damages or loss of use, profit, revenue or data to you or any third person arising from your use of the Service, any platform applications or any of the content or other materials on, accessed through or downloaded from Doximity. This limitation of liability is part of the basis of the bargain between the parties and without it the terms and prices charged would be different. This limitation of liability shall:
+Neither Doximity nor any employees, shareholders, representatives or directors ("Doximity Affiliates") shall be cumulatively liable for (a) any damages in excess of U.S. $10, or (b) any special, incidental, indirect, punitive or consequential damages or loss of use, profit, revenue or data to you or any third person arising from your use of the Service, any platform applications or any of the content or other materials on, accessed through or downloaded from Doximity. This limitation of liability is part of the basis of the bargain between the parties and without it the terms and prices charged would be different. This limitation of liability shall:
 
 Apply regardless of whether (1) you base your claim on contract, tort, statute or any other legal theory, (2) we knew or should have known about the possibility of such damages, or (3) the limited remedies provided in this section fail of their essential purpose; and
 
@@ -654,6 +656,6 @@ San Mateo, CA 94401
 
 The notice address for Covered Entity will be the address provided by that entity on the online registration page for the Doximity service.
 
-Return to top
+ __Return to top
 
 * * *
