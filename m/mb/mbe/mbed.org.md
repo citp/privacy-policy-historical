@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mbed.org privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922113507id_/http%3A//mbed.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbed.org privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321123722id_/http%3A//mbed.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | mbed
+# mbed | welcome
 
 ## MBED WEBSITE DATA USE AND PRIVACY POLICY
 
 ### 1\. PLEASE READ THE FOLLOWING CAREFULLY.
 
-This policy sets out the basis on which any Data (defined below) we collect from you and your use of the Website will be processed ("Data Use and Privacy Policy"). This Data Use and Privacy Policy forms part of and is incorporated into the Website [Terms and Conditions of Use](https://web.archive.org/terms). Any capitalised terms used in this Data Use and Privacy Policy, unless otherwise defined, shall have the same meaning as ascribed to them under the Website Terms and Conditions of Use. For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is ARM Limited, a company registered in England and Wales with company number 2557590 (hereinafter "we/us/our" as applicable). VAT No: GB 636 9028 22. Registered Office Address 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom. ARM Limited is a private limited company. The ARM Group shall mean any company whose voting shares are directly or indirectly controlled by ARM Limited.
+This policy sets out the basis on which any Data (defined below) we collect from you and your use of the Website will be processed ("Data Use and Privacy Policy"). This Data Use and Privacy Policy forms part of and is incorporated into the Website [Terms and Conditions of Use](https://mbed.org/terms). Any capitalised terms used in this Data Use and Privacy Policy, unless otherwise defined, shall have the same meaning as ascribed to them under the Website Terms and Conditions of Use. For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is ARM Limited, a company registered in England and Wales with company number 2557590 (hereinafter "we/us/our" as applicable). VAT No: GB 636 9028 22. Registered Office Address 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom. ARM Limited is a private limited company. The ARM Group shall mean any company whose voting shares are directly or indirectly controlled by ARM Limited.
 
 ### 2\. DATA WE MAY COLLECT
 
-We collect and process data which; (i) relates to you and from which you can be identified ("Personal Data"); and (ii) relates to your use of the Website which does not on its own identify you ("Technical Data"), which collectively shall be referred to as "Data". 
+We collect and process data which; (i) relates to you and from which you can be identified ("Personal Data"); and (ii) relates to your use of the Website which does not on its own identify you ("Technical Data"), which collectively shall be referred to as "Data".
 
 Personal Data may include but may not be limited to:
 
@@ -85,7 +85,7 @@ We may disclose or sell results of analysis of your Technical Data (but not the 
 
 ### 7\. TERMINATION OF THE AGREEMENT AND YOUR RIGHTS
 
-Under this Data Use and Privacy Policy, we have informed you how we intend to use your Data. You have the right to ask us to cease processing your Personal Data. You can exercise your right at any time by contacting us at [support@mbed.org](mailto:support@mbed.org). By asking us to cease using your Personal Data, you are terminating the Agreement. Consequently you may no longer use the Website. In the event this agreement is terminated, we will cease processing and delete your Personal Data within a reasonable time of such request. Notwithstanding the foregoing, nothing shall require us to purge our routinely made backup data. We shall not access and use such back up data for the purpose of accessing and processing your Personal Data after termination of this agreement. We shall be entitled to continue to use your Technical Data as set out herein.
+Under this Data Use and Privacy Policy, we have informed you how we intend to use your Data. You have the right to ask us to cease processing your Personal Data. You can exercise your right at any time by contacting us at [support@mbed.org](mailto:support@mbed.org). By asking us to cease using your Personal Data, you are terminating the Agreement. Consequently you may no longer use the Website. In the event this agreement is terminated, we will cease processing and delete your Personal Data within a reasonable time of such request. Notwithstanding the foregoing, nothing shall require us to purge our routinely made backup data. We shall not access and use such back up data for the purpose of accessing and processing your Personal Data after termination of this agreement. We shall be entitled to continue to use your Technical Data as set out herein.
 
 The Website may, from time to time, contain links to external website. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any Data to these websites.
 
@@ -99,6 +99,6 @@ Any changes we may make to this Data Use and Privacy Policy in the future will b
 
 ### 10\. CONTACT
 
-Questions, comments and requests regarding this Data Use and Privacy Policy are welcomed and should be addressed to [support@mbed.org](mailto:support@mbed.org).
+Questions, comments and requests regarding this Data Use and Privacy Policy are welcomed and should be addressed to[support@mbed.org](mailto:support@mbed.org).
 
 (LEC-ELA-00656-V1.0)
