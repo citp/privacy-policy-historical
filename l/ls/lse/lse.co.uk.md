@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013091953id_/http%3A//www.lse.co.uk/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321115754id_/http%3A//www.lse.co.uk/privacy-statement.asp) for the most accurate reproduction.*
 
 # London South East - Data Protection and Privacy Statement
 
@@ -8,7 +8,7 @@ We collect certain information about you when you visit our website. We recognis
 
 ## Who we are
 
-We are London South East Limited, a company registered in England & Wales under company number 06258308 whose registered office is at 1st floor offices, Natwest Bank, Market Square, Rochford, Essex, SS4 1AJ. We are registered under the Data Protection Act 1998 with registration number Z9954798.
+We are London South East Limited, a company registered in England & Wales under company number 06258308 whose registered office is at 32 Clarence Street, Southend on Sea, Essex, SS1 1BD. We are registered under the Data Protection Act 1998 with registration number Z9954798.
 
 ## The information we collect
 
@@ -22,7 +22,7 @@ We collect information you give us when completing the 'Contact' section. Where 
 
 Cookies are small text files which are often stored on your computer's hard drive by websites you visit to enable the site to remember who you are. These cookies store your unique ID but do not contain any information that personally identifies you, such as a name or address. We use cookies when you log onto our site to stop you having to re-type information and they remain on your computer until you delete them.
 
-Without cookies you cannot login to London South East. We use cookies to enhance the functionality of the website by storing your preferences/settings, as well as using cookies to help us to improve the performance of our website and to provide you with a better user experience.
+Without cookies you cannot login to London South East. We use cookies to enhance the functionality of the website by storing your preferences/settings, as well as using cookies to help us to improve the performance of our website and to provide you with a better user experience. We may also use this information for marketing and displaying information about other products and services that we feel may be to your interest through advertising networks such as but not limited to the Google Ad network, Facebook, and Twitter.
 
 Most browsers are automatically set to accept cookies and you should be able to restrict or disable them if you wish by adjusting the settings on your browser. This will however alter your use of the areas of our website that use cookies, such as the login areas. We do not use 'spyware', that is web bugs or hidden identifiers or other similar devices to gain access to information or to trace your activities. For more information about cookies and instructions on how to adjust your browser settings or restrict or disable cookies, see the IAB website at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Contact us or view our dedicated Cookie page on the site for specific information on the cookies we use.
 
@@ -37,7 +37,7 @@ Should you object to the use of cookies, web beacons and/ or other such monitori
 ## What we do with your information
 
 **How we use it**  
-We use your information to provide you with that which you have requested. If you ask us to, we will use your details to send you information about other products and services that may be to your interest.
+We use your information to provide you with that which you have requested. We may, from time to time, use your details to send you information about other products and services that may be to your interest.
 
 You may ask us to remove you from our mailing lists at any time by writing to us at our registered office. We will also offer you the option of correcting your details and of being removed from our mailing list when we send you alerts or other information.
 
