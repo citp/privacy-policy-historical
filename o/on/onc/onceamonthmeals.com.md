@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onceamonthmeals.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044930id_/http%3A//onceamonthmeals.com/extras/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onceamonthmeals.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321175300id_/https%3A//onceamonthmeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Once A Month Cooking tips from Once A Month Meals
-
-PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective September 1, 2012.
+# Privacy Policy | Once A Month Meals
 
 If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us as provided in Section I below.
 
@@ -10,7 +8,7 @@ If you submitted personally identifiable information to us prior to the above ef
 
 _(Effective September 1, 2012)_
 
-Welcome to onceamonthmeals.com (“Website”), an interactive online service operated by Once A Month Mom, LLC (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/)).
+Welcome to onceamonthmeals.com (“Website”), an interactive online service operated by Once A Month Mom, LLC (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also[http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/)).
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
@@ -37,7 +35,7 @@ In certain instances we may also share your personally identifiable information 
 
 **C.          COOKIES AND PREFERENCE BASED ADVERTISING**
 
-**(1)** ******Cookies and Web Beacons:** **** We automatically receive and store certain types of non-personally identifiable information whenever you interact with us. For example, like many websites, we use “cookies” and “web beacons” (also called “clear gifs” or “pixel tags”) to obtain certain types of information when your web browser accesses our Website.  “Cookies” are small files that we transfer to your computer’s hard drive or your web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you. “Web beacons” are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of users, when an email has been opened, and to provide other information.
+**(1)** **Cookies and Web Beacons:** We automatically receive and store certain types of non-personally identifiable information whenever you interact with us. For example, like many websites, we use “cookies” and “web beacons” (also called “clear gifs” or “pixel tags”) to obtain certain types of information when your web browser accesses our Website.  “Cookies” are small files that we transfer to your computer’s hard drive or your web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you. “Web beacons” are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of users, when an email has been opened, and to provide other information.
 
 Examples of the information we collect and analyze in this manner include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; your activities our Website, including the products you view or searched for, as well as the URL you come from and go to next (whether this URL is on our Website or not); and cookie number. **It is important to note that the cookies and Web beacons that we use do not contain and are not tied to personally identifiable information about you.** ** **
 
@@ -81,7 +79,7 @@ You may contact us as provided below if: (a) you have questions or comments abou
 
 **Email:**   info at onceamonthmeals.com
 
-**Mail:**   2520 Acorn Drive, Kettering, Ohio 45419
+**Mail:**    Once A Month Meals, PO Box 588, Fairborn, Ohio 45324
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
 
@@ -90,5 +88,3 @@ We will respond to your request and, if applicable and appropriate, make the req
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website
 
 CINLibrary 0124129.0593875   2570950v1
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fonceamonthmeals.com%2Fextras%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
