@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the tradove.com privacy policy that was archived on 2014-07-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140707193618id_/https%3A//www.tradove.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tradove.com privacy policy that was archived on 2015-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321203256id_/https%3A//www.tradove.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>TraDove</title>
+    <link rel="shortcut icon" href="https://www.tradove.com/favicon.ico">
+    <title>TraDove</title>
     <script type="text/javascript">
     base_url = 'https://www.tradove.com/';
     login_user = {
@@ -38,13 +39,18 @@
     }
 </script>    <link media="all" type="text/css" rel="stylesheet" href="https://www.tradove.com/css/tradove_common.css">
     <link media="all" type="text/css" rel="stylesheet" href="https://www.tradove.com/css/showLoading.css">
+    <link media="all" type="text/css" rel="stylesheet" href="https://www.tradove.com/css/jquery-ui.css">
+    <link media="all" type="text/css" rel="stylesheet" href="https://www.tradove.com/css/chosen.css">
     <script src="https://www.tradove.com/js/jquery-1.9.1.min.js"></script>
     <script src="https://www.tradove.com/js/layer/layer.min.js"></script>
     <script src="https://www.tradove.com/js/jquery.showLoading.min.js"></script>
+    <script src="https://www.tradove.com/js/jquery-ui.js"></script>
+    <script src="https://www.tradove.com/js/chosen.jquery.min.js"></script>
     <script src="https://www.tradove.com/js/common.js"></script>
     <script src="https://www.tradove.com/js/tradove.js"></script>
 	<script type="text/javascript">
 	$(function(){
+
 	    var uid = '',
 	        wpId = '',
 	        blogUrl = 'https://www.tradove.com/blog/?author=0',
@@ -52,23 +58,19 @@
 
 	    if(uid){
 
-	        $('.navigation_login ul li:lt(3)').hide();
-
-	        if(!wpId){
-	            $('#myblog_li').hide();
-	        }else{
-	            $('#myblog').attr('href', blogUrl);
-	        }
+            if(wpId){
+                $('#loginSection').hide();
+                $('#logOutSection').show();
+                $('#myblog_li').show();
+            }
 
 	        if(!isCompanyOwner){
 	            $('#mynews_li').hide();
 	        }
 
 	    }else{
-	        $('.navigation_login ul li:gt(2)').hide();
             $('#mynews_li').hide();
-            $('#myblog_li').hide();
-	        //$('.navigation_login ul li:lt(2)').show();
+            //$('#myblog_li').hide();
 	    }
 
 		$("#blog_news_login_btn").click(function(){
@@ -81,19 +83,102 @@
 				return false;
 			}
 
-			var url = '/blog_news/login/'+email+'/'+pwd;
+			var url = '/blog_news/login/'+email;
 
 			$.get(url,function(data){
 				if(data.result == true){
-	                $('.navigation_login ul li:lt(2)').hide();
-	                $('#blog_news_login_btn').hide();
-	                $('.navigation_login ul li:gt(2)').show();
-					//$("#myblog").attr("href",data.blogger_home_url);
-                    $("#myblog_li").show();
+                    $('#loginSection').hide();
+                    $('#logOutSection').show();
+                    $('#myblog_li').show();
 				}
 			},'json');
 
 		});
+
+
+        //忘记密码
+        var forgetPwdLayerIndex = 0;
+        function showForgetPwdDom(){
+            $("#result_info").html("&nbsp;");
+            forgetPwdLayerIndex = $.layer({
+                type: 1,
+                title: false,
+                fix: false,
+                border: [0],
+                area: ['550px', 'auto'],
+                page: {dom: '#forget_pwd'},
+                offset: ['200px' , '50%'],
+                zIndex:1000,
+                success: function () {
+                }
+            });
+        }
+
+        function forgetPwd(){
+            var cc= $("#confirm_btn").parent();
+
+            $("#result_info").html("&nbsp;");
+            var companyEmail = $("#email").val();
+            if (companyEmail == '' || !isEmail(companyEmail)) {
+                $("#result_info").html("Please enter a valid email address.");
+                return;
+            }
+
+            if(companyEmail == 'admin@tradove.net'){
+                $("#result_info").html("Can not reset password for admin");
+                return;
+            }
+
+            var exist = false;
+            $.ajax({
+                url: '/user/check_email_exist',
+                type: 'POST',
+                async:false,
+                data: {
+                    "email": companyEmail
+                },
+                beforeSend: function () {
+                    cc.showLoading();
+                },
+                success: function (data) {
+                    var result = $.parseJSON(data);
+                    if (! result.exist) {
+                        $("#result_info").html(result.msg);
+                        cc.hideLoading();
+                    } else {
+                        exist = true;
+                        $("#result_info").html("&nbsp;");
+                    }
+                },
+                error: function (data) {
+                    alert(data);
+                }
+            });
+
+            if(exist){
+                //generate a password for user and email it
+                $.ajax({
+                    url: '/user/forget_pwd',
+                    type: 'POST',
+                    data: {
+                        "email": companyEmail
+                    },
+                    beforeSend: function () {
+                    },
+                    success: function (data) {
+                        var json = $.parseJSON(data);
+                        if (json.result) {
+                            layer.close(forgetPwdLayerIndex);
+                            tradove.msg(json.msg, 1, 10);
+                            //$("#result_info").html(json.msg);
+                        }
+                        cc.hideLoading();
+                    },
+                    error: function (data) {
+                    }
+                });
+            }
+        }
 	});
 	</script>
         </head>
@@ -101,35 +186,169 @@
 <body>
 
 <div class="top">
-	
-<div class="div980">
-	<div class="navigation_logo"><img src="https://www.tradove.com/imgs/logo.gif"></div>
-	<div class="navigation_logo_words">The Largest And Most Trusted Global Social Network For Business</div>
-	<div class="navigation_login">
+            <div class="div980">
+    <div class="navigation_logo"><img src="/imgs/logo.gif"></div>
+    <div class="navigation_logo_words">The Largest And Most Trusted Global Social Network For Business</div>
+    <div class="navigation_login">
+        <form id="login_form" method="post" action="https://www.tradove.com/login">
+        <div class="div_left">
+            <span>Email: <input id="login_email" type="text" name="email" value="" class="input100_login">&nbsp;&nbsp;</span>
+            <span>Password: <input id="login_password" type="password" name="password" value="" class="input100_login"></span>
+            <input type="hidden" name="to" value="">
+            <input type="hidden" name="uid" value="">
+            <input type="hidden" name="ntid" value="">
+        </div>
+        <div class="div_right"><input type="submit" value="Login" class="btn_gray_22_login_2"></div>
+        <div class="div_right2">
+            <input name="remember_me" type="checkbox" value="1">&nbsp;Remember me
+                        |<a href="javascript:void(0)" onclick="showForgetPwdDom();">Forget Password?</a>
+            
+        
+
+        <!--
         <ul>
-            <li>Email: <input id="blog_news_email" class="input100_login" name="" type="text"></li>
-            <li>Password: <input id="blog_news_password" class="input100_login" name="" type="password"></li>
-            <li><input id="blog_news_login_btn" type="button" class="btn_gray_22_login" value="Login"></li>
-            <!--
-            <li id="mynews_li">
-                <div class="navigation_login_option">
-                    <a href="/news/list">My News</a>
+            <form id="login_form" method="post" action="https://www.tradove.com/login">
+            <li id="navigation_login">
+                Email:
+                <input id="login_email" type="text" name="email" value="" class="input100_login"/>
+                <input type="hidden" name="to" value="" />
+                <input type="hidden" name="uid" value="" />
+                <input type="hidden" name="ntid" value="" />
+            </li>
+            <li>Password: <input id="login_password" type="password" name="password" value="" class="input100_login"/></li>
+            <li><input id="remember" name="remember" type="checkbox" value="remember me"></li>
+            <li>
+                <input type="submit" value="Login" class="btn_gray_22_login">
+            </li>
+            </form>
+        </ul>
+        -->
+    </div></form>
+</div>
+
+<!--pop forget password-->
+<div id="forget_pwd" style="display: none" class="pop_width550">
+    <div class="pop_width550_title">Forgot your password?</div>
+    <div class="pop_width550_content">
+        <ul>
+            <li>
+                <div class="div380b">
+                        <span style="margin-left: 20px;">
+                            •Please enter your company email address, and we will send you a new password.
+                        </span>
                 </div>
             </li>
-            <li id="myblog_li">
-                <div class="navigation_login_option">
-                    <a id="myblog">My Blog</a>
+            <li>
+                <div class="div380b">
+                    <span>&nbsp;</span>
                 </div>
             </li>
-            -->
-            <li id="logout_li">
-                <div class="navigation_login_option">
-                    <a href="https://www.tradove.com/logout">Logout</a>
+            <li class="li530">
+                <div class="div140">Your Account Email:</div>
+                <div class="div380">
+                    <input id="email" type="text" value="" class="input300">
+                </div>
+            </li>
+            <li class="li530">
+                <div class="div380b">
+                    <span id="result_info">&nbsp;</span>
+                </div>
+            </li>
+            <li class="li530">
+                <div class="div380b">
+                    <input id="confirm_btn" type="button" class="btn_gray_22" value="Confirm" onclick="forgetPwd();">
                 </div>
             </li>
         </ul>
-	</div>
-</div>    <div class="div980">
+    </div>
+
+</div>
+<!--pop registration over-->
+
+<script>
+    var forgetPwdLayerIndex = 0;
+    function showForgetPwdDom(){
+        $("#result_info").html("&nbsp;");
+        forgetPwdLayerIndex = $.layer({
+            type: 1,
+            title: false,
+            fix: false,
+            border: [0],
+            area: ['550px', 'auto'],
+            page: {dom: '#forget_pwd'},
+            offset: ['200px' , '50%'],
+            zIndex:1000,
+            success: function () {
+            }
+        });
+    }
+
+    function forgetPwd(){
+        var cc= $("#confirm_btn").parent();
+
+        $("#result_info").html("&nbsp;");
+        var companyEmail = $("#email").val();
+        if (companyEmail == '' || !isEmail(companyEmail)) {
+            $("#result_info").html("Please enter a valid email address.");
+            return;
+        }
+
+        if(companyEmail == 'admin@tradove.net'){
+            $("#result_info").html("Can not reset password for admin");
+            return;
+        }
+
+        var exist = false;
+        $.ajax({
+            url: '/user/check_email_exist',
+            type: 'POST',
+            async:false,
+            data: {
+                "email": companyEmail
+            },
+            beforeSend: function () {
+                cc.showLoading();
+            },
+            success: function (data) {
+                var result = $.parseJSON(data);
+                if (! result.exist) {
+                    $("#result_info").html(result.msg);
+                    cc.hideLoading();
+                } else {
+                    exist = true;
+                    $("#result_info").html("&nbsp;");
+                }
+            },
+            error: function (data) {
+                alert(data);
+            }
+        });
+
+        if(exist){
+            //generate a password for user and email it
+            $.ajax({
+                url: '/user/forget_pwd',
+                type: 'POST',
+                data: {
+                    "email": companyEmail
+                },
+                beforeSend: function () {
+                },
+                success: function (data) {
+                    var json = $.parseJSON(data);
+                    if (json.result) {
+                        layer.close(forgetPwdLayerIndex);
+                        tradove.msg(json.msg, 1, 10);
+                        //$("#result_info").html(json.msg);
+                    }
+                    cc.hideLoading();
+                },
+                error: function (data) {
+                }
+            });
+        }
+    }
+</script>        <div class="div980">
     <div class="navigation_left">
         <ul>
             <li>
@@ -141,9 +360,11 @@
             <li><div class="navigation_left_diva" onclick="location.href='https://www.tradove.com/tradove_news/0';">TraDove News</div></li>
         </ul>
     </div>
+    <!--
     <div class="navigation_right">
                 <a href="javascript:void(0)" onclick="showForgetPwdDom();">Forget Password?</a>
             </div>
+    -->
 </div>
 <!--pop forget password-->
 <div id="forget_pwd" style="display: none" class="pop_width550">
@@ -180,7 +401,7 @@
                 </li>
             </ul>
         </div>
-
+    </div>
 </div>
 <!--pop registration over-->
 <script>
@@ -195,6 +416,7 @@
             area: ['550px', 'auto'],
             page: {dom: '#forget_pwd'},
             offset: ['200px' , '50%'],
+            zIndex:1000,
             success: function () {
             }
         });
@@ -217,7 +439,7 @@
 
         var exist = false;
         $.ajax({
-            url: 'user/check_email_exist',
+            url: '/user/check_email_exist',
             type: 'POST',
             async:false,
             data: {
@@ -244,7 +466,7 @@
         if(exist){
             //generate a password for user and email it
             $.ajax({
-                url: 'user/forget_pwd',
+                url: '/user/forget_pwd',
                 type: 'POST',
                 data: {
                     "email": companyEmail
@@ -265,7 +487,7 @@
             });
         }
     }
-</script></div>
+</script>    </div>
 
 <!-- feedback start -->
 <script type="text/javascript">
@@ -312,7 +534,7 @@
 <div class="middle">
 	<!--top ads-->
 	<div class="space20"></div>
-		<div class="space20"></div>
+    		<div class="space20"></div>
 	<!--top ads over-->
 
 	<div class="div980">
@@ -527,7 +749,7 @@
 	 
 	<!--bottom ads-->
 	<div class="space30"></div>
-		<div class="space30"></div>
+    		<div class="space30"></div>
 	<!--bottom ads over-->
 </div>
 
@@ -535,22 +757,64 @@
     <div class="div980">
         <div class="bottom_option">
             <a href="/about_us">About</a>
-                        <span>|</span>
+            
+            <!--
+            <span>|</span>
             <a href="/out/1/0">Browse Buyer</a>
             <span>|</span>
             <a href="/out/2/0">Browse Seller</a>
             <span>|</span>
             <a href="/out/3/0">Browse Other</a>
+            -->
+
             <span>|</span>
             <a href="/out/4/0">Browse Company</a>
             <span>|</span>
             <a href="/out/5/0">Browse Product/Service</a>
             <span>|</span>
             <a href="javascript:void(0)" onclick="if(typeof showFeedback === 'function'){showFeedback('right_contact')}else{showContact();}">Contact Us</a></div>
-        <div class="bottom_copyright">Copyright © 2010, 2014 TraDove, Inc. All rights reserved</div>
+        <div class="bottom_copyright">Copyright © 2010, 2015 TraDove, Inc. All rights reserved</div>
         <div class="space30"></div>
         <div class="space30"></div>
     </div>
 </div>
+    <div id="forget_pwd" style="display: none" class="pop_width550">
+        <div class="pop_width550_title">Forgot your password?</div>
+        <div class="pop_width550_content">
+            <ul>
+                <li>
+                    <div class="div380b">
+                            <span style="margin-left: 20px;">
+                                •Please enter your company email address, and we will send you a new password.
+                            </span>
+                    </div>
+                </li>
+                <li>
+                    <div class="div380b">
+                        <span>&nbsp;</span>
+                    </div>
+                </li>
+                <li class="li530">
+                    <div class="div140">Your Account Email:</div>
+                    <div class="div380">
+                        <input id="email" type="text" value="" class="input300">
+                    </div>
+                </li>
+                <li class="li530">
+                    <div class="div380b">
+                        <span id="result_info">&nbsp;</span>
+                    </div>
+                </li>
+                <li class="li530">
+                    <div class="div380b">
+                        <input id="confirm_btn" type="button" class="btn_gray_22" value="Confirm" onclick="forgetPwd();">
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+    <script type="text/javascript" src="/js/industry.js"></script>
+    </div>
+
 
 </body></html>
