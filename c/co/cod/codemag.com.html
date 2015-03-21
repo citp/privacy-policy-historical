@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the codemag.com privacy policy that was archived on 2014-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022112441id_/http%3A//www.codemag.com/Home/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codemag.com privacy policy that was archived on 2015-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321122542id_/http%3A//www.codemag.com/Home/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
     <title>CODE Privacy Policy</title>
-    <meta name="viewport" content="width=880, user-scalable=yes">
+    <link rel="shortcut icon" type="image/x-icon" href="/Images/CodeIcon.png">
     <meta name="fb:page_id" content="218352335971">
     <meta name="fb:app_id" content="225285904297383">
-    
+
     <meta name="Description" content="This page provides information about CODE's Privacy Policy.">
     <meta name="Keywords" content="CODE, EPS Software, Privacy, Privacy Policy">
     <meta name="Author" content="CODE Magazine, EPS Software Corp.">
@@ -26,12 +27,10 @@
     
 
     <link href="/Content/Reset.css" type="text/css" rel="stylesheet">
-    <link href="/Content/Default/MicroFormats.css" type="text/css" rel="stylesheet">
-    <link href="/Content/Default/StandardHtml.css" type="text/css" rel="stylesheet">
-    <link href="/Content/Default/Classes.css" type="text/css" rel="stylesheet">
-    <link href="/Content/Default/Formatting.css" type="text/css" rel="stylesheet">
-    
-    
+    <link href="/Content/2015/MicroFormats.css" type="text/css" rel="stylesheet">
+    <link href="/Content/2015/Default.css" type="text/css" rel="stylesheet">
+    <link href="/Content/2015/Desktop.css" type="text/css" rel="stylesheet">
+
     <style>
         .areaForeground { color: rgb(8, 57, 129); } .areaBackground { background: rgb(8, 57, 129); } a.areaLink { color: rgb(8, 57, 129); } a.areaLink:hover { color: rgb(8, 57, 129); } a.areaLink:active { color: rgb(8, 57, 129); } a.areaLink:visited { color: rgb(8, 57, 129); }
     </style>
@@ -63,28 +62,76 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
-    
+
+    <script type="text/javascript">
+        function setPageHeight() {
+            var windowHeight = $(window).height();
+            var pageHeight = $('#page').height();
+            var headerHeight = $('#header').height();
+            if (windowHeight > pageHeight + headerHeight + 1)
+                $('#page').height(windowHeight - headerHeight - 1);
+        }
+
+        $(function () {
+            setPageHeight();
+            $(window).on('resize', setPageHeight);
+            $(document).on('scroll', function () {
+                $('.subMenu').removeClass('visibleSubMenu');
+                if ($(document).scrollTop() > 60) {
+                    $('#header').removeClass('headerLarge').addClass('headerSmall');
+                } else {
+                    $('#header').removeClass('headerSmall').addClass('headerLarge');
+                }
+                setPageHeight();
+            });
+            $('#header').on('click', function() {
+                $('.subMenu').removeClass('visibleSubMenu');
+            });
+            $('#menu>ul>li').on('mouseenter', function () {
+                $('.subMenu').removeClass('visibleSubMenu');
+                $(this).find('.subMenu').addClass('visibleSubMenu');
+            });
+            $('#main').on('mouseenter', function () {
+                $('.subMenu').removeClass('visibleSubMenu');
+            });
+            $('#mobileMenuIcon').on('click', function () {
+                if (!$('#page').hasClass('showMobileMenu')) {
+                    $('#page').addClass('showMobileMenu');
+                    $('#header').addClass('showMobileMenu');
+                    $('#mobileMenu').addClass('showMobileMenu');
+                    $('#mobileMenu').css('display', 'block');
+                    setTimeout(function () {
+                        $('#mobileMenu').css('z-index', 100);
+                    }, 300);
+                } else {
+                    $('#mobileMenu').css('z-index', -1);
+                    $('#page').removeClass('showMobileMenu');
+                    $('#header').removeClass('showMobileMenu');
+                    $('#mobileMenu').removeClass('showMobileMenu');
+                    setTimeout(function () {
+                        $('#mobileMenu').css('display', 'none');
+                    }, 300);
+                }
+            });
+        })
+    </script>
+
     
 </head>
 <body>
+    <div id="mobileMenu">
+        <ul><li class="neutralMenuSelected"><a href="/">Home</a><div class="subMenu home"><ul><li><a class="areaLink" href="/">Home</a></li><li><a class="areaLink" href="/About">About Us</a></li><li><a class="areaLink" href="/videos">Videos</a></li><li><a class="areaLink" href="/Press">Press Releases</a></li><li><a class="areaLink" href="/People">People</a></li><li><a class="areaLink" href="/Jobs">Careers</a></li><li><a class="areaLink" href="/Home/Privacy">Privacy Policy</a></li><li><a class="areaLink" href="/contact">Contact Us</a></li></ul></div></li><li class="consultingMenu"><a href="/Consulting">Consulting</a></li><li class="staffingMenu"><a href="/Staffing">Staffing</a></li><li class="magazineMenu"><a href="/Magazine">Magazine</a></li><li class="frameworkMenu"><a href="/Framework">Framework</a></li><li class="trainingMenu"><a href="/Training">Training</a></li><li class="vfpconversionMenu"><a href="/VFPConversion">VFP Conversion</a></li><li class="neutralMenu"><a href="/logon">Sign in!</a></li></ul>
+    </div>
+    <div id="header" class="headerLarge">
+        <div id="logo">
+            <img src="/Images/Logos/CODEGroup_Small.png"><br>
+        </div>
+        <div id="menu">
+            <ul><li class="neutralMenuSelected"><a href="/">Home</a><div class="subMenu home"><ul><li><a class="areaLink" href="/">Home</a></li><li><a class="areaLink" href="/About">About Us</a></li><li><a class="areaLink" href="/videos">Videos</a></li><li><a class="areaLink" href="/Press">Press Releases</a></li><li><a class="areaLink" href="/People">People</a></li><li><a class="areaLink" href="/Jobs">Careers</a></li><li><a class="areaLink" href="/Home/Privacy">Privacy Policy</a></li><li><a class="areaLink" href="/contact">Contact Us</a></li></ul></div></li><li class="consultingMenu"><a href="/Consulting">Consulting</a><div class="subMenu"><ul><li><a class="areaLink" href="/Consulting">Consulting Home</a></li><li><a class="areaLink" href="/Consulting/Services">Services &amp; Technologies</a></li><li><a class="areaLink" href="/VFPConversion">VFP Conversion</a></li><li><a class="areaLink" href="/contact">Contact Us</a></li></ul></div></li><li class="staffingMenu"><a href="/Staffing">Staffing</a><div class="subMenu"><ul><li><a class="areaLink" href="/Staffing">Staffing Home</a></li><li><a class="areaLink" href="/Staffing">Looking for Staff?</a></li><li><a class="areaLink" href="/Staffing/Apply">Looking for Work?</a></li><li><a class="areaLink" href="/contact">Contact Us</a></li></ul></div></li><li class="magazineMenu"><a href="/Magazine">Magazine</a><div class="subMenu"><ul><li><a class="areaLink" href="/Magazine">Magazine Home</a></li><li><a class="areaLink" href="/Magazine/AllIssues">All Issues</a></li><li><a class="areaLink" href="/Magazine/Subscribe">Subscribe</a></li><li><a class="areaLink" href="/My/Fulfillment">Where is My Magazine?</a></li><li><a class="areaLink" href="/My">My Subscriber Account</a></li><li><a class="areaLink" href="/Advertise">Advertise</a></li><li><a class="areaLink" href="/Write">Write</a></li></ul></div></li><li class="frameworkMenu"><a href="/Framework">Framework</a><div class="subMenu"><ul><li><a class="areaLink" href="/Framework">Framework Home</a></li><li><a class="areaLink" href="/Framework/GetStarted">Get Started &amp; Documentation</a></li><li><a class="areaLink" href="/Framework/Download">Download</a></li><li><a class="areaLink" href="/Framework/Support">Support &amp; Services</a></li></ul></div></li><li class="trainingMenu"><a href="/Training">Training</a><div class="subMenu"><ul><li><a class="areaLink" href="/Training">Training Home</a></li><li><a class="areaLink" href="/Training">Classes</a></li><li><a class="areaLink" href="/Lunch">Lunch with CODE</a></li><li><a class="areaLink" href="/Training/Corporate">Corporate Discounts</a></li><li><a class="areaLink" href="/Training/Mentoring">Mentoring</a></li><li><a class="areaLink" href="/StateOfDotNet">State of .NET</a></li><li><a class="areaLink" href="/CodeCamps">Code Camps</a></li></ul></div></li><li class="vfpconversionMenu"><a href="/VFPConversion">VFP Conversion</a><div class="subMenu"><ul><li><a class="areaLink" href="/VFPConversion">VFP Conversion Home</a></li><li><a class="areaLink" href="/VFPConversion/VFPServices">Services</a></li><li><a class="areaLink" href="/VFPConversion/Tools">Tools</a></li><li><a class="areaLink" href="/VFPConversion/Articles">Articles</a></li><li><a class="areaLink" href="/VFPConversion/History">End of Life</a></li><li><a class="areaLink" href="/contact">Contact Us</a></li></ul></div></li><li class="neutralMenu"><a href="/logon">Sign in!</a></li></ul>
+        </div>
+        <div id="mobileMenuIcon"><img src="/Images/MobileMenu.png"></div>
+    </div>
     <div id="page">
-        <div id="ads">
-
-
-        </div>
-        <div id="header">
-            <div id="logo">
-                <img src="/Images/Logos/CODEGroup_Small.png"><br>
-            </div>
-            <div id="usercontrols">
-                    Returning user? <strong><a href="/logon?returnUrl=%2fHome%2fPrivacy">Log in!</a></strong>
-            </div>
-            <div id="menu">
-                <ul><li class="neutralMenuSelected"><a style="display: block; width: 75px;" href="/">Home</a></li><li class="consultingMenu"><a style="display: block; width: 90px;" href="/Consulting">Consulting</a></li><li class="staffingMenu"><a style="display: block; width: 82px;" href="/Staffing">Staffing</a></li><li class="trainingMenu"><a style="display: block; width: 90px;" href="/Training">Training</a></li><li class="magazineMenu"><a style="display: block; width: 90px;" href="/Magazine">Magazine</a></li><li class="frameworkMenu"><a style="display: block; width: 90px;" href="/Framework">Framework</a></li><li class="vfpconversionMenu"><a style="display: block; width: 127px;" href="/VFPConversion">VFP Conversion</a></li><li class="neutralMenu"><a style="display: block; width: 78px;" href="/About">About Us</a></li></ul><br>
-            </div>
-            <div class="clearfix">
-            </div>
-        </div>
         <div id="main">
             
 
@@ -226,48 +273,22 @@
 
         </div>
         <div id="footer">
-            <strong>(c) by EPS Software Corp. 1993 - 2014. All rights reserved.</strong>
+            <div class="copyright">(c) by EPS Software Corp. 1993 - 2015</div>
             <div class="vcard">
                 <!-- EPS company address using adr MicroFormat standard -->
                 <div class="adr">
-                    <div class="street-address">
-                        6605 Cypresswood Dr.</div>
-                    <div class="extended-address">
-                        Suite 300</div>
-                    <span class="locality">Spring</span> <span class="region">TX</span> <span class="postal-code">
-                        77379</span>
-                    <div class="country-name">
-                        USA</div>
+                    <div class="street-address">6605 Cypresswood Dr.</div>
+                    <div class="extended-address">Suite 300</div>
+                    <span class="locality">Spring</span> <span class="region">TX</span> <span class="postal-code">77379</span>
+                    <div class="country-name">USA</div>
                 </div>
                 <!-- Phone/fax in MicroFormat standard -->
-                <div class="tel">
-                    <div class="type">
-                        Voice</div>
-                    <div class="value">
-                        +1 (832) 717-4445</div>
-                </div>
-                --
-                <div class="tel">
-                    <div class="type">
-                        Fax</div>
-                    <div class="value">
-                        +1 (832) 717-4460</div>
-                </div>
-                <br>
-                Contact us via email: <a class="email" href="mailto:info@codemag.com">info@codemag.com</a>
+                <div class="tel"><div class="type">Voice</div><div class="value">+1 (832) 717-4445</div></div>
+                <div class="tel"><div class="type">Fax</div><div class="value">+1 (832) 717-4460</div></div>
+                <div class="email">Email: <a class="email" href="mailto:info@codemag.com">info@codemag.com</a></div>
             </div>
-            <a href="/Home/Privacy">CODE Privacy Policy</a><br>
         </div>
-        <!-- the following div tags are there so custom CSS can associated generic elements, such as graphics with the page content -->
-        <div id="pageAdorner1">
-            <span></span>
-        </div>
-        <div id="pageAdorner2">
-            <span></span>
-        </div>
-        <div id="pageAdorner3">
-            <span></span>
-        </div>
+        
     </div>
     <!-- the following div tags are there so custom CSS can associated generic elements, such as graphics anywhere in the body content -->
     <div id="bodyAdorner1">
@@ -279,26 +300,18 @@
     <div id="bodyAdorner3">
         <span></span>
     </div>
-
     <!-- Google Code for Remarketing Tag -->
     <!--------------------------------------------------
     Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
     --------------------------------------------------->
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067389305/?value=0&amp;guid=ON&amp;script=0" /></div></noscript>
     <script type="text/javascript">
         /* <![CDATA[ */
         var google_conversion_id = 1067389305;
         var google_custom_params = window.google_tag_params;
         var google_remarketing_only = true;
-        /* ]]> */
+    /* ]]> */
     </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-        <div style="display:inline;">
-            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067389305/?value=0&amp;guid=ON&amp;script=0" />
-        </div>
-    </noscript>
-
 
 
 </body></html>
