@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poweredbysearch.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821074200id_/http%3A//www.poweredbysearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poweredbysearch.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321132034id_/http%3A//www.poweredbysearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Powered by Search
 
