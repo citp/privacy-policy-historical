@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellerzoom.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107012010id_/http%3A//www.jaguarpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerzoom.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321030852id_/https%3A//www.jaguarpc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Jaguar PC
 
