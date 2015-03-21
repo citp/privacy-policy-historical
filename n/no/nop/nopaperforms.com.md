@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nopaperforms.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707041041id_/https%3A//www.nopaperforms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nopaperforms.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321074517id_/https%3A//www.nopaperforms.com/privacy.php) for the most accurate reproduction.*
 
 # NoPaperForms | Online Admissions | Enrollment Management
 
@@ -67,7 +67,7 @@ The types of disclosures you can opt out of are:
 
   * Companies with whom we conduct joint marketing campaigns; and
   * Companies that provide products and/or services, such as companies engaged in banking, credit cards, consumer finance, consumer computer products, travel, insurance, as well as other direct marketers and retailers. 
-  * To tell us not to share information you have provided to us with these third parties, write to us at the following address: TRAFFIO SOFTWARE PRIVATE LIMITED, Dev Corpora, Suite 1545, 1 Pokharan Road, Thane, Maharashtra - 400601, India.
+  * To tell us not to share information you have provided to us with these third parties, write to us at the following address: TRAFFIO SOFTWARE PRIVATE LIMITED, Suite 401, Krushal Commercial Complex,G.M. Road, Near Shoppers Stop,Chembur(W). Mumbai – 400089.Maharashtra. India.
 
 
 
@@ -98,4 +98,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Contacting the Website
 
-If you have any questions or comments, please don't hesitate to contact us directly. We listen to and read every message sent to us, and we will endeavor to reply promptly to each one. Please email us with your questions or comments about this Privacy Policy at [support@nopaperforms.com](mailto:support@nopaperforms.com), or you may call us at +91-98671 84011. Our mailing address is TRAFFIO SOFTWARE PRIVATE LIMITED Attn: Privacy Policy Dev Corpora, Suite 1545, 1 Pokharan Road, Thane, Maharashtra - 400601, India.
+If you have any questions or comments, please don't hesitate to contact us directly. We listen to and read every message sent to us, and we will endeavor to reply promptly to each one. Please email us with your questions or comments about this Privacy Policy at [support@nopaperforms.com](mailto:support@nopaperforms.com), or you may call us at +91-98671 84011. Our mailing address is: TRAFFIO SOFTWARE PRIVATE LIMITED, Attn: Privacy Policy, Suite 401, Krushal Commercial Complex,G.M. Road, Near Shoppers Stop,Chembur(W). Mumbai – 400089.Maharashtra. India.
