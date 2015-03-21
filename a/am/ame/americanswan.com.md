@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the americanswan.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115070628id_/http%3A//www.americanswan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanswan.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321014400id_/http%3A//www.americanswan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Americanswan.com
 
-We are AmericanSwan.com, a service provided by The American Swan Lifestyle Company Pvt. Ltd. from, Gurgaon, Haryana, India - 122018. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
+We are AmericanSwan.com, a service provided by The American Swan Lifestyle Company Pvt. Ltd.. 
 
-If you have any comments or suggestions, we would be pleased to receive them at our Gurgaon address or by emailing us at [service@americanswan.com](mailto:service@americanswan.com)
+If you have any comments or suggestions, we would be pleased to receive them at [service@americanswan.com  
+](mailto:service@americanswan.com)
 
-Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. We allow customers to sign in to our site using thirdy party social networking login credentials for accounts such as Facebook. This allows customers to link their social network profile to their account on American Swan. We may also collect Personally Identifiable Information (PII)  like customer name, gender , mobile number, email address and date of birth through third party social networking login credentials such as Facebook. 
+Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. We allow customers to sign in to our site using thirdy party social networking login credentials for accounts such as Facebook. This allows customers to link their social network profile to their account on American Swan. We may also collect Personally Identifiable Information (PII)  like customer name, gender , mobile number, email address and date of birth through third party social networking login credentials such as Facebook.
 
 We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.
 
