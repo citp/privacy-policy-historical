@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldi.ie privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708083527id_/https%3A//www.aldi.ie/en/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.ie privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321064444id_/https%3A//www.aldi.ie/en/privacy-policy-cookies) for the most accurate reproduction.*
 
 # ALDI - Privacy Policy & Cookies
 
