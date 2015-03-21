@@ -1,68 +1,87 @@
-> *The following text is extracted and transformed from the predictit.org privacy policy that was archived on 2007-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070324100208id_/http%3A//www.predictit.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictit.org privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321040922id_/https%3A//www.predictit.org/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# TWL: Privacy Policy
+# PredictIt | Terms And Conditions
 
-TeamWarfare is committed to respecting the privacy rights of all visitors to our website. We also recognize that our visitors, and the parents of children visiting our site, need protection of any personally identifying information they choose to share with us. This privacy policy is intended to provide you with the information on how we collect, use and store the information that you provide, so that you can make appropriate choices for sharing information with us. 
+#### **Sign Up for Full Benefits!**
 
-If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact us by email at [triston@teamwarfare.com](mailto:triston@teamwarfare.com). Additional mail contact information is provided below.   
-**Links**  
-This policy applies only to site(s) maintained by TeamWarfare. We may create links to the websites of our promotional partners and companies for games that are supported through our competitions. Although we will make every effort to link only to sites that meet similar standards for maintaining each individual's right to privacy, this policy does not apply to third party sites. 
+You can make use of all of PredictIt's features only by opening an account.
 
-Additionally, many other sites that we are not associated with and have not authorized may have links leading to our site. We cannot control these links and are not responsible for any content appearing on these sites. Furthermore, we do not support links to third party sites in our forums, and we are not responsible for any content appearing on those sites. 
+Sign Up Now Or Sign In
 
-**Collection of Personal Information through our Website**  
-We do not require that visitors reveal any personally identifying information in order to access our website. However, visitors who do not wish to, or are not allowed by law to share personally identifying information, may not be able to access certain areas or create a player account, which requires registration.
+**_Last updated on November 1, 2014_**
 
-Although information is required to participate in certain competitions offered through our website, participants provide information on a voluntary basis only. 
+PredictIt is an academically-based platform offered and intended as a research and educational facility of the University of Victoria, New Zealand (“Market Provider” or “We”). We value our users’ privacy and we therefore provide this Privacy Policy to provide our users with information regarding how we use and share the information collected on any website through which PredictIt (the “Service” or “PredictIt”) is offered. Your use of PredictIt and any personal information you provide through the Service remains subject to the terms of this Privacy Policy.
 
-Collection of personal information for registration requires your email address only. Additional information may be required for specific competitions, including your name, address, telephone number, date of birth, and/or credit card number. 
+**_Information We Collect (the “Information”)_**
 
-**Collection of Demographic Information through www.teamwarfare.com**  
-Currently, we do not collect any personally identifying demographic information from our members.
+1\. User Provided Information. You may provide certain personal information and non-personal (e.g., anonymized) information, and further details linked to that information, which may include the following:
 
-**How We Use Your Information**  
-Personally identifying information will be saved and used only for user validation, and any prize fulfillment that is necessary. 
+a. Personal information such as your name, email address, and street address (such as for billing purposes);
 
-When you have provided personally identifying information for a particular purpose, we may disclose your information to certain third parties that we have engaged to assist us in fulfilling your request and in maintaining our database records. This includes, but is not limited to, vendors, affiliates, and prize providers. These companies have agreed to maintain strict security over all personal information received from us, and will not re-distribute your information. TeamWarfare may share information with appropriate third parties, including law enforcement or other similar entity, in connection with a criminal investigation, investigation of fraud, infringement of intellectual property rights, or other activity, which is suspected to be illegal or may expose you or TeamWarfare to legal liability. 
+b. Credit card billing information, PayPal or bank account information;
 
-**Policies for Children 12 Years Old and Under**  
-We will not collect personally identifying information through our website from children 12 and under. You must be 13 years or older to register and participate on TeamWarfare.
+c. Contacts you may choose to submit, and profile information, which may include your age, as well a photo;
 
-**Cookies**  
-Cookies are bits of electronic information which a website can transfer to a visitor's hard drive to help tailor and keep records of his or her visit at the site. Cookies allow website operators to better tailor visits to the site to visitor's individual preferences. The use of cookies is standard on the Internet and many major web sites use them. You can choose to set your browser to notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept it.
+d. Other information you may voluntarily submit to us, including to post messages, upload information, communicate with us or take advantage of promotions, respond to surveys, or subscribe to newsletters or other mailing lists.
 
-You must have cookies enabled to register and login to TeamWarfare. We use cookies in certain areas to improve your experience when visiting our websites. For instance, cookies will be used to manage each session you visit our site to make moving around our site more efficient and enjoyable for you. Information collected through cookies or similar techniques will remain anonymous and will not be connected to any user's personally identifying information without his or her consent.
+2\. Cookies and Other Passively Collected Information: When you use the Service through a website we offer, we or our service providers may send one or more cookies - small files - to your computer, which may enable us or others to uniquely identify your browser. PredictIt uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. Session cookies are temporary and typically disappear after you close your browser. You may be able to reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. To learn more about cookies, please go to http://www.allaboutcookies.org.
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+3\. Log File Information: When you use PredictIt, our servers may automatically record certain information that your device sends whenever you visit a website and use mobile applications (if you offer a mobile application). These server logs may include information such as your web or app request, Internet Protocol ("IP") address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. In addition, if we ever offer a mobile application, we may collect unique mobile device identifiers, such as IDFAs, Android Advertising IDs, for advertising or analytics purposes. 
 
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+4\. Clear GIFs Information: When you use PredictIt, we may employ technology such as "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by specific users. 
 
-**Site and Service Updates**  
-We periodically send site and service announcement updates. Members are not able to unsubscribe from service announcements, which contain important information about the service. 
+5\. Verification and Payment Information. Our compliance and verification provider, Aristotle, Inc., may collect the information that you input in order to verify your age, location or other details for compliance or payment processing purposes. This may include, for instance, personal information, the last 4 digits of your social security number, or other identifying details about yourself. This information is used by Aristotle solely for the purpose of legal compliance, fraud detection and compliance with our policies, which may include age or geographic restrictions.
 
-**Message Boards / Forums**  
-Our message boards are a place where users can go to freely share their thoughts and ideas about TeamWarfare and the respective games it supports. We ask our users to respect the privacy of others. Posting of phone numbers, addresses, or other personal information in the Forums section, which may violate someone's privacy is prohibited. Additionally, we prohibit the posting by any user of his or her own personally identifying information. While we try to moderate our forums, removing malicious and pornographic links / images, some inappropriate items may remain. Our staff can be reached via email [here](https://web.archive.org/staff.asp). 
+6\. Additional Mobile App Information: If we ever offer for download a mobile app, we also may collect mobile device information like operating system and hardware type, numbers or codes that are unique to your particular device, device state information, default device language, the location of your device, and app usage information.
 
-We reserve the right to remove any postings that violate this rule or any other term or condition posted on this site. Additionally, we reserve the right to ban any user who has violated this requirement. 
+**_How PredictIt Uses The Information_**
 
-**Accuracy & Security**  
-We will take appropriate steps to protect all information our visitors share with us. This includes setting up processes to avoid any unauthorized access or disclosure of this information. We will also use our best efforts to maintain accurate personal information collect from our website visitors.
+1\. Your personal information will be used to operate, maintain, and provide to you the features and functionality of the Service, including but not limited to the following: (a) providing you our services, including our market platform, including the processing of trades, payments and withdrawals; (b) processing and responding to inquiries; (c) alerting you to new Service features, special events, products and services, or certain third-party products or services in which we think you will be interested; and (d) enforcing the legal terms that govern your use of the Service.
 
-We collect personally identifying information to the extent deemed reasonably necessary to serve our legitimate business purposes. We maintain safeguards such as: (i) providing consumer access to data for purposes of verification and correction; and (ii) providing technical security measures to ensure the security, integrity, accuracy and privacy of the information you have provided. We also take reasonable steps to assure that third parties to which we transfer any data will provide sufficient protection of that personal information.
+2\. Your information may be anonymized or aggregated for academic research and related educational purposes for our use and for other participating academic institutions and professors to enhance research about such subjects as market theory, economics, political science, and statistics. Anonymous and/or aggregated data does not identify you, and we may use and disclose such information without limitation for academic research and related educational purposes.
 
-**Third Party Advertising**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+3\. We may use your information to contact you for both marketing and non-marketing or administrative purposes (such as notifying you of significant changes in the Service or for customer service purposes) relating to PredictIt.
 
-**Contact Us**  
-For further information on our privacy policy, or for questions on information that we may have collected from you or your children, or should you wish to have your name removed from our records, please contact us by either of the following methods and we will be happy to review, update or remove information as appropriate:
+4\. We use your information to improve the quality and design of PredictIt and to create new features, promotions, functionality, and services, such as by storing, tracking, and analyzing User preferences and trends.
 
-By Email at: [triston@teamwarfare.com](mailto:triston@teamwarfare.com)
+5\. We may use cookies, clear gifs, log file information and mobile app information for purposes such as (a) remembering information so that you will not have to re-enter it during your visit or the next time you visit PredictIt, and helping users navigate and communicate with the Service,=; (b) providing custom, personalized content and information; (c) sending advertisements (including display media) to you when you visit our website or other websites, and monitoring the effectiveness of our marketing campaigns; (d) monitoring aggregate metrics such as total number of visitors, pages viewed, (e) tracking your entries, submissions, and status in promotions, sweepstakes, and contests and (f) monitoring for or prevent fraud, or blocking inappropriate access to the website.
 
-or by Mail at:   
-Myles Angell  
-17 Spring St  
-Collinsville, CT 06019
+**_When PredictIt Shares Information_**
 
-Updated May 6th, 2005 
+General Uses. Our subsidiaries, affiliated companies, agents, or other businesses or persons that help us provide and operate the Service may have authorized access to your information (such as name or email address) for the purpose of processing such information on our behalf.. We may share your personal information with third parties for their commercial or marketing use with your consent, or as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may disclose personally identifiable information in response to your requests for customer service.
+
+Your Profile Information. Any information you provide on your profile page may be publicly visible. It may include, for instance, your username, the date you became a member, your trading statistics and positions, and (if you’ve uploaded one) your profile picture. When you accept or request a prediction invitation, we may publish your username in connection with it, along with a link to your profile page. 
+
+Other Situations That May Arise. We also may share personal information in other situations with your consent. In addition, PredictIt reserves the right to disclose personal information that PreditIt believes, in good faith, is appropriate or necessary to (a) enforce our Terms and Conditions or other posted policies (b) take precautions against liability or harm, (c) investigate and respond to third-party claims or allegations, or respond to a subpoena, legal order, or official request, (d) protect the security or integrity of our Service, and to protect the rights, property, or safety of PredictIt, our users or any other person. Information also may be shared as described in the Merger, Sale or Bankruptcy section below.
+
+**_Your Information Choices_**
+
+You may, of course, decline to submit personal information through PredictIt, in which case PredictIt may not be able to provide certain services to you. 
+
+In addition, to opt-out of any targeted ads that we may provide through online platforms (such as, to send display ads to our users or others that have expressed interest in the Service), you may go to http://www.aboutads.info, and follow the directions provided on that website to “opt out” of most of the companies that provide these types of services. (Opting out will not affect the quantity of ads you see online but likely will cause the ads to be less relevant to you.) 
+
+**_Data Security_**
+
+PredictIt uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. As no such methods are foolproof, we cannot, however, with certainty ensure or warrant the security of any information you transmit to PredictIt and you do so at your own risk.
+
+**_Merger, Sale, or Bankruptcy_**
+
+the event that PredictIt is involved in a merger, acquisition, sale, bankruptcy, insolvency, reorganization, receivership, assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, or other change of control, we may transfer as an asset your personal asset to the acquiring or successor entity. 
+
+**_Your California Privacy Rights_**
+
+If you reside in California, you may request certain general information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
+
+205 PENNSYLVANIA AVE   
+WASHINGTON, DC 20003   
+United States   
+WWW.PREDICTIT.ORG
+
+**_Changes and updates_**
+
+This Privacy Policy may be revised periodically and this will be reflected by the "Last updated” date above. Please revisit this page to stay aware of any changes. Your continued use of the Service constitutes your agreement to this Privacy Policy and any future revisions.
+
+Contact Information: Please contact PredictIt with any questions or comments about this Privacy Policy at: [feedback@predictit.freshdesk.com](mailto:feedback@predictit.freshdesk.com)
+
+  
+
