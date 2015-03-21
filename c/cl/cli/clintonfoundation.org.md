@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111014704id_/http%3A//www.clintonfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321081520id_/https%3A//www.clintonfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clinton Foundation
 
