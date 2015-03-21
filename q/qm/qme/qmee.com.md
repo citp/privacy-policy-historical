@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qmee.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710164020id_/https%3A//www.qmee.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmee.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321194137id_/https%3A//www.qmee.com/privacy_policy) for the most accurate reproduction.*
 
-# Qmee.com
+# Privacy policy - Qmee.com
 
-This privacy policy (together with our [terms and conditions](https://web.archive.org/web/20140710164020id_/https%3A//www.qmee.com/terms_of_service "terms and conditions") and any other documents referred to within) governs the collection, storage and use of personal information collected by us, Qmee Ltd, in providing our service, including our website at www.qmee.com and our qmee browser application software (which is available for download via the website). It provides you with details about the personal information we collect from you, how we use your personal information and your rights to control personal information we hold about you. 
+This privacy policy (together with our [terms and conditions](https://web.archive.org/web/20150321194137id_/https%3A//www.qmee.com/terms_of_service "terms and conditions") and any other documents referred to within) governs the collection, storage and use of personal information collected by us, Qmee Ltd, in providing our service, including our website at www.qmee.com and our qmee browser application software (which is available for download via the website). It provides you with details about the personal information we collect from you, how we use your personal information and your rights to control personal information we hold about you. 
 
 Please read this privacy policy carefully – by accessing or browsing this website, you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree to this privacy policy in its entirety, you must not use our service, including this website and any software available for download on the website. 
 
@@ -44,7 +44,7 @@ We (or third party data processors acting on our behalf) may collect, store and 
   * to make our service, including this website, available to you and to provide you with content which is tailored to your individual tastes; 
   * to provide you with sponsored search results which we think may interest you via our software; 
   * to make payments to you or to third parties on your instructions via this website; 
-  * to assess whether you are abusing our service contrary to our [terms and conditions;](https://web.archive.org/web/20140710164020id_/https%3A//www.qmee.com/terms_of_service "terms and conditions")
+  * to assess whether you are abusing our service contrary to our [terms and conditions;](https://web.archive.org/web/20150321194137id_/https%3A//www.qmee.com/terms_of_service "terms and conditions")
   * to carry out our obligations arising from any contracts entered into between you and us; 
   * to notify you about changes to our service; 
   * where you have given us your consent, to contact you (including by SMS and e-mail) with products and services which we think may interest you; and 
