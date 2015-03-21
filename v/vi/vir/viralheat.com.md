@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viralheat.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713172823id_/https%3A//www.viralheat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralheat.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321182159id_/https%3A//www.viralheat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viralheat
 
 Last updated: June 29, 2009
 
-## Viralheat, Inc. (Viralheat, "we", or "us") respects the privacy of its users. This privacy policy (this "Policy") describes Viralheat's collection, use, and disclosure of personally identifiable information ("Personal Information") through its services ("Services") offered through www.Viralheat.com (the "Site").
+**Viralheat, Inc. (Viralheat, “we”, or “us”) respects the privacy of its users. This privacy policy (this “Policy”) describes Viralheat’s collection, use, and disclosure of personally identifiable information (“Personal Information”) through its services (“Services”) offered through www.Viralheat.com (the “Site”).**
 
 **Consent.**
 
@@ -12,9 +12,9 @@ BY USING OUR SITE OR OUR SERVICES, OR OTHERWISE SUBMITTING PERSONAL INFORMATION 
 
 **Aggregated and other non-personally identifiable information.**
 
-"Personal Information," as used in this Policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or e-mail address. Personal Information also includes information about an individual's activities, such as information about his or her activity on the Site and the Services, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual.
+“Personal Information,” as used in this Policy, is information that specifically identifies an individual, such as an individual’s name, address, telephone number, or e-mail address. Personal Information also includes information about an individual’s activities, such as information about his or her activity on the Site and the Services, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual.
 
-Personal Information does not include "aggregate" or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes in accordance with applicable laws and regulations.
+Personal Information does not include “aggregate” or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes in accordance with applicable laws and regulations.
 
 **Collection of Personal Information.**
 
@@ -22,9 +22,9 @@ If you register with us as a subscriber to our Services, we collect Personal Inf
 
 **Passive information collection.**
 
-When you visit the Site and use our Services, some information is automatically collected, such as your IP address, browser type, system type, the content and pages that you access on the Site or our Services, "referring URL" (i.e., the page from which you navigated to the Site), the pages you navigate to on the Site, and from which you leave the Site, as well as the time you spend on the Site or otherwise using our Services.
+When you visit the Site and use our Services, some information is automatically collected, such as your IP address, browser type, system type, the content and pages that you access on the Site or our Services, “referring URL” (i.e., the page from which you navigated to the Site), the pages you navigate to on the Site, and from which you leave the Site, as well as the time you spend on the Site or otherwise using our Services.
 
-We collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as "Web beacons"). We use passively-collected information to administer, operate, and improve the Site, our Services, and our other services and systems, and to provide services and content that are tailored to you. If we link or associate any information gathered through passive means with Personal Information, we treat the combined information as Personal Information under this policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
+We collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as “Web beacons”). We use passively-collected information to administer, operate, and improve the Site, our Services, and our other services and systems, and to provide services and content that are tailored to you. If we link or associate any information gathered through passive means with Personal Information, we treat the combined information as Personal Information under this policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
 
 Also, please be aware that third parties may set cookies on your hard drive or use other means of passively collecting information about your use of their services or content. We do not have access to, or control over, these third-party means of passive data collection.
 
@@ -87,12 +87,18 @@ We use commercially reasonable physical, managerial, and technical safeguards to
 
 The Site contains links to third-party sites and services. Please be aware that we are not responsible for the content or privacy practices of such other sites and services. We encourage our users to be aware when they leave the Site and to read the privacy statements of any other site or service that collects personally identifiable information.
 
+**Remarketing Pixel.**
+
+AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. It connects the activity of www.viralheat.com with the Adwords advertising network and the Doubleclick Cookie. You can opt out of the cookie tracking here: http://google.com/settings/ads/onweb/optout?hl=en
+
+Personal Data collected: Cookie and Usage Data. Place of processing: USA. – Find the [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+
 **Changes to the Privacy Policy.**
 
-This Policy may be revised periodically without further notice to you and this will be reflected by a "last updated" date above. Please revisit this page to stay aware of any changes. In general, we only use your Personal Information in the manner described in the Policy in effect when we received that Personal Information. Your continued use of the Site constitutes your agreement to this Policy and any future revisions.
+This Policy may be revised periodically without further notice to you and this will be reflected by a “last updated” date above. Please revisit this page to stay aware of any changes. In general, we only use your Personal Information in the manner described in the Policy in effect when we received that Personal Information. Your continued use of the Site constitutes your agreement to this Policy and any future revisions.
 
 For revisions to this Policy that may be materially less restrictive on our use or disclosure of Personal Information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing such revisions with respect to such information.
 
 **Contacting Us.**
 
-If you have questions regarding this Policy, its implementation, failure to adhere to this Policy, and/or our general practices, please [contact us](https://web.archive.org/web/20140713172823id_/https://www.viralheat.com/privacy-policy/\[url_for%20path= "Contact Us").
+If you have questions regarding this Policy, its implementation, failure to adhere to this Policy, and/or our general practices, please [contact us](https://web.archive.org/web/20150321182159id_/https://www.viralheat.com/privacy-policy/\[url_for%20path= "Contact Us").
