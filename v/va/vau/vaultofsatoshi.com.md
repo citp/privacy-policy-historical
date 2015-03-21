@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vaultofsatoshi.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204054552id_/https%3A//www.vaultofsatoshi.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaultofsatoshi.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321134536id_/https%3A//www.vaultofsatoshi.com/privacypolicy) for the most accurate reproduction.*
 
-# Vault of Satoshi
+# Vault of Satoshi - Privacypolicy
 
 This Privacy Policy governs the manner in which Global CryptoCurrency Solutions Inc collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.vaultofsatoshi.com](http://www.vaultofsatoshi.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Global CryptoCurrency Solutions Inc.
 
