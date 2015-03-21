@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the card.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824122757id_/https%3A//www.card.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the card.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321193603id_/https%3A//www.card.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CARD.com
 
@@ -61,4 +61,4 @@ Joint marketing  |  A formal agreement between nonaffiliated financial companies
   
 ##  Questions? 
 
-Call us toll-free at 888-255-5962, or email us at support@card.com, or visit us at www.card.com. 
+[Contact Customer Support](https://web.archive.org/contact) here at www.card.com. 
