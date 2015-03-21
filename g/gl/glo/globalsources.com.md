@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008020920id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322002109id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
 
 # Global Sources - Help & FAQ
 
@@ -10,8 +10,8 @@ When you visit our website, we do not collect personally identifiable informatio
 Our system also logs some basic and generic information about your computer, including its: 
 
 • IP address (your computer's unique signature)  
-• Operating system (e.g. Windows NT)  
-• Browser software (e.g. Netscape Navigator)  
+• Operating system (e.g. Windows 7)  
+• Browser software (e.g. Internet Explorer 11)  
 
 
 
@@ -35,7 +35,7 @@ You always have a choice about receiving mailings, surveys or information about 
 For those services which require registration, you will be asked to provide certain personal and business information. Upon registration, you will be enrolled as a member of our global community network. As a community member, you have the right to opt-out of being listed in our membership directory, which only other members and our relevant partners will be able to access. 
 
 **Corrections of inaccuracies**   
-We are committed to providing reasonable and practical access to you to identify and to correct any inaccuracies in or to update the information you may provide. Our users who have provided information on our web site can contact our Customer Services Department at [service@globalsources.com](mailto:service@globalsources.com) or use the relevant automated updating system (where applicable) to make corrections or updates. 
+We are committed to providing reasonable and practical access to you to identify and to correct any inaccuracies in or to update the information you may provide. Our users who have provided information on our web site can access and/or correct their personal information by contacting our Data Protection Officer at [dpo@globalsources.com](mailto:dpo@globalsources.com) or our Customer Services Department at [service@globalsources.com](mailto:service@globalsources.com), or by using the relevant automated updating system (where applicable) to make corrections or updates. 
 
 **Co-branded and alliance relationships**   
 We have established relationships with other parties on the Internet to offer you the benefit of other products and services which we ourselves do not offer. We offer you access to these other parties either through the use of hyperlinks to their sites from our site, or through offering "co-branded" sites in which both ourselves and these other parties share the same URL, domain name or pages within a domain name on the Internet. Generally, we do not own the co-branded and alliance parties and we do not control how they use any information you supply them. It is therefore important that you understand their privacy policy and/or terms of use if you visit and use their sites. 
@@ -103,7 +103,7 @@ For example, if you are using Microsoft Internet Explorer:
 > •  | Or click on "Advance", then Select "Override automatic cookie handling, then select the options you want, click "OK", and then click "OK".  
   
 For more information, please visit to Microsoft Official support URL   
-<http://windows.microsoft.com/en-sg/windows-vista/block-or-allow-cookies>
+<http://windows.microsoft.com/en-sg/windows7/block-enable-or-allow-cookies>
 
 If you are using Firefox: 
 
@@ -114,7 +114,7 @@ If you are using Firefox:
 > •  | Or click on "Advance", then Select "Override automatic cookie handling, then select the options you want, click "OK", and then click "OK".  
   
 For more information, please visit to their official support URL   
-<http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
+<https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
 
 If you are using Google Chrome: 
 
@@ -136,7 +136,7 @@ If you are using Safari:
 > •  | Click "Details" button if you want to see which websites store cookies on your computer.  
   
 For more information, please visit to Apple's official support URL   
-<http://support.apple.com/kb/ph5042>
+<http://support.apple.com/kb/ph17191>
 
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on how to manage your cookies settings. 
 
@@ -156,7 +156,7 @@ For example, if you are using Internet Explorer:
 > •  | Click the "Delete" button to proceed with the cookie deletion.  
   
 For more information, please visit to Microsoft Support URL   
-<http://support.microsoft.com/kb/278835>
+<http://windows.microsoft.com/en-SG/internet-explorer/delete-manage-cookies#ie=ie-11>
 
 If you are using Firefox: 
 
@@ -192,10 +192,10 @@ If you are using Safari:
 > •  | When you finish removing websites. Click Done.  
   
 For more information, please visit Apple's support URL   
-<http://support.apple.com/kb/ph5049>
+<http://support.apple.com/kb/ph17191>
 
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on where to find your cookie folder to delete your cookies. 
 
 **Our Contact Information**   
-If you have any queries, comments or concerns, or require any help on cookie-related matters, please feel free to contact us at: [service@globalsources.com](mailto:service@globalsources.com) or Customer Services, 1 Sims Lane #08-01, Singapore 387355.   
+If you have any queries, comments or concerns, or require any help on cookie-related matters, please feel free to contact us at: [service@globalsources.com](mailto:service@globalsources.com) or Customer Services, 1 Sims Lane #08-01, Singapore 387355, and our Data Protection Officer at [dpo@globalsources.com](mailto:dpo@globalsources.com).   
 Copyright Trade Media Holdings Ltd. Copyright Trade Media Ltd. All rights reserved. Any unauthorized reproduction of any content herein is strictly prohibited.
