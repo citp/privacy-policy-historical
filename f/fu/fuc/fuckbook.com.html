@@ -1,481 +1,439 @@
-<!--The following is the downloaded HTML source of the fuckbook.com privacy policy that was archived on 2014-07-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703143644id_/https%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fuckbook.com privacy policy that was archived on 2015-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321133815id_/https%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=""><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge; requiresActiveX=true"><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/e1e048ce81a090e1825a43cdfb192dab9fc55cf1.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMHVVRaGwEBV1ZVBQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge; requiresActiveX=true"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMHVVRaGwEBV1ZVBQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
     <meta name="description" content="Adult network for sexual desires and fantasies. Join free and connect with easy-going people who share your interests. Chat, read blogs, share photos and videos on Fuckbook.">          <meta name="keywords" content="Fuckbook, adult dating, personals, sex, swinger, booty call, casual dating, hook up online, online dating, free personals, singles, chat, photo, video">    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
-    <meta name="msapplication-TileColor" content="#D82954">
-    <meta name="msapplication-TileImage" content="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/tileImage.png">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="Fuckbook">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="msapplication-TileColor" content="#e22b59">
+    <meta name="msapplication-TileImage" content="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/mstile-144x144.png">
+    <meta name="msapplication-config" content="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/browserconfig.xml">
+    <meta name="theme-color" content="#e22b59">
 
-    <link rel="apple-touch-icon" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/touch-icon-57.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/touch-icon-72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/touch-icon-76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/touch-icon-114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/touch-icon-120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/touch-icon-144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/touch-icon-152.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-icon-180x180.png">
 
-    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/apple-touch-startup-image-1536x2008.png" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
-    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/apple-touch-startup-image-1496x2048.png" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
-    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/apple-touch-startup-image-768x1004.png" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)">
-    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/apple-touch-startup-image-748x1024.png" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)">
-    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/apple-touch-startup-image-640x1096.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)">
-    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/apple-touch-startup-image-640x920.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)">
-    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/apple-touch-startup-image-320x460.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)">
+    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-startup-image-1242x2208.png" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)">
+    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-startup-image-750x1334.png" media="(device-width: 375px) and (device-height: 667px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-startup-image-1536x2008.png" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-startup-image-1496x2048.png" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-startup-image-768x1004.png" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)">
+    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-startup-image-748x1024.png" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)">
+    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-startup-image-640x1096.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-startup-image-640x920.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/apple-touch-startup-image-320x460.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)">
 
-    <link rel="shortcut icon" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1404397556/img/favicon.ico">
+    <link rel="icon" type="image/png" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/favicon-16x16.png" sizes="16x16">
+
+    <link rel="manifest" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/manifest.json">
+    <link rel="shortcut icon" href="https://d1fiexxbkaecr.cloudfront.net/layout/en/100/1426855570/img/meta/favicon.ico">
+
+    <link rel="alternate" href="https://www.fuckbook.com/about/privacy" hreflang="x-default">
+          <link rel="alternate" href="https://www.fuckbook.com/de/about/privacy" hreflang="de">
+          <link rel="alternate" href="https://www.fuckbook.com/en/about/privacy" hreflang="en">
+          <link rel="alternate" href="https://www.fuckbook.com/es/about/privacy" hreflang="es">
+          <link rel="alternate" href="https://www.fuckbook.com/fr/about/privacy" hreflang="fr">
+          <link rel="alternate" href="https://www.fuckbook.com/it/about/privacy" hreflang="it">
+          <link rel="alternate" href="https://www.fuckbook.com/nl/about/privacy" hreflang="nl">
+          <link rel="alternate" href="https://www.fuckbook.com/pt/about/privacy" hreflang="pt">
+          <link rel="alternate" href="https://www.fuckbook.com/sv/about/privacy" hreflang="sv">
+          <link rel="alternate" href="https://www.fuckbook.com/ru/about/privacy" hreflang="ru">
+          <link rel="alternate" href="https://www.fuckbook.com/zh/about/privacy" hreflang="zh">
+          <link rel="alternate" href="https://www.fuckbook.com/ja/about/privacy" hreflang="ja">
+    
     <title>Privacy Policy - Fuckbook</title>
-    <link rel="stylesheet" type="text/css" href="https://d1fiexxbkaecr.cloudfront.net/vendor-css/en/100/1404397556/all.css">
-    <link rel="stylesheet" type="text/css" href="https://d1fiexxbkaecr.cloudfront.net/library-css/en/100/1404397556/all.css">
-    <script type="text/javascript" src="https://d1fiexxbkaecr.cloudfront.net/vendor-js/en/100/1404397556/before-body.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="https://d1fiexxbkaecr.cloudfront.net/vendor-css/en/100/1426855570/all.css">
+    <link rel="stylesheet" type="text/css" href="https://d1fiexxbkaecr.cloudfront.net/library-css/en/100/1426855570/all.css">
+    <script type="text/javascript" src="https://d1fiexxbkaecr.cloudfront.net/vendor-js/en/100/1426855570/before-body.js" crossorigin="anonymous"></script>
 
     
   <meta name="google-site-verification" content="Me65LlbI0NCpU5BFHN_2T0dUI3npK_g_PFuciudyFkU">
+      <link rel="canonical" href="https://www.fuckbook.com/about/privacy">
   
-
   </head>
-  <body id="53b56a7c6d725" class="SK_Layout_Default CM_Layout_Abstract CM_View_Abstract">
+  <body id="550d74473bd08" class="SK_Layout_Default CM_Layout_Abstract CM_View_Abstract">
 
     
     
-  <div id="53b56a7c6d7ee" class="SK_Component_Alerts SK_Component_Abstract CM_Component_Abstract CM_View_Abstract"></div>
+  <div id="550d74473bdcd" class="SK_Component_Alerts SK_Component_Abstract CM_Component_Abstract CM_View_Abstract"></div>
 
     <div id="body-container">
       
   <div id="headerWrapper">
     <header id="header" class="no-fixed">
       
-        <div id="53b56a7c6da00" class="SK_Component_HeaderBar SK_Component_Abstract CM_Component_Abstract CM_View_Abstract"><div class="bar clearfix">
-      <a class="logo inverse index" href="https://www.fuckbook.com/"></a>
-    <div id="53b56a7c6dc39" class="SK_Component_SignIn SK_Component_Abstract CM_Component_Abstract CM_View_Abstract"><form id="53b56a7c6e6d4" class="SK_Form_SignIn CM_Form_Abstract CM_View_Abstract sign_in clearfix" method="post" onsubmit="return false;" novalidate="">
-<div class="formField clearfix noLabel login"><div class="input"><div class="CM_FormField_Text CM_FormField_Abstract CM_View_Abstract" id="53b56a7c6e2cb"><input name="login" id="53b56a7c6e2cb-input" type="text" class="textinput " tabindex="1" placeholder="Username/Email" autocorrect="off" autocapitalize="off"><span class="messages"></span></div><div class="small"><div class="CM_FormField_Boolean CM_FormField_Abstract CM_View_Abstract checkbox" id="53b56a7c6e097"><input name="remember_me" type="hidden" value="0">
-<input type="checkbox" id="53b56a7c6e097-input" name="remember_me" tabindex="3" value="1">
-<label for="53b56a7c6e097-input">Remember Me</label><span class="messages"></span></div></div></div></div>
-<div class="formField clearfix noLabel password"><div class="input"><div class="CM_FormField_Password CM_FormField_Text CM_FormField_Abstract CM_View_Abstract" id="53b56a7c6e4d5"><input name="password" id="53b56a7c6e4d5-input" type="password" class="textinput " maxlength="100" tabindex="2" placeholder="Password"><span class="messages"></span></div><a href="javascript:;" class="small forgotPW">Forgot Password?</a></div></div>
-<div class="formAction clearfix"><button class="button button-highlight hasLabel" id="53b56a7c6e6d4-Process-button" type="submit" value="Login" data-click-spinner="true"><span class="label">Login</span></button></div>
+        <div id="550d74473bfe8" class="SK_Component_HeaderBar SK_Component_Abstract CM_Component_Abstract CM_View_Abstract"><div class="bar sheet clearfix">
+            <a class="logo inline-svg no-viewer" href="https://www.fuckbook.com/"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 40" enable-background="new 0 0 150 40" xml:space="preserve">
+<g>
+	<path fill="#FFFFFF" d="M19.4,13.4c0-2,0.7-3,2.1-3c1.5,0,2.1,1,2.1,3v7.4c0,3.3,1.3,5,3.8,5s3.8-1.7,3.8-5v-7.4c0-2,0.7-3,2.1-3
+		c1.5,0,2.1,1,2.1,3v7.9c0,5.6-3.1,8.6-8,8.6s-8-3-8-8.6V13.4z"></path>
+	<path fill="#FFFFFF" d="M67.1,10.4c1,0,1.9,0.9,1.9,2c0,0.7-0.4,1.4-1.1,2.1l-4.6,4.8l5.7,6.2c0.7,0.8,1.1,1.5,1.1,2.1
+		c0,1.1-1,2-2,2c-0.9,0-1.5-0.6-2.3-1.5L59.5,21v5.5c0,2-0.7,3-2.1,3s-2.1-1-2.1-3V13.4c0-2,0.7-3,2.1-3s2.1,1,2.1,3V18l5.4-6.1
+		C65.7,10.9,66.3,10.4,67.1,10.4z"></path>
+	<path fill="#FFFFFF" d="M72.4,26.6V13.6c0-2.1,0.6-3,3-3h3.5c3.8,0,5.9,1.8,5.9,4.7c0,1.8-0.7,3-2.3,3.7c2.5,0.6,3.8,2.3,3.8,4.7
+		c0,3.4-2.3,5.6-6.7,5.6h-4.2C73,29.3,72.4,28.7,72.4,26.6z M78.4,17.9c1.3,0,2.1-0.8,2.1-1.8c0-1.1-0.8-1.8-2.2-1.8h-1.7v3.7H78.4z
+		 M78.8,25.6c1.9,0,2.9-0.8,2.9-2.1c0-1.5-1-2.1-3-2.1h-2.1v4.2H78.8z"></path>
+	<path fill="#FFFFFF" d="M141.7,10.4c1,0,1.9,0.9,1.9,2c0,0.7-0.4,1.4-1.1,2.1l-4.6,4.8l5.7,6.2c0.7,0.8,1.1,1.5,1.1,2.1
+		c0,1.1-1,2-2,2c-0.9,0-1.5-0.6-2.3-1.5L134,21v5.5c0,2-0.7,3-2.1,3c-1.5,0-2.1-1-2.1-3V13.4c0-2,0.7-3,2.1-3c1.5,0,2.1,1,2.1,3V18
+		l5.4-6.1C140.3,10.9,140.9,10.4,141.7,10.4z"></path>
+	<path fill="#FFFFFF" d="M97.5,30.4c-5.5,0-10-4.5-10-10s4.5-10,10-10s10,4.5,10,10S103,30.4,97.5,30.4z M97.5,14.4
+		c-3.3,0-6,2.7-6,6s2.7,6,6,6s6-2.7,6-6S100.8,14.4,97.5,14.4z"></path>
+	<path fill="#FFFFFF" d="M118.5,30.4c-5.5,0-10-4.5-10-10s4.5-10,10-10s10,4.5,10,10S124,30.4,118.5,30.4z M118.5,14.4
+		c-3.3,0-6,2.7-6,6s2.7,6,6,6s6-2.7,6-6S121.8,14.4,118.5,14.4z"></path>
+	<path fill="#FFFFFF" d="M7.3,29.9c-1.1,0-2-0.9-2-2v-2.6c0-4.5,4.3-7.2,8.5-7.2h0.8c1.1,0,2,0.9,2,2s-0.9,2-2,2h-0.8
+		c-2.2,0-4.5,1.2-4.5,3.2v2.6C9.3,29,8.4,29.9,7.3,29.9z"></path>
+	<path fill="#FFFFFF" d="M15,10.3H8.4c-2.4,0-3.1,1.2-3.1,3.3c0,0,0,1.8,0,2.7c0,1.2,0.9,2.3,2.1,2.3s2.1-0.9,2.1-2.1
+		c0-0.8,0-1.2,0-1.2H15c2,0,3-1.1,3-2.5C18,11.5,17,10.3,15,10.3z"></path>
+	<path fill="#FFFFFF" d="M37.4,19.7c0-6,4.1-9.9,9.2-9.9c3.3,0,5.6,1.5,5.6,3c0,1-0.8,1.9-1.8,1.9c-1,0-2.2-0.7-3.8-0.7
+		c-2.7,0-4.6,2.2-4.6,5.8c0,3.5,1.9,5.7,4.7,5.7c1.8,0,3-1,4-1c0.9,0,1.7,0.9,1.7,1.9c0,1.7-2.4,3.2-5.9,3.2
+		C41.1,29.6,37.4,25.7,37.4,19.7z"></path>
+</g>
+</svg>
+</a>
+      <div id="550d74473c303" class="SK_Component_SignIn SK_Component_Abstract CM_Component_Abstract CM_View_Abstract"><form id="550d74473ce40" class="SK_Form_SignIn CM_Form_Abstract CM_View_Abstract sign_in clearfix" method="post" action="" onsubmit="return false;" novalidate="">
+<div class="formField clearfix login"><div class="input"><div class="CM_FormField_Text CM_FormField_Abstract CM_View_Abstract" id="550d74473c9fc"><input name="login" id="550d74473c9fc-input" type="text" class="textinput " tabindex="1" placeholder="Username/Email" autocorrect="off" autocapitalize="off"><span class="messages"></span></div><div class="small"><div class="CM_FormField_Boolean CM_FormField_Abstract CM_View_Abstract" id="550d74473c777"><input name="remember_me" type="hidden" value="0">
+<input type="checkbox" id="550d74473c777-input" name="remember_me" tabindex="3" value="1"><label for="550d74473c777-input"><span class="label">Remember Me</span></label><span class="messages"></span></div></div></div></div>
+<div class="formField clearfix password"><div class="input"><div class="CM_FormField_Password CM_FormField_Text CM_FormField_Abstract CM_View_Abstract" id="550d74473cc38"><input name="password" id="550d74473cc38-input" type="password" class="textinput " maxlength="100" tabindex="2" placeholder="Password"><span class="messages"></span></div><a href="javascript:;" class="small forgotPW">Forgot Password?</a></div></div>
+<div class="formAction clearfix"><button class="button button-highlight hasLabel" id="550d74473ce40-Process-button" type="submit" value="Login" data-click-spinner="true"><span class="label">Login</span></button></div>
 </form>
 <div class="visitor">
   <h2>Not a Member yet?</h2>
   <button class="button button-highlight signup hasLabel" type="button" value="Join Free!"><span class="label">Join Free!</span></button>
 </div>
 </div>
-  </div>
+      </div>
 </div>
       
     </header>
   </div>
   <div id="navigation">
-    <div id="53b56a7c6e7d2" class="SK_Component_Navigation SK_Component_Abstract CM_Component_Abstract CM_View_Abstract"><nav class="main">
-        <ul class="menu browse menu-sub"><li class="SK_Page_Index  hasIcon hasLabel " data-menu-entry-hash="5cdc9c63"><a href="https://www.fuckbook.com/"><span class="icon icon-home"></span><span class="label">Home</span></a></li><li class="SK_Page_Users_Discover  hasIcon hasLabel " data-menu-entry-hash="646177b5"><a href="https://www.fuckbook.com/users/discover"><span class="icon icon-friends"></span><span class="label">Members</span></a></li><li class="SK_Page_Photos_Discover  hasIcon hasLabel " data-menu-entry-hash="c0cbe633"><a href="https://www.fuckbook.com/photos/discover"><span class="icon icon-photo"></span><span class="label">Photos</span></a></li><li class="SK_Page_Videos_Discover  hasIcon hasLabel " data-menu-entry-hash="0bf88070"><a href="https://www.fuckbook.com/videos/discover"><span class="icon icon-video"></span><span class="label">Videos</span></a></li><li class="SK_Page_Blogposts_Discover  hasIcon hasLabel " data-menu-entry-hash="82eb7062"><a href="https://www.fuckbook.com/blogposts/discover"><span class="icon icon-blog"></span><span class="label">Blogposts</span></a></li><li class="SK_Page_Pinboards_Discover  hasIcon hasLabel " data-menu-entry-hash="d487752b"><a href="https://www.fuckbook.com/pinboards/discover"><span class="icon icon-pin"></span><span class="label">Pinboards</span></a></li><li class="FB_Page_Cams  hasIcon hasLabel " data-menu-entry-hash="561ae341"><a href="https://www.fuckbook.com/cams"><span class="icon icon-cam"></span><span class="label">Cams</span></a></li></ul>
+    <div id="550d74473cf32" class="SK_Component_Navigation SK_Component_Abstract CM_Component_Abstract CM_View_Abstract"><nav class="main">
+  <div class="advertisement advertisement-live-girls"><div class="openx-ad" data-zone-id="25" data-host="ads.fuckbook.com" data-variables="{}"></div></div>
+  <div class="advertisement advertisement-logout"><div class="openx-ad" data-zone-id="22" data-host="ads.fuckbook.com" data-variables="{}"></div></div>
+      <h4>Browse</h4>
+      <ul class="menu browse menu-sub"><li class="SK_Page_Index  hasIcon hasLabel " data-menu-entry-hash="5cdc9c63"><a href="https://www.fuckbook.com/"><span class="icon icon-home"></span><span class="label">Home</span></a></li><li class="SK_Page_Users_Discover  hasIcon hasLabel " data-menu-entry-hash="646177b5"><a href="https://www.fuckbook.com/users/discover"><span class="icon icon-members"></span><span class="label">Members</span></a></li><li class="SK_Page_CamShows_Discover  hasIcon hasLabel " data-menu-entry-hash="80bcf386"><a href="https://www.fuckbook.com/cam-shows/discover"><span class="icon icon-cam"></span><span class="label">Live Girls</span></a></li><li class="SK_Page_Photos_Discover  hasIcon hasLabel " data-menu-entry-hash="c0cbe633"><a href="https://www.fuckbook.com/photos/discover"><span class="icon icon-photo"></span><span class="label">Photos</span></a></li><li class="SK_Page_Videos_Discover  hasIcon hasLabel " data-menu-entry-hash="0bf88070"><a href="https://www.fuckbook.com/videos/discover"><span class="icon icon-video"></span><span class="label">Videos</span></a></li><li class="SK_Page_Blogposts_Discover  hasIcon hasLabel " data-menu-entry-hash="82eb7062"><a href="https://www.fuckbook.com/blogposts/discover"><span class="icon icon-blog"></span><span class="label">Blogposts</span></a></li><li class="SK_Page_Pinboards_Discover  hasIcon hasLabel " data-menu-entry-hash="d487752b"><a href="https://www.fuckbook.com/pinboards/discover"><span class="icon icon-pin"></span><span class="label">Pinboards</span></a></li></ul>
 
     <hr>
-      <ul class="menu about menu-sub"><li class="SK_Page_About  hasIcon hasLabel active" data-menu-entry-hash="4034e254"><a href="https://www.fuckbook.com/about"><span class="icon icon-info"></span><span class="label">About</span></a></li></ul>
+    <h4>Account &amp; Info</h4>
+      <ul class="menu about menu-sub"><li class="SK_Page_About  hasIcon hasLabel active" data-menu-entry-hash="4034e254"><a href="https://www.fuckbook.com/about"><span class="icon icon-about"></span><span class="label">About</span></a></li></ul>
 
   </nav>
 </div>
   </div>
   <div id="middle" class="">
-        <main id="page">
-      <div id="53b56a7c6f446" class="SK_Page_About_Privacy CM_Page_Abstract CM_Component_Abstract CM_View_Abstract">  <div class="columnContent">
-    <div class="advertisement"><div class="openx-ad" data-zone-id="6" data-host="ads.fuckbook.com" data-variables="{&quot;page&quot;:&quot;\/about\/privacy&quot;}"></div></div>
+    <main id="page">
+      <div id="550d74473dc96" class="SK_Page_About_Privacy CM_Page_Abstract CM_Component_Abstract CM_View_Abstract">  <div class="columnContent">
+    
     
     <ul class="menu about menu-pills"><li class="SK_Page_About  hasLabel " data-menu-entry-hash="f7ae8f88"><a href="https://www.fuckbook.com/about"><span class="label">About Us</span></a></li><li class="SK_Page_About_Contact  hasLabel " data-menu-entry-hash="cbd528b1"><a href="https://www.fuckbook.com/about/contact"><span class="label">Contact</span></a></li><li class="SK_Page_Blog  hasLabel " data-menu-entry-hash="0acd0ca9"><a href="https://www.fuckbook.com/blog"><span class="label">Blog</span></a></li><li class="SK_Page_About_Affiliate  hasLabel " data-menu-entry-hash="4430f566"><a href="https://www.fuckbook.com/about/affiliate"><span class="label">Affiliate</span></a></li><li class="SK_Page_About_Privacy  hasLabel active" data-menu-entry-hash="c98f1c65"><a href="https://www.fuckbook.com/about/privacy"><span class="label">Privacy</span></a></li><li class="SK_Page_About_Terms  hasLabel " data-menu-entry-hash="262c95df"><a href="https://www.fuckbook.com/about/terms"><span class="label">Terms</span></a></li><li class="SK_Page_About_Faq  hasLabel " data-menu-entry-hash="cd31a3d5"><a href="https://www.fuckbook.com/about/faq"><span class="label">FAQ</span></a></li><li class="SK_Page_About_Billing  hasLabel " data-menu-entry-hash="d3f61773"><a href="https://www.fuckbook.com/about/billing"><span class="label">Billing</span></a></li><li class="SK_Page_About_Dmca  hasLabel " data-menu-entry-hash="10dfbb43"><a href="https://www.fuckbook.com/about/dmca"><span class="label">DMCA</span></a></li><li class="SK_Page_About_RecordKeepingRequirements  hasLabel " data-menu-entry-hash="6dfa5b9c"><a href="https://www.fuckbook.com/about/record-keeping-requirements"><span class="label">18 U.S.C. 2257</span></a></li></ul>
 
 
     <h1>Privacy Policy</h1>
     
-  <div id="53b56a7c6fda0" class="SK_Component_Privacy SK_Component_Abstract CM_Component_Abstract CM_View_Abstract"><div class="article">
-  <p>
-We are committed to protecting our users' privacy<br>
-<br> We at Fuckbook offer this Privacy Policy ("Policy") to
-inform Users of the Fuckbook ("Website") how we define,
-collect, use, and disclose the personal information you provide to us.
-We reserve the right, at our sole discretion, to alter this Policy at
-any time. Alterations shall become effective immediately once posted on
-the Website. We will notify you of a substantive change to this Policy
-by posting a notice of such substantial change on the home page of the
-Website and we may also email you to notify you of such changes. Your
-continued use of the Website following the posting of changes and/or
-modifications will constitute your acceptance of the revised privacy
-policy.<br> By providing personal information to us, and by using
-the Website or Service, you consent to our collection, use and
-disclosure of your personal information in accordance with this Policy.<br>
-Please read this Policy carefully and save it. If you do not agree with
-the terms of this Policy, you should leave the Website and discontinue
-use of the Service immediately. In addition, if you are an individual
-who wishes to become a Registered User or Member, you must read this
-Policy and indicate your acceptance of its terms by following the
-instructions on the "[REGISTRATION]" page and check the box
-labelled "I have read and agree to the Privacy Policy and Terms
-and Conditions. I confirm I have reached the age of majority in my
-jurisdiction." <br> For the purposes of this Policy,
-"personal information" shall mean any information that can
-identify an individual directly or through other reasonable means. </p>
+  <div id="550d74473e941" class="SK_Component_Privacy SK_Component_Abstract CM_Component_Abstract CM_View_Abstract"><div class="article">
+  <strong><p>NOTICE: LAST UPDATED: March 13, 2015</p></strong>
 
-<h3>1) Information We Gather Automatically. </h3>
+<strong><p>www.fuckbook.com IS INTENDED FOR CONSENTING ADULTS, OVER AGE 18, OR INDIVIDUALS THAT HAVE REACHED THE AGE OF MAJORITY IN THEIR APPLICABLE JURISDICTION, WHICHEVER IS OLDER.</p></strong>
+
 <p>
-	Each time a visitor visits the Website, our servers collect certain
-	non-personal technical information, including, but not necessarily
-	limited to, the visitor's IP Address, referral data and
-	browser/platform type. This information is recorded by the standard
-	operation of Fuckbook's Internet servers. We also count, track, and
-	aggregate a visitor's activity into our analysis of general traffic
-	flows at the Website (e.g., tracking where traffic comes from, how
-	traffic flows within the Website, etc.). The information collected here
-	cannot identify who you are as an individual. However, we may use your
-	IP addresses in cooperation with your Internet provider to identify you
-	if we feel it is necessary to enforce compliance with our Terms of Use
-	or to protect our service, the Website, users, or others.<br> We may
-	merge information about visitors and visits into group data, which may
-	then at our discretion be shared on an aggregated basis with our
-	advertisers. We will not disclose your individual identity or
-	personally identifiable data without your permission. <br> What are
-	IP Addresses? An IP address is a number that's automatically assigned
-	to your computer by your Internet service provider whenever you're surfing the
-	Internet. We do not link IP addresses to personally identifiable
-	information, which means that your session will be logged anonymously.
-	<br> What are Cookies? We use cookies to store visitors' preferences
-	and to record session information for purposes including ensuring that
-	visitors are not repeatedly offered the same advertisements, and to
-	customize advertising and web page content for individual users. A
-	cookie is an alphanumeric identifier which we transfer to your hard
-	drive through your web browser when you visit our Website. It enables
-	our own system to recognize you when you visit our Website again and
-	improve our service to you. Cookies may also be used to compile
-	aggregate information about areas of our Website that are visited most
-	frequently. <br> This traffic information can be used to enhance the
-	content of our Website and make your use of it easier. We do not link
-	the information we store in cookies to any personally identifiable
-	information you submit while on the Website. Note that you must enable
-	cookies from Fuckbook.com in order to use most functions on the
-	Website. Nevertheless, if you wish to reject our cookies, you can
-	configure your browser to do so (instructions for disabling cookies can
-	be found in <a href="https://www.fuckbook.com/about/faq">our FAQs</a>. Please note that
-	Fuckbook allows third parties who are presenting advertisements on some
-	of our pages to set and access their cookies on your computer in a
-	process that Fuckbook does not control. Advertisers' uses of cookies
-	are subject to their own privacy policies, not this Policy. Therefore,
-	we suggest that you examine the privacy policies of such advertisers to
-	learn how they may collect, use, share, and disclose your personal
-	information. </p>
+Persons under the age of majority are not eligible to register for, use and/or purchase the services and/or products featured on www.fuckbook.com (“Website”) or to become a member. www.fuckbook.com does not knowingly collect information from children under 18 years of age.
+</p>
 
-<h3>2) Information Required for Registration. </h3>
+<h3>Summary of Privacy Policy</h3>
+
 <p>
-	Fuckbook will identify to you the purposes for which it will collect or
-	use personal information before or at the time the information is
-	collected. The type of personal information we may request depends on
-	and is related to the reason (or purpose) such personal information was
-	provided to us. During the process to become a User of the Website, we
-	ask for general identifying information to provide you with customized
-	service. We gather personal contact information such as screen name,
-	email address, and some demographic information such as age, gender, and
-	general geographic location. Any other information you choose to enter,
-	such as your personal interests and preferences and general indications
-	of the type of partner you are looking for using the Service, is
-	completely optional. <br> We encourage Users to fill out their
-	profiles as completely as possible, with the understanding that, once
-	entered, contact information is treated anonymously and is not
-	available to other Fuckbook Users. Any communications from other Users
-	are done via our internal systems, which are used to match the message
-	to you and generate an e-mail notification without disclosing any
-	information aside from your chosen screen name.<br> The choice to
-	provide us with your personal information is always yours. However,
-	your decision to withhold particular information may result in limiting
-	our ability to respond to your inquiries or provide you with the
-	Services you requested. If a new purpose is identified for the use of
-	the information collected, the new purpose will be explained prior to
-	its new use. Unless the new purpose is required by law, your consent is
-	required before information can be used for that purpose. Demographic
-	information may be compiled and shared in the aggregate with third
-	parties, but no personal details will be traceable or associated with
-	specific individuals at any time.<br> Note that, during the
-	Membership process, third party billing agents will collect personally
-	identifiable information required to process payments for the service.
-	Fuckbook retains information (name and address) to correctly identify
-	you in dealings with third party billing agents. Additional information
-	gathered by third party billing agents is not controlled by Fuckbook or
-	this Policy. </p>
+This Policy applies to customer information we collect through our websites (for purposes of this Policy, “websites” includes mobile applications). Your privacy is important to us and we want you to clearly understand how information provided by you, or collected during your use of the website, is utilized to make your visit more enjoyable and to bring to you information and opportunities that may be of interest.
+</p>
 
-<h3>3) Voluntary Inclusion of Personal Information. </h3>
-<p> Personally identifiable information that you
-	enter into your profile, that you include in communications with other
-	Members or Users, or that you disclose in any media (text, chat
-	streams, graphical, audio, visual, or audio-visual), or that you post or
-	display on the Website is accessible by other Users (Registered Users
-	and Members) of the Website. Fuckbook is not responsible for any
-	privacy issues arising from your own voluntary posting or transmission
-	of personal information via the Service. You acknowledge and agree that
-	you (not Fuckbook or our affiliates, advertisers, employees, and content
-	providers) shall be solely responsible and liable for all damages,
-	liability or other consequences, foreseen or unforeseen, of all
-	information which you submit, publish, display, disseminate, or
-	otherwise communicate through the Website even if a claim for damages
-	or liability should arise after termination of service. </p>
+<h3>Information We Collect</h3>
 
-<h3>4) Communication. </h3>
-<p> The Website directly
-	communicates with Members and Users through email, instant messaging,
-	and in some cases, downloaded executables. This enables Members to
-	receive information when they are not on the Website, so they remain
-	current on internal communication and updates from other Users or from
-	us directly. The Website may also use personally identifiable
-	information within your profile to send information to you that, in
-	some cases, are targeted to your interests, such as special banners and
-	promotions. Should you not wish Fuckbook to send you information on
-	other services or products, please just contact us using the
-	information provided in section 17 below. <br> Members of the
-	Website can directly communicate with you through messaging services
-	that are part of the Service (mail, chat, or via comments). We may use
-	personally identifiable information within your profile to send
-	notifications of these communications to you, but your personally
-	identifiable information is not disclosed to other Members by us. </p>
-
-<h3>5) Referrals. </h3>
-<p>If you choose to use our
-	external referral service to tell a friend about the Website, we will
-	ask you for your friend's contact information. The Website will
-	automatically send your friend an e-mail inviting them to visit the
-	Website. The Website maintains this information for the sole purpose of
-	sending this email and tracking the success of the referral. </p>
-
-<h3>6) Your Use of Other Users' Information. </h3>
 <p>
-	You may not use other Users' information for commercial purposes, to
-	send SPAM or SPIM, to harass, to make unlawful threats, or for any
-	other illegal purpose. Fuckbook reserves the right to terminate the
-	Service to those who misuse other Users' information.<br> If you
-	receive communications that you find to have violated this Policy,
-	please contact us using the information provided in section 17 below,
-	being sure to include the message text and the User who sent the
-	communication to you. </p>
+We collect your information from the following sources:
+</p>
 
-<h3>7) Accuracy of Personal Information, Information Review and Removal. </h3>
-<p> We shall make every reasonable
-	effort to ensure your personal information is accurate, complete, and
-	up-to-date. You are responsible for advising Fuckbook of any
-	inaccuracies or changes to your personal information. <br> Users may
-	modify or remove any of their information associated with their profile
-	at any time by logging into their account and accessing the Edit
-	Profile feature.<br> Users may, at any time, delete their profiles
-	or remove any images or audio-visual material that they have posted to
-	the Website. </p>
+<ul><p></p><li>
+Information you give us, including through website registrations, creation of profiles and other information voluntarily supplied by you through posting on the website or engaging in media such as chat.
+</li><p></p>
 
-<h3>8) Promotion. </h3>
-<p> From time to time,
-	Fuckbook may sponsor sweepstakes, contests, or other events of interest
-	to our users. Fuckbook may co-sponsor these events with third party
-	organizations, and may be required to share demographic information to
-	be used for the event. Any shared demographic information will not be
-	associated with individual users; it will only be presented as
-	aggregated information. <br> In some cases, promotions or
-	sweepstakes that may be of interest to our users may require us to
-	share email information with third party sponsors or partners. A User's
-	personal email information will not be released to any third party
-	organization without the User's express consent and disclosure of the
-	sponsor organization's name, and Fuckbook will request that such named
-	sponsors uphold the privacy of the registrant's information by not
-	distributing or sharing such information with any other businesses or
-	organizations, and we will ensure that such sponsors agree to be bound
-	by the terms of this Policy. <br> Should you not wish to receive
-	notices or be considered for sweepstakes, contests, or other events,
-	please contact us using the information provided in section 17 below. </p>
+<p></p><li>
+Information automatically collected when you visit or use our websites, such as IP address, browser type and via cookies, analytic tools and third-party services in the same fashion as most other websites.
+</li><p></p>
 
-<h3>9) Disclosure and Retention of Personal Information. </h3>
-<p> We will only use or disclose your personal
-	information in accordance with the purposes for which it was originally
-	collected unless you have otherwise consented, or when required or
-	permitted by law. We will keep your personal information only for so
-	long as it is required to fulfill the purpose for which it was collected
-	or as required by law. Except as explained in this Policy, or as
-	otherwise consented to by you, we do not disclose any personal
-	information to third parties. The following are the limited instances
-	where we may disclose your personal information to third parties: </p>
-<ol>
-	<li>When this information must be shared to provide a product or
-		service you have requested.
-	</li>
-	<li>We need to send the information to companies who work on our
-		behalf to provide a product or service to you.
-	</li>
-	<li>To investigate and/or enforce violations of our Terms and
-		Conditions and/or this Policy, or to protect our interests in our
-		operation and our legal rights and protections.
-	</li>
-	<li>To investigate potentially fraudulent or questionable
-		activities.
-	</li>
-	<li>When required or permitted by law. Fuckbook (including our
-		affiliates, advertisers, and content providers) independently reserves
-		the right to fully cooperate with requests from any recognized law
-		enforcement authority, and to court orders, requesting or directing
-		Fuckbook (including our affiliates, advertisers, and content
-		providers) to disclose the identity or other information regarding
-		any person who is using or has used the Website or the Service or has
-		obtained any Content available through or in association with the
-		Website. By accepting this Policy and using the Website and/or the
-		Service, you waive and hold harmless Fuckbook, our affiliates,
-		content providers, and the operators of the Website from any and all
-		claims resulting from any and all actions taken by any of the
-		foregoing during, or as a result of any law enforcement authority's
-		investigations or inquiries.
-	</li>
-	<li>In the course of a sale or potential sale, reorganization,
-		consolidation, merger, or amalgamation of our business. In order to
-		ensure a smooth transition of the Service in the event of a merger,
-		acquisition, reorganization, sale of all or substantially all of its
-		assets or the sale of an individual website owned by Fuckbook,
-		Fuckbook may transfer your personally identifiable information to a
-		third party as a part of such merger, acquisition, reorganization, or
-		sale. In the event the transaction proceeds, we will require that the
-		receiving party agree that they will be similarly bound by the
-		provisions of this privacy policy and that they will only use and
-		disclose your personal information as we are similarly entitled under
-		this privacy policy. In the event the sale does not proceed, we will
-		require the potential purchaser to not use or disclose your personal
-		information in any manner whatsoever and to completely erase the
-		same.
-	</li>
-	<li>Where such disclosure is described elsewhere in this
-		Policy.This Policy does not protect information you post to any
-		online profile, bulletin board, e-note, video chat room, or any other
-		forum accessible to other Users or other sites within Fuckbook.
-	</li>
-</ol>
+<p></p><li>
+Our mobile applications collect certain information automatically, such as the type of mobile device you use and the location of your device. You must first provide permission through your device before the application obtains such location information from technologies like GPS. (If applicable).
+</li><p></p></ul>
 
-<h3>10) Location of Personal Information</h3>
-<p>We are an
-	international organization with servers located in various
-	jurisdictions. As a result, User's and Member's personal information may be
-	transferred to and stored in Canada, Ireland, or elsewhere. We do the
-	best we can to ensure your personal information is protected to the
-	greatest extent possible. However, please note that the jurisdiction in
-	which we store your personal information may not have similar standards
-	for protecting your personal information as are provided for in your
-	country. As well, government organizations from the jurisdiction in
-	which the personal information is stored may have access to your
-	personal information in accordance with the laws of such jurisdiction. </p>
+<h3>How We Use and/or Disclose Your Information</h3>
 
-<h3>11) Employee Access to Your Personal Information. </h3>
-<p> In the course of daily operations, access to
-	private, sensitive, and confidential information is restricted to
-	authorized employees who have a legitimate business purpose and reason
-	for accessing it. As a condition of their employment, all employees of
-	Fuckbook are required to follow this Policy. Employees are informed
-	about the importance of privacy and they are required to agree to a
-	code of conduct that prohibits the disclosure of any personal
-	information to unauthorized individuals or parties. <br>
-	Unauthorized access to and/or disclosure of personal information by an
-	employee of Fuckbook is strictly prohibited. All employees are expected
-	to maintain the confidentiality of personal information at all times
-	and failing to do so will result in appropriate disciplinary measures,
-	which may include dismissal. </p>
+<ul><p></p><li>
+We use your information to enhance our provision of services to you.
+</li><p></p>
 
-<h3>12) Our Commitment to Data Security.</h3>
+<p></p><li>
+We may combine all the information we collect from users to determine ways in which our website and offerings can be improved.
+</li><p></p>
+
+<p></p><li>
+We may disclose or transfer your personal information from time to time to affiliates and third parties to help with our business operations and to bring to you offers that we believe might be of interest to you.
+</li><p></p>
+
+<p></p><li>
+We may contact you by email for customer service purposes as well as to make you aware of specials, new services and opportunities from our marketing customers.
+</li><p></p>
+
+<p></p><li>
+We also use such information to protect you, other users and the integrity of our website against fraud or as may be required by law.
+</li><p></p>
+
+<p></p><li>
+We want to communicate with you in ways you want to hear from us. Examples include email newsletters, special offers, and new product announcements. We will not contact you via phone or text message without your express consent (opt-in). We use an opt-out standard for all communications other than administrative communication concerning your account.
+</li><p></p>
+
+<p></p><li>
+We participate in re-marketing and interest-based advertising with Google and other companies. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising on other websites based on your browsing behavior across websites. Learn how to opt-out from participating by <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">clicking here</a>.
+</li><p></p></ul>
+
+<strong><p></p><h3>FULL PRIVACY POLICY</h3><p></p></strong>
+
+<h3>What This Privacy Policy Covers</h3>
+
 <p>
-	The security of your personal information is a priority to Fuckbook. We
-	are responsible for protecting personal information under our control,
-	including personal information that has been transferred to, or
-	received from, a third party.<br> Registered User and Member
-	accounts are secured by member-created passwords. We use reasonable
-	measures to protect registration and membership information that is
-	stored within our database, and we restrict access to User information
-	to those employees who need access to perform their job functions, such
-	as our customer service personnel and technical staff, and such
-	employees shall be required to respect the privacy of that information.
-	<br> In the event that personal information is transferred to a
-	third party, Fuckbook will take steps to ensure that such recipients
-	safeguard the personal information and use the information only for
-	authorized purposes. Some examples of such measures are as follows: </p>
-<ol>
-	<li>Physical security measures such as restricted access
-		facilities and locked filing cabinets.
-	</li>
-	<li>Electronic security measures for computerized personal
-		information such as password protection, database encryption, and
-		personal identification numbers.
-	</li>
-	<li>Organizational processes such as limiting access to such
-		personal information to a selected group of individuals.
-	</li>
-	<li>Contractual obligations with third parties who need access to
-		personal information by agreements stipulating the confidentiality of
-		the information and requiring them to protect and secure the personal
-		information.
-	</li>
-</ol>
+This Privacy Policy covers our treatment of information gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any information about you that our partners share with us or that we share with our partners.
+</p>
+
 <p>
-	Please note that we cannot guarantee the security
-	of member account information. Unauthorized entry or use, hardware or
-	software failure, and other factors may compromise the security of
-	member information at any time. </p>
+We are committed to protecting our user’s privacy. This Privacy Policy sets forth the policies and practices with respect to information or data gathered regarding registered users and members of the www.fuckbook.com website and/or other domains, products, advertising products, services, and/or content, including iOS, Android, and Windows Phone mobile application (collectively, the “Website”). While this Privacy Policy also covers our treatment of any information about you that our partners share with us or that we share with our partners, you should understand that this Privacy Policy does not apply to the practices of such third parties. We encourage you to carefully review the privacy policies of all third-party websites you access. Additionally, this Privacy Policy does not govern what our registered users and members do on their individual www.fuckbook.com pages and we hereby disclaim any and all responsibility for the information collected by us as a result of postings by users and members on their individual pages.
+</p>
 
-<h3>13) Our Commitment to Children's Privacy.</h3>
+<h3>Changes To The Privacy Policy</h3>
+
 <p>
-	Protecting the privacy of the very young is important to us. For that
-	reason, we do not collect or maintain information from those we
-	actually know are under 18 years of age, and no part of Fuckbook is
-	structured to attract anyone under 18 years of age. If you are younger
-	than 18 years of age, you are not permitted to use this site. </p>
+We reserve the right to change or update this Privacy Policy at any time by posting a notice on the Website explaining that we are changing our Privacy Policy. If the manner in which we use personal information changes, we will notify our registered users and members by posting the changes on this Website and, in our sole discretion, we may send out an e-mail notification to our registered users and members notifying them of the changes.
+</p>
 
-<h3>14) Websites Governed by this Privacy Policy.</h3>
 <p>
-	The Website that is governed by the provisions and practices stated in
-	this Policy is: Fuckbook. Fuckbook's Website may contain links to other
-	third party sites that are not governed by this Policy. Although we
-	endeavor to only link to sites with high privacy standards, our Policy
-	will no longer apply once you leave Fuckbook's Website. Additionally,
-	we are not responsible for the privacy practices employed by other
-	third party websites, nor are we responsible for the content of any
-	such web property, company, or organization that we do not control.
-	Further, we cannot control and are not responsible for the actions of
-	the employees, agents, or assigns of any such web property, company, or
-	organization. Therefore, we suggest that you examine the privacy
-	policies of those sites to learn how your information may be collected,
-	used, shared, and disclosed. </p>
+NOTICE: USE OF THIS WEBSITE BY A REGISTERED USER OR MEMBER CONSTITUTES AN EXPRESS ASSENT TO THE USE OF PERSONAL INFORMATION COLLECTED BY THE WEBSITE. AGAIN, CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE YOUR REGISTRATION AND MEMBERSHIP TO AND USE OF THIS WEBSITE WILL EXPRESSLY SIGNIFY THAT YOU AGREE TO THIS PRIVACY POLICY AND THAT YOU CONSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY, YOU SHOULD NOT REGISTER, BECOME A MEMBER, OR USE THIS WEBSITE.
+</p>
 
-<h3>15) Terms and Conditions, Notices and Revisions.</h3>
-<p> Your use of the Website, and any disputes arising
-	from it, is subject to this Policy as well as our Terms and Conditions
-	and all of its dispute resolution provisions including, but not limited
-	to, limitations of liability and governing law. </p>
+<h3>Information We Gather Automatically (Non- Personal Technical Data)</h3>
 
-<h3>16) Updating this Privacy Policy. </h3>
-<p> This
-	Policy is subject to change by Fuckbook at any time. We may modify any
-	of the terms contained in this Policy at any time in our sole
-	discretion. Any changes to our privacy policy and information handling
-	practices will be acknowledged in this policy in a timely manner. We
-	may add, modify, or remove portions of this policy when we feel it is
-	appropriate to do so. You may determine when this policy was last
-	updated by referring to the date at the bottom of this privacy policy.
-	<br> If any modification to this Policy is unacceptable to you, you
-	agree that your only recourse is to terminate this Policy. Your
-	continued use of the Service following our posting of a change notice
-	or new agreement on the Website will constitute your binding acceptance
-	of the change. <br> BY PROVIDING PERSONAL INFORMATION TO US YOU
-	SIGNIFY YOUR CONSENT TO OUR COLLECTION, USE, AND DISCLOSURE OF YOUR
-	PERSONAL INFORMATION IN ACCORDANCE WITH THIS POLICY. </p>
+<p>
+Each time an individual visits the Website, our servers collect certain non-personal technical information, including, but not necessarily limited to, the visitor’s IP Address, referral data and browser/platform type. This information is recorded by the standard operation of our Internet servers. We also count, track, and aggregate a visitor’s activity into our analysis of general traffic flows at the Website (e.g., tracking where traffic comes from, how traffic flows within the Website, etc.). The information collected in this regard either cannot identify who you are as an individual or is not used in that manner.
+</p>
 
-<h3>17) Handling Complaints, Questions and Suggestions. </h3>
-<p> To stop or resume receiving email notifications
-	regarding various site activity or offers, users can edit their
-	<a href="https://www.fuckbook.com/account">account preferences</a>.<br>
-	If you have any further questions, or concerns about Fuckbook's privacy
-	policies and use of personal information, please contact us using our
-	online <a href="https://www.fuckbook.com/about/contact">contact form</a>. </p>
+<h3>IP Address</h3>
 
-<h3>18) Dispute Resolution </h3>
-<p>Any claim or
-	cause of action you may have arising from, connected with, or relating
-	to this privacy policy or Fuckbook's handling of your personal
-	information, or any related matters must be commenced within six (6)
-	months after the claim or cause of action arises, after which time the
-	claim or cause of action is forever barred, regardless of any statute
-	or law to the contrary. </p>
+<p>
+An “IP Address” is a number that is automatically assigned to your computer or by your Internet service provider whenever you are surfing the Internet. We may use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with our Terms of Use or to protect our service, the Website, registered users, members, affiliates or other third parties. An IP address can also provide some information concerning your whereabouts. We do this by converting your IP Address into a rough geographical location. We may merge information about visitors and the number of visits into group data, which may then, at our discretion, be shared on an aggregated basis with our third-party advertisers/affiliates. In those circumstances, your individual personal information is not disclosed, nor under those circumstances will we disclose your individual identity or personally identifiable data without your permission.
+</p>
+
+<h3>Like Most Websites, We Use Cookies/Browser Information/Web Beacons</h3>
+
+<p>
+We use cookies to store your preferences and to record session information for purposes such as ensuring that you are not repeatedly offered the same advertisements or to customize advertising and web page content for individual registered users and members. Cookies also enable our own system to recognize you when you visit the Website again and enable us to improve our service to you. Cookies are text files that may be sent to and saved by your web browser when you access a website; your web browser stores these cookies in a way associated with each website you visit, and you can generally see your cookies through your browser settings, depending on what browser you’re using. You must enable cookies from the Website in order to use many of the functions of the Website. Nevertheless, if you wish to reject or disable our cookies, you can configure your browser to do so. Instructions for disabling cookies can likely be found in your browser’s “Frequently Asked Questions” section. Please note, however, that the Website allows third parties who are presenting advertisements on some of our web pages to set and access their cookies on your computer in a process that we do not control. Cookies may also be used to compile aggregate information about areas of the Website visited most frequently. We reserve the right to automatically receive and record information from your web browser when you interact with the Website, such as your browser type and version, what sort of device you are using, your operating system and version, your language preference, the website or service that referred you to the Website, the date and time of each request you make to the Website, your screen display information, and information from any cookies we have placed on your web browser (as described hereinabove). We also sometimes detect whether you are using certain web browser extensions and store that information in a manner associated with your membership.
+</p>
+
+<p>
+Similarly, a web beacon or pixel are types of code used by web developers which may also be embedded in a web page or email, and allows us or a third-party to see that you have looked at a particular web page. From time to time, we may run limited-time studies using web beacons, sometimes with third parties, to, for example, measure the effectiveness of our advertising or e-mail marketing/communications.
+</p>
+
+<h3>Information Related To Your Mobile Device</h3>
+
+<p>
+We also reserve the right to collect and store information related to your mobile device. In some cases, either we, or our mobile analytic provider, may receive, generate, or assign your mobile device a unique identifier. We may also request you to provide your mobile number to enable new products and improve our product. Our mobile applications collect certain information automatically, such as the type of mobile device you use and the location of your device. You must first provide permission through your device before the application obtains such location information from technologies like GPS.
+</p>
+
+<h3>Required And/or Optional Information For Becoming A Registered User And Member</h3>
+
+<p>
+When any adult registered user logs on to the Website as a member of this Website, the registered user and/or member may provide certain personal, as well as demographic, information which may include, but is not necessarily limited to, their name, address, age, gender, e-mail address, username and password, personal interests or affiliations and geographical location. This Website collects any and all such information and includes it in its customer database.
+</p>
+
+<p>
+The choice to provide us with your personal information is always yours. However, your decision to withhold particular information may result in limiting our ability to respond to your inquiries or provide you with the services you requested. If a new purpose is identified for the use of the information collected, the new purpose will be explained in an updated privacy policy prior to its new use. Unless such new purpose is required by law, your consent is required before information can be used for that purpose. Your continued use of the Website after the posting of the revised privacy policy shall be considered consent to the new use of the information. Demographic information may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals at any time. Note that, during the membership process, third-party billing service providers will collect personally identifiable information required to process payments for the Website’s services. We retain information (name and address) to correctly identify you in dealings with these third-party billing service providers. The Website does not control any and all additional information gathered by third-party billing service providers. As such, please review the applicable third-party billing service provider’s Website for its own policies governing the collection and usage of such information.
+</p>
+
+<p>
+If the Website features or conducts any special events, special promotions, third-party offers, contests or polls, a registered user or member of the Website may be asked to provide information in order to participate. If the registered user and member voluntarily provide that information, all such information may be collected by the Website and included in its customer database. When a registered user or member of this Website requests web pages from the Website’s server or clicks on banners or other third-party hypertext links, the Website will automatically collect some information or data about the registered user or member, including the IP address of the registered user or member. The information collected may also indicate any special preferences or requests of the registered user or member. All such information and data will be collected by the Website and included in our customer database. If a registered user or member sends any personal communication or correspondence, by any means, to the Website, or any to any of the Website’s employees, agents or representatives, the Website may collect any information regarding that communication and include that information in its customer database.
+</p>
+
+<h3>Profile Information That You Provide and User Content</h3>
+
+<p>
+We encourage registered users to fill out their profiles as completely as possible. Any communications from other registered users are done via our internal systems, which are used to match the message to you and generate an e-mail notification without disclosing any information aside from your chosen screen name. Accordingly, other registered users may not obtain your personal contact information such as your name, email, or telephone number unless you share it with them. However, any and all personally identifiable information that you: (i) enter into your profile; (ii) include in communications with other registered users or members; (iii) disclose in any media (e.g., text, chat streams, graphical, audio, visual, or audio-visual); or (iv) post or display on the Website is indeed accessible by other registered users and members of the Website. We are therefore not responsible for the disclosure of your personal information in this manner, nor are we liable for any other privacy-related claims or issues arising from your own voluntary disclosure, posting or transmission of personal information via the Website. You hereby acknowledge and agree that you shall be solely responsible and liable for any and all damages, liability and/or other consequences, foreseen or unforeseen, of all information which you submit, publish, display, disseminate, or otherwise communicate through the Website even if a claim for damages or liability should arise after termination or cancellation of our services.
+</p>
+
+<h3>How We Use Your Personal Information</h3>
+
+<p>
+The personally identifiable information obtained from our users is used in a variety of ways.
+</p>
+
+<ul><p></p><li>
+It may be used to create, modify, and maintain the personal profiles of the users, to serve search utilities, to implement the functionality of the web site, to track usage, to target advertising, and to make the use of its Services enjoyable and rewarding for everyone involved in it.
+</li><p></p>
+
+<p></p><li>
+You may be contacted by email to confirm or terminate registration, to notify you of changes in our Terms and Conditions, to deal with any issues particular to you, or to promote events, services, and/or products that we or third-party vendors may wish to bring to your attention. We may use personally-identifiable information in correspondence with the user or with any other person.
+</li><p></p>
+
+<p></p><li>
+We may license or enter in to agreements with third-parties to transfer or sell outright, the use of personally-identifiable information.
+</li><p></p>
+
+<p></p><li>
+We may use and disclose any information to anyone, when, in our judgment, it is necessary or expedient to do so for the protection of individuals’, other users’ or the publics’ property.
+</li><p></p>
+
+<p></p><li>
+We may transfer any or all of the information to any successor in interest as a result of the sale of the web site, its Services, or of a substantial part of its assets.
+</li><p></p>
+
+<p></p><li>
+We may use personally identifiable information about our users for any reasonable commercial purpose to further your enjoyment, or to bring you opportunities we believe may be of interest to you.
+</li><p></p>
+
+<p></p><li>
+We participate in interest-based advertising. Interest based advertisements are ads that are served to you based on your browsing behavior. The goal is to show you ads more tailored to your interests. Advertisements may relate to our site or to others. In addition, we belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. You may see ads on participating websites based on how you browse our website and those sites.
+</li><p></p>
+
+<p></p><li>
+You may get more information on opting-out of either interest-based advertising on our website, or interest-based advertising on other sites, by <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">clicking here</a>.
+</li><p></p></ul>
+
+<p>
+You may access third-party services through the Website by clicking on links from our third-party advertisers or business partners. We may also share information that you provide to us with those third-party providers. Be advised, however, that this Privacy Policy only governs information we collect and you are responsible for reading and understanding those third-party providers’ privacy policies.
+</p>
+
+<h3>How We Use Your E-Mail Address</h3>
+
+<p>
+As part of the Services, you may occasionally receive emails and other communications from us. Administrative communications relating to your Account (e.g., for purposes of Account recovery or password reset) are considered part of the Services for your Account, which you will not be able to opt-out from receiving. We also may send you other kinds of emails, of which you can opt-out by using the “Opt-Out” link in the emails themselves or going to the account section (link it) of your profile. 
+By submitting your email address at the Website, you also agree to receive email marketing from us and our third-party advertisers. You may also opt-out from receiving marketing emails from third-party advertisers by clicking on the unsubscribe link on the email, following the instructions in the privacy policy of the third-party or going to the account section of your profile. For visitors located in the United States, you agree that registering or providing personal information to us constitutes consent, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, that we or our designee retain the right, and you hereby expressly authorize us and/or our designee, to contact you via telemarketing or text messaging. Moreover, by registering with, or requesting information from us or another third-party advertisers at, or through, the Website, such action shall constitute your written consent to be contacted via e-mail, instant messaging, text messaging, direct mail and/or telemarketing by such third-party advertisers.
+</p>
+
+<h3>To Better Serve You, We Aggregate Information To Bring You Information That May Be Of Interest To You</h3>
+
+<p>
+We may share or disclose non-private information, aggregate information, or other non-personally identifying information with third parties that we do business with.
+</p>
+
+<h3>Website And Member Communications</h3>
+
+<p>
+Members of the Website can directly communicate with other members through messaging services that are part of the services we provide at the Website (e.g., mail, chat, or via comments). We may use personally identifiable information within your profile to send notifications of these communications to you, but your personally identifiable information is not disclosed to other members by us.
+</p>
+
+<p>
+The Website also directly communicates with registered users and members through e-mail, instant messaging, and in some cases, downloaded executables thereby allowing our registered users and members to receive information when they are not on the Website. Our registered users and members can thereby remain current on internal communications and updates from other registered users, members or from us directly. The Website may also use personally identifiable information within your profile to send information to you that, in some cases, is targeted to your interests, such as special banners and promotions. If you do not want us to send you information on other third-party services or products, please <a href="https://www.fuckbook.com/about/contact">contact us</a>.
+</p>
+
+<h3>Analytic Applications</h3>
+
+<p>
+Personal Data is also collected to enable us to monitor and analyze web traffic and can be used to keep track of User behavior.
+</p>
+
+<p>
+For example, Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
+</p>
+
+<h3>Application Data Collected</h3>
+
+<p>
+Information collected automatically from this Application (or third-party services employed in this Application) may include: the IP addresses of the computers utilized by the Users who use this Application, the URL addresses or domain (Uniform Resource Identifier) or domain name, the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the user, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the user's IT environment.
+</p>
+
+<h3>Explanation of the Use of Application Data and User ID</h3>
+
+<p>
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network. In that regard, Google Analytics makes use of a feature called user ID. This setup allows for a more accurate tracking of users by associating that user with the same ID over various sessions and devices. It is set up in a way that doesn’t allow Google to personally identify an individual or permanently identify a particular device.
+</p>
+
+<p>
+The user ID extension might make it possible to connect Data from Google Analytics with other Data about the user collected by this Application.
+The opt-out link below will only opt you out for the device you are on, but not from tracking performed independently by us. Contact us via the email address provided in this privacy policy to object to the aforementioned tracking.
+To opt-out through the Google tool <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">click here</a>.
+</p>
+
+<h3>Referral Service</h3>
+
+<p>
+If you choose to use our referral service to tell a friend about the Website, we will ask you for your friend’s contact information. The Website will automatically send your friend an e-mail inviting them to visit the Website. The Website maintains this information for the sole purpose of sending this e-mail and tracking the success of the referral.
+</p>
+
+<h3>Third-Party Advertisers</h3>
+
+<p>
+We are able to offer our services to you, in part, based on your willingness to be targeted by our third-party advertisers. By allowing us to make the information you supply available to our third-party advertising affiliates/partners, you will receive information on products and services that may be of interest to you. As set forth hereinabove, this information may also be shared with our third-party advertisers on an aggregate basis. Please be advised however, that we do not control, and are not responsible for, the practices of our third-party advertisers. Please review the terms and privacy policy of any third-party advertiser that you may choose to contact.
+</p>
+
+<h3>Third-Party Offers</h3>
+
+<p>
+From time to time, we may sponsor or co-sponsor sweepstakes, offers, products, contests, or other services or events of interest to our registered users and members. In order to receive such offers, products or services, sweepstakes, or contests, your personal information will be shared with such third-party companies. We do this to ensure that they may provide their products and/or services to you without mandating that you first have to re-register. You may opt-out of receiving these communications by <a href="https://www.fuckbook.com/about/contact">contacting us</a>.
+</p>
+
+<h3>Service Providers</h3>
+
+<p>
+Like many businesses, we sometimes hire other companies to present offers, products, contests, or other services or events of interest to our members and registered users. Service Providers may assist us, by way of example, in sending emails, maintaining databases, or providing hosting services. When we employ a Service Provider to perform a function of this nature, we provide it with the information that it needs to perform its specific function, which may include personal data and other information that you provide to us via the Website. Please keep in mind, though, that we do not control, and are not responsible for, the practices of our Service Providers.
+</p>
+
+<h3>Legal Requirements</h3>
+
+<p>
+We reserve the right to access and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third-parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm. Moreover, you hereby consent to disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time. By accepting this Privacy Policy and using the Website and/or the services hereon, you waive and hold us, as well as our affiliates, content providers, and the operators of the Website harmless from any and all claims resulting from any and all of the foregoing action or as a result of any law enforcement authority’s investigations or inquiries.
+</p>
+
+<h3>The Security Of Your Information</h3>
+
+<p>
+Consistent with the policies set forth herein, the Website has adopted and implemented reasonable, appropriate and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to registered users or members that is collected by the Website to prevent unauthorized access, disclosure, modification or unauthorized destruction of data.
+</p>
+
+<p>
+Your registration and member information is protected by a password for your privacy and security. We may enable additional security features in the future, in our sole discretion. You need to prevent unauthorized access to your account and information by creating a unique, secure, and protected password and limiting access to your computer and browser by signing off after you have finished accessing your account on the Website. We seek to protect your information (including your account information) to ensure that it is kept private; however, we cannot guarantee the security of any information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time.
+</p>
+
+<p>
+All registered users or members should consider any information provided to or collected by the Website as non-confidential, and consequently the Website assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
+</p>
+
+<h3>What Happens To Your Information If The Business Is Sold</h3>
+
+<p>
+As our business grows, there is always the possibility that we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, your information may be part of the transferred assets and you hereby consent to such transfer of your information.
+</p>
+
+<h3>Opt-Out Policy</h3>
+
+<p>
+To stop receiving future communications from us or to opt out of having your personal information shared with third parties, please <a href="https://www.fuckbook.com/about/contact">send us</a> your registration information and e-mail address. To cancel your registration and/or membership, please <a href="https://www.fuckbook.com/about/contact">contact us</a> with your registration information and e-mail address. If your personal information changes, or if you no longer desire our services, you may correct, update or cancel your registration and/or membership, and/or deactivate your account, by <a href="https://www.fuckbook.com/about/contact">contacting us</a>.
+</p>
+
+
+<h3>Questions About the Privacy Policy</h3>
+
+<p>
+If you have any questions concerning this privacy policy, please <a href="https://www.fuckbook.com/about/contact">contact us</a>.
+</p>
 </div>
 </div>
 
@@ -483,20 +441,18 @@ identify an individual directly or through other reasonable means. </p>
 
 
 
-  <footer id="footer">
-    <p class="copyright">© Fuckbook 2014</p>
-    <div id="53b56a7c70105" class="SK_Component_LanguageSelector SK_Component_Abstract CM_Component_Abstract CM_View_Abstract">  <div class="openerDropdown languageSelector">
+  <footer id="footer" class="clearfix">
+    
+    <p class="copyright">© Fuckbook 2015</p>
+    <div id="550d74473ec9e" class="SK_Component_LanguageSelector SK_Component_Abstract CM_Component_Abstract CM_View_Abstract">  <div class="openerDropdown languageSelector">
     <a href="javascript:;" class="openerDropdown-panel">English</a>
     <div class="openerDropdown-window flyout triangle-bottom">
       <ul class="menu-sub">
-        		  		                  <li class="current">
+        		  		                  <li class="">
+            <a href="https://www.fuckbook.com/de/about/privacy" class="setLanguage" data-id="12" data-force-reload="true"><span class="abbreviation">de</span><span class="label">Deutsch</span></a>
+          </li>
+                  <li class="current">
             <a href="https://www.fuckbook.com/en/about/privacy" class="setLanguage" data-id="1" data-force-reload="true"><span class="abbreviation">en</span><span class="label">English</span>              <span class="icon-check"></span></a>
-          </li>
-                  <li class="">
-            <a href="https://www.fuckbook.com/de/about/privacy" class="setLanguage" data-id="2" data-force-reload="true"><span class="abbreviation">de</span><span class="label">Deutsch</span></a>
-          </li>
-                  <li class="">
-            <a href="https://www.fuckbook.com/sv/about/privacy" class="setLanguage" data-id="3" data-force-reload="true"><span class="abbreviation">sv</span><span class="label">Svenska</span></a>
           </li>
                   <li class="">
             <a href="https://www.fuckbook.com/es/about/privacy" class="setLanguage" data-id="4" data-force-reload="true"><span class="abbreviation">es</span><span class="label">Español</span></a>
@@ -508,19 +464,22 @@ identify an individual directly or through other reasonable means. </p>
             <a href="https://www.fuckbook.com/it/about/privacy" class="setLanguage" data-id="6" data-force-reload="true"><span class="abbreviation">it</span><span class="label">Italiano</span></a>
           </li>
                   <li class="">
-            <a href="https://www.fuckbook.com/zh/about/privacy" class="setLanguage" data-id="7" data-force-reload="true"><span class="abbreviation">zh</span><span class="label">中文</span></a>
-          </li>
-                  <li class="">
-            <a href="https://www.fuckbook.com/ja/about/privacy" class="setLanguage" data-id="8" data-force-reload="true"><span class="abbreviation">ja</span><span class="label">日本語</span></a>
+            <a href="https://www.fuckbook.com/nl/about/privacy" class="setLanguage" data-id="10" data-force-reload="true"><span class="abbreviation">nl</span><span class="label">Nederlands</span></a>
           </li>
                   <li class="">
             <a href="https://www.fuckbook.com/pt/about/privacy" class="setLanguage" data-id="9" data-force-reload="true"><span class="abbreviation">pt</span><span class="label">Português</span></a>
           </li>
                   <li class="">
-            <a href="https://www.fuckbook.com/nl/about/privacy" class="setLanguage" data-id="10" data-force-reload="true"><span class="abbreviation">nl</span><span class="label">Nederlands</span></a>
+            <a href="https://www.fuckbook.com/sv/about/privacy" class="setLanguage" data-id="3" data-force-reload="true"><span class="abbreviation">sv</span><span class="label">Svenska</span></a>
           </li>
                   <li class="">
             <a href="https://www.fuckbook.com/ru/about/privacy" class="setLanguage" data-id="11" data-force-reload="true"><span class="abbreviation">ru</span><span class="label">Русский</span></a>
+          </li>
+                  <li class="">
+            <a href="https://www.fuckbook.com/zh/about/privacy" class="setLanguage" data-id="7" data-force-reload="true"><span class="abbreviation">zh</span><span class="label">中文</span></a>
+          </li>
+                  <li class="">
+            <a href="https://www.fuckbook.com/ja/about/privacy" class="setLanguage" data-id="8" data-force-reload="true"><span class="abbreviation">ja</span><span class="label">日本語</span></a>
           </li>
               </ul>
     </div>
@@ -528,130 +487,59 @@ identify an individual directly or through other reasonable means. </p>
 </div>
     
 
-      <ul class="menu about">
-              <li class="SK_Page_About  hasIcon  hasLabel active" data-menu-entry-hash="4034e254">
-          <a href="https://www.fuckbook.com/about">
-                        <span class="icon icon-info"></span><span class="label">About</span>
-          </a>
-                                        <ul class="menu about">
-              <li class="SK_Page_About   hasLabel " data-menu-entry-hash="f7ae8f88">
-          <a href="https://www.fuckbook.com/about">
-                        <span class="label">About Us</span>
-          </a>
-                  </li>
-              <li class="SK_Page_About_Contact   hasLabel " data-menu-entry-hash="cbd528b1">
-          <a href="https://www.fuckbook.com/about/contact">
-                        <span class="label">Contact</span>
-          </a>
-                  </li>
-              <li class="SK_Page_Blog   hasLabel " data-menu-entry-hash="0acd0ca9">
-          <a href="https://www.fuckbook.com/blog">
-                        <span class="label">Blog</span>
-          </a>
-                  </li>
-              <li class="SK_Page_About_Affiliate   hasLabel " data-menu-entry-hash="4430f566">
-          <a href="https://www.fuckbook.com/about/affiliate">
-                        <span class="label">Affiliate</span>
-          </a>
-                  </li>
-              <li class="SK_Page_About_Privacy   hasLabel active" data-menu-entry-hash="c98f1c65">
-          <a href="https://www.fuckbook.com/about/privacy">
-                        <span class="label">Privacy</span>
-          </a>
-                  </li>
-              <li class="SK_Page_About_Terms   hasLabel " data-menu-entry-hash="262c95df">
-          <a href="https://www.fuckbook.com/about/terms">
-                        <span class="label">Terms</span>
-          </a>
-                  </li>
-              <li class="SK_Page_About_Faq   hasLabel " data-menu-entry-hash="cd31a3d5">
-          <a href="https://www.fuckbook.com/about/faq">
-                        <span class="label">FAQ</span>
-          </a>
-                  </li>
-              <li class="SK_Page_About_Billing   hasLabel " data-menu-entry-hash="d3f61773">
-          <a href="https://www.fuckbook.com/about/billing">
-                        <span class="label">Billing</span>
-          </a>
-                  </li>
-              <li class="SK_Page_About_Dmca   hasLabel " data-menu-entry-hash="10dfbb43">
-          <a href="https://www.fuckbook.com/about/dmca">
-                        <span class="label">DMCA</span>
-          </a>
-                  </li>
-              <li class="SK_Page_About_RecordKeepingRequirements   hasLabel " data-menu-entry-hash="6dfa5b9c">
-          <a href="https://www.fuckbook.com/about/record-keeping-requirements">
-                        <span class="label">18 U.S.C. 2257</span>
-          </a>
-                  </li>
-          </ul>
-  
-                  </li>
-          </ul>
+      <ul class="menu about clearfix"><li class="SK_Page_About  hasIcon  hasLabel active" data-menu-entry-hash="4034e254"><a href="https://www.fuckbook.com/about"><span class="icon icon-about"></span><span class="label">About</span></a>      <ul class="menu about clearfix"><li class="SK_Page_About   hasLabel " data-menu-entry-hash="f7ae8f88"><a href="https://www.fuckbook.com/about"><span class="label">About Us</span></a></li><li class="SK_Page_About_Contact   hasLabel " data-menu-entry-hash="cbd528b1"><a href="https://www.fuckbook.com/about/contact"><span class="label">Contact</span></a></li><li class="SK_Page_Blog   hasLabel " data-menu-entry-hash="0acd0ca9"><a href="https://www.fuckbook.com/blog"><span class="label">Blog</span></a></li><li class="SK_Page_About_Affiliate   hasLabel " data-menu-entry-hash="4430f566"><a href="https://www.fuckbook.com/about/affiliate"><span class="label">Affiliate</span></a></li><li class="SK_Page_About_Privacy   hasLabel active" data-menu-entry-hash="c98f1c65"><a href="https://www.fuckbook.com/about/privacy"><span class="label">Privacy</span></a></li><li class="SK_Page_About_Terms   hasLabel " data-menu-entry-hash="262c95df"><a href="https://www.fuckbook.com/about/terms"><span class="label">Terms</span></a></li><li class="SK_Page_About_Faq   hasLabel " data-menu-entry-hash="cd31a3d5"><a href="https://www.fuckbook.com/about/faq"><span class="label">FAQ</span></a></li><li class="SK_Page_About_Billing   hasLabel " data-menu-entry-hash="d3f61773"><a href="https://www.fuckbook.com/about/billing"><span class="label">Billing</span></a></li><li class="SK_Page_About_Dmca   hasLabel " data-menu-entry-hash="10dfbb43"><a href="https://www.fuckbook.com/about/dmca"><span class="label">DMCA</span></a></li><li class="SK_Page_About_RecordKeepingRequirements   hasLabel " data-menu-entry-hash="6dfa5b9c"><a href="https://www.fuckbook.com/about/record-keeping-requirements"><span class="label">18 U.S.C. 2257</span></a></li></ul>
+  </li></ul>
   
 
+    
   </footer>
 
 </div>
     </main>
   </div>
-  
+    
     </div>
-        <script type="text/javascript" src="https://d1fiexxbkaecr.cloudfront.net/vendor-js/en/100/1404397556/after-body.js" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="https://d1fiexxbkaecr.cloudfront.net/vendor-js/en/100/1426855570/after-body.js" crossorigin="anonymous"></script>
 
-    <script type="text/javascript" src="https://d1fiexxbkaecr.cloudfront.net/library-js/en/100/1404397556/library.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://d1fiexxbkaecr.cloudfront.net/library-js/en/100/1426855570/library.js" crossorigin="anonymous"></script>
 
-          <script type="text/javascript" src="https://d1fiexxbkaecr.cloudfront.net/library-js/en/100/1404397556/translations/1398867400.js" crossorigin="anonymous"></script>
+          <script type="text/javascript" src="https://d1fiexxbkaecr.cloudfront.net/library-js/en/100/1426855570/translations/1424446468.js" crossorigin="anonymous"></script>
 
         <script type="text/javascript">
 $(function() {
-cm.options = {"deployVersion":1404397556,"renderStamp":1404398204446,"site":{"type":100,"behaviourEntityOpen":{"_class":"SK_Behaviour_Entity_Open"},"_class":"FB_Site_Fuckbook"},"url":"https:\/\/www.fuckbook.com","urlStatic":"https:\/\/d1fiexxbkaecr.cloudfront.net\/static","urlUserContentList":{"default":"https:\/\/d37ta6l1gshlok.cloudfront.net","tmp":"https:\/\/d37ta6l1gshlok.cloudfront.net"},"urlResource":"https:\/\/d1fiexxbkaecr.cloudfront.net","language":{"_type":23,"_id":{"id":"1"},"id":1,"abbreviation":"en","_class":"CM_Model_Language"},"debug":false,"stream":{"enabled":true,"adapter":"CM_Stream_Adapter_Message_SocketRedis","options":{"sockjsUrl":"https:\/\/stream.fuckbook.com:8090"}}};
+cm.options = {"deployVersion":1426855570,"renderStamp":1426945095239,"site":{"type":100,"behaviourEntityOpen":{"_class":"SK_Behaviour_Entity_Open"},"_class":"FB_Site_Fuckbook_Fuckbook"},"url":"https:\/\/www.fuckbook.com","urlStatic":"https:\/\/d1fiexxbkaecr.cloudfront.net\/static","urlUserContentList":{"default":"https:\/\/d37ta6l1gshlok.cloudfront.net","tmp":"https:\/\/d37ta6l1gshlok.cloudfront.net"},"urlResource":"https:\/\/d1fiexxbkaecr.cloudfront.net","language":{"_type":23,"_id":{"id":"1"},"id":1,"abbreviation":"en","_class":"CM_Model_Language"},"debug":false,"stream":{"enabled":true,"adapter":"CM_Stream_Adapter_Message_SocketRedis","options":{"sockjsUrl":"https:\/\/stream.fuckbook.com:8090"}}};
 cm.ready();
-cm.views["53b56a7c6d725"] = new SK_Layout_Default({el:$("#53b56a7c6d725").get(0),params:[]});
-cm.views["53b56a7c6d7ee"] = new SK_Component_Alerts({el:$("#53b56a7c6d7ee").get(0),params:[],parent: cm.views["53b56a7c6d725"]});
-cm.views["53b56a7c6da00"] = new SK_Component_HeaderBar({el:$("#53b56a7c6da00").get(0),params:[],parent: cm.views["53b56a7c6d725"]});
-cm.views["53b56a7c6dc39"] = new SK_Component_SignIn({el:$("#53b56a7c6dc39").get(0),params:[],parent: cm.views["53b56a7c6da00"]});
-cm.views["53b56a7c6e6d4"] = new SK_Form_SignIn({el:$("#53b56a7c6e6d4").get(0),params:{"name":"SK_Form_SignIn"},parent: cm.views["53b56a7c6dc39"]});
-cm.views["53b56a7c6e097"] = new CM_FormField_Boolean({el:$("#53b56a7c6e097").get(0),params:{"name":"remember_me"},parent: cm.views["53b56a7c6e6d4"]});
-cm.views["53b56a7c6e2cb"] = new CM_FormField_Text({el:$("#53b56a7c6e2cb").get(0),params:{"name":"login"},parent: cm.views["53b56a7c6e6d4"]});
-cm.views["53b56a7c6e4d5"] = new CM_FormField_Password({el:$("#53b56a7c6e4d5").get(0),params:{"name":"password"},parent: cm.views["53b56a7c6e6d4"]});
-cm.views["53b56a7c6e7d2"] = new SK_Component_Navigation({el:$("#53b56a7c6e7d2").get(0),params:[],parent: cm.views["53b56a7c6d725"]});
-cm.views["53b56a7c6f446"] = new SK_Page_About_Privacy({el:$("#53b56a7c6f446").get(0),params:[],parent: cm.views["53b56a7c6d725"]});
-cm.views["53b56a7c6fda0"] = new SK_Component_Privacy({el:$("#53b56a7c6fda0").get(0),params:[],parent: cm.views["53b56a7c6f446"]});
-cm.views["53b56a7c70105"] = new SK_Component_LanguageSelector({el:$("#53b56a7c70105").get(0),params:[],parent: cm.views["53b56a7c6f446"]});
+cm.views["550d74473bd08"] = new SK_Layout_Default({el:$("#550d74473bd08").get(0),params:[]});
+cm.views["550d74473bdcd"] = new SK_Component_Alerts({el:$("#550d74473bdcd").get(0),params:[],parent: cm.views["550d74473bd08"]});
+cm.views["550d74473bfe8"] = new SK_Component_HeaderBar({el:$("#550d74473bfe8").get(0),params:[],parent: cm.views["550d74473bd08"]});
+cm.views["550d74473c303"] = new SK_Component_SignIn({el:$("#550d74473c303").get(0),params:[],parent: cm.views["550d74473bfe8"]});
+cm.views["550d74473ce40"] = new SK_Form_SignIn({el:$("#550d74473ce40").get(0),params:{"name":"SK_Form_SignIn"},parent: cm.views["550d74473c303"]});
+cm.views["550d74473c777"] = new CM_FormField_Boolean({el:$("#550d74473c777").get(0),params:{"name":"remember_me"},parent: cm.views["550d74473ce40"]});
+cm.views["550d74473c9fc"] = new CM_FormField_Text({el:$("#550d74473c9fc").get(0),params:{"name":"login"},parent: cm.views["550d74473ce40"]});
+cm.views["550d74473cc38"] = new CM_FormField_Password({el:$("#550d74473cc38").get(0),params:{"name":"password","lengthMin":4,"lengthMax":100},parent: cm.views["550d74473ce40"]});
+cm.views["550d74473cf32"] = new SK_Component_Navigation({el:$("#550d74473cf32").get(0),params:[],parent: cm.views["550d74473bd08"]});
+cm.views["550d74473dc96"] = new SK_Page_About_Privacy({el:$("#550d74473dc96").get(0),params:[],parent: cm.views["550d74473bd08"]});
+cm.views["550d74473e941"] = new SK_Component_Privacy({el:$("#550d74473e941").get(0),params:[],parent: cm.views["550d74473dc96"]});
+cm.views["550d74473ec9e"] = new SK_Component_LanguageSelector({el:$("#550d74473ec9e").get(0),params:[],parent: cm.views["550d74473dc96"]});
 (function () { 
-  this.conversationCount = 0;
-  this.friendRequestCount = 0;}).call(cm.views['53b56a7c6da00']);
+  this.registerField(cm.views['550d74473c777']);
+  this.registerField(cm.views['550d74473c9fc']);
+  this.registerField(cm.views['550d74473cc38']);
+  this.registerAction('Process', {"fields":{"login":true,"password":true,"remember_me":false}});}).call(cm.views['550d74473ce40']);
 (function () { 
-  this.registerField(cm.views['53b56a7c6e097']);
-  this.registerField(cm.views['53b56a7c6e2cb']);
-  this.registerField(cm.views['53b56a7c6e4d5']);
-  this.registerAction('Process', {"fields":{"login":true,"password":true,"remember_me":false}});}).call(cm.views['53b56a7c6e6d4']);
+  this.fieldOptions = [];}).call(cm.views['550d74473c777']);
 (function () { 
-  this.fieldOptions = [];}).call(cm.views['53b56a7c6e097']);
+  this.fieldOptions = {"lengthMin":null,"lengthMax":null,"forbidBadwords":false};}).call(cm.views['550d74473c9fc']);
 (function () { 
-  this.fieldOptions = {"lengthMin":null,"lengthMax":null,"forbidBadwords":false};}).call(cm.views['53b56a7c6e2cb']);
-(function () { 
-  this.fieldOptions = {"lengthMin":4,"lengthMax":100,"forbidBadwords":false};}).call(cm.views['53b56a7c6e4d5']);
+  this.fieldOptions = {"lengthMin":4,"lengthMax":100,"forbidBadwords":false};}).call(cm.views['550d74473cc38']);
 cm.getLayout()._ready();});
 </script>
 
-    <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-1769378-2']);_gaq.push(['_setDomainName', 'www.fuckbook.com']);_gaq.push(['_trackPageview']);(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();</script><script type="text/javascript">var _kmq = _kmq || [];var _kmk = _kmk || 'e1e048ce81a090e1825a43cdfb192dab9fc55cf1';function _kms(u) {
-  setTimeout(function() {
-    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script');
-    s.type = 'text/javascript';
-    s.async = true;
-    s.src = u;
-    f.parentNode.insertBefore(s, f);
-  }, 1);
-}
-_kms('//i.kissmetrics.com/i.js');
-_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');</script>
+    <script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga("create", "UA-1769378-2", {"cookieDomain":"www.fuckbook.com","clientId":"108539089"});ga("set", "dimension1", "false");ga("send", "pageview", "/about/privacy");</script>
     
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"4456a83578","applicationID":"2137721","transactionName":"ZFMHNkQEChJVUURcV10ZJhdFEQsMG2F7amhSUQA9dwcLFEBtYEdRRVcGGw==","queueTime":0,"applicationTime":29,"ttGuid":"","agentToken":"","atts":"SBQEQAweGRw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4456a83578","applicationID":"2137721","transactionName":"ZFMHNkQEChJVUURcV10ZJhdFEQsMG2F7amhSUQA9dwcLFEBtYEdRRVcGGw==","queueTime":0,"applicationTime":36,"atts":"SBQEQAweGRw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
