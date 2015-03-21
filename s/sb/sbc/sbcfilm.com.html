@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the sbcfilm.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430192018id_/http%3A//sbcfilm.com/corp/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sbcfilm.com privacy policy that was archived on 2015-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321012720id_/http%3A//sbcfilm.com/corp/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>SkinnyBodyCare :: Privacy Policy</title>
-<!-- server ip 192.168.1.46 -->
+<!-- server ip 192.168.1.41 -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
 <link href="/htdocs/newCorp.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 <!--
@@ -48,10 +49,11 @@ function join() {
 }
 -->
 </script>
-<table cellpadding="0" border="0" cellspacing="0" height="100%" width="100%" style="margin-top:8px">
+<div id="outermost" style="z-index: 9001">
+<table cellpadding="0" border="0" cellspacing="0" height="100%" width="100%" style="margin-top:8px" id="mainTable">
  <tbody><tr>
   <td height="100%" valign="top" align="center">
-   <table cellpadding="0" border="0" cellspacing="0" width="962">
+   <table cellpadding="0" border="0" cellspacing="0" width="962" id="mainTable">
     <tbody><tr>
      <td height="117">
       <table cellpadding="0" border="0" cellspacing="0" width="962" height="117">
@@ -64,7 +66,7 @@ function join() {
            <td background="/images/newCorp/topPinkBG.gif" valign="top" style="background-repeat:repeat-x;padding-top:3px;">
             <table cellpadding="0" border="0" cellspacing="0">
              <tbody><tr>
-              <td><a href="/login" class="pinkSectionLinks">Sign In</a></td>
+              <td><a href="https://www.skinnybodycare.com/login" class="pinkSectionLinks">Sign In</a></td>
               <td><img src="/images/newCorp/topPinkLine.gif"></td>
               <td><a href="javascript:join()" class="pinkSectionLinks">Register Now!</a></td>
               <td><img src="/images/newCorp/topPinkLine.gif"></td>
@@ -159,6 +161,61 @@ When you are on the SkinnyBodyCare site and are asked for personal information, 
   </td>
  </tr>
 </tbody></table>
+</div>
+<script type="text/javascript">
+<!--
+var windowheight = jQuery(window).height();
+var mainMinHeight = windowheight;
+document.getElementById('outermost').style.minHeight = windowheight + "px";
+document.getElementById('mainTable').style.height = windowheight + "px";
+-->
+</script>
+<script type="text/javascript">
+<!--
+var docHeight = jQuery(document).height();
+var windowHeight = jQuery(window).height();
+function movie(x) {
+   document.getElementById('moviePage').style.height=docHeight + "px";
+   document.getElementById('moviePage').style.display="";
+   var link = "www.youtube.com/embed/KwJUqKeqlus";
+   if (x) {
+      link = x;
+   }
+   document.getElementById('movieFrame').src = "https://" + link + "?autoplay=1&rel=0";
+   MakeCenter('movie');
+}
+
+function movieClose() {
+
+   document.getElementById('moviePage').style.display="none";
+   document.getElementById('movieFrame').src ='';
+}
+
+function MakeCenter(elementId)  {
+
+     var scrollHeight = jQuery(document).scrollTop();
+  
+     var objControl=document.getElementById(elementId);
+         
+
+     if(objControl !=null)  {
+ 
+          var left=(objControl.offsetParent.clientWidth/2)-(objControl.clientWidth/2)+objControl.offsetParent.scrollLeft;
+         
+          var top=(windowHeight/2)-(objControl.clientHeight/2)+scrollHeight;
+
+           if (window.chrome) { 
+              document.getElementById('moviePage').style.top=scrollHeight + "px"; 
+              top=(objControl.clientHeight/2);
+           }
+           objControl.style.top= top + "px";
+           objControl.style.left= left + "px";
+           var _scrollHeight = jQuery(document).scrollTop();
+          }
+    }
+
+-->
+</script>
 
 
 </body></html>
