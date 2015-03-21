@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817105816id_/http%3A//www.1800lighting.com/Capitol-Lighting-About/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321212124id_/http%3A//www.1800lighting.com/Capitol-Lighting-About/privacy.cfm) for the most accurate reproduction.*
 
 # 1800lighting.com - Privacy
 
