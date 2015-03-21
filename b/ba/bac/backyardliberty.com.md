@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backyardliberty.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217020741id_/http%3A//www.backyardliberty.com/statics/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backyardliberty.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321173038id_/http%3A//www.backyardliberty.com/statics/privacy.php) for the most accurate reproduction.*
 
 # Backyard Liberty
 
@@ -64,7 +64,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions](https://web.archive.org/web/20140217020741id_/http%3A//www.backyardliberty.com/statics/termsandconditions.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions](https://web.archive.org/web/20150321173038id_/http%3A//www.backyardliberty.com/statics/termsandconditions.php)
 
 **Your Consent**
 
