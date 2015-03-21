@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219062150id_/http%3A//www.kqed.org/about/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322000934id_/http%3A//www.kqed.org/about/help/privacy.jsp) for the most accurate reproduction.*
 
 # KQED's Commitment to Your Online Privacy | KQED Public Media for Northern CA
 
@@ -36,22 +36,22 @@ _Effective_ : December 11, 2013
 
 ####  Also on KQED.org this week ... 
 
-[](http://blogs.kqed.org/bayareabites/tag/christmas/)
+[](https://web.archive.org/community/heritage/women/)
 
-##### Bay Area Bites Holiday Menus
+##### KQED Celebrates Women's History Month
 
-Bay Area Bites shares holiday menus with creative yet traditional recipes along with related posts to cooking guides, advice, and safety tips to have a delicious and stress-free holiday meal.
+KQED proudly celebrates the richness and diversity of the greater San Francisco Bay Area by commemorating Women's History Month. In March, KQED Public TV 9 and Public Radio 88.5 FM schedule a special lineup of programs focused on themes and issues related to women. 
 
-  * [View Recipes](http://blogs.kqed.org/bayareabites/tag/christmas/)
+  * [Download the Guide](https://web.archive.org/community/heritage/women/)
 
 
 
-[](https://web.archive.org/holidays)
+[](http://ww2.kqed.org/news/series/boomtown)
 
-##### KQED Celebrates the Holidays
+##### "Boomtown" History of the San Francisco Bay Area
 
-Find holiday-related KQED television and radio programming, Bay Area events, recipes, and other Web-exclusive goodies.
+KQED's "Boomtown" series will seek to identify what is happening in real time in the current boom, and also draw out the causes and possible solutions to the conflicts and pressures between the old and the new.
 
-  * [Holidays Page](https://web.archive.org/holidays)
+  * [Boomtown Series](http://ww2.kqed.org/news/series/boomtown)
 
 
