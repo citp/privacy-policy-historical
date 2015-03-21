@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4bucks.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920215939id_/http%3A//www.cam4bucks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4bucks.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321082614id_/https%3A//cam4bucks.com/privacy-policy) for the most accurate reproduction.*
 
 # Cam4bucks - Become a webcam model for Cam4 and earn money!
 
