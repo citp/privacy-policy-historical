@@ -1,46 +1,62 @@
-<!--The following is the downloaded HTML source of the allpaws.com privacy policy that was archived on 2014-07-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140705035857id_/https%3A//www.allpaws.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allpaws.com privacy policy that was archived on 2015-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322150535id_/https%3A//www.allpaws.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy | AllPaws</title>
 
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=590023174389442"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/292736824.js"></script>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=590023174389442"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"19c6cfbaae","applicationID":"2657044","transactionName":"cF0MEksKClRQQEtAW0dXTRZLDBBZVks7Q11fWwEf","queueTime":0,"applicationTime":166,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAEOUFJTGwEGUVZSAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"19c6cfbaae","applicationID":"2657044","transactionName":"cF0MEksKClRQQEtAW0dXTRZLDBBZVks7Q11fWwEf","queueTime":0,"applicationTime":75,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-627.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAEOUFJTGwEGUVZSAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <meta content="none" name="msapplication-config">
 <meta content="AllPaws" name="apple-mobile-web-app-title">
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-152x152-precomposed-37842d8730998c75a1af1b5f6ea1ee0f.png" rel="apple-touch-icon">
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-precomposed-260eb4294c55d305ff5610c62b72308e.png" rel="apple-touch-icon-precomposed">
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-72x72-precomposed-c81fb76af6c7c70af8e0d6f7e097297d.png" rel="apple-touch-icon-precomposed" sizes="72x72">
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-76x76-precomposed-a79c8f8a2be2b466d732479c22b85824.png" rel="apple-touch-icon-precomposed" sizes="76x76">
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-114x114-precomposed-8d969194f1eadcafe8cddeb32dd22a0b.png" rel="apple-touch-icon-precomposed" sizes="114x114">
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-120x120-precomposed-4abba4fe9e9633a9d3a961a58af7c3a2.png" rel="apple-touch-icon-precomposed" sizes="120x120">
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-144x144-precomposed-d41a7d8edcf0d69acd28454cfd1f3d9b.png" rel="apple-touch-icon-precomposed" sizes="144x144">
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-152x152-precomposed-37842d8730998c75a1af1b5f6ea1ee0f.png" rel="apple-touch-icon-precomposed" sizes="152x152">
+<meta content="voaw674EOjU71z3gQoOSVdJRuxdtFdqdhtAnvE83EUo" name="google-site-verification">
+<meta content="253FA07A434307F8D06CBB140C322BBC" name="msvalidate.01">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-152x152-precomposed-ab40aa2c3c097d613e19546620937c69.png" rel="apple-touch-icon">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-precomposed-d2a761e9d197af378ff62122997a1f80.png" rel="apple-touch-icon-precomposed">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-72x72-precomposed-5ee36dbc88add7ce04c93dc90095e7ea.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-76x76-precomposed-9c68313ac817e8e828db550a409f9890.png" rel="apple-touch-icon-precomposed" sizes="76x76">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-114x114-precomposed-8ff781c9bf5826daee5ad524e69d3b2f.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-120x120-precomposed-681b1a9b0333c6ee722fcd61a27e8ee1.png" rel="apple-touch-icon-precomposed" sizes="120x120">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-144x144-precomposed-e43d105a9850866ec953c929e9d81524.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/apple-touch-icon/apple-touch-icon-152x152-precomposed-ab40aa2c3c097d613e19546620937c69.png" rel="apple-touch-icon-precomposed" sizes="152x152">
+
 <meta content="590023174389442" property="fb:app_id">
-<meta content="AllPaws" property="og:site_name">
-<meta content="website" property="og:type">
-<meta content="http://www.allpaws.com" property="og:url">
-<meta content="AllPaws" property="og:title">
-<meta content="https:https://d23xpgl4j2w7z3.cloudfront.net/assets/facebook-open-graph-image-0fa3aad05cdc2babf9c0cbeaba04d261.png" property="og:image">
-<meta content="AllPaws.com Pet Adoption is easy. Adopt a Dog, Cat, Pet, Rabbit. Search 1,000s of animals by location and breed for pet rescue and pet adoptions." name="description">
+<meta content="Welcome to AllPaws. AllPaws offers a fresh and modern approach to pet adoption making it easy to find a new pet." name="description">
+
 
 <link href="https://www.allpaws.com/opensearch.xml" rel="search" title="AllPaws.com" type="application/opensearchdescription+xml">
 <link href="https://www.allpaws.com/blog.rss" rel="alternate" title="RSS" type="application/rss+xml">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/favicon-581c538f5a91625159847ac5fd2f9cb2.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css" media="screen" rel="stylesheet" type="text/css">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/vendor-923dc2d41c83c0fc55ab0ac5b3da6c0a.css" media="all" rel="stylesheet">
+<script>
+  //<![CDATA[
+    (function(f,b){
+        var c;
+        f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
+        f._hjSettings={hjid:20022, hjsv:3};
+        c=b.createElement("script");c.async=1;
+        c.src="//static.hotjar.com/c/hotjar-20022.js?sv=3";
+        b.getElementsByTagName("head")[0].appendChild(c);
+    })(window,document);
+  //]]>
+</script><script async="" src="//static.hotjar.com/c/hotjar-20022.js?sv=3"></script>
 
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/favicon-ee4d3d23f18768941474d07d43810bfe.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" media="screen" rel="stylesheet" type="text/css">
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/vendor-00f39aa963a5cf0b9287d2fd00920492.css" media="all" rel="stylesheet">
-<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/application-1c4e16434c36ba3ccae731fb6a1ddd56.css" media="all" rel="stylesheet">
+<link href="https://d23xpgl4j2w7z3.cloudfront.net/assets/application-ea2976a5ab8616187a23dab0564c5098.css" media="all" rel="stylesheet">
 <!--[if IE]>
-<script src="https://d23xpgl4j2w7z3.cloudfront.net/assets/ie-e5ec51df747132ebb69c41d23183bbff.js"></script>
+<script src="https://d23xpgl4j2w7z3.cloudfront.net/assets/ie-2aff8b2ad6876ecc6e4671bedfa6f6eb.js"></script>
 <![endif]-->
 <meta content="authenticity_token" name="csrf-param">
-<meta content="TXVLn4MdoXK3uVCyiQT5WOYr90VFiES7+P5/nbd7zHA=" name="csrf-token">
+<meta content="bfT02G+BwTwMNxQ6KwcA96msr99WG6YI0q+F4uEh46I=" name="csrf-token">
 </head>
-<body class="logged-out controller-site site-privacy_policy">
+<body class="logged-out  controller-site site-privacy_policy">
+<a class="iphone-banner visible-xs" href="https://itunes.apple.com/us/app/allpaws-search-adoptable-pets/id917673135?mt=8" target="_blank">
+<img alt="Download The AllPaws iPhone App" class="img-responsive" src="https://d23xpgl4j2w7z3.cloudfront.net/assets/iphone-banner-0f8f82e1f285bca8c48f0a879b6dba4a.png">
+</a>
+
 <header class="short" id="header">
 <div class="header-holder">
 <div class="header-frame">
@@ -50,13 +66,60 @@
 </strong>
 <nav class="pages hidden-xs">
 <ul class="add-nav5">
-<li>
+<li class="main-nav-search">
 <a href="https://www.allpaws.com/search">
 <i class="fa fa-search"></i>
 Search
 </a>
+<i class="hidden-xs fa fa-angle-down" data-target="#menu1" data-toggle="collapse" href="#"></i>
+<div class="drop collapse community" id="menu1">
+<ul>
+<li>
+<a class="ico2" href="https://www.allpaws.com/search">
+<i class="fa fa-paw"></i>
+Search All
+</a>
 </li>
 <li>
+<a class="ico2" href="https://www.allpaws.com/fosters">
+<i class="fa fa-paw"></i>
+Foster a Pet
+</a>
+</li>
+<li>
+<a class="ico2" href="https://www.allpaws.com/dog-adoption">
+<i class="fa fa-paw"></i>
+Find a Dog
+</a>
+</li>
+<li>
+<a class="ico2" href="https://www.allpaws.com/cat-adoption">
+<i class="fa fa-paw"></i>
+Find a Cat
+</a>
+</li>
+<li>
+<a class="ico2" href="https://www.allpaws.com/most-popular-pet-breeds">
+<i class="fa fa-paw"></i>
+Trending Pets
+</a>
+</li>
+<li>
+<a class="ico2" href="https://www.allpaws.com/organizations">
+<i class="fa fa-paw"></i>
+Find a Shelter
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="main-nav-browse">
+<a href="https://www.allpaws.com/browse">
+<i class="fa fa-newspaper-o"></i>
+Browse
+</a>
+</li>
+<li class="main-nav-community">
 <a class="collapsed has-drop" data-target="#menu2" data-toggle="collapse" href="#">
 Community<i class="hidden-xs fa fa-angle-down"></i></a>
 <div class="drop collapse community" id="menu2">
@@ -71,12 +134,24 @@ Blog
 <a class="ico2" href="https://www.allpaws.com/widgets"><i class="fa fa-cog"></i>Widgets
 </a>
 </li>
-<li>
-<a class="ico2" href="https://www.allpaws.com/forums/"><i class="fa fa-comments-o"></i>Forums
+<li class="last">
+<a class="ico3" href="https://www.allpaws.com/pet-videos"><i class="fa fa-youtube-play"></i>Videos
 </a>
 </li>
-<li class="last">
-<a class="ico3" href="https://www.allpaws.com/videos"><i class="fa fa-youtube-play"></i>Videos
+<li>
+<a class="ico3" href="https://www.allpaws.com/pet-memes"><i class="fa fa-pencil fa-fw"></i>Pet Memes
+</a>
+</li>
+<li>
+<a class="ico3" href="https://www.allpaws.com/user_guide">
+<i class="fa fa-user"></i>
+User Guide
+</a>
+</li>
+<li>
+<a class="ico3" href="https://www.allpaws.com/success-stories">
+<i class="fa fa-trophy"></i>
+Success Stories
 </a>
 </li>
 </ul>
@@ -97,8 +172,8 @@ for Free
 </span>
 </a>
 </li>
-<li class="listing active">
-<a class="hidden-xs create js-auth-open-signup" href="https://www.allpaws.com/signup/create-listing">Create a Listing</a>
+<li class="listing active main-nav-signup-create-listing">
+<a class="hidden-xs create js-auth-open-signup" href="https://www.allpaws.com/signup/create-listing">Post a Listing</a>
 </li>
 </ul>
 </nav>
@@ -113,10 +188,10 @@ for Free
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h1>
+<h2>
 AllPaws /
 <span>Privacy Policy</span>
-</h1>
+</h2>
 </div>
 </div>
 </div>
@@ -137,6 +212,9 @@ AllPaws /
 <a href="https://www.allpaws.com/help">FAQ</a>
 </li>
 <li class="">
+<a href="https://www.allpaws.com/user_guide">User Guide</a>
+</li>
+<li class="">
 <a href="https://www.allpaws.com/dos_donts">Do's &amp; Don'ts</a>
 </li>
 <li class="">
@@ -146,7 +224,7 @@ AllPaws /
 <a href="https://www.allpaws.com/privacy_policy">Privacy Policy</a>
 </li>
 <li class="two-line ">
-<a href="https://www.allpaws.com/for_shelters_rescues">Shelters &amp; Rescues</a>
+<a href="https://www.allpaws.com/for-shelters-rescues">Shelters &amp; Rescues</a>
 </li>
 <li class="">
 <a href="https://www.allpaws.com/jobs">Jobs</a>
@@ -159,8 +237,8 @@ AllPaws /
 <section class="tab-pane active">
 
 <h1>Privacy Policy</h1>
-<p>Version Date: 11/5/2013</p>
-<p>Your privacy is important to us.  This Privacy Policy sets forth how DCL Ventures, Inc., the owner and operator of the Allpaws.com website (hereinafter “Allpaws.com,” “we,” or “us”) will collect, use and share information in connection with your use of the Allpaws.com website (the “Service”).</p>
+<p>Version Date: 2/27/2015</p>
+<p>Your privacy is important to us.  This Privacy Policy sets forth how DCL Ventures, Inc., the owner and operator of the Allpaws.com website (hereinafter “Allpaws.com,” “we,” or “us”) will collect, use and share information in connection with your use of the Allpaws.com website and mobile application (the “Service”).</p>
 <p>BY ACCESSING OR USING THE SERVICE, YOU AGREE TO BE BOUND BY ALL TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT WISH TO ACCEPT ALL THE TERMS OF THIS PRIVACY POLICY, DO NOT ACCESS OR USE THE SERVICE.</p>
 <p>If you access or login to our Service using a third party Social Networking Service (“SNS”), such as Facebook or Google+, you may be required to also read and accept the terms of service and privacy policy of that SNS.</p>
 <h2>INFORMATION WE COLLECT</h2>
@@ -169,13 +247,13 @@ AllPaws /
 <p>We may allow you to access or login to the Service using a SNS, in which case you are allowing Allpaws.com access to the Personal Information you have provided to that SNS. The information share varies from service to service and is also controlled by the privacy settings you established at the SNS. The information we collect when you access the Service on an SNS may include: your first and last name, your user ID, the user IDs of your friends, your profile picture, your locale, city, state and country, your e-mail address, your gender and your birthdate.</p>
 <p>By using the Service through an SNS, you are authorizing Allpaws.com to collect, store, and use in accordance with this Privacy Policy any and all information that you agreed the SNS could provide to Allpaws.com.</p>
 <h2 class="underline">B. Information You Give To Us Directly</h2>
-<p>When you interact with the Service (whether or not on an SNS), we may collect, store, and use information from you directly that you voluntarily provide to us. For example, we may allow you to register with us by creating an account or profile within the Service, in which case you may be required to provide certain identifying information, such as your name, address, age, e-mail address, a password and other information that helps us confirm that it is you accessing your account. In addition, you may voluntarily submit Personal Information when you, for example, make a purchase, sign up for newsletters, send us feedback, or post on our Facebook fan page.</p>
+<p>When you interact with the Service (whether or not on an SNS), we may collect, store, and use information from you directly that you voluntarily provide to us. For example, we may allow you to register with us by creating an account or profile within the Service, in which case you may be required to provide certain identifying information, such as your name, address, age, e-mail address, a password and other information that helps us confirm that it is you accessing your account. In addition, you may voluntarily submit Personal Information when you, for example, make a purchase, sign up for newsletters, send us feedback, post on our Facebook fan page, or fill out our universal pet adoption application.</p>
 <h2 class="underline">C. User Submissions</h2>
 <p>We may collect information you provide to us while using various communication services, such as, chat areas and/or other message, communication or other interactive forums accessed through the Service which are designed to enable you to communicate with others or to post content on the Service (“Communication Services”). Please remember that any information you disclose on our Communication Services becomes public information and is subject to redistribution by Allpaws.com pursuant to this Privacy Policy and our Terms of Service Agreement. You should exercise caution and discretion when deciding to disclose any Personal Information in a submission or posting. There is no expectation of privacy when using, posting, or otherwise participating in the Communication Services. If you post content, such as messages, photos and videos, please be aware that any Personal Information contained in such content is accessible to registered users or visitors to the Allpaws.com website or Communication Service and we have no control over how those users may use such Personal Information.</p>
 <h2 class="underline">D. Payment Information</h2>
 <p>Because we use a third-party payment service (such as PayPal) to process transactions, if any, on our Service, we generally do not collect sensitive payment information, such as your credit card number.  We may, however, collect and use information related to your purchases and purchase history.</p>
 <h2 class="underline">E. Technical Usage Information and Cookies</h2>
-<p>Log Data and Mobile Devices.  When you use the Service, our servers record information that your browser sends whenever you visit a website (“Log Data“). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to the Service, pages of the websites involved in the Service that you visit, the time spent on those pages, information you search for, access times and dates, and other information. If you access the Service from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device, such as your device type and operating system.</p>
+<p>Log Data and Mobile Devices.  When you use the Service, our servers record information that your browser sends whenever you visit a website (“Log Data“). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to the Service, pages of the websites involved in the Service that you visit, the time spent on those pages, information you search for, access times and dates, and other information. If you access the Service from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device, such as your device type, geo-location and operating system.</p>
 <p>Cookies and Local Storage.  We may also use cookies and other tracking technologies (including but not limited to browser cookies, pixels, beacons, and Adobe flash technology), which are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that Service. These technologies may be used to collect and store information about your usage of Service, such as pages you have visited and search queries you have run. Information contained in a cookie may also be linked to your Personal Information for purposes such as improving the quality of the Service and making the Service easier to use. You can disable cookies at any time, although, if you do so, you may not be able to access or use the Service or certain of its features.</p>
 <h2 class="underline">F. Customer Support Information</h2>
 <p>When you ask for assistance from our customer support team, we will collect and store the contact information you provide (generally your name and e-mail address), information about your activity on the Service, your user ID number, and certain technical details, such as your browser and IP address. We will also store and use the correspondence and any information contained within.</p>
@@ -190,18 +268,21 @@ AllPaws /
 <p>We may make your non-public Personal Information available to certain third party service providers, such as contractors, agents, or sponsors, who help us manage or provide the Service by, for example: developing or supporting products and features; conducting e-mail marketing on our behalf; web-hosting; processing payments; administering message boards; fulfilling orders; processing data or statistics; or assisting with the administration, judging, and prize fulfillment aspects of contests and promotions. These outside service providers are required to protect non-public Personal Information entrusted to them and not use it for any other purpose than the specific services they are providing to Allpaws.com.</p>
 <h2 class="underline">C. To Contact You</h2>
 <p>We are committed to providing you with the best possible user experience and, therefore, one of the key uses of your personal information is to communicate with you. We may periodically contact you in connection with customer support inquiries and to alert you as to the status of your account. We may also contact you by e-mail for research purposes so that we can continually improve and update the Service based on your input.</p>
-<p>We may also send promotional e-mail directly or in partnership with parties other than Allpaws.com to provide you with special offers and other services. If you want to stop receiving promotional materials from Allpaws.com or its partners, follow the unsubscribe instructions at the bottom of each party’s e-mail. There are certain service notification e-mails that you may not opt-out of as long as you are registered with or subscribed to Service, such as notifications of changes to our Service or policies.</p>
-<h2 class="underline">D. To Deliver Relevant Advertising</h2>
+<p>We may also send promotional e-mail directly or in partnership with parties other than Allpaws.com to provide you with special offers and other services. If you want to stop receiving promotional materials from Allpaws.com or its partners, follow the unsubscribe instructions at the bottom of each party’s e-mail or change the settings in your "My Account" page under "Email Preferences." There are certain service notification e-mails that you may not opt-out of as long as you are registered with or subscribed to Service, such as notifications of changes to our Service or policies. If you provided us with your mailing address we or our partners may also send you products and special offers by regular mail (such as our "new pet parent" welcome kit).</p>
+<h2 class="underline">D. To Deliver Relevant Advertising and Promotions</h2>
 <p>We may use the information you provide to us, and information we collect about your use of the Service through cookies and other technologies, to assist us in delivering you relevant ads when you use the Service. We may work with third party advertising networks and advertisers who help deliver these ads to you. We do not share your non-public Personal Information with these third parties, but we may share anonymized or aggregated information with them to improve the relevancy of the ads you see on the Service. As noted above, these third party advertising networks and advertisers may also use cookies and similar technologies to collect and track Non-Personal Information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests.</p>
-<h2 class="underline">E. Legal Matters; Safety</h2>
+<h2 class="underline">E. To Share With Our Business Partners </h2>
+<p>We may communicate to you information or special offers from other companies or organizations with whom we have a business relationship. In such cases, we do not provide your Personal Information to them and they will not know your identity unless you choose to transact with them, in which case their privacy policies will govern your relationship. With your consent, we may share your Personal Information with other companies or organizations that are not part of AllPaws.com. These companies and organizations may use the information we share to provide special offers and opportunities to you. For example, if you choose to receive additional information about "pet insurance" on the sign-up confirmation page, we may share your information (including Personal Information) with a business partner who may send you offers for pet insurance. You will have the opportunity to unsubscribe from any subsequent e-mail offers by following the instructions on such e-mails. </p>
+<h2 class="underline">F. Legal Matters; Safety</h2>
 <p>We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you as may be permitted or required by law (including, but not limited to, court order or subpoena), or to prevent or investigate suspected fraud, violations of our Terms of Service Agreement or this Privacy Policy, or activity that appears to us to be illegal or may expose us to legal liability.</p>
-<h2 class="underline">F. Sale or Transfer of Assets</h2>
+<h2 class="underline">G. Sale or Transfer of Assets</h2>
 <p>If Allpaws.com sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Allpaws.com may transfer your Personal Information to the party or parties involved in the transaction as part of that transaction.</p>
 <h2>POLICY REGARDING CHILDREN</h2>
 <p>The Service is not intended for children under the age of 13, and we do not knowingly collect Personal Information from children under 13 years of age. In the event that we learn that we have inadvertently gathered personal information from children under the age of 13, we will take reasonable measures to promptly erase such information from our records.</p>
 <h2>USER CONTROL AND RETENTION OF DATA</h2>
 <p>If you have created an account with us directly (not through an SNS), you may access and change your account information by visiting your account page and making the desired changes. To manage the information we receive about you from an SNS, you will need to follow the instructions at that Service for updating your information and changing your privacy settings. Once we receive your information from an SNS, that information is stored and used by us in accordance with this Privacy Policy.</p>
-<p>We may retain information collected from you, including Personal Information, for a reasonable period of time after you have ceased using the Service or removed your account, for the purpose of providing and improving the Service, for analytical and recordkeeping purposes and integrity, as well as to prevent fraud, resolve disputes, enforce our Terms or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of the Service. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.</p>
+<p>If you want to stop using your account you may deactivate it. When you deactivate an account, no user will be able to see it and all marketing and activity-related emails will cease, but it will not be deleted. For your convenience, we save your profile information in case you later decide to reactivate your account, and may retain your information and data associated with your account as provided in this Privacy Policy. At this time, we do not have an option for users to permanently delete their accounts.</p>
+<p>We may retain information collected from you, including Personal Information, after you have ceased using the Service or deactivated your account, for the purpose of providing and improving the Service, for analytical and recordkeeping purposes and integrity, as well as to prevent fraud, resolve disputes, enforce our Terms or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of the Service. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.</p>
 <h2>SECURITY</h2>
 <p>We have put in place reasonable technical and organizational measures designed to secure your Personal Information from accidental loss and from unauthorized access, use, alteration, or disclosure. However, we do not guarantee, and explicitly disclaim any implied representation, warranty, or other promise, that unauthorized third parties will never be able to overcome those measures or use your Personal Information for improper purposes. Also please note that e-mail and messaging systems are not considered secure, so we discourage you from sending us Personal Information through these mediums.</p>
 <h2>THIRD PARTIES</h2>
@@ -233,12 +314,14 @@ Email:
 </div>
 
 </main>
+<div class="bottom-sticky-notices achievement-notices hidden-xs hidden-sm"></div>
+
 <footer id="footer">
 <div class="footer-holder">
 <address class="address">
 One Penn Plaza, 36th Floor | New York, New York 10119
 <br>
-© 2014
+© 2015
 DCL Ventures, Inc.
 All rights reserved.
 <br>
@@ -288,7 +371,10 @@ AllPaws.com is a verified secure site
 </div>
 <ul class="footer-menu">
 <li>
-<a href="https://www.allpaws.com/about_us">About</a>
+<a href="https://www.allpaws.com/about-us">About</a>
+</li>
+<li>
+<a href="http://pet360inc.com/advertising/" target="_blank">Advertise on AllPaws</a>
 </li>
 <li>
 <a href="https://www.allpaws.com/widgets">Widgets</a>
@@ -312,7 +398,7 @@ AllPaws.com is a verified secure site
 <a href="https://www.allpaws.com/jobs">Jobs</a>
 </li>
 <li>
-<a href="https://www.allpaws.com/for_shelters_rescues">Shelters &amp; Rescues</a>
+<a href="https://www.allpaws.com/for-shelters-rescues">Shelters &amp; Rescues</a>
 </li>
 <li>
 <a href="https://www.allpaws.com/report_bug">Report Bugs</a>
@@ -320,14 +406,33 @@ AllPaws.com is a verified secure site
 </ul>
 </div>
 </div>
-<div class="leaderboard-ad hidden-xs js-lazy-ad" data-ad="&quot;<script async src=\&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\&quot;></script>\n<!-- footer -->\n<ins class=\&quot;adsbygoogle\&quot;\n     style=\&quot;display:inline-block;width:728px;height:90px\&quot;\n     data-ad-client=\&quot;ca-pub-3918008638004881\&quot;\n     data-ad-slot=\&quot;4778599450\&quot;></ins>\n<script>\n(adsbygoogle = window.adsbygoogle || []).push({});\n</script>&quot;"></div>
+<div class="leaderboard-ad hidden-xs">
+
+<iframe width="728" height="90" class="js-ad-reload" src="https://www.allpaws.com/pet360/728x90_Footer.htm" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true"></iframe>
+
+</div>
 </div>
 </footer>
 
 <script>
   //<![CDATA[
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+    ga('create', 'UA-45482541-1', 'allpaws.com');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+  //]]>
+</script>
+
+<script src="https://js.stripe.com/v2/" type="text/javascript"></script>
+
+<script>
+  //<![CDATA[
     window.AP = {
-      Flags: {"Authentication":{"authenticated":false},"ControllerAction":"site-privacy_policy","Controller":"site","Facebook":{"is_facebook_app":false,"should_authenticate":false,"authentication_path":"/users/auth/facebook","apps_hostname":"apps.facebook.com","canvas_url":"https://apps.facebook.com/allpawswebsite","page_graph_id":229241493895865,"connected":false},"Routes":{"autocomplete_source_organizations_path":"/autocomplete/source_organizations","autocomplete_animals_path":"/autocomplete/animals","friend_inviter_email_path":"/friend_inviter/email","newsletter_index_path":"/newsletter","search_results_path":"/search/results","search_widget_results_path":"/widget/search/results"}},
+      Flags: {"Achievement":{"points_by_action":{"sponsor_animal":2500,"common_application_submit":1000,"adoption_inquire":300,"friend_invite":300,"register":250,"upload_photo":175,"profile_share":100,"search_save":80,"video_watch":30,"favorite":20,"search_perform":10,"profile_view":5},"descriptions_by_action":{"sponsor_animal":"Sponsored a Pet","favorite":"Favorited a Pet","profile_share":"Shared a Pet on Facebook","profile_view":"Viewed a Pet Profile","adoption_inquire":"Sent a Message","video_watch":"Watched a Community Video","search_perform":"Searched for Pets","search_save":"Saved a Search","friend_invite":"Invited a Friend","common_application_submit":"Submitted an Adoption Application","register":"Registered Account","upload_photo":"Uploaded Profile Photo"}},"Authentication":{"authenticated":false},"ControllerAction":"site-privacy_policy","Controller":"site","Facebook":{"is_facebook_app":false,"should_authenticate":false,"authentication_path":"/users/auth/facebook","apps_hostname":"apps.facebook.com","canvas_url":"https://apps.facebook.com/allpawswebsite","page_graph_id":229241493895865,"connected":false},"Routes":{"autocomplete_source_organizations_path":"/autocomplete/source_organizations","autocomplete_animals_path":"/autocomplete/animals","friend_inviter_email_path":"/friend_inviter/email","newsletter_index_path":"/newsletter","search_results_path":"/search/results","search_widget_results_path":"/widget/search/results","achievements_create_path":"/achievements","follow_path":"/follows","like_path":"/likes","create_feed_item_path":"/feed"},"User":{"email":null}},
       Instances: {},
       NameSpaces: {}
     }
@@ -388,19 +493,6 @@ AllPaws.com is a verified secure site
 </script>
 
 
-<script>
-  //<![CDATA[
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
-    ga('create', 'UA-45482541-1', 'allpaws.com');
-    ga('require', 'displayfeatures');
-    ga('send', 'pageview');
-  //]]>
-</script>
-
 <script src="//use.typekit.net/ywx6auk.js" type="text/javascript"></script>
 <script>
   //<![CDATA[
@@ -410,35 +502,25 @@ AllPaws.com is a verified secure site
 
 <script>
   //<![CDATA[
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-    (function() {
-    var gads = document.createElement('script');
-    gads.async = true;
-    gads.type = 'text/javascript';
-    var useSSL = 'https:' == document.location.protocol;
-    gads.src = (useSSL ? 'https:' : 'http:') +
-    '//www.googletagservices.com/tag/js/gpt.js';
-    var node = document.getElementsByTagName('script')[0];
-    node.parentNode.insertBefore(gads, node);
-    })();
+    /* <![CDATA[ */
+    var google_conversion_id = 985870335;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
   //]]>
 </script>
-<script>
-  //<![CDATA[
-    googletag.cmd.push(function() {
-    googletag.defineSlot('/5945391/Pet360/Network/Sites/AllPaws/160x600', [160, 600], 'Pet360/Network/Sites/AllPaws/160x600').addService(googletag.pubads());
-    googletag.defineSlot('/5945391/Pet360/Network/Sites/AllPaws/320x50_Mobile', [320, 50], 'Pet360/Network/Sites/AllPaws/320x50_Mobile').addService(googletag.pubads());
-    googletag.defineSlot('/5945391/Pet360/Network/Sites/AllPaws/728x90_Footer', [728, 90], 'Pet360/Network/Sites/AllPaws/728x90_Footer').addService(googletag.pubads());
-    googletag.defineSlot('/5945391/Pet360/Network/Sites/AllPaws/728x90_FullPage', [728, 90], 'Pet360/Network/Sites/AllPaws/728x90_FullPage').addService(googletag.pubads());
-    googletag.defineSlot('/5945391/Pet360/Network/Sites/AllPaws/728x90_SearchPage', [728, 90], 'Pet360/Network/Sites/AllPaws/728x90_SearchPage').addService(googletag.pubads());
-    googletag.enableServices();
-    });
-  //]]>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+<![CDATA[
+]]>
 </script>
+<noscript>
+<div style='display:inline;'>
+<img alt='' height='1' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/985870335/?value=0&amp;guid=ON&amp;script=0' style='border-style:none;' width='1'>
+</div>
+</noscript>
 
-<script src="https://d23xpgl4j2w7z3.cloudfront.net/assets/application-3d66cb9bac5e14ed384ea087905b3ac5.js"></script>
+<script src="https://d23xpgl4j2w7z3.cloudfront.net/assets/application-9c0341dc36aff81b02c0d4170463200c.js"></script>
 
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
