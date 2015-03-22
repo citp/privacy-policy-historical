@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommyrated.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120033736id_/http%3A//mommyrated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyrated.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322142327id_/http%3A//mommyrated.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mommy Rated
+# Privacy Policy — Mommy Rated
 
 Our team here at Mommy rated is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
