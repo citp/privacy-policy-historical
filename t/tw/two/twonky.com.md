@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twonky.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071105id_/http%3A//www.pv.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twonky.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322191633id_/http%3A//www.pv.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | PacketVideo
 
@@ -48,8 +48,6 @@ Attn: Internet Marketing
 **Information We Automatically Collect:** For each web visitor, we record date and time of visit, IP address and browser type to analyze how visitors use our site and to gather broad demographic information like country of origin and browser usage among our visitors. This information will not be matched against your personal information as supplied through all the means disclosed above. We may use cookies to track session information and site usage patterns. We are also reviewing the use of monitoring software to prevent the illegal downloads of our proprietary software from embargoed nations as specified in the Export Compliance Requirements set by the United States Federal Government. Updates to our Privacy Policy will be announced on our Web site.
 
 **Privacy and Children:** PacketVideo and the PacketVideo web sites do not target children (defined as those persons under 13 years of age) as an audience or a market, and PacketVideo does not collect information about the age of its web site users. PacketVideo intends to comply with the U.S. Children's Online Privacy Protection Act of 1998. If we learn that we have inadvertently collected personal information from a child we will make all reasonable efforts to delete that data from our records.
-
-PacketVideo adheres to the US Safe Harbor Privacy Principles, and is registered with the U.S. Department of Commerce's Safe Harbor Program.
 
 **Security:** To protect the loss, misuse and alteration of the information under our control, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. PacketVideo strives to protect the privacy of the information you provide, and inadvertent disclosure of that information is extremely unlikely. In the event of such an inadvertent disclosure, PacketVideo will do everything commercially reasonable to limit and remedy the disclosure, but PacketVideo accepts no liability for any unintentional disclosure. In addition, in the unlikely event that any government or private individual seeks information, PacketVideo will not voluntarily provide the information, but will obey any court order requiring disclosure.
 
