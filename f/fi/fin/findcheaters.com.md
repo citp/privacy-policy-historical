@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findcheaters.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209225157id_/http%3A//www.findcheaters.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findcheaters.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322231538id_/http%3A//www.findcheaters.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Findcheaters : Looking for Something Discreet?
 
@@ -54,7 +54,7 @@ However, We may disclose personal information about Visitors or Members, or info
     8. Anyone who violates Our Anti-Spam Policy, may be subject to having their personal information made public. If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User profile, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our websites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop. 
   7. Privacy Policies of Third Parties 
 
-This Privacy Policy only addresses the Sites offered by Us. Other websites or services, such as those websites we provide links to, websites or services you may have clicked-on that directed you to the Services or websites that may be accessible to you through the Sites, have their own privacy policies regarding data collection, use and disclosure practices. If You visit any such website, We encourage You to review that website or serviceâ€™s privacy policy. We are not responsible for the policies or practices of third parties.
+This Privacy Policy only addresses the Sites offered by Us. Other websites or services, such as those websites we provide links to, websites or services you may have clicked-on that directed you to the Services or websites that may be accessible to you through the Sites, have their own privacy policies regarding data collection, use and disclosure practices. If You visit any such website, We encourage You to review that website or service’s privacy policy. We are not responsible for the policies or practices of third parties.
 
   8. Minors and Privacy Issues 
 
