@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jfporn.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820001718id_/http%3A//www.jfporn.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jfporn.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322144423id_/http%3A//www.jfporn.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.jfporn.com](http://www.jfporn.com/)  
-Effective Date: August 20, 2014  
+Effective Date: March 22, 2015  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.jfporn.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
