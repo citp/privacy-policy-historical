@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promopro.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112059id_/http%3A//www.promopro.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopro.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322073544id_/http%3A//www.promopro.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PromoPro.com
 
