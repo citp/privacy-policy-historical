@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grokker.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022162005id_/http%3A//grokker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grokker.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322075330id_/http%3A//www.grokker.com/privacy) for the most accurate reproduction.*
 
 # Yoga, Fitness, and Cooking video classes to be a better you | Grokker.com
 
@@ -32,6 +32,16 @@ Like almost all web and mobile products, we automatically collect a variety of i
   * _Analytics_ We may also use third party applications and services, such as Google Analytics, to collect and analyze information about visitor traffic on our sites and mobile applications. We use this information to analyze and improve the Grokker Services. This information includes general usage information, and may include information such as the number and frequency of our visitors, which pages or features they have visited, which links on the Grokker Services they have clicked on, and the length of those visits. 
 
 
+
+### _Personally Identifiable Information_
+
+We collect Personally Identifiable Information or "PII" such as your email address when you register for a Grokker Membership. We may share Personally Identifiable Information and Non-PII with certain third parties selected by us to help support our operations, such as to aid in the sending of payment notices to Premium Members.
+
+### _Health Information_
+
+Our iOS application uses the Apple HealthKit framework to gather data on your body and health stats, which may include, but are not limited to, your biological sex, gender, height, and weight ("Health Data") and to help us recommend and provide better content to you. We will not store or save such Health Data in iCloud, and we will use such Health Data only to make calculations about and recommendations to you as a part of our services, for example, to calculate workout-related information, such as the amount of calories burned, and to make recommendations for suggested workouts. We will not use such Health Data for serving advertising. We will not share such Health Data with third parties without your express consent, and then we will do so only for purposes of enabling the third party to provide health and/or fitness services. In the event of any conflict between this section and any other provision in this Privacy Policy, the provisions of this section shall control with respect to Health Data.
+
+We collect this Health Data via the Apple HealthKit as the only source. Apple may choose to gather this data from other applications, your data input on iOS, and your wearables. For this or related information, please refer to [www.apple.com](http://www.apple.com/).
 
 ## Third Party Advertising
 
