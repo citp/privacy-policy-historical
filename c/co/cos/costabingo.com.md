@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the costabingo.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217043450id_/http%3A//www.costabingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costabingo.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322080837id_/https%3A//www.costabingo.com/skin/privacy.php) for the most accurate reproduction.*
 
 # Costa Bingo Privacy Policy
 
 The brands on this website (the "Website") are owned by Mandalay Media Group (the "Brand Owner"). The Website and the services offered on it are powered by a software belonging to Brigend Limited ("Brigend") and operated by Cassava Enterprises (Gibraltar) Limited ("Cassava"), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services. 
+
+**PLEASE NOTE:** If you play or register an account in the United Kingdom (UK) all references herein to the "Company", "us" or "we" shall be deemed as a reference to 888 UK Limited. 888 UK Limited is within the same corporate group as Cassava Enterprises (Gibraltar) Limited.
+
+**PLEASE NOTE:** If you play in any EU member state except for states which you play on a local license, for example, in the UK all references herein to the "Company", "us" or "we" shall be deemed as a reference to Virtual Digital Services Limited.
 
 As such, all personal data and customer funds are transferred to and stored by Cassava on its servers in Gibraltar. Cassava is happy to provide you with online bingo services under its remote gambling licence issued by the Government of Gibraltar, and is committed, along with the Brand Owner, (collectively the "Company", "we" or "us"), to preserving the privacy of all visitors to the Website.
 
@@ -58,7 +62,7 @@ Your PII will not be stored for any longer period than is necessary for the purp
 
 #### Information about us
 
-Cassava Enterprises (Gibraltar) Limited Suite 601/701 Europort, Gibraltar 
+Cassava Enterprises (Gibraltar) Limited/888 UK Limited/Virtual Digital Services Limited (as applicable) Suite 601/701 Europort, Gibraltar.
 
 This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing. 
 
