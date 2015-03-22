@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808095627id_/https%3A//www.emersonecologics.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322222156id_/https%3A//www.emersonecologics.com/Privacy) for the most accurate reproduction.*
 
-# Emerson Ecologics : Privacy Statement
+# Privacy Statement
 
 Privacy Policy
 
-Emerson Ecologics has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [www.emersonecologics.com](http://www.emersonecologics.com/)
+Emerson Ecologics has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [www.emersonecologics.com](https://www.emersonecologics.com/)
 
 Information Automatically Logged
 
@@ -62,7 +62,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 This site gives users the following options for changing and modifying information previously provided:
 
   1. You can send e-mail to [cs@emersonecologics.com](mailto:cs@emersonecologics.com)
-  2. You can visit the following URL: [www.emersonecologics.com](http://www.emersonecologics.com/)
+  2. You can visit the following URL: [www.emersonecologics.com](https://www.emersonecologics.com/)
   3. You can send mail to the following postal address:  
 1230 Elm Street, Suite 301, Manchester, NH 03101  
 
