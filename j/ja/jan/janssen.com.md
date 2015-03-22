@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janssen.com privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913192545id_/http%3A//www.janssen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janssen.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322113835id_/http%3A//www.janssen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Welcome to the Janssen Pharmaceutical Companies
 
@@ -38,18 +38,18 @@ We use and disclose information you provide to us as described to you at the poi
 
 We also use information from or about you: 
 
-  * to respond to your inquiries and fulfill your requests, such as to send you documents you request or e-mail alerts;
-  * to send you important information regarding our relationship with you or regarding the Site, changes to our terms, conditions, and policies and/or other administrative information; and
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our products and services, identifying Site usage trends, personalizing your experience on the Site by presenting products and offers tailored to you, and determining the effectiveness of our promotional campaigns.
+  * to respond to your inquiries and fulfill your requests, such as to send you documents you request or e-mail alerts; 
+  * to send you important information regarding our relationship with you or regarding the Site, changes to our terms, conditions, and policies and/or other administrative information; and 
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our products and services, identifying Site usage trends, personalizing your experience on the Site by presenting products and offers tailored to you, and determining the effectiveness of our promotional campaigns. 
 
 
 
 We also disclose information collected through the Site: 
 
-  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available [here](http://www.investor.jnj.com/governance/sec-filings.cfm) (click on the link for Form 10K, Exhibit 21, under "SEC Filings"). Janssen Global Services, LLC is the party responsible for the management of the jointly-used Personal Information;
+  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available [here](http://www.investor.jnj.com/governance/sec-filings.cfm) (click on the link for Form 10K, Exhibit 21, under "SEC Filings"). Janssen Global Services, LLC is the party responsible for the management of the jointly-used Personal Information; 
   * to our third-party partners with whom we offer a co-branded or co-marketed promotion;
-  * to our third-party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail and direct mail delivery services, credit card processing, auditing services, and other services, in order to enable them to provide services; and
-  * to a third-party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
+  * to our third-party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail and direct mail delivery services, credit card processing, auditing services, and other services, in order to enable them to provide services; and 
+  * to a third-party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings). 
 
 
 
@@ -71,9 +71,9 @@ We use reasonable organizational, technical, and administrative measures to prot
 
 We give you choices regarding our use and disclosure of your personal information for marketing purposes. You may opt out from: 
 
-  * **Receiving marketing communications from us** : If you no longer want to receive marketing communications from us on a going-forward basis, you may opt out of receiving them by contacting us via our [Contact Us](https://web.archive.org/web/20140913192545id_/http%3A//www.janssen.com/contact-us.html) page. In your response to us, please provide your name, identify the form(s) of marketing communications that you no longer wish to receive, and include the address(es) to which it/they are sent. For example, if you no longer wish to receive marketing e-mails or direct mail from us, tell us that, and provide your name and e-mail or postal address. 
-  * **Receiving reminders from us** : If you no longer want to receive medical reminders from us on a going-forward basis, you may opt out of receiving them by contacting us via our [Contact Us](https://web.archive.org/web/20140913192545id_/http%3A//www.janssen.com/contact-us.html) page **.** In your response to us, please provide your name and the e-mail address or phone number at which you receive reminders from us. 
-  * **Our sharing of your personal information with affiliates and third-party partners** : If you would prefer that we not share your personal information on a going-forward basis with our affiliates and/or third-party partners for their marketing purposes, you may opt out of this sharing by contacting us via our [Contact Us](https://web.archive.org/web/20140913192545id_/http%3A//www.janssen.com/contact-us.html) page. In your response to us, please state that we should no longer share your personal information with our affiliates and/or third-party partners for their marketing purposes, and include your name and e-mail address. 
+  * **Receiving marketing communications from us** : If you no longer want to receive marketing communications from us on a going-forward basis, you may opt out of receiving them by contacting us via our [Contact Us](https://web.archive.org/web/20150322113835id_/http%3A//www.janssen.com/contact-us.html) page. In your response to us, please provide your name, identify the form(s) of marketing communications that you no longer wish to receive, and include the address(es) to which it/they are sent. For example, if you no longer wish to receive marketing e-mails or direct mail from us, tell us that, and provide your name and e-mail or postal address. 
+  * **Receiving reminders from us** : If you no longer want to receive medical reminders from us on a going-forward basis, you may opt out of receiving them by contacting us via our [Contact Us](https://web.archive.org/web/20150322113835id_/http%3A//www.janssen.com/contact-us.html) page **.** In your response to us, please provide your name and the e-mail address or phone number at which you receive reminders from us. 
+  * **Our sharing of your personal information with affiliates and third-party partners** : If you would prefer that we not share your personal information on a going-forward basis with our affiliates and/or third-party partners for their marketing purposes, you may opt out of this sharing by contacting us via our [Contact Us](https://web.archive.org/web/20150322113835id_/http%3A//www.janssen.com/contact-us.html) page. In your response to us, please state that we should no longer share your personal information with our affiliates and/or third-party partners for their marketing purposes, and include your name and e-mail address. 
 
 
 
@@ -81,7 +81,7 @@ We will seek to comply with your request(s) as soon as reasonably practicable. P
 
 ### How you can access, change, or delete your personal information
 
-If you would like to review, correct, update, or delete the personal information that you have provided via the Site, please contact us via our [Contact Us](https://web.archive.org/web/20140913192545id_/http%3A//www.janssen.com/contact-us.html) page. We will try to comply with your request as soon as reasonably practicable. 
+If you would like to review, correct, update, or delete the personal information that you have provided via the Site, please contact us via our [Contact Us](https://web.archive.org/web/20150322113835id_/http%3A//www.janssen.com/contact-us.html) page. We will try to comply with your request as soon as reasonably practicable. 
 
 ## RETENTION PERIOD
 
@@ -105,4 +105,4 @@ We may change this Privacy Policy. Please take a look at the " _Last Updated_ " 
 
 ## CONTACTING US
 
-If you have any questions about this Privacy Policy, please contact us by using the [Contact Us](https://web.archive.org/web/20140913192545id_/http%3A//www.janssen.com/contact-us.html) page. ****
+If you have any questions about this Privacy Policy, please contact us by using the [Contact Us](https://web.archive.org/web/20150322113835id_/http%3A//www.janssen.com/contact-us.html) page. ****
