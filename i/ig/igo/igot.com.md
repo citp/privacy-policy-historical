@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the igot.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704024031id_/https%3A//www.igot.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igot.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322170024id_/https%3A//www.igot.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# (664.61 USD) Buy, Sell, Send, and Receive Bitcoin easily. Store Bitcoin in Your Hosted Wallet!
+# (271.89 USD) Buy, Sell, Send, and Receive Bitcoin easily. Store Bitcoin in Your Hosted Wallet!
 
-Effective Date: March 20th, 2014. Last updated: March 20th, 2014.
+Effective Date: March 20th, 2014. Last updated: January 1st, 2015.
 
 **PRIVACY POLICY**
 
@@ -72,5 +72,10 @@ You may access your personal information in order to make changes or corrections
 Personal information will be kept for at least 5 years, or longer if required by law. 
 
 **CONTACTING US**
+
+Write to us:  
+Suite 1101, 11/F, Supreme House  
+2A, Hart Avenue, TST,  
+Kowloon, Hong Kong
 
 If you have any questions relating to your rights and obligations arising from this user agreement, your use of the site, your account, or any other matter, please contact: hello@igot.com. 
