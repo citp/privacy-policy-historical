@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songsblastss.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619055905id_/http%3A//www.songsblastss.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songsblastss.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322193202id_/http%3A//www.songsblastss.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
