@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010042358id_/http%3A//medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322214617id_/http%3A//www.medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
 
-# MEDpages - The definitive contact database for healthcare in South Africa.
+# Medpages - The definitive contact database for healthcare in South Africa.
 
 Privacy Policy | 
 
-[](https://web.archive.org/web/20141010042358id_/http%3A//medpages.co.za/index.php?module=home)  
+[](https://web.archive.org/web/20150322214617id_/http%3A//www.medpages.co.za/index.php?module=home)  
   
 ---|---  
   
@@ -102,20 +102,13 @@ We have implemented security policies, rules and technical measures to protect t
 
 All our employees and data processors who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.
 
-We ensure that your personal data ï¿½ except that published or otherwise made available to the public and our clients during the normal course or our business - will not be disclosed to state institutions and authorities except if required by law or other regulation. 
+We ensure that your personal data, except that published or otherwise made available to the public and our clients during the normal course or our business - will not be disclosed to state institutions and authorities except if required by law or other regulation. 
 
 ### How can I see the personal data that may be held about me?
 
-You can ask us, by:
+Please read our [Manual](https://web.archive.org/web/20150322214617id_/http%3A//www.medpages.co.za/mphtml/v2/pdf/Medpages_PAIA_Manual.pdf) in terms of Section 51 of the Promotion of Access to Information Act which details the process to follow to request your personal information. 
 
-  * Sending an email to: [info@medpages.co.za](mailto:info@medpages.co.za)
-  * Sending postal mail to this address: PO Box 322, Green Point, 8051, South Africa
-  * Calling this telephone number: +27 (0)21 441 9700
-  * Sending a fax to this number: +27 (0)21 441 9701
-
-
-
-Upon request, we will provide you with a copy of the personal data that we keep about you. We will provide the information without any charge. Please note that we may require proof of your identity. We welcome your examination of the data that we hold about you and, where appropriate, you may have the data:
+Upon request, we will provide you with a copy of the personal information and we welcome your examination of the information that we hold about you and, where appropriate, you may have the information:
 
   * Rectified or amended
   * Completed
@@ -123,7 +116,7 @@ Upon request, we will provide you with a copy of the personal data that we keep 
 
 
 
-We do not reserve the right to refuse to provide you with a copy of your personal data. We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data should this occur for any reason. 
+We do not reserve the right to refuse to provide you with a copy of your personal information. We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal information should this occur for any reason.
 
 ### What are my legal rights in relation to this privacy policy?
 
