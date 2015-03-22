@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megaph.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325192525id_/https%3A//www.megaphoneapp.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaph.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322014755id_/https%3A//www.megaphoneapp.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Megaphone
+# Megaphone - Use Megaphone To Create Better Marketing Pages.
 
 Kajabi, LLC ("Megaphone") is committed to protecting the privacy of our online visitors. We collect information from online visitors who ask to be on our newsletter mailing list and/or receive periodic email announcements. Anyone who wishes can choose to be removed from our mailing list at any time.
 
