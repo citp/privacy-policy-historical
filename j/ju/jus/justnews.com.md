@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justnews.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009045450id_/http%3A//www.local10.com/3989770) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnews.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322103310id_/http%3A//www.local10.com/3989770) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
@@ -104,7 +104,7 @@ If we believe that the security of any user's personal information in our posses
 
 **How can you access and edit your personally identifiable information?**
 
-You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](https://web.archive.org/emailnewsletters) (if applicable).
+You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](https://web.archive.org/Sign-Up-for-Email-Newsletters-Alerts/29388556) (if applicable).
 
 **What Web sites does this Privacy Policy cover?**
 
@@ -128,13 +128,13 @@ If you have other questions or concerns about our privacy policies or data use w
 
 **Effective: June 15, 2010**
 
-Advertisement
+[ ](http://www.local10.com/sports/2015-bracket-challenge-code/24982294)
 
 Advertisement
 
-[ ](http://thelaw.tv/broward)
+Advertisement
 
-[ ](http://www.local10.com/entertainment/livewellnetwork/-/19410550/-/format/rss_2.0/-/nsshml/-/index.html)
+[ ](http://www.local10.com/entertainment/movies/30559002)
 
 Advertisement
 
