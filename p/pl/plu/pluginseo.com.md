@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluginseo.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703032654id_/https%3A//www.pluginseo.com/Info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginseo.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322161433id_/https%3A//www.pluginseo.com/Info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Plug in SEO
 
