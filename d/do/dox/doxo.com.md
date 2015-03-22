@@ -1,43 +1,41 @@
-> *The following text is extracted and transformed from the doxo.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706144830id_/https%3A//user.doxo.com/privacy_and_security_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doxo.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322034701id_/https%3A//user.doxo.com/privacy_and_security_policy) for the most accurate reproduction.*
 
-# doxo | Privacy and Security Policy
+# Privacy and Security Policy | doxo
 
-## doxo Privacy and Security Policy
-
-Version 1.8  
-September 3, 2013
+**Version 1.9**  
+**Effective date: February 17, 2015**
 
 Doxo is designed for Doxo users to organize Provider accounts; manage personal account information, reminders, and documents; and establish connections with Providers to receive documents paperlessly and pay bills – all in one place.
 
-Doxo is committed to maintaining the confidentiality, integrity and security of any and all personal information about Doxo Users. This Privacy and Security Policy (the “Policy”) explains how Doxo protects information provided through our websites [www.doxo.com](http://www.doxo.com/) and [user.doxo.com](http://user/doxo.com) and applications accessing those websites (the “Site”) and how Doxo uses that information in connection with the Doxo service offered through the Site (the “Service”). “Private Information” for purposes of this Policy means information provided to us that identifies you, such as your name, address, phone number, email address, any account information or other information you store about your relationship with your Providers, and any documents and accompanying information that are stored on your behalf by Doxo.
+Doxo is committed to maintaining the confidentiality, integrity and security of any and all personal information about Doxo Users. This Privacy and Security Policy (the "Policy") explains how Doxo protects information provided through our websites [](http://www.doxo.com/)[www.doxo.com](http://www.doxo.com/) and [user.doxo.com](https://user/doxo.com) and applications accessing those websites (the "Site") and how Doxo uses that information in connection with the Doxo service offered through the Site (the "Service"). "Private Information" for purposes of this Policy means information provided to us that identifies you, such as your name, address, phone number, email address, any account information or other information you store about your relationship with your Providers, and any documents and accompanying information that are stored on your behalf by Doxo.
 
 Doxo privacy standards are designed to guard against identity theft, to protect sensitive data, and provide security for your Private Information. Doxo regularly re-evaluates privacy and security policies and adapts them as necessary to deal with new challenges.
 
 Capitalized terms used by not defined in this Policy will have the meanings defined in the Terms of Service.
 
-### 1\. Your Private Information is not for sale
+## 1\. Your Private Information is not for sale
 
 Simply put, Doxo will not sell or rent your Private Information to anyone, for any reason, at any time. Doxo uses and discloses your Private Information only as follows:
 
   * to analyze Site usage and improve the Service;
-  * to deliver to you any administrative notices, alerts and communications relevant to your use of the Service; 
-  * for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity; 
-  * to third-party contractors that provide services to Doxo and are bound by privacy restrictions at least as protective as this Policy (e.g. auditors, technical consultants); 
-  * to enforce Doxo’s Terms of Service; and
+  * to deliver to you any administrative notices, alerts and communications relevant to your use of the Service;
+  * for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity;
+  * to third-party contractors that provide services to Doxo and are bound by privacy restrictions at least as protective as this Policy (e.g. auditors, technical consultants);
+  * to enforce Doxo's Terms of Service; and
   * as otherwise set forth in this Policy.
 
 
 
-### 2\. What information Doxo collects and stores for you
+## 2\. What information Doxo collects and stores for you
 
-Certain areas and features of the Site are available to you without registration or the need to provide Doxo any information. However, other features of the Site or the Service require registration, which may involve provision to Doxo of an email address, a user name, a password and a shared secret, and your zip code (collectively the “Registration Information”). In order to benefit from the full functionality of the Service, if you choose to establish a “connection” with a Provider on Doxo (“Connect” or “Connection”) you also may be required to provide your account credentials for those Providers (“Account Credentials”). When you Connect to a Provider within the Service, you elect to share certain information from your Doxo User profile with that Provider or other information (“Account Information”), and any Account Information or documents you exchange with that Provider will be accessible to that Provider.
+Certain areas and features of the Site are available to you without registration or the need to provide Doxo any information. However, other features of the Site or the Service require registration, which may involve provision to Doxo of an email address, a user name, a password and a shared secret, and your zip code (collectively the "Registration Information"). In order to benefit from the full functionality of the Service, if you choose to establish a "connection" with a Provider on Doxo ("Connect" or "Connection") you also may be required to provide your account credentials for those Providers ("Account Credentials"). When you Connect to a Provider within the Service, you elect to share certain information from your Doxo User profile with that Provider or other information ("Account Information"), and any Account Information or documents you exchange with that Provider will be accessible to that Provider.
 
 From time to time Doxo may request other Private Information to provide you with other benefits of the Service. In all such instances, you will be given the opportunity to provide or to decline to provide that information, and it will be used only for the stated purpose. Doxo may make anonymous or aggregate Private Information and use and disclose such data only in a non-personally identifiable manner to:
 
   * improve the design, functionality and content of the Service;
-  * to enable Providers to improve their use of the Service and to benefit their customers through the Service; 
+  * to enable Providers to improve their use of the Service and to benefit their customers through the Service;
   * to provide reports and analysis that may benefit Users or Providers; or
-  * to develop products and services that might interest Doxo Users and Providers. 
+  * to develop products and services that might interest Doxo Users and Providers.
 
 
 
@@ -45,51 +43,53 @@ Such information does not identify you individually.
 
 Typically no Doxo employee will ever access your Private Information. In certain rare circumstances, if security, fraud, or other problems are identified or are suspected involving your account, a Doxo employee may need to access some portion of your Registration Information, Account Credentials, Account Information or any other Private Information to eliminate such problems. Any such access is always logged and monitored and is only conducted to the extent necessary to address the problem. Any employees that conduct such activity have been selected in accordance with Doxo security policies and practices and are bound by confidentiality obligations. They are subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. In those circumstances, Doxo may share Private Information with the applicable Provider as necessary to fix the security, fraud, or other problems.
 
-### 3\. Changes to the information Doxo collects
+## 3\. Changes to the information Doxo collects
 
 If your Registration Information or any other information stored in Doxo changes, you may update it any time by logging into the Service and editing the information online via your account.
 
-### 4\. Technologies Doxo uses to optimize your experience
+## 4\. Technologies Doxo uses to optimize your experience
 
-When you visit the Site, Doxo may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on the Doxo Site. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve the design and functionality of the Site or Service.
+When you visit the Site, Doxo may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on the Doxo Site and store it in log files. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve the design and functionality of the Site or Service.We may combine this automatically collected log information with other information we collect about you. We do this provide customer support to you, and to improve the quality and functionality of the services we offer to you.
 
-“Cookies” are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer’s hard drive. Doxo may set and access cookies on your computer to track your usage and store information about your preferences applicable to the Site or the Service. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you. Information collected via these tracking technologies is not stored with your Personal Information.
+Technologies such as: cookies, beacons, tags and scripts are used by Doxo and our analytics or service providers (e.g. online customer support provider). These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity. Doxo, or third party service providers acting on Doxo’s behalf, may use Web beacons to help Doxo analyze Site usage and improve the Service.
+We use cookies _for authentication and personalization of the Service._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 Doxo may use third party service providers to help Doxo analyze certain online activities. For example, these service providers may help Doxo measure the performance of Doxo online campaigns or analyze visitor activity on the Site. Doxo may permit these service providers to use cookies and other technologies to perform these services for Doxo. Doxo does not share any personal information about Doxo customers with these third party service providers, and these service providers do not collect such information on behalf of Doxo. Doxo third party service providers are required to comply fully with this Policy.
 
 If you join Doxo by accepting an invitation from another Doxo user, Doxo may notify the person who sent the invitation that you joined Doxo or that you took certain actions if those actions result in a benefit or reward to the person sending the invitation. For example, the person inviting you to join Doxo might be notified that you added a minimum number of Providers if that resulted in a reward to that person. If Doxo shares information with the person inviting you to join Doxo, it would be limited to your user name and the action(s) you took that resulted in a reward; it would not include any other Registration Information, Account Credentials or Account Information.
 
-### 5\. Third parties will not be given your information without your consent
+## 5\. Third parties will not be given your information without your consent
 
 There are a number of features of Doxo that are dependent on you making a Connection with your Providers. If you choose to use these features, you will be asked to disclose information about your relationship with that Provider to the Provider. You should evaluate the practices of Providers before deciding to provide them information and Connect with them on Doxo. Doxo is not responsible for their privacy practices. If you click on a link to a third party site, Doxo encourages you to check the privacy policy of that site. Doxo may present links in a format that enables Doxo to keep track of whether these links have been followed and whether any action has been taken on a third party Web site. Doxo uses this information to improve the quality of the Doxo Service. Any information you share with your Providers is up to you. It may be information that is already known by that Provider as part of your existing relationship with them. Any additional information beyond that which is used to establish a Connection with the Provider will only be shared with your explicit consent and used by Doxo to optimize your relationship with that Provider.
 
-### 6\. Disclosure of information when required by law
+## 6\. Disclosure of information when required by law
 
 Notwithstanding anything to the contrary in this Policy, Doxo reserves the right (and you hereby authorize Doxo) to share and disclose your Private Information when Doxo determines, in its sole discretion, that the disclosure of such information is necessary or appropriate:
 
-  * To enforce Doxo’s rights against you or in connection with a breach by you of this Policy or Doxo’s Terms of Use; 
+  * To enforce Doxo's rights against you or in connection with a breach by you of this Policy or Doxo's Terms of Use;
   * To prevent prohibited or illegal activities; or
-  * When required by any applicable law, rule regulation, court order, warrant, subpoena or other legal process. 
+  * When required by any applicable law, rule regulation, court order, warrant, subpoena or other legal process.
 
 
 
 In such an event, if permitted by law, Doxo will make reasonable efforts to notify you and give you the opportunity to seek a protective order.
 
-### 7\. You have complete control over your data
+If Doxo is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-Your data is yours. You can remove it anytime you want. We will retain your information for as long as your account is active or as needed to provide the Service to you. If you wish to cancel your account or request that we no longer use your information to provide the Service to you, you may close your account using the settings menus, and if you have questions you may contact us at support@doxo.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. When you request Doxo to delete your Doxo account, your data will be permanently expunged from Doxo’s primary production servers and further access to your account will not be possible. Doxo will also promptly disconnect any Connection between you and Providers on the Service. All Providers that you were Connected to will be notified that you no longer choose to be Connected via Doxo and it is up to each Provider to begin communications via alternative means (for example, begin sending documents to you via US Mail instead of Doxo). It is the responsibility of the Provider to take action and facilitate communication with you through the appropriate channel. Aggregate or anonymous data derived from your Account Information may remain on Doxo production servers indefinitely. Your data may also remain on a backup server or media. Doxo keeps these backups to ensure Doxo’s continued ability to provide the Service to you in the event of malfunction or damage to Doxo’s primary production servers.
+## 7\. You have complete control over your data
 
-If your personally identifiable information changes, or if you no longer wish to use the Service, you may correct, update or delete inaccuracies by making the change within your account and you can request assistance by emailing us at [support@doxo.com](mailto:support@doxo.com). We will endeavor to respond to your access request within 30 days.
+Your data is yours. You can remove it anytime you want. We will retain your information for as long as your account is active or as needed to provide the Service to you. If you wish to cancel your account or request that we no longer use your information to provide the Service to you, you may close your account using the settings menus, and if you have questions you may contact us at [](mailto:support@doxo.com)[support@doxo.com](mailto:support@doxo.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. When you request Doxo to delete your Doxo account, your data will be permanently expunged from Doxo's primary production servers and further access to your account will not be possible. Doxo will also promptly disconnect any Connection between you and Providers on the Service. All Providers that you were Connected to will be notified that you no longer choose to be Connected via Doxo and it is up to each Provider to begin communications via alternative means (for example, begin sending documents to you via US Mail instead of Doxo). It is the responsibility of the Provider to take action and facilitate communication with you through the appropriate channel. Aggregate or anonymous data derived from your Account Information may remain on Doxo production servers indefinitely. Your data may also remain on a backup server or media. Doxo keeps these backups to ensure Doxo's continued ability to provide the Service to you in the event of malfunction or damage to Doxo's primary production servers.
 
-### 8\. Email communications from Doxo
+If your personally identifiable information changes, or if you no longer wish to use the Service, you may correct, update or delete inaccuracies by making the change within your account and you can request assistance by emailing us at [](mailto:support@doxo.com)[support@doxo.com](mailto:support@doxo.com). We will endeavor to respond to your access request within 30 days.
 
-Doxo provides you with periodic summaries of your account and email alerts for key events having to do with your Doxo account – for example, when a Connection with a Provider has been accepted or declined, a Provider we believe you might have a relationship with has joined the Doxo network, a new document from a Provider is received, information about payments, when a bill is coming due, or if new product features have become available to you. 
+## 8\. Email communications from Doxo
+
+Doxo provides you with periodic summaries of your account and email alerts for key events having to do with your Doxo account – for example, when a Connection with a Provider has been accepted or declined, a Provider we believe you might have a relationship with has joined the Doxo network, a new document from a Provider is received, information about payments, when a bill is coming due, or if new product features have become available to you.
 
 You have the ability to opt-out of receiving some emails via settings in Doxo or by clicking the unsubscribe mechanism in the email Doxo sends you.
 
-### 9\. Your data is secure and accessible only by you
+## 9\. Your data is secure and accessible only by you
 
 Doxo uses a combination of firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your online session and to protect Doxo accounts and systems from unauthorized access.
 
@@ -97,7 +97,7 @@ When you register for the Service, Doxo requires a password from you for your pr
 
 Doxo databases are protected from general employee access both physically and logically. Doxo encrypts your Service password so that your password cannot be recovered, even by Doxo. All backup drives and tapes also are encrypted.
 
-All Private Information (including any documents stored on your behalf) is always encrypted with 256 bit encryption, or an equivalent or superior technology, and is only viewable by you after entering your login credentials. 
+All Private Information (including any documents stored on your behalf) is always encrypted with 256 bit encryption, or an equivalent or superior technology, and is only viewable by you after entering your login credentials.
 
 No employee may put any sensitive content on any insecure machine (i.e., nothing can be taken from the database and put on an insecure laptop).
 
@@ -105,36 +105,38 @@ Doxo tests the Site daily for any failure points that would allow hacking.
 
 However, it is important to understand that these precautions apply only to the Site and systems. Doxo exercises no control over how your information is stored, maintained or displayed by you, third parties or on third-party sites.
 
-### 10\. Doxo uses secure communications
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-From the time you submit your login credentials, the communications between your computer and Doxo are encrypted using industry-standard 128 bit Secure Sockets Layer (“SSL3”) technology or an equivalent or superior technology. SSL3 enables client and server applications to communicate in a way that is designed to prevent eavesdropping, tampering and message forgery.
+## 10\. Doxo uses secure communications
 
-Any data transmitted between one of your Providers and Doxo (e.g. when establishing a Connection or sending and receiving documents from the Provider) is secured at all times using SSL3 and encrypted in transport between the Provider and Doxo. 
+From the time you submit your login credentials, the communications between your computer and Doxo are encrypted using industry-standard 128 bit Secure Sockets Layer ("SSL3") technology or an equivalent or superior technology. SSL3 enables client and server applications to communicate in a way that is designed to prevent eavesdropping, tampering and message forgery.
 
-### 11\. You are responsible for protecting your access credentials
+Any data transmitted between one of your Providers and Doxo (e.g. when establishing a Connection or sending and receiving documents from the Provider) is secured at all times using SSL3 and encrypted in transport between the Provider and Doxo.
 
-Doxo maintains strict rules to help prevent others from guessing your password. Doxo also recommends that you change your password periodically. Your password must be at least 6 characters in length and contain a combination of letters, numbers or special characters. You are responsible for maintaining the security of your Doxo user name and password. You are specifically restricted from providing these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact Doxo immediately at [security@doxo.com](mailto:security@doxo.com) and change your password immediately via the Service. Doxo is not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Policy or Doxo’s Terms of Use.
+## 11\. You are responsible for protecting your access credentials
 
-If you have a security related concern, please contact Doxo at [ security@doxo.com](mailto:security@doxo.com). Doxo will work closely with you to ensure a rapid and personal response to your concerns.
+Doxo maintains strict rules to help prevent others from guessing your password. Doxo also recommends that you change your password periodically. Your password must be at least 6 characters in length and contain a combination of letters, numbers or special characters. You are responsible for maintaining the security of your Doxo user name and password. You are specifically restricted from providing these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact Doxo immediately at [](mailto:security@doxo.com)[security@doxo.com](mailto:security@doxo.com) and change your password immediately via the Service. Doxo is not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Policy or Doxo's Terms of Use.
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [security@doxo.com](mailto:security@doxo.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+If you have a security related concern, please contact Doxo at [](mailto:security@doxo.com)[security@doxo.com](mailto:security@doxo.com). Doxo will work closely with you to ensure a rapid and personal response to your concerns.
 
-### 12\. Doxo posts updates to this Policy from time to time
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [](mailto:security@doxo.com)[security@doxo.com](mailto:security@doxo.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+## 12\. Doxo posts updates to this Policy from time to time
 
 Doxo reserves the right to modify this Policy at any time, so please review it frequently. If Doxo makes material changes to this Policy, Doxo will notify you here, by email, by means of a notice to the Doxo home page, or via a notification in your Doxo account prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. The date last revised appears at the top of the Policy.
 
-### 13\. Doxo and TRUSTe’s Privacy Seal
+## 13\. Doxo and TRUSTe's Privacy Seal
 
-Doxo has been awarded TRUSTe's Privacy Seal signifying that this Policy and Doxo’s privacy practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Policy or Doxo’s privacy practices, please contact us at [ security@doxo.com](mailto:security@doxo.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through the Site, and does not cover information that may be collected through software downloaded from the Site or through our Mobile Applications.
+Doxo has been awarded TRUSTe's Privacy Seal signifying that this Policy and Doxo's privacy practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Policy or Doxo's privacy practices, please contact us at [](mailto:security@doxo.com)[security@doxo.com](mailto:security@doxo.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through the Sites, [http://www.doxo.com](http://www.doxo.com/) [](http://user.doxo.com/)[http://user.doxo.com](http://user.doxo.com/) and does not cover information that may be collected through software downloaded from the Site, through our Mobile Applications and platform.
 
-[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/user.doxo.com/seal_s "Validate TRUSTe privacy certification")
+[  
+](https://privacy.truste.com/privacy-seal/doxo/validation?rid=2e71c1c9-cd9d-488e-b785-4f2538bba3d7 "Validate TRUSTe privacy certification")
 
-### 14\. Contact Doxo if you have questions or concerns
+## 14\. Contact Doxo if you have questions or concerns
 
-If you have questions, comments, concerns or feedback regarding this Policy or any other privacy or security concern, send an e-mail to [ security@doxo.com](mailto:security@doxo.com).
+If you have questions, comments, concerns or feedback regarding this Policy or any other privacy or security concern, send an e-mail to [](mailto:security@doxo.com)[security@doxo.com](mailto:security@doxo.com).
 
 Doxo Inc.  
 568 First Ave South  
 Suite 300  
-Seattle, WA 98104  
-
+Seattle, WA 98104
