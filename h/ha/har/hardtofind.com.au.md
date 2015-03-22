@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardtofind.com.au privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702180621id_/http%3A//www.hardtofind.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardtofind.com.au privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322125935id_/https%3A//www.hardtofind.com.au/page/privacy) for the most accurate reproduction.*
 
-# hardtofind. | Privacy Policy
+# Privacy Policy | hardtofind.
 
 In this privacy policy, "we", "us" and "our" means Hardtofind Pty Limited (ABN 13 132 954 039) of Suite 2.27, 100 Collins Street, Alexandria NSW 2015
 
@@ -16,15 +16,11 @@ We collect information from you on behalf of Sellers when you order products on 
 
 _Collection of information generally_
 
- _ _
-
 If we do ask you for information, we will endeavour to say which information we require and which information is optional. 
 
 You may choose not to provide us with any personal information. If you do so, however, you will not be able to purchase products from our Sellers and you may not be able to use some or all of this website. 
 
 _How is your personal information used by us?_
-
- _ _
 
 We use your information to assist us in providing this website shopping platform and to enable Sellers to fulfil your purchase order. 
 
@@ -59,5 +55,3 @@ _Revisions to this privacy policy_
 We may revise this privacy policy from time to time. We will include a notice on this Website alerting you when any such revisions have been made. 
 
 _Revised 12 March 2014_
-
-____
