@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allpaws.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705035857id_/https%3A//www.allpaws.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpaws.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322150535id_/https%3A//www.allpaws.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllPaws
 
-Version Date: 11/5/2013
+Version Date: 2/27/2015
 
-Your privacy is important to us. This Privacy Policy sets forth how DCL Ventures, Inc., the owner and operator of the Allpaws.com website (hereinafter “Allpaws.com,” “we,” or “us”) will collect, use and share information in connection with your use of the Allpaws.com website (the “Service”).
+Your privacy is important to us. This Privacy Policy sets forth how DCL Ventures, Inc., the owner and operator of the Allpaws.com website (hereinafter “Allpaws.com,” “we,” or “us”) will collect, use and share information in connection with your use of the Allpaws.com website and mobile application (the “Service”).
 
 BY ACCESSING OR USING THE SERVICE, YOU AGREE TO BE BOUND BY ALL TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT WISH TO ACCEPT ALL THE TERMS OF THIS PRIVACY POLICY, DO NOT ACCESS OR USE THE SERVICE.
 
@@ -22,7 +22,7 @@ By using the Service through an SNS, you are authorizing Allpaws.com to collect,
 
 ## B. Information You Give To Us Directly
 
-When you interact with the Service (whether or not on an SNS), we may collect, store, and use information from you directly that you voluntarily provide to us. For example, we may allow you to register with us by creating an account or profile within the Service, in which case you may be required to provide certain identifying information, such as your name, address, age, e-mail address, a password and other information that helps us confirm that it is you accessing your account. In addition, you may voluntarily submit Personal Information when you, for example, make a purchase, sign up for newsletters, send us feedback, or post on our Facebook fan page.
+When you interact with the Service (whether or not on an SNS), we may collect, store, and use information from you directly that you voluntarily provide to us. For example, we may allow you to register with us by creating an account or profile within the Service, in which case you may be required to provide certain identifying information, such as your name, address, age, e-mail address, a password and other information that helps us confirm that it is you accessing your account. In addition, you may voluntarily submit Personal Information when you, for example, make a purchase, sign up for newsletters, send us feedback, post on our Facebook fan page, or fill out our universal pet adoption application.
 
 ## C. User Submissions
 
@@ -34,7 +34,7 @@ Because we use a third-party payment service (such as PayPal) to process transac
 
 ## E. Technical Usage Information and Cookies
 
-Log Data and Mobile Devices. When you use the Service, our servers record information that your browser sends whenever you visit a website (“Log Data“). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to the Service, pages of the websites involved in the Service that you visit, the time spent on those pages, information you search for, access times and dates, and other information. If you access the Service from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device, such as your device type and operating system.
+Log Data and Mobile Devices. When you use the Service, our servers record information that your browser sends whenever you visit a website (“Log Data“). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to the Service, pages of the websites involved in the Service that you visit, the time spent on those pages, information you search for, access times and dates, and other information. If you access the Service from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device, such as your device type, geo-location and operating system.
 
 Cookies and Local Storage. We may also use cookies and other tracking technologies (including but not limited to browser cookies, pixels, beacons, and Adobe flash technology), which are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that Service. These technologies may be used to collect and store information about your usage of Service, such as pages you have visited and search queries you have run. Information contained in a cookie may also be linked to your Personal Information for purposes such as improving the quality of the Service and making the Service easier to use. You can disable cookies at any time, although, if you do so, you may not be able to access or use the Service or certain of its features.
 
@@ -64,17 +64,21 @@ We may make your non-public Personal Information available to certain third part
 
 We are committed to providing you with the best possible user experience and, therefore, one of the key uses of your personal information is to communicate with you. We may periodically contact you in connection with customer support inquiries and to alert you as to the status of your account. We may also contact you by e-mail for research purposes so that we can continually improve and update the Service based on your input.
 
-We may also send promotional e-mail directly or in partnership with parties other than Allpaws.com to provide you with special offers and other services. If you want to stop receiving promotional materials from Allpaws.com or its partners, follow the unsubscribe instructions at the bottom of each party’s e-mail. There are certain service notification e-mails that you may not opt-out of as long as you are registered with or subscribed to Service, such as notifications of changes to our Service or policies.
+We may also send promotional e-mail directly or in partnership with parties other than Allpaws.com to provide you with special offers and other services. If you want to stop receiving promotional materials from Allpaws.com or its partners, follow the unsubscribe instructions at the bottom of each party’s e-mail or change the settings in your "My Account" page under "Email Preferences." There are certain service notification e-mails that you may not opt-out of as long as you are registered with or subscribed to Service, such as notifications of changes to our Service or policies. If you provided us with your mailing address we or our partners may also send you products and special offers by regular mail (such as our "new pet parent" welcome kit).
 
-## D. To Deliver Relevant Advertising
+## D. To Deliver Relevant Advertising and Promotions
 
 We may use the information you provide to us, and information we collect about your use of the Service through cookies and other technologies, to assist us in delivering you relevant ads when you use the Service. We may work with third party advertising networks and advertisers who help deliver these ads to you. We do not share your non-public Personal Information with these third parties, but we may share anonymized or aggregated information with them to improve the relevancy of the ads you see on the Service. As noted above, these third party advertising networks and advertisers may also use cookies and similar technologies to collect and track Non-Personal Information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests.
 
-## E. Legal Matters; Safety
+## E. To Share With Our Business Partners 
+
+We may communicate to you information or special offers from other companies or organizations with whom we have a business relationship. In such cases, we do not provide your Personal Information to them and they will not know your identity unless you choose to transact with them, in which case their privacy policies will govern your relationship. With your consent, we may share your Personal Information with other companies or organizations that are not part of AllPaws.com. These companies and organizations may use the information we share to provide special offers and opportunities to you. For example, if you choose to receive additional information about "pet insurance" on the sign-up confirmation page, we may share your information (including Personal Information) with a business partner who may send you offers for pet insurance. You will have the opportunity to unsubscribe from any subsequent e-mail offers by following the instructions on such e-mails. 
+
+## F. Legal Matters; Safety
 
 We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you as may be permitted or required by law (including, but not limited to, court order or subpoena), or to prevent or investigate suspected fraud, violations of our Terms of Service Agreement or this Privacy Policy, or activity that appears to us to be illegal or may expose us to legal liability.
 
-## F. Sale or Transfer of Assets
+## G. Sale or Transfer of Assets
 
 If Allpaws.com sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Allpaws.com may transfer your Personal Information to the party or parties involved in the transaction as part of that transaction.
 
@@ -86,7 +90,9 @@ The Service is not intended for children under the age of 13, and we do not know
 
 If you have created an account with us directly (not through an SNS), you may access and change your account information by visiting your account page and making the desired changes. To manage the information we receive about you from an SNS, you will need to follow the instructions at that Service for updating your information and changing your privacy settings. Once we receive your information from an SNS, that information is stored and used by us in accordance with this Privacy Policy.
 
-We may retain information collected from you, including Personal Information, for a reasonable period of time after you have ceased using the Service or removed your account, for the purpose of providing and improving the Service, for analytical and recordkeeping purposes and integrity, as well as to prevent fraud, resolve disputes, enforce our Terms or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of the Service. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
+If you want to stop using your account you may deactivate it. When you deactivate an account, no user will be able to see it and all marketing and activity-related emails will cease, but it will not be deleted. For your convenience, we save your profile information in case you later decide to reactivate your account, and may retain your information and data associated with your account as provided in this Privacy Policy. At this time, we do not have an option for users to permanently delete their accounts.
+
+We may retain information collected from you, including Personal Information, after you have ceased using the Service or deactivated your account, for the purpose of providing and improving the Service, for analytical and recordkeeping purposes and integrity, as well as to prevent fraud, resolve disputes, enforce our Terms or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of the Service. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
 
 ## SECURITY
 
