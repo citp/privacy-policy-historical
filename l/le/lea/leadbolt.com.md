@@ -1,90 +1,104 @@
-> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712113330id_/http%3A//www.leadbolt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322150944id_/http%3A//www.leadbolt.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Leadbolt
 
 * * *
 
-This is the policy of Leadbolt Pty Limited ACN 144 039 529 (Leadbolt) for dealing with personal information collected by our websites and mobile platforms.
+Leadbolt Pty Limited ACN 144 039 529 (“we”, “us”, “our” and ”Leadbolt”) is a mobile advertising platform with technology that enables our mobile application partners to show relevant advertising to their End Users. In order to provide relevant advertising, we collect and use certain information.
 
-If you are viewing one of our websites in-order to sign up as a developer, advertiser, or publisher, on sign-up you will be requested to enter into an agreement with Leadbolt (Agreement). That Agreement may contain additional privacy disclosures and obligations. If there is any inconsistency between the Agreement and this Privacy Policy, the Agreement prevails.
+Leadbolt is deeply committed to protecting the privacy of all our users, both Clients and End Users. Therefore, the Leadbolt Privacy Policy (this “Policy”) is designed to clearly explain how we use and manage the Anonymous Information and Personal Information collected by our Services.
 
-Leadbolt is deeply committed to protecting the privacy of users.
+By using or interacting with our Services, you are agreeing to the terms of this Policy.
 
-Accordingly, we endeavour to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of personal information.
+#### For Developers, Advertisers and Publishers
 
-By viewing our advertisements and/or using/invoking our services, you acknowledge you have read and agree to the terms of this Policy.
+If you are viewing any of our websites in-order to sign up as a developer, advertiser, or publisher (“Client”), on sign-up you will be requested to enter into an agreement with Leadbolt (Agreement). That Agreement may contain additional privacy disclosures and obligations. If there is any inconsistency between the Agreement and this Privacy Policy, the Agreement prevails. 
 
-### Personal Information
+#### Information we collect from our Clients
 
-There are several categories of information we collect -
+As a Client or visitor to our Sites, we collect certain information that you voluntarily provide to us. This is collected when you interact with our Services and provide us with information by filling out a form or signing up to a Service. This may include your name, contact details such as e-mail address and payment details where relevant.
 
-Information you provide to us: this is collected when you interact with our services and provide us with information by filling out a form or signing up to a service. This may include your name, address, e-mail address, and phone number.
+We also use Cookies, Web Beacons and other technologies to store and retrieve information to optimize your experience of the Services and more effectively run our Services.
 
-Information we get from your use of our services: in order to effectively run our services, we need to collect information about the services that you use and how you use them. This is necessary in order to provide you a better service and to recognise you if you opt-out of particular services. This information includes:
+#### Information we collect from End Users
 
-Device information: including Device ID, e.g. Android ID or IDFA, other device specific information like, IMEI or MEID, manufacture make & model of device, operating system & version, carrier, and other mobile network information.
+As an End User of an App that utilizes Leadbolt’s Services, we may automatically collect or receive Anonymous Information via SDKs or other means in order to effectively run our services. 
 
-Other information: When you use our services, we may automatically collect and store certain information in server files. This may include details of how you used our service, location, ISP, carrier and device information, IP address, event information such as crashes, system activity, hardware settings, browser information, the date and time of your request and referral applications.
+The type of information we collect may include: generic geographic location, anonymous device identifiers for advertising, operating system versions, mobile applications names, language settings, device type information, mobile network settings, IP addresses, internet browser types where used to access the Services, details of any interactions with our Service.
 
-### How we deal with personal information
+We may also collect and store information locally on your device using mechanisms such as local storage identifiers. These local storage identifiers in no way damage your system or files and we primarily uses these identifiers to optimize our Service and to limit the number of ads you see and deliver more relevant ads to you.
 
-#### Use
+We may receive Anonymous Information or aggregated information from our Clients or other third parties. This information may include device information or other information related to the ads we serve.
 
-Leadbolt collects your information so that we can:communicate with you
+The Services may link to third party content. These parties are not within the control of Leadbolt and are governed by those parties’ respective privacy policies.
 
-  * deal with your enquiry
-  * provide you with information about our products and services
-  * provide you with products and services
+#### Use of your information
+
+Leadbolt uses the information we collect about you to provide the Services and to optimize the Services to provide a better user experience to our Clients and End Users. For example, we may use your information in order to:
+
+  * operate, manage and improve the Services
+  * communicate with you to respond to your enquiries
+  * provide you with information about our Services 
   * provide you with more relevant ads and limit the number of advertisements you see
-  * identify your device if you opt out of certain services
-  * do other things that are related to your interactions with us and to facilitate our business operations.
+  * do any other things that are related to your interactions with us and to facilitate our business operations.
 
 
-
-If you do not provide the personal information Leadbolt requests, we may not be able to provide our products and/or services or deal with your enquiry. This may also limit your access to certain services and mobile applications.
 
 #### Disclosure and Transfer of Information
 
-Leadbolt will only disclose your personal information to our personnel, agents, related companies, affiliates, licensors, contractors, service providers and business partners (Affiliates) or as required by law, and only for the above (or related) purposes. Some of our Affiliates may be overseas. If you provide us with your personal information, you consent to us transferring it to our Affiliates.
+Leadbolt will not share your Personal Information except under any of the following circumstances:
 
-#### Disclosure to Law Enforcement Agencies
+  * With Consent  
+We may share your personal information to third parties when you have consented to such disclosure.
+  * Disclosure to Law Enforcement Agencies  
+Leadbolt may be required to share information collected with law enforcement agencies. We will only do so to authorised government agencies where we are compelled to by law or if we believe we are acting in good faith and disclosure is necessary to comply with the law or to protect the interests of Leadbolt, its Affiliates, Clients or End Users.
+  * Disclosure to Affiliates  
+Leadbolt may disclose your personal information to our personnel, agents, related companies, licensors, contractors, service providers and business partners (“Affiliates”). Some of our Affiliates may be overseas.
 
-Leadbolt may be required to share information collected with law enforcement agencies. We will only do so to authorised government agencies where we are compelled to by law or if we believe they are acting in good faith and disclosure is necessary to comply with the law or to protect the interests of Leadbolt, its Affiliates or end users.
 
-#### Security & storage
 
-Leadbolt takes reasonable steps to protect all information which we hold from misuse, loss, from unauthorised access, modification or disclosure. All personal information is kept on a secure server and protected by firewall security systems to keep information secure and safe on our servers. Where we store information, we only store it for as long as necessary in order to provide our services to you.
+Leadbolt may also share Anonymous Information with our Clients or other third parties in accordance with this privacy policy.
 
-#### Cookies and other Local Storage identifiers
+#### Security & Storage
 
-We may also collect and store information locally on your device using mechanisms such as cookies, browser, web storage, application data caches or other local storage identifiers.
+Leadbolt takes reasonable steps to protect all information which we hold from misuse, loss, unauthorised access, modification or disclosure. All personal information is kept on secure servers. Leadbolt minimizes the amount of time we store sensitive data on our servers and other data is only stored for as long as necessary in order to provide our services and /or comply with our legal obligations.
 
-Like most Internet sites and services, Leadbolt may use local storage identifiers. These local storage identifiers in no way damage your system or files. Leadbolt primarily use local storage identifiers and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns.
+#### Children’s Privacy
 
-#### Third party cookies
+We do not knowingly collect Personal Information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible. 
 
-In the course of serving advertisements to mobile users, our third-party advertiser and affiliates may place or recognize a unique cookie on your browser or device. These actions are not within the control of Leadbolt and are governed by those advertisers’ respective privacy policies.
+#### Opting Out
 
-#### Other information
+In line with best practice in our industry, we respect End User’s rights to opt-out of receiving Interest Based Advertising. iOS devices include Apple’s advertising control features which can limit ad tracking using the “Limit Ad Tracking” setting. In Android devices, End Users can activate the “Opt out of interest-based ads” setting. Please note that even if you opt-out, you will still receive advertising but these ads will not feature interest-based ads that may be more relevant to you.
 
-We may receive anonymous or aggregated information from our business partners, their consumers, third parties, site or application visitors. This information may include, but is not limited to, device information, demographic data, or other information about the post-click activity of the ads we serve.
+#### Changes to the Policy
 
-### Access
+We reserve the right to amend this policy at any time. The policy, as modified, shall appear on our mobile website; http://www.leadbolt.com/privacy. Your continued use of and/or interaction with our Services is acknowledgement of your acceptance of these changes.
 
-You are entitled to gain access to the personal information we hold about you. To do so please contact us:
+#### Access to Information
 
-Leadbolt Pty Limited ACN 144 039 529
-
-Attention: Privacy Officer
-
+You are entitled to gain access to the Personal Information we hold about you. To do so, or if you have any questions or comments regarding this Policy, please contact us at:  
+Attention: Privacy Officer  
 email: mobile.privacy@leadbolt.com
 
-#### Other terms
+#### Definitions
 
-We do not knowingly collect personally identifiable information from children under 13. If we learn that we have collected personally identifiable information of a child under 13 we will take steps to delete that information as soon as possible.
+**Anonymous Information** is information that does not identify a user. It is sometimes referred to as Non-Personally Identifiable Information.
 
-#### NAI Opt-out
+**App** or Application is a program downloaded onto a mobile device.
 
-You may opt-out from receiving Interest-Based Advertising from some or all of the Network Advertising Initiative’s (“NAI”) participating companies via the NAI opt-out page accessible on its website at www.networkadvertising.org.
+**Clients** are developers, advertiser, publisher or other parties who have entered into an agreement with us to use the Services.
 
-We reserve the right to amend this policy at any time. The policy, as modified, shall appear on our mobile website; http://www.leadbolt.com/privacy
+**Cookies** are small pieces of data sent from a website that are stored in a user’s web browser while the user is browsing that website. When a user revisits the website, the stored cookie data is available to the website. 
+
+**End Users** are users who interact with an App that is utilising the Services.
+
+**Interest Based Advertising** means the collection of data from apps owned or operated by different entities for the purpose of delivering advertising based on preferences or interests known or inferred from the data collected from those apps.
+
+**Personal Information** (also referred to as Personally Identifiable Information) is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. It also includes information from which the person’s identity is reasonably ascertainable.
+
+**SDK** or Software Development Kit (iOS versi on 4.5 and above; Android version 6.3 and above) is software which our Clients integrate into their Apps and allows them, through a connection to the Services, to provide their End Users with advertising. By downloading and using the App, End Users grant the App developer with permission to collect and share with Leadbolt such information as detailed in this policy. Prior versions of the SDK are governed by the version of our Privacy Policy relevant to that SDK version. These are available upon request. 
+
+**Services** includes our websites (www.leadbolt.com and related sites); the connection to our network of application publishers, developers and mobile advertisers; the ad serving platform and SDK and other online services. 
+
+**Web Beacons** are objects that are embedded in a web page and are usually invisible to the user and provides statistics around website usage.
