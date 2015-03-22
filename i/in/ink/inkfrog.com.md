@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215051053id_/https%3A//www.inkfrog.com/index.php/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322210136id_/https%3A//www.inkfrog.com/index.php/about/privacy-policy) for the most accurate reproduction.*
 
 # Free eBay lister and manager - eBay templates, scheduling, automation, shipping, and more
 
@@ -22,10 +22,10 @@ Please note that inkFrog has links to other web sites. When you click on one of 
 
 A "cookie" is a small amount of data sent to your browser from a web server and stored on your computer's hard drive. Your browser must allow cookies in order for you to use the inkFrog service. We use cookies to hold information, such as a login ID, so you don't need to re-enter information each time you utilize a inkFrog service during a request. We also use cookies to provide customized and personalized services to you. Should you choose to set your browser to reject cookies, you will render it nearly impossible to use sites that set and use cookies, including inkFrog.
 
-**How can i review and change my information and cancel my inkFrog account?**
+**How can I review and change my information and cancel my inkFrog account?**
 
 You can edit and change your information in your inkFrog account, including your password, at any time in the "account" section of the inkFrog website. Should you forget your password, inkFrog can send it to you immediately via e-mail, at your request. To cancel your account, contact our support desk at [http://inkfrog.zendesk.com](http://inkfrog.zendesk.com/)
 
-**How i will know about changes to inkfrog's privacy policy?**
+**How will I know about changes to inkfrog's privacy policy?**
 
 If we decide to change our privacy policy, we will post those changes to this page. You are responsible to know and understand the changes to this page and to understand the information we collect, how we use it, and under circumstances, if any. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we shall notify users by way of this posting. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
