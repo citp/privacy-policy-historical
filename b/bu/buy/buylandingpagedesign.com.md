@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the buylandingpagedesign.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215035418id_/https%3A//www.buylandingpagedesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buylandingpagedesign.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322202523id_/https%3A//www.buylandingpagedesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Buy landing page design privacy policy of user information.
+
+You can see this Policy in order for you to understand how we collect, use, communicate,disclose and   
+make use of personal information.
+
+## All information we collect is highly confidential and we keep your information private, safe and secure.
 
 ### Our Commitment To Privacy
 
@@ -23,3 +28,16 @@ This notice applies to all information collected or submitted on our website. 
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+## Founders of Buylandingpagedesign
+
+Grow your business with us using our highly effective and converting landing page designs and website templates.
+
+  * If you need any assistance in using our website or you have any queries regarding our pre-made or custom design services then you can get in touch with us anytime.
+
+**\- MOUSUMI MAHANTI**
+  * With more than 8 years of experience in designing website, landing pages and others. we can help you achieve maximum conversion rate and boost your business and profits effectively.
+
+ **\- MRINAL MAHANTI**
+
+
