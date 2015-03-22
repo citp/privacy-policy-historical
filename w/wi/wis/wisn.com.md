@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisn.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024061104id_/http%3A//www.wisn.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisn.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322095956id_/http%3A//www.wisn.com/connect/privacy) for the most accurate reproduction.*
 
 # privacy
 
