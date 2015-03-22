@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passwordbox.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702005049id_/https%3A//www.passwordbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passwordbox.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322224517id_/https%3A//www.passwordbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy | PasswordBox
 
@@ -32,7 +32,7 @@ If you are under the age of 18, please be sure to read this policy with your par
 
 PasswordBox only collects personal information provided to us via the Website or the PasswordBox Application during the completion of the registration form, during the use of our Services, during sign-up for our Services or while providing feedback or comments. Collection is limited to the following information: name and email address (i) that we receive from our social networking partners (e.g., such as Facebook, Twitter or Google+) if you have chosen to subscribe to the Services through those partners; and/or (ii) that you have decided to make available to us and your contacts (e.g., pictures, email) either directly or through our social networking partners. This information also helps us communicate with you about your use of the Service, product announcements and software updates, as well as to respond to your requests for assistance. From time to time, we may want to contact you with information about product announcements, software updates and special offers. We also may want to contact you with information about products and services from our business partners.
 
-**Opt-out:** You may opt out of such communications at any time by clicking the "unsubscribe" link found within PasswordBox emails or by emailing [help@passwordbox.com](mailto:help@passwordbox.com) directly. 
+**Opt-out:** You may opt out of such communications at any time by clicking the "unsubscribe" link found within PasswordBox emails or by contacting [https://customersupport.mcafee.com](https://customersupport.mcafee.com/) directly. 
 
 PasswordBox may also collect the following usage information, whether you are using the Website or using the PasswordBox Application as a registered or non-registered user: your IP address, PasswordBox cookie information (see below for more information), the date and time of your visit or use of the PasswordBox Application, the type of internet browser or hardware device (computer or mobile/smartphone) you are using, the URL of any other website that referred you to our Website or the PasswordBox Application, URLs of the pages you visit, your browsing history and your bookmarks in order to provide you with a better user experience. This information is not associated or linked to you as an individual and is not generally regarded as personal information unless you register for our Services. In the event of your registration, that information does become personal information as it is linked with the personal information contained in your account.
 
@@ -42,7 +42,7 @@ We organize usernames, URLs and encrypted passwords of users to allow them to sy
 
 If you choose to use our service to share or bequeath passwords to a friend or to tell a friend (e.g. email a friend) about PasswordBox, we will request your friend’s email address and automatically send your friend an email inviting him/her to visit the site and create an account. PasswordBox stores this information for the sole purpose of sending those emails.
 
-Your friend may contact us at any time via email at [help@passwordbox.com.](mailto:help@passwordbox.com.) to request that we remove this information from our database. 
+Your friend may contact us at any time via [https://customersupport.mcafee.com](https://customersupport.mcafee.com/) to request that we remove this information from our database. 
 
 ## 5\. USE OF THE INFORMATION. 
 
@@ -68,7 +68,7 @@ If PasswordBox merges with another company, is subject to a corporate reorganiza
 
 In choosing to use PasswordBox, you acknowledge that our service providers and/or advertising partners, as well as members of your network who may receive your personal information in accordance with this Privacy Policy or applicable law may be located in countries which have a different level of data protection that in your home country. 
 
-We may also share with third parties certain aggregated non-personal information about you (such as the type of web browser you use) so as to fully optimize our Services. Third parties are prohibited from sharing or selling this information and may not use this information for any purpose not enumerated in this section. You can opt out of this usage by sending an email to [help@passwordbox.com](mailto:help@passwordbox.com) with your request. 
+We may also share with third parties certain aggregated non-personal information about you (such as the type of web browser you use) so as to fully optimize our Services. Third parties are prohibited from sharing or selling this information and may not use this information for any purpose not enumerated in this section. You can opt out of this usage by contacting [https://customersupport.mcafee.com](https://customersupport.mcafee.com/) with your request. 
 
 ## 7\. COOKIES
 
@@ -104,7 +104,7 @@ Flash cookies are different from browser cookies because of the amount and type 
 
 Please notify us if you believe your personal information is inaccurate. 
 
-You have the right (i) to ask for your personal information to be corrected or updated and (ii) to withdraw your consent to the use of your personal information. To do so, please contact us via email at [help@passwordbox.com](mailto:help@passwordbox.com). 
+You have the right (i) to ask for your personal information to be corrected or updated and (ii) to withdraw your consent to the use of your personal information. To do so, please contact us via [https://customersupport.mcafee.com](https://customersupport.mcafee.com/). 
 
 Please note that as a result you may not be able to use certain or all of our Services. Please also note that PasswordBox cannot edit the important encrypted passwords because the encryption and the decryption of this passwords occurs on your device with a master password that only you know and PasswordBox never stores your master password on any server. If you lose your master password, PasswordBox will not be able to recover your account. Please don't forget your master password.
 
@@ -112,7 +112,7 @@ Please note that as a result you may not be able to use certain or all of our Se
 
 We restrict access to personal information to PasswordBox employees and agents who need to know that information in order to operate, develop or improve our Services.
 
-We make commercially reasonable efforts to protect against loss, misuse, and alteration of your personal information that is under our control. To protect the confidentiality of your personal information, we take appropriate security measures (including physical security measures) and we operate secure data networks protected by industry standard firewall and password protection systems. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we have received it. Please be aware that despite these precautions, no method of transmission over the Internet, or method of electronic storage, is 100% secure. PasswordBox takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying information but we cannot guarantee its absolute security. If you have any questions regarding the security of the Website or the PasswordBox Application, you can contact us at PasswordBox, 71 Stevenson Street, Suite 400, San Francisco, CA, 94105 or via email at [help@passwordbox.com](mailto:help@passwordbox.com). 
+We make commercially reasonable efforts to protect against loss, misuse, and alteration of your personal information that is under our control. To protect the confidentiality of your personal information, we take appropriate security measures (including physical security measures) and we operate secure data networks protected by industry standard firewall and password protection systems. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we have received it. Please be aware that despite these precautions, no method of transmission over the Internet, or method of electronic storage, is 100% secure. PasswordBox takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying information but we cannot guarantee its absolute security. If you have any questions regarding the security of the Website or the PasswordBox Application, you can contact us at PasswordBox, 71 Stevenson Street, Suite 400, San Francisco, CA, 94105 or via [https://customersupport.mcafee.com](https://customersupport.mcafee.com/). 
 
 PasswordBox has taken commercially reasonable steps to ensure that its service providers protect the confidentiality and security of your personal information, and to ensure that personal information is processed only for the purposes described in this Privacy Policy.
 
@@ -132,4 +132,4 @@ The parties hereto acknowledge having expressly required that this Privacy Polic
 
 ## 16\. QUESTIONS
 
-If you have any questions regarding this Privacy Policy, or our privacy practices, we encourage you to contact us at PasswordBox, 71 Stevenson Street, Suite 400, San Francisco, CA, 94105 or via email at [help@passwordbox.com](mailto:help@passwordbox.com). 
+If you have any questions regarding this Privacy Policy, or our privacy practices, we encourage you to contact us at PasswordBox, 71 Stevenson Street, Suite 400, San Francisco, CA, 94105 or via [https://customersupport.mcafee.com](https://customersupport.mcafee.com/). 
