@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowt.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035824id_/http%3A//www.wowt.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowt.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322103840id_/http%3A//www.wowt.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -10,7 +10,7 @@ This Privacy Policy has been updated; please [_click here_](https://web.archive.
 
 **_NOTICE_** : This Privacy Policy has been updated to simplify information about our privacy practices and principles and to include new features and activities. Although we offer new features and digital technology to distribute and monitor our content, we have not materially changed your opt-out or opt-in choices for previous features and activities. We remain committed to protecting the privacy, accuracy and reliability of your personally identifiable information (“Personal Information”).
 
-This Privacy Policy governs the Personal Information collected by Gray Television, Inc. ("GTI") or our television stations (“Stations”), (collectively, “our,” “we,” “us”) via the various Web Channels, Apps, and other services owned, operated or provided by us that have an authorized link to this Privacy Policy (collectively, “Services”). (For a list of Web Channels and Stations, [_CLICK HERE_](http://media.graytvinc.com/video/GrayTelevision_InteractiveMap05.swf).
+This Privacy Policy governs the Personal Information collected by Gray Television, Inc. ("GTI") or our television stations (“Stations”), (collectively, “our,” “we,” “us”) via the various Web Channels, Apps, and other services owned, operated or provided by us that have an authorized link to this Privacy Policy (collectively, “Services”). (For a list of Web Channels and Stations, [_CLICK HERE_](http://gray.tv/index.php?page=interactive-map).
 
 By visiting or using our Services, you accept the practices described in this Privacy Policy. This Privacy Policy is hereby incorporated into the GTI Terms of Use Agreement (“TOU”) by reference, which also governs our Services. Any capitalized terms not defined in this Privacy Policy will have the same meaning as defined in the [_TOU_](https://web.archive.org/legalverbiage/headlines/158511785.html).
 
@@ -145,4 +145,4 @@ VP Digital Media
 126 N. Washington Street  
 Albany, GA 31701
 
-Copyright © 2014 Gray Television, Inc. All Rights Reserved.
+Copyright © 2015 Gray Television, Inc. All Rights Reserved.
