@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketdivision.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628125454id_/http%3A//www.starwindsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketdivision.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322091201id_/http%3A//www.starwindsoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # StarWind Privacy Policy | StarWind Software
 
@@ -35,7 +35,7 @@ StarWind will use your personal information to enable your participation in cert
 
 ### Links to Other Sites
 
-The StarWind official Website - [www.starwindsoftware.com](http://starwindsoftware.com/) \- contains links to other sites which are not controlled by StarWind. The company is not responsible for the content placed on those websites as well as for any personal information they may ask for, even though the StarWind name or logo may appear on those websites. We encourage you to be aware of this fact when you leave the StarWind Website, and to read the Privacy Policy of every site that you visit, as the terms of privacy policy may differ from that of StarWind. Our Privacy Policy applies solely to the StarWind Website. 
+The StarWind official Website - [www.starwindsoftware.com](https://www.starwindsoftware.com/) \- contains links to other sites which are not controlled by StarWind. The company is not responsible for the content placed on those websites as well as for any personal information they may ask for, even though the StarWind name or logo may appear on those websites. We encourage you to be aware of this fact when you leave the StarWind Website, and to read the Privacy Policy of every site that you visit, as the terms of privacy policy may differ from that of StarWind. Our Privacy Policy applies solely to the StarWind Website. 
 
 ### Cookies
 
