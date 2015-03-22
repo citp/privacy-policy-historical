@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628215017id_/http%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322094849id_/http%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
 
 # MarieForleo.com | Privacy Policy
 
