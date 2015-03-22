@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nimbuzzout.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022084548id_/http%3A//www.nimbuzz.com/en/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbuzzout.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322154928id_/http%3A//www.nimbuzz.com/en/legal/privacy-statement) for the most accurate reproduction.*
 
 # Nimbuzz Privacy:Cheap,Low Cost International Phone Calling,Calls Rates
 
-Nimbuzz is committed to respecting your privacy and the confidentiality of your personal information, communications data and communications content and this Privacy Statement sets what data Nimbuzz collects and how we use and protect it. “Nimbuzz” is Nimbuzz BV, a Netherlands company, with its registered office at 301, Rivium Boulevard, LK 2909 Capelle aan den IJssel, the Netherlands, and is responsible for the data processing.
+Nimbuzz is committed to respecting your privacy and the confidentiality of your personal information, communications data and communications content and this Privacy Statement sets out what data Nimbuzz collects and how we use and protect it. “Nimbuzz” is Nimbuzz BV, a Dutch company, with its registered office at Delftseplein 27-E, 3013 AA Rotterdam, the Netherlands, and is responsible for the data processing.
 
 IF YOU ARE UNDER 16 YEARS OLD YOU SHOULD DISCUSS THIS PRIVACY STATEMENT WITH A PARENT OR LEGAL GUARDIAN, AND ENSURE THAT THEY AGREE WITH NIMBUZZ’S USE OF YOUR INFORMATION.
 
-This Statement also forms a part of the Agreement between you and us for the use of the Nimbuzz Services and Nimbuzz Website, as explained in the Terms of Use (http://www.nimbuzz.com/en/legal/terms-of-use). Capitalised terms used in this Privacy Statement are defined in the Terms of Use. By using the Nimbuzz Services or the Website you consent to our using your data as explained in this Statement. 
+This Statement also forms a part of the Agreement between you and us for the use of the Nimbuzz Services and Nimbuzz Website, as explained in the Terms of Use (http://www.nimbuzz.com/en/legal/terms-of-use). Capitalised terms used in this Privacy Statement are defined in the Terms of Use. By using the Nimbuzz Services or the Website you consent to our using your data as explained in this Statement.
 
 We may amend this Privacy Statement by posting a new version on the Website and/or notifying you in some other way as set out below.
 
@@ -15,39 +15,40 @@ We may amend this Privacy Statement by posting a new version on the Website and/
 In connection with the provision of the Nimbuzz Services (including the Nimbuzz Paid Services), Nimbuzz may gather and process information about you, including the following types of information:
 
   * Your personal data including contact and registration details (name, User ID, address, telephone, mobile, email address etc.) and profile data (age, sex, pastimes, etc.);
-  * Status updates or public data you post within the Nimbuzz Services;
+  * status updates or public data you post within the Nimbuzz Services;
   * payment data including your credit or debit card billing address etc.,
-  * Your lists of contacts and addresses;
-  * Login data including for Third Party Services accessible through the Nimbuzz Services;
-  * Network and technical data (IP addresses, network operator, Device ID data, Device operating system, cookies, etc.);
-  * Data in relation to use of Nimbuzz games or programs;
-  * Anonymous data on the approximate location of your device (e.g., from the cell ID data of your mobile network or GPS services);
-  * Communications contents (e.g., calls, chats, IMs, files shared);
+  * your phonebook, names and addresses, lists of contacts;
+  * login data including for Third Party Services accessible through the Nimbuzz Services;
+  * network and technical data (IP addresses, network operator, Device ID data, Device operating system, cookies, etc.);
+  * data in relation to use of Nimbuzz games or programs;
+  * anonymous data on the approximate location of your device (e.g., from the cell ID data of your mobile network or GPS services);
+  * communications contents (e.g., calls, chats, IMs, files shared);
   * Communications data (e.g., the duration of the call, the number calling, the number called, etc.); and
-  * Questionnaires or survey results and information regarding use of the Nimbuzz Services.
+  * questionnaires or survey results and information regarding use of the Nimbuzz Services.
 
   
 
 
 ### 2\. HOW AND WHY DOES NIMBUZZ USE YOUR PERSONAL INFORMATION?
 
-Our reasons for collecting information relating to you or your Device are to enable Nimbuzz (or sometimes other data processors selected by Nimbuzz) to provide the Nimbuzz Services to you in an effective and satisfactory way, as follows:
+Our reasons for collecting information relating to you or your Device are to enable Nimbuzz (or sometimes other data processors selected by Nimbuzz) to provide the Nimbuzz Services through the Nimbuzz application or other applications provided by Nimbuzz to you in an effective and satisfactory way, as follows:
 
-  * Processing your log-ins, messages and calls and enabling the other features of the Nimbuzz Services;
-  * Receiving payment from you for Nimbuzz Paid Services, and sending you a receipt or communications regarding your purchases or orders;
-  * Providing you with customer support, responding to questions and helping to resolve problems;
-  * Informing you about service updates or problems;
-  * Resolving disputes;
-  * Verifying your identity;
-  * For legal reasons, e.g., checking that you comply with the Terms of Use and Nimbuzz policies, and preventing crime and fraud;
-  * Customizing, understanding users’ use of, and improving the Nimbuzz Services and Nimbuzz Website (this includes customization of advertising based on your location, or features such as indicating when you were last online, notifying your contacts when you are playing a Nimbuzz game or permitting you to invite them to participate in Nimbuzz games); and
-  * Informing you of additional products, services and offers provided by Nimbuzz.
+  * processing your log-ins, messages and calls and enabling the other features of the Nimbuzz Services;
+  * showing your profile information on the Nimbuzz Services: please note that your profile information is provided by you voluntarily and under your sole responsibility;
+  * receiving payment from you for Nimbuzz Paid Services, and sending you a receipt or communications regarding your purchases or orders;
+  * providing you with customer support, responding to questions and helping to resolve problems;
+  * informing you about service updates or problems;
+  * resolving disputes;
+  * verifying your identity;
+  * for legal reasons, e.g., checking that you comply with the Terms of Use and Nimbuzz policies, and preventing crime and fraud;
+  * customizing, understanding users’ use of, and improving the Nimbuzz Services and Nimbuzz Website (this includes customization of advertising based on your location, or features such as indicating when you were last online, notifying your contacts when you are playing a Nimbuzz game or permitting you to invite them to participate in Nimbuzz games); and
+  * informing you of additional products, services and offers provided by Nimbuzz.
 
 
 
-Nimbuzz stores the personal information in different data files kept on servers based in the Netherlands. Nimbuzz undertakes to ensure security of the data, including where such servers may be operated by third party data processors under Nimbuzz’s responsibility.
+Nimbuzz stores the personal information in different data files kept on servers based in the Netherlands. Nimbuzz will take all reasonable measures to ensure security of the data, including where such servers may be operated by third party data processors under Nimbuzz’s responsibility.
 
-If we provide a method for you to invite friends to join Nimbuzz, then their contact information will only be used for the purposes of automatically generating a message to these potential Nimbuzz users. Nimbuzz Services also have a function that can check the contacts in your address book against the list of Nimbuzz users and informs you of existing contacts that are already registered for Nimbuzz Services and with whom you may want to connect. If you are already in the address book of other Nimbuzz Services users they be informed that you are a Nimbuzz user you so that they can decide whether to connect with you.
+If we provide a method for you to invite friends to join Nimbuzz, then their contact information will only be used for the purposes of automatically generating a message to these potential Nimbuzz users. Nimbuzz Services also have a function that can check the names and phone numbers in your address book against the list of Nimbuzz users and informs you of existing contacts that are already registered for Nimbuzz Services and with whom you may want to connect. If you are already in the address book of other Nimbuzz Services users they be informed that you are a Nimbuzz user you so that they can decide whether to connect with you.
 
 If we process data regarding the location of your Device then (i) in case of services such as allowing location requests from your Nimbuzz contacts, you will be able to switch this functionality on or off at any time within the Nimbuzz Services, and (ii) where this is used in order to provide advertising appropriate to your locality then we may provide this to our third party advertising partners but never in a form that you will be able to be identified from this data; and your acceptance of this privacy statement constitutes consent for this processing.
 
@@ -58,7 +59,7 @@ If we process data regarding the location of your Device then (i) in case of ser
 
 Nimbuzz does not sell, rent, trade or otherwise transfer any personal information, log-in information, communications data or communications content to any third party without your express permission (unless it is obliged to do so under applicable laws or by order of the competent authorities) except as set out in this Statement.
 
-Nimbuzz needs to provide certain information to third parties who assist Nimbuzz in providing elements of the Nimbuzz Services. So, for example, in order to enable you to access to voice calling services, Nimbuzz may need to provide your mobile number to the provider of such calling services. Under their contracts with Nimbuzz they are required to store and process your information in accordance with similar standards of protection of your data as applied by Nimbuzz.
+Nimbuzz needs to provide certain information to third parties who assist Nimbuzz in providing elements of the Nimbuzz Services. So, for example, in order to enable you to access to voice calling services, Nimbuzz may need to provide your mobile number to the provider of such calling services, or to collect payment from you for the Nimbuzz Paid Services Nimbuzz may need to provide such data to a payment processor. Under their contracts with Nimbuzz they are required to store and process your information in accordance with similar standards of protection of your data as applied by Nimbuzz.
 
 If any authority lawfully requests Nimbuzz or one of Nimbuzz’s partners to retain and provide personal information, communications content and/or communications or technical data, or permit monitoring or interception, Nimbuzz and/or its partner may comply with that request without being obliged to inform you.
 
@@ -134,7 +135,7 @@ You may also ask Nimbuzz to stop processing your personal information. However, 
 
 Nimbuzz will retain your information for as long as is necessary to carry out any of the purposes set out in this Privacy Statement and comply with applicable legislation, and any applicable orders of regulatory bodies or courts.
 
-© Nimbuzz B.V., all rights reserved. Last revised: December 2013
+© Nimbuzz B.V., all rights reserved. Last revised: 21 October 2014
 
   
 
