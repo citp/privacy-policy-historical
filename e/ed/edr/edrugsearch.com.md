@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129004239id_/http%3A//www.edrugsearch.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322053326id_/https%3A//www.edrugsearch.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
