@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224132751id_/http%3A//www.rb.com/site/rkbr/templates/General.aspx%3Fpageid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322093746id_/http%3A//www.rb.com/site/rkbr/templates/General.aspx%3Fpageid%3D8) for the most accurate reproduction.*
 
 # Privacy policy - RB
 
