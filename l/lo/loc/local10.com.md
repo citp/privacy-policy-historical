@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the local10.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609111010id_/http%3A//www.local10.com/-/1717430/3989770/-/9w6eiq/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local10.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322103310id_/http%3A//www.local10.com/3989770) for the most accurate reproduction.*
 
-# Home -
+# Privacy Policy | Home - Home
 
-Local10.com (the "Site"), on which this Privacy Policy is posted, is operated by WPLG-TV10 ("WPLG"), its parent, affiliated and related companies (collectively referred to herein as "we", "us", "our" or "WPLG"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site's users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site [Terms of Use](view-source:http://www.justnews.com/station/23902658/detail.html), which governs your use of this Site in general.
+Local10.com (the "Site"), on which this Privacy Policy is posted, is operated by WPLG-TV10 ("WPLG"), its parent, affiliated and related companies (collectively referred to herein as "we", "us", "our" or "WPLG"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site's users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site [Terms of Use](https://web.archive.org/terms-of-use/3981532), which governs your use of this Site in general.
 
-**You may opt in or opt out of our sharing of your personally identifiable information with third parties for their marketing use by following the directions in the "[What are my opt-out rights?](view-source:http://www.local10.com/privacy/index.html#Q4)" section below.**
+**You may opt in or opt out of our sharing of your personally identifiable information with third parties for their marketing use by following the directions in the "[What are my opt-out rights?](http://www.local10.com/3989770#Q4)" section below.**
 
-[What information do we collect?](view-source:http://www.local10.com/privacy/index.html#Q1)
+[What information do we collect?](http://www.local10.com/3989770#Q1)
 
-[How may your information be used?](view-source:http://www.local10.com/privacy/index.html#Q2)
+[How may your information be used?](http://www.local10.com/3989770#Q2)
 
-[How may your information be disclosed?](view-source:http://www.local10.com/privacy/index.html#Q3)
+[How may your information be disclosed?](http://www.local10.com/3989770#Q3)
 
-[What are my opt-out rights?](view-source:http://www.local10.com/privacy/index.html#Q4)
+[What are my opt-out rights?](http://www.local10.com/3989770#Q4)
 
-[What about cookies and tracking pixels?](view-source:http://www.local10.com/privacy/index.html#Q6)
+[What about cookies and tracking pixels?](http://www.local10.com/3989770#Q6)
 
-[What about third-party advertisers?](view-source:http://www.local10.com/privacy/index.html#Q7)
+[What about third-party advertisers?](http://www.local10.com/3989770#Q7)
 
-[What information is collected from children under the age of 13?](view-source:http://www.local10.com/privacy/index.html#Q8)
+[What information is collected from children under the age of 13?](http://www.local10.com/3989770#Q8)
 
-[How do we aim to protect personally identifiable information collected on this Site?](view-source:http://www.local10.com/privacy/index.html#Q9)
+[How do we aim to protect personally identifiable information collected on this Site?](http://www.local10.com/3989770#Q9)
 
-[How can you access and edit your personally identifiable information?](view-source:http://www.local10.com/privacy/index.html#Q10)
+[How can you access and edit your personally identifiable information?](http://www.local10.com/3989770#Q10)
 
-[What Web sites does this Privacy Policy cover?](view-source:http://www.local10.com/privacy/index.html#Q11)
+[What Web sites does this Privacy Policy cover?](http://www.local10.com/3989770#Q11)
 
-[What if I am a non-U.S. user?](view-source:http://www.local10.com/privacy/index.html#Q12)
+[What if I am a non-U.S. user?](http://www.local10.com/3989770#Q12)
 
-[What happens to your information if there is a corporate change of control?](view-source:http://www.local10.com/privacy/index.html#Q13)
+[What happens to your information if there is a corporate change of control?](http://www.local10.com/3989770#Q13)
 
-[What about changes to this privacy policy?](view-source:http://www.local10.com/privacy/index.html#Q14)
+[What about changes to this privacy policy?](http://www.local10.com/3989770#Q14)
 
-[How can you ask questions or contact us?](view-source:http://www.local10.com/privacy/index.html#Q15)
+[How can you ask questions or contact us?](http://www.local10.com/3989770#Q15)
 
 **What information do we collect?**
 
@@ -48,7 +48,7 @@ _Information Obtained from Third Parties:_ We may supplement the information tha
 
 _How Personally Identifiable Information May Be Used:_ We may use your personally identifiable information for various purposes, such as to send confirmation notices regarding services users have requested, and to notify contest or sweepstakes winners and award prizes. Contact information may also be used to notify you of significant upcoming events and programs. Demographic information may be used to tailor your experience at the Site. Contact information and demographic information may be used to establish a profile for you to use when posting information in public forums (however, as further described below, we are not responsible for protecting the personally identifiable information you may disclose in public forums, comments, or other user-generated content). The Site may show you content we think might be of interest to you and we may display content according to your preferences and interests.
 
-We may also use any personally identifiable information you provide for marketing and promotional purposes (such as sending you promotional emails), and we may combine information we receive online with outside records and/or information from other sources to enhance our ability to market products or provide services that we believe may be of interest to you. **If you want to stop receiving promotional email messages from WPLG, you may do so by following the directions in the "[What are my opt-out rights?](view-source:http://www.local10.com/privacy/index.html#Q4)" section below.**
+We may also use any personally identifiable information you provide for marketing and promotional purposes (such as sending you promotional emails), and we may combine information we receive online with outside records and/or information from other sources to enhance our ability to market products or provide services that we believe may be of interest to you. **If you want to stop receiving promotional email messages from WPLG, you may do so by following the directions in the "[What are my opt-out rights?](http://www.local10.com/3989770#Q4)" section below.**
 
 _Referral Services:_ In addition to the uses of personally identifiable information described above, if you elect to use our referral service for informing a friend about the Site or to send an e-card through the Site, we ask you for your friend's name and email address. We will automatically send the friend an email inviting him/her to visit the Site or send an e-card, as the case may be. You and any friend you refer may be able to opt-out of receiving future marketing communications by complying with the choice/opt-out requirements described below.
 
@@ -64,9 +64,9 @@ _Sharing with Service Providers:_ We may share your personally identifiable info
 
 _Internet Broadcasting Systems Inc.:_ One of our Service Providers, Internet Broadcasting Systems Inc. ("IB"), is integral to the operation and administration of many aspects of this Site. IB collects and uses user information to perform its services and the day to day operation of the Web site.
 
-_Sharing with Third-Party Marketers:_ We may share your personally identifiable information with, and make our customer lists available to, third parties (outside of WPLG), who may choose to contact you to promote their own goods and services, or who may use such information for other purposes, including direct marketing. Additionally, when you enter a contest or sweepstakes that is sponsored by a third party, independently or jointly with us, your personally identifiable information may be shared with that third party for their use, in their discretion and in accordance with their privacy policies, including for their direct marketing purposes. While some of our contests and sweepstakes will ask you at the time of entry whether you would like your personally identifiable information to be shared with the third-party sponsor, other contests will not give you that option. Thus, in that event, if you do not want your information to be shared, you should not enter the contest. We are not responsible for how our co-sponsors or such other third parties may use your information. **If you want us to stop sharing your personally identifiable information with third parties for their direct marketing use, follow the directions in the "[What are my opt-out rights?](view-source:http://www.local10.com/privacy/index.html#Q4)" section below.**
+_Sharing with Third-Party Marketers:_ We may share your personally identifiable information with, and make our customer lists available to, third parties (outside of WPLG), who may choose to contact you to promote their own goods and services, or who may use such information for other purposes, including direct marketing. Additionally, when you enter a contest or sweepstakes that is sponsored by a third party, independently or jointly with us, your personally identifiable information may be shared with that third party for their use, in their discretion and in accordance with their privacy policies, including for their direct marketing purposes. While some of our contests and sweepstakes will ask you at the time of entry whether you would like your personally identifiable information to be shared with the third-party sponsor, other contests will not give you that option. Thus, in that event, if you do not want your information to be shared, you should not enter the contest. We are not responsible for how our co-sponsors or such other third parties may use your information. **If you want us to stop sharing your personally identifiable information with third parties for their direct marketing use, follow the directions in the "[What are my opt-out rights?](http://www.local10.com/3989770#Q4)" section below.**
 
-_Legally-Compelled Disclosures:_ To the extent permitted or required by law, any information collected on or through the Site or concerning its use (including personally identifiable and non-personally identifiable information) may be disclosed to government authorities or third parties pursuant to a legal request, subpoena, or other process that requires disclosure of information. We may also use or disclose your information to enforce compliance with our [Terms of Use](view-source:http://www.justnews.com/station/23902658/detail.html) and as permitted by law to collect debts, fight fraud or protect the rights or property of the Site, our customers, our users, or third parties, or when we otherwise believe in good faith that the law requires it.
+_Legally-Compelled Disclosures:_ To the extent permitted or required by law, any information collected on or through the Site or concerning its use (including personally identifiable and non-personally identifiable information) may be disclosed to government authorities or third parties pursuant to a legal request, subpoena, or other process that requires disclosure of information. We may also use or disclose your information to enforce compliance with our [Terms of Use](https://web.archive.org/terms-of-use/3981532) and as permitted by law to collect debts, fight fraud or protect the rights or property of the Site, our customers, our users, or third parties, or when we otherwise believe in good faith that the law requires it.
 
 _Information Posted to Public Forums:_ This Site may make chat rooms, forums, message boards, news groups and/or other similar features available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose personally identifiable information about you or anyone else. The Site cannot and does not accept any responsibility for ensuring the privacy of any information that you choose to disclose in these areas. Any content or information you provide to these areas of the Site is done at your own risk.
 
@@ -90,7 +90,7 @@ Any or all of the above-described activities with respect to cookies and trackin
 
 We may allow third parties to compile information or aggregate statistics from our use of tracking pixels, cookies and other tracking technologies to help them assess the effectiveness of online marketing and to enable us and our advertisers to deliver more targeted advertising opportunities. This enables users to see advertising more likely to be of interest to them, and advertisers to send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.
 
-If advertisements appear on the Site, they may be provided by third parties who will be helping to manage them for us. Those third parties may employ cookies and tracking pixels (and other tracking technologies) to recognize your computer each time they send you an online advertisement, and to measure advertising effectiveness. We do not control these companies' use of cookies and tracking pixels. Some of these companies (like the ad networks) are members of the industry group, the Network Advertising Initiative, which offers a single location to opt out of their cookies. For more information, we encourage you to visit the Network Advertising Initiative's consumer Web site, at [http://www.networkadvertising.org/consumer/](view-source:http://www.networkadvertising.org/consumer/).
+If advertisements appear on the Site, they may be provided by third parties who will be helping to manage them for us. Those third parties may employ cookies and tracking pixels (and other tracking technologies) to recognize your computer each time they send you an online advertisement, and to measure advertising effectiveness. We do not control these companies' use of cookies and tracking pixels. Some of these companies (like the ad networks) are members of the industry group, the Network Advertising Initiative, which offers a single location to opt out of their cookies. For more information, we encourage you to visit the Network Advertising Initiative's consumer Web site, at <http://www.networkadvertising.org/consumer/>.
 
 **What information is collected from children under the age of 13?**
 
@@ -104,7 +104,7 @@ If we believe that the security of any user's personal information in our posses
 
 **How can you access and edit your personally identifiable information?**
 
-You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](view-source:http://www.local10.com/emailnewsletters/index.html) (if applicable).
+You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](https://web.archive.org/Sign-Up-for-Email-Newsletters-Alerts/29388556) (if applicable).
 
 **What Web sites does this Privacy Policy cover?**
 
@@ -124,19 +124,17 @@ We reserve the right, in our sole discretion, to modify, alter or otherwise upda
 
 **How can you ask questions or contact us?**
 
-If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:websitepolicy@postnewsweek.com).
+If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:websitepolicy@grahammedia.com).
 
 **Effective: June 15, 2010**
 
-[ ](http://www.local10.com/weather/hurricane-season/-/2755616/-/w6y5h3z/-/index.html)
-
-[ ](http://www.local10.com/news/help-build-gratigny-plateau-park/-/1717324/20100004/-/10v0xm3/-/index.html)
+[ ](http://www.local10.com/sports/2015-bracket-challenge-code/24982294)
 
 Advertisement
 
-[ ](http://www.local10.com/sports/FREE-Local-10-Heat-app-now-available/-/1717082/19865658/-/hrjns4z/-/index.html/)
+Advertisement
 
-[ ](http://www.local10.com/entertainment/livewellnetwork/-/19410550/-/format/rss_2.0/-/nsshml/-/index.html)
+[ ](http://www.local10.com/entertainment/movies/30559002)
 
 Advertisement
 
