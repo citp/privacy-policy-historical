@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportsmanswarehouse.co.za privacy policy that was archived on 2014-07-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140707174949id_/http%3A//www.sportsmanswarehouse.co.za/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsmanswarehouse.co.za privacy policy that was archived on 2015-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322015347id_/http%3A//www.sportsmanswarehouse.co.za/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Privacy Policy</title>
@@ -32,7 +32,7 @@
 
 
 <link href="/skins/basic/customer/css/ui/jqueryui.css" rel="stylesheet" type="text/css">
-<link href="/skins/basic/customer/styles.css?v=20140702" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/styles.css?v=20150312" rel="stylesheet" type="text/css">
 <link href="/skins/basic/customer/print.css" rel="stylesheet" media="print" type="text/css">
 <link href="/skins/basic/customer/dropdown.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
@@ -44,16 +44,17 @@
 <!--[if IE 9 ]>
     <link href="/skins/basic/customer/styles_ie9.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/skins/basic/customer/style.css?v=20140702" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/style.css?v=20150312" rel="stylesheet" type="text/css">
 
 
 <link href="/skins/basic/customer/addons/wg_search/css/wg_search.css" media="all" rel="stylesheet" type="text/css">
-
+<link href="/skins/basic/customer/addons/buy_together/styles.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link href="/skins/basic/customer/addons/buy_together/styles_ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
 <link href="/skins/basic/customer/addons/news_and_emails/styles.css" rel="stylesheet" type="text/css">
 <link href="/skins/basic/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/basic/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
+<link href="/skins/basic/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css"><script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="/lib/js/jqueryui/jquery-ui.custom.min.js"></script>
 <script type="text/javascript" src="/lib/js/tools/tooltip.min.js"></script>
 <script type="text/javascript" src="/lib/js/appear/jquery.appear-1.1.1.js"></script>
@@ -281,6 +282,13 @@ function fill(thisValue) {
 
 
 
+<script type="text/javascript" src="/addons/buy_together/js/func.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+	lang['buy_together_fill_the_mandatory_fields'] = 'Please specify product options before adding this product combination to the cart.';
+//]]>
+</script>
 
 
 
@@ -344,7 +352,7 @@ $(function() {
     <div class="header_contener">
 	<div class="top_icon">
 		<a title="Facebook Page" target="_blank" href="http://www.facebook.com/SportsmansW"><img src="/skins/basic/customer/images/facebook.png" alt="Follow Facebook" border="0"></a>
-		<a title="Twitter Page" target="_blank" href="https://twitter.com/#!/SportsmansW"><img src="/skins/basic/customer/images/twitter.png" alt="Follow on Twitter" border="0"></a>
+		<a title="Twitter Page" target="_blank" href="https://twitter.com/SportsmansW"><img src="/skins/basic/customer/images/twitter.png" alt="Follow on Twitter" border="0"></a>
 		<a title="Google+ Page" target="_blank" href="https://plus.google.com/113316277980625217631" rel="publisher"><img src="/skins/basic/customer/images/googleplus.png" alt="Follow on Google+" border="0"></a>
 	</div>
 	<ul class="top-nav-info">
@@ -359,7 +367,7 @@ $(function() {
 							<span class="arial11White">Head Office</span><br>
 							<span class="HelveticaNeueLTStd77BdCnOb22BoldWhite">0800 003 051</span><br>
 							<span class="arial11White">Mon - Fri 9am- 5pm</span><br>
-							<span class="arial11White">Web Enquiries</span><br>
+							<span class="arial11White">Webstore</span><br>
 							<span class="HelveticaNeueLTStd77BdCnOb22BoldWhite">0800 007 030</span><br>
 							<span class="arial11White"> Mon-Fri, 9am-5pm<br> Sat-Sun, 9am-2pm</span>
 						</div>
@@ -377,6 +385,7 @@ $(function() {
 		</li>
 	</ul>
 
+				
 	<ul class="top-nav-info">
 		<li class="nav_track">
 			<a class="top-menu-item-track"></a>
@@ -407,7 +416,8 @@ $(function() {
 			</div>
 		</li>
 	</ul>
-					<div class="top_links">
+
+		<div class="top_links">
 		<ul>
 			<li class="none">
 				<div style="padding:0px;" id="sign_io">
@@ -458,7 +468,8 @@ $(function() {
 							</div>
 						</div>
 															<!--sign_io--></div></li>
-			
+			<li id="promotions"><a href="/index.php?dispatch=sw.promotions">Promotions</a></li>
+			<li id="deals"><a href="/deals.html">Deals</a></li>
 			<li><a href="/sportsmans-warehouse-gift-card.html">Gift Cards</a></li>
 			<li><a id="newsletter_popup" href="/newsletter-modal.php?iframe=true&amp;width=400&amp;height=480" rel="prettyPhoto[newsletter]">Newsletter</a></li>
 			<li><a href="/sportsmans-warehouse-stores.html">Store Locator</a></li>
@@ -504,9 +515,9 @@ function lookup_custom(param){
 </script>
 
 
-<input type="text" name="q" value="Search our products..." onfocus="if (this.value == 'Search our products...')
+<input type="text" name="q" value="Search apparel, footwear, &amp; more..." onfocus="if (this.value == 'Search apparel, footwear, &amp; more...')
 											this.value = '';" onblur="if (this.value == '')
-											this.value = 'Search our products...'; fill_custom();" onkeyup="lookup_custom(this.value);" alt="Search" class="search_inpt">
+											this.value = 'Search apparel, footwear, &amp; more...'; fill_custom();" onkeyup="lookup_custom(this.value);" alt="Search" class="search_inpt">
 
 			<input type="submit" name="srch" value="" class="go_botton">
 			<input type="hidden" value="products.search" name="dispatch">
@@ -529,7 +540,7 @@ function lookup_custom(param){
 		</div>
 	
 	<div class="shopping_box">
-		<!--<span class="xmashat"></span>-->
+		<span class="xmashat"></span>
 		<div class="shopping_cart">YOUR SHOPPING CART
 			
 	<div id="cart_status">
@@ -568,16 +579,16 @@ function lookup_custom(param){
 					<p>Please find our delivery rates below.<br><br><strong>Delivery charges are calculated per item. We deliver within South African borders only.</strong></p>
 					<table border="0" class="province_table" cellpadding="5" cellspacing="0">
 						<tbody><tr>
-							<th></th><th colspan="2" class="n-active">Normal size</th><th colspan="2" class="o-active">Large</th><th colspan="2" class="vo-active msc-active">Extra Large</th>
+							<th></th><th colspan="2" class="n-active">Normal size</th><th colspan="2" class="o-active">Large</th><th colspan="2" class="vo-active msc-active">Extra Large</th><th colspan="2">Bicycles</th>
 						</tr>
 						<tr>
-							<td><b>Order Value</b></td><td class="n-active">Main Centre</td><td class="n-active">Outlying Areas</td><td class="o-active">Main Centre</td><td class="o-active">Outlying Areas</td><td class="vo-active msc-active">Main Centre</td><td class="vo-active msc-active">Outlying Areas</td>
+							<td><b>Order Value</b></td><td class="n-active">Main Centre</td><td class="n-active">Outlying Areas</td><td class="o-active">Main Centre</td><td class="o-active">Outlying Areas</td><td class="vo-active msc-active">Main Centre</td><td class="vo-active msc-active">Outlying Areas</td><td>Flat Rate</td>
 						</tr>
 						<tr>
-							<td>Above R800</td><td class="n-active"><b>FREE</b></td><td class="n-active">R100</td><td class="o-active">R150</td><td class="o-active">R250</td><td class="vo-active msc-active">R250</td><td class="vo-active msc-active">R350</td>
+							<td>Above R800</td><td class="n-active"><b>FREE</b></td><td class="n-active">R100</td><td class="o-active">R150</td><td class="o-active">R250</td><td class="vo-active msc-active">R250</td><td class="vo-active msc-active">R350</td><td>R250</td>
 						</tr>
 						<tr>
-							<td>Below R800</td><td class="n-active">R50</td><td class="n-active">R150</td><td class="o-active">R200</td><td class="o-active">R300</td><td class="vo-active msc-active">R300</td><td class="vo-active msc-active">R400</td>
+							<td>Below R800</td><td class="n-active">R50</td><td class="n-active">R150</td><td class="o-active">R200</td><td class="o-active">R300</td><td class="vo-active msc-active">R300</td><td class="vo-active msc-active">R400</td><td>R250</td>
 						</tr>
 					</tbody></table>
 					<p>Please note that these charges are not applicable to products delivered by our <strong>Moresport Service Centre</strong>. These products include treadmills and gym equipment and will be <strong>delivered and installed free of charge</strong> to customers in select areas.</p>
@@ -594,11 +605,11 @@ function lookup_custom(param){
 
 
 		<div class="toll-free">
-			<span>Toll-Free</span> 0800&nbsp;003&nbsp;051<br>
+			<span>Toll-Free</span>&nbsp;0800&nbsp;003&nbsp;051<br>
 			<p class="toll-free-trading-hours">Mon-Fri, 9am-5pm&nbsp;</p>
 		</div>
 		<div class="toll-free">
-			<span>Web Enquiries&nbsp;</span>0800&nbsp;007&nbsp;030
+			<span>Webstore</span>&nbsp;0800&nbsp;007&nbsp;030
 			<p class="toll-free-trading-hours">Mon-Fri, 9am-5pm, Sat-Sun, 9am-2pm&nbsp;</p>
 		</div>
 
@@ -690,9 +701,6 @@ function lookup_custom(param){
 																														 									<ul>
 										<h4><a href="/men/cycling/">Cycling</a></h4>
 																						<li>
-												<a href="/men/cycling/protectors-1/"> Protectors</a>
-											</li>
-																					<li>
 												<a href="/men/cycling/tops-1/"> Jerseys</a>
 											</li>
 																					<li>
@@ -700,6 +708,9 @@ function lookup_custom(param){
 											</li>
 																					<li>
 												<a href="/men/cycling/jackets-1/"> Jackets</a>
+											</li>
+																					<li>
+												<a href="/men/cycling/protectors-1/"> Protectors</a>
 											</li>
 																													</ul>
 																														 									<ul>
@@ -728,13 +739,13 @@ function lookup_custom(param){
 																														 									<ul>
 										<h4><a href="/men/swimwear/">Swimwear</a></h4>
 																						<li>
-												<a href="/men/swimwear/towels-2/"> Towels</a>
-											</li>
-																					<li>
 												<a href="/men/swimwear/competitive/"> Training</a>
 											</li>
 																					<li>
 												<a href="/men/swimwear/leisure/"> Leisure</a>
+											</li>
+																					<li>
+												<a href="/men/swimwear/towels-2/"> Towels</a>
 											</li>
 																													</ul>
 																														 									<ul>
@@ -769,9 +780,6 @@ function lookup_custom(param){
 																					<li>
 												<a href="/women/other-1/tennis-1/"> Tennis</a>
 											</li>
-																					<li>
-												<a href="/women/other-1/golf-1/"> Golf</a>
-											</li>
 																													</ul>
 																														 									<ul>
 										<h4><a href="/women/running-1/">Running</a></h4>
@@ -791,9 +799,6 @@ function lookup_custom(param){
 																														 									<ul>
 										<h4><a href="/women/cycling-1/">Cycling</a></h4>
 																						<li>
-												<a href="/women/cycling-1/protectors-2/"> Protectors</a>
-											</li>
-																					<li>
 												<a href="/women/cycling-1/tops-6/"> Jerseys</a>
 											</li>
 																					<li>
@@ -801,6 +806,9 @@ function lookup_custom(param){
 											</li>
 																					<li>
 												<a href="/women/cycling-1/jackets-4/"> Jackets</a>
+											</li>
+																					<li>
+												<a href="/women/cycling-1/protectors-2/"> Protectors</a>
 											</li>
 																													</ul>
 																														 									<ul>
@@ -829,13 +837,13 @@ function lookup_custom(param){
 																														 									<ul>
 										<h4><a href="/women/swimwear-1/">Swimwear</a></h4>
 																						<li>
-												<a href="/women/swimwear-1/towels-4/"> Towels</a>
-											</li>
-																					<li>
 												<a href="/women/swimwear-1/competitive-1/"> Training</a>
 											</li>
 																					<li>
 												<a href="/women/swimwear-1/leisure-1/"> Leisure</a>
+											</li>
+																					<li>
+												<a href="/women/swimwear-1/towels-4/"> Towels</a>
 											</li>
 																													</ul>
 																														 									<ul>
@@ -890,6 +898,9 @@ function lookup_custom(param){
 											</li>
 																					<li>
 												<a href="/junior/other-2/soccer-1/"> Soccer</a>
+											</li>
+																					<li>
+												<a href="/junior/other-2/karate-1/"> Karate</a>
 											</li>
 																					<li>
 												<a href="/junior/other-2/netball-1/"> Netball</a>
@@ -980,6 +991,9 @@ function lookup_custom(param){
 																														 									<ul>
 										<h4><a href="/footwear/men-1/">Men</a></h4>
 																						<li>
+												<a href="/footwear/men-1/leisure-13/"> Leisure</a>
+											</li>
+																					<li>
 												<a href="/footwear/men-1/running-3/"> Running</a>
 											</li>
 																					<li>
@@ -989,13 +1003,25 @@ function lookup_custom(param){
 												<a href="/footwear/men-1/sandals/"> Sandals</a>
 											</li>
 																					<li>
-												<a href="/footwear/men-1/tennis-3/"> Tennis</a>
+												<a href="/footwear/men-1/cycling-4/"> Cycling</a>
+											</li>
+																					<li>
+												<a href="/footwear/men-1/cricket-boots/"> Cricket Boots</a>
+											</li>
+																					<li>
+												<a href="/footwear/men-1/athletic-spikes/"> Athletic Spikes</a>
+											</li>
+																					<li>
+												<a href="/footwear/men-1/basketball-shoes/"> Basketball Shoes</a>
 											</li>
 																					<li>
 												<a href="/footwear/men-1/hiking/"> Hiking</a>
 											</li>
 																					<li>
-												<a href="/footwear/men-1/soccer-boots/"> Soccer Boots</a>
+												<a href="/footwear/men-1/rugby-boots/"> Rugby Boots</a>
+											</li>
+																					<li>
+												<a href="/footwear/men-1/tennis-3/"> Tennis</a>
 											</li>
 																															<li class="nav-more"><a title="More Categories In Men" href="/footwear/men-1/">More Men</a></li>
 																				</ul>
@@ -1019,8 +1045,19 @@ function lookup_custom(param){
 																					<li>
 												<a href="/footwear/women-1/hockey-boots/"> Hockey Boots</a>
 											</li>
-																															<li class="nav-more"><a title="More Categories In Women" href="/footwear/women-1/">More Women</a></li>
-																				</ul>
+																					<li>
+												<a href="/footwear/women-1/cycling-5/"> Cycling</a>
+											</li>
+																					<li>
+												<a href="/footwear/women-1/squash-2/"> Squash</a>
+											</li>
+																					<li>
+												<a href="/footwear/women-1/athletic-spikes-1/"> Athletic Spikes</a>
+											</li>
+																					<li>
+												<a href="/footwear/women-1/aqua-booties-2/"> Aqua Booties</a>
+											</li>
+																													</ul>
 																														 									<ul>
 										<h4><a href="/footwear/junior-1/">Junior</a></h4>
 																						<li>
@@ -1039,10 +1076,15 @@ function lookup_custom(param){
 												<a href="/footwear/junior-1/court-1/"> Court</a>
 											</li>
 																					<li>
+												<a href="/footwear/junior-1/cricket-boots-1/"> Cricket Boots</a>
+											</li>
+																					<li>
+												<a href="/footwear/junior-1/hockey-boots-1/"> Hockey Boots</a>
+											</li>
+																					<li>
 												<a href="/footwear/junior-1/soccer-boots-1/"> Soccer Boots</a>
 											</li>
-																															<li class="nav-more"><a title="More Categories In Junior" href="/footwear/junior-1/">More Junior</a></li>
-																				</ul>
+																													</ul>
 																								</div>
 							</div>
 						</div>
@@ -1096,16 +1138,16 @@ function lookup_custom(param){
 																														 									<ul>
 										<h4><a href="/individual-sports/cycling-3/">Cycling</a></h4>
 																						<li>
+												<a href="/individual-sports/cycling-3/bicycles/"> Bicycles</a>
+											</li>
+																					<li>
 												<a href="/individual-sports/cycling-3/apparel-1/"> Apparel</a>
 											</li>
 																					<li>
 												<a href="/individual-sports/cycling-3/footwear-2/"> Footwear</a>
 											</li>
 																					<li>
-												<a href="/individual-sports/cycling-3/bicycles/"> Bicycles</a>
-											</li>
-																					<li>
-												<a href="/individual-sports/cycling-3/equipment/"> Equipment</a>
+												<a href="/individual-sports/cycling-3/helmets-1/"> Helmets</a>
 											</li>
 																															<li class="nav-more"><a title="More Categories In Cycling" href="/individual-sports/cycling-3/">More Cycling</a></li>
 																				</ul>
@@ -1125,12 +1167,15 @@ function lookup_custom(param){
 											</li>
 																													</ul>
 																														 									<ul>
-										<h4><a href="/individual-sports/athletics/">Athletics</a></h4>
+										<h4><a href="/individual-sports/swimming/">Swimming</a></h4>
 																						<li>
-												<a href="/individual-sports/athletics/footwear-3/"> Footwear</a>
+												<a href="/individual-sports/swimming/water-polo-1/"> Water Polo</a>
 											</li>
 																					<li>
-												<a href="/individual-sports/athletics/equipment-1/"> Equipment</a>
+												<a href="/individual-sports/swimming/swimwear-3/"> Swimwear</a>
+											</li>
+																					<li>
+												<a href="/individual-sports/swimming/equipment-3/"> Equipment</a>
 											</li>
 																													</ul>
 																														 									<ul>
@@ -1143,12 +1188,12 @@ function lookup_custom(param){
 											</li>
 																													</ul>
 																														 									<ul>
-										<h4><a href="/individual-sports/swimming/">Swimming</a></h4>
+										<h4><a href="/individual-sports/athletics/">Athletics</a></h4>
 																						<li>
-												<a href="/individual-sports/swimming/swimwear-3/"> Swimwear</a>
+												<a href="/individual-sports/athletics/footwear-3/"> Footwear</a>
 											</li>
 																					<li>
-												<a href="/individual-sports/swimming/equipment-3/"> Equipment</a>
+												<a href="/individual-sports/athletics/equipment-1/"> Equipment</a>
 											</li>
 																													</ul>
 																								</div>
@@ -1521,13 +1566,13 @@ function lookup_custom(param){
 																				 									<ul class="right">
 										<h4><a href="/outdoors/other-10/">Other</a></h4>
 																						<li>
+												<a href="/outdoors/other-10/sun-protection-1/"> Sun Protection</a>
+											</li>
+																					<li>
 												<a href="/outdoors/other-10/binoculars/"> Binoculars</a>
 											</li>
 																					<li>
 												<a href="/outdoors/other-10/medical/"> Medical</a>
-											</li>
-																					<li>
-												<a href="/outdoors/other-10/navigation/"> Navigation</a>
 											</li>
 																					<li>
 												<a href="/outdoors/other-10/storage-boxes/"> Storage Boxes</a>
@@ -1588,6 +1633,9 @@ function lookup_custom(param){
 												<a href="/outdoors/beach-and-pools/pool-inflatables-1/"> Pool Inflatables</a>
 											</li>
 																					<li>
+												<a href="/outdoors/beach-and-pools/sun-protection/"> Sun Protection</a>
+											</li>
+																					<li>
 												<a href="/outdoors/beach-and-pools/category-1959/"> Beach Furniture</a>
 											</li>
 																					<li>
@@ -1613,9 +1661,6 @@ function lookup_custom(param){
 																														 									<ul>
 										<h4><a href="/outdoors/braai-and-picnic/">Braai &amp; Picnic</a></h4>
 																						<li>
-												<a href="/outdoors/braai-and-picnic/braai/"> Braai</a>
-											</li>
-																					<li>
 												<a href="/outdoors/braai-and-picnic/braai-accessories/"> Braai Accessories</a>
 											</li>
 																					<li>
@@ -1827,60 +1872,60 @@ function lookup_custom(param){
 
     <a class="brand-heading" href="/index.php?dispatch=sw.brands">Browse by Brand</a>
     <div class="footer-brands-slider">
-        <img src="/skins/basic/customer/images/left_arrow.jpg" alt="" class="footer_arrow" id="left-arrow" style="display: inline;">
-        <div class="caroufredsel_wrapper" style="display: block; text-align: start; float: none; position: relative; top: auto; right: auto; bottom: auto; left: auto; z-index: auto; width: 939px; height: 70px; margin: 0px; overflow: hidden;"><div class="footer_slider_box" style="text-align: left; float: none; position: absolute; top: 0px; right: auto; bottom: auto; left: 470px; margin: 0px; width: 1877px; height: 0px;">
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=30" class="footer_salomon"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1409" class="footer_zingo"></a>
-			<a href="/index.php?dispatch=sw.brand&amp;brand_id=518" class="footer_gopro"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=12" class="footer_first-ascent"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=741" class="footer_cape-storm"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=200" class="footer_garmin"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1" class="footer_nike"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=2" class="footer_adidas"></a>
+        <img src="/skins/basic/customer/images/left_arrow.jpg" alt="" class="footer_arrow" id="left-arrow" style="display: block;">
+        <div class="caroufredsel_wrapper" style="display: block; text-align: start; float: left; position: relative; top: auto; right: auto; bottom: auto; left: auto; z-index: auto; width: 939px; height: 70px; margin: 0px; overflow: hidden;"><div class="footer_slider_box" style="text-align: left; float: none; position: absolute; top: 0px; right: auto; bottom: auto; left: 2px; margin: 0px; width: 18517px; height: 70px; z-index: auto;">
+            
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1409" class="footer_zingo" style="margin-right: 20px;"></a>
+			<a href="/index.php?dispatch=sw.brand&amp;brand_id=518" class="footer_gopro" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=12" class="footer_first-ascent" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=741" class="footer_cape-storm" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=200" class="footer_garmin" style="margin-right: 22px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1" class="footer_nike" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=2" class="footer_adidas" style="margin-right: 20px;"></a>
 
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=6" class="footer_asics"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=19" class="footer_canterbury"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=5" class="footer_puma"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=6" class="footer_asics" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=19" class="footer_canterbury" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=5" class="footer_puma" style="margin-right: 20px;"></a>
 
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=475" class="footer_aqua-lung"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=627" class="footer_arena"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=57" class="footer_avalanche"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=58" class="footer_babolat"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=59" class="footer_bellingham-smith"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=448" class="footer_brooks"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=530" class="footer_daiwa"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=66" class="footer_dunlop"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1140" class="footer_evox"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=22" class="footer_gilbert"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=23" class="footer_gray-nicolls"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=24" class="footer_grays"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=25" class="footer_gryphon"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=999" class="footer_gu"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=16" class="footer_head"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=14" class="footer_kookaburra"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=158" class="footer_mitre"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=115" class="footer_mizuno"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=75" class="footer_mongoose"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=4" class="footer_new-balance"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=76" class="footer_nordic-track"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=265" class="footer_polar"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=17" class="footer_prince"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=82" class="footer_proform"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=3" class="footer_reebok"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=42" class="footer_secondskins"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=31" class="footer_shimano"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=965" class="footer_shockdoctor"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=18" class="footer_slazenger"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=43" class="footer_speedo"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=976" class="footer_suunto"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=93" class="footer_usn"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=95" class="footer_weider"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=37" class="footer_wilson"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=475" class="footer_aqua-lung" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=627" class="footer_arena" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=57" class="footer_avalanche" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=58" class="footer_babolat" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=59" class="footer_bellingham-smith" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=448" class="footer_brooks" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=530" class="footer_daiwa" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=66" class="footer_dunlop" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1140" class="footer_evox" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=22" class="footer_gilbert" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=23" class="footer_gray-nicolls" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=24" class="footer_grays" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=25" class="footer_gryphon" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=999" class="footer_gu" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=16" class="footer_head" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=14" class="footer_kookaburra" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=158" class="footer_mitre" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=115" class="footer_mizuno" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=75" class="footer_mongoose" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=4" class="footer_new-balance" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=76" class="footer_nordic-track" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=265" class="footer_polar" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=17" class="footer_prince" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=82" class="footer_proform" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=3" class="footer_reebok" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=42" class="footer_secondskins" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=31" class="footer_shimano" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=965" class="footer_shockdoctor" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=18" class="footer_slazenger" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=43" class="footer_speedo" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=976" class="footer_suunto" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=93" class="footer_usn" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=95" class="footer_weider" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=37" class="footer_wilson" style="margin-right: 20px;"></a>
 
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1072" class="footer_2xu" style="margin-right: 469px;"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1113" class="footer_orca"></a>
-        </div></div>
-        <img src="/skins/basic/customer/images/right_arrow.jpg" alt="" class="footer_arrow" id="right-arrow" style="display: inline;">
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1072" class="footer_2xu" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1113" class="footer_orca" style="margin-right: 20px;"></a>
+        <a href="/index.php?dispatch=sw.brand&amp;brand_id=30" class="footer_salomon" style="margin-right: 22px;"></a></div></div>
+        <img src="/skins/basic/customer/images/right_arrow.jpg" alt="" class="footer_arrow" id="right-arrow" style="display: block;">
     </div>
 <div class="footer_contant_box">
 <a href="/"><img src="/skins/basic/customer/images/footer_logo.png" alt="Sportsmans Warehouse" class="footer_logo"></a>
@@ -1920,7 +1965,7 @@ function lookup_custom(param){
 <div class="footer_links_box_4">
 <h4>Connect with us</h4>
 <a title="Facebook Page" target="_blank" href="http://www.facebook.com/SportsmansW"><img src="/skins/basic/customer/images/ft_facebooke.png" alt="Follow Facebook" border="0"></a>
-<a title="Twitter Page" target="_blank" href="https://twitter.com/#!/SportsmansW"><img src="/skins/basic/customer/images/ft_twitter.png" alt="Follow on Twitter" border="0"></a>
+<a title="Twitter Page" target="_blank" href="https://twitter.com/SportsmansW"><img src="/skins/basic/customer/images/ft_twitter.png" alt="Follow on Twitter" border="0"></a>
 </div>
 <div class="footer_links_box_3">
     <h4>Sign up for our newsletter</h4>
@@ -1997,6 +2042,8 @@ function lookup_custom(param){
 	<a href="http://www.mastercard.com/za/" target="_blank" title="Master Card"><img src="/skins/basic/customer/images/mastercard-icon.png" alt="Master Card" class="mastercard-icon" border="0"></a>
 	<a href="http://www.vcs.co.za/" target="_blank" title="Virtual Card Services"><img src="/skins/basic/customer/images/vcssecure-icon.png" alt="Virtual Card Services" class="vcssecure-icon" border="0"></a>
 	<a href="https://www.payfast.co.za/" target="_blank" title="Instant EFT"><img src="/skins/basic/customer/images/instant-eft-icon.png" alt="Instant EFT" class="instant-eft-icon" border="0"></a>
+    <a href="/vitality.html" target="_blank" title="HealthyGear"><img src="/skins/basic/customer/images/vitality_healthy-gear.png" alt="Visa" class="healtyGear-icon" border="0"></a>
+    <a href="http://www.sportsmanswarehouse.co.za/discovery-miles.html" target="_blank" title="Discovery Miles"><img src="/skins/basic/customer/images/discovery-miles-icon.png" alt="Discovery Miles" class="discovery-miles-icon" border="0"></a>
     <img src="/skins/basic/customer/images/3dsecure-icon.png" alt="MultiCards" class="secure" border="0">
     <img src="/skins/basic/customer/images/thawte_logo.png" alt="Thawte - Checkout Secured" class="thawte" border="0">
 </div>
