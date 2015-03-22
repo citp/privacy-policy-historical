@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liketly.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028182521id_/http%3A//www.liketly.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liketly.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322150144id_/https%3A//www.liketly.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
