@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108132603id_/http%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322131643id_/https%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Crowdcube | Crowdfunding business finance from angel investors and 'Armchair Dragons'
 
-**PRIVACY POLICY**
-
 **CROWDCUBE LIMITED** (“Crowdcube” " **we** ", “ **us** ”) are committed to protecting and respecting your privacy.
+
+****Last Update Effective Date 16/02/2015****
 
 This privacy policy applies to the website www.crowdcube.com owned and operated by Crowdcube Limited. This privacy policy describes how Crowdcube collects and uses the personal information you provide on [www.crowdcube.com](http://www.crowdcube.com/).   It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 Crowdcube Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers only information that is collected through this Web site, [www.crowdcube.com](http://www.crowdcube.com/) and its sub domains and does not cover information that may be collected offline or through other channels.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _. If you have questions or complaints regarding our privacy policy or practices, please contact us at_[ _support@crowdcube.com_](mailto:support@crowdcube.com) _.   _If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _. If you have questions or complaints regarding our privacy policy or practices, please contact us at_[ _support@crowdcube.com_](mailto:support@crowdcube.com) _.   _If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 **INFORMATION WE MAY COLLECT FROM YOU**
 
@@ -35,7 +35,7 @@ We may collect and process the following data about you provided at the time of 
 
 
 
-As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.  We do not link this automatically-collected data to personally identifiable information 
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.  We do not link this automatically-collected data to personal information.
 
 **USES MADE OF THE INFORMATION**
 
@@ -64,23 +64,24 @@ We may disclose your personal information to any member of our group, which mean
 
 In addition to the above, we may disclose your personal information to third parties:
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.  You will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 
-  * If **CROWDCUBE VENTURES** **LIMITED** or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If **CROWDCUBE** **LIMITED** or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
 
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions of Website Use <http://www.crowdcube.com/pg/terms-16> and other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * If you have made an investment or applied to invest in a company via www.crowdcube.com, your personal information may be disclosed to the company that you have invested or applied to invest in.
 
 
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us. __
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, offering customer services or to improve our business operations. These companies are authorized to use your personal information _only as necessary to provide_ these services to us. __
 
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisements to that target audience.
 
 **ACCESS TO INFORMATION**  
 
-If your personally information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or request it be deleted by making the changes in your member account settings page or by emailing our Customer Support at [support@crowdcube.com](mailto:support@crowdcube.com) or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request to access within 30 days.  Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or request it be deleted by making the changes in your member account settings page or by emailing our Customer Support at [support@crowdcube.com](mailto:support@crowdcube.com) or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request to access within 30 days.  Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, which in some cases involving the collection and processing of financial data may require a retention period of 7 years.
 
@@ -90,32 +91,19 @@ Similarly, you have the right to ask us not to process your personal data for ma
 
 **COOKIES and Tracking Technologies**
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration. This is statistical data about our user's browsing actions and patterns, and does not identify any individual.
+Technologies such as: cookies, beacons, tags and scripts are used by Crowdcube Limited and our partners, including marketing partners affiliates, or analytics service providers and business process service providers.  These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve Our Site and to deliver a better and more personalized service. They enable us:
+We use cookies for to estimate our audience size and usage pattern; to store information about your preferences, and so allow us to customize Our Site according to your individual interests; to speed up your searches; and to recognize you when you return to Our Site _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-  * To estimate our audience size and usage pattern.
-
-
-  * To store information about your preferences, and so allow us to customize Our Site according to your individual interests.
-
-
-  * To speed up your searches.
-
-
-  * To recognize you when you return to Our Site.
-
-
-
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of Our Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system may issue cookies when you log on to Our Site.
-
-The use of cookies by our partners, affiliates, advertisers or service providers is not covered by our privacy policy.  We do not have access or control over these cookies.
-
-We partner with third party ad networks to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with third party ad networks to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 [**_http://www.networkadvertising.org/managing/opt_out.asp_**](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Additionally, we use an ad-publishing service to display 3rd party ads on this site.  When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites.   You may opt-out of the use of this cookie by visiting the above tracking preference managers.
+
+**Local Storage Objects (Flash/HTML5):** Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 **HOW WE STORE, PROCESS AND SECURE YOUR PERSONAL DATA**
 
@@ -131,27 +119,33 @@ We follow generally accepted standards to protect the personal information submi
 
 **ADDITIONAL PRIVACY INFORMATION**
 
-§  **Blog / Forum**
+**      Blog / Forum**
 
 Our Web site offers a publicly accessible blog and a community forum. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at support@crowdcube.com._   In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-§  **Referrals**
+  Referrals
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Crowdcube store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
 Your friend may contact us at [support@crowdcube.com](mailto:support@crowdcube.com) to request that we remove this information from our database.
 
-§  **Links to 3 rd Party Sites**
+  Links to 3rd Party Sites
 
 Our Site may, from time to time, contain links to and from the websites of our suppliers, partner networks, advertisers, affiliates and other third parties. If you follow a link to any of these websites, please note that these websites should have their own privacy policies and we do not accept any responsibility or liability for these policies or the content or operation of these websites. Please check these policies and the terms of the websites before you submit any personal data to these websites.
 
-§  **Social Media Widgets**
+**Member Directory**
+
+We will list you in our publicly accessible member directory.  If you wish to request removal of your information or the deletion of an unauthorized profile from our directory, you can contact us at support@crowdcube.com§    **Profiles**
+
+The profile you create on our site will be publically accessible unless otherwise indicated.  You may change the privacy settings of your profile through your account portal.
+
+  Social Media Widgets
 
 Our Web site includes Social Media Features, such as the Facebook Like button.  These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
-§  **Single Sign-On**
+  Single Sign-On
 
-You can log in to our site using the sign-in service Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+You can log in to our site using the sign-in service such as LinkedIn. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like LinkedIn give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
 
 **CHANGES TO OUR PRIVACY POLICY**
 
