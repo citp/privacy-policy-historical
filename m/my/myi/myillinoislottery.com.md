@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the myillinoislottery.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326032607id_/https%3A//www.myillinoislottery.com/en-us/footer/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myillinoislottery.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322185346id_/https%3A//www.myillinoislottery.com/en-us/footer/privacyPolicy.html) for the most accurate reproduction.*
 
-# Illinois Lottery - Privacy Policy
+# Privacy Policy | Illinois Lottery
 
 #### Updated Effective January 12th ,2014
 
 ### I.INTRODUCTION
 
-Thank you for downloading the Illinois Lottery [The Illinois Lottery] (the "Mobile App") and/or visiting the Illinois Lottery’s website, which includes [www.illinoislottery.com](http://www.illinoislottery.com/), [www.myillinoislottery.com](http://www.myillinoislottery.com/), and [https://m.myillinoislottery.com](https://m.myillinoislottery.com/) (the Mobile App and websites collectively "Websites" or the "Website").The Illinois Lottery, its agents, contractors, and any parties involved in creating, producing, or delivering the Websites (including Northstar Lottery Group, LLC and GTECH Corporation) recognize that you need to understand how your privacy is protected when you visit the Website. As such, the Website Providers (as defined below) have established the following privacy policy("Privacy Policy"). For purposes of this Privacy Policy, the "Website Providers" or "We" means the Illinois Lottery, including its agents, contractors, and any parties involved in creating, producing, or delivering the Websites (including, but not limited to, Northstar Lottery Group, LLC and GTECH Corporation).
+Thank you for downloading the Illinois Lottery [The Illinois Lottery] (the "Mobile App") and/or visiting the Illinois Lottery’s website, which includes [www.illinoislottery.com](http://www.illinoislottery.com/ "www.illinoislottery.com"), [www.myillinoislottery.com](http://www.myillinoislottery.com/ "www.myillinoislottery.com"), and [https://m.myillinoislottery.com](https://m.myillinoislottery.com/ "https://m.myillinoislottery.com") (the Mobile App and websites collectively "Websites" or the "Website").The Illinois Lottery, its agents, contractors, and any parties involved in creating, producing, or delivering the Websites (including Northstar Lottery Group, LLC and GTECH Corporation) recognize that you need to understand how your privacy is protected when you visit the Website. As such, the Website Providers (as defined below) have established the following privacy policy("Privacy Policy"). For purposes of this Privacy Policy, the "Website Providers" or "We" means the Illinois Lottery, including its agents, contractors, and any parties involved in creating, producing, or delivering the Websites (including, but not limited to, Northstar Lottery Group, LLC and GTECH Corporation).
 
 This Privacy Policy is subject to change at any time without notice to you by posting changes on the Websites. The Website Providers encourage you to check the Websites and review this Privacy Policy from time to time. Your continued use of the Websites following any changes made to this Privacy Policy will mean that you accept the revised Privacy Policy.
 
@@ -52,6 +52,10 @@ Cookies are text files stored on your web browser to provide a means of distingu
 _B.Banner Ads_
 
 Banner ads and/or in-application ads will be used to advertise Illinois Lottery products. The Websites will track the number of clicks on such ads for analytical and marketing purposes. 
+
+_C.Google Analytics_
+
+We use Google Analytics Demographics and Interest Reporting to learn more about the types of users that visit the Websites and their interests and to help improve the Websites. To provide this service, Google Analytics may collect certain information about you from your computer or mobile device, including but not limited to: information regarding your visit (such as the pages you visit and length of your visit), information regarding your device (such as your mobile device identifier or IP address), information regarding your shopping (such as your cart and purchases), how you got to the Websites, and other information about you (such as your registration information). Google Analytics provides us with certain anonymous data regarding the demographics and interests of the users that visit the Websites. You can opt-out of Google Analytics by using the Google Analytics opt-out browser add-on, available at [ https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/ "https://tools.google.com/dlpage/gaoptout/"). 
 
 ### III. INFORMATION COLLECTED WHEN YOU USE THE MOBILE APP
 
@@ -106,7 +110,7 @@ The following Personal Information will be collected at initial registration and
 
 _      ii.Mandatory Personal Information for Funding Players Account_
 
-The following PII will be collected and stored when you set up or initiate transactions to purchase Internet Tickets or a Lottery   Subscription. It may also be shared for any legitimate business purposes such as to process transactions or service your Players Account.  The Website Providers and their Third Party Service Providers to the extent required by law or regulation must comply with The Payment Card Industry Data  Security Standards (PCI DSS). Please visit[ http://www.pcicomplianceguide.org/pcifaqs.php#4](http://www.pcicomplianceguide.org/pcifaqs.php#4) for further information about these standards:
+The following PII will be collected and stored when you set up or initiate transactions to purchase Internet Tickets or a Lottery   Subscription. It may also be shared for any legitimate business purposes such as to process transactions or service your Players Account.  The Website Providers and their Third Party Service Providers to the extent required by law or regulation must comply with The Payment Card Industry Data  Security Standards (PCI DSS). Please visit[ http://www.pcicomplianceguide.org/pcifaqs.php#4](http://www.pcicomplianceguide.org/pcifaqs.php#4 "http://www.pcicomplianceguide.org/pcifaqs.php#4") for further information about these standards:
 
   * credit/debit card number
 
@@ -200,7 +204,7 @@ In the event of a conflict between this Privacy Policy and any state or federal 
 
 For questions regarding the Websites, please contact:
 
-[lotteryinfo@northstarlottery.net](mailto:lotteryinfo@northstarlottery.net)
+[lotteryinfo@northstarlottery.net](mailto:lotteryinfo@northstarlottery.net "lotteryinfo@northstarlottery.net")
 
 (800) 252-1775
 
