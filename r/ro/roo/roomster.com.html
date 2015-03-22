@@ -1,26 +1,44 @@
-<!--The following is the downloaded HTML source of the roomster.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625144458id_/https%3A//www.roomster.com/info/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roomster.com privacy policy that was archived on 2015-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322143834id_/https%3A//www.roomster.com/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="Roomster"><head id="html_header"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"d90d03e461","applicationID":"2845148","transactionName":"MgdVYUtVW0QAWkEMVgtNdmZpG1xZB1YaFUsMFFZWQGtFWA1QVhwXBBFHTQ==","queueTime":0,"applicationTime":22,"ttGuid":"C2325C645214FE4F","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8DUVNXGwEIUFRTAwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><meta name="keywords" content="roommate,roomate,roommate search,roommate finder,roommate wanted,rooms for rent,find a roommate,roomate wanted,share a room,find roommates,apartments,sublet apartment,apartment"><meta id="meta_description" name="description" content="Roomster - "><meta name="netinsert" content="0.0.1.2.27.1"><link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css?20140603">
-<link type="text/css" rel="stylesheet" href="https://static.roomster.com/Content/font-entypo.min.css?20140603"><link type="text/css" rel="stylesheet" href="https://static.roomster.com/Content/common_.css?20140603">
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js?20140603"></script>
-<script src="https://static.roomster.com/Scripts/jquery-ui-1.10.3.custom.min.js?20140603"></script>
-<script src="https://static.roomster.com/Scripts/jquery.ui.selectmenu.js?20140603"></script>
-<script src="https://static.roomster.com/Scripts/moon.jsrouting-1.1.2.js?20140603"></script>
-<script src="https://static.roomster.com/mvc/routing.js?20140603"></script><script src="https://static.roomster.com/Scripts/common_.js?20140603"></script>
-
-    <script>$(function(){$.url.requestContext.applicationRoot="/";$.url.requestContext.routeValues={controller:"Home",action:"Default"};$.url.requestContext.dataTokens={};});</script>
-
-    <!--[if gte IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(https://static.roomster.com/css/ie7.css?20140603); /* ]]> */</style><![endif]-->
-    <!--[if gte IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(https://static.roomster.com/Content/ie7.css?20140603); /* ]]> */</style><![endif]-->
-    <script type="text/javascript" language="javascript">function imageLoadError(img){img.src="https://static.roomster.com/img/nophoto_profile.gif?20140603";return true;}
-function thumbLoadError(img){img.src="https://static.roomster.com/img/nophoto.png?20140603";return true;}</script>
-    <script type="text/javascript" language="javascript">jQuery(document).ready(function($){$('a[rel*=facebox]').facebox({loadingImage:'https://static.roomster.com/script/facebox/loading.gif?20140603',closeImage:'https://static.roomster.com/img/closePopup.png?20140603'});if($.cookie('roomster_registration')=='true'){$('#check_credit_message').dialog({width:590,height:231,modal:true,resizable:false,draggable:false});$.cookie('roomster_registration','false');};});</script>
-    <script type="text/javascript">var user_id=0;var locale='en-US';var js_global_full_app_url='/';</script>
+<!DOCTYPE html><html lang="en-US" dir="ltr"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d90d03e461","applicationID":"2845148","transactionName":"MgdVYUtVW0QAWkEMVgtNc1pNelBDIlZbEUsKDltQSxt9WAxcGhVLDBRWVkA=","queueTime":0,"applicationTime":16,"ttGuid":"5FE6498197B3A829","agent":"js-agent.newrelic.com/nr-627.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8DUVNXGwEIUFRTAwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><meta charset="UTF-8"><title>
+	
     
-    <title>
-	Roommate search service, roommate finder, roommates wanted.
-</title><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+    Privacy
+
+
+</title><link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?201503191150">
+<link type="text/css" rel="stylesheet" href="https://s.roomster.com/Content/font-entypo.min.css?201503191150"><link type="text/css" rel="stylesheet" href="https://s.roomster.com/Content/common_.css?201503191150">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js?201503191150"></script>
+<script src="https://s.roomster.com/Scripts/jquery-ui-1.10.3.custom.min.js?201503191150"></script>
+<script src="https://s.roomster.com/Scripts/jquery.ui.selectmenu.js?201503191150"></script>
+<script src="https://s.roomster.com/Scripts/moon.jsrouting-1.1.2.js?201503191150"></script>
+<script src="https://s.roomster.com/mvc/routing.js?201503191150"></script><script src="https://s.roomster.com/Scripts/common_.js?201503191150"></script>
+
+    <script>$(function () {$.url.requestContext.applicationRoot="/";$.url.requestContext.routeValues={controller:"Home",action:"privacy"};$.url.requestContext.dataTokens={RouteName:"privacy"}; });</script>
+    
+    <!--[if IE]><link type="text/css"  rel="stylesheet" href="https://s.roomster.com/Content/ie7.css?201503191150"/><![endif]-->
+    <!--[if IE 7]><link type="text/css"  rel="stylesheet" href="https://s.roomster.com/Content/ie7only.css?201503191150"/><![endif]-->
+    
+    <!--[if lte IE 8]><script src="https://s.roomster.com/Scripts/html5.js?201503191150"></script><![endif]-->
+
+    <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+    <link rel="apple-touch-icon-precomposed" href="https://s.roomster.com/Content/images/apple-touch-icon-precomposed.png?201503191150">
+    <!-- For first- and second-generation iPad: -->
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://s.roomster.com/Content/images/apple-touch-icon-72x72-precomposed.png?201503191150">
+    <!-- For iPhone with high-resolution Retina display running iOS ≤ 6: -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://s.roomster.com/Content/images/apple-touch-icon-114x114-precomposed.png?201503191150">
+    <!-- For iPhone with high-resolution Retina display running iOS ≥ 7: -->
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://s.roomster.com/Content/images/apple-touch-icon-120x120-precomposed.png?201503191150">
+    <!-- For iPad with high-resolution Retina display running iOS ≤ 6: -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://s.roomster.com/Content/images/apple-touch-icon-144x144-precomposed.png?201503191150">
+    <!-- For iPad with high-resolution Retina display running iOS ≥ 7: -->
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://s.roomster.com/Content/images/apple-touch-icon-152x152-precomposed.png?201503191150">
+    
+	
+    
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
     
 <noscript>
@@ -33,16 +51,11 @@ function thumbLoadError(img){img.src="https://static.roomster.com/img/nophoto.pn
     
 </noscript>
 
-
-
-
-
-    <div class="errorNotifyBox hidden mainError" id="MainErrorMessage"></div>	
-    
+    <div class="errorNotifyBox hidden mainError" id="MainErrorMessage"></div>		
     
     <header>
-         <div class="headerHolder"><nav>
-        
+        <div class="headerHolder">
+            <nav>
 <ul class="commonMenu">
         <li class="settingsMenuItem firstLine">
             <a><span class="icon"></span></a>
@@ -51,7 +64,26 @@ function thumbLoadError(img){img.src="https://static.roomster.com/img/nophoto.pn
                 <li>
 
 
-<script type="text/javascript" language="javascript">Roomster.Cookie.Currency=new Roomster.Cookie.Base('Roomster.Currency',1);Roomster.Cookie.OldCurrency=new Roomster.Cookie.Base('Roomster.Currency.Old',1);Roomster.Currency.MoneyPrefix='$';Roomster.Currency.MoneyPostfix='USD';Roomster.Currency.Rate='1';$(function(){$('.currencyMenu .currencyItem').click(function(event){event.stopPropagation();$('.currencySubMenu').toggle();var newCurrency=$(this).text();$('#CurrentCurrency').text(newCurrency);Roomster.Currency.Change(newCurrency);});});</script>
+<script type="text/javascript" language="javascript">
+    Roomster.Cookie.Currency = new Roomster.Cookie.Base('Roomster.Currency', 1);
+
+    Roomster.Cookie.OldCurrency = new Roomster.Cookie.Base('Roomster.Currency.Old', 1);
+    Roomster.Currency.MoneyPrefix = '$';
+    Roomster.Currency.MoneyPostfix = 'USD';
+    Roomster.Currency.Rate = '1';
+
+    $(
+        function() {
+            $('.currencyMenu .currencyItem').click(
+                function(event) {
+                    event.stopPropagation();
+                    $('.currencySubMenu').toggle();
+                    var newCurrency = $(this).text();
+                    $('#CurrentCurrency').text(newCurrency);
+                    Roomster.Currency.Change(newCurrency);
+                });
+        });
+</script>
 <a onclick=" $('.currencySubMenu').toggle(); $('#CurrentCurrency').toggleClass('selected'); " id="CurrentCurrency">USD<span class="triangle-down"></span><span class="triangle-left"></span></a>
 <div class="currencySubMenu">
     <div class="currencyMenu">
@@ -212,7 +244,7 @@ function thumbLoadError(img){img.src="https://static.roomster.com/img/nophoto.pn
 </div></li>
                 <li>
 
-<a onclick="$('.langSubMenu').toggle(); $('.langMenu').addClass('selected');" class="langMenu" title="English (US)"><span class="icon"></span>English (US)<span class="triangle-down"></span><span class="triangle-left"></span></a>
+<a onclick="ToggleLanguages(); $('.langMenu').addClass('selected');" class="langMenu" title="English (US)"><span class="icon"></span>English (US)<span class="triangle-down"></span><span class="triangle-left"></span></a>
 <div class="langSubMenu" style="direction: ltr;">
     
     <p>    
@@ -266,6 +298,26 @@ function thumbLoadError(img){img.src="https://static.roomster.com/img/nophoto.pn
     <p>    
     <a onclick="return SetLanguage(this);" title="Arabic" lcid="1025">‏العربية</a>
     </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Czech" lcid="1029">Čeština</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Greek" lcid="1032">Ελληνικά</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Polish" lcid="1045">Polski</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Swedish" lcid="1053">Svenska</a>
+    </p>
+    
+    <p>    
+    <a onclick="return SetLanguage(this);" title="Turkish" lcid="1055">Türkçe</a>
+    </p>
         
 </div>
 
@@ -299,13 +351,52 @@ function thumbLoadError(img){img.src="https://static.roomster.com/img/nophoto.pn
         <p><a onclick="return SetLanguage(this);" title="Hebrew" lcid="1037">‏עברית</a></p>
         
         <p><a onclick="return SetLanguage(this);" title="Arabic" lcid="1025">‏العربية</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Czech" lcid="1029">Čeština</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Greek" lcid="1032">Ελληνικά</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Polish" lcid="1045">Polski</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Swedish" lcid="1053">Svenska</a></p>
+        
+        <p><a onclick="return SetLanguage(this);" title="Turkish" lcid="1055">Türkçe</a></p>
                          
         
     </div>    
 </div>
 
-<script>function SetLanguage(alink)
-{$.cookie("Roomster.Globalization",$(alink).attr("lcid"),{expires:365,path:'/'});window.location.href=window.location.href;}</script>
+<script>
+    function SetLanguage(alink)
+    {
+        $.cookie("Roomster.Globalization", $(alink).attr("lcid"),
+                {
+                    expires: 365,
+                    path: '/'
+                });
+        window.location.href = window.location.href;
+    }
+
+    function ToggleLanguages()
+    {
+        $('.langSubMenu').toggle();
+
+        var winH = $(window).height();
+        var langH = $('.langSubMenu').height();
+        if (langH + 150 > winH)
+        {
+            $('.langSubMenu').css('overflow', 'auto');
+            $('.langSubMenu').height(winH - 150 - 10);
+        } else
+        {
+            $('.langSubMenu').css('height', 'auto');
+        }
+
+//        console.log(winH);
+//        console.log(langH);
+    }    
+
+</script>
 </li>
             </ul>
         </li>
@@ -344,7 +435,9 @@ function thumbLoadError(img){img.src="https://static.roomster.com/img/nophoto.pn
         
             <div class="registerBlock" id="loginPopup">
                 <p class="basePopupTitle"><img src="/img/icons/popupLogo.png"></p>
-                <form action="/Login" id="frm" method="post">
+                <script src="https://s.roomster.com/Scripts/registration_.Mobile.js?201503191150"></script>
+
+<form action="/Login" id="frm" method="post">
     <a href="#" class="socialLoginButton googlePlus" onclick="Roomster.Dialog.Login.LoginWithProvider(Roomster.SocialConnector.GPlus)"><span class="buttonText">Login with <strong>Google</strong></span></a>
     <a href="#" class="socialLoginButton facebook" onclick="Roomster.Dialog.Login.LoginWithProvider(Roomster.SocialConnector.FB)"><span class="buttonText">Login with <strong>Facebook</strong></span></a>
     <a href="#" class="socialLoginButton twitter" onclick="Roomster.Dialog.Login.LoginWithProvider(Roomster.SocialConnector.TW)"><span class="buttonText">Login with <strong>Twitter</strong></span></a>
@@ -363,7 +456,7 @@ function thumbLoadError(img){img.src="https://static.roomster.com/img/nophoto.pn
             <input id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false">
             <label for="RememberMe">Remember me</label>
         </div>
-        <a class="floatRight" href="/Account/RetrievePassword">Forgot password?</a>
+        
         <div class="clear"></div>
     </div><!-- controls end -->
     <input class="buttonCSS3 inputsubmit" onclick=" clear_name_inputs();" value="Log In" type="submit">
@@ -371,253 +464,248 @@ function thumbLoadError(img){img.src="https://static.roomster.com/img/nophoto.pn
     <div class="divider"></div>
     <div class="popupFooter">Need an account?<strong><a href="/Registration/SignUp">Sign Up</a></strong></div>
 
-    <script src="https://static.roomster.com/Scripts/socialLogin_.js?20140603"></script>
+    <script src="https://s.roomster.com/Scripts/socialLogin_.js?201503191150"></script>
 
 
-<script type="text/javascript">Roomster.SocialConnector.FB.AppId='2395669880';Roomster.SocialConnector.GPlus.ClientId='757625519322.apps.googleusercontent.com';var email_homepage_input=document.getElementById('email_homepage');var password_homepage_txt=document.getElementById('password_txt');var password_homepage_input=document.getElementById('password_homepage');function loginBlockToggle()
-{$('.registerBlock').toggle();}
-function textbox_prompt_value(input,default_value,action)
-{if(action=='onfocus')
-{if(input.value==default_value)
-{if(input==password_homepage_txt)
-{password_homepage_txt.style.display="none";password_homepage_input.style.display="inline";password_homepage_input.focus();}
-else
-{input.value='';input.style.color='#000000';}}}
-else if(action=='onblur')
-{if(input.value=='')
-{if(input==password_homepage_input)
-{password_homepage_txt.style.display="inline";password_homepage_input.style.display="none";}
-else
-{input.value=default_value;input.style.color='#cfcfcf';}}}}
-function clear_name_inputs()
-{if(email_homepage_input.value=="Email")
-{email_homepage_input.value="";}
-password_homepage_txt.value="";}
-function initLoginFormRedirectUrl(isLoginPage)
-{var _isLoginPage=false;if(isLoginPage===true)
-{_isLoginPage=true;}
-$('#frm').submit(function()
-{var returnUrl=location.search;if(!_isLoginPage)
-{returnUrl=location.pathname+location.search;}
-if(returnUrl.length>1)
-{var loginFormAction=$('#frm').attr('action');if(loginFormAction.indexOf('ReturnUrl')<=0)
-{if(returnUrl.indexOf('ReturnUrl')<=0)
-{returnUrl='?ReturnUrl='+encodeURIComponent(returnUrl);}
-if(loginFormAction[loginFormAction.length-1]!=='/')
-{returnUrl='/'+returnUrl;}
-$('#frm').attr('action',loginFormAction+returnUrl);}}});}
-$(function(){$("#email_homepage").placeholder();$("#password_homepage").placeholder();});</script>                                         
+<script type="text/javascript">
+    Roomster.SocialConnector.FB.AppId = '2395669880';
+    Roomster.SocialConnector.GPlus.ClientId = '757625519322.apps.googleusercontent.com';
+    Roomster.SocialConnector.GPlus.ApiKey = 'AIzaSyCSFsGPjNnxXPWxAttj9cl3SnCytVnpkPM';
+
+    var email_homepage_input = document.getElementById('email_homepage');
+    var password_homepage_txt = document.getElementById('password_txt');
+    var password_homepage_input = document.getElementById('password_homepage');
+
+    function loginBlockToggle()
+    {
+        $('.registerBlock').toggle();
+    }
+
+    function textbox_prompt_value(input, default_value, action)
+    {
+        if (action == 'onfocus')
+        {
+            if (input.value == default_value)
+            {
+                if (input == password_homepage_txt)
+                {
+                    password_homepage_txt.style.display = "none";
+                    password_homepage_input.style.display = "inline";
+                    password_homepage_input.focus();
+                }
+                else
+                {
+                    input.value = '';
+                    input.style.color = '#000000';
+                }
+            }
+        }
+        else if (action == 'onblur')
+        {
+            if (input.value == '')
+            {
+                if (input == password_homepage_input)
+                {
+                    password_homepage_txt.style.display = "inline";
+                    password_homepage_input.style.display = "none";
+                }
+                else
+                {
+                    input.value = default_value;
+                    input.style.color = '#cfcfcf';
+                }
+            }
+        }
+    }
+
+    function clear_name_inputs()
+    {
+        if (email_homepage_input.value == "Email")
+        {
+            email_homepage_input.value = "";
+        }
+        password_homepage_txt.value = "";
+    }
+
+    function initLoginFormRedirectUrl(isLoginPage)
+    {
+        var _isLoginPage = false;
+
+        if (isLoginPage === true)
+        {
+            _isLoginPage = true;
+        }
+
+        $('#frm').submit(function()
+        {
+            var returnUrl = location.search;
+            if (!_isLoginPage)
+            {
+                returnUrl = location.pathname + location.search;
+            }
+
+            if (returnUrl.length > 1)
+            {
+                var loginFormAction = $('#frm').attr('action');
+
+                if (loginFormAction.indexOf('ReturnUrl') <= 0)
+                {
+                    if (returnUrl.indexOf('ReturnUrl') <= 0)
+                    {
+                        returnUrl = '?ReturnUrl=' + encodeURIComponent(returnUrl);
+                    }
+
+                    if (loginFormAction[loginFormAction.length - 1] !== '/')
+                    {
+                        returnUrl = '/' + returnUrl;
+                    }
+                    $('#frm').attr('action', loginFormAction + returnUrl);
+                }
+            }
+        });
+    }
+
+    $(function () {
+        $("#email_homepage").placeholder();
+        $("#password_homepage").placeholder();
+                  });
+</script>                                         
             </div>
-            <script type="text/javascript">initLoginFormRedirectUrl();</script>
+            <script type="text/javascript">
+                initLoginFormRedirectUrl();
+            </script>
         
     <a class="navLogo" href="/"></a>
-<script>$(".commonMenu").menu({position:{my:"left-1 top",at:"left bottom"}});$(".commonMenu").unbind('mouseenter mouseleave');$(function(){$('.commonMenu .firstLine > a').click(function(){if($(this).hasClass('ui-state-active')){$(".commonMenu").menu("collapseAll",null,true);};});});</script>
-          </nav>
-          <div class="clear"></div>
-         </div><!-- headerHolder end -->
+<script>
+    $(".commonMenu").menu({
+        position: { my: "left-1 top", at: "left bottom" },
+        focus: function(){
+            $("body").addClass("menuOpen");
+        },
+        blur: function(){
+            $("body").removeClass("menuOpen");
+        }
+    });
+    $(".commonMenu").unbind('mouseenter mouseleave');
+    $(function () {
+        $('.commonMenu .firstLine > a').click(function () {
+            if ($(this).hasClass('ui-state-active')) {
+                $(".commonMenu").menu("collapseAll", null, true);
+                $("body").removeClass("menuOpen");
+            };
+        });
+    });
+</script></nav>
+        </div><!-- headerHolder end -->
+        <div class="clear"></div>
     </header>
-
     
-    <div id="container" class="containerClear"> 
-                       
-            <table cellpadding="0" cellspacing="0" style="width:100%; border:none;">
-                <tbody><tr>
-                    <td style="vertical-align:top;">
-                        
-<script>jQuery(document).ready(function($){$(".helpDeskMenu li:nth-child(7)").addClass('current');});</script>
-<div class="helpContent" style="padding:40px;">
-            <h2 class="labelHD">Privacy Policy</h2>   
-            <p>Protecting your privacy is critical to Roomster. We will not sell, lease or 
-			exchange your personal data to third parties without first obtaining your 
-			express consent.
-            </p>
-			<br>
-			<p>This privacy policy describes how we collect and use your data. If you have any 
-			questions or comments regarding Roomster's privacy policy or its 
-			enforcement, please contact us at <a href="mailto:privacy@roomster.com">privacy@roomster.com</a>
-            </p>
-            <br>
-			<ol>
-				<li>
-					ABOUT ROOMSTER. Roomster is an online apartment, roommate and 
-					subletting community that connects people with apartments with help from their 
-					friends. Members create their own profiles, and those profiles are then shown 
-					to their network of friends.<br>
-					<br>
-				</li><li>
-					INFORMATION WE COLLECT. Roomster collects information our 
-					users submit to us such as their name and e-mail address to allow us to 
-					identify users and notify them of changes or updates to our service. We also 
-					collect personal information submitted by our users in filling out their 
-					profile on the service such as gender, state of residence, occupation, 
-					interests, etc. We collect this personal information when our users: (a) sign 
-					up as a member; (b) make changes to their member profile information; and (c) 
-					send e-mail messages, forms, or other information to us via Roomster. 
-					Members may choose to provide additional information beyond their basic profile 
-					for their personal and professional profiles. Providing additional information 
-					beyond what is required at registration is entirely optional, but enables our 
-					users to better identify each other and more effectively connect and interact 
-					with their network.<br>
+    
+    <div id="container">
 
-					<br>
-					Roomster also collects information from users that is unique, but cannot be 
-					linked to a specific individual, such as IP address and browser type. A user's 
-					session will be tracked, but each user will remain anonymous. We gather this 
-					information on all visitors to Roomster.com for systems administration 
-					purposes and to track user trends, such as our most popular features. We do not 
-					link IP addresses to any personally identifiable information.<br>
-					<br>
-				</li><li>
-					COOKIES Like many other Web sites, Roomster uses a standard 
-					technology called "cookies." Cookies are small pieces of information stored on 
-					your hard drive -- not on our site. They can help make the Internet experience 
-					quicker and more convenient. Cookies allow our users to login without entering 
-					their ID and password each time they use Roomster. Cookies help us 
-					understand how members use Roomster, which allows us to improve upon the 
-					service. Members who disable cookies will not be able to use Roomster.<br>
-					<br>
-				</li><li>
-					HOW WE USE YOUR PERSONAL INFORMATION. Roomster uses personal 
-					information to create a secure and personalized service for our members. The 
-					Basic Profile information (first name, photo, age, gender, city, state, and 
-					occupation) is displayed to all members of Roomster. All other profile 
-					information members provide is displayed only to people registered members.<br>
+<div class="privacy">   
+    <h2>Privacy Policy</h2>
 
-					<br>
-					Email address and full name are used when a user invites a friend via email to 
-					join the service, when a user requests to add another user to their friend 
-					list, and when we send notifications to a user related to their use of the 
-					service. Except when members invite friends, their email address is not shared 
-					or displayed with people within or outside of their Personal Network. Users 
-					within a Personal Network communicate on Roomster with each other through 
-					the Roomster service without disclosing their email addresses.<br>
-					<br>
-				</li><li>
-					DISCLOSURE OF PERSONAL INFORMATION. We will not sell, lease or exchange your 
-					personal data to third parties without first obtaining your express consent, 
-					unless required by law or to protect your membership.<br>
-					<br>
-				</li><li>
-					INVITING FRIENDS. If you use our Invite feature to invite a friend to our 
-					service, we will ask you for their friend's email address. We'll automatically 
-					send the friend an email inviting them to join your Personal Network. 
-					Roomster does not sell these email addresses or use them to send any 
-					communication other than the invitation to join your Personal Network. 
-					Roomster stores this information for the sole purpose of sending this 
-					one-time email and tracking the success of our Invite functionality. The friend 
-					receiving the invitation may contact Roomster at 
-					<a href="mailto:help@roomster.com">help@roomster.com</a> to request the 
-					removal of this information from our database.<br>
+<p>Protecting your privacy is critical to Roomster. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.</p>
 
-					<br>
-				</li><li>
-					LINKS TO OTHER WEBSITES. The Roomster site may contain links to other Web 
-					sites. Please be aware that Roomster is not responsible for the privacy 
-					practices of other sites our users choose to visit. If our users provide any 
-					information directly to parties other than Roomster (even if those sites 
-					are showing the Roomster brand), different rules may apply to the use or 
-					disclosure of the personal information disclosed. We encourage you to 
-					investigate and ask questions before disclosing your personal information to 
-					third parties.<br>
-					<br>
-				</li><li>
-					THIRD PARTY ADVERTISERS. Roomster may choose to deploy advertising on the 
-					service that is delivered to users through a third party's advertising server. 
-					Information about users' visit to Roomster, such as number of times they 
-					have viewed an ad (but no personally identifiable information), would be used 
-					to serve ads to users on this site.<br>
-					<br>
-				</li><li>
+<p>This privacy policy describes how we collect and use your data. If you have any questions or comments regarding Roomster's privacy policy or its enforcement, please contact us at <a href="mailto:privacy@roomster.com">privacy@roomster.com</a></p>
 
-					CHAT ROOMS, MESSAGE BOARDS, AND PUBLIC FORUMS. Please be aware that whenever 
-					members voluntarily disclose personal information online - e.g., message 
-					boards, chat areas, file uploads, events, and listings - that information 
-					becomes public and can be collected and used by others. By posting personal 
-					information online in public forums, members may receive unsolicited messages 
-					from other parties.<br>
-					<br>
-				</li><li>
-					PRIVACY PROTECTION FOR CHILDREN. In compliance with the Children's Online 
-					Privacy Protection Act (COPPA), we will not knowingly provide access to 
-					Roomster to persons under the age of thirteen (13). If Roomster 
-					later learns that any member is under the age of thirteen (13), 
-					we will take appropriate steps to remove the member's information from the 
-					database and we will restrict this individual from future access to the 
-					Roomster service.<br>
-					<br>
-				</li><li>
-					UPDATING AND DELETING PERSONAL INFORMATION. Members can access, change and 
-					update their registration and personal information by logging onto Roomster 
-					and selecting the Edit Profile option. Users who leave the service may choose 
-					to have their personal information deleted by contacting help@roomster.com<br>
-
-					<br>
-				</li><li>
-					OPT-OUT OF EMAIL. Users of Roomster may choose not to receive email 
-					notifications at their registered email addresses. To opt out of the 
-					announcements, click the Account link at the top of any page, and uncheck the 
-					box next to "Send email notifications."<br>
-					<br>
-				</li><li>
-					SECURITY PROCEDURES. Roomster has implemented security measures to protect 
-					member information from loss, misuse and alteration. We use industry-standard 
-					practices such as encrypted storage, firewalls and password protection systems 
-					to safeguard the confidentiality of your personal information. Each of our 
-					employees is aware of our security policies, and your information is only 
-					available to those employees who need it to perform their jobs.<br>
-					<br>
-				</li><li>
-
-					CONSENT. This Privacy Policy is a part of the Roomster Terms of Use policy. 
-					By using Roomster, including services available at the Roomster and 
-					Roomster domains, users are using a service provided by Roomster 
-					and they agree to be bound by the Terms of Use and this Privacy 
-					Policy. Some terms may be defined in the Terms of Use. This Privacy Policy only 
-					addresses activities from our servers.<br>
-					<br>
-				</li><li>
-					NOTIFICATION OF CHANGES. If Roomster changes its policy and seeks to use 
-					your personally identifiable information in a manner different from that stated 
-					at the time of collection, you will be notified via email. In addition, if we 
-					make any material changes in our privacy practices that do not affect user 
-					information already stored in our database, we will post a notice on our Web 
-					site notifying users of the change. In some cases where we post the notice, we 
-					will also email users who have opted to receive communications from us to 
-					notify them of the changes in our privacy practices.<br>
-					<br>
-				</li><li>
-					ORGANIZATION COLLECTING INFORMATION. Roomster Corp. owns and operates the Roomster.com domain. You 
-					may contact Roomster at <a href="mailto:privacy@roomster.com">privacy@roomster.com</a><br>
-					<br>
-				</li>
-			</ol>      
+<ol>
+    <li>
+        <p>
+            ABOUT ROOMSTER. Roomster is an online apartment, roommate and subletting community that connects people with apartments with help from their friends. Members create their own profiles, and those profiles are then shown to their network of friends. 
+        </p>
+    </li>
+    <li>
+        <p>
+            INFORMATION WE COLLECT. Roomster collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, state of residence, occupation,  interests, etc. We collect this personal information when our users: (a) sign up as a member; (b) make changes to their member profile information; and (c) send e-mail messages, forms, or other information to us via Roomster. Members may choose to provide additional information beyond their basic profile for their personal and professional profiles. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network.
+        </p>
+        <p>
+            Roomster also collects information from users that is unique, but cannot be linked to a specific individual, such as IP address and browser type. A user's session will be tracked, but each user will remain anonymous. We gather this information on all visitors to roomster.com for systems administration purposes and to track user trends, such as our most popular features. We do not link IP addresses to any personally identifiable information.     
+        </p>                
+    </li>
+    <li>
+        <p>
+            COOKIES Like many other Web sites, Roomster uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive -- not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use Roomster. Cookies help us  understand how members use Roomster, which allows us to improve upon the service. Members who disable cookies will not be able to use Roomster.     
+        </p>
+        
+    </li>
+    <li>
+        <p>
+            HOW WE USE YOUR PERSONAL INFORMATION. Roomster uses personal information to create a secure and personalized service for our members. The Basic Profile information (first name, photo, age, gender, city, state, and occupation) is displayed to all members of Roomster. All other profile information members provide is displayed only to people registered members.     
+        </p>
+        <p>
+            Email address and full name are used when a user invites a friend via email to join the service, when a user requests to add another user to their friend list, and when we send notifications to a user related to their use of the service. Except when members invite friends, their email address is not shared  or displayed with people within or outside of their Personal Network. Users within a Personal Network communicate on Roomster with each other through the Roomster service without disclosing their email addresses.     
+        </p>        
+    </li>
+    <li>
+        <p>
+            DISCLOSURE OF PERSONAL INFORMATION. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership.     
+        </p>        
+    </li>
+    <li>
+        <p>
+            INVITING FRIENDS. If you use our Invite feature to invite a friend to our service, we will ask you for their friend's email address. We'll automatically send the friend an email inviting them to join your Personal Network. Roomster does not sell these email addresses or use them to send any  communication other than the invitation to join your Personal Network. Roomster stores this information for the sole purpose of sending this one-time email and tracking the success of our Invite functionality. The friend receiving the invitation may contact Roomster at <a href="mailto:help@roomster.com">help@roomster.com</a> to request the removal of this information from our database. 
+        </p>        
+    </li>
+    <li>
+        <p>
+            LINKS TO OTHER WEBSITES. The Roomster site may contain links to other Web sites. Please be aware that Roomster is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than Roomster (even if those sites are showing the Roomster brand), different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties.     
+        </p>        
+    </li>
+    <li>
+        <p>
+            THIRD PARTY ADVERTISERS. Roomster may choose to deploy advertising on the service that is delivered to users through a third party's advertising server.  Information about users' visit to Roomster, such as number of times they have viewed an ad (but no personally identifiable information), would be used to serve ads to users on this site.     
+        </p>        
+    </li>
+    <li>
+        <p>
+            CHAT ROOMS, MESSAGE BOARDS, AND PUBLIC FORUMS. Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, chat areas, file uploads, events, and listings - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties. 
+        </p>        
+    </li>
+    <li>
+        <p>
+            PRIVACY PROTECTION FOR CHILDREN. In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Roomster to persons under the age of thirteen (13). If Roomster later learns that any member is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to the Roomster service. 
+        </p>
+    </li>
+    <li>
+        <p>
+            UPDATING AND DELETING PERSONAL INFORMATION. Members can access, change and update their registration and personal information by logging onto Roomster and selecting the Edit Profile option. Users who leave the service may choose to have their personal information deleted by contacting <a href="mailto:help@roomster.com">help@roomster.com</a>.  
+        </p>
+    </li>
+    <li>
+        <p>
+            OPT-OUT OF EMAIL. Users of Roomster may choose not to receive email notifications at their registered email addresses. To opt out of the announcements, click the Account link at the top of any page, and uncheck the box next to "Send email notifications." 
+        </p>
+    </li>
+    <li>
+        <p>
+            SECURITY PROCEDURES. Roomster has implemented security measures to protect member information from loss, misuse and alteration. We use industry-standard practices such as encrypted storage, firewalls and password protection systems to safeguard the confidentiality of your personal information. Each of our employees is aware of our security policies, and your information is only available to those employees who need it to perform their jobs. 
+        </p>
+    </li>
+    <li>
+        <p>
+            CONSENT. This Privacy Policy is a part of the Roomster Terms of Use policy. By using Roomster, including services available at the Roomster and Roomster domains, users are using a service provided by Roomster and they agree to be bound by the Terms of Use and this Privacy Policy. Some terms may be defined in the Terms of Use. This Privacy Policy only addresses activities from our servers.
+        </p>
+    </li>
+    <li>
+        <p>
+            NOTIFICATION OF CHANGES. If Roomster changes its policy and seeks to use your personally identifiable information in a manner different from that stated at the time of collection, you will be notified via email. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a notice on our Web site notifying users of the change. In some cases where we post the notice, we will also email users who have opted to receive communications from us to notify them of the changes in our privacy practices. 
+        </p>
+    </li>
+    <li>
+        <p>
+            ORGANIZATION COLLECTING INFORMATION. Roomster Corp. owns and operates the roomster.com domain. You may contact Roomster at <a href="mailto:privacy@roomster.com">privacy@roomster.com</a>
+        </p>
+    </li>
+</ol>   
 </div>
 
-                        
-                    </td>
-                    
-                        <td style="vertical-align:top;">
-                            
-                        </td>
-                    
-                </tr>
-            </tbody></table>            
-        
-        <div id="visitor_warning" style="display:none;" class="clearfix">
-            To contact this member
-            <a href="/reg/personal_info.aspx" style="font-weight:bold;">Sign up</a> for a free account<br>
-            or <a href="/reg/login.aspx" style="font-weight:bold;">Log in</a>
-        </div>
-        <div id="check_credit_message" style="display:none;" class="checkCreditPopup">
-            <p class="basePopupTitle"><img src="https://static.roomster.com/img/icons/popupLogo.png?20140603">Check your credit</p>
-            <div class="messBoxNotepadStyle">
-                <a href="https://www.gofreecredit.com/r/5183f1d8ac/?fname=&amp;lname=&amp;zip=&amp;email=&amp;phone1=&amp;address1=&amp;city=&amp;subid=" style="font-weight:bold;" target="_blank">Check your credit</a> before you find an apartment/roommate?
-                <!--Would you like to <a href="https://www.roomster.com/affiliate/" style="font-weight:bold;" target="_blank">become an affiliate and start making money</a> with us?<br />-->
-            </div>
-            <div class="divider"></div>
-        </div>
-    </div>
+</div>
+
+	
     
+
 <div id="mainFooter">
     
 
@@ -955,19 +1043,19 @@ $(function(){$("#email_homepage").placeholder();$("#password_homepage").placehol
         <ul>
             <li><a target="_blank" href="http://support.roomster.com/hc/sections/200162490-About-Roomster">About</a></li>
             <li><a target="_blank" href="http://support.roomster.com/hc/categories/200053395-FAQ">Support</a></li>
-            <li><a href="/Message/Contact">Contact</a></li>
+            <li><a href="/Contact">Contact</a></li>
             <li><a target="_blank" href="http://support.roomster.com/hc/categories/200055970-Careers">Vacancies</a></li>
-            <li><a href="/info/terms_of_use.aspx">Terms</a></li>
-            <li><a href="/info/privacy_policy.aspx">Privacy</a></li>
+            <li><a href="/Terms">Terms</a></li>
+            <li><a href="/Privacy">Privacy</a></li>
             <li><a href="http://support.roomster.com/hc/articles/200275809-Roomster-Social-Connect-Safety" target="_blank">Social Connect</a></li>
-            <li><a href="/info/resources/links.aspx">Resources</a></li>
+            <li><a href="/Resources">Resources</a></li>
             <li><a target="_blank" href="http://support.roomster.com/hc/categories/200055930-Press">Press</a></li>            
             <li><a target="_blank" href="/affiliate/">Affiliate Program</a></li>
             <li><a target="_blank" href="http://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/FHLaws/yourrights">Fair Housing</a></li>
         </ul>
     </div>    
     <div class="footer-copy">        
-        Roomster © 2014 
+        Roomster © 2015 
         <span class="social-follow">Follow us 
             <a href="http://www.facebook.com/RoomsterCorp" target="_blank" class="social-follow-facebook"></a>
             <a href="http://twitter.com/#!/roomster" target="_blank" class="social-follow-twitter"></a>
@@ -979,12 +1067,32 @@ $(function(){$("#email_homepage").placeholder();$("#password_homepage").placehol
             <a href="http://roomster.tumblr.com/" target="_blank" class="social-follow-tumblr"></a>
         </span>
     </div>
-    <div class="footer-seo">Wednesday, June 11, 2014 9:18 PM EST You want and desire to find a reliable, sane roommate to share your home with. You want to escape the 10 crazy listings you saw last week in a random site. You want an awesome experience, and Roomster can help you find the perfect one because we specialize in the roommate matching service. Roomster is the largest and biggest online community for rommate match and search. Roomster is a social network for those who want to connect with other people looking and needing of an apartment, room, sublet, flat, rental, roommate. How to deal with a problem? Find a solution fast and easy with Roomster because that is what we do professionally. Don't follow crazy advice, follow the real, truthful, honest, hard-hitting service we provide. Life is like a box of chocolates and so is the roommate search, you never know what you might find. With Roomster you can have an absolut close encounter to finding the great roommate you need. Find a roommate using our free online search system, locate an easy and secure situation for you and your family. You don't have to be single to have a roommate, couples also use Roomster to find tenants, and did we mention it is free to join? It is free to join. </div>        
+    <div class="footer-seo">Monday, March 09, 2015 3:02 PM EST You need to find affordable rooms and accommodating roommates in great accessible locations. In Roomster a new profile is added every minute, with millions of listings, ads and possibilities for those who need a roommate, flat, apartment, sublet, room to rent, or post for rental. Don't be afraid to explore and search the different and very interesting options. An international web of people searching for roommates online is available to your discovery with the single click of a mouse. Don't waste time, every second is an opportunity for you to take a look at the newly added profiles on Roomster right now. A roommate is a person who shares a living facility such as an apartment or dormitory, but that is not all, a roommate can be much more if you let him or her. When you find a perfect match in someone, send them a free message and expect a fast response based on your connection. It is not difficult, on the contrary, it is very easy and quick to obtain results if you just type in what you look for in the descriptions we use to personalize the search. You never know, you could find your next best friend, a roommate that goes to the movies, listens to music, exercise and enjoys a good wine with you! If you snooze, you lose. When a roommate moves out, it is the unique and precious opportunity to ask another person to move in. Fill in the blank, clear the gap in your life with company and a break in your finances. Life in the city can be tough, but it can also be rewarding, full of fun and adventure with your roommate. Rock out with your new acquaintance and party together, because no one likes loneliness. If you need a roommate, visit Roomster.</div>        
 </div>
 <!--google analytics-->
-<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-283826-1']);_gaq.push(['_setDomainName','www.roomster.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-283826-1']);
+    _gaq.push(['_setDomainName', 'www.roomster.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+</script>
 <!--google remarketing-->
-<script type="text/javascript">var google_conversion_id=1071235486;var google_custom_params=window.google_tag_params;var google_remarketing_only=true;</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+    var google_conversion_id = 1071235486;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+/* ]]> */
+</script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 <noscript>
     <div style="display: inline;">
@@ -992,7 +1100,34 @@ $(function(){$("#email_homepage").placeholder();$("#password_homepage").placehol
     </div>
 </noscript>
 <!-- adroll retargeting -->
-<script type="text/javascript">adroll_adv_id="T6QMXNDHIZHIXDHV6MEMO7";adroll_pix_id="XLSTAFSVB5BGLHMDTAH7PF";(function(){var oldonload=window.onload;window.onload=function(){__adroll_loaded=true;var scr=document.createElement("script");var host=(("https:"==document.location.protocol)?"https://s.adroll.com":"http://a.adroll.com");scr.setAttribute('async','true');scr.type="text/javascript";scr.src=host+"/j/roundtrip.js";((document.getElementsByTagName('head')||[null])[0]||document.getElementsByTagName('script')[0].parentNode).appendChild(scr);if(oldonload){oldonload()}};}());</script>
+<script type="text/javascript">
+adroll_adv_id = "T6QMXNDHIZHIXDHV6MEMO7";
+adroll_pix_id = "XLSTAFSVB5BGLHMDTAH7PF";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+    
+<script language="javascript" type="text/javascript">
+    $(document).ready(
+        function () {
+            $.extend(Roomster, { _MessageBox: $('#MainErrorMessage').first() });
+            Roomster._MessageBox.click(Roomster.CloseError);
+            Roomster.Tracker.Init('/actiontracker/Track');
+        });
+    $.validator.defaults.focusInvalid = false;
+</script>
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
