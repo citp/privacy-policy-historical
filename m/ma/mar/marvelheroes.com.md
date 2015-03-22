@@ -1,166 +1,254 @@
-> *The following text is extracted and transformed from the marvelheroes.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623171552id_/http%3A//marvel.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvelheroes.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322203857id_/https%3A//www.marvelheroes.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Marvel.com
+# Privacy Policy | MarvelHeroes2015.com
 
-This Privacy Policy governs your use of the web sites published and maintained by Marvel Worldwide, Inc. and/or its Marvel affiliates and subsidiaries, with offices located at 135 West 50th Street, 7th Floor, New York, NY 10020 ("Marvel," "we," "us," "our," or other similar pronouns) including marvel.com and www.marvelkids.com (each, a "Web Site"). By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our Web Site, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Marvel Web Site Terms and Conditions, which governs your use of this Web Site in general.
+**Effective as of: September 3, 2013**
 
-#### Summary
+[  
+  
+](http://www.esrb.org/confirm/gazillion-confirmation.jsp)
 
-It is Marvel's policy to respect and protect the privacy of visitors to this Web Site. Accordingly, Marvel DOES NOT extract, without permission, Personal Information (as defined below) about its visitors or their computer at any time while on Marvel's Web Site, except for Personal Information that is actively provided by such visitors through registration, logging in and out, online forms or other means. Marvel will, however, analyze information about our visitors as a group to make our Web Site better, but visitors are not individually identified when we do this.
+Welcome to the Gazillion Privacy Policy. Privacy is very important to us, and it should be to you too. We are dedicated to safeguarding all personal information collected online and to helping our visitors learn how to exercise control over personal information while on Gazillion Sites.
 
-When dealing with children who we have knowledge are under the age of 13, Marvel follows stringent guidelines that prohibit the sharing of Personal Information with any third parties, except in limited circumstances such as our service providers who use such information on our behalf. Our privacy policies regarding children are outlined in Marvel's Parental Consent Policy section below.
+This Privacy Policy and the certification seal shown on this page confirm that our Site submits to the terms of ESRB’s Privacy Online Program. ESRB’s Privacy Online Program is designed to ensure that a website’s information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established information collection and use practices. As part of this privacy policy, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by ESRB.
 
-This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Web Site, such as by phone, through postal mail and through other live and print mediums.
+Gazillion respects individuals’ privacy, and strives to collect, use and disclose personal information in a manner consistent with the laws of the countries in which it does business. The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy European Union ("EU") law requiring that Personal Data transferred from the EU to the United States be adequately protected (the "U.S.-EU Safe Harbor"). The European Economic Area (the "EEA"), which includes all member states of the EU, Iceland, Liechtenstein and Norway, has recognized the U.S.-EU Safe Harbor as providing adequate protection of Personal Data (2001 O.J. (L 45) 47). Consistent with its commitment to protect personal privacy, Gazillion adheres to the Safe Harbor privacy principles of notice, choice, onward transfer, security, data integrity, access and enforcement as set forth in the U.S.-EU Safe Harbor. To learn more about the U.S. – EU Safe Harbor program, please visit <http://www.export.gov/safeharbor/>.
 
-This Web Site is intended for users who are located in the United States of America. This Privacy Policy shall be interpreted under the laws of the United States, regardless of the location of individual users.
+This Privacy Policy applies to all websites associated with the Gazillion name, including but not limited to: [http://www.gazillion.com](http://www.gazillion.com/), [http://www.marvelheroes.com](http://www.marvelheroes.com/), [http://www.HeroUp.com](http://www.heroup.com/) and [http://www.amazingsociety.com](http://www.amazingsociety.com/).
 
-You have the right to opt out of certain uses and disclosures of your Personal Information. See the ""Right to Opt Out"" section below for further details.
+**Table of Contents**
 
-Your California Privacy Rights The following applies to California residents who have an established business relationship with Marvel. If we collect Personal Information from you, and you have not specifically opted out in accordance with the Right to Opt Out section in this Privacy Policy, we may make that Personal Information available our affiliated companies, or to other third parties who have products or services that we believe will be of interest to you, for their marketing and promotional purposes. If you later decide that you do not want us to share your Personal Information with these companies for their marketing and promotional purposes, visit our marketing preferences Web page at http://marvel.com/my_account or by sending an e-mail to onlinesupport@marvel.com. In this e-mail, please say whether: (i) you would like to opt-out of receiving promotional correspondence from Marvel in general, or just via e-mail, postal mail, short message service (SMS), instant messaging, and/or by phone, (ii) you would only like to opt-out of certain of Marvel's e-newsletters or correspondence, and if so which ones, and/or (iii) you would like to elect for Marvel not to share your Personal Information with third parties for their marketing purposes. You may also opt-out of Marvel's promotional e-mails by clicking on an opt-out link within the e-mail you receive. Your opt out request will be processed within thirty (30) days of the date on which we receive it. For more information on how your Personal Information is collected, used and shared, please read the remainder of this Privacy Policy.
+  1. Definitions
+  2. Responsible Entity; Scope of This Privacy Policy
+  3. The Information We Collect
+  4. How We Use the Information
+  5. Newsletters
+  6. When, How and with Whom We Share Information
+  7. Cookies
+  8. Internet Protocol and MAC Adresses
+  9. Collection of Information by Third Party Sites
+  10. Security
+  11. When we Delete or Block Information
+  12. Choices You Have Regarding Information about Collection, Use, and Distribution of Your PII and Access to, Correction and Deletion of Your PII
+  13. Contact Us
+  14. Updates & Effective Date
+  15. A Final Note to Parents
 
-#### What We Collect
 
-Marvel may collect a variety of statistical data about its Web Site visitors. This data includes the source IP address (as further described below in the ""IP Address and Clickstream Data"" section) of the visitor, the time of visit, the areas of the site visited and information about browser, operating system and other system parameters. As of the date of this Privacy Policy, none of this information is used to personally identify any individual visitor, and is used solely for the purposes of analyzing overall traffic and usage patterns. However, Marvel reserves the right to begin matching such usage data with an individual's Personal Information subsequent to the date of this Privacy Policy.
 
-In order to make your visits to our Web Site and use of the services available on or through our Web Site as worthwhile as possible, Marvel may also collect Personal Information about its visitors, but only when a visitor provides such Personal Information to us in the process of ordering subscriptions, entering contests or sweepstakes, signing up for our newsletter(s), using our ""Feedback"" feature, registering with the Web Site or using other services available on or through our Web Site. The information that you give us and information about your order, purchases or other activities on the Web Site may be combined with other Personal Information (such as demographic information and past purchase history) available from our records and other sources. ""Personal Information"" includes, for example, names, postal addresses, e-mail addresses, wireless addresses, age, credit card and other payment information, demographic information, purchase history, subscription information and/or other information that may identify you as an individual or allow online or offline contact with you as an individual. This information is used by Marvel to fulfill your requests and for marketing and research purposes. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please see the ""Right to Opt Out"" section below. Certain areas of Marvel's Web Site will require user registration in order to gain access; once you register with the Marvel Web Site to use that content, you will no longer be anonymous to us.
+**1\. Definitions  
+**  
+First, we need to define a few terms so that you can better understand this Privacy Policy.
 
-#### Right to Opt Out
+"Child" or "Children" — A person or persons under the age of 13.
 
-You have the right to ""opt-out"" of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Web Site, you may have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities (outside of Marvel) for their marketing purposes. You may also make this request by visiting our marketing preferences Web page at http://marvel.com/my_account or by sending an e-mail to onlinesupport@marvel.com. In this e-mail, please say whether: (i) you would like to opt-out of receiving promotional correspondence from Marvel in general, or just via e-mail, postal mail, short message service (SMS), instant messaging, and/or by phone, (ii) you would only like to opt-out of certain of Marvel's e-newsletters or correspondence, and if so which ones, and/or (iii) you would like to elect for Marvel not to share your Personal Information with third parties for their marketing purposes. You may also opt-out of Marvel's promotional e-mails by clicking on an opt-out link within the e-mail you receive.
+"Closed Beta Test" — The time when any part of the System or any Gazillion Game is open for testing but not open to the public (and not open to Minors).
 
-Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly.
+"Gazillion Account" — Refers to the account you may open on the System for Gazillion Games.
 
-#### Use of Cookies and Other Tracking Technologies
+"Gazillion Account Holder" — Refers to any individual that has opened a Gazillion Account on the System.
 
-Marvel may use ""cookie"" technology to enhance a visitor's online experience by making it easier to navigate through our Web Site or to make an activity work better.
+"Gazillion Game" — Refers to any online game offered by Gazillion.
 
-Cookies are small pieces of information or data files that are sent through your browser or related software from a Web server and are stored on your computer's hard drive. Cookies may be used to track where you travel on our Web Site and what you look at and purchase, and they allow a computer to ""remember"" information from our Web Site for future use. The use of cookies is an industry standard and is practiced by most major Web sites. Cookies alone tell us nothing about who you are, but they may enable us to relate your use of our Web Site to other information, including your Personal Information, which you have provided to us when you registered or performed other activities while visiting our Web Site. All of these purposes serve to enhance your experience while using our services in the ways described below.
+"Minor" or "Minors" — A person or persons 17 years of age or younger.
 
-Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of the Web Site.
+"Open Beta Test" — The time when any part of the System or any Gazillion Game is open for testing by the public but not deemed operational by Gazillion.
 
-We also may use ""clear GIFs"" (aka ""Web beacons"" or ""pixel tags"") or similar technologies, in the Web Site and/or in our communications with you to enable us to know whether you have visited a Web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a Web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual's viewing or receipt of a Web page or message. A clear gif may enable us to relate your viewing or receipt of a Web page or message to other information about you, including your Personal Information.
+"Parent" — This also includes legal guardians, whether or not a Minor lives with them.
 
-We may use cookies and other tracking technologies in a variety of ways, including:
+"Personally Identifiable Information" or "PII" — This is any information concerning the personal or material circumstances of an identified or identifiable natural person ("data subject"), i.e. information that can be traced directly back to and identifies an individual. PII includes without limitation: first and last names, e-mail addresses, home addresses, telephone numbers, IP addresses, MAC addresses and Instant Messaging ("IM") screen names when associated with a particular messaging service (e.g., AIM).
 
-  * Keeping count of return visits to our Web Site or our advertisers' or partners' sites
-  * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on website and advertisement usage
-  * Determining which features our customers like best
-  * Saving your password so you don't have to re-enter it each time you visit our Web Site
+"Site" or "Sites" — Refers to the Gazillion site ([http://www.gazillion.com](http://www.gazillion.com/)), and the Gazillion studio or Game sites, including, but not limited to [http://www.marvelheroes.com](http://www.marvelheroes.com/), [http://www.HeroUp.com](http://www.heroup.com/) and [http://www.amazingsociety.com](http://www.amazingsociety.com/).
 
+"System" — Refers to the Sites, social networking features, and all interactive features, forums, chat rooms and services associated with Gazillion and Gazillion Games.
 
+"Teen" or "Teens" — A person or persons between the ages of 13 – 17; inclusive.
 
-IP Address and Clickstream Data Our server automatically collects data about your server';s Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that's automatically assigned to your computer by your Internet service provider whenever you're on the Internet. When you request pages from our Web Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another Web site or a search engine); the pages you visit on this Web Site; the Web site you visit after this Web Site; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Web Site or a referral site; and other Web usage activity and data logged by our Web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our Web Site. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider. We reserve the right to link this information with your Personal Information.
+Back to Top   
+**  
+2\. Responsible Entity; Scope of This Privacy Policy  
+**  
+The responsible entity for any collection, processing and use of PII pursuant to this Privacy Policy is 
 
-Any or all of these activities with regard to Web site usage information (i.e., information gathered through the use of cookies, Web bugs and clickstream data) may be performed on our behalf by our services providers.
+Gazillion, Inc.  
+P.O. Box 6594  
+135 W 25th Ave.  
+San Mateo, CA 94403  
+United States of America  
+E-Mail: [privacy@gazillion.com](mailto:privacy@gazillion.com)  
+Phone: +1 800 574 7030
 
-How Marvel Uses Personal Information Personal Information is used to enhance and custom-tailor each user's experience on the Web Site. Such information may be used to determine what site content is of interest to which users, what types of e-mail newsletters and other communications are appropriate for individual users, and to identify user-generated content such as message board postings, votes in online polls and participation in online games. Such information will also be used, for example, to process your orders, respond to your requests and inquiries and provide you with the services and features offered on or through our Web Site.
+This Privacy Policy applies only to PII collected on any website where this Privacy Policy is posted and does not apply to any other information collected by Gazillion, Inc. and its affiliated entities through any other means. Gazillion, Inc. is referred to in this Privacy Policy as "Gazillion," "we" or "us."
 
-Marvel may also use Personal Information to maintain our internal record keeping. We reserve the right to match information collected from you through different means or at different times, including both Personal Information and Web Site usage information, and use such information along with information obtained from other sources. In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. You may opt-out of receiving such notices from us by following the instructions in the Right to Opt Out section above.
+Back to Top   
+**  
+3\. The Information We Collect  
+**   
+**3.1 Information Collected When You Provide It  
+**
 
-In addition, Marvel may use Personal Information to generate aggregate data about our Web Site's visitors.
+At Gazillion, we collect PII on our Site when our visitors voluntarily provide it to us. For some activities, such as online polls or surveys, we may ask visitors to provide information that is not personally identifiable. This might include first name only, city or country of residence, age, gender, or a favorite color.
 
-Send-to-a-Friend Visitors to the Web Site can send electronic postcards, and can forward information about areas and/or services available on or through the Web Site, to their friends. In order to do this, visitors are asked to provide only their first name and their friend's first name and e-mail address, all of which are deleted once the postcard is sent.
+In connection with registration for a Gazillion Account, we may ask users to provide certain information such as city or country of residence, date of birth, and gender. We collect and store an e-mail address to use in the case of forgotten passwords and to send newsletters and/or marketing information for which the individual has consented. We also collect Parent email addresses when they register accounts on behalf of Children or other Minors.
 
-Requests For Feedback Marvel may request feedback from visitors to the Web Site regarding an activity or piece of content on the Web Site. Such feedback is used for internal purposes only.
+For other activities, such as sending an electronic postcard or e-mail to invite a friend to join Gazillion, we may also ask for personal information about other people. Gazillion stores the email addresses and first name that you provide and uses them solely to contact the owner of the email address. For these Site activities, Gazillion sends only one initial invitation email; for other email-based communications, Gazillion sends an email specific to that communication. Gazillion does not share, sell or rent these email addresses with any third parties. Recipients of invitations who are not registered Gazillion Account Holders can contact Customer Support to request that their emails be added to a "black list" to which Gazillion sends no further invitations.
 
-Correspondence and Newsletters Marvel uses automated e-mail systems to e-mail newsletters and to collect and answer correspondence from our visitors. Marvel tries to make it easy for visitors to contact us and we provide easy instructions on our Web Site on how you can either edit Personal Information previously given (such as your address) or opt out of receiving any automated messages generated by Marvel. For more information on opting out, please see the Right to Opt Out section above. Should you have a technical problem doing this please contact onlinesupport@marvel.com.
+You also can engage with our content on or through third-party social networking sites, such as Facebook and Twitter (or third-party social media plug-ins and applications). When you engage with our content on or through third-party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
 
-How Marvel Shares Information Collected Online Marvel may sell, rent or give a visitor's Personal Information to any third party so long as the visitor has not, at the time the Personal Information is collected or thereafter, specifically opted out from receiving offers or other information from third parties, in accordance with the Right to Opt Out section in this Privacy Policy. Notwithstanding the above, Marvel may, however, share aggregate information about users of our Web Site, such as overall patterns or demographic reports that do not describe or identify any individual user, with our advertisers, business partners, sponsors and certain others, as further described herein. As mentioned above, this aggregate information is used to develop, improve and customize Marvel's Web Site to better serve visitors to our Web Site.
+Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
 
-#### Public Forums
+On occasion, a Game could offer the opportunity to sign in and register an account using Facebook Platform credentials. We respect Facebook’s Privacy Policy, and only request and collect information necessary to complete a registration with our site. This information could include, but not limited to: email address, age, first name, last name, and IP address. Before Gazillion can collect any information from Facebook, it is Facebook’s policy to request confirmation from you, verifying that you agree to the information share from Facebook to Gazillion in order to create an account and play the Game. As part of the login process, Facebook may provide information beyond what we request in accordance with Facebook policies. If you wish to discontinue the use of your Facebook credentials, you must contact us via Customer Support and request a deactivation. At that time you will no longer be able to access the account created by using your Facebook credentials.
 
-When you contribute to a public area or feature of our Web Site, such as a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, the information that you submit will be made available to the general public. For this reason, we recommend that you do not submit any sensitive information, including your full name, home address, phone number, other information that would enable other users to locate you, or financial information on these areas of our Web Site. Instead, you should make up a username that does not disclose your personal identity.
+For some limited activities, campaigns, or offers, we may ask you to provide your name, address, e-mail address, telephone number, fax number, credit card information, cable or satellite provider, and/or information about interests in and use of various products, programs, and services.
 
-#### Third Party Offers
+Back to Top  
+ **  
+3.2 Information Collected Automatically  
+**
 
-Unless visitors have specifically opted out in accordance with the Right to Opt Out section in this Privacy Policy, we may provide visitors an opportunity to receive offers from other entities (outside of Marvel) who have services, products and offers that we think might be of interest to you. Additionally, we may from time to time provide your Personal Information to these entities so that they may send you these offers. If you change your mind and no longer want us to share your Personal Information with these types of third parties, follow the instructions to opt-out in the Right to Opt Out section above. Co-sponsored Contests, Sweepstakes and Offerings
+When visitors come to any of our Sites, we also may collect some non-personally identifiable information such as the type of computer operating system you are using (e.g., Windows or Mac OS), the type of browser you are using (e.g., Internet Explorer, Firefox), the domain name of the Internet service provider (e.g., Comcast, Earthlink), your activities while visiting our Site, certain other technical information that may be passed on automatically, and your activities while utilizing services on our Site. We may also collect more extensive diagnostic information about your software, computer system, and internet connection during a system crash or other maintenance issue. Some of this information is obtained through the use of cookies. This information is not associated with any PII you may give us and will be stored separately. The information collected will be used to enhance features and provide feedback for improvements to our Sites.
 
-Some of our contests, sweepstakes and other offerings may be co-sponsored by another company. In those situations, we may share the information we obtain from you in connection with such contest, sweepstake or offering with our co-sponsor, unless you instruct us not to by following the instructions in the Right to Opt Out section above. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. We are not responsible for how our co-sponsors may use your information.
+Back to Top  
+ **  
+3.3 Information Collected in Connection with Closed Beta Tests  
+**
 
-#### Service Providers
+Special rules apply to Closed Beta Tests. Closed Beta Testers must be 18 years or older, or have verified permission from the parent/legal guardian. In order to become a Closed Beta Tester, you, or your parent/legal guardian, will have to provide certain Personally Identifiable Information ("PII"), and also agree to enter into a Non-Disclosure Agreement ("NDA") that will severely restrict your ability to discuss anything about the Site. Closed Beta Tester information that you may have to disclose to us includes, but is not limited to: First and last name, e-mail address, MAC and IP addresses, demographic information such as sex, city/state/country, and age.
 
-We may use third party partners to help operate our Web Site and deliver our products and services, and may share your information with our affiliates, service providers and other third parties that provide products or services for or through this Web Site or for our business (such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf).
+Back to Top  
+ **  
+4\. How We Use the Information  
+**  
+We use visitors' PII collected for internal purposes only, such as creating and administering accounts, providing our services, responding to customer inquiries and enabling visitors to enter our online contests or sweepstakes or to subscribe to an online newsletter. If you grant us permission to do so, we may also use PII to send e-mails regarding special offers, new partners, or other reminders. We may also use a Parent email address for sending updates and information about a Child’s or other Minor's account.
 
-#### Legally Compelled Disclosures
+We use certain PII, like your age and country of residence, to determine what content we can show you when you log into your account and to comply with the different legal requirements in different countries.
 
-We may disclose user information to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas. We also may disclose user information when we have reason to believe that someone is causing injury to or interference with our rights or property, other users of the Web Site, or anyone else that could be harmed by such activities. We may also report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report.
+We use information we collect about others to enable visitors to our Site to communicate with those other people, for example, by sending them electronic greeting cards or invitations to join Gazillion or play Gazillion Games. We routinely purge that content from our database, and do not store it for any purpose other than the one time usage.
 
-#### Business Transfer
+We do not keep any PII we obtain through a contest or sweepstakes beyond when we have successfully selected a winner(s), awarded the prize(s), and administered the contest or sweepstakes.
 
-In the event that Marvel, or substantially all of its assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, Personal Information may be one of the transferred assets.
+We reserve the right to retain any PII you provide us, even if you request that we remove that information, up to the maximum length of time allowed under applicable law in order to fight fraud or abuse in Gazillion Games, or for other purposes allowed under applicable laws.
 
-#### Third Party Ad Servers
+We sometimes use non-personally identifiable information that we collect to improve the design and content of our Site, and to improve our visitors' experience on the Site. We also may aggregate this information to analyze Site usage, as well as to offer products, programs, or services.
 
-We may use third-party advertising companies to serve ads or provide other advertising services when you visit our Web site or third party Web sites, including, without limitation, DoubleClick and Yahoo!. These companies may use information (generally not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness and serve advertisements of interest to you. Any information that these third parties collect via cookies and clear gifs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your Personal Information. If you would like more information on DoubleClick's privacy practices, please visit http://www.google.com/privacy_ads.html. If you would like more information on Yahoo!’s privacy practices, please visit http://info.yahoo.com/privacy/us/yahoo/adserving/. If you would like more general information about these practices and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer Web site at http://www.networkadvertising.org/consumer/.
+Back to Top   
+**  
+5\. Newsletters  
+**  
+We also store and use the e-mail addresses of subscribers to our Site's e-mail newsletters to send them the requested newsletter(s). Each newsletter also includes instructions for subscription removal via return e-mail. Customers will receive e-mail newsletters only when they opt in during the registration or other newsletter subscription process; we will not send commercial e-mails to customers or Parents who do not opt in to newsletters during the registration process or who opt out of newsletters later.
 
-#### Wireless Addresses
+Back to Top   
+**  
+6\. When, How and with Whom We Share Information  
+**  
+We never sell, rent, or otherwise share our visitors' PII with third parties unless permitted or required by law or with appropriate consent.
 
-If the e-mail address you provide to us is a wireless e-mail address, you agree to receive messages at such address from Marvel (unless and until you have elected not to receive such messages by following the instructions in the Right to Opt Out section above). You understand that your wireless carrier's standard or premium rates apply to these messages, and that you may change your mind at any time by following the instructions in the Right to Opt Out section above. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
+Sometimes, we use agents or contractors to provide services, such as helping us conduct a sweepstakes, sending prizes to winners, shipping customer orders made on the Site, processing customer payments or providing customer service related to activities on the Site. In these cases, we require the agent or contractor to keep the information confidential and to use it only for the specific services they are performing.
 
-#### Short Message Service
+We may disclose PII in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service (TOS) or End User License Agreement (EULA), to verify or enforce compliance with the policies governing our Site and applicable laws, or as otherwise required or permitted by law or consistent with legal requirements.
 
-Marvel may make available a service through which you can receive messages on your wireless device via short message service (""SMS Service""). If you subscribe to one of our SMS Services, you thereby agree to receive SMS Service messages at the address you provide for such purposes.
+In addition, we may transfer PII about you if we or one of our business units are acquired by, sold to, or merged with another company to such company. Gazillion will ensure that any such transfer is operated in accordance with applicable data protection laws.
 
-You understand that your wireless carrier's standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the Right to Opt Out section above. You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS Service, and that you are authorized to approve the applicable charges. To use the SMS Service, you must be of majority in the state in which you legally reside (and at least 18 years of age) and reside in the United States. You must first register and provide all required Personal Information, which may include, for example, your name, SMS address, wireless carrier and, if fees are applicable to the SMS Service you subscribe to, billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
+We will not use or transfer PII in ways that are different from the ones described above without also providing notification of such practices and obtaining consent for any different uses.
 
-You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. We may also access the content of your account and/or wireless account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
+Please note that any information, including personally identifiable information that you reveal in a bulletin board, chat room, news group or other public forum is publicly viewable on the Site. Please refer to the Terms of Service (TOS) if you wish to learn more about the information you choose to share within the Gazillion Games and related services.
 
-By signing up for the SMS Service, you consent to receiving, from time to time, further SMS Service messages for which your carrier will charge you at the applicable rates, that may include news, promotions and offers, unless and until you have opted-out of these activities by following the instructions in the Right to Opt Out section above.
+Back to Top  
+ **  
+7\. Cookies  
+**  
+Our Site uses software technology called "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. Cookies themselves do not contain any Personally Identifiable Information. Although cookies could enable us to relate a visitor's use of our Site to PII that the visitor has provided, such as an e-mail address, we do not use cookies for this purpose. For some activities, we may use session cookies to ensure that Children do not attempt to register an account, or to otherwise have a better user experience. We do use cookies to determine how many visitors we have, where they arrive from, and how often they visit various sections of our Site.
 
-#### Advertisers and Third Party ""Linked-To"" Web Sites
+If you do not wish us to use cookies, you can prevent your computer from storing cookies by adjusting the according browser settings. Please note access to and functionalities of the Sites may be limited if you chose not to accept cookies from Gazillion.
 
-Marvel may include advertisements and/or links to Web sites operated by third parties that are not sponsors and are not affiliated with Marvel. Marvel tries to make sure that when there are links off the Web Site, they are working and lead visitors to interesting, fun and informative areas. However, it is hard to guarantee what exactly is presented on other Web sites or where links elsewhere may lead. Marvel is not responsible for the content, practices, or information provided or requested on Web sites operated by third parties. Further, advertisements on and links to or from Marvel.com do not constitute sponsorship, endorsement, or approval by Marvel of the content, policies, practices or products or services offered on these Web sites.
+Back to Top  
+ **  
+8\. Internet Protocol and MAC Addresses  
+**  
+An Internet Protocol ("IP") address is the unique number assigned to your server or Internet Service Provider ("ISP"). The Media Access Control ("MAC") address is a hardware address that uniquely identifies each node of a network and is normally assigned to the network interface card (NIC) or other network adapter that you use to connect to the internet. Gazillion may track such IP and MAC addresses for system administration, to report aggregate information, Site tracking, or to prevent our servers from being abused, but Gazillion will not store such IP and MAC addresses in full; it will only store truncated IP and MAC addresses that cannot be linked to an individual user or device.
 
-Parents/guardians should check each Web site's privacy policy and terms of use in order to understand their policies and practices regarding the collection and use of personally identifiable information. Marvel also suggests that parents/guardians review the privacy policies of all Web sites that their children visit, including those Web sites linking to or from the Marvel Web Site. Information provided to those web sites will be subject to the privacy policy posted at that web site.
+Back to Top  
+ **  
+9\. Collection of Information by Third-Party Sites  
+**  
+Our Sites may contain links to other websites, including those of our partners, sponsors and advertisers, whose information practices may be different from ours. Sometimes these third party websites might conduct contests or sweepstakes that are promoted on our Site. Visitors should consult those other third party websites' privacy notices, since those websites are not covered by our Privacy Policy and may follow different procedures. If you click on one of these third-party links from any of our kid-targeted Sites, you will receive a notification that you are about to leave the Site and travel to a third-party site.
 
-#### Security
+Back to Top  
+ **  
+10\. Security  
+**  
+We have taken steps to assure that all information collected will remain secure and in its original form, i.e. free from any alteration. As such, access to all PII is strictly controlled. We have put in place appropriate physical, electronic, and managerial procedures in an effort to help safeguard and prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-The importance of security for all Personal Information associated with visitors to our Web Site is of utmost concern to us. Marvel exercises great care and implements a variety of technologies in an effort to help make the Marvel Web Site secure against unauthorized access and to protect the Personal Information visitors choose to provide to us. Marvel periodically reviews and updates these measures. Unfortunately, due to the inherent nature of the Internet as an open global communications vehicle, no data transmission over the Internet can be guaranteed to be secure, and Marvel cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. As a result, while Marvel strives to protect a visitor's Personal Information, Marvel cannot ensure or warrant the security of any information transmitted to us or from our online products or services, and a visitor does so at his/her own risk. Marvel uses the industry standard, SSL (secure socket layer) encryption when credit card information is transmitted to us.
+We are particularly sensitive to visitors' security concerns regarding the use of credit cards in connection with some services on our Sites, including playing Gazillion Games. For orders placed on our Site, we use a technology that automatically encrypts credit card data while information is being transmitted over the Internet, provided that the visitor's browser supports the Secure Socket Layer protocol (SSL).
 
-If you contact us by e-mail or a ""contact us"" or similar feature on our Web site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit.
+To verify the security of your connection at our Site, check the lower left corner of your browser window after accessing the server. If you see an unbroken or a closed lock, then SSL is active and the server is secure. You may also check by looking at the URL line of your browser. When accessing a secure server, the Site address will change from "http" to "https".
 
-You may be able to create an account on our Web Site with a username and password. If so, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Web Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee or agent. You agree to (a) immediately notify Marvel of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify Marvel when you desire to cancel your account on this Web Site. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.
+Back to Top  
+ **  
+11\. When We Delete or Block Information  
+**  
+To the extent that your PII is not required any more for the purposes stated in this Privacy Policy, it is deleted from our database.
 
-We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+To the extent applicable law requires us to store any PII beyond such time, the PII will be blocked. These data are then unavailable for any further use.
 
-In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. If you prefer for us to use another method to notify you in this situation, please e-mail us at onlinesupport@marvel.com with the alternative contact information you wish to be used.
+In the event that you request that we no longer collect or maintain your PII, your access to the Site and the Services offered by Gazillion may be limited and you may not be able to participate in certain activities offered either free, or at a fee, by Gazillion, including participating in any Beta Test programs.
 
-#### Review and deletion of personal information
+Back to Top  
+ **  
+12\. Choices You Have Regarding Information about Collection, Use, and Distribution of Your PII and Access to, Correction and Deletion of Your PII  
+**  
+You have the right to request access to the information we store about you. You also have the right to have incorrect information corrected and to request deleting or blocking information.
 
-You may review and delete the Personal Information about you that is contained in your user account at Marvel at any time. If you would like to review or delete this information, please contact us at:
+If you want to exercise any of these rights or for any reason you are concerned with the way we are using your PII, or would like to change the way we use it, please send a letter or postcard to our Privacy Manager at the mailing address provided below and indicate which of the following you would like to do:
 
-#### Phishing
+  * learn what information we are storing about you,
+  * correct factual errors in such information,
+  * request to have this information deleted or blocked, or
+  * request that we no longer collect or maintain such information.
 
-With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information is received by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as ""phishing.""
 
-If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a Web site that does not seem to be affiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at onlinesupport@marvel.com.
 
-#### Consent to Processing
+Alternatively you can send an e-mail to [privacy@gazillion.com](mailto:privacy@gazillion.com). In order to help us process your request as quickly as possible, please use the subject field: "Collection of Personal Information."
 
-By providing Personal Information to this Web Site, you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories.
+Please be sure to include your e-mail address and a telephone number where we can reach you.
 
-#### Changes to this Privacy Policy
+If you are a California resident, California Civil Code Section 1798.83 permits you to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you do not want your name and contact information to be shared with any company or organization, you may notify us at any time by writing to us at the email and or regular mail address below.
 
-Marvel reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Web Site. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web Site to sending you an e-mail.
+Back to Top  
+ **  
+13\. Contact Us  
+**  
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, or if you would like to review the information we have collected regarding your child, please contact us at the following e-mail address, mailing address and telephone number:
 
-#### Questions, Concerns and Comments
+Email: [privacy@gazillion.com](mailto:privacy@gazillion.com)  
+Mailing Address (Letters or Postcards only, please):  
+Legal Department  
+Gazillion, Inc.  
+P.O. Box 6594  
+135 W 25th Ave.   
+San Mateo, CA 94403  
+Phone: 1.800.574.7030
 
-Please contact us at onlinesupport@marvel.com or write to us at: Business & Legal Affairs, Marvel Worldwide, Inc., 135 West 50th Street, 7th Floor, New York, New York, 10020 with any questions regarding Marvel's Privacy Policy.
+Gazillion is a licensee of ESRB’s Privacy Online Program. If you believe that we have not responded to your privacy inquiry or your privacy inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>, or contact:
 
-#### KIDS:
+ESRB  
+Attn: Privacy Online Program  
+317 Madison Avenue, 22nd Floor  
+New York, NY 10017  
+[privacy@esrb.org](mailto:privacy@esrb.org)
 
-Never provide any information about yourself on the Internet without your parent's/guardian's permission. Please read Marvel's Parental Consent Policy (see below) with your parents/guardians before you go any further. Where legally required, Marvel requires your parent's/guardian's written (or electronic) permission for children who we have knowledge are under age thirteen (13) to provide us with certain Personal Information required to get the Marvel newsletter(s), order subscriptions, enter certain clubs, etc., or participate in other activities and/or services available on or through the Web Site.
+Back to Top  
+ **  
+14\. Updates & Effective Date  
+**  
+From time to time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our Site. We will also notify all subscribers via an e-mail to the e-mail address we have on file when there has been a material change to this Privacy Policy. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-#### MARVEL'S PARENTAL CONSENT POLICY
+The Privacy Policy posted on this Site was updated on or about September 3, 2013.
 
-Special notice for users under the age of thirteen and their parents: Marvel has created the www.marvelkids.com web site as an online destination with Marvel content appropriate for children under the age of thirteen (13). Where Marvel's information collection activities involve children that Marvel has knowledge are under the age of thirteen (13), Marvel provides special privacy protections. In accordance with the Children's Online Privacy Protection Act (""COPPA""), Marvel will not knowingly collect any Personal Information from children under the age of thirteen (13) without first obtaining parental consent or otherwise following the requirements set forth by COPPA. Furthermore, Marvel does not share any Personal Information that Marvel has knowledge is about users under the age of 13 with third parties.
+Back to Top  
+ **  
+15\. A Final Note to Parents  
+**  
+We recognize a special obligation to protect PII about young children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when on- line. Minors should encourage their parents to review this policy and to contact us if they would like to evoke our opt-out policy or to raise any concerns. Children are not allowed to create Gazillion Accounts without parental permission. Please see the Terms of Service for further information.
 
-Prior to providing any Personal Information (such as your name, e-mail address, address, phone number etc.) either by placing an order for merchandise, setting up a Web Site account, entering a contest or sweepstakes (if eligible), or participating in any other activity offered through the Web Site, where legally required, children who Marvel has knowledge are under the age of 13 must have a parent provide an express confirmation of parental consent through the Web Site's electronic consent notification system. In these instances, users who Marvel has knowledge are under the age of 13 are prompted for a parent's e-mail address. This e-mail address will be sent a notification message with an embedded link to a parental consent page on the Marvel Web Site. The child's registration, order, transaction or request will be considered incomplete until the child's parent uses this link to complete the parental consent process.
-
-Alternatively, parents may send a Parental Consent Form to MARVEL.COM - Marvel Worldwide, Inc., 135 West50th Street, 7th Floor, New York, NY 10020; or by fax to: 212-576-8506. The Consent Form states that the child's ""Parent"" or ""Legal Guardian,"" by his or her signature, consents to the collection of the child's Personal Information . Consent may be revoked by completing a ""Marvel Revocation of Parental Consent Form"" and sending it to the address or fax number above. Please note that if a parent does not permit Marvel's use or collection of Personal Information or has instructed Marvel to delete personally identifiable information, a child's participation in those Web Site activities for which the Personal Information has been requested may not be possible.
-
-In compliance with COPPA, Marvel is sensitive about children consulting with parents or guardians before furnishing Personal Information or ordering anything online. It is also Marvel's intention to adhere to the Children's Advertising Review Unit (CARU) Guidelines on Internet advertising with its special sensitivities regarding solicitations to children under thirteen (13). Marvel encourages parents/guardians to supervise and join their children in exploring cyberspace. Marvel is proud of the MarvelKids.com Web Site and believes that it is suitable for Marvel fans of all ages.
-
-With the limited exceptions described in this Privacy Policy, Marvel will not disclose Personal Information collected from children that we have knowledge are under the age of thirteen (13) to third parties, except in special cases where Marvel has reason to believe that disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (whether intentionally or unintentionally) with Marvel's rights or property or anyone else who may be harmed by such actions, or if required by law.
-
-Marvel recommends that parents/guardians monitor and supervise the online activities of their children and to consider using available parental control tools which can prevent children from disclosing their name, address, and other Personal Information without parental permission. Visitors to the Web Site who are under thirteen (13) years old should not be submitting any Personal Information, such as their name, address, e-mail address, phone number etc. without a parent's or guardian's permission.
+Back to Top
