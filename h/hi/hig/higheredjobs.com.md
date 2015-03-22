@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126171041id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322050814id_/https%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - HigherEdJobs
 
 [ ](https://privacy.truste.com/privacy-seal/Internet-Employment-Linkage,-dba-HigherEdJobs-com/validation?rid=29a396dd-c433-4529-a8d9-cfae9d5ec02b "TRUSTe online privacy certification")
 
-Internet Employment Linkage has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/ "Privacy Program Requirements") including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.higheredjobs.com.
+This privacy policy applies to http://www.higheredjobs.com owned and operated by Internet Employment Linkage. This privacy policy describes how Internet Employment Linkage collects and uses the personal information you provide on our web site: http://www.higheredjobs.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. _If you have questions or complaints regarding our privacy policy or practices, please contact us first:_ contact the Operations Department at [privacy@higheredjobs.com](mailto:privacy@higheredjobs.com) or by postal mail at 715 Lake Street, Suite 400, Oak Park, IL 60301. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Internet Employment Linkage has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-This Privacy Policy governs the collection and use of user data from those portions of the HigherEdJobs.com website that are available to the public without a login ID or password (the "Public Site") and those portions, such as the Employer Section and My HigherEdJobs, that we restrict to users with a login ID and password (the "Restricted Site"). The Public Site and the Restricted Site are, collectively, called the "Web Site." Except where specified otherwise, the provisions in this Privacy Policy apply to the Web Site as a whole.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+
+Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. 
+
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 ## PRIVACY PHILOSOPHY
 
@@ -22,6 +26,8 @@ B. Personally Identifiable Information. HigherEdJobs.com collects personally ide
 
 We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [privacy@higheredjobs.com](mailto:privacy@higheredjobs.com).
 
+You may also provide personal information about other people, such as their name, date of birth and gender. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided.
+
 C. Resume Center. If you register for a personal My HigherEdJobs account, you will have the option of posting a form of your resume on the Restricted Site. We request certain personally identifiable information in order for you to post your resume, such as your name and address, e-mail address and experience working in higher education. We include this information, when and only if you so elect, in a database for institutional and other paying subscribers to search for potential candidates online. In addition, you have the ability to draft a personal resume and cover letter in the resume textbox. There are two primary ways you can use the Resume Center:
 
   1. You can create and store your resume on our database, but _not_ allow it to be searched by any institutions of higher education or other employer-subscribers. Not allowing your resume to be searchable means that you can use it to apply for a position online, but it will _not_ be searchable through our resume database.
@@ -29,15 +35,17 @@ C. Resume Center. If you register for a personal My HigherEdJobs account, you wi
 
 
 
-D. Other Technical Information/Cookies. We collect an IP address from all visitors to our Web Site. We use your IP address to help diagnose problems with our server and to administer our Web Site. In addition to information provided by your browser, we use "cookies" for remembering your preferences, maintaining information about whether you are currently logged into our systems, and tracking click streams. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies, but if you prefer, you can set your browser to refuse cookies. We do not use cookies to store any personally identifiable information you submit while on our site. If you use My HigherEdJobs and request us to do so, we will use a cookie to help us recall information about your account such as your user name and password. In the event you refuse cookies, however, you may not be able to take advantage of benefits offered by our Web Site.
+D. Tracking Technologies. Technologies such as: COOKIES, beacons, tags and scripts are used by Internet Employment Linkage, Inc. and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. To learn more about our advertising company's use of clear gifs, please go to [DoubleClick](https://www.google.com/doubleclick/).
+We use COOKIES for our user authentication, shopping cart, and to remember users' settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out."
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
-Some of our business partners (e.g., advertisers, tracking utilities) use cookies on our site. We have no access to or control over these cookies. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information. [See the "Third Party Advertisers" section.]
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash LSO to collect and store information.
 
-This privacy statement covers the use of cookies by www.higheredjobs.com only and does not cover the use of cookies by any advertisers. [See the "Third Party Advertisers" section.]
+Various browsers may offer their own management tools for removing HTML5 LSOs.
+
+To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 E. Job Postings. Persons, whether as individuals or as employees of a business who use the Employer Section or the Single Posting Pages of the Web Site may be asked for their business email addresses, business address and phone, billing information, and a password. Although there is no cost to Job Seekers for using the services on the Web Site, Job Posters will be charged a fee for requested services. We use data collected from Job Posters to provide requested services.
 
@@ -48,6 +56,8 @@ G. Third Party Advertisers. The ads appearing on this Web site are delivered to 
 Our third party advertisers use cookies, which allow it to recognize a user's cookie when a user visits this site. The information that our ad server collects and shares through this technology is not personally identifiable.
 
 If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+H. Blogs. Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [jobseeker@higheredjobs.com](mailto:jobseeker@higheredjobs.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## DISCLOSURE OF INFORMATION
 
@@ -75,6 +85,10 @@ Job Posters may update their account information and manage their job postings b
 
 This Web Site has security measures in place to protect the loss, misuse and alteration of the information contained on our Web Site. During the subscription or registration process, you will have the option to provide a password for your account. We authenticate your access to our Web Site through your use of your user ID and password, and protect your information with firewall protections. Our security and privacy policies are periodically reviewed and enhanced as necessary. Particularly sensitive information, such as a college or university's credit card number collected for a commerce transaction, is encrypted prior to transmission using a Blowfish Encryption Algorithm and purged upon receipt. See [www.schneier.com/blowfish.html](http://www.schneier.com/blowfish.html) for more information on the protections provided by this encryption. Please be advised that you are ultimately responsible for the security of your HigherEdJobs.com user ID and password. Please take care to store your HigherEdJobs.com user ID separately from your account password, or better yet, choose a password that you do not need to write down at all.
 
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@higheredjobs.com](mailto:privacy@higheredjobs.com).
+
 ## CHILDREN
 
 We do not specifically collect information about children, nor do we authorize use of this Web Site by children.
@@ -89,4 +103,11 @@ If, at any time, you have questions or concerns about HigherEdJobs.com's Privacy
 
 THANK YOU FOR USING HIGHEREDJOBS.COM.
 
-Last Updated: 2/19/2014
+Last Updated: 1/26/2015
+
+## CONTACT US
+
+**INTERNET EMPLOYMENT LINKAGE**  
+715 Lake Street, Suite 400, Oak Park, IL 60301  
+708-848-4351  
+[privacy@higheredjobs.com](mailto:privacy@higheredjobs.com)
