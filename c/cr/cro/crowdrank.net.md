@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdrank.net privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905051620id_/http%3A//www.crowdrank.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdrank.net privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323001205id_/http%3A//www.crowdrank.net/privacy) for the most accurate reproduction.*
 
 # CrowdRank | Your Ranking Engine with Real Consumer Reports - Consumers Report and Vote
 
