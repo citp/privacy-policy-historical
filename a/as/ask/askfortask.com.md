@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the askfortask.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018120703id_/http%3A//www.askfortask.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askfortask.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322082706id_/https%3A//www.askfortask.com/privacy) for the most accurate reproduction.*
 
-# Our Commitment to Privacy - AskForTask
+# Our Commitment to Privacy - AskforTask
 
 ****
 
-AskForTask Inc. (“ **we** ”/” **us** ”) is committed to protecting privacy. We make the website, [www.askfortask.com](http://www.askfortask.com/) (the “ **Website** ”) and the AskForTask mobile applications (the “ **AskForTask App** ”) available for download together with our services as further described in our [Terms of Use](https://web.archive.org/web/20141018120703id_/http%3A//www.askfortask.com/terms). This Privacy Policy describes how we collect, store, use and distribute information about our users of the Service. 
+AskforTask Inc. (“ **we** ”/” **us** ”) is committed to protecting privacy. We make the website, [www.askfortask.com](http://www.askfortask.com/) (the “ **Website** ”) and the AskforTask mobile applications (the “ **AskforTask App** ”) available for download together with our services as further described in our [Terms of Use](https://web.archive.org/web/20150322082706id_/https%3A//www.askfortask.com/terms). This Privacy Policy describes how we collect, store, use and distribute information about our users of the Service. 
 
 **Consent: By using the Service you consent to the use of your Personal Information as described in this Privacy Policy**. Except as set forth in this Privacy Policy, your Personal Information will not be used for any other purpose without your consent. We will not actively collect Personal Information for the purpose of sale or marketing in a way that specifically identifies the individual (unless you give us your consent, for example in connection with testimonials or reviews on the Service) and we don’t sell customer lists. 
 
@@ -18,13 +18,13 @@ Two types of information may be collected through the Service: Personal Informat
 
 **Use of Information** : We collect information for the following purposes: 
 
-  * _Registration_ : In order to register for the Service you must provide certain Personal Information to us such as your full name and email address. You also have the option to register using your Facebook account in which event we will have access to certain information that is visible through your Facebook settings including your name, profile picture and friend list. We use your login via Facebook as a means of enabling your log in to the Service and may post to your Facebook wall according to your Facebook settings which apply when you approve AskForTask to post on your behalf. Subject to the disclosures indicated below in “Service Profiles” in general, none of your account registration information will be shared with other Users. When an Asker requests a task to be completed and a Tasker agrees to complete the task and the task is assigned, we will release information required to enable the Asker and Tasker to coordinate and get the task done. This information may include Users’ email addresses, telephone numbers and full names.
+  * _Registration_ : In order to register for the Service you must provide certain Personal Information to us such as your full name and email address. You also have the option to register using your Facebook account in which event we will have access to certain information that is visible through your Facebook settings including your name, profile picture and friend list. We use your login via Facebook as a means of enabling your log in to the Service and may post to your Facebook wall according to your Facebook settings which apply when you approve AskforTask to post on your behalf. Subject to the disclosures indicated below in “Service Profiles” in general, none of your account registration information will be shared with other Users. When an Asker requests a task to be completed and a Tasker agrees to complete the task and the task is assigned, we will release information required to enable the Asker and Tasker to coordinate and get the task done. This information may include Users’ email addresses, telephone numbers and full names.
   
 
   * _Verifications_ : We may use Personal Information submitted by Taskers to verify a Tasker’s credentials. This verification might include AFT Certification, background checks or verification of government issued IDs.
   
 
-  * _Service Profiles_ : If you register to use the Service, whether as an Asker or Tasker, a searchable public profile will be generated for you which is accessible via the Website and the AskForTask App.
+  * _Service Profiles_ : If you register to use the Service, whether as an Asker or Tasker, a searchable public profile will be generated for you which is accessible via the Website and the AskforTask App.
   
 
   * _Transactional Notifications_ : We provide notifications for certain activities relating to your use of our Services despite your indicated e-mail preferences, for example we may send you notices of any updates to our Terms of Use or Privacy Policy even if you have opted not to receive general communications from us.
