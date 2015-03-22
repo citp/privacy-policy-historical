@@ -1,96 +1,74 @@
-<!--The following is the downloaded HTML source of the menulog.com.au privacy policy that was archived on 2014-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141025024948id_/http%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the menulog.com.au privacy policy that was archived on 2015-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322183957id_/http%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-
 <title>Privacy - Menulog</title>
-
 <meta http-equiv="Content-Language" content="en-AU">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQOUVJVGwcIVlFRAgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content="Menulog’s privacy policy">
 <meta name="keywords" content="Menulog,privacy policy">
-
-
-
 <meta name="viewport" content="width=1024">
+<link rel="icon" href="//d3ixfq93fs5x5p.cloudfront.net/favicon16.ico" type="image/x-icon">
+<link rel="shortcut icon" href="//d3ixfq93fs5x5p.cloudfront.net/favicon16.ico" type="image/x-icon">
+<link rel="StyleSheet" href="//d3ixfq93fs5x5p.cloudfront.net/css/A.front.web.combined.v1.502.css.pagespeed.cf.JE_XtxLtU9.css" type="text/css">
+<script type="text/javascript">
+window._mlq = [];
+window.staticDomain = "d3ixfq93fs5x5p.cloudfront.net";
+window.ML_googleAnalyticsCodes = [];
+window.ML_googleAnalyticsCode = 'UA-698294-1';
+window.ML_googleAddressSuggestDefaultGoogleBoundsSWLAT = -43.068888;
+window.ML_googleAddressSuggestDefaultGoogleBoundsSWLONG = 111.621094;
+window.ML_googleAddressSuggestDefaultGoogleBoundsNELAT = -11.005904;
+window.ML_googleAddressSuggestDefaultGoogleBoundsNELONG = 154.819336;
+window.ML_googleAddressSuggestDefaultGoogleRegion = 'AU';
 
 
-
-<link rel="icon" href="//static.menulog.com/favicon16.ico" type="image/x-icon">
-<link rel="shortcut icon" href="//static.menulog.com/favicon16.ico" type="image/x-icon">
-
-<link rel="StyleSheet" href="//static.menulog.com/A.css,,_front.web.combined.v1.484.css+competitions,,_tta,,_css,,_tta.v1.css,Mcc.o8HOCAcnW-.css.pagespeed.cf.2Yy7--ZXVZ.css" type="text/css">
-
-
-
-
-
-
-<script type="text/javascript">window._mlq=[];window.staticDomain="static.menulog.com";window.ML_googleAnalyticsCode='UA-698294-1';window.ML_googleAddressSuggestDefaultGoogleBoundsSWLAT=-43.068888;window.ML_googleAddressSuggestDefaultGoogleBoundsSWLONG=111.621094;window.ML_googleAddressSuggestDefaultGoogleBoundsNELAT=-11.005904;window.ML_googleAddressSuggestDefaultGoogleBoundsNELONG=154.819336;window.ML_googleAddressSuggestDefaultGoogleRegion='AU';</script>
-
-<script src="//static.menulog.com/javascript/front.combined.v1.322.js.pagespeed.jm.qMh_LpTdVe.js" type="text/javascript"></script>
-
+</script>
+<script src="//d3ixfq93fs5x5p.cloudfront.net/javascript/front.combined.v1.343.js" type="text/javascript" crossorigin="anonymous"></script>
 </head>
-	<body>
-		<div id="fb-root"></div>
-                        
-                                                    <div id="takeawayPage" class="pageBody">
-        
-            <div class="header" id="takeawayHeader">
-                <div class="headerTop" id="takeawayHeaderTop">
-                    <div class="logoTakeaway"><a href="/"><img src="//static.menulog.com/images/logos/en/logo_takeaway.png" alt="Menulog takeaway logo"></a></div>
-                    <div class="headerRight">
-    <ul class="takeawayBullets">
-        <li><span class="sprite green_chef_hat2x"></span> 4200+ RESTAURANTS</li>
-        <li><span class="sprite green_chef_hat2x"></span> SMS CONFIRMATION</li>
-        <li><span class="sprite green_chef_hat2x"></span> FREE TO USE</li>
-    </ul>
-        <div class="sprite slogan slogan2x"></div>
-        
-    <div id="bestPricePolicyWrapper">
-        <a href="#" id="bestPricePolicyIconLink">
-            <span class="sprite price_policy2x"></span>
-        </a>
-    </div>
-    <div id="bestPricePolicyContent">
-        <h1>Why does take away &amp; food delivery ordering through Menulog cost less?</h1>
-        <p>Menulog does not mark up restaurant prices, nor charge customers any service fees over and above what the restaurant charges. Our customers get a better deal because many of our restaurants offer:</p>
-        <ul>
-        	<li><span>•</span> First customer discounts of up to 35%</li>
-        	<li><span>•</span> Loyalty discounts<br>(e.g. Order 7 times, 8th is free)</li>
-        	<li><span>•</span> Plus thousands of other specials</li>
-        </ul>
-        <p class="noSpaceBelow">If you order from Menulog and then find the same item under the same terms advertised by the restaurant within 24 hours, we will credit you the price difference plus an additional $5 for that order.</p>
-    </div>
+<body>
+<div id="fb-root"></div>
+<div id="takeawayPage" class="pageBody">
+<div class="header">
+<div class="headerTop">
+<div class="logoTakeaway"><a href="/"><img src="//d3ixfq93fs5x5p.cloudfront.net/images/logos/en/xlogo_takeaway.png.pagespeed.ic.jAClWSqHEy.png" alt="Menulog takeaway logo"></a></div>
+<div class="headerRight">
+<ul class="takeawayBullets">
+<li><span class="sprite green_chef_hat2x"></span> 5000+ RESTAURANTS</li>
+<li><span class="sprite green_chef_hat2x"></span> SMS CONFIRMATION</li>
+<li><span class="sprite green_chef_hat2x"></span> FREE TO USE</li>
+</ul>
+<div class="sprite slogan slogan2x"></div>
+<div id="bestPricePolicyWrapper">
+<a href="#" id="bestPricePolicyIconLink">
+<span class="sprite price_policy2x"></span>
+</a>
+</div>
+<div id="bestPricePolicyContent">
+<h1>Why does take away &amp; food delivery ordering through Menulog cost less?</h1>
+<p>Menulog does not mark up restaurant prices, nor charge customers any service fees over and above what the restaurant charges. Our customers get a better deal because many of our restaurants offer:</p>
+<ul>
+<li><span>•</span> First customer discounts of up to 35%</li>
+<li><span>•</span> Loyalty discounts<br>(e.g. Order 7 times, 8th is free)</li>
+<li><span>•</span> Plus thousands of other specials</li>
+</ul>
+<p class="noSpaceBelow">If you order from Menulog and then find the same item under the same terms advertised by the restaurant within 24 hours, we will credit you the price difference plus an additional $5 for that order.</p>
+</div>
 </div> <!-- .headerRight -->
 <div class="contentEnd"></div>
-
-                    </div> <!-- #headerTop -->
-                    <div class="takeawayNavWrapper1">
-    <div class="takeawayNavWrapper2">
-        <div class="takeawayNavWrapper3">
-                        <div id="takewayNavRight">
-                <ul>
-                                    <li><a id="link_login" href="#" class="jsLoginPopover"><strong>LOGIN</strong></a></li>
-                                </ul>
-                <ul id="template_myAccountNavs">
-                    <li><a href="accounts/my_orders.php">My Orders</a></li>
-                    <li><a href="accounts/my_details.php">My Details</a></li>
-                    <li><a href="accounts/logout.php"><strong>Logout</strong></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
+</div>
+<div class="generalNav">
+<ul class="right">
+<li><a id="link_login" href="#" class="jsLoginPopover">Login</a></li>
+</ul>
 </div>
 <div class="contentEnd"></div>
-
-                
-        </div>
-                
-        
-        <div class="content">
-            
-        	<div class="show_page contentBody">
+</div>
+<div class="content">
+<div class="show_page contentBody">
+<div class="infoBar">
+<div class="contentEnd"></div>
+</div>
 <div id="show_page_52"><h1>Privacy &amp; Security</h1>
 <span style="font-weight: bold; font-size:16px">1. Introduction</span><br><br>
 <div style="margin-left: 40px;">1.1&nbsp;&nbsp;&nbsp; Menulog is committed to ensuring the privacy and security of all information collected from our users. In accordance with the privacy legislation applicable in Australia, this Privacy Policy outlines the information collection practices utilised by Menulog, how that information is used and the choices you can make about the way the information you provide to us is collected and used. By using this website, you agree to and consent to the collection, use and disclosure of personal information by Menulog as set out in this policy.<br></div>
@@ -111,77 +89,41 @@
 <div style="margin-left: 40px;">(a) To send you marketing material for goods or services we think might interest you (whether or not related to your application);<br>(b) For administration purposes (including but not limited to processing your home delivery order or restaurant booking);<br>(c) For such other purposes as we shall in our discretion determine, including for our commercial advantage<br><br></div>
 3.5 It is a condition of your use of the Menulog website that you agree to allow your data to be disclosed to these third parties and for them to establish contact with you. If at any point in time you would like your saved data to be deleted from our system, please contact us and we will arrange to have your records deleted from our database. <br><br>3.6 As a user of our service, you may occasionally receive email or SMS updates from us about new products or services being offered by Menulog, along with newsletters, noteworthy changes to the website and any other material we deem relevant. You can always unsubscribe and opt out from receiving these messages. <br><br>3.7 Unless otherwise prohibited by law or our contractual obligations, we may disclose personal information if required to do so by law, court order, or as requested by a governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable. Such situations may include: to perform, maintain or enforce contracts with our users or suppliers; to protect the rights or properties of Menulog, our business affiliates, our users, or others; or when we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be causing, or who may be threatening to cause, interference with or damage to our rights or properties, whether intentionally or otherwise; or when anyone else could be harmed by such activities. <br><br>3.8 Like most websites, there is certain information we automatically track, including the URL that you just came from, the browser you are using and your IP address. This data is utilised to improve the services of Menulog and does not include any personally identifying information.<br></div>
 <br><br><span style="font-weight: bold;font-size:16px">4. Opting Out of Promotional Information</span><br><br>We at Menulog work hard to provide our clients with the best possible service at all times. From time to time, we will send our members newsletters, updates and other useful information. We hope that you will find these items informative and useful. However, should you choose to not receive them in the future, you will have the ability to unsubscribe from the mail database by following the Unsubscribe instructions at the bottom of each email. <br><br><br><span style="font-weight: bold;font-size:16px">5. Security of Your Personal Information and Cookies</span><br><br>
-<div style="margin-left: 40px;">5.1 All user details captured by Menulog are stored securely at all times and will never be provided to any unauthorised third parties. While being transmitted over the Internet, all credit card details are protected using SSL (Secure Socket Layer) encryption. Menulog has been verified for security and compliance to SSL standards by Comodo, an independent third party. Credit card details are handled by a 3rd party Payment Gateway called Direct Payment Solutions (DPS), a leading PCI Compliant Provider of secure credit card processing solutions. Menulog will never save your actual credit card details. We will simply save a reference to your card, which is called a token.&nbsp; This token is provided to us by our Payment Gateway.&nbsp; Saving the token means that for future credit card transactions we can give you the option to charge the same card you used previously without having to re-enter the card details. You will still need to enter your Menulog password to use this credit card. If, at any time, you wish the token to be removed please email us at enquiries@menulog.com and we will have these removed.&nbsp; In that case you would need to re-enter your card details on the next order.&nbsp; For the avoidance of doubt, Menulog will not in any circumstances be liable to you, or third parties, for loss or damage arising from credit card fraud or identity theft.<br></div>
+<div style="margin-left: 40px;">5.1 All user details captured by Menulog are stored securely at all times and will never be provided to any unauthorised third parties. While being transmitted over the Internet, all credit card details are protected using SSL (Secure Socket Layer) encryption. Menulog has been verified for security and compliance to PCI standards by Vectra Corporation, an independent third party. Credit card details are handled by a 3rd party Payment Gateway called Direct Payment Solutions (DPS), a leading PCI Compliant Provider of secure credit card processing solutions. Menulog will never save your actual credit card details. We will simply save a reference to your card, which is called a token.&nbsp; This token is provided to us by our Payment Gateway.&nbsp; Saving the token means that for future credit card transactions we can give you the option to charge the same card you used previously without having to re-enter the card details. You will still need to enter your Menulog password to use this credit card. If, at any time, you wish the token to be removed please email us at enquiries@menulog.com and we will have these removed.&nbsp; In that case you would need to re-enter your card details on the next order.&nbsp; For the avoidance of doubt, Menulog will not in any circumstances be liable to you, or third parties, for loss or damage arising from credit card fraud or identity theft.<br></div>
 <br>
 <div style="margin-left: 40px;">5.2 "Cookies" are pieces of information that our web page transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard and many Web sites use them to provide useful features for you. Cookies in and of themselves do not personally identify you, only your computer. <br><br></div>
 <div style="margin-left: 40px;">5.3 We may, from time to time, use "cookies" to store your preferences, record session information and collect information on how you visit and access our webpages. We collect information on the Web pages visited by our customers in order to help us to continue improving our services. <br></div>
 <br><span style="font-weight: bold;font-size:16px"><br>6. Access to Your Personal Information and Complaints Procedure</span><br><br>
-<div style="margin-left: 40px;">6.1 You may request access to your personal information in our customer account database, or seek correction of it, by contacting our customer service team.<br><br>6.2 If you believe that Menulog holds personal information about you in our customer account database that is not accurate, complete, up-to-date, relevant or information that is misleading then you may request its amendment and Menulog will respond to your request within a reasonable time. Menulog will not charge you for correcting your personal information.<br><br>6.3 If Menulog no longer needs your personal information for any the purposes set out in this policy, or as otherwise required by law, Menulog will take such steps as are reasonable in the circumstances to destroy the information or to de-identify it.<br><br>6.4 Menulog will take reasonable steps to protect the personal information it holds from misuse, interference and loss and from unauthorised access, modification or disclosure.<br><br>If you require your details to be changed please email <span style="font-weight: bold;">enquiries@menulog.com</span> or call <span style="font-weight: bold;">1300 664 335 </span><br><br>6.5 to make a complaint about a breach of the Australian Privacy principles, which include how we handle your personal information, you may contact us&nbsp; with the details provided in clause 6.4 above. We will endeavour to respond to your complaint within a reasonable time after it is received. If you require further information regarding privacy it can be found at the Office of the Australian Information Commissioner<br><br>6.6 This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Menulog or would like more information, please contact us using the details displayed in the About Us section of our website.<br></div></div>    </div>
-
+<div style="margin-left: 40px;">6.1 You may request access to your personal information in our customer account database, or seek correction of it, by contacting our customer service team.<br><br>6.2 If you believe that Menulog holds personal information about you in our customer account database that is not accurate, complete, up-to-date, relevant or information that is misleading then you may request its amendment and Menulog will respond to your request within a reasonable time. Menulog will not charge you for correcting your personal information.<br><br>6.3 If Menulog no longer needs your personal information for any the purposes set out in this policy, or as otherwise required by law, Menulog will take such steps as are reasonable in the circumstances to destroy the information or to de-identify it.<br><br>6.4 Menulog will take reasonable steps to protect the personal information it holds from misuse, interference and loss and from unauthorised access, modification or disclosure.<br><br>If you require your details to be changed please email <span style="font-weight: bold;">enquiries@menulog.com</span> or call <span style="font-weight: bold;">1300 664 335 </span><br><br>6.5 to make a complaint about a breach of the Australian Privacy principles, which include how we handle your personal information, you may contact us&nbsp; with the details provided in clause 6.4 above. We will endeavour to respond to your complaint within a reasonable time after it is received. If you require further information regarding privacy it can be found at the Office of the Australian Information Commissioner<br><br>6.6 This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Menulog or would like more information, please contact us using the details displayed in the About Us section of our website.<br></div></div>	</div>
 </div>
-
-
-<div class="contentEnd"></div>
 <div class="footer">
-	<div class="footerTop">
-		<ul class="footerNav">
-            
-            <li class="first"><a href="browse">Browse</a></li>
-            <li><a href="about_menulog" rel="nofollow">About</a></li>
-                        <li><a href="blog">Blog</a></li>
-                        <li><a href="apps.php">Mobile Apps</a></li>
-                        <li><a href="vouchers" rel="nofollow">Gift Vouchers</a></li>
-                        <li><a href="menulog_privacy" rel="nofollow">Privacy</a></li>
-            <li><a href="menulog_terms_of_use" rel="nofollow">Terms</a></li>
-            <li><a href="take_away_affiliate_program" rel="nofollow">Affiliates</a></li>
-            <li><a href="accounts/sign_up.php" rel="nofollow">Sign Up</a></li>
-            <li><a href="latest_takeaway_reviews">Reviews</a></li>
-            <li><a href="competitions/results.php">Competitions</a></li>
-            <li><a href="takeaway_testimonials">Testimonials</a></li>
-            <li class="last"><a href="take_away_corporate" rel="nofollow">Corporates</a></li>
-        </ul>
-        <div class="copyright">
-            Copyright © 2014 Menulog. All rights reserved.
-        </div>
-        <div class="contentEnd"></div>
-        <div class="footerLine2">
-            <div class="left">
-                <a target="_blank" href="http://ad.apps.fm/OTFzjPDbhps9KHRA_Tk73PE7og6fuV2oOMeOQdRqrE1pCQdANRFHCgJl4ux1QLmidvx3nKbZ5_Q-0dyY13bh47MnhMvyGGWVwI8As80GS1I" class="appLinksFooter" rel="nofollow">
-                    <img alt="download menulog iphone app" src="//static.menulog.com/images/general/ios_app_store.png"> 
-                </a>
-        	    <a target="_blank" href="http://ad.apps.fm/wK15CFPb0n491EKECxawxV5KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYfOrNSOSR3EuoB_IIEsY7_bZE82DMF9WZEPnlt1SlFKRk" class="appLinksFooter" rel="nofollow">
-                    <img alt="download menulog iphone app" src="//static.menulog.com/images/general/android_play_store.png"> 
-                </a>
-                <a href="join_takeaway_section" id="addRestaurantFooter">ADD A RESTAURANT</a>
-            </div>
-            <div class="right" id="footerRight">
-                                <div id="fbLikeFooter">
-                    <iframe class="deferLoading" data-src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FMenulog.com.au&amp;send=false&amp;layout=button_count&amp;width=87&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:87px; height:21px;" allowtransparency="true"></iframe>
-                </div>
-        	    <a target="_blank" class="outboundLink footerSocialIcons" href="https://www.facebook.com/Menulog.com.au" rel="nofollow">
-                    
-                    <span class="sprite facebook2x"></span>
-                </a>
-        	            	    <a target="_blank" class="outboundLink footerSocialIcons" href="https://twitter.com/#!/Menulog" rel="nofollow">
-                    
-                    <span class="sprite twitter2x"></span>
-                </a>
-                <a target="_blank" href="https://plus.google.com/105250872482074561424?prsrc=3" rel="publisher" style="text-decoration:none;" class="outboundLink footerSocialIcons">
-                    
-                    <span class="sprite google_plus2x"></span>
-                </a>
-            </div>
-        </div>
-        <div class="contentEnd"></div>
-        
-		</div>
-		
-	</div>
-    <div class="contentEnd"></div>
-
-
-    </div>
-<script type="text/javascript">_mlq.push(['analytics_trackPageview',"australia/www.menulog.com.au/takeaway/view_page?loggedIn=0&isMissingHeader=0&url=%2Fmenulog_privacy%3FpageId%3D52"]);</script>
-<div class="core-popoverBox core-popoverNoTitle core-popoverHelper  core-popover core-popoverFocused" id="underMaintenanceTakeaway_FullShutDown" style="display:none"><div class="core-contentBox core-contentBoxNoTitle"><p style="font-weight: bold;text-align:center" class="core-last core-spaceForCloseX">We're sorry. We cannot accept orders at the moment for technical reasons. <br>Please return back shortly to place your order.</p></div></div><div class="core-popoverBox core-popoverNoTitle core-popoverHelper  core-popover core-popoverFocused" id="underMaintenanceTakeaway_PartialShutDown" style="display:none"><div class="core-contentBox core-contentBoxNoTitle"><p style="font-weight: bold;text-align:center" class="core-last core-spaceForCloseX">We're sorry. We cannot accept orders for this venue at the moment.<br> Please return back shortly to place your order OR search for an <a href="/">available venue in your area</a>.<br>  Available venues will NOT be faded out in our search results</p></div></div><div class="core-popoverBox" style="display: none; top: 50%; left: 50%; margin-top: -50px;margin-left: -50px; width:100px; position: fixed; height: 100px; width: 100px;background-color: #FFF;" id="ajaxLoading"><img src="//static.menulog.com/images/general/ajax-loader.gif" alt="loading" style="display: inline-block; margin-left: 3px; margin-top: -10px"></div>
-<img class="deferLoading" data-src="//fast.fonts.net/t/1.css?apiType=css&amp;projectid=4b32c591-5ab1-4e18-80e2-6d571d57d71c" style="width:1px;height:1px;display:none"><script type="text/javascript">_mlq.push(["loadDeferredScripts"]);</script>	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"cf443f92bc","applicationID":"4820359,4768167","transactionName":"Z1dTYksCCxBQBxJQDl4dZERQTBYLXhM5SQBXVx9GURM=","queueTime":0,"applicationTime":56,"ttGuid":"","agentToken":"","atts":"SxBQFAMYGB4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<div class="footerTop">
+<ul class="footerNav">
+<li class="first"><a href="browse#dining">Browse</a></li>
+<li><a href="about_menulog">About Us</a></li>
+<li><a href="menulog_privacy">Privacy</a></li>
+<li><a href="menulog_terms_of_use">Terms of Use</a></li>
+<li><a href="take_away_affiliate_program">Affiliate Program</a></li>
+<li><a href="accounts/sign_up.php">Sign Up</a></li>
+<li><a href="latest_dining_out_reviews">Reviews</a></li>
+<li><a href="takeaway_testimonials">Testimonials</a></li>
+<li><a href="vouchers">Gift Vouchers</a></li>
+<li class="last"><a href="take_away_corporate">Corporate Benefits</a></li>
+</ul>
+<p class="copyright">
+Copyright © 2015 Menulog. All rights reserved.
+</p>
+<div class="contentEnd"></div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+_mlq.push(['analytics_trackPageview' ,"australia/www.menulog.com.au/takeaway/view_page?loggedIn=0&isMissingHeader=0&url=%2Fmenulog_privacy%3FpageId%3D52"]);
+</script>
+<div class="core-popoverBox core-popoverNoTitle core-popoverHelper  core-popover core-popoverFocused" id="underMaintenanceTakeaway_FullShutDown" style="display:none"><div class="core-contentBox core-contentBoxNoTitle"><p style="font-weight: bold;text-align:center" class="core-last core-spaceForCloseX">We're sorry. We cannot accept online orders at the moment for technical reasons.<br>Please return back shortly to place your order OR order by phone.</p></div></div><div class="core-popoverBox core-popoverNoTitle core-popoverHelper  core-popover core-popoverFocused" id="underMaintenanceTakeaway_PartialShutDown" style="display:none"><div class="core-contentBox core-contentBoxNoTitle"><p style="font-weight: bold;text-align:center" class="core-last core-spaceForCloseX">We're sorry. We cannot accept online orders at the moment for technical reasons.<br>Please return back shortly to place your order OR order by phone.</p></div></div><div class="core-popoverBox" style="display: none; top: 50%; left: 50%; margin-top: -50px;margin-left: -50px; width:100px; position: fixed; height: 100px; width: 100px;background-color: #FFF;" id="ajaxLoading"><img src="//d3ixfq93fs5x5p.cloudfront.net/images/general/ajax-loader.gif" alt="loading" style="display: inline-block; margin-left: 3px; margin-top: -10px"></div>
+<img class="deferLoading" data-src="//fast.fonts.net/t/1.css?apiType=css&amp;projectid=4b32c591-5ab1-4e18-80e2-6d571d57d71c" style="width:1px;height:1px;display:none"><script type="text/javascript">
+                    _mlq.push(["loadDeferredScripts"]);
+                </script><div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1001209634/?value=0&amp;guid=ON&amp;script=0">
+</div>	
+</body></html>
