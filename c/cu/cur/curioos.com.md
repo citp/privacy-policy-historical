@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curioos.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123090446id_/http%3A//www.curioos.com/Pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curioos.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322140325id_/https%3A//www.curioos.com/Pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # Curioos | Exclusive Art Prints by the world's finest Digital Artists
 
