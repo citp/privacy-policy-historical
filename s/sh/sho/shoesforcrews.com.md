@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoesforcrews.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706040431id_/https%3A//www.shoesforcrews.com/sfc3/index.cfm%3FchangeWebsite%3DUS_en%26route%3Dinserts.Customer_Service/InternetPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoesforcrews.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322110755id_/https%3A//www.shoesforcrews.com/sfc3/index.cfm%3FchangeWebsite%3DUS_en%26route%3Dinserts.Customer_Service/InternetPrivacy) for the most accurate reproduction.*
 
 # SHOES FOR CREWS® - The Shoe That Grips® : Slip-Resistant Footwear, Mats and Overshoes
 
