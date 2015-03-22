@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbrickhealth.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704174346id_/https%3A//home.redbrickhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbrickhealth.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322221535id_/https%3A//home.redbrickhealth.com/privacy) for the most accurate reproduction.*
 
 # RedBrick Health – Privacy Policy
 
