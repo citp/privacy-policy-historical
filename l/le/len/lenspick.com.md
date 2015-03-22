@@ -1,78 +1,76 @@
-> *The following text is extracted and transformed from the lenspick.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210011146id_/http%3A//www.lenspick.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenspick.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322031401id_/https%3A//www.lenspick.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We value the trust you place in [lenspick.com](http://pinkculture.in/). That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
+**Privacy Policy**
 
-**Note** : Our privacy policy is subject to change at any time. To make sure you are aware of any changes, please review this policy periodically.
+**1\. SECURITY AND PRIVACY**
 
-[lenspick.com](http://pinkculture.in/) is operated by Lens Pick as a sole proprietary concern; all references to " [lenspick.com](http://pinkculture.in/) ", " Lens Pick", "we", or "us", include Lens Pick and its subsidiaries.
+  **Lens Pick** Online Services Private Limited, a private limited company duly incorporated under the provisions of the Companies Act, 1956 (hereinafter referred to as ‘Company’), Company knows that You (a visitor or a registered user) care how information about You is used and shared, and we appreciate Your trust that we will do so carefully and sensibly. We let you retain as much control as possible over your personal information. However, you may not visit and use our site at any time without telling us who you are or revealing the required information about yourself. To the Company. Our most important asset is our relationship with you. We are committed to maintaining the confidentiality, integrity and security of any personal information about our users of our site. We are proud of our privacy practices and the strength of our site security and want you to know how we protect your information and use it to provide to you the services. This notice describes our privacy policy. By visiting this Website, You are accepting the practices described in this Privacy Policy.
 
-  **Creation of Account**
+  **1.** **Information You Give Us** : We receive any information you enter on our Website or give us in any other way, which is stored on the Company’s secure servers. To clarify, personal information means and includes name, email, website user account log in ID and password, mobile and landline phone numbers, gender, DOB, address, gift message and eye prescription, but excludes any Credit Card, Debit Card or Net-Banking Details, all of which are stored on the Company’s secure servers and/or in cookies on your computer.
 
- To access and use some sections on Lenspick.com that are restricted only to registered users, you need to create an account on [Lenspick.com](http://pinkculture.in/)
+  You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that You provide for such purposes as responding to your requests, customizing future commercial transactions, and communicating with You and utilizing/disclosing, without prejudice to any of Your other rights, the same for any other, whether commercial or non-commercial purpose which the Company in its sole discretion considers necessary for its business purposes or otherwise.
 
-  *  To create an account we need your email address, which could then be used to login to [Lenspick.com](http://pinkculture.in/)
-  *  You have to accept the “terms of service” before creating an account on Lenspick.com
+  You can add or update certain information. When you update information, we usually keep a copy of the prior version for our records.
 
+  **2\. Automatic Information** **:** We receive and store certain types of information whenever You interact with us. Our server logs your activities for various diagnostic and analytical purposes. However, other than the IP address of your machine from where you are accessing the Service, there are no other personal information maintained by the Company in the logs.
 
+  **3\. E-mail Communications** : To help us make e-mails more useful and interesting, we may request to receive a confirmation when You open e-mail from Your end if Your computer supports such capabilities.
 
-Invitations to join [Lenspick.com](http://pinkculture.in/)
+  **4\. Sharing of Information Received by the Company:** You can tell when another business is involved along with us in processing Your transactions, and we share, use or, disclose customer information related to processing of those transactions with that business as needed to fulfill your order
 
-· Email addresses to which invitation(s) are sent, are stored in the system for logging purposes.
+  **5.Business Transfers:** As we continue to develop our business, we might be acquired completely or merge with any other company. In such transactions, customer information generally is one of the transferred business assets. In such a case, we will ensure the protection of Your information as per these policies and guidelines. You hereby specifically consent and grant permission to the disclosure, and transferring, of information to such third parties.
 
-· We may use these email addresses to send periodic notifications about the service. Receivers can opt out and will never be sent any email from Lenspick.com
+  **6\. Protection of the Company and Others:** We release account and other personal information when we believe release is appropriate to comply with law; to enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Company, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and other similar matters. You hereby specifically consent and grant permission to disclosure and transferring of information to such third parties, as maybe required.
 
-Personal information
+  **2\. SECURITY OF INFORMATION**    
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software during the part where you enter your credit card or net banking details, which encrypts information You input. We constantly re-evaluate our privacy and security policies and adapt them as necessary to deal with new challenges. We do not and will not sell or rent Your personal information to anyone, for any reason, at any time, unless it is in (i) in response to a valid legal request by a law enforcement officer or government agency or (ii) where You have given Your consent, or (iii) utilize the same for some statistical or other representation without disclosing personal data.
 
-· We ask for some personal information when you create a Lens Pick account, including your email address and a password, which is used to protect your account from unauthorized access.
+  The information collected from you will be stored on the Company’s secured server and systems. The Company maintains secure and reasonable security practices and procedures which are proprietary and unique to the Company (“Security Practice”). Such Security Practice involves measures such as but not limited to password protection, limitation of access to specified personnel on a need to know basis, and security measures including encryption if required and other physical security measures to guard against unauthorized access to the server and systems and information residing on such server and systems. The Company’s Security Practice protects against unauthorized access to, or unauthorized alteration, disclosure or destruction of the information. The Company’s Security Practice contains managerial, technical, operational and physical security control measures which are commensurate with the information assets being protected and with the nature of business. You acknowledge and agree that the Security Practice and procedures as mentioned above are reasonable and are designed to protect the information provided by you.
 
-· To provide you with access to the appropriate Network, we will require you to provide the name and contact information described above, and may also request that you update or verify this information from time to time. By using the Site, you agree to provide accurate information, and to cooperate with any Lens Pick  personnel to ensure accuracy.
+  We only reveal those numbers of your account as required to enable us to access and provide you the required services relating to your accounts.
 
-·  As an Lens Pick  user, you can create a profile that includes personal information, such as your gender, age, occupation, hobbies, and interests, plus other content, such as photos. This information may be accessed and viewed by other members belonging to your private communities, as determined by your privacy settings.
+  We make every effort to allow you to retain the anonymity of your personal identity and You are free to choose a Login ID email address and password that keeps Your personal identity anonymous. Access to Your Registration Information and your personal financial data is strictly restricted to those of our Company employees and contractors, strictly on a need to know basis, in order to operate, develop or improve the Service. These employees or contractors may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-· When you send messages through Lens Pick, we collect and maintain information associated with those messages, including email addresses and content.
+  With the exception of a Login ID in the form of an email address, which may be provided on an anonymous basis, and Your Third Party Account Information, which is required for providing the services, the Company does not require any information from you that might constitute personally identifiable information.
 
-·  When you send and receive SMS messages to or from the Lens Pick website, we collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction, for logging purposes.
+  It is important for you to protect against unauthorized access to Your password and to Your computer. Be sure to sign off when finished using a shared computer.
 
-· We take the privacy of our users very seriously.
+  As described in this Agreement and with your consent, the Company will from time to time connect electronically to your online bank, credit card and other online financial accounts to process Your Order.
 
-· We will never sell, rent, or share your personally identifiable information to any third parties for marketing purposes.
+  Company will also use other third parties like courier companies to deliver products that you order on our website, to your delivery address.
 
-· Lens Pick will have a right to use the information to provide personalised advertisements and offers, or to include that information in compilations developed by Lens Pick, or to develop derivative works based on that information.
+  
+**3\. CONDITIONS OF USE, NOTICES, AND REVISIONS**    
+Please do read the detailed terms and conditions of the Company’s Website situated at terms and conditions. If you choose to visit this Website, Your visit and any dispute over privacy is subject to this Agreement, including limitations on damages, arbitration of disputes, and application of the law of the Republic of India. If you have any concern about privacy at this Website, please send us a thorough description to support@lenspick.com and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of Website Use may also change, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but You should check our Website frequently to see recent changes.
 
-**General Provisions**
+  **4\. GRIEVANCE OFFICER**  
+ The Company would be glad to provide assistance to you in case You have any queries or have any issues pertaining to this Security and Privacy policy. Kindly contact **Mr. Subendra** at subendra.k@yahoo.com
 
-By agreeing to post a “designer wear” listing or requirement at lenspick.com or responding to and advertising on lenspick.com or by using the services of lenspick.com, the user hereby acknowledges and allows lenspick.com,its partners and other users of the site to get in touch with him/her from time to time for intimating the users on events, potential buyers they might be interested in. This could include offers to upgrade to premium services, information, as well as promotions. lenspick.com can use the user's email address and/or contact numbers for this purpose irrespective of the user's registration with the "National Do Not Call Registry" and will override any such registrations.
+**5\. LIST OF COOKIES WE COLLECT**    
+The table below lists the cookies we collect and what information they store.
 
-**E-mails and Opt-out**
-
-You may opt-out of receiving notifications from us by changing your notification settings under the "Settings" tab after you log on to lenspick.com. Unregistered users who receive e-mails from us may also opt-out of receiving further e-mails by following the instructions contained in our e-mails. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.
-
-**Security**
-
-Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and designers who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on lenspick.com, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.
-
-You hereby acknowledge that lenspick.com is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
-
-**Contacting us:**
-
-You can email us on [contact@lenspick.com](http://contact@%20pinkculture.in/) or [support@lenspick.com](http://support@%20pinkculture.in/)
-
-**Our office address**
-
-**Lens Pick**
-
-Plot no: 26,
-
-Nagarjuna Hills,
-
-Panjagutta,
-
-Hyderabad.
-
-Phone: 040 6666 7676
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification dated
+  COOKIE NAME                                     COOKIE Description  
+CARTS                                                  the association with your shopping cart.  
+CATEGORY INFO                                  Stores the category info on the page, that allows to display pages more quickly  
+COMPARE                                            The items that you have in the Compare Products list.  
+CUSTOMER                                           An encrypted version of your customer id with the store.  
+CUSTOMER AUTH                                 An indicator if you are currently logged into the store.  
+EXTERNAL NO CACHES                        A flag, which indicates whether caching is disabled or not.  
+FRONTEND                                           You session ID on the server.  
+GUEST VIEW                                        Allows guests to edit their orders.  
+LAST CATEGORY                                 The last category you visited.  
+LAST PRODUCT                                    The most recent product you have viewed.  
+NEW MESSAGE                                   Indicates whether a new message has been received.  
+NO CACHE                                           Indicates whether it is allowed to use cache.  
+PERSISTENT SHOPPING CARTS          A link to information about your cart and viewing history if you have asked the site.  
+POLL                                                    The ID of any polls you have recently voted in.  
+POLLN                                                  Information on what polls you have voted on.  
+RECENTLY COMPARED                        The items that you have recently compared.  
+STF                                                       Information on products you have emailed to friends.  
+STORE                                                  The store view or language you have selected.  
+USER ALLOWED SAVE COOKIE            Indicates whether a customer allowed using cookies.  
+VIEWED PRODUCT IDS                         The products that you have recently viewed.  
+WISH LIST                                             An encrypted list of products added to your Wish list.  
+WISH LIST CNT                                      The number of items in your Wish list.
