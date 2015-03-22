@@ -1,243 +1,442 @@
-<!--The following is the downloaded HTML source of the transfergo.com privacy policy that was archived on 2014-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141008212519id_/https%3A//transfergo.com/en/stat/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the transfergo.com privacy policy that was archived on 2015-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322053154id_/https%3A//transfergo.com/en/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg4PWVRSGwEBUlRaAgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,o){t&&t(e,n,o),o||(o={});for(var a=i(e),s=a.length,c=o[r]||(o[r]={}),f=0;s>f;f++)a[f].apply(c,n);return c}function o(t,e){s[t]=i(t).concat(e)}function i(t){return s[t]||[]}function a(){return n(e)}var s={};return{on:o,emit:e,create:a,listeners:i,_events:s}}var r="nr@context";e.exports=n()},{}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:15,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o);if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var a=document;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&n(a);for(var s=XMLHttpRequest.prototype;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=i(e,"fn-",null,e.name||"anonymous"):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:16,ee:"QJf3ax"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:16,2:15,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:16,2:15,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",r)}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:16,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(1),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(2);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:9,2:12,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],12:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],15:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],16:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper";e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,f,u;try{i=this,n=o(arguments),f=r&&r(n,i)||{}}catch(d){c([d,"",[n,i,a],f])}s(e+"start",[n,i,a],f);try{return u=t.apply(i,n)}catch(p){throw s(e+"err",[n,i,p],f),p}finally{s(e+"end",[n,i,u],f)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,nrWrapper)}function a(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function s(e,n,r){try{t.emit(e,n,r)}catch(o){c([o,e,n,r])}}function c(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=a,e.flag=i,e}},{1:15,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-    <title>International Money Transfer Online | TransferGo.com</title>
-    <meta name="description" content="Send money within Europe. Next business day delivery guarantee for a fixed fee of €3. Start Saving Money Now! Easiest way to send money from/to United Kingdom, Norway, Germany, Ireland, Poland, Lithuania, Latvia and more.">
-    <style>
-        html, body, div, span, applet, object, iframe,
-        h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-        a, abbr, acronym, address, big, cite, code,
-        del, dfn, em, img, ins, kbd, q, s, samp,
-        small, strike, strong, sub, sup, tt, var,
-        b, u, i, center,
-        dl, dt, dd, ol, ul, li,
-        fieldset, form, label, legend,
-        table, caption, tbody, tfoot, thead, tr, th, td,
-        article, aside, canvas, details, embed,
-        figure, figcaption, footer, header, hgroup,
-        menu, nav, output, ruby, section, summary,
-        time, mark, audio, video {
-            margin: 0;
-            padding: 0;
-            border: 0;
-            font-size: 100%;
-            font: inherit;
-            vertical-align: baseline;
-        }
+<!DOCTYPE html><html lang="en"><head>
+        <meta charset="UTF-8">
+    <title>Privacy policy</title>
+    <link rel="shortcut icon" href="https://transfergo.com/favicon.ico">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="generator" content="ImpressPages">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/Colorbox/assets/theme2/colorbox.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/HeroCard/assets/public.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/CenteredImage/assets/CenteredImage.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/Trustpilot/assets/trustpilot.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/Steps123/assets/steps123.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/HelpBlock/assets/helpBlock.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/FaqWidget/assets/faq.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/ReferralsWidget/assets/referrals.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/ReferralsWidget/assets/tabs.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/SendMoney/assets/sendMoney.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/MobileHide/assets/mobilehide.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Plugin/JobWidget/assets/job.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Theme/TransferGo/assets/theme.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Theme/TransferGo/assets/transfergo.css?54" rel="stylesheet" type="text/css">
+    <link href="//d1mubwxjmumlr1.cloudfront.net/Theme/TransferGo/assets/responsive.css?54" rel="stylesheet" type="text/css">
 
-        h1 {
-            font-size: 2em;
-            margin: 0.67em 0;
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PCJ5ZF"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg4PWVRSGwEBUlRaAgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var c=e(o);c&&(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u>d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),c=this,d=r&&r(a,c)||{}}catch(f){i([f,"",[a,c,s],d])}o(e+"start",[a,c,s],d);try{return n=t.apply(c,a)}catch(p){throw o(e+"err",[a,c,p],d),p}finally{o(e+"end",[a,c,n],d)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="//d1mubwxjmumlr1.cloudfront.net/Theme/TransferGo/assets/ie.css"/>
+    <![endif]-->
+            <script type="text/javascript" src="//use.typekit.net/irg7nsn.js"></script>
+        <script type="text/javascript">
+        try {
+            Typekit.load();
+        } catch (e) {
         }
-
-        h2 {
-            font-size: 1.5em;
-            margin: 0.83em 0;
-        }
-
-        h3 {
-            font-size: 1.17em;
-            margin: 1em 0;
-        }
-
-        html {
-            font-size: 100%; /* 1 */
-            -webkit-text-size-adjust: 100%; /* 2 */
-            -ms-text-size-adjust: 100%; /* 2 */
-        }
-
-        .container {
-            margin: 0;
-            padding: 0;
-            margin: 20px;
-            width: 500px;
-        }
-
-        .bold {
-            font-weight: bold;
-            color: black;
-        }
-
-        body {
-            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-        }
-
-        h1 {
-            font-size: 17px;
-            font-weight: bold;
-            line-height: 17px;
-            color: #036;
-        }
-
-        h2 {
-            font-size: 14px;
-            line-height: 14px;
-            margin-top: -.5em;
-            color: black;
-        }
-
-        h3 {
-            color: #39F;
-        }
-
-        p, ul {
-            color: #999;
-            font-size: 12px;
-        }
-
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-            margin-top: 10px;
-        }
-    </style>
+    </script>
 </head>
-
 <body>
-<div class="container">
-    <h1>TransferGo Privacy Policy</h1>
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe
+        src="//www.googletagmanager.com/ns.html?id=GTM-PCJ5ZF"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PCJ5ZF');</script>
+<!-- End Google Tag Manager -->
 
-    <h2>Effective Date: 01 August 2012, Middlesbrough, UK</h2>
+<div class="wrapper">
 
-    <p>
-        We have written this policy to explain how <span class="bold">Transfergo Ltd ("we", "us" or "Transfergo")</span>
-        uses the data you give us through our site(s), including but not limited to transfergo.com. We value our
-        relationship with you and place the highest importance on respecting and protecting your privacy. We want you to
-        feel comfortable and confident when using our service.<br><br>
 
-        Transfergo complies fully with the Data Protection Act 1998 and all applicable data protection &amp; privacy
-        legislation. We will only process personal information in accordance with the applicable rules and this privacy
-        policy. All personal information you submit will be controlled by Transfergo.
-        <br><br>
-        If you require further information on your rights under the Data Protection Act please contact the Information
-        Commissioner. Further details can be found by visiting <a href="http://www.ico.org.uk" target="_blank">ico.org.uk</a>.
-    </p>
+    <div id="topbar-notification" class="note" style="display: none;">
+        <div class="container">
+            <div class="left">
+                <span class="bold">Welcome to TransferGo!</span> Register right now and get a first transfer <span class="bold">for free</span>. &nbsp;»&nbsp; <a id="free-registration" href="#"><span style="text-decoration: underline;color:#f7eb00;font-weight:600;">Sign up</span></a>
+            </div>
+            <div class="right"><a id="hide-notification" href="#close"></a></div>
+            <div class="clear"></div>
+        </div>
+    </div>
 
-    <h3>Information we may collect about you</h3>
+    
+    <div class="top-internal english">
+        <div class="container _subheader2_php">
+            <div class="nav">
+                <div class="logo">
+                    <a href="https://transfergo.com/en/">International money transfer to Europe Online |
+                        TransferGo.com</a>
+                </div>
+                <div class="nav-left">
+                    <ul class="level1 ">        <li>
+            <a href="https://transfergo.com/en/how-it-works" title="How it works">
+                How it works            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/about-transfergo" title="About us">
+                About us            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/business" title="Business">
+                Business            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/help" title="Help &amp; support">
+                Help &amp; support            </a>
+                    </li>        <li>
+            <a href="https://my.transfergo.com/en/user/login" title="Login">
+                Login            </a>
+                    </li></ul>
+                </div>
+                <div class="nav-right">
 
-    <p>We may collect the following information about you, which may include non-public personal information:</p>
-    <ul>
-        <li>Information that you provide during registration and/or using our service, such as your name, email or
-            postal address, phone number.
-        </li>
-        <li>Information that you provide to verify your account such as copies of identification documents or documents
-            verifying identification from publically accessible databases.
-        </li>
-        <li>We collect details of transactions you carry out through our site(s) and of the fulfilment of your orders.
-        </li>
-        <li>We use cookies to manage our site(s) and service, advertising, email programs.</li>
-        <li>We keep records when you submit enquiries or comments to us or contact us.</li>
-        <li>We collect personal information from you when you enter any promotions, competitions or prize draws via our
-            service.
-        </li>
-        <li>We may collect information about you from other sources, including but not limited to: credit reference
-            agencies, fraud preventions agencies and business directories or other commercially or publicly available
-            sources.
-        </li>
-        <li>Details of visits to our site(s) and items accessed.</li>
-        <li>Information such as your browser type, phone type, location, and/or IP address.</li>
-    </ul>
-    <h3>How we use your information </h3>
-    <ul>
-        <li>We use your personal or financial information to provide you with information and services you request and
-            to give you a customised interactive experience as you use our service.
-        </li>
-        <li>We do not sell or rent your personal information with anyone for promotional or marketing purposes.</li>
-        <li>We do not share your personal information with anyone outside of Transfergo for their promotional or
-            marketing use without your consent.
-        </li>
-        <li>We summarise information about you and we also combine that information with that of others in a way that
-            does not identify you personally to understand how our products are used and to help us develop new products
-            and services.
-        </li>
-        <li>We may use service companies to help fill your order. We will only provide the information they need to
-            deliver the service, and they are prohibited from using that information for any other purpose.
-        </li>
-    </ul>
-    <h3>Disclosure of your information </h3>
+                    <div class="signin mobile-only"><a href="https://my.transfergo.com/en/user/login">Login</a></div>
+                    <div id="register" class=""><a href="https://my.transfergo.com/en/user/register">Sign Up</a></div>
+                    
 
-    <p>We may disclose your personal information to any member of our group.<br><br>
-        By providing personal information you are deemed to consent to your personal information being disclosed outside
-        Transfergo in the following circumstances:
-    </p>
-    <ul>
-        <li>in the even that we sell or buy any business or assets;</li>
-        <li>if TransferGo or substantially all of its assets are acquired by a third party; or</li>
-        <li>if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect
-            the safety of any person; to address fraud, security or technical issues; or to protect Transfergo's rights
-            or property.
-        </li>
-    </ul>
+<ul class="ipsLanguageList">
+    <li>
+        <span class="flag-en">EN</span>
+        <ul class="notypekit">
+            <li class="first">
+                <a class="drop-lv" title="Latviešu" href="https://transfergo.com/lv/">
+                    Latviešu                </a>
+            </li>
+            <li class="">
+                <a class="drop-lt" title="Lietuvių" href="https://transfergo.com/lt/">
+                    Lietuvių                </a>
+            </li>
+            <li class="">
+                <a class="drop-pl" title="Polski" href="https://transfergo.com/pl/">
+                    Polski                </a>
+            </li>
+            <li class="last">
+                <a class="drop-ru" title="Русский" href="https://transfergo.com/ru/">
+                    Русский                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+                <div class="clear"><!-- --></div>
+            </div>
 
-    <h3>Information we collect when you use the site(s)</h3>
+            <div class="header-content">
+    <h2><div class="">Effective Date: 01 August 2012</div>
+</h2>
 
-    <p>Statistical information, which does not reveal your personal or organizational identity such as:</p>
-    <ul>
-        <li>Details of visits to our site(s) and items accessed.</li>
-        <li>Information such as your browser type, phone type, location, and/or IP address.</li>
-    </ul>
-    <p>We use cookies and similar means as follows:</p>
-    <ul>
-        <li>to deliver a more personalised service through mean like storing your preferences, helping you find things
-            more quickly, to serve advertisements and to let you log-in more quickly.
-        </li>
-        <li>"persistent cookies" are used so when you visit our site(s) we recognise you as an existing user.</li>
-        <li>We also use "session" cookies, which identify particular visits to the site(s). These session cookies expire
-            after a limited period of time.
-        </li>
-    </ul>
-    <p>You may refuse to accept these cookies by changing your browser setting to refuse cookies. By refusing cookies
-        you may be unable to use all or some of our site(s).</p>
-
-    <h3>How long does TransferGo store your information?</h3>
-
-    <p>We will hold the your information for as long as is necessary in order to provide you with the Transfergo
-        service, deal with any specific issues that you may raise or otherwise as is required by law or any relevant
-        regulatory body.</p>
-
-    <h3>Viewing your personal information</h3>
-
-    <p>As a customer, you have the right to view your personal information. This means that you can request to find out
-        what personal information has been stored and for what purposes it is being used. <br><br>
-        A request to view your information can be submitted by email including your name, address, land line and/or
-        mobile telephone number and a copy of a valid identity document, sent to the address listed on the bottom of
-        this Privacy Policy. TransferGo may charge a maximum of £10 in administration costs for handling the request.
-    </p>
-
-    <h3>Correcting your personal information</h3>
-
-    <p>As a customer, you have the right to correct your personal information. To do this, please contact us. On some of
-        our websites (such as www.transfergo.com), you are able to view and edit your personal information online. You
-        can do this on your personal profile on the website. To prevent your personal information being viewed and
-        edited by others, you can only access your personal profile by logging on with your username and password.</p>
-
-    <h3>Security and Data Retention</h3>
-
-    <p>The security of your personal information is important to us. Our data processing technologies are professionally
-        hosted by a company that specialises in hosting solutions. When you provide sensitive information to us, we
-        encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally
-        accepted standards to protect the personal information submitted to us, both during transmission and once we
-        receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100%
-        secure. Therefore, we cannot guarantee its absolute security. </p>
-
-    <h3>Changes to this policy</h3>
-
-    <p>Any changes we make to our privacy policy in the future will be posted on this page, and where appropriate,
-        notified to you by email.</p>
-
-    <h3>Contacting you</h3>
-
-    <p>We will contact you by email, SMS, phone and other ways only if you give us the information required to do so and
-        do not indicate that you do not want to be contacted in these ways. You can tell us at any time that you do not
-        want to be contacted by any these means by emailing [hello@transfergo.com].</p>
-
-    <h3>Contact us</h3>
-
-    <p>You can contact us using the contact information on our website or send us an email [hello@transfergo.com].</p>
-
+    <h1><div class="">Privacy Policy</div>
+</h1>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"51eb6c2bf7","applicationID":"2165851","transactionName":"b1xWZkNZV0YHURZfWVYWdVFFUVZbSWEWV0IXSUZbR1laTA==","queueTime":0,"applicationTime":8,"ttGuid":"","agentToken":"","atts":"QxtVEAtDREg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-460.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-460.min.js"></script></body></html>
+
+            <div class="clear"></div>
+
+        </div>
+    </div>
+        <div class="bottom">
+        <div class="container">
+                                    
+<div id="ipBlock-main" data-revisionid="376" data-languageid="0" class="ipBlock"><div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>&nbsp;We have written this policy to explain how Transfergo Ltd <strong>("we", "us" or "Transfergo")</strong> uses the data you give us through our site(s), including but not limited to transfergo.com. We value our relationship with you and place the highest importance on respecting and protecting your privacy. We want you to feel comfortable and confident when using our service.</p>
+<p>Transfergo complies fully with the Data Protection Act 1998 and all applicable data protection &amp; privacy legislation. We will only process personal information in accordance with the applicable rules and this privacy policy. All personal information you submit will be controlled by Transfergo.</p>
+<p>If you require further information on your rights under the Data Protection Act please contact the Information Commissioner. Further details can be found by visiting&nbsp;<a href="http://www.ico.org.uk" target="_blank">ico.org.uk</a></p></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            Information we may collect about you    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>We may collect the following information about you, which may include non-public personal information:</p>
+<ul>
+<li><span style="line-height: 1.4;">Information that you provide during registration and/or using our service, such as your name, email or postal address, phone number.</span></li>
+<li><span style="line-height: 1.4;">Information that you provide to verify your account such as copies of identification documents or documents verifying identification from publically accessible databases.</span></li>
+<li><span style="line-height: 1.4;">We collect details of transactions you carry out through our site(s) and of the fulfilment of your orders.</span></li>
+<li><span style="line-height: 1.4;">We use cookies to manage our site(s) and service, advertising, email programs.</span></li>
+<li><span style="line-height: 1.4;">We keep records when you submit enquiries or comments to us or contact us.</span></li>
+<li><span style="line-height: 1.4;">We collect personal information from you when you enter any promotions, competitions or prize draws via our service.</span></li>
+<li><span style="line-height: 1.4;">We may collect information about you from other sources, including but not limited to: credit reference agencies, fraud preventions agencies and business directories or other commercially or publicly available sources.</span></li>
+<li><span style="line-height: 1.4;">Details of visits to our site(s) and items accessed.</span></li>
+<li><span style="line-height: 1.4;">Information such as your browser type, phone type, location, and/or IP address.</span></li>
+</ul></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            How we use your information    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <ul>
+<li><span style="line-height: 1.4;">We use your personal or financial information to provide you with information and services you request and to give you a customised interactive experience as you use our service.</span></li>
+<li><span style="line-height: 1.4;">We do not sell or rent your personal information with anyone for promotional or marketing purposes.</span></li>
+<li><span style="line-height: 1.4;">We do not share your personal information with anyone outside of Transfergo for their promotional or marketing use without your consent.</span></li>
+<li><span style="line-height: 1.4;">We summarise information about you and we also combine that information with that of others in a way that does not identify you personally to understand how our products are used and to help us develop new products and services.</span></li>
+<li><span style="line-height: 1.4;">We may use service companies to help fill your order. We will only provide the information they need to deliver the service, and they are prohibited from using that information for any other purpose.</span></li>
+</ul></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            Disclosure of your information    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>We may disclose your personal information to any member of our group.</p>
+<p>By providing personal information you are deemed to consent to your personal information being disclosed outside Transfergo in the following circumstances:</p>
+<ul>
+<li><span style="line-height: 1.4;">in the even that we sell or buy any business or assets;</span></li>
+<li><span style="line-height: 1.4;">if TransferGo or substantially all of its assets are acquired by a third party; or</span></li>
+<li><span style="line-height: 1.4;">if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Transfergo's rights or property.</span></li>
+</ul></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            Information we collect when you use the site(s)    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>&nbsp;Statistical information, which does not reveal your personal or organizational identity such as:</p>
+<ul>
+<li><span style="line-height: 1.4;">Details of visits to our site(s) and items accessed.</span></li>
+<li><span style="line-height: 1.4;">Information such as your browser type, phone type, location, and/or IP address.</span></li>
+<li><span style="line-height: 1.4;">We use cookies and similar means as follows:</span></li>
+<li><span style="line-height: 1.4;">to deliver a more personalised service through mean like storing your preferences, helping you find things more quickly, to serve advertisements and to let you log-in more quickly.</span></li>
+<li><span style="line-height: 1.4;">"persistent cookies" are used so when you visit our site(s) we recognise you as an existing user.</span></li>
+<li><span style="line-height: 1.4;">We also use "session" cookies, which identify particular visits to the site(s). These session cookies expire after a limited period of time.</span></li>
+<li><span style="line-height: 1.4;">You may refuse to accept these cookies by changing your browser setting to refuse cookies. By refusing cookies you may be unable to use all or some of our site(s).</span></li>
+</ul></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            How long does TransferGo store your information?    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>We will hold the your information for as long as is necessary in order to provide you with the Transfergo service, deal with any specific issues that you may raise or otherwise as is required by law or any relevant regulatory body.</p></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            Viewing your personal information    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>As a customer, you have the right to view your personal information. This means that you can request to find out what personal information has been stored and for what purposes it is being used.</p>
+<p>A request to view your information can be submitted by email including your name, address, land line and/or mobile telephone number and a copy of a valid identity document, sent to the address listed on the bottom of this Privacy Policy. TransferGo may charge a maximum of £10 in administration costs for handling the request.</p></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            Correcting your personal information    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>As a customer, you have the right to correct your personal information. To do this, please contact us. On some of our websites (such as www.transfergo.com), you are able to view and edit your personal information online. You can do this on your personal profile on the website. To prevent your personal information being viewed and edited by others, you can only access your personal profile by logging on with your username and password.</p></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            Security and Data Retention    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>The security of your personal information is important to us. Our data processing technologies are professionally hosted by a company that specialises in hosting solutions. When you provide sensitive information to us, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.</p></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            Changes to this policy    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>Any changes we make to our privacy policy in the future will be posted on this page, and where appropriate, notified to you by email.</p></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            Contacting you    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>We will contact you by email, SMS, phone and other ways only if you give us the information required to do so and do not indicate that you do not want to be contacted in these ways. You can tell us at any time that you do not want to be contacted by any these means by emailing [hello@transfergo.com].</p></div>
+</div>
+<div class="ipWidget ipWidget-Heading ipSkin-default">
+    <h2 class="_title">
+            Contact us    </h2>
+</div>
+<div class="ipWidget ipWidget-Text ipSkin-default">
+    <div class="ipsContainer">
+    <p>You can contact us using the contact information on our website or send us an email [hello@transfergo.com].</p></div>
+</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="footer-wrapper">
+    <div class="container">
+        <div class="footer-col1 mob-nav">
+            <h3 class="mobile-hide"><div class="">TransferGo</div>
+</h3>
+            <ul class="level1 ">        <li>
+            <a href="https://transfergo.com/en/about-transfergo" title="About us">
+                About us            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/how-it-works" title="How it Works?">
+                How it Works?            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/help" title="Help &amp; Support">
+                Help &amp; Support            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/business" title="Business Accounts">
+                Business Accounts            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/refer-a-friend" title="Referral program">
+                Referral program            </a>
+                    </li>        <li>
+            <a href="http://blog.transfergo.com/" title="Blog">
+                Blog            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/jobs" title="We're Hiring!">
+                We're Hiring!            </a>
+                    </li></ul>
+        </div>
+        <div class="footer-col2 mobile-hide">
+            <h3><div class="">Countries</div>
+</h3>
+            <ul class="level1 ">        <li>
+            <a href="https://transfergo.com/en/send-money-to-uk" title="Send money to UK">
+                Send money to UK            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/send-money-to-norway" title="Send money to Norway">
+                Send money to Norway            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/send-money-to-poland" title="Send money to Poland">
+                Send money to Poland            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/send-money-to-lithuania" title="Send money to Lithuania">
+                Send money to Lithuania            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/send-money-to-ireland" title="Send money to Ireland">
+                Send money to Ireland            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/send-money-to-germany" title="Send money to Germany">
+                Send money to Germany            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/send-money-to-romania" title="Send money to Romania">
+                Send money to Romania            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/send-money-to-latvia" title="Send money to Latvia">
+                Send money to Latvia            </a>
+                    </li></ul>
+        </div>
+        <div class="footer-col3">
+            <h3><div class="">Contact</div>
+</h3>
+            <ul>
+                <li><div class="">+44 13 9269 4030</div>
+</li>
+                <li><a href="mailto:hello@transfergo.com">hello@transfergo.com</a></li>
+                <li class="skype"><div class=""><a href="skype:transfergo?call">Skype Us</a></div>
+</li>
+            </ul>
+        </div>
+        <div class="footer-col4">
+            <h3><div class="">TransferGo Ltd</div>
+</h3>
+            <ul>
+                <li><div class="">Level 42</div>
+</li>
+                <li><div class="">One Canada Square</div>
+</li>
+                <li><div class="">Canary Wharf</div>
+</li>
+                <li><div class="">London</div>
+</li>
+                <li><div class="">E14 5AB</div>
+</li>
+                <li><div class="">United Kingdom</div>
+</li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+        <div class="footer-separator"></div>
+        <div class=""><p>TransferGo Ltd is a registered payment service provider.<br><br> <span class="lightblue">We are supervised by </span> <span class="bold">HM Revenue &amp; Customs (HMRC)</span> <span class="lightblue"> under the Money Laundering Regulations:</span> <span class="bold"><a href="https://customs.hmrc.gov.uk/msbregister/search.do?type=search&amp;mlrNumber=12667079&amp;postcode=E145AB&amp;traderName=" target="_blank">12667079</a>.</span> <span class="lightblue"> We are regulated by the </span> <span class="bold">UK Financial Conduct Authority (FCA)</span> <span class="lightblue">as an authorised payment institution:</span> <span class="bold"><a href="http://www.fsa.gov.uk/register/psdFirmBasicDetails.do?sid=319039" target="_blank">600886</a>.</span></p></div>
+
+
+        <div class="footer-separator"></div>
+
+        <div class="footer-bottom">
+            <div class="copyright lightblue">Copyright © 2015 TransferGo Ltd. All Rights Reserved</div>
+
+
+            <div class="legal-box">
+                <ul class="level1 ">        <li>
+            <a href="https://transfergo.com/en/terms-and-conditions" title="Terms &amp; Conditions">
+                Terms &amp; Conditions            </a>
+                    </li>        <li class="active">
+            <a href="https://transfergo.com/en/privacy-policy" title="Privacy policy">
+                Privacy policy            </a>
+                    </li>        <li>
+            <a href="https://transfergo.com/en/cookie-policy" title="Cookies">
+                Cookies            </a>
+                    </li></ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+    </div>
+</div>
+
+
+<div id="backdrop"></div>
+
+
+<script>
+var ip = {"baseUrl":"https:\/\/transfergo.com\/","safeMode":false,"languageId":1,"languageUrl":"https:\/\/transfergo.com\/en\/","languageCode":"en","languageTextDirection":"ltr","theme":"TransferGo","pageId":"51","revisionId":"376","securityToken":"255c902ed52bbd90387d299adeba4b19","developmentEnvironment":false,"debugMode":false,"isManagementState":false,"isAdminState":0,"isAdminNavbarDisabled":0};
+    var ipValidatorTranslations = {"Ip-admin":{"*":"Please correct this value",":email":"Please enter a valid email address",":number":"Please enter a valid numeric value",":url":"Please enter a valid URL","[max]":"Please enter a value no larger than $1","[min]":"Please enter a value of at least $1","[required]":"Please complete this mandatory field"},"en":{"*":"Please correct this value",":email":"Please enter a valid email address",":number":"Please enter a valid numeric value",":url":"Please enter a valid URL","[max]":"Please enter a value no larger than $1","[min]":"Please enter a value of at least $1","[required]":"Please complete this mandatory field"}};
+    var ipUrlOverrides = {"Plugin\/":"\/\/d1mubwxjmumlr1.cloudfront.net\/Plugin\/","Theme\/":"\/\/d1mubwxjmumlr1.cloudfront.net\/Theme\/","Ip\/":"\/\/d1mubwxjmumlr1.cloudfront.net\/Ip\/","file\/":"\/\/d1mubwxjmumlr1.cloudfront.net\/file\/"};
+    var tgApiUrl = "https:\/\/my.transfergo.com\/";
+    var calculatorSourceCountry = "gb";
+    var countryTranslations = [];
+    var calculatorTranslation_popular = "Popular";
+    var calculatorTranslation_allcountries = "All countries";
+    var calculatorTranslation_close = "Close";
+    var ipHeaderVideo_url = "https:\/\/www.youtube.com\/embed\/gIk2opECBhA?autoplay=1";
+    var olarkGroupId = "0ee9815eab1131fc816e82362b5805f6";
+    var olarkSiteId = "5328-399-10-1008";
+    var olarkTranslations = {"locale.welcome_title":"Click to Chat","locale.chatting_title":"Live Help: Now Chatting","locale.unavailable_title":"Need help?","locale.busy_title":"Live Help: Busy","locale.away_message":"Our live support feature is currently offline. Please send us a message here. ","locale.loading_title":"Loading...","locale.welcome_message":"Welcome to my website.  You can use this chat window to chat with me.","locale.busy_message":"All of our representatives are with other customers at this time. We will be with you shortly.","locale.chat_input_text":"Type here and hit to chat","locale.name_input_text":"Name","locale.email_input_text":"Email","locale.offline_note_message":"We are offline, send us a message","locale.send_button_text":"Send","locale.offline_note_thankyou_text":"Thank you for your message.  We will get back to you as soon as we can.","locale.offline_note_error_text":"You must complete all fields and specify a valid email address","locale.offline_note_sending_text":"Sending...","locale.operator_is_typing_text":"is typing...","locale.operator_has_stopped_typing_text":"has stopped typing","locale.introduction_error_text":"Please leave a name and email address so we can contact you in case we get disconnected","locale.introduction_messages":"Welcome, just fill out some brief information and click 'Start chat' to talk to us","locale.introduction_submit_button_text":"Start chat","locale.disabled_input_text_when_convo_has_ended":"chat ended, refresh for new chat","locale.disabled_panel_text_when_convo_has_ended":"This conversation has ended, but all you need to do is refresh the page to start a new one!","locale.phone_input_text":"Phone"};
+    var onCompetitorPage = false;
+</script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Ip/Internal/Core/assets/ipCore.min.js?54"></script>
+  <script type="text/javascript" src="//cdn.optimizely.com/js/204820032.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/Application/assets/newrelic.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/Application/assets/transfergo.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/Colorbox/assets/colorbox/jquery.colorbox-min.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/Colorbox/assets/colorboxInit.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/Calculator/assets/chosen.jquery.min.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/Calculator/assets/calculator.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/HeroCard/assets/herocard.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/HeaderVideo/assets/headerVideo.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/Trustpilot/assets/owl.carousel.min.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/Trustpilot/assets/trustpilot.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/FaqWidget/assets/faq.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/ReferralsWidget/assets/referrals.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/MobileHide/assets/mobilehide.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/Olark/assets/olark.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/JobWidget/assets/job.js?54"></script>
+  <script type="text/javascript" src="//d1mubwxjmumlr1.cloudfront.net/Plugin/Referrals/assets/freeTransferNotification.js?54"></script>
+
+
+
+
+
+</body></html>
