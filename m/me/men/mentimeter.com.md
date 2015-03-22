@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentimeter.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022020506id_/https%3A//www.mentimeter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentimeter.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322141449id_/https%3A//www.mentimeter.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Mentimeter
 
