@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kryolan.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708022843id_/https%3A//us.kryolan.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kryolan.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322114936id_/https%3A//us.kryolan.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kryolan - Professional Make-up
 
