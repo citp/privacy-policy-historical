@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the opencare.com privacy policy that was archived on 2014-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141027225152id_/https%3A//www.opencare.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the opencare.com privacy policy that was archived on 2015-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322054332id_/https%3A//www.opencare.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -16,14 +16,14 @@
     <meta name="description" content="Find the best local dentists, physical therapists, chiropractors, and more. See patient reviews, detailed profiles and make an appointment online for free 24/7.">
     
 
-    <link href="/common-assets/imgs/opencare_logo_16px_v2.ico" type="image/x-icon" rel="shortcut icon">
+    <link href="/images/favicon.png" type="image/x-icon" rel="shortcut icon">
 
     
 
     <link rel="stylesheet" href="/common-assets/dist/ext.min.css">
     <link rel="stylesheet" href="/common-assets/dist/common.min.css">
 
-    <link rel="stylesheet" href="/css/dist/app.min.47635616.css">
+    <link rel="stylesheet" href="/css/dist/app.min.e2648caa.css">
 
     
       
@@ -31,15 +31,20 @@
         <script>
           Raven.config('https://3e73f99ed19343ef88dbf51b8ffa750b@app.getsentry.com/24141', {}).install();
           window.onerror = function(message, url, line, column, error) {
+            var errMessage = String(message) || 'Unknown error.';
+            errMessage += line ? ' line:' + line : '';
+            errMessage += column ? ' col:' + column : '';
+            errMessage += url ? ' url:' + url : '';
+
             if (!error) {
-              error = new Error(JSON.stringify({
-                message: message || 'Unknown error has occurred.',
-                url: url || document.URL,
-                line: line,
-                column: column
-              }));
+              error = new Error(errMessage);
+            } else if (!(error instanceof Error)) {
+              error = new Error(String(error) + ' ' + errMessage);
+            } else if (!error.message) {
+              error.message = errMessage;
             }
             Raven.captureException(error);
+
             return false;
           };
         </script>
@@ -47,6 +52,7 @@
     
 
     <script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;libraries=places"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
     <!-- Begin Inspectlet Embed Code -->
     <script type="text/javascript" id="inspectletjs">
@@ -71,23 +77,23 @@
     </script>
     <!-- End Inspectlet Embed Code -->
 
-    <!-- Inspectlet should be loaded before xdomain lib because it sends cross-domain XmlHttpRequest
-    in which `withCredentials` is set to true. This behaviour is not allowed by xdomain and will be cause of error. -->
     <!--[if IE]>
     <script>
       (function() {
         function loadXDomainScript() {
-          var script = document.createElement('script');
-          script.type = 'text/javascript';
-          script.src = '/common-assets/js/ie/xdomain.min.js';
-          script.slave = 'https://api.opencare.com/proxy.html';
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.src = '/common-assets/js/ie/xdomain.min.js';
+          s.slave = 'https://api.opencare.com/proxy.html';
           var x = document.getElementsByTagName('script')[0];
-          x.parentNode.insertBefore(script, x);
+          x.parentNode.insertBefore(s, x);
         }
-        if (window.attachEvent) {
-          window.attachEvent('onload', loadXDomainScript);
-        } else {
-          window.addEventListener('load', loadXDomainScript, false);
+        if (window.addEventListener) {
+          window.addEventListener("load", loadXDomainScript, false);
+        } else if (window.attachEvent) {
+          window.attachEvent("onload", loadXDomainScript);
+        } else if (window.onLoad) {
+          window.onload = loadXDomainScript;
         }
       })();
     </script>
@@ -118,6 +124,7 @@
       </div>
 
       <div class="collapse navbar-collapse">
+        
         <form id="search-form" method="GET" action="/search" class="navbar-form navbar-left">
           <div class="form-group">
             <select id="search-specialty" class="form-control navbar-search-field" name="specialty">
@@ -127,7 +134,7 @@
 <option value="525">Dentist</option>
 <option value="543">Optometrist (Eye Doctor)</option>
 
-<option value="524">Physiotherapist</option>
+<option value="589">Physical Therapist</option>
 
 <option value="542">Registered Massage Therapist (RMT)</option>
 <option disabled="disabled"></option>
@@ -171,7 +178,7 @@
 <option value="585">Periodontist</option>
 <option value="495">Physical Medicine and Rehabilitation</option>
 
-<option value="524">Physiotherapist</option>
+<option value="589">Physical Therapist</option>
 
 <option value="483">Plastic Surgeon</option>
 <option value="546">Podiatrist</option>
@@ -214,6 +221,8 @@
             <small>We could not find that location. Please select a location from the dropdown.</small>
           </p>
         </form>
+        
+
         <ul class="nav navbar-nav navbar-right">
           <li>
             <a href="https://patient.opencare.com">My Account</a>
@@ -319,6 +328,7 @@
          <li><a href="/physiotherapists/scarborough-on/">Physiotherapists <span class="city">in Scarborough</span></a></li>
         </ul>
       </div>
+      <div class="clearfix visible-xs"></div>
       <div class="col-sm-4 col-lg-2 text-right">
         <a href="https://mixpanel.com/f/partner" class="hidden-xs"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics"></a>
         <br>&nbsp;<br>&nbsp;<br>
@@ -329,6 +339,7 @@
     <div class="text-right">Copyright © 2014 Opencare</div>
   </div>
 </footer>
+
 
     <div class="plugin-live-chat">
       <a id="olark-toggle" href="#"><span class="glyphicon glyphicon-comment"></span> Live Chat</a>
@@ -399,6 +410,6 @@
     <script src="/js/olark.js"></script>
     <!-- End Olark -->
 
-    <script src="/js/dist/common.min.734b45dd.js"></script>
+    <script src="/js/dist/common.min.bac4b979.js"></script>
   
 </body></html>
