@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohitink.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122072533id_/http%3A//rohitink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohitink.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322105633id_/http%3A//rohitink.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rohitink.com
 
@@ -47,6 +47,29 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
+**Google**
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+**We have implemented the following:**
+
+**•** Remarketing with Google AdSense
+
+**•** Google Display Network Impression Reporting
+
+**•** Demographics and Interests Reporting
+
+**•** DoubleClick Platform Integration
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
 **Changes to this privacy policy**
 
 Rohitink.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -63,7 +86,8 @@ Rohitink.com
 Rohit Tripathi,  
 Sector 33-B,  
 Chandigarh, India  
-Postal Code: 160030  
-support@inkhive.com
+Postal Code: 160030
 
-This document was last updated on January 10, 2014
+<http://rohitink.com/contact-me/>
+
+This document was last updated on Feb 15, 2015
