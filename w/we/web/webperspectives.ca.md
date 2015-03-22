@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webperspectives.ca privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325233434id_/https%3A//www.webperspectives.ca/eng/footer/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webperspectives.ca privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322131446id_/https%3A//www.webperspectives.ca/eng/footer/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy - Online surveys - CA - Web Perspectives
+# Privacy Statement | Web Perspectives - Web Perspectives
 
-The Web Perspectives website is owned and operated by Research Now Limited, a UK company, ("Research Now"). e-Rewards, Inc. (a US company), e-Rewards Europe Limited (a UK company), Research Now, Inc. (a US company), Research Now Limited (a UK company), The Mobile Panel Ltd., The Mobile Channel Ltd., Research Now Pty Ltd. (an Australian company), Research Now Inc. (a Canadian company), Research Now Consulting Co. Ltd (a Chinese company), Research Now Technology EPE (a Greek company), Research Now GmbH (a German company), Research Now PTE  LTD (a Singaporian company), Research Now Pty Limited (a New Zealand company), Research Now Spain S.L. (a Spanish company) and Research Now SARL (a French company) together form the Research Now group. This Privacy Statement governs the website located at www.webperspectives.ca.  
+The Web Perspectives website is owned and operated by Research Now Limited, a UK company, ("Research Now"). Research Now Group, Inc. (formerly known as e-Rewards, Inc.)  (a US company), e-Rewards Europe Limited (a UK company), Research Now, Inc. (a US company), Research Now Limited (a UK company), The Mobile Panel Ltd., The Mobile Channel Ltd., Research Now Pty Ltd. (an Australian company), Research Now Inc. (a Canadian company), Research Now Consulting Co. Ltd (a Chinese company), Research Now Technology EPE (a Greek company), Research Now GmbH (a German company), Research Now PTE  LTD (a Singaporian company), Research Now Pty Limited (a New Zealand company), Research Now Spain S.L. (a Spanish company) and Research Now SARL (a French company) together form the Research Now group. This Privacy Statement governs the website located at www.webperspectives.ca.  
 
 Research Now is a provider of Internet-based market research services to professional market research organizations and their clients. The objective of this research is to better understand respondents' opinions. We aggregate and de-identify such research before analyzing and sending the results to our clients.  The information gathered helps our clients develop and design products and services for consumers. In addition, certain survey findings might be published on our websites (in a non-identifiable form) so that our survey respondents can be among the first to hear about the concerns and interests of people around the world.  We are committed to maintaining the privacy of our online respondents and panel members. Our contact information appears below. 
 
@@ -78,14 +78,30 @@ We do not link the information we store in cookies to any personal information t
 
 If you have any questions about security on our Web site, please email us using the contact form available on the [Contact page](https://www.webperspectives.ca/eng/contact/contact-new/)
 
- **9.     Contact Information**
+**Advanced Cookies**
+
+The advanced cookie tracks the online patterns of Web Perspectives Members. The advanced cookie, which may be placed by Web Perspectives or in conjunction with a third party, incorporates a key which can identify tags contained in certain online content relating to our clients and their products and services.
+
+If a Web Perspectives Member views a page containing any content that includes the tag, the key will send Web Perspectives an update confirming that the Member has viewed the page containing this content. 
+
+In addition, some advanced cookies can be used to target you with advertisement related to research for ad-effectiveness. These advertisements will only be displayed for research purposes and not for Research Now-specific advertising or advertising campaigns unrelated to a specific research projects.
+
+Certain Web pages or Web-based advertisements that you view may be tagged by Research Now, and in some cases, data collected on tagged content may be combined with survey answers that you provide. For example, when you visit or click on our third-party partners' Web sites or online advertisements these events are recorded by Research Now or one of our technology partners, which in turn reports the data to us. We provide that data directly, or combine it with the other information that you provide us with, such as your survey responses and demographic information (but not with your personally identifiable information), to provide market research analysis and data delivery services to our clients, technology partners, and/or Rewards Partners and Marketing Partners. You can opt out of our technology partners' own data collection and ad targeting [here](http://www.networkadvertising.org/managing/opt_out.asp), [here](http://aboutads.info/choices) or [here](http://preferences.truste.com/truste). If you delete cookies on your browser after opting out, you will have to opt out again. 
+
+You can opt out of receiving such advanced cookies on your device via Web Perspectives by emailing us using the [contact form](https://www.webperspectives.ca/eng/contact/contact-new/). Of course, if a cookie is one that a Web Perspectives Member may receive from a third party, regardless of the Member's participation in the Web Perspectives, then opting out with Web Perspectives will not prevent the Member from receiving that third party's cookie. We neither have access to, nor control over, third-party cookies or how they may be used. Likewise, if the cookie is placed by a third party, we have no control over the nature of the content with which these tags are included. If you would like more information about third-party use of cookies and about your option not to accept these cookies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). Your access to our Web sites will not be affected if you do not accept cookies placed by third parties.
+
+**9.     Contact Information**
 
 If you have any questions about Web Perspectives / Research Now or our Website Privacy Statement, please contact us at the following address:
 
 Jennifer White, Research Manager  
 Web Perspectives / Research Now  
-3080 Yonge Street, Suite 2000  
+250 Yonge Street, Suite 1800  
 Toronto, Ontario  
-M4N 3N1 
+M5B 2L7 
 
 **For more about BBB please[click here](https://www.bbb.org/online/consumer/cks.aspx?ID=1081202142727).**
+
+[](http://www.bbb.org/kitchener/business-reviews/market-research-and-analysis/research-now-in-toronto-on-1157918)
+
+Effective Date: October 21, 2014
