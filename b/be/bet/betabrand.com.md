@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betabrand.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194413id_/http%3A//www.betabrand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betabrand.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322052649id_/https%3A//www.betabrand.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -78,7 +78,7 @@ This Site incorporates physical, electronic, and administrative procedures to sa
 
 OPT OUT/CORRECTIONS
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of this Site http://www.betabrand.com/contact, or by telephoning, or emailing your request to Betabrand.com's Customer Support department (800) 694-9491 or info@betabrand.com. Please do not email your credit-card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of this Site https://www.betabrand.com/contact, or by telephoning, or emailing your request to Betabrand.com's Customer Support department (800) 694-9491 or info@betabrand.com. Please do not email your credit-card number or other sensitive information.
 
 OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
 
