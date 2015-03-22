@@ -1,31 +1,75 @@
-> *The following text is extracted and transformed from the fontfont.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701100427id_/https%3A//www.fontfont.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontfont.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322092550id_/https%3A//www.fontfont.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy Policy
+Monotype GmbH, Werner-Reimers-Straße 2–4, 61352 Bad Homburg, Germany (collectively, “Monotype”) makes information, products, and services available on our Web sites (each individually, the “Site” and collectively, the “Sites”), subject to the following Privacy Policy (the “Privacy Policy”). We own and operate many Sites, for instance FontShop.com. You can determine if Monotype is the owner and operator of a site by referring to the Terms and Conditions of Use for the specific site. The Privacy Policy applies to all of our Sites.
 
-By accessing or using this website, you agree to the terms of FontShop International’s Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. FontShop International reserves the right to change the Online Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Online Privacy Policy at the time of such use.
+### Monotype’s Commitment to Personal Information Protection
 
-## Collection of personal information
+At Monotype, we respect your right to privacy. Protecting the security and privacy of your personal information is important to us. We understand that as a visitor to our Site, you prefer to control your own personal information preferences and we give you the option to do so. We hope the policy outlined below will help you understand what personal information we may collect, how we use and safeguard that personal information and with whom we may share it.
 
-When you engage in certain activities on this site, such as viewing prices, ordering or selecting products, downloading software, or entering contests, FontShop International may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you select to engage in these activities, however, FontShop International may ask that you provide us personal information, such as: your name, address, phone number, e-mail address and if you download products we will require your credit card details.
+### Voluntary Personal Information We May Collect
 
-## How your personal information is used
+We may ask you to register or provide personal information and preferences when you visit certain areas of our Site, request information, purchase products or subscribe to company newsletters. When you provide Monotype with your name, email address, mailing address, or telephone number, and you don’t “opt-out”, we may use this information to alert you to company news, new services and other company and product information. If you don’t want Monotype or Monotype representatives to contact you, you may “opt-out” of this preference at any time, whether you’re online or contacting Monotype directly. You’ll always have the flexibility to “opt-in” at any time based on previous information or newly updated information.
 
-FontShop International collects your information in order to record and support your participation in the activities you select. If you order a product that is to be electronically downloaded, for example, the information is used to verify credit cards, issue multi-user licence documents, re-deliver orders in the case of transmission failure and to maintain your customer history.
+### Non-Voluntary Personal Information We May Collect
 
-## Protection of your personal information
+When you browse our Site, you can generally do so anonymously as we don’t collect personal information when you browse; however, your browser automatically tells us the type of computer and operating system you’re using. Like most standard Web site servers, our Site uses log files (cookies). A “cookie” is a small line of text that is stored with your Web browser for record-keeping purposes and helps Monotype provide better service to you. Your browser has an option to accept, reject or provide you with notice when a cookie is sent. Once you enter our Site, a cookie follows as you navigate the site, collecting information including internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. This information is used to analyze trends, administer the site, track users’ overall movements, and gather broad demographic information for aggregate use only, to help us understand what users are seeking on our Site.
 
-The personal information that you provide is protected in several ways. Access by you to your personal information is available through a password and unique customer ID selected by you. We recommend that you do not divulge your password to anyone. In addition, your personal information resides on a secure server that only selected FontShop International personnel may access via password. FontShop International protects your credit card transaction using SSL encryption and thereby prevents unauthorized parties from viewing such information when it is being transmitted to FontShop International. We do not sell or divulge your personal information to third parties.
+### Purpose of Collecting Personal Information
 
-## Use of cookies
+When you do provide us with personal data, we usually use it to respond to your inquiry, process your order or provide you access to specific information or offers. Also, to support our customer relationship with you, we may store and process voluntary and non-voluntary personal data and share it with our worldwide affiliates to better understand your business needs and how we can improve our products and services. If you choose not to have your personal data used to support our customer relationship (especially direct marketing or market research), we will respect your choice. We do not sell or otherwise market your personal data to third parties.
 
-When you visit www.fontfont.com, you can surf the site anonymously and access most information without revealing your identity. In order to enable our shopping system to work for you, we use ‘cookies’ for automated administration purposes. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card, helping to correlate your passwords, purchases, and preferences to your personal browser. It cannot be executed as code or deliver viruses.
+### Limitation on the Purpose
 
-Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the option to decide whether or not to accept it. (For web pages that require an authorization, cookies are not optional. Users who choose not to accept cookies will not be able to use all functions properly.)
+We collect, use or disclose personal information supplied by you only for the purpose(s) initially identified by you, however, in some cases we may use the personal information supplied by you: (i) for any additional purpose that is directly related to the original purpose for which the personal information was collected, including sharing such personal information with a third party vendor if you purchased a product supplied by that third party vendor from one of our Sites, (ii) when it is necessary to prepare, negotiate and perform a contract with you, (iii) when it is required by law or the competent governmental or judicial authorities, (iv) when it is necessary to establish or preserve a legal claim or defense, or (v) when it is necessary to prevent fraud or other illegal activities.
 
-While FontShop International uses cookies to ensure proper functioning of the shopping system, and our web server automatically logs the Internet IP address of your computer, this information does not identify you personally and you remain completely anonymous unless you have otherwise provided FontShop International with personal information.
+### How We Protect Your Personal Information
 
-## Updating your personal information
+Monotype uses its best efforts to try to protect the personal information that you share with us. Monotype stores information in a controlled, secure environment. We occasionally hire other companies to provide limited services on our behalf, however we only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-You have the right to access and correct your personal information and privacy preferences at any time. To edit your Registration Information, simply log into your Account Settings. The registration automatically appears, and permits you to view and edit your address details. You may also access and correct your personal information and privacy preferences by [contacting us](https://web.archive.org/contact "Contact Information").
+### How to Update Your Personal Information or “Opt-out”
+
+You can help Monotype maintain the accuracy of your personal information by notifying us when you change your name, address, title, phone number, e-mail address or your content preferences. If at any time you wish to update your information or preferences, or you prefer to stop receiving communication from Monotype, feel free to contact us at any time.
+
+### Links to Other Sites
+
+Our Site may contain links to other Sites. Monotype assumes no responsibility for the content or the privacy policies and practices of such Web sites. Monotype encourages you to read the privacy statements of the linked sites as their privacy practices may differ from ours.
+
+### Google Analytics
+
+This website uses Google Analytics, a web analysis service provided by Google Inc. (‘Google’). Google Analytics uses ‘cookies,’ which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. In the event IP anonymization is activated on this website, your IP address will be shortened beforehand by Google within member states of the European Union or in other signatory states of the Treaty on the European Economic Area. The full IP address will be transmitted to a Google Server in the USA and shortened there only on an exceptional basis. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators, and providing other services to website operators relating to website activity and Internet usage. Google will not associate the IP address transmitted under Google Analytics by your browser with other data held by Google. You may prevent the storage of cookies by selecting the appropriate settings on your browser software; however, we must advise you that in this case, you might not be able to use all functions of this website to the full extent. You may prevent Google from recording the data generated by the cookie and pertaining to your use of the website (including your IP address), or processing these data by downloading and installing the following browser plug-in available through the following link:[tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+### Google AdWords Conversion Tracking
+
+This website uses Google AdWords Conversion Tracking, a web analysis service of Google, Inc. (“Google”). Google AdWords Conversion Tracking also uses “cookies,” which are stored on your computer and facilitate an analysis of how you use the website. The information generated by the cookie about your use of this website will be transmitted to a Google server in the USA and stored there. Google will use this information to evaluate your use of the website, to compile reports on website activity for website operators, and to provide other services related to website use and Internet use. Google will also transmit this information to third parties, where applicable, if this is required by law or to the extent third parties process this data on behalf of Google. Google will not link this data with other Google data under any circumstances. You can prevent the use of cookies in general if you disallow the storage of cookies on your browser.
+
+### Business Transitions Including Merger or Acquisition
+
+If Monotype undergoes a business transition such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information may become part of the assets transferred.
+
+### Monotype Privacy Concerns Contacts
+
+If you want to change your personal information or wish to “opt-out” log in to your personal account, and enter the following url: [www.fontshop.com/settings](http://www.fontshop.com/settings) to amend your details or contact us in the following ways:
+
+#### E-mail:
+
+[info@fontshop.com](mailto:info@fontshop.com)
+
+#### Common Carrier:
+
+Monotype GmbH  
+Werner-Reimers-Str. 2–4  
+61352 Bad Homburg  
+Germany
+
+Berlin office  
+Bergmannstr. 102  
+10961 Berlin  
+Germany
+
+### Notification of Changes
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement on our Site under the Privacy Policy section. You can determine when these Terms were last revised by referring to the “Last updated” line at the bottom of these Terms. Your continued use of the Site after any changes to the site will indicate your acceptance of the changes and Terms.
+
+### Last updated 1st December 2014
