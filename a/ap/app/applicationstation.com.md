@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applicationstation.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708100257id_/https%3A//www.applicationstation.com/home/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applicationstation.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323020429id_/https%3A//www.applicationstation.com/home/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
