@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tethertools.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123142352id_/http%3A//tethertools.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tethertools.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323135528id_/https%3A//www.tethertools.com/privacy-security) for the most accurate reproduction.*
 
-# Tether Tools - Resource for Tethered Photography Equipment | Tether Tools
+# Privacy and Security | Tether Tools
 
 This policy was last updated on December 30, 2011.
 
