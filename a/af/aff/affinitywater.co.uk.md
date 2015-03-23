@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinitywater.co.uk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007160858id_/https%3A//www.affinitywater.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinitywater.co.uk privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323142608id_/https%3A//www.affinitywater.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Affinity Water
 
