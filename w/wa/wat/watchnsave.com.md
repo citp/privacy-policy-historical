@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchnsave.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204803id_/http%3A//watchnsave.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchnsave.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323034225id_/http%3A//watchnsave.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,7 +80,7 @@ Adverts | various | Our advertisers may use cookies to serve you with adverts ba
 Site Cookie Acceptance | cookietab-last-shown-time  
 cookietab-consent | These cookies are used to record if a user has accepted the use of cookies on this website | Yes | n/a  
   
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.watchnsave.com/www.allaboutcookies.org).
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://watchnsave.com/www.allaboutcookies.org).
 
 The Company does not use Cookies to store information such as credit card numbers, telephone numbers, or other information you provide. 
 
