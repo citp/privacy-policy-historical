@@ -1,26 +1,28 @@
-<!--The following is the downloaded HTML source of the topbargains.com.au privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625115038id_/http%3A//www.topbargains.com.au/page/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topbargains.com.au privacy policy that was archived on 2015-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150323173211id_/https%3A//www.topbargains.com.au/page/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" xmlns:og="http://ogp.me/ns#"><head profile="http://www.w3.org/1999/xhtml/vocab">
-        <meta charset="utf-8">
+        <meta charset="utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcHVl9VGwACUFZbDgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
         <meta name="viewport" content="width=975">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" async="" src="http://cdn.topbargains.com.au/sites/default/files/googleanalytics/ga.js?n7p85t"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><link rel="shortcut icon" href="http://cdn.topbargains.com.au/sites/all/themes/dragonborn/favicon.ico" type="image/vnd.microsoft.icon">
 <meta property="twitter:card" content="summary">
-<link rel="dns-prefetch" href="//cdn.topbargains.com.au">
-<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="shortcut icon" href="https://www.topbargains.com.au/sites/all/themes/dragonborn/favicon.ico" type="image/vnd.microsoft.icon">
 <meta property="og:type" content="website">
+<meta property="og:site_name" content="TopBargains">
+<link rel="canonical" href="https://www.topbargains.com.au/page/privacy-statement">
+<link rel="publisher" href="https://plus.google.com/+TopbargainsAus">
+<meta property="og:title" content="Privacy Statement | TopBargains">
         <title>Privacy Statement</title>
-        <link type="text/css" rel="stylesheet" href="http://cdn.topbargains.com.au/sites/default/files/cdn/css/http/css_735nYuSzLWCc9Wa2OjojZUR86PGb6kQQBr9cIDi2bqo.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn.topbargains.com.au/sites/default/files/cdn/css/http/css_3NrGKnjicULDoWZ7ngN6IwhuG6UCaxGGuPBSWo6rBFM.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn.topbargains.com.au/sites/default/files/cdn/css/http/css_SiX7eQA9cM2UCTkyGPylazxiCPcyo00IGTG7dEAgeTQ.css" media="all">
+        <link type="text/css" rel="stylesheet" href="https://www.topbargains.com.au/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.topbargains.com.au/sites/default/files/css/css_-r3noRnjt9qA_TaWd9ewUFd2Gw7O51TkXz2XvT1ept8.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.topbargains.com.au/sites/default/files/css/css_6ibc2XzhKmJP1LsIYNW5oEoYEW5-z8Y-xzR04IKKfKQ.css" media="all">
 <style>.email-textfield{display:none !important;}
 </style>
-<link type="text/css" rel="stylesheet" href="http://cdn.topbargains.com.au/sites/default/files/cdn/css/http/css_pLavifduV9H0jpWTR9bBdNFtjrNvicmj6B4htNMkIlI.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn.topbargains.com.au/sites/default/files/cdn/css/http/css_-FgubW4Fadybd484vMVZxikV5pANsyZrI_bizQbcFdY.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.topbargains.com.au/sites/default/files/css/css_aNCnniPDwrN8Vt4WAz433TUBt0oXn04MYG2Zr-k0Tnk.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.topbargains.com.au/sites/default/files/css/css_2PkAlIlVKbNBC2b_qx7ceUt5SrLIBR4zcpiyyUbk4ks.css" media="all">
 
 <!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="http://cdn.topbargains.com.au/sites/default/files/cdn/css/http/css_-4BWkDQNhEHjpWDvaQEEFSiq4XAIfMjheW6vHsYi4qQ_IE.css.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.topbargains.com.au/sites/all/themes/dragonborn/css/IE.css?nlnrdu" media="all" />
 <![endif]-->
 
         <!-- HTML5 element support for IE6-8 -->
@@ -31,54 +33,68 @@
         <script>window.google_analytics_uacct = "UA-2049829-1";</script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js"></script>
-<script src="http://cdn.topbargains.com.au/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
-<script src="http://cdn.topbargains.com.au/sites/default/files/js/js_KgCNQm_jdlbuilvxNQyCuzPIxbaHFd56Yhs0Gn31sJo.js"></script>
-<script src="http://cdn.topbargains.com.au/sites/default/files/js/js_4phwyzrROnXZONe8lZr_WtFd_AFTSVNwcK4gmOdKYP0.js"></script>
-<script src="http://cdn.topbargains.com.au/sites/default/files/js/js_3Li_1_BE42bzlN6h4ud9_gyuh3GmSsNyQ-cWLET_lfo.js"></script>
-<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2049829-1"]);_gaq.push(['_setCustomVar', 1, "Node Created", "Dec 2012", 3]);_gaq.push(['_setCustomVar', 2, "User Role", "anonymous user", 3]);_gaq.push(["_trackPageview"]);(function() {
+<script src="https://www.topbargains.com.au/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script src="https://www.topbargains.com.au/sites/default/files/js/js_lu2cC5OFdP3WrW9p7ZraBLV8-2qXB41E0H1zcC0I7A8.js"></script>
+<script src="https://www.topbargains.com.au/sites/default/files/js/js_4phwyzrROnXZONe8lZr_WtFd_AFTSVNwcK4gmOdKYP0.js"></script>
+<script src="https://www.topbargains.com.au/sites/default/files/js/js_3Li_1_BE42bzlN6h4ud9_gyuh3GmSsNyQ-cWLET_lfo.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2049829-1"]);_gaq.push(['_setCustomVar', 1, "Node Created", "Dec 2012", 3]);_gaq.push(['_setCustomVar', 2, "User Role", "anonymous user", 3]);_gaq.push(['_setSiteSpeedSampleRate', 100]);_gaq.push(["_trackPageview"]);(function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "http://cdn.topbargains.com.au/sites/default/files/googleanalytics/ga.js?n7p85t";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
-<script src="http://cdn.topbargains.com.au/sites/default/files/js/js_8d5seS5_6LTM7NUlCTd3TsN1yeT1Nrv_29RqsnN89S8.js"></script>
-<script src="http://cdn.topbargains.com.au/sites/default/files/js/js_RfnN4sHvyAIc7sB17_1gRnLbCZ2gtKT8tpUNzBPbBEw.js"></script>
-<script src="http://cdn.topbargains.com.au/sites/default/files/js/js_8PgFgM-xYCSv8yTqNRBvc8H1Kl_vww_UtSzit7oKA58.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dragonborn","theme_token":"DIuS9NoX1Ymcrh5uYUBjJ11SIqNxT84aSnwpLLaKjJY","js":{"sites\/all\/themes\/dragonborn\/js\/common.js":1,"sites\/all\/themes\/dragonborn\/js\/xsearch_autocomplete.js":1,"sites\/all\/modules\/Custom_Modules\/Xstats\/js\/user_popover.js":1,"sites\/all\/themes\/dragonborn\/js\/user_login.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"0":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.1\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/modules\/quote\/quote.js":1,"sites\/all\/modules\/heartbeat\/js\/autoresize.jquery.js":1,"sites\/all\/modules\/heartbeat\/modules\/heartbeat_comments\/heartbeat_comments.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/hide_submit\/hide_submit.js":1,"sites\/all\/themes\/dragonborn\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/quote\/quote.css":1,"sites\/all\/modules\/rate\/rate.css":1,"sites\/default\/files\/sl_sprites.css":1,"sites\/all\/themes\/dragonborn\/css\/newsletter.css":1,"0":1,"sites\/all\/themes\/dragonborn\/css\/user_login.css":1,"sites\/all\/modules\/hide_submit\/hide_submit.css":1,"sites\/all\/themes\/dragonborn\/bootstrap\/css\/bootstrap.min.css":1,"sites\/all\/themes\/dragonborn\/font-awesome\/css\/font-awesome.min.css":1,"sites\/all\/themes\/dragonborn\/css\/style.css":1,"sites\/all\/themes\/dragonborn\/css\/IE.css":1}},"heartbeat_language":"en","heartbeat_poll_url":"http:\/\/www.topbargains.com.au\/heartbeat\/js\/poll","quote_nest":"2","heartbeat_comment_post_url":"http:\/\/www.topbargains.com.au\/heartbeat\/comment\/post","heartbeat_comment_load_url":"http:\/\/www.topbargains.com.au\/heartbeat\/comments\/load\/js","extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":0,"extExclude":"","extInclude":"\/go\/","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"Processing...","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_hide_fx":0,"hide_submit_reset_time":5000},"anonymous":true,"user":{"login_form":"\u003Cform action=\u0022\/page\/privacy-statement\u0022 method=\u0022post\u0022 id=\u0022user-login\u0022 accept-charset=\u0022UTF-8\u0022\u003E\u003Cdiv\u003E\u003Cdiv class=\u0022form-type-textfield form-item-name form-item form-group\u0022 data-toggle=\u0022tooltip\u0022 title=\u0022Enter your TopBargains username.\u0022\u003E\n  \u003Clabel for=\u0022edit-name\u0022\u003EUsername \u003Cspan class=\u0022form-required\u0022 title=\u0022This field is required.\u0022\u003E*\u003C\/span\u003E\u003C\/label\u003E\n \u003Cinput tabindex=\u00221\u0022 class=\u0022form-control form-text required\u0022 type=\u0022text\u0022 id=\u0022edit-name\u0022 name=\u0022name\u0022 value=\u0022\u0022 size=\u002260\u0022 maxlength=\u002260\u0022 \/\u003E\n\u003C\/div\u003E\n\u003Cdiv class=\u0022form-type-password form-item-pass form-item form-group\u0022 data-toggle=\u0022tooltip\u0022 title=\u0022Enter the password that accompanies your username.\u0022\u003E\n  \u003Clabel for=\u0022edit-pass\u0022\u003EPassword \u003Cspan class=\u0022form-required\u0022 title=\u0022This field is required.\u0022\u003E*\u003C\/span\u003E\u003C\/label\u003E\n \u003Cinput tabindex=\u00221\u0022 class=\u0022form-control form-text required\u0022 type=\u0022password\u0022 id=\u0022edit-pass\u0022 name=\u0022pass\u0022 size=\u002260\u0022 maxlength=\u0022128\u0022 \/\u003E\n\u003C\/div\u003E\n\u003Cdiv class=\u0022form-type-checkbox form-item-remember-me form-item checkbox\u0022\u003E\n \u003Cinput tabindex=\u00221\u0022 type=\u0022checkbox\u0022 id=\u0022edit-remember-me\u0022 name=\u0022remember_me\u0022 value=\u00221\u0022 checked=\u0022checked\u0022 class=\u0022form-checkbox\u0022 \/\u003E  \u003Clabel for=\u0022edit-remember-me\u0022\u003ERemember me \u003C\/label\u003E\n\n\u003C\/div\u003E\n\u003Cinput type=\u0022hidden\u0022 name=\u0022form_build_id\u0022 value=\u0022form-v4e4Vld87Cooj0Wd0ZmROE6SSvwH0ftgMgkh_kuzeb4\u0022 \/\u003E\n\u003Cinput type=\u0022hidden\u0022 name=\u0022form_id\u0022 value=\u0022user_login\u0022 \/\u003E\n\u003Cbutton tabindex=\u00221\u0022 class=\u0022btn btn-default form-submit\u0022 id=\u0022edit-submit\u0022 name=\u0022op\u0022 value=\u0022Log in\u0022 type=\u0022submit\u0022\u003ELog in\u003C\/button\u003E\n\u003C\/div\u003E\u003C\/form\u003E","registration_form":"\u003Cform class=\u0022user-info-from-cookie\u0022 enctype=\u0022multipart\/form-data\u0022 action=\u0022\/page\/privacy-statement\u0022 method=\u0022post\u0022 id=\u0022user-register-form\u0022 accept-charset=\u0022UTF-8\u0022\u003E\u003Cdiv\u003E\u003Cdiv id=\u0022edit-account\u0022 class=\u0022form-wrapper form-group\u0022\u003E\u003Cdiv class=\u0022form-type-textfield form-item-name form-item form-group\u0022 data-toggle=\u0022tooltip\u0022 title=\u0022Spaces are allowed; punctuation is not allowed except for periods, hyphens, apostrophes, and underscores.\u0022\u003E\n  \u003Clabel for=\u0022edit-name--2\u0022\u003EUsername \u003Cspan class=\u0022form-required\u0022 title=\u0022This field is required.\u0022\u003E*\u003C\/span\u003E\u003C\/label\u003E\n \u003Cinput class=\u0022username form-control form-text required\u0022 type=\u0022text\u0022 id=\u0022edit-name--2\u0022 name=\u0022name\u0022 value=\u0022\u0022 size=\u002260\u0022 maxlength=\u002260\u0022 \/\u003E\n\u003C\/div\u003E\n\u003Cdiv class=\u0022form-type-textfield form-item-mail form-item form-group\u0022\u003E\n  \u003Clabel for=\u0022edit-mail\u0022\u003EE-mail address \u003Cspan class=\u0022form-required\u0022 title=\u0022This field is required.\u0022\u003E*\u003C\/span\u003E\u003C\/label\u003E\n \u003Cinput class=\u0022form-control form-text required\u0022 type=\u0022text\u0022 id=\u0022edit-mail\u0022 name=\u0022mail\u0022 value=\u0022\u0022 size=\u002260\u0022 maxlength=\u0022254\u0022 \/\u003E\n\u003Cp class=\u0022help-block\u0022\u003EA valid e-mail address. All e-mails from the system will be sent to this address. The e-mail address is not made public and will only be used if you wish to receive a new password or wish to receive certain news or notifications by e-mail.\u003C\/p\u003E\n\u003C\/div\u003E\n\u003C\/div\u003E\u003Cinput type=\u0022hidden\u0022 name=\u0022form_build_id\u0022 value=\u0022form-7bZNE4LQlB9gWVE9pZZiWaeKH30oLhaEpCx8FXP2WrE\u0022 \/\u003E\n\u003Cinput type=\u0022hidden\u0022 name=\u0022form_id\u0022 value=\u0022user_register_form\u0022 \/\u003E\n\u003Cinput type=\u0022hidden\u0022 name=\u0022honeypot_time\u0022 value=\u00221403697039\u0022 \/\u003E\n\u003Cdiv class=\u0022email-textfield\u0022\u003E\u003Cdiv class=\u0022form-type-textfield form-item-email form-item form-group\u0022\u003E\n  \u003Clabel for=\u0022edit-email\u0022\u003ELeave this field blank \u003C\/label\u003E\n \u003Cinput autocomplete=\u0022off\u0022 class=\u0022form-control form-text\u0022 type=\u0022text\u0022 id=\u0022edit-email\u0022 name=\u0022email\u0022 value=\u0022\u0022 size=\u002220\u0022 maxlength=\u0022128\u0022 \/\u003E\n\u003C\/div\u003E\n\u003C\/div\u003E\u003Cbutton class=\u0022btn btn-success form-submit\u0022 id=\u0022edit-submit--2\u0022 name=\u0022op\u0022 value=\u0022Create new account\u0022 type=\u0022submit\u0022\u003ECreate new account\u003C\/button\u003E\n\u003C\/div\u003E\u003C\/form\u003E"},"ajax":{"edit-name--3":{"callback":"forms_alters_login_uname_callback","wrapper":"loginform_wrapper","method":"replaceWith","effect":"fade","progress":{"type":"none"},"event":"blur","url":"\/system\/ajax","submit":{"_triggering_element_name":"name"}}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+  })();(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="https://www.topbargains.com.au/sites/default/files/js/js_rPs0LKtRZ4OhlfPw92q37ZdYEtnZn0xw8saWP-8prro.js"></script>
+<script src="https://www.topbargains.com.au/sites/default/files/js/js_RfnN4sHvyAIc7sB17_1gRnLbCZ2gtKT8tpUNzBPbBEw.js"></script>
+<script src="https://www.topbargains.com.au/sites/default/files/js/js_8PgFgM-xYCSv8yTqNRBvc8H1Kl_vww_UtSzit7oKA58.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dragonborn","theme_token":"qifqIUK33nBHAJeBHVV0Ds4u2CYLQwO_Ky6yx9hUQpo","js":{"sites\/all\/themes\/dragonborn\/js\/common.js":1,"sites\/all\/themes\/dragonborn\/js\/xsearch_autocomplete.js":1,"sites\/all\/modules\/Custom_Modules\/Xstats\/js\/user_popover.js":1,"sites\/all\/themes\/dragonborn\/js\/user_login.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"0":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.1\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/modules\/quote\/quote.js":1,"sites\/all\/modules\/heartbeat\/js\/autoresize.jquery.js":1,"sites\/all\/modules\/heartbeat\/modules\/heartbeat_comments\/heartbeat_comments.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"misc\/autocomplete.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/hide_submit\/hide_submit.js":1,"sites\/all\/themes\/dragonborn\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/autocomplete.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/quote\/quote.css":1,"sites\/all\/modules\/rate\/rate.css":1,"sites\/default\/files\/sl_sprites.css":1,"0":1,"sites\/all\/themes\/dragonborn\/css\/user_login.css":1,"sites\/all\/modules\/hide_submit\/hide_submit.css":1,"sites\/all\/themes\/dragonborn\/bootstrap\/css\/bootstrap.min.css":1,"sites\/all\/themes\/dragonborn\/font-awesome\/css\/font-awesome.min.css":1,"sites\/all\/themes\/dragonborn\/css\/style.css":1,"sites\/all\/themes\/dragonborn\/css\/IE.css":1}},"heartbeat_language":"en","heartbeat_poll_url":"https:\/\/www.topbargains.com.au\/heartbeat\/js\/poll","quote_nest":"2","heartbeat_comment_post_url":"https:\/\/www.topbargains.com.au\/heartbeat\/comment\/post","heartbeat_comment_load_url":"https:\/\/www.topbargains.com.au\/heartbeat\/comments\/load\/js","extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":0,"extExclude":"","extInclude":"\/go\/","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"Processing...","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_hide_fx":0,"hide_submit_reset_time":5000},"anonymous":true,"user":{"login_form":"\u003Cform action=\u0022\/page\/privacy-statement\u0022 method=\u0022post\u0022 id=\u0022user-login\u0022 accept-charset=\u0022UTF-8\u0022\u003E\u003Cdiv\u003E\u003Cdiv class=\u0022form-type-textfield form-item-name form-item form-group\u0022 data-toggle=\u0022tooltip\u0022 title=\u0022Enter your TopBargains username.\u0022\u003E\n  \u003Clabel for=\u0022edit-name\u0022\u003EUsername \u003Cspan class=\u0022form-required\u0022 title=\u0022This field is required.\u0022\u003E*\u003C\/span\u003E\u003C\/label\u003E\n \u003Cinput tabindex=\u00221\u0022 class=\u0022form-control form-text required\u0022 type=\u0022text\u0022 id=\u0022edit-name\u0022 name=\u0022name\u0022 value=\u0022\u0022 size=\u002260\u0022 maxlength=\u002260\u0022 \/\u003E\n\u003C\/div\u003E\n\u003Cdiv class=\u0022form-type-password form-item-pass form-item form-group\u0022 data-toggle=\u0022tooltip\u0022 title=\u0022Enter the password that accompanies your username.\u0022\u003E\n  \u003Clabel for=\u0022edit-pass\u0022\u003EPassword \u003Cspan class=\u0022form-required\u0022 title=\u0022This field is required.\u0022\u003E*\u003C\/span\u003E\u003C\/label\u003E\n \u003Cinput tabindex=\u00221\u0022 class=\u0022form-control form-text required\u0022 type=\u0022password\u0022 id=\u0022edit-pass\u0022 name=\u0022pass\u0022 size=\u002260\u0022 maxlength=\u0022128\u0022 \/\u003E\n\u003C\/div\u003E\n\u003Cdiv class=\u0022form-type-checkbox form-item-remember-me form-item checkbox\u0022\u003E\n \u003Cinput tabindex=\u00221\u0022 type=\u0022checkbox\u0022 id=\u0022edit-remember-me\u0022 name=\u0022remember_me\u0022 value=\u00221\u0022 checked=\u0022checked\u0022 class=\u0022form-checkbox\u0022 \/\u003E  \u003Clabel for=\u0022edit-remember-me\u0022\u003ERemember me \u003C\/label\u003E\n\n\u003C\/div\u003E\n\u003Cinput type=\u0022hidden\u0022 name=\u0022form_build_id\u0022 value=\u0022form-23wirEgx_RIEXEiE4EXp2BKZ2DyuyuNZg0E0TW4NZ3s\u0022 \/\u003E\n\u003Cinput type=\u0022hidden\u0022 name=\u0022form_id\u0022 value=\u0022user_login\u0022 \/\u003E\n\u003Cbutton tabindex=\u00221\u0022 class=\u0022btn btn-default form-submit\u0022 id=\u0022edit-submit\u0022 name=\u0022op\u0022 value=\u0022Log in\u0022 type=\u0022submit\u0022\u003ELog in\u003C\/button\u003E\n\u003C\/div\u003E\u003C\/form\u003E","registration_form":"\u003Cform class=\u0022user-info-from-cookie\u0022 enctype=\u0022multipart\/form-data\u0022 action=\u0022\/page\/privacy-statement\u0022 method=\u0022post\u0022 id=\u0022user-register-form\u0022 accept-charset=\u0022UTF-8\u0022\u003E\u003Cdiv\u003E\u003Cdiv id=\u0022edit-account\u0022 class=\u0022form-wrapper form-group\u0022\u003E\u003Cdiv class=\u0022form-type-textfield form-item-name form-item form-group\u0022 data-toggle=\u0022tooltip\u0022 title=\u0022Spaces are allowed; punctuation is not allowed except for periods, hyphens, apostrophes, and underscores.\u0022\u003E\n  \u003Clabel for=\u0022edit-name--2\u0022\u003EUsername \u003Cspan class=\u0022form-required\u0022 title=\u0022This field is required.\u0022\u003E*\u003C\/span\u003E\u003C\/label\u003E\n \u003Cinput class=\u0022username form-control form-text required\u0022 type=\u0022text\u0022 id=\u0022edit-name--2\u0022 name=\u0022name\u0022 value=\u0022\u0022 size=\u002260\u0022 maxlength=\u002260\u0022 \/\u003E\n\u003C\/div\u003E\n\u003Cdiv class=\u0022form-type-textfield form-item-mail form-item form-group\u0022\u003E\n  \u003Clabel for=\u0022edit-mail\u0022\u003EE-mail address \u003Cspan class=\u0022form-required\u0022 title=\u0022This field is required.\u0022\u003E*\u003C\/span\u003E\u003C\/label\u003E\n \u003Cinput class=\u0022form-control form-text required\u0022 type=\u0022text\u0022 id=\u0022edit-mail\u0022 name=\u0022mail\u0022 value=\u0022\u0022 size=\u002260\u0022 maxlength=\u0022254\u0022 \/\u003E\n\u003Cp class=\u0022help-block\u0022\u003EA valid e-mail address. All e-mails from the system will be sent to this address. The e-mail address is not made public and will only be used if you wish to receive a new password or wish to receive certain news or notifications by e-mail.\u003C\/p\u003E\n\u003C\/div\u003E\n\u003C\/div\u003E\u003Cinput type=\u0022hidden\u0022 name=\u0022form_build_id\u0022 value=\u0022form-7q_XNXgpAhUdOeb1lxUASGdyHIKq7R4TqQbAXbicwrw\u0022 \/\u003E\n\u003Cinput type=\u0022hidden\u0022 name=\u0022form_id\u0022 value=\u0022user_register_form\u0022 \/\u003E\n\u003Cdiv class=\u0022email-textfield\u0022\u003E\u003Cdiv class=\u0022form-type-textfield form-item-email form-item form-group\u0022\u003E\n  \u003Clabel for=\u0022edit-email\u0022\u003ELeave this field blank \u003C\/label\u003E\n \u003Cinput autocomplete=\u0022off\u0022 class=\u0022form-control form-text\u0022 type=\u0022text\u0022 id=\u0022edit-email\u0022 name=\u0022email\u0022 value=\u0022\u0022 size=\u002220\u0022 maxlength=\u0022128\u0022 \/\u003E\n\u003C\/div\u003E\n\u003C\/div\u003E\u003Cbutton class=\u0022btn btn-success form-submit\u0022 id=\u0022edit-submit--2\u0022 name=\u0022op\u0022 value=\u0022Create new account\u0022 type=\u0022submit\u0022\u003ECreate new account\u003C\/button\u003E\n\u003C\/div\u003E\u003C\/form\u003E"},"ajax":{"edit-name--3":{"callback":"forms_alters_login_uname_callback","wrapper":"loginform_wrapper","method":"replaceWith","effect":"fade","progress":{"type":"none"},"event":"blur","url":"\/system\/ajax","submit":{"_triggering_element_name":"name"}}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 
         <!--[if IE 7]>
-<script src="http://www.topbargains.com.au/sites/all/themes/dragonborn/js/IE7.js"></script>
+<script src="//www.topbargains.com.au/sites/all/themes/dragonborn/js/IE7.js"></script>
 <![endif]-->
 
     </head>
-    <body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-65090 node-type-page">
-                <header role="banner" id="page-header">
+    <body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-65090 node-type-page navbar-is-fixed-top">
+                <header id="navbar" role="banner" class="navbar navbar-fixed-top navbar-default">
 
-    <div class="upper">
-    <div class="container clearfix">
-        <div class="pull-left fff-all submit-bargain">
-	    <i class="fa fa-plus-circle"></i>&nbsp;<a href="#" class="toggle_user_form" onclick="Drupal.toggle_user_form()">Submit a Bargain</a>        </div>
-        
-        <div class="pull-right">
-            <ul class="list-unstyled list-inline top-nav">
-                <li class="fff-all">
-                    <i class="fa fa-repeat"></i> <a href="/live" rel="nofollow">Live</a>
+    <div class="container">
+    <div class="navbar-header">
+   
+      <a class="logo navbar-btn pull-left" href="/" title="Home">
+          <img src="/sites/all/themes/dragonborn/img/topLogo.png" alt="Topbargains">
+      </a>
+  
 
-                </li>
-                
-                <li class="fff-all">
-                    <i class="fa fa-rss"></i> <a href="/blog">Blog</a>
+   
+    </div>
 
-                </li>
-                
-		<!--    		<li></li>-->
-		                
-		 
-    		<li>
+   
+      <div class="navbar-collapse collapse">
+        <nav role="navigation">
+	<ul class="menu nav navbar-nav"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/forum/hot-deals">New Deals</a></li>
+<li class="leaf"><a href="/stores">Stores</a></li>
+<li class="last expanded "><a href="/forum" title="" data-target="#">Forums <span class="caret"></span></a><div class="clearfix menu-set"><ul><li class="first leaf"><a href="/forum/freebies" title="Active deals with high user activity">Freebies</a></li>
+<li class="leaf"><a href="/forum/hot-deals">Hot Deals</a></li>
+<li class="leaf"><a href="/forum/active">Active Topics</a></li>
+<li class="leaf"><a href="/forum/find-me-bargain">Help me Find</a></li>
+<li class="last leaf"><a href="/forum/lounge">Lounge</a></li>
+</ul></div></li>
+</ul>        </nav>
+        <div class="top-search pull-left">
+        <form class="form-search content-search pull-left" action="/page/privacy-statement" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+  <div class="clearfix"><input title="Type in a Store or Product Name" placeholder="Type in a Store or Product Name" class="input-sm pull-left form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"><input type="hidden" id="edit-search-block-form--2-autocomplete" value="https://www.topbargains.com.au/xsearch_autocomplete" disabled="disabled" class="autocomplete"><button type="submit" class="btn btn-default pull-right"><i class="fa fa-search"></i></button></div><button class="element-invisible btn btn-primary form-submit" id="edit-submit--3" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-CmCru7aMhxu8y4VSpJmvWBdB2WAIJ56EyOYQwCuV99k">
+<input type="hidden" name="form_id" value="search_block_form">
+
+</div></form>        </div>
+     
+  
+	 
+	 <div class="top-user pull-right">
     		    <div class="btn-group dropdown">
-    			<a href="/user/register" class="btn btn-default btn-xs register" rel="nofollow">Register</a>
-    			<a class="btn btn-xs btn-success login dropdown-toggle" data-toggle="dropdown" rel="nofollow">Login <i class="fa fa-caret-down"></i></a>
-    			<div class="dropdown-menu">
-				<form action="/page/privacy-statement?destination=node/65090" method="post" id="user-login-form" accept-charset="UTF-8"><div><div id="loginform_wrapper"></div><div class="form-type-textfield form-item-name form-item form-group">
+    			<a href="/user/register" class="btn btn-default btn-sm register" rel="nofollow">Register</a>
+    			<a class="btn btn-sm btn-info login dropdown-toggle" data-toggle="dropdown" rel="nofollow">Login <i class="fa fa-caret-down"></i></a>
+    			<div class="dropdown-menu login-form">
+			     <form action="/page/privacy-statement?destination=node/65090" method="post" id="user-login-form" accept-charset="UTF-8"><div><div id="loginform_wrapper"></div><div class="form-type-textfield form-item-name form-item form-group">
   <label for="edit-name--3">Username <span class="form-required" title="This field is required.">*</span></label>
  <input tabindex="1" class="form-control form-text required" type="text" id="edit-name--3" name="name" value="" size="60" maxlength="60">
 </div>
@@ -90,185 +106,27 @@
  <input tabindex="3" type="checkbox" id="edit-remember-me--2" name="remember_me" value="1" checked="checked" class="form-checkbox">  <label for="edit-remember-me--2">Remember me </label>
 
 </div>
-<input type="hidden" name="form_build_id" value="form-vgRqQ7h1mBpfCIYoqFsvCUkZ6H0ZRQq6aaDbX91ggRY">
+<input type="hidden" name="form_build_id" value="form-hvZKbNkSagT9wLl8mbKfgCsmVkT9rpqYrVZnaqzwi-U">
 <input type="hidden" name="form_id" value="user_login_block">
-<button class="btn-success btn form-submit" tabindex="4" id="edit-submit--3" name="op" value="Log in" type="submit">Log in</button>
-<hr class="soften" id="login_modal_spacer"><a href="http://www.topbargains.com.au/user/password" class="btn btn-default">Forgotten Password?</a></div></form>    			</div>
+<button class="btn-info btn form-submit" tabindex="4" id="edit-submit--4" name="op" value="Log in" type="submit">Log in</button>
+<hr class="soften" id="login_modal_spacer"><a href="https://www.topbargains.com.au/user/password" class="btn btn-default" rel="nofollow">Forgotten Password?</a></div></form>    			</div>
     		    </div>
-    		</li>
+    	</div>
+       
+            <div class="top-social pull-right">
+		<ul class="list-unstyled list-inline">
+    <li><a href="https://www.facebook.com/topbargains" rel="me" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://twitter.com/topbargain" rel="me" target="_blank"><i class="fa fa-twitter"></i></a></li>
+      <li><a href="https://plus.google.com/+TopbargainsAus" rel="me" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+ </ul>
+        </div>  
 
-		
-            </ul>
-        </div>
-    </div>
-</div>
-
-<div class="lower">
-    <div class="container">
-        <div class=" clearfix">
-            <div class="pull-left logo">
-                <a href="/"><img src="/sites/all/themes/dragonborn/img/tb-logo.png" alt="Topbargains"></a>
-            </div>
-            <div class="pull-right clearfix" style="margin-top: 23px;">
-                <ul class="pull-left list-inline list-unstyled social">
-                    <li class="fb-link">
-
-<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ftopbargains&amp;width=85&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=276540755710942" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowtransparency="true"></iframe>
-
-		    </li>
-                    <li class="g-link">
-                    <!-- Place this tag where you want the +1 button to render. -->
-<div class="g-plusone" data-size="medium" data-action="share" data-annotation="bubble" data-href="https://plus.google.com/100054043313060350940"></div>
-
-<!-- Place this tag after the last +1 button tag. -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/platform.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
-                    </li>
-
-                </ul>
-
-		<form class="form-search content-search pull-left" action="/page/privacy-statement" method="post" id="search-block-form" accept-charset="UTF-8"><div>
-  <div class="clearfix"><input title="Type in a Store or Product Name" placeholder="Type in a Store or Product Name" class="input-sm pull-left form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"><input type="hidden" id="edit-search-block-form--2-autocomplete" value="http://www.topbargains.com.au/xsearch_autocomplete" disabled="disabled" class="autocomplete"><button type="submit" class="btn btn-default pull-right"><i class="fa fa-search"></i></button></div><button class="element-invisible btn btn-primary form-submit" id="edit-submit--4" name="op" value="Search" type="submit">Search</button>
-<input type="hidden" name="form_build_id" value="form-ak4m_v0yyhtJ5O_BJSmBK9kq8vNR84Z-_LpS7COkYI0">
-<input type="hidden" name="form_id" value="search_block_form">
-
-</div></form>            </div>
-        </div>
-        <div class="clearfix">
-
-            <nav class="navbar navbar-default" role="navigation">
-		<ul class="menu nav navbar-nav"><li class="first leaf"><a href="/" title="">Home</a></li>
-<li class="expanded "><a href="/latest_deals" title="" data-target="#">All Deals <span class="label label-info show_new">49 New</span> <span class="caret"></span></a><div class="clearfix menu-set deals"><ul><li class="first leaf"><a href="/latest_deals?filters%5Bfilter_time%5D=Recent%20Deals" title="Active deals with high user activity">Recent Deals</a></li>
-<li class="leaf"><a href="/latest_deals?filters%5Bfilter_time%5D=Expiring%20Soon">Expiring Soon</a></li>
-<li class="leaf"><a href="/latest_deals?filters%5Bfilter_time%5D=Most%20Viewed%20Today">Most Viewed Today</a></li>
-<li class="leaf"><a href="/latest_deals?filters%5Bfilter_time%5D=Just%20Expired">Just Expired</a></li>
-<li class="last leaf"><a href="/latest_deals" class="btn btn-xs btn-info">View all Deals</a></li>
-</ul></div></li>
-<li class="expanded "><a href="/categories" data-target="#">Categories <span class="caret"></span></a><div class="clearfix menu-set"><ul><li class="first leaf"><a href="/category/catalogues" title="">Catalogues</a></li>
-<li class="leaf"><a href="/category/clothing-and-fashion" title="">Clothing</a></li>
-<li class="leaf"><a href="/category/computers-laptops" title="">Computers &amp; Laptops</a></li>
-<li class="leaf"><a href="/category/gadgets" title="">Gadgets</a></li>
-<li class="leaf"><a href="/category/home-appliances" title="">Home Appliances</a></li>
-<li class="leaf"><a href="/category/travel" title="">Travel</a></li>
-<li class="last leaf"><a href="/categories" class="btn btn-xs btn-info">View All Categories</a></li>
-</ul></div></li>
-<li class="leaf"><a href="/category/freebies-samples" title="">Freebies</a></li>
-<li class="expanded "><a href="/forum" title="" data-target="#">Forums <span class="caret"></span></a><div class="clearfix menu-set"><ul><li class="first leaf"><a href="http://www.topbargains.com.au/forum/active" title="">Active Topics</a></li>
-<li class="leaf"><a href="/forum/find-me-bargain" title="">Find Me a Bargain</a></li>
-<li class="leaf"><a href="/forum/lounge" title="">Lounge</a></li>
-<li class="leaf"><a href="/forum/unanswered">Unanswered Topics</a></li>
-<li class="last leaf"><a href="/forum" class="btn btn-xs btn-info">View All Topics</a></li>
-</ul></div></li>
-<li class="last leaf"><a href="/weekly_competition">Weekly Competition</a></li>
-</ul>                <ul class="browse-stores"><li><a href="/stores">Browse all Stores <i class="fa fa-caret-down"></i></a>
-                        <div class="clearfix menu-set stores text-center">
-
-
-			    
-<ul class="list-inline pull-right">
-
-    <li class="first leaf "><a href="/stores/num" title="">#</a></li>
-    	        <li class="leaf "><a href="/stores/a" title="">A</a></li>
-		        <li class="leaf "><a href="/stores/b" title="">B</a></li>
-		        <li class="leaf "><a href="/stores/c" title="">C</a></li>
-		        <li class="leaf "><a href="/stores/d" title="">D</a></li>
-		        <li class="leaf "><a href="/stores/e" title="">E</a></li>
-		        <li class="leaf "><a href="/stores/f" title="">F</a></li>
-		        <li class="leaf "><a href="/stores/g" title="">G</a></li>
-		        <li class="leaf "><a href="/stores/h" title="">H</a></li>
-		        <li class="leaf "><a href="/stores/i" title="">I</a></li>
-		        <li class="leaf "><a href="/stores/j" title="">J</a></li>
-		        <li class="leaf "><a href="/stores/k" title="">K</a></li>
-		        <li class="leaf "><a href="/stores/l" title="">L</a></li>
-		        <li class="leaf "><a href="/stores/m" title="">M</a></li>
-		        <li class="leaf "><a href="/stores/n" title="">N</a></li>
-		        <li class="leaf "><a href="/stores/o" title="">O</a></li>
-		        <li class="leaf "><a href="/stores/p" title="">P</a></li>
-		        <li class="leaf "><a href="/stores/q" title="">Q</a></li>
-		        <li class="leaf "><a href="/stores/r" title="">R</a></li>
-		        <li class="leaf "><a href="/stores/s" title="">S</a></li>
-		        <li class="leaf "><a href="/stores/t" title="">T</a></li>
-		        <li class="leaf "><a href="/stores/u" title="">U</a></li>
-		        <li class="leaf "><a href="/stores/v" title="">V</a></li>
-		        <li class="leaf "><a href="/stores/w" title="">W</a></li>
-		        <li class="leaf "><a href="/stores/x" title="">X</a></li>
-		        <li class="leaf "><a href="/stores/y" title="">Y</a></li>
-		        <li class="leaf "><a href="/stores/z" title="">Z</a></li>
-	</ul>
-
-			    <strong class="pull-left">Find Stores: </strong>                            
-                            <div class="clear"></div>
-			                                <ul class="list-inline nav-stores">
-				    				<li><div class="thumb55">
-    					<a href="/store/dealsdirect">
-						
-          <img src="http://cdn.topbargains.com.au/sites/default/files/styles/sidebar-w50/public/storelogo/1000508_10151497502842217_1697415834_a.png?itok=By0dJ6uw" width="55" height="55" alt="">    
-    					</a>
-    				    </div></li>
-				    				<li><div class="thumb55">
-    					<a href="/store/big-w">
-						
-          <img src="http://cdn.topbargains.com.au/sites/default/files/styles/sidebar-w50/public/storelogo/big_w_logo_circle.jpg?itok=jDytREZ0" width="55" height="55" alt="">    
-    					</a>
-    				    </div></li>
-				    				<li><div class="thumb55">
-    					<a href="/store/amaysim">
-						
-          <img src="http://cdn.topbargains.com.au/sites/default/files/styles/sidebar-w50/public/storelogo/amaysim_logo.gif?itok=Asglf5xY" width="55" height="55" alt="amaysim coupon">    
-    					</a>
-    				    </div></li>
-				    				<li><div class="thumb55">
-    					<a href="/store/priceline">
-						
-          <img src="http://cdn.topbargains.com.au/sites/default/files/styles/sidebar-w50/public/storelogo/logo_11.png?itok=BhJBsIUL" width="55" height="55" alt="">    
-    					</a>
-    				    </div></li>
-				    				<li><div class="thumb55">
-    					<a href="/store/bonds">
-						
-          <img src="http://cdn.topbargains.com.au/sites/default/files/styles/sidebar-w50/public/storelogo/logo_14.png?itok=SQmucekL" width="55" height="55" alt="">    
-    					</a>
-    				    </div></li>
-				    				<li><div class="thumb55">
-    					<a href="/store/millers">
-						
-          <img src="http://cdn.topbargains.com.au/sites/default/files/styles/sidebar-w50/public/storelogo/millers.png?itok=wNWoAWJK" width="55" height="55" alt="Millers Logo">    
-    					</a>
-    				    </div></li>
-				    				<li><div class="thumb55">
-    					<a href="/store/van-heusen">
-						
-          <img src="http://cdn.topbargains.com.au/sites/default/files/styles/sidebar-w50/public/storelogo/vanhousen.png?itok=HHPd5Hlo" width="55" height="55" alt="Van Heusen" title="Van Heusen">    
-    					</a>
-    				    </div></li>
-				    				<li><div class="thumb55">
-    					<a href="/store/hushpuppiescomau">
-						
-          <img src="http://cdn.topbargains.com.au/sites/default/files/styles/sidebar-w50/public/storelogo/hush_puppies.jpg?itok=yuVbl4_-" width="55" height="55" alt="Hush Puppies">    
-    					</a>
-    				    </div></li>
-							    </ul>
-
-                            <a href="/stores" class="btn btn-info btn-xs pull-right">View all Stores</a>
-
-                        </div>
-                    </li>
-                </ul>
-            </nav>            
-
-        </div>
-    </div>
-</div>
-
+   </div>
+ 
+ </div>
 
 </header> <!-- /#header -->
-<div class="separator"></div>
+
 
 <div class="container bcrumbs"> <ol class="breadcrumb list-unstyled"><li class="first"><a href="/">Home</a></li>
 <li class="active last">Privacy Statement</li>
@@ -349,100 +207,120 @@ PO Box 3142, Rhodes, NSW, 2138, Australia</p>
 		
     <div id="custom-sidebar-second" class="region region-sidebar-second">
         
-        <section id="block-block-36" class="block block-block clearfix">
+        <section id="block-block-37" class="block block-block">
 
       
-  
-
-    <!-- view couopon Pop up -->
-    <div class="ribbon ribbon-top">FREE</div>
-    <div class="aside newsletter">
-        <h4 class="block-title">Don't Miss Out!</h4>
-        <p>Join more than 40,000 Australians to receive exclusive deals and coupons for FREE!</p>    
-        <form method="post" class="af-form-wrapper" action="http://www.aweber.com/scripts/addlead.pl">
-            <div style="display: none;">
-                <input type="hidden" name="meta_web_form_id" value="269705085">
-                <input type="hidden" name="meta_split_id" value="">
-                <input type="hidden" name="listname" value="topbargains">
-                <input type="hidden" name="redirect" value="http://www.aweber.com/thankyou.htm?m=default" id="redirect_93837677429e14be5c0139d9b49ce801">
-
-                <input type="hidden" name="meta_adtracking" value="My_Web_Form_23st2">
-                <input type="hidden" name="meta_message" value="1">
-                <input type="hidden" name="meta_required" value="email">
-
-                <input type="hidden" name="meta_tooltip" value="">
-            </div>
-            <div id="af-form-269705085" class="input-group">
-
-                <input class="form-control" id="awf_field-53450138" type="text" name="email" placeholder="Enter Email" value="" tabindex="500">
-
-
-                <span class="input-group-btn">
-                    <button name="submit" class="btn btn-default" type="submit" value="Sign up" tabindex="501">Sign up</button>
-                
-                </span>
-
-            </div>
-            <div style="display: none;"><img src="http://forms.aweber.com/form/displays.htm?id=TGyc7AysDBys" alt=""></div>
-        </form>
-    </div>
-    <script type="text/javascript">
-
-        (function() {
-            var IE = /*@cc_on!@*/false;
-            if (!IE) {
-                return;
-            }
-            if (document.compatMode && document.compatMode == 'BackCompat') {
-                if (document.getElementById("af-form-269705085")) {
-                    document.getElementById("af-form-269705085").className = 'af-form af-quirksMode';
-                }
-                if (document.getElementById("af-body-269705085")) {
-                    document.getElementById("af-body-269705085").className = "af-body inline af-quirksMode";
-                }
-                if (document.getElementById("af-header-269705085")) {
-                    document.getElementById("af-header-269705085").className = "af-header af-quirksMode";
-                }
-                if (document.getElementById("af-footer-269705085")) {
-                    document.getElementById("af-footer-269705085").className = "af-footer af-quirksMode";
-                }
-            }
-        })();
-
-    </script>
-
-
+  <a class="share-bargains" href="https://www.topbargains.com.au/weekly_competition">
+                    <span class="grey txt1">Share Bargains</span> <span class="cyan txt2">to</span> <span class="cyan txt3">WIN</span><br>
+                    <span class="txt4">$</span><span class="txt5">1,000</span> <span class="grey txt6">in cash</span> <span class="cyan txt7">PRIZES!</span>
+                    <div class="wc-badge share"><p>$</p></div>
+                </a>
 </section> <!-- /.block -->
-<section id="block-block-18" class="block block-block clearfix">
+<section id="block-views-a820b76708c34500eab01ce07bfcc779" class="block block-views clearfix">
 
-        <h4 class="block-title">Follow TopBargains</h4>
+        <h4 class="block-title">Popular Deals</h4>
     
-  <p><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Ftopbargains&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=143916322428376" style="border:none; overflow:hidden; height:62px; width:230px;"></iframe></p>
+  <div class="view view-latest-deals-sidebar view-id-latest_deals_sidebar view-display-id-popular_deals view-dom-id-ed4b48f435ff05d98e9ac71c5519d12d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
 
-<div style="padding: 0 10px 10px;text-align: center;">
-<!-- Place this tag where you want the widget to render. -->
-        <div class="g-plus" data-href="http://plus.google.com/100054043313060350940" data-height="131" data-width="212">
-            <a href="https://plus.google.com/100054043313060350940?prsrc=3" rel="publisher" style="text-decoration:none;">
-            <img src="//ssl.gstatic.com/images/icons/gplus-64.png" alt="Google+" style="border:0;width:64px;height:64px;"></a>
-        </div>
 
-<!-- Place this tag after the last widget tag. -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/platform.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script> </div>
+<div class="latest-deals-sidebar clearfix">
+ <div class="sidebar-block-row-desc">
+	<div class="title"> <a href="/aldi-australia-special-buys-wed-25-mar-home-entertainment-bed-bath-180198">ALDI Australia Special Buys Wed 25 Mar - Home Entertainment, Bed &amp; Bath</a></div>
+	
+	<span title="Deal Score:1">
+	    <i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i>	</span>
+	by <span class="user-block-detail"> <a rel="nofollow" href="/users/nick123">nick123</a></span>
+    </div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
 
-<ul class="list-unstyled list-inline follow-links">
-    <li><a href="https://www.facebook.com/topbargains" rel="me"><i class="fa fa-facebook-square"></i></a></li>
-    <li><a href="https://twitter.com/topbargain" rel="me"><i class="fa fa-twitter-square"></i></a></li>
-    <li><a href="http://www.pinterest.com/topbargains/" rel="me"><i class="fa fa-pinterest-square"></i></a></li>
-    <li><a href="https://plus.google.com/+TopbargainsAus" rel="me"><i class="fa fa-google-plus-square"></i></a></li>
-    <li><a href="http://feeds.feedburner.com/TopBargains" rel="nofollow"><i class="fa fa-rss-square"></i></a></li>
-    <li><a href="http://feeds.feedburner.com/TopBargains" rel="nofollow"><img src="http://feeds.feedburner.com/~fc/TopBargains?bg=e9e9e9&amp;fg=#000000&amp;anim=0" style="border:0" alt=""></a></li>
-</ul>
+
+<div class="latest-deals-sidebar clearfix">
+ <div class="sidebar-block-row-desc">
+	<div class="title"> <a href="/kfc-regular-chips-just-1-180203">KFC - Regular chips just <span class="price">$1</span></a></div>
+	
+	<span title="Deal Score:2">
+	    <i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i>	</span>
+	by <span class="user-block-detail"> <a rel="nofollow" href="/users/lisss">lisss</a></span>
+    </div>
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+
+
+<div class="latest-deals-sidebar clearfix">
+ <div class="sidebar-block-row-desc">
+	<div class="title"> <a href="/i-want-flight-fly-los-angeles-usa-896-return-travel-april-december-180196">I Want That Flight - Fly to Los Angeles, USA for <span class="price">$896</span> return - Travel (April to December)</a></div>
+	
+	<span title="Deal Score:1">
+	    <i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i>	</span>
+	by <span class="user-block-detail"> <a rel="nofollow" href="/users/nick123">nick123</a></span>
+    </div>
+</div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+
+
+<div class="latest-deals-sidebar clearfix">
+ <div class="sidebar-block-row-desc">
+	<div class="title"> <a href="/75-flights-newzealand-code-ends-thur-27-march-180193"><span class="price">$75</span> Off Flights to NewZealand (code)! Ends Thur, 27 March</a></div>
+	
+	<span title="Deal Score:1">
+	    <i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i>	</span>
+	by <span class="user-block-detail"> <a rel="nofollow" href="/users/nick123">nick123</a></span>
+    </div>
+</div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    
+
+
+<div class="latest-deals-sidebar clearfix">
+ <div class="sidebar-block-row-desc">
+	<div class="title"> <a href="/anaconda-25-storewide-today-only-180204">Anaconda - 25% off storewide today only</a></div>
+	
+	<span title="Deal Score:1">
+	    <i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i>	</span>
+	by <span class="user-block-detail"> <a rel="nofollow" href="/users/lisss">lisss</a></span>
+    </div>
+</div>
+  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+    
+
+
+<div class="latest-deals-sidebar clearfix">
+ <div class="sidebar-block-row-desc">
+	<div class="title"> <a href="/super-amart-voucher-buy-1-get-50-2nd-item-180218">Super Amart Voucher - Buy 1 Get 50% Off on 2nd Item</a></div>
+	
+	<span title="Deal Score:1">
+	    <i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i><i class="fa fa-thumbs-up full fivestarscaleicon"></i>	</span>
+	by <span class="user-block-detail"> <a rel="nofollow" href="/users/sharktank">Sharktank</a></span>
+    </div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="more-link">
+<a href="forum/hot-deals" rel="nofollow">View More Deals </a><i class="fa fa-angle-double-right"></i>
+</div>    </div>
+  
+  
+</div>
 </section> <!-- /.block -->
     </div>
     	</aside>  <!-- /#sidebar-second -->
@@ -451,108 +329,32 @@ PO Box 3142, Rhodes, NSW, 2138, Australia</p>
 </div>
 <footer class="footer">
 
-    <div class="upper">
-    <div class="container clearfix">
-        <div class="pull-left logo"><a href="/"><img src="/sites/all/themes/dragonborn/img/logofooter.png" alt="Topbargains"></a></div>
-        <div class="pull-right">
-            <form class="form-search content-search pull-left" action="/page/privacy-statement" method="post" id="search-block-form--2" accept-charset="UTF-8"><div>
-  <div class="clearfix"><input title="Type in a Store or Product Name" placeholder="Type in a Store or Product Name" class="input-sm pull-left form-control form-text" type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128"><input type="hidden" id="edit-search-block-form--4-autocomplete" value="http://www.topbargains.com.au/xsearch_autocomplete" disabled="disabled" class="autocomplete"><button type="submit" class="btn btn-default pull-right"><i class="fa fa-search"></i></button></div><button class="element-invisible btn btn-primary form-submit" id="edit-submit--5" name="op" value="Search" type="submit">Search</button>
-<input type="hidden" name="form_build_id" value="form-eCQVIr0ltjhek4u4FaDJYChRJyVbF7vTLxk4tHpmyXo">
-<input type="hidden" name="form_id" value="search_block_form">
-
-</div></form>        </div>
+    <div class="container text-center clearfix">
+   
+    
+<div class="inline-footer">
+    
+    <div class="logo"><a href="/"><img src="/sites/all/themes/dragonborn/img/topLogo.png" alt="Topbargains"></a>
     </div>
-</div>
-
-<div class="lower">
-    <div class="container">
-        <div class="col-xs-9">
-            <div class="clearfix">
-                
-                <div class="col-xs-3">
-                    <h5>About Top Bargains</h5>
-                    <ul class="menu nav"><li class="first leaf"><a href="/page/about-topbargains">About Us</a></li>
-<li class="leaf"><a href="/page/information-merchants" rel="nofollow">Information for Businesses</a></li>
-<li class="leaf"><a href="/reps" rel="nofollow">List of Reps</a></li>
-<li class="leaf"><a href="/live" rel="nofollow">Live</a></li>
-<li class="leaf"><a href="/media-kit" title="Request a Media Kit" rel="nofollow">Media Kit</a></li>
-<li class="leaf"><a href="/contact" rel="nofollow">Contact us</a></li>
-<li class="leaf active"><a href="/page/privacy-statement" rel="nofollow" class="active">Privacy Statement</a></li>
-<li class="last leaf"><a href="/page/terms-use" rel="nofollow">Terms of Use</a></li>
-</ul>                </div>
-                <div class="col-xs-3">
-                    <h5>Community</h5>
-                    <ul class="menu nav"><li class="first leaf"><a href="/blog" title="">Blog</a></li>
-<li class="leaf"><a href="/forum/find-me-bargain" title="">Find Me a Bargain</a></li>
-<li class="leaf"><a href="/forum/lounge" title="">Members Lounge</a></li>
-<li class="leaf"><a href="/forum/talk-moderators">Talk to a Moderator</a></li>
-<li class="last leaf"><a href="/weekly_competition">Weekly Competition</a></li>
-</ul>                </div>
-                <div class="col-xs-3">
-                    <h5>Site Tools</h5>
-                    <ul class="menu nav"><li class="first leaf"><a href="/faq-page">FAQs</a></li>
-<li class="leaf"><a href="/latest_coupons">Latest Coupons</a></li>
-<li class="last leaf"><a href="/catalogues">Catalogues</a></li>
-</ul>                </div>
-                <div class="col-xs-3">
-                    <h5>Social - bookmarks</h5>
-                    <ul class="menu nav"><li class="first leaf"><a href="http://feeds.feedburner.com/TopBargains">Articles-Feed (RSS)</a></li>
-<li class="leaf"><a href="http://facebook.com/topbargains" rel="me">Facebook</a></li>
-<li class="leaf"><a href="http://twitter.com/topbargain" rel="me">Twitter</a></li>
-<li class="leaf"><a href="http://www.pinterest.com/topbargains/boards/" rel="me">Pintrest</a></li>
-<li class="last leaf"><a href="https://plus.google.com/+TopbargainsAus" rel="me">Google Plus</a></li>
-</ul>                </div>
-            </div>
-            <div class="site-stats fff-all clearfix">
-                <div class="col-xs-4">
-                    <i class="pull-left fa fa-tags"></i>
-                    <div class="pull-left">
-                        <span class="figure">40,000+</span>
-                        <p>Deals and Coupons</p>
-                    </div>
-                </div>
-                <div class="col-xs-4">
-                    <i class="pull-left fa fa-shopping-cart"></i>
-                    <div class="pull-left">
-                        <span class="figure">2,800+</span>
-                        <p>Retailers</p>
-                    </div>
-                </div>
-                <div class="col-xs-4">
-                    <i class="pull-left fa fa-user"></i>
-                    <div class="pull-left">
-                        <span class="figure">150,000+</span>
-                        <p>Members</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-3">
-            <h5>About</h5>
-            <p>
-                TopBargains is an on-line community where anyone 
-                can share deals/coupons and/or rate/discuss deals shared by others.
-                TopBargains has been online since 2007.
-            </p>
-            <div class="well well-sm copyright">
+    
+    
                 <section id="block-block-10" class="block block-block clearfix">
 
       
-  <p class="copyright">Copyright © 2014, Bloach Pty Ltd ACN 136 935 816<br>
-All Rights Reserved. <a href="http://www.topbargains.com.au/">Topbargains.com.au</a>
+  <p class="copyright">Copyright © 2015, Bloach Pty Ltd ACN 136 935 816
+All Rights Reserved.
 </p>
 </section> <!-- /.block -->
-            </div>
-                    </div>
-    </div>
-
+    
+    
 </div>
 
-</footer>
-        <script src="http://cdn.topbargains.com.au/sites/default/files/js/js__JmuLSkIfyxHR8zVz8YJWCvqzj6K530WBPN37yzpLxE.js"></script>
-<script src="http://cdn.topbargains.com.au/sites/default/files/js/js_g8XQuVEX_XEyGv8iRzPmNQLrjhFdK81ftg5pUNBTHt0.js"></script>
-<script src="http://cdn.topbargains.com.au/sites/default/files/js/js_gqUGjte4yfE_a8sXJmaBGhDExUYzeXrDjDIFv3Nqm0M.js"></script>
-    <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","c15b001b14","3247995","MlZTZBFZCERWAhJfXQsccFMXUQlZGA8JUlc6Q1BXBmcQXlIW",0,478,new Date().getTime(),"","","","",""]);</script>
+
+</div></footer>
+        <script src="https://www.topbargains.com.au/sites/default/files/js/js_E3VGC5hxnvLlrJP3mi1_VWCpH4KscFiyziKNcA0FLtY.js"></script>
+<script src="https://www.topbargains.com.au/sites/default/files/js/js_RyCj5V_AcG7N6jVYZ9Y6Rf3dK_VdZ0sEVuSWrgCwQC0.js"></script>
+<script src="https://www.topbargains.com.au/sites/default/files/js/js_gqUGjte4yfE_a8sXJmaBGhDExUYzeXrDjDIFv3Nqm0M.js"></script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"c15b001b14","applicationID":"3247995","transactionName":"MlZTZBFZCERWAhJfXQsccFMXUQlZGA8JUlc6Q1BXBmcQXlIW","queueTime":0,"applicationTime":483,"ttGuid":"","agentToken":"","atts":"HhFQEllDG0o=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script>
 
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-515.min.js"></script></body></html>
