@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701132624id_/https%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323085040id_/https%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eatnow.com.au
 
@@ -68,7 +68,7 @@ Cookies can be managed by accessing the individual settings in your browser.
 
 **3.5** When registering with Eat Now, you consent to Eat Now using your personal information, such as your email address, for direct marketing purposes. This includes sending you deal emails. You may opt out of receiving these direct marketing communications at any time. Our electronic marketing activities will comply with the requirements of the Spam Act 2003 (Cth). 
 
-**3.6** We may share your information with other members of the Catch Group Pty Ltd, including members that are located outside of Australia. Our Group is comprised of CatchOfTheDay.com.au Pty Ltd, Scoopon Pty Ltd, Mumgo Pty Ltd, Eat Now Services Pty Ltd and their Related Bodies Corporate, as defined in the Corporations Act 2001 (Cth). 
+**3.6** We may share your information with other members of The Menulog Group Pty Ltd. Our Group is comprised of Menulog Pty Ltd and Eat Now Services Pty Ltd and their Related Bodies Corporate, as defined in the Corporations Act 2001 (Cth). 
 
 **3.7** We may also provide your information to third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia (including the USA, UK, Hong Kong, the Philippines and the EU), we will do so in accordance with APP 8. In addition, we may also disclose your information to third parties in order for them to provide services to you, in accordance with our Terms and Conditions of Use and Sale and this Privacy Policy. 
 
@@ -82,7 +82,7 @@ We take steps to protect the personal information we hold against loss, unauthor
 
 **5.2** Generally, subject to the exceptions of APP 12.3, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested. 
 
-You may make a request by writing to us at: Privacy Inquiries, Catch Group, 767 Springvale Road, Mulgrave, Victoria 3170 or by email, support@eatnow.com.au. 
+You may make a request by writing to us at: Privacy Inquiries, EatNow Pty Ltd, 767 Springvale Road, Mulgrave, Victoria 3170 or by email, support@eatnow.com.au. 
 
 **5.3** We take those steps reasonable in the circumstances to ensure that the personal information that we collect, use and disclose is accurate, up to date and complete. Where an individual requests to correct information, we will take reasonable steps to correct the information, having regard to the purpose for which it is held. You may lodge a request to correct personal information in the manner outlined in clause 5.2 above. 
 
