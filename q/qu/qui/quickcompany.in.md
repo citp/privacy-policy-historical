@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quickcompany.in privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928150134id_/http%3A//www.quickcompany.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickcompany.in privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323201253id_/https%3A//www.quickcompany.in/privacy) for the most accurate reproduction.*
 
-# QuickCompany
+# 
 
 ## Privacy Policy
 
@@ -10,15 +10,13 @@ Our Privacy Policy was developed as an extension of our commitment to combine qu
 This privacy statement applies to the website of QuickCompany.in:  
 manmeet@QuickCompany.in
 
-  
-
+ 
 
 #### Registration and Setup Forms
 
-QuickCompany.in registration and website setup forms may require users to give us contact information, such as name and email address. Contact information from the registration and setup forms is used to setup your wedding website services or provide technical support. The customers contact information is also used to get in touch with the customer when necessary. 
+QuickCompany.in registration and website setup forms may require users to give us contact information, such as name and email address. Contact information from the registration and setup forms is used to setup your wedding website services or provide technical support. The customers contact information is also used to get in touch with the customer when necessary.
 
-  
-
+ 
 
 #### What is a Cookie?
 
@@ -28,29 +26,25 @@ Our site utilizes cookies to collect information about how our site is used. Pas
 
 Our site's servers also automatically identify your computer by its Internet Protocol address which is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Your IP address may be used to address problems with our server or administer our site or to gather broad demographic information about our users.
 
-  
-
+ 
 
 #### Your Information In Relation to Others We Link To
 
 You may be able to access other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
 
-  
-
+ 
 
 #### Sharing Information with Advertisers or Other Third Parties
 
 We do not share any personal information with any parties outside QuickCompany.in. Including names and e-mail address. While we may contact you if you have opted to receive news and updates, all correspondance is sent through QuickCompany.in and no others.
 
-  
-
+ 
 
 #### Sharing Information with the Government or As Otherwise Required by Law
 
 You agree that You have the needed and required rights and permissions on all content uploaded to Your wedding website. Files such as music, photos, videos and other, must be accompanied by permission in writing from current copyright or license holder(s). Upon notification and proof of copyright infringement, Your account and or website may be suspended or terminated.
 
-  
-
+ 
 
 #### Questions, Comments, Contact
 
