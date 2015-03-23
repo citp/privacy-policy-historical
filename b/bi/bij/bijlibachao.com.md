@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730084115id_/https%3A//www.bijlibachao.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323131143id_/https%3A//www.bijlibachao.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bijli Bachao
 
@@ -28,7 +28,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
  **Do we use cookies?**  
 
-Yes (Cookies are small files that a site or its service provider transfers to your [computers](http://www.bijlibachao.com/Appliances/laptop-and-desktop-energy-comparison.html "computers") hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -44,13 +44,13 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
- **[Terms and Conditions](http://www.bijlibachao.com/terms-and-conditions "Terms and Conditions")**  
+ **[Terms and Conditions](https://www.bijlibachao.com/terms-and-conditions "Terms and Conditions")**  
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.bijlibachao.com/terms-and-conditions>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.bijlibachao.com/terms-and-conditions>
 
  **Your Consent**  
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [online privacy policy](https://www.bijlibachao.com/wp-content/uploads/2014/01/www.freeprivacypolicy.com).
 
  **Changes to our Privacy Policy**  
 
@@ -60,7 +60,7 @@ This policy was last modified on 22nd January 2014
 
  **Contacting Us**  
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may [contact us](https://www.bijlibachao.com/contact-us "contact us") using the information below. 
 
  **www.bijlibachao.com**  
 204 Frangipani, Nahar Amrit Shakti, Chandivali  
