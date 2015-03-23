@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopperplus.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229035205id_/http%3A//privacy-policy.truste.com/verified-policy/www.123inkcartridges.ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopperplus.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323044157id_/http%3A//privacy-policy.truste.com/verified-policy/www.123inkcartridges.ca) for the most accurate reproduction.*
 
 # Privacy Policy for www.123inkcartridges.ca
 
