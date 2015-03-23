@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netguru.co privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701111642id_/https%3A//netguru.co/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netguru.co privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323175644id_/https%3A//netguru.co/privacypolicy) for the most accurate reproduction.*
 
 # Netguru - Privacy Policy
 
