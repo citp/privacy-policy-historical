@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzte.govt.nz privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103092632id_/http%3A//www.nzte.govt.nz/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzte.govt.nz privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323034127id_/https%3A//www.nzte.govt.nz/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | New Zealand Trade and Enterprise
 
