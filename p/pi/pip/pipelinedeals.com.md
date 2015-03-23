@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pipelinedeals.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701191547id_/https%3A//www.pipelinedeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipelinedeals.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323064600id_/https%3A//www.pipelinedeals.com/privacy) for the most accurate reproduction.*
 
-# Sales Tracking and Online CRM Privacy & Security Policy for PipelineDeals
+# Sales Tracking and Online CRM Privacy & Security Policy for PipelineDeals | PipelineDeals
 
-PipelineDeals, LLC ( "PipelineDeals ") is committed to protecting your privacy. We take privacy very seriously here at PipelineDeals and post this PipelineDeals Privacy & Security Policy ( "Policy ") to explain our policy and what PipelineDeals does with the personal information that we collect from individuals that visit and use our website and the applications and services offered by PipelineDeals (the "Services ").
+PipelineDeals, Inc. ( "PipelineDeals ") is committed to protecting your privacy. We take privacy very seriously here at PipelineDeals and post this PipelineDeals Privacy & Security Policy ( "Policy ") to explain our policy and what PipelineDeals does with the personal information that we collect from individuals that visit and use our website and the applications and services offered by PipelineDeals (the "Services ").
 
 ### What Information We collect and Why:
 
@@ -26,7 +26,7 @@ Internet Protocol Addresses are collected by PipelineDeals to track and aggregat
 
 ### Your Privacy with PipelineDeals:
 
-PipelineDeals will never ask for your login id, password or any other personal information in an unsolicited phone call, email or letter. Should anyone contact you requesting such information, please contact PipelineDeals directly via email at: customercare@PipelineDeals.com to advise us.
+PipelineDeals will never ask for your login id, password or any other personal information in an unsolicited phone call, email or letter. Should anyone contact you requesting such information, please contact PipelineDeals directly via email at: customercare@pipelinedeals.com to advise us.
 
 Further, any contact with PipelineDeals customer service in which personal information is exchanged with a customer service representative will be used only for the purpose of satisfying that request. Any personal information you provide to a customer service representative will not be recorded or used for any reason beyond that of the stated request without your consent.
 
@@ -38,13 +38,13 @@ PipelineDeals will not disclose any of the personal information supplied to Pipe
 
 ### Our Policies on Email and Subscribing to the Service:
 
-PipelineDeals does not support spamming over email by our Account Holders. If you would like to report an incident of email spamming, please contact us at customercare@PipelineDeals.com. We will investigate and take suitable action at our discretion. PipelineDeal may send you marketing and other email communications from time to time including special offers, new features, new products or services, and referrals. Any email from PipelineDeals will fully comply with the CAN-SPAM Act. In each of these emails, you will be given the choice to unsubscribe from the PipelineDeals communications by clicking on "unsubscribe " link at the bottom of the email. In addition, if you do not wish to receive such emails you may specify your communication preferences to our customer service representatives at customercare@PipelineDeals.com or by calling 866-702-7303. Account Holders will always receive any system-wide notices regarding scheduling of maintenance that may or may not result in the Service being temporarily unavailable. Please note that Account Holders may not "optou" of receiving these emails.
+PipelineDeals does not support spamming over email by our Account Holders. If you would like to report an incident of email spamming, please contact us at customercare@pipelinedeals.com. We will investigate and take suitable action at our discretion. PipelineDeal may send you marketing and other email communications from time to time including special offers, new features, new products or services, and referrals. Any email from PipelineDeals will fully comply with the CAN-SPAM Act. In each of these emails, you will be given the choice to unsubscribe from the PipelineDeals communications by clicking on "unsubscribe " link at the bottom of the email. In addition, if you do not wish to receive such emails you may specify your communication preferences to our customer service representatives at customercare@pipelinedeals.com or by calling 1-866-702-7303. Account Holders will always receive any system-wide notices regarding scheduling of maintenance that may or may not result in the Service being temporarily unavailable. Please note that Account Holders may not "optou" of receiving these emails.
 
 Choice of subscription to the Service is yours at all times, and you are free to remove yourself as an Account Holder at any time. Simply follow the directions in any of our emails.
 
 ### Forums, Chat, Blogs, and Customer Testimonials:
 
-Pipelinedeals may provide bulletin boards, blogs, or chat rooms on our website. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. Please understand that, though we may have some small influence over our Account Holders, we fundamentally cannot control the online or offline actions of our Account Holders or other parties, especially when it comes to their use of information that you choose to disclose in moderated or unmoderated newsgroups and forums, known on the PipelineDeals website as "Forums". While we will investigate complaints sent to customercare@PipelineDeals.com and take appropriate action with our
+Pipelinedeals may provide bulletin boards, blogs, or chat rooms on our website. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. Please understand that, though we may have some small influence over our Account Holders, we fundamentally cannot control the online or offline actions of our Account Holders or other parties, especially when it comes to their use of information that you choose to disclose in moderated or unmoderated newsgroups and forums, known on the PipelineDeals website as "Forums". While we will investigate complaints sent to customercare@pipelinedeals.com and take appropriate action with our
 
 Account Holders or other parties, we will typically not provide any information to third parties about our conversations with our Account Holders. We encourage people to resolve disputes directly with each other and discourage people from attempting to use PipelineDeals to police their mailbox or newsgroup.
 
@@ -76,7 +76,7 @@ In addition, if the redundant servers should fail, PipelineDeals backs up data e
 
 ### How You Can Access and Correct Your Information:
 
-You may update or change your personal information by logging in to http://www.pipelinedeals.com with your PipelineDeals login id and password. Click on User Settings to edit your personal information. You may also email us at customercare@PipelineDeals.com or call our customer care number at 866-702-7303 to request access to, correct or delete any personal information that you have provided to us.
+You may update or change your personal information by logging in to http://www.pipelinedeals.com with your PipelineDeals login id and password. Click on User Settings to edit your personal information. You may also email us at customercare@pipelinedeals.com or call our customer care number at 1-866-702-7303 to request access to, correct or delete any personal information that you have provided to us.
 
 ### Changes to Policy:
 
@@ -84,4 +84,4 @@ We will post all changes to this Policy on the PipelineDeals website. Please che
 
 ### Contact PipelineDeals:
 
-To ask questions or comment about this Privacy Policy or our privacy or security practices, please contact us at customercare@PipelineDeals.com or 866-702-7303.
+To ask questions or comment about this Privacy Policy or our privacy or security practices, please contact us at customercare@pipelinedeals.com or 1-866-702-7303.
