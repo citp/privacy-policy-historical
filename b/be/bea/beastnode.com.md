@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the beastnode.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209110142id_/http%3A//www.beastnode.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beastnode.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323195735id_/https%3A//www.beastnode.com/privacypolicy) for the most accurate reproduction.*
 
-# BeastNode: Affordable Performance Minecraft & VPS Hosting - Privacy Policy
+# Minecraft Hosting | BeastNode: Performance Server Hosting & VPS Hosting - Privacy Policy
+
+#####  Updated March 21, 2014
+
+* * *
 
 **What information do we collect?**
 
@@ -13,6 +17,8 @@ Any of the information we collect from you may be used in one of the following w
   1. To personalize your experience(your information helps us to better respond to your individual needs)
   2. To improve customer service(your information helps us to more effectively respond to your customer service requests and support needs)
   3. To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.)
+
+
 
 **How do we protect your information?**
 
@@ -40,7 +46,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions of Service**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.beastnode.com/tos.html
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at the [Terms of Service](https://web.archive.org/web/20150323195735id_/https%3A//www.beastnode.com/termsofservice.html)
 
 **Your Consent**
 
@@ -48,8 +54,8 @@ By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. This policy was last modified on September 15, 2013 
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. This policy was last modified on March 21, 2014 
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us by going to http://www.beastnode.com/r/contact
+If there are any questions regarding this privacy policy you may [Contact Us](https://www.beastnode.com/r/contact)
