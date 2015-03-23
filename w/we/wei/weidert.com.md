@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weidert.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124190949id_/http%3A//www.weidert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weidert.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323032005id_/http%3A//www.weidert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Weidert Group
 
