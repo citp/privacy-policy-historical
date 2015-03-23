@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the glance.net privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711145013id_/http%3A//ww2.glance.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glance.net privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323144232id_/http%3A//ww2.glance.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Glance Networks
+# Privacy Policy | Co-browse - Glance Networks
 
-[](http://ww2.glance.net/ "Glance Networks")
+[](http://ww2.glance.net/ "Co-browse – Glance Networks")
 
 
 
@@ -103,3 +103,5 @@ Arlington, MA 02476
 (1-877-452-6236)
 
 Back to top
+
+[VIEW DEMO](https://web.archive.org/view-demo/)
