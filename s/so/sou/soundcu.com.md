@@ -1,52 +1,52 @@
-> *The following text is extracted and transformed from the soundcu.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715003300id_/https%3A//www.soundcu.com/files/Privacy-Policy_Sound.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcu.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323201346id_/https%3A//www.soundcu.com/files/Privacy-Policy_Sound.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                         Rev. 11/2013
-                           WHAT DOES SOUND CREDIT UNION DO WITH YOUR PERSONAL
- FACTS                     INFORMATION?
- Why?                      Financial companies choose how they share your personal information. Federal law
-                           gives consumers the right to limit some but not all sharing. Federal law also
-                           requires us to tell you how we collect, share, and protect your personal information.
-                           Please read this notice carefully to understand Sound Credit Union’s Privacy Policy.
-                           At Sound Credit Union, we respect the privacy of our members. We recognize the
-                           importance of maintaining the confidentiality of your personal financial information.
-                           This notice describes the privacy policy and practices followed by Sound Credit
-                           Union. This notice explains what types of member information we collect and under
-                           what circumstances we may share it.
- What?                     The types of personal information we collect and share depend on the accounts or
-                           services you have with us. This information can include:
-                                Name, address, Social Security number, and income
-                                Account balances and transaction history
-                                Credit history and credit scores
-                           When you are no longer our member, we will not share your information except as
-                           permitted or required by law as described in this notice.
- How?                      All financial companies need to share members’ personal information to run their
-                           everyday business. In the section below, we list the reasons financial companies
-                           can share their members’ personal information; the reasons Sound Credit Union
-                           chooses to share; and whether you can limit this sharing.
-                                                                 Does Sound Credit          Can you limit this
+                                                                                                          Rev. 11/2014
+                            WHAT DOES SOUND CREDIT UNION DO WITH YOUR PERSONAL
+ FACTS                      INFORMATION?
+ Why?                       Financial companies choose how they share your personal information. Federal law
+                            gives consumers the right to limit some but not all sharing. Federal law also
+                            requires us to tell you how we collect, share, and protect your personal information.
+                            Please read this notice carefully to understand Sound Credit Union’s Privacy Policy.
+                            At Sound Credit Union, we respect the privacy of our members. We recognize the
+                            importance of maintaining the confidentiality of your personal financial information.
+                            This notice describes the privacy policy and practices followed by Sound Credit
+                            Union. This notice explains what types of member information we collect and under
+                            what circumstances we may share it.
+ What?                      The types of personal information we collect and share depend on the accounts or
+                            services you have with us. This information can include:
+                                 Name, address, Social Security number, and income
+                                 Account balances and transaction history
+                                 Credit history and credit scores
+                            When you are no longer our member, we will not share your information except as
+                            permitted or required by law as described in this notice.
+ How?                       All financial companies need to share members’ personal information to run their
+                            everyday business. In the section below, we list the reasons financial companies
+                            can share their members’ personal information; the reasons Sound Credit Union
+                            chooses to share; and whether you can limit this sharing.
+                                                                  Does Sound Credit          Can you limit this
  Reasons we can share your personal information
-                                                                   Union share?                  sharing?
-For our everyday business purposes—
-such as to process your transactions, maintain your
-                                                                        Yes                          No
-account(s), respond to court orders and legal
-investigations, or report to credit bureaus
-For our marketing purposes—
-                                                                        Yes                          No
-to offer our products and services to you
-For joint marketing with other financial companies                      Yes                          No
-For our affiliates’ everyday business purposes—
-                                                                         No                   We don’t share
-information about your transactions and experiences
-For our affiliates’ everyday business purposes—
-                                                                         No                   We don’t share
-information about your creditworthiness
-For nonaffiliates to market to you                                       No                   We don’t share
-                           Call 253.383.2016 or 800.562.8130, send us an email from the “Contact Us” page
-Questions?                 on soundcu.com, or write to us at: Sound Credit Union, PO Box 1595, Tacoma,
-                           WA 98401.
+                                                                    Union share?                  sharing?
+ For our everyday business purposes—
+ such as to process your transactions, maintain your
+                                                                         Yes                          No
+ account(s), respond to court orders and legal
+ investigations, or report to credit bureaus
+ For our marketing purposes—
+                                                                         Yes                          No
+ to offer our products and services to you
+ For joint marketing with other financial companies                      Yes                          No
+ For our affiliates’ everyday business purposes—
+                                                                          No                   We don’t share
+ information about your transactions and experiences
+ For our affiliates’ everyday business purposes—
+                                                                          No                   We don’t share
+ information about your creditworthiness
+ For nonaffiliates to market to you                                       No                   We don’t share
+                            Call 253.383.2016 or 800.562.8130, send us an email from the “Contact Us” page
+Questions?                  on soundcu.com, or write to us at: Sound Credit Union, PO Box 1595, Tacoma,
+                            WA 98401.
 
 
 Who we are
