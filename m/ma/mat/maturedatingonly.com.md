@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maturedatingonly.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125223918id_/http%3A//www.maturedatingonly.com/mature_dating/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturedatingonly.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323191820id_/https%3A//www.maturedatingonly.com/mature_dating/privacy.php) for the most accurate reproduction.*
 
 # MatureDatingOnly | Privacy Policy
 
