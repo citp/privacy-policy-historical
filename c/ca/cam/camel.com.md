@@ -1,0 +1,55 @@
+> *The following text is extracted and transformed from the camel.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323113435id_/https%3A//camel.com/FooterLinks/PrivacyPolicy) for the most accurate reproduction.*
+
+# PrivacyPolicy
+
+We respect the privacy of adult tobacco consumers. Listed below is our privacy policy. It applies to the information we collect on this website. 
+
+This site is operated, in whole or in part, from the United States. By using this site, regardless of where you live in the world, you consent to have any personal information you provide transferred to and processed in the United States, and allow us to use and collect your personal information in accordance with this Policy. 
+
+## Adult Audience
+
+We restrict our marketing mailing list to individuals who have certified that (1) they are tobacco consumers 21 years of age or older, (2) they want to be added to our contact list in order to receive content, offers, and advertising from a tobacco company, and (3) they understand that providing false information may constitute a violation of law. Before a certified adult tobacco consumer is added to our marketing contact list, we independently verify that the tobacco consumer is 21 years of age or older. If an individual wants to be removed from our marketing contact list, we make it easy to do so and we act promptly on all such requests. If at any time an individual wishes to be removed from our marketing contact list, he or she can call 1-800-334-8157. An individual can also remove his or her name from our marketing contact list by writing to us; instructions for doing this are provided on the address panel of our direct mail and on our e-mails. 
+
+## Collection and Use of Personal Information
+
+We are committed to protecting the privacy of the adult tobacco consumers who have requested to be on our marketing contact list and the confidentiality of the personal information that they provide to us. We collect information that is needed to add adult tobacco consumers to our marketing contact list at their request, to serve these adult tobacco consumers, and to administer our business (e.g., to independently verify that a tobacco consumer is 21 years of age or older or to conduct consumer research among tobacco consumers 21 years of age or older). We diligently strive to maintain recent and accurate information on the adult tobacco consumers on our marketing contact list through consumer surveys, consumer-initiated contacts, and responses to our marketing programs (online and offline), as well as through address update services. 
+
+We also collect non-personal information, including browser type and version, screen resolution, monitor color depth, AOL version (if applicable), operating system, JavaScript version, and connection speed. We merge this information with adult tobacco consumers' personal information. The non-personal information is used in two ways. First, it is used for an annual assessment of changes in web technology that enables us to better serve adult tobacco consumers on our marketing contact list. Second, it is used for problem resolution when an adult tobacco consumer on our marketing contact list contacts our Consumer Relations Department with a problem accessing our website. 
+
+We have strict policies and procedures in place to safeguard the privacy of adult tobacco consumers. We maintain adult tobacco consumers' information in a secure environment and grant access to it only in accordance with our security standards. We may share your information with our affiliates who market tobacco products or nicotine replacement therapy products that you might be interested in. Please refer to the section entitled "Personal Information We May Share." Additionally, sometimes it is necessary for us to share your information with third parties that perform services for us. When we contract with other parties to help us conduct our business, we require them to protect your personal information. Further, we do not permit them to use or store your personal information for any purpose other than the work they are doing on our behalf or as required by law. All our employees (and our affiliates) and third parties hired to work for us are held accountable for strictly adhering to these policies and procedures at all times. 
+
+## Personal Information We May Share
+
+Reynolds American Inc. and its wholly owned subsidiaries share and disclose information with each other; therefore, your personal information may be shared and disclosed by and between Reynolds American Inc.'s subsidiaries that market tobacco products or nicotine replacement therapy products. Those subsidiaries are American Snuff Company, LLC; Niconovum USA, Inc.; R.J. Reynolds Tobacco Company; R.J. Reynolds Vapor Company; and Santa Fe Natural Tobacco Company. The shared and disclosed personal information may include name, e-mail address, home address, telephone number, driver license number (and any information contained on said license), government issued identification card number (and any information contained on said identification card), social security number or parts thereof, gender, height, weight, race, education, and kind of product purchased. 
+
+We may also share your information with non-affiliated third parties, as appropriate: (1) if we believe that there has been a violation of our web site policies; (2) if we believe that someone may be causing injury to our rights or property, other site users, or anyone else; (3) to respond to judicial process or to provide information to law enforcement agencies; (4) otherwise as required by law; or (5) in the event of a merger. However, we do not sell, rent, or give this information to other non-affiliated organizations or entities for marketing purposes. 
+
+If an adult tobacco consumer does not want us to share his or her personal information with our affiliates, he or she can call 1-800-334-8157 to remove his or her name from our marketing contact list. An individual can also remove his or her name from our marketing contact list by writing to us; instructions for doing this are provided on the address panel of our direct mail and on our e-mails. 
+
+## Notice to California Residents — Your California Privacy Rights
+
+If you are a California resident, you have the right to receive once a year, free of charge: a) information identifying each third party company to whom we may have disclosed, within the past year, personal information pertaining to you for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. If you are a California resident and would like to make this request, please call 1-866-202-3609. In addition, please refer to the section of this policy entitled "Personal Information We May Share." 
+
+## Protecting against Identity Theft
+
+Adult tobacco consumers who would like to learn more about protecting against identity theft can visit the FTC's website for more information on how to avoid identity theft at: <http://www.ftc.gov/bcp/edu/microsites/idtheft/>
+
+## Credit Card Information
+
+We may collect credit card information from tobacco consumers 21 years of age or older for payment if they place an order with us. The information is collected, validated by a third-party credit card processor, and stored using industry standard encryption. Credit card information is used only to fulfill an adult tobacco consumer's order. 
+
+## Cookies
+
+Cookies are little pieces of information that a web site stores on your computer. We use temporary cookies to streamline the login process and to maintain security while adult tobacco consumers browse our website, thereby ensuring that only adult tobacco consumers are on the website. These temporary cookies are also used to increase the efficiency of website visits and are deleted when adult tobacco consumers close their browsers. 
+
+## Links to Third-Party Websites
+
+From time to time, we may provide links to unaffiliated third-party websites. Those websites operate independently from us (and our affiliates) and may have their own privacy statements in place which we recommend you review if you visit any linked websites. To the extent any linked websites you visit are not owned and operated by Reynolds American Inc. or its subsidiaries, neither Reynolds American Inc. nor its subsidiaries are responsible for their content or any use of those websites. 
+
+## Unsolicited Ideas
+
+Although we appreciate people's interest in our business, it is our policy to decline consideration of unsolicited ideas and suggestions offered or submitted by the general public. We rely on our research and marketing staffs for the generation and implementation of new concepts. This is necessary in order to avoid misunderstandings over the origin of particular ideas. We are constantly generating new ideas, many of which we cannot use until years after they were first conceived. Accordingly, we do not accept unsolicited ideas for consideration, and ask you not to submit ideas for products, advertising, etc. 
+
+## Changes To This Policy
+
+As our business changes, we reserve the right to change our Privacy Policy without prior notice to you. We will update this page when we do so. You should check our privacy policy frequently on this website to see recent changes. 
