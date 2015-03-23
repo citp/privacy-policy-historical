@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenya-airways.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220092951id_/http%3A//www.kenya-airways.com/Global/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenya-airways.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323095647id_/https%3A//kenya-airways.com/Global/Privacy_Policy) for the most accurate reproduction.*
 
 # 
 
@@ -99,9 +99,7 @@ For example, the cookies will be able to collect the following information about
 
 • Whether you have viewed a video/campaign material on the website
 
-KQ will collect your behavioral information about our website and be able to conduct relevant and targeted campaigns to our website visitors.
-
-If you are uncomfortable with our use of cookies you can disable them by changing the settings on your browser, but please note that if you disable them it may affect your ability to properly use the site. By using this site without disabling cookies settings on your browser, you agree to the placement of cookies on your computer in accordance with the terms of this policy. You can find out more about the way cookies work and how to disable them at [http://www.cookiecentral.com.](http://www.cookiecentral.com./ "http://www.cookiecentral.com.") 
+The website uses cookies (small text files that are placed on your computer, mobile phone or tablet by websites that you visit) to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy. [ **Kenya Airways Cookie Policy.**](https://web.archive.org/uploadedFiles/Global_Website/Kenya_Airways_Cookie_Policy.pdf)
 
 **_DISCLOSING YOUR INFORMATION TO THIRD PARTIES_**  
 
@@ -137,4 +135,4 @@ Please note that this policy addresses only the use and disclosure of informatio
 
 **14\. How can you contact us about privacy issues?**  
 
-You can contact us about privacy issues or comment or complain about our privacy practices by contacting us at our Head Office in Nairobi, Kenya. 
+You can contact us about privacy issues or comment or complain about our privacy practices by contacting us at our Head Office in Nairobi, Kenya. Write to us [Customer.Relations@kenya-airways.com](mailto:customer.relations@kenya-airways.com) 
