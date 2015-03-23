@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cord.edu privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315090724id_/http%3A//www.concordiacollege.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cord.edu privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323111133id_/https%3A//www.concordiacollege.edu/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy · Concordia College
 
@@ -93,6 +93,4 @@ If users have any questions or suggestions regarding our privacy policy, please 
  **Phone:**  218.299.3939  
  **Email:  **[webmaster@cord.edu](mailto:webmaster@cord.edu)  
  **Postal Address:**  Concordia College, 901 8th St. S., Moorhead, MN 56562  
- **Website:**  [http://www.concordiacollege.edu](http://www.concordiacollege.edu/)
-
-* * *
+ **Website:**  [http://www.concordiacollege.edu](https://www.concordiacollege.edu/)
