@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onedaykorea.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113100650id_/http%3A//www.onedaykorea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onedaykorea.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323122012id_/http%3A//www.onedaykorea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tours & Things to do in Korea
 
