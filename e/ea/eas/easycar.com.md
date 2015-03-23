@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycar.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125041610id_/http%3A//booking.easycar.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycar.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323144407id_/http%3A//booking.easycar.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Rental Cars and Car Rentals from Rental Cars.com
 
