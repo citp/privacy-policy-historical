@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020022608id_/http%3A//airdroid.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324002203id_/https%3A//www.airdroid.com/en/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | AirDroid
+# AirDroid | Delight Your Multi-Screen Life
 
 ## What information do we collect?
 
@@ -41,7 +41,7 @@ After a transaction, your private information (credit cards, social security num
 
 ## Do we use cookies? 
 
-Yes, Cookies are small files that a site or software or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site or softwares or service providers systems to recognize your browser and capture and remember certain information.
+Yes, Cookies are small files that a site or software or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the site or softwares or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site or software traffic and site or software interaction so that we can offer better site or software experiences and tools in the future.
 
