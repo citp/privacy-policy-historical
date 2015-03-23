@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyuni.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722095654id_/https%3A//www.easyuni.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyuni.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323143250id_/https%3A//www.easyuni.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Study abroad or locally - EASYUNI
 
@@ -48,7 +48,7 @@ The security of your information is important to us. In the event that personal 
 
 ## Your Choices About Your Information
 
-You may, of course, decline to submit personally identifiable information through the website, in which case EASYUNI may not be able to provide certain services to you. You may update or correct your account information at any time by logging in to your account. You can delete your EASYUNI account by visiting our [Account Deletion](https://web.archive.org/web/20140722095654id_/https:/accounts/delete) page.
+You may, of course, decline to submit personally identifiable information through the website, in which case EASYUNI may not be able to provide certain services to you. You may update or correct your account information at any time by logging in to your account. You can delete your EASYUNI account by visiting our [Account Deletion](https://web.archive.org/web/20150323143250id_/https:/accounts/delete) page.
 
 ## Children’s Privacy
 
