@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cappex.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111075341id_/http%3A//www.cappex.com/page/about/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cappex.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323054213id_/https%3A//www.cappex.com/page/about/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Cappex
 
