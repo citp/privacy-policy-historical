@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesciencetools.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717123543id_/http%3A//www.hometrainingtools.com/a/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesciencetools.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323032431id_/http%3A//www.hometrainingtools.com/a/terms-privacy) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy | Home Science Tools
 
@@ -56,7 +56,12 @@ If you have any questions or concerns about this privacy policy or any business 
 
 ## TERMS OF USE
 
-Laboratory equipment and chemicals can be dangerous if misused. When you order from us, you are verifying that you are 21 years of age, that you understand lab safety practices and the hazards associated with the materials you purchase, and that you assume all responsibility for any injuries or damages resulting from the use, storage, and disposal of these items.
+Laboratory equipment and chemicals can be dangerous if misused. 
+
+When you order from us, you are verifying that you are at least 21 years of age and that you:  
+• Understand lab safety practices and the hazards associated with using the materials you purchase,  
+• Assume all responsibility for any injuries or damages resulting from the use, storage, and disposal of these items,  
+• Assume all responsibility for complying with government regulations regarding these items.
 
 #### Site Use
 
