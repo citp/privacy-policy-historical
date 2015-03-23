@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeaway.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701094011id_/http%3A//www.homeaway.com.au/info/about-us/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeaway.com.au privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323135701id_/http%3A//www.homeaway.com.au/info/about-us/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policies | HomeAway.com.au
 
