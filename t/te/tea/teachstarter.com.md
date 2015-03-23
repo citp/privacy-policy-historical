@@ -1,111 +1,143 @@
-> *The following text is extracted and transformed from the teachstarter.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622030213id_/http%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachstarter.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323201128id_/https%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Teach Starter Privacy Policy
 
-## App Privacy Policy – Chompy Chomps!
+## 1\. Privacy Policy
 
-This privacy statement describes how Teach Starter respects your privacy while using Chompy Chomps (available from the Apple App Store).
+Teach Starter Pty Ltd ACN 163 164 869 ( **Teach Starter** ) takes all reasonable steps to implement processes and procedures to safeguard Personal Information.  Teach Starter endeavors to but is not required to comply with the Australian Privacy Principles contained in the _Privacy Act 1988_ (Cth) ( **Law** ).  While not claiming to be a statement of compliance, this Privacy Policy outlines Teach Starter’s use, collection and storage of Personal Information.
 
-Chompy Chomps (the app) does not gather, store, retain, transmit or share any personal information.
+This Privacy Policy applies to all Personal Information collected by Teach Starter in the course of providing services to users ( **Users** ) regardless of the source of that Personal Information.  This Privacy Policy is available on the Site.
 
-The app is suitable for ages 4+ and, as such, places a high value on users’ privacy.
+This Privacy Policy should be read in conjunction with Teach Starter’s [**Terms and Conditions**](http://www.teachstarter.com/about/terms-and-conditions/ "Terms & Conditions") when using the Site and interacting with Teach Starter.
 
-The app is ad-free and does not include behavioral advertising or contextual ads.
+### 1.1 Definitions
 
-The app does not include any form of in-app purchases or links to a commerce site.
+Terms that are capitalised in this Privacy Policy are defined below, unless the context indicates otherwise:
 
-The app is in the Kids Category and made specifically for ages 6-8.
+**Site** means www.teachstarter.com
 
-## Website Privacy Policy – [TeachStarter.com](http://www.teachstarter.com/ "Teaching Resources")
+**Minor** means a person under the age of eighteen (18).
 
-Effective on June 3, 2012
+**Personal Information** means information or an opinion about an identified individual, or an individual who is reasonably identifiable:
 
-This privacy statement describes how Teach Starter collects and uses the personal information you provide on our web site: www.teachstarter.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+(a)           whether the information or opinion is true or not; and
 
-### Collection and Use of Personal Information
+(b)           whether the information or opinion is recorded in a material form or not.
 
-We collect the following personal information from you
+**Privacy Policy** means this privacy policy and amendments made to it.
 
-  * Contact Information such as name, email address, postal address, photo and ‘about you’ information
-  * Unique Identifiers such as user name, account number, password
-  * Specific teaching related information such as school, grade, class students and font
+## 2\. Obligations under the Law
 
+### 2.1 Collection of Personal Information
 
+Teach Starter collects Personal Information about Users in order to provide the Users with the services and goods they have requested.  If this information is not provided Teach Starter may not be able to provide Users with requested services or goods.
 
-Only the following information is made public:
+**Teach Starter endeavors to collect Personal Information from Users directly.   Information Teach Starter obtains from third parties or publically available information is limited to circumstances where the User has consented whether expressly or impliedly.**
 
-  * Your profile photo
-  * Your name
-  * ‘About you’ information
-  * School name
-  * Grade level
-  * What you have downloaded
-  * What you have favorited
-  * Comments
+### 2.2 Types of Personal Information collected
 
+Personal Information Teach Starter collects may include a person’s first and last names and email address and any other Personal Information supplied by the User.  If a User connects Teach Starter to a third party social media service, Teach Starter may collect additional Personal Information that includes social media profile handles, user ID and/or user names associated with that service and any information or content the User has permitted the social media service to share with Teach Starter, which may include the User’s profile picture, email address, friends or follower lists, and information the User has disclosed in connection with that social media services.
 
+### 2.3 Sensitive information
 
-You consent to this information being made public.
+Teach Starter does not collect sensitive information about Users.  Sensitive information includes information about racial or ethnic origin; or political opinions; or membership of a political association; or religious beliefs or affiliations; or philosophical beliefs; or membership of a professional or trade association; or membership of a trade union; or sexual orientation or practices; or criminal record; that is also personal information; or health information about an individual; or genetic information about an individual that is not otherwise health information; or biometric information that is to be used for the purpose of automated biometric verification or biometric identification; or biometric templates.
 
-You can view your public profile by logging out of your Teach Starter account and accessing http://www.teachstarter.com/teacher/[your username].
+### 2.4 Purpose of collection and use
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.  
-We use this information to
+Teach Starter collects, holds, uses and discloses Personal Information to deliver and improve the goods or services Teach Starter provides to Users.  Generally, Users are only obliged to provide Teach Starter with information necessary for Teach Starter to provide services to the User.  However, if Users do not provide Teach Starter with certain types of Personal Information Teach Starter may be unable to provide the User the services or goods they have requested.
 
-Send you a newsletter  
-Send you marketing communications  
-Respond to your questions and concerns  
-Improve our Web site and marketing efforts  
-Conduct research and analysis  
-Facilitate your transactions with other users
+### 2.5 Collection of information from the Internet
 
-**Choice/Opt-Out**
+Teach Starter collects information from the Site and from Teach Starter’s interactions with the Users.  This information is all held in digital format only.
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at scott@teachstarter.com.
+The programs and applications Teach Starter use are password protected and encrypted. Reasonable steps are taken to ensure all information provided is secure.  Teach Starter will collect Personal Information by only lawful and fair means.  The Law requires Teach Starter to collect Personal Information about Users from the Users directly, if it is reasonable and practical to do so.
 
-### Information Sharing
+## 3\. Access, correction and complaint procedure
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+### 3.1 Accessing Personal Information about you
 
-We may also disclose your personal information as required by law such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, if Teach Starter is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,  
-to any other third party with your prior consent to do so.
+If a User would like to access or correct Personal Information that Teach Starter holds about them, please contact:  
+**The Privacy Officer**
 
-We make your contact information available to other users that you transact with on this site to help complete the transaction.
+Scott Tonges
 
-### Cookies and Other Tracking Technologies
+Teach Starter Pty Ltd ACN 163 164 869  
+PO Box 631  
+Paddington QLD 4064  
+Australia
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+Telephone: 1800 790 441
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
-
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
-
-**Links to Other Web Sites**
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Teach Starter. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
-
-### Security
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can contact us at scott@teachstarter.com
-
-### Additional Policy Information
-
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, social feeds, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
-
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, edit it in your profile on the website or contact us at help@teachstarter.com.
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-## Contact Information
-
-You can contact us about this privacy statement by writing or email us at the address below:  
-Teach Starter  
 Email: scott@teachstarter.com
+
+The User will need to identify themselves to the reasonable satisfaction of Teach Starter before Teach Starter will provide the User with their Personal Information which Teach Starter may or may not have in its possession.
+
+### 3.2 Complaints procedure
+
+Teach Starter operates a service oriented business via the Site.  If a User has a complaint about Teach Starter’s collection or use of Personal Information pertaining to that User, then the User is requested to contact Teach Starter’s **Privacy Officer** at first instance.
+
+If after investigating the User’s complaint and reporting to the User about an alleged breach of the Australian Privacy Principles and reporting the results of Teach Starter’s investigations to the User, the User is not satisfied, then Teach Starter requests that the User consult:
+
+**The Australian Information Privacy Commissioner**
+
+GPO Box 5218  
+Sydney  NSW  2001  
+Telephone: 1300 363 992
+
+Email: enquiries@oaic.gov.au
+
+A complaint form can be found at: https://forms.business.gov.au/aba/oaic/privacy-complaint-/
+
+### 3.3 Transfer of Personal Information outside Australia
+
+Personal Information Teach Starter collects may in the future be accessed by employees and contractors of service providers outside of Australia.  Personal Information may be transferred to countries outside Australia including but not limited to Singapore.
+
+Teach Starter takes reasonable steps to ensure that parties that provide Teach Starter with necessary services for website hosting and database administration act in accordance with the Australian Privacy Principles and have signed undertakings for their staff relating to confidentiality.  Teach Starter also uses only recognized service providers who use enterprise level software with up to date SSL Encryption.
+
+### 3.4 Anonymity and use of pseudonyms
+
+Where practical and reasonable to do so, Teach Starter provides Users with the opportunity to use pseudonyms in relation to information Users provide to Teach Starter.  Where appropriate Teach Starter will provide Users with the option in interact anonymously.
+
+### 3.5 How Teach Starter deals with unsolicited Personal Information
+
+Teach Starter only collects Personal Information about individuals by lawful and fair means.
+
+### 3.6 Notice of collection of Personal Information
+
+Where possible, Teach Starter notifies the Users when Teach Starter is collecting Personal Information about the Users, use of which is subject to this Privacy Policy.
+
+**Collection Notice**
+
+By providing Teach Starter with this information, the User acknowledges that Teach Starter is collecting and storing Personal Information about the User.  Teach Starter does this only for the purpose of providing goods or services to the User.
+
+## 4\. Use of Personal Information in Direct Marketing
+
+### 4.1 Direct marketing
+
+Teach Starter may use Personal Information for the purposes of promoting goods or services to Users where they would reasonably expect it to be used for this purpose.  If Teach Starter uses a User’s Personal Information to provide them with promotional and marketing information Teach Starter will provide the User with an option to opt out of this service.  Teach Starter does not provide goods that contain advertising targeted towards Minors.
+
+### 4.2 Opting out
+
+Users can unsubscribe to Teach Starter’s newsletters or marketing material by clicking on the functional unsubscribe facility contained in any email or by contacting The Privacy Officer on the details set out above.
+
+### 4.3 Use of Cookies
+
+Teach Starter collects Personal Information that is reasonably necessary for the performance of Teach Starter’s operations and activities including marketing and sales.  Teach Starter automatically receives and records information on its server logs from the User’s browser, including their IP address, operating system, top level domain, date and time, pages accessed, documents downloaded, previous website visited, type of browser used and other cookie information.  This enables Teach Starter to tell when Users use the Site and also to help customise the User’s experience within the Site.  No Personal Information about a User is linked to the cookie nor is there any data matching between cookie information and User’s internet activity.
+
+## 5\. Integrity of Personal Information
+
+### 5.1 Security measures taken for Personal Information
+
+Teach Starter takes reasonable steps to protect the Personal Information Teach Starter holds from misuse and loss and from unauthorised access, modification or disclosure when Teach Starter sends Personal Information offshore.  Further, Teach Starter takes reasonable steps to destroy or permanently de-identify Personal Information if it is no longer needed for the purpose it was collected.
+
+### 5.2 Accuracy
+
+Teach Starter takes reasonable steps to ensure that the Personal Information Teach Starter collects, uses or discloses is accurate, complete and up-to-date.
+
+### 5.3 Security
+
+Teach Starter takes reasonable steps to safeguard the disclosure of Personal Information from third parties, contractors and staff.  Teach Starter has up to date procedures and policies relating to information technology as it relates to staff and strive for best practice in this area.
+
+## 6\. Changes to Privacy Policy
+
+This Privacy Policy may change from time to time.  The current version is available on the Site.  This policy was last updated on 9 July 2014.
