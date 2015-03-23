@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the teachstarter.com privacy policy that was archived on 2014-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622030213id_/http%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teachstarter.com privacy policy that was archived on 2015-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150323201128id_/https%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEPWVNRGwAAU1RQAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html><head><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEPWVNRGwAEXVVTBAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(s(h,function(e,n){e in t||(t[e]=n)}),t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-488.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>Teach Starter Privacy Policy</title>
-<link rel="Teach Starter shortcut icon" href="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/favicon.ico">
+<link rel="Teach Starter shortcut icon" href="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/favicon.ico">
 <meta name="msvalidate.01" content="A58332AE2649AC6F2B83EF512D33C176">
 <link rel="author" href="https://plus.google.com/+ScottTonges/">
 <link rel="publisher" href="https://plus.google.com/+Teachstarter/">
@@ -13,33 +13,34 @@
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://www.teachstarter.com/about/privacy-policy/">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="1. Privacy Policy Teach Starter Pty Ltd ACN 163 164 869 (Teach Starter) takes all reasonable steps to implement processes and procedures to safeguard Perso">
+<link rel="canonical" href="https://www.teachstarter.com/about/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Teach Starter Privacy Policy">
-<meta property="og:description" content="App Privacy Policy – Chompy Chomps! This privacy statement describes how Teach Starter respects your privacy while using Chompy Chomps (available from the Apple App Store). Chompy Chomps (the app) does not gather, store, retain, transmit or share any personal information. The app is suitable for ages 4+ and, as such, places a high value …">
-<meta property="og:url" content="http://www.teachstarter.com/about/privacy-policy/">
+<meta property="og:description" content="1. Privacy Policy Teach Starter Pty Ltd ACN 163 164 869 (Teach Starter) takes all reasonable steps to implement processes and procedures to safeguard Perso">
+<meta property="og:url" content="https://www.teachstarter.com/about/privacy-policy/">
 <meta property="og:site_name" content="Teaching Resources – Teach Starter">
 <meta property="article:author" content="http://www.facebook.com/TeachStarter">
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="Teaching Resources – Teach Starter » Privacy Policy Comments Feed" href="http://www.teachstarter.com/about/privacy-policy/feed/">
-<link rel="stylesheet" id="style.css-css" href="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/css/all.style.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="swiftype-css" href="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/plugins/swiftype-search/assets/autocomplete.css" type="text/css" media="all">
+<link rel="alternate" type="application/rss+xml" title="Teaching Resources – Teach Starter » Privacy Policy Comments Feed" href="https://www.teachstarter.com/about/privacy-policy/feed/">
+<link rel="stylesheet" id="style.css-css" href="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/css/all.style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="swiftype-css" href="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/plugins/swiftype-search/assets/autocomplete.css" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
 var swiftypeParams = {"engineKey":"VeMZ_zc7VaNm-we_GhPc"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/plugins/swiftype-search/assets/install_swiftype.min.js"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.teachstarter.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 3.9.1">
-<link rel="shortlink" href="http://www.teachstarter.com/?p=299">
+<script type="text/javascript" src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/plugins/swiftype-search/assets/install_swiftype.min.js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.teachstarter.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.1.1">
+<link rel="shortlink" href="https://www.teachstarter.com/?p=299">
 
 <script type="text/javascript">
-var ajaxurl = 'http://www.teachstarter.com/wp-admin/admin-ajax.php';
+var ajaxurl = 'https://www.teachstarter.com/wp-admin/admin-ajax.php';
 </script>
 
 <script type="text/javascript">
@@ -54,13 +55,29 @@ var swiftypeConfig = {
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-28537369-1', 'teachstarter.com');
+
+  ga('create', 'UA-28537369-1', 'auto');
   ga('send', 'pageview');
+
 </script>
+
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+<!-- Start of Teach Starter Zendesk Widget script -->
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","teachstarter.zendesk.com");/*]]>*/</script>
+<!-- End of Teach Starter Zendesk Widget script -->
 
 </head>
 
-<body class="page page-id-299 page-child parent-pageid-121 page-template-default"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+
+<body class="page page-id-299 page-child parent-pageid-121 page-template-default">
 
 <div id="holder">
 
@@ -72,15 +89,20 @@ var swiftypeConfig = {
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="visible-xs pull-right" style="font-size:22px; padding:10px 7px 0 7px; margin-right:15px; display:block; color:#ccc;" href="http://www.teachstarter.com/search/"><span class="glyphicon glyphicon-search"></span></a>
-        <a class="navbar-brand" href="http://www.teachstarter.com/?ref=logo"><img src="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/images/logo.jpg"></a>
-                <img class="country-flag hidden-xs hidden-sm" src="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/images/icons/us.gif" title="Teach Starter United States" alt="Teach Starter United States">
-              </div>
+        <a class="visible-xs pull-right search-xs" style="font-size:22px; padding:10px 7px 0 7px; margin-right:15px; display:block; color:#ccc;" href="https://www.teachstarter.com/search/"><span class="glyphicon glyphicon-search"></span></a>
+        
+                
+        <a class="navbar-brand" href="https://www.teachstarter.com/?ref=logo"><img src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/images/logo.jpg"></a>
+       
+        <a class="country-flag hidden-xs hidden-sm" href="https://teachstarter.zendesk.com/hc/en-us/articles/201118989-How-do-I-change-language-" target="_blank">
+                <img src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/images/icons/us.gif" title="Language: American English (en-US)" alt="Language: American English (en-US)">
+                </a>
+      </div>
       <div class="collapse navbar-collapse">
-      	<form class="navbar-form navbar-right visible-lg" method="get" role="search" action="http://www.teachstarter.com/">
+      	<form class="navbar-form navbar-right visible-lg" method="get" role="search" action="https://www.teachstarter.com/">
           <div class="search">
             <div class="input-group">
-              <input type="text" class="form-control" placeholder="Find teachers or resources..." name="s" id="s">
+              <input type="text" class="form-control" placeholder="Find teaching resources..." name="s" id="s">
               <span class="input-group-btn">
                 <button type="submit" class="btn btn-info" id="searchsubmit" value="Search"><span class="glyphicon glyphicon-search"></span></button>
               </span>
@@ -88,79 +110,102 @@ var swiftypeConfig = {
           </div>
         </form>
         <ul class="nav navbar-nav navbar-right">
-        	<li><a href="http://www.teachstarter.com/?ref=icon" class="smaller icon" style="padding-bottom:20px;"><span class="glyphicon glyphicon-home"></span></a></li>
-          <li class="hidden-sm"><a href="http://www.teachstarter.com/resources">Resources</a></li>
-          <li class="dropdown">
+        	<li class="hidden-xs"><a href="https://www.teachstarter.com/?ref=icon" class="smaller icon" style="padding-bottom:20px;"><span class="glyphicon glyphicon-home"></span><span id="resource-alert" class="badge" style="position:relative; margin-left:-2px; top:-10px; background:#f0ad4e; display:none;" title="New Resources!"></span></a></li>
+          <li class="hidden-sm"><a href="https://www.teachstarter.com/resources">Resources</a></li>
+          
+                    
+                    
+                    
+          <li class="visible-xs"><a href="https://www.teachstarter.com/sitemap">Categories</a></li>
+          <li class="dropdown hidden-xs">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories <b class="caret"></b></a>
-            <ul class="dropdown-menu column-menu-2">
+            <ul class="dropdown-menu column-menu-4">
+            
             	<li class="column-menu">
-              		<a href="http://www.teachstarter.com/resources">Popular resources</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/resource/">All resources</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/free">Free resources</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/literacy">Literacy</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/numeracy">Numeracy</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/science">Science</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/sose">SOSE/HSIE</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/history">History</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/geography">Geography</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/technology">Technology</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/health-pe">Health/P.E.</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/the-arts">The Arts</a>
-                  
+                <span class="column-menu-title">Learning Areas</span>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/literacy">English</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/numeracy">Maths</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/science">Science</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/history">History</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/geography">Geography</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/social-studies">Social Studies</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/technology">Technology</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/health-pe">Health/P.E.</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/the-arts">The Arts</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/special-occasions">Special Occasions</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/lote">Language</a>
               </li>
               <li class="column-menu">
-              		<a href="http://www.teachstarter.com/teaching-resources/custom/">Custom Resources</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/behaviour-management">Behaviour Management</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/classroom-organisation">Classroom Organisation</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/relief-teaching">Relief Teaching</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/worksheets">Worksheets</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/wordwall">Word Walls</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/nametags">Name Tags</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/positivity-essentials">Positivity</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/certificates">Certificates</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/games">Games</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/special-occasions">Special Occasions</a>
-                  <a href="http://www.teachstarter.com/teaching-resources/lote">LOTE</a>
+              	<span class="column-menu-title">Classroom Management</span>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-management/behaviour-management">Rules &amp; Behaviour</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-management/relief-teaching">Relief Teaching</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-management/calendars">Calendars</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-management/daily-routine">Daily Routine</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-management/teacher-organisation">Teacher Organisation</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-management/positivity-essentials">Positivity</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-management/goals-feedback/">Goals &amp; Feedback</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-management/certificates">Certificates &amp; Awards</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-management/games">Games</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-management/groupwork-classroom-management/">Groupwork</a>
+                  
               </li>
+              
+              <li class="column-menu">
+              	<span class="column-menu-title">Labels &amp; Signs</span>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-organisation/">Back to School</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-organisation/classroom-theme-packs">Classroom Theme Packs</a>
+                <a href="https://www.teachstarter.com/teaching-resources/subject/literacy/vocabulary/word-walls/">Word Walls</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-organisation/deskplates">Desk Plates</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-organisation/nametags">Name Tags</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-organisation/traylabels">Tray Labels</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-organisation/welcomesigns/">Welcome Signs</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-organisation/lettersets">Title/Display Letters</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-organisation/page-borders/">Page Borders</a>
+                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-organisation/cork-boardwhiteboard-borders/">Cork Board Borders</a>
+                
+              </li>
+              
+              <li class="column-menu">                
+                <span class="column-menu-title">Other Resources</span>
+                <a href="https://www.teachstarter.com/teaching-resources/free">Free Resources</a>
+                <a href="https://www.teachstarter.com/teaching-resources/resource/">All Resources</a>
+								                <a href="https://www.teachstarter.com/teaching-resources/essentials/classroom-organisation/resource-packs/">Resource Packs</a>
+                <a href="https://www.teachstarter.com/teaching-resources/custom/">Custom Resources</a>
+                <a href="https://www.teachstarter.com/teaching-resources/format/docx/">Word Documents</a>
+                <a href="https://www.teachstarter.com/teaching-resources/format/pptx/">Powerpoint Presentations</a>
+                <br>
+                                
+              </li>
+              
               <li class="divider visible-xs"></li>
             </ul>
           </li>
           
-          <li class="dropdown">
+          <li class="dropdown hidden-xs">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
             <ul class="dropdown-menu">
-            	<li><a href="http://www.teachstarter.com/member-account/ambassador/">Ambassador Program</a></li>
-            	<li><a href="http://www.teachstarter.com/request-a-resource/">Request a resource</a></li>
-              <li><a href="http://www.teachstarter.com/member-account/worksheets">Create a worksheet</a></li>
-              <li><a href="http://www.teachstarter.com/teaching-resources/custom/">Customise resources</a></li>
-              <li><a href="http://www.teachstarter.com/random-name-selector/#hero">Random name selector</a></li>
-              <li><a href="http://www.teachstarter.com/random-sentence-starter-selector/">Random sentence starter selector</a></li>
+            	<li><a href="https://www.teachstarter.com/request-a-resource/">Request a resource</a></li>
+              <li><a href="https://www.teachstarter.com/label-creator/">Label creator <span class="label label-warning pull-right">New!</span></a></li>
+              <li><a href="https://www.teachstarter.com/random-name-selector/#hero">Random name selector</a></li>
+              <li><a href="https://www.teachstarter.com/random-sentence-starter-selector/">Random sentence starter</a></li>
               <li class="divider visible-xs"></li>
             </ul>
           </li>
           
-          <li><a href="http://www.teachstarter.com/blog">Blog</a></li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
-            <ul class="dropdown-menu">
-            	<li><a href="http://www.teachstarter.com/chompy">Apps</a></li>
-                            <li><a href="http://www.teachstarter.com/about/school-fonts/">School Fonts</a></li>
-              <li><a href="http://www.teachstarter.com/about/testimonials-feedback/">Testimonials &amp; Feedback</a></li>
-              <li><a href="http://www.teachstarter.com/about/">Features</a></li>
-              <li><a href="http://www.teachstarter.com/about/frequently-asked-questions/">FAQ</a></li>
-              <li><a href="http://www.teachstarter.com/sitemap/">Sitemap</a></li>
-              <li class="divider"></li>
-              <li><a href="http://www.teachstarter.com/about/contact/">Contact</a></li>
-              <li class="divider visible-xs"></li>
-            </ul>
-          </li>
-                    <li><a href="http://www.teachstarter.com/login/">Login</a></li>
-          <li class="highlight"><a href="http://www.teachstarter.com/member-options/">Sign up!</a></li>
-				        	<li><a class="hidden-lg" href="http://www.teachstarter.com/search/"><span class="glyphicon glyphicon-search"></span></a></li>
+          <li class="visible-xs"><a href="https://www.teachstarter.com/request-a-resource/">Request a resource</a></li>
+          
+                    	<li><a href="https://www.teachstarter.com/member-options/">Pricing</a></li>
+                    
+                    <li><a href="https://www.teachstarter.com/login/">Log In</a></li>
+          <li class="highlight"><a href="#" data-toggle="modal" data-target=".login-signup-modal">Sign up!</a></li>
+				        	<li><a class="hidden-xs hidden-lg" href="https://www.teachstarter.com/search/"><span class="glyphicon glyphicon-search"></span></a></li>
         </ul>
         
+        
+        
       </div><!--/.nav-collapse -->
-  </div>
+      
+        </div>
   
 
   <div id="search-results" class="" style="position:fixed; z-index:700; display:none; width:340px; right:20px; padding:10px 0; top:55px; background:#fff; border-radius:0 0 10px 10px; border:1px solid #ccc; box-shadow: 0 0 5px rgba(0,0,0,.4);">
@@ -168,10 +213,12 @@ var swiftypeConfig = {
   </div>
   
 	<div id="main">
-  	
-      
   
+  
+  <!-- Conversion Bar -->
+    
   	
+  
 		
   <div class="row inner-header">
   	<div class="container">
@@ -183,203 +230,435 @@ var swiftypeConfig = {
     <div id="row">
       <div class="col-md-12">
       
-      	<h2>App Privacy Policy – Chompy Chomps!</h2>
-<p>This privacy statement describes how Teach Starter respects your privacy while using Chompy Chomps (available from the Apple App Store).</p>
-<p>Chompy Chomps (the app) does not gather, store, retain, transmit or share any personal information.</p>
-<p>The app is suitable for ages 4+ and, as such, places a high value on users’ privacy.</p>
-<p>The app is ad-free and does not include behavioral advertising or contextual ads.</p>
-<p>The app does not include any form of in-app purchases or links to a commerce site.</p>
-<p>The app is in the Kids Category and made specifically for ages 6-8.</p>
-<h2>Website Privacy Policy – <a title="Teaching Resources" href="http://www.teachstarter.com">TeachStarter.com</a></h2>
-<p>Effective on June 3, 2012</p>
-<p>This privacy statement describes how Teach Starter collects and uses the personal information you provide on our web site: www.teachstarter.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</p>
-<h3>Collection and Use of Personal Information</h3>
-<p>We collect the following personal information from you</p>
-<ul>
-<li>Contact Information such as name, email address, postal address, photo and ‘about you’ information</li>
-<li>Unique Identifiers such as user name, account number, password</li>
-<li>Specific teaching related information such as school, grade, class students and font</li>
-</ul>
-<p>Only the following information is made public:</p>
-<ul>
-<li>Your profile photo</li>
-<li>Your name</li>
-<li>‘About you’ information</li>
-<li>School name</li>
-<li>Grade level</li>
-<li>What you have downloaded</li>
-<li>What you have favorited</li>
-<li>Comments</li>
-</ul>
-<p>You consent to this information being made public.</p>
-<p>You can view your public profile by logging out of your Teach Starter account and accessing http://www.teachstarter.com/teacher/[your username].</p>
-<p>As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.<br>
-We use this information to</p>
-<p>Send you a newsletter<br>
-Send you marketing communications<br>
-Respond to your questions and concerns<br>
-Improve our Web site and marketing efforts<br>
-Conduct research and analysis<br>
-Facilitate your transactions with other users</p>
-<p><strong>Choice/Opt-Out</strong></p>
-<p>You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at scott@teachstarter.com.</p>
-<h3>Information Sharing</h3>
-<p>We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.</p>
-<p>We may also disclose your personal information&nbsp;as required by law such as to comply with a subpoena, or similar legal process&nbsp;when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,&nbsp;if Teach Starter is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,<br>
-to any other third party with your prior consent to do so.</p>
-<p>We make your contact information available to other users that you transact with on this site to help complete the transaction.</p>
-<h3>Cookies and Other Tracking Technologies</h3>
-<p>We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.</p>
-<p>We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.</p>
+      	<h2>1. Privacy Policy</h2>
+<p>Teach Starter Pty Ltd ACN 163 164 869 (<strong>Teach Starter</strong>) takes all reasonable steps to implement processes and procedures to safeguard Personal Information. &nbsp;Teach Starter endeavors to but is not required to comply with the Australian Privacy Principles contained in the <em>Privacy Act 1988</em> (Cth) (<strong>Law</strong>).&nbsp; While not claiming to be a statement of compliance, this Privacy Policy outlines Teach Starter’s use, collection and storage of Personal Information.</p>
+<p>This Privacy Policy applies to all Personal Information collected by Teach Starter in the course of providing services to users (<strong>Users</strong>) regardless of the source of that Personal Information.&nbsp; This Privacy Policy is available on the Site.</p>
+<p>This Privacy Policy should be read in conjunction with Teach Starter’s <a title="Terms &amp; Conditions" href="http://www.teachstarter.com/about/terms-and-conditions/"><strong>Terms and Conditions</strong></a> when using the Site and interacting with Teach Starter.</p>
+<h3>1.1 Definitions</h3>
+<p>Terms that are capitalised in this Privacy Policy are defined below, unless the context indicates otherwise:</p>
+<p><strong>Site </strong>means www.teachstarter.com</p>
+<p><strong>Minor </strong>means a person under the age of eighteen (18).</p>
+<p><strong>Personal Information</strong> means information or an opinion about an identified individual, or an individual who is reasonably identifiable:</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether the information or opinion is true or not; and</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether the information or opinion is recorded in a material form or not.</p>
+<p><strong>Privacy Policy </strong>means this privacy policy and amendments made to it.</p>
+<h2>2. Obligations under the Law</h2>
+<h3>2.1&nbsp;Collection of Personal Information</h3>
+<p>Teach Starter collects Personal Information about Users in order to provide the Users with the services and goods they have requested. &nbsp;If this information is not provided Teach Starter may not be able to provide Users with requested services or goods.</p>
+<p><strong>Teach Starter endeavors to collect Personal Information from Users directly.&nbsp; Information Teach Starter obtains from third parties or publically available information is limited to circumstances where the User has consented whether expressly or impliedly.</strong></p>
+<h3>2.2 Types of Personal Information collected</h3>
+<p>Personal Information Teach Starter collects may include a person’s first and last names and email address and any other Personal Information supplied by the User.&nbsp; If a User connects Teach Starter to a third party social media service, Teach Starter may collect additional Personal Information that includes social media profile handles, user ID and/or user names associated with that service and any information or content the User has permitted the social media service to share with Teach Starter, which may include the User’s profile picture, email address, friends or follower lists, and information the User has disclosed in connection with that social media services.</p>
+<h3>2.3 Sensitive information</h3>
+<p>Teach Starter does not collect sensitive information about Users.&nbsp; Sensitive information includes information about racial or ethnic origin; or political opinions; or membership of a political association; or religious beliefs or affiliations; or philosophical beliefs; or membership of a professional or trade association; or membership of a trade union; or sexual orientation or practices; or criminal record; that is also personal information; or health information about an individual; or genetic information about an individual that is not otherwise health information; or biometric information that is to be used for the purpose of automated biometric verification or biometric identification; or biometric templates.</p>
+<h3>2.4 Purpose of collection and use</h3>
+<p>Teach Starter collects, holds, uses and discloses Personal Information to deliver and improve the goods or services Teach Starter provides to Users.&nbsp; Generally, Users are only obliged to provide Teach Starter with information necessary for Teach Starter to provide services to the User.&nbsp; However, if Users do not provide Teach Starter with certain types of Personal Information Teach Starter may be unable to provide the User the services or goods they have requested.</p>
+<h3>2.5 Collection of information from the Internet</h3>
+<p>Teach Starter collects information from the Site and from Teach Starter’s interactions with the Users.&nbsp; This information is all held in digital format only.</p>
+<p>The programs and applications Teach Starter use are password protected and encrypted. Reasonable steps are taken to ensure all information provided is secure.&nbsp; Teach Starter will collect Personal Information by only lawful and fair means.&nbsp; The Law requires Teach Starter to collect Personal Information about Users from the Users directly, if it is reasonable and practical to do so.</p>
+<h2>3. Access, correction and complaint procedure</h2>
+<h3>3.1 Accessing Personal Information about you</h3>
+<p>If a User would like to access or correct Personal Information that Teach Starter holds about them, please contact:<br>
+<strong>The Privacy Officer</strong></p>
+<p>Scott Tonges</p>
+<p>Teach Starter Pty Ltd ACN 163 164 869<br>
+PO Box 631<br>
+Paddington QLD 4064<br>
+Australia</p>
+<p>Telephone: 1800 790 441</p>
+<p>Email: scott@teachstarter.com</p>
+<p>The User will need to identify themselves to the reasonable satisfaction of Teach Starter before Teach Starter will provide the User with their Personal Information which Teach Starter may or may not have in its possession.</p>
+<h3>3.2 Complaints procedure</h3>
+<p>Teach Starter operates a service oriented business via the Site. &nbsp;If a User has a complaint about Teach Starter’s collection or use of Personal Information pertaining to that User, then the User is requested to contact Teach Starter’s <strong>Privacy Officer </strong>at first instance.</p>
+<p>If after investigating the User’s complaint and reporting to the User about an alleged breach of the Australian Privacy Principles and reporting the results of Teach Starter’s investigations to the User, the User is not satisfied, then Teach Starter requests that the User consult:</p>
+<p><strong>The Australian Information Privacy Commissioner</strong></p>
+<p>GPO Box 5218<br>
+Sydney&nbsp; NSW&nbsp; 2001<br>
+Telephone: 1300 363 992</p>
+<p>Email: enquiries@oaic.gov.au</p>
+<p>A complaint form can be found at:&nbsp;https://forms.business.gov.au/aba/oaic/privacy-complaint-/</p>
+<h3>3.3 Transfer of Personal Information outside Australia</h3>
+<p>Personal Information Teach Starter collects may in the future be accessed by employees and contractors of service providers outside of Australia.&nbsp; Personal Information may be transferred to countries outside Australia including but not limited to Singapore.</p>
+<p>Teach Starter takes reasonable steps to ensure that parties that provide Teach Starter with necessary services for website hosting and database administration act in accordance with the Australian Privacy Principles and have signed undertakings for their staff relating to confidentiality.&nbsp; Teach Starter also uses only recognized service providers who use enterprise level software with up to date SSL Encryption.</p>
+<h3>3.4 Anonymity and use of pseudonyms</h3>
+<p>Where practical and reasonable to do so, Teach Starter provides Users with the opportunity to use pseudonyms in relation to information Users provide to Teach Starter.&nbsp; Where appropriate Teach Starter will provide Users with the option in interact anonymously.</p>
+<h3>3.5 How Teach Starter deals with unsolicited Personal Information</h3>
+<p>Teach Starter only collects Personal Information about individuals by lawful and fair means.</p>
+<h3>3.6 Notice of collection of Personal Information</h3>
+<p>Where possible, Teach Starter notifies the Users when Teach Starter is collecting Personal Information about the Users, use of which is subject to this Privacy Policy.</p>
+<p><strong>Collection Notice</strong></p>
+<p>By providing Teach Starter with this information, the User acknowledges that Teach Starter is collecting and storing Personal Information about the User.&nbsp; Teach Starter does this only for the purpose of providing goods or services to the User.</p>
+<h2>4. Use of Personal Information in Direct Marketing</h2>
+<h3>4.1 Direct marketing</h3>
+<p>Teach Starter may use Personal Information for the purposes of promoting goods or services to Users where they would reasonably expect it to be used for this purpose.&nbsp; If Teach Starter uses a User’s Personal Information to provide them with promotional and marketing information Teach Starter will provide the User with an option to opt out of this service.&nbsp; Teach Starter does not provide goods that contain advertising targeted towards Minors.</p>
+<h3>4.2 Opting out</h3>
+<p>Users can unsubscribe to Teach Starter’s newsletters or marketing material by clicking on the functional unsubscribe facility contained in any email or by contacting The Privacy Officer on the details set out above.</p>
+<h3>4.3 Use of Cookies</h3>
+<p>Teach Starter collects Personal Information that is reasonably necessary for the performance of Teach Starter’s operations and activities including marketing and sales.&nbsp; Teach Starter automatically receives and records information on its server logs from the User’s browser, including their IP address, operating system, top level domain, date and time, pages accessed, documents downloaded, previous website visited, type of browser used and other cookie information.&nbsp; This enables Teach Starter to tell when Users use the Site and also to help customise the User’s experience within the Site.&nbsp; No Personal Information about a User is linked to the cookie nor is there any data matching between cookie information and User’s internet activity.</p>
+<h2>5. Integrity of Personal Information</h2>
+<h3>5.1 Security measures taken for Personal Information</h3>
+<p>Teach Starter takes reasonable steps to protect the Personal Information Teach Starter holds from misuse and loss and from unauthorised access, modification or disclosure when Teach Starter sends Personal Information offshore.&nbsp; Further, Teach Starter takes reasonable steps to destroy or permanently de-identify Personal Information if it is no longer needed for the purpose it was collected.</p>
+<h3>5.2 Accuracy</h3>
+<p>Teach Starter takes reasonable steps to ensure that the Personal Information Teach Starter collects, uses or discloses is accurate, complete and up-to-date.</p>
+<h3>5.3 Security</h3>
+<p>Teach Starter takes reasonable steps to safeguard the disclosure of Personal Information from third parties, contractors and staff.&nbsp; Teach Starter has up to date procedures and policies relating to information technology as it relates to staff and strive for best practice in this area.</p>
+<h2>6. Changes to Privacy Policy</h2>
+<p>This Privacy Policy may change from time to time.&nbsp; The current version is available on the Site.&nbsp; This policy was last updated on 9 July 2014.</p>
 <p>&nbsp;</p>
-<p>We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.</p>
-<p><strong>Links to Other Web Sites</strong></p>
-<p>Our Site includes links to other Web sites whose privacy practices may differ from those of Teach Starter. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.</p>
-<h3>Security</h3>
-<p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.</p>
-<p>If you have any questions about security on our Web site, you can contact us at scott@teachstarter.com</p>
-<h3>Additional Policy Information</h3>
-<p>Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, social feeds, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.</p>
-<p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.</p>
-<p><strong>Correcting and Updating Your Personal Information</strong></p>
-<p>To review and update your personal information to ensure it is accurate, edit it in your profile on the website or contact us at help@teachstarter.com.</p>
-<p><strong>Notification of Privacy Statement Changes</strong></p>
-<p>We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
-<h2>Contact Information</h2>
-<p>You can contact us about this privacy statement by writing or email us at the address below:<br>
-Teach Starter<br>
-Email: scott@teachstarter.com</p>
       
       </div>              
     </div><!-- #content -->
   </div><!-- #container -->
 
-<footer id="footer">
+<footer id="footer" style="margin-top:60px;">
 	<div class="container">
   
-  	<div class="row">
-    	<div class="col-sm-4">
-      	<h3>Teaching resource categories</h3>
+  	<div class="row" id="footer-info">
+    	<div class="col-sm-3">
+      	<h3>About Us</h3>
         <ul class="footer-nav">
-        	<li><a href="http://www.teachstarter.com/teaching-resources/free" title="Free teaching resources">Free teaching resources</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/resource/" title="New teaching resources">New teaching resources</a></li>
-        	<li><a href="http://www.teachstarter.com/teaching-resources/custom/" title="Create Your Own Teaching Resources">Create your own</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/literacy" title="Literacy Teaching Resources">Literacy</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/numeracy" title="Numeracy Teaching Resources">Numeracy</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/science" title="Science Teaching Resources">Science</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/sose" title="SOSE/HSIE Teaching Resources">SOSE/HSIE</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/history" title="History Teaching Resources">History</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/geography" title="Geography Teaching Resources">Geography</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/technology" title="Technology Teaching Resources">Technology</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/health-pe" title="Health and Physical Education Teaching Resources">Health/P.E.</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/the-arts" title="The Arts Teaching Resources">The Arts</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/lote" title="LOTE Teaching Resources">LOTE</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/behaviour-management" title="Behaviour Management Teaching Resources">Behaviour Management</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/classroom-organisation" title="Classroom Organisation Teaching Resources">Classroom Organisation</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/relief-teaching" title="Relief Teaching Resources">Relief Teaching</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/worksheets" title="Worksheets Teaching Resources">Worksheets</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/wordwall" title="Word Wall Teaching Resources">Word Walls</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/nametags" title="Name Tag Teaching Resources">Name Tags</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/positivity-essentials" title="Positivity Teaching Resources">Positivity</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/certificates" title="Certificates Teaching Resources">Certificates</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/games" title="Classroom Games Teaching Resources">Games</a></li>
-          <li><a href="http://www.teachstarter.com/teaching-resources/special-occasions" title="Special Occasions Teaching Resources">Special Occasions</a></li>
+        	<li><a href="https://www.teachstarter.com/about/">About</a></li>
+          <li><a href="https://www.teachstarter.com/blog">Blog</a></li>
+					<li><a href="https://www.teachstarter.com/member-options/">Pricing</a></li>          <li><a href="https://teachstarter.zendesk.com/hc/en-us/" target="_blank">Help Desk</a></li>
+                    <li><a href="https://www.teachstarter.com/chompy">Apps</a></li>
+          <li><a href="https://www.teachstarter.com/about/school-fonts/">School Fonts</a></li>
+          <li><a href="https://www.teachstarter.com/testimonials-feedback/">Testimonials &amp; Feedback</a></li>
+          <li><a href="https://www.teachstarter.com/submissions/">Resource Submissions</a></li>
+          <li><a href="https://www.teachstarter.com/about/contact/">Contact Us</a></li>
+        </ul>
+        
+      </div>
+      <hr class="break visible-xs">
+      
+    	<div class="col-sm-3">
+      	<h3>Resource categories</h3>
+        <ul class="footer-nav">
+        	<li><a href="https://www.teachstarter.com/teaching-resources/subject/literacy">English</a></li>
+          <li><a href="https://www.teachstarter.com/teaching-resources/subject/numeracy">Maths</a></li>
+          <li><a href="https://www.teachstarter.com/teaching-resources/subject/science">Science</a></li>
+          <li><a href="https://www.teachstarter.com/teaching-resources/subject/history">History</a></li>
+          <li><a href="https://www.teachstarter.com/teaching-resources/subject/geography">Geography</a></li>
+          <li><a href="https://www.teachstarter.com/teaching-resources/subject/technology">Technology</a></li>
+          <li><a href="https://www.teachstarter.com/teaching-resources/subject/health-pe">Health/P.E.</a></li>
+          <li><a href="https://www.teachstarter.com/teaching-resources/subject/the-arts">The Arts</a></li>
+          <li><a href="https://www.teachstarter.com/teaching-resources/subject/special-occasions">Special Occasions</a></li>
+          <li><a href="https://www.teachstarter.com/teaching-resources/subject/lote">Language</a></li>
       	</ul> 
     	</div>
        <hr class="break visible-xs">
-      <div class="col-sm-4 footer-blog">
-        <h3>From the blog</h3>
-					            	<h5><a href="http://www.teachstarter.com/teaching-resource/top-5-popular-teaching-resources-week-19-june-2014/"> Top 5 Most Popular Teaching Resources This Week – 19 June 2014</a></h5>
-              <p>Two free teaching resources take their place in the top 5 most popular teaching resource downloads this week.</p>
-              <hr>
-                      	<h5><a href="http://www.teachstarter.com/teaching-resource/opinion-time-let-cursive-die/"> Opinion: Is it time to let cursive die?</a></h5>
-              <p>Cursive handwriting is a dying craft.</p>
-              <hr>
-                  	<p class="button"><a class="btn btn-sm btn-success" href="http://www.teachstarter.com/category/blog/">More from the blog...</a></p>
+       
+      <div class="col-sm-3">
+        <h3>Tools</h3>
+        <ul class="footer-nav">
+          <li><a href="https://www.teachstarter.com/request-a-resource/">Request a resource</a></li>
+          <li><a href="https://www.teachstarter.com/member-account/worksheets">Worksheet creator</a></li>
+          <li><a href="https://www.teachstarter.com/teaching-resources/custom/">Customise resources</a></li>
+          <li><a href="https://www.teachstarter.com/random-name-selector/#hero">Random name selector</a></li>
+          <li><a href="https://www.teachstarter.com/random-sentence-starter-selector/">Random sentence starter</a></li>
+        </ul>
     	</div>
+      
       <hr class="break visible-xs">
-      <div class="col-sm-4">
-        <div class="footer-text"><h3>Resources for Primary Teachers</h3>			<div class="textwidget"><p><a href="http://www.teachstarter.com">Teach Starter</a> provides over 90,000 Australian, United States, United Kingdom and New Zealand elementary school teachers with unique, bright and engaging <a href="http://www.teachstarter.com/resources/">teaching resources</a> to help elementary school children succeed. We aim to make teaching easier and learning fun!</p>
-<p><a class="btn btn-sm btn-primary" href="http://www.teachstarter.com/about/">Teach Starter features...</a></p></div>
-		</div>        
-        <hr>
+      <div class="col-sm-3">
+      	<h3>Other</h3>
+      	<ul class="footer-nav">
+        	<li><a href="https://www.teachstarter.com/about/contact/">Contact Us</a></li>
+          <li><a href="https://www.teachstarter.com/about/terms-and-conditions/">Terms &amp; Conditions</a></li>
+          <li><a href="https://www.teachstarter.com/about/privacy-policy/">Privacy Policy</a></li>
+          <li><a href="https://www.teachstarter.com/sitemap/">Sitemap</a></li>
+					<li><a rel="nofollow" href="https://www.teachstarter.com/wp-login.php">Log in</a></li>         
+        </ul>
         
-        <div class="socials">
-          <a href="http://www.facebook.com/TeachStarter" target="_blank"><img src="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/images/placeholder.jpg" data-original="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/images/facebook_001.jpg" alt="Like Teach Starter on Facebook" title="Like Teach Starter on Facebook" height="42" width="42" class="lazy"></a>
-          <a href="http://www.pinterest.com/TeachStarter" target="_blank"><img src="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/images/placeholder.jpg" data-original="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/images/Pinterest_001.jpg" alt="Follow Teach Starter on Pinterest" title="Follow Teach Starter on Pinterest" height="42" width="42" class="lazy"></a>
-          <a href="http://www.twitter.com/TeachStarter" target="_blank"><img src="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/images/placeholder.jpg" data-original="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/images/Twitter_001.jpg" alt="Follow Teach Starter on Twitter" title="Follow Teach Starter on Twitter" height="42" width="42" class="lazy"></a>
-          <a href="http://plus.google.com/117843179332819827613" rel="publisher" target="_blank"><img src="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/images/placeholder.jpg" data-original="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/images/Google_Plus_001.jpg" alt="Follow Teach Starter on Google+" title="Follow Teach Starter on Google+" height="42" width="42" class="lazy"></a>
-        </div>	
-        
-        			
+        <div class="symantec-badge">
+          <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+          <tbody><tr>
+          <td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=www.teachstarter.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script></td>
+          </tr>
+          </tbody></table>
+        </div>
+          
         
     	</div>
     </div>
+    <div class="row">
+    
+    	<div class="col-sm-6">
+      	<h3>More information</h3>
+        <ul class="footer-nav">
+        	<li><a href="https://www.teachstarter.com/primary-school-games/">Primary School Games</a></li>
+          <li><a href="https://www.teachstarter.com/educational-posters/ ">Educational Posters</a></li>
+          <li><a href="https://www.teachstarter.com/free-teaching-resources/">Free Teaching Resources</a></li>
+          <li><a href="https://www.teachstarter.com/worksheets-for-kids/">Worksheets for kids</a></li>
+          <li><a href="https://www.teachstarter.com/relief-teaching-resources/">Relief Teaching Resources</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6">
+         <div class="footer-text"><h3>Resources for Primary Teachers</h3>			<div class="textwidget"><p><a href="http://www.teachstarter.com">Teach Starter</a> provides over 150,000 Australian, United States, United Kingdom and New Zealand elementary school teachers with unique, bright and engaging <a href="http://www.teachstarter.com/resources/">teaching resources</a> to help elementary school children succeed. We aim to make teaching easier and learning fun!</p>
+<p><a class="btn btn-sm btn-primary" href="http://www.teachstarter.com/about/">Teach Starter features...</a></p></div>
+		</div>      </div>
+    
+    </div>
+    
     <hr class="">
   	<div class="row">
 			<div class="col-sm-8 hidden-xs">
-      	<ul class="nav nav-pills">
-        	<li><a href="http://www.teachstarter.com/"><span class="glyphicon glyphicon-home"></span></a></li>
-          <li><a href="http://www.teachstarter.com/resources">Resources for Teachers</a></li>
-          <li><a href="http://www.teachstarter.com/about/payment-terms/">Payment Terms</a></li>
-          <li><a href="http://www.teachstarter.com/about/privacy-policy/">Privacy</a></li>
-          <li><a href="http://www.teachstarter.com/sitemap/">Sitemap</a></li>
-					<li><a rel="nofollow" href="http://www.teachstarter.com/wp-login.php">Log in</a></li>
-        </ul>
+      
+      	<div class="socials">
+          <a href="http://www.facebook.com/TeachStarter" target="_blank"><img src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/images/facebook_001.jpg" alt="Like Teach Starter on Facebook" title="Like Teach Starter on Facebook" height="42" width="42" class="lazy"></a>
+          <a href="http://www.pinterest.com/TeachStarter" target="_blank"><img src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/images/Pinterest_001.jpg" alt="Follow Teach Starter on Pinterest" title="Follow Teach Starter on Pinterest" height="42" width="42" class="lazy"></a>
+          <a href="http://www.twitter.com/TeachStarter" target="_blank"><img src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/images/Twitter_001.jpg" alt="Follow Teach Starter on Twitter" title="Follow Teach Starter on Twitter" height="42" width="42" class="lazy"></a>
+          <a href="http://plus.google.com/117843179332819827613" rel="publisher" target="_blank"><img src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/images/Google_Plus_001.jpg" alt="Follow Teach Starter on Google+" title="Follow Teach Starter on Google+" height="42" width="42" class="lazy"></a>
+        </div>	
+      
+      	
 			</div>
 			
 			<div class="col-sm-4 text-right hidden-xs">
-      	<p>Copyright © 2014 Teach Starter Pty Ltd</p>
+      	<p>Copyright © 2015 Teach Starter Pty Ltd</p>
     	</div>
+      
       <div class="col-sm-12 text-center visible-xs">
-      	<ul class="nav nav-pills">
-          <li><a href="http://www.teachstarter.com/about/payment-terms/">Payment Terms</a></li>
-          <li><a href="http://www.teachstarter.com/about/privacy-policy/">Privacy</a></li>
-        </ul>
-      	<p class="smaller margin-top">Copyright © 2014 Teach Starter Pty Ltd</p>
+      	<p>
+        </p><div class="socials">
+          <a href="http://www.facebook.com/TeachStarter" target="_blank"><img src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/images/facebook_001.jpg" alt="Like Teach Starter on Facebook" title="Like Teach Starter on Facebook" height="42" width="42" class="lazy"></a>
+          <a href="http://www.pinterest.com/TeachStarter" target="_blank"><img src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/images/Pinterest_001.jpg" alt="Follow Teach Starter on Pinterest" title="Follow Teach Starter on Pinterest" height="42" width="42" class="lazy"></a>
+          <a href="http://www.twitter.com/TeachStarter" target="_blank"><img src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/images/Twitter_001.jpg" alt="Follow Teach Starter on Twitter" title="Follow Teach Starter on Twitter" height="42" width="42" class="lazy"></a>
+          <a href="http://plus.google.com/117843179332819827613" rel="publisher" target="_blank"><img src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/images/Google_Plus_001.jpg" alt="Follow Teach Starter on Google+" title="Follow Teach Starter on Google+" height="42" width="42" class="lazy"></a>
+        </div>
+        <p></p>
+      	<p class="smaller margin-top">Copyright © 2015 Teach Starter Pty Ltd</p>
     	</div>
    	</div>
    </div>
+ 
+</footer>
+
+<!-- Modals -->
+
+
+<!-- Sign up / login modal box -->
+  <div class="modal fade login-signup-modal" tabindex="-1" role="dialog" aria-labelledby="login-signup-modal" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+      	<div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <p class="modal-title">To access more features and download resources from Teach Starter login or sign up now.</p>
+        </div>
+        <div class="modal-body">
+        	<div class="row">
+            
+          	<div class="col-sm-6 col-sm-push-6 border-left-sm">
+            <!-- Sign up -->
+            	
+              <form class="form-horizontal" method="post" role="form" action="https://www.teachstarter.com/register/" autocomplete="off">
+								<h3 class="top">Sign Up</h3>
+                <p>Create a free account...</p>
+
+                <div class="form-group">
+                  <div class="col-sm-12">
+                                    <input placeholder="Name" class="form-control text input-lg" id="account_name" maxlength="50" name="account[name]" size="50" type="text" value=""></div>
+                </div>
+                <div class="form-group">
+                  <div class="col-sm-12">
+                                    <input placeholder="Email" class="form-control text input-lg" id="account_email" maxlength="50" name="account[email]" size="50" type="text" value="" autocomplete="off"></div>
+                </div>
+                
+                <div class="form-group">
+                  <div class="col-sm-12">
+                                    <input placeholder="Password" class="form-control text input-lg" id="account_password" maxlength="50" name="account[password]" size="50" value="" type="password" autocomplete="off"></div>
+                </div>
+                
+                <!-- Account Details -->
+                
+                <div class="hidden"><input class="form-control text" id="url" maxlength="50" name="account[url]" size="50" type="text" value=""></div>
+                <div class="form-group">
+                  <div class=" col-sm-12">
+                    <div class="checkbox">
+                      <label>
+                        <input type="checkbox" id="newsletter" name="newsletter"> <small>Yes, please send me an occasional newsletter.</small>
+                      </label>
+                    </div>
+                  </div>
+                </div>
+              
+                <div class="form-group">
+                  <div class=" col-sm-12">
+                    <div class="checkbox">
+                      <label>
+                        <input type="checkbox" id="terms" name="terms" value="agreed"> <small>I agree to the <a href="https://www.teachstarter.com/about/terms-and-conditions/" target="_blank">Terms &amp; Conditions</a> and <a href="https://www.teachstarter.com/about/privacy-policy/" target="_blank">Privacy Policy</a>.</small>
+                      </label>
+                    </div>
+                  </div>
+                </div>
+              
+              
+                <div class="form-group">
+                  <div class="col-sm-12">
+                    	<button class="btn btn-success btn-lg margin-bottom" id="subscribe" name="commit" type="submit" value="Subscribe">Sign Up</button>
+                  </div>
+                </div>
+                
+                <p class="text-center visible-xs"><small>Have an account already? <a href="https://www.teachstarter.com/login/">Login here →</a></small></p>
+                
+                <input type="hidden" name="redirect_to" id="redirect_to" value="www.teachstarter.com/about/privacy-policy/">
+                
+            	</form>
+              
+          	</div>
+            
+            <div class="col-sm-5 col-offset-sm-1 col-sm-pull-6 hidden-xs">
+            <!-- Login -->
+            	
+              <form class="form-horizontal" role="form" action="https://www.teachstarter.com/wp-login.php?redirect_to=https://www.teachstarter.com/about/privacy-policy/" method="post">
+              	<h3>Log In</h3>
+                <div class="form-group margin-top">
+                 <div class="col-sm-12">
+                 	                  <input type="text" class="form-control text input-lg" id="log" name="log" placeholder="Email or Username" value="">
+                  </div>
+                </div>
+                <div class="form-group">
+                  <div class="col-sm-12">
+                                    <input type="password" class="form-control text input-lg" id="pwd" name="pwd" placeholder="Password">
+                  </div>
+                </div>
+                <div class="form-group">
+                  <div class="col-sm-12">
+                  	<div class="checkbox">
+                      <label>
+                        <input name="rememberme" id="rememberme" type="checkbox" checked="checked" value="forever"> Remember me
+                        <input type="hidden" name="redirect_to" id="redirect_to" value="https://www.teachstarter.com/about/privacy-policy/">
+                      </label>
+                  	</div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <div class="col-sm-12">
+                    <br>
+                    <button type="submit" name="submit" value="Login" class="btn btn-success">Log In</button>
+                    <br>
+                    <br>
+                    <small><a id="lostpw" class="text-center" href="https://www.teachstarter.com/password-reset/">Forgot your password?</a></small>
+                    
+                  </div>
+                </div>
+              </form>
+            </div>
+            
+            
+            
+          </div>
+      	</div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default btn-sm" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <style>
+		.login-signup-modal .modal-lg {max-width:900px; width:100%;}
+		.border-left-sm { border-left:1px solid #ddd;}
+		@media (max-width:768px){ 
+			.border-left-sm { border-left:none;}
+		}
+	</style>
+
+
+<!-- /// Contact Modal /// -->
+<div class="modal fade contact-modal" tabindex="-1" role="dialog" aria-labelledby="contact-modal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <p class="modal-title">Contact Teach Starter support...</p>
+      </div>
+      <form class="form-horizontal" role="form" method="post" action="https://www.teachstarter.com/about/contact/">
+      <div class="modal-body">
+        
+				        
+        <div class="form-group">
+          <div class="col-sm-12">
+          <label for="inputName" class="control-label">Your Name</label>
+          <input type="text" class="form-control" name="inputName" id="inputName" value="" placeholder="Write your name here...">
+          </div>
+        </div>
+                
+        <div class="form-group">
+          <div class="col-sm-12">
+          <label for="inputEmail" class="control-label">Your Email</label>
+          <input type="text" class="form-control" name="inputEmail" id="inputEmail" value="" placeholder="Write your email here...">
+          </div>
+        </div>
+        
+                
+        <div class="hidden">
+          <div class="col-sm-12">
+          <input class="form-control text" id="url" maxlength="50" name="url" size="50" type="text" value="">
+          </div>
+        </div>
+         
+        <div class="form-group">
+          <div class="col-sm-12">
+          <label for="inputMessage" class="control-label">Write your message...</label>
+          <textarea class="form-control" name="inputMessage" id="inputMessage" rows="4"></textarea>
+          </div>
+        </div>
+
+      </div>
+      <div class="modal-footer">
+      	<button type="submit" id="newContact" name="newContact" class="btn btn-success btn-lg">Send message</button>
+      </div>
+      </form>
+    </div>
+  </div>
+</div>
 
 
 
 <!-- ////// Javascript  ////// -->
 
 <!-- Other scripts enqueued -->
-<script type="text/javascript" src="http://ts-cdn.teachstarterptyl.netdna-cdn.com/wp-content/themes/teachstarter_2014/js/teachstarter.min.js"></script>
-		<script type="text/javascript">jQuery(document).ready(function(e){e("img.lazy").lazyload({effect:"fadeIn"});e(window).trigger("scroll")})</script>
+<script type="text/javascript" src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-content/themes/teachstarter_2014/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://ts-cdn-teachstarterptyl.netdna-ssl.com/wp-includes/js/comment-reply.min.js"></script>
+  <script type="text/javascript">
 	
+	!function(e,t,n,r){var i=e(t);e.fn.lazyload=function(s){function o(){var t=0;f.each(function(){var n=e(this);if(!l.skip_invisible||n.is(":visible"))if(e.abovethetop(this,l)||e.leftofbegin(this,l));else if(e.belowthefold(this,l)||e.rightoffold(this,l)){if(++t>l.failure_limit)return!1}else n.trigger("appear"),t=0})}var u,f=this,l={threshold:0,failure_limit:0,event:"scroll",effect:"show",container:t,data_attribute:"original",skip_invisible:!0,appear:null,load:null,placeholder:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"};return s&&(r!==s.failurelimit&&(s.failure_limit=s.failurelimit,delete s.failurelimit),r!==s.effectspeed&&(s.effect_speed=s.effectspeed,delete s.effectspeed),e.extend(l,s)),u=l.container===r||l.container===t?i:e(l.container),0===l.event.indexOf("scroll")&&u.bind(l.event,function(){return o()}),this.each(function(){var t=this,n=e(t);t.loaded=!1,(n.attr("src")===r||n.attr("src")===!1)&&n.is("img")&&n.attr("src",l.placeholder),n.one("appear",function(){if(!this.loaded){if(l.appear){var r=f.length;l.appear.call(t,r,l)}e("<img />").bind("load",function(){var r=n.attr("data-"+l.data_attribute);n.hide(),n.is("img")?n.attr("src",r):n.css("background-image","url('"+r+"')"),n[l.effect](l.effect_speed),t.loaded=!0;var i=e.grep(f,function(e){return!e.loaded});if(f=e(i),l.load){var s=f.length;l.load.call(t,s,l)}}).attr("src",n.attr("data-"+l.data_attribute))}}),0!==l.event.indexOf("scroll")&&n.bind(l.event,function(){t.loaded||n.trigger("appear")})}),i.bind("resize",function(){o()}),/(?:iphone|ipod|ipad).*os 5/gi.test(navigator.appVersion)&&i.bind("pageshow",function(t){t.originalEvent&&t.originalEvent.persisted&&f.each(function(){e(this).trigger("appear")})}),e(n).ready(function(){o()}),this},e.belowthefold=function(n,s){var o;return o=s.container===r||s.container===t?(t.innerHeight?t.innerHeight:i.height())+i.scrollTop():e(s.container).offset().top+e(s.container).height(),o<=e(n).offset().top-s.threshold},e.rightoffold=function(n,s){var o;return o=s.container===r||s.container===t?i.width()+i.scrollLeft():e(s.container).offset().left+e(s.container).width(),o<=e(n).offset().left-s.threshold},e.abovethetop=function(n,s){var o;return o=s.container===r||s.container===t?i.scrollTop():e(s.container).offset().top,o>=e(n).offset().top+s.threshold+e(n).height()},e.leftofbegin=function(n,s){var o;return o=s.container===r||s.container===t?i.scrollLeft():e(s.container).offset().left,o>=e(n).offset().left+s.threshold+e(n).width()},e.inviewport=function(t,n){return!(e.rightoffold(t,n)||e.leftofbegin(t,n)||e.belowthefold(t,n)||e.abovethetop(t,n))},e.extend(e.expr[":"],{"below-the-fold":function(t){return e.belowthefold(t,{threshold:0})},"above-the-top":function(t){return!e.belowthefold(t,{threshold:0})},"right-of-screen":function(t){return e.rightoffold(t,{threshold:0})},"left-of-screen":function(t){return!e.rightoffold(t,{threshold:0})},"in-viewport":function(t){return e.inviewport(t,{threshold:0})},"above-the-fold":function(t){return!e.belowthefold(t,{threshold:0})},"right-of-fold":function(t){return e.rightoffold(t,{threshold:0})},"left-of-fold":function(t){return!e.rightoffold(t,{threshold:0})}})}(jQuery,window,document)
+$("#s").keyup(function(){jQuery.post(ajaxurl,{action:"primary_search",searchterm:$("#s").val()},function(e){console.log("The server responded: "+e);if(e.indexOf("ts-resource-holder")>=0&&$("#s").val().length>3){$("#search-results").html(e);$("#search-results").slideDown()}else{$("#search-results").slideUp()}})});$(document).mouseup(function(e){var t=$("#search-results");if(!t.is(e.target)&&t.has(e.target).length===0&&!$("#s").is(e.target)){t.slideUp()}});$("#s").focus(function(){if($("#s").val().length>3){$("#search-results").slideDown()}})
+	jQuery(document).ready(function(e){e("img.lazy").lazyload({effect:"fadeIn"});e(window).trigger("scroll")})
+	</script>
+  
+  
+  
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 
-<!-- Olark -->
 
-<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
-f[z]=function(){
-(a.s=a.s||[]).push(arguments)};var a=f[z]._={
-},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
-f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
-0:+new Date};a.P=function(u){
-a.p[u]=new Date-a.p[0]};function s(){
-a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
-hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
-return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
-b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
-b.contentWindow[g].open()}catch(w){
-c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
-var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
-b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
-loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-olark.identify('9545-495-10-2281');/*]]>*/</script><noscript><a href="https://www.olark.com/site/9545-495-10-2281/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- Check for notifications -->
 
-<!-- end olark code -->
+<!-- Facebook retargeting pixel -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '615666638551985']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=615666638551985&amp;ev=NoScript" /></noscript>
+
 
   
 <!-- Google Code for Remarketing Tag -->
 <script type="text/javascript">
 /* <![CDATA[ */
-var google_conversion_id = 972799079;
+var google_conversion_id = 959057125;
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
@@ -388,18 +667,17 @@ var google_remarketing_only = true;
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/972799079/?value=0&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/959057125/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-  
-</footer>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"a30d759704","applicationID":"3075264","transactionName":"Y11QZhQDXkAHBUZdX1oXc1ESC19dSRZTU1U=","queueTime":0,"applicationTime":169,"ttGuid":"","agentToken":"","atts":"TxpTEFwZTU4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
+<style>iframe[name='google_conversion_frame'] {height: 0 !important;width: 0 !important; line-height: 0 !important; font-size: 0 !important; margin-top: -13px; float: left;}</style>
 
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"a30d759704","applicationID":"3494133","transactionName":"Y11QZhQDXkAHBUZdX1oXc1ESC19dSRZTU1U=","queueTime":0,"applicationTime":121,"atts":"TxpTEFwZTU4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-488.min.js"}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Content Delivery Network via ts-cdn.teachstarterptyl.netdna-cdn.com
+Content Delivery Network via ts-cdn-teachstarterptyl.netdna-ssl.com
 
- Served from: www.teachstarter.com @ 2014-06-22 13:01:22 by W3 Total Cache --></div></div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+ Served from: www.teachstarter.com @ 2015-03-24 06:11:27 by W3 Total Cache --></div></div><script src="https://js-agent.newrelic.com/nr-488.min.js"></script></body></html>
