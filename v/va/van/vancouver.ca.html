@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vancouver.ca privacy policy that was archived on 2014-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141007081839id_/http%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vancouver.ca privacy policy that was archived on 2015-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150323194405id_/http%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js  no-unicode fixed-supported" style=""><head><!-- PageID 2002 - published by Open Text Web Solutions 10.1 - 10.1.2.367 - 33472 -->
         
@@ -30,16 +30,16 @@
         <meta name="rating" content="general">
         <meta name="robots" content="index, follow">
         
-        <meta name="published" content="Mon, 06 Oct 2014 06:23:35">
-        <meta name="modified" content="Fri, 27 Jul 2012 15:31:47">
+        <meta name="published" content="Mon, 23 Mar 2015 07:18:08">
+        <meta name="modified" content="Wed, 21 Jan 2015 13:38:04">
         <meta name="guid" content="231F6AE1B0034C20AA83A0409956F2DD">
         <meta name="id" content="2002">
         
         <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
         <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
         
-        <meta property="og:image" content="http://vancouver.ca">
-        <meta property="og:image" content="http://vancouver.ca">
+        <meta property="og:image" content="http://vancouver.ca/images/cov/feature/covlogo-share.png">
+        
         <meta property="og:title" content="Privacy policy">
         <meta property="og:description" content="We are committed to protecting your privacy. Any personal information you provide to us is collected under the Freedom of Information and Protection of Privacy Act.">
         <meta property="og:url" content="http://vancouver.ca/your-government/privacy-policy.aspx">
@@ -50,7 +50,7 @@
         <meta name="DC.publisher" content="RedDot CMS">
         <meta name="DC.rights" content="">
         <meta name="DC.language" content="en-US" scheme="DCTERMS.RFC4646">
-        <meta name="DC.date" content="Fri, 27 Jul 2012 15:31:47" scheme="DCTERMS.W3CDTF">
+        <meta name="DC.date" content="Wed, 21 Jan 2015 13:38:04" scheme="DCTERMS.W3CDTF">
         <meta name="DC.format" content="Text" scheme="DCTERMS.IMT">
         <meta name="DC.type" content="text/xml" scheme="DCTRERMS.DCMIType">
 
@@ -118,6 +118,7 @@ dataLayer = [{}];
                 
     <form id="search" method="get" action="http://vancouver.ca/search.aspx">
         <input class="searchBox searchBoxEmpty" name="q" type="text">
+        <input type="hidden" id="searchEngine" name="searchEngine" value="GSA">
         <input class="goSearch" alt="Search" type="image" src="/images/cov/ui/search_button3.png" title="Search">
     </form>
 </div>
@@ -164,11 +165,19 @@ dataLayer = [{}];
             $(".searchBox").addClass("searchBoxEmpty");
         }
         $(".searchBox").focus(function () {
-            $(".searchBox").removeClass("searchBoxEmpty").select();
-        }).blur(function () {
-            if ($(".searchBox").val()=='') {
-                $(".searchBox").addClass("searchBoxEmpty");   
-            }
+            //$(".searchBox").removeClass("searchBoxEmpty").select();
+            $(".searchBox").removeClass("searchBoxEmpty");
+        });
+        
+        $(".searchBox").blur(function () {
+            $(".searchBox").each(function() {
+                if ($(this).val()=='') {
+                        $(this).addClass("searchBoxEmpty");   
+                }
+            })
+//            if ($(".searchBox").val()=='') {
+//                $(".searchBox").addClass("searchBoxEmpty");   
+//            }
         });
     });
 
@@ -248,6 +257,8 @@ notSelected"><a href="#" onclick="window.location = $(this).next().attr('href');
 isLast 
 notSelected"><a href="#" onclick="window.location = $(this).next().attr('href');"><div></div></a><a class="menulink" href="/your-government/pop-up-city-hall.aspx">Pop-Up City Hall</a></li><li class="
 isLast 
+notSelected"><a href="#" onclick="window.location = $(this).next().attr('href');"><div></div></a><a class="menulink" href="/your-government/official-visits-and-study-tours.aspx">Official visits and study tours</a></li><li class="
+isLast 
 notSelected"><a href="#" onclick="window.location = $(this).next().attr('href');"><div></div></a><a class="menulink" href="/your-government/organizational-structure.aspx">Organizational structure</a></li><li class="
 isLast 
 notSelected"><a href="#" onclick="window.location = $(this).next().attr('href');"><div></div></a><a class="menulink" href="/your-government/mission-and-values.aspx">Mission and values</a></li><li class="
@@ -310,7 +321,8 @@ notSelected"><a href="#" onclick="window.location = $(this).next().attr('href');
 
                         
                         <div class="imgallpadding">
-                            <h2>Your personal information</h2>
+                            
+        <h2>Your personal information</h2>
         <p>The City of Vancouver is committed to protecting your privacy. Any personal information you provide to us is collected, used and disclosed in accordance with the Freedom of Information and Protection of Privacy Act.</p>
         <p>The City does not automatically gather any personal information from you, such as your name, phone number, street or email address.</p>
         <p>This information is only obtained if you supply it voluntarily, usually through contacting us via email or feedback form, or registering in a secure portion of the site.</p>
@@ -344,6 +356,10 @@ notSelected"><a href="#" onclick="window.location = $(this).next().attr('href');
         </ul>
         <p>In these instances, we only keep your information so we can follow up with you, if necessary.</p>
         <p>We keep your information completely confidential. We will not rent, share, or trade it with anyone else. We will not use it to send you information that you did not specifically request.</p>
+        <h2>Email newsletters</h2>
+        <p>We comply with&nbsp;Canada's anti-spam law when you to subscribe to our email newsletters.</p>
+        <p>When you subscribe, you authorize us to collect information about yourself solely to send you an email newsletter from time to time. You can unsubscribe at any time by clicking the unsubscribe link at the bottom of the email newsletter.</p>
+        <p>You can contact us about this policy at <a href="mailto:info@vancouver.ca">info@vancouver.ca</a> or City of Vancouver, 453 West 12th Avenue, Vancouver, BC, V5Y 1V4.</p>
         <h2>Online transactions</h2>
         <p>You can pay for some City services&nbsp;- such as dog license renewals and parking tickets&nbsp;- on this website.</p>
         <p>These transactions are done through SSL-encrypted technology. This means that your credit card and other payment information is transmitted to us securely. After your transaction is complete, we do not store your credit card or other payment information.</p>
@@ -352,7 +368,8 @@ notSelected"><a href="#" onclick="window.location = $(this).next().attr('href');
         <h2>What you can do</h2>
         <p>For your protection, we strongly recommend that you do not provide your account information, user name, or password to anyone. If you become aware of any suspicious activity relating to your account, it is your responsibility to contact us immediately.</p>
         <h2>We'll keep you informed</h2>
-        <p>As required by law, we will notify you of our privacy policy annually. We reserve the right to modify this policy at any time, but rest assured that if we do change it, we will tell you promptly.</p>                        
+        <p>As required by law, we will notify you of our privacy policy annually. We reserve the right to modify this policy at any time, but rest assured that if we do change it, we will tell you promptly.</p>
+                            
                         </div>
                     </div>
                     
@@ -404,7 +421,7 @@ notSelected"><a href="#" onclick="window.location = $(this).next().attr('href');
                     
                 </div>
 
-                <p class="lastModified">Last modified: Fri, 27 Jul 2012 15:31:47</p>
+                <p class="lastModified">Last modified: Wed, 21 Jan 2015 13:38:04</p>
 
                 <!--googleoff: all-->
                 <script type="text/javascript" src="/js/cov/footer.js"></script>
@@ -595,7 +612,7 @@ notSelected"><a href="#" onclick="window.location = $(this).next().attr('href');
 <div class="clear"></div>
 <div id="footer">
   <div class="left">
-    <span class="copyright">© 2014 City of Vancouver</span><span class="links"></span>
+    <span class="copyright">© 2015 City of Vancouver</span><span class="links"></span>
   </div>
   <div class="right">
     <a href="/your-government/terms-of-use.aspx">Terms of Use</a><span class="footer-right-seperaor"> | </span><a href="/your-government/privacy-policy.aspx">Privacy policy</a><span class="footer-right-seperaor"> | </span><a href="/your-government/website-accessibility.aspx">Website accessibility</a><span class="footer-right-seperaor" style="display: none;"> | </span>
