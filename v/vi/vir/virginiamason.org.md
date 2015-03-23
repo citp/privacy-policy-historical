@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the virginiamason.org privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706025708id_/https%3A//www.virginiamason.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiamason.org privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323182128id_/https%3A//www.virginiamason.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The staff of Virginia Mason respects the privacy of our patients and of our Web site users. If you don't find your concern addressed here, feel free to contact us by e-mail or phone.
+**Notice of Privacy Practices - Downloadable and Translation Materials**
+
+  * [English](https://web.archive.org/web/20150323182128id_/https%3A//www.virginiamason.org/workfiles/privacy_notice.pdf "English - Notice of Privacy Practices")
+  * [Korean](https://web.archive.org/web/20150323182128id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_korean.pdf) 
+  * [Spanish](https://web.archive.org/web/20150323182128id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_spanish.pdf)
+
+
+
+The staff of Virginia Mason Medical Center respects the privacy of our patients and of our Web site users. If you don't find your concern addressed here, feel free to contact us by e-mail or phone.
 
 Privacy Policy Guiding Principles
 
