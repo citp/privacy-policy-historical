@@ -1,47 +1,8 @@
-> *The following text is extracted and transformed from the eventbrite.ca privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608180915id_/http%3A//www.eventbrite.ca/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbrite.ca privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324004035id_/https%3A//www.eventbrite.ca/privacypolicy) for the most accurate reproduction.*
 
 # Eventbrite Privacy Policy
 
-##  Privacy Policy 
-
-Last updated: October 15, 2013  
-View summary of recent updates Return to Privacy Policy
-
-Below is a high level summary of the recent material changes we've made to our [Privacy Policy](https://web.archive.org/privacypolicy/), but please make sure to read our [Privacy Policy](https://web.archive.org/privacypolicy/) in its entirety as it contains all of the terms covering our practices regarding collection, use and disclosure of information.
-
-October 15, 2013
-
-  * As we expand our product offerings to include the ability to contribute to fundraising campaigns and to transfer tickets/registrations, we made updates to the Privacy Policy to reflect these new features.
-  * We've specified that we do not participate in any "Do Not Track" frameworks.
-  * We've created a new [Cookie Policy](https://web.archive.org/cookies/) with more details about our use of cookies, pixel tags, local shared objects, web storage and similar technologies. While this Cookie Policy is incorporated into our Privacy Policy, we thought it would be helpful to have a separate and more focused document devoted to our use of these technologies. 
-
-
-
-June 13, 2012
-
-  * Eventbrite now participates in the US-EU and US-Swiss Safe Harbor Frameworks. We have updated our privacy policy to describe our participation in a new section called "US-EU and US-Swiss Safe Harbor Programs".
-  * In connection with our participation in the Safe Harbor Frameworks, we have appointed TRUSTe as our exclusive dispute resolution mechanism for all Safe Harbor Framework related complaints. This new dispute resolution mechanism is now described under "Dispute Resolution".
-
-
-
-June 6, 2012
-
-  * We've provided further descriptions on how information is used, disclosed, transferred and stored as it relates to third party connections, such as Facebook. You can see these changes under "Our Disclosure of Information That We Collect: 1. Facebook and Other Third Party Connections".
-  * We clarified that when we change our Privacy Policy we provide you notice of that change by posting the new Privacy Policy to our Site and updates to this recent updates page.
-  * We explained how you can access and update the information that we have collected and stored about you under "Access to Information".
-  * We've clarified our retention and deletion practices under "Retention and Deletion".
-  * We've let you know how you can bring a complaint about our privacy practices to our attention under "Dispute Resolution".
-
-
-
-January 18, 2012
-
-  * As we expand across the globe and create new Eventbrite domains and as we expand our product offerings to mobile apps such as At The Door™, Entry Manager and the Eventbrite app, we wanted to clarify that our Privacy Policy applies to those new domains and product offerings.
-  * We provided further examples of the Personal Data and Non-Personal Data we may collect from you under "Information We Collect: Personal Data".
-  * We clarified under "Our Use of Information That We Collect: Personal Data" that if we intend to use your Personal Data in a manner that is not consistent with our Privacy Policy, we will inform you of such anticipated use prior to or at the time at which we collect it or we will obtain your consent subsequent to such collection but prior to such use.
-  * We wanted to give you further information on the cookies and other session identifiers that we may use from time to time and how you can manage them, so we updated "Information We Collect: Non-Personal Data: Cookies."
-
-
+View summary of recent updates
 
 ###  About Eventbrite: 
 
@@ -53,7 +14,7 @@ This Privacy Policy sets forth our policy with respect to information, including
 
 We take the privacy of your Personal Data and other information seriously. Because of that, we have created this Privacy Policy. Please read this Privacy Policy as it includes important information regarding your Personal Data and other information. 
 
-If you have any questions or concerns, please do not hesitate to contact us by using the following link: [http://www.eventbrite.ca/contact-us](http://www.eventbrite.ca/contact-us/). 
+If you have any questions or concerns, please do not hesitate to contact us by using the following link: [https://www.eventbrite.ca/contact-us](https://www.eventbrite.ca/contact-us/). 
 
 ####  Consent: 
 
@@ -129,7 +90,7 @@ You have several choices available when it comes to your Personal Data:
 
 Limit the Personal Data You Provide:  You can use the Services without providing any Personal Data or with limiting the Personal Data you provide. If you choose not to provide any Personal Data or limit the Personal Data you provide, you may not be able to use certain functionality of the Services. For instance, in order to open an account, or buy or sell tickets, your name and email address will be required. 
 
-Opt Out:  You can "opt out" of receiving Eventbrite newsletter emails by logging in, clicking on "Account" and following the instructions to "email preferences." You may modify your choices at any time in your Eventbrite account. In the event an Organizer uses our system to email you, you will be able to "opt out" of receiving those communications as well. Please note that if you unsubscribe from receiving a particular Organizer's emails, you will no longer receive emails from the particular Organizer that are sent through our system (but you may still receive emails sent by that Organizer through means other than our system), however, you will still receive Eventbrite communications and communications from other Organizers whose events you have attended or are registered to attend or who have otherwise obtained your email address. Likewise, if you unsubscribe from our communications you will continue to receive communications from Organizers. So you may have to unsubscribe from multiple emails before you stop receiving all communications. You can also unsubscribe from receiving all Organizer emails sent through our system. It may take up to 24 hours for us to process an unsubscribe request. Note that you cannot unsubscribe from update communications about the Services. You can stop receiving Service communications only by contacting us at [http://www.eventbrite.ca/contact-us](https://web.archive.org/contact-us) and closing your account. By electing to stop receiving all communications from us or through our system you will no longer receive any updates on your account or on events you are registered to attend or have previously attended, including communications regarding refunds. We do not recommend that you do this unless you plan to no longer use the Services, are not currently registered for an event, are not currently organizing an event and will have no need to receive further communications from us or through our system. Even after you opt out of all communications, we will retain your Personal Data and Non-Personal Data in accordance with this Privacy Policy, however, we will no longer use it to contact you. However, Organizers who have received your Personal Data in accordance with this Privacy Policy may still use that Personal Data to contact you in accordance with their own privacy policies, but they may not use our system to do so. 
+Opt Out:  You can "opt out" of receiving Eventbrite newsletter emails by logging in, clicking on "Account" and following the instructions to "email preferences." You may modify your choices at any time in your Eventbrite account. In the event an Organizer uses our system to email you, you will be able to "opt out" of receiving those communications as well. Please note that if you unsubscribe from receiving a particular Organizer's emails, you will no longer receive emails from the particular Organizer that are sent through our system (but you may still receive emails sent by that Organizer through means other than our system), however, you will still receive Eventbrite communications and communications from other Organizers whose events you have attended or are registered to attend or who have otherwise obtained your email address. Likewise, if you unsubscribe from our communications you will continue to receive communications from Organizers. So you may have to unsubscribe from multiple emails before you stop receiving all communications. You can also unsubscribe from receiving all Organizer emails sent through our system. It may take up to 24 hours for us to process an unsubscribe request. Note that you cannot unsubscribe from update communications about the Services. You can stop receiving Service communications only by contacting us at [https://www.eventbrite.ca/contact-us](https://web.archive.org/contact-us/) and closing your account. By electing to stop receiving all communications from us or through our system you will no longer receive any updates on your account or on events you are registered to attend or have previously attended, including communications regarding refunds. We do not recommend that you do this unless you plan to no longer use the Services, are not currently registered for an event, are not currently organizing an event and will have no need to receive further communications from us or through our system. Even after you opt out of all communications, we will retain your Personal Data and Non-Personal Data in accordance with this Privacy Policy, however, we will no longer use it to contact you. However, Organizers who have received your Personal Data in accordance with this Privacy Policy may still use that Personal Data to contact you in accordance with their own privacy policies, but they may not use our system to do so. 
 
 Do Not Track:  We currently do not participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personal Data. 
 
@@ -139,7 +100,7 @@ This Privacy Policy does not apply to any Personal Data collected by us other th
 
 ####  Children: 
 
-We do not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to us through the Services, please [contact us](http://www.eventbrite.ca/contact-us/), and we will endeavor to delete that information from our databases. 
+We do not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to us through the Services, please [contact us](https://www.eventbrite.ca/contact-us/), and we will endeavor to delete that information from our databases. 
 
 ####  Links to Other Web Sites: 
 
@@ -159,7 +120,7 @@ We participate in the US-EU & US-Swiss Safe Harbor Frameworks covering the colle
 
 ####  Other Terms and Conditions: 
 
-Your access to and use of the Services is subject to the [Terms of Service](http://www.eventbrite.ca/tos/). If you are using the Eventbrite application programming interfaces (the "Eventbrite APIs"), you are subject to the Eventbrite [API Terms of Use](http://developer.eventbrite.com/terms/). 
+Your access to and use of the Services is subject to the [Terms of Service](https://www.eventbrite.ca/tos/). If you are using the Eventbrite application programming interfaces (the "Eventbrite APIs"), you are subject to the Eventbrite [API Terms of Use](http://developer.eventbrite.com/terms/). 
 
 ####  Changes to This Privacy Policy: 
 
@@ -175,7 +136,7 @@ We may retain your Personal Data as long as you continue to use the Services. Yo
 
 ####  Contacting Eventbrite: 
 
-Please also feel free to contact us if you have any questions about this Privacy Policy or our information practices. You may contact us by writing to <http://www.eventbrite.com/contact-us> or by calling us at 1-800-350-8850.
+Please also feel free to contact us if you have any questions about this Privacy Policy or our information practices. You may contact us by writing to [http://www.eventbrite.com/contact-us](http://www.eventbrite.com/contact-us/) or by calling us at 1-800-350-8850.
 
 ####  Dispute Resolution: 
 
