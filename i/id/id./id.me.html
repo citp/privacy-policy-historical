@@ -1,377 +1,350 @@
-<!--The following is the downloaded HTML source of the id.me privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626073136id_/https%3A//www.id.me/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the id.me privacy policy that was archived on 2015-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150323171236id_/https%3A//www.id.me/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-<script id="hs-analytics" src="//js.hs-analytics.net/analytics/1582536300000/391559.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"dcc927f449","applicationID":"1891197","transactionName":"dl1aQhRXXl5REE4VB1JXRxkWSltEVQEY","queueTime":0,"applicationTime":149,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js","extra":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMFU1RACQsJVVBbAA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<script src="/assets/jquery-2dd5c87e021d0e732ee7bc94287be89b.js" type="text/javascript"></script>
-<script src="//cdn.optimizely.com/js/592454789.js" type="text/javascript"></script>
+<!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy no-touch cssanimations svg inlinesvg" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36"><!--<![endif]--><head>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K839ZC"></script><script src="//cdn.optimizely.com/js/2020000789.js"></script>
 <script>
-  // for chartbeat
   window._sf_startpt = (new Date()).getTime();
-  
-  // google analytics config
-  window.analytics_account  = "UA-40672673-1";
-  window.analytics_domain   = "id.me";
-  
   // chartbeat config
   window.chartbeat_account  = "24363";
   window.chartbeat_domain   = "id.me";
-  
-  // inspectlet config
-  window.inspectlet_account = "1042992836";
 </script>
-
-<title>Privacy - ID.me</title>
-<meta content="ID.me is a digital authentication engine capable of verifying group affiliations online." name="description">
-<meta content="" name="keywords">
-<!-- Meta -->
-<meta content="text/html; charset=utf-8" http-equiv="content-type">
-<meta content="noodp" name="robots">
-<meta content="width=device-width, initial-scale=1" name="viewport">
-<!-- Microsoft smarties -->
-<meta content="no" http-equiv="ImageResize">
-<meta content="no" http-equiv="ImageToolbar">
-<meta content="true" name="MSSmartTagsPreventParsing">
-<!-- facebook open graph metas -->
-<meta content="https://s3.amazonaws.com/idme/facebook-logo.png" property="og:image">
-<meta content="Privacy - ID.me" property="og:title">
-<meta content="ID.me is a digital authentication engine capable of verifying group affiliations online." property="og:description">
-<!-- Icon -->
-<link href="/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
-<link href="/favicon.ico" rel="shortcut icon">
-
-<!-- For third-generation iPad with high-resolution Retina display: -->
-<link href="/assets/apple-touch-icons/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
-<!-- For iPhone with high-resolution Retina display running iOS ≥ 7: -->
-<link href="/assets/apple-touch-icons/apple-touch-icon-120x120-precomposed.png" rel="apple-touch-icon-precomposed" sizes="120x120">
-<!-- For iPhone with high-resolution Retina display running iOS ≤ 6: -->
-<link href="/assets/apple-touch-icons/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
-<!-- For first- and second-generation iPad: -->
-<link href="/assets/apple-touch-icons/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
-<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
-<link href="/assets/apple-touch-icons/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
-
-<meta content="authenticity_token" name="csrf-param">
-<meta content="voFHjLVa/CpPpmUy5WpfXUfhaRDtoIAFHla3t9Aa5mw=" name="csrf-token">
-<link href="/assets/application-410b0d0ef9e31cf8afb497c1420d583d.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css">
-<script src="/assets/common/html5-shiv-24b1ec7d5d8fdca5dbdfe7388952adf3.js" type="text/javascript"></script>
-</head>
-<body class="landing" style="">
-<!--[if lt IE 8]>
-<header class='upgrade'>
-<p>
-You are using an old version of Internet Explorer which is not supported. For the best experience, please go <a href="http://browsehappy.com/">here</a> to upgrade to a modern browser.
-</p>
-</header>
-<![endif]-->
-
-
-<header class="landing-header">
-<div class="inner">
-<a href="https://www.id.me/" class="logo"><img alt="ID.me" src="/assets/landing/logo-7bc4a2d0dc51038892266cb304df4c54.png">
-</a><a href="javascript:void(0);" class="menu-toggle"><span class="bar"></span>
-<span class="bar"></span>
-<span class="bar"></span>
-</a><nav class="menu-container">
-<ul class="navigation">
-<li>
-<span class="green-bar"></span>
-<a href="https://www.id.me/" title="Personal">Personal</a>
-</li>
-<li>
-<span class="green-bar"></span>
-<a href="https://www.id.me/partner-with-us" title="Partner with us">Business</a>
-</li>
-<li>
-<span class="green-bar"></span>
-<a href="https://www.id.me/partners" title="Partners">Partners</a>
-</li>
-<li class="login"><a href="https://www.id.me/users/sign-in" title="Sign In">Sign In</a></li>
-<li class="join"><a href="https://www.id.me/users/sign-up" title="Join Now">Join Now</a></li>
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"dcc927f449","applicationID":"3838589","transactionName":"dl1aQhRXXl5REE4VB1JXRxkWSltEVQEY","queueTime":0,"applicationTime":63,"agentToken":null,"agent":"js-agent.newrelic.com/nr-627.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMFU1RACwsDXFRaDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<title>Privacy Policy and Information Handling for ID.me</title>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+<link href="https://s3.amazonaws.com/idme-marketplace/social+media+images/Logo_800x800.png" rel="image_src">
+<link href="/favicon-32.png" rel="icon" type="image/png">
+<link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152">
+<link href="/apple-touch-icon-120x120.png" rel="apple-touch-icon-precomposed" sizes="120x120">
+<link href="/apple-touch-icon-76x76.png" rel="apple-touch-icon-precomposed" sizes="76x76">
+<link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
+<meta content="ID.me" name="application-name">
+<meta content="" name="application-name">
+<meta content="#ffffff" name="msapplication-TileColor">
+<meta content="ms-tile-128x128.png" name="msapplication-square70x70logo">
+<meta content="ms-tile-270x270.png" name="msapplication-square150x150logo">
+<meta content="ms-tile-558x270.png" name="msapplication-wide310x150logo">
+<meta content="ms-tile-558x558.png" name="msapplication-square310x310logo"><meta content="Privacy policy disclosures and information handling specifics for the ID.me website and mobile application or any elements of the technology platform." name="description">
+<meta content="noindex" name="robots"><meta content="authenticity_token" name="csrf-param">
+<meta content="7rbD3cHpy6W34ic5ij3POm3CEsGf3D8JVrZyBzCPQYY=" name="csrf-token"><script src="/assets/head-e3631c62d867471b6190e7663d908594.js"></script><!-- / For Google Tag Manager -->
+<script>
+dataLayer = [{'logged-in': false}];</script>
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,600,700,800" media="screen" rel="stylesheet"><link href="/assets/global-9d82e6d6f3da9e31f9394f1aaec21b75.css" media="screen" rel="stylesheet"><link href="/assets/logged-out-21c69344d6b1f99f48625d2879188937.css" media="screen" rel="stylesheet"></head>
+<body class="logged-out preload">
+<!-- Google Tag Manager -->
+<noscript>
+<iframe height='0' src='//www.googletagmanager.com/ns.html?id=GTM-K839ZC' style='display:none;visibility:hidden' width='0'></iframe>
+</noscript>
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K839ZC');
+</script>
+<div class="site-wrapper">
+<div class="slide-menu">
+<div class="slide-menu__cta">
+<p><a class="button -block" data-track-gtm="Header|Mobile Menu|Sign In" href="/session/new">Sign In</a></p>
+<p><a class="slide-menu__sign-up" data-track-gtm="Header|Mobile Menu|Not a member? Sign up" href="/account/new">Not a member? Sign up</a></p>
+</div>
+<ul class="menu-list -links">
+<li><a data-track-gtm="Header|Mobile Menu|Offers" href="/offers">Offers</a></li>
+<li><a data-track-gtm="Header|Mobile Menu|Stores" href="/stores">Stores</a></li>
+<li><a data-track-gtm="First-Time Homepage Header|How It Works" href="/how-it-works">How It Works</a></li>
+<li><a data-track-gtm="Header|Mobile Menu|Support" href="https://idme.zendesk.com/hc/en-us">Support</a></li>
 </ul>
-</nav>
 </div>
 
+<header class="site-header" data-component="SiteHeader">
+<div class="container">
+<div class="site-header__primary">
+<h1 class="site-header__logo">
+<a data-track-gtm="Header|Logo" href="/shop"><img alt="ID.me" src="/assets/idme_logo-6c68fdf6f337ce9094a0a7d6e58e6172.svg">
+<span class="site-header__logo__beta">SHOP</span>
+</a></h1>
+<div class="site-search input-group" data-component="Search">
+<form accept-charset="UTF-8" action="/search" class="site-search-form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+<input autocomplete="off" class="form-control" id="q" name="q" placeholder="Search stores and offers" type="search">
+<button class="button icon -search site-search__button">
+<span class="screen-reader">Search</span>
+</button>
+</form>
+
+<button class="site-search__close">Cancel</button>
+<div class="search-suggest">
+<ul class="search-results"></ul>
+<footer class="search-suggest__footer">
+<p>
+Enter a search term to find stores and offers
+</p>
+</footer>
+</div>
+</div>
+
+<div class="site-header__auth-links">
+<a class="button -alt" data-track-gtm="Header|Log In" href="/session/new">Sign In</a>
+<a class="button" data-track-gtm="Header|Join Now" href="/account/new">Join Now</a>
+</div>
+<button class="slide-menu-button button" data-component="SlideMenu">Menu</button>
+</div>
+</div>
 </header>
-<section class="main-container" role="main">
-<article class="content-page">
-<h1>Privacy Policy</h1>
-<section class="content terms">
-<div class="inner">
-<p>Last updated: March 27, 2014</p>
-<p>
-This Privacy Policy discloses the privacy practices for the ID.me credential service and website located at www.ID.me, the ID.me mobile application, or elements of ID.me’s technology platform (e.g., group affiliation widgets) present on its client’s websites (collectively referred to hereafter as the “Website”). ID.me, Inc., the provider of the Service and Website (referred to as “us” or “we”), is committed to protecting the privacy of individuals who navigate to, or otherwise use the Service and/or Website (hereafter, “Users” or “you”). The Service and Website offer eligible Users who create an account with an electronic identification resource (or “ID.me Account”) that allows eligible Users to verify their status as a member of an affinity group with websites that use the ID.me Account and access certain exclusive benefits, including without limitation, deals, discounts and employment and educational opportunities, offered by participating retailers, service providers, employers or benefits administrators (collectively, the “ID.me Service”). Once Users have created an ID.me Account, the ID.me Account serves as a portable, single digital identity that those Users can utilize to generate an account and pre-populate the account with the User’s information and, thereafter, access the goods, services and/or benefits of various participating websites (including retailers, service providers, employers, benefits administrators, etc.). Users are required to submit certain information to ID.me  as part of the verification process so that we may ascertain the User’s identity, group affiliation, and determine other eligibility standards for the User tied to the ID.me Service. However, Users may choose what specific information (personally identifiable information and other forms of information as described in greater detail below) is tied to their ID.me Account. In doing so, Users can control how much of that information is shared with other websites in relation to the ID.me Service. However, certain participating websites may require that Users provide certain, minimum levels of information and a User’s refusal to provide such may impact his or her eligibility for the subject good, service, or benefit offered.
-</p>
-<p>
-To avoid any confusion, Users should understand that, while we own and operate the Service and Website and certain other websites (e.g., TroopSwap.com), we do not own or operate websites owned and operated by third parties who may avail themselves of the ID.me Service (collectively referred to hereafter as the “Third Party Websites”). This Privacy Policy is intended to inform Users about our collection, use, storage, disclosure, destruction and disposal of information that we collect or record in the course of providing the Website and the ID.me Service. Please note, we are not responsible for the privacy practices of Third Party Websites and they are under no obligation to comply with this Privacy Policy. Before visiting Third Party Websites, and before providing the User’s ID.me or any other information to any party that operates or advertises on Third Party Websites, Users should review the Privacy Policy and practices of that website to determine how information collected from Users will be handled. Please further note, depending on a User’s particular interaction with us (e.g., Users who solely navigate the Website versus Users who create an account and use the ID.me Service at Third Party Websites), different portions of this policy may apply to Users at different times.
-</p><p>
-<strong>
-Please read this Privacy Policy carefully. By accessing or using the website, you acknowledge that you have read, understand, and agree to be bound to all the terms of this Privacy Policy and the website’s terms of use. If you do not agree to these terms, exit this page and do not access or use the service or website.
-</strong>
-</p>
+
+<div class="site-content">
+<div class="site-content-wrapper">
+<section class="hero-text-heading -navy">
+<div class="container">
+<h1 class="heading -large">Privacy Policy</h1>
+</div>
+</section>
+<main class="main-content">
+<section class="privacy-block formatted-text -alt-bg">
+<div class="container">
+<p>Doc Ref: IDme.S.00.030 <br>
+Version: 4.0 <br>
+Last updated: 2014-11-1</p>
+
+<p>This Privacy Policy discloses the privacy practices for the ID.me credential service and website located at <a href="http://www.ID.me">www.ID.me</a>, the ID.me mobile application, or elements of ID.me’s technology platform (e.g., group affiliation widgets) present on its client’s websites (collectively referred to hereafter as the “Website”). ID.me, Inc., the provider of the Service and Website (referred to as “us” or “we”), is committed to protecting the privacy of individuals who navigate to, or otherwise use the Service and/or Website (hereafter, “Users” or “you”). The Service and Website offer eligible Users who create an account with an electronic identification resource (or “ID.me Account”) that allows eligible Users to verify their status as a member of an affinity group create accounts with websites that use the ID.me Account and access certain exclusive benefits, including without limitation, deals, discounts, cash back rebates and employment and educational opportunities, offered by participating retailers, service providers, employers or benefits administrators (collectively, the “ID.me Service”). Once Users have created an ID.me Account, the ID.me Account serves as a portable, single digital identity that those Users can utilize to generate an account and pre-populate the account with the User’s information and, thereafter, access the goods, services, rewards and/or benefits of various participating websites (including retailers, service providers, employers, benefits administrators, etc.). Users are required to submit certain information to ID.me  as part of the verification process so that we may ascertain the User’s identity, group affiliation, and determine other eligibility standards for the User tied to the ID.me Service. However, Users may choose what specific information (personally identifiable information and other forms of information as described in greater detail below) is tied to their ID.me Account., and at any time may revoke ID.me’s access to such information In doing so, Users can control how much of that information is shared with other websites in relation to the ID.me Service. In certain cases the more information Users share the more rewards and benefits, such as deals, discounts, cash back rebates and employment and educational opportunities, the User may be eligible to receive, as further described in our <a href="https://www.id.me/terms">Terms of Service</a>. However, certain participating websites may require that Users provide certain, minimum levels of information and a User’s refusal to provide such may impact his or her eligibility for the subject good, service, or benefit offered.</p>
+
+<p>To avoid any confusion, Users should understand that, while we own and operate the Service and Website and certain other websites (e.g., TroopSwap.com), we do not own or operate websites owned and operated by third parties who may avail themselves of the ID.me Service (collectively referred to hereafter as the “Third Party Websites.”) This Privacy Policy is intended to inform Users about our collection, use, storage, and disclosure, destruction and disposal of information that we collect or record in the course of providing the Website and the ID.me Service. Please note, we are not responsible for the privacy practices of Third Party Websites and they are under no obligation to comply with this Privacy Policy. Before visiting Third Party Websites, and before providing the User’s ID.me or any other information to any party that operates or advertises on Third Party Websites, Users should review the privacy policy and practices of that website to determine how information collected from Users will be handled. Please further note, depending on a User’s particular interaction with us (e.g., Users who solely navigate the Website versus Users who create an account and use the ID.me Service at Third Party Websites), different portions of this policy may apply to Users at different times.</p>
+
+<p>Please read this Privacy Policy carefully. By accessing or using the Website, you acknowledge that you have read, understand, and agree to be bound to all the terms of this Privacy Policy and the Website’s Terms of Service. If you do not agree to these terms, exit this page and do not access or use the Service or Website.</p>
+
 <h2>1. Changes to Privacy Policy</h2>
-<p>
-If we decide to change this Privacy Policy, we will post those changes to this page so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our home page.
-</p>
+
+<p>If we decide to change this Privacy Policy, we will post those changes to this page so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our home page.</p>
+
 <h2>2. Types of Information Collected and Uses of Collected Information</h2>
-<p>
-We collect three types of information from and about Users: Personally Identifiable Information, Sensitive Information, and Non-Personally Identifiable Information.
-</p>
-<h3>Personally Identifiable Information &amp; Sensitive Information.</h3>
-<p>
-We do not automatically collect any Personally Identifiable Information or Sensitive Information without your consent. When you create an account to obtain an ID.me Account and use the ID.me Service, you will be asked to provide certain Personally Identifiable Information and Sensitive Information so that we can verify your identity and group affiliation (e.g., Military, First Responder, Student, Veteran, etc.). Personally Identifiable Information is information that identifies a specific individual, including, without limitation, first and last name, mailing address, e-mail address (including, without limitation, .mil e-mail address), telephone number, social security number, and date of birth. In addition, you will be asked to provide certain additional information or documentation that we will use to verify your eligibility to receive discounts and benefits from organizations such as government agencies, telecommunications networks, credit card bureaus, financial institutions, or authoritative agents with access to your group affiliation credentials, military records (which may also contain Personally Identifiable Information), your spouse’s or immediate family member’s social security number, military affiliation(s), dates of active and reserve duty service, and information related to your accounts with financial institutions (“Sensitive Information”). The decision to provide specific items of Personally Identifiable Information and/or Sensitive Information to the ID.me Service is yours and yours alone. You can elect to provide all or only some of the information requested by the Website during the registration process. However, if you decline to provide any of the above information, you may not be able to register for an ID.me Account or to access certain benefits of the ID.me Service (including certain deals, offers or opportunities offered by Third Party Websites which are conditioned upon certain eligibility requirements). In addition to using your Personally Identifiable Information and Sensitive Information to provide the ID.me Service, we may also use this information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including the Website’s Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities. In addition, we reserve the right to audit your eligibility (e.g., group affiliations such as active duty military or student status); to audit user accounts for fraud by, for example, verifying that purchases are delivered to registered user addresses; and to prevent duplicate ID.me Account’s from being created with the same information.
-</p>
-<h3>Non-Personally Identifiable Information.</h3>
-<p>
-Non-Personally Identifiable Information is information that does not identify a specific User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to the Website, the URL of the website you visit after leaving the Website, the type of browser you are using, your Internet Protocol (“IP”) address, occupation, language, unique device identifier, approximately geographic location, and time zone. We, and/or our authorized third party service providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags or location-based capabilities on your mobile device, including those described in Items 4 and 8 of this Privacy Policy. We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized third party service providers and advertisers to measure the overall effectiveness of our online advertising, content, and programming. In certain limited instances, we may combine certain Non-Personally Identifiable Information with other identifiers in order to confirm your identity as part of the ID.me verification process. For example, we may combine an approximate geographic location obtained from a User’s mobile device and match it with address information the User voluntarily submitted to the Website in order to confirm the User’s identity and prevent fraudulent conduct. Notwithstanding, this information would still be considered Non-Personally Identifiable Information when it is taken alone or combined only with other non-identifying information (for example, the type of web browser used by the User).
-</p>
+
+<p>We collect three types of information from and about Users: Personally Identifiable Information, Sensitive Information, and Non-Personally Identifiable Information.</p>
+
+<h3>Personally Identifiable Information &amp; Sensitive Information</h3>
+
+<p>We do not automatically collect any Personally Identifiable Information or Sensitive Information without your consent. When you create an account to obtain an ID.me Account and use the ID.me Service, you will be asked to provide certain Personally Identifiable Information and Sensitive Information so that we can verify your identity and attributes of your identity including, but not limited to, group affiliations (e.g., Military, First Responder, Student, Veteran, etc.), memberships, social media accounts, educational degrees, and professional certifications. Personally Identifiable Information is information that identifies a specific individual, including, without limitation, first and last name, mailing address, e-mail address (including, without limitation, .mil e-mail address), telephone number, social security number, and date of birth. In addition, you will be asked to provide certain additional information or documentation that we will use to verify your eligibility to receive discounts and benefits from organizations and registration authorities such as government agencies, telecommunications networks, credit card bureaus, financial institutions, or authoritative agents with access to your group affiliation credentials, military records (which may also contain Personally Identifiable Information), your spouse’s or immediate family member’s social security number, military affiliation(s), dates of active and reserve duty service, and information related to your accounts with financial institutions (“Sensitive Information”). The decision to share specific items of your Personally Identifiable Information and/or Sensitive Information with the ID.me Service (and, where applicable, with Third Party Websites in connection with your participation in the ID.me Cash Back Program and with certain aspects of the ID.me Service (including certain deals, cash back rewards, offers or opportunities offered by Third Party Websites which are conditioned upon certain eligibility requirements) is yours and yours alone. You can elect to provide all or only some of the information requested by the Website during the registration process. and at any time you may decide to remove some of the information that you previously provided However, if you decline to provide any of the above information, you may not be able to register for an ID.me Account or to access certain benefits of the ID.me Service (including certain deals, cash back rewards, offers or opportunities offered by Third Party Websites which are conditioned upon certain eligibility requirements). In addition to using your Personally Identifiable Information and Sensitive Information to provide the ID.me Service, we may also use this information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including the Website’s Terms of Service and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities. In addition, we reserve the right to audit your eligibility (e.g., group affiliations such as active duty military or student status); to audit user accounts for fraud by, for example, verifying that purchases are delivered to registered user addresses; and to prevent duplicate ID.me Account’s from being created with the same information.</p>
+
+<h3>Non-Personally Identifiable Information</h3>
+
+<p>Non-Personally Identifiable Information is information that does not identify a specific User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to the Website, the URL of the website you visit after leaving the Website, the type of browser you are using, your Internet Protocol (“IP”) address, occupation, language, unique device identifier, approximately geographic location, and time zone. We, and/or our authorized third party service providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags or location based capabilities on your mobile device, including those described in Items 4 and 8 of this Privacy Policy. We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized third party service providers and advertisers to measure the overall effectiveness of our online advertising, content, and programming. In certain limited instances, we may combine certain Non-Personally Identifiable Information with other identifiers in order to confirm your identity as part of the ID.me verification process. For example, we may combine an approximate geographic location obtained from a User’s mobile device and match it with address information the User voluntarily submitted to the Website in order to confirm the User’s identity and prevent fraudulent conduct. Notwithstanding, this information would still be considered Non-Personally Identifiable Information when it is taken alone or combined only with other non-identifying information (for example, the type of web browser used by the User).</p>
+
+<p>In order to better serve members of America’s Armed Forces and other personnel covered by the Service  Members Civil Relief Act (SCRA) (50 U.S.C. App. 501 et. seq.)<sup>*</sup>, ID.me provides services to Financial Services companies and Third Party Websites in order to facilitate their compliance with the provisions of SCRA. By joining ID.me, you agree that ID.me may use your personal information in order to assist Financial Services companies and Third Party Websites to determine your eligibility or your family member’s eligibility for SCRA benefits and protections. ID.me may periodically use your personal information to confirm your SCRA eligibility or your family member’s eligibility at a later point in time to inform third parties of any changes to your SCRA eligibility status. Source of this information may include, but are not limited to, publically available websites, physical documentation, financial information, ID.me’s network or third parties that have a relationship with ID.me. </p>
+
+<p><sup>*</sup>The scope of ID.me’s SCRA services includes all individuals protected by the SCRA (i.e. personnel serving in the Untied States Armed Forces, commissioned officers of the Public Health Service and the National Oceanic and Atmospheric Administration, U.S. citizens serving with the armed forces of nations allied with the United States, and, where applicable according to federal or state laws and regulations, dependents and family members of an individual protected under the SCRA.</p>
+
 <h2>3. Release of Personally Identifiable Information</h2>
-<p>
-We will not share, sell, rent, or trade your Personally Identifiable Information or Sensitive Information with other parties, except to verify your identity and eligibility or upon receipt of your consent as provided below:
-</p>
-<p>
-<strong>
-We will share your Personally Identifiable Information and Sensitive Information with Certain Entities Necessary To Validate your ID.me Account and Provide the ID.me Service to You.
-</strong>
-</p>
-<p>
-In order to verify your identity and eligibility to receive discounts and other benefits from merchants and other service providers, we will provide your Personally Identifiable Information and Sensitive Information to third parties such as Government agencies (including, without limitation, the Department of Defense and the Department of Veterans Affairs), telecommunications networks, financial institutions or other trusted and reliable sources of information. Our provision of your Personally Identifiable Information to the foregoing parties is solely to verify your identity and eligibility for the ID.me Service. We have established relationships with these entities whereby the Personally Identifiable Information and Sensitive Information you provide to us will be transmitted to them using industry standard encryption tools, designed to protect such information from unauthorized access.
-</p>
-<p>
-<strong>
-By providing any personally identifiable information and sensitive information to us, you authorize ID.me to provide such information to the above and other trusted entities to verify your identity and eligibility to receive discounts and benefits.
-</strong>
-</p>
-<p>
-We will share certain Personally Identifiable Information tied to your ID.me Account with Third Party Websites where you grant us permission to do so by creating an account with the Website and utilizing your ID.me Account to access and use Third Party Websites (including, without limitations, use of your ID.me to create an account, register or subscribe with a Third Party Website).
-</p>
-<p>
-We do not share your Personally Identifiable Information or Sensitive Information with Third Party Websites absent your permission. However, by utilizing your ID.me Account at Third Party Websites, you are expressly authorizing us to share the Personally Identifiable Information or Sensitive Information tied to your ID.me with such Third Party Websites. The ID.me Service is intended to allow you to create a membership or profile with a Third Party Website and/or engage in a transaction with a Third Party Website by automatically transferring Personally Identifiable Information or Sensitive Information. This transfer of Personally Identifiable Information and/or Sensitive Information tied to your ID.me Account is necessary to verify your eligibility to receive benefits or discounts from various organizations, and to communicate such eligibility to Third Party Websites. In using the ID.me Service, Users have the ability to control which Third Party Websites are provided with their Personally Identifiable Information and Sensitive Information. We will not share a User’s Personally Identifiable Information and Sensitive Information with a Third Party Website unless the User authorizes such sharing by using his or her ID.me to register with the Third Party Website.
-</p>
-<p>
-<strong>
-We may share your information with Authorized Third Party Service Providers.
-</strong>
-</p>
-<p>
-We provide certain services and products of the Website through third party service providers. These “Third Party Service Providers” perform functions on our behalf, such as sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Third Party Service Providers to remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies (“Affiliates”) with whom we have business relationships and may share your information with Third Party Service Providers to accomplish our administrative tasks. However, we do not grant these entities any rights to use, and contractually restrict them from using, any information for any purpose other than providing services to us and to you. ID.me shall never sell your information to any entity for any reason.
-</p>
-<p>
-<strong>We may share your information in a Business Transfer.</strong>
-</p>
-<p>
-As with any other business, we could merge with, or be acquired by, another company, or we may file for protection under applicable bankruptcy laws in the future. In such event, Users information obtained and maintained by the Website, including Personally Identifiable Information, Sensitive Information and Non-Personally Identifiable Information, will transfer to a successor entity in connection with the corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. User information submitted prior to any such transfer would remain subject to the terms of this Privacy Policy (as it existed on the date of the submission). However, User information submitted after a transfer to a successor entity may be subject to a new Privacy Policy adopted by the successor entity.
-</p>
-<h3>We may share your information for our Protection and the Protection of Others.</h3>
-<p>
-We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or investigate, prevent, or take action suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person or to prevent financial loss to any person or entity; or otherwise protect the rights, property or safety of the Website, its Users or others.
-</p>
+
+<p>We will not share, sell, rent, or trade your Personally Identifiable Information or Sensitive Information with other parties, except to verify your identity and eligibility or upon receipt of your consent as provided below:
+We will share your Personally Identifiable Information and Sensitive Information with entities necessary to validate your ID.me Account and Provide the ID.me Service to you.</p>
+
+<p>In order to verify your identity and eligibility to receive discounts, cash back rebates and other benefits from merchants and other service providers, we will provide your Personally Identifiable Information and Sensitive Information to third parties such as government agencies, telecommunications networks, financial institutions or other trusted and reliable sources of information. Our provision of your Personally Identifiable Information to the foregoing parties is solely to verify your identity and eligibility for the ID.me Service. We have established relationships with Registration Authorities similar to the entities described above whereby the Personally Identifiable Information and Sensitive Information you provide to us will be transmitted to them using industry standard encryption tools, designed to protect such information from unauthorized access.</p>
+
+<p>By providing any personally identifiable information and sensitive information to us, you authorize ID.me to provide such information to the above Registration Authorities and other trusted entities in order to verify your identity and eligibility to receive discounts, cash back rebates and benefits.</p>
+
+<p>We will share certain Personally Identifiable Information tied to your ID.me Account (including the ID.me Cash Back Program) with Third Party Websites where you grant us permission to do so by creating an account with the Website and utilizing your ID.me Account to access and use Third Party Websites (including, without limitations, use of your ID.me to create an account, register or subscribe with a Third Party Website).</p>
+
+<p>We do not share your Personally Identifiable Information or Sensitive Information with Third Party Websites absent your permission. However, by utilizing your ID.me Account at Third Party Websites, you are expressly authorizing us to share certain Personally Identifiable Information or Sensitive Information tied to your ID.me Account with such Third Party Websites.  The ID.me Service is intended to allow you to create a membership or profile with a Third Party Website and/or engage in a transaction with a Third Party Website by automatically transferring Personally Identifiable Information or Sensitive Information. This transfer of Personally Identifiable Information and/or Sensitive Information tied to your ID.me Account is necessary to verify your eligibility to receive benefits or discounts from various organizations, and to communicate such eligibility to Third Party Websites. The information ID.me shares with Third Party Websites will be limited to the Personally Identifiable Information and/or Sensitive Information that ID.me, at its sole discretion, deems necessary to complete the transactions described herein. You will have the opportunity to review the information required to complete a transaction before your information is released to a Third Party Website.  Absent your explicit permission, ID.me will never give Third Party Websites access to any or all of your information tied to your ID.me Account. In using the ID.me Service, Users have the ability to control which Third Party Websites are provided with their Personally Identifiable Information and Sensitive Information. We will not share a User’s Personally Identifiable Information and Sensitive Information with a Third Party Website unless the User authorizes such sharing by using his or her ID.me account to register with the Third Party Website or to authorize the Third Party Website’s access to his or her information.</p>
+
+<h3>We may share your information with Authorized Third Party Service Providers</h3>
+
+<p>We provide certain services and products of the Website through third party service providers. These “Third Party Service Providers” perform functions on our behalf, such as sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Third Party Service Providers to remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies (“Affiliates”) with whom we have business relationships and may share your information with Third Party Service Providers to accomplish our administrative tasks. However, we do not grant these entities any rights to use, and contractually restrict them from using, any information for any purpose other than providing services to us and to you. ID.me shall never sell your information to any entity for any reason.</p>
+
+<h3>We may share your information in a business transfer</h3>
+
+<p>As with any other business, we could merge with, or be acquired by, another company, or we may file for protection under applicable bankruptcy laws in the future. In such event, Users information obtained and maintained by the Website, including Personally Identifiable Information, Sensitive Information and Non-Personally Identifiable Information, will transfer to a successor entity in connection with the corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. User information submitted prior to any such transfer would remain subject to the terms of this Privacy Policy (as it existed on the date of the submission). However, User information submitted after a transfer to a successor entity may be subject to a new Privacy Policy adopted by the successor entity.</p>
+
+<h3>We may share your information for our protection and the protection of others</h3>
+
+<p>We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or investigate, prevent, or take action suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person or to prevent financial loss to any person or entity; or otherwise protect the rights, property or safety of the Website, its Users or others.</p>
+
 <h2>4. Release of Non-Personally Identifiable Information</h2>
-<p>
-We may disclose or share Non-Personally Identifiable Information with Third Party Service Providers and Affiliates. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information or Sensitive Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
-</p>
-<p>
-We may use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here: <a href="http://www.networkadvertising.org/consumer/opt_out.asp" target="_blank">http://www.networkadvertising.org/consumer/opt_out.asp</a>
-</p>
-<p>
-We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information or Sensitive Information as defined above, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
-</p>
+
+<p>We may disclose or share Non-Personally Identifiable Information with Third Party Service Providers and Affiliates. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information or Sensitive Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:</p>
+
+<p>We may use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here: http://www.networkadvertising.org/consumer/opt_out.asp</p>
+
+<p>We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information or Sensitive Information as defined above, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.</p>
+
 <h2>5. Updating and Correcting Information</h2>
-<p>
-We believe that you should have the ability to access and edit the Personally Identifiable Information and Sensitive Information you provide us. You may change any of your Personally Identifiable Information or Sensitive Information by logging into your account and accessing the "my account" section of the site. You may update your Personally Identifiable Information or Sensitive Information by sending us an email at help@id.me or writing to us at 7927 Jones Branch Drive Suite 3350, McLean, VA 22102. Please indicate your name, address and email address, and what information you would like to update when you contact us.
-</p>
-<p>
-We encourage you to promptly update your Personally Identifiable Information and Sensitive Information if they change. You may ask to have the information on your account deleted or removed; however, we may keep track of certain information if required by law.
-</p>
+
+<p>We believe that you should have the ability to access and edit the Personally Identifiable Information and Sensitive Information you provide us. You may change any of your Personally Identifiable Information or Sensitive Information by logging into your account and accessing the "my account" section of the site. You may update your Personally Identifiable Information or Sensitive Information by sending us an email at <a href="mailto:help@id.me">help@id.me</a> or writing to us at 8281 Greensboro Drive, Suite 600, Tysons Corner, VA 22102. Please indicate your name, address and email address, and what information you would like to update when you contact us.</p>
+
+<p>We encourage you to promptly update your Personally Identifiable Information and Sensitive Information if they change. You may ask to have the information on your account deleted or removed; however, we may keep track of certain information if required by law. In addition, in may be impossible for us to completely delete all of your information because we periodically back-up information.</p>
+
 <h2>6. User Choices on Collection and Use of Information</h2>
-<p>
-As discussed above, you can always choose not to provide information, although it may be required to use all or parts of the ID.me Service.
-</p>
-<p>
-As a condition of using the ID.me Service, we will send you Administrative email messages. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including sales and other offers by Third Party Websites, such as employment and educational opportunities, and/or the products and services of our Third Party Websites, Third Party Service Providers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at feedback@id.me, by writing to us at the address contained herein, or by clicking the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and which Promotional Emails you do not want to receive.
-</p>
+
+<p>As discussed above, you can always choose not to provide information, although it may be required to use all or parts of the ID.me Service, including the ID.me Marketplace.</p>
+
+<p>Except as otherwise provided herein, if you register for an account with, or log into, the ID.me Service, including the ID.me Marketplace, you are expressly consenting to receive e-mails (namely, Administrative Emails and Promotional Emails, as defined below) from us at the email address supplied by you.  However, we will not send you Promotional Emails if you have signed up through a Third Party Website, unless you expressly consent to receive such emails or you separately register or log in as a user of the ID.me Service, including the ID.me Marketplace.</p>
+
+<p>“Administrative Emails” relate to a User’s activity with the ID.me Service, and include emails regarding the User’s account, requests or inquiries by the User, earned cash back rebates, and purchases of products and services.  We may also send you Promotional Emails.  “Promotional Emails” advertise our products and services, including sales and other offers by Third Party Websites, such as cash back rebate promotions, employment and educational opportunities, and/or the products and services of our Third Party Websites, Third Party Service Providers and Affiliates.</p>
+
+<p>You cannot opt-out of Administrative Emails. However, you have the ability to opt-out from receiving Promotional Emails.</p>
+
+<p>If you want to opt out of receiving Promotional Emails from us, you must e-mail us at <a href="mailto:feedback@id.me">feedback@id.me</a>, write to us at the address contained herein, or click the “unsubscribe” button at the bottom of any of our e-mails and complete any additional steps required in response thereto. When contacting us, please indicate your name, address, email address, and indicate whether you no longer wish to receive all or certain Promotional Emails.</p>
+
 <h2>7. Security of Information</h2>
-<p>
-We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information and Sensitive Information on our Website through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information and Sensitive Information reside on a secure server to which only select personnel and contractors have access.
-</p>
-<p>
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with service providers that do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information.
-</p>
+
+<p>We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information and Sensitive Information on our Website through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information and Sensitive Information reside on a secure server to which only select personnel and contractors have access.</p>
+
+<p>Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with service providers that do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information.</p>
+
 <h2>8. Data Tracking</h2>
+
 <h3>Cookies</h3>
-<p>
-To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target user interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by the Website only and does not cover the use of cookies by any Third Party Website, Third Party Service Provider or Affiliate. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.
-</p>
+
+<p>To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, administer cash back rebates, and track and target user interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by the Website only and does not cover the use of cookies by any Third Party Website, Third Party Service Provider or Affiliate. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website, including our Cash Back Program, may not work properly.</p>
+
 <h3>Other Tracking Devices</h3>
-<p>
-We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes. The Website is not presently configured to respond to DNT or “do not track” signals from web browsers.
-</p>
-<h2>9. Records Retention</h2>
-<p>
-A record of the registration, history, and status of each credential (including revocation) shall be maintained by ID.me. The record retention period is seven years and six months beyond the expiration or revocation (whichever is later) of the credential.
-</p>
-<h2>10. Termination of Service</h2>
-<p>
-In the event of ID.me cessation of business activities, the service itself ceasing, change of ownership of the service providing business, and other similar events which change the status and/or operations of the service in any way which interrupts to continued provision of the service, ID.me can decide to terminate the provisioning of services and close all accounts. In this event ID.me will perform the following activities:
-</p>
-<p>
-<strong>Reaffirm Contractual Obligations.</strong>
-ID.me will alert the Relying Parties, Cloud Service provider and other 3rd parties about any relevant contractual requirements that must be observed upon termination, such as non-disclosure of certain terms of the agreement and sanitization of organizational data from storage media.
-</p>
-<p>
-<strong>Eliminate Physical and Electronic Access Rights.</strong>
-If any accounts and access rights to an ID.me’s computational resources were assigned to the cloud service provider as part of the service agreement, ID.me will revoke those accounts and rights.
-</p>
-<p>
-<strong>Recover Organizational Resources and Data.</strong>
-ID.me will ensure that any resources of the organization made available to the cloud provider under the terms of the service agreement, such as software, equipment, documentation, are returned or recovered in a usable form, as well as any data, programs, scripts, etc. owned by ID.me and held by the cloud provider. If the terms of service require the cloud provider to purge data, programs, backup copies, and other cloud consumer content from its environment, evidence such as system reports or logs should be obtained and verified to ensure that the information has been properly expunged. These activities should be carried out in compliance with ID.me’s records management policy.
-</p>
-<h2>11. Privacy Policies of Third Party Websites</h2>
-<p>
-This Privacy Policy only addresses the use and disclosure of information we collect from you on www.ID.me Other websites, including Third Party Websites, may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review such website’s Privacy Policy. We are not responsible for the policies or practices of third parties.
-</p>
-<h2>12. Miscellaneous Privacy Issues</h2>
-<p>
-If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:help@id.me">help@id.me</a>.
-</p>
+
+<p>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes. The Website is not presently configured to respond to DNT or “do not track” signals from web browsers.</p>
+
+<h2>9. Privacy Policies of Third Party Websites</h2>
+
+<p>This Privacy Policy only addresses the use and disclosure of information we collect from you on www.ID.me. Other websites, including Third Party Websites, may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review such website’s Privacy Policy. We are not responsible for the policies or practices of third parties.</p>
+
+<h2>10. Miscellaneous Privacy Issues</h2>
+
+<p>If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:help@id.me">help@id.me</a>.</p>
+
 <h3>Children</h3>
-<p>
-Minors under the age of 18 may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Because we do not intentionally collect any information from children under the age of 18, we also do not knowingly distribute such information to third parties. If you have reason to believe that a child under 18 years of age has provided us with information, please contact us at <a href="mailto:support@id.me">support@id.me</a> and we will immediately delete such information, subject to and in compliance with applicable law.
-</p>
+
+<p>Minors under the age of 18 may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Because we do not intentionally collect any information from children under the age of 18, we also do not knowingly distribute such information to third parties. If you have reason to believe that a child under 18 years of age has provided us with information, please contact us at <a href="mailto:support@id.me">support@id.me</a> and we will immediately delete such information, subject to and in compliance with applicable law.</p>
+
 <h3>Public Areas</h3>
-<p>
-yourself, can communicate with others (such as discussion boards or blogs), or can review products, and submit media content. This information may be accessible by other consumers and companies, and may appear on other websites or web searches; therefore this information could be read, collected, and used by others. For example, if you post your email address along with a product or service review, you may receive unsolicited messages from other registered users. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our users to post their name along with their reviews.
-</p>
+
+<p>We may provide areas on the Website where you can publicly post information about yourself, can communicate with others (such as discussion boards or blogs), or can review products, and submit media content. This information may be accessible by other consumers and companies, and may appear on other websites or web searches; therefore this information could be read, collected, and used by others. For example, if you post your email address along with a product or service review, you may receive unsolicited messages from other registered users. We have no control over who reads your postings or what other Users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our Users to post their name along with their reviews.</p>
+
 <h3>Facebook Connect</h3>
-<p>
-The ID.me Site allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends' News Feeds. If you are logged into ID.me and Facebook, when you click on "Connect with Facebook" your profiles will merge if the email addresses match. If the email addresses do not match, we ask you if you want to merge them and you must enter your ID.me password to validate that they control that account. If you are already logged into ID.me but not logged into Facebook, when you click on "Connect with Facebook" you will be prompted to enter your Facebook credentials or to "Sign up for Facebook." By proceeding, you are allowing the ID.me Site to access your information and you are agreeing to the Facebook Terms of Use in your use of the ID.me Site.
-</p>
-<p>
-Conversely, if you are not currently registered as an ID.me user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join ID.me. Once you register on the ID.me site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into "My Profile" and clicking on "My Facebook Profile." Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.
-</p>
-<h3>Please further note</h3>
-<p>
-If a User uses Facebook Connect, depending on the privacy settings that the User has set on his or her Facebook account, the User will be granting us access to the information accessible via that Facebook Account and we will access, make available and store (if applicable and as permitted by Facebook and authorized by the User via his or her Facebook account setting) that information so that it is available on and through the User’s Account on the Website. If there is information about the User’s "friends" or people with whom the User is associated via the Facebook account, the information we obtain about those "friends" or people with whom the User is associated, may also depend on the privacy settings such people have with Facebook.
-</p>
-<h3>Notice of Privacy Rights to California Residents.</h3>
-<p>
-California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the “Act”) and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliated Businesses or Marketing Partners. The request should be sent to the attention of our legal department, and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.
-</p>
+
+<p>The ID.me Website allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends' News Feeds. If you are logged into ID.me and Facebook, when you click on "Connect with Facebook" your profiles will merge if the email addresses match. If the email addresses do not match, we ask you if you want to merge them and you must enter your ID.me password to validate that you control that account. If you are already logged into ID.me but not logged into Facebook, when you click on "Connect with Facebook" you will be prompted to enter your Facebook credentials or to "Sign up for Facebook." By proceeding, you are allowing the ID.me Website to access your information and you are agreeing to the Facebook Terms of Use in your use of the ID.me Website.</p>
+
+<p>Conversely, if you are not currently registered as an ID.me user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join ID.me. Once you register on the ID.me Website and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into "My Profile" and clicking on "My Facebook Profile." Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.</p>
+
+<h3>Please Further Note</h3>
+
+<p>If a User uses Facebook Connect, depending on the privacy settings that the User has set on his or her Facebook account, the User will be granting us access to the information accessible via that Facebook Account and we will access, make available and store (if applicable and as permitted by Facebook and authorized by the User via his or her Facebook account setting) that information so that it is available on and through the User’s Account on the Website. If there is information about the User’s "friends" or people with whom the User is associated via the Facebook account, the information we obtain about those "friends" or people with whom the User is associated, may also depend on the privacy settings such people have with Facebook.</p>
+
+<h3>Notice of Privacy Rights to California Residents</h3>
+
+<p>California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the “Act”) and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliated Businesses or Marketing Partners. The request should be sent to the attention of our legal department, and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.</p>
+
 <h3>International Users</h3>
-<p>
-This Website is hosted in the United States. If you are a User accessing the Website from the European Union, Australia, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, you are transferring your personal data to the United States which does not have the same data protection laws as such other regions. By providing your information to the Website, you are consenting to the transfer of your information to the United States for processing and maintenance in accordance with this Privacy Policy and our Terms and Conditions. You are also consenting to the application of United States law in all matters concerning the Website and ID.me Service.
-</p>
-<h2>13. Contacting Us</h2>
-<p>
-Whether you’re a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we’d like to stay connected and want to hear from you!
-</p>
+
+<p>This Website is hosted in the United States. If you are a User accessing the Website from the European Union, Australia, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States’laws, you are transferring your personal data to the United States which does not have the same data protection laws as such other regions. By providing your information to the Website, you are consenting to the transfer of your information to the United States for processing and maintenance in accordance with this Privacy Policy and our Terms of Service. You are also consenting to the application of Delaware law and controlling U.S. Federal law in all matters concerning the Website and ID.me Service.</p>
+
+<h2>11. Contacting Us</h2>
+
+<p>Whether you’re a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we’d like to stay connected and want to hear from you!</p>
+
 <h3>Corporate Address</h3>
-<p>
-ID.me, Inc.
-<br>
-7927 Jones Branch Suite 3350
-<br>
-Tyson's Corner, VA 22102
-</p>
+
+<p></p><address class="vcard">
+   <div class="adr">
+      <div class="organization">ID.me, Inc.</div>
+      <div class="street-address">8281 Greensboro Drive, Suite 600</div>
+      <div class="locality">Tysons Corner, VA 22102</div>
+   </div>
+</address><p></p>
+
 <h3>For Customers</h3>
-<p>
-Member Service Inquiries may be directed to <a href="mailto:help@id.me">help@id.me</a>
-</p>
-<p></p>
-</div>
-</section>
-</article>
 
+<p>Member Service Inquiries may be directed to <a href="mailto:help@id.me">help@id.me</a>.</p>
+
+</div>
 </section>
-<footer class="landing-footer">
-<nav class="footer-container">
-<div class="inner">
-<div class="left-side">
-<section class="left outside">
-<h2>Account</h2>
-<ul class="navigation">
-<li><a href="https://www.id.me/users/sign-up" title="Join Now">Join Now</a></li>
-<li><a href="https://www.id.me/users/sign-in" title="Sign In">Sign In</a></li>
-<li><a href="https://www.id.me/users/password/new" title="Forgot Password?">Forgot Password?</a></li>
-<li><a href="https://www.id.me/applications" title="Manage Applications">Manage Apps</a></li>
+</main>
+
+</div>
+<footer class="site-footer">
+<div class="container">
+<div class="site-footer__inner">
+<nav class="footer__links">
+<ul class="footer__links__primary">
+<li>
+<a data-track-gtm="Footer|Home ID.me" href="/home">Home</a>
+</li>
+<li>
+<a data-track-gtm="Footer|About ID.me" href="/about">About ID.me</a>
+</li>
+<li>
+<a data-track-gtm="Footer|How It Works" href="/how-it-works">How It Works</a>
+</li>
+<li>
+<a data-track-gtm="Footer|Blog" href="http://blog.id.me" target="_blank">Blog</a>
+</li>
+<li>
+<a data-track-gtm="Footer|Sitemap" href="/sitemap">Sitemap</a>
+</li>
+<li>
+<a data-track-gtm="Footer|FAQ" href="/how-it-works/faq">FAQ</a>
+</li>
+<li>
+<a data-track-gtm="Footer|Support" href="https://idme.zendesk.com/hc/en-us" target="_blank">Support</a>
+</li>
+<li>
+<a data-track-gtm="Footer|Contact" href="/contact">Contact</a>
+</li>
+<li>
+<a data-track-gtm="Footer|Partner With Us" href="/partner-with-us">Partner With Us</a>
+</li>
+<li>
+<a data-track-gtm="Footer|Developers" href="http://developer.id.me/">Developers</a>
+</li>
+<li>
+<a data-track-gtm="Footer|Careers" href="http://careers.id.me/">Careers</a>
+</li>
 </ul>
-</section>
-<section class="left inside">
-<h2>Personal</h2>
-<ul class="navigation">
-<li><a href="https://www.id.me/partners" title="Partner Brands">Partner Brands</a></li>
-<li><a href="https://www.id.me/faq" title="FAQ">FAQ</a></li>
-<li><a href="http://help.id.me" title="Support">Support</a></li>
-<li><a href="https://www.id.me/privacy-policy" title="Privacy">Privacy</a></li>
-<li><a href="https://www.id.me/terms-of-service" title="Terms">Terms</a></li>
+<ul class="footer__links__social">
+<li>
+<a class="icon -facebook" data-track-gtm="Footer|Facebook" href="https://www.facebook.com/IDmeInc"><span class="screen-reader">Facebook</span></a>
+</li>
+<li>
+<a class="icon -twitter" data-track-gtm="Footer|Twitter" href="https://twitter.com/IDme"><span class="screen-reader">Twitter</span></a>
+</li>
 </ul>
-</section>
-</div>
-<div class="right-side">
-<section class="right outside">
-<h2>Business</h2>
-<ul class="navigation">
-<li><a href="https://www.id.me/partner-with-us" title="Partner With Us">Partner With Us</a></li>
-<li><a href="https://www.id.me/about-us" title="About Us">About Us</a></li>
-<li><a href="https://www.id.me/reach-your-audience" title="Reach Your Audience">Reach Your Audience</a></li>
-<li><a href="https://www.id.me/benefits-of-a-military-discount" title="Military Discount Benefits">Military Discount Benefits</a></li>
-<li><a href="https://www.id.me/promote-veterans-day" title="Promote Veteran's Day">Promote Veteran's Day</a></li>
-</ul>
-</section>
-<section class="right inside">
-<h2>Developers</h2>
-<ul class="navigation">
-<li><a href="https://developer.id.me/" title="Overview">Overview</a></li>
-<li><a href="https://developer.id.me/documentation" title="Documentation">Documentation</a></li>
-<li><a href="https://developer.id.me/documentation/assets" title="Design Assets">Design Assets</a></li>
-<li><a href="https://developer.id.me/documentation/libraries" title="Client Libraries">Client Libraries</a></li>
-</ul>
-</section>
-</div>
-<div class="social-container">
-<div class="inner">
-<div class="share-buttons">
-<a href="https://www.facebook.com/IDmeInc" class="facebook" target="_blank">Facebook</a>
-<a href="https://www.twitter.com/idme" class="twitter" target="_blank">Twitter</a>
-</div>
-<div class="copyright">
-Copyright © 2014 ID.me, Inc.
-</div>
-</div>
-</div>
-</div>
 </nav>
-
+<div class="p footer__legal">
+Copyright © 2015 ID.me, Inc
+<span class="footer__legal__links">
+<a href="/privacy" data-track-gtm="Footer|Privacy">Privacy</a> • <a href="/terms" data-track-gtm="Footer|Terms">Terms</a>
+</span>
+</div>
+</div>
+</div>
 </footer>
 
-<script>
-  <!-- Facebook Ads conversion tracking -->
-  var fb_param      = {};
-  fb_param.pixel_id = '6013485620681';
-  fb_param.value    = '0.00';
-  fb_param.currency = 'USD';
-  
-  (function () {
-    var fpw = document.createElement('script');
-    fpw.async = true;
-    fpw.src = '//connect.facebook.net/en_US/fp.js';
-    var ref = document.getElementsByTagName('script')[0];
-    ref.parentNode.insertBefore(fpw, ref);
-  })();
+</div>
+<div class="site-screen"></div>
+</div>
+<div class="modal-wrapper" role="dialog" tabindex="-1">
+<div class="modal-loader">
+<svg class="spinner" height="65px" viewBox="0 0 66 66" width="65px" xmlns="http://www.w3.org/2000/svg">
+<circle class="path" cx="33" cy="33" fill="none" r="15" stroke-linecap="round" stroke-width="6"></circle>
+</svg>
+</div>
+<div class="modal-wrapper__inner">
+<div class="modal"></div>
+</div>
+</div>
+<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
+<style type="text/css" media="screen, projection">
+    @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
+</style>
+<script type="text/javascript">
+    if (typeof(Zenbox) !== "undefined") {
+        Zenbox.init({
+            dropboxID:   "20190760",
+            url:         "https://idme.zendesk.com",
+            tabTooltip:  "Support",
+            tabImageURL: "https://assets.zendesk.com/external/zenbox/images/tab_support_right.png",
+            tabColor:    "black",
+            tabPosition: "Right"
+        });
+    }
 </script>
-<script>
-  <!-- Hubspot conversion tracking -->
-  (function(d,s,i,r) {
-    if (d.getElementById(i)){return;}
-    var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
-    n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/391559.js';
-    e.parentNode.insertBefore(n, e);
-  })(document,"script","hs-analytics",300000);
-</script>
-
-<script src="/assets/application-2752b8b30c532eaea5d2082510147f5c.js" type="text/javascript"></script>
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="/assets/application-613bef001ac0f647b62b820e88d77e6b.js"></script>
+<script src="/assets/analytics-efcfaf83b55ddd3fd6a213acb7b8c722.js"></script>
+<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
