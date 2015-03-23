@@ -1,88 +1,61 @@
-> *The following text is extracted and transformed from the velvetjobs.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330215000id_/https%3A//www.velvetjobs.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velvetjobs.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323142702id_/https%3A//www.velvetjobs.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # VelvetJobs
 
-_Please review this Privacy Policy. We may modify this Privacy Policy from time to time, and if we make material changes to it, we may provide notice through our website, apps, or other services (“VelvetJobs” or “Service”) or by other means so that you may review the changes before you continue to use VelvetJobs. If you object to any changes, you may close your account. Continuing to use VelvetJobs after we publish or communicate a notice about any changes to this Privacy Policy means that you are consenting to the changes._
+_For the purposes of this Privacy Policy, unless otherwise noted, all references to VelvetJobs LLC include www.velvetjobs.com and VelvetJobs LLC. By using the VelvetJobs LLC website, you consent to the data practices described in this statement._
 
-### 1\. Information
+### Collection of your Personal Information
 
-The personal information provided to or gathered by VelvetJobs is controlled by VelvetJobs LLC, 1400 N. Martel Ave # 108, Los Angeles, CA 90046. If you have any concern about providing information to us or having such information displayed on the VelvetJobs services or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not become a Member of VelvetJobs or visit our website. If you have already registered, you should close your account. We collect your personal information in the following ways:
+VelvetJobs LLC may collect personally identifiable information including, but not limited to your name, employment history, education, resume. If you purchase VelvetJobs LLC's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. VelvetJobs LLC may also collect anonymous demographic information, which is not unique to you, such as your age, gender, household income, political affiliation, race and religion. We may gather additional personal or non-personal information in the future.
 
-### 2\. Registration
+Information about your computer hardware and software may be automatically collected by VelvetJobs LLC. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the VelvetJobs LLC website.
 
-To create an account on VelvetJobs, you must provide us with at least your name, email address, and a password. You can choose to provide further information about yourself during the registration process. We use this additional information to provide you with more customized services. You understand that, by creating an account, VelvetJobs and others will be able to identify you by your VelvetJobs profile, and you allow VelvetJobs to use this information in accordance with this Privacy Policy and our User Agreement. We may also ask for your credit card details if you purchase certain VelvetJobs services.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through VelvetJobs LLC's public message boards, this information may be collected and used by others.
 
-### 3\. Profile Information
+VelvetJobs LLC encourages you to review the privacy statements of websites you choose to link to from VelvetJobs LLC so that you can understand how those websites collect, use and share your information. VelvetJobs LLC is not responsible for the privacy statements or other content on websites outside of the VelvetJobs LLC website.
 
-After you create an account, you may choose to provide additional information. Providing additional information enables you to derive more benefit from VelvetJobs. It also enables us to serve you ads and other relevant content on and off VelvetJobs.
+### Use of your Personal Information
 
-### 4\. Contacts Importer
+VelvetJobs LLC collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-You may use the VelvetJobs contacts importer to upload individual contacts or your entire address book into VelvetJobs. VelvetJobs uses this information to help you invite friends and contacts to VelvetJobs.
+VelvetJobs LLC may also use your personally identifiable information to inform you of other products or services available from VelvetJobs LLC and its affiliates. VelvetJobs LLC may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-### 5\. Customer Service
+VelvetJobs LLC may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. VelvetJobs LLC may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries.
 
-When you contact VelvetJobs for customer service, we collect information that helps us categorize your question, respond to it, and, if applicable, investigate any breach of our User Agreement or this Privacy Policy. We also use this information to track potential problems and trends and customize our support responses to better serve you.
+VelvetJobs LLC may keep track of the websites and pages our users visit within VelvetJobs LLC, in order to determine what VelvetJobs LLC services are the most popular. This data is used to deliver customized content and advertising within VelvetJobs LLC to customers whose behavior indicates that they are interested in a particular subject area.
 
-### 6\. Using the VelvetJobs Site
-
-We collect information when you use the VelvetJobs website. For example, we collect information when you view or click on ads, import your address book, participate in polls, click to view jobs, and share jobs on VelvetJobs or perform other actions.
-
-### 7\. Cookies
-
-We use cookies and similar technologies, including mobile device identifiers, to help us recognize you, improve your VelvetJobs experience, increase security, measure use of our Services, serve advertising, and other uses. You can control cookies through your browser settings and other tools. By visiting VelvetJobs, you consent to the placement of cookies and beacons in your browser in accordance with this Privacy Policy.
-
-### 8\. Advertising Technologies and Web Beacons
-
-We target ads to Members both on and off VelvetJobs through a variety of ad networks and ad exchanges, using:
-
-Advertising technologies like web beacons, pixels, ad tags, cookies, and mobile identifiers as permitted by mobile platforms; Member-provided profile information Information inferred from a Member’s profile Your use of VelvetJobs (for example, your VelvetJobs search history) or clicking on a VelvetJobs jobs or ads. Information from advertising partners which we use to help deliver ads more relevant to you. 
-
-### 9\. Log Files, IP Addresses, and Information About Your Computer and Mobile Device
-
-When you visit or leave VelvetJobs by clicking a hyperlink or view a plugin on a third-party site, we automatically receive the URL of the site from which you came or the one to which you are directed. Also, advertisers receive the URL of the page that you are on when you click an ad on VelvetJobs. We also receive the internet protocol (“IP”) address of your computer or the proxy server that you use to access the web, your computer operating system, your type of web browser, your mobile device (including your mobile device identifier provided by your mobile device operating system), your mobile operating system (if you are accessing VelvetJobs using a mobile device), and the name of your ISP or your mobile carrier. We may also receive location data passed to us from third-party services or GPS-enabled devices that you have set up, which we use to show you local information (for example, weather information) on an iPad application.
-
-### 10\. Other
-
-VelvetJobs is a dynamic, innovative environment, which means we are always seeking to improve the services we offer you. We often introduce new features, some of which may result in the collection of new information. Furthermore, new partnerships or corporate acquisitions may result in new features, and we may potentially collect new types of information.
-
-### 11\. Consent to VelvetJobs Processing Information About You
-
-The personal information you provide to us may reveal or allow others to identify aspects of your life that are not expressly stated on your profile (for example your name may reveal your gender). By providing personal information to us when you create or update your account and profile, you are expressly and voluntarily accepting the terms and conditions of VelvetJobs’s User Agreement and freely accepting and agreeing to our processing of your personal information in ways set out by this Privacy Policy. Supplying information to us, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part.
-
-### 12\. Sharing Information with Affiliates and Other Partners
-
-We may share your personal information with our VelvetJobs affiliates and partners outside of the VelvetJobs entity that is your information as necessary to provide the Services, analyze the usage of the Services or other applicable business reasons. By agreeing to this Privacy Policy, you are consenting to this sharing.
-
-### 13\. Compliance with Legal Process and Other Disclosures
-
-It is possible that we may need to disclose personal information, profile information, or information about your activities as a VelvetJobs Member when required by law, subpoena, or other legal process, or if VelvetJobs has a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent, or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce the User Agreement, investigate and defend ourselves against any third-party claims or allegations, or protect the security or integrity of our Service; or (3) exercise or protect the rights, property, or safety of VelvetJobs, our Members, personnel, or others.
-
-### 14\. Disclosures to Others as the Result of a Change in Control or Sale of VelvetJobs LLC
+VelvetJobs LLC will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on VelvetJobs LLC or the site; (b) protect and defend the rights or property of VelvetJobs LLC; and, (c) act under exigent circumstances to protect the personal safety of users of VelvetJobs LLC, or the public.
 
 We may also disclose your personal information to a third party as part of a sale of the assets of VelvetJobs LLC, a subsidiary, or division, or as the result of a change in control of the company or one of its affiliates, or in preparation for any of these events. Any third party to which VelvetJobs transfers or sells VelvetJobs’ assets will have the right to continue to use the personal and other information that you provide to us in the manner set out in this Privacy Policy.
 
-### 15\. Rights to Access, Correct, or Delete Your Information, and Closing Your Account
-
-You have a right to (1) access, modify, correct, or delete your personal information controlled by VelvetJobs regarding your profile, (2) change or remove your content, and (3) close your account. You can also contact us for any account information which is not on your profile or readily accessible to you.
-
-### 16\. Data Retention
-
 We retain the personal information you provide. VelvetJobs may retain your personal information even after you have closed your account.
 
-### 17\. Your Obligations
+### Use of Cookies
 
-As a Member, you have certain obligations to other Members. Some of these obligations are imposed by applicable law and regulations and others have become commonplace in communities of like-minded Members such as VelvetJobs:   
-You must, at all times, abide by the terms and conditions of the current Privacy Policy, User Agreement, and other policies of VelvetJobs. This includes respecting all intellectual property rights that may belong to third parties, such as trademarks or copyrights. You must not upload or otherwise disseminate any information that may infringe on the rights of others or which may be deemed to be injurious, violent, offensive, racist, or xenophobic, or which may otherwise violate the purpose and spirit of VelvetJobs and its community of Members. You must keep your username and password confidential and not share it with others. Any violation of these guidelines or those detailed in our User Agreement or elsewhere may lead to the restriction, suspension, or termination of your account at the sole discretion of VelvetJobs.
+The VelvetJobs LLC website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-### 18\. Changes to this Privacy Policy
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize VelvetJobs LLC pages, or register with VelvetJobs LLC site or services, a cookie helps VelvetJobs LLC to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same VelvetJobs LLC website, the information you previously provided can be retrieved, so you can easily use the VelvetJobs LLC features that you customized.
 
-We may change this Privacy Policy from time to time with or without notice. If you continue to use our Service, it means you agree to the most recently updated Privacy Policy and User Agreement. If you object to any of the changes to our terms and you no longer wish to use VelvetJobs, you may Close Your Account.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the VelvetJobs LLC services or websites you visit.
 
-### 19\. Security
+### Security of your Personal Information
 
-We have implemented security safeguards designed to protect the personal information that you provide. Access to your data on VelvetJobs is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and VelvetJobs. We also offer secure https access to the website. To protect any data you store on our servers, we also regularly monitor our system for possible vulnerabilities and attacks. However, since the Internet is not a 100% secure environment, we cannot ensure or warrant the security of any information that you transmit to VelvetJobs. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please help keep your account safe by using a strong password.
+VelvetJobs LLC secures your personal information from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-### 20\. California's Shine the Light Law
+### Children Under Thirteen
 
-California Civil Code Section 1798.83, known as the “Shine The Light” law, permits our customers who are California residents to request and obtain from us a list of what personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year and the names and addresses of those third parties. Requests may be made only once a year and are free of charge. Under Section 1798.83, VelvetJobs currently does not share any personal information with third parties for their direct marketing purposes. If you are a California resident and would like to request this information, please submit your request in an email to privacy@velvetjobs.com
+VelvetJobs LLC does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+
+### Disconnecting your VelvetJobs LLC Account from Third Party Websites
+
+You will be able to connect your VelvetJobs LLC account to third party accounts. BY CONNECTING YOUR VELVETJOBS LLC ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU AND YOUR FRIENDS OR CONNECTIONS TO OTHERS. IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED IN THIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time at https://www.velvetjobs.com/settings.
+
+### Changes to this Statement
+
+VelvetJobs LLC will occasionally update this Statement of Privacy to reflect company and customer feedback. VelvetJobs LLC encourages you to periodically review this Statement to be informed of how VelvetJobs LLC is protecting your information.
+
+We may modify this Privacy Policy from time to time. If you object to any changes, you may close your account. Continuing to use VelvetJobs after we publish or communicate a notice about any changes to this Privacy Policy means that you are consenting to the changes.
+
+### Contact Information
+
+VelvetJobs LLC welcomes your questions or comments regarding this Statement of Privacy. Please contact VelvetJobs LLC at support@velvetjobs.com
