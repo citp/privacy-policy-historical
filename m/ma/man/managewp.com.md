@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managewp.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227015158id_/https%3A//managewp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managewp.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324002408id_/https%3A//managewp.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ManageWP
 
