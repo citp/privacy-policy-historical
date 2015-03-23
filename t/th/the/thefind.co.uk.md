@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefind.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043004id_/http%3A//www.thefind.com/main/PrivacyPolicy.fhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefind.co.uk privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323235812id_/http%3A//www.thefind.com/main/PrivacyPolicy.fhtml) for the most accurate reproduction.*
 
 # Privacy Policy - TheFind.com - Shopping Search Reinvented - What can we find for you?
 
