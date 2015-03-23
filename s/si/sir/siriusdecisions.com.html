@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the siriusdecisions.com privacy policy that was archived on 2014-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219162703id_/https%3A//www.siriusdecisions.com/Misc/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the siriusdecisions.com privacy policy that was archived on 2015-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150323084543id_/https%3A//www.siriusdecisions.com/Misc/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations cssgradients csstransforms csstransitions fontface generatedcontent video audio localstorage sessionstorage svg inlinesvg svgclippaths" style=""><!--<![endif]--><head>
 	<title>Online Privacy Policy | SiriusDecisions </title>
@@ -7,8 +7,37 @@
 	<meta name="viewport" content="width=device-width">
 	<meta name="description" content="">
 	<meta name="keywords" content="">
+  
+
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NHHCJT"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            Callback();
+        });
+        function Callback() {
+            
+            $.ajax({
+                url: "data/UserListing/GetUserInfo",
+                contentType: "application/json",
+                type: "POST",
 
 
+                datatype: "json",
+                success: function (data) {
+                    
+                    if (data == "true") {
+
+                        $("#Schedualli").css('display', 'inline-block');
+                    }
+                    else {
+                        $("#Schedualli").css('display', 'none');
+                    }
+                },
+            });
+        }
+
+
+    </script>
 <!--[if (!IE) | (gt IE 8)]><!-->
 <link rel="stylesheet" href="/styles/css/vendor/gridset.css">
 <!--<![endif]-->
@@ -16,14 +45,14 @@
 <link rel="stylesheet" href="/styles/css/vendor/gridset-ie-lte8.css" />
 <![endif]-->
 
-<link href="/bundles/Styles?v=k_cH9E-yBe6tvGVbG1Zqf3JsmDTJkvmvThG4xTyB8NE1" rel="stylesheet">
+<link href="/bundles/Styles?v=-L9slUw_qT3F3pwZq4lKs-sCrTfX8JuurdquQJAa1ao1" rel="stylesheet">
 
 
 <!-- Print -->
 <link href="/bundles/PrintStyle?v=9h2hXhaMHoRPMoeeQOC1zTOhSS7syspqVMPkZZryYko1" rel="stylesheet" type="text/css" media="print">
 
 <!-- Modernizr -->
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NHHCJT"></script><script src="/bundles/HeaderScripts/Modernizr?v=-88D7drJLwpE1lbLIJXvnB5nd74ZU64Vtt9IYZj1wkA1"></script>
+<script src="/bundles/HeaderScripts/Modernizr?v=-88D7drJLwpE1lbLIJXvnB5nd74ZU64Vtt9IYZj1wkA1"></script>
 
 
 <!-- Typekit -->
@@ -32,14 +61,13 @@
 </head>
 
 
-	 <body style="">
+	 <body>
 
 		<script>
 			dataLayer = [{
   "UserLogin": "Logged Out",
   "Level1Topics": "General",
   "FullReadTrigger": "true",
-  "NewSession": "true",
   "ContentType": "General Content",
   "TrialSubscriptionView": "0",
   "AdHocAccess": "0",
@@ -83,14 +111,49 @@
 						</a>
 					<div class="med-hide sm-hide" data-set="aa-masthead-search-box">
     <div class="search-box">
-        <form action="#">
+        <form action="#" style="position: relative;">
+            <div class="search_img" onmouseover="show_contenttype(this)" onmouseout="hide_contenttype(this)">
+                <img src="/assets/images/search-menu_bar_hover2.png">
+                <ul class="data_list">
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">All</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Blog Post</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Brief</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Chart</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Core Strategy Report</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Dictionary</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Event</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Framework</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">General Content</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Infographic</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Model</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Presentation</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Role Profile</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Select Practice</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Sirius Field Guide</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">SiriusView</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;"></a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Tools</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Vendor Profile</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Video</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Webcast</a></li>
+                </ul>
+            </div>
             <div class="search-box__textbox">
-                <input class="search-box__input" type="text" placeholder="Search...">
+                    <input class="search-box__input" type="text" placeholder="Search...">
                 <button class="search-box__submit" type="submit" href="#"><span class="search-box__icon"></span></button>
             </div>
         </form>
     </div>
 </div>
+<script type="text/javascript">
+    function show_contenttype() {
+        $('.data_list').show();
+    };
+    function hide_contenttype() {
+        $('.data_list').hide();
+    }
+</script>
+
 
 
 
@@ -113,7 +176,7 @@
 	<ul>
 			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Topics"><a href="/Topics.aspx"><span>Topics We Cover</span></a></li>
 			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-What We Do"><a href="/What-We-Do.aspx"><span>What We Do</span></a></li>
-			<li class="primary-nav__item js-nav-item is-disabled" data-nav-id="main-menu-Who We Are"><a href="javascript:void(0);"><span>Who We Are</span></a></li>
+			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Who We Are"><a href="/Who-We-Are.aspx"><span>Who We Are</span></a></li>
 			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Events"><a href="/Events.aspx"><span>Events</span></a></li>
 			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Resources"><a href="/Resources.aspx"><span>Resources</span></a></li>
 			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Blog"><a href="/Blog.aspx"><span>Blog</span></a></li>
@@ -746,11 +809,7 @@
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Events/Summit/2014-Summit.aspx">2014 Summit </a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Events/Summit/2014-Summit-Europe.aspx">2014 Summit Europe</a>
+                                                            <a href="/Events/Summit/2015-Summit-Europe.aspx">2015 Summit Europe</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -811,25 +870,40 @@
             <div id="shareEmailPrintToolbar" class="sm-hide med-hide">
         <section class="toolbar">
             
-                <ul>
-                    <li class="toolbar__item"><a href="#" class=" addthis_button_compact"><span class="ico ico-share"></span>Share</a></li>
+                <ul>                   
+                    <li class="toolbar__item" id="Schedualli" style="display:none;"><a href="#" onclick="return clickSchedual();"><span class="ico ico-calendar"></span>Schedule Inquiry</a></li>                     
+                    <li class="toolbar__item"><a href="#" class=" addthis_button_compact"><span class="ico ico-share"></span>Share</a></li>                        
                     <li id="printtool-id" class="toolbar__item"><a href="#" onclick="window.print(); return false;"><span class="ico ico-print"></span>Print</a></li>
                     <li class="toolbar__item"><a href="#" class="addthis_button_email"><span class="ico ico-email"></span>Email</a></li>
                 </ul>
-
+            
         </section>
 
             <script type="text/javascript">
-                var addthis_config = { 
+                var addthis_config = {
                     "data_track_addressbar": false,
                     "ui_offset_top": 13,
                     "ui_offset_left": -20
-                }; 
+                };
 
             </script>
             <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52e01fc1285123db"></script>
     </div>
+    <div id="div_Sedual" class="reqAccessInq_popup" style="display:none;"></div>
+    <div class="reqAccess_overlay" style="display:none;"></div>
 
+<script type="text/javascript">
+    function clickSchedual() {
+
+     
+        $("#div_Sedual").empty();
+        $("#div_Sedual").show();
+        $(".reqAccess_overlay").show();
+        cache: false;
+        $('#div_Sedual').load("/data/ScheduleInquiry/ScheduleInquiry");
+    }
+
+</script>
     </div>            
     
     <div class="main-rail">  
@@ -902,7 +976,15 @@ If your personal information changes, you may update it at any time. To correct 
 If you would like to be taken off our marketing lists, please send an e-mail to <a href="mailto:ashlyn.bohling@siriusdecisions.com">ashlyn.bohling@siriusdecisions.com</a>, or write to us at SiriusDecisions, Attention: Privacy Dept, 187 Danbury Road, Wilton, CT 06897.</p>
 	</div>
     <div>&nbsp;</div>
-
+<script type="text/javascript">
+    function clickRequAccess() {
+        $("#div_reqAccess").empty();
+        $("#div_reqAccess").show();
+        $(".reqAccess_overlay").show();
+        cache: false;
+        $('#div_reqAccess').load("data/RequestAccess/RequestAccess");
+    }
+</script>
  
     </div>
 </div>
@@ -993,12 +1075,12 @@ If you would like to be taken off our marketing lists, please send an e-mail to 
 
 <script src="/bundles/FooterScripts/GlobalNamespace?v=DgcYWMmuPJuDIUEa1jApTfc8U1bzc1bjhWx8tKkcPbQ1"></script>
 
-<script src="/bundles/FooterScripts/ThirdParty?v=ULz3AMJ-KWrLpsk5Eq1A-IHVNX3aQkP-p6s8DsEM06o1"></script>
+<script src="/bundles/FooterScripts/ThirdParty?v=2Bj-PKo1B3Doh_j7dg6jOtmpKLYPgYkpr8iPr7MKqxE1"></script>
 
  <script src="https://get.gridsetapp.com/24393/overlay/"></script>
-<script src="/bundles/FooterScripts/Velir?v=wjyvKKpDF8mT3_09kVGpNGMzWMT-NHh19P3vOaIMhtA1"></script>
+<script src="/bundles/FooterScripts/Velir?v=VgLfgYQjMTXJLVGgsNtHrHPLh2MJ9CUlfBgMrK-8rxM1"></script>
 
-<script src="/bundles/FooterScripts/Init?v=xNdvK4L1YKczgz2KuRGNEl69mLQgmijuBpfg0cnZl9k1"></script>
+<script src="/bundles/FooterScripts/Init?v=YXhpg1foViWvOTQJiXeGO_82ZqjTJPAd1INsQwCIojQ1"></script>
 
 
 
