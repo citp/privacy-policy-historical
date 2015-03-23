@@ -1,41 +1,32 @@
-> *The following text is extracted and transformed from the blogmint.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920202827id_/http%3A//www.blogmint.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmint.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323040917id_/https%3A//www.blogmint.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogmint
 
-  1. [Home](https://web.archive.org/)
-  2. Privacy Policy
+This Privacy Policy explains how [www.blogmint.com](https://web.archive.org/) (hereinafter referred to as the “Website”) owned, managed and operated by Tangerine Digital Entertainment Private Limited (hereinafter referred to “tangerine”) collects, uses, discloses and protects the Personal Information obtained explicitly through the Website, as well as other information collected automatically without direct submission by you. “Personal Information” is information that enables anyone to contact you. Your full name, address, IP address, e-mail address are examples of personal information. 
 
+You may need to provide the Website your Personal Information during the course of using some services of the Website; for instance, while registering on the Website. If you do not intend to provide us with such Personally Information then you may not be able to use certain functionalities of the Website.
 
+Any Personal Information that you provide to “Tangerine” via this Website will be used only for such purposes and/or activities as are mentioned at the point of gathering such information, or otherwise stated, for instance to respond to your queries or comments, to register your user account, or to otherwise provide any information to you.
 
-#### Our Pledge of Privacy to You
+Tangerine may use the information submitted by you to send you e-mails that you have opted-in for, and for administrative purposes. Your email address is deleted from Website’s database when you unsubscribe from the website. Tangerine does not make these e-mail addresses available to any third party without your consent. Website gives you the opportunity to opt-in to receive communications from us. Website will never automatically send you information/offers you do not want unless you choose to receive them.
 
-At "Tangerine", protecting your privacy is extremely important to us. Our Privacy Pledge explains our online information collection and usage practices. Please note that our privacy policy is subject to change at any time with or without any notice of intimation. In order to be aware of any such changes, we request you to kindly review this policy regularly. 
+When you use the site, Website’s servers (which may be hosted by a third party service provider) may collect information indirectly and automatically about your activities on the Website; for instance by way of cookies. A cookie is a small amount of data that is sent to a User's browser from a web server and is eventually stored on a User's computer hard drive. This anonymous information is maintained distinctly and is not linked to the Personal Information you submit to Website. The anonymous information will be used for Website’s understanding of how the Website is used and for other statistical purposes, for system administration and to personalize your experience. Website may also collect information related to the referring URL, access times, browser type, and your IP address for tracking usage patterns and, if necessary, deny service in accordance with our Terms.
 
-#### Collection of Information
+Tangerine may disclose aggregated information about the use of the Website, but it will never contain Personal Information. Tangerine does not disclose Personal Information to third parties in the normal course of operations without your consent. However, in situations when Tangerine is legally obligated to disclose information to the government or other third parties, Tangerine will do so.
 
-"Tangerine" collects Personally Identifiable Information (PII) voluntarily submitted by you on the website. The personal information collected may include e-mail address, name, phone number, company name, etc. You can browse certain sections of the website without submitting any personal information. However, some activities like creating or participating in a campaign, etc. may require registration. 
+Website implements standard measures to protect against unauthorized access to and unlawful interception of Personal Information. However, no internet site can fully eliminate security risks.
 
-If you do not intend to provide us with such Personally Identifiable Information, no substantial consequences will occur, but you may not be able to take part in certain promotions/campaigns, or obtain product/service information, offered by "Tangerine". 
+Website reserves the right to modify all or some of this Privacy Policy at any time without notice. An updated policy will be uploaded on the website upon any change or amendment. Tangerine will use information only in accordance with the Privacy Policy under which the information was collected unless we have received explicit authorization from the appropriate user(s) to do otherwise.
 
-#### Use and Sharing of Information
+* * *
 
-Any personally identifiable information that you provide to "Tangerine" via this website will be used only for such purposes and/or activities as are mentioned at the point of gathering such information, or otherwise stated, for instance to respond to your queries or comments, to register your user account, to receive any payment, or to otherwise provide any information to you. 
-
-In addition to the conditions described above, if the need arises, "Tangerine" may disclose information by law, court order, or if commanded by other government or law enforcement authority, or in the good faith belief that such information disclosure or dissemination is otherwise indispensable to protect the rights or properties of "Tangerine", or when anyone else could be harmed or affected by such activities. 
-
-#### Data Security Precautions
-
-This website has stringent security measures in place to prevent the unauthorized access, loss, misuse, or alteration of your personal information. We have appropriate and strict physical, electronic, and managerial procedures to protect and secure all the information that we collect online. In addition, any information that we may collect or disseminate is passed through a secure server. 
-
-#### Contact Us
+### Contact Us
 
 If you have any queries about our privacy pledge, or want to know more about the above stated terms and conditions, then please contact us at:
 
+Phone No: +91-9540611729  
 Email: [reachus@blogmint.com](mailto:reachus@blogmint.com)
 
-**Call: +91-9650203290**  
 **DLF IT Park, Tower C, 1st Floor  
 Plot No. 44 & 45, Sector 62  
 Noida-201309, Uttar Pradesh INDIA. **
-
-Trusted by
