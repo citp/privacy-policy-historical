@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanwinstonschool.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707080056id_/https%3A//www.stanwinstonschool.com/customer-care/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanwinstonschool.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323222434id_/https%3A//www.stanwinstonschool.com/customer-care/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stan Winston School of Character Arts
 
