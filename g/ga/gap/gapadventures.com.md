@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130072330id_/http%3A//www.gadventures.com/terms-conditions-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323103325id_/https%3A//www.gadventures.com/terms-conditions-policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Terms and Conditions - G Adventures
+# Privacy Policy - G Adventures - G Adventures
 
 G Adventures and its related parties are committed to protecting your Personal Information that you share with us. We want you to understand our Privacy Policy and what it means to you, our customer. Please take a moment to review this Privacy Policy. By using our website or the services offered by us, you are consenting to our use of such personal information as you provide to us as described herein. If you do not consent to our use of your information, please do not use our services. Any questions you have about our Privacy Policy, or the information contained herein can be directed to our Privacy Officer at: [privacyofficer@gadventures.com](mailto:privacyofficer@gadventures.com).
 
