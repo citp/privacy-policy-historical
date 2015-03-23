@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybigcommerce.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230051126id_/https%3A//www.bigcommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybigcommerce.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323135934id_/https%3A//www.bigcommerce.com/privacy) for the most accurate reproduction.*
 
 # Bigcommerce - Privacy Policy
 
