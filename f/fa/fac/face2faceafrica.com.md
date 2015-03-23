@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the face2faceafrica.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208115859id_/https%3A//face2faceafrica.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the face2faceafrica.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323191906id_/https%3A//face2faceafrica.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Face2FaceAfrica
 
