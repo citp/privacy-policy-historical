@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intimateweddings.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714100857id_/http%3A//www.intimateweddings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intimateweddings.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323040232id_/http%3A//www.intimateweddings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Intimate Weddings - Small Wedding Blog - DIY Wedding Ideas for Small and Intimate Weddings - Real Small Weddings
 
@@ -22,6 +22,6 @@ We allow these and other third party companies to serve ads and/or collect certa
 
 We reserve the right to make changes to our privacy policy and will post changes on our website.
 
-\- Christina Friedrichsen
+– Christina Friedrichsen
 
 _Updated Feb 25, 2013._
