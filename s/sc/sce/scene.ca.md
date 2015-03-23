@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the scene.ca privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927171343id_/https%3A//www.scene.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scene.ca privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323080551id_/https%3A//www.scene.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SCENE - Privacy Policy
-
-### Privacy Policy
 
 #### We protect your privacy
 
@@ -104,8 +102,3 @@ This Policy may be amended from time to time to ensure the protection of your pe
 #### How to reach us
 
 If you have a general question or you have a concern regarding this Policy or would like to access or update your personal or account information, please contact us by calling toll-free at 1 866-586-2805 or by email at [help@scene.ca](mailto:help@scene.ca). Please indicate clearly the information that you wish us to review or have changed. We will endeavour to reply to your request as soon as reasonably possible. If you have a sensory disability, please let us know and we will work to accommodate your needs. 
-
-_SCENE is a registered trademark of SCENE IP LP._  
-_Cineplex_ is a registered trademark and _Escape with Us_ TM is a trademark of Cineplex Entertainment LP, used under license.  
-_Scotiabank_ and _ScotiaCard_ are registered trademarks of The Bank of Nova Scotia, used under license.  
-* Visa Int./Lic. user The Bank of Nova Scotia. 
