@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5apps.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502225736id_/https%3A//5apps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5apps.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323174729id_/https%3A//5apps.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 5apps
 
