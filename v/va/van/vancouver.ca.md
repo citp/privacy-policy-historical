@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007081839id_/http%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323194405id_/http%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | City of Vancouver
 
@@ -54,6 +54,14 @@ This includes when you:
 In these instances, we only keep your information so we can follow up with you, if necessary.
 
 We keep your information completely confidential. We will not rent, share, or trade it with anyone else. We will not use it to send you information that you did not specifically request.
+
+## Email newsletters
+
+We comply with Canada's anti-spam law when you to subscribe to our email newsletters.
+
+When you subscribe, you authorize us to collect information about yourself solely to send you an email newsletter from time to time. You can unsubscribe at any time by clicking the unsubscribe link at the bottom of the email newsletter.
+
+You can contact us about this policy at [info@vancouver.ca](mailto:info@vancouver.ca) or City of Vancouver, 453 West 12th Avenue, Vancouver, BC, V5Y 1V4.
 
 ## Online transactions
 
