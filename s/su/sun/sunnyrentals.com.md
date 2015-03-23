@@ -1,26 +1,20 @@
-> *The following text is extracted and transformed from the sunnyrentals.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006132001id_/http%3A//www.sunnyrentals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyrentals.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323102248id_/http%3A//www.sunnyrentals.com/terms/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-## Contact information
+  * [Privacy Statement](https://web.archive.org/en/terms/privacy-statement)
+  * [General Terms of Use](https://web.archive.org/en/terms/general-terms-of-use)
+  * [Advertiser Terms](https://web.archive.org/en/terms/advertiser-terms)
+  * [Rate Card](https://web.archive.org/en/terms/rate-card)
+  * [Partner Terms](https://web.archive.org/en/terms/partner-terms)
 
-If you have any questions or suggestions regarding our Privacy Statement, please contact us by email, by filling out our [**contact form**](https://web.archive.org/contact-us).
 
-Postal Address: 
-
-SunnyRentals.com Aps  
-Danish company nr. 32552897  
-Peder Skrams Gade 17, 4.  
-1054 Copenhagen K  
-Denmark
-
-## Privacy Statement
 
 We understand that conducting business and making purchases online involves a great deal of trust on your part and we take this trust very seriously.
 
-This Privacy Statement describes the ways in which we will use the data you provide through the SunnyRentals.com website ("our website"), which is owned and operated by SunnyRentals.com Aps ("we" or "us").
+This Privacy Statement describes the ways in which we will use the data you provide through the SunnyRentals.com website ("our website"), which is owned and operated by SunnyRentals.com Aps ("we" or "us"). Please note that this Privacy Statement is an integral part of our website and the services offered to you and cannot, in any way, be separated from the [General Terms of Use](http://www.sunnyrentals.com/terms/general-terms-of-use) or from the membership, usage or transaction process.
 
-Please note that this Privacy Statement is an integral part of our website and the services offered to you and cannot, in any way, be separated from the **Terms of Use** or from the membership, usage or transaction process. By providing information through this site and/or by establishing a Member or Property Owner account with us, you indicate your acceptance of the practices described in this Privacy Statement.
+By providing information through this site and/or by establishing a Member or Property Owner account with us, you indicate your acceptance of the practices described in this Privacy Statement.
 
 This Privacy Statement addresses:
 
@@ -32,7 +26,7 @@ This Privacy Statement addresses:
   * How you can correct any inaccurancies in your personally identifiable information
   * How we notify you of material changes to this Privacy Statement
   * When the Privacy Statement became effective
-  * If you have questions or concerns regarding this statement, you should contact SunnyRentals.com customer service by email using the [**Contact Us**](https://web.archive.org/contact-us) form
+  * If you have questions or concerns regarding this statement, you should contact SunnyRentals.com customer service by email using the [Contact Us](http://support.sunnyrentals.com/customer/portal/emails/new) form
 
 
 
@@ -46,11 +40,11 @@ In addition to the information noted above, you can choose to provide us with tr
 
 ## Property Owner sign-up
 
-SunnyRentals.com enables property owners, managers and agents to register an account with us to become a Property Owner. When you choose to become a SunnyRentals.com Property Owner, we will require you to provide certain information and request that you provide other information at your discretion. If you do not provide us with the required information, you will not be entitled to have an account with us and be a SunnyRentals.com Property Owner. The information we may require or request includes at least your name, company name, email address, telephone number, postal address, a unique log-in name, password, and password validation. This information is collected on the registration form and the _Account & Settings_ section for several reasons including: (1) personal identification; (2) to identify you as the owner (or manager) of any of the property listings you may create and market towards the users visiting SunnyRentals.com; (3) to publicly publish your contact details on you property listings to enable potential guests to contact you; (4) to allow us to contact you for customer service, if necessary; (5) to customize the content of our website to meet your specific needs; and (6) to conduct research and to make product improvements to the services we offer on our website. In addition, your email address is collected to send you an email message confirming your account registration and to send you alerts regarding important events in your account according to your contact preferences. To help us understand the effectiveness of our email communications, we may deploy technologies that provide confirmation when you open one of our e-mail messages. As a Property Owner, you also will occasionally receive updates from us about special offers, new SunnyRentals.com services, and other noteworthy news items. You may decline to receive these email messages. Please see the section entitled "Choice/opt out," described below.
+SunnyRentals.com enables property owners, managers and agents to register an account with us to become a Property Owner. When you choose to become a SunnyRentals.com Property Owner, we will require you to provide certain information and request that you provide other information at your discretion. If you do not provide us with the required information, you will not be entitled to have an account with us and be a SunnyRentals.com Property Owner. The information we may require or request includes at least your name, company name, email address, telephone number, postal address, a unique log-in name, password, and password validation. This information is collected on the registration form and the Account & Settings section for several reasons including: (1) personal identification; (2) to identify you as the owner (or manager) of any of the property listings you may create and market towards the users visiting SunnyRentals.com; (3) to publicly publish your contact details on you property listings to enable potential guests to contact you; (4) to allow us to contact you for customer service, if necessary; (5) to customize the content of our website to meet your specific needs; and (6) to conduct research and to make product improvements to the services we offer on our website. In addition, your email address is collected to send you an email message confirming your account registration and to send you alerts regarding important events in your account according to your contact preferences. To help us understand the effectiveness of our email communications, we may deploy technologies that provide confirmation when you open one of our e-mail messages. As a Property Owner, you also will occasionally receive updates from us about special offers, new SunnyRentals.com services, and other noteworthy news items. You may decline to receive these email messages. Please see the section entitled "Choice/opt out," described below.
 
 ## Payments for subscriptions and services
 
-Property Owners may choose to pay for Premium subscriptions and other services to more effectively market their property listing. During the purchasing and payment process, we ask you to provide billing and payment information required for the purchase, including billing name, address, company name, VAT number, and your credit card number and expiry date. Your billing details may be viewed and edited in the _Account & Settings_ section.
+Property Owners may choose to pay for Premium subscriptions and other services to more effectively market their property listing. During the purchasing and payment process, we ask you to provide billing and payment information required for the purchase, including billing name, address, company name, VAT number, and your credit card number and expiry date. Your billing details may be viewed and edited in the Account & Settings section.
 
 ## Booking enquiries
 
@@ -74,7 +68,7 @@ Cookies are small pieces of information stored on your computer tied to informat
 
 We use cookies for several reasons. For example, cookies allow you to login without having to type your login name each time, allowing you to simply provide your password to access the system. Cookies also enable us to track and target the interests of our users to enhance the experience on our website. Most web browsers automatically accept cookies, but if you prefer, you can set your browser options to block them in the future. If you choose to reject cookies, you may still use our website; however, your access to some areas and features of our website will be limited.
 
-A cookie file also may be placed on your hard drive by third-party advertising companies that we contract. These companies may use aggregated statistics about your visits to this and other websites in order to provide advertisements about travel-related goods and services that you may be interested in. SunnyRentals.com does not have access to or control over these cookies that may be placed by third-party advertisers. Those advertising networks that use persistent cookies may offer you a way to opt out of advertisement targeting. If you would like to find out more information, click [here](http://www.networkadvertising.org/).
+A cookie file also may be placed on your hard drive by third-party advertising companies that we contract. These companies may use aggregated statistics about your visits to this and other websites in order to provide advertisements about travel-related goods and services that you may be interested in. SunnyRentals.com does not have access to or control over these cookies that may be placed by tmail, by filling out ours. Those advertising networks that use persistent cookies may offer you a way to opt out of advertisement targeting. If you would like to find out more information, click [here](http://www.networkadvertising.org/).
 
 The third-party advertising companies may also employ technology that is used to measure the effectiveness of advertisements. This can be accomplished by them using a web beacon (a single-pixel GIF), which is placed on our website to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. The information collected through this process is anonymous and does not link online actions to an identifiable person. If you would like more information and want to explore the option of not having this information collected by third-party advertisers, click [here](http://www.networkadvertising.org/).
 
@@ -108,9 +102,7 @@ We communicate with you on a regular basis to provide requested services. This m
 
 ## Choice/opt-out
 
-We provide you with the opportunity to opt-out of having your information used by SunnyRentals.com to send promotional communications and various alerts. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving these communications following "unsubscribe" instructions given in the emails you receive, editing the _Alerts & Newsletters_ settings in your profile, or by contacting our customer services.
-
-## Information Sharing
+We provide you with the opportunity to opt-out of having your information used by SunnyRentals.com to send promotional communications and various alerts. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving these communications following "unsubscribe" instructions given in the emails you receive, editing the Alerts & Newsletterssettings in your profile, or by contacting our customer services.
 
 ## Legal disclaimer
 
@@ -150,12 +142,23 @@ Please be aware that our website contains links that lead to other sites. These 
 
 ## Information security
 
-We take steps to help protect the personally identifiable information you provide to us. For example, we use leading encryption technology to encrypt credit card numbers. We also restrict access to personally identifiable information to those employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative). In addition, the servers that store personally identifiable information are contained in a locked facility. If you have any questions about the security of your information, please send an email to Customer Care .
+We take steps to help protect the personally identifiable information you provide to us. For example, we use leading encryption technology to encrypt credit card numbers. We also restrict access to personally identifiable information to those employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative). In addition, the servers that store personally identifiable information are contained in a locked facility. If you have any questions about the security of your information, please send an email to Customer Care.
 
 ## Accessing personally identifiable information
 
-You can request access to, and update, the personally identifiable information we have collected about you. In order to exercise this right, you can e-mail our Customer Support at Customer Care or contact us by post at the contact information listed below. You can also can change your personally identifiable information on the _Account & Settings_ page of our website.
+You can request access to, and update, the personally identifiable information we have collected about you. In order to exercise this right, you can e-mail our Customer Support at Customer Care or contact us by post at the contact information listed below. You can also can change your personally identifiable information on the Account & Settings page of our website.
 
 ## Privacy Statement changes
 
 If we change our privacy practices, we will modify this Privacy Statement, and its effective date, accordingly so that you will always know what information we gather, how we might use it, and to whom we may disclose it. We also will notify you of any material change to this Privacy Statement by placing a prominent notice on our website. We encourage you to periodically review this Statement to be informed of how we are protecting your information.
+
+## Contact information
+
+If you have any questions or suggestions regarding our Privacy Statement, please contact us by email, by filling out our [contact form](http://support.sunnyrentals.com/customer/portal/emails/new).
+
+Postal Address:  
+SunnyRentals.com Aps  
+Danish company nr. 32552897  
+Frederiksborggade 5A 1. sal.  
+1360 Copenhagen K  
+Denmark
