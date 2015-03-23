@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainstormforce.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706232541id_/https%3A//www.brainstormforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainstormforce.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323054436id_/https%3A//www.brainstormforce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brainstorm Force
 
