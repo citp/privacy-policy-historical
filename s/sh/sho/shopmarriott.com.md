@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopmarriott.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815094240id_/http%3A//www.shopmarriott.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmarriott.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324053951id_/https%3A//www.shopmarriott.com/privacy.aspx) for the most accurate reproduction.*
 
-# Buy Luxury Hotel Bedding from Marriott Hotels - Privacy Policy
+# Buy Luxury Hotel Bedding from Marriott Hotels - Privacy Statement
 
 This Web site is operated on behalf of Marriott by a third party; Hotels at Home, Inc. Marriott has a strong commitment to providing excellent service to all of our customers and visitors of this Web site, including respecting your concerns about privacy. We understand that you may have questions about how this Web site collects and uses the information that you provide to us. We have prepared this statement to inform you of the privacy principles that govern this Web site.
 
@@ -24,10 +24,6 @@ This Web site does not collect personally identifiable information when you brow
 
 When we need to collect personally identifiable information from you to provide you with a particular service, we will ask you to voluntarily supply us with the information we need. We will also use your email address to 1)send you an email order confirmation and 2) notify you about special offers and promotions as described in the email section of this privacy statement. You can opt out of emails at any time.
 
-### Creating a Personal Account
-
-At your choice, you may create a personal account which will allow you to log on and view your order history and track any recent orders. The security of this information is addressed in security section below.
-
 ### Securing the Transmission and Storage of Information
 
 We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and policies regarding protection and use of confidential information. When we ask you for credit card data, it is transferred over a Secured Sockets Layer (SSL) line, provided you are using a SSL enabled browser such as Microsoft Internet Explorer or Netscape Navigator. We also use SSL on other select pages where you would enter personally identifiable information. This ensures that your information is encrypted as it travels over the Internet. This secure mode is enabled before any such information is transmitted from your computer. You will know you are in secure mode when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position. In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https."
@@ -45,7 +41,7 @@ You must set your browser to accept Cookies in order to use Marriott store.
 
 ### Emails about Special Offers and Promotions and Opt-Out
 
-It is our intention to only send you email communications that will be useful to you and that you want to receive. When you create a personal account and provide your email address, we will periodically contact you via email and provide information about special offers and promotions that may be of interest to you. These communications will relate to Marriott offers which may also include the promotions of select, reputable third parties with whom Marriott has a strategic marketing relationship because they offer products or services that we believe would be of interest to you. We typically use a third-party email service providers to send emails. These service providers are prohibited from using your email address for any purpose other than to send Marriott-related email. 
+It is our intention to only send you email communications that will be useful to you and that you want to receive. When you provide your email address we will periodically contact you via email and provide information about special offers and promotions that may be of interest to you. These communications will relate to Marriott offers which may also include the promotions of select, reputable third parties with whom Marriott has a strategic marketing relationship because they offer products or services that we believe would be of interest to you. We typically use a third-party email service providers to send emails. These service providers are prohibited from using your email address for any purpose other than to send Marriott-related email.
 
 We provide you the ability to define and modify your mailing preferences online at anytime including unsubscribing from all marketing communications. In addition, every time you receive an email, you will be provided the choice to opt-out of future emails by following the instructions provided in the email.
 
@@ -65,4 +61,4 @@ Bethesda, MD 20817.
 
 ### ShopMarriott.com Changes to Your Privacy Rights
 
-In the future, we may need to change this privacy statement. All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. This statement was last updated on September 16, 2005.
+In the future, we may need to change this privacy statement. All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. This statement was last updated on September 24, 2014.
