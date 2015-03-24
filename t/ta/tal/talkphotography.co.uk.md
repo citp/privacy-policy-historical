@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkphotography.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701201808id_/http%3A//www.talkphotography.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkphotography.co.uk privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324192409id_/https%3A//www.talkphotography.co.uk/help/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Talk Photography
 
@@ -6,7 +6,7 @@
 
 ### About Talk Photography
 
-Talk Photography is owned and maintained by [Slack Media Ltd](http://www.slackmedia.co.uk/).
+Talk Photography is owned and maintained by [Slack Media Ltd](https://www.slackmedia.co.uk/).
 
 ### Our commitment
 
@@ -77,6 +77,6 @@ This is at absolutely no extra cost or inconvenience to you, and is almost compl
 ### Google Adsense and the DoubleClick DART Cookie
 
 As an advertisement provider, Google uses cookies to serve adverts on this site. The use of DART cookies by Google enables them to serve relevant adverts to you based on your previous visits to this and other websites.   
-You may opt out of the DART cookies by visiting the Google Privacy Center at the following url <http://www.google.com/privacy_ads.html>. Tracking of users through the DART cookies are subject to Google's own privacy policies.
+You may opt out of the DART cookies by visiting the Google Privacy Center at the following url [www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html). Tracking of users through the DART cookies are subject to Google's own privacy policies.
 
-[ ](http://www.talkphotography.co.uk/)
+[ ](https://www.talkphotography.co.uk/)
