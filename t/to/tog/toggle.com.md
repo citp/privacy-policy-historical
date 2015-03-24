@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toggle.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706230848id_/https%3A//www.toggle.com/lv/privacy_policy/view.htm%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toggle.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324062103id_/https%3A//www.toggle.com/lv/privacy_policy/view.htm%3Flang%3Den) for the most accurate reproduction.*
 
 # Toggle - privacy policy
 
