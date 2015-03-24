@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bignerdranch.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220210601id_/http%3A//www.bignerdranch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bignerdranch.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324130947id_/http%3A//www.bignerdranch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Big Nerd Ranch
 
@@ -40,4 +40,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-If you feel that we are not abiding by this privacy policy, you should contact Big Nerd Ranch immediately via telephone at 770.817.6373 or [admin@bignerdranch.com.](mailto:admin@bignerdranch.com)
+If you feel that we are not abiding by this privacy policy, you should contact Big Nerd Ranch immediately via telephone at 770.817.6373 or [info@bignerdranch.com.](mailto:info@bignerdranch.com)
