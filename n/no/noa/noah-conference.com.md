@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813092225id_/https%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324142308id_/https%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Terms and Conditions - NOAH Conference
+# Privacy Policy | Noah Conference
 
 The NOAH Conference Website (hereinafter referred to as the **“NOAH”** ) is operated by NOAH Advisors Limited, a company organized under the laws of Cyprus, with office at Louki Akrita, 1; Akritas Court, 2nd Floor, Office 202 Agia Zoni, 3030, Limassol, Cyprus (hereinafter referred to as **“NOAH”** ). Additional information about NOAH, such as contact details, as well as the name of the authorized representatives can be found under the **“Contact”** button displayed in the navigation bar of the NOAH Conference Website.
 
@@ -49,7 +49,8 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 #### NOAH Conference Event Refund/Cancellation Policy
 
   * Unless specifically stated on registration materials, the deadline to receive a refund for your registration is one month after the date of purchase and up to 4 weeks pre event.
-  * A cancellation fee of 15% of the initial ticket price is applied to all cancellations..
+  * A cancellation fee of 15% of the initial ticket price is applied to all cancellations.
+  * In the case of a partial refund request following a bundle purchase, an additional fee will be applied amounting to the initial discount
   * Cancellations received after the stated deadline will not be eligible for a refund.
   * Refunds will not be available for registrants who choose not to attend an event.
   * Cancellations will be accepted via e-mail or fax and must be received by the stated cancellation deadline.
@@ -72,4 +73,4 @@ Once a successful purchase transaction has been completed, the ticket is deliver
 
 The courts of the UK will have exclusive jurisdiction to adjudicate any dispute arising under or in connection with these Terms & Conditions.
 
-Date: April, 2014
+Date: January, 2015
