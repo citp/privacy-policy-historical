@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slated.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105221844id_/https%3A//www.slated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slated.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324182735id_/https%3A//www.slated.com/privacy) for the most accurate reproduction.*
 
 # Slated › Privacy Policy
 
