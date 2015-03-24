@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mamamia.com.au privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008233022id_/http%3A//www.mamamia.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamamia.com.au privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324035403id_/http%3A//www.mamamia.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Mamamia
+# Privacy Policy - Mamamia
 
 **Privacy**
 
