@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the share4you.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925025642id_/http%3A//www.forex4you.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the share4you.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324022650id_/https%3A//www.share4you.com/en/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Forex4you
+# Share4you
 
 #### OVERVIEW
 
-E-Global Trade & Finance Group, Inc. (hereinafter - “Forex4you”, "we", “our” or "us") notifies you that your privacy is important to us. Maintaining the confidentiality of your personal data is a core principle of our entire business operations.
+E-Global Trade & Finance Group, Inc. (hereinafter - "Forex4you", "we", "our" or "us") notifies you that your privacy is important to us. Maintaining the confidentiality of your personal data is a core principle of our entire business operations.
 
 During the rendering of services, we gather, collect and possess certain private information/personal data of yours. This is why we would like to inform you about the following privacy policy that is applicable to you while receiving or applying for any of our services.
 
@@ -19,11 +19,15 @@ While receiving or using any of our products/services, the following data about 
 
 
 
-Your personal data is archived and secured in accordance with the legislation on the protection of personal data and its processing of the jurisdiction where Forex4you’s principal place of business is located.
+Your personal data is archived and secured in accordance with the legislation on the protection of personal data and its processing of the jurisdiction where Forex4you's principal place of business is located.
 
 #### COOKIES
 
 Forex4you websites contain cookies that ensure wider usage possibilities for the websites. Cookies can be rejected using the technological features of your browser; however, this is not advisable, as doing so will interfere with your use of Forex4you websites.
+
+#### DOUBLECLICK
+
+DoubleClick: We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 #### USE OF INFORMATION
 
@@ -43,7 +47,7 @@ Notwithstanding, we may disclose your personal data to third parties which have 
 
 You have the right to request us to reveal the personal data we hold about you. In this case we may charge a reasonable fee. You also hold the right to know what kind of personal data about you is in our possession, the right to change any inaccuracies or discrepancies of the data, the right to know about the use of your data and the right to block the use of it if your privacy is violated.
 
-You may exercise these rights by submitting a written request to E-Global Trade & Finance Group, Inc., Forex4you, 12-16 Clerkenwell Road, London, EC1M 5PQ, UK or via e-mail - [info@forex4you.com](mailto:info@forex4you.com).
+You may exercise these rights by submitting a written request to E-Global Trade & Finance Group, Inc., Forex4you via e-mail - [info@forex4you.com](mailto:info@forex4you.com).
 
 #### HOW TO CORRECT YOUR INFORMATION
 
