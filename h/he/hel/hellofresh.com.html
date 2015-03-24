@@ -1,58 +1,57 @@
-<!--The following is the downloaded HTML source of the hellofresh.com privacy policy that was archived on 2014-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141009020014id_/http%3A//www.hellofresh.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hellofresh.com privacy policy that was archived on 2015-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150324153100id_/https%3A//www.hellofresh.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xml:lang="en" lang="en"><!--<![endif]--><head>
-                <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-DBTX"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIDWVdWGwUFXFBVBA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-        <!-- METAS -->
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-        <meta name="description" content="HelloFresh respects your privacy - read our privacy policy. HelloFresh is your trusted online food supermarket, which takes your privacy seriously.">
-        <meta name="keywords" content="hellofresh, privacy policy">
-        <meta name="robots" content="index,follow">
+        <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-DBTX"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIDWVdWGwUFXFBVBA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+    <!-- METAS -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="HelloFresh respects your privacy - read our privacy policy. HelloFresh is your trusted online food supermarket, which takes your privacy seriously.">
+    <meta name="keywords" content="hellofresh, privacy policy">
+    <meta name="robots" content="index,follow">
+    <meta name="theme-color" content="#91C11E">
 
+    
         
-                
 
 
-                <!-- LINK -->
+    
+    <!-- LINK -->
 
-        
-<link rel="icon" href="http://static.hellofresh.com/images/intfood/icons/favicon.ico" type="image/x-icon">
-        
-<link rel="shortcut icon" href="http://static.hellofresh.com/images/intfood/icons/favicon.ico" type="image/x-icon">
-        
+    
+<link rel="icon" href="/images/intfood/icons/favicon.ico" type="image/x-icon">
+    
+<link rel="shortcut icon" href="/images/intfood/icons/favicon.ico" type="image/x-icon">
+    
 <link href="/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed">
 
+    
+    <script src="//use.typekit.net/qal0ekn.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
+            <!-- live:css -->
         
-        <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-        <script src="//code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
-        <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="//d2ul78v7wsrn43.cloudfront.net/css/live/sushi/sushi.1427121197832.css">
+        <!-- endinject -->
+    
 
+            <!-- live:js -->
+        <script src="//d2ul78v7wsrn43.cloudfront.net/js/live/libs/libs.1419343569194.js"></script>
+        <script src="//d2ul78v7wsrn43.cloudfront.net/js/live/app/alice.1427121197832.js"></script>
+        <!-- endinject -->
+    
+    <script type="text/javascript">
+        var country = "USA";
+        var countryCode = "US";
+        var __language = "en";
+        var __token = "486a8e8d3e4c619f58e96f73898908cd74ebf713";
+        var __twittername = "hellofresh";
+        var dateFormat = "mm/dd/yy";
+    </script>
 
-                    <!-- LIVE -->
-            <script src="http://static.hellofresh.com/js/live/alice-en_US-1412695595.js" type="text/javascript"></script>
-
-        
-
-        
-        <title>Privacy | HelloFresh</title>
-        
-<link rel="stylesheet" href="/css/intfood/responsive/main.css?ts=1412695577">
-        
-<link rel="stylesheet" href="/css/en_US/press_sprite_US.css">
-
-
-        <script type="text/javascript">
-            var country = "USA";
-            var countryCode = "US";
-            var __language = "en";
-            var __token = "f854fffe243690f4139b30d2162b7e4e341cd579";
-            var __twittername = "hellofresh";
-            var dateFormat = "mm/dd/yy";
-        </script>
-
-        
+    
+    
         <!-- Start Visual Website Optimizer Synchronous Code -->
         <script type="text/javascript">
         var _vis_opt_account_id = 40298;
@@ -60,7 +59,7 @@
         document.write('<s' + 'cript src="' + _vis_opt_protocol +
         'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
         +encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
-        </script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=40298&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141009020014id_%2Fhttp%253A%2F%2Fwww.hellofresh.com%2Fprivacy&amp;random=0.3751136193978566" type="text/javascript"></script>
+        </script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=40298&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150324153100id_%2Fhttps%3A%2F%2Fwww.hellofresh.com%2Fprivacy%2F&amp;random=0.36120298826706" type="text/javascript"></script>
 
         <script type="text/javascript">
         if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol +
@@ -70,22 +69,26 @@
 
         <script type="text/javascript">
         if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function") {
-                _vis_opt_top_initialize(); vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); });
+            _vis_opt_top_initialize(); vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); });
         }
         </script>
         <!-- End Visual Website Optimizer Synchronous Code -->
+    
 
-        
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-          <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-        <![endif]-->
+    <script type="text/javascript" src="/assets/e6146d76/jquery.yiiactiveform.js?r=1413794411"></script>
+<title>Privacy | HelloFresh</title>
 
-    </head>
-    <body class=" thm-intfood thm-en_US ">
-        <!-- Google Tag Manager -->
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body class=" thm-intfood thm-intfood-customer thm-sushi thm-en_US ">
+<!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-DBTX"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -94,58 +97,80 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-DBTX');</script>
 <!-- End Google Tag Manager -->
-        <script>var dataLayer = dataLayer || []; </script>
-        <div id="fb-root"></div>
-        <script>
-          window.fbAsyncInit = function() {
-            // init the FB JS SDK
-            FB.init({
-              appId      : '428228257189852',  // App ID from the app dashboard
-              status     : false,                                 // Check Facebook Login status
-              xfbml      : true,                                  // Look for social plugins on the page
-              version    : 'v2.0'
-            });
+<script>var dataLayer = dataLayer || []; </script>
 
-            // Additional initialization code such as adding Event Listeners goes here
-          };
+<!-- Facebook Initalise -->
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        // init the FB JS SDK
+        FB.init({
+            appId      : '428228257189852',  // App ID from the app dashboard
+            status     : false,                                    // Check Facebook Login status
+            xfbml      : true,                                    // Look for social plugins on the page
+            version    : 'v2.2'
+        });
+        //Event trigger for other FB events
+        $(document).trigger("fbInit");
+    };
 
-          // Load the SDK asynchronously
-          (function(d, s, id){
-             var js, fjs = d.getElementsByTagName(s)[0];
-             if (d.getElementById(id)) {return;}
-             js = d.createElement(s); js.id = id;
-             js.src = "//connect.facebook.net/en_US/sdk.js";
-             fjs.parentNode.insertBefore(js, fjs);
-           }(document, 'script', 'facebook-jssdk'));
-        </script>
+    // Load the SDK asynchronously
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script><script>
+    window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+     
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+     
+      return t;
+    }(document, "script", "twitter-wjs"));
+</script>
 
-        
-        <div class="wrapper" id="page">
+<div class="wrapper" id="page">
 
-<!-- <div id="page" class="l-page"> -->
 
-    <form id="leadsNewsletterForm" action="http://www.hellofresh.com/newsletter/signupajax/?ajax=true&amp;type=index" method="post">
-<div style="display:none"><input type="hidden" value="f854fffe243690f4139b30d2162b7e4e341cd579" name="YII_CSRF_TOKEN"></div>         
+
+<div class="message-box info">
+            <button type="button" class="close alert-dismiss" data-alert-id="7" data-dismiss="alert" aria-hidden="true">×</button>
+    
+    <style="font-size:1.4em“>Share Your #HelloFreshPics and Enter to Win a MONTH of HelloFresh.  <a href="https://www.hellofresh.com/hellofreshpics/">Check Out The Gallery &amp; Enter Now!</a></style="font-size:1.4em“></div>
+    <form id="leadsNewsletterForm" action="https://www.hellofresh.com/newsletter/signupajax/?ajax=true&amp;type=index" method="post">
+<div style="display:none"><input type="hidden" value="486a8e8d3e4c619f58e96f73898908cd74ebf713" name="YII_CSRF_TOKEN"></div>         
                                
-        <div id="email-bar" class="email-bar">
+        <div id="email-bar" class="email-bar ">
             <div class="container">
 
                 <button type="button" class="close lead-close js-lead-close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
 
                 <div class="row">
                     <div class="col-md-6">
-                        <p class="email-bar-text">
-                            Subscribe to our newsletter for the latest recipes, tips, and special deals from the HelloFresh kitchen!                        </p>
+                        <p class="email-bar-text mvm">
+                            Subscribe to our newsletter for the latest recipes &amp; tips from the<br> HelloFresh kitchen! Get started with $15 off your first delivery!                        </p>
                     </div>
-                    <div class="col-md-3 col-sm-6 mbm mts lead-form">
+                    <div class="col-md-3 col-sm-6 mvl lead-form">
                         <label for="leadsEmail" class="sr-only">HelloFresh Newsletter</label>
-                        <input type="email" class="input-sm form-control" id="leadsEmail" placeholder="Enter E-Mail Address">
+                        <input type="email" class="form-control" id="leadsEmail" placeholder="Enter E-Mail Address">
                     </div>
-                    <div class="col-md-3 col-sm-6 mbm mts lead-form">
-                        <button type="submit" id="leadsNewsletterFormSubmit" class="btn btn-block btn-success btn-hover "> <span class="glyphicon glyphicon-chevron-right"></span> Subscribe</button>
+                    <div class="col-md-3 col-sm-6 mvl lead-form">
+                        <button type="submit" id="leadsNewsletterFormSubmit" class="btn btn-sm btn-block btn-success"> Subscribe</button>
                     </div>
 
-                    <div class="col-md-6 lead-feedback" style="display: none;">
+                    <div class="col-md-6 lead-feedback mbm mtl text-center" style="display: none;">
 
                     </div>
                 </div>
@@ -155,14 +180,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         </form>
         <script type="text/javascript">
-        $(function(){
-
+        $(function() {
             dataLayer.push({'event' : 'formLeadGenBarShow'});
             $form = $('#leadsNewsletterForm');
-            $form.on('submit', function(){
+            $form.on('submit', function() {
                 $.ajax({
                     type: "POST",
-                    url: "http://www.hellofresh.com/newsletter/signupajax/?ajax=true&type=index",
+                    url: "https://www.hellofresh.com/newsletter/signupajax/?ajax=true&type=index",
                     data: {
                         'YII_CSRF_TOKEN': __token,
                         'email': $form.find('#leadsEmail').val().trim(),
@@ -175,7 +199,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     success: function(data) {
                         if ( data.validation == false ) {
                             $form.find(".lead-form").hide().siblings('.lead-feedback').html('<p class="mbm">'+data.error+'</p>').show();
-                            setTimeout(function(){
+                            setTimeout(function() {
                                 $form.find(".lead-feedback").hide().siblings('.lead-form').show();
                             }, 5000);
 
@@ -184,18 +208,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             $form.find(".lead-form").hide().siblings('.lead-feedback').html('<p class="mbm">'+'Congratulations! You&#039;ve successfully signed up.'+'</p>').show();
                             dataLayer.push({'event' : 'formLeadGenBarSubmit'});
                             createCookie('hfleadgen','1',365);
-                            setTimeout(function(){
+                            setTimeout(function() {
                                 $form.slideUp();
                             }, 5000);
                         }
                     },
-                    error: function(data){
+                    error: function(data) {
                         $form.find(".lead-form").hide().siblings('.lead-feedback').html('<p class="mbm">'+'There has been an issue adding you to our newsletter. Please try again'+'</p>').show();
-                        setTimeout(function(){
+                        setTimeout(function() {
                             $form.find(".lead-feedback").hide().siblings('.lead-form').show();
                         }, 5000);
                     },
-                    complete: function(){
+                    complete: function() {
                         $form.find('.btn-hover').children('.glyphicon').removeClass('glyphicon-refresh spin').addClass('glyphicon-chevron-right');
                     }
                 });
@@ -203,7 +227,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 return false;
             });
 
-            $form.on('click', '.js-lead-close', function(event){
+            $form.on('click', '.js-lead-close', function(event) {
                 createCookie('hfleadgen','1',365);
                 $form.slideUp();
             })
@@ -215,149 +239,186 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<header class="container" id="header">
-    <div class="row hidden-xs">
-        <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-2 top-usps">
+<header>
+    <section class="top-bar">
+        <div class="container">
             <div class="row">
-                <div class="col-xs-4 col-lg-4"><i class="iconhf-header-hat"></i><p>Cooking made <br>easy for everyone</p></div>
-                <div class="col-xs-4 col-lg-4"><i class="iconhf-header-plate"></i><p>Delicious recipes <br>every week</p></div>
-                <div class="col-xs-4 col-lg-4"><i class="iconhf-header-tomato"></i><p>Fresh and high <br>quality ingredients</p></div>
 
-                
+                <div class="col-sm-2 col-xs-3">
+                    <a href="/">
+    <span class="hellofresh-logo logo-header">
+        <span class="iconhf-hf-mask"></span>
+        <span class="iconhf-hf-shadow"></span>
+        <span class="iconhf-hf-backcircle"></span>
+        <span class="iconhf-hf-ribbon"></span>
+        <span class="iconhf-hf-leafdots"></span>
+        <span class="iconhf-hf-outline"></span>
+        <span class="iconhf-hf-letters"></span>
+    </span>
+</a>
+                </div>
+
+                <div class="col-md-6 col-sm-4 hidden-xs">
+                    <span class="hidden-sm hidden-xs">
+                        <span class="top-contact-icon iconhf-question-mark"></span>
+                        <a href="#" class="mhs js-faq-modal" data-toggle="modal" data-target="#faqModal">FAQ</a>
+                    </span>
+
+                    <span class="top-contact-icon iconhf-device-phone"></span>
+                                            <a class="mhs" href="/contact">Contact</a>
+                                    </div>
+
+
+                <div class="col-sm-6 col-md-4 col-xs-9 text-right">
+                    <span class="hidden-xs">
+                                                    <button class="btn btn-xs btn-success" data-toggle="modal" data-target="#loginModal"> <span class="mhs iconhf-user"></span> Login <b class="mhs caret"></b></button>
+                                            </span>
+
+                                            <a class="top-tel-link visible-xs-inline-block" href="/contact"><span class="top-contact-icon iconhf-device-phone"></span></a>
+                    
+
+                    <a href="/cart/index" class="iconhf-shopping-cart cart-count">
+                                            </a>
+
+                    <button type="button" class="navbar-toggle collapsed navbar-toggle-inverse prn visible-xs-inline-block" data-toggle="collapse" data-target="#navbar-collapse">
+                        <span class="navbar-label">Menu</span>
+                        <span class="navbar-icon">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </span>
+                    </button>
+                </div>
+
             </div>
         </div>
-
-
-        <div class="col-md-2 hidden-sm text-right menu-top">
-            <div class="pull-right">
-                                        <ul class="list-inline text-right">
-                    <li class=""><a title="FAQ" href="/faq">FAQ</a></li><li class=""><a title="Blog" target="_blank" href="http://blog.hellofresh.com">Blog</a></li>
-                        </ul>
-                                <p>
-                                            <a href="/contact">Contact</a>
-                                    </p>
-            </div>
-        </div>
-
-    </div>
+    </section>
 
     
+<section class="navigation-container">
+    <div class="container">
+        <div class="row">
 
+            <nav class="col-sm-offset-2 col-sm-10 navbar navbar-default navbar-main" role="navigation">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header hidden-xs">
+                    <button type="button" class="navbar-toggle collapsed prn" data-toggle="collapse" data-target="#navbar-collapse">
+                        <span class="navbar-label">Menu</span>
+                        <span class="navbar-icon">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </span>
+                    </button>
+                </div>
 
-<nav class="navbar navbar-default navbar-inverse hidden-xs" role="navigation">
-    <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#hellofresh-topmenu">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">
-            <span class="sr-only">HelloFresh</span>
-            <div class="hellofresh-logo hellofresh-logo-header hidden-xs">
-                <div class="iconhf-hf-mask"></div>
-                <div class="iconhf-hf-shadow"></div>
-                <div class="iconhf-hf-backcircle"></div>
-                <div class="iconhf-hf-ribbon"></div>
-                <div class="iconhf-hf-leafdots"></div>
-                <div class="iconhf-hf-outline"></div>
-                <div class="iconhf-hf-letters"></div>
-            </div>
-            <span class="navbar-brand-mobile visible-xs"><span class="iconhf-leaf"></span> HelloFresh </span>
-        </a>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <nav class="collapse navbar-collapse" id="navbar-collapse">
+                    <ul class="nav navbar-nav">
+
+                                                                                      <li><a class="" href="/boxes" title="Our Boxes">Our Boxes</a></li>
+                            
+                                                    
+                                <li class="dropdown">
+                                    <a class="" href="/howitworks" data-toggle="dropdown" title="HelloFresh delivers top recipes and ingredients to you free"> How It Works <b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                                                                                                                <li><a href="/howitworks" title="HelloFresh delivers top recipes and ingredients to you free">How It Works</a> </li>
+                                                                                                                                <li><a href="/aboutus_delivery_areas" title="Delivery Areas">Delivery Areas</a> </li>
+                                                                                                                                <li><a href="/managingsubscriptions" title="Managing Your Account">Managing Your Account</a> </li>
+                                                                                                                                <li><a href="/aboutus" title="Find Out More!">Why Choose HelloFresh?</a> </li>
+                                                                                                                                <li><a href="/our_suppliers" title="Find out more about our suppliers!">Our Suppliers</a> </li>
+                                                                            </ul>
+                                </li>
+                            
+                                                    
+                                <li class="dropdown">
+                                    <a class="" href="/recipe/all" data-toggle="dropdown" title="Our Recipes"> Our Recipes <b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                                                                                                                <li><a href="/recipe/week/upcoming" title="Upcoming">Upcoming</a> </li>
+                                                                                                                                <li><a href="/recipe/week/next" title="Coming Next Week">Next Week</a> </li>
+                                                                                                                                <li><a href="/recipe/week/current" title="This Week">This Week</a> </li>
+                                                                                                                                <li><a href="/recipe/week/previous" title="Last Week">Last Week</a> </li>
+                                                                                                                                <li><a href="/recipe/all" title="Recipe Archive">Archive</a> </li>
+                                                                                                                                <li><a href="/hellofreshpics" title="#HelloFreshPics">#HelloFreshPics</a> </li>
+                                                                            </ul>
+                                </li>
+                            
+                                                                                      <li><a class="" href="/gift" title="Giftcards">Giftcards</a></li>
+                            
+                                                <li class="visible-sm visible-xs">
+                            <a href="#" class="js-faq-modal" data-toggle="modal" data-target="#faqModal">FAQ</a>
+                        </li>
+                        <li class="visible-xs">
+                                                            <div class="mtl mbs">
+                                    <button class="btn btn-xs btn-success" data-toggle="modal" data-target="#loginModal"> <span class="mhs iconhf-user"></span> Login <b class="mhs caret"></b></button>
+                                </div>
+                                                    </li>
+                    </ul>
+                </nav>
+            </nav>
+        </div>
     </div>
+</section>
 
-    <div class="collapse navbar-collapse" id="hellofresh-topmenu">
-        <ul class="nav navbar-nav">
-                                                                            <li><a href="/boxes" title="Our Boxes">Our Boxes</a></li>
-                                                            
-                        <li class="dropdown">
-                            <a href="/howitworks" class="dropdown-toggle" data-toggle="dropdown" title="HelloFresh delivers top recipes and ingredients to you free"> How It Works <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                                                                                    <li><a href="/howitworks" title="HelloFresh delivers top recipes and ingredients to you free">How It Works</a> </li>
-                                                                                                    <li><a href="/aboutus_delivery_areas" title="Delivery Areas">Delivery Areas</a> </li>
-                                                                                                    <li><a href="/managingsubscriptions" title="Managing Your Account">Managing Your Account</a> </li>
-                                                                                                    <li><a href="/aboutus" title="Find Out More!">Why Choose HelloFresh?</a> </li>
-                                                                                                    <li><a href="/our_suppliers" title="Find out more about our suppliers!">Our Suppliers</a> </li>
-                                                            </ul>
-                        </li>
-                                                            
-                        <li class="dropdown">
-                            <a href="/recipe/all" class="dropdown-toggle" data-toggle="dropdown" title="Our Recipes"> Our Recipes <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                                                                                    <li><a href="/recipe/week/upcoming" title="Upcoming">Upcoming</a> </li>
-                                                                                                    <li><a href="/recipe/week/next" title="Coming Next Week">Next Week</a> </li>
-                                                                                                    <li><a href="/recipe/week/current" title="This Week">This Week</a> </li>
-                                                                                                    <li><a href="/recipe/week/previous" title="Last Week">Last Week</a> </li>
-                                                                                                    <li><a href="/recipe/all" title="Recipe Archive">Archive</a> </li>
-                                                            </ul>
-                        </li>
-                                                            
-                        <li class="dropdown">
-                            <a href="/community" class="dropdown-toggle" data-toggle="dropdown" title="Community"> Community <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                                                                                    <li><a href="/cookingschool" title="Cooking School">Cooking School</a> </li>
-                                                            </ul>
-                        </li>
-                                                            </ul>
-            <ul class="nav navbar-nav navbar-right">
-
-        
-
-        
-
-
-                    <li><a href="/customer/account/login">Login</a> </li>
-                </ul>
-        </div> </nav>
-
-<nav class="navbar navbar-default navbar-inverse visible-xs" role="navigation">
-    <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#hellofresh-topmenu-mobile">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">
-            <span class="navbar-brand-mobile visible-xs"><span class="iconhf-leaf"></span> HelloFresh </span>
-        </a>
-    </div>
-
-    <div class="collapse navbar-collapse" id="hellofresh-topmenu-mobile">
-        <ul class="nav navbar-nav">
-                                                                        <li><a href="/bags" title="Our Products">Our Products</a></li>
-                                                                                <li><a href="/#how-it-works-mobile" title="How It Works">How It Works</a></li>
-                                                        </ul>
-            <ul class="nav navbar-nav navbar-right">
-
-        
-
-        
-
-
-                    <li><a href="/customer/account/login">Login</a> </li>
-                </ul>
-        </div> </nav>
 
 </header>
 
-    <div id="content" class="container" role="main">
-                <div class="message-box success">
-            <button type="button" class="close alert-dismiss" data-alert-id="5" data-dismiss="alert" aria-hidden="true">×</button>
+<div id="content" role="main">
+
+
+
     
-    Enter HelloFresh’s “You’re Better Than Takeout” Campaign - helping the whole nation eat fresh and healthy! <a href="http://www.hellofresh.com/yourebetterthantakeout/">Click here to read more…</a></div>
-        
-<div class="cms-container">
-    
+        <div class="wide-banner" style="background-image:url('https://d2ul78v7wsrn43.cloudfront.net/cms/Sushi/Banner/HelloFresh_Account_FAQ_All.jpg');">
+
+    </div>
+
+<div id="floating-box" class="floating-box-container hidden-mobile">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8"> </div>
+            <div class="col-sm-4">
+                <aside class="floating-box">
+                                            <div class="row">
+    <div class="col-md-6">
+        <h2 class="floating-box-title">Try HelloFresh<br>now</h2>
+    </div>
+    <div class="col-md-6">
+        <img class="img-responsive center-block" src="//static.hellofresh.com/cms/Hello_Fresh_Box_Meat_v2.jpg">
+    </div>
+</div>
+<p class="float-box-text">
+    </p>
+<div class="benefits">
+    <ul> <li class="iconhf-sushi-check">Flexible  Subscription</li>    <li class="iconhf-sushi-hat">Delicious  Recipes</li>    <li class="iconhf-sushi-tomato">Farm-Fresh  Ingredients</li> </ul></div>
+
+<a href="/food-boxes/" class="btn btn-lg btn-block btn-primary">
+    View Our Boxes!</a>
+                    
+
+                </aside>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+(function () {
+    $('#floating-box').affix({
+         offset: {
+             top: 270,
+             bottom: function () {
+                 return ($('.footer-bg').outerHeight() + 30 );
+             }
+         }
+     });
+}) ();
+</script>
+<div class="cms-container container">
 
     <div class="row cms_content">
 
-
        <article class="col-md-8 cms-content">
                             <h1>Privacy</h1>
-            
-            <style>.static-page a{text-decoration:underline;} .personal_data{margin-left: 20px;}</style>
+                        <style>.static-page a{text-decoration:underline;} .personal_data{margin-left: 20px;}</style>
 <div class="static-page">
     <p class="strong mvm">Privacy</p>
 
@@ -542,84 +603,80 @@ Integrated on our webpages are functions of the social service Twitter. These fu
     Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to hello@hellofresh.com
 
 </div>
-
        </article>
-
-       <aside class="col-md-4">
-           <div class="cms_content_box">
-    <h2>Subscribe to HelloFresh now</h2>
-    <p class="mbl">Our boxes include delicious and nutritious recipes every week along with high quality ingredients with which to prepare them</p>
-    <div class="clearfix"><ul class="benefits"><li>Weekly Delivery</li><li>Skip Any Weeks You Don't Need</li><li>No Minimum Obligation</li></ul></div>    <a class="btn btn-lg btn-block btn-primary iconhf-arrow-right-big" href="http://www.hellofresh.com/food-boxes/">
-        View boxes!    </a>
-</div>
-<script>startScroll();</script>
-
-       </aside>
    </div>
-
 </div>
 
-
-        <div class="notification-bubble-container">
-                    </div>
-
-
-    </div>
-
-
-
-<footer class="footer-bg pbxl ptl mtxl fixed-footer">
+<div class="mbxl visible-mobile">
     <div class="container">
         <div class="row">
-            <div class="col-md-3 col-sm-4">
-                <a href="/">
-                    <div class="hellofresh-logo hellofresh-logo-footer">
-                        <div class="iconhf-hf-mask"></div>
-                        <div class="iconhf-hf-shadow"></div>
-                        <div class="iconhf-hf-backcircle"></div>
-                        <div class="iconhf-hf-ribbon"></div>
-                        <div class="iconhf-hf-leafdots"></div>
-                        <div class="iconhf-hf-outline"></div>
-                        <div class="iconhf-hf-letters"></div>
-                    </div>
-                </a>
+            <div class="col-sm-12">
+                <aside class="floating-box">
+                                            <div class="row">
+    <div class="col-md-6">
+        <h2 class="floating-box-title">Try HelloFresh<br>now</h2>
+    </div>
+    <div class="col-md-6">
+        <img class="img-responsive center-block" src="//static.hellofresh.com/cms/Hello_Fresh_Box_Meat_v2.jpg">
+    </div>
+</div>
+<p class="float-box-text">
+    </p>
+<div class="benefits">
+    <ul> <li class="iconhf-sushi-check">Flexible  Subscription</li>    <li class="iconhf-sushi-hat">Delicious  Recipes</li>    <li class="iconhf-sushi-tomato">Farm-Fresh  Ingredients</li> </ul></div>
+
+<a href="/food-boxes/" class="btn btn-lg btn-block btn-primary">
+    View Our Boxes!</a>
+                    
+
+                </aside>
             </div>
-            <div class="col-md-9 col-sm-8 ptxl">
-                <div class="row">
+        </div>
+    </div>
+</div>
 
-                    <div class="col-md-4 col-sm-6 col-xs-12">
 
-                        <h2 class="mbn">Payment Methods</h2>
-                        <i class="imgsprite pay visa" alt="Visa"></i>
-<i class="imgsprite pay mastercard" alt="Mastercard"></i>
-<i class="imgsprite pay amex" alt="American Express"></i>
-<i class="imgsprite pay discover" alt="Discover"></i>
-<i class="imgsprite pay paypal" alt="Paypal"></i> 
-                        <h2 class="mtl">HelloFresh Newsletter</h2>
-                        <form id="footerNewsletterForm" action="http://www.hellofresh.com/newsletter/signupajax/?ajax=true&amp;type=index" method="post">
-<div style="display:none"><input type="hidden" value="f854fffe243690f4139b30d2162b7e4e341cd579" name="YII_CSRF_TOKEN"></div>
+    <div class="notification-bubble-container">
+            </div>
+
+
+</div>
+
+
+
+
+
+<footer class="footer-bg section-inner-shadow">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4 col-footer">
+                <h2 class="sans-serif">HelloNewsletter</h2>
+                <p>Sign up now to get delicious recipes, inspiring ideas and relevant news about HelloFresh. Get started with $15 off your first delivery!</p>
+                <form id="footerNewsletterForm" action="https://www.hellofresh.com/newsletter/signupajax/?ajax=true&amp;type=index" method="post">
+<div style="display:none"><input type="hidden" value="486a8e8d3e4c619f58e96f73898908cd74ebf713" name="YII_CSRF_TOKEN"></div>
     
 <script type="text/javascript">
-    $('#footerNewsletterForm').submit(function(){
+    var footerNewsletterForm = $('#footerNewsletterForm');
+    footerNewsletterForm.submit(function() {
         $.ajax({
             type: "POST",
-            url: "http://www.hellofresh.com/newsletter/signupajax/?ajax=true&type=index",
+            url: "https://www.hellofresh.com/newsletter/signupajax/?ajax=true&type=index",
             data: {
                 'YII_CSRF_TOKEN': __token,
                 'email': $('#newsletter_footer_email').val(),
             },
             dataType: 'json',
             beforeSend: function() {
-                $('#footerNewsletterForm .footer_newsletter_error').hide();
+                footerNewsletterForm.find('#footerNewsletterForm .footer_newsletter_error').hide();
             },
             success: function(data) {
-                if ( data.validation == false ) {
-                    $('#footerNewsletterForm .footer_newsletter_error').html(data.error).css('font-style','italic').show();
+                if ( data.validation === false ) {
+                    footerNewsletterForm.find('.footer_newsletter_error').html(data.error).css('font-style','italic').show();
                 } else {
                     //eventtracker.trackfunction('NEWSLETTER_SIGNUP');
-                    $('#footerNewsletterForm .footerNewsletterSubscription').hide();
-                    $('#footerNewsletterForm .footer_newsletter_error').hide();
-                    $('#footerNewsletterForm .footer_newsletter_success').html( "Congratulations! You've successfully signed up.").css('font-style','italic').show();
+                    footerNewsletterForm.find('.footerNewsletterSubscription').hide();
+                    footerNewsletterForm.find('.footer_newsletter_error').hide();
+                    footerNewsletterForm.find('.footer_newsletter_success').html( "Congratulations! You've successfully signed up.").css('font-style','italic').show();
                 }
             }
         });
@@ -628,105 +685,394 @@ Integrated on our webpages are functions of the social service Twitter. These fu
     });
 
 </script>
-    <div class="input-group footerNewsletterSubscription">
+
+
+    <div class="input-group input-group-lg footerNewsletterSubscription">
         <input type="email" id="newsletter_footer_email" class="form-control" placeholder="Enter E-Mail Address">
         <span class="input-group-btn">
-            <button id="submitNewsletter" class="btn btn-default" onclick="$( '#footerNewsletterForm' ).submit();" type="button">Ok</button>
+            <button id="submitNewsletter" class="btn btn-success" onclick="$( '#footerNewsletterForm' ).submit();" type="button">Ok</button>
         </span>
     </div>
-    
+
     <p class="footer_newsletter_success" style="display:none;"></p>
     <p class="footer_newsletter_error"></p>
-</form>                    </div>
+</form>            </div>
 
+            <div class="col-sm-4 col-footer">
+                <h2 class="sans-serif">HelloMedia</h2>
+                <p>Exciting things happen every day at HelloFresh. Follow us and be part of the HelloFresh-World!</p>
 
-
-
-                    <div class="col-md-4 col-sm-6 col-xs-7 mbl">
-                        <div class="social-position">
-                            <h2>Follow us on</h2>
-
-                                                        <a class="social-icon social-facebook" href="http://www.facebook.com/HelloFreshus" target="_blank"><i class="iconhf-social-facebook"></i></a>
-                                                                                    <a class="social-icon social-twitter" href="https://twitter.com/HelloFresh" target="_blank"><i class="iconhf-social-twitter"></i></a>
-                                                                                                                <a class="social-icon social-instagram" href="http://instagram.com/hellofresh" target="_blank"><i class="iconhf-social-instagram"></i></a>
-                                                    </div>
-                    </div>
-
-
-
-
-                    <div class="col-md-4 col-sm-6 mbxl hidden-xs">
-                        <div class="country-position">
-                            <h2>Select Country</h2>
-                            <div class="btn-group dropup">
-                                <button type="button" class="btn btn-default">United States</button>
-                                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-                                    <span class="caret"></span>
-                                    <span class="sr-only">Toggle Dropdown</span>
-                                </button>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="http://www.hellofresh.com.au">Australia</a></li>
-                                    <li><a href="http://www.hellofresh.de">Deutschland</a></li>
-                                    <li><a href="http://www.hellofresh.nl">Nederland</a></li>
-                                    <li><a href="http://www.hellofresh.co.uk">United Kingdom</a></li>
-                                    <li><a href="http://www.hellofresh.at">Österreich</a></li>
-                                    <li><a href="http://www.hellofresh.com">United States</a></li>
-                                </ul>
+                                    <a class="social-icon social-facebook" href="http://www.facebook.com/HelloFreshus" target="_blank"><i class="iconhf-social-facebook"></i></a>
+                                                    <a class="social-icon social-twitter" href="https://twitter.com/HelloFresh" target="_blank"><i class="iconhf-social-twitter"></i></a>
+                                                    <a class="social-icon social-google" href="https://plus.google.com/+HelloFreshUS/posts" target="_blank"><i class="iconhf-social-google"></i></a>
+                                                    <a class="social-icon social-instagram" href="http://instagram.com/hellofresh" target="_blank"><i class="iconhf-social-instagram"></i></a>
+                                                    <a class="social-icon social-wordpress" href="http://blog.hellofresh.com" target="_blank"><i class="iconhf-social-wordpress"></i></a>
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-5 visible-xs">
-                        <div class="pull-right">
-                            <h2>Select Country</h2>
-                            <div class="btn-group dropup">
-                                <button type="button" class="btn btn-default">US</button>
-                                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-                                    <span class="caret"></span>
-                                    <span class="sr-only">Toggle Dropdown</span>
-                                </button>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="http://www.hellofresh.at">AT</a></li>
-                                    <li><a href="http://www.hellofresh.com.au">AU</a></li>
-                                    <li><a href="http://www.hellofresh.de">DE</a></li>
-                                    <li><a href="http://www.hellofresh.co.uk">GB</a></li>
-                                    <li><a href="http://www.hellofresh.nl">NL</a></li>
-                                    <li><a href="http://www.hellofresh.com">US</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+
+            <div class="col-sm-4 col-footer">
+                <h2 class="sans-serif">HelloWorld</h2>
+                <p>Moving homes or going on vacation? You can find HelloFresh all over the world! Find out where we're located here:
+
+
+<style>.sushi-detail-price .popover { font-size: 12px; }</style></p>
+                <div class="btn-group btn-group-lg">
+                    <button type="button" class="btn btn-default" data-toggle="dropdown">United States</button>
+                    <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown">
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle Dropdown</span>
+                    </button>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="http://www.hellofresh.com.au">Australia</a></li>
+                        <li><a href="http://www.hellofresh.be">België</a></li>
+                        <li><a href="http://www.hellofresh.de">Deutschland</a></li>
+                        <li><a href="http://www.hellofresh.nl">Nederland</a></li>
+                        <li><a href="http://www.hellofresh.at">Österreich</a></li>
+                        <li><a href="http://www.hellofresh.co.uk">United Kingdom</a></li>
+                        <li><a href="http://www.hellofresh.com">United States</a></li>
+                    </ul>
                 </div>
             </div>
 
         </div>
-        <div class="row hidden-xs">
-            <div class="col-md-12 mtxl">
-                <ul class="list-inline text-center footer-links mbn">
-                    <li><a href="http://www.hellofresh.com/contact"><span class="iconhf-device-phone"></span> Contact</a></li>
-<li><a href="https://hellofreshus.affiliatetechnology.com/">Affiliates</a></li>
-<li><a href="http://www.hellofresh.com/career">Jobs</a></li>
-<li><a href="http://www.hellofresh.com/privacy">Privacy</a></li>
-<li><a href="http://www.hellofresh.com/termsandconditions">Terms and Conditions</a></li>
-<li><a href="http://www.hellofresh.com/faq">FAQ</a></li>                </ul>
-            </div>
-        </div>
-        <div class="row mtl visible-xs">
-            <div class="col-xs-6">
-                <a class="btn btn-cancel btn-lg btn-block" href="tel:1-800-733-2414"><span class="iconhf-device-phone"></span> Call Us</a>
-            </div>
-            <div class="col-xs-6">
 
-                                    <a class="btn btn-success btn-lg btn-block" href="/customer/account/login"><span class="iconhf-lock-open"></span> Login</a>
-                            </div>
+        <img src="/images/hellofresh-logo.png" width="100px" alt="footer logo" class="center-block">
+
+        <div class="row mbl mtm">
+            <ul class="list-inline text-center footer-links">
+                <li><a href="/contact/"><span class="iconhf-device-phone"></span>Contact</a></li>
+<li><a href="https://hellofreshus.affiliatetechnology.com/" target="_blank">Affiliate</a></li>
+<li><a href="/press/">Press</a></li>
+<li><a href="/career/">Jobs</a></li>
+<li><a href="http://blog.hellofresh.com/" target="_blank">Blog</a></li>            </ul>
         </div>
+
     </div>
+
+    <div class="legal-container text-center">
+        © 2015 HelloFresh                <ul class="list-inline footer-links"><li><a href="/privacy/">Privacy</a></li><li><a href="/termsandconditions/">Terms and Conditions</a></li></ul>    </div>
 </footer>
 
 
+<div class="modal fade" id="faqModal" tabindex="-1" role="dialog" aria-labelledby="faqModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                <h2 class="modal-title header-dark" id="faqModalLabel">FAQ</h2>
+            </div>
+            <div class="modal-body scrollbox">
+                <h2>FAQs</h2>
+
+<div class="faq trackFAQQuestion">
+    <h3>HelloFresh Subscriptions</h3>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Are you a subscription service?
+        </span>
+        <div class="textContent">
+            Yes, we run a flexible subscription service where you can change or amend your order if you want to take a break... just <a href="/managingsubscriptions/" target="blank">let us know</a> by the 11:59PM EST on Wednesday before the following week's delivery so we can let our fresh suppliers know.
+        </div>
+    </div>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Is there a minimum subscription length?
+        </span>
+        <div class="textContent">
+            Nope, there is no minimum length for HelloFresh subscriptions.
+        </div>
+    </div>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            How do I deactivate my subscription?
+        </span>
+        <div class="textContent">
+            Deactivating your subscription is easy. You just need to go to <a href="/customer/account/login/" target="blank">login</a> to your account and follow these steps:
+        <ol">
+            <li>Click <b>My Subscriptions</b>.</li>
+            <li>Then, click the edit icon on the right of <b>My Box Details</b> (dark grey pencil).</li>
+            <li>Click <b>Deactivate my subscription</b> in the bottom left corner.</li>
+            <li>Follow the steps, and once you complete the process, you will receive an email confirming your deactivation was successful.<br><b>*Please note that deactivations must be done by Wednesday at 11:59pm the week prior to your next delivery, in order to not receive a box the following week.*</b>
+            </li>
+        
+        </ol"></div>
+    </div>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Can I put my subscription on pause?
+        </span>
+        <div class="textContent">
+            Definitely. If you're travelling or would like to hold your subscription for any reason, simply <a href="/customer/account/login/" target="blank">log into</a> your account and <a href="/managingsubscriptions/" target="blank">manage your subscription</a> right there. Or email us at hello@hellofresh.com and we will take care of it for you! Just make sure that you make these changes by 11:59PM EST on Wednesday before the following week's delivery.
+        </div>
+    </div>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            How much will I be charged each week?
+        </span>
+        <div class="textContent">
+            3 Classic Meal Box for Two - $69 3 Classic Meal Box for Four - $129 3 Vegetarian Meal Box for Two - $59 3 Vegetarian Meal Box for Four - $109
+        </div>
+    </div>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            When will I be charged?
+        </span>
+        <div class="textContent">
+            Once you sign up for your first <a href="/food-boxes/" target="blank">HelloFresh box</a> you will be charged right away. For all subsequent deliveries you will be charged the Thursday before your next delivery. Please allow a few days for the charge to show on your account.
+        </div>
+    </div>
+
+  
+
+    <h3>Our Plans</h3>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Can I choose my meals?
+        </span>
+        <div class="textContent">
+            Yes! If you sign up for our <a href="/food-boxes/detail?category=classic_box" target="blank">Classic box</a> subscription, you can choose 3 out of 5 recipes each week. You can make your meal choice after you go through the sign up process! This way you know what you'll be cooking and can plan ahead for your other meals! Unfortunately, we cannot yet offer choice for our Vegetarian subscription. But we are working on it! You can choose the meals you get by logging on to <a href="https://www.hellofresh.com/customer/account/login/">your account page</a> and clicking on the "Meal Choice" tab and you will see the 5 options for this upcoming week. If you like the 3 highlighted, nothing more needs to be done. If you'd like to switch one meal for another, uncheck the meal, and then select whichever you'd prefer. The changes will save automatically.
+        </div>
+    </div>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Do your offer vegetarian plans?
+        </span>
+        <div class="textContent">
+            Yes! We offer a <a href="/food-boxes/detail?category=veggie_box" target="blank">vegetarian HelloFresh box</a> which includes 3 tasty vegetarian meals per week.
+        </div>
+    </div>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Do you offer plans for people with special dietary requirements?
+        </span>
+        <div class="textContent">
+            While we don't offer specific dietary plans, because our ingredients are delivered to you in separate packets, if you have any specific dislikes you can simply omit or replace these ingredients from a recipe. You can learn more about the ingredients we use in the <a href="/our_suppliers/" target="blank">Our Suppliers</a> section.
+        </div>
+    </div>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Do you offer plans for singles?
+        </span>
+        <div class="textContent">
+            Our entry level subscription feeds 2 people. We have many single-person households as customers who chose the 3-meal plan for 2 people, and gain eternal popularity with their friends or have amazing leftovers for lunch!
+        </div>
+    </div>
 
 
 
-<!-- </div> -->
+    <h3>e-Giftcards</h3>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            How to purchase an e-Giftcard?
+        </span>
+        <div class="textContent">
+            Start by clicking <a href="/food-boxes/" target="blank">Our Boxes</a> at the top of the page. Then, choose whether you’d like to purchase an e-Giftcard for our Classic Box or Veggie Box. From there, just follow the prompts and click Checkout!
+        </div>
+    </div>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            What zip code should I enter before I Add to Cart?
+        </span>
+        <div class="textContent">
+            The zip code entered after you choose whether you’d like a Classic Box or Veggie Box e-Giftcard, should be for the person you’ll be giving the gift to. We just want to confirm that we ship to their area!
+        </div>
+    </div>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Why am I asked to enter a shipping address?
+        </span>
+        <div class="textContent">
+            We want to make sure that the person receiving the gift card is in our delivery area. We'd hate for you to buy a gift for someone you love, just to find out they can't receive a box!
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Can I purchase more than one?
+        </span>
+        <div class="textContent">
+            Absolutely! In order to get more than one card at a time, start by clicking <a href="/food-boxes/" target="blank">Our Boxes</a> at the top of the page. Then, choose whether you’d like to purchase an e-Giftcard for our Classic Box or Veggie Box. The next page will ask you for a zip code (which will be for the person (s) you are sending the e-Giftcard to), click Next and then Click Add to Cart. Once you are in My Shopping Cart, click Back (in the bottom left corner) to add another e-Giftcard. You can do this as many times as you’d like. Once you get to the final Checkout page, please enter the shipping address of one of the recipients (as of right now, we only need to confirm one address). Entering a shipping address is only to confirm that we ship to their area. We will not send anything to that person.
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            When will I get my e-card?
+        </span>
+        <div class="textContent">
+            You will receive an email with your e-Giftcard code within 3-5 business days, after Checkout.
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Am I signing up for something when purchasing a giftcard(s)?
+        </span>
+        <div class="textContent">
+            You are not signing up for an account when purchasing an e-Giftcard. We only ask for shipping information to confirm that we ship to your recipient’s location. Once you finish Checkout, you will receive an e-Giftcard within 3-5 business days.
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            I received an e-Giftcard, now what?
+        </span>
+        <div class="textContent">
+            Please follow these simple steps to sign up for an account with HelloFresh:
+            <ol>
+                <li>Start at our homepage and click Get Started Now (you can always get to the Homepage by clicking the HelloFresh logo in the top left corner).</li>
+                <li>Choose whether you'd like to receive a Classic Box or Veggie Box (your e-Giftcard will specify which box to choose).</li>
+                <li>On the next page, choose whether you'd like a 2 plate or 4 plate (portion size), enter your zip code and click Next. Then choose your first delivery date. Click Add to Cart.</li>
+                <li>While in My Shopping Cart, confirm you order. Then, enter your e-Giftcard code where it says Coupon and click OK. Once the e-Giftcard is applied, the price will come down to $1 (which is an activation fee to create an account). Click Continue.</li>
+                <li>Finally, fill out all of your email info, shipping details, credit card information and, if you hadn't entered it in My Shopping Cart, enter your e-Giftcard code, (Coupon is located on the right side of the page between subtotal and taxes). Once you've entered all the necessary information, click Checkout and you're set!</li>
+                <li>*Just want the one gifted box? No problem! After you complete Checkout, email the Friendly Freshers at hello@hellofresh.com and we will take care of that for you.</li>
+            </ol>
+        </div>
+    </div>
+
+
+    <h3>Delivery</h3>
+
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Where do you deliver?
+        </span>
+        <div class="textContent">
+            We deliver across the continental USA! Check out our delivery areas page here <a href="http://www.hellofresh.com/aboutus_delivery_areas/">delivery area map.</a>
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            When do you deliver?
+        </span>
+        <div class="textContent">
+            We deliver Wednesday, Thursday and Friday for all customers, as well as, Mondays and Tuesdays in specific areas. Deliveries typically arrive between 8am-8pm.
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            What if I am not at home to accept the delivery?
+        </span>
+        <div class="textContent">
+            Not to worry! If you are not home during delivery, our courier will drop the box off at your front door (or wherever you specify in your <b>Delivery Instructions</b>).
+            <br>
+            <br>If you live in an area where a box could not easily be left, we suggest one of the following solutions:
+            <ul>
+                <li>Provide the address of a helpful neighbor that will be home during the delivery window and can accept your package for you.</li>
+                <li>Have the box delivered to your work place.</li>
+                <li>Have the box delivered to a nearby business or restaurant that won't mind you picking up the box at a later time that day.</li>
+            </ul>
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            How does the food stay fresh in transit?
+        </span>
+        <div class="textContent">
+            We have specially designed boxes that we pack with a nice, thick liner and ice packs to ensure that everything arrives to you perfectly cold!
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            How much does delivery cost?
+        </span>
+        <div class="textContent">
+            It’s free, silly! You subscribe and delivery is on us!
+        </div>
+    </div>
+
+
+    <h3>Miscellaneous</h3>
+    
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Will my groceries stay fresh for the week?
+        </span>
+        <div class="textContent">
+            Your groceries will stay fresh for the duration of the week. Our <a href="/recipe/all/" target="blank">recipes</a> are created using ingredients that stay fresh long enough for you to enjoy them in the week you have received them. If we include ingredients that need to be used sooner rather than later (such as fish) we suggest that you prepare them at the beginning of the week.
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Where do you get your recipes?
+        </span>
+        <div class="textContent">
+            HelloFresh works closely on <a href="/recipe/all/" target="blank">recipe</a> development with a team of in-house chefs who've graduated from the Institute of Culinary Education and other esteemed Culinary Schools. Our in-house dietitian Rebecca reviews each recipe, ensuring you get a balanced meal on the table!
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Why is HelloFresh a healthy option?
+        </span>
+        <div class="textContent">
+            Cooking with fresh ingredients helps you stay healthy and beats any type of convenience food, frozen food or fast food. By preparing your meals with fresh ingredients you ensure that important nutrients aren't lost. In addition, we curate our recipes to ensure a healthy diet. Since our chefs and nutritionists create and select recipes on a weekly basis, they are able to ensure that your diet is balanced and provides all the nutrients you need for a healthy lifestyle.
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            How many calories do your meals have?
+        </span>
+        <div class="textContent">
+            Roughly speaking our meals contain anywhere from 500-800 calories each.
+        </div>
+    </div>
+    <div class="acc_trigger">
+        <img class="imgContent">
+        <span>
+            Which ingredients do you assume I have at home?
+        </span>
+        <div class="textContent">
+            All you need to have available at home is salt, pepper, sugar, a good cooking oil, and butter. We'll give you the rest!
+        </div>
+    </div>
+</div>            </div>
+            <div class="modal-footer">
+                <a href="/food-boxes/" type="button" class="btn btn-primary">View Our Boxes!</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <script>
+        var hellofresh = hellofresh || {};
+        hellofresh.easterEgg = hellofresh.easterEgg || {};
+        hellofresh.easterEgg.imageSrc = 'https://d2ul78v7wsrn43.cloudfront.net/cms/HelloFresh_Santa_Xmas_small.png';
+    </script>
+
+
 <script type="text/javascript">
     $(document).ready(function(){
         /*check and set cookie for old browser bar */
@@ -739,57 +1085,185 @@ Integrated on our webpages are functions of the social service Twitter. These fu
                 $notificationBar.slideUp(); //slideup
                 setTimeout(function() {
                   $notificationBar.remove(); //remove the element
-                }, 1000);
+              }, 1000);
             });
         }
     });
 </script>
 
-<script type="text/javascript">
-var webtrekkProjectConfig = {
-trackId : "237662731006588",
-trackDomain : "hellofresh01.webtrekk.net",
-domain : "Regexp:\.hellofresh\.com$",
-cookie : "3",
-linkTrack : "link",
-cookieDomain : ".hellofresh.com",
-form : "1",
-linkTrackAttribute: "id"
-};
+
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginFormLabel" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span class="close-label">Close</span><span class="close-icon" aria-hidden="true">×</span></button>
+            </div>
+            <div class="modal-body">
+
+                <form id="login-section-form" action="/privacy/" method="post">
+<div style="display:none"><input type="hidden" value="486a8e8d3e4c619f58e96f73898908cd74ebf713" name="YII_CSRF_TOKEN"></div>    <h3 class="modal-title sans-serif mvl text-center text-success" id="loginFormLabel">Login</h3>
+    <div class="form-group">
+        <label for="LoginForm_email" class="required">Email</label><input class="form-control input-lg" type="email" name="LoginForm[email]" id="LoginForm_email"><div class="form-error" id="LoginForm_email_em_" style="display:none"></div>    </div>
+    <div class="form-group">
+        <label for="LoginForm_password" class="required">Password</label><input class="form-control input-lg" name="LoginForm[password]" id="LoginForm_password" type="password"><div class="form-error" id="LoginForm_password_em_" style="display:none"></div>    </div>
+    <div class="checkbox-inline">
+        <label>
+            <input id="ytLoginForm_rememberMe" type="hidden" value="0" name="LoginForm[rememberMe]">
+            <input checked="checked" name="LoginForm[rememberMe]" id="LoginForm_rememberMe" value="1" type="checkbox">
+                Remember me        </label>
+    </div>
+
+<input class="btn btn-lg btn-primary btn-block mvl login-button" type="submit" name="yt0" value="Login" id="yt0">
+    <p class="text-center">
+        <a href="#" onclick="hellofresh.showForgot();"> Forgot password?</a>
+    </p>
+
+    <p class="text-center">
+        New user? <a href="#" onclick="hellofresh.showRegister()"> Register</a>
+    </p>
+
+</form>
+                
+<form style="display:none;" id="register-section-form" action="/privacy/" method="post">
+<div style="display:none"><input type="hidden" value="486a8e8d3e4c619f58e96f73898908cd74ebf713" name="YII_CSRF_TOKEN"></div>    <h3 class="modal-title sans-serif mvl text-center text-success" id="loginFormLabel">Register now.</h3>
+    <div class="form-group">
+        <label for="RegistrationForm_gender">Gender</label>        <select class="form-control input-lg" name="RegistrationForm[gender]" id="RegistrationForm_gender">
+<option value="" selected="selected">Select</option>
+<option value="male">Mr.</option>
+<option value="female">Mrs./Miss/Ms.</option>
+</select>        <div class="form-error" id="RegistrationForm_gender_em_" style="display:none"></div>    </div>
+    <div class="form-group">
+        <label for="RegistrationForm_first_name" class="required">First Name</label><input class="form-control input-lg" name="RegistrationForm[first_name]" id="RegistrationForm_first_name" type="text" maxlength="50"><div class="form-error" id="RegistrationForm_first_name_em_" style="display:none"></div>    </div>
+    <div class="form-group">
+        <label for="RegistrationForm_last_name" class="required">Last Name</label><input class="form-control input-lg" name="RegistrationForm[last_name]" id="RegistrationForm_last_name" type="text" maxlength="50"><div class="form-error" id="RegistrationForm_last_name_em_" style="display:none"></div>    </div>
+    <div class="form-group">
+        <label for="RegistrationForm_email" class="required">Email</label><input class="form-control input-lg" type="email" name="RegistrationForm[email]" id="RegistrationForm_email"><div class="form-error" id="RegistrationForm_email_em_" style="display:none"></div>    </div>
+    <div class="form-group">
+        <label for="RegistrationForm_password" class="required">Password</label>        <div class="input-group">
+            <input class="form-control input-lg" name="RegistrationForm[password]" id="RegistrationForm_password" type="password" maxlength="50">            <span class="input-group-addon">
+                Show                <input type="checkbox" class="toggle-input-type">
+            </span>
+        </div>
+        <div class="form-error" id="RegistrationForm_password_em_" style="display:none"></div>    </div>
+    <div class="form-group">
+        <label for="registerBday">Birthday</label>
+                <div class="row">
+            <div class="col-xs-4">
+                                    <input maxlength="2" class="form-control input-lg" type="number" min="1" max="12" name="RegistrationForm[month]" id="RegistrationForm_month">                    <span class="txtGray fss l-cell labelCheckoutBirthDay ui-inlineBlock">Month</span>
+                            </div>
+
+            <div class="col-xs-4">
+                                    <input maxlength="2" class="form-control input-lg" type="number" min="1" max="31" name="RegistrationForm[day]" id="RegistrationForm_day">                    <span class="txtGray fss l-cell labelCheckoutBirthMonth ui-inlineBlock">Day</span>
+                            </div>
+
+            <div class="col-xs-4">
+                <input maxlength="4" class="form-control input-lg" type="number" min="1900" max="1997" name="RegistrationForm[year]" id="RegistrationForm_year">                <span class="txtGray fss l-cell labelCheckoutBirthMonth ui-inlineBlock">Year</span>            </div>
+            </div>
+            <div class="form-error" id="RegistrationForm_birthday_em_" style="display:none"></div>    </div>
+
+<input class="btn btn-lg btn-success btn-block mvl register-button" type="submit" name="yt1" value="Register" id="yt1">
+    <p class="text-center">
+        I am registered! <a href="#" onclick="hellofresh.showLogin();"> Login</a>
+    </p>
+</form>
+                <form style="display:none;" id="forgot-section-form" action="/privacy/" method="post">
+<div style="display:none"><input type="hidden" value="486a8e8d3e4c619f58e96f73898908cd74ebf713" name="YII_CSRF_TOKEN"></div>    <h3 class="modal-title sans-serif mvl text-center text-success" id="loginFormLabel">Forgot password?</h3>
+    <p class="mbl">Please type in your email address. We send you a link to change the password.</p>
+    <div class="form-group">
+        <label for="ForgotPasswordForm_email" class="required">Email</label><input class="form-control input-lg" type="email" name="ForgotPasswordForm[email]" id="ForgotPasswordForm_email"><div class="form-error" id="ForgotPasswordForm_email_em_" style="display:none"></div>    </div>
+
+<input class="btn btn-lg btn-success btn-block mvl forgot-password" id="forgot-password" type="submit" name="yt2" value="Login">    <p class="text-center">
+        <a href="#" onclick="hellofresh.showLogin();"> Back</a>
+    </p>
+</form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var hellofresh = hellofresh || {};
+    hellofresh.$loginForm = $("#login-section-form");
+    hellofresh.$registerForm = $("#register-section-form");
+    hellofresh.$forgotForm = $("#forgot-section-form");
+
+    hellofresh.showLogin = function () {
+        hellofresh.$loginForm.show().siblings().hide();
+    }
+
+    hellofresh.showRegister = function () {
+        hellofresh.$registerForm.show().siblings().hide();
+    }
+
+    hellofresh.showForgot = function () {
+        hellofresh.$forgotForm.show().siblings().hide();
+    }
+
+    $("#loginModal").on('hidden.bs.modal', function (){
+        hellofresh.$loginForm.show().siblings().hide();
+    });
+
+    $('.toggle-input-type').on('change', function(){
+        var $this = $(this);
+        var showPassword = $this.prop('checked');
+        if(typeof showPassword === "boolean" && showPassword){
+            $this.closest('.input-group').children('.form-control').attr('type', 'text');
+        }else{
+            $this.closest('.input-group').children('.form-control').attr('type', 'password');
+        }
+    });
+
 </script>
-<script type="text/javascript" src="/js/webtrekk_v3_2.js"></script>
-<script type="text/javascript">
-/*<![CDATA[*/
-var wt = new webtrekkV3();
 
-wt.mediaCode = "wt_af;wt_co;wt_db;wt_dp;wt_em;wt_m_dp;wt_m_re;wt_m_sb;wt_m_sn;wt_nl;wt_pr;wt_rff;wt_re;wt_s1;wt_sb;wt_sm;wt_sa;wt_vid";
-wt.contentId = "us.service.privacy";
+        </div> <!-- wrapper -->
+    <script type="text/javascript">jQuery(document).ready(function (){jQuery(function($) {
+jQuery('body').delegate('#yt0','click',function(){jQuery.ajax({'type':'POST','dataType':'json','success':function(data) {
+            if(data.status=="success"){
+                window.location.href = data.redirectTo;
+            } else {
+                $.each(data, function(key, val) {
+                    $("#"+key+"_em_").text(val);
+                    $("#"+key+"_em_").show();
+                    $(".login-button").removeAttr("disabled");
+                });
+            }
+        },'beforeSend':function(){
+            $("#login-section-form .form-error").hide();
+            $(".login-button").attr("disabled","disabled");
+        },'url':'/account/user/login/','cache':false,'data':jQuery(this).parents("form").serialize()});return false;});
+$('#login-section-form').yiiactiveform({'validateOnSubmit':true,'hideErrorMessage':true,'attributes':[{'inputID':'LoginForm_email','errorID':'LoginForm_email_em_','model':'LoginForm','name':'email'},{'inputID':'LoginForm_password','errorID':'LoginForm_password_em_','model':'LoginForm','name':'password'}]});
+jQuery('body').delegate('#yt1','click',function(){jQuery.ajax({'type':'POST','dataType':'json','success':function(data) {
+            if(data.status=="success"){
+                window.location.href = data.redirectTo;
+            } else {
+                $.each(data, function(key, val) {
+                    $("#"+key+"_em_").text(val);
+                    $("#"+key+"_em_").show();
+                });
 
-wt.contentGroup = {
-    1 : "us",
-    2 : "service",
-    10 : "privacy"
-};
+                $(".register-button").removeAttr("disabled");
+            }
+        },'beforeSend':function(){
+            $("#register-section-form .form-error").hide();
+            $(".register-button").attr("disabled","disabled");
+        },'url':'/account/user/register/','cache':false,'data':jQuery(this).parents("form").serialize()});return false;});
+$('#register-section-form').yiiactiveform({'validateOnSubmit':true,'hideErrorMessage':true,'attributes':[{'inputID':'RegistrationForm_gender','errorID':'RegistrationForm_gender_em_','model':'RegistrationForm','name':'gender'},{'inputID':'RegistrationForm_first_name','errorID':'RegistrationForm_first_name_em_','model':'RegistrationForm','name':'first_name'},{'inputID':'RegistrationForm_last_name','errorID':'RegistrationForm_last_name_em_','model':'RegistrationForm','name':'last_name'},{'inputID':'RegistrationForm_email','errorID':'RegistrationForm_email_em_','model':'RegistrationForm','name':'email'},{'inputID':'RegistrationForm_password','errorID':'RegistrationForm_password_em_','model':'RegistrationForm','name':'password'},{'inputID':'RegistrationForm_birthday','errorID':'RegistrationForm_birthday_em_','model':'RegistrationForm','name':'birthday'}]});
+jQuery('body').delegate('#forgot-password','click',function(){jQuery.ajax({'type':'POST','dataType':'json','success':function(data) {
+            if(data.status=="success"){
+                window.location.href = data.redirectTo;
+            } else {
+                $.each(data, function(key, val) {
+                    $("#"+key+"_em_").text(val);
+                    $("#"+key+"_em_").show();
+                    $(".forgot-password").removeAttr("disabled");
+                });
+            }
+        },'beforeSend':function(){
+            $("#forgot-section-form .form-error").hide();
+            $(".forgot-password").attr("disabled","disabled");
+        },'url':'/account/user/forgotpassword/','cache':false,'data':jQuery(this).parents("form").serialize()});return false;});
+$('#forgot-section-form').yiiactiveform({'validateOnSubmit':true,'hideErrorMessage':true,'attributes':[{'inputID':'ForgotPasswordForm_email','errorID':'ForgotPasswordForm_email_em_','model':'ForgotPasswordForm','name':'email'}]});
+});})</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"77982df1cb","applicationID":"658173","transactionName":"ZwFSNRBSVxUCWkwKW15LcxQRR1YLTFpVEBtZClQEGg==","queueTime":0,"applicationTime":57,"atts":"S0ZFQ1hIREpBWBpZT00Z","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script>
 
-wt.customerId="";
-
-wt.customSessionParameter = { 
-    1 : "",
-    2 : "",
-    3 : "",
-    4 : ""
-}; 
-
-wt.customParameter = {
-    2: ""
-};
-
-wt.sendinfo();
-/*]]>*/
-</script>
-
-<noscript>
-<div><img src="http://hellofresh01.webtrekk.net/237662731006588/wt.pl?p=315,us.service.privacy,0,0,0,0,0,0,0,0&cg1=us&cg2=service&cg10=privacy&cd=&cs1=&cs2=&cs3=&cs4=&cp2=" height="1" width="1" alt=""/></div>
-</noscript>        </div> <!-- wrapper -->
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"77982df1cb","applicationID":"658173","transactionName":"ZwFSNRBSVxUCWkwKW15LcxQRR1YLTFpVEBtZClQEGg==","queueTime":0,"applicationTime":56,"ttGuid":"","agentToken":"","atts":"S0ZFQ1hIREpBWBpZT00Z","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-515.min.js"></script></body></html>
