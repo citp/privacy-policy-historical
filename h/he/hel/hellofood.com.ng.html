@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the hellofood.com.ng privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121041911id_/http%3A//www.hellofood.com.ng/contents/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hellofood.com.ng privacy policy that was archived on 2015-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150324053928id_/https%3A//www.hellofood.com.ng/contents/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js desktop" lang="en"><head>
-    <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUBUVZQGwoDVVZSBQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<!DOCTYPE html><html class="no-js desktop" lang="en-NG"><head>
+    <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUBUVZQGwoDVVZSBQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
                 
             <title>Hellofood - Privacy policy</title>
     
@@ -17,33 +17,36 @@
                                 <meta name="apple-mobile-web-app-status-bar-style" content="black">
                                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                                 <meta name="revisit-after" content="3 days">
-                                <meta name="apple-itunes-app" content="app-id=767588204, app-argument=/AdXadvert?adID=web353a1b37b4514d">
-                                <meta name="google-play-app" content="app-id=com.global.hellofood.android, app-argument=/AdXadvert?adID=web353a1b37b4514d">
+                                <meta name="apple-itunes-app" content="app-id=767588204">
+                                <meta name="google-play-app" content="app-id=com.global.hellofood.android">
                                 <meta name="msapplication-tilecolor" content="#f75626">
-                                <meta name="msapplication-tileimage" content="//assets.hellofood.com.ng/layout/themes/margherita/images/en/mstile-144x144.png?v=1415792922">
+                                <meta name="msapplication-tileimage" content="//assets.hellofood.com.ng/layout/themes/margherita/images/en/mstile-144x144.png?v=1421761101">
                                 <meta name="msapplication-config" content="/browserconfig.xml">
             
-            <link rel="icon" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/favicon.ico?v=1415792922" type="image/x-icon">
-            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-152x152-precomposed.png?v=1415792922" sizes="152x152">
-            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-144x144-precomposed.png?v=1415792922" sizes="144x144">
-            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-120x120-precomposed.png?v=1415792922" sizes="120x120">
-            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-114x114-precomposed.png?v=1415792922" sizes="114x114">
-            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-76x76-precomposed.png?v=1415792922" sizes="76x76">
-            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-72x72-precomposed.png?v=1415792922" sizes="72x72">
-            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-precomposed.png?v=1415792922">
+            <link rel="icon" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/favicon.ico?v=1421761101" type="image/x-icon">
+            <link rel="alternate" href="https://www.hellofood.com.ng/contents/privacy.htm" hreflang="en-NG">
+            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-152x152-precomposed.png?v=1421761101" sizes="152x152">
+            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-144x144-precomposed.png?v=1421761101" sizes="144x144">
+            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-120x120-precomposed.png?v=1421761101" sizes="120x120">
+            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-114x114-precomposed.png?v=1421761101" sizes="114x114">
+            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-76x76-precomposed.png?v=1421761101" sizes="76x76">
+            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-72x72-precomposed.png?v=1421761101" sizes="72x72">
+            <link rel="apple-touch-icon-precomposed" href="//assets.hellofood.com.ng/layout/themes/margherita/images/en/apple-touch-icon-precomposed.png?v=1421761101">
     
-                        <meta content="http://www.hellofood.com.ng/contents/privacy.htm" property="og:url">
+                        <meta content="https://www.hellofood.com.ng/contents/privacy.htm" property="og:url">
                                 <meta content="Hellofood" property="og:site_name">
                                                 
             
-                        <link rel="stylesheet" href="/css/f47581e-62fe82165d.css" media="all">
+                        <link rel="stylesheet" href="/css/f47581e-4b3141d.css" media="all">
             
     
                 
-            <script src="/js/b646254-52c6d1d654.js"></script>
-    
-            <script>$LAB.script('/js/9672472-5a6abc9ec4.js');</script>
-    
+        <!--[if gt IE 9]><!-->
+        <script src="/js/b646254-5b074b1.js"></script>        <script>$LAB.script('/js/218446f-7d309f3.js');</script>    <!--<![endif]-->
+
+        <!--[if lte IE 9]>
+        <script src="/js/256ee57-9b39fb8.js"></script>        <script>$LAB.script('/js/ce36e2f-63a9c7c.js');</script>    <![endif]-->
+
             <script>
     FD
         .setControllerConfig('Prefill', 'customer.firstName', "")
@@ -62,7 +65,6 @@
             .setControllerConfig('Prefill', 'location.postcode', "")
             ;
 </script>
-
                         <script>
             FD
                 .setControllerConfig('Livechat', 'enable', true)
@@ -76,18 +78,16 @@
         .setControllerConfig('LocationSearch', 'msgSelectAreaFromDropdown', "Please enter your location.")
         .setControllerConfig('LocationSearch', 'suggestionUrl', "\/location-suggestions-ajax")
         .setControllerConfig('LocationSearch', 'areaSuggestionUrl', "\/city-suggestions-ajax\/CITY_ID")
-                    .setControllerConfig('LocationSearch', 'enableAreaDropdown', false)
+                    .setControllerConfig('LocationSearch', 'enableAreaDropdown', true)
                             .setControllerConfig('LocationSearch', 'isPostcodeCountry', false)
             ;
 
     FD.setControllerConfig('ChangeLocationLink', 'fromElementUrlForVendorListPage', "\/location\/get-location-search-box");
 </script>
     
-            <!--[if lt IE 9]><script src="/js/6c33b3f-e7c772a62d.js"></script><![endif]-->
-    
                         
             <script>
-                        var dataLayer = [{"app_version":"production||","ga_code":"UA-51354317-2","ga_domain":"hellofood.com.ng","language":"en_US","customer_logged":0,"customer_id":"","customer_code":"NA","customer_status":"NA","customer_control":"ct_0","customer_email":"","customer_lastname":"","customer_name":"","visitor_id":"akfuolqr7dn9d2nqjgdvrodof7","landing_page":"\/contents\/privacy.htm","visitor_utm_source":"","visitor_utm_campaign":"","visitor_utm_content":"","visitor_utm_medium":"","visitor_utm_term":"","visitor_keyword":"","visitor_referer":"Others","visitor_source":"","area_id":"NA","area_name":"","city_id":"NA","city_name":"","lat":"NA","lng":"NA","country_id":"NG","ab_group":"NA","platform":"pc","brand":"","currency":"NGN","page_type":"Content Page","newsletter_id":null}];
+                        var dataLayer = [{"app_version":"production|release_2.25.1|37375619b7d5bce057bc1cfcebe76c21325d04a6","ga_code":"UA-51354317-2","ga_domain":"hellofood.com.ng","language":"en_US","customer_logged":0,"customer_id":"","customer_code":"NA","customer_status":"NA","customer_control":"ct_0","customer_lastname":"","customer_name":"","visitor_id":"a45iie632o3oardaktju0urpj1","landing_page":"\/contents\/privacy.htm","visitor_utm_source":"","visitor_utm_campaign":"","visitor_utm_content":"","visitor_utm_medium":"","visitor_utm_term":"","visitor_keyword":"","visitor_referer":"Direct","visitor_source":"https:\/\/www.hellofood.com.ng\/","area_id":"NA","area_name":"","city_id":"NA","city_name":"","lat":"NA","lng":"NA","country_id":"NG","ab_group":"NA","platform":"pc","brand":"","currency":"NGN","page_type":"Content Page","newsletter_id":null}];
         </script>
 
                     <script>
@@ -102,11 +102,12 @@
                             <script>
                     tracking.initOptimizely("\/\/cdn.optimizely.com\/js\/566322169.js");
                 </script>
-                                    <script>
-                                                tracking.loadOptimizely();
-                    </script>
+                                    <script src="//cdn.optimizely.com/js/566322169.js"></script>
                             
-                                            
+                                                    <script>
+                                        tracking.loadGoogleAnalytics();
+                </script>
+                    
                                                 
             </head>
 <body class=" ng ">
@@ -120,7 +121,7 @@
                                         <header>
             <div class="container">
                                     <a href="/" class="logo ">
-                        <img alt="Logo" src="//assets.hellofood.com.ng/layout/themes/margherita/images/en/logo.png?v=1415792922">
+                        <img alt="Logo" src="//assets.hellofood.com.ng/layout/themes/margherita/images/en/logo.png?v=1421761101">
                     </a>
                 
                                     <ul class="header-links">
@@ -141,15 +142,21 @@
                             </div>
         </header>
     
-                        <div class="breadcrumbs">
+                            <div class="breadcrumbs">
             <div class="container">
                                     <ol class="breadcrumb_pages">
-                        <li><a href="/">Home</a></li>
-                            <li>
-        <a href="/contents/privacy.htm">
-            Privacy Policy
+                            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="/" itemprop="url">
+            <span itemprop="title">Home</span>
         </a>
     </li>
+
+                                <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="/contents/privacy.htm" itemprop="url">
+            <span itemprop="title">Privacy Policy</span>
+        </a>
+    </li>
+
                     </ol>
                 
                 <div class="breadcrumb_extras">
@@ -168,8 +175,10 @@
     
                             
                             
-    <div class="flash-messages container">
-                    </div>
+    <div class="flash-messages">
+        <div class="container">
+                                </div>
+    </div>
 
                 <main class="js-sticky-height-calculate-container">
         <div class="container">
@@ -199,19 +208,13 @@
 	We collect and use your personal data on secured servers. We ask third organisms to check and certify our confidentiality principles.<br>
 	Information that we collect from you is used to process your order and to manage your account. We may also use your information to email you about other products or services that we think may be of interest to you.<br>
 	In processing your order we may send your information to credit reference and fraud prevention agencies, or to third companies (restaurants and delivering companies).<br>
-	From time to time we may send your information to third parties which we consider may have goods or services which are of interest to you. If you do not wish to be contacted by third parties please email us at <a href="mailto:support@hellofood.com.ng">support@hellofood.com.ng<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>.<br>
+	From time to time we may send your information to third parties which we consider may have goods or services which are of interest to you. If you do not wish to be contacted by third parties please email us at <a href="mailto:support@hellofood.com.ng">support@hellofood.com.ng<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.<br>
 	<br>
 	<strong>Access to your information</strong><br>
 	<br>
-	At any time, you can request a copy of the information we hold on you. Simply contact us at <a href="mailto:support@hellofood.com.ng">support@hellofood.com.ng<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>. We will ask you a small charge in order to process your request.<br>
+	At any time, you can request a copy of the information we hold on you. Simply contact us at <a href="mailto:support@hellofood.com.ng">support@hellofood.com.ng<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>. We will ask you a small charge in order to process your request.<br>
 	<br>
 	<strong>Other Websites</strong><br>
 	<br>
@@ -233,12 +236,12 @@
                     <div class="newsletter-subscribe">
                 <div class="h4">Subscribe to our newsletter:</div>
 
-                <form action="/newsletter/subscribe" method="post" class="form-vertical" role="form">
+                <form action="/newsletter/subscribe" method="post" class="form-vertical" role="form" novalidate="">
                     <div class="row">
-                            <input type="hidden" id="newsletter_subscribe__token" name="newsletter_subscribe[_token]" value="NrXG_P0hErTieFhmWqe1L6xuXQM6ypXV6mUJ-2nt52E">
+                            <input type="hidden" id="newsletter_subscribe__token" name="newsletter_subscribe[_token]" value="7gieD4TJKUIxRlMFDEzIenxqNfybtbh0guJf5DByVqM">
                         <div class="col-sm-7">
                             <div class="form-group">
-                                    <select id="newsletter_subscribe_city" name="newsletter_subscribe[city]" required="required" class="form-control" data-prefill="location.cityId"><option value="" selected="selected">Please select your city</option><option value="2">Abuja</option><option value="1">Lagos</option><option value="3">Port Harcourt</option></select>
+                                    <select id="newsletter_subscribe_city" name="newsletter_subscribe[city]" required="required" class="form-control" data-prefill="location.cityId"><option value="" selected="selected">Please select your city</option><optgroup label="Popular Cities"><option value="1">Lagos</option></optgroup><optgroup label="More Cities"><option value="2">Abuja</option><option value="3">Port Harcourt</option></optgroup></select>
                                     
                             </div>
 
@@ -274,36 +277,47 @@
                     <div class="popular-cities">
                 <div class="h4">Popular areas</div>
                 <ul class="unstyled">
+        <li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos">Lagos</a></li>	
+
+
+        <li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/area/victoria-island">Victoria Island</a></li>
+        <li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/abuja">Abuja</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/area/victoria-island">Victoria Island</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/lekki-phase-1">Lekki Phase 1</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/lekki-phase-1">Lekki Phase 1</a></li>
-	<li>
-		<a href="/restaurants/index/area/ikoyi-awolowo">Ikoyi - Awolowo</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/area/ikoyi-awolowo">Ikoyi - Awolowo</a></li>
 <li>
-		<a href="/restaurants/index/area/ikoyi-bourdillon">Ikoyi - Bourdillon</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/area/ikoyi-bourdillon">Ikoyi - Bourdillon</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/marina">Marina</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/marina">Marina</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/ikeja">Ikeja</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/ikeja">Ikeja</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/surulere">Surulere</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/surulere">Surulere</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/lagos-island">Lagos Island</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/lagos-island">Lagos Island</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/yaba">Yaba</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/yaba">Yaba</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/banana-island">Banana Island</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/banana-island">Banana Island</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/ikeja-opebi">Ikeja Opebi</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/ikeja-opebi">Ikeja Opebi</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/ikeja-allen">Ikeja Allen</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/ikeja-allen">Ikeja Allen</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/festac">Festac</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/festac">Festac</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/vgc">VGC</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/vgc">VGC</a></li>
 	<li>
-		<a href="/restaurants/index/city/lagos/areaname/vgc-ikota">VGC Ikota</a></li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/areaname/vgc-ikota">VGC Ikota</a></li>
+        <li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/abuja/area/wuse-ii">Wuse II</a></li>
+
+        <li>
+		<a href="https://www.hellofood.com.ng/restaurants/city/lagos/area/ikoyi-dolphin-estate">Ikoyi - Dolphin Estate</a></li>
 </ul>
             </div>
         
@@ -311,33 +325,41 @@
                 <div class="h4">Popular cuisines</div>
                 <ul class="unstyled">
 	<li>
-		<a href="/restaurants/index/cuisines/nigerian">Nigerian</a></li>
+		<a href="/restaurants/cuisines/nigerian">Nigerian</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/burger">Burgers</a></li>
+		<a href="/restaurants/cuisines/burger">Burgers</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/european">Continental</a></li>
+		<a href="/restaurants/cuisines/european">Continental</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/pizza">Pizza</a></li>
+		<a href="/restaurants/cuisines/pizza">Pizza</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/asian">Asian</a></li>
+		<a href="/restaurants/cuisines/asian">Asian</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/bakery-and-cakes">Bakery &amp; Cafe</a></li>
+		<a href="https://breakfast.hellofood.com.ng/">Breakfast</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/salads">Salads</a></li>
+		<a href="/restaurants/cuisines/bakery-and-cakes">Cakes</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/sandwiches">Sandwiches</a></li>
+		<a href="/restaurants/cuisines/salads">Salads</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/shawarma">Shawarma</a></li>
+		<a href="/restaurants/cuisines/sandwiches">Sandwiches</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/african">African</a></li>
+		<a href="/restaurants/cuisines/shawarma">Shawarma</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/lebanese">Lebanese</a></li>
+		<a href="/restaurants/cuisines/african">African</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/italian">Italian</a></li>
+		<a href="/restaurants/cuisines/lebanese">Lebanese</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/seafood">Seafood</a></li>
+		<a href="/restaurants/cuisines/italian">Italian</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/indian">Indian</a></li>
+		<a href="/restaurants/cuisines/seafood">Seafood</a></li>
+	<li>
+		<a href="/restaurants/cuisines/indian">Indian</a></li>
+	<li>
+		<a href="/restaurants/cuisines/pasta">Pasta</a></li>
+	<li>
+		<a href="/restaurants/cuisines/noodles">Noodles</a></li>
+	<li>
+		<a href="/restaurants/cuisines/chinese">Chinese</a></li>
 </ul>
             </div>
         
@@ -345,28 +367,49 @@
                 <div class="h4">Restaurants</div>
                 <ul class="unstyled">
 	<li>
-		<a href="/restaurant/n4cn/ghana-high-order-before-11-30pm-to-be-delivered-for-lunch">Ghana High</a></li>
+		<a href="https://www.hellofood.com.ng/restaurant/n4cn/ghana-high-order-before-11-30pm-to-be-delivered-for-lunch">Ghana High</a></li>
 	<li>
-		<a href="/restaurant/cn9ge">Sweet Sensation</a></li>
+		<a href="https://www.hellofood.com.ng/restaurant/cn9ge/sweet-sensation-vendor">Sweet Sensation</a></li>
 	<li>
-		<a href="/restaurant/n7qd/bukka-hut-vendor">Bukka Hut</a></li>
+		<a href="https://www.hellofood.com.ng/restaurant/n7qd/bukka-hut-vendor">Bukka Hut</a></li>
 	<li>
-		<a href="/restaurant/n2kf/johnny-rockets">Johnny Rockets</a></li>
+		<a href="https://www.hellofood.com.ng/restaurant/n1ny/terra-kulture">Terra Kulture</a></li>
 	<li>
-		<a href="/restaurant/n6bx/lekki-shawarma">Lekki Shawarma</a></li>
+		<a href="https://www.hellofood.com.ng/restaurant/n8hl/nonos-delight-restuarant">Nono's Delight</a></li>
 	<li>
-		<a href="/restaurant/cn6ay">Mama Cass</a></li>
+		<a href="https://www.hellofood.com.ng/restaurant/n6bx/lekki-shawarma">Lekki Shawarma</a></li>
 	<li>
-		<a href="/restaurant/n4tt/ofada-hut">Ofada Hut</a></li>
+		<a href="https://www.hellofood.com.ng/restaurant/cn6ay/mama-cass-vendor">Mama Cass</a></li>
 	<li>
-		<a href="/restaurant/n3ch/goodies-restaurant-vendor">Goodies Restaurant</a></li>
-	
+		<a href="https://www.hellofood.com.ng/restaurant/n4tt/ofada-hut">Ofada Hut</a></li>
 	<li>
-		<a href="/restaurant/cn1pw">Chicken Republic</a></li>
+		<a href="https://www.hellofood.com.ng/restaurant/n3ch/goodies-restaurant-vendor">Goodies Restaurant</a></li>
 	<li>
-		<a href="/restaurant/n2ab/unusual-cuisine">Unusual Cuisine</a></li>
-	
-
+		<a href="https://www.hellofood.com.ng/restaurant/n3uq/chiken">Chicken Republic</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n2ab/unusual-cuisine">Unusual Cuisine</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n6wg/magrellos-fast-food">Magrellos</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n2dj/china-town-express-restaurant">China Town Express</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n9mr/pizzarama-restaurant-ltd">Pizzarama</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n4vk/white-house-restaurant">White House</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n4dp/yanga-buka">Yanga Buka</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n7va/afi-s-cuisine">Afis Cuisine</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n4kr/the-asian-kitchen">The Asian Kitchen</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n9gv/chich-tawouk-restaurant">Chich Tawouk Restaurant</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n9no/jagzee-chow">Jagzee Chow</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurant/n5ds/cafe-licious">Cafe Licious</a></li>
+	<li>
+		<a href="https://www.hellofood.com.ng/restaurants">All restaurants</a></li>
 </ul>
             </div>
         
@@ -436,7 +479,7 @@
                     
     
     
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"7bc6d8a4d2","applicationID":"931702","transactionName":"ZARSYBZSChBRW0QPWV1Oc0EXRwsOH15fCVJDAF5QBR0XC19IHgVbQE9TWwpHFgxcVFUUGEMAV1FeQQENVF1CJ1VHCF9a","queueTime":0,"applicationTime":170,"atts":"SENRFl5IGR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7bc6d8a4d2","applicationID":"931702","transactionName":"ZARSYBZSChBRW0QPWV1Oc0EXRwsOH15fCVJDAF5QBR0XC19IHgVbQE9TWwpHFgxcVFUUGEMAV1FeQQENVF1CJ1VHCF9a","queueTime":3,"applicationTime":125,"atts":"SENRFl5IGR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-627.min.js"}</script>
 <script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
@@ -444,4 +487,4 @@
 </script>
 
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
