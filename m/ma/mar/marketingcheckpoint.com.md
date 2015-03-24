@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingcheckpoint.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710103423id_/http%3A//www.marketingcheckpoint.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingcheckpoint.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324140744id_/http%3A//www.marketingcheckpoint.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Marketing Checkpoint
 
