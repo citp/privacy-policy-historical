@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallifechanges.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722142405id_/https%3A//totallifechanges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallifechanges.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324113114id_/https%3A//totallifechanges.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Total Life Changes
 
