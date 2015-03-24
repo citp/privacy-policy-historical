@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the incentivelogic.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804043342id_/http%3A//www.incentivelogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incentivelogic.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324120027id_/http%3A//www.incentivelogic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Incentive Logic
 
 **The Effective Date of this Privacy Policy is May, 2012**
 
 Welcome to the Incentive Logic Internet site (this "Site"), owned and operated by Incentive Logic, Inc. (“Incentive Logic”, “our”, “us” or “we”) and located at the URL; [www.incentivelogic.com](http://www.incentivelogic.com/). Incentive Logic wants you to know what information we learn about you when you visit this Site, what we do with that information and any other information you voluntarily provide us through this Site or by other means and how you can view or change the information we have. This privacy policy describes our information collection and use practices on this Site. It does not apply to information you might provide on another site operated by us, or one of our partners or affiliates, nor does it apply to information you may provide to us through other forums, including offline or through electronic mail.
-
-Incentive Logic Inc. complies with the U.S. – E.U. & U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Information regarding the U.S. - E.U. & U.S. - Swiss Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
 
 If you have questions or complaints regarding our privacy policy or practices, please email us at [info@incentivelogic.com](mailto:info@incentivelogic.com) or through one of the means provided in the Contact Us section below.
 
