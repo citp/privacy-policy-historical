@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundarambnpparibasfs.in privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705110454id_/https%3A//www.sundarambnpparibasfs.in/web/service/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundarambnpparibasfs.in privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324030241id_/https%3A//www.sundarambnpparibasfs.in/web/service/privacypolicy) for the most accurate reproduction.*
 
 # Sundaram BNP Paribas Fund Services Limited
 
