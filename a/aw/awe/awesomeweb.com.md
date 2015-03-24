@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomeweb.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709033127id_/https%3A//www.awesomeweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomeweb.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324131007id_/https%3A//www.awesomeweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · AwesomeWeb
 
@@ -22,6 +22,8 @@ If you are a visitor to the AwesomeWeb website or an AwesomeWeb user (“User”
   * Website Name and URL
   * Profile Photo
   * Portfolio Information
+  * Client Endorsement Information
+  * Client Enquiry Information
   * Credit Card Number
   * Billing Address
   * Visitor Site Preferences
@@ -47,7 +49,7 @@ If you wish to access certain functions within the AwesomeBlog, such as posting 
 
   * Name
   * Email Address
-  * Your Website
+  * Website Name and URL
 
 
 
@@ -55,11 +57,13 @@ If you wish to access certain functions within the AwesomeBlog, such as posting 
 
 ### Visitors to the AwesomeWeb Website
 
-We use the AwesomeWeb User Information, including Personally Identifiable Information, to register your account, fulfill your requests, understand how you are engaging with AwesomeWeb, communicate with you, determine if you are satisfied with the Service, process billing for AwesomeWeb Services, and personalize your experience on the AwesomeWeb website and with the AwesomeWeb Service. We may also use AwesomeWeb User Information to facilitate the delivery of content or advertisements that we believe may be of interest to you, or to communicate with you about new or existing products and services or special offers. For more informationion opting out of these communications, please see the section on “User Privacy Controls” below.
+We use the AwesomeWeb User Information, including Personally Identifiable Information, to register your account, fulfill your requests, understand how you are engaging with AwesomeWeb, communicate with you, determine if you are satisfied with the Service, process billing for AwesomeWeb Services, and personalize your experience on the AwesomeWeb website and with the AwesomeWeb Service.
+
+We may also use AwesomeWeb User Information to facilitate the delivery of content or advertisements that we believe may be of interest to you, or to communicate with you about new or existing products and services or special offers. For more informationion opting out of these communications, please see the section on “User Privacy Controls” below.
 
 ### Visitors to the AwesomeBlog
 
-We may use information you voluntarily provide when visiting the AwesomeBlog to send you e-mail communications, such as information on upcoming webinars, and to understand how you are engaging with and perceive AwesomeWeb Services.
+We may use information you voluntarily provide when visiting the AwesomeBlog to send you e-mail communications, such as information on upcoming events, and to understand how you are engaging with and perceive AwesomeWeb Services.
 
 ## Our Disclosure of Your Information to Third Parties
 
@@ -83,7 +87,7 @@ However, please keep in mind that no security system is impenetrable. It may be 
 
 ## User Privacy Controls
 
-If you have an online account with AwesomeWeb, you can log in, update your account information, and request to deactivate your account from the Account Settings page. You may also unsubscribe from any of our email or direct message communications regarding updates or products by following the unsubscribe instructions in the body of any message or from your Email Settings area.
+If you have an online account with AwesomeWeb, you can log in, update your account information, and request to deactivate your account from the Settings page. You may also unsubscribe from any of our email or direct message communications regarding updates or products by following the unsubscribe instructions in the body of any message or from your Email Settings area.
 
 ## AwesomeWeb’s Use of Cookies
 
@@ -101,6 +105,4 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 If you have any questions about this Privacy Policy, please contact AwesomeWeb at support@awesomeweb.com.
 
-### Effective Date of This Privacy Policy
-
-This Privacy Policy is effective as of January 25, 2014
+**Last updated: September 17, 2014**
