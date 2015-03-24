@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the porndoe.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821141056id_/http%3A//porndoe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porndoe.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324122823id_/http%3A//porndoe.com/privacy) for the most accurate reproduction.*
 
-# PornDoe's Privacy Policy
-
-  * [ Videos ****](https://web.archive.org/)
-  * [ Categories  ****](https://web.archive.org/categories)
-  * Photos ****
-  * [ Pornstars ****](https://web.archive.org/pornstars)
-  * [ Channels ****](https://web.archive.org/channels)
-  * Members ****
-
-
+# PornDoe's Privacy Policy - PornDoe
 
 PornDoe.com („PornDoe“), is committed to protecting the privacy of its users. PornDoe will use our best efforts to ensure that the information you submit to us is used only for the purposes set out in this policy. Any data you provide to us is processed fairly and lawfully. 
 
