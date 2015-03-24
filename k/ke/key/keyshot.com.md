@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyshot.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704173136id_/https%3A//www.keyshot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyshot.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324130744id_/https%3A//www.keyshot.com/privacy) for the most accurate reproduction.*
 
 # Privacy - KeyShot
 
@@ -32,7 +32,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 #### Do we use cookies?
 
-We do not use cookies.
+A cookie is a piece of data stored on the user’s computer tied to information about the user. The KeyShot website uses cookies to collect traffic data and traffic through the purchase process. No personal data is collected. This information is passed on to analytic reports and used to monitor site traffic and completed purchases. To clear your cookies, view these [instructions](https://support.google.com/accounts/answer/32050?hl=en). You may also opt-out using this browser [add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 #### Do we disclose any information to outside parties?
 
@@ -52,7 +52,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 #### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://keyshot.com/terms](http://www.keyshot.com/terms).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [keyshot.com/terms](https://www.keyshot.com/terms).
 
 #### Your consent
 
