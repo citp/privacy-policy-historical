@@ -1,32 +1,33 @@
-<!--The following is the downloaded HTML source of the tombola.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626125006id_/http%3A//www.tombola.co.uk/new/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tombola.com privacy policy that was archived on 2015-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150325004554id_/https%3A//www.tombola.co.uk/new/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+	  
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d3a635623a","applicationID":"6675678","transactionName":"YVRXMBEFDRBVU0RRXlgecQsXKgYXd19eTENZXVkBEUsrDFlVH2hDX0dUBxo0DA9dU0k=","queueTime":0,"applicationTime":33,"ttGuid":"ED561F9D6ED8D0F8","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQHUVVTGwUGU1RUAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 	<title> 
-	Privacy Policy | Tombola Bingo
+	Privacy Policy | tombola Bingo
  </title>
 	 
 	<meta name="description" content="Tombola bingo respects your privacy and we are committed to protecting your personal information. Read our full privacy policy here.">
-	<link rel="alternate" hreflang="en-gb" href="http://www.tombola.co.uk/new/privacy-policy">
-<link rel="alternate" hreflang="it-it" href="http://www.tombola.it/informativa-sulla-privacy">
-<link rel="alternate" hreflang="es-es" href="http://www.tombola.es/politica-privacidad">
+	<link rel="alternate" hreflang="en-gb" href="https://www.tombola.co.uk/new/privacy-policy">
+<link rel="alternate" hreflang="it-it" href="https://www.tombola.it/informativa-sulla-privacy">
+<link rel="alternate" hreflang="es-ES" href="https://www.tombola.es/politica-privacidad">
 	<meta name="og:description" content="Tombola bingo respects your privacy and we are committed to protecting your personal information. Read our full privacy policy here.">
-	<meta property="og:title" content="Privacy Policy | Tombola Bingo">
+	<meta property="og:title" content="Privacy Policy | tombola Bingo">
  
 	<meta property="og:site_name" content="Tombola">
-	<meta property="og:url" content=" http://www.tombola.co.uk/ ">
+	<meta property="og:url" content="https://www.tombola.co.uk/">
 	<meta property="og:type" content="website">
-	<meta property="og:image" content="http://uk-cloud-resources.tombola.com/v140606/images/Logos/tombola_logo_teal_on_transparent.png">	
-	<link rel="shortcut icon" href="http://uk-cloud-resources.tombola.com/favicon.ico">
+	<meta property="og:image" content="https://uk-cloud-resources2.tombola.com/v20150319/images/Logos/tombola_logo_teal_on_transparent.png">	
+	<link rel="shortcut icon" href="https://uk-cloud-resources2.tombola.com/favicon.ico">
 	
 
 	 
-	<link href="http://uk-cloud-resources.tombola.com/v140613/css/_tombola.compiled.min.css" rel="stylesheet" type="text/css">
+	<link href="https://uk-cloud-resources2.tombola.com/v20150319/css/_tombola.compiled.min.css" rel="stylesheet" type="text/css">
 	 
 
 	<!--[if IE]>
-		<link href="http://uk-cloud-resources.tombola.com/v140613/css/iecompat.css" rel="stylesheet" type="text/css" />
+		<link href="https://uk-cloud-resources2.tombola.com/v20150319/css/iecompat.css" rel="stylesheet" type="text/css" />
 	<![endif]-->
 
 	
@@ -34,31 +35,22 @@
 
 
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://uk-cloud-resources.tombola.com/v140619/scripts/_jquery-latest.min.js"></script>
-
-
-	
-<script>
-	var resourcesRoot = "//uk-cloud-resources.tombola.com/";
-</script>
-
-<script type="text/javascript" src="http://uk-cloud-resources.tombola.com/v140619/scripts/_tombola-core.min.js"></script>
-<!--[if IE 6]>
-	<script type="text/javascript" src="http://uk-cloud-resources.tombola.com/v140619/scripts/pngfix/supersleight.js"></script>
-	<script type="text/javascript">
-		$(document).ready(function(){ 
-			$('#page_title,#page_strapline,.support_header img,#playmate_img,#playmate_of_img').supersleight({
-			    shim: '//uk-cloud-resources.tombola.com/scripts/pngfix/x.gif'
-			});
-		}); 
+	<script type="text/javascript" src="https://uk-cloud-resources2.tombola.com/v20150313/scripts/_jquery-latest.min.js"></script>
+		<script>
+		var resourcesRoot = "//uk-cloud-resources2.tombola.com/";
 	</script>
-<![endif]-->
-
-
-
-	<link rel="meta" href="http://uk-cloud-resources.tombola.com/labels.xml" type="application/rdf+xml" title="ICRA labels">
-	<link rel="canonical" href="http://www.tombola.co.uk/new/privacy-policy">
-	<meta http-equiv="pics-Label" content="(pics-1.1 &quot;http://www.icra.org/pics/vocabularyv03/&quot; l gen true for &quot;http://tombola.co.uk&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 1) gen true for &quot;http://www.tombola.co.uk&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 1))">
+	<script type="text/javascript" src="https://uk-cloud-resources2.tombola.com/v20150313/scripts/_tombola-core.min.js"></script>
+	<!--[if IE 6]>
+		<script type="text/javascript" src="https://uk-cloud-resources2.tombola.com/v20150313/scripts/pngfix/supersleight.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){ 
+				$('#page_title,#page_strapline,.support_header img,#playmate_img,#playmate_of_img').supersleight({
+					shim: '//uk-cloud-resources2.tombola.com/scripts/pngfix/x.gif'
+				});
+			}); 
+		</script>
+	<![endif]-->
+	<link rel="canonical" href="https://www.tombola.co.uk/new/privacy-policy">
 		<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
@@ -89,19 +81,16 @@
 
 <body class="Unknown Mozilla Mozilla0  Mozilla0_0 logged_out">
 	<div id="page_wrapper">
-		<script type="text/javascript" src="http://uk-cloud-resources.tombola.com/v140619/scripts/jquery.cookie.js"></script>	<div class="cookieHeader">This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies.
-		<a class=" fancyboxCookieContent" data-modal="true" href="/new/cookie-information">Find out more here</a>
-		<img alt="Close" class="noscale" id="cookieCloseButton" src="http://uk-cloud-resources.tombola.com/v140606/images/buttons/close-button.gif" title="Close">
-	</div>
-
+		
+		
 
 		<div id="page">
 			<div id="page_header" class="">
 
 					<a href="/new/">
-						<div id="page_title">
+						<div id="page_title" class="">
 							tombola bingo
-							<meta itemprop="logo" content="http://uk-cloud-resources.tombola.com/v140606/images/Logos/tombola_logo_teal_on_transparent.png">
+							<meta itemprop="logo" content="https://uk-cloud-resources2.tombola.com/v20150319/images/Logos/tombola_logo_teal_on_transparent.png">
 							<meta itemprop="url" content="/new/">
 						</div>
 					</a>
@@ -110,39 +99,40 @@
 					britain's biggest bingo site
 				</div>
 				<div id="menu_top">
-					<ul class="nobullets headernavlist">
-	<li class="first"><a href="/new/">home</a></li>
-	<li><a href="https://www.tombola.co.uk/new/my-account/login">login</a></li>
-	<li><a href="/new/about-tombola-bingo">about us</a></li>
-	<li><a href="/new/bingo-games">bingo games</a></li>
-	<li><a href="/new/online-bingo-winners">winners</a></li>
-	<li><a href="/new/bingo-help">help</a></li>
-	<li><a href="/new/contact-tombola-bingo">Contact Us</a></li>
-	<li><a href="/new/current-promotions">Promotions</a></li>
-	<li class="last"><a href="/new/app">mobile</a></li>
+					
+<ul class="nobullets headernavlist">
+		<li class="first"><a href="/new/">home</a></li>
+		<li><a href="https://www.tombola.co.uk/new/my-account/login">login</a></li>
+		<li><a href="/new/about-tombola-bingo">about us</a></li>
+		<li><a href="/new/bingo-games">bingo games</a></li>
+		<li><a href="/new/online-bingo-winners">winners</a></li>
+			<li><a href="/new/refer-a-friend">refer a friend</a></li>
+		<li><a href="/new/bingo-help">help</a></li>
+		<li><a href="/new/contact-tombola-bingo">Contact Us</a></li>
+		<li><a href="/new/current-promotions">Promotions</a></li>
+		<li class="last"><a href="/new/app">mobile</a></li>
 </ul>
-
 
 				</div>
 
-					<div id="header_balance_loggedout">
-
+							<div id="header_balance_loggedout">
+			
 <div class="relative">
 	<div id="header_players_online">
 		<label>players online:</label>
-		<span>3,752</span>
+		<span>4,201</span>
 	</div>
 	<div id="header_bingo90_jackpot">
 		<label>bingo90 jackpot:</label>
-		<span>£1,174</span>
+		<span>£4,153</span>
 	</div>
 
 
-			<a href="https://www.tombola.co.uk/new/register/join-tombola-bingo?area=&amp;fromjoinnow=true" class="join_tombola_bingo">click to join now</a>
+		<a href="https://www.tombola.co.uk/new/register/join-tombola-bingo?area=&amp;fromjoinnow=true" class="join_tombola_bingo">click to join now</a>
 
 </div>
 </div>
-	
+
 
 			</div>
 			<div class="page_divider"></div>
@@ -155,92 +145,91 @@
 <div id="privacy_policy">
 	<h1>Privacy Policy</h1>
 	<div class="content_block">
-	The Company respects your privacy and we are committed to protecting your personal information. We have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your personal information.
-</div>
+		The Company respects your privacy and we are committed to protecting your personal information. We have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your personal information.
+	</div>
 
-<div class="content_block">
-	<h2>Consent to the Privacy Policy</h2>
-	<p>
-		When registering with the site you are agreeing to the Privacy Policy. The Privacy Policy should read in conjunction with the Terms and Conditions and any additional applicable terms posted on the site. We may make changes to this policy and we will notify you by way of posting the modified Privacy Policy on the site and we advise you to revisit the Privacy Policy on a regular basis.<br>
-		We guarantee that access to your personal account information is restricted to you by your unique user name and password. All details are stored under the strictest supervision. We want to ensure complete trust from our players and to make playing tombola an enjoyable experience. 
-	</p>
-</div>
+	<div class="content_block">
+		<h2>Consent to the Privacy Policy</h2>
+		<p>
+			When registering with the site you are agreeing to the Privacy Policy. The Privacy Policy should read in conjunction with the Terms and Conditions and any additional applicable terms posted on the site. We may make changes to this policy and we will notify you by way of posting the modified Privacy Policy on the site and we advise you to revisit the Privacy Policy on a regular basis.<br>
+			We guarantee that access to your personal account information is restricted to you by your unique user name and password. All details are stored under the strictest supervision. We want to ensure complete trust from our players and to make playing tombola an enjoyable experience.
+		</p>
+	</div>
 
-<div class="content_block">
-	<h2>Security</h2>
-	<p>
-		We have implemented suitable security policies and rules and fully understand the importance of information security and the need to store it securely. We store all personal information within a secure network meaning data, passed back and forth between your computer and our systems is secured using public key cryptography. Your computer exchanges key information with our servers to create a private conversation that only your computer and our servers can understand. Our links with our payment gateway (a leading UK e-commerce payment company) uses the same technology to transmit any payment information securely. They in turn have secure encrypted links between themselves and all of the major banks to allow the payment to be processed. tombola employees do NOT have access to your full credit/debit card details.
-	</p>
-</div>
+	<div class="content_block">
+		<h2>Security</h2>
+		<p>
+			We have implemented suitable security policies and rules and fully understand the importance of information security and the need to store it securely. We store all personal information within a secure network meaning data, passed back and forth between your computer and our systems is secured using public key cryptography. Your computer exchanges key information with our servers to create a private conversation that only your computer and our servers can understand. Our links with our payment gateway (a leading UK e-commerce payment company) uses the same technology to transmit any payment information securely. They in turn have secure encrypted links between themselves and all of the major banks to allow the payment to be processed. tombola employees do NOT have access to your full credit/debit card details.
+		</p>
+	</div>
 
-<div class="content_block">
-	<h2>Information Collected</h2>
-	<p>
-		The personal information that we collect may include information such as contact information, name, address, age, gender, telephone number, email address, billing information, transaction history, web site usage and feedback about our services and site. We hold this information on servers in Gibraltar. You will be asked to provide this information when you register with the site or services.
-	</p>
-</div>
+	<div class="content_block">
+		<h2>Information Collected</h2>
+		<p>
+			The personal information that we collect may include information such as contact information, name, address, age, gender, telephone number, email address, billing information, transaction history, web site usage and feedback about our services and site. We hold this information on servers in Gibraltar. You will be asked to provide this information when you register with the site or services.
+		</p>
+	</div>
 
-<div class="content_block">
-	<h2>Use of Information</h2>
-	<p>
-		We use the personal information that we collect from you to deliver the service, provide customer support and to undertake necessary security and identity verification checks to process any online transaction as well as meeting certain requirements of the business such as publishing the information on the site of winners and also for marketing purposes. We may from time to time request information from you via surveys etc, these are on a voluntary basis and may also request other information from you such as demographic information. We may also provide you with services relating to the site, process any requests relating to Customer Services, market our services or products, or provide you with updates to our products and site.
-	</p>
-</div>
+	<div class="content_block">
+		<h2>Use of Information</h2>
+		<p>
+			We use the personal information that we collect from you to deliver the service, provide customer support and to undertake necessary security and identity verification checks to process any online transaction as well as meeting certain requirements of the business such as publishing the information on the site of winners and also for marketing purposes. We may from time to time request information from you via surveys etc, these are on a voluntary basis and may also request other information from you such as demographic information. We may also provide you with services relating to the site, process any requests relating to Customer Services, market our services or products, or provide you with updates to our products and site.
+		</p>
+	</div>
 
-<div class="content_block">
-	<h2>Consent to Use Electronic Service Providers</h2>
-	<p>
-		In order to take part in the pay to play games on the site, you are required to send money to and receive money from us. We may use third party payment processors and or financial institutions to process financial transactions. By accepting this Privacy Policy you consent to personal information necessary to process such transactions being shared with such parties. We take steps to ensure that our arrangements with these providers protect your privacy.
-	</p>
-</div>
+	<div class="content_block">
+		<h2>Consent to Use Electronic Service Providers</h2>
+		<p>
+			In order to take part in the pay to play games on the site, you are required to send money to and receive money from us. We may use third party payment processors and or financial institutions to process financial transactions. By accepting this Privacy Policy you consent to personal information necessary to process such transactions being shared with such parties. We take steps to ensure that our arrangements with these providers protect your privacy.
+		</p>
+	</div>
 
-<div class="content_block">
-	<h2>Certain Excluded Disclosures</h2>
-	<p>
-		We may disclose your personal information if required to do so by law, or if we believe that such action is in good faith such as to comply with any legal action served on us, the site, or the services, protect our rights or property and to act to protect the personal safety of users of the service. If you have been found to have defrauded or cheated the company or any service including game manipulation or payment fraud, including stolen credit cards, or fraudulent activity (including chargeback or other reversal of a payment) or money laundering we reserve the right to share this information including your identity with other online gaming sites, banks, credit companies and agencies.
-	</p>
-</div>
+	<div class="content_block">
+		<h2>Certain Excluded Disclosures</h2>
+		<p>
+			We may disclose your personal information if required to do so by law, or if we believe that such action is in good faith such as to comply with any legal action served on us, the site, or the services, protect our rights or property and to act to protect the personal safety of users of the service. If you have been found to have defrauded or cheated the company or any service including game manipulation or payment fraud, including stolen credit cards, or fraudulent activity (including chargeback or other reversal of a payment) or money laundering we reserve the right to share this information including your identity with other online gaming sites, banks, credit companies and agencies.
+		</p>
+	</div>
 
-<div class="content_block">
-	<h2>Third Party Practices</h2>
-	<p>
-		We cannot ensure the protection of any information or image you provide to a third party online site that links to or from this website, such as affiliates, as they will operate their own privacy policy and operated independently and you should therefore be familiar with their privacy policy as we resume no responsibility or liability what so ever for the practices of the third party.
-	</p>
-</div>
+	<div class="content_block">
+		<h2>Third Party Practices</h2>
+		<p>
+			We cannot ensure the protection of any information or image you provide to a third party online site that links to or from this website, such as affiliates, as they will operate their own privacy policy and operated independently and you should therefore be familiar with their privacy policy as we resume no responsibility or liability what so ever for the practices of the third party.
+		</p>
+	</div>
 
-<div class="content_block">
-	<h2>Protection of Children</h2>
-	<p>
-		The services on tombola are not intended for or directed to persons under the age of 18. Any person who provides their information to us through our site represents that they are over 18. We reserve the right to access and verify any information submitted to us by you. If we become aware that a minor has attempted to or has submitted personal information via the site, we will not take steps to remove such information from our records.
-	</p>
-</div>
+	<div class="content_block">
+		<h2>Protection of Children</h2>
+		<p>
+			The services on tombola are not intended for or directed to persons under the age of 18. Any person who provides their information to us through our site represents that they are over 18. We reserve the right to access and verify any information submitted to us by you. If we become aware that a minor has attempted to or has submitted personal information via the site, we will not take steps to remove such information from our records.
+		</p>
+	</div>
 
-<div class="content_block">
-	<h2>Cookies</h2>
-	<p>
-		Cookies are small text files that are stored on your computer’s hard drive for record keeping purposes. Cookies can help us recognise you each time you visit the site. You are not obliged to accept cookies from us or any other website. You can modify your browser by going into preferences or help on how to stop accepting cookies.
-	</p>
-</div>
+	<div class="content_block">
+		<h2>Cookies</h2>
+		<p>
+			Cookies are small text files that are stored on your computer’s hard drive for record keeping purposes. Cookies can help us recognise you each time you visit the site. You are not obliged to accept cookies from us or any other website. You can modify your browser by going into preferences or help on how to stop accepting cookies.
+		</p>
+	</div>
 
-<div class="content_block">
-	<h2>Consent to the Privacy Policy</h2>
-	<p>
-		When registering with the site you are agreeing to the Privacy Policy. The Privacy Policy should read in conjunction with the Terms and Conditions and any additional applicable terms posted on the site. We may make changes to this policy and we will notify you by way of posting the modified Privacy Policy on the site and we advise you to revisit the Privacy Policy on a regular basis
-	</p>
-</div>
-<div class="content_block">
-	<h2>Data Protection Act Registration</h2>
-	<p>
-		tombola (International) plc is registered in Gibraltar. We comply with the Gibraltar Data Protection Act 2004 we also comply with the UK data protection act 1998 registration number: PZ9208661. For a copy of our registrations under the Acts, please contact us via email at <a href="mailto:support@tombola.co.uk">support@tombola.co.uk</a>. Further information can also be found here: <a href="http://www.gra.gi/index.php?site=dataprotection">Gibraltar</a> / <a href="http://www.dpr.gov.uk/">UK</a>
-	</p>
-</div>
-<div class="content_block">
-	<h2>Opting out of Email</h2>
-	<p>
-		You can choose to opt out of receiving email from tombola at any time. To opt out of all email marketing messages from tombola login to your tombola account and go to the ‘contact prefs’ tab and untick the newsletter box and click save. After 48 hours you will no longer receive any marketing via email.
-	</p>
-</div>
-
+	<div class="content_block">
+		<h2>Consent to the Privacy Policy</h2>
+		<p>
+			When registering with the site you are agreeing to the Privacy Policy. The Privacy Policy should read in conjunction with the Terms and Conditions and any additional applicable terms posted on the site. We may make changes to this policy and we will notify you by way of posting the modified Privacy Policy on the site and we advise you to revisit the Privacy Policy on a regular basis
+		</p>
+	</div>
+	<div class="content_block">
+		<h2>Data Protection Act Registration</h2>
+		<p>
+			tombola (International) plc is registered in Gibraltar. We comply with the Gibraltar Data Protection Act 2004 we also comply with the UK data protection act 1998 registration number: PZ9208661. For a copy of our registrations under the Acts, please contact us via email at <a href="mailto:support@tombola.co.uk">support@tombola.co.uk</a>. Further information can also be found here: <a href="http://www.gra.gi/index.php?site=dataprotection">Gibraltar</a> / <a href="http://www.dpr.gov.uk/">UK</a>
+		</p>
+	</div>
+	<div class="content_block">
+		<h2>Opting out of Email</h2>
+		<p>
+			You can choose to opt out of receiving email from tombola at any time. To opt out of all email marketing messages from tombola login to your tombola account and go to the ‘contact prefs’ tab and untick the newsletter box and click save. After 48 hours you will no longer receive any marketing via email.
+		</p>
+	</div>
 
 </div>
 
@@ -250,55 +239,58 @@
 			</div>
 			<div id="page_footer">
 				<div id="menu_bottom">
-						<ul class="nobullets">              
-		<li><a href="/new/free-bingo-bonus">Bingo Bonus</a></li>
-		<li><a href="/new/terms-and-conditions">Terms &amp; Conditions</a></li>
+					
+
+	<ul class="nobullets">              
+		<li><a href="/new/free-bingo-bonus">Welcome Bonus</a></li>
+		<li><a href="/new/terms-and-conditions">Terms and Conditions</a></li>
 		<li><a href="/new/privacy-policy">Privacy Policy</a></li>
-		<li><a data-popup="true" data-popup-width="800" href="/new/responsible-gambling">Responsible Gambling</a></li>	
+		<li><a data-popup="true" data-popup-width="800" href="/new/responsible-gambling">Play Responsibly</a></li>	
 		<li class="last"><a data-popup="true" data-popup-width="800" href="/new/fair-gambling">Fair Gambling</a></li>	
 	</ul>
 	<ul class="nobullets">
-		<li><a href="/new/bingo-affiliate-program">Affiliates</a></li>
-		<li><a href="http://www.tombola.it" target="_blank" class="footer">tombola.it</a></li>
-		<li><a href="http://www.tombola.es" target="_blank" class="footer">tombola.es</a></li>
-		<li><a href="/new/press-office">Press Office</a></li>
-		<li><a href="https://www.tombola.co.uk/new/online-bingo-blog">Blog</a></li>
-		<li><a href="/new/bingo-chat-community">Bingo Chat</a></li>
+		<li><a href="/new/bingo-affiliate-program?area=BingoAffiliateProgram">Affiliates</a></li>
+		<li><a href="https://www.tombola.it" target="_blank" class="footer">tombola.it</a></li>
+		<li><a href="https://www.tombola.es" target="_blank" class="footer">tombola.es</a></li>
+		<li><a href="/careers">careers</a></li>
+		<li><a href="https://www.tombola.co.uk/times" target="_blank" class="footer">Blog</a></li>
+		<li><a href="/new/bingo-chat-community">Chat Community</a></li>
 		<li><a href="/new/contact-tombola-bingo">Contact Us</a></li>
-		<li class="last"><a href="/new/bingo-sites">Bingo Sites</a></li>
 	</ul>
-
-
-
-
-
 
 				</div>
 				<div id="footer_payment_and_gambling_links">
-					<img alt="We accept: Visa Debit, Visa, Mastercard, Maestro and Paypal" id="paypal_card_icon" src="http://uk-cloud-resources.tombola.com/v140606/images/payment/card_logos_small.png" title="We accept: Visa Debit, Visa, Mastercard, Maestro and Paypal">
+					
 
-<a href="/new/responsible-gambling" data-popup="true" data-popup-width="950">
-	<img alt="Over 18s only" height="23" src="http://uk-cloud-resources.tombola.com/v140606/images/responsible_gambling/logo_Over18.gif" title="Over 18s only" width="23">
+<a class="footer-gambling-links" href="/new/responsible-gambling" data-popup="true" data-popup-width="950">
+	<img alt="Over 18s only" height="23" src="https://uk-cloud-resources2.tombola.com/v20150319/images/responsible_gambling/logo_Over18.gif" title="Over 18s only" width="23">
 </a>
 
-<a href="http://www.gibraltar.gov.gi/remotegambling" target="_blank" rel="nofollow">
-	<img alt="Licensed by the Gibraltar Gambling Authority" id="alderny_gamble_control_icon" src="http://uk-cloud-resources.tombola.com/v140606/images/responsible_gambling/GIBcrestlogo.gif" title="Licensed by the Gibraltar Gambling Authority"></a>
-
-<a href="/new/responsible-gambling" data-popup="true" data-popup-width="950">
-	<img alt="GamCare Certified" id="gamcare_certification_icon" src="http://uk-cloud-resources.tombola.com/v140606/images/responsible_gambling/new_gamecare.gif" title="GamCare Certified">
+<a class="footer-gambling-links" href="http://www.gibraltar.gov.gi/remotegambling" target="_blank" rel="nofollow">
+	<img alt="Licensed by the Gibraltar Gambling Authority" id="alderny_gamble_control_icon" src="https://uk-cloud-resources2.tombola.com/v20150319/images/responsible_gambling/GIBcrestlogo.gif" title="Licensed by the Gibraltar Gambling Authority">
 </a>
 
-<a href="http://www.gamcare.org.uk" target="_blank" rel="nofollow">
-	<img alt="UK's National centre for information" id="gamcare_icon" src="http://uk-cloud-resources.tombola.com/v140606/images/responsible_gambling/gamecare_g.gif" title="UK's National centre for information"></a>
+<a class="footer-gambling-links" href="http://www.gamcare.org.uk/training-and-certification/gamcare-certification/who-gamcare-certified" target="blank" rel="nofollow">
+	<img alt="GamCare certified" height="23" id="gamcare_certification_icon" src="https://uk-cloud-resources2.tombola.com/v20150319/images/responsible_gambling/gambling-support.png" title="GamCare certified" width="39">
+</a>
 
-<a href="http://www.gambleaware.co.uk/" target="_blank" rel="nofollow">
-	<img alt="Gamble Aware Logo" id="gambleaware_logo" src="http://uk-cloud-resources.tombola.com/v140606/images/responsible_gambling/gambleaware.gif" title="Gamble Aware Logo">
+<a class="footer-gambling-links" href="http://www.gamcare.org.uk" target="_blank" rel="nofollow">
+	<img alt="UK's National centre for information" height="23" id="gamcare_icon" src="https://uk-cloud-resources2.tombola.com/v20150319/images/responsible_gambling/GamCare-logo.png" title="UK's National centre for information" width="53">
+</a>
+
+<a class="footer-gambling-links" href="http://www.gambleaware.co.uk/" target="_blank" rel="nofollow">
+	<img alt="" id="gambleaware_logo" src="https://uk-cloud-resources2.tombola.com/v20150319/images/responsible_gambling/gambleaware.gif" title="">
+</a>
+<a class="footer-gambling-links" href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=38613" target="_blank" rel="nofollow">
+	<img alt="gambling commission" id="gambling-commission-logo" src="https://uk-cloud-resources2.tombola.com/v20150319/images/responsible_gambling/gambling-commission-transparent_small.png" title="gambling commission">
 </a>
 				</div>
 			</div>
 		</div>
 		<div id="page_seofooter">
-			<p>© tombola Ltd. 2005 - 2014, operated by tombola (International) Plc, company no. 105556 at operating address 7/9 Cornwall's Lane, Gibraltar. </p>
+			<img alt="We accept: Visa Debit, Visa, Mastercard, Maestro and Paypal" id="card_icons" src="https://uk-cloud-resources2.tombola.com/v20150319/images/payment/card_logos_small.png" title="We accept: Visa Debit, Visa, Mastercard, Maestro and Paypal">
+<p>Licensed and regulated by the UK Gambling Commission.</p>
+<p>© tombola Ltd. 2005 - 2015, operated by tombola (International) Plc, company no. 105556 at operating address 7/9 Cornwall's Lane, Gibraltar. </p>
 <p>Licensed by the Government of Gibraltar (RGL No. 052) and regulated by the Gibraltar Gambling Commissioner. </p>
 <p>&nbsp;</p>
 
@@ -316,20 +308,12 @@ document.write('<SCRIPT language="JavaScript1.1" SRC="https://ad.doubleclick.net
 	  
 
 	
-	<div class="zeropixel">
-	<!-- aff start -->
 	
+
 	
-	<!-- aff end -->
-</div>
-	<div class="zeropixel">
-	<!-- adnetwork start -->
-		
-	
-	<!-- adnetwork end -->
-</div>
+
 	<!--[if IE]>
-		<script type="text/javascript" src="http://uk-cloud-resources.tombola.com/v140619/scripts/_attachPIE.min.js"></script>
+		<script type="text/javascript" src="https://uk-cloud-resources2.tombola.com/v20150313/scripts/_attachPIE.min.js"></script>
 	<![endif]-->
 
 
