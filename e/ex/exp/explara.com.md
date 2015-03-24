@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the explara.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112829id_/http%3A//www.explara.com/privacy-policy/%3Futm_campaign%3DprivacyPolicy%26utm_medium%3Dfooter%26utm_source%3DhomePage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explara.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324112311id_/https%3A//www.explara.com/privacy-policy%3Futm_campaign%3DprivacyPolicy%26utm_medium%3Dfooter%26utm_source%3DhomePage) for the most accurate reproduction.*
 
-# Explara : Privacy Policy
+# Privacy policy | Explara.com
+
+## Privacy Policy
 
 We work hard to earn and keep your trust, therefore your privacy is our top most focus.
 
