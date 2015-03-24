@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006225229id_/http%3A//www.lovemoney.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324111523id_/https%3A//www.lovemoney.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # lovemoney.com - Live life richer with lovemoney.com
 
@@ -25,7 +25,7 @@ We may also place a pixel on pages on our site, or those of our advertisers and 
 
 If your browser is set up to accept them, we also use a feature known as a cookie. Cookies contain bits of information that websites transfer to your computer's hard drive for record keeping purposes. Cookies can make the web more useful by storing information about your preferences on a particular site such as ours. 
 
-To find out how cookies are used at lovemoney.com please read our cookies on LoveMoney guide. 
+To find out how cookies are used at lovemoney.com please read our [cookies on LoveMoney](https://web.archive.org/Cookies) guide. 
 
 At lovemoney.com, cookies are used the following ways:
 
@@ -95,11 +95,11 @@ The Act gives you the right to access information held about you. Your right of 
 
 lovemoney.com ltd may amend this privacy statement from time to time. If we make any substantive changes to this policy, we'll announce it on our site.
 
-## Part 2: MoneyTrack
+## Part 2: MoneyTrack and Plans
 
-The following additional statements apply to information provided as part of our MoneyTrack service.
+The following additional statements apply to information provided as part of our MoneyTrack and Plans services.
 
-##### Security of our MoneyTrack service: what you need to know
+##### Security of our Plans MoneyTrack services: what you need to know
 
 lovemoney.com ltd employs leading-edge technologies, standards, and business practices to protect your personal data. Key components of our security include:
 
@@ -115,7 +115,7 @@ In addition, we are partnered with Yodlee who store and manage account access de
 
 ##### Browser communications encryption
 
-lovemoney.com MoneyTrack employs SSL certificates with Extended Validation. This is currently the most secure certificate available. With this certificate more modern browsers are able to use 256-bit encryption and for older browsers it ensures that 128-bit encryption is possible. Click on the lock icon in your browser's status bar to learn more.
+lovemoney.com MoneyTrack and Plans employ SSL certificates. Click on the lock icon in your browser's status bar to learn more.
 
 ##### Extensive firewalls
 
@@ -123,7 +123,7 @@ Access to our hosting infrastructure is protected by state of the art firewalls 
 
 ##### Data
 
-All your profile data is securely housed in an internet server hosting space that provides enhanced physical security, fire protection and electronic shielding. Access details for online bank accounts are not stored alongside your lovemoney.com profile information, rather these are stored on our account aggregation partner Yodlee's infrastructure. This arrangement provides an added level of security as there is a clear separation of the storage of personal details and account details. 
+All your profile data is securely housed in an internet server hosting space that provides enhanced physical security, fire protection and electronic shielding. 
 
 ##### Network intrusion detection systems
 
