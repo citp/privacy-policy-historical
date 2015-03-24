@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modaco.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027142651id_/http%3A//www.modaco.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modaco.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324220623id_/http%3A//www.modaco.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - MoDaCo
 
