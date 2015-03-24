@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ama.ab.ca privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127024056id_/http%3A//ama.ab.ca/about-ama/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ama.ab.ca privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324164953id_/https%3A//ama.ab.ca/about-ama/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AMA
+# Privacy Policy
 
-_[Click here for the Alberta Motor Association Internet Privacy Statement.](https://web.archive.org/about-ama/internet-privacy-statement/)_
+_[Click here for the Alberta Motor Association Website Usage and Privacy Statement.](https://web.archive.org/about-ama/internet-privacy-statement/)_
 
 ## Introduction
 
@@ -10,15 +10,12 @@ The Alberta Motor Association is a membership organization where the action of e
 
 In accordance with AMA’s Visions, Values and Expected Behaviours, AMA is committed to safeguarding your privacy by protecting personal information you provide to us. AMA’s Privacy Policy complies with all governing privacy legislation. Our Privacy Policy applies to the Alberta Motor Association and its affiliates:
 
-**AMA Financial Services (2005) Ltd.;  
-A.M.A. Insurance Agency Ltd.;  
-AMA Services Ltd.;  
 Alberta Motor Association Insurance Company;  
-Alberta Motor Association Travel Agency Ltd.;  
+AMA Agencies Ltd.;  
 AMA Properties Ltd.;  
 AMA Foundation For Traffic Safety;  
 and  
-Bridgewater Bank**
+Bridgewater Bank (who may have additional privacy policies and statements).
 
 AMA and its affiliates are referred to as AMA throughout this Privacy Policy.
 
@@ -77,9 +74,15 @@ AMA may charge, in accordance with applicable laws, a reasonable fee for access 
 
 AMA is operating on the understanding that we have your consent to use and disclose your personal information collected to date, and to do so in accordance to our Privacy Policy. However, you may refuse or withdraw your consent at any time, subject to legal or contractual restrictions and providing AMA with reasonable notice of the withdrawal of your consent. If you choose to withdraw consent or not provide certain personal information, your decision may limit the services and products AMA can offer and may make it more difficult for AMA to provide you with advice.
 
-## Internet related policies
+## AMA Website Privacy
 
-AMA provides a number of benefits and services through our website ([ama.ab.ca](http://www.ama.ab.ca/)), many of which are exclusive to AMA members. When you visit AMA’s website without registering or logging in, your personal information and e-mail address is not recorded. To gain access to AMA member on-line exclusive services, you will have to identify yourself as an AMA member and provide some personal information in the sign up process. In addition, the AMA website uses “cookies” solely to identify you as a return visitor. AMA does not send unsolicited e-mail and does not sell or redistribute personal information. When you leave AMA’s website by linking to another website, you are subject to the privacy and security policies of the new website. AMA encourages you to read the privacy policies of all websites you visit, especially if you shared any personal information with them. For further information on AMA Internet privacy, visit [AMA’s Internet Privacy Statement](https://web.archive.org/general/internet-privacy).
+AMA provides a number of benefits and services through our website ([ama.ab.ca](http://www.ama.ab.ca/)), many of which are exclusive to AMA members. When you visit AMA’s website without registering or logging in, your personal information and e-mail address are not recorded. AMA does track depersonalized usage of its website using tools such as Google Analytics.
+
+To gain access to AMA member on-line exclusive services, you will have to identify yourself as an AMA member and provide some personal information in the sign up process. In addition, the AMA website uses “cookies” solely to identify you as a return visitor.
+
+Our e-mail interaction with our members and customers are compliant with Canadian Anti-Spam Legislation. AMA does not send unsolicited e-mail and does not sell personal information, like your e-mail address, to third-parties.
+
+When you leave AMA’s website by linking to another website, you are subject to the privacy and security policies of the new website. AMA encourages you to read the privacy policies of all websites you visit, especially if you shared any personal information with them. For further information on AMA Internet privacy, visit [AMA’s Website Usage and Privacy Statement](http://ama.ab.ca/general/internet-privacy "AMA’s Website Usage Statement").
 
 ## Questions and access
 
