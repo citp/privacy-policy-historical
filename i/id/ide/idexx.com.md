@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idexx.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709124724id_/https%3A//www.idexx.com/corporate/common/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idexx.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324022337id_/https%3A//www.idexx.com/corporate/common/privacy-policy.html) for the most accurate reproduction.*
 
 # IDEXX Laboratories, Inc. Privacy Policy Statement
 
@@ -31,7 +31,17 @@ Registration Information—If you register, sign up for a service, or contact us
 
 Credit Card Information—If you purchase products or services through IDEXX Online Orders, the credit card information you submit through IDEXX Online Orders, such as name, address, credit card number, and verification number, goes directly to a third-party payment processor. IDEXX does not store or retain credit card information submitted through IDEXX Online Orders.
 
-Cookies—Cookies are small files that are stored on a website user’s computer and are designed to help a website operator recognize a particular user and to measure which pages are viewed and the time spent on certain pages. To help improve the IDEXX Website user experience, IDEXX may use cookies or other available technology to learn more about how users navigate through the sites, to customize a particular user’s experience on our sites, and to perform other personalization functions. We may also use cookies to help authenticate users of certain IDEXX web applications. If you reject the IDEXX cookies, you may still use the IDEXX Website but may not have access to or use of certain services. IDEXX controls all cookies on its Websites. IDEXX may partner with third-party advertisers or ad networks to display advertising on our Websites. These parties may use cookies to collect non-personally identifiable information about your use of IDEXX Websites in order to present advertising tailored to you. These services have their own privacy policies, which you should review.
+About Cookies—Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They help users navigate websites efficiently and enable certain website functionality. Cookies are also used by web developers to measure how you use the website so it can be updated and improved based on your needs. Due to their core role of enhancing and enabling website functionality, you may lose certain functionality if you choose to disable cookies.
+
+Cookies from IDEXX websites
+
+IDEXX Cookies—IDEXX cookies are used to remember the selections or preferences that you have made, thereby improving your user experience with the IDEXX website. These cookies allows us to authenticate users of certain IDEXX web applications, to customise a particular user’s experience, to remember if you have accepted our use of cookies on your device, and to perform other personalisation functions. We may also use these cookies to learn more about how users navigate through our sites. If you disable the IDEXX cookies, you may still use the IDEXX website but may not have access to or use of certain services. To opt out of being tracked by IDEXX cookies across all websites, see **How to disable or delete cookies** below.
+
+Google Analytics Cookies—Google Analytics cookies (for example, utma, utmb, utmc, utmz, utmv) collect aggregated information about how visitors use our website; for instance, how many unique visitors we have to our sites, what pages on our website you visit, how long you are on our websites, and how you got here, whether via a direct method, a referring link, a website search or a campaign such as an ad or an email link. The data is then aggregated to help us understand how visitors are using our site so that we can create a better experience for you. Information collected from Google Analytics cookies may be transmitted to and stored by Google and is subject to [Google’s Privacy Policy](https://www.google.com/privacy.html). To opt out of being tracked by Google Analytics across all of our websites, see **How to disable or delete cookies** below.
+
+How to disable or delete cookies—Information on deleting or controlling cookies is available at [aboutcookies.org](http://aboutcookies.org/). Please note that by deleting cookies or disabling future cookies you may be prevented from utilising certain website functionality. If you want to restrict or block the cookies placed on your computer or device, you'll need to refer to your website browser settings to change settings or block cookies.
+
+Google Analytics is a trademark of Google Inc.
 
 Use of Information
 
