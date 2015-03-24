@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foundationdb.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704030536id_/https%3A//foundationdb.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundationdb.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325003355id_/https%3A//foundationdb.com/legal/privacy) for the most accurate reproduction.*
 
-# FoundationDB — Privacy Policy
+# Privacy Policy — FoundationDB
 
-### Last revised: August 16, 2013
+### Last revised: September 18, 2014
 
 FoundationDB, LLC (“FoundationDB” or “we”) has created this privacy policy (the “Policy”) to demonstrate the importance of protecting the privacy of Personal information, as defined below, you may provide FoundationDB through our website (“Website”). When you access our Website or otherwise provide FoundationDB with your Personal Information, you give FoundationDB your consent to process and use such submitted information in accordance with the terms and conditions of this Policy. This Privacy Statement describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us.
 
@@ -14,7 +14,7 @@ We may, at our sole discretion, edit this Policy from time to time. Any changes 
 
 ## What information do we collect?
 
-We collect information from you when you register on our Website or fill out a form. When ordering or registering on our Website, as appropriate, you may be asked to enter your: name, email address, phone number, company, or other personal information that identifies you (the “Personal Information”).
+We collect information from you when you register on our Website or fill out a form. When ordering or registering on our Website, as appropriate, you may be asked to enter your: name, email address, phone number, company, or other personal information that identifies you (the “Personal Information”). We also collect and store the Internet Protocol address (IP address) of visitors to the Website.
 
 Please note that the Website is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States, which does not have the same data protection laws as the EU or other regions. By providing your Personal Information you consent to the use of your Personal Information as described in, and in accordance with this Policy, as well as the transfer of your personal data to the United States as indicated above.
 
@@ -36,7 +36,7 @@ Any of the information we collect from you may be used in one of the following w
 
 
 
-## Do we use cookies or web beacons?
+## Do we use cookies or other similar technologies?
 
 Yes. Cookies are small files that a Website or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the Websites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to compile aggregate data about Website traffic and Website interaction so that we can offer better Website experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our Website visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -62,7 +62,7 @@ We respect the sensitive nature of children’s privacy online. We do not direct
 
 ## What security do you employ?
 
-We use various security measures to protect the information we collect, as appropriate to the type of information, including encryption, firewalls, and access controls.
+We use various security measures designed to protect the information we collect, as appropriate to the type of information, including encryption, firewalls, and access controls.
 
 ## Do you retain data?
 
