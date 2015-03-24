@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the slotobar.com privacy policy that was archived on 2014-07-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703013535id_/https%3A//slotobar.com/en/page/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slotobar.com privacy policy that was archived on 2015-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150324061504id_/https%3A//slotobar.com/en/page/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
@@ -46,7 +46,7 @@
 
 
         <link rel="shortcut icon" type="image/x-icon" href="https://5236871.pix-cdn.org/static//img/favicon.ico">
-<link type="text/css" rel="stylesheet" href="/static/css/packed.css?ed590b76">
+<link type="text/css" rel="stylesheet" href="/static/css/packed.css?b8c93c69">
 <style type="text/css">
     .main_searchbar_text:focus::-webkit-input-placeholder
     {
@@ -57,14 +57,15 @@
     <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://widget.siteheart.com/apps/js/sh.js"></script><script type="text/javascript" async="" src="https://cdn.dmpcounter.com/s/dmp.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://widget.siteheart.com/widget/sh/743767/en/widget.js"></script><script type="text/javascript" async="" src="https://cdn.dmpcounter.com/s/dmp.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
 <script type="text/javascript">
     var userAccountCurrency = '';
     var URL = 'https://slotobar.com';
     var STATIC_URL = 'https://5236871.pix-cdn.org/static/';
+    var MEDIA_URL = 'https://5236871.pix-cdn.org';
     var STREAM_URL = 'https://slotobar.com';
-    var _xsrf = '9ce2faa6e74747a5ba24c7e04a2344c7';
+    var _xsrf = '5c7742e4112841fe9b112c176deed961';
     var lang = 'en';
             var auth = false;
                 var DEBUG = false;
@@ -150,6 +151,21 @@
     </script>
 
     <script type="text/x-template" id="game-view">
+            <%
+                function getSeoGameUrl(g, prefix) {
+                    prefix || (prefix = "/promo/1/");
+                    var tail = prefix + String(g.gid);
+                    if (g.hasOwnProperty("urls")) {
+                        if (g.urls.hasOwnProperty(lang)) {
+                            tail = g.urls[lang].url;
+                        } else if (g.urls.hasOwnProperty("en")) {
+                            tail = g.urls.en.url;
+                        }
+                    }
+                    return tail;
+                }
+            %>
+
             <% if (g['new']) { %>
                 <% if (lang === 'ru') { %>
                     <span class="new_game_lb"></span>
@@ -164,23 +180,86 @@
                 <i class="main_game_thumb_helper"></i>
                 <div class="main_game_thumb_actions_wrapper">
                 <% if (g.demo) { %>
-                    <a name="playgame" <% if (! auth) { %> rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="game_click" <% } %> href="<% if (auth) { %><%- URL %>/game/<%- g.gid %><% } else { %>#<% } %>" class="i_game_thumb_play"><i class="i_game_thumb_play_icon"></i>Play now</a>
-                    <a name="trygame" href="<% if (! auth) { %><%- URL %>/promo/1/<%- g.gid %><% } else { %><%- URL %>/demo/<%- g.gid %><% } %>" class="i_game_thumb_demo">Practice</a>
+                    <a name="playgame" <% if (! auth) { %> rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="game_click" <% } %> href="<% if (auth) { %><%- URL %>/<%- lang %>/game/<%- g.gid %><% } else { %>#<% } %>" class="i_game_thumb_play"><i class="i_game_thumb_play_icon"></i>Play now</a>
+                    <a name="trygame" href="<% if (! auth) { %><%- URL %>/<%- lang %><%- getSeoGameUrl(g) %><% } else { %><%- URL %>/<%- lang %>/demo/<%- g.gid %><% } %>" class="i_game_thumb_demo">Practice</a>
                 <% } else { %>
-                    <a name="playgame" <% if (! auth) { %> rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="game_click" <% } %> href="<% if (auth) { %><%- URL %>/game/<%- g.gid %><% } else { %>#<% } %>" class="i_game_thumb_play">Play now</a>
+                    <a name="playgame" <% if (! auth) { %> rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="game_click" <% } %> href="<% if (auth) { %><%- URL %>/<%- lang %>/game/<%- g.gid %><% } else { %>#<% } %>" class="i_game_thumb_play">Play now</a>
                 <% } %>
                 </div>
             </div>
     </script>
 
 
-<script type="text/javascript" src="/static/js/packed.js?9744fca8"></script>
+<script type="text/javascript" src="/static/js/packed.js?5b16894b"></script>
+
 <script type="text/javascript">
     $(document).ready(function() {
         $(document).cgames({ STATIC_URL : STATIC_URL, debug : DEBUG, user: ''});
     });
 </script>
 
+</head><body class="inner_layout "><div class="user_notice_hint_wrapper" style="display: none;">
+</div>
+
+<script type="text/x-template" id="text-notification-template">
+    <div class="user_notice_hint">
+        <div class="user_notice_hint_content">
+            <i class="user_notice_hint_close" data-close-notification=""></i>
+            <h3><%= header %></h3>
+            <p><%= body %></p>
+        </div>
+    </div>
+</script>
+<script type="text/x-template" id="follow-notification-template">
+    <div class="user_notice_hint">
+        <div class="user_notice_hint_content">
+            <i class="user_notice_hint_close" data-close-notification=""></i>
+            <h3><%= header %></h3>
+            <p><%= body %></p>
+            <a href="<%= href %>" class="game_action_btn game_orange_btn">
+                <span class="action_btn_right"></span><span class="action_btn_text"><%= button %></span>
+            </a>
+        </div>
+    </div>
+</script>
+
+<script type="text/x-template" id="image-notification-template">
+    <div class="user_notice_hint">
+      <div class="user_notice_hint_content">
+          <i class="user_notice_hint_close" data-close-notification=""></i>
+          <div class="user_notice_icon">
+            <a href="<%= href %>">
+              <%= image %><br>
+              <span><%= image_lable %></span>
+            </a>
+          </div>
+          <div class="user_notice_description user_notice_game_descr">
+            <h3><%= header %></h3>
+            <p><%= body %></p>
+            <%= button %>
+          </div>
+      </div>
+    </div>
+</script>
+
+<script type="text/x-template" id="n-request-template">
+    <div class="b-notification-request"
+               >
+      <button type="button" class="b-notification-request-button btn btn-danger btn-large input-block-level" data-request-notification-permissions=""
+              >
+        Request Notification permissions
+      </button>
+    </div>
+</script>
+
+<script type="text/x-template" id="n-reject-template">
+      <div class="b-notification-reject"
+           >
+        <p class="b-p">
+          You denied notifications , please remove block at Wrench → Settings → Show Advanced settings → Content Settings → Notifications → Exceptions and refresh this page
+        </p>
+      </div>
+</script>
 
 <script src="https://5236871.pix-cdn.org/static//tracker/tracker.js"></script>
 
@@ -194,11 +273,16 @@
 <meta property="og:title" content="I play at Slotobar.com">
 
 <script type="text/javascript">
-
         var _ggcounter = _ggcounter || [];
+        // var _ggcounterImg = 'https://c1.ecodmp.com/c/';
+        //var _ggcounterImg = 'https://c1.onedmp.com/c/';
 
-        
-        (function(){
+                var _ggcounterSettings = {
+            prod: 'sltbr',
+              
+            pc: 'c1-pm-rm-ex'
+        };
+                (function(){
             var tc = document.createElement('script'); tc.type = 'text/javascript'; tc.async = true;
             tc.src = document.location.protocol + '//cdn.dmpcounter.com/s/dmp.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tc, s);
@@ -215,10 +299,12 @@
         
 
 
-	</head>
+	
 
-	<body class="inner_layout ">
+	
 
+
+    
         <div class="main_wrapper_bg clearfix"> 
 
                 <header class="main_header">
@@ -251,14 +337,14 @@
             <div id="social" class="header_info">
                 <span>Sign In via:</span>
                 <ul>
-                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="fb_reg" href="https://slotobar.com/login/facebook/" id="fb">Facebook</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="tw_reg" href="https://slotobar.com/login/twitter/" id="tw">Twitter</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="google_reg" href="https://slotobar.com/login/google/" id="gp">Google+</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="vk_reg" href="https://slotobar.com/login/vkontakte/" id="vk">Вконтакте</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="mr_reg" href="https://slotobar.com/login/mailru/" id="mr">Mail.ru</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="od_reg" href="https://slotobar.com/login/odnoklassniki/" id="ok">Одноклассники</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="ya_reg" href="https://slotobar.com/login/yandexopenid/" id="ya">Yandex</a></li>
-                </ul>
+                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="fb_reg" href="https://slotobar.com/login/games/facebook/" id="fb">Facebook</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="tw_reg" href="https://slotobar.com/login/games/twitter/" id="tw">Twitter</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="google_reg" href="https://slotobar.com/login/games/google/" id="gp">Google+</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="vk_reg" href="https://slotobar.com/login/games/vkontakte/" id="vk">Вконтакте</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="mr_reg" href="https://slotobar.com/login/games/mailru/" id="mr">Mail.ru</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="od_reg" href="https://slotobar.com/login/games/odnoklassniki/" id="ok">Одноклассники</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try_main" data-action="Undone" data-label="ya_reg" href="https://slotobar.com/login/games/yandex/" id="ya">Yandex</a></li>
+                                    </ul>
                 <span>or</span>
             </div>
             <div class="header_info">
@@ -276,26 +362,6 @@
         	            <li>
                 <a href="#" name="select-lang" data-lang="ru" class="rus">
                     ru
-                </a>
-            </li>
-                        <li>
-                <a href="#" name="select-lang" data-lang="de" class="dut">
-                    de
-                </a>
-            </li>
-                        <li>
-                <a href="#" name="select-lang" data-lang="it" class="ita">
-                    it
-                </a>
-            </li>
-                        <li>
-                <a href="#" name="select-lang" data-lang="ar" class="ara">
-                    ar
-                </a>
-            </li>
-                        <li>
-                <a href="#" name="select-lang" data-lang="es" class="esp">
-                    es
                 </a>
             </li>
                     </ul>
@@ -343,7 +409,43 @@
     <section class="b_main_promo_slider">
         <div class="b_main_promo_slider_wrapper">
                                 <ul id="b_promo_slider" class="b_promo_slider">
-                                                                                                            <li>
+                                                                                                                                                                                    <li>
+                                
+                                <a class="slide_img_wrapper" name="registration" href="https://slotobar.com/en#">
+                                    <span class="slide_img_container">
+                                        <img class="slide_img" src="https://5236871.pix-cdn.org/media/thumbs/6-xzwAm-4INaXqmt-h7wv8ePxpA=/900x363/smart/promo/draculas_family_final.jpg" alt="">
+                                    </span>
+                                </a>
+
+                                <div class="b_promo_headline">
+                                    <span class="b_promo_headline_wrapper">
+                                        
+                                    </span>
+                                                                        <div class="slider_user_action">
+                                                                                    <a class="main_action_btn main_reg_btn main_green_btn" name="registration" href="https://slotobar.com/en#" id=""><span class="action_btn_right"></span><i class="main_reg_btn_icon"></i><span class="action_btn_text">Sign Up Now!</span></a>
+                                                                                <a class="main_action_btn main_cash_btn main_orange_btn" name="registration" href="#"><span class="action_btn_right"></span><i class="main_cash_btn_icon"></i><span class="action_btn_text">Cashier</span></a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                                                                                            <li>
+                                
+                                <a class="slide_img_wrapper" name="registration" href="https://slotobar.com/en#">
+                                    <span class="slide_img_container">
+                                        <img class="slide_img" src="https://5236871.pix-cdn.org/media/thumbs/KMVlKOanNAMj4uc9AJbIrxI5gHI=/900x363/smart/promo/main_lottery_promo_eng.jpg" alt="">
+                                    </span>
+                                </a>
+
+                                <div class="b_promo_headline">
+                                    <span class="b_promo_headline_wrapper">
+                                        
+                                    </span>
+                                                                        <div class="slider_user_action">
+                                                                                    <a class="main_action_btn main_reg_btn main_green_btn" name="registration" href="https://slotobar.com/en#" id=""><span class="action_btn_right"></span><i class="main_reg_btn_icon"></i><span class="action_btn_text">Sign Up Now!</span></a>
+                                                                                <a class="main_action_btn main_cash_btn main_orange_btn" name="registration" href="#"><span class="action_btn_right"></span><i class="main_cash_btn_icon"></i><span class="action_btn_text">Cashier</span></a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                                                                                            <li>
                                 
                                 <a class="slide_img_wrapper" name="registration" href="https://slotobar.com/en#">
                                     <span class="slide_img_container">
@@ -397,7 +499,7 @@
                                     </div>
                                 </div>
                             </li>
-                                                                                                </ul>
+                                                                                                                                    </ul>
                 <div class="clearfix"></div>
 
                 <div class="main_slider_pager_wrapper" style="display: none;">
@@ -435,7 +537,6 @@
         <p>Winnings - your winnings and cash-outs are kept strictly confidential, and winnings information is stored in secure operating environments. Slotobar keeps your winnings information private and does not provide this information to any third party unless such information is required to be disclosed by law, regulation or any governmental or competent regulatory authority.</p>
         <p>Credit Card Security - using your Credit Card at Slotobar is perfectly safe. CVC utilizes sophisticated RSA public/private key encryption technology to ensure that sensitive data is transferred securely over the Internet. All Credit Card details are stored on a secure server, which is protected by the latest firewall system. This means that using your Credit Card at Slotobar is even safer than using it to order food at your local restaurant.</p>
         <p>If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our friendly Customer Support Team or send your questions to <a href="mailto:support@Slotobar.com">support@Slotobar.com</a>. Our representatives will be more than happy to assist you.</p>
-        <p>The services and the Content on the Website are provided by GGS Ltd., Anguila (GGS Ltd. 201 Rogers Office Building, Edwin Wallace Rey Drive, George Hill, Anguilla). Daughter company GGS NET LTD, Address: Arch. Makariou III, 135 Emelle Building, 4 floor, 3021, Limassol, Cyprus. GGS Ltd. is fully licensed and regulated by the laws of that country. References in the Terms to "us", "our," "we" or the “the Company” are references to the relevant company who you are contracting with, as specified above.</p>
                         
 
             </div>
@@ -495,8 +596,7 @@
             </footer>
         </div>
     
-            
-<!-- register popup -->
+            <!-- register popup -->
 
 <div id="modal-window-register" class="modal-window">
 
@@ -578,14 +678,14 @@
             <div class="modal_content-col">
                 <span>Sign In via</span>
                 <ul class="reg_social">
-                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="fb_reg" href="https://slotobar.com/login/facebook/" class="fb">Facebook</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="tw_reg" href="https://slotobar.com/login/twitter/" class="tw">Twitter</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="google_reg" href="https://slotobar.com/login/google/" class="gp">Google+</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="vk_reg" href="https://slotobar.com/login/vkontakte/" class="vk">Вконтакте</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="mailru_reg" href="https://slotobar.com/login/mailru/" class="mr">Mail.ru</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="odnokl_reg" href="https://slotobar.com/login/odnoklassniki/" class="ok">Одноклассники</a></li>
-                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="yandex_reg" href="https://slotobar.com/login/yandexopenid/" class="ya">Yandex</a></li>
-                </ul>
+                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="fb_reg" href="https://slotobar.com/login/games/facebook/" class="fb">Facebook</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="tw_reg" href="https://slotobar.com/login/games/twitter/" class="tw">Twitter</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="google_reg" href="https://slotobar.com/login/games/google/" class="gp">Google+</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="vk_reg" href="https://slotobar.com/login/games/vkontakte/" class="vk">Вконтакте</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="mailru_reg" href="https://slotobar.com/login/games/mailru/" class="mr">Mail.ru</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="odnokl_reg" href="https://slotobar.com/login/games/odnoklassniki/" class="ok">Одноклассники</a></li>
+                    <li><a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="yandex_reg" href="https://slotobar.com/login/games/yandex/" class="ya">Yandex</a></li>
+                                    </ul>
                 <p>
                     Signing up via social networks you automatically agree with <a target="_blank" href="https://slotobar.com/en/page/termsandconditions">Casino Terms and Conditions</a>
                 </p>
@@ -628,9 +728,9 @@
                 
                 <div class="modal_content-col">
                     <label for="reg-mail">Email</label>
-                    <input id="login" class="modal_input" type="text" name="login" value="">
+                    <input id="login" class="modal_input qa-login" type="text" name="login" value="">
                     <label for="reg-mail">Password</label>
-                    <input id="password" class="modal_input" type="password" name="password" value="">    
+                    <input id="password" class="modal_input qa-password" type="password" name="password" value="">    
                     
                     <div class="error_message popup_error_left">Wrong username or password</div>   
                     <a href="" class="auth_remindpass">Remind password</a>                     
@@ -639,19 +739,19 @@
                  <div class="modal_content-col">
                     <span>Log In via</span>
                     <ul class="reg_social">
-                        <li><a href="https://slotobar.com/login/facebook/" class="fb">Facebook</a></li>
-                        <li><a href="https://slotobar.com/login/twitter/" class="tw">Twitter</a></li>
-                        <li><a href="https://slotobar.com/login/google/" class="gp">Google+</a></li>
-                        <li><a href="https://slotobar.com/login/vkontakte/" class="vk">Вконтакте</a></li>
-                        <li><a href="https://slotobar.com/login/mailru/" class="mr">Mail.ru</a></li>
-                        <li><a href="https://slotobar.com/login/odnoklassniki/" class="ok">Одноклассники</a></li>
-                        <li><a href="https://slotobar.com/login/yandexopenid/" class="ya">Yandex</a></li>
+                        <li><a href="https://slotobar.com/login/games/facebook/" class="fb">Facebook</a></li>
+                        <li><a href="https://slotobar.com/login/games/twitter/" class="tw">Twitter</a></li>
+                        <li><a href="https://slotobar.com/login/games/google/" class="gp">Google+</a></li>
+                        <li><a href="https://slotobar.com/login/games/vkontakte/" class="vk">Вконтакте</a></li>
+                        <li><a href="https://slotobar.com/login/games/mailru/" class="mr">Mail.ru</a></li>
+                        <li><a href="https://slotobar.com/login/games/odnoklassniki/" class="ok">Одноклассники</a></li>
+                        <li><a href="https://slotobar.com/login/games/yandex/" class="ya">Yandex</a></li>
                     </ul>
                     
                 </div>       
             <i class="popup_bottom_decor"></i> 
             </div>
-                <button id="do-login" class="main_action_btn main_green_btn" type="submit" name="" value="Sign In">
+                <button id="do-login" class="main_action_btn main_green_btn qa-submit-login" type="submit" name="" value="Sign In">
                     <span class="action_btn_right"></span><i class="main_login_btn_icon"></i><span class="action_btn_text">Sign In</span>
                 </button>
 
@@ -834,17 +934,41 @@
     
     
     
-
+    
+    
+<script type="text/x-template" id="tournament_start_reminder">
+    <div class="tournament_start_info" style="z-index:100;">
+        <div class="tournament_start_reminder">Battle starts in: <br>
+            <div class="tournament_timer" id="bt_0001" data-tournament-counter="data-tournament-counter" data-tournament-counter-direction="down" data-tournament-counter-seconds="<%- data.time_to_start %>"></div> 
+            <div class="tournament_start_reminder_img">
+                <a href="/battles"><img src="https://5236871.pix-cdn.org<%- data.thumb %>" alt=""></a>
+            </div>
+            <a href="/battles" class="game_action_btn game_orange_btn"><span class="action_btn_right"></span><i class="main_goback_btn_icon"></i><span class="action_btn_text">Перейти</span></a>
+        </div>
+    </div>
+</script>  
      
+<!-- Start SiteHeart code -->
 <script type="text/javascript"> 
-    var widget_id=671655;
+(function(){
+    var widget_id=743767;
     function siteHeartDefault(){
                 _shcp = []; _shcp.push({widget_id : widget_id, widget : "Chat"});
                  
     }
     siteHeartDefault();
+    var lang =(navigator.language || navigator.systemLanguage || navigator.userLanguage ||"en").substr(0,2).toLowerCase();
+    var url ="widget.siteheart.com/widget/sh/"+ widget_id +"/"+ lang +"/widget.js";
+    var hcc = document.createElement("script");
+    hcc.type ="text/javascript";
+    hcc.async =true;
+    hcc.src =("https:"== document.location.protocol ?"https":"http")+"://"+ url;
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hcc, s.nextSibling);
+})();
 
-(function() { var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true; hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://widget.siteheart.com/apps/js/sh.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hcc, s.nextSibling); })();</script>
+</script>
+<!-- End SiteHeart code -->
 
     
 
@@ -905,6 +1029,7 @@
         </script>
 
             
+
     <div class="popup1s">
 	<div class="pop-top_01">
 		<div class="cl_01"><a href="#" title=""><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/cl.jpg" alt=""></a></div>
@@ -934,13 +1059,13 @@
 		<div class="inp_01">
 			<div class="soc_01">
 				<span>
-					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="yandex_reg" href="https://slotobar.com/login/yandexopenid/" class="ya"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s1.png" alt=""></a>
-					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="odnokl_reg" href="https://slotobar.com/login/odnoklassniki/" class="ok"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s2.png" alt=""></a>
-					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="mailru_reg" href="https://slotobar.com/login/mailru/" class="mr"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s3.png" alt=""></a>
-					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="vk_reg" href="https://slotobar.com/login/vkontakte/" class="vk"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s4.png" alt=""></a>
-					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="google_reg" href="https://slotobar.com/login/google/" class="gp"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s5.png" alt=""></a>
-					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="fb_reg" href="https://slotobar.com/login/facebook/" class="fb"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s6.png" alt=""></a>
-					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="tw_reg" href="https://slotobar.com/login/twitter/" class="tw"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s7.png" alt=""></a>
+					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="yandex_reg" href="https://slotobar.com/login/games/yandex/" class="ya"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s1.png" alt=""></a>
+					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="odnokl_reg" href="https://slotobar.com/login/games/odnoklassniki/" class="ok"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s2.png" alt=""></a>
+					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="mailru_reg" href="https://slotobar.com/login/games/mailru/" class="mr"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s3.png" alt=""></a>
+					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="vk_reg" href="https://slotobar.com/login/games/vkontakte/" class="vk"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s4.png" alt=""></a>
+					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="google_reg" href="https://slotobar.com/login/games/google/" class="gp"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s5.png" alt=""></a>
+					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="fb_reg" href="https://slotobar.com/login/games/facebook/" class="fb"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s6.png" alt=""></a>
+					<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="tw_reg" href="https://slotobar.com/login/games/twitter/" class="tw"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s7.png" alt=""></a>
 				</span>
 				<span style="float:right;">или</span>
 				<p>регистрируясь через социальные сети Вы автоматически соглашаетесь с <a href="#" title="">правилами и условиями казино</a></p>
@@ -1024,13 +1149,13 @@
 					<div class="soc_02">
 						<span class="or_02">или</span>
 						<span>
-							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="yandex_reg" href="https://slotobar.com/login/yandexopenid/" class="ya"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s1.png" alt=""></a>
-							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="odnokl_reg" href="https://slotobar.com/login/odnoklassniki/" class="ok"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s2.png" alt=""></a>
-							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="mailru_reg" href="https://slotobar.com/login/mailru/" class="mr"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s3.png" alt=""></a>
-							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="vk_reg" href="https://slotobar.com/login/vkontakte/" class="vk"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s4.png" alt=""></a>
-							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="google_reg" href="https://slotobar.com/login/google/" class="gp"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s5.png" alt=""></a>
-							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="fb_reg" href="https://slotobar.com/login/facebook/" class="fb"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s6.png" alt=""></a>
-							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="tw_reg" href="https://slotobar.com/login/twitter/" class="tw"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s7.png" alt=""></a>
+							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="yandex_reg" href="https://slotobar.com/login/games/yandex/" class="ya"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s1.png" alt=""></a>
+							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="odnokl_reg" href="https://slotobar.com/login/games/odnoklassniki/" class="ok"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s2.png" alt=""></a>
+							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="mailru_reg" href="https://slotobar.com/login/games/mailru/" class="mr"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s3.png" alt=""></a>
+							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="vk_reg" href="https://slotobar.com/login/games/vkontakte/" class="vk"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s4.png" alt=""></a>
+							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="google_reg" href="https://slotobar.com/login/games/google/" class="gp"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s5.png" alt=""></a>
+							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="fb_reg" href="https://slotobar.com/login/games/facebook/" class="fb"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s6.png" alt=""></a>
+							<a rel="ga_track" data-category="Reg_try" data-action="Undone" data-label="tw_reg" href="https://slotobar.com/login/games/twitter/" class="tw"><img src="https://5236871.pix-cdn.org/static//promo_reg/promo_01/img/s7.png" alt=""></a>
 						</span>
 						<p>регистрируясь через социальные сети Вы автоматически соглашаетесь с <a href="#" title="">правилами и условиями казино</a></p>
 					</div>
