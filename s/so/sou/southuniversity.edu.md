@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the southuniversity.edu privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030085027id_/http%3A//www.southuniversity.edu/su-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southuniversity.edu privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324142118id_/https%3A//www.southuniversity.edu/home/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-This policy was last updated on August 11, 2014
+This policy was last updated on December 20, 2014
 
 South University (South University, "we" or "our") is committed to protecting any personal information that we maintain about you. Consistent with our [ Privacy Principles](http://www.edmc.edu/edmc-privacy-principles.aspx), we want you to understand what kinds of information we may collect from you, how this information may be used, the steps we take to protect it, choices you have regarding our use and disclosure of personal information about you, and other information about our privacy practices. This Privacy Policy (this "Policy") applies to the online collection of information by our websites, webpages and mobile applications that link to or otherwise adopt this Policy.
 
@@ -81,6 +81,8 @@ Some Internet browsers have begun to offer what often is referred to as "do not 
 [Safari Mobile](http://support.apple.com/kb/HT1677) (iPhones and iPads)  
 [Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)  
 [Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+
+You also can opt-out of, or make other choices concerning, the types of third party advertisements that may be targeted to you based on your browser activity by using mechanisms such as the “AdChoices” icon that may appear in advertisements that may appear on some of our sites. You can click on the “AdChoices” icon, where displayed, to exercise the choices available there. Additional information about AdChoices is available at: [www.youradchoices.com.](http://www.youradchoices.com/) Information and opt-out choices for ads placed by Google are available at: [www.google.com/settings/ads](http://www.google.com/settings/ads).
 
 **How is my information used?**
 
@@ -175,6 +177,8 @@ Exceptions to access and correction rights may include:
 
 
 We require that an individual provide reasonable validation of his or her identity before we provide access to personal information from our files. To request access to or correction of information please send an email to [csprogramadmin@edmc.edu](mailto:csprogramadmin@edmc.edu).
+
+You may request that we delete information that you post on our websites, online services, and applications that is accessible to other users of the website, service or application such as comments, social media posts, or blog entries, either by using the functionality (if any) provided by the website, service, or application that you used to post the information or by sending an email to [csprogramadmin@edmc.edu](mailto:csprogramadmin@edmc.edu) specifying the information that you are requesting that we remove and sufficient information about where you posted it so that we can locate it. Please note that a deletion request may not result in complete or comprehensive removal of the content from our website, service, or application to the extent we are permitted or required by law to retain that information. For example, information may not be removed if we need to maintain the information for legal compliance purposes or if you fail to follow the instructions above, such as by failing to provide sufficient information for us to process your request. Similarly, if information that you posted has been stored, republished or reposted by a third party, or you were compensated or consideration for providing the content, that information may not be subject to deletion.
 
 **How may personal information collected through this website or mobile application be disclosed?**
 
