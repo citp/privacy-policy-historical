@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainservicesonline.org privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208050517id_/https%3A//www.domainservicesonline.org/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainservicesonline.org privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324233107id_/http%3A//www.domainservicesonline.org/static/privacy.html) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy
 
@@ -22,7 +22,7 @@ We share your information with third parties who deliver the products and servic
 
 **Your Choices About Your Information**
 
-You may delete the personal information you submit to us at any time by notifying us at [info@DomainServices.org](mailto:info@DomainServices.org) When you request us to delete your personal information, it will be deleted, but we will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymous form. If your personal information was previously accessed by others or transferred to others using our Site, we are unable to delete the information from their systems. We have no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their websites and review and read the privacy policies and opt-out practices that govern their usage. If you change your mind about receiving communications from us, you may notify us of your preferences by [info@DomainServices.org](mailto:info@DomainServices.org) . You may also turn off cookies through your web browser. However, this may affect your use of our site as well as other's sites.
+You may delete the personal information you submit to us at any time by notifying us at [info@domainservices.org](mailto:info@domainservices.org) When you request us to delete your personal information, it will be deleted, but we will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymous form. If your personal information was previously accessed by others or transferred to others using our Site, we are unable to delete the information from their systems. We have no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their websites and review and read the privacy policies and opt-out practices that govern their usage. If you change your mind about receiving communications from us, you may notify us of your preferences by [info@domainservices.org](mailto:info@domainservices.org) . You may also turn off cookies through your web browser. However, this may affect your use of our site as well as other's sites.
 
 **Security**
 
@@ -35,7 +35,7 @@ We reserve the right to make material changes to the substance of this Privacy S
 **How to Contact Us**
 
 You may contact us for questions or concerns about our privacy practices by writing to us at:  
-DomainServices.org  
+DomainServicesOnline.org  
 1717 Pennsylvania Ave NW, Suite 1025  
 Washington DC, 20006  
 Or by Email:  
