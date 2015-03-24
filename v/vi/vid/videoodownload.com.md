@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoodownload.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208181958id_/http%3A//videoodownload.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoodownload.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324144759id_/http%3A//www.videoodownload.com/privacypolicy) for the most accurate reproduction.*
 
 # VideooDownload.com.com
 
