@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrum.org privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509062438id_/http%3A//www.scrum.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrum.org privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324172105id_/https%3A//www.scrum.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scrum.org - The home of Scrum
 
