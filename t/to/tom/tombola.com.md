@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626125006id_/http%3A//www.tombola.co.uk/new/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325004554id_/https%3A//www.tombola.co.uk/new/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tombola Bingo
+# Privacy Policy | tombola Bingo
 
 The Company respects your privacy and we are committed to protecting your personal information. We have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your personal information. 
 
