@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the chownow.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705232426id_/https%3A//www.chownow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chownow.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324093258id_/https%3A//www.chownow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ChowNow
 
-[ ](https://web.archive.org/)
-
-## Effective as of October 9, 2012
+## Effective as of October 9, 2014
 
 We at ChowNow, Inc. (“ChowNow,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of ChowNow in connection with our Platform.
 
-By visiting our website and/or using our Platform, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Service. Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Service.
+By visiting our website and/or using our Platform, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Service.
+
+Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Service.
 
 ## The Information We Collect
 
@@ -39,7 +39,7 @@ If you have registered for the Platform, you may access, review, and make change
 
 We use the Personal Information and the Other Information to provide you access and use of the Platform, solicit your feedback, inform you about our products and services and those of our third-party marketing partners, to administer our rewards, referral, and promotional programs, and to improve our service to you. We use the Billing Information to process your orders, and we use the Geolocational Information to recommend nearby restaurants to you. Also, we may share Personal Information, Billing Information, Geolocational Information, and/or Other Information as described below.
 
-  * In order to provide you our services, we need to share your name, phone number, meal order, and physical address with the restaurants from which you order.
+  * In order to provide you our services, we need to share your name, phone number, meal order, and physical address with the restaurants from which you order and with any third parties that are involved in, or provide services in connection with, such orders, such as delivery services, licensees of our Platform, and similar parties.
   * In order to administer our rewards, referral, and promotional programs, we may share your Personal Information and Other Information with the restaurants from which you order.
   * We may from time to time share Personal Information and/or Other Information with other companies who may provide you information about the products and services they offer. However, to the extent required by law, you will be given the opportunity to opt-out of such sharing.
   * In an ongoing effort to better understand our users and our Platform, we might analyze the Other Information in aggregate form in order to operate, maintain, manage, and improve the Platform. This aggregate information does not identify you personally. We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and services to current and prospective business partners and to other third parties for other lawful purposes.
@@ -65,9 +65,7 @@ We do not knowingly collect Personal Information from children under the age of 
 
 Under California Civil Code Section 1798.83, California residents who have an established business relationship with ChowNow may choose to opt out of our sharing their Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to info@chownow.com or write to us at:
 
-ChowNow, Inc.  
-2801 Ocean Park Blvd, Suite 325  
-Santa Monica, CA 90405
+_ChowNow, Inc. 2112 Narcissus Court, Venice, CA 90291_
 
 ## External Websites
 
@@ -80,18 +78,3 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 ## How to Contact Us
 
 If you have questions about this Privacy Policy, please e-mail us at [info@chownow.com](mailto:info@chownow.com) or call us at 1-888-707-CHOW.
-
-Work with US to create A SERVICE YOUR CUSTOMERS ARE HUNGRY FOR!
-
-Please fill out this form and we will contact you.  
-Or give us a call at -  
-Sales: (888)-646-3587  
-Customer Service: (888)-707-CHOW
-
-###### RESELLERS & AFFILIATES
-
-Have a sales force? Interested in selling the ChowNow system to restaurants?
-
-Have a popular restaurant review and discovery site? Interested in putting an “order now” button beside each of your restaurant listings?
-
-Let’s talk! Start by filling out the form below!
