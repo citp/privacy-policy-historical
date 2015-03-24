@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dsm.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109023254id_/http%3A//www.dsm.com/corporate/generic/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsm.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324171004id_/http%3A//www.dsm.com/corporate/generic/privacy-policy.html) for the most accurate reproduction.*
 
-# DSM - Generic - Privacy policy
-
-DSM is committed to protecting your privacy on this website. Please read this Privacy & Cookie Statement carefully so that you understand how we collect and use your personal data. Click [here](https://web.archive.org/content/dam/dsm/cworld/en_US/documents/dsm-privacy-and-cookie-statement.pdf) to download this statement.
+# Privacy policy - Generic - DSM
 
 ### General
 
