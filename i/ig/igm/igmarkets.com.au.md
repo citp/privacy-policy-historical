@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711090225id_/http%3A//www.ig.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324213504id_/http%3A//www.ig.com/au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,6 +40,7 @@ Depending on the product or service concerned and particular restrictions on sen
   * introducing brokers with whom we have a mutual relationship (any of whom may be within or outside Australia or the European Economic Area)
   * credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law
   * anyone authorised by an individual, as specified by that individual or the contract
+  * if you are referred to us through our Refer a friend program, your referrer may be notified when you apply for an account and when you qualify for a reward
 
 
 
