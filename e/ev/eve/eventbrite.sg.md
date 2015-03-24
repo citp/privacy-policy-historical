@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventbrite.sg privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005054222id_/http%3A//www.eventbrite.sg/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbrite.sg privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324215329id_/https%3A//www.eventbrite.sg/privacypolicy) for the most accurate reproduction.*
 
 # Eventbrite Privacy Policy
 
@@ -114,7 +114,7 @@ We may store Personal Data itself or such information may be included in databas
 
 If you are visiting our website or using one of our software applications from outside the United States, please be aware that you are sending information (including Personal Data) to the United States where our servers are located. We will hold and process your Personal Data and Non-Personal Data in accordance with privacy laws in the United States and this Privacy Policy. Please note that privacy laws in the United States may not be the same as, and in some cases may be less protective than, the privacy laws in your country. 
 
-####  US-EU & US-Swiss Safe Harbor Programs: 
+####  US-EU & US-Swiss Safe Harbor Programmes: 
 
 We participate in the US-EU & US-Swiss Safe Harbour Frameworks covering the collection, use and retention of personal information gathered in the European Union member countries and Switzerland. Our participation means that we self certify that we adhere to the Safe Harbour principles of notice, choice, onward transfer, security, integrity, access and enforcement with respect to such personal information. For more information about these frameworks and our participation in them, please visit the US Department of Commerce's Safe Harbor website. If you have any questions about our participation, please contact our Eventbrite Safe Harbour Privacy Contact at Eventbrite, Inc., Attn: Privacy Officer, 155 5th St, 7th Floor, San Francisco, CA 94103 USA, or by email to [privacy@eventbrite.com](mailto:privacy@eventbrite.com). 
 
