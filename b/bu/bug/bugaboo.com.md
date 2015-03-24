@@ -1,87 +1,32 @@
-> *The following text is extracted and transformed from the bugaboo.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618055143id_/https%3A//www.bugaboo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugaboo.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324080128id_/https%3A//www.bugaboo.com/US/en_US/privacy-policy) for the most accurate reproduction.*
 
-# Bugaboo - Privacy Policy
+# privacy policy - bugaboo (United states) English
 
-**PRIVACY STATEMENT OF BUGABOO INTERNATIONAL B.V.**
+### PRIVACY POLICY 
 
-Bugaboo respects your privacy. We therefore deal carefully with your personal data. We make every effort to guarantee the reliability, security and integrity of the data that we gather. Personal data is processed in a manner that complies with the requirements set by the Dutch Personal Data Protection Act.
+Thank you for visiting [www.bugaboo.com](http://www.bugaboo.com/). As consumers, we all care about how personal information is collected and used, so we want to be clear about some things you should know about our website. When you visit our website, you may provide personally identifiable information about yourself, and we may also obtain certain information about your visit that is not identifiable to you. This Privacy Policy is to let you know what information we collect from you and how we use that information, so please take the time to read and understand it. This Privacy Policy may change from time to time, so feel free to access and review it whenever you visit our site.
 
-  
-Bugaboo respects your privacy. We therefore deal carefully with your personal data. We make every effort to guarantee the reliability, security and integrity of the data that we gather. Personal data is processed in a manner that complies with the requirements set by the Dutch Personal Data Protection Act.
+**General** : By visiting [www.bugaboo.com](http://www.bugaboo.com/), you agree to the practices described in this Privacy Policy, which describes the information we collect when you visit our website, and how we use that information. This Privacy Policy will also instruct you on what to do if you do not want your personal information collected or shared when you visit the Bugaboo website.
 
-**How do we use your personal data?**
+**Voluntarily Supplied Personally Identifiable Information** : Bugaboo will not collect any personally identifiable information about you (for example, your name, age, address, telephone number, or e-mail address) unless you provide it to us voluntarily. If you do not want Bugaboo to collect your personally identifiable information, please do not submit it to us. If you have already submitted this information to Bugaboo and would like us to remove it from our records, please contact us at the address listed the “Who to Contact” section of this Privacy Policy. If you do provide Bugaboo with personally identifiable information, your information will not be shared for commercial purposes with other organizations other than our business partners who process and fill orders and payments for items purchased on our website. We may also use voluntarily provided personally identifiable information to improve the content of our website, to notify you about updates to our website, special offers, promotions, and to contact you for marketing purposes. If you do not want to receive such e-mails from us, please contact us at the postal address listed in the “Who to Contact” section of this Privacy Policy and tell us so. We will take reasonable steps to delete your personally identifiable information from our records.
 
-By providing your personal data, you consent to us using this data in order to comply with our obligations to you and to offer the service that you expect of us. This includes processing and dispatching orders, sending delivery status e-mails, managing your account by carrying out credit checks or informing you about a safety risk relating to one of our products. If any problem arises with the delivery of your order, we shall also use this data to contact you. We do not store your data for longer than is necessary to perform our services, or only for as long as we are obliged to do so by law.
+**Automatically Collected Non-Personally Identifiable Information** : As you navigate through our website, you leave a trail of electronic information about your visit. This information is not personally identifiable to you, and may include: (i) what Internet browser you are using; (ii) your computer’s operating system; (iii) the time and amount of time spent visiting our website; (iv) usage patterns within our website; and (v) the domain name of the website or advertisement from which you linked to our site. This anonymous information, referred to as “Clickstream Data,” can be collected, aggregated and stored by Bugaboo’s website’s server, and we use it to improve our website for our customers and other visitors.
 
-**Who has access to the data?**
+**Information We May Place Automatically on Your Computer’s Hard Drive a/k/a Cookies** : When you view Bugaboo’s website, we may cause some information to be stored on your computer (in the form of a “cookie” or similar file) to help us tailor our website and interactive advertisements to better match your interests and preferences. With most Internet browsers, you may erase cookies from your computer’s hard drive, block cookies, and receive a notification or warning before a cookie is stored. Please refer to your browser’s instructions or help screen to learn more about these functions.
 
-Bugaboo only sends data to third parties in order to comply with our obligations towards you. Bugaboo sends your data, for instance, to suppliers and mail order partners in connection with the dispatch of goods. Bugaboo may also pass on your data to organisations such as credit rating or collection agencies for the purpose of credit checks, ID checks, keeping track of creditworthiness and for debt collections.
+Cookies from Google: Since Bugaboo’s website uses Google.com’s platform, you may also wish to block cookies from Google. You may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) (<http://www.google.com/policies/technologies/ads/>).  Alternatively you can opt out of participating parties’ use of cookies (including Google.com) by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp) (<http://www.google.com/policies/technologies/ads/>). 
 
-**How do we protect your data?**
+**Compliance with the Children’s Online Privacy Protection Act of 1998** : Bugaboo will not knowingly collect any personally identifiable information (name, address, telephone number, or e-mail address) from children under thirteen years of age without prior verifiable parental consent. If a child has provided us with personally identifiable information, we ask that a parent or guardian of that child contact us at the postal address listed at the bottom of this Privacy Policy to tell us if they would like such information deleted from our records. We will delete personally identifiable information of the child from our records.
 
-We have adopted both technical and organisational measures to protect your data against loss, manipulation, unauthorised access, etc. We continually improve our security measures in case of technological advances and developments. We kindly request you to properly and correctly secure your own electronic data carrier.
+**Links to Other Sites** : Solely for the convenience of our visitors, [www.bugaboo.com](http://www.bugaboo.com/) may contain links to websites other than our own. Bugaboo’s Privacy Policy does not apply to your access to such other websites, which may (or may not) have privacy policies. Please understand that Bugaboo does not control any such “linked” websites (or the content contained on such websites) and takes no responsibility for their content. It should not be implied that Bugaboo endorses or otherwise recommends such websites or their products or services offered.
 
-**Credit card payments**
+**Who to Contact for Personal Information Removal** : If you have submitted personally identifiable information through bugaboo.com and would like Bugaboo to delete that information from our records, please contact us:
 
-In order to make credit card payments to us as secure as possible, all information is sent in encrypted form using SSL (Secure Sockets Layer). This means that the information is sent through a secure connection and that your credit card details cannot be seen by external parties.  
-In order to make credit card payments to us as secure as possible, all information is sent in encrypted form using SSL (Secure Sockets Layer). This means that the information is sent through a secure connection and that your credit card details cannot be seen by external parties.
+Web site Relations   
+Bugaboo North America Inc   
+1160 E. Mariposa Avenue, El Segundo,   
+California 90245
 
-**Cookies**
+[myaccount@bugaboo.com](mailto:myaccount@bugaboo.com)
 
-When you use Bugaboo websites, Bugaboo and/or third parties may gather information about your use of this and other websites, for instance by means of cookies. A cookie is a small file that is sent along with pages of a website and stored on your computer hard drive by your browser. The cookie then allows your browser to be recognised when you make repeated visits to a website.
-
-  
-The information that Bugaboo and/or third parties gather, for instance by means of cookies, may be used for the following purposes:
-
-  1. For functional purposes: to facilitate logging into or navigating Bugaboo websites or to remember your settings and/or preferences when using Bugaboo websites.  
-Example: you log into a website and our system knows via a cookie that you are logged in upon your next visit to the same website. You therefore do not have to login again.
-
-  2. For analytical purposes: in order to analyse the use of Bugaboo websites.  
-Example: record can be kept of how many visitors visit a specific web page, so that Bugaboo knows which of its websites, or parts of its websites, are popular.
-
-  3. 3\. For commercial purposes: to keep record of how many and which advertisements you are shown (i.e. to prevent you from always seeing the same advertisement) and to be able to check whether you have clicked on an advertisement.  
-Example: you may be shown a commercial for a video. In order to prevent you from seeing the same commercial each time, a record can be kept of the commercials that have already been shown to you.
-
-  4. 4\. For targeting purposes: in order to build up a profile of you, based on your web-browsing behaviour, so that advertisements which are matched to your existing and probable interests can be displayed. This profile can also be built up on the basis of information of your visits to other websites.
-
-
-
-
-The information gathered by Bugaboo based on the above can be combined with the personal data processed by Bugaboo. However, the information gathered by third parties is not linked to the personal data processed by Bugaboo. Bugaboo does not make use of and has no access to this information gathered by third parties. The use of cookies and other techniques by these third parties, as referred to above, is subject to their own privacy policy, which is mostly set out on their own website(s).
-
-| 
-
-**Deletion and refusal of cookies**
-
-You can delete existing cookies and refuse to accept new cookies via the browser settings on your computer. The manner in which this is done differs from browser to browser. Use the help function of your browser, if necessary. You can also individually or collectively refuse to accept most cookies that are placed when using Bugaboo websites via <http://www.youronlinechoices.com/uk/your-ad-choices>. You can also see which of the listed cookies are active on your browser here.
-
-  
-After deleting and/or refusing to accept cookies, you can still continue to see advertisements.
-
-  
-NB: if you refuse to accept and/or delete cookies, you will not always be able to make full use of a website's features. The refusal to accept and/or deletion of cookies only apply to the computer and the browser on which you perform this action. If you make use of several computers and/or browsers, you will need to perform the aforementioned action(s) as often as necessary.
-
-**Links**
-
-Our website bugaboo.com contains links to other websites over which we have no control. We do not accept any liability for the protection of personal data on or for the content of these websites; we simply offer these links to make it easier for our visitors to find more information about specific topics.
-
-**Inspection, correction and right of objection**
-
-If you have a relationship with our company, you may inspect your personal data following a written request to that effect. If the summary provided by us contains inaccuracies, you may request us in writing to amend or delete the data. You may also notify us if you do not wish to be approached with information about our products and services, in writing to the following address:
-
-  
-Paasheuvelweg 9a-b  
-1105 BE Amsterdam
-
-  
-If you have subscribed to our newsletter, you may always unsubscribe by sending an e-mail to [service.uk@bugaboo.com](mailto:service.uk@bugaboo.com). We shall then not send you any further mailings.
-
-**Amendment of Privacy Statement**
-
-We reserve the right to amend this privacy statement. Amendments will be published on this website.
-
-**Copyright**
-
-The content of this website is protected by copyright and is the property of Bugaboo International B.V.  
-  
----|---
+Upon receiving your request to delete your personally identifiable information previously provided to us from our records, Bugaboo will take reasonable steps to do so. However, we will not consider past requests to delete your personally identifiable information as a continuing request to us, or obligation for us, to delete personally identifiable information you may provide to us in the future. So if you provide us with your personally identifiable information during future visits to our website, we will not delete it from our records, unless you send us a new request to do so.
