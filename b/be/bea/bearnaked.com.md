@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bearnaked.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704165905id_/http%3A//www.bearnaked.com/en_US/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearnaked.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324202230id_/http%3A//www.bearnaked.com/en_US/privacy.html) for the most accurate reproduction.*
 
-# Bear Naked | All Natural Whole Grain Granola
+# Privacy Policy | Bear Naked®
+
+[ ](https://web.archive.org/en_US/home.html)
+
+## Privacy Policy
 
 **BearNaked.com Privacy Policy**
 
@@ -142,8 +146,3 @@ La Jolla, CA 92038-8557
 866-374-4442
 
 Monday through Friday 5am - 4pm PT
-
-[Contact Us](https://web.archive.org/en_US/contact_us.html)
-
-[Return to the top of the page ](https://web.archive.org/en_US/privacy.html)  
-
