@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssls.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704165514id_/http%3A//www.ssls.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssls.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324050121id_/https%3A//www.ssls.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SSLs
 
@@ -20,7 +20,7 @@ The use of cookies by our tracking utility company is covered by our privacy sta
 
 Our third party web analytics partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. Our web analytics partner does not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-Our site also contains links to other third party Web sites. SSLs ([www.ssls.com](http://www.ssls.com/)) is not responsible for the privacy practices or the content of such Web sites. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our site also contains links to other third party Web sites. SSLs ([www.ssls.com](https://www.ssls.com/)) is not responsible for the privacy practices or the content of such Web sites. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128 bit SSL security to encrypt any transmissions when you provide credit card information, personal data, etc. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@cheapssls.com.
 
