@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the brandscreen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111915id_/http%3A//www.brandscreen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandscreen.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324230859id_/https%3A//www.brandscreen.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy - Brandscreen
 
-##  Privacy 
+## Effective: 1st August 2013
 
-Effective: 1st August 2013
-
-Brandscreen Holdings Pte Ltd (“Brandscreen”, “we” or “us”) recognizes the importance of trust and privacy.
-
+BRZX Pty Ltd (“Brandscreen”, “we” or “us”) recognizes the importance of trust and privacy.  
 Brandscreen provides advertisers and publishers (“Business Partners”) access to a set of technologies and processes designed to display content and advertisements to consumers viewing website(s).
 
 This Privacy Policy (the “Policy”) applies to our web site at brandscreen.com (the “Site”) and our targeted advertising technology services (the “Technology”). In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process Personally Identifiable Information (“PII” or “Personal Information”).
@@ -22,7 +19,7 @@ Brandscreen only collects and processes information for the purposes described i
 
 
 
-Brandscreen has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's Web Privacy and TRUSTed Data program requirements including transparency, accountability and choice regarding the collection and use of your information. The TRUSTe programs cover only information that is collected through Brandscreen's website, www.brandscreen.com, and network of third party desktop and mobile websites.
+Brandscreen has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s Web Privacy and TRUSTed Data program requirements including transparency, accountability and choice regarding the collection and use of your information. The TRUSTe programs cover only information that is collected through Brandscreen’s website, www.brandscreen.com, and network of third party desktop and mobile websites.
 
 ### Information we collect on the Site
 
@@ -32,8 +29,7 @@ When you sign up for a Brandscreen account or other Brandscreen service or promo
 
 #### Cookies
 
-When you visit the Site, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Brandscreen features and services may not function properly if your cookies are disabled. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends.
-
+When you visit the Site, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Brandscreen features and services may not function properly if your cookies are disabled. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends.  
 We use HTML 5 local storage objects (LSOs) to store content information and account preferences on our Site. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 #### Pixel Tags and Beacons
@@ -42,7 +38,7 @@ We also use pixel tags, sometimes known as web beacons or clear gifs, to assist 
 
 #### Third Party Technologies
 
-We partner with third parties that use cookies, pixel tags and scripts on our Site. Some of these technologies are used to assist us with maintenance and performance of the Site. Others are used to assist us with managing our advertising on other websites you may visit. If you wish to not have information about your visit to this Site used to display ads that may be of interest to you, please [click here](http://preferences-mgr.truste.com/). The use of these technologies by our partners and service providers is not covered by our Policy. We do not have access or control over these technologies and they do not collect any personal information you may submit to our Site.
+We partner with third parties that use cookies, pixel tags and scripts on our Site. Some of these technologies are used to assist us with maintenance and performance of the Site. Others are used to assist us with managing our advertising on other websites you may visit. If you wish to not have information about your visit to this Site used to display ads that may be of interest to you, please [click here](http://preferences-mgr.truste.com/). The use of these technologies by our partners and service providers is not covered by our Policy. We do not have access or control over these technologies and they do not collect any personal information you may submit to our Site.
 
 #### Log information
 
@@ -58,8 +54,7 @@ We offer some of our services on or through other web sites. Personal informatio
 
 #### Referrals
 
-We provide you the ability to enter your friend's email address, inviting them to visit the Site. We use their email address, and the content of your message, in order to send him or her a one-time email. This information is not stored for any other purpose.
-
+We provide you the ability to enter your friend’s email address, inviting them to visit the Site. We use their email address, and the content of your message, in order to send him or her a one-time email. This information is not stored for any other purpose.  
 Our Site also provides third-party Open ID services, such as Facebook Connect, that will allow you to share certain personal information with us, such as your name and email address. Open ID services give you the option to post information about your activities on our Site and to share with others within your network.
 
 #### Applications
@@ -76,7 +71,7 @@ If we use Personal Information in a manner different than the purpose for which 
 
 #### Accessing and updating personal information
 
-When you use Brandscreen services, we make good faith efforts to provide you with access to your Personal Information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. Or, contact us via one of the methods listed below.
+When you use Brandscreen services, we make good faith efforts to provide you with access to your Personal Information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. Or, contact us via one of the methods listed below.
 
 #### Data protection
 
@@ -84,15 +79,13 @@ Brandscreen processes Personal Information on our servers in Singapore and in ot
 
 #### Information sharing
 
-Brandscreen only shares Personal Information with other companies or individuals outside of Brandscreen in the following limited circumstances:
+Brandscreen only shares Personal Information with other companies or individuals outside of Brandscreen in the following limited circumstances:  
+We have your consent. We require opt-in consent for the sharing of any sensitive Personal Information.  
+We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing Personal Information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
 
-  1. We have your consent. We require opt-in consent for the sharing of any sensitive Personal Information.
-  2. We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing Personal Information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
-  3. We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Brandscreen, its users or the public as required or permitted by law.
-  4. If Brandscreen becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any Personal Information involved in such transactions and provide notice before Personal Information is transferred and becomes subject to a different privacy policy.
+We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Brandscreen, its users or the public as required or permitted by law.
 
-
-
+If Brandscreen becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any Personal Information involved in such transactions and provide notice before Personal Information is transferred and becomes subject to a different privacy policy.  
 Please contact us for any additional questions about the management or use of personal data.
 
 ### Information we collect through the Technology
@@ -129,12 +122,11 @@ This Policy applies to our Technology only. Content delivered by our Technology 
 
 #### Information about children
 
-We do not knowingly collect data about or target children under the age of thirteen (13). Children under the age of 13 may be placed into one of our general audience segments, based on the web activity of the computer/browser they are using. We are unable to prevent this as we do not collect Personal Information and we don't collect information with the intent of identifying users as being under the age of 13.
+We do not knowingly collect data about or target children under the age of thirteen (13). Children under the age of 13 may be placed into one of our general audience segments, based on the web activity of the computer/browser they are using. We are unable to prevent this as we do not collect Personal Information and we don’t collect information with the intent of identifying users as being under the age of 13.
 
-### Information security
+#### Information security
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
-
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.  
 We restrict access to Personal Information to Brandscreen employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 #### Data integrity
@@ -143,28 +135,23 @@ Brandscreen processes Personal Information only for the purposes for which it wa
 
 #### Data Retention
 
-We will retain the information we collect through our Technology for up to 180 days. After 180 days, some of the information we have (e.g., anonymous logs) may be aggregated for statistical purposes and stored indefinitely, and the rest of the information is destroyed.
-
+We will retain the information we collect through our Technology for up to 180 days. After 180 days, some of the information we have (e.g., anonymous logs) may be aggregated for statistical purposes and stored indefinitely, and the rest of the information is destroyed.  
 The information that we obtain through the Site is retained for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 #### Enforcement
 
-Brandscreen regularly reviews its compliance with this Policy. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of information.
+Brandscreen regularly reviews its compliance with this Policy. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of information.  
+When we receive formal written complaints, it is Brandscreen’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Brandscreen and an individual.
 
-When we receive formal written complaints, it is Brandscreen's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Brandscreen and an individual.
+#### Contact Information
 
-### Contact Information
+If you have any questions or concerns about this Policy, please feel free to contact us any time through this web site or at privacy@brandscreen.com.
 
-If you have any questions or concerns about this Policy, please feel free to [contact us](http://www.brandscreen.com/en/contacts.html) any time through this web site or at [privacy@brandscreen.com](mailto:privacy@brandscreen.com) or via mail here:
+#### Privacy Officer
 
- **Privacy Officer**
+BRZX Pty Ltd, Level 2 30 Alfred Street Milsons Point NSW 2061  
+If you are not satisfied with our response you can contact TRUSTe.
 
-Brandscreen Holdings Pte Ltd  
-3 Church Street #24-05, Samsung Hub  
-Singapore 049483
-
-If you are not satisfied with our response you can contact [TRUSTe](https://feedback-form.truste.com/watchdog/request).
-
-### Changes to this Policy
+#### Changes to this Policy
 
 Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes) prior to the changes taking effect. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Policy in an archive for your review.
