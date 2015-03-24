@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfyh.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007015641id_/http%3A//ask.sfyh.com/1551.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfyh.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324204646id_/http%3A//ask.sfyh.com/1551.html) for the most accurate reproduction.*
 
 # Privacy Policy - About SFYH.COM - Ask SFYH
 
