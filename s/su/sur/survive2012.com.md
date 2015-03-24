@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survive2012.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928175807id_/http%3A//survive2012.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survive2012.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324194752id_/http%3A//survive2012.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Survive 2012
 
