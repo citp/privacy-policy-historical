@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922031549id_/http%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324130728id_/https%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement - Scalemates - Scale Modeling Community
+# Privacy Statement - Scalemates, scale modeling database
 
 At scalemates.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by scalemates.com and how it is used.
 
