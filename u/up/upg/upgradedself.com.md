@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203061212id_/https%3A//www.upgradedself.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324194833id_/https%3A//www.upgradedself.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Upgraded Self
 
