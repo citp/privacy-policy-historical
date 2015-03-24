@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seantempleton.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925193043id_/http%3A//www.seantempleton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seantempleton.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324022804id_/http%3A//www.seantempleton.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Get Rich As An Affiliate
+# Privacy Policy | How to Make Money on the Internet
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
