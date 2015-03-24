@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockingmatures.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905140215id_/http%3A//shockingmatures.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockingmatures.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324063842id_/http%3A//shockingmatures.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
