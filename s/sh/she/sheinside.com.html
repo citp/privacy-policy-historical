@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sheinside.com privacy policy that was archived on 2014-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227045636id_/http%3A//www.sheinside.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sheinside.com privacy policy that was archived on 2015-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150324025751id_/http%3A//www.sheinside.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy&amp;Security Policy</title>
@@ -8,32 +8,32 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="fb:app_id" content="312563225523989">
 <link rel="shortcut icon" href="http://www.sheinside.com/image/favicon.ico">
-<link href="http://www.sheinside.com/image/www/css/stylesheet.css?123" rel="stylesheet" type="text/css">
-<script id="scarab-js-api" src="https://recommender.scarabresearch.com/js/14AEFABFF6C30DEA/scarab-v2.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://chatserver.comm100.com/livechat.ashx?siteId=173369"></script><script language="javascript">
+<link href="http://www.sheinside.com/image/www/css/stylesheet.css?163" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://cn-tags.vizury.com/analyze/pixel.php?account_id=VIZVRM2832"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="scarab-js-api" src="https://recommender.scarabresearch.com/js/14AEFABFF6C30DEA/scarab-v2.js"></script><script type="text/javascript" async="" src="https://chatserver.comm100.com/livechat.ashx?siteId=173369"></script><script language="javascript">
 var js_site_from = 'www';
 var js_site_url = 'http://www.sheinside.com';
 var emarsys_base = 1;
 </script>
-<script charset="UTF-8" type="text/javascript" src="http://www.sheinside.com/js/category.js?045"></script>
+<script charset="UTF-8" type="text/javascript" src="http://www.sheinside.com/js/category.js?084"></script>
 </head>
 <body>
 <div class="indexHomeBody">
 	<style type="text/css">
 	
-	.top_banner_ab{position: absolute;right: 0;top: 9px;}
+	.top_banner_ab{position: absolute;right: 0;top: 9px;display: none;}
  	.top_banner_ab span{width:30px;height:30px;line-height: 30px;border: 1px solid #f00;background-color:#fff;color: #000;padding:3px 6px;}
  	.top_banner_ab em{font-style: normal;color: #f00;vertical-align: middle;padding:3px 6px;font-size:14px;}
  	.main_header_a{position:relative;}
 	
 </style>
-<div id="main_header_r" style="height: 48px; background: url('http://img.sheinside.com/images/sheinside.com/1419563600927273677.jpg') repeat scroll center 0px transparent;">
+<div id="main_header_r" style="height: 48px; background: url('http://img.sheinside.com/images/sheinside.com/1426731221521760626.jpg') repeat scroll center 0px transparent;">
 	<div class="main_header_rp">
-        		<a class="main_header_a" href="http://www.sheinside.com/discount-list.html?icn=boxing141226&amp;ici=www_topbanner&amp;url_from=wwwbd141226topbanner" target="_blank">
-			<div class="top_banner_ab" id="top_banner_ab" style="display: none;">
+        		<a class="main_header_a" href="http://www.sheinside.com/buy-one-vc-753.html?icn=bright150319&amp;ici=www_topbanner&amp;url_from=wwwlotbs150319topbanner" target="_blank">
+			<div class="top_banner_ab" id="top_banner_ab">
       			<div id="divcountdowntime">
-      				<span class="timeblock">0-45404</span><em>h</em>
-      				<span class="timeblock">0-50</span><em>m</em>
-      				<span class="timeblock">0-31</span><em>s</em>
+      				<span class="timeblock">00</span><em>h</em>
+      				<span class="timeblock">00</span><em>m</em>
+      				<span class="timeblock">00</span><em>s</em>
       			</div>
     		</div>
 		</a>
@@ -41,8 +41,8 @@ var emarsys_base = 1;
 	</div>
 </div>
 <script type="text/javascript">
-	
-	 function toDouble(num){
+
+	function toDouble(num){
     if(num<10){
         return '0' + num;
     }
@@ -50,58 +50,45 @@ var emarsys_base = 1;
         return num;
     }
 }
-function ShowCountDown(divname){
-    function updateTime(){
-      var end_timestamp=1417150800;
-      var start_timestamp = Date.parse(new Date())/1000;
-  if(start_timestamp >1417150800 && start_timestamp < 1417377600){
-      var end_timestamp=1417377600;
-    }
-      
-      var time_interval=end_timestamp-start_timestamp;
-      var hours=Math.floor(time_interval/3600);
+function updateTime(start_time,end_timestamp,id){
+      var oDivshow=document.getElementById(id);
+      var oDiv1=oDivshow.getElementsByTagName('span')[0];
+    var oDiv2=oDivshow.getElementsByTagName('span')[1];
+    var oDiv3=oDivshow.getElementsByTagName('span')[2];
+    if(oDivshow){
+    var current_timestamp = Date.parse(new Date())/1000;
+    if(current_timestamp > start_time && current_timestamp < end_timestamp){
+        oDivshow.style.display='block';
+          var time_interval=end_timestamp-current_timestamp;
+          var hours=Math.floor(time_interval/3600);
           time_interval=Math.floor(time_interval%3600);
-      var minutes=Math.floor(time_interval/60);
-      var seconds=Math.floor(time_interval%60);
-    hours=toDouble(hours);
-    minutes=toDouble(minutes);
-    seconds=toDouble(seconds);
-    var oDivshow=document.getElementById('top_banner_ab');
-    var oDiv=document.getElementById('divcountdowntime');
-    var oDiv1=oDiv.getElementsByTagName('span')[0];
-    var oDiv2=oDiv.getElementsByTagName('span')[1];
-    var oDiv3=oDiv.getElementsByTagName('span')[2];
-    oDiv1.innerHTML=hours;
-    oDiv2.innerHTML=minutes;
-    oDiv3.innerHTML=seconds;
-    if( start_timestamp >1417060800 && start_timestamp < 1417150800){
-      oDivshow.style.display="block";
+          var minutes=Math.floor(time_interval/60);
+          var seconds=Math.floor(time_interval%60);
+          oDiv1.innerHTML=toDouble(hours);
+          oDiv2.innerHTML=toDouble(minutes);
+          oDiv3.innerHTML=toDouble(seconds);
+        }
+        else{
+          oDivshow.style.display='none';
+          clearInterval(t);
+        }
+    }else{
+        clearInterval(t);
     }
-    else if(start_timestamp >1417150800 && start_timestamp < 1417377600){
-      oDivshow.style.display="block";
-    }
-      else{
-          oDivshow.style.display="none";
-      } 
   }
-  window.setInterval(updateTime, 1000);
-  updateTime();
-}
-ShowCountDown("divcountdowntime");
-	
+
 </script>
-<script src="http://www.sheinside.com/js/jquery.mins.js?022" type="text/javascript"></script>
-<script type="text/javascript" src="http://www.sheinside.com/js/IntUtil_post.js"></script>
+<script src="http://www.sheinside.com/js/jquery.mins.js?037" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.sheinside.com/js/IntUtil_post.js?006"></script>
 <script type="text/javascript">
 	
 	var isCookieEnabled = navigator.cookieEnabled || ("cookie" in document && (document.cookie.length > 0 ||(document.cookie = "test").indexOf.call(document.cookie, "test") > -1));
 	if(isCookieEnabled){
 		var cookieId=getCookie('cookieId');
-		if(typeof cookieId != "undefined" && cookieId !=""){
-		}else{
-		    	cookieId=$System.Math.IntUtil.genGUIDV4();
-		    	setCookie('cookieId',cookieId,10*365*24*60*60,true);
-		}		
+		if(!cookieId){
+	    	cookieId=$System.Math.IntUtil.genGUIDV4();
+	    	setCookie('cookieId',cookieId,10*365*24*60*60,true);
+		}
 	}
 	function getIndexChar(cookieId,idx){
 	    return parseInt(cookieId.charAt(idx),16)%2;    
@@ -122,7 +109,7 @@ function hiddens_obj(id){
         <dt>Welcome to Sheinside</dt>
         <dd><p>Please visit our mobile site for a better shopping experience. </p></dd>
         <dd>
-            <div><a class="yes" onclick="jump();">YES</a><a onclick="noJump();" class="no">NO</a></div>
+            <div><a class="yes" onclick="jumpToMobile();">YES</a><a onclick="noJump();" class="no">NO</a></div>
         </dd>
     </dl>
     </div>
@@ -151,6 +138,24 @@ function hiddens_obj(id){
 	    </div>
 	</div>
 </div>
+<div class="roulette_free_gift pop_box">
+	<div class="post_ipto_america"></div>
+	<div class="roulette_popup">
+	    <div class="uspop uspop_free_gift">
+	    	<div class="flagamerica"><img src="http://www.sheinside.com/image/www/winner_free_gift.png"></div>
+	        <div class="uspopclose" onclick="comzy.hide_pop_box(this)">×</div>
+	        <div class="uspop_t">FREE GIFTS ARE WAITING FOR YOU, <span class="draw_atten_100">100%</span> <span class="draw_atten">WINNING!</span> Register <span class="non_bold">to be the lucky one.</span></div>
+	        <div class="free_gift_tip">
+	        	<span class="dot1">Register to join sheinside.</span>
+	        	<span class="dot2">Start wheel for <span class="draw_atten">FREE GIFT</span>.</span>
+	        </div>
+	        <a class="free_gift_btn" href="http://www.sheinside.com/free-gift.html">
+	            Get Now &gt;
+	        </a>
+	    </div>
+	</div>
+</div>
+	
 <div id="ip_to_america_img" style="display:none;">
 	
 </div>
@@ -205,6 +210,14 @@ if(getCookie('is_full_site') != 'true'){
 if(is_mobile==0){
 	jump_to_america();
 }
+function show_wheel_guide(){
+	var is_to_america =$("#ip_to_america_img").html();//检查是否跳美国站有弹窗
+	var is_guide_showed = getCookie('is_guide_showed');//检查是否显示过活动弹窗
+	if($.trim(is_to_america)==''&&is_guide_showed!=1){
+		$(".pop_box").show();
+		setCookie('is_guide_showed',"1",10*365*24*60*60,true);
+	}
+}
 function jump_to_america(){
 	var ip_is_US_hide = getCookie('new_ip_is_USA');
 	if(ip_is_US_hide != "0"){
@@ -230,6 +243,7 @@ function jump_to_america(){
 						//location.href = newURL + 'ref=www&rep=dir&ret=us';
 					}
 				}
+                show_wheel_guide();//显示转盘弹框
 			},
 		});
 	}
@@ -252,7 +266,7 @@ function hide_us_picture(obj){
 		$(".ip_to_america").hide();
 	}
 }
-function jump(){
+function jumpToMobile(){
 	setCookie('mobileJump', '1'); 
 	window.location = newURL;
 }
@@ -268,18 +282,18 @@ function noJump(){
             <div class="header_top">
                 <div class="logo_right">
 					<div class="logo_rightyy" id="logo_rightyy"><a rel="nofollow" href="http://www.sheinside.com/shopping-cart.html" title="Shopping Cart" class="shopping_cart"><samp class="cart_header"></samp><span id="cart_items">( <b id="carts_quantity">0</b> )</span></a>
+						
 						<div id="attr_shopcart" style="display:none;"></div>
 					</div>
                     
                     <div class="logo_right1">
 					
                     <ul>
-                         <li><a rel="nofollow" title="Tracking" href="http://www.sheinside.com/index.php?model=order_track">Tracking</a></li>
-                    	 <li><a rel="nofollow" title="Wishlist" href="index.php?model=wishlist">Wishlist</a></li>    	          
-                        <li id="user_menu3">
-                                <a rel="nofollow" class="three outer" href="javascript:void(0);" onclick="$(&quot;#user_menu3_coon&quot;).show();" title="US$"><em class="USD_flag_top"></em>US$</a>
-                                <div class="user_menu_hidd link2TD" id="user_menu3_coon" style="width:133px;"> 
-                                    <div class="user_menu2">
+                    
+                    <li class="login_reg" id="my_profile"></li>
+                    <li id="user_menu3">
+                                <a rel="nofollow" class="three outer" href="javascript:void(0);" onclick="$(&quot;#user_menu3_coon&quot;).show();" title="US$"><em class="USD_flag_top"></em>US$<b></b></a>
+                                <div class="user_menu_hidd link2TD" id="user_menu3_coon"> 
                                         <div class="user_menu3_update user_menu3">
                                                                                 <a rel="nofollow">
                                         <div id="currency" currency="USD" symbol_left="US$" symbol_right="" decimal_place="2" default="1"></div><div class="USD_flag"></div>US Dollar
@@ -333,12 +347,17 @@ function noJump(){
                                         <div id="currency" currency="HKD" symbol_left="HK$" symbol_right="" decimal_place="2" default="0"></div><div class="HKD_flag"></div>Hongkong Dollar
                                         </a>
                                                                                 </div>
-                                    </div>
                                 </div>
-                         </li>
-                              
-                     </ul>
-                     <div id="chat">
+                    </li>
+                    <li id="livechat">
+                    	<a href="javascript:void(0);" class="livechat_a">
+                    		<em></em><span>Online Help</span><b></b>
+                    	</a>
+                    	<div class="livechat_con">
+                    		<div class="online_chat">
+                    			<p><strong>Pre-sales</strong></p>
+                    			<p>If you have any questions before making a purchase, chat with our online operaters to get more informations.</p>
+                    			<div id="chat">
                     <div id="comm100-button-370"></div>
                     <script type="text/javascript">
                     
@@ -376,9 +395,24 @@ function noJump(){
                     
                     
                     </script>
-                    
-                    
                       </div>
+                    		</div>
+                    		<div class="chat_request">
+                    			<p><strong>After-sales</strong></p>
+                    			<p>Contact our customer service for order status and other after-sales issues.</p>
+                    			<a href="http://www.sheinside.com/contact-us.html" target="_blank">Submit a Request</a>
+                    		</div>
+                    	</div>
+                    	<script type="text/javascript">
+                    	
+                    	$(function(){
+                    		 $('#livechat').hover(function(){$('.livechat_con').show();$('.#livechat > a > b').css('background-position','-160px -165px')},function(){$('.livechat_con').hide();$('.#livechat > a > b').css('background-position','-175px -165px')})
+                    	})
+                    	
+                    	</script>
+                    </li>
+                    </ul>
+                     
                    </div>
 				   
                  </div>
@@ -389,14 +423,17 @@ function noJump(){
 						<a class="selected" href="http://ru.sheinside.com/" title="Русский" target="_blank">Русский</a>
 						<a class="selected" href="http://de.sheinside.com/" title="Deutsch" target="_blank">Deutsch</a>
 						<a class="selected" href="http://it.sheinside.com/" title="Italiano" target="_blank">Italiano</a>
+						<a class="selected" href="http://ar.sheinside.com/" title="اللغة العربية" target="_blank">اللغة العربية</a>
+							
 					</p>
+					
 					
             </div>
         </div>
     </div>
 	<div id="header2">
-		<div class="logo" style="width:225px;height:71px;margin-left:-13px;margin-top:8px">
-			<a href="http://www.sheinside.com" title="Women's High Street Fashion Online"><img src="http://www.sheinside.com/image/logo_snow.gif" alt="sheinside" width="225px" height="71px"></a>
+		<div class="logo">
+			<a href="http://www.sheinside.com" title="Women's High Street Fashion Online"><img src="http://www.sheinside.com/image/logo.png" alt="sheinside"></a>
 		</div>
 		<div class="tool1">
 			<form name="searchProductListForm" method="POST" action="javascript:do_search();">
@@ -405,6 +442,9 @@ function noJump(){
 					<input name="Search" class="btn-sear" title="Search" systran="yes" align="absmiddle" border="0" type="button" value="" onclick="do_search();">
 				</div>
 			</form>
+		</div>
+		<div class="rouleet_header_icon">
+			<a href="http://www.sheinside.com/free-gift.html"><img src="http://www.sheinside.com/image/www/header_icon.png"></a>
 		</div>
 		
 	</div>
@@ -419,16 +459,16 @@ function noJump(){
         <div class="Second_ca" style="width:479px;">
             <ul class="fix_height">
             	<li class="li_title"><a title="WHAT'S NEW" href="http://www.sheinside.com/daily-new.html">WHAT'S NEW</a></li>
-                                    <li><a href="http://www.sheinside.com/daily/2014-12-26/">2014-12-26</a></li>
-                                    <li><a href="http://www.sheinside.com/daily/2014-12-25/">2014-12-25</a></li>
-                                    <li><a href="http://www.sheinside.com/daily/2014-12-24/">2014-12-24</a></li>
-                                    <li><a href="http://www.sheinside.com/daily/2014-12-23/">2014-12-23</a></li>
-                                    <li><a href="http://www.sheinside.com/daily/2014-12-22/">2014-12-22</a></li>
-                                    <li><a href="http://www.sheinside.com/daily/2014-12-20/">2014-12-20</a></li>
-                                    <li><a href="http://www.sheinside.com/daily/2014-12-19/">2014-12-19</a></li>
+                                    <li><a href="http://www.sheinside.com/daily/2015-03-23/">2015-03-23</a></li>
+                                    <li><a href="http://www.sheinside.com/daily/2015-03-21/">2015-03-21</a></li>
+                                    <li><a href="http://www.sheinside.com/daily/2015-03-20/">2015-03-20</a></li>
+                                    <li><a href="http://www.sheinside.com/daily/2015-03-19/">2015-03-19</a></li>
+                                    <li><a href="http://www.sheinside.com/daily/2015-03-18/">2015-03-18</a></li>
+                                    <li><a href="http://www.sheinside.com/daily/2015-03-17/">2015-03-17</a></li>
+                                    <li><a href="http://www.sheinside.com/daily/2015-03-16/">2015-03-16</a></li>
                  
                 <li class="li_title mar_top_8"><a class="no_href">By Sheinside</a></li>
-                <li class="li_title"><a class="nav_red" href="http://www.sheinside.com/pre-sale.html?url_from=presaleen">Presale -50% off</a></li>
+                <li class="li_title"><a class="nav_red" href="http://www.sheinside.com/pre-sale.html?url_from=presaleen">Pre Order -50% off</a></li>
                 <li class="li_title"><a class="nav_red" href="http://www.sheinside.com/pre-sale-end.html">Only ours!</a></li>
                 <li class="li_title"><a href="http://www.sheinside.com/Editor-s-Picks-vc-569.html">Editor’s Picks</a></li>
                 <li class="li_title"><a href="http://www.sheinside.com/back-in-stock.html">Back In Stock</a></li>
@@ -438,14 +478,10 @@ function noJump(){
             	            	<li class="li_con"><a href="http://www.sheinside.com/Backless-Dresses-vc-420.html">Backless Dresses</a></li>
             	            	<li class="li_con"><a href="http://www.sheinside.com/Florals-Print-vc-409.html">Florals Print</a></li>
             	            	<li class="li_con"><a href="http://www.sheinside.com/Bold-color-block-clothes-vc-245.html">Colorblock</a></li>
-            	            	<li class="li_con"><a href="http://www.sheinside.com/Plaid-vc-142.html">Fashion Plaid </a></li>
             	            	<li class="li_con"><a href="http://www.sheinside.com/Clearance-Sale-vc-138.html">Clearance Sale</a></li>
             	            	<li class="li_con"><a href="http://www.sheinside.com/Shine-On-vc-608.html">Shine On</a></li>
-            	            	<li class="li_con"><a href="http://www.sheinside.com/Cozy-Sweaters-vc-607.html">Cozy Sweaters</a></li>
-            	            	<li class="li_con"><a href="http://www.sheinside.com/Faux-Fur-ever-vc-606.html">Faux Fur-ever</a></li>
-            	            	<li class="li_con"><a href="http://www.sheinside.com/Christmas-Jumpers-vc-585.html">Christmas Jumpers</a></li>
-            	            	<li class="li_con"><a href="http://www.sheinside.com/The-world-of-cartoons-vc-562.html">The world of cartoons</a></li>
-            	            	<li class="li_con"><a href="http://www.sheinside.com/Geometric-Stripe-Sweaters-vc-339.html">Geometric &amp; Stripe Sweaters</a></li>
+            	            	<li class="li_con"><a href="http://www.sheinside.com/Mad-For-Stripes-vc-514.html">Mad For Stripes</a></li>
+            	            	<li class="li_con"><a href="http://www.sheinside.com/Everything-16-vc-468.html">Everything $19.9</a></li>
             	            </ul>
                          <ul class="only_img bor_left_dotted">
                 <a class="no_padding" href="http://www.sheinside.com/New-in-knitwear-vc-582.html"><img src="http://img.sheinside.com/images/sheinside.com/1415103880146619915.jpg"></a> 
@@ -459,6 +495,7 @@ function noJump(){
        
                
                    
+               
                
                
                
@@ -514,7 +551,7 @@ function noJump(){
 					</div>
 				</div>
 															</li>
-							   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						</ul> 
+							   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						</ul> 
             
                         
                          <ul class="only_img bor_left_dotted">
@@ -525,6 +562,7 @@ function noJump(){
                   
             </ul>  
                        
+                        
                         
                         
                         
@@ -540,21 +578,18 @@ function noJump(){
                
                
                
+               
             									 	<div class="Second_ca" style="width:799px; left:-200px;">	
 		<ul class="loop_ul">
 		   					   					   						<li>
-								<a class="nav_title" title="Kimonos" href="http://www.sheinside.com/Kimonos-c-1878.html">Kimonos</a>
-											</li>
-							   						<li>
-								<a class="nav_title" title="Tank Tops &amp; Camis" href="http://www.sheinside.com/Vests-Camis-c-1779.html">Tank Tops &amp; Camis</a>
-											</li>
-							   						<li>
-								<a class="nav_title" title="Blouses" href="http://www.sheinside.com/Shirts-c-1733.html">Blouses</a>
+								<a class="nav_title" title="Knitwear" href="http://www.sheinside.com/Sweaters-c-1734.html">Knitwear</a>
 																		
 				<div class="box-HelpCentery">
 					<div class="help_list_header">
 						<ul>
-													<li><a href="http://www.sheinside.com/attribute-319_31933-1733.html">Denim Blouses</a></li>
+													<li><a href="http://www.sheinside.com/attribute-285_28513-1734.html">Floral Knitwear</a></li>
+													<li><a href="http://www.sheinside.com/attribute-285_28543-1734.html">Striped Knitwear</a></li>
+													<li><a href="http://www.sheinside.com/attribute-285_285143-1734.html">Cable Knitwear</a></li>
 												</ul>
 					</div>
 				</div>
@@ -562,13 +597,51 @@ function noJump(){
 				<div class="box-HelpCentery">
 					<div class="help_list_header">
 						<ul>
-													<li><a href="http://www.sheinside.com/attribute-320_32023-1733.html">Print Blouses</a></li>
-													<li><a href="http://www.sheinside.com/attribute-320_32093-1733.html">Color Block Blouses</a></li>
+													<li><a href="http://www.sheinside.com/attribute-292_29223-1734.html">Coat Knitwear</a></li>
+												</ul>
+					</div>
+				</div>
+														
+				<div class="box-HelpCentery">
+					<div class="help_list_header">
+						<ul>
+													<li><a href="http://www.sheinside.com/attribute-293_29373-1734.html">Oversized Knitwear</a></li>
 												</ul>
 					</div>
 				</div>
 															</li>
 							   						<li>
+								<a class="nav_title" title="Outerwear" href="http://www.sheinside.com/Outerwear-c-1735.html">Outerwear</a>
+																		
+				<div class="box-HelpCentery">
+					<div class="help_list_header">
+						<ul>
+													<li><a href="http://www.sheinside.com/attribute-366_36603-1735.html">Coats Outerwear</a></li>
+													<li><a href="http://www.sheinside.com/attribute-366_36623-1735.html">Parka Outerwear</a></li>
+													<li><a href="http://www.sheinside.com/attribute-366_36673-1735.html">Trench Coat Outerwear</a></li>
+												</ul>
+					</div>
+				</div>
+														
+				<div class="box-HelpCentery">
+					<div class="help_list_header">
+						<ul>
+													<li><a href="http://www.sheinside.com/attribute-370_37013-1735.html">Fashion Outerwear</a></li>
+												</ul>
+					</div>
+				</div>
+														
+				<div class="box-HelpCentery">
+					<div class="help_list_header">
+						<ul>
+													<li><a href="http://www.sheinside.com/attribute-1601_160104-1735.html">Plain Outerwear</a></li>
+												</ul>
+					</div>
+				</div>
+															</li>
+			 			</ul>
+			<ul class="loop_ul">
+						   						<li>
 								<a class="nav_title" title="T-Shirts" href="http://www.sheinside.com/T-shirt-c-1738.html">T-Shirts</a>
 																		
 				<div class="box-HelpCentery">
@@ -590,7 +663,8 @@ function noJump(){
 				<div class="box-HelpCentery">
 					<div class="help_list_header">
 						<ul>
-													<li><a href="http://www.sheinside.com/attribute-356_35603-1738.html">Long Sleeve T-Shirts</a></li>
+													<li><a href="http://www.sheinside.com/attribute-356_35633-1738.html">Short Sleeve T-Shirts</a></li>
+													<li><a href="http://www.sheinside.com/attribute-356_35643-1738.html">Sleeveless T-Shirts</a></li>
 												</ul>
 					</div>
 				</div>
@@ -598,123 +672,14 @@ function noJump(){
 				<div class="box-HelpCentery">
 					<div class="help_list_header">
 						<ul>
+													<li><a href="http://www.sheinside.com/attribute-358_35813-1738.html">Floral T-Shirts</a></li>
 													<li><a href="http://www.sheinside.com/attribute-358_35823-1738.html">Printed T-Shirts</a></li>
+													<li><a href="http://www.sheinside.com/attribute-358_35843-1738.html">Striped T-Shirts</a></li>
 												</ul>
 					</div>
 				</div>
 															</li>
-			 			</ul>
-			<ul class="loop_ul">
-						   						<li>
-								<a class="nav_title" title="Knitwear" href="http://www.sheinside.com/Sweaters-c-1734.html">Knitwear</a>
-																		
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-285_28513-1734.html">Floral Knitwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-285_28523-1734.html">Print Knitwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-285_28543-1734.html">Striped Knitwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-285_28553-1734.html">Plaid Knitwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-285_28583-1734.html">Geometric Knitwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-285_285143-1734.html">Cable Knitwear</a></li>
-												</ul>
-					</div>
-				</div>
-														
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-289_28903-1734.html">Casual Knitwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-289_28953-1734.html">Vintage Knitwear</a></li>
-												</ul>
-					</div>
-				</div>
-														
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-292_29213-1734.html">Cardigan Knitwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-292_29223-1734.html">Coat Knitwear</a></li>
-												</ul>
-					</div>
-				</div>
-														
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-293_29323-1734.html">Loose Knitwear</a></li>
-												</ul>
-					</div>
-				</div>
-															</li>
-			 			</ul>
-			<ul class="loop_ul">
-						   						<li>
-								<a class="nav_title" title="Outerwear" href="http://www.sheinside.com/Outerwear-c-1735.html">Outerwear</a>
-																		
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-366_36603-1735.html">Coats Outerwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-366_36623-1735.html">Parka Outerwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-366_36653-1735.html">Capes Outerwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-366_36663-1735.html">Vests Outerwear</a></li>
-													<li><a href="http://www.sheinside.com/attribute-366_36673-1735.html">Trench Coat Outerwear</a></li>
-												</ul>
-					</div>
-				</div>
-														
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-367_36713-1735.html">Black Outerwear</a></li>
-												</ul>
-					</div>
-				</div>
-														
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-368_368133-1735.html">Faux Fur Outerwear</a></li>
-												</ul>
-					</div>
-				</div>
-														
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-370_37013-1735.html">Fashion Outerwear</a></li>
-												</ul>
-					</div>
-				</div>
-														
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-372_37223-1735.html">Long Outerwear</a></li>
-												</ul>
-					</div>
-				</div>
-														
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-373_37333-1735.html">Winter Outerwear</a></li>
-												</ul>
-					</div>
-				</div>
-														
-				<div class="box-HelpCentery">
-					<div class="help_list_header">
-						<ul>
-													<li><a href="http://www.sheinside.com/attribute-1601_160104-1735.html">Plain Outerwear</a></li>
-												</ul>
-					</div>
-				</div>
-															</li>
-			 			</ul>
-			<ul class="loop_ul">
-						   						<li>
+							   						<li>
 								<a class="nav_title" title="Sweatshirts" href="http://www.sheinside.com/Sweatshirts-c-1773.html">Sweatshirts</a>
 																		
 				<div class="box-HelpCentery">
@@ -728,35 +693,72 @@ function noJump(){
 				<div class="box-HelpCentery">
 					<div class="help_list_header">
 						<ul>
+													<li><a href="http://www.sheinside.com/attribute-492_49213-1773.html">Floral Print Sweatshirts</a></li>
 													<li><a href="http://www.sheinside.com/attribute-492_49293-1773.html">Print Sweatshirts</a></li>
 												</ul>
 					</div>
 				</div>
 															</li>
-							   						<li>
-								<a class="nav_title" title="Jackets" href="http://www.sheinside.com/Jackets-c-1776.html">Jackets</a>
+			 			</ul>
+			<ul class="loop_ul">
+						   						<li>
+								<a class="nav_title" title="Blouses" href="http://www.sheinside.com/Shirts-c-1733.html">Blouses</a>
 																		
 				<div class="box-HelpCentery">
 					<div class="help_list_header">
 						<ul>
-													<li><a href="http://www.sheinside.com/attribute-512_51213-1776.html">PU Leather Jackets</a></li>
+													<li><a href="http://www.sheinside.com/attribute-318_31803-1733.html">Long Sleeve Blouses</a></li>
+													<li><a href="http://www.sheinside.com/attribute-318_31833-1733.html">Short Sleeve Blouses</a></li>
+												</ul>
+					</div>
+				</div>
+														
+				<div class="box-HelpCentery">
+					<div class="help_list_header">
+						<ul>
+													<li><a href="http://www.sheinside.com/attribute-319_31933-1733.html">Denim Blouses</a></li>
+													<li><a href="http://www.sheinside.com/attribute-319_31943-1733.html">Lace Blouses</a></li>
+												</ul>
+					</div>
+				</div>
+														
+				<div class="box-HelpCentery">
+					<div class="help_list_header">
+						<ul>
+													<li><a href="http://www.sheinside.com/attribute-320_32013-1733.html">Floral Blouses</a></li>
+													<li><a href="http://www.sheinside.com/attribute-320_32023-1733.html">Print Blouses</a></li>
+													<li><a href="http://www.sheinside.com/attribute-320_32033-1733.html">Polka Dot Blouses</a></li>
+													<li><a href="http://www.sheinside.com/attribute-320_32043-1733.html">Striped Blouses</a></li>
+													<li><a href="http://www.sheinside.com/attribute-320_32053-1733.html">Plaid Blouses</a></li>
+													<li><a href="http://www.sheinside.com/attribute-320_32073-1733.html">Geometric Blouses</a></li>
 												</ul>
 					</div>
 				</div>
 															</li>
 							   						<li>
-								<a class="nav_title" title="Blazers" href="http://www.sheinside.com/Suits-c-1739.html">Blazers</a>
-											</li>
-							   						<li>
 								<a class="nav_title" title="Two-piece Suit" href="http://www.sheinside.com/Two-piece-Suit-c-1780.html">Two-piece Suit</a>
 											</li>
 							   						<li>
-								<a class="nav_title" title="Lingerie" href="http://www.sheinside.com/Lingerie-c-1862.html">Lingerie</a>
+								<a class="nav_title" title="Tank Tops &amp; Camis" href="http://www.sheinside.com/Vests-Camis-c-1779.html">Tank Tops &amp; Camis</a>
+											</li>
+							   						<li>
+								<a class="nav_title" title="Kimonos" href="http://www.sheinside.com/Kimonos-c-1878.html">Kimonos</a>
+											</li>
+			 			</ul>
+			<ul class="loop_ul">
+						   						<li>
+								<a class="nav_title" title="Lingerie&amp;Sleepwear" href="http://www.sheinside.com/Lingerie-c-1862.html">Lingerie&amp;Sleepwear</a>
 											</li>
 							   						<li>
 								<a class="nav_title" title="Swimwear" href="http://www.sheinside.com/Swimwear-c-1866.html">Swimwear</a>
 											</li>
-							   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						</ul> 
+							   						<li>
+								<a class="nav_title" title="Blazers" href="http://www.sheinside.com/Suits-c-1739.html">Blazers</a>
+											</li>
+							   						<li>
+								<a class="nav_title" title="Jackets" href="http://www.sheinside.com/Jackets-c-1776.html">Jackets</a>
+											</li>
+							   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						</ul> 
             
                         
                         
@@ -766,6 +768,7 @@ function noJump(){
                   
             </ul>  
                        
+                        
                         
                         
                      	</div>
@@ -778,6 +781,7 @@ function noJump(){
                
                
                    
+               
                
                
             									 	<div class="Second_ca" style="width:637px; left:-200px;">	
@@ -859,7 +863,7 @@ function noJump(){
 							   						<li>
 								<a class="nav_title" title="Leggings" href="http://www.sheinside.com/Leggings-c-1871.html">Leggings</a>
 											</li>
-							   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						</ul> 
+							   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						</ul> 
             
                         
                         
@@ -873,7 +877,50 @@ function noJump(){
             </ul>  
                        
                         
+                        
                      	</div>
+ </li>
+  <li class="subCatName">
+ 	<a title="Shoes" href="http://www.sheinside.com/Women-c-1745.html">Shoes</a>
+ 	<em class="header_arrow_top"></em>
+       
+               
+               
+               
+               
+               
+               
+                   
+            									 	<div class="Second_ca" style="width:477px; left:0px;">	
+		<ul class="loop_ul">
+		   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						<li>
+								<a class="nav_title" title="Flats" href="http://www.sheinside.com/Flats-c-1881.html">Flats</a>
+											</li>
+							   						<li>
+								<a class="nav_title" title="Pumps/Heels" href="http://www.sheinside.com/Pumps-c-1750.html">Pumps/Heels</a>
+																																																											</li>
+							   						<li>
+								<a class="nav_title" title="Sandals" href="http://www.sheinside.com/Sandals-c-1751.html">Sandals</a>
+																																																			</li>
+							   						<li>
+								<a class="nav_title" title="Boots" href="http://www.sheinside.com/Boots-c-1748.html">Boots</a>
+																																											</li>
+							   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						</ul> 
+            
+                        
+                        
+                        
+                        
+                        
+                        
+                         <ul class="only_img bor_left_dotted">
+                   
+                   <a class="no_padding" href="http://www.sheinside.com/Pumps-c-1750.html"><img src="http://img.sheinside.com/images/sheinside.com/1421158598214343922.jpg"></a>
+                    
+                   <a class="no_padding" href="http://www.sheinside.com/Boots-c-1748.html"><img src="http://img.sheinside.com/images/sheinside.com/1421146106641619112.jpg"></a>
+                  
+            </ul>  
+                    	</div>
  </li>
   <li class="subCatName">
  	<a title="Jewelry" href="http://www.sheinside.com/Jewelry-c-1760.html">Jewelry</a>
@@ -885,9 +932,10 @@ function noJump(){
                
                    
                
+               
             									 	<div class="Second_ca" style="width:319px; left:0px;">	
 		<ul class="loop_ul">
-		   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						<li>
+		   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						<li>
 								<a class="nav_title" title="Necklaces" href="http://www.sheinside.com/Necklaces-c-1755.html">Necklaces</a>
 											</li>
 							   						<li>
@@ -908,7 +956,7 @@ function noJump(){
 							   						<li>
 								<a class="nav_title" title="Hair Accessories" href="http://www.sheinside.com/Hair-Accessories-c-1778.html">Hair Accessories</a>
 											</li>
-							   					   					   					   					   					   					   					   					   					   						</ul> 
+							   					   					   					   					   					   					   					   					   						</ul> 
             
                         
                         
@@ -920,6 +968,7 @@ function noJump(){
                   
             </ul>  
                        
+                        
                      	</div>
  </li>
   <li class="subCatName">
@@ -932,9 +981,10 @@ function noJump(){
                
                
                    
+               
             									 	<div class="Second_ca" style="width:319px; left:0px;">	
 		<ul class="loop_ul">
-		   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						<li>
+		   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   					   						<li>
 								<a class="nav_title" title="Bags" href="http://www.sheinside.com/Bags-Purses-c-1764.html">Bags</a>
 											</li>
 							   						<li>
@@ -948,9 +998,6 @@ function noJump(){
 											</li>
 							   						<li>
 								<a class="nav_title" title="Scarves" href="http://www.sheinside.com/Scarves-c-1872.html">Scarves</a>
-											</li>
-							   						<li>
-								<a class="nav_title" title="Women Shoes" href="http://www.sheinside.com/Flats-c-1771.html">Women Shoes</a>
 											</li>
 							   						<li>
 								<a class="nav_title" title="Makeup Brushes" href="http://www.sheinside.com/Makeup-Brushes-c-1865.html">Makeup Brushes</a>
@@ -970,7 +1017,8 @@ function noJump(){
                    <a class="no_padding" href="http://www.sheinside.com/Scarves-c-1872.html"><img src="http://img.sheinside.com/images/sheinside.com/1415180832102384586.jpg"></a>
                   
             </ul>  
-                    	</div>
+                       
+                     	</div>
  </li>
  <li class="subCatName">
  	<a class="nav_red" href="http://www.sheinside.com/discount-list.html" title="SALE">SALE</a>
@@ -978,6 +1026,7 @@ function noJump(){
  	<div class="Second_ca last_Second_ca">
         <ul>
                     <li><a href="http://www.sheinside.com/discount-list-women-dresses-1727.html" title="Dresses">Dresses</a></li>
+                    <li><a href="http://www.sheinside.com/discount-list-Women-1745.html" title="Shoes">Shoes</a></li>
                     <li><a href="http://www.sheinside.com/discount-list-Jewelry-1760.html" title="Jewelry">Jewelry</a></li>
                     <li><a href="http://www.sheinside.com/discount-list-Accessories-1765.html" title="Accessories">Accessories</a></li>
                     <li><a href="http://www.sheinside.com/discount-list-Tops-1766.html" title="Tops">Tops</a></li>
@@ -993,8 +1042,17 @@ function noJump(){
 </div>
 <div class="header_banner">
 	<ul>
-		<li><a href="http://www.sheinside.com/Shipping-Info-a-280.html" title="Shipping Info"><span></span>Free shipping worldwide</a></li>
-		<li class="header_ban_li"><a href="http://www.sheinside.com/coupon-a-368.html" title="20% off for the 1st order"><span></span><strong>20%</strong> off for the 1st order</a></li>
+		<li>
+		<a href="http://www.sheinside.com/Shipping-Info-a-280.html" title="Shipping Info" class="ship_swicth_a"><span></span>
+			<span class="ship_swicth">
+				<span class="ship_swicth_wrap">
+					<span class="ship_free1"><strong>Free</strong> shipping on orders over US$30</span>
+					<span class="ship_free2"><strong>Free</strong> express shipping on orders over US$99</span>
+				</span>
+			</span>
+		</a>
+		</li>
+		<li class="header_ban_li"><a href="http://www.sheinside.com/coupon-a-368.html" title="30% off for the 1st order"><span></span><strong>30%</strong> off your first order</a></li>
 		<li class="header_ban_right"><a href="http://www.sheinside.com/invite-friends-a-451.html" title="Invite friends and get 50% off"><span></span>Invite friends and get <strong>50%</strong> off</a></li>
 	</ul>
 </div>
@@ -1022,6 +1080,8 @@ $("#user_menu3").hover(
 	
   }
 );
+	  
+	
 	/*menu  display*/
 	var li = $("#TS_menu > li"); /*找到#mainNav中子元素li；*/
 	/*var ul;*/
@@ -1065,6 +1125,23 @@ $("#user_menu3").hover(
 		})
 	})
 /*导航改版 yym over 2014-10-31*/
+/*简单隐藏弹出框 zy 2015.01.30*/
+var comzy;
+if(!comzy)comzy={};
+comzy.hide_pop_box=function(obj){
+	$(obj).parents(".pop_box").hide();
+};
+/*运费政策显示隐藏 zy 2015.02.03*/
+$(function(){
+	setTimeout(
+		function(){
+			$(".ship_swicth_wrap").animate({top:"-25px"},1000,function(){
+			$(this).find("span:first").appendTo($(this))
+			$(this).css("top","0px");
+		})
+		setTimeout(arguments.callee,5000)
+		},5000)
+})
 
 </script>
 	<div class="main_content article-content">
@@ -1101,8 +1178,7 @@ If you no longer wish to receive the Company's promotional communications, you m
 <p>When you register, you will be given the option to opt-out of subscribing to our regular update service. We will send you e mail alerts for new products, features, enhancements, special offers, contests, events of interest, and one-off marketing promotions. <br>
 <br>
 At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that subscription. Simply follow the indications in the e-mail.</p>
-<p>Or contact us:UNIT 04,7/F,BRIGHT WAY TOWER, NO.33 MONG KOK ROAD, KOWLOON,HK&nbsp;&nbsp;</p>
-<p>Our Phone: 0086-25-87752273-812</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <!--[if gte mso 9]><xml>
 <w:WordDocument>
@@ -1167,13 +1243,14 @@ mso-bidi-language:#0400;}
         <fieldset>
             <legend style="margin-left:70px;">Giveaways everyday!</legend>
             <ul>
-                <li><a class="foot_af" rel="nofollow" href="https://www.facebook.com/Sheinside?ref=tn_tnmn" title="facebook"></a></li>
+                <li><a class="foot_af" rel="nofollow" href="https://www.facebook.com/SheInside" title="facebook" target="_blank"></a></li>
                 <li><a class="foot_at" rel="nofollow" href="https://twitter.com/SheInsider" title="twitter" target="_blank"></a></li>
-                
+                <li><a class="foot_ap" rel="nofollow" href="http://www.pinterest.com/sheinsider/" title="pinterest" target="_blank"></a></li>
                 <li><a class="foot_av" rel="nofollow" href="http://vk.com/sheinsider" title="vk" target="_blank"></a></li>
                 <li><a class="foot_ay" rel="nofollow" href="http://www.youtube.com/user/sheinsidevideo" title="youtube" target="_blank"></a></li>
                 <li><a class="foot_ai" rel="nofollow" href="http://instagram.com/sheinside_official" title="instagram" target="_blank"></a></li>
                 <li><a class="foot_ab" rel="nofollow" href="http://sheinsideofficialblog.blogspot.com/" title="blog" target="_blank"></a></li>
+                <li><a class="foot_atu" rel="nofollow" href="http://sheinside-fashionworld.tumblr.com/" title="tumblr" target="_blank"></a></li>
                 <li><a class="foot_ag" rel="nofollow" href="https://plus.google.com/u/0/109804723894161222309" title="google" target="_blank"></a></li>  
             </ul>
         </fieldset>
@@ -1227,12 +1304,12 @@ mso-bidi-language:#0400;}
              <div class="featured">
                 <h2>Featured Program(SheInside exclusive)</h2>
                 <ul>
-                    <li><a rel="nofollow" href="http://www.sheinside.com/design-a-428.html" title="Sheinsider Design(welcome to join us)">Sheinsider Design(welcome to join us)</a></li>
+                    
                     <li><a rel="nofollow" href="http://www.sheinside.com/bonus-point-program-a-371.html" title="Bonus Point Program">Bonus Point Program</a></li>
                     <li><a rel="nofollow" href="http://www.sheinside.com/read-policy-a-453.html" title="Fashion Blogger Program">Fashion Blogger Program</a></li>
                     <li><a rel="nofollow" href="http://www.sheinside.com/publisher-program-a-454.html" title="Sheinside Publisher Program">Sheinside Publisher Program</a></li>
                     <li><a rel="nofollow" href="http://www.sheinside.com/free-trial.html" title="Free trial center" target="_blank">Free trial center</a></li>
-                    <li><a rel="nofollow" href="http://www.sheinside.com/VIP-Program-a-452.html" title="VIP center" target="_blank">VIP center</a></li>
+                    <li style="display:none"><a rel="nofollow" href="http://www.sheinside.com/VIP-Program-a-452.html" title="VIP center" target="_blank">VIP center</a></li>
                 </ul>
              </div> 
                 
@@ -1289,6 +1366,21 @@ mso-bidi-language:#0400;}
 			<span>We are signing you in using your Facebook or Twitter account</span>
         </div>
     </div>
+</div>
+<div class="facebook_email_binding" id="mail_binds_blank">
+  <div class="mask_layer"></div>
+  <div class="email_binding_pop">
+    <div class="mailbox_binding">
+      <div class="pop_close" onclick="$('#mail_binds_blank').hide();">x</div>
+      <h3>MAILBOX BINDING</h3>
+        <table>
+          <tbody><tr><td>&nbsp;</td><td class="binding_reminder">Your account needs an email binding</td></tr>
+          <tr><td class="wmp_email">Email:</td><td><input type="text" id="mail_blank" class="mail_area"></td></tr>
+          <tr><td>&nbsp;</td><td><button class="mailbox_binding_submit" onclick="send_login_info('mail_blank', 'mail_tips');">Submit</button></td></tr>
+          <tr><td>&nbsp;</td><td class="binding_reminder emial_invalid" id="mail_tips">The email you entered is invalid</td></tr>
+        </tbody></table>
+    </div>
+  </div>
 </div>
 <div id="shopping_cart_div" style="display:none;">
 <div id="shopping_cart_goods_price">
@@ -1496,6 +1588,16 @@ mso-bidi-language:#0400;}
 </div>
 <div id="buy_only_one_here"></div>
 <script type="text/javascript">
+
+    var ScarabQueue = ScarabQueue || [];
+    (function(subdomain, id) {
+      if (document.getElementById(id)) return;
+      var js = document.createElement('script'); js.id = id;
+      js.src = subdomain + '.scarabresearch.com/js/14AEFABFF6C30DEA/scarab-v2.js';
+      var fs = document.getElementsByTagName('script')[0];
+      fs.parentNode.insertBefore(js, fs);
+    })('https:' == document.location.protocol ? 'https://recommender' : 'http://cdn', 'scarab-js-api');
+
               
              
             function cart_show() {
@@ -1510,7 +1612,7 @@ mso-bidi-language:#0400;}
                     },
                     success: function(json) {
                         shop_cart_return(json);
-                        
+                        emarsys_push_cart(json);
                     }
                 });
             }
@@ -1527,6 +1629,7 @@ mso-bidi-language:#0400;}
                     if(json.info.num > 0){
                         shop_cart_return(json);
                     }
+                    emarsys_push_cart(json);
                 }
             });
             
@@ -1551,7 +1654,7 @@ mso-bidi-language:#0400;}
                                 u_p();
                             }
                             $("#user_menu3 .outer").attr('title', '' + json.symbol);
-                            $("#user_menu3 .outer").html('<em class="'+json.currency+'_flag_top"></em>' + json.symbol);
+                            $("#user_menu3 .outer").html('<em class="'+json.currency+'_flag_top"></em>' + json.symbol + "<b></b>");
 							$("#user_menu_good3 .outer").attr('title', 'Currency:' + json.symbol);
                             $("#user_menu_good3 .outer").html('Currency:' + json.symbol);
                         }
@@ -1561,11 +1664,11 @@ mso-bidi-language:#0400;}
             }
             up_top_currency();
              
-            function update_top_login(){
+             function update_top_login(){
                 
                 var email = getCookie('userInfo[email]');
                 var is_wholesale = getCookie('userInfo[is_wholesale]');
-                
+                var jsProfile='';
                 if(typeof(email) !="undefined" && typeof(email) !=null && email){
                         var email_name_arr =email.split("@") ;
                         var email_name = email_name_arr[0];
@@ -1574,14 +1677,38 @@ mso-bidi-language:#0400;}
                         }else{
                                 var account_name = '';
                         }
-						var email_name_ten=email_name;
-						if(email_name_ten.length>10){
-							email_name_ten=email_name_ten.substring(0,10)+"...";
-						}
-                        $(".logo_right1 ul").prepend('<li><a rel="nofollow" href="'+'http://www.sheinside.com'+'/my_account.php" title="'+email_name_ten+' '+ account_name + '"  style="text-transform:none;"><span>Hi,'+email_name_ten+' '+account_name+'</span></a></li><li><a rel="nofollow" href="logout.php" title="Sign Out" ><span>Sign Out</span></a></li>');
+                        var email_name_ten=email_name;
+                        if(email_name_ten.length>10){
+                            email_name_ten=email_name_ten.substring(0,10)+"...";
+                        }
+                        jsProfile='<a rel="nofollow" href="'+'http://www.sheinside.com'+'/my_account.php" title="'+email_name_ten+' '+ account_name + '"  style="text-transform:none;"><span>Hi,'+email_name_ten+' '+account_name+'</span><b></b></a>';
+                            jsProfile+='<div class="user_profile_hidd">';
+                            jsProfile+='<div class="user_menu3 user_menu3_profile">';
+                            jsProfile+='<a rel="nofollow" href="http://www.sheinside.com/index.php?model=member_order">My Orders</a>';
+                            jsProfile+='<a rel="nofollow" href="http://www.sheinside.com/index.php?model=wishlist">My Wishlist</a>';
+                            jsProfile+='<a rel="nofollow" href="http://www.sheinside.com/index.php?model=account&action=address">My Address Book</a>';
+                            jsProfile+='<a rel="nofollow" href="http://www.sheinside.com/index.php?model=lookbook&action=image_upload">Style Gallery</a>';
+                            jsProfile+='<a rel="nofollow"href="http://www.sheinside.com/index.php?model=free_trial&action=report_list_upload">Free Trial Report</a>';
+                            jsProfile+='<a rel="nofollow" href="http://www.sheinside.com/index.php? model=member_point">Bonus Point Program</a>';
+                            jsProfile+='<a rel="nofollow" href="logout.php">Sign Out</a>';
+                            jsProfile+='</div></div>';
+                        
+                        $("#my_profile").html(jsProfile);
                 }else{
-                        $(".logo_right1 ul").prepend('<li class="login_reg"><a rel="nofollow" href="'+'http://www.sheinside.com'+'/login_register.php" title="Register/Sign In"><span>Register/Sign In</span></a> </li>');
-                }
+                        jsProfile='<a rel="nofollow" href="'+'http://www.sheinside.com'+'/login_register.php" title="Register/Sign In"><span>Register/Sign In</span><b></b></a>';
+                            jsProfile+='<div class="user_profile_hidd">';
+                            jsProfile+='<div class="user_menu3 user_menu3_profile">';
+                            jsProfile+='<a rel="nofollow" href="http://www.sheinside.com/index.php?model=member_order">My Orders</a>';
+                            jsProfile+='<a rel="nofollow" href="http://www.sheinside.com/index.php?model=wishlist">My Wishlist</a>';
+                            jsProfile+='<a rel="nofollow" href="http://www.sheinside.com/index.php?model=account&action=address">My Address Book</a>';
+                            jsProfile+='<a rel="nofollow" href="http://www.sheinside.com/index.php?model=lookbook&action=image_upload">Style Gallery</a>';
+                            jsProfile+='<a rel="nofollow"href="http://www.sheinside.com/index.php?model=free_trial&action=report_list_upload">Free Trial Report</a>';
+                            jsProfile+='<a rel="nofollow" href="http://www.sheinside.com/index.php? model=member_point">Bonus Point Program</a>';
+                            jsProfile+='</div></div>';
+                        
+                        $("#my_profile").html(jsProfile);
+                };
+                $("#my_profile").hover(function(){$(".user_profile_hidd").show()},function(){$(".user_profile_hidd").hide()}); 
             }
             update_top_login();
 			
@@ -1589,6 +1716,7 @@ mso-bidi-language:#0400;}
 <script type="text/javascript">
     var cart_id = '#attr_shopcart';
     var cart_header = 1;
+var jump="";
 
 	$(".user_menu3_update a").each(function() {
         $(this).click(function() {
@@ -1597,7 +1725,7 @@ mso-bidi-language:#0400;}
 			var symbol = $(this).find("#currency").attr("symbol_left");
 			$("#user_menu3 .outer").attr('atr1', currency_code);
 			$("#user_menu3 .outer").attr('title', '' + symbol);
-			$("#user_menu3 .outer").html('<em class="'+currency_code+'_flag_top"></em>' + symbol);
+			$("#user_menu3 .outer").html('<em class="'+currency_code+'_flag_top"></em>' + symbol + "<b></b>");
 			$("#user_menu3_coon").hide();
 			$("#user_menu3_coon").removeClass("link_now");
 			$("#user_menu_good3 .outer").attr('title', 'Currency:' + symbol);
@@ -1701,8 +1829,8 @@ var cart_items = [];
 for (var i = 0; i < emarsys_items.length; ++i) {
     cart_items.push({
         item: emarsys_items[i][0].toString(),
-        price: emarsys_items[i][1],
-        quantity: emarsys_items[i][2]
+        price: parseFloat(emarsys_items[i][1]),
+        quantity: parseInt(emarsys_items[i][2])
     });	
 }
 var user_info_email = getCookie('userInfo[email]');
@@ -1795,33 +1923,46 @@ function cart_item_num_change(num){
         $('#carts_quantity').html(0);
     }
 }
+function emarsys_push_cart(json){
+
+
+    var cart_items = [];
+    if(typeof(json.info.common) !="undefined" && json.info.common){
+        $.each(json.info.common, function(key, value) {
+            cart_items.push({item:value.goods_id.toString(),	
+                       price:parseFloat(value.goods_price.unit_price) * value.quantity,
+                       quantity:parseInt(value.quantity)
+            });
+       
+        });
+    }
+    if(typeof(json.info.cart_pre_sale) !="undefined" && json.info.cart_pre_sale){
+       $.each(json.info.cart_pre_sale, function(key, value) {
+            cart_items.push({item:value.goods_id.toString(),	
+                       price:parseFloat(value.goods_price.unit_price) * value.quantity,
+                       quantity:parseInt(value.quantity)
+            });
+        });
+    }
+    ScarabQueue.push(['cart', cart_items]);
+
+
+}
 function do_cart_change(json){
     /*emarsys*/
 
 
-    if(typeof json.info.analysis.emarsys_items !='undefined'){
-        var emarsys_items=JSON.parse(json.info.analysis.emarsys_items);
-        var cart_items = [];
-        for (var i = 0; i < emarsys_items.length; ++i) {
-            cart_items.push({
-                item: emarsys_items[i][0].toString(),
-                price: emarsys_items[i][1],
-                quantity: emarsys_items[i][2]
-            });	
-        }
-        var user_info_email = getCookie('userInfo[email]');
-        if(typeof user_info_email != 'undefined'  && user_info_email != ''){
-            ScarabQueue.push(['setEmail',user_info_email]);
-        }
-        ScarabQueue.push(['cart',cart_items]);
-        ScarabQueue.push(['go']);
-    }
+    emarsys_push_cart(json);
+    ScarabQueue.push(['go']);
 
 
     /*emarsys*/
     /*present*/
     show_present_label(json);
     /*present*/
+    /*full amount*/
+    get_full_amount_selected(json);
+    /*full amount*/
 }
 function show_present_label(json){
     if(typeof(json.info.giveaways) != "undefined" && json.info.giveaways && !json.info.giveaways_present){
@@ -1842,6 +1983,95 @@ function show_present_label(json){
         }
     }else{
         $(".choose_present").hide();
+    }
+}
+function show_full_amount_label(json){
+    if(jump != "cart"){
+        if(typeof(json.info.full_amount) != "undefined" && json.info.full_amount){
+            var choose_gifts_slideL_html = "";
+            var choose_gifts_products_bg_html = "";
+            $.each(json.info.full_amount, function(key, val){
+                choose_gifts_slideL_html += '<div class="free_gift_info collapse_modify"><span class="gift_crown"></span>';
+                choose_gifts_slideL_html += '<span class="gift_free">FREE GIFT</span>';
+                choose_gifts_slideL_html += '<span class="obtain_rule">on order over$'+key+'</span>';
+                choose_gifts_slideL_html += '</div>';
+                choose_gifts_products_bg_html += '<div class="choose_gifts_products_bg">';
+                choose_gifts_products_bg_html += '<div class="choose_left"></div>';
+                choose_gifts_products_bg_html += '<div class="choose_right"></div>';
+                choose_gifts_products_bg_html += '<ul id="choose_gifts_slideLR_'+key+'" class="choose_gifts_slideLR">';
+                $.each(val.promotion_goods, function(key_promotion, val_promotion){
+                    choose_gifts_products_bg_html += '<li class="choose_gifts_item">';
+                    choose_gifts_products_bg_html += '<div id="attr_2_'+val_promotion.goods_id+'_aImg_img_black" class="aImg_img_black" style="display: none;"></div>';
+                    choose_gifts_products_bg_html += '<div id="goods_attr_'+val_promotion.goods_id+'" class="save_cate" style=""></div>';
+                    choose_gifts_products_bg_html += '<div id="gift_selected_border_'+val_promotion.goods_id+'" class="gift_selected_border">';
+                    choose_gifts_products_bg_html += '<div class="gifts_img"><a target="_blank" href="'+val_promotion.goods_url+'"><img src="'+val_promotion.goods_thumb+'"></a></div>';
+                    choose_gifts_products_bg_html += '<div class="gifts_information">';
+                    choose_gifts_products_bg_html += '<p class="gifts_name">'+val_promotion.goods_url_name+'</p>';
+                    choose_gifts_products_bg_html += '<p class="gifts_price"><span class="gift_pirceF">US$0.00</span> <span><strike>US$'+val_promotion.shop_price+'</strike></span></p>';
+                    choose_gifts_products_bg_html += '</div>';
+                    choose_gifts_products_bg_html += '<div id="hook_'+val_promotion.goods_id+'" class="hook"></div>';
+                    choose_gifts_products_bg_html += '</div>';
+                    choose_gifts_products_bg_html += '<div class="gift_button">';
+                    choose_gifts_products_bg_html += '<a href="javascript:void(0)" onclick="add_to_cart_full_amount('+val_promotion.goods_id+',0,this)" class="add_cart_selected">ADD TO CART</a></div>';
+                    choose_gifts_products_bg_html += '</li>';
+                });
+                choose_gifts_products_bg_html += '</ul></div>';
+            });
+            $("#choose_gifts_slideL").html(choose_gifts_slideL_html);
+            $("#choose_gifts_slideL").find("div").eq(0).removeClass("collapse_modify");
+            $("#choose_gifts_products_bg").html(choose_gifts_products_bg_html);
+            $(".choose_gifts_slideLR").each(function(){
+                $(this).expedient();
+            });
+            $("#recommend_shopping_full_amount").show();
+        }else{
+            $("#recommend_shopping_full_amount").hide();
+        }
+    }
+}
+function get_full_amount_selected(json){
+    var full_amount_notice = false;
+    $(".gift_selected_border").removeClass("gift_selected_border_red");
+    $("#choose_gifts_products_bg").find("a").removeClass("add_cart_selected");
+    if(jump=="cart"){
+        $(".attr_size1yy").hide();
+    }
+    $(".hook").removeClass("hook_show");
+    $('.aImg_img_black').slideUp(300);
+    if(typeof(json.info.full_amount_present) != "undefined" && json.info.full_amount_present){
+        $("#gift_selected_border_"+json.info.full_amount_present[0].goods_id).addClass("gift_selected_border_red");
+        $("#hook_"+json.info.full_amount_present[0].goods_id).addClass("hook_show");
+        $("#choose_gifts_products_bg").find("a").addClass("add_cart_selected");
+    }else{
+        if(typeof(json.info.full_amount) != "undefined" && json.info.full_amount){
+            $.each(json.info.full_amount, function(key, val){
+                if(!val.is_show){
+                    $("#choose_gifts_slideLR_"+key).find("a").addClass("add_cart_selected");
+                    $(".shopping_cart_gifts").hide();
+                }else{
+                    full_amount_notice = true;
+                    
+                }
+            });
+        }
+    }
+    if(full_amount_notice){
+        $(".shopping_cart_gifts").show();
+    }else{
+        $(".shopping_cart_gifts").hide();
+    }
+    
+}
+function add_to_cart_full_amount(goods_id,temp,obj){
+    if($(obj).hasClass("add_cart_selected")){
+        
+    }else{
+        $('#attr_2_'+goods_id+'_aImg_img_black').slideDown(300);
+        jump = "cart";
+        add_to_cart(goods_id,temp);
+        //setTimeout(function(){},1000);
+        //var cart_gift_pos = $(".news-content_top-cart").offset().top;
+		//$("html,body").animate({scrollTop: cart_gift_pos-200}, 500);
     }
 }
 function present_product(json){
@@ -1927,6 +2157,10 @@ function load_cart_ajax(cart_header,cart_id){
             /*present*/
             show_present_label(json);
             /*present*/
+            /*full amount*/
+            show_full_amount_label(json);
+            get_full_amount_selected(json);
+            /*full amount*/
             cart_extend(cart_header,cart_id,json);
             
         }
@@ -1973,12 +2207,12 @@ $("#logo_rightyy").mouseenter(function(){
 		   }
 			$.ajax({
 				type:'post',
-				url:'addnewsletter.php',
-				data:'email='+cmt.email,
+				url:'/index.php',
+				data:'model=account_setting&action=subscribe&email='+cmt.email,
 				error:'error',
+                async:false,
 				success:function(json){
-					eval('var data='+json);
-					if(data.result=='true'){
+					if(json==2){
 						msg="Yay! You're all signed up and set to receive fab info!";
 					}else{
 						msg="Get ModMail Oopsy daisy! Email boo-boo. Mind trying that again?";
@@ -2029,7 +2263,7 @@ success:function(json){
 	
 	</script>
 			<div id="fb-root"></div>
-			<script type="text/javascript" src="http://www.sheinside.com/js/www/facebook_login.js?037"></script>
+			<script type="text/javascript" src="http://www.sheinside.com/js/www/facebook_login.js?052"></script>
 <script type="text/javascript">
 
 function getQueryString(url,name) {
@@ -2044,6 +2278,8 @@ function getQueryString(url,name) {
     
     var google_tag_params = { ecomm_prodid: '',
     ecomm_pagetype: 'other',
+    
+        
     ecomm_totalvalue: '' };
     
     </script>
@@ -2097,7 +2333,7 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 </div>
-<div style="display:none">2014-12-27 09:44:03</div>
+<div style="display:none">2015-03-24 07:45:19</div>
 <script>
  
 (function() {
@@ -2158,18 +2394,6 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=641456895933738&amp;ev=NoScript" /></noscript>
 <script type="text/javascript">
 
-var ScarabQueue = ScarabQueue || [];
-(function(subdomain, id) {
-  if (document.getElementById(id)) return;
-  var js = document.createElement('script'); js.id = id;
-  js.src = subdomain + '.scarabresearch.com/js/14AEFABFF6C30DEA/scarab-v2.js';
-  var fs = document.getElementsByTagName('script')[0];
-  fs.parentNode.insertBefore(js, fs);
-})('https:' == document.location.protocol ? 'https://recommender' : 'http://cdn', 'scarab-js-api');
-
-</script>
-<script type="text/javascript">
-
 var user_info_email = getCookie('userInfo[email]');
 if(typeof user_info_email != 'undefined'  && user_info_email != ''){
     ScarabQueue.push(['setEmail',user_info_email]);
@@ -2196,31 +2420,34 @@ ScarabQueue.push(['go']);
 <script language="javascript" src="http://count22.51yes.com/click.aspx?id=225541453&amp;logo=1" charset="gb2312"></script>
 <script language="javascript" src="http://count46.51yes.com/click.aspx?id=460904831&amp;logo=1" charset="gb2312"></script>
 </div>
-<script src="http://code.jquery.com/jquery-latest.js"></script>
 <script type="text/javascript">
 
-    $(function(){
-        $('.box_con a:not(:first-child)').hide();
-        $('.SnumList > span').mouseover(function(){
-            
-            i=$(this).index();
-            $(this).addClass('on').siblings().removeClass();
-            $('.box_con a').filter(':visible').fadeOut(500).parent().children().eq(i).fadeIn(1000);
-            n=i;
-    })
-        count=$('.box_con > a').length;
-        timer=setInterval('showAuto()', 2000);
-        $('#box').hover(function(){clearInterval(timer)},function(){timer=setInterval('showAuto()',2000)})  
-})
-        var timer=null;
-        var i = 0,count;
-        var n=-1;
-        function showAuto(){
-        n = n >= (count-1) ? 0 : ++n;
-        $('.SnumList > span').eq(n).addClass('on').siblings().removeClass();
-        $('.box_con a').filter(':visible').fadeOut(500).parent().children().eq(n).fadeIn(1000);
-   }
-   
-    </script>
+(function() {
+    try {
+        var viz = document.createElement("script");
+        viz.type = "text/javascript";
+        viz.async = true;
+        viz.src = ("https:" == document.location.protocol ?"https://cn-tags.vizury.com" : "http://cn-tags.vizury.com")+ "/analyze/pixel.php?account_id=VIZVRM2832";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(viz, s);
+        viz.onload = function() {
+            try {
+                pixel.parse();
+            } catch (i) {
+            }
+        };
+        viz.onreadystatechange = function() {
+            if (viz.readyState == "complete" || viz.readyState == "loaded") {
+                try {
+                    pixel.parse();
+                } catch (i) {
+                }
+            }
+        };
+    } catch (i) {
+    }
+})();
+
+</script>
 
 </body></html>
