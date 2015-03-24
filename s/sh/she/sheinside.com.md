@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheinside.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227045636id_/http%3A//www.sheinside.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheinside.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324025751id_/http%3A//www.sheinside.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
 
 # Privacy&Security Policy
 
@@ -30,7 +30,3 @@ If you no longer wish to receive the Company's promotional communications, you m
 When you register, you will be given the option to opt-out of subscribing to our regular update service. We will send you e mail alerts for new products, features, enhancements, special offers, contests, events of interest, and one-off marketing promotions. 
 
 At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that subscription. Simply follow the indications in the e-mail.
-
-Or contact us:UNIT 04,7/F,BRIGHT WAY TOWER, NO.33 MONG KOK ROAD, KOWLOON,HK  
-
-Our Phone: 0086-25-87752273-812
