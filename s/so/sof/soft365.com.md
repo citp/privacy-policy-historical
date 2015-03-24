@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft365.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102031944id_/http%3A//soft365.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft365.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324122301id_/http%3A//soft365.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
