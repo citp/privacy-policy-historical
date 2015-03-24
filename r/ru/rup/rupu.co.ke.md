@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rupu.co.ke privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807101216id_/https%3A//www.rupu.co.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupu.co.ke privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324084847id_/https%3A//www.rupu.co.ke/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | General
+# Privacy Policy - We Respect Your Privacy | Rupu
 
 **1\. Types of information we collect:** You agree that we may electronically collect, store and/or use the following of your information:  
 1.1. name and surname, birth date ("Personal Details");  
@@ -28,4 +28,4 @@
 ? track your entries, submissions, and status in any promotions or other activities in connection with your usage of the Website.  
 3.5. We may use any Optional Details provided by you for such purposes as indicated to you at the time you agree to provide such Optional Details.
 
-**4\. Opt-Out Policy:** To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication, email [ ](maito: <script type='text/javascript'> <!-- var prefix = 'ma' + 'il' + 'to'; var path = 'hr' + 'ef' + '='; var addy1 = 'hodi' + '@'; addy1 = addy1 + 'rupu' + '.' + 'co' + '.' + 'ke'; document.write\('<a ' + path + '\\'' + prefix + ':' + addy1 + '\\'>'\); document.write\(addy1\); document.write\('<\\/a>'\); //-->\\n </script><script type='text/javascript'> <!-- document.write\('<span style=\\'display: none;\\'>'\); //--> </script>This email address is being protected from spambots. You need JavaScript enabled to view it. <script type='text/javascript'> <!-- document.write\('</'\); document.write\('span>'\); //--> </script>)[hodi@rupu.co.ke](mailto:hodi@rupu.co.ke)  from the subscribed email address or go to [www.rupu.co.ke](http://www.rupu.co.ke/)  and use the contact us form to request removal. We will endeavor to remove you from our subscription list within 2 working days after your request.
+**4\. Opt-Out Policy:** To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication, email [hodi@rupu.co.ke](maito:hodi@rupu.co.ke)  from the subscribed email address or go to [www.rupu.co.ke](http://www.rupu.co.ke/)  and use the contact us form to request removal. We will endeavor to remove you from our subscription list within 2 working days after your request.
