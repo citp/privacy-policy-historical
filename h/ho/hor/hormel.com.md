@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116055305id_/http%3A//hormel.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324110117id_/https%3A//www.hormel.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Hormel | Privacy Policy
 
@@ -135,7 +135,7 @@ We do not control third parties' collection or use of your information to serve 
 
   You can review and change your personal information by logging into the Website and visiting your account profile page.
 
-  If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use [INSERT AS LINK TO WEBSITE'S TERMS OF USE].]
+  If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use [http://hormel.com/Terms.aspx](https://web.archive.org/Terms.aspx "Follow link")
 
   Data Security
 
