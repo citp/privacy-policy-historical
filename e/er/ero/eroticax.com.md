@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the eroticax.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705030654id_/http%3A//www.eroticax.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroticax.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324200319id_/http%3A//www.eroticax.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | EroticaX.com
+
+EroticaX brings to life passionate sex from beautiful women in some of the most exotic locations. Endulge yourself in our collection of high end erotica and sensual erotic porn videos. Click enter below!
+
+Warning! This site is for adults only!
+
+This Site Contains Sexually Oriented Material
+
+The following website, including all webpages, links, images and videos, display sexually explicit material. Only consenting adults are authorized beyond this page. If you are a minor (under the age of 18 years old or 21 years old where 18 isn't the legal age of majority), if sexually explicit material offends you or if it's illegal to view such material in your community, you MUST leave by clicking EXIT below. By clicking ENTER, you agree to the statement at the bottom of the page. 
+
+By Entering This Site You Agree That:
+
+  * You are an adult in your community and are at least 18 years old (21 in some communities);
+  * You will not expose minors to the sexually explicit content you are about to view;
+  * You believe that sexually explicit material is not offensive or obscene;
+  * Sexually explicit material is not deemed to be obscene or illegal in your community and you wish to view such material;
+  * You will use the material available on this website for your own personal use and will not sell, distribute, give or make available the content on this website to anyone. You will take the appropriate steps in order to make sure no minor is able to view the content available on this site;
+  * You have read this agreement, understood it and agree to be bound by it.
+
+
 
 ### Privacy Policy
 
@@ -13,7 +32,7 @@ This notice applies to all information collected or submitted on **EROTICAX** 's
 The subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. The subscriber may opt-out of a mailing list by clicking on the remove link located at the bottom of the email promotions, or by visiting the site <http://www.td3x.com/>
 
 **The Way We Use Information**  
-The user has to note that some personal information, such as but not limited to credit card number, may be collected by a third-party web service provider from whom **EROTICAX** purchases services or that has an advertising banner or link on the Site. Users should read the privacy policy of those third parties whenever possible to look for modifications.
+The user has to note that some personal information, such as but not limited to credit card number, may be collected by a third-party web service provider from whom **EROTICAX** purchases services or that has an advertising banner or link on the Site. Users should read the privacy policy of those third parties whenever possible as they are not the same as **EROTICAX** 's policy.
 
 As soon as the subscriber uses the website, the subscriber agrees that **EROTICAX** may use any personal information that has been provided or collected by the website about the subscriber for any purpose, including without limitation age verification, administration, customer administration, marketing, promotional and advertising use by the website or third parties authorized to use the information by the site. The user hereby agrees that the website may, in its sole discretion, sell, share, rent, or license any of the personal information about users that was provided or that was collected with affiliated or unaffiliated third parties.
 
