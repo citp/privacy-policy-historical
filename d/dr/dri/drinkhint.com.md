@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drinkhint.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709065056id_/https%3A//www.drinkhint.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinkhint.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324213234id_/https%3A//www.drinkhint.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Hint Water | Privacy Policy
 
@@ -34,4 +34,4 @@ By using our Web site, you consent to the collection and use of personal informa
 
 ### FEEDBACK
 
-Hint Inc. welcomes your questions, comments, and concerns about privacy. Please send any and all feedback pertaining to this, or any other issue to [info@drinkhint.com](https://web.archive.org/web/20140709065056id_/https%3A//www.drinkhint.com/info@drinkhint.com).
+Hint Inc. welcomes your questions, comments, and concerns about privacy. Please send any and all feedback pertaining to this, or any other issue to [info@drinkhint.com](https://web.archive.org/web/20150324213234id_/https%3A//www.drinkhint.com/info@drinkhint.com).
