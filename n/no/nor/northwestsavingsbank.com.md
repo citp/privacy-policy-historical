@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326035504id_/https%3A//www.northwestsavingsbank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324053909id_/https%3A//www.northwestsavingsbank.com/privacy.htm) for the most accurate reproduction.*
 
 # Northwest Savings Bank :: Privacy Policy
 
@@ -7,7 +7,7 @@
 Northwest Savings Bank, hereafter "the Bank", respects the privacy of our customer(s) private information and intends to protect that privacy. We are committed to providing confidential service of the highest integrity to our customers. 
 
   
-**[CLICK HERE TO VIEW THE NORTHWEST SAVINGS BANK PRIVACY NOTICE](https://web.archive.org/files/PrivacyForm_NWSB_rev122310.pdf)**
+**[CLICK HERE TO VIEW THE NORTHWEST SAVINGS BANK PRIVACY NOTICE](https://web.archive.org/files/Privacy_Notice.pdf)**
 
   
 **INTERNET WEBSITE**
