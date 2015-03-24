@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycalculation.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920200234id_/http%3A//easycalculation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycalculation.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324072852id_/https%3A//www.easycalculation.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
