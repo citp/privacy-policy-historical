@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3cschool.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922165422id_/http%3A//w3cschool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3cschool.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324115421id_/http%3A//w3cschool.com/privacy) for the most accurate reproduction.*
 
 # w3cschool.com
 
