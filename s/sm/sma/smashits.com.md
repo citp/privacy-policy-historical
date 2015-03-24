@@ -1,54 +1,55 @@
-> *The following text is extracted and transformed from the smashits.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140915id_/http%3A//smashits.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashits.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324161539id_/http%3A//www.saavn.com/corporate/privacy) for the most accurate reproduction.*
 
-# SmasHits.com: Indian Music Bollywood Hindi Tamil Telugu Songs Movie Soundtracks Videos and News
+# Privacy – Saavn
 
-  
-Updated May 24, 2011 **OUR PRIVACY POLICY**
+## Privacy Policy
 
-SmasHits.com recognizes that its customers, visitors, users, and others who use http://SmasHits.com value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the SmasHits.com site. SmasHits.com provides this Privacy Notice to help you make an informed decision about whether to use or continue using the SmasHits.com Sites. 
+For all legal terms and provisions, limitations of liability, warranties, etc., please see our [Terms of Service](http://www.saavn.com/corporate/terms). "In English" descriptions are short, helpful explanations which are **not** legally binding.
 
-This Privacy Notice is incorporated into and is subject to the SmasHits.com Terms of Use. Your use of the SmasHits.com Sites and any personal information you provide on the SmasHits.com Sites remains subject to the terms of this Privacy Notice and our Terms of Use. 
+## Information Collection and Use
 
-Please note that any video, image, or other content posted at the direction of Users onto the SmasHits.com Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice. 
+Saavn requires users to register for the service and provide personal information, including but not limited to, the user's name, zip code, and email address. Saavn uses this information to establish and deliver service to the individual. Saavn may use this information to contact registered users to notify them of product and service updates, provide instruction, and to deliver other service related information. Saavn may also contact users to request additional information and feedback. Saavn may employ companies and people to perform tasks on its behalf, and will need to share personal information with these agents to establish and deliver service to the individual. Saavn's agents do not receive any right to use personal information beyond what is necessary to perform these tasks.
 
-**Information SmasHits.com Collects**
+If you connect to Saavn using Facebook, the default setting is generally that Saavn automatically shares your activity and activity-related stories with that service, including the music you listen to. You understand that such information may be attributed to your account on Facebook or the Other Integrated Service and may be published on such service. Saavn may store your username and an access token or similar credentials obtained from the third party service, so that you are able to share particular items of content, on that third party service, on an individual basis, without entering your access credentials again.
 
-User Provided Information: You provide certain personally identifiable information (such as your name and email address) to SmasHits.com when choosing to participate in various activities on the SmasHits.com Sites such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
+You understand and agree that Facebook’s or other third parties’ use of information they collect from you is governed by their privacy policies, and Saavn’s use of such information is governed by this Privacy Policy.
 
-Personal Information: Use of certain features of the Service may require submission of certain personal information, including your first and last name, email address, a nick name (or other user ID) and a password. 
+We may from time to time share your information with other companies in the Saavn group as well as certain trusted business partners and third party service providers to enable them to perform functions and process user data on our behalf. Such third parties' processing of user data will always be subject to security and confidentiality obligations consistent with this Privacy Policy and applicable law.
 
-Non personally identifiable Information: SmasHits.com may also collect or receive additional non personally identifiable usage information specifically related to the use of a particular feature or offering on the SmasHits.com Service or website(s), and responses to the offerings and advertisements presented on SmasHits.com's Service and/or website(s). 
+In addition to the above, we may also share your information to third parties for these limited purposes:
 
-SmasHits.com may also collect or receive (in some cases as part of the internet communication protocol) certain non-personally identifiable technical information, when the SmasHits.com website(s) and pages are visited or when the SmasHits.com Service is used. 
+  1. to allow a merger, acquisition, or sale of all or a portion of our assets;
+  2. to respond to legal process (e.g. a court order or subpoena), if we believe in good faith that it is necessary to do so; to comply with requirements of mandatory applicable law; to protect the safety of any person; to protect the rights and property of Saavn, including to enforce the Terms and Conditions of Use; and to address fraud, security or technical issues;
+  3. to allow other companies affiliated with Saavn to use your information as specified in this Privacy Policy;
+  4. to inform business partners about use of the Service and products and services made available through the Service, in the form of aggregated statistics or otherwise in a format which does not reveal your identity; and
+  5. if you expressly opt in to such sharing.
 
-Cookies Information: When you visit the SmasHits.com Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. SmasHits.com uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Your browser may use persistent cookies on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the SmasHits.com Sites may not function properly if the ability to accept cookies is disabled. 
 
-Log File Information: When you use the SmasHits.com Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
 
-**The Way SmasHits.com Uses Information**
+You understand and agree that the privacy policies of third parties will govern all use of information that we provide to them under this section.
 
-The information is used to operate and improve the features, offerings and content presented to you by SmasHits.com, to personalize the content and advertisements provided to you ; to fulfill your requests for Services, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Service and/or website(s), offerings and advertisements presented on SmasHits.com Service, email communication, website(s) and pages; and to help offer you other Services, programs, or services that may be of interest. If at some point Smashits sells all or a portion of its assets, customer information is one of those assets that would be transferred or acquired by a third party; the third party would then have the right to continue using the personal information as set forth in this policy. 
+Saavn may automatically collect and analyze information regarding the use of Saavn's services and Saavn site activity. Information collected may include but is not limited to web site traffic volume, frequency of visits, type and time of transactions, type of browser and operating system, etc. This information is logged to help diagnose technical problems, administer the site, and improve the quality and types of service delivered. Saavn may also collect, track, and analyze information that does not personally identify a user in aggregate form. This aggregate data will be used at Saavn's discretion and may be shared with third parties, but with no personally identifiable information attached. Registered users will be using the site to host relationship data. Relationship data sent to Saavn servers by the user will remain the property of the user. Saavn will not review, share, distribute, or reference such data, except as may be required to provide the requested Saavn services, or as provided in the Saavn Terms of Use Agreement, or as may be required by law.
 
-Any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information. SmasHits.com may use this information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of SmasHits.com users, but do not receive information that personally identifies you. 
+If a user elects to use Saavn's invite service to tell others about Saavn, Saavn will generate and send an email to each email address added by the user. These email addresses will be used for the sole purpose of inviting individuals to use the service, and will not be treated as registered users' email addresses.
 
-1\. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the SmasHits.com Sites and other Users can contact you through messages and comments. Any videos that you submit to the SmasHits.com Sites may be redistributed through the Internet and other media channels, and may be viewed by the general public. 
+If a user's personally identifiable information changes, or if a user no longer desires to use Saavn's services, users can correct or update their personally identifiable information, or delete/deactivate their accounts on the service. Inquiries on such changes can be directed to .
 
-2\. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major SmasHits.com Site changes or for customer service purposes). 
+## Cookies & Beacons
 
-3\. We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the SmasHits.com Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends. 
+Saavn uses cookies and beacons to assist in delivering the service and to provide a positive and personalized user experience. Cookies are files sent to your browser from a web server and stored on your computer's hard drive. Our persistent and session ID Cookies are used to identify unique visitors and to provide a personalized user experience. Beacons are bits of code that function similar to cookies. Our beacons are embedded in outgoing emails and generate a call back to the Saavn server when such emails are opened. Saavn uses beacons to track the status of sent emails.
 
-**When SmasHits.com discloses Information**
+## Security
 
-SmasHits.com reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that SmasHits.com believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of SmasHits.com, our Users or others. 
+Saavn has implemented processes designed to protect user information and maintain security. Each registered user is assigned a unique user name and password, which is required to access the user's account and relationship information. It is the user's responsibility to protect the security of their login information. Saavn's servers are located in secure server environments. Firewalls and other advanced security technologies are employed to prevent interference or access from outside intruders. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data.
 
-**Changes and updates to this Privacy Notice**
+## Third Party Sites
 
-This Privacy Notice may be revised periodically. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the SmasHits.com Sites constitutes your agreement to this Privacy Notice and any future revisions. 
+Saavn's sites may contain links to third party web sites not associated with Saavn. Saavn is not responsible for the privacy practices or content of such sites. Users will need to review the policy statements of these sites to understand their privacy policies.
 
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information. 
+## Google Analytics
 
-**Third Parties' Practices**
+Saavn's sites may present display advertising and may collect data about traffic via Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and/or customize Google Display Network ads by visiting [Ads Settings](https://www.google.com/settings/ads).
 
-This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that SmasHits.com does not own or control, or does not employ or manage. 
+## Privacy Policy Changes
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. to learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
+Saavn reserves the right to make changes to this privacy statement. Any material changes to this statement will be prominently posted online and accessible via the Saavn user portal 30 days prior to taking effect.
