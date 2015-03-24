@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022223027id_/http%3A//www.autotraderclassics.com/help/privacy-statement.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324115940id_/http%3A//www.autotraderclassics.com/help/privacy-statement.xhtml) for the most accurate reproduction.*
 
 # AutoTraderClassics.com - Privacy Statement
 
-## Effective Date: April 23, 2014
+## Effective Date: March 16, 2015
 
 ### Introduction
 
-Thank you for your interest in AutoTrader. We respect the privacy of our users when they use our websites, mobile and other online applications and products and services (collectively, the "AutoTrader Sites"). By using AutoTrader Sites, you consent to the use of your information and information about you in accordance with this Privacy Statement.
+Thank you for your interest in Autotrader. We respect the privacy of our users when they use our websites, mobile and other online applications and products and services (collectively, the "Autotrader Sites"). By using Autotrader Sites, you consent to the use of your information and information about you in accordance with this Privacy Statement.
 
-When we refer to AutoTrader within this Privacy Statement, we are referring to AutoTrader.com, Inc. This Privacy Statement applies to information collected through the AutoTrader Sites and does not describe the collection, use and disclosure practices of any of our corporate affiliates or third parties. For information on the collection, use and disclosure practices of any company with whom you are doing business, whether or not affiliated with AutoTrader, please review their privacy policies.
+When we refer to Autotrader within this Privacy Statement, we are referring to Autotrader.com, Inc. This Privacy Statement applies to information collected through the Autotrader Sites and does not describe the collection, use and disclosure practices of any of our corporate affiliates or third parties. For information on the collection, use and disclosure practices of any company with whom you are doing business, whether or not affiliated with Autotrader, please review their privacy policies.
 
-Services offered by AutoTrader are not directed to individuals under the age of eighteen (18). If you are under eighteen (18), you should not provide any personal information to us.
+Services offered by Autotrader are not directed to individuals under the age of eighteen (18). If you are under eighteen (18), you should not provide any personal information to us.
 
 This Privacy Statement covers:
 
@@ -46,13 +46,13 @@ This Privacy Statement covers:
 
 ### Information We Collect
 
-Information is gathered from the AutoTrader Sites by us, our service providers, advertisers, sponsors and partners.
+Information is gathered from the Autotrader Sites by us, our service providers, advertisers, sponsors and partners.
 
-Information You Provide. We may collect information that you choose to provide on the AutoTrader Sites in a variety of ways, such as when you:
+Information You Provide. We may collect information that you choose to provide on the Autotrader Sites in a variety of ways, such as when you:
 
   1. register for one of our products or services. This information may include your name, address, telephone number, email address, Social Security Number, and credit information;
   2. make information available to us via social networking logins, such as Facebook or Twitter;
-  3. express an interest in buying, selling or trading in a car (such as by using our "email the seller" function);
+  3. express an interest in buying, selling or trading in a car (such as by using our " the seller" function);
   4. participate in chats, web forums or other interactive sessions;
   5. apply for credit with a dealer or one of our finance partners;
   6. provide payment card information for one of our products or services;
@@ -61,24 +61,24 @@ Information You Provide. We may collect information that you choose to provide o
 
 
 
-Automated Information. Information regarding your use of the AutoTrader Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as:
+Automated Information. Information regarding your use of the Autotrader Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as:
 
   1. your IP address, the type of browser and operating system used;
-  2. date and time you access the AutoTrader Site and pages you visit, and if you linked from or to another website, the address of that website;
-  3. email you open and links you click on within those email; and
+  2. date and time you access the Autotrader Site and pages you visit, and if you linked from or to another website, the address of that website;
+  3. email you open and links you click on within those emails; and
   4. your ISP or mobile carrier, and the type of handheld or mobile device that you used.
 
 
 
 Data Technologies. Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as "Data Technologies". "Cookies" are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. "Local shared objects," sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies.
 
-One or more Data Technologies may be used on the AutoTrader Sites and other websites and mobile applications (that may not be the AutoTrader Sites) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on our behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications.
+One or more Data Technologies may be used on the Autotrader Sites and other websites and mobile applications (that may not be the Autotrader Sites) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on our behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications.
 
 We may use a uniquely generated trackable toll-free telephone number on dealer sites or in advertisements. If you call one of these uniquely generated toll-free numbers, we (or a service provider acting on our behalf) may collect non-personally identifiable information about the call (e.g. date, time, duration), as well as personally identifiable information (e.g. your name, the number from which your call originated).
 
 Videos We may target and track the videos you view on the Sites. You consent to our tracking of your video viewing through the Site or third party social media for up to two years or as permitted by applicable law.
 
-Location Information. When you download or use the AutoTrader Sites, we may collect physical location information that is sufficiently precise to allow us to locate a specific person or device ("Location Information"). We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after you initially access or download the AutoTrader Sites). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising, search results, dealers in the area, and directions.
+Location Information. When you download or use the Autotrader Sites, we may collect physical location information that is sufficiently precise to allow us to locate a specific person or device ("Location Information"). We also may collect Location Information when you visit or are in the vicinity of one of our dealers. We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after you initially access or download the Autotrader Sites). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising, search results, dealers in the area, and directions, to evaluate and improve the Autotrader Sites, or to provide you with content and services relevant to one or more nearby dealers.
 
 Publicly Posted Information. Information that you make available to us and others via social media networks, forums, blogs, list serves, chat rooms or similar functionality is public information that we or others may share or use in accordance with the law.
 
@@ -89,15 +89,15 @@ Combined Information and Information from Other Sources. We may combine informat
 We may use information we collect for the following purposes:
 
   1. for everyday business purposes, such as establishing and managing your user account, providing products and services you request, processing and collecting payments and providing customer support;
-  2. to create listings and advertisements for any cars and other vehicles that you list for sale with us. These lists and advertisements may appear on the AutoTrader Sites and other websites, mobile applications or services of third parties;
+  2. to create listings and advertisements for any cars and other vehicles that you list for sale with us. These lists and advertisements may appear on the Autotrader Sites and other websites, mobile applications or services of third parties;
   3. to provide values and/or offers for cars that you would like to sell or trade in;
   4. to offer our other products or services and/or the products or services of others to you;
   5. to communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes and other offers or promotions;
-  6. to enable you to interact with AutoTrader and our users, dealers, manufacturers and others through various means, such as through our message boards, blogs and social media;
+  6. to enable you to interact with Autotrader and our users, dealers, manufacturers and others through various means, such as through our message boards, blogs and social media;
   7. to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services, applications and websites;
   8. to diagnose and address technical and service problems;
   9. to perform data analyses, including market and consumer research, trend analysis, demographic analysis and financial analysis;
-  10. to deliver content (including advertising) correlating to your interests and browsing and usage history, both within the AutoTrader Sites and on other websites and applications;
+  10. to deliver content (including advertising) correlating to your interests and browsing and usage history, both within the Autotrader Sites and on other websites and applications;
   11. to comply with applicable legal requirements and our policies; and
   12. to contact you via telephone, text or chat. We will obtain your consent to contact you when and in the manner required by law.
 
@@ -105,36 +105,36 @@ We may use information we collect for the following purposes:
 
 ### Applications, Widgets and Social Media
 
-We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook "Share" or "Like" button, are visible to you on the web page you visit. Integration between the AutoTrader Sites and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate the network's application or widget. Please visit the applicable social media network's privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network.
+We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook "Share" or "Like" button, are visible to you on the web page you visit. Integration between the Autotrader Sites and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate the network's application or widget. Please visit the applicable social media network's privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network.
 
 ### Advertising Networks
 
-Advertising that is customized based on predictions generated over time from your visits across different websites, devices and mobile applications is sometimes called "online behavioral" or "interest-based" advertising. We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of interest-based advertisements. They may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on the AutoTrader Sites and on third-party's websites and mobile applications. This process allows AutoTrader and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies.
+Advertising that is customized based on predictions generated over time from your visits across different websites, devices and mobile applications is sometimes called "online behavioral" or "interest-based" advertising. We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of interest-based advertisements. They may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on the Autotrader Sites and on third-partyâs websites and mobile applications. This process allows Autotrader and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies.
 
 We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement.
 
-Some companies disclose when they are using interest-based advertising programs on the AutoTrader Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon [](http://www.aboutads.info/) in or around third-party advertisements on the AutoTrader Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices), [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.evidon.com](http://www.evidon.com/). Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.
+Some companies disclose when they are using interest-based advertising programs on the Autotrader Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon in or around third-party advertisements on the Autotrader Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices), [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.ghosteryenterprise.com](http://www.ghosteryenterprise.com/). Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.
 
 ### 
 
 We do not sell or otherwise share information about you that we collect or receive, except as described below:
 
   1. Affiliates. We may share information about you, including personal information, with our corporate affiliates, who will use it in accordance with their privacy policies.
-  2. Our Service Providers. We may engage third parties to provide the services offered through or in connection with the AutoTrader Sites on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement.
-  3. Co-Sponsored Promotions. In the event that you participate in a survey, sweepstakes, contest or other promotion that is co-sponsored by AutoTrader and a third party, we may share information collected in conjunction with the survey, sweepstakes, contest or promotion, including personal information, with that third party. After the information is provided to those third parties, the subsequent use or disclosure of such information is subject to their privacy policies and practices. Surveys, sweepstakes and other promotions conducted on behalf of AutoTrader and a third party will include branding from both AutoTrader and the third party.
-  4. Promotions on behalf of Third Parties. Periodically, third parties may conduct surveys, contests, sweepstakes and other promotions for their own purpose on the AutoTrader Sites. Information you provide in response to those activities is governed by their privacy policies. Surveys, sweepstakes and other promotions conducted solely for the purpose of a third party will include only the third partyâs branding.
+  2. Our Service Providers. We may engage third parties to provide the services offered through or in connection with the Autotrader Sites on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement.
+  3. Co-Sponsored Promotions. In the event that you participate in a survey, sweepstakes, contest or other promotion that is co-sponsored by Autotrader and a third party, we may share information collected in conjunction with the survey, sweepstakes, contest or promotion, including personal information, with that third party. After the information is provided to those third parties, the subsequent use or disclosure of such information is subject to their privacy policies and practices. Surveys, sweepstakes and other promotions conducted on behalf of Autotrader and a third party will include branding from both Autotrader and the third party.
+  4. Promotions on behalf of Third Parties. Periodically, third parties may conduct surveys, contests, sweepstakes and other promotions for their own purpose on the Autotrader Sites. Information you provide in response to those activities is governed by their privacy policies. Surveys, sweepstakes and other promotions conducted solely for the purpose of a third party will include only the third party's branding.
   5. Sellers, Dealers and Manufacturers. Information about you, including personal information and Data Technologies, may be shared with sellers, dealers and manufacturers, and their agents and third party service providers, who will use that information in accordance with their own privacy policies. For example: 
     1. If you are interested in a particular listing of a car for sale, information about you may be shared with the seller of that particular car or similar cars or dealers in your area;
     2. If you are considering trading in a car, we may provide information about you to dealers who participate in our trade-in program and other dealers in your area;
     3. We may provide manufacturers, their agents or third party service providers, with information about you that we provided to their franchised dealers;
     4. We may provide manufacturers, their agents or third party service providers, with information about you if you are interested in certified pre-owned vehicles; or
-    5. We may provide manufacturers, their agents or third party service providers, and dealers with information about you when you access the AutoTrader Sites via AutoTrader branded advertising and/or functionality found on their websites or other third party websites.
-  6. Credit Applications. If you apply for credit on the AutoTrader Sites with us, our dealers, or any third party, it will be necessary for you to provide personal information to complete the application, including your address, credit information and history, employment and other financial information. We may share your application information with the dealership(s) you selected and our financial partners so that they can process your application and otherwise use it in accordance with their privacy policies, however, we will not use your personal financial information for interest based advertising.
+    5. We may provide manufacturers, their agents or third party service providers, and dealers with information about you when you access the Autotrader Sites via Autotrader branded advertising and/or functionality found on their websites or other third party websites.
+  6. Credit Applications. If you apply for credit on the Autotrader Sites with us, our dealers, or any third party, it will be necessary for you to provide personal information to complete the application, including your address, credit information and history, employment and other financial information. We may share your application information with the dealership(s) you selected and our financial partners so that they can process your application and otherwise use it in accordance with their privacy policies, however, we will not use your personal financial information for interest based advertising.
   7. Corporate and Asset Transactions. If we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a substantial part of our business, we may transfer all information we have collected and stored, including personal information, to the party or parties involved in the transaction as part of that transaction.
   8. Other. We may access or disclose information, including personal information, to: 
-    1. protect or defend our interests and the legal rights or property of AutoTrader and our affiliates;
-    2. protect the rights, interests, safety and security of users of the AutoTrader Sites or members of the public;
-    3. protect against fraud or for risk management purposes;
+    1. protect or defend our interests and the legal rights or property of Autotrader and our affiliates;
+    2. protect the rights, interests, safety and security of users of the Autotrader Sites or members of the public;
+    3. protect against fraud or for risk management purposes; or
     4. comply with prudent legal practice as we may determine, and applicable law or legal process.
 
 
@@ -145,7 +145,7 @@ You are entitled to make certain choices about how we communicate with you.
 
   1. You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service.
   2. If you do not want to receive marketing email from us, you can follow the unsubscribe link provided in those emails.
-  3. If you do not want to receive interest-based advertisements, you can opt out as discussed in the âAdvertising Networksâ section above.
+  3. If you do not want to receive interest-based advertisements, you can opt out as discussed in the "Advertising Networks" section above.
   4. You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser's setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or opting out at Evidon.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device. Finally, if you do not want to use a uniquely generated telephone number, you may choose to not call us.
   5. If you do not want us to use Location Information, you can decline our initial invitation to provide that information, or opt out by changing the location services settings on your mobile device. However, please note that certain features may not function properly or at all as a result if you opt out.
 
@@ -159,11 +159,11 @@ Online Tracking Policy for California Residents: As of the effective date of thi
 
 ### Access and Correction
 
-Access to information that we collect and maintain about you may be available to you. For example, if you created a password-protected account within the AutoTrader Sites, you can access that account to update the information you previously provided. Additionally, if you believe that information we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated in the "How to Contact Us" section below.
+Access to information that we collect and maintain about you may be available to you. For example, if you created a password-protected account within the Autotrader Sites, you can access that account to update the information you previously provided. Additionally, if you believe that information we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated in the "How to Contact Us" section below.
 
 ### Links
 
-The AutoTrader Sites may contain links to websites not operated by us, as well as third party widgets and applications discussed above. Once you leave the AutoTrader Sites, we suggest that you review the applicable privacy policy of the third-party website or application. We are not responsible for the content or use of any websites or applications other than on the AutoTrader Sites or the privacy practices of those websites or applications.
+The Autotrader Sites may contain links to websites not operated by us, as well as third party widgets and applications discussed above. Once you leave the Autotrader Sites, we suggest that you review the applicable privacy policy of the third-party website or application. We are not responsible for the content or use of any websites or applications other than on the Autotrader Sites or the privacy practices of those websites or applications.
 
 ### Data Security
 
@@ -171,7 +171,7 @@ We use commercially reasonable administrative, technical, personnel, and physica
 
 ### Disputes
 
-If you choose to visit the AutoTrader Sites, your visit and any dispute regarding privacy is subject to this Privacy Statement and our Visitor Agreement, including limitations on damages, resolution of disputes, and application of the law of the state of Georgia.
+If you choose to visit the Autotrader Sites, your visit and any dispute regarding privacy is subject to this Privacy Statement and our Visitor Agreement, including limitations on damages, resolution of disputes, and application of the law of the state of Georgia.
 
 ### Updates to this Privacy Statement
 
