@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myplexusproducts.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705045825id_/https%3A//www.myplexusbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplexusproducts.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324225548id_/https%3A//www.myplexusbuilder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My Plexus Builder
 
@@ -25,7 +25,7 @@ In order to use this web site, a user must first complete the registration form.
 
 ### Cookies
 
-We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
+We use cookies on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
 ### Your Access to and Control Over Information
 
@@ -42,6 +42,6 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 We take precautions to protect your information. When you submit sensitive information via the web site, your information is protected both online and offline.
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for 'https' at the beginning of the address of the web page.
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
