@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the i9sports.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822185456id_/https%3A//www.i9sports.com/FooterLinks/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i9sports.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324114804id_/https%3A//www.i9sports.com/FooterLinks/PrivacyPolicy) for the most accurate reproduction.*
 
-# i9 Sports - FooterLinks
+# i9 Sports Privacy Policy
 
 **Privacy Policy**  
 i9 Sports Corporation ("i9 Sports") is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our site and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below.
