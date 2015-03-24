@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardinalhealth.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011152322id_/http%3A//www.cardinalhealth.com/mps/public/%21ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fkzBLA09PC0PzgLAgA_dgM_3g1Dz9cJAus3gDHMDRQN_PIz83Vb8g28sCAHQWbBk%21/dl2/d1/L2dJQSEvUUt3QS9ZQnB3LzZfMjBHMDA4TUNNTEUzNTBJQUpHUTNONDEwVTY%21/%3FWCM_GLOBAL_CONTEXT%3D/mps/wcm/connect/us/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardinalhealth.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324220553id_/http%3A//www.cardinalhealth.com/mps/public/%21ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjA3cDAwtfZ18fV2NTA09HL_dAYz8TQ4NQM_3g1Dz9gmxHRQDCM_oZ/%3FWCM_GLOBAL_CONTEXT%3D/mps/wcm/connect/us/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy -- Cardinal Health
 
