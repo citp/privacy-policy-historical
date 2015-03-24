@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focuslinesurveys.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701105255id_/https%3A//www.focuslinesurveys.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focuslinesurveys.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324191719id_/https%3A//www.focuslinesurveys.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Paid Surveys - Rewarded Surveys
 
@@ -22,7 +22,7 @@ A cookie is a small amount of data that is sent to your browser from a web serve
 
 Who is collecting information and for what purpose?
 
-FocuslineSurveys collects valuable information which assists in developing new products and services. When you are on a FocuslineSurveys site and are asked for personal information, you are sharing that information with FocuslineSurveys alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than FocuslineSurveys -- or its parent company UnitedSample,Inc. , you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
+FocuslineSurveys collects valuable information which assists in developing new products and services. When you are on a FocuslineSurveys site and are asked for personal information, you are sharing that information with FocuslineSurveys alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than FocuslineSurveys -- or its parent company Instantly, Inc. , you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
 
 Promotions that run on FocuslineSurveys may be sponsored by companies other than FocuslineSurveys or may be co-sponsored by FocuslineSurveys and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you do not want your data to be shared.
 
@@ -54,7 +54,7 @@ FocuslineSurveys does not sell or rent user information to anyone. We will notif
 
 What is FocuslineSurveys's policy on allowing me to update, correct, or delete my personally identifiable information?
 
-You may edit your FocuslineSurveys Account Information and your public FocuslineSurveys Profile at any time by using your FocuslineSurveys ID and password. If you have forgotten your password, please [click here](https://web.archive.org/web/20140701105255id_/https%3A//www.focuslinesurveys.com/forgot_password.php) .
+You may edit your FocuslineSurveys Account Information and your public FocuslineSurveys Profile at any time by using your FocuslineSurveys ID and password. If you have forgotten your password, please [click here](https://web.archive.org/web/20150324191719id_/https%3A//www.focuslinesurveys.com/forgot_password.php) .
 
 Your FocuslineSurveys account can be deleted or deactivated. Please contact support@FocuslineSurveys.com for further instructions about deleting or deactivating your FocuslineSurveys account.
 
