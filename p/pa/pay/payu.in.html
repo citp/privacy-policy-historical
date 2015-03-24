@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the payu.in privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702034744id_/https%3A//www.payu.in/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the payu.in privacy policy that was archived on 2015-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150324142410id_/https%3A//www.payu.in/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     
     <title>PayU</title>
     <link rel="shortcut icon" type="image/ico" href="https://static.payu.in/images/favicon.png">
-          <link href="https://static.payu.in/css/style_front.css?version=1.9" rel="stylesheet" type="text/css">
+          <link href="https://static.payu.in/css/style_front.css?version=2.0.9" rel="stylesheet" type="text/css">
           <link href="https://static.payu.in/css/ui-lightness/jquery-ui-1.8.16.custom.css?version=1.0" rel="stylesheet" type="text/css">
               <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="https://static.payu.in/js/jquery-1.6.2.min.js?version=1.0"></script>
       <script type="text/javascript" src="https://static.payu.in/js/signupCampaign/jquery.fancybox.js"></script>
@@ -14,7 +14,7 @@
       <script type="text/javascript" src="https://static.payu.in/js/signupCampaign/jquery.fancybox.js"></script>
           <script type="text/javascript" src="https://static.payu.in/js/common.js?version=1.0"></script>
       <script type="text/javascript" src="https://static.payu.in/js/signupCampaign/jquery.fancybox.js"></script>
-          <script type="text/javascript" src="https://static.payu.in/js/front.js?version=1.3"></script>
+          <script type="text/javascript" src="https://static.payu.in/js/front.js?version=1.0.3"></script>
       <script type="text/javascript" src="https://static.payu.in/js/signupCampaign/jquery.fancybox.js"></script>
         <script type="text/javascript">
       var _action = "privacyPolicy";
@@ -82,6 +82,173 @@
  <div class="contact_no">
  		<h4>Call us now: <span class="contact">0124-6624801</span></h4>
  </div>
+  <div id="surveyBtn" style="position:fixed; padding:4px 15px; bottom:0; right:10px; text-align: center; background: #13adef; color: white; cursor: hand; cursor: pointer;font-weight: bold;font-size: 14px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
+      <p style="font-size: 13px; margin: 2px; font-style: italic; font-family: monotype">Tell us what you think.</p>
+      <p style="margin: 0">TAKE OUR SURVEY</p>
+  </div>
+  <script type="text/javascript">
+    function closeSurveyForm() {
+        var $surveyContainer = $("#surveyContainer");
+        $surveyContainer.hide();
+        $surveyContainer.find('form').removeClass("hide")[0].reset();
+        $surveyContainer.find('.successMsg').addClass("hide");
+        $surveyContainer.find("form[name='surveyForm']").find("input").removeAttr("checked");
+    }
+
+    $(document).ready(function() {
+
+        var $surveyContainer = $("#surveyContainer");
+        var $surveyForm = $surveyContainer.find("form[name='surveyForm']");
+
+        $surveyForm.submit(function() {
+
+            var error = false;
+
+            var answer1 = $surveyForm.find("input[name='question1']:checked").val();
+
+            var answer2 = '';
+            $surveyForm.find("input[name='question2']:checked").each(function() {
+                if(this.value == "others") {
+                    var $others2 = $surveyForm.find("input[name='others2']");
+                    answer2 += 'others-'+$others2.val() + "||";
+                } else {
+                    answer2 += this.value + "||";
+                }
+            });
+            answer2 = answer2.slice(0,-2);
+
+            var answer3 = $surveyForm.find("input[name='question3']:checked").val();
+            if(answer3 == "others") {
+                answer3 =  "others-"+$surveyForm.find("input[name='others3']").val();
+            }
+
+            var suggestions = $surveyForm.find("input[name='suggestions']").val();
+
+            if(answer1 == undefined || answer2 == '' || answer3 == undefined) {
+                error = true;
+                $surveyContainer.find(".errorMessage").text("Please fill all mandatory questions.").removeClass("hide");
+            } else {
+                $surveyContainer.find(".errorMessage").text("").addClass("hide");
+            }
+
+            if(!error) {
+                //Post the data to server
+                $surveyForm.addClass("hide");
+                $("#surveyContainer .successMsg").removeClass("hide");
+                $.ajax({
+                    url: "https://www.payu.in/survey",
+                    type: 'POST',
+                    data: {
+                        answer1: answer1,
+                        answer2: answer2,
+                        answer3: answer3,
+                        suggestions: suggestions,
+                        CSRFName: $surveyForm.find("input[name='CSRFName']").val(),
+                        CSRFToken: $surveyForm.find("input[name='CSRFToken']").val()
+                    }
+                });
+            }
+
+            return false;
+        });
+
+        $surveyForm.find("button[type='reset']").click(function() {
+            $surveyContainer.find(".errorMessage").addClass("hide");
+            $surveyForm.find("input").removeAttr("checked");
+        });
+
+        $surveyForm.find(".others-input").focus(function() {
+            $(this).siblings("label").find("input").attr('checked', 'checked');
+        });
+    });
+</script>
+<style>
+    #surveyContainer {display:none; position: fixed; z-index: 10; bottom: 0; right: 10px; color: #3d3d3d; padding: 15px; width: 300px; background: #FFF; border: 2px solid #DDD; font-size:12px;}
+
+    #surveyContainer .left {float: left;}
+    #surveyContainer .red {color: red}
+    #surveyContainer .right {float: right;}
+    #surveyContainer .clearfix {clear: both;}
+    #surveyContainer .hide {display: none;}
+    #surveyContainer .errorMessage {color: #ff0000; font-size: 14px; text-align: center; margin-top:10px !important; margin-bottom: 10px !important; }
+
+    #surveyContainer .button {padding: 5px 10px; cursor: pointer; cursor: hand;}
+    #surveyContainer .button-blue {background: #13adef; border: 1px solid #13adef; color: #ffffff}
+    #surveyContainer .button-gray {background: #ebebeb; border: 1px solid #ebebeb; color: #333}
+
+    #surveyContainer h4 {font-size: 18px; margin: 3px 0 0 0;}
+    #surveyContainer .close-btn {padding: 6px 10px; background: #13adef; color: white; text-decoration: none; font-weight: bold}
+    #surveyContainer .question {font-weight: bold; margin-top: 20px; margin-bottom: 10px; font-size:14px;}
+    #surveyContainer .others-input {width: 70%; padding: 5px; margin-left: 5px;}
+
+    #surveyContainer form[name='surveyForm'] {overflow-x: hidden; overflow-y: auto; height: 400px; border-top: 1px solid #efefef;}
+    #surveyContainer section div {margin-top:10px; margin-bottom: 10px;}
+    #surveyContainer section div input[type="radio"] {vertical-align: middle; margin-top: 0}
+    #surveyContainer section div input[type="checkbox"] {vertical-align: middle; margin-top: 0}
+    #surveyContainer section div input[name="suggestions"] {padding: 5px; width: 90%;}
+
+    #surveyContainer .successMsg section:first-child {text-align: center; padding: 35px; border-top: 1px dashed #AAA; border-bottom: 1px dashed #AAA; background: #fbfcbd; height: 265px; margin-top:20px; margin-bottom: 20px;}
+    #surveyContainer .successMsg section:first-child h1 {color: #3d3d3d; margin: 0; padding: 0; font-size: 25px; font-weight: bold; margin-bottom: 10px; padding-top: 33px;}
+</style>
+<div id="surveyContainer">
+    <header style="margin-bottom: 10px;">
+        <h4 class="left">One Minute Survey</h4>
+        <a href="javascript:void(0)" onclick="closeSurveyForm();" class="right close-btn">X</a>
+        <div class="clearfix"></div>
+    </header>
+    <p class="errorMessage hide">Error Message</p>
+    <form name="surveyForm" action="#" method="post"> <input type="hidden" name="CSRFName" value="CSRFProtect_376467133">
+						<input type="hidden" name="CSRFToken" value="c1c13b37315a5aba3228ead01af313cd">
+        <!--<p class="question">We would like to take few seconds of yours to serve you better!</p>-->
+        <section style="margin-top: 10px;">
+            <div class="question">Did you get what you were looking for ? <span class="red">*</span></div>
+            <div><label><input type="radio" name="question1" value="Yes">Yes</label></div>
+            <div><label><input type="radio" name="question1" value="No">No</label></div>
+        </section>
+        <section>
+            <div class="question">What are you looking for ? <span class="red">*</span> </div>
+            <div><label><input type="checkbox" name="question2" value="Technical help">Technical help</label></div>
+            <div><label><input type="checkbox" name="question2" value="Explore features and services">Explore features and services</label></div>
+            <div><label><input type="checkbox" name="question2" value="Complaint registration">Complaint registration</label></div>
+            <div><label><input type="checkbox" name="question2" value="Sign up">Sign up</label></div>
+            <div><label><input type="checkbox" name="question2" value="Pricing">Pricing</label></div>
+            <div><label><input id="ques2-others" type="checkbox" name="question2" value="others">Others </label><input type="text" name="others2" class="others-input" placeholder="Please Specify"></div>
+        </section>
+        <section>
+            <div class="question" style="margin-top: 15px;">How would you describe yourself as: <span class="red">*</span></div>
+            <div><label><input type="radio" name="question3" value="Developer">Developer</label></div>
+            <div><label><input type="radio" name="question3" value="Business owner">Business owner</label></div>
+            <div><label><input type="radio" name="question3" value="Reseller">Reseller</label></div>
+            <div><label><input type="radio" name="question3" value="others">Other </label><input type="text" name="others3" class="others-input" placeholder="Please Specify"></div>
+        </section>
+        <section>
+            <div class="question">Any suggestions for us (Optional)</div>
+            <div><input type="text" placeholder="Suggestions" name="suggestions"></div>
+        </section>
+        <section style="text-align: center; margin-top: 20px;">
+            <button type="submit" class="button button-blue">Submit</button>
+            <button type="reset" class="button button-gray" style="margin-left: 6px;">Reset</button>
+        </section>
+    </form>
+    <section class="successMsg hide">
+        <section>
+            <h1>Thanks!</h1>
+            <p>Your message has been successfully sent</p>
+        </section>
+        <section style="text-align: center">
+            <button onclick="closeSurveyForm();" class="button button-blue">Close</button>
+        </section>
+    </section>
+</div>
+  <script type="text/javascript">
+        $("#surveyBtn").click(function() {
+            $("#surveyContainer").show();
+        });
+
+        setTimeout(function() {
+            $("#surveyBtn").click();
+        }, 45000);
+  </script>
   <div class="logo_part">
     <div class="fiLt"><a href="https://www.payu.in/index"><span class="PAYU_INDIA"></span></a></div>
     <div class="fiRt menu_part">
@@ -94,7 +261,7 @@
           <li id="menu"><a href="https://www.payu.in/pricing" class="">Pricing</a></li>
          <!-- <li id="menu"><a href="https://www.payu.in/switchtopayu" class="">Switch to PayU</a></li>-->
           <li id="menu"><a href="https://www.payu.in/aboutpayment" class="">New to Payments</a></li>
-                    <li id="menu"><a href="http://blog.payu.in/">Blog</a></li>
+          <li id="menu"><a href="https://blog.payu.in/">Blog</a></li>
           <li class="lineDiv"><a href="https://info.payu.in/merchant/registerS1">Sign up</a></li>
           <li class="signin_but"><a id="sign_in" style="cursor:pointer"><span class="signin"></span></a></li>
 
@@ -106,6 +273,8 @@
     </div>
     <div class="clearAll"></div>
   </div>
+  
+  <div style="clear:both;"></div>
 
 <div class="form_container">
 
@@ -158,47 +327,51 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/977465974/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-<div class="companies">
-<!--    <div class="fiLt payu_sp_image9"></div>-->
-    <div class="fiLt payu_sp_image10">
-      <span class="used">Used by leading companies : </span>
-            <div class="clearAll"></div>
-    </div>
-    <div class="fiLt payu_sp_image11"></div>
-    <div class="clearAll"></div>
-  </div>
-
-</div>
+		<div class="companies">
+	<!--    <div class="fiLt payu_sp_image9"></div>-->
+		<div class="fiLt payu_sp_image10">
+			<span class="used">Used by leading companies : </span>
+						<div class="clearAll"></div>
+		</div>
+		<div class="fiLt payu_sp_image11"></div>
+		<div class="clearAll"></div>
+	</div>
+	</div>
 <div class="spacer30 clearAll"></div>
 <div class="footerDiv">
   <div class="footer_main">
     <div class="fiLt footer_button">
-      <span>
+      <span style="width:100px;">
+      	<nobr><a href="https://www.payu.in/aboutus">About Us</a></nobr>
         <nobr><a href="https://www.payu.in/whypayu">Why PayU</a></nobr>
+      </span>
+      <span style="width:140px;">
+        <nobr><a href="https://www.payu.in/whypayu#paymentoptions">Payment options</a></nobr>
         <nobr><a href="https://www.payu.in/aboutpayment">New to Payments?</a></nobr>
       </span>
-      <span>
-        <nobr><a href="https://www.payu.in/whypayu#paymentoptions">Payment options</a></nobr>
+      <span style="width:110px;">
         <nobr><a href="https://www.payu.in/pricing">Pricing</a></nobr>
-      </span>
-      <span>
-        <nobr><a href="https://info.payu.in/merchant/registerS1">Sign up</a></nobr>
         <nobr><a href="https://www.payu.in/refundInformation">Track Refund</a></nobr>
       </span>
-      <span>
-        <nobr><a href="http://blog.payu.in/">Blog</a></nobr>
+      <span style="width:130px;">
+        <nobr><a href="https://info.payu.in/merchant/registerS1">Merchant Signup</a></nobr>
+        <nobr><a href="https://www.payu.in/partnerprogram">Reseller Signup</a></nobr>
+      </span>
+      <span style="width:80px;">
+        <nobr><a href="https://blog.payu.in/">Blog</a></nobr>
         <nobr><a href="http://careers.payu.in/" target="_blank">Careers</a></nobr> 
       </span>
       <span style="width:0px;">
-        <nobr><a href="https://www.payu.in/aboutus">About us</a></nobr>
         <nobr><a href="https://www.payu.in/contact_us2">Contact Us</a></nobr>
+        <nobr><a href="https://www.payu.in/complaints">Complaints</a></nobr>
       </span>
 
       <div class="clearAll"></div>
     </div>
-    <div class="fiRt followDiv"><a onclick="openlink('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.payu.in&amp;lang=en');"><span class="footerImgs verisign" style="cursor:pointer;"></span></a><a onclick="openlink('http://seal.controlcase.com/index.php?page=showCert&amp;cId=3877025869');"><span class="footerImgs PCI_logo" style="cursor:pointer;"></span></a></div>
+     <script type="text/javascript" src="https://static.payu.in/js/verisign.js"></script>
+    <div class="fiRt followDiv"><a href="javascript:vrsn_splash()"><span class="footerImgs verisign"></span></a><a><span class="footerImgs PCI_logo"></span></a></div>
     <div class="clearAll"></div>
-    <div class="All_rights"><a href="#">© 2014 PayU. All rights reserved.</a><a style="float: right" href="https://www.payu.in/privacyPolicy">Privacy Policy</a></div>    
+    <div class="All_rights"><a href="#">© 2015 PayU. All rights reserved.</a><a style="float: right" href="https://www.payu.in/privacyPolicy">Privacy Policy</a></div>    
   </div>
 </div>
  <!--poup up-->
@@ -208,11 +381,11 @@ var google_remarketing_only = true;
      <h3><span class="fiLt"> <span class="lock"></span>Signin from here </span><span class="payu_sign_in_cross fiRt" id="cancel_sign_in"></span><div class="clearAll"></div></h3>
            <div class="enter">
              <h4 id="show_error"></h4>
-        <form id="sign_in_form" action="https://info.payu.in/merchant/login" method="post"> <input type="hidden" name="CSRFName" value="CSRFProtect_2146448443">
-						<input type="hidden" name="CSRFToken" value="5cdfa6143dbaf98092effbd76328e412">
-        <p><label>User Name</label> <input name="login[username]" type="text" maxlength="60"></p><div class="clearAll"></div><p></p>
+        <form id="sign_in_form" action="https://info.payu.in/merchant/login" method="post"> <input type="hidden" name="CSRFName" value="CSRFProtect_376467133">
+						<input type="hidden" name="CSRFToken" value="c1c13b37315a5aba3228ead01af313cd">
+        <p><label>User Name</label> <input name="login[username]" type="text" maxlength="60" autocomplete="off"></p><div class="clearAll"></div><p></p>
         <p><label>Alias</label> <input name="login[alias]" type="text" maxlength="60"></p><div class="clearAll"></div><p></p>
-        <p><label>Password</label> <input id="passwd1" name="login[password]" type="password" maxlength="60"></p><div class="clearAll"></div><p></p>
+        <p><label>Password</label> <input id="passwd1" name="login[password]" type="password" maxlength="60" autocomplete="off"></p><div class="clearAll"></div><p></p>
         <p style="text-align:right;"><a id="forgot_password" style="color:#2990cb" href="#">Forgot Password</a></p>
         <p style="text-align:left; padding:6px 0 0 142px;">
          <!-- <span><img src="images/remeber_me.png" id="sign_in_remember" width="22" height="22"/>Remember Me</span> -->
