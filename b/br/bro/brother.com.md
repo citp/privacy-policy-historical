@@ -1,130 +1,88 @@
-> *The following text is extracted and transformed from the brother.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225081526id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324015800id_/http%3A//www.brother.com/privacy/index.htm) for the most accurate reproduction.*
 
-# Brother International - Privacy Statement
+# Privacy Policy | Brother
 
-**Privacy Policy**
+Last Updated: February 1, 2008 
 
-**(Last Updated: August 21, 2012)**
+Brother Industries, Ltd. (hereinafter referred to as "Brother", "we" or "us") is committed to protect your personal data that you share with us. The following statement explains how we protect your personal data. 
 
-Brother International Corporation and its subsidiaries ("Company," "we," or "us"), are committed to respecting and protecting your privacy. We know that the privacy of personal information is an important concern to our customers. 
+## 1\. What Is Personal Data?
 
-This policy covers information that is collected through Brother websites to which it is linked ("Site") and to the use of our products and/or services ("Services"). This Privacy Policy is a part of, and is incorporated into, any Terms of Service between you and Company which are applicable to our products and/or services. This Privacy Policy and such applicable Terms of Service (together, the "Agreement") comprise the entire agreement and understanding between you and Company with respect to your access to and use of the Site and Services. 
+Personal data is any information which, in itself or tied with other information, could identify you as a specific individual and which may be contained in the information we collect by means set out in clause 2 below such as name, postal address, telephone number, email address, information related to the products or services which you purchased or used, returned questionnaire, any contacts, information related to repairs or access logs of our websites. 
 
-[](https://privacy.truste.com/privacy-seal/Brother-International-Corporation/validation?rid=a83e152c-8ecd-47d1-8712-bd547dcc9ea3 "TRUSTe European Safe Harbor certification")
+## 2\. How Brother Collects Your Personal Data
 
-Brother International Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@brother.com](mailto:privacy@brother.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+We collect your personal data: 
 
-Brother International Corporation complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. To learn more about the Safe Harbor program, and to view Brother International Corporation certification, please visit <http://www.export.gov/safeharbor/>
-
-This statement describes (i) the types of personal information we collect, (ii) how we use and protect the information, and (iii) to whom we disclose information. 
-
-PLEASE REVIEW THIS PRIVACY POLICY REGULARLY. By using the Site and the Services, or providing your Personal Information (as defined below) to Company, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, you should not use the Site, the Services, or provide your Personal Information to Company. To the extent that any terms or conditions of this Privacy Policy conflict with the applicable Terms of Service, then the Terms of Service shall govern, except as to the extent (if any) otherwise expressly set forth in either this Privacy Policy or the Terms of Service. 
-
-The Site and the Services are generally intended for adult audiences. Company does not knowingly collect, disclose or use any Personal Information of individuals under 13 years of age for marketing, solicitation or any other purposes, other than for lawful purposes related to the operation and maintenance of the Site and the Services. 
-
-**Collection of Personal Information  
-Personal Information is any data that can be used to identify an individual.**
-
-The Personal Information that you may be asked to provide when creating an account or registering for our services may include your first and last name, mailing address (including ZIP code), e-mail address, password, billing contact information, telephone and, if applicable, your employer's name and address. 
-
-When purchasing the Services or products online, you will also be asked to provide a credit card number. The credit card details that you provide when purchasing products or the Services constitute Personal Information that is covered by this Privacy Policy. 
-
-We may also collect certain information about your access to and use of the Site and the Services, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet, the dates and times that you access the Site, and the Services, the pages that you view while at the Site, and the Internet address of the website from which you linked to the Site. Information regarding your computer system configuration and operating system is also gathered. This information is used by us to help analyze trends and to improve and administer the Services. 
-
-If you receive newletters or promotional e-mails from us, we may collect additional information about you through the use of customized links or similar technologies to determine whether the e-mail was opened and which links were utilized by you in order to provide you more focused e-mail communications or other information. 
-
-For OmniJoin Users:
-
-When you invite attendee(s) to use our Service, we will collect information from them such as their name and email address. We will automatically send your attendee(s) a one-time email inviting them to your event. Company stores this information for the purpose of sending this one-time email and providing the service to your attendees 
-
-Your online transaction with Company will be conducted through a secured transport utilizing HTTPS and SSL encryption, with secure certificate services provided by a major third party security certificate provider such as VeriSign. As part of some of the Services, we (i) will process personal facial images and sound data, (ii) collect and log information generated from the computers of participants, including without limitation information regarding which participants viewed presentations, engaged in an exchange of information contributed to written materials, shared applications, posts, or printed or downloaded presentations, and (iii) collect detailed polling results identified at the user level, including without limitation how each individual user voted. This information is shared with a subscriber hosting a conference. 
-
-The Services incorporate Error Logging and Reporting ("ELR") that captures error report data and, at your option and only with your consent, sends this data to Company via the Internet. Error report data is used to assess and correct errors or problems that may occur during use of the Site and the Services. ELR error reporting is automatically triggered when the Service detects a software error. ELR error reports collect information about what was occurring with the Services when you experienced the problem and about your computer's configuration. It is possible that ELR error reporting may collect Personal Information, business information or other information as part of the error report. For example, a snapshot of memory may include your name, portions of documents that you were viewing or sharing during the conference in which the error occurred, portions of any presentation that you were viewing or sharing during such conference, or application or desktop data that you were viewing or sharing during such conference. 
-
-If you are concerned that the ELR error report may contain Personal Information or other information that you do not want to disclose, please do not send us the ELR error. 
-
-**Use of Personal Information**
-
-Company may use your Personal Information to provide you with more effective customer service, to improve the Site, and the Services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests, among other uses. 
-
-Registration information collected is used by Company to validate users, manage subscriptions, recall user settings (address book etc) deliver Services, support and improve the Services evaluation process. You may abandon registration at any time before completing the registration process. With regard to Personal Information that is collected during the registration process from our users, we present the option not to receive communications from Company regarding the Services and other product information. If you do not wish to receive such communications, you may opt-out or unsubscribe. We present the OPT-OUT option to all users, except with respect to system or service notifications. Each communication that you receive from Company will provide you with a method of opting out or unsubscribing 
-
-We may also use Personal Information to determine your eligibility for our free trial offers. Your email address may be used to send you periodic product offers and usage tips. You can opt-out of promotional emails at any time by following the unsubscribe instructions in the communications you receive, but will still receive communications such as receipts, confirmation emails and customer service updates that are considered necessary to provide the Services to you. We use the Personal Information collected to deliver Services, process payments, update our records, communicate with you about products and services and generally maintain your accounts with us. 
-
-If you indicate an interest in receiving e-mail communication, we may periodically send you information about other Brother products and services that Brother feels may be of interest to you. Established users will occasionally receive information on products, services, special deals and/or newsletters. Occasionally we may invite you to participate in surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose personal information. The requested personal information usually included contact information (such as name and shipping address), and demographic information (such as zip code), but the specific personal information collected in any survey may vary. Personal information will be used by the contest or survey sponsors to notify the winners and award prizes and as otherwise provided in the applicable contest rules. You should carefully review the rules of each survey or contest in which you participate, as they may contain additional important information about Brother's or a sponsor's use of your personal information. To the extent that the terms and conditions of such rules concerning the treatment of your personal information conflict with this privacy policy, the terms and conditions of such rules shall control. 
-
-Company may disclose Personal Information if we determine that disclosure is required by law, other legal process or is requested by a public or governmental authority:
-
-  1. to comply with any law, regulation, or litigation; or
-  2. to protect and defend the property rights of Company and its Affiliates; or
-  3. to act in urgent circumstances to protect the personal safety of any officer, director, employee, consultant, agent or representative of Company , any user of Company products or services including without limitation the Site and the Services, or any member of the public; or
-  4. for reasons of national security, law enforcement or other issues of public importance.
-  5. In the event Company goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and/or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
+  1. through our websites
+  2. by email, mail, telephone or other oral means; and
+  3. by any other means 
 
 
 
-**Sharing of Your Personal Information**
+## 3\. How Brother Uses Your Personal Data
 
-Except as otherwise described in this Privacy Policy, Personal Information that you provide to Company will not be shared outside of Company and its Affiliates including companies established in the U.S. and Japan. Neither Company nor its Affiliates will sell your Personal Information or otherwise make it available to third parties, except as permitted by you through an opt-in permission request or as otherwise outlined in this Privacy Policy. 
+We will not use your personal data for purpose other than those notified to you in advance, except: 
 
-In providing the Services to users, Company is required to provide some of your information to third parties in order to perform activities associated with the Services. Examples of these activities include billing processing, live chat software to assist you if you have questions while using our site or regarding your order, and fulfillment and sending e-mails on our behalf. When you sign up for our Services, we will share your personal information only as necessary for the third party to provide that Service and only to the third parties who we believe provide appropriate data security protection. 
+3-1 Personal Data related to Customers
 
-Brother shares aggregated demographic information with its business associates and advertisers. For example, Brother may, on a periodic basis, present information such as the number of users, areas of interest, relationship to Brother, etc. This is not linked to any personal information. 
+  1. to supply the customers with our products or services that the customers requested us;
+  2. to respond to the customers' requests for after-sales service including queries and repairs. (There will be cases where we use the customers' personal data, such as for communication to solve problems which occurred with our products or services provided to the customers.); and 
+  3. by any other means 
 
-**Updating Your Personal Information**
 
-If your Personal Information changes, it is your responsibility and obligation to update it. If you wish to change, review or update your Personal Information, you can do so by logging onto your "My Account" page. You can access or update your Personal Information and communication preferences we have on file. If you require assistance in updating or accessing your Personal Information, ask to have it removed from a public forum or if you would like to request that your account be marked as inactive, please contact us at [privacy@brother.com](mailto:privacy@brother.com). We will respond to your request within 30 days. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+3-2 Personal Date related to Business Partners
 
-**Security of Your Personal Information**
+  1. to contact or communicate with the business partners, performance of the contracts or to request for performance of the contracts with the business partners, and to perform any other acts related thereto with respect to the business partners. 
 
-We are committed to protecting the security of your Personal Information. We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. For example, we store the Personal Information you provide to us on computer servers with limited access. When we transmit sensitive Personal Information (such as a credit card number) over the Internet, we transmit it through the use of Secure Socket Layer (SSL) encryption or other technologies.
 
-The Personal Information that you provide to Company in connection with registering as a user of the Site or the Services (such as your name and e-mail address) is protected in several ways. For example, your access to your registration information is available through a password and a unique customer ID which is a valid e-mail address provided by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your registration information resides on secure servers accessible to only selected Company personnel. Company encrypts your Personal Information and strives to prevent unauthorized parties from viewing such information when it is transmitted to Company. We utilize security data security methods appropriate to the risks presented. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@brother.com](mailto:privacy@brother.com)
 
-For OmniJoin Users: 
+3-3 Personal Data related to Shareholders
 
-Any information (including without limitation Personal Information) that you submit during your use of the Services is available to all persons participating in a conference. The information you share during a conference (including without limitation Personal Information) may be read, collected or used by others for any purpose, including sending you unsolicited messages. Company is not responsible for any information that you elect to submit while using the Services or for any use of such information by any party. 
+  1. to exercise the rights and perform the obligation in accordance with the laws or the regulations 
+  2. to execute any and all plannings with respect to the shareholders (such as the questionnaire) 
+  3. to manage and maintain the shareholders in accordance with the laws or the regulations
 
-We do not disclose your private, online communications ("Content") with Company to any third parties other than as outlined in this Privacy Policy. However, your Content is available to those whom you authorize to see your Content as well as all other parties with whom your Content may be shared, including any other participant in your conference. Additionally, any participant in a conference may record and retransmit your Content. In the event that you elect not to use any of the Service's security access controls, the Content that you share in conjunction with your access to or use of the Site and the Services is available to those in the general public who are aware of the URL address for your conference. Such Content may include, without limitation, data, packets, information, communication or other material that is transmitted, copied, uploaded or otherwise made available through the Services using your log-in ID and password. 
 
-**Use of Cookies and Similar Tools**
 
-In order to improve our Site, we may use "cookies" or other tools to track your visit. A cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave the cookie to you. For some web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies may not be able to access those pages. If you choose to decline cookies, you may not be able to use interactive features of the Site. 
+3-4 Personal Data related to Job Applicants
 
-One of the primary purposes of cookies is to help the website recall your specific information to deliver relevant content and eases website navigation, when you return to the website. 
+  1. to provide the job applicants with the information related to job application, and to contact with the job applicants 
+  2. to manage the operations with respect to job applicants 
 
-In addition to cookies, the Site automatically logs the IP/Internet address of your computer, your browser version, referring URLs and general web visitor information used by our web traffic reporting tools. This information may be linked to your registration information, and your navigation around the Site may be tracked. We use this information to understand how the Site is being used so that we can improve the Site and offer appropriate products and services to our customers. 
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. 
 
-We and our third party partners may use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personal information. 
+## 4\. Who Will Your Personal Data Be Disclosed To?
 
-We use clear gifs in our HTML-based emails in order to count traffic or determine readership statistics. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+We will not, without your prior consent, disclose your personal data to third parties except: 
 
-**Social Media Widgets**
+  1. in a form or manner where the personal data is not identifiable as yours;
+  2. to our affiliated companies and business partners, who are bound by confidentiality obligations with respect to personal data, to the extent necessary to fulfill the purpose; or
+  3. when required by the laws or the regulations.
 
-Our Site may include Social Media Widgets, such as the Share this button or interactive mini-programs that run on our Site. These Widgets may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Widget to function properly. Social Media Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Widgets are governed by the privacy policy of the company providing it. 
 
-**Links to Other Web Sites**
 
-The Site may contain links to third party websites. This Privacy Policy applies solely to the Site, the Services, and to the Personal Information collected. You acknowledge and agree that Company is not responsible for the privacy practices or the content of third party websites, for your use of any third party websites, or for any intended or unintended consequences of such use. We encourage you to carefully read the privacy statement of any Web site you visit. 
+## 5\. Compliance To Laws
 
-Please understand that some sites provide geographic choices when you enter the Site. Upon selecting a geographic area, however, you may be redirected to a different site, with a different privacy policy. 
+We will comply with the laws and the regulations provided for the protection of personal data and guidelines issued by related government agencies and the industry associations. 
 
-**Assignment**
+## 6\. How Brother Handles Your Personal Data
 
-We reserve the right to transfer any and all information that we collect from users to a third party in the event of any merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Brother's assets or stock (including without limitation in connection with any bankruptcy or similar proceedings. 
+To assure adequate level of personal data protection, we will maintain effective internal rules, have our assigned managers oversee the operations on your personal data and make our directors, employees and temporary staff aware of and abide by such rules. 
 
-**Changes to the Privacy Policy**
+## 7\. How Brother Secures Your Personal Data
 
-We may update this Privacy Policy from time to time. When we do, we will revise the "Last Updated" date at the top of the Privacy Policy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this Privacy Policy to stay informed about our policies and procedures concerning privacy, including how we are helping to protect the Personal Information we collect. 
+We take the security of your personal data very seriously and will protect it from leakage, destruction or alteration, so that you can feel confident in the security of information you provide to us. 
 
-Your continued use of the Site and Services constitutes your agreement to and acceptance of this Privacy Policy and any updates. You will be deemed to have been made aware of, and will be subject to, any changes to the Privacy Policy immediately upon the posting of notice of such changes on the Site. 
+## 8\. Inquiry for Personal Data 
 
-**Company Contact Information**
+We correspond to the inquiry for the personal data kept in our custody by the identity of the personal data properly and quickly. [Please contact us if requested](https://secure6.brother.co.jp/SendMail/mail/englishfeedback.htm). 
 
-If you have questions regarding this Privacy Policy, or if you believe this Privacy Policy has not been complied with, please contact Company by e-mail at [privacy@brother.com](mailto:privacy@brother.com). Please include the word "privacy" in the subject. You may also contact us at Brother International Corporation, 200 Crossing Blvd, Bridgewater, NJ 08807. 
+## 9\. Cookies
 
-In your correspondence (whether sent by e-mail or postal mail), please ask your question in detail or describe in detail the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your question or concern and will use commercially reasonable efforts to promptly provide an answer or otherwise to determine and remedy the problem. We will reply to you by the same method (either e-mail or postal mail) by which you contacted us. 
+During the course of your visit to our websites, we may place a small file called a cookie on your computer to make the browsing more convenient to you. Although your computer could be identified with a cookie, we will not, without prior notification, use cookies with other personal data to identify you. You can set your browse to reject cookies. 
+
+## 10\. Amendment to this Privacy Policy
+
+We may amend this Privacy Policy in accordance with the revision of the applicable laws or any other reasons. 
