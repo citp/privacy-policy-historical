@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the aferry.to privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216050119id_/http%3A//www.aferry.co.uk/PrivacyPolicyUK.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aferry.to privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325001252id_/http%3A//www.aferry.co.uk/privacypolicyuk.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://itunes.apple.com/gb/app/find-a-ferry/id373066509?mt=8 "Available on the App Store")
-
-[](https://play.google.com/store/apps/details?id=com.Aferry.Aferry&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5BZmVycnkuQWZlcnJ5Il0 "Android App on Google Play")
 
 The Travel Gateway Ltd is committed to protecting the privacy of its customers. This Privacy Policy applies to all the domains that are wholly managed by The Travel Gateway Ltd including www.aferry.co.uk and all AFerry trademark sites www.aholiday.co.uk / www.aflight.to. The Travel Gateway Ltd will only use the information collected lawfully (in accordance with the Data Protection Act 1998). The Travel Gateway Ltd also comply with the Electronic Commerce (EC Directive)Regulations 2002 (SI 2002 No.2013)
 
