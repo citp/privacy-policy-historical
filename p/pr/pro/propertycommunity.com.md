@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertycommunity.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100931id_/http%3A//www.propertyforum.com/forum/faq.php%3Ffaq%3Dprivacytext%23faq_privacytextdesc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertycommunity.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324195756id_/http%3A//www.propertyforum.com/forum/faq.php%3Ffaq%3Dprivacytext%23faq_privacytextdesc) for the most accurate reproduction.*
 
 # Property Forum - FAQ: Privacy Policy
 
