@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the purchasingpower.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811085534id_/https%3A//www.purchasingpower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purchasingpower.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324113730id_/https%3A//www.purchasingpower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Purchasing Power
-
-## You are here
-
-[Home](https://web.archive.org/) › Privacy Policy
 
 Purchasing Power is committed to protecting your privacy because our business is based on the trust you place in us. The information we collect is gathered to ensure secure ordering and to provide a more personalized shopping experience. 
 
@@ -83,8 +79,10 @@ We may use cookies to:
 Back to Top
 
  **How do I give my feedback?**  
-Click [here](http://purchasingpower.com/storefront/spring/contact/start) to contact Customer Service.
+Click [here](https://web.archive.org/contact-us "contact Purchasing Power") to contact Customer Service.
 
-How can I update my account information? Login to the website and proceed to My Account > My Profiles and Settings > Personal Info. You can update your information online to keep your customer information complete, up-to-date, and accurate. Click [here](http://purchasingpower.com/storefront/spring/my-account) to update your information. 
+ **How can I update my account information?**
+
+[Login](https://web.archive.org/store/login "log in to Purchasing Power") to the website and proceed to My Account > Profile Information. You can update your information online to keep your customer information complete, up-to-date, and accurate. Click [here](https://web.archive.org/store/my-account) to update your information.
 
 Back to Top
