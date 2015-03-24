@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluetooth.org privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708233419id_/https%3A//www.bluetooth.org/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetooth.org privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324103116id_/https%3A//www.bluetooth.org/en-us/privacy-policy) for the most accurate reproduction.*
 
-# English Privacy Policy
+# Privacy Policy
 
 Login
 
@@ -9,6 +9,10 @@ Username
 Password
 
 Remember Me
+
+This user account is inactive.
+
+If you have any questions, please [submit a ticket](https://web.archive.org/ticketing/ticket.cfm?category_id=1). 
 
 Privacy Policy 
 
