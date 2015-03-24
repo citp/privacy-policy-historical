@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchnote.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724015821id_/http%3A//www.touchnote.com/info/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchnote.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324234014id_/http%3A//www.touchnote.com/info/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Touchnote.com
 
@@ -54,7 +54,7 @@ The technology that we use and the policies that we have implemented are intende
 
 **Your Rights**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes, or if we intend to disclose your information to any third party for such purposes. You can also exercise the right at any time by [contacting us](http://www.touchnote.com/) (use the Feedback tab). 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes, or if we intend to disclose your information to any third party for such purposes. You can also exercise the right at any time by contacting us through our web form, which can be found on our [Help and FAQs page](https://www.touchnote.com/info/help). 
 
 **Access to Information**
 
@@ -66,4 +66,4 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 **Contact us**
 
-If you would like to contact us use the feedback tab on our [home page](http://www.touchnote.com/).
+If you would like to contact us, please use the web form on our [Help and FAQs page](https://www.touchnote.com/info/help).
