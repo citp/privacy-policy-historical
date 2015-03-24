@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoneedstv.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917102740id_/http%3A//whoneedstv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoneedstv.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324064537id_/https%3A//whoneedstv.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WhoNeedsTV.com is all about internet video humor with a twist of irony that offers a collection of funny videos, funny movies, classic TV ads, virals, silly pictures, viral marketing, digital marketing, interactive media, viral seeding & viral deployment.
 
