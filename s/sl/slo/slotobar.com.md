@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slotobar.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703013535id_/https%3A//slotobar.com/en/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slotobar.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324061504id_/https%3A//slotobar.com/en/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Slotobar.com
 
@@ -19,5 +19,3 @@ Winnings - your winnings and cash-outs are kept strictly confidential, and winni
 Credit Card Security - using your Credit Card at Slotobar is perfectly safe. CVC utilizes sophisticated RSA public/private key encryption technology to ensure that sensitive data is transferred securely over the Internet. All Credit Card details are stored on a secure server, which is protected by the latest firewall system. This means that using your Credit Card at Slotobar is even safer than using it to order food at your local restaurant.
 
 If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our friendly Customer Support Team or send your questions to [support@Slotobar.com](mailto:support@Slotobar.com). Our representatives will be more than happy to assist you.
-
-The services and the Content on the Website are provided by GGS Ltd., Anguila (GGS Ltd. 201 Rogers Office Building, Edwin Wallace Rey Drive, George Hill, Anguilla). Daughter company GGS NET LTD, Address: Arch. Makariou III, 135 Emelle Building, 4 floor, 3021, Limassol, Cyprus. GGS Ltd. is fully licensed and regulated by the laws of that country. References in the Terms to "us", "our," "we" or the “the Company” are references to the relevant company who you are contracting with, as specified above.
