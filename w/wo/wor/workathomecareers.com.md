@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workathomecareers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043942id_/http%3A//www.workathomecareers.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workathomecareers.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324045358id_/http%3A//www.workathomecareers.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
