@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riamoneytransfer.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107230319id_/https%3A//www.riamoneytransfer.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riamoneytransfer.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324012056id_/https%3A//www.riamoneytransfer.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ria Money Transfer
 
@@ -11,6 +11,16 @@ Welcome to Ria Money Transfer’s ("Ria") website, www.riamoneytransfer.com. Pro
 In order to provide services, Ria collects and may disclose certain personal and nonpersonal information about you and the recipient of the fund transfer, such as name, address, and phone number. In addition, depending on the services requested and/or the amount of your money transfer, Ria may also collect and disclose personal and nonpersonal information, such as date of birth, social security number or other identifying number (including type, issuer, and expiration date), credit card information (including type, number and expiration date), and any other information necessary to verify and process the request. 
 
 In addition, web log information is automatically gathered every time you visit the website. It gathers nonpersonal identifying information such as Internet browser type, IP address, and the pages you visited (see the use of "cookies" below). 
+
+##  Unsubscribing 
+
+It's easy to unsubscribe. Simply: 
+
+  1. Log in to your Ria account. 
+  2. Click on Profile and Settings in the left column. 
+  3. Under "Communication Preferences," UN-CHECK the box. 
+
+
 
 ##  Cookies 
 
@@ -51,3 +61,5 @@ Ria adheres to the Safe Harbor Principles issued by the United States Department
 ##  Questions 
 
 If you have any questions regarding this Privacy Policy, please contact Ria customer service at [ 1-877-443-1399](tel:18774431399). 
+
+6565 Knott Ave. Buena Park, CA 90620 
