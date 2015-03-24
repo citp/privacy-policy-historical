@@ -1,8 +1,29 @@
-> *The following text is extracted and transformed from the themesandco.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203742id_/http%3A//www.themesandco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesandco.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324033251id_/http%3A//themesandco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Themes & Co
 
-The Themes & Co Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. Themes & Co is a service offering of Nicolas Guillaume, and references in this document to “us,” “our,” and “we” refer to Nicolas Guillaume.
+## Legal Notice
+
+Themes & Co is a service offering of Press Customizr SARL, private company with a capital of € 30,000. The headquarters are located at 216 avenue de Fabron, le Fabrise C1, 06200 Nice, and references in this document to “us,” “our,” and “we” refer to Press Customizr :
+
+ **Headquarter address : 216 avenue de Fabron, le Fabrise C1, 06200 Nice, France**
+
+ **RCS registration number: 808 686 562**
+
+ **VAT number : FR70808686562**
+
+ **Publication director: Nicolas Guillaume**
+
+ **E-mail: contact@themesandco.com**
+
+ _Hosting: Planet-Work 231 rue Saint-Honoré, 75001 Paris – France_
+
+© 2015 Press Customizr SARL  
+Press Customizr is a registered trademark.
+
+## Privacy Policy
+
+The Themes & Co (themesandco.com) Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
 ### WHAT INFORMATION DO WE COLLECT?
 
