@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaptivecomputing.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713063506id_/http%3A//www.adaptivecomputing.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptivecomputing.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324144232id_/http%3A//www.adaptivecomputing.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adaptive Computing
 
