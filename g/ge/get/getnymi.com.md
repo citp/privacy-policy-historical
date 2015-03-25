@@ -1,109 +1,129 @@
-> *The following text is extracted and transformed from the getnymi.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121072637id_/http%3A//www.getnymi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getnymi.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325014553id_/https%3A//www.nymi.com/privacy-policy) for the most accurate reproduction.*
 
-# Nymi | Privacy Policy
+# Privacy Policy - Nymi
 
-At Bionym Inc.(“ **Bionym** ”, “ **we** ”, “ **our** ” and “ **us** ”) we are committed to protecting your privacy, and support a general policy of openness about how we collect, use and disclose your personal information.
+_Last Update: November 26, 2014_
 
-The purpose of this Privacy Policy is to inform you about Bionym’s practices relating to the collection, use and disclosure of personal information that may be provided through access to or use of our website located at www.getnymi.com **** (the “ **Website** ”).  By using our Website, you consent to the collection, use and disclosure of your personal information (as defined below) in accordance with the following terms and conditions.
+Nymi Inc. and its divisions, affiliates and subsidiaries (hereinafter “Nymi”) respects the privacy and the integrity of any information that you provide in the use of our Web sites and services. This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information.
 
-This Privacy Policy also explains how you can contact us if you have a question about, want to make a change to or delete any personal information that Bionym may be holding about you.  We strongly recommend that you take the time to read this Privacy Policy and retain it for future reference.
+This Privacy Policy will be continuously assessed against new technologies, business practices and our users’ needs. As we update, expand and diversify our products and services, this Privacy Policy may evolve. Please check this Privacy Policy from time to time for updates by checking the date of the “Last Update” at the top of this document. If we make any material changes to this Privacy Policy, we will notify you here. A link to our Privacy Policy will be provided at the bottom of each web page on our Web sites. You acknowledge and agree that your access of our Web sites and your use of our services following any posted changes to the Privacy Policy indicate your acceptance of such changes.
 
-### Personal Information
+### Application of this policy
 
-For the purpose of this Privacy Policy, “personal information” means information about an identifiable individual.
+At Nymi, we are committed to protecting the privacy of our users, which is why we do not sell or rent any personal information or personally identifiable information regarding our users to any third party. We hope this Privacy Policy will answer your questions regarding how we treat personal information gathered from visitors to our Web sites and users of our services.
 
-### What Personal Information We Collect
+### What is personal information
 
-The personal information we may collect in the course of you access or using the Website may include at least some of the following:
+For the purposes of this Privacy Policy, personal information means information that can be used to identify and contact you, specifically your name, address, e-mail address, country of residence, as well as other information when such information is combined with your personal information. Personal information does not include “aggregate” information, which is data we collect about the use of our site and our services. Our privacy policy does not restrict or limit our collection and use of aggregate information.
 
-  1. contact information (such as name, address, e-mail address and telephone number in a non-business capacity);
-  2. proof of identity;
-  3. financial and billing information (such as credit card number/expiration date and credit history); and ** **
+### Consent
+
+You acknowledge and agree that by accessing our Web sites or using our services you fully understand, accept and voluntarily consent to the collection, use, retention and disclosure of personal information in accordance with this Privacy Policy. It is always your choice whether or not you provide us with your personal information; however, a decision to withhold personal information may restrict or prevent us from providing you with a particular product or service. We will only collect, use, and disclose your personal information with your consent, except where otherwise permitted or required by applicable law or regulatory requirement.
+
+### Collection of personal information
+
+In order to use certain features of our services you must first complete a registration process and establish an account (“Account”).  During registration for your Account you will be required to provide basic information such as your name, address and email address and establish a password. Nymi will retain this information and associate it with your Account.  In addition, to place an order for services, Nymi will require that you provide payment information such as credit card numbers and billing addresses and Nymi will also acquire your IP address.  Credit card information, including the card number, expiry date and security code, is securely collected by us and passed directly to payment processors over a secure socket layer (see the section entitled “Shopify” below). Upon successful transfer of credit card data, the information is erased permanently and not retained by Nymi in any form.
+
+### Use of your personal information
+
+You acknowledge that Nymi may use personal information that you voluntarily disclose to us to:
+
+  1. Provide you with information about new products, services, newsletters, informative e-mails, and research on future product ideas or improvements;
+  2. Assist us in creating or providing content that is relevant to you;
+  3. Provide you with special offers that may be of interest to you and to improve your experience on our Web sites or with our services;
+  4. Assist us in creating better products and services to meet your needs;
+  5. Allow you to purchase and download products, obtain access to services or otherwise engage in activities you select including but not limited to the Nymi Band product;
+  6. Provide you with technical support;
+  7. Help you quickly find software, services or product information important to you;
+  8. Send transaction-related communications such as welcome letters, and product/service order confirmations. Nymi may also send you surveys or marketing communications to inform you of new products or services or other information that may be of interest; and
+  9. Restrict the availability of some of the products, services and content to certain parts of the world, where required for legal reasons, by using your address, IP address and other information in order to enforce those restrictions.
 
 
 
-### How We Use Your Personal Information
+You may always choose not to provide personal information, but if you so choose, our products and services may not be available to you. You agree that you are under no obligation to provide us with this information and can access many aspects of our Web sites without providing us any personal information.
 
-We use your personal information to:
+While using the service and Web site, you may have opportunities to post reviews or other personal information in public forums at your own discretion. Please understand that when you post such information, it is made public and is not subject to this policy. You should exercise caution when deciding to disclose any personal information in a publically available forum such as the Web site and agree to indemnify Nymi for any damages or claims resulting from any of your postings. Nymi is not obligated to monitor postings and at its discretion may remove any content submitted.
 
-  1. provide you with personalized services and interactive communication;
-  2. provide you with timely and reliable services;
-  3. allow you to pre-order the Nymi product;
-  4. fulfill warranty-related obligations related to the Nymi product;
-  5. do all the things necessary to administer the Website;
-  6. research, develop, manage, protect and improve the Nymi product and the Website;
-  7. advise you about new products and services that may be of interest to you;
-  8. develop and maintain our relationship with you and communicate with you;
-  9. bill you for our products and services; and
-  10. collect outstanding debts.
+### Disclosure of your personal information
+
+Except as otherwise disclosed to you, Nymi will not sell or rent your personal information to any other party and will only use and disclose your personal information for the purposes for which it was collected as described in this Privacy Policy. However, you agree that Nymi may disclose your personal information in the circumstances set out below:
+
+  1. Nymi may disclose your personal information with your prior consent;
+  2. Nymi may be required by law to disclose personal information without your consent in the event of emergency situations or when required by government or other legal authority;
+  3. Nymi may also disclose personal information to third parties in connection with a corporate re-organization, merger or amalgamation, or the sale of all or substantially all of our assets, provided that, where appropriate, any party to whom the information is disclosed is bound by agreements or obligations, and required to use or disclose your personal information in a manner consistent with the use and disclosure provisions of this Privacy Policy, unless you consent otherwise; or
+  4. Nymi may share your personal information with service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments, collect debts, to provide data storage, to host websites, to fulfill orders, to assist in direct marketing, to conduct audits, etc. Those companies will be permitted to obtain only the personal information they need to provide the service. Each company is bound by agreement or obligations with Nymi to implement and maintain reasonable security procedures and practices in order to use and disclose your personal information in a manner consistent with the use and disclosure provisions of this Privacy Policy, unless you consent otherwise.
 
 
 
-### When We Disclose Your Personal Information
+### How to opt-out / withdraw consent
 
-Except with your consent, we will not sell, license, trade or rent your personal information to or with others.
+You can withdraw your consent for the use of your personal information at any time by deleting your Account. Information may be retained by Nymi for audit or archival purposes or as required by applicable federal and provincial laws.
 
-Bionym may share personal information with third parties engaged to assist us in providing services to you or to carry out one or more of the purposes described above.  These service providers are prohibited from using your personal information for any purpose other than to provide this assistance and are required to protect personal information collected by them on behalf of Bionym or disclosed to them by Bionym and to comply with the general privacy principles described in this Privacy Policy.
+If you do not wish to receive marketing communications, you may follow the “unsubscribe” instructions included within each e-mail communication or by selecting or deselecting (depending on the service) the appropriate option in your Account settings.   Please keep in mind that, even if you choose not to receive marketing communications, you will continue to receive transactional or account communications related to services or products that you have requested (e.g. purchase confirmation e-mails and receipts).
 
-Bionym reserves the right to disclose personal information to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so.
+### How long we keep Personal Information
 
-Bionym also reserves the right to disclose and/or transfer personal information to a third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Bionym or of any of the business or assets or shares of Bionym **** or a division thereof in order for you to continue to receive the same products and services from the third party.
+Nymi maintains information about you for as long as we provide service to you, and longer for related business activities. After information is no longer necessary for our business purposes, we destroy the information unless there is an outstanding request or order to preserve the information.
 
-### Knowledge and Consent
+### Safeguards we have in place
 
-Bionym collects personal information about you only when you voluntarily provide it.  Typically, we will seek consent for the use or disclosure of your personal information at the time of collection.  In certain circumstances, consent may be sought after the information has been collected but before use (for example, when we want to use information for a purpose not previously identified).
+Nymi stores and process your personal information on our computers principally in Canada as well as on internationally. Nymi employs reasonable managerial and technical measures to ensure that your personal information is secure. In addition, our dedicated team of information technology professionals works to maintain data accuracy and prevent unauthorized access to sensitive information.  Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. The Internet is not a secure medium and you acknowledge and agree that the privacy of your e-mail communication and personal information can never be guaranteed as any e-mail communication may be lost, intercepted or altered. By using our Web sites, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our Web sites and our services.
 
-The form of consent that we seek, including whether it is express or implied, will largely depend on the sensitivity of the personal information and the reasonable expectations of the individual in the circumstances.
+### Children
 
-You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice.  If you wish to withdraw your consent at any time, please contact us using the contact information provided in the “Contacting Us” section of this Privacy Policy.  We will inform you of the implications of withdrawing consent.
+This Web site and Service is not intended for use by children, especially those under age 13. No one under age 13 is allowed to register for the Service or provide any personally identifiable information or use our social, community and public discussion areas, photo and video galleries, bulletin boards, forums, chats, blogs, personal/job search and other classified ads, and elsewhere. Minors between the ages of 13 and 17, inclusive, must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this Service.
 
-We will not, as a condition of the supply of a product or service, require you to consent to the collection, use or disclosure of information beyond that required to fulfill the explicitly specified and legitimate purposes for which the information is being provided.
+### Access to your personal information
 
-### Use or Disclosure for Marketing Purposes
+You are responsible for updating and maintaining the truth and accuracy of the personal information you provide to us relating to your Account. If you want to update the personal information, you have provided to us, you should do so by visiting the “Account” section of the Web site. You must be signed in to access your Account.
 
-If you have not opted out of receiving marketing materials, we may also use (but will not disclose) your personal information to promote and market additional goods, services and special offers from us, including by means of direct marketing.
+You can ask to see your personal information. If you want to review, verify or correct your personal information, please contact our Privacy Officer. Please note that any such communication must be in writing. Generally, your information is kept at our corporate offices in Toronto, Canada (see address information below).
 
-You can choose not to allow us to use or disclose your personal information for direct marketing purposes by contacting us as outlined below (see “Contacting Us”).
+When requesting access to your personal information, please note that we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide you with the personal information that we hold about you. We may charge you a fee to access your personal information; however, we will advise you of any fee in advance. If you require assistance in preparing your request, please contact the office of our Privacy Officer.
 
-### Cookies
+Your right to access the personal information that we hold about you is not absolute. There are instances where applicable law or regulatory requirements allow or require us to refuse to provide some or all of the personal information that we hold about you. In addition, the personal information may have been destroyed, erased or made anonymous in accordance with our record retention obligations and practices.
 
-When you visit the Website, we or one of our third party service providers (e.g., Google Analytics) places a text file called a “cookie” in the browser directory of your computer’s hard drive.  A cookie is a small piece of information that a website can store on your web browser and later retrieve.  The cookie cannot be read by any website other than the one that set up the cookies.  Some browsers can be set to reject all cookies.  If you choose to modify your browser in this manner, some pages of this website may not function properly.
+In the event that we cannot provide you with access to your personal information, we will endeavor to inform you of the reasons why, subject to any legal or regulatory restrictions.
 
-These third party service providers use cookies on our behalf to anonymously collect and store Internet log information, such as what time the current visit occurred, whether the visitor has been to this site before, and what site referred the visitor to the web page. Geographic data is also determined by the IP address of the visitor’s computer. This anonymous information collected by the cookie is transmitted to our third party service providers and is then used to evaluate visitors’ behaviour and to generate statistical reports for the website activity on the Website.
+### Collection of non-personal information
 
-### How We Protect Your Personal Information
+You acknowledge and agree that from time to time Nymi, its service providers and business partners  may collect non-personal information from your use of our Web site and services such as server log files, environmental variables (such as MAC address, computer type (Windows or Macintosh), screen resolution, OS version, Internet browser, and Internet browser version) and from scanning navigational data to collect non-personal information about our users in order to help us deliver better service and user experience. Such non-personal information could include the IP addresses or areas of site being clicked on most frequently. Nymi and our service providers (including ad servers, outbound email vendors, affiliate vendors and search engine advertising agencies, and providers of web analytics tools) and business partners may also use “cookies” as well as so-called “pixel tags,” “web beacons,” “clear GIFs” and other similar technologies to help us deliver better service and user experience and to facilitate your ongoing access to and use of our services. Cookies are files saved to your computers through your Web browser to enable websites or service providers systems to recognize your browser and capture and remember certain information. Nymi, like many other Web services, uses cookies to understand and save your preferences for future visits and to compile aggregate data about site traffic and site interaction, so that we can offer better site experiences and tools in the future. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular website, to your computer. If you choose to reject all cookies, you may not be able to access the services. To learn more about cookies, please visit http://www.allaboutcookies.org/. You may find more information about opting out of most third-party service cookies at www.networkadvertising.org or other related sites.
 
-Bionym makes commercially reasonable efforts to ensure that personal information collected from you is protected against loss, theft and unauthorized access.  This protection applies in relation to information stored in both electronic and hard copy form.  Access to your personal information is restricted to selected employees or representatives.  In addition, Bionym employs generally accepted information security techniques, such as firewalls, access control procedures and cryptography, to protect personal information against loss and unauthorized access. ** **
+### Hyperlinks
 
-### Links to Third Party Sites
+Our Web sites are connected by “hyperlinks” to other websites. You acknowledge and agree that Nymi makes no representation, warranty, covenant, or claim regarding, and Nymi expressly disclaims and denies any responsibility or liability for, directly or indirectly, the privacy practices on any third-party website or resource accessible by hyperlink from our Web sites. You agree that the inclusion of any such hyperlink does not suggest, represent, warrant, covenant or imply that Nymi monitors, endorses or exerts any control over such website or linked resource whatsoever.  You agree that Nymi provides these hyperlinks to you only as a convenience, and the inclusion of any hyperlink does not suggest, represent, warrant, covenant or imply affiliation, endorsement or adoption by Nymi of any such website or linked resource whatsoever.
 
-This Website may offer links to other third party websites.  You should be aware that operators of linked websites may also collect your personal information (including information generated through the use of cookies) when you link to their websites.  Bionym is not responsible for how such third parties collect, use or disclose your personal information, so it is important to familiarize yourself with their privacy policies before providing them with your personal information.
+When you leave our Web sites, you acknowledge and agree that our terms and policies do not govern your access to, and use of, other websites. You acknowledge our recommendation to review the applicable privacy and data gathering practices, of any website or linked resource to which you navigate from our Web sites.
 
-### Retention and Storage of Your Personal Information
+### SHOPIFY
 
-Bionym retains your personal information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purposes(s) remains valid after termination of our relationship with you.
+Nymi uses [Shopify](http://www.shopify.ca/) as the payment processor for our services.  You acknowledge and agree that Nymi may disclose personal information to Shopify such as your name and email address so that Shopify may contact you directly for personal information such as credit card information.
 
-For the purposes set out in this Privacy Policy, we or one of our affiliates or an unaffiliated service provider may process and store your personal information outside of the province in which you reside and/or outside of Canada, and under the laws of those other jurisdictions, in certain circumstances courts, law enforcement agencies, regulatory agencies or security authorities in those other provinces or foreign jurisdictions may be entitled to access your personal information. For more information about our policies and practices related to the possible use of foreign service providers, please contact us as set out below.
+You acknowledge and agree that Nymi makes no representation, warranty, covenant, or claim regarding, and Nymi expressly disclaims and denies any responsibility or liability for, directly or indirectly, the privacy practices in regard to any personal information that we disclose on your behalf or you provide to Shopify directly or any other party in relation to purchasing a product or service from our Web sites.
 
-### Changes to this Privacy Policy
+You acknowledge and agree that our terms and policies do not govern any other party.
 
-Bionym reserves the right to modify this Privacy Policy at any time without notice to reflect changes in legal or regulatory obligations or changes in the manner in which we deal with personal information. The Privacy Policy posted at any time or from time to time via this Website shall be deemed to be the Privacy Policy then in effect.
+You acknowledge our recommendation to review the applicable privacy and data gathering practices, of any third party to which you provide personal information.
 
-### Correcting or Updating Your Information
+### Interpretation of this Privacy Policy
 
-You can help us maintain the accuracy of your personal information by notifying us of any changes to this information.  You may contact Bionym in any one of the following ways to request access to or correction or update of your personal information:
+This Privacy Policy does not create or confer upon any individual any rights, or impose upon Nymi any obligations, in addition to any rights or obligations imposed by Canada’s applicable federal and provincial privacy laws.  Should there be any inconsistency between this Privacy Policy and Canada’s applicable federal and provincial privacy laws, this Privacy Policy will be interpreted to comply with the applicable privacy laws.
 
-E-mail: [info@bionym.com](mailto:info@bionym.com "info@bionym.com")  
-Telephone: 416-977-3042  
-Send Mail: 388 Parliament St, Suite 200, Toronto, ON, Canada,  M5A 2Z7
+Any services provided by Nymi is controlled and operated by us from Canada, and we do not intend that our services subject us to the laws or jurisdiction of any state, country or territory other than that of Canada. We do not represent or warrant that the services, or any part of the services, are appropriate or available for use in any particular jurisdiction. Those who choose to access the services do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the services’ availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.
 
-### Contacting Us
+### Inquiries or Concerns?
 
-In the event that you have any questions about Bionym’s Privacy Policy or if you have reason to believe that Bionym may have failed to adhere to this Privacy Policy, you may contact us at:
+If you have any questions about this Privacy Policy or have any concerns about how we manage your personal information, please contact our Privacy Officer by telephone, in writing or by email. We will endeavor to answer your questions and advise you of any steps taken to address the issues raised by you. If you are dissatisfied with our response, you may be entitled to make a written submission to the Privacy  Commissioner in your jurisdiction.
 
-E-mail: [info@bionym.com](mailto:info@bionym.com "info@bionym.com")  
-Attention: Kurt Bartlett  
-Or call us at 416-977-3042.
+### Privacy Officer
+
+We have appointed a Privacy Officer to oversee compliance with this Privacy Policy.
+
+The contact information for our Privacy Officer is as follows:  
+Attention: Privacy Officer  
+82 Peter Street, Toronto, ON, Canada  
+Phone: 1 416 977 3042  
+Email: [info@Nymi.com](mailto:info@Nymi.com)
 
 ### Photo Credits
 
