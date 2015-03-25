@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the shopify.ca privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627201500id_/http%3A//www.shopify.ca/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopify.ca privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325062000id_/http%3A//www.shopify.ca/legal/privacy) for the most accurate reproduction.*
 
 # Shopify Privacy Statement
-
-### Privacy Policy
 
 Shopify collects e-mail addresses of people who send us e-mail. We also collect information on what pages users access and information provided to us by users via surveys and site registrations. Such information may contain personal data about you including your address, phone numbers, credit card numbers etc. Shopify protects credit card information according to Payment Card Industry Data Security Standards (PCI-DSS). We are not allowed to disclose such personal information without your written permission. However, certain information collected from you and about you is used within the context of providing our services to you. The information we collect is not shared with, sold or rented to others except under certain circumstances and which your use of the Service is deemed to provide to us a valid consent to disclose the following:
 
   1. Shopify may share personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Shopify’s terms of use, or as otherwise required by law.
+
   2. Shopify employs other companies to perform tasks on our behalf and may need to share your information with them to provide products and services to you. Shopify may also share your information to provide products or services you’ve requested or when we have your permission.
+
   3. We will transfer information about you if Shopify is acquired by or merged with another company. In this event, Shopify will notify you by email or by putting a prominent notice on the Shopify web site before information about you is transferred and becomes subject to a different privacy policy.
 
 
 
-Everyday language summaries are provided for your benefit and are not legally binding. Please read the [Terms of Service](https://web.archive.org/legal/terms) for the complete picture of your legal requirements.
 
-Section 1
+**Everyday language summaries are provided for your benefit and are not legally binding. Please read the Terms of Service for the complete picture of your legal requirements.**
 
 ## What we do with your information
 
@@ -25,21 +24,25 @@ Section 1
 
 
 
-Which means,
+## Which means
+
+**
 
 When you sign up you provide personal information which we collect and use. For the check-out process we also collect your credit card information. Only use your Shopify customers’ information for Shopify-related communications, unless they give you permission otherwise. Don’t spam anyone!
 
-Section 2
+**
 
 ## Security
 
-The security of your personal information is important to us. When you enter sensitive information, such as credit card number on our registration form, we encrypt the transmission of that information using secure socket layer technology (SSL). Credit card details are stored encrypted using AES-256 encryption. As a level 1 PCI-DSS compliant service provider we follow all PCI-DSS requirements and implement additional generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can email us at support@shopify.com.
+The security of your personal information is important to us. When you enter sensitive information, such as credit card number on our registration form, we encrypt the transmission of that information using secure socket layer technology (SSL). Credit card details are stored encrypted using AES-256 encryption. As a level 1 PCI-DSS compliant service provider we follow all PCI-DSS requirements and implement additional generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can email us at [support@shopify.com](mailto:support@shopify.com).
 
-Which means,
+## Which means
 
-We will encrypt your credit card and sensitive information at industry standards. Because stuff happens, we can’t guarantee 100% security of your data. If you have questions email support@shopify.com
+**
 
-Section 3
+We will encrypt your credit card and sensitive information at industry standards. Because stuff happens, we can’t guarantee 100% security of your data. If you have questions email[support@shopify.com](mailto:support@shopify.com)
+
+**
 
 ## Disclosure
 
@@ -49,67 +52,79 @@ Section 3
 
 
 
-Which means,
+## Which means
+
+**
 
 In certain circumstances, we may disclose your personal information, like court orders.
 
-Section 4
+**
 
 ## Client Data Storage
 
 Shopify owns the data storage, databases and all rights to the Shopify application however we make no claim to the rights of your data. You retain all rights to your data and we will never contact your clients directly, or use your data for our own business advantage or to compete with you or market to your clients.
 
-Which means,
+## Which means
+
+**
 
 You own your data and we will respect that. We won’t try and compete with you or write to your customers.
 
-Section 5
+**
 
 ## Cookies
 
 A cookie is a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. Every computer that accesses our website is assigned a different cookie by us.
 
-Which means,
-
-To identify you electronically, a cookie will be stored on your computer. We have a “remarketing” tool running that allows us to take note of your visits to our site and show you relevant ads on our website and across the Internet. You can always opt out.
-
-### Google Analytics and Remarketing
+## Google Analytics and Remarketing
 
 We use a service provided by Google called Google Analytics (GA). GA permits us to reach people who have previously visited our site, and show them relevant advertisements when they visit other sites across the Internet in the Google Display Network. This is often called ‘remarketing’.
 
 Cookies can be used to track your session on our website, to serve customized ads from Google and other third party vendors. When you visit this website, you may view advertisements posted on the site by Google or other third parties. Through first-party and third party cookies, these third parties may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and across the Internet based on your prior visits to this website and elsewhere on the Internet. We do not collect this information or control the content of the advertisements that you will see.
 
-### Opting Out
+## Opting Out
 
 You may be able to opt out of customized Google Display Network ads by visiting the Ads Preferences Manager (<http://www.google.com/ads/preferences/>), and the Google Analytics Opt-out Browser Add-on (<http://www.google.ca/ads/preferences/plugin/>).
 
 Your use of this website without opting out means that you understand and agree to data collection to provide you with remarketing ads using GA and cookies from other third party vendors based on your prior visits to this website and elsewhere on the Internet.
 
-Section 6
+## Which means
+
+**
+
+To identify you electronically, a cookie will be stored on your computer. We have a “remarketing” tool running that allows us to take note of your visits to our site and show you relevant ads on our website and across the Internet. You can always opt out.
+
+**
 
 ## PCI-DSS
 
 The Payment Card Industry Data Security Standard (PCI-DSS) is a set of security requirements managed by the PCI Security Standards Council, a joint effort of the payment brands, including Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by merchants and service providers.
 
-Which means,
+## Which means
+
+**
 
 We will use industry standards in security, the same ones used by the big credit card companies, to help you keep a secure Shopify account.
 
-Section 7
+**
 
 ## Changes to this Privacy Policy
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Which means,
+## Which means
+
+**
 
 We may change this Privacy Statement. If it’s a big change, we will inform you, right here.
 
+**
+
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to privacy@shopify.com or by mail to:
+Any questions about this Privacy Policy should be addressed to [privacy@shopify.com](mailto:privacy@shopify.com) or by mail to:
 
 Shopify Inc.  
-126 York St.  
-Ottawa, Ontario K1N 5T5  
-Canada 
+150 Elgin Street, 8th Floor  
+Ottawa, Ontario K2P 1L4  
+Canada
