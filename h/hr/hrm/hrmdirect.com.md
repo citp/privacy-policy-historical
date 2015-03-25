@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the hrmdirect.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815204958id_/http%3A//www.hrmdirect.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrmdirect.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325221555id_/http%3A//www.clearcompany.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HRM Direct | Applicant Tracking System | Employee Onboarding | Performance Management - HRM Direct - HRMDirect :: Seriously Human
+# Privacy Policy - Real-Time Talent Alignment Platform
 
 Revised: Oct. 23, 2012
 
 Privacy Statement
 
-WHAT DOES HRM DIRECT, INC. DO WITH YOUR PERSONAL INFORMATION?
+WHAT DOES CLEARCOMPANY HRM (HEREAFTER KNOWN AS “HRM DIRECT, INC.”) DO WITH YOUR PERSONAL INFORMATION?
 
 Who:
 
-HRM Direct, Inc. (HRM) is a software company based in Boston, MA, USA. HRM provides software that companies use to make their recruiting processes more efficient and to comply with government regulations. HRM is solely a software company and is not a recruiting firm or staffing agency. HRM is a US-based company founded in 2004. For more information, visit <http://www.hrmdirect.com/about/>
+HRM Direct, Inc. (HRM) is a software company based in Boston, MA, USA. HRM provides software that companies use to make their recruiting processes more efficient and to comply with government regulations. HRM is solely a software company and is not a recruiting firm or staffing agency. HRM is a US-based company founded in 2004. For more information, visit <http://www.clearcompany.com/company/>
 
 Where:
 
@@ -35,7 +35,7 @@ In order to apply for a job with a company that uses HRM, you must submit the in
 How We Protect Your Information   
 The security of your Personal Information is important to us. When applying for a job through HRM, we encrypt your information using Secure Socket Layer (SSL) technology. Our production servers are dedicated servers managed by Logicworks, Inc., at datacenters located in the New York and New Jersey metropolitan area. Logicworks is a SAS 70 Level II compliant provider and maintains safeguards on both physical and online access to our servers including the use of firewalls and Virtual Private Networks. HRM employees are required to sign non-disclosure and confidentiality agreements and are trained to protect Personal Information at all times.
 
-We follow or exceed generally-accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission of storage is 100% secure, however. Therefore, while we use commercially-acceptable means to protect your personal information, it is impossible for us to guarantee its absolute security. If you have any questions about security on HRM, you can email your question to [support@hrmdirect.com](mailto:support@hrmdirect.com "HRM Direct Support"). ￼￼￼￼
+We follow or exceed generally-accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission of storage is 100% secure, however. Therefore, while we use commercially-acceptable means to protect your personal information, it is impossible for us to guarantee its absolute security. If you have any questions about security on HRM, you can email your question to [support@clearcompany.com](mailto:support@clearcompany.com "ClearCompany HRM Support"). ￼￼￼￼
 
 ￼Cookies   
 A Cookie is a small file stored on a user’s computer for record-keeping purposes. Cookies are used for a wide variety of purposes within the HRM software and while you may disable cookies, we cannot guarantee that all parts of the system will function properly if you do. HRM will not share your Personal Information with third parties through the use of Cookies, clear GIFs, “Web Bugs,” or other tracking mechanisms.
@@ -60,6 +60,6 @@ Currently, HRM does not share any information with third parties except as previ
 **Safe Harbor Protections for European Union and Swiss Residents**   
 HRM complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. HRM has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
-In compliance with the US-EU Safe Harbor Principles and US-Swiss Safe Harbor Principles, HRM commits to resolve complaints about your privacy and our collection or use of your personal information. EU or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us through [support@hrmdirect.com](mailto:support@hrmdirect.com). You will receive an ￼￼￼￼automated reply to acknowledge that your inquiry has been received. HRM staff will review and respond to your message within 14 days.
+In compliance with the US-EU Safe Harbor Principles and US-Swiss Safe Harbor Principles, HRM commits to resolve complaints about your privacy and our collection or use of your personal information. EU or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us through [support@clearompany.com](mailto:support@clearcompany.com). You will receive an ￼￼￼￼automated reply to acknowledge that your inquiry has been received. HRM staff will review and respond to your message within 14 days.
 
-HRM has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by HRM, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20130918072845id_/http://www.hrmdirect.com/privacy-policy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+HRM has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by HRM, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20150325221555id_/http://www.clearcompany.com/privacy-policy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
