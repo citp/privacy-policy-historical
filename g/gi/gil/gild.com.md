@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the gild.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704000651id_/https%3A//www.gild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gild.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325175514id_/https%3A//www.gild.com/privacy-policy) for the most accurate reproduction.*
 
 # Gild Privacy Policy - Candidate Information Management
 
 Gild understands that privacy is important. This Privacy Policy applies to any and all services, applications, platforms, websites, or other affiliated ventures offered by Gild, Inc. Throughout this Policy, “Gild” and “We” refers to Gild, Inc. and its affiliates. “You” or “Users” refers to you, our users – everyone who uses, subscribes to, publishes through, joins, or visits Gild or any other Gild website or service.  The “Gild Service” refers to the applications, platform, web site and services controlled, operated or produced by Gild.
 
-By using the Gild Service, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Gild Service [Terms of Use](http://www.gild.com/terms-of-service/) .  Your use of the Gild Service and any personal information you provide through the Gild Service are subject at all times to this Privacy Policy and the Terms of Use.
+By using the Gild Service, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Gild Service [Terms of Use](http://gild.wpengine.com/terms-of-service/) .  Your use of the Gild Service and any personal information you provide through the Gild Service are subject at all times to this Privacy Policy and the Terms of Use.
 
 _Table of Contents_
 
   1. The Information Gild Collects
-  2. The Way Gild Uses Information 
+  2. The Way Gild Uses Information
   3. When Gild Discloses Information
   4. Your Choices
   5. Advertisers
@@ -27,7 +27,7 @@ _Table of Contents_
   
 **THE INFORMATION GILD COLLECTS:**
 
- __ _back to top ^_
+_back to top ^_
 
   * Information You Provide:  You may provide to Gild what is generally called “personally identifiable” information (such as your name, education history, email address, credit card number, postal mailing address, and telephone numbers) if you use certain services or products from the Gild Service, enter contests or sweepstakes, or otherwise use the features and functionality of the Gild Service.
   * Assessments. You may take certain assessments (“Assessments”) on the Gild Service in order to complete your profile and apply for certain positions. By taking such Assessments, which Gild reserves the right to review and score in its sole discretion, you acknowledge that Gild may store, use and disclose such Assessments and your performance in such Assessments at Gild’s sole discretion on the Gild Service in connection with your profile and the Gild Service.
@@ -148,4 +148,4 @@ Privacy Policy last modified on January 10, 2014.
 
 _back to top ^_
 
-Please contact Gild with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 221 Main Street Suite 970, San Francisco, CA or by email: [privacy@gild.com](mailto:privacy@gild.com).  We will respond to your inquiry within 30 days of its receipt.
+Please contact Gild with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 465 California Street, Suite 1200, San Francisco, CA 94104 or by email: [privacy@gild.com](mailto:privacy@gild.com).  We will respond to your inquiry within 30 days of its receipt.
