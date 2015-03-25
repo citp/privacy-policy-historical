@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyaustin.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701090640id_/http%3A//www.realtyaustin.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyaustin.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325181242id_/https%3A//www.realtyaustin.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Realty Austin Privacy Policy
 
@@ -78,6 +78,6 @@ If you feel that we are not abiding by this privacy policy, you should contact u
 
 **Physical Address:**
 
-1209 W. 5th Street  
-Suite 300  
-Austin, TX 78703
+3801 N. Capital of Texas Highway  
+Suite J-180  
+Austin, TX 78748
