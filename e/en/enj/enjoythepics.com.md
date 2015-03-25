@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the enjoythepics.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206011439id_/http%3A//www.enjoythepics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoythepics.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325131547id_/http%3A//www.enjoythepics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Enjoy The Pics
 
+Adverts
+
+style="display:inline-block;width:468px;height:15px"  
+data-ad-client="ca-pub-8423824671108420"  
+data-ad-slot="3206899703">  
 At [EnjoyThePics.com](http://www.enjoythepics.com/ "EnjoyThePics"), we are committed to protecting your privacy. Please read our privacy policy carefully and **[contact us](http://www.enjoythepics.com/contact-us/ "Contact Us")** if you have any questions or concerns. This privacy policy applies solely to information collected by EnjoyThePics.com. Use of our Website assumes you have read, understand, and agree with our privacy policy.
 
 **Third-Party Advertising**
@@ -31,3 +36,10 @@ This site contains links to other sites. EnjoyThePics.com is not responsible for
 **Security**
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. So feel safe during your stay on the site.
+
+Adverts
+
+style="display:inline-block;width:336px;height:280px"  
+data-ad-client="ca-pub-8423824671108420"  
+data-ad-slot="3944946983">  
+
