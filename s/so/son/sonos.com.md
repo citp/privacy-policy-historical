@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sonos.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218081551id_/http%3A//www.sonos.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonos.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325145322id_/http%3A//www.sonos.com/legal/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICIES
+# Privacy policies
 
-### Information We Collect
+### Information we collect
 
 Sonos only obtains personal information that a visitor to Sonos.com voluntarily and knowingly provides. This means that you can visit our website without telling us who you are or revealing any information about yourself. To measure the performance of and continually improve our website, we do, however, collect some generic information about our visitors. This information may include: your IP address, browser type, operating system, domain name, access times and referring Web site addresses. We aggregate this information and use it for the operation of the website, to improve quality and performance of the website and to provide general statistics regarding use of Sonos.com. See also Cookies and tracking technology.
 
@@ -21,7 +21,7 @@ In each of the instances above, we may ask for some or all of the personal infor
 
 Return to top
 
-### Information Use, Sharing and Disclosure
+### Information use, sharing and disclosure
 
 When visitors supply information about themselves for a specific purpose, Sonos uses the information solely for that purpose (such as to provide the information the visitor has requested or to consider a visitor for a particular job). When visitors use our website to order products, or to request information about them, we may use the individual information as we would use the same information obtained off-line - for example, to evaluate your needs and contact you regarding additional products, information or services that we believe you may find useful. You have the right to choose not to receive this information by notifying us of your preference.
 
@@ -35,7 +35,7 @@ In some cases, where applicable, we will provide you with the opportunity to "op
 
 Return to top
 
-### Retention Period
+### Retention period
 
 The collected data is kept for the duration necessary to provide the service requested by the visitor or otherwise outlined in this document. Visitors can always request that Sonos deletes the data by notifying us using the contact information above.
 
@@ -47,7 +47,7 @@ Sonos uses a variety of security technologies and procedures to help protect you
 
 Return to top
 
-### Cookies and Tracking Technology
+### Cookies and tracking technology
 
 A cookie is a small data file that some websites write to your computer hard drive when you visit the site. We use both session ID cookies and persistent cookies. For the session ID cookie, once a visitor closes the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following internet browser help file directions. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself.
 
@@ -71,7 +71,7 @@ Annex 2 of this document contains a list of Google Analytics cookies that may be
 
 The Google website contains further information about Google [Analytics](https://support.google.com/analytics/answer/6004245) and a copy of [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
 
-### Google Analytics Opt-out Browser Add-on
+### Google Analytics opt-out browser add-on
 
 Visitors can prevent Google Analytics collecting traffic log data. To provide website visitors with more choice on how their data is collected Google Analytics has developed the Google Analytics Opt-out Browser Add-on. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics.
 
@@ -79,7 +79,7 @@ If you want to opt out, download and install the add-on for your current web bro
 
 We recommended that you to ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings.
 
-### Third Party Cookies
+### Third party cookies
 
 By using our website, you may receive certain third party cookies on your device. Third party cookies are those placed by websites and/or parties other than Sonos. Third party cookies may be used on this website for improvement of our products or services.
 
@@ -99,7 +99,7 @@ Sonos does not send unsolicited "junk" email (spam). We may use email to communi
 
 Return to top
 
-### Children's Privacy
+### Children's privacy
 
 The Sonos website does not target and is not intended to attract children. Sonos does not knowingly solicit personal information from children or send them requests for personal information.
 
@@ -107,7 +107,7 @@ Although visitors of all ages may navigate through our website, we do not intent
 
 Return to top
 
-### Third Party Sites
+### Third party sites
 
 Sonos' website may contain links to other websites that are operated by third parties. Sonos does not share your personal information with those websites, nor are we responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
 
@@ -125,12 +125,12 @@ You have a right to access the personal data we hold about you. If you wish to o
 
 Return to top
 
-### Sonos Products
+### Sonos products
 
 There are different levels of information that may be provided by you and/or your Sonos system, depending on how much information you wish to provide.
 
-  * **Decline to Register:** if you decline to register your Sonos system with us, no personally identifiable information will be transmitted. Your system will, however, initially transmit the fact that a household ID (a numerical identification) with Sonos products (identifiable by serial number) has been created. After this initial submission, no other information will be submitted unless (i) you add more Sonos products to your system (in which case the same initial information is transmitted), or (ii) you subsequently choose to register your system. 
-  * **Register, Opt-Out:** if you register your Sonos system with us, you will provide us with the following information: 
+  * **Decline to register:** if you decline to register your Sonos system with us, no personally identifiable information will be transmitted. Your system will, however, initially transmit the fact that a household ID (a numerical identification) with Sonos products (identifiable by serial number) has been created. After this initial submission, no other information will be submitted unless (i) you add more Sonos products to your system (in which case the same initial information is transmitted), or (ii) you subsequently choose to register your system. 
+  * **Register, opt-out:** if you register your Sonos system with us, you will provide us with the following information: 
     * Email address (that becomes associated with the household ID) 
     * Zip/postal code 
     * Country where you use the system. 
@@ -143,7 +143,7 @@ In addition, after registration, your system will periodically report the follow
 
 When this information is transmitted, it is accompanied by the household ID, your Sonos ID (i.e. the email address you provided), the Sonos software version of your system and the hardware models in your system. 
 
-  * **Register, Opt-In:** if you agree to provide more information after registration, and in addition to the above information provided by virtue of registration, your system will periodically provide information regarding your usage of the Sonos system, including the following: 
+  * **Register, opt-in:** if you agree to provide more information after registration, and in addition to the above information provided by virtue of registration, your system will periodically provide information regarding your usage of the Sonos system, including the following: 
     * Music service usage (not what you play, just how much you use the service)
     * Local music (not what you play, just how much you use your local collection)
     * Usage of the Sonos system queue
@@ -173,7 +173,7 @@ Return to top
 
 Last updated: 10 November 2014.
 
-### Annex 1: First Party Cookies
+### Annex 1: First party cookies
 
 **Cookie type** | **Cookie name** | **Persistence period** | **Purpose** | **Information contained**  
 ---|---|---|---|---  
@@ -193,7 +193,7 @@ First Party | Sonos | 1 month | Region/Language object | Region=xxx lang=xxx
 FirstParty | MySonos | Logout/1mo | Encrypted user information. Future use on SSO | FName, LName, UID, HHID, IP  
 First Party | shop | 2 days | Encrypted cart contents for use in between *.sonos.com domains | Cart,SKU, Quantity, Price  
   
-### Annex 2: Google Analytics Cookies
+### Annex 2: Google Analytics cookies
 
 **Cookie type** | **Cookie name** | **Persistence period** | **Purpose** | **Information contained**  
 ---|---|---|---|---  
@@ -202,7 +202,7 @@ Google Analytics | _utmb | For 30 minutes after your last activity on the site |
 Google Analytics | _utmc | When you close your browser | Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service. | These cookies store anonymous data on your visit to the website  
 Google Analytics | _utmz | For six months from when it is set | Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service. | These cookies store anonymous data on your visit to the website.  
   
-### Annex 3: Third Party Cookies
+### Annex 3: Third party cookies
 
 **Cookie type** | **Cookie name** | **Persistence period** | **Purpose** | **Information contained**  
 ---|---|---|---|---  
