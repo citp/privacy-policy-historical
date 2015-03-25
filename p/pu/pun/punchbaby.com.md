@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchbaby.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701062039id_/http%3A//punchbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchbaby.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325182854id_/https%3A//punchbaby.com/privacy) for the most accurate reproduction.*
 
 # Punchbaby is all about intellectual humor with a twist of irony. Punchbaby is a very popular blog that offers a collection of funny videos, funny movies, classic TV ads, virals, silly pictures, viral & digital marketing & interactive media. » Privacy Policy
 
