@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indianacareerconnect.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930011216id_/https%3A//www.indianacareerconnect.com/vosnet/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianacareerconnect.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325145440id_/https%3A//www.indianacareerconnect.com/vosnet/security.aspx) for the most accurate reproduction.*
 
 # Indiana Career Connect - Privacy Statement
 
 ### Privacy Statement
 
-IndianaCareerConnect, as the State of Indiana's official workforce labor exchange, is strongly committed to maintaining the privacy of confidential information provided by its customers. For information on how to better protect your own privacy online, please see our [Protect Yourself](https://web.archive.org/web/20140930011216id_/https%3A//www.indianacareerconnect.com/vosnet/protect.asp) page. Personally identifying information is kept in a secure, encrypted database. The operator of this website will not give, sell, or otherwise transfer electronic mail addresses maintained by IndianaCareerConnect to any other party for the purposes of initiating, or enabling others to initiate, electronic mail messages. The collection, use and disclosure of your information are further governed by the following laws:
+IndianaCareerConnect, as the State of Indiana's official workforce labor exchange, is strongly committed to maintaining the privacy of confidential information provided by its customers. For information on how to better protect your own privacy online, please see our [Protect Yourself](https://web.archive.org/web/20150325145440id_/https%3A//www.indianacareerconnect.com/vosnet/protect.asp) page. Personally identifying information is kept in a secure, encrypted database. The operator of this website will not give, sell, or otherwise transfer electronic mail addresses maintained by IndianaCareerConnect to any other party for the purposes of initiating, or enabling others to initiate, electronic mail messages. The collection, use and disclosure of your information are further governed by the following laws:
 
   * 42 U.S.C. § 405(C)(2)(c) (Social Security Act) 
   * 5 U.S.C. § 552a (Privacy Act of 1974) 
