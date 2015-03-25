@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnfg.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723133307id_/https%3A//www.firstniagara.com/Privacy_Notice/Privacy_Notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnfg.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325155426id_/https%3A//www.firstniagara.com/Privacy_Notice/Privacy_Notice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice – First Niagara
 
