@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010173438id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325142219id_/https%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# 
 
 ## Free Knowledge!
 
