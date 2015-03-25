@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offernation.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704010641id_/http%3A//offernation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offernation.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325061717id_/http%3A//offernation.com/privacy) for the most accurate reproduction.*
 
-# OfferNation.Com - Privacy
+# Offer Nation - Privacy
 
 Privacy
 
