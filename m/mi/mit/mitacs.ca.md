@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709042102id_/https%3A//www.mitacs.ca/resources-faculty/policies-forms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325192559id_/http%3A//www.mitacs.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mitacs – Inspiring innovation in Canada
+# Privacy Policy | Mitacs
 
 ### Scope & Application
 
@@ -33,7 +33,7 @@ Mitacs is responsible for personal information under its control and shall desig
   * 1.1.Mitacs designates the Chief Financial Officer as the Chief Privacy Officer, the person accountable for compliance with the Policy. From time to time, the Chief Privacy Officer is entitled to delegate day-to-day responsibility for administration of this Privacy Policy and related privacy policies and practices to other employees and consultants.
   * 1.2.Mitacs shall make known, upon request, the title of the person or persons designated to oversee Mitacs compliance with the Policy.
   * 1.3.Mitacs is responsible for personal information in its possession or under its control. Mitacs shall use appropriate means to protect personal information while information is being processed by a third party on behalf of Mitacs (see Principle 7).
-  * 1.4.Mitacs shall implement policies and procedures to give effect to the Policy, including:
+  * 1.4.Mitacs shall implement policies and procedures to give effect to the Policy, including: 
     * a)implementing procedures to protect personal information and to oversee Mitacs’ compliance with the Mitacs Privacy Policy; 
     * b)establishing procedures to receive and respond to inquiries or complaints; 
     * c)training and communicating to staff about Mitacs’ policies and practices; and 
@@ -45,7 +45,7 @@ Mitacs is responsible for personal information under its control and shall desig
 
 Mitacs shall identify and document the purposes for which personal information is collected at or before the time the personal information is collected or, when appropriate, at or before the time the personal information is used for a new purpose. 
 
-  * 2.1 Mitacs collects personal information for the following purposes:
+  * 2.1 Mitacs collects personal information for the following purposes: 
     * a) to establish and maintain ongoing relationships with program participants; 
     * b) to meet legal and regulatory requirements, notably reporting program participation and outcomes to funding partners;
     * c) to evaluate applicants’ eligibility and selection for Mitacs’ programs or awards; 
@@ -87,7 +87,7 @@ Mitacs shall limit the collection of personal information to that which is neces
 
 Mitacs shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Mitacs shall retain personal information only as long as necessary for the fulfillment of those purposes or as required or permitted by law. 
 
-  * 5.1 Mitacs may disclose an individual's personal information to:
+  * 5.1 Mitacs may disclose an individual's personal information to: 
     * a) a person who in the reasonable judgment of Mitacs is seeking the information as an agent of the individual; 
     * b) a company or individual employed by Mitacs to perform functions on its behalf, such as but not limited to research or data processing; 
     * c) another company or individual for the evaluation, audit or provision of any of Mitacs products and services; 
@@ -125,7 +125,7 @@ Mitacs shall protect personal information by security safeguards appropriate to 
 Mitacs shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
 
   * 8.1 Copies of the Policy will be made available upon request.
-  * 8.2 Mitacs shall make information about its policies and procedures easy to understand, including:
+  * 8.2 Mitacs shall make information about its policies and procedures easy to understand, including: 
     * a) the title and addresses of the person or persons accountable for Mitacs compliance with the Policy and to whom inquiries or complaints can be forwarded; 
     * b) the means of gaining access to personal information held by Mitacs; and 
     * c) a description of the type of personal information held by Mitacs, including a general account of its use.
@@ -165,42 +165,5 @@ Suite 301, Technology Enterprise Facility
 University of British Columbia  
 6190 Agronomy Road  
 Vancouver, BC, V6T 1Z3  
-Email: privacy@mitacs.ca  
+Email: [privacy@mitacs.ca](mailto:privacy@mitacs.ca)  
 Phone: 604- 822- 9189
-
-## Accelerate drop-down (Eng)
-
-Canada’s premiere research internship program providing interns with the opportunity to transfer their skills from theory to real-world application, while companies gain a competitive advantage by accessing high-quality research expertise.
-
-###### [Past Research Projects](https://web.archive.org/accelerate/research "Accelerate Research Projects")
-
-###### [Apply Now](https://web.archive.org/accelerate/apply-now)
-
-## Elevate drop-down (Eng)
-
-Provides a foundation of cutting-edge research, business, entrepreneurship and scientific management skills to newly-minted PhDs while giving companies access to a highly qualified uniquely trained pool of talent.
-
-###### [Past Research Projects](https://web.archive.org/elevate/research "Elevate Research Projects")
-
-###### [Apply Now](https://web.archive.org/elevate/how-to-apply)
-
-## Globalink drop-down (Eng)
-
-Mitacs Globalink builds a living bridge between Canada and international partners by establishing and reinforcing global links through student mobility.
-
-###### [Past Research Projects](https://web.archive.org/globalink/research "Globalink Research Projects")
-
-## Enterprise drop-down (Eng) 
-
-Enterprise is a comprehensive, career-development program that gives graduates of science, technology, engineering and math the opportunity to build their business skills through an intense program of mentorship and work experience with small and medium-sized companies.
-
-## Step drop-down (Eng)
-
-Canada’s only comprehensive program providing business-ready skills to up-and-coming researchers. Step trains graduate students and postdoctoral fellows in essential interpersonal, project management and entrepreneurial skills required for them to succeed in their future career.
-
-## Outreach drop-down (Eng)
-
-Making science and mathematics compelling for future researchers – our children – through initiatives such as the nationally-recognized theatrical production, Math Out Loud, and online quiz game, MathAmaze.
-
-  
-
