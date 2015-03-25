@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vid.bz privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040249id_/http%3A//vid.bz/index.php%3Fact%3Dpage%26page%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vid.bz privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325102331id_/http%3A//www.vid.bz/index.php%3Fact%3Dpage%26page%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Vid.bz
 
@@ -165,4 +165,4 @@ Our Privacy Policy may change from time to time. We will not reduce your rights 
 
 * * *
 
-Execution: 0.02115 | Memory: 1.28MB
+Execution: 0.02660 | Memory: 1.28MB
