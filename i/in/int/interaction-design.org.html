@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the interaction-design.org privacy policy that was archived on 2014-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141010173438id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interaction-design.org privacy policy that was archived on 2015-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150325142219id_/https%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
-<title>Privacy policy</title><!-- MS word head tags and info inserted here -->
+<title></title><!-- MS word head tags and info inserted here -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- Edge mode tells Windows Internet Explorer to display content in the highest mode available -->
-<meta name="title" content="Privacy policy">
-<meta name="description" content="Privacy Policy...">
-<meta property="og:title" content="Privacy policy"> 
-<meta property="og:description" content="Privacy Policy...">
+<meta name="title" content="">
+<meta name="description" content="Open educational materials &amp;mdash; made by the world's design elite...">
+<meta property="og:title" content=""> 
+<meta property="og:description" content="Open educational materials &amp;mdash; made by the world's design elite...">
 <meta property="og:site_name" content="The Interaction Design Foundation">
-<meta name="language" content="en">
+<meta name="language" content="">
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -36,9 +36,12 @@
 <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
 <link rel="stylesheet" href="/assets/css/bootstrap-select.min.css">
 <link rel="stylesheet" href="/assets/css/idangerous.swiper.css">
+ <link rel="stylesheet" href="/assets/css/summernote.css">
 <link rel="stylesheet" href="/assets/css/jquery-ui.min.css">
 <link rel="stylesheet" href="/assets/css/jquery-ui.theme.min.css">
 <link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/select2.css">
+<link rel="stylesheet" href="/assets/css/select2-bootstrap.css">
 <link rel="stylesheet" href="/assets/css/sprite.min.css">
 <link rel="stylesheet" href="/assets/icons/icons.data.svg.css"><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/assets/js/lib/modernizr.js"></script>
 <script src="//maps.googleapis.com/maps/api/js?v=3&amp;sensor=false"></script>
@@ -83,8 +86,29 @@ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.cr
     </script>
     <noscript><img height='1' width='1' border='0' style='display:none' src='https://www.facebook.com/tr?id=442210029247313&amp;ev=NoScript' /></noscript>
 
-        <meta name="robots" content="noindex, follow"><meta http-equiv="reply-to" content="mads@interaction-design.org (Mads Soegaard)">
-<meta name="author" content="">
+    
+    <!-- adroll -->
+    
+ <script type="text/javascript">
+adroll_adv_id = 'PPYU6XWYAFF67KJ2EALKXD';
+adroll_pix_id = 'BAJBACKGCJBDDLYUGVP73F';
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement('script');
+   var host = (('https:' == document.location.protocol) ? 'https://s.adroll.com' : 'http://a.adroll.com');
+   scr.setAttribute('async', 'true');
+   scr.type = 'text/javascript';
+   scr.src = host + '/j/roundtrip.js';
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+    
+
+        <meta name="robots" content="noindex, follow"><meta name="author" content="">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta property="fb:page_id" content="19975077227">
 
@@ -92,10 +116,7 @@ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.cr
 <meta property="og:image" content="/images/logo/opengraph_image.jpg">
 <link rel="image_src" href="/images/img_src_logo_100x100.gif">
 
-<link rel="canonical" href="/about/privacy.html">
-<meta property="og:url" content="/about/privacy.html">
-
-</head>                
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>                
 
 <body>
 <!-- document body  -->            
@@ -114,9 +135,9 @@ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.cr
     <div class="wrapper-vertical-social-media-icons">
         <ul class="vertical-social-media-icons">
             <li class="button-square" id="topButtonYourAccountCompressed" style="display: none;">
-                <a href="/members" title="Your Account">
+                <a href="/members" title="Your Profile">
                     <i class="icon fa fa-user"></i>    
-                    <span>account</span>
+                    <span>profile</span>
                 </a>
             </li>
             <li class="button-square" id="topButtonJoinUsCompressed">
@@ -139,15 +160,17 @@ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.cr
         </div>
         <div class="col-xs-8 text-right pull-right">
             <ul class="header-navigation">
-                <li>
-                    <a class="nav-about" href="/about">About IDF</a>
+                <li class="nav-about">
+                    <a href="/about" title="About IDF">About IDF</a>
                 </li>
-                <li>            
-                    <a class="nav-signin" href="/members">sign in</a>
+                <li class="nav-contact">
+                    <a href="/contact.html" title="Contact">Contact</a>
+                </li>
+                <li class="nav-signin">
+                    <a id="nav-signin-or-signout" onclick="javascript:stopEventBubbling(event);showOrHideModalWindow('loginbox709');" style="cursor:hand;cursor:pointer;" class=""> Log in</a>
                 </li>
             </ul>
-            <a style="display:none;margin-left:0px;margin-right:0px;" id="logoutButton" href="/members/index.html?mode=logout" class="button error navigation-feacture-button fa fa-sign-out pull-right">Log out</a>
-            <a href="/join/index.html?referralType=topButton" id="joinOurCommunityButton" class="button navigation-feacture-button user-icon pull-right">join our community</a>
+            <a href="/join/index.html?referralType=topButton" id="joinOurCommunityButton" class="button navigation-feacture-button user-icon pull-right loading">join our community</a>
             
         </div>
     </div>
@@ -166,6 +189,12 @@ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.cr
                         collection
                     </a>
                 </li>
+                <li class="nav-uxdaily" title="User Experience Daily">
+                    <a href="/ux-daily">
+                        <span>user experience</span>
+                        daily
+                    </a>
+                </li>
                 <li class="nav-events">
                     <a href="/calendar" title="UX Events">
                         <span>activities &amp;</span>
@@ -178,7 +207,7 @@ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.cr
                         members
                     </a>
                     <ul>
-                        <li class="nav-sub-your-account"><a href="/members">Your Account</a></li>
+                        <li class="nav-sub-your-account"><a href="/members">Your Profile</a></li>
                         <li class="nav-sub-courses"><a href="/courses" title="UX Courses">Courses</a></li>
                         <li class="nav-sub-literature"><a href="/books/hci.html" title="UX Books">Literature</a></li>
                         <li class="nav-sub-local-groups"><a href="/members/local_groups.html" title="IDF Local Groups">Local Groups</a></li>
@@ -204,89 +233,67 @@ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.cr
 
 <!-- start leftColumn contents -->
 <div class="leftColumn100">
-                <div id="floatingRightColumn" class="rightColumn" style="">
-                
-                
-    <div style="margin-left:0px;margin-bottom:0px;float:right;margin-top:0px;"> 
-            <img src="/images/logo/logo-round-header_white.gif" style="max-width:225px;">              
-        </div> 
-        <div style="width:100%;clear:both;height:1px">&nbsp;</div>
-    
-    <div id="openaccesslogo" class="smartBoxVer2" style="width:99%;text-align:center;max-width:400px;margin-top:70px;">
-        
-            <div id="openaccesslogoContents" class="smartBoxContents">
-                <img src="/images/logo/3rdpartylogos/open-access_comp.gif" style=";margin-top:5px;max-width:140px;" alt="">
-                <div style="width:50%;height:1px;clear:left;">&nbsp;</div>
-            </div>
-            
-            <div style="width:50%;height:1px;clear:left;">&nbsp;</div>
-            
-    <!-- end SmartBox  -->        
-    </div> 
-    
-    
-    <div id="supportintTheDemocratizationOfKnowledge" class="smartBoxVer2" style="width:99%;max-width:400px;margin-top:70px;">
-        
-            <div id="supportintTheDemocratizationOfKnowledgeContents" class="smartBoxContents">
-                
+				<div id="floatingRightColumn" class="rightColumn" style="">
+				
+				
+	<div style="margin-left:0px;margin-bottom:0px;float:right;margin-top:0px;"> 
+			<img src="/images/logo/logo-round-header_white.gif" style="max-width:225px;">              
+		</div> 
+		<div style="width:100%;clear:both;height:1px">&nbsp;</div>
+	
+	<div id="openaccesslogo" class="smartBoxVer2" style="width:99%;text-align:center;max-width:400px;margin-top:70px;">
+		
+			<div id="openaccesslogoContents" class="smartBoxContents">
+				<img src="/images/logo/3rdpartylogos/open-access_comp.gif" style=";margin-top:5px;max-width:140px;" alt="">
+				<div style="width:50%;height:1px;clear:left;">&nbsp;</div>
+			</div>
+			
+			<div style="width:50%;height:1px;clear:left;">&nbsp;</div>
+			
+	<!-- end SmartBox  -->        
+	</div> 
+	
+	
+	<div id="supportintTheDemocratizationOfKnowledge" class="smartBoxVer2" style="width:99%;max-width:400px;margin-top:70px;">
+		
+			<div id="supportintTheDemocratizationOfKnowledgeContents" class="smartBoxContents">
+				
  
 <div style="min-height:450px !important; ">
 
-    <h2 style="margin-top:0px;">Free Knowledge!</h2>
-    <p>People from around the world show their support for our mission to give away world-class educational materials for free! <a href="/about/democratization_of_knowledge.html" title="">Send us yours</a>!
-    <br>&nbsp;</p>
-        
-    <div style="margin-left:0px;max-width: 175px !important;">
-            
-     <div style=";max-width:none !important;" class="hoverImageWrapper">
+	<h2 style="margin-top:0px;">Free Knowledge!</h2>
+	<p>People from around the world show their support for our mission to give away world-class educational materials for free! <a href="/about/democratization_of_knowledge.html" title="">Send us yours</a>!
+	<br>&nbsp;</p>
+		
+	<div style="margin-left:0px;max-width: 175px !important;">
+	        <img class="illustrationImage" style="max-width:180px;" src="/images/supporters/x4x3_Heather_from_England_illustrationTwoOnARow.jpg" alt="">
+			<div style="margin-top:5px;">
+				<img src="/images/icons/arrow_blue_user_experience_full_image_archive.gif" style="width:40px;height:30px;margin-top:-3px;float:left;margin-right:10px;margin-left:15px;" alt=""><a class="button auto-width micro" href="/about/democratization_of_knowledge.html" title="">More pictures</a>
+			</div>
+	</div>
+	
+	<div style="width:100%;height:10px;clear:right;">&nbsp;</div>
 
-                            <a class="noUnderline" href="/about/democratization_of_knowledge.html" title=""> 
+	</div>
 
-                                <img class="illustrationImage hoverImage" style="max-width:180px;" src="/images/supporters/x4x3_Heather_from_England_illustrationTwoOnARow.jpg" alt="">
-
-                                <div class="hoverImageSubstitute" id="supportTheDemocratizationOfKnowledgePic">
-
-                                    &nbsp;<br>
-
-                                    <p><img style="margin-right:1px;vertical-align: baseline;;width:16px;height:15px;" src="/images/logo-favicon-ico-file_white.gif"> View more pictures</p>
-
-                                    <!-- useOnPresentations -->
-
-                                </div>
-
-                            </a>
-
-        
-            </div>
-     
-     
-            <div style="margin-top:5px;">
-                <img src="/images/icons/arrow_blue_user_experience_full_image_archive.gif" style="width:40px;height:30px;margin-top:-3px;float:left;margin-right:10px;margin-left:15px;" alt=""><a class="button auto-width micro" href="/about/democratization_of_knowledge.html" title="">More pictures</a>
-            </div>
-    </div>
-    
-    <div style="width:100%;height:10px;clear:right;">&nbsp;</div>
-
-    </div>
-
-                <div style="width:50%;height:1px;clear:left;">&nbsp;</div>
-            </div>
-            
-            <div style="width:50%;height:1px;clear:left;">&nbsp;</div>
-            
-    <!-- end SmartBox  -->        
-    </div> 
-    
-    
-                
-                </div> <!-- end of the div with id='floatingRightColumn'  -->
-                
-                
-                <!-- eBookContentsAuthoredBookStartDelimiter -->
+				<div style="width:50%;height:1px;clear:left;">&nbsp;</div>
+			</div>
+			
+			<div style="width:50%;height:1px;clear:left;">&nbsp;</div>
+			
+	<!-- end SmartBox  -->        
+	</div> 
+	
+	
+				
+				</div> <!-- end of the div with id='floatingRightColumn'  -->
+				
+				
+				<!-- eBookContentsAuthoredBookStartDelimiter -->
 <!-- eBookContentsEditedBookStartDelimiter --> 
 
-        
-        <h1 class="section-title underline icon clearfix chapterTitle" style="margin-bottom:0px;" id="heading_Privacy_Policy_page_12320">Privacy Policy</h1>
+		
+		<h1 class="section-title underline icon clearfix chapterTitle" style="margin-bottom:0px;" id="heading_Privacy_Policy_page_">Privacy Policy</h1>
 
 <!-- begin left content zone  -->
 
@@ -337,28 +344,28 @@ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.cr
 	<h1>8. Information security</h1>
 	<p>We make no guarantee that the information that you provide us will be secure.</p>
 	
-	<!-- end eBookContentsAuthoredBookEndDelimiter -->
+	<!-- end eBookContentsAuthoredBookEndDelimiter --><div style="width:50%;height:1px;clear:left;">&nbsp;</div>
 		
 		<div class="horisontalAd" style="clear: left;cursor:hand;cursor:pointer;border:0px solid yellow;" onclick="javascript:document.location='/join/index.html?referralType=horisontalInfo'">
 		
-			<div style="margin-bottom:5px;background-color:white;margin-left:0px; margin-right:0px; height:2px; border-top:2px dashed #b7b7b7; margin-top:10px;">&nbsp;</div>
+			<div style="margin-bottom:5px;background-color:white;margin-left:0px; margin-right:0px; height:2px; border-top:2px dashed #b7b7b7; margin-top:10px;max-width: 573px;">&nbsp;</div>
 			
 			
 			<div class="joinColumnThreeIcons">
 				 <p style="margin-bottom:30px;margin-left:0px;color: #565656;font-size: 35px;letter-spacing: 1px;font-weight: normal;">Join our community and advance:</p>
 				 <div style="float:left;margin-top:0px;margin-bottom:0px;margin-left:3px;">
 					<div style=";margin-top:-6px;float:left;"><img src="/join/3.gif" style="width:100px;height:84px;max-width:100px;float:left;margin-left:0px;margin-right:5px;"></div>
-					<div style="float:left;"><p class="bigNumberHeading">Your<br>Skills</p></div>                                 
+					<div class="pull-left"><p class="bigNumberHeading">Your<br>Skills</p></div>                                 
 				 </div>
 				 
 				 <div style="float:left;margin-top:0px;marg in-bottom:0px;margin-left:3px;">
 					<div style=";margin-top:-6px;float:left;"><img src="/join/2.gif" style="width:100px;height:85px;max-width:100px;float:left;margin-left:20px;margin-right:5px;"></div>
-					<div style="float:left;"><p class="bigNumberHeading">Your<br>Network</p></div>                                 
+					<div class="pull-left"><p class="bigNumberHeading">Your<br>Network</p></div>                                 
 				 </div>
 				 
 				 <div style="float:left;margin-top:0px;margin-bottom:0px;margin-left:3px;">
 					<div style=";margin-top:-6px;float:left;"><img src="/join/1.gif" style="width:75px;height:81px;max-width:76px;float:left;margin-left:7px;margin-right:0px;"></div>
-					<div style="float:left;"><p class="bigNumberHeading">Your<br>Career</p></div>                                 
+					<div class="pull-left"><p class="bigNumberHeading">Your<br>Career</p></div>                                 
 				 </div>
 			 </div>   
 		
@@ -369,13 +376,13 @@ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.cr
 			</div>
 			
 			<div style="max-width:500px;height:10px;clear:left;">&nbsp;</div>    
-			 <div style="margin-bottom:5px;background-color:white;margin-left:0px; margin-right:0px; height:5px; border-top:2px dashed #b7b7b7; margin-top:10px;">&nbsp;</div>    
+			 <div style="margin-bottom:5px;background-color:white;margin-left:0px; margin-right:0px; height:5px; border-top:2px dashed #b7b7b7; margin-top:10px;max-width: 573px;">&nbsp;</div>
 		</div>
 	<!-- end eBookContentsEditedBookEndDelimiter -->
     </div> 
     <!-- end leftColumn contents -->                        
     <!-- end content zone  -->            
-    
+   
     
     <div class="footer">
     &nbsp;
@@ -438,66 +445,116 @@ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.cr
     <!-- modal windows start -->
     
     
-    <div class="modalWindow" id="getNotifiedModal" style="display:none;width:725px;">      
+	<div class="modalWindow" id="getNotifiedModal" style="display:none;width:725px;">      
 
-    <div class="modalWindowCloseWrapper" onclick="javascript:stopEventBubbling(event);showOrHideModalWindow('getNotifiedModal');;setCookieVer2('getNotifiedModal','stop',365);;" style="">
-        <div class="modalWindowCloseX"><img src="/images/icon_close_red.gif" style="width:36px;height:36px;" width="36" height="36" alt="Close window"></div><span class="modalWindowClose">Close </span>
-    </div>
-    
-    <div class="modalWindowContent">
-            <h1 style="margin-top:4px;">Want a <u>Free</u> Copy of our Next Textbook?</h1>
-                    <div style="width:100%;clear:both;height:1px;">&nbsp;</div>
-                    <img style="max-width:309px;float:left;margin-left: 64px;margin-top: 20px;" src="/images/multi_platform_approach_to_publishing.jpg">
-                    <div style="margin-left:10px;float:right;width:130px;float:right;border:0px solid red;">
-                        <img style="margin-top:21px;margin-left:0px;max-width:100px;border-radius: 4px;" src="/images/authors/rikke_friis_dam.jpg">
-                        <p style="color:#808080">Co-editor-in-chief<br>
-                        Rikke Friis Dam</p>                        
-                    </div>
-                
-                    <div style="width:480px;float:left;">
-                        
-<div id="countDownTOC_98_frame" style="margin-top:10px;margin-bottom:10px;border-width:3px;;margin-left: auto;margin-right: auto;;">
-    <span style="margin-bottom:0px;margin-top:0px;">Don't miss our next textbook in </span><span style="margin-bottom:0px;margin-top:0px;" id="countDownTOC_98">-1972 days -7 hrs -44 min and <span style="">-6 seconds</span></span>
-        
-        
-        <div style="text-align:left;border:0px solid yellow;margin-top:20px;margin-bottom:10px;">
-            
-                <div style=";margin-left:135px;;width:173px;">
-                        <form method="post" action="/subscribe.html">
-                            <fieldset class="invisibleFieldset">
-                                <input class="" type="text" placeholder="Your email" style="padding-left:0px;text-align:center;;margin-left:3px;width:156px;height:35px;font-size:20px;border-radius: 3px;border: 1px solid gray;box-shadow: 0 2px 3px rgba(0,0,0,0.2) inset, 0 2px 0 rgba(0,0,0,0.05) inset" name="email"><br>
-                                  <input type="hidden" value="1" name="mailing_listID">
-                                  <button onclick=";setCookieVer2('getNotifiedModal','stop',365);" style="min-width: 160px;;margin-top:20px;font-size: 24px !important;" type="submit" class="button auto-width">Sign up »</button>
-                            </fieldset>
-                        </form>
-                </div>
-                
-                
-                       
-        </div>                
-        
+	<div class="modalWindowCloseWrapper" onclick="javascript:stopEventBubbling(event);showOrHideModalWindow('getNotifiedModal');;setCookieVer2('getNotifiedModal','stop',365);;" style="">
+		<div class="modalWindowCloseX"><img src="/images/icon_close_red.gif" style="width:36px;height:36px;" width="36" height="36" alt="Close window"></div><span class="modalWindowClose">Close </span>
+	</div>
+	
+	<div class="modalWindowContent">
+			<h1 style="margin-top:4px;">Want a <u>Free</u> Copy of our Next Textbook?</h1>
+					<div style="width:100%;clear:both;height:1px;">&nbsp;</div>
+					<img style="max-width:309px;float:left;margin-left: 64px;margin-top: 20px;" src="/images/multi_platform_approach_to_publishing.jpg">
+					<div style="margin-left:10px;float:right;width:130px;float:right;border:0px solid red;">
+						<img style="margin-top:21px;margin-left:0px;max-width:100px;border-radius: 4px;" src="/images/authors/rikke_friis_dam.jpg">
+						<p style="color:#808080">Co-editor-in-chief<br>
+						Rikke Friis Dam</p>                        
+					</div>
+				
+					<div style="width:480px;float:left;">
+						
+<div id="countDownTOC_348_frame" style="margin-top:10px;margin-bottom:10px;border-width:3px;;margin-left: auto;margin-right: auto;;">
+	<span style="margin-bottom:0px;margin-top:0px;">Don't miss our next textbook in </span><span style="margin-bottom:0px;margin-top:0px;" id="countDownTOC_348">-1850 days -7 hrs -44 min and <span style="">-46 seconds</span></span>
+		
+		
+		<div style="text-align:left;border:0px solid yellow;margin-top:20px;margin-bottom:10px;">
+			
+				<div style=";margin-left:135px;;width:173px;">
+						<form method="post" action="/subscribe.html">
+							<fieldset class="invisibleFieldset">
+								<input class="" type="text" placeholder="Your email" style="padding-left:0px;text-align:center;;margin-left:3px;width:156px;height:35px;font-size:20px;border-radius: 3px;border: 1px solid gray;box-shadow: 0 2px 3px rgba(0,0,0,0.2) inset, 0 2px 0 rgba(0,0,0,0.05) inset" name="email"><br>
+								  <input type="hidden" value="1" name="mailing_listID">
+								  <button onclick=";setCookieVer2('getNotifiedModal','stop',365);" style="min-width: 160px;;margin-top:20px;font-size: 24px !important;" type="submit" class="button auto-width">Sign up »</button>
+							</fieldset>
+						</form>
+				</div>
+				
+				
+	                   
+		</div>                
+		
 </div>
         
-                    </div>
-                    
-                    
-                    
-                    <div style="width:100%;height:1px;clear:both;">&nbsp;</div>
-                    <p style="clear:both;margin-top:27px;margin-bottom:27px;">
-                        <a onclick="setCookieVer2('getNotifiedModal','stop',365);showOrHideModalWindow('getNotifiedModal');" style="font-size:20px !important;margin-left:83px;" class="button closed auto-width">Please don't ask me again !</a>
-                    </p>
-                    
-            <p class="modalWindowCaption"></p>         
+					</div>
+					
+					
+					
+					<div style="width:100%;height:1px;clear:both;">&nbsp;</div>
+					<p style="clear:both;margin-top:27px;margin-bottom:27px;">
+						<a onclick="setCookieVer2('getNotifiedModal','stop',365);showOrHideModalWindow('getNotifiedModal');" style="font-size:20px !important;margin-left:83px;" class="button closed auto-width">Please don't ask me again !</a>
+					</p>
+					
+			<p class="modalWindowCaption"></p>         
+			
+					
+	</div>
+			 
+	</div> 
+	<div class="modalWindow" id="loginbox709" style="display:none;;width:750px;">      
+
+	<div class="modalWindowCloseWrapper" onclick="javascript:stopEventBubbling(event);showOrHideModalWindow('loginbox709');;" style="">
+		<div class="modalWindowCloseX"><img src="/images/icon_close_red.gif" style="width:36px;height:36px;" width="36" height="36" alt="Close window"></div><span class="modalWindowClose">Close </span>
+	</div>
+	
+	<div class="modalWindowContent">
+			<h1 style="margin-bottom:20px;">Already a member?</h1>
+
+<div class="pull-left">
+    <form method="post" action="/members/index.html">
             
+            
+            <fieldset style="max-width:200px;" class="invisibleFieldset">
+                    <p>Email:</p>
+                    <input class="loginInput" type="input" value="" name="email" id="email"><br>
                     
-    </div>
-             
-    </div> 
+                    <p style="margin-top:20px">Password:</p>
+                    <input class="loginInput" type="password" value="" name="password" id="password"><br>
+                    <input type="hidden" value="login" name="mode" id="mode">
+                        
+                      <button type="submit" style="margin-top:20px;" class="button auto-width icon-after fa fa-angle-right loading">Log in</button>
+                      
+                      <p style="margin-top:20px">
+                          <a href="/members/index.html?mode=resendPassword">Forgot your password?</a>
+                          &nbsp;&nbsp;|&nbsp;&nbsp;<a href="/join">Not a member yet?</a>
+                      </p>
+            </fieldset>
+            
+            
+            
+            <div style="width:100%;clear:both;height:1px">&nbsp;</div>
+    </form>
+</div>
+
+
+			<div style="margin-left:0px;float:left;width:335px;float:right;border:0px solid red;">
+					<img class="authorImageGrayScale" style="margin-left:20px;float:right;max-width:110px" src="/images/authors/rikke_friis_dam.jpg">
+					<h2 style="margin-top:0px;">Need help?</h2>
+					<p>My name is Rikke. If you experience problems, please email me at <a href="mailto:hello@interaction-design.org">hello@interaction-design.org</a></p>
+				</div>
+			
+
+
+			<p class="modalWindowCaption"></p>         
+			
+					
+	</div>
+			 
+	</div> 
     
     <!-- modal windows end -->
     
     
-        <!-- Google Code for Remarketing Tag -->
+<!-- Google Code for Remarketing Tag -->
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 985705368;
@@ -521,9 +578,11 @@ var google_remarketing_only = true;
 <script src="/assets/js/lib/jquery.mCustomScrollbar.concat.min.js"></script>
 <script src="/assets/js/lib/idangerous.swiper.min.js"></script>
 <script src="/assets/js/lib/jquery.lazyload.min.js"></script>
+<script src="/assets/js/lib/summernote.min.js"></script>
 <script src="/assets/js/lib/bootstrap-select.min.js"></script>
 <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
 <script src="/assets/js/main.js"></script>
+<script src="/assets/js/lib/select2.js"></script>
 
 <script type="text/javascript" src="/assets/legacy_javascript_ver3.js"></script>
 
@@ -533,23 +592,22 @@ var google_remarketing_only = true;
 	var certficateOrTemplateLogo = "/images/imagelibrary/certificate_of_membership_no_9999999999_-_certificate_version_01_memberMd5sum.jpg";    
 	showCustomizedVersionForMember();
 	isInstructor();
-	hideSignUpSideBarIfAlreadySignedUp();
 	instantiateBounceHandler();
 // -->
 </script>
 
 
 <script type="text/javascript">
-startCountDown("2014","10","2","countDownTOC_98","");
+startCountDown("2015","2","1","countDownTOC_348","");
 </script>
 
 
-                    
-                    <script type="text/javascript">
-                        setTimeout("showDelayedModalWindow()",40000);
-                    </script>
-                    
-                    
+					
+					<script type="text/javascript">
+						setTimeout("showDelayedModalWindow()",40000);
+					</script>
+					
+					
 
 
 
