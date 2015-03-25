@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the energyaustralia.com.au privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727194849id_/http%3A//www.energyaustralia.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyaustralia.com.au privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325065015id_/http%3A//www.energyaustralia.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy policy - EnergyAustralia
+# Privacy Policy | EnergyAustralia
 
 ##  Protection of your privacy
 
@@ -14,7 +14,7 @@ We are committed to respecting your privacy and protecting your personal informa
 
 The kinds of personal information we collect and hold about you will depend on the circumstances of collection, including whether we collect the information from you as a customer, supplier, stakeholder, job applicant or in some other capacity.
 
-For example, if you are a customer or a potential customer, we may collect your name, address, telephone number, date of birth, other forms of identification and information about your financial circumstances, credit worthiness, credit history and the conduct of your account (including metering data). We may also collect sensitive information about you (see _Do we hold sensitive information about you?_). If you deal with us in some other capacity (for example, as a community representative or other stakeholder), we may collect your name, contact details and any other information you choose to provide to us.
+For example, if you are a customer or a potential customer, we may collect your name, address, telephone number, date of birth, other forms of identification and information about your financial circumstances, credit worthiness, credit history and the conduct of your account (including metering data). We may also collect sensitive information about you (see [Do we hold sensitive information about you?](http://www.energyaustralia.com.au/privacy#sensitive-information)). If you deal with us in some other capacity (for example, as a community representative or other stakeholder), we may collect your name, contact details and any other information you choose to provide to us.
 
 If we're unable to collect your personal information, we may not be able to provide you with our products or services or do business with you or the organisation with which you are connected.
 
@@ -66,36 +66,40 @@ We may store your information in hardcopy and/or in electronic form on computer 
 
 ##  Do we provide you with information about products and services?
 
-If you are a customer or a potential customer, we may use your personal information to provide you with information on products, services and offers (from us or our related companies) that we believe may be relevant to you or that you would be interested in, even after you cease acquiring products or services from us, and you consent to us doing so for an indefinite period of time unless and until you opt out of receiving this information (see _How can you opt out of receiving information about products and services?_).
+If you are a customer or a potential customer, we may use your personal information to provide you with information on products, services and offers (from us or our related companies) that we believe may be relevant to you or that you would be interested in, even after you cease acquiring products or services from us, and you consent to us doing so for an indefinite period of time unless and until you opt out of receiving this information (see [How can you opt out of receiving information about products and services?](http://www.energyaustralia.com.au/privacy#how-to-opt-out)).
 
 You consent to us sending you the information by direct mail, email, telephone and SMS/MMS, unless and until you tell us not to contact you in these ways.
 
 ##  How can you opt out of receiving information about products and services?
 
-**_How to opt out of receiving marketing communications_**
+_**How to opt out of receiving marketing communications**_
 
 You can opt out of receiving marketing communications in any of the following ways:
 
-  * by sending an email to [marketingoptout@energyaustralia.com.au](mailto:marketingoptout@energyaustralia.com.au)*
+  * by sending an email to marketingoptout@energyaustralia.com.au*
   * by calling our customer service team:
-  
-For Vic, ACT, SA or Qld call 133 466 (Monday - Friday, 8am - 6.30pm AEST)  
-For NSW call 131 502 (Monday - Friday, 8am - 6pm AEST)
+
+
+
+Call 133 466 (Monday - Friday, 8am - 6.30pm AEST)
+
   * in writing addressed to:
 
-The Privacy Officer  
-EnergyAustralia  
-Locked Bag 14060  
+
+
+The Privacy Officer
+
+EnergyAustralia
+
+Locked Bag 14060
+
 Melbourne City Mail Centre 8001
-
-
-
 
 * Please note this email address should only be used for sending marketing opt out requests. All other enquiries should be sent using the relevant online form or by contacting us via telephone.
 
 In some circumstances we may need to contact you to obtain additional information, to verify your identity or to clarify your request.
 
-**_Information required to opt out of receiving marketing communications_**
+_**Information required to opt out of receiving marketing communications**_
 
 Please let us know whether you wish to opt out of all marketing communications or marketing communications by specific contact channel(s). You may opt out of receiving marketing communications by:
 
@@ -141,6 +145,30 @@ Charges may apply to cover the cost of us accessing and providing you with this 
 
 When you enter into a contract with us, we’ll collect and hold your name, address, date of birth and drivers' licence number. We may disclose this information to Veda Advantage and/or Dun & Bradstreet which are Credit Reporting Bureaus ( **CRBs** ) if we decide to do a credit check. You may contact the relevant CRB to obtain its policy on how it manages your credit-related personal information using the contact details below:
 
+**Veda Advantage Information Services and Solutions Limited**
+
+Phone: 1300 850 211
+
+Mail: Attention: Public Access Division
+
+Veda Advantage
+
+PO Box 964
+
+North Sydney NSW 2059
+
+**Dun and Bradstreet (Australia) Pty Ltd**
+
+Phone: 1300 734 806
+
+Mail: Attention: Public Access Centre
+
+Dun & Bradstreet Australia
+
+PO Box 7405
+
+St Kilda Rd VIC 3004
+
 If you believe on reasonable grounds that you have been or are likely to be a victim of fraud, you can request CRB not to use or disclose credit reporting information about you. In addition, you can request the CRB not to use your credit reporting information for the purposes of pre-screening of direct marketing by a credit provider.
 
 The CRB may include information that we provide to it in reports that they provide to other credit providers to assist them to assess your credit worthiness. If we do a credit check on you with CRB, the CRB will generate a credit score for you and make this available to us. We’ll use this information to help us assess your credit worthiness, and we will keep a record of whether you passed or failed the credit check (based on our credit criteria) but we will not keep the credit score generated for you by the CRB.
@@ -167,7 +195,7 @@ You’re entitled to access and seek the correction of the credit-related person
 
 ##  What if you disagree with our decision?
 
-Where we make a decision about you or affecting you, you may ask us to explain the basis on which that decision was made, and you may ask to see the personal information (if any) on which our decision is based (see _How can you get access to your information?_).
+Where we make a decision about you or affecting you, you may ask us to explain the basis on which that decision was made, and you may ask to see the personal information (if any) on which our decision is based (see [How can you get access to your information?](http://www.energyaustralia.com.au/privacy#access-your-information)).
 
 ##  EnergyAustralia website
 
@@ -217,12 +245,15 @@ You can contact us at the address below to:
 
 
 
-The Privacy Officer  
-EnergyAustralia  
-Locked Bag 14060  
+The Privacy Officer
+
+EnergyAustralia
+
+Locked Bag 14060
+
 Melbourne City Mail Centre 8001
 
-Updated: 31 January 2014
+Updated: 23 November 2014
 
-Download: [EnergyAustralia - Privacy policy(PDF, 78kb)](https://web.archive.org/servlet/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadervalue1=attachment%3B+filename%3D%22EnergyAustralia+-+Privacy+policy.pdf%22&blobkey=id&blobtable=MungoBlobs&blobwhere=1343704532402&ssbinary=true)
+Download: [EnergyAustralia - Privacy policy (PDF, 97kb)](https://web.archive.org/servlet/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadervalue1=attachment%3B+filename%3D%22EnergyAustralia+-+Privacy+policy+.pdf%22&blobkey=id&blobtable=MungoBlobs&blobwhere=1343707315457&ssbinary=true)
   *[PDF]: Abobe Portable Document Format
