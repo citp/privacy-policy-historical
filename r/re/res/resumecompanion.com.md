@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumecompanion.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120201152id_/http%3A//resumecompanion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumecompanion.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325090910id_/http%3A//resumecompanion.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Resume Maker | Privacy Policy | Resume Companion
 
@@ -107,10 +107,10 @@ Wilmington, DE 19801-2230
 United States 
 
 Europe Office:   
-Su Jia Technologies Ltd. dba ResumeCompanion.com   
+RGO Resume Technologies Ltd. dba ResumeCompanion.com   
 Karpenision, 9 Strovolos, 2021   
 Nicosia, Cyprus 
 
 Contacting us:   
 Email: support@resumecompanion.com   
-Phone: 1-866-936-4904 (available Monday through Friday, 10AM – 6PM EDT) 
+Phone: 866-936-4904 (available Monday through Friday, 10AM – 6PM EDT) 
