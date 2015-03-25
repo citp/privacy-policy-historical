@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the schooloutfitters.com privacy policy that was archived on 2013-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130906135315id_/https%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schooloutfitters.com privacy policy that was archived on 2015-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150325012727id_/https%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>
-        Privacy at School Outfitters
+        Privacy Policy at School Outfitters
     </title>
     <link rel="shortcut icon" href="/Content/Images/favicon.ico" type="image/x-icon">
     
@@ -29,7 +29,7 @@
     
 
 
-    <link href="/RequestReduceContent/0781524f5567a2473ed49dcc1e40c58e-115c75d65634d36c7de83bfa2268ab55-RequestReducedStyle.css" rel="Stylesheet" type="text/css">        <script src="/RequestReduceContent/5ded3fdba315258f75749a067f26ecee-b565a1099ea0183c8bb5ca64009dc91a-RequestReducedScript.js" type="text/javascript"></script>    <!-- A/B test product page redesign-->
+    <link href="/RequestReduceContent/86858749f97c98fb95b9b2fa6ad58a0b-1353c5e13dc874bdc819a3e345b24e94-RequestReducedStyle.css" rel="Stylesheet" type="text/css">        <script src="/RequestReduceContent/33f959f74addc3808c2abcf30ef6905c-556e5e1381787627e220d282808def5a-RequestReducedScript.js" type="text/javascript"></script>    <!-- A/B test product page redesign-->
     
                 <!-- End - A/B test product page redesign-->
         
@@ -38,36 +38,21 @@
 
 
         <!--[if IE 7]>
-	<link href="/resource/stylesheet/v20130905/ie7.css" rel="stylesheet" type="text/css" media="print,screen" />
+	<link href="/resource/stylesheet/v20150323/ie7.css" rel="stylesheet" type="text/css" media="print,screen" />
 	<![endif]-->
         <script type="text/javascript">
         var lpNumber = "86350344";
 	    var lpServerName = "server.iad.liveperson.net";
 	    var pageload = 1;
-        var s_account = 'socom';
-
-        function trackHoverMenu(linkName) {
-        var s = s_gi('socom');
-        var savelinkTrackVars = s.linkTrackVars;
-        var savelinkTrackEvents = s.linkTrackEvents;
-        s.linkTrackVars = 'eVar22';
-        s.eVar22 = linkName;
-        s.tl(this, 'o', 'MenuView');
-        s.linkTrackVars = savelinkTrackVars;
-        s.linkTrackEvents = savelinkTrackEvents;
-        };
-        function trackOmnitureForDialog(pageName, omnitureAccount) {
-            var s = s_gi(omnitureAccount); s.pageName = pageName;
-            var omnitureTrackingOutput = '/* SiteCatalyst code*/ if (window.s) { var save = $.extend({}, s);/* Traffic variables */s.prop1="";s.prop2="";s.prop4="";s.prop5="";s.prop10="";s.pageName=s.pageName;/* Commerce variables */s.eVar1="";s.eVar9="";s.eVar10="";s.eVar11="";s.eVar12="";s.eVar31="";s.eVar32="";s.eVar33="";s.events="event35";s.products="";s.state="";s.zip="";s.purchaseID="";void(s.t());s = $.extend({}, save);} /*End SiteCatalyst code*/';
-            eval(omnitureTrackingOutput)
-        };
+        var s_account = 'socom';//using on general.js 
+       
         function CallMe(target) {
             var $position = $(target).offset();
             $("#popupContact").css({
                 top: $position.top + 'px'
             });
             $('div[class="container"]').css('min-height', '0px');
-            $("#loadContent").html('<div style="text-align:center"><img src="/Content/Images/loadingPopup.gif" /></div>');
+            $("#loadContent").html('<div style="text-align:center"><img src="/Content/Images/loadingPopup.gif" width="24px" height="24px" /></div>');
             $("#popupContact").show();
             $.get("/catalog/call_me.php", function (data) {
                 $("#loadContent").html(data);
@@ -97,26 +82,20 @@
     }
     function imageHandler100x100(element)
     {
-       element.src = "/resource/images/v20130905/resized/noimage-100-100.jpg";	
+       element.src = "/resource/images/v20150323/resized/noimage-100-100.jpg";	
+    }
+    function imageHandler144x144(element)
+    {
+       element.src = "/resource/images/v20150323/resized/noimage-144-144.jpg";	
     }
     function imageSpecialFeaturedImageHandler(element)
     {
         element.style.display = "none";
     }
-    function trackECR4KIDS(linkName) {
-        var s = s_gi('socom');
-        var savelinkTrackVars = s.linkTrackVars;
-        var savelinkTrackEvents = s.linkTrackEvents;
-        s.linkTrackVars = 'None';
-        s.linkTrackEvents = 'None';
-        s.tl(this, 'o', linkName);
-        s.linkTrackVars = savelinkTrackVars;
-        s.linkTrackEvents = savelinkTrackEvents;
-    };
-
+        
     $(document).ready(function () {
         $("#ecr4kids").click(function(){
-            trackECR4KIDS("ECRCotsiteLink");
+            OmnitureTagging("ECRCotsiteLink");
         });
     });
 
@@ -132,23 +111,21 @@
 </script>
 <!-- END LivePerson Monitor. -->
 
-    <script src="/RequestReduceContent/5ca8743016a5835482a02aa6a0b25873-dd62d88ad386f93697e30f9b55cd308d-RequestReducedScript.js" type="text/javascript"></script>    <script type="text/javascript">
+    <script src="/RequestReduceContent/e87e18511ac99cc66606179659aa8e52-dd62d88ad386f93697e30f9b55cd308d-RequestReducedScript.js" type="text/javascript"></script>    <script type="text/javascript">
     
     
     
                     
 /* Traffic variables */
-s.prop1="999999";
-s.prop3="https://www.schooloutfitters.com/catalog/product_info/pfam_id/PFAM32142/products_id/PRO43479";
+s.prop1="Privacy Policy";
+s.prop3="https://www.schooloutfitters.com/catalog/index";
 s.prop18="/catalog/privacy.php";
-s.prop30="crawl457.us.archive.org";
 s.pageName="Privacy Policy";
 /* Commerce variables */
-s.eVar20="1130906B424504";
+s.eVar20="1150324B510148";
 s.eVar15="B";
-s.eVar61="crawl457.us.archive.org";
-s.eVar19="40070895";
-                    var s_code=s.t();if(s_code)document.write(s_code);                    
+s.eVar19="106851088";
+                    s.events = getEventsValue(s.events);
                     
 
 
@@ -159,15 +136,15 @@ s.eVar19="40070895";
         <div class="container_print">
             <div id="header">
                 <div class="printHeader">
-                    <img alt="" src="/Content/Images/B_Site/header_bsite_print_02.gif">
+                    <img alt="" src="/Content/Images/B_Site/header_bsite_print_02.gif" width="982px" height="123px">
                 </div>
                 <div id="OmnitureTransaction">
-                    <span class="OmnitureTransactionId">1130906B424504</span> <span class="OmnitureSessionId">B424504</span>
+                    <span class="OmnitureTransactionId">1150324B510148</span> <span class="OmnitureSessionId">B510148</span>
                 </div>
                 <a href="/catalog/" id="so_logo"></a>
                 <div id="so_number">
                     <p>
-                        Mon–Fri: 8-8 Eastern | <a style="font-family: Arial; font-size: 12px;" onclick="var s=s_gi('socom');s.tl(this,'o','headerEmailSales');" href="mailto:sales@schooloutfitters.com">
+                        Mon–Fri: 8-8 Eastern | <a style="font-family: Arial; font-size: 12px;" onclick="sendInfoToOmniture('headerEmailSales');" href="mailto:sales@schooloutfitters.com">
                             Email Sales</a></p>
                 </div>
                 <div id="so_chat">
@@ -186,7 +163,7 @@ s.eVar19="40070895";
     <input class="search_box" id="searchbox" name="keywords" type="text" rel="Search" value="Search">
     <input class="search_btn" id="searchbtn" type="submit" value="" alt="Search">
 </form>
-<script src="/RequestReduceContent/8249e182419c55b0e5157cd64a8ad327-cde5cc4a65d4503f04944d1f532d882f-RequestReducedScript.js" type="text/javascript"></script><script type="text/javascript">
+<script src="/RequestReduceContent/dee36f26b2dfa04c1257599d73480966-cde5cc4a65d4503f04944d1f532d882f-RequestReducedScript.js" type="text/javascript"></script><script type="text/javascript">
     $(document).ready(function () {
         $("form[name='smSearch']").submit(function () {
             keyword = $("input[id='searchbox']").val();
@@ -214,217 +191,1041 @@ s.eVar19="40070895";
     <ul id="main_menu">
     <li class="dropdown brands_btn">
         <ul class="brands_dropdown">
-                        <li><a href="/catalog/default/mPath/MAN489_CAT729">Acer</a></li>            
-            <li><a href="/catalog/default/mPath/MAN418_CAT896">Davis Instruments</a></li>            
-            <li><a href="/catalog/default/mPath/MAN252_CAT1726">Italtrike</a></li>            
-            <li><a href="/catalog/default/mPath/MAN289">Recordex</a></li>            
-            <li><a href="/catalog/default/mPath/MAN286_CAT532">Air Science U.S.A. LLC</a></li>            
-            <li><a href="/catalog/default/mPath/MAN450">Detecto Scale</a></li>            
-            <li><a href="/catalog/default/mPath/MAN428_CAT920">Jarvis</a></li>            
-            <li><a href="/catalog/default/mPath/MAN251">Regency Seating</a></li>            
-            <li><a href="/catalog/default/mPath/MAN453">Akro-Mils, Inc.</a></li>            
-            <li><a href="/catalog/default/mPath/MAN26">Diversified Woodcrafts</a></li>            
-            <li><a href="/catalog/default/mPath/MAN449">Jayhawk Plastics, Inc.</a></li>            
-            <li><a href="/catalog/default/mPath/MAN457_CAT1302">Rhythm Band Instruments</a></li>            
-            <li><a href="/catalog/default/mPath/MAN305">Alvin</a></li>            
-            <li><a href="/catalog/default/mPath/MAN579">Dixon Ticonderoga</a></li>            
-            <li><a href="/catalog/default/mPath/MAN406">John Boos &amp; Co</a></li>            
-            <li><a href="/catalog/default/mPath/MAN593_CAT1709">Roselle Paper</a></li>            
-            <li><a href="/catalog/default/mPath/MAN329_CAT597">Amana-Sesco</a></li>            
-            <li><a href="/catalog/default/mPath/MAN53_CAT20">Draper</a></li>            
-            <li><a href="/catalog/default/mPath/MAN3">Jonti-Craft</a></li>            
-            <li><a href="/catalog/default/mPath/MAN371">Royal Sovereign</a></li>            
-            <li><a href="/catalog/default/mPath/MAN464_CAT1328">American Specialties Inc</a></li>            
-            <li><a href="/catalog/default/mPath/MAN287_CAT361">Dry Lam</a></li>            
-            <li><a href="/catalog/default/mPath/MAN34_CAT44">Joy Carpets &amp; Co</a></li>            
-            <li><a href="/catalog/default/mPath/MAN86">Safco</a></li>            
-            <li><a href="/catalog/default/mPath/MAN217">AmpliVox Sound Systems</a></li>            
-            <li><a href="/catalog/default/mPath/MAN595_CAT1706">Duck Brand</a></li>            
-            <li><a href="/catalog/default/mPath/MAN373_CAT590">Kelvinator-Sesco</a></li>            
-            <li><a href="/catalog/default/mPath/MAN492_CAT735">Samsung</a></li>            
-            <li><a href="/catalog/default/mPath/MAN225">AmTab</a></li>            
-            <li><a href="/catalog/default/mPath/MAN362">Durable Office Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN314_CAT537">Ken-A-Vision</a></li>            
-            <li><a href="/catalog/default/mPath/MAN502_CAT729">SanDisk</a></li>            
-            <li><a href="/catalog/default/mPath/MAN99">Anchor Audio</a></li>            
-            <li><a href="/catalog/default/mPath/MAN417_CAT1169">Dynalon</a></li>            
-            <li><a href="/catalog/default/mPath/MAN514">Ken-A-Vision Document Cameras</a></li>            
-            <li><a href="/catalog/default/mPath/MAN109">Sandusky Lee</a></li>            
-            <li><a href="/catalog/default/mPath/MAN210">Andersen Company</a></li>            
-            <li><a href="/catalog/default/mPath/MAN355">EarthWalk</a></li>            
-            <li><a href="/catalog/default/mPath/MAN501_CAT729">Kensington</a></li>            
-            <li><a href="/catalog/default/mPath/MAN327">SaniServ-Sesco</a></li>            
-            <li><a href="/catalog/default/mPath/MAN87">Angeles Corporation</a></li>            
-            <li><a href="/catalog/default/mPath/MAN50">ECR4Kids</a></li>            
-            <li><a href="/catalog/default/mPath/MAN104">KFI Seating</a></li>            
-            <li><a href="/catalog/default/mPath/MAN21">Scholar Craft</a></li>            
-            <li><a href="/catalog/default/mPath/MAN513">Artco-Bell</a></li>            
-            <li><a href="/catalog/default/mPath/MAN306">Edsal</a></li>            
-            <li><a href="/catalog/default/mPath/MAN121">KI</a></li>            
-            <li><a href="/catalog/default/mPath/MAN581">School Outfitters</a></li>            
-            <li><a href="/catalog/default/mPath/MAN446">Athletic Connection</a></li>            
-            <li><a href="/catalog/default/mPath/MAN571">Educational Insights</a></li>            
-            <li><a href="/catalog/default/mPath/MAN383_CAT857">Kingsley</a></li>            
-            <li><a href="/catalog/default/mPath/MAN37">Screenflex</a></li>            
-            <li><a href="/catalog/default/mPath/MAN23">Atlantic Metal</a></li>            
-            <li><a href="/catalog/default/mPath/MAN584">Egghead</a></li>            
-            <li><a href="/catalog/default/mPath/MAN385_CAT16">Koss</a></li>            
-            <li><a href="/catalog/default/mPath/MAN401_CAT541">Sellstrom Manufacturing</a></li>            
-            <li><a href="/catalog/default/mPath/MAN441">AVE SIX by Office Star Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN594">Elmer's Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN578">Learning Resources</a></li>            
-            <li><a href="/catalog/default/mPath/MAN343">SentrySafe</a></li>            
-            <li><a href="/catalog/default/mPath/MAN304">AVTEQ</a></li>            
-            <li><a href="/catalog/default/mPath/MAN231">ELMO</a></li>            
-            <li><a href="/catalog/default/mPath/MAN17_CAT361">Ledco</a></li>            
-            <li><a href="/catalog/default/mPath/MAN307_CAT720">Server Products, Inc</a></li>            
-            <li><a href="/catalog/default/mPath/MAN41">Balt</a></li>            
-            <li><a href="/catalog/default/mPath/MAN437">Empire Office Solutions</a></li>            
-            <li><a href="/catalog/default/mPath/MAN490_CAT735">Lenovo</a></li>            
-            <li><a href="/catalog/default/mPath/MAN118">Shain</a></li>            
-            <li><a href="/catalog/default/mPath/MAN500_CAT729">Belkin</a></li>            
-            <li><a href="/catalog/default/mPath/MAN402">Epson</a></li>            
-            <li><a href="/catalog/default/mPath/MAN319">Little Giant</a></li>            
-            <li><a href="/catalog/default/mPath/MAN372">Silver King-Sesco</a></li>            
-            <li><a href="/catalog/default/mPath/MAN71">Best-Rite Manufacturing</a></li>            
-            <li><a href="/catalog/default/mPath/MAN392">Ergotron</a></li>            
-            <li><a href="/catalog/default/mPath/MAN498_CAT729">Logitech</a></li>            
-            <li><a href="/catalog/default/mPath/MAN520_CAT1653">SinksNmore</a></li>            
-            <li><a href="/catalog/default/mPath/MAN96_CAT565">Bil-Jax</a></li>            
-            <li><a href="/catalog/default/mPath/MAN312_CAT668">ES Robbins</a></li>            
-            <li><a href="/catalog/default/mPath/MAN249_CAT366">Lumens</a></li>            
-            <li><a href="/catalog/default/mPath/MAN403_CAT197">Skateboard Lockers</a></li>            
-            <li><a href="/catalog/default/mPath/MAN313">Bison Sports</a></li>            
-            <li><a href="/catalog/default/mPath/MAN375">Everlast Climbing Industries</a></li>            
-            <li><a href="/catalog/default/mPath/MAN4">Luxor</a></li>            
-            <li><a href="/catalog/default/mPath/MAN22">Smith Carrel</a></li>            
-            <li><a href="/catalog/default/mPath/MAN328_CAT597">Blendtec-Sesco</a></li>            
-            <li><a href="/catalog/default/mPath/MAN454">Fitness Master</a></li>            
-            <li><a href="/catalog/default/mPath/MAN155">Magna Visual Inc.</a></li>            
-            <li><a href="/catalog/default/mPath/MAN42">Smith System</a></li>            
-            <li><a href="/catalog/default/mPath/MAN338">Body Solid</a></li>            
-            <li><a href="/catalog/default/mPath/MAN28">Flagship Carpets</a></li>            
-            <li><a href="/catalog/default/mPath/MAN342_CAT237">Magnuson Group</a></li>            
-            <li><a href="/catalog/default/mPath/MAN411">Sony</a></li>            
-            <li><a href="/catalog/default/mPath/MAN465">Boss Office Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN521">Flipside Products, Inc.</a></li>            
-            <li><a href="/catalog/default/mPath/MAN19">Mahar</a></li>            
-            <li><a href="/catalog/default/mPath/MAN232">Sound Projections</a></li>            
-            <li><a href="/catalog/default/mPath/MAN299">Brecknell</a></li>            
-            <li><a href="/catalog/default/mPath/MAN265">Foundations Worldwide</a></li>            
-            <li><a href="/catalog/default/mPath/MAN52">Marsh Industries</a></li>            
-            <li><a href="/catalog/default/mPath/MAN89">Southern Aluminum</a></li>            
-            <li><a href="/catalog/default/mPath/MAN2">Bretford</a></li>            
-            <li><a href="/catalog/default/mPath/MAN280_CAT728">Frontrow</a></li>            
-            <li><a href="/catalog/default/mPath/MAN322">Mayline Group</a></li>            
-            <li><a href="/catalog/default/mPath/MAN268">SportsPlay Equipment Inc</a></li>            
-            <li><a href="/catalog/default/mPath/MAN448_CAT610">Brookside Design</a></li>            
-            <li><a href="/catalog/default/mPath/MAN94_CAT361">GBC</a></li>            
-            <li><a href="/catalog/default/mPath/MAN573">Melissa &amp; Doug</a></li>            
-            <li><a href="/catalog/default/mPath/MAN512">Sprogs</a></li>            
-            <li><a href="/catalog/default/mPath/MAN420">Buddy Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN15">Georgia Chair</a></li>            
-            <li><a href="/catalog/default/mPath/MAN499_CAT729">Microsoft</a></li>            
-            <li><a href="/catalog/default/mPath/MAN170">Stevens Industries</a></li>            
-            <li><a href="/catalog/default/mPath/MAN236">Buhl Industries</a></li>            
-            <li><a href="/catalog/default/mPath/MAN16">Ghent</a></li>            
-            <li><a href="/catalog/default/mPath/MAN5">Midwest Folding Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN423">Studio Designs, Inc.</a></li>            
-            <li><a href="/catalog/default/mPath/MAN504_CAT729">Built</a></li>            
-            <li><a href="/catalog/default/mPath/MAN261">Global Industries</a></li>            
-            <li><a href="/catalog/default/mPath/MAN285_CAT233">Millennium Mat Company</a></li>            
-            <li><a href="/catalog/default/mPath/MAN432">Swift Optical Instruments</a></li>            
-            <li><a href="/catalog/default/mPath/MAN523_CAT612">Bulman Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN333">Globe Food Equipment</a></li>            
-            <li><a href="/catalog/default/mPath/MAN408_CAT21">MIPRO</a></li>            
-            <li><a href="/catalog/default/mPath/MAN293">Tecno Display</a></li>            
-            <li><a href="/catalog/default/mPath/MAN246">Bush Industries</a></li>            
-            <li><a href="/catalog/default/mPath/MAN364">Gold Medal Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN295_CAT1587">Mr. Chain</a></li>            
-            <li><a href="/catalog/default/mPath/MAN399">Testrite Visual Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN9">Califone</a></li>            
-            <li><a href="/catalog/default/mPath/MAN367">Grindmaster-Cecilware</a></li>            
-            <li><a href="/catalog/default/mPath/MAN480_CAT537">National Optical</a></li>            
-            <li><a href="/catalog/default/mPath/MAN36">The Miller Group - Multiplex Division</a></li>            
-            <li><a href="/catalog/default/mPath/MAN303">Cambro Manufacturing</a></li>            
-            <li><a href="/catalog/default/mPath/MAN357_CAT541">Guardian Equipment</a></li>            
-            <li><a href="/catalog/default/mPath/MAN18">National Public Seating</a></li>            
-            <li><a href="/catalog/default/mPath/MAN259_CAT279">Toddler Tables</a></li>            
-            <li><a href="/catalog/default/mPath/MAN24_CAT44">Carpets For Kids</a></li>            
-            <li><a href="/catalog/default/mPath/MAN88">Guidecraft</a></li>            
-            <li><a href="/catalog/default/mPath/MAN456_CAT581">Nex-Terra</a></li>            
-            <li><a href="/catalog/default/mPath/MAN488_CAT729">Toshiba</a></li>            
-            <li><a href="/catalog/default/mPath/MAN400_CAT1586">Cassida Corporation</a></li>            
-            <li><a href="/catalog/default/mPath/MAN325">H. Wilson</a></li>            
-            <li><a href="/catalog/default/mPath/MAN442">Norwood Commercial Furniture</a></li>            
-            <li><a href="/catalog/default/mPath/MAN74">Tot Mate</a></li>            
-            <li><a href="/catalog/default/mPath/MAN568">CDF by Scholar Craft</a></li>            
-            <li><a href="/catalog/default/mPath/MAN422">Hale Mfg</a></li>            
-            <li><a href="/catalog/default/mPath/MAN248">Numonics</a></li>            
-            <li><a href="/catalog/default/mPath/MAN310">Turbo Air, Inc</a></li>            
-            <li><a href="/catalog/default/mPath/MAN311">Celestron</a></li>            
-            <li><a href="/catalog/default/mPath/MAN237">Hallowell</a></li>            
-            <li><a href="/catalog/default/mPath/MAN212">Office Star Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN300">Ultra Play Systems</a></li>            
-            <li><a href="/catalog/default/mPath/MAN281">Champion Sports</a></li>            
-            <li><a href="/catalog/default/mPath/MAN40">Hamilton Electronics</a></li>            
-            <li><a href="/catalog/default/mPath/MAN235">OFM, Inc.</a></li>            
-            <li><a href="/catalog/default/mPath/MAN187">United Visual Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN435_CAT729">Chester Creek Technologies</a></li>            
-            <li><a href="/catalog/default/mPath/MAN274">Hann Manufacturing</a></li>            
-            <li><a href="/catalog/default/mPath/MAN315">Ohaus</a></li>            
-            <li><a href="/catalog/default/mPath/MAN283">Valley Forge Flag</a></li>            
-            <li><a href="/catalog/default/mPath/MAN85">ChildBrite</a></li>            
-            <li><a href="/catalog/default/mPath/MAN582">Hape International Inc.</a></li>            
-            <li><a href="/catalog/default/mPath/MAN30">Oklahoma Sound</a></li>            
-            <li><a href="/catalog/default/mPath/MAN64">Virco</a></li>            
-            <li><a href="/catalog/default/mPath/MAN140">Children's Factory</a></li>            
-            <li><a href="/catalog/default/mPath/MAN352">Hausmann</a></li>            
-            <li><a href="/catalog/default/mPath/MAN382">Oxford Garden</a></li>            
-            <li><a href="/catalog/default/mPath/MAN429_CAT21">VocoPro</a></li>            
-            <li><a href="/catalog/default/mPath/MAN296">Clarin by Hussey Seating</a></li>            
-            <li><a href="/catalog/default/mPath/MAN245">Hitachi Projectors</a></li>            
-            <li><a href="/catalog/default/mPath/MAN284">Ozark River</a></li>            
-            <li><a href="/catalog/default/mPath/MAN282_CAT514">Wacom</a></li>            
-            <li><a href="/catalog/default/mPath/MAN414_CAT1179">Clear Future Markerboards</a></li>            
-            <li><a href="/catalog/default/mPath/MAN415">Hitachi Starboards</a></li>            
-            <li><a href="/catalog/default/mPath/MAN574">Pacon</a></li>            
-            <li><a href="/catalog/default/mPath/MAN33">Waddell Display Cases</a></li>            
-            <li><a href="/catalog/default/mPath/MAN84">Community</a></li>            
-            <li><a href="/catalog/default/mPath/MAN323_CAT672">Hormel</a></li>            
-            <li><a href="/catalog/default/mPath/MAN60">Palmer Hamilton</a></li>            
-            <li><a href="/catalog/default/mPath/MAN208_CAT227">Wearwell</a></li>            
-            <li><a href="/catalog/default/mPath/MAN11">Correll</a></li>            
-            <li><a href="/catalog/default/mPath/MAN572">Hygloss Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN341">Paragon Furniture</a></li>            
-            <li><a href="/catalog/default/mPath/MAN363">Wesco Industrial</a></li>            
-            <li><a href="/catalog/default/mPath/MAN522_CAT87">Cortech</a></li>            
-            <li><a href="/catalog/default/mPath/MAN326_CAT700">Ice-O-Matic-Sesco</a></li>            
-            <li><a href="/catalog/default/mPath/MAN191_CAT196">Penco Products</a></li>            
-            <li><a href="/catalog/default/mPath/MAN224">Whitney Brothers</a></li>            
-            <li><a href="/catalog/default/mPath/MAN576">Crayola</a></li>            
-            <li><a href="/catalog/default/mPath/MAN378_CAT713">Imperial-Sesco</a></li>            
-            <li><a href="/catalog/default/mPath/MAN466_CAT1386">Physicians Care</a></li>            
-            <li><a href="/catalog/default/mPath/MAN324">Witt Industries</a></li>            
-            <li><a href="/catalog/default/mPath/MAN335">Cres Cor</a></li>            
-            <li><a href="/catalog/default/mPath/MAN407_CAT225">Infinity Instruments Ltd.</a></li>            
-            <li><a href="/catalog/default/mPath/MAN162">Populas</a></li>            
-            <li><a href="/catalog/default/mPath/MAN493">Wood Designs</a></li>            
-            <li><a href="/catalog/default/mPath/MAN82_CAT612">Dahle</a></li>            
-            <li><a href="/catalog/default/mPath/MAN320">IntelliStage</a></li>            
-            <li><a href="/catalog/default/mPath/MAN588">Primary Colors</a></li>            
-            <li><a href="/catalog/default/mPath/MAN481">Woodware Furniture</a></li>            
-            <li><a href="/catalog/default/mPath/MAN370_CAT363">Dahle Shredders</a></li>            
-            <li><a href="/catalog/default/mPath/MAN358">Intensa, Inc.</a></li>            
-            <li><a href="/catalog/default/mPath/MAN291">QOMO</a></li>            
-            <li><a href="/catalog/default/mPath/MAN356">Young Time</a></li>            
-            <li><a href="/catalog/default/mPath/MAN107">Da-Lite Screens</a></li>            
-            <li><a href="/catalog/default/mPath/MAN275_CAT35">Interior Innovations</a></li>            
-            <li><a href="/catalog/default/mPath/MAN374_CAT713">Rational USA, Inc</a></li>            
-            <li><a href="/catalog/default/mPath/MAN257_CAT1588">Zebra</a></li>            
-            <li><a href="/catalog/default/mPath/MAN243">Datum Filing Systems</a></li>            
-            <li><a href="/catalog/default/mPath/MAN302">Ironwood Manufacturing</a></li>            
-            <li><a href="/catalog/default/mPath/MAN345">Raymond Products</a></li>            
+                        <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN602" itemprop="url">
+                    <span itemprop="name">ACCO</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN370_CAT1920" itemprop="url">
+                    <span itemprop="name">Dahle Shredders</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN275_CAT35" itemprop="url">
+                    <span itemprop="name">Interior Innovations</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN588" itemprop="url">
+                    <span itemprop="name">Primary Colors</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN489_CAT729" itemprop="url">
+                    <span itemprop="name">Acer</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN107" itemprop="url">
+                    <span itemprop="name">Da-Lite Screens</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN302" itemprop="url">
+                    <span itemprop="name">Ironwood Manufacturing</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN291" itemprop="url">
+                    <span itemprop="name">QOMO</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN286_CAT532" itemprop="url">
+                    <span itemprop="name">Air Science U.S.A. LLC</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN243" itemprop="url">
+                    <span itemprop="name">Datum Filing Systems</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN252_CAT2108" itemprop="url">
+                    <span itemprop="name">Italtrike</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN374_CAT713" itemprop="url">
+                    <span itemprop="name">Rational USA, Inc</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN453" itemprop="url">
+                    <span itemprop="name">Akro-Mils, Inc.</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN418_CAT896" itemprop="url">
+                    <span itemprop="name">Davis Instruments</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN428_CAT920" itemprop="url">
+                    <span itemprop="name">Jarvis</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN345" itemprop="url">
+                    <span itemprop="name">Raymond Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN305" itemprop="url">
+                    <span itemprop="name">Alvin</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN651_CAT564" itemprop="url">
+                    <span itemprop="name">Dero</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN449" itemprop="url">
+                    <span itemprop="name">Jayhawk Plastics, Inc.</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN289" itemprop="url">
+                    <span itemprop="name">Recordex</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN329_CAT597" itemprop="url">
+                    <span itemprop="name">Amana-Sesco</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN450" itemprop="url">
+                    <span itemprop="name">Detecto Scale</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN406" itemprop="url">
+                    <span itemprop="name">John Boos &amp; Co</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN251" itemprop="url">
+                    <span itemprop="name">Regency Seating</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN464_CAT1928" itemprop="url">
+                    <span itemprop="name">American Specialties Inc</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN26" itemprop="url">
+                    <span itemprop="name">Diversified Woodcrafts</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN3" itemprop="url">
+                    <span itemprop="name">Jonti-Craft</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN457_CAT1302" itemprop="url">
+                    <span itemprop="name">Rhythm Band Instruments</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN217" itemprop="url">
+                    <span itemprop="name">AmpliVox Sound Systems</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN579" itemprop="url">
+                    <span itemprop="name">Dixon Ticonderoga</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN34_CAT44" itemprop="url">
+                    <span itemprop="name">Joy Carpets &amp; Co.</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN593" itemprop="url">
+                    <span itemprop="name">Roselle Paper</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN225" itemprop="url">
+                    <span itemprop="name">AmTab</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN53_CAT20" itemprop="url">
+                    <span itemprop="name">Draper</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN631" itemprop="url">
+                    <span itemprop="name">Kalokids</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN371" itemprop="url">
+                    <span itemprop="name">Royal Sovereign</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN99" itemprop="url">
+                    <span itemprop="name">Anchor Audio</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN287_CAT1919" itemprop="url">
+                    <span itemprop="name">Dry Lam</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN373_CAT590" itemprop="url">
+                    <span itemprop="name">Kelvinator-Sesco</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN86" itemprop="url">
+                    <span itemprop="name">Safco</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN210" itemprop="url">
+                    <span itemprop="name">Andersen Company</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN595_CAT2004" itemprop="url">
+                    <span itemprop="name">Duck Brand</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN314_CAT537" itemprop="url">
+                    <span itemprop="name">Ken-A-Vision</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN109" itemprop="url">
+                    <span itemprop="name">Sandusky Lee</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN87" itemprop="url">
+                    <span itemprop="name">Angeles Corporation</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN362" itemprop="url">
+                    <span itemprop="name">Durable Office Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN514" itemprop="url">
+                    <span itemprop="name">Ken-A-Vision Document Cameras</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN327" itemprop="url">
+                    <span itemprop="name">SaniServ-Sesco</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN446" itemprop="url">
+                    <span itemprop="name">Athletic Connection</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN417_CAT1169" itemprop="url">
+                    <span itemprop="name">Dynalon</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN501_CAT729" itemprop="url">
+                    <span itemprop="name">Kensington</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN21" itemprop="url">
+                    <span itemprop="name">Scholar Craft</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN23" itemprop="url">
+                    <span itemprop="name">Atlantic Metal</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN355_CAT116" itemprop="url">
+                    <span itemprop="name">EarthWalk</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN104" itemprop="url">
+                    <span itemprop="name">KFI Seating</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN37" itemprop="url">
+                    <span itemprop="name">Screenflex</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN441" itemprop="url">
+                    <span itemprop="name">AVE SIX by Office Star Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN50" itemprop="url">
+                    <span itemprop="name">ECR4Kids</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN121" itemprop="url">
+                    <span itemprop="name">KI</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN401_CAT541" itemprop="url">
+                    <span itemprop="name">Sellstrom Manufacturing</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN304" itemprop="url">
+                    <span itemprop="name">AVTEQ</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN306" itemprop="url">
+                    <span itemprop="name">Edsal</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN383_CAT857" itemprop="url">
+                    <span itemprop="name">Kingsley</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN343" itemprop="url">
+                    <span itemprop="name">SentrySafe</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN41" itemprop="url">
+                    <span itemprop="name">Balt</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN571" itemprop="url">
+                    <span itemprop="name">Educational Insights</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN385_CAT16" itemprop="url">
+                    <span itemprop="name">Koss</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN118" itemprop="url">
+                    <span itemprop="name">Shain</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN500_CAT729" itemprop="url">
+                    <span itemprop="name">Belkin</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN584" itemprop="url">
+                    <span itemprop="name">Egghead</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN578" itemprop="url">
+                    <span itemprop="name">Learning Resources</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN372" itemprop="url">
+                    <span itemprop="name">Silver King-Sesco</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN71" itemprop="url">
+                    <span itemprop="name">Best-Rite Manufacturing</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN594" itemprop="url">
+                    <span itemprop="name">Elmer's Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN463" itemprop="url">
+                    <span itemprop="name">Lifetime Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN520_CAT1653" itemprop="url">
+                    <span itemprop="name">SinksNmore</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN96_CAT709" itemprop="url">
+                    <span itemprop="name">Bil-Jax</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN231" itemprop="url">
+                    <span itemprop="name">ELMO</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN319" itemprop="url">
+                    <span itemprop="name">Little Giant</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN403_CAT197" itemprop="url">
+                    <span itemprop="name">Skateboard Lockers</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN437" itemprop="url">
+                    <span itemprop="name">Bindertek</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN402" itemprop="url">
+                    <span itemprop="name">Epson</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN498" itemprop="url">
+                    <span itemprop="name">Logitech</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN22" itemprop="url">
+                    <span itemprop="name">Smith Carrel</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN645_CAT584" itemprop="url">
+                    <span itemprop="name">BioFit Engineered Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN392" itemprop="url">
+                    <span itemprop="name">Ergotron</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN249_CAT366" itemprop="url">
+                    <span itemprop="name">Lumens</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN42" itemprop="url">
+                    <span itemprop="name">Smith System</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN313" itemprop="url">
+                    <span itemprop="name">Bison Sports</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN312_CAT1909" itemprop="url">
+                    <span itemprop="name">ES Robbins</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN4" itemprop="url">
+                    <span itemprop="name">Luxor</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN232" itemprop="url">
+                    <span itemprop="name">Sound Projections</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN338" itemprop="url">
+                    <span itemprop="name">Body Solid</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN375_CAT527" itemprop="url">
+                    <span itemprop="name">Everlast Climbing Industries</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN155" itemprop="url">
+                    <span itemprop="name">Magna Visual Inc.</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN89" itemprop="url">
+                    <span itemprop="name">Southern Aluminum</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN465" itemprop="url">
+                    <span itemprop="name">Boss Office Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN28" itemprop="url">
+                    <span itemprop="name">Flagship Carpets</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN342_CAT1922" itemprop="url">
+                    <span itemprop="name">Magnuson Group</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN268" itemprop="url">
+                    <span itemprop="name">SportsPlay Equipment Inc</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN299" itemprop="url">
+                    <span itemprop="name">Brecknell</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN521" itemprop="url">
+                    <span itemprop="name">Flipside Products, Inc.</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN19" itemprop="url">
+                    <span itemprop="name">Mahar</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN512" itemprop="url">
+                    <span itemprop="name">Sprogs</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN2" itemprop="url">
+                    <span itemprop="name">Bretford</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN265" itemprop="url">
+                    <span itemprop="name">Foundations Worldwide</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN52" itemprop="url">
+                    <span itemprop="name">Marsh Industries</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN170" itemprop="url">
+                    <span itemprop="name">Stevens Industries</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN448_CAT610" itemprop="url">
+                    <span itemprop="name">Brookside Design</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN280_CAT728" itemprop="url">
+                    <span itemprop="name">Frontrow</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN641" itemprop="url">
+                    <span itemprop="name">Marvel</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN423" itemprop="url">
+                    <span itemprop="name">Studio Designs, Inc.</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN420" itemprop="url">
+                    <span itemprop="name">Buddy Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN94_CAT1919" itemprop="url">
+                    <span itemprop="name">GBC</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN636" itemprop="url">
+                    <span itemprop="name">Master Vision</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN432" itemprop="url">
+                    <span itemprop="name">Swift Optical Instruments</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN236" itemprop="url">
+                    <span itemprop="name">Buhl Industries</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN15" itemprop="url">
+                    <span itemprop="name">Georgia Chair</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN322" itemprop="url">
+                    <span itemprop="name">Mayline Group</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN293" itemprop="url">
+                    <span itemprop="name">Tecno Display</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN523_CAT612" itemprop="url">
+                    <span itemprop="name">Bulman Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN16" itemprop="url">
+                    <span itemprop="name">Ghent</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN573" itemprop="url">
+                    <span itemprop="name">Melissa &amp; Doug</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN630_CAT196" itemprop="url">
+                    <span itemprop="name">Tennsco Corp</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN246" itemprop="url">
+                    <span itemprop="name">Bush Industries</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN261" itemprop="url">
+                    <span itemprop="name">Global Industries</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN499_CAT729" itemprop="url">
+                    <span itemprop="name">Microsoft</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN399" itemprop="url">
+                    <span itemprop="name">Testrite Visual Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN9" itemprop="url">
+                    <span itemprop="name">Califone</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN333" itemprop="url">
+                    <span itemprop="name">Globe Food Equipment</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN5" itemprop="url">
+                    <span itemprop="name">Midwest Folding Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN36" itemprop="url">
+                    <span itemprop="name">The Miller Group - Multiplex Division</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN303" itemprop="url">
+                    <span itemprop="name">Cambro Manufacturing</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN367" itemprop="url">
+                    <span itemprop="name">Grindmaster-Cecilware</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN672_CAT584" itemprop="url">
+                    <span itemprop="name">Midwest Folding-Cafeteria</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN259_CAT279" itemprop="url">
+                    <span itemprop="name">Toddler Tables</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN400_CAT1917" itemprop="url">
+                    <span itemprop="name">Cassida Corporation</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN644_CAT709" itemprop="url">
+                    <span itemprop="name">GT Grandstands</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN285" itemprop="url">
+                    <span itemprop="name">Millennium Mat Company</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN488_CAT729" itemprop="url">
+                    <span itemprop="name">Toshiba</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN568" itemprop="url">
+                    <span itemprop="name">CDF by Scholar Craft</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN357_CAT541" itemprop="url">
+                    <span itemprop="name">Guardian Equipment</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN408_CAT21" itemprop="url">
+                    <span itemprop="name">MIPRO</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN74" itemprop="url">
+                    <span itemprop="name">Tot Mate</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN311" itemprop="url">
+                    <span itemprop="name">Celestron</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN88" itemprop="url">
+                    <span itemprop="name">Guidecraft</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN295_CAT1931" itemprop="url">
+                    <span itemprop="name">Mr. Chain</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN310" itemprop="url">
+                    <span itemprop="name">Turbo Air, Inc</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN628" itemprop="url">
+                    <span itemprop="name">Certwood Limited</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN325" itemprop="url">
+                    <span itemprop="name">H. Wilson</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN480_CAT537" itemprop="url">
+                    <span itemprop="name">National Optical</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN300" itemprop="url">
+                    <span itemprop="name">Ultra Play Systems</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN610" itemprop="url">
+                    <span itemprop="name">ChairPort Products, LLC</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN422" itemprop="url">
+                    <span itemprop="name">Hale Mfg</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN18" itemprop="url">
+                    <span itemprop="name">National Public Seating</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN187" itemprop="url">
+                    <span itemprop="name">United Visual Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN281" itemprop="url">
+                    <span itemprop="name">Champion Sports</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN237" itemprop="url">
+                    <span itemprop="name">Hallowell</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN456_CAT581" itemprop="url">
+                    <span itemprop="name">Nex-Terra</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN283" itemprop="url">
+                    <span itemprop="name">Valley Forge Flag</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN85" itemprop="url">
+                    <span itemprop="name">ChildBrite</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN40" itemprop="url">
+                    <span itemprop="name">Hamilton Electronics</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN442" itemprop="url">
+                    <span itemprop="name">Norwood Commercial Furniture</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN64" itemprop="url">
+                    <span itemprop="name">Virco</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN140" itemprop="url">
+                    <span itemprop="name">Children's Factory</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN274" itemprop="url">
+                    <span itemprop="name">Hann Manufacturing</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN212" itemprop="url">
+                    <span itemprop="name">Office Star Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN429_CAT21" itemprop="url">
+                    <span itemprop="name">VocoPro</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN296" itemprop="url">
+                    <span itemprop="name">Clarin by Hussey Seating</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN582" itemprop="url">
+                    <span itemprop="name">Hape International Inc.</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN235" itemprop="url">
+                    <span itemprop="name">OFM, Inc.</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN33" itemprop="url">
+                    <span itemprop="name">Waddell Display Cases</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN414_CAT1179" itemprop="url">
+                    <span itemprop="name">Clear Future Markerboards</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN352" itemprop="url">
+                    <span itemprop="name">Hausmann</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN315" itemprop="url">
+                    <span itemprop="name">Ohaus</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN659" itemprop="url">
+                    <span itemprop="name">Wenger Corporation</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN461" itemprop="url">
+                    <span itemprop="name">Commercial Zone</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN245" itemprop="url">
+                    <span itemprop="name">Hitachi Projectors</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN30" itemprop="url">
+                    <span itemprop="name">Oklahoma Sound</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN363" itemprop="url">
+                    <span itemprop="name">Wesco Industrial</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN84" itemprop="url">
+                    <span itemprop="name">Community</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN415_CAT732" itemprop="url">
+                    <span itemprop="name">Hitachi Starboards</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN382" itemprop="url">
+                    <span itemprop="name">Oxford Garden</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN224" itemprop="url">
+                    <span itemprop="name">Whitney Brothers</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN57" itemprop="url">
+                    <span itemprop="name">Copernicus Educational Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN572" itemprop="url">
+                    <span itemprop="name">Hygloss Products</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN284" itemprop="url">
+                    <span itemprop="name">Ozark River</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN324" itemprop="url">
+                    <span itemprop="name">Witt Industries</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN11" itemprop="url">
+                    <span itemprop="name">Correll</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN326_CAT700" itemprop="url">
+                    <span itemprop="name">Ice-O-Matic-Sesco</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN574" itemprop="url">
+                    <span itemprop="name">Pacon</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN493" itemprop="url">
+                    <span itemprop="name">Wood Designs</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN522_CAT87" itemprop="url">
+                    <span itemprop="name">Cortech</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN378_CAT713" itemprop="url">
+                    <span itemprop="name">Imperial-Sesco</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN60" itemprop="url">
+                    <span itemprop="name">Palmer Hamilton</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN481" itemprop="url">
+                    <span itemprop="name">Woodware Furniture</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN576" itemprop="url">
+                    <span itemprop="name">Crayola</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN407_CAT1930" itemprop="url">
+                    <span itemprop="name">Infinity Instruments Ltd.</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN341" itemprop="url">
+                    <span itemprop="name">Paragon Furniture</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN356" itemprop="url">
+                    <span itemprop="name">Young Time</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN335" itemprop="url">
+                    <span itemprop="name">Cres Cor</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN320" itemprop="url">
+                    <span itemprop="name">IntelliStage</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN466_CAT1386" itemprop="url">
+                    <span itemprop="name">Physicians Care</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN257_CAT1918" itemprop="url">
+                    <span itemprop="name">Zebra</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN82_CAT612" itemprop="url">
+                    <span itemprop="name">Dahle</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN358" itemprop="url">
+                    <span itemprop="name">Intensa, Inc.</span>
+                </a>
+            </li>
+            <li itemscope="" itemtype="http://schema.org/Brand">
+                <a href="/catalog/default/mPath/MAN162" itemprop="url">
+                    <span itemprop="name">Populas</span>
+                </a>
+            </li>
 
         </ul>
     </li>
@@ -433,24 +1234,45 @@ s.eVar19="40070895";
     <li><a href="/catalog/account.php" class="view_account_btn"></a></li>
         <li><a class="log_in_btn" href="/catalog/login.php"></a></li>
         <li><a class="register_btn" href="/catalog/create_account.php"></a></li>
-    <li><a href="/catalog/checkout_shipping.php" class="checkout_btn"></a></li>
+    <li><a href="/catalog/shopping_cart" class="checkout_btn" onclick="OmnitureTagging('TopMenuCheckout')"></a></li>
 </ul>
 
 <div id="minicart">
     
     <div class="minicart_graphic"></div>
-    <a href="/catalog/shopping_cart" class="minicart_amount" id="minicart_amount" style="font-family: Arial; font-size: 12px; " onclick="trackMiniCart('CartLink')"><img src="/Content/Images/loadingPopup.gif" alt="" title="" width="20px" height="20px"></a>
+    <a href="/catalog/shopping_cart" class="minicart_amount" id="minicart_amount" style="font-family: Arial; font-size: 12px; " onclick="OmnitureTagging('CartLink')"><img src="/Content/Images/loadingPopup.gif" alt="" title="" width="20px" height="20px"></a>
     <a href="#" class="minicart_btn"></a>
     <div class="minicart_dropdown">
         
     </div>
 </div>
 <div style="display: none" id="loadingContent">
-    <center><img src="/Content/Images/loadingPopup.gif" alt="" title=""></center>
-    <img alt="" src="/Content/Images/B_Site/minicart_dropdown_bottom.gif" style="position: absolute; left: -1px; bottom: -8px;">
+    <center><img src="/Content/Images/loadingPopup.gif" width="24px" height="24px" alt="" title=""></center>
+    <img alt="" src="/Content/Images/B_Site/minicart_dropdown_bottom.gif" width="210px" height="12px" style="position: absolute; left: -1px; bottom: -8px;">
 </div>
 <script type="text/javascript">
     $(document).ready(function () {
+        $(".brands_btn").click(function() {
+            if($(this).children(".brands_dropdown").css("display") == "block")
+            {
+                $(this).children(".brands_dropdown").css("display", "none");
+                $(this).css("background", "url(/Content/Images/ProductPageRedesign/sprite_top_menu.png) no-repeat -77px 0px");
+            }
+            else
+            {
+                $(this).children(".brands_dropdown").css("display", "block");
+                $(this).css("background", "url(/Content/Images/ProductPageRedesign/sprite_top_menu.png) no-repeat -77px -30px");
+            }
+        })
+        .mouseover(function() {
+            $(this).children(".brands_dropdown").css("display", "block");
+            $(this).css("background", "url(/Content/Images/ProductPageRedesign/sprite_top_menu.png) no-repeat -77px -30px");
+        })
+        .mouseout(function() {
+            $(this).children(".brands_dropdown").css("display", "none");
+            $(this).css("background", "url(/Content/Images/ProductPageRedesign/sprite_top_menu.png) no-repeat -77px 0px");
+        });
+
         $(".minicart_btn").click(function() {
 			if ($(".minicart_dropdown").css("display") === "block") {
 				$(".minicart_dropdown").css("display","none");
@@ -497,17 +1319,6 @@ s.eVar19="40070895";
     function showWaitingMiniCart($miniCart) {
         $miniCart.html($("#loadingContent").html());
         $miniCart.css("display", "block");    
-    }
-
-    function trackMiniCart(linkName) {
-        var s = s_gi('socom');
-        var savelinkTrackVars = s.linkTrackVars;
-        var savelinkTrackEvents = s.linkTrackEvents;
-        s.linkTrackVars = 'None';
-        s.linkTrackEvents = 'None';
-        s.tl(this, 'o', linkName);
-        s.linkTrackVars = savelinkTrackVars;
-        s.linkTrackEvents = savelinkTrackEvents;
     };
 </script>
 
@@ -554,132 +1365,124 @@ s.eVar19="40070895";
                 
                 <ul id="cat_nav">
                     <div id="cat">
-    <h1 style="margin: 0px">Categories</h1>
+    <span style="margin: 0px">Categories</span>
     <ul>
             <li>
-                <a style="color: #F4911E;" href="/catalog/default/cPath/CAT1340"><strong>On Sale School Furniture</strong></a>
+                <a onclick="sendInfoToOmniture('LeftNavOnSale');" style="color: #F4911E; font-size: 12px; padding: 6px 10px; " href="/catalog/default/cPath/CAT2039"><strong>On Sale</strong></a>
             </li>
             <li>
-                <a style="color: #F4911E;" href="/catalog/default/cPath/CAT1870"><strong>On Sale Preschool Furniture &amp; Equipment</strong></a>
+                <a onclick="sendInfoToOmniture('LeftNavShipsin24');" style="color: #F4911E; font-size: 12px; padding: 6px 10px; " href="/catalog/default/cPath/CAT1287"><strong>Ships in 24</strong></a>
             </li>
             <li>
-                <a style="color: #F4911E;" href="/catalog/default/cPath/CAT1885"><strong>On Sale Preschool Supplies</strong></a>
-            </li>
-            <li>
-                <a style="color: #F4911E;" href="/catalog/default/cPath/CAT1886"><strong>On Sale Teacher Resources</strong></a>
-            </li>
-            <li>
-                <a style="color: #F4911E;" href="/catalog/default/cPath/CAT1287"><strong>Ships in 24</strong></a>
-            </li>
-            <li>
-                <a style="color: #F4911E;" href="/catalog/default/cPath/CAT408"><strong>Clearance</strong></a>
+                <a onclick="sendInfoToOmniture('LeftNavClearance');" style="color: #F4911E; font-size: 12px; padding: 6px 10px; " href="/catalog/default/cPath/CAT408"><strong>Clearance</strong></a>
             </li>
 
                 <li>
-                    <a href="/catalog/default/cPath/CAT1">AV Equipment</a>
+                <a onclick="sendInfoToOmniture('LeftNavArt&amp;CraftSupplies');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT1995">Art &amp; Craft Supplies</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT385">Bulletin Boards &amp; Letter Boards</a>
+                <a onclick="sendInfoToOmniture('LeftNavAVEquipment');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT1">AV Equipment</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT583">Cafeteria &amp; Food Service</a>
+                <a onclick="sendInfoToOmniture('LeftNavBulletinBoards&amp;LetterBoards');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT385">Bulletin Boards &amp; Letter Boards</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT467">Carts</a>
+                <a onclick="sendInfoToOmniture('LeftNavCafeteria&amp;FoodService');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT583">Cafeteria &amp; Food Service</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT2">Chairs</a>
+                <a onclick="sendInfoToOmniture('LeftNavCarts');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT467">Carts</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT435">Classroom Rugs</a>
+                <a onclick="sendInfoToOmniture('LeftNavChairs');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT2">Chairs</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT726">Classroom Technology</a>
+                <a onclick="sendInfoToOmniture('LeftNavClassroomFurniture');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT2557">Classroom Furniture</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT11">Computer Furniture</a>
+                <a onclick="sendInfoToOmniture('LeftNavClassroomRugs');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT435">Classroom Rugs</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT202">Desks</a>
+                <a onclick="sendInfoToOmniture('LeftNavComputerFurniture');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT11">Computer Furniture</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT605">Drafting &amp; Art Furniture</a>
+                <a onclick="sendInfoToOmniture('LeftNavDesks');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT202">Desks</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT384">Dry Erase &amp; Chalkboards</a>
+                <a onclick="sendInfoToOmniture('LeftNavDrafting&amp;ArtFurniture');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT605">Drafting &amp; Art Furniture</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT1408">Easels</a>
+                <a onclick="sendInfoToOmniture('LeftNavDryErase&amp;Chalkboards');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT384">Dry Erase &amp; Chalkboards</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT860">Exercise &amp; Fitness Equipment</a>
+                <a onclick="sendInfoToOmniture('LeftNavEasels');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT1408">Easels</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT224">Facility Equipment</a>
+                <a onclick="sendInfoToOmniture('LeftNavEducationalTechnology');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT726">Educational Technology</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT494">Flags</a>
+                <a onclick="sendInfoToOmniture('LeftNavFacilityEquipment');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT1902">Facility Equipment</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT502">Gymnasium &amp; Sports Equipment</a>
+                <a onclick="sendInfoToOmniture('LeftNavGym&amp;SportsEquipment');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT2269">Gym &amp; Sports Equipment</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT617">Industrial &amp; Vocational Arts Furniture</a>
+                <a onclick="sendInfoToOmniture('LeftNavIndustrial&amp;VocationalArtsFurniture');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT617">Industrial &amp; Vocational Arts Furniture</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT6">Library Furniture</a>
+                <a onclick="sendInfoToOmniture('LeftNavLibraryFurniture');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT6">Library Furniture</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT195">Lockers</a>
+                <a onclick="sendInfoToOmniture('LeftNavLockers');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT195">Lockers</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT906">Medical Furniture &amp; Equipment</a>
+                <a onclick="sendInfoToOmniture('LeftNavMedicalFurniture&amp;Equipment');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT906">Medical Furniture &amp; Equipment</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT792">Music Furniture &amp; Equipment</a>
+                <a onclick="sendInfoToOmniture('LeftNavMusicFurniture&amp;Equipment');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT792">Music Furniture &amp; Equipment</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT424">Office Furniture</a>
+                <a onclick="sendInfoToOmniture('LeftNavOfficeFurniture');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT424">Office Furniture</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT563">Playground &amp; Park Equipment </a>
+                <a onclick="sendInfoToOmniture('LeftNavOutdoorFurniture&amp;ParkEquipment');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT2287">Outdoor Furniture &amp; Park Equipment </a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT8">Portable Stages &amp; Risers </a>
+                <a onclick="sendInfoToOmniture('LeftNavPlaygroundSets&amp;Equipment');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT563">Playground Sets &amp; Equipment</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT5">Preschool Furniture &amp; Equipment</a>
+                <a onclick="sendInfoToOmniture('LeftNavPortableStages&amp;Risers');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT8">Portable Stages &amp; Risers </a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT1680">Preschool Supplies</a>
+                <a onclick="sendInfoToOmniture('LeftNavPreschoolFurniture&amp;Equipment');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT5">Preschool Furniture &amp; Equipment</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT189">Room Dividers &amp; Partitions</a>
+                <a onclick="sendInfoToOmniture('LeftNavRoomDividers&amp;Partitions');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT189">Room Dividers &amp; Partitions</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT530">Science Furniture &amp; Lab Equipment</a>
+                <a onclick="sendInfoToOmniture('LeftNavScienceFurniture&amp;LabEquipment');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT530">Science Furniture &amp; Lab Equipment</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT9">Storage Cabinets &amp; Shelving</a>
+                <a onclick="sendInfoToOmniture('LeftNavStorageCabinets&amp;Shelving');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT9">Storage Cabinets &amp; Shelving</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT10">Tables</a>
+                <a onclick="sendInfoToOmniture('LeftNavTables');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT10">Tables</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT1681">Teacher Resources</a>
+                <a onclick="sendInfoToOmniture('LeftNavTeacherResources');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT1681">Teacher Resources</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT4">Trophy &amp; Display Cases</a>
+                <a onclick="sendInfoToOmniture('LeftNavTrophy&amp;DisplayCases');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT4">Trophy &amp; Display Cases</a>
                 </li>
                 <li>
-                    <a href="/catalog/default/cPath/CAT1639">Wheelchair &amp; ADA </a>
+                <a onclick="sendInfoToOmniture('LeftNavWheelchair&amp;ADA');" style=" font-size: 12px; padding: 6px 10px;" href="/catalog/default/cPath/CAT1639">Wheelchair &amp; ADA </a>
                 </li>
     </ul>
 </div>
+
                 </ul>
                 
     <div class="buying_guide" rel="/catalog/goodthingstoknow.html"><p style="font-size: 15px; margin: 0px;">Buying Guides</p></div>
-
+                
                 <!-- [13027] - Facebook Giveaway - Badge & Email-->
             </div>
         </td>
@@ -688,84 +1491,120 @@ s.eVar19="40070895";
         <td id="maincontentpaddingleft" valign="top" style="padding-bottom: 0px; padding-left: 6px;">
             <div id="MainContent">
                 
+
+<style>
+#privacy_content p {
+	font: 12px/18px Arial,Verdana,Helvetica,sans-serif;
+	color: #505050;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+#privacy_content h1 {    
+	font: bold 16px/24px Arial,Verdana,Helvetica,sans-serif;
+	color: #688341;
+	margin-top: 16px;
+	margin-bottom: 8px;
+}
+#privacy_content h2 {
+	font: bold 14px/18px Arial,Verdana,Helvetica,sans-serif;
+	color: #688341;
+	margin-top: 16px;
+	margin-bottom: 8px;
+}
+#privacy_content h3 {
+	font: bold 12px/16px Arial,Verdana,Helvetica,sans-serif;
+	color: #688341;
+	margin-top: 16px;
+	margin-bottom: 6px;
+}
+#privacy_content .top {
+	margin-top:5px;
+}
+#privacy_content a:link, #privacy_content a:visited {
+    color: #4F6F18;
+    outline: medium none;
+}
+#privacy_content ul {
+	margin-top: 8px;
+	margin-bottom: 8px;
+	font: 12px/18px Arial,Verdana,Helvetica,sans-serif;
+	color: #505050;
+}
+#privacy_content li {
+	font: 12px/18px Arial,Verdana,Helvetica,sans-serif;
+}
+#privacy_content ul.bullets li {
+	margin: 0 0 5px 40px;
+	line-height: normal;
+}
+</style>
+
 <!-- content-->
 <table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td width="30">&nbsp;</td>
-    <td style="padding-right:13px;">
-    <h1>Our Privacy Policy</h1>
-	<table cellpadding="0" cellspacing="0">
-	  <tbody><tr>
-	    <td style="vertical-align: bottom;line-height: 16px; padding-top: 3px; padding-right: 12px; text-align: justify"><p>School Outfitters is a leading retailer of school furniture and equipment, with our headquarters located at 3736 Regent Avenue, Cincinnati, OH 45212-3724. We want you to be comfortable shopping with us, so we go to great lengths to protect your privacy and ensure the security of the information you provide us. And we want you to understand and feel comfortable with the information we collect, how we keep it safe and the circumstances under which we might share it.</p></td>		
-	  </tr>
-	</tbody></table>
-	<p></p>
-	<h2>What information do we collect?</h2>
-	<p><strong>Information you provide</strong>- School Outfitters may collect and store any information you provide to our website or 
-       phone representatives. For example, we typically keep a record of the information you provide us when you create an account, place an order, 
-       email, call or fax us. This helps us process and track your orders for you. It also helps us provide you with a more personalized experience 
-       if you shop with us again. We keep track of such things as:
-	</p>
-	<ul class="bullets">
-	<li>Your name</li>
-	<li>Your shipping address</li>
-	<li>Your billing address</li>
-	<li>Your email address</li>
-	<li>Your phone number</li>
-	<li>Your credit card number</li></ul>
-	
-	<p>We might also collect and store any other information you choose to provide.</p>
-	<p><strong>You may change your information at any time</strong> by clicking the <a href="account.php">View Account</a> link at the top of our site, 
-       signing in and clicking "Edit Account." We'll also be happy to change this information for you or remove you from our records if you call 
-       Customer Service at 866-619-1776. Or write us at Customer Service, School Outfitters, 3736 Regent Avenue, Cincinnati, OH 45212-3724.
-	</p>
-	<p><strong>Automatically collected information</strong>- To help make shopping at School Outfitters easier, our site automatically collects data 
-       about how you use it (which pages you visit, how long you stay, what you buy, etc.). Like many other shopping sites, we gather this information using 
-       "cookies."
-	</p>
-	<p>A cookie is a small file that our web server sends to your PC when you visit our website. It is stored as a text file on your hard drive so we 
-       can access it when you visit us again. Cookies contain information that identifies you to our web site, so you don't have to reenter the information. 
-       This helps us personalize your shopping experience and gives you easy access to your online shopping account. To ensure your privacy, we only access 
-       cookies our server places on your PC. Some of our business partners (e.g., LivePerson) also employ cookies on our site. We do not have access to or 
-       control over these third-party cookies.
-	</p>
-	<p>Cookies allow us to optimize your School Outfitters shopping experience, so we suggest that you leave them turned on. 
-       However, if you are uncomfortable doing so, the "help" menu on your browser should tell you how to manage or disable 
-       cookies.
-	</p>
-	
-	<h2>Information Sharing</h2>
-	<ul class="bullets">
-	<li><p>We do not sell any customer information or share it with anyone who would use it to market to you. Of course, we do share your shipping information with our product suppliers and shipping companies to facilitate 
-        the delivery of your orders.</p></li>
-	<li>Our website also shares web use information with web analytics companies that provide support services to us and need the information to do so. We do not authorize these companies to use your information for any other purpose.</li></ul>	
-	
-    <h2>Permission to email</h2>
-    <p>From time to time we would like to send you our email newsletter featuring new products, specials and other 
-       information we think you might find useful. If you would like to receive these emails, select the "Subscribe" 
-       box when you create your account. You may subscribe or unsubscribe at any time by logging in and clicking 
-       "Edit Account."</p>
-    <h2>Security</h2>
-    <p>We use 128-bit Secure Sockets Layering (SSL) to encrypt your credit card information before it goes out over 
-       the Internet. SSL technology is the industry standard for secure online transactions. SSL makes ordering from the 
-       School Outfitters website as safe as shopping online with any other leading retailer or ordering by phone with your 
-       credit card. </p>
-	<h2>Changes to our policy</h2>
-	<p>We reserve the right to modify our privacy statement at any time, so please review it frequently. We will post 
-       any changes here, on our homepage and in other appropriate places so you'll always know what information we collect, 
-       how we use it, and under what circumstances we share it. If we make material changes to our policy, we will notify 
-       you here, by email or by means of a notice on our homepage.</p>
-	 <p>LAST UPDATED March 11, 2009</p>     
+    <td id="privacy_content" style="padding-right:13px;">
+    <h1 class="top">Our Privacy Policy</h1>
+	<p class="privacy_content">School Outfitters is a leading retailer of school furniture and equipment, with our headquarters located at 3736 Regent Avenue, Cincinnati, OH 45212-3724. We want you to be comfortable shopping with us, so we go to great lengths to protect your privacy and ensure the security of the information you provide us. And we want you to understand the information we collect, how we keep it safe and the circumstances under which we might share it.</p>
+
+	<h2>What Information Do We Collect?</h2>
+    <h3>Information You Provide</h3>
+    <p>School Outfitters may collect and store any information you provide to our website or phone representatives. For example, we typically keep a record of the information you provide us when you create an account, place an order, email, call or fax us. This helps us process and track your orders for you. It also helps us provide you with a more personalized experience if you shop with us again. We keep track of such things as:</p>
+    <ul class="bullets">
+        <li>Your name</li>
+        <li>Your shipping address</li>
+        <li>Your billing address</li>
+        <li>Your email address</li>
+        <li>Your phone number</li>
+        <li>Your credit card number</li>
+    </ul>
+    <p>We might also collect and store any other information you choose to provide.</p>
+    
+    <h3>Changing Your Informaton</h3>
+    <p>Click the <a href="/catalog/login.php?ReturnUrl=/catalog/account.php">View Account</a> link at the top of our site, sign in and click “Edit Account.” We'll also be happy to change this information for you or remove you from our records if you call customer service at <strong>1-866-619-1776</strong>. Or write us at:</p>
+    <p><strong>
+    Customer Service, School Outfitters<br>
+    3736 Regent Ave.<br>
+    Cincinnati, OH 45212-3724
+    </strong></p>
+    <h3>Automatically Collected Information</h3>
+    <p>To help make shopping at School Outfitters easier, our site automatically collects data about how you use it (which pages you visit, how long you stay, what you buy, etc.). Like many other shopping sites, we gather this information using “cookies.”</p>
+    <p>A cookie is a small file that our web server sends to your device (computer, tablet, mobile phone, etc.) when you visit our website. It is stored as a text file on your hard drive so we can access it when you visit us again. Cookies contain information that identifies you to our web site, so you don't have to reenter the information. This helps us personalize your shopping experience and gives you easy access to your online shopping account. To ensure your privacy, we only access cookies our server places on your device. Some of our business partners (e.g., LivePerson) also employ cookies on our site. We do not have access to or control over these third-party cookies.</p>
+
+    <p>Cookies allow us to optimize your School Outfitters shopping experience, so we suggest that you leave them turned on. However, you can disable cookies through your web browser.</p>
+
+    <h3>Information Sharing</h3>
+
+    <p>We do not sell any customer information or share it with anyone who would use it to market to you. Of course, we do share your shipping information with our product suppliers and shipping companies to facilitate the delivery of your orders.</p>
+
+    <p>Our website also shares web use information with web analytics companies that provide support services to us and need the information to do so. We do not authorize these companies to use your information for any other purpose.</p>
+
+    <h3>Permission To Email</h3>
+
+    <p>From time to time, we would like to send you emails that feature new products, specials and other information we think you might find useful. If you would like to receive these emails, select the “Subscribe” box when you create your account. You may subscribe or unsubscribe at any time by logging in and clicking “Edit Account.”</p>
+
+    <h3>Security</h3>
+
+    <p>We use 128-bit Secure Sockets Layering (SSL) to encrypt your credit card information before it goes out over the Internet. SSL technology is the industry standard for secure online transactions. SSL makes ordering from the School Outfitters website as safe as shopping online with any other leading retailer or ordering by phone with your credit card.</p>
+
+    <h3>Changes To Our Policy</h3>
+
+    <p>We reserve the right to modify our privacy statement at any time, so please review it frequently. We will post any changes here, on our homepage and in other appropriate places so you'll always know what information we collect, how we keep it safe and under what circumstances we share it. If we make material changes to our policy, we will notify you here, by email or by means of a notice on our homepage.</p>
+
+    <p><em>Last Updated July 16, 2014</em></p>
+   
     </td>
-     <td style="width:177px">&nbsp;</td>
+
+    <td style="width:177px">&nbsp;</td>
   </tr>
 </tbody></table>
 
 <!-- end content-->
 
+
                 <div style="height:14px; position: relative">
     <div id="footerPrint" class="imgPrint" style="z-index : 1000;top : 14px">
-        <img alt="" src="/Content/Images/B_Site/footer_bg_print.gif">
+        <img alt="" src="/Content/Images/B_Site/footer_bg_print.gif" width="971px" height="433px">
     </div>
 </div>
 <div style="clear: both; margin: 0 auto">
@@ -773,30 +1612,32 @@ s.eVar19="40070895";
         <a class="a_link_b" href="#">Back to top</a>
     </p>
 </div>
-<div id="footer">
+<div id="footer" itemscope="" itemtype="http://schema.org/Organization">
     <div id="footer_container">
-        <div class="footer_column">
+        <div class="footer_column" itemprop="department" itemscope="" itemtype="http://schema.org/Organization">
             <div class="label_sales_help"></div>
             <ul>
                 <li><strong>M-F: 8-8 Eastern</strong></li>
-                <li style="font-size: 20px;"><strong>1-800-260-2776</strong></li>
-                <li><strong>(Fax) 1-800-494-1036</strong></li>
-                <li><a class="a_link_b" href="https://server.iad.liveperson.net/hc/86350344/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.schooloutfitters.com/catalog/LiveChat_Offline.php&amp;site=86350344&amp;byhref=1&amp;SESSIONVAR!skill=Sales&amp;imageUrl=https://www.schooloutfitters.com/Content/Images" target="chat86350344" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/86350344/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.schooloutfitters.com/catalog/LiveChat_Offline.php&amp;site=86350344&amp;SESSIONVAR!skill=Sales&amp;imageUrl=https://www.schooloutfitters.com/Content/Images&amp;referrer='+escape(document.location);lpButtonCTTUrl = (typeof(lpAppendVisitorCookies)!='undefined'?lpAppendVisitorCookies(lpButtonCTTUrl):lpButtonCTTUrl);lpButtonCTTUrl=((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat86350344','width=472,height=320,resizable=yes');lpCheckFindRepstate();return false;">Chat Live</a></li>
-                <li><a class="a_link_b" onclick="var s=s_gi('socom');s.tl(this,'o','footerEmailSales');" href="mailto:sales@schooloutfitters.com">Email Sales</a></li>
+                <li style="font-size: 20px;"><strong><span itemprop="telephone">1-800-260-2776</span></strong></li>
+                <li><strong>(Fax) <span itemprop="faxNumber">1-800-494-1036</span></strong></li>
+                <li><a class="a_link_b" href="https://server.iad.liveperson.net/hc/86350344/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.schooloutfitters.com/catalog/LiveChat_Offline.php&amp;site=86350344&amp;byhref=1&amp;SESSIONVAR!skill=Sales&amp;imageUrl=https://www.schooloutfitters.com/Content/Images" rel="nofollow" target="chat86350344" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/86350344/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.schooloutfitters.com/catalog/LiveChat_Offline.php&amp;site=86350344&amp;SESSIONVAR!skill=Sales&amp;imageUrl=https://www.schooloutfitters.com/Content/Images&amp;referrer='+escape(document.location);lpButtonCTTUrl = (typeof(lpAppendVisitorCookies)!='undefined'?lpAppendVisitorCookies(lpButtonCTTUrl):lpButtonCTTUrl);lpButtonCTTUrl=((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat86350344','width=472,height=320,resizable=yes');TrackPageNameLiveChat(lpCheckFindRepstate('footer'));return false;">Chat Live</a></li>
+                <li><a class="a_link_b" onclick="sendInfoToOmniture('footerEmailSales');" href="mailto:sales@schooloutfitters.com">Email <span itemprop="name">Sales</span></a></li>
+                <meta itemprop="email" content="sales@schooloutfitters.com">
                 <li><p><br>Call sales help <br>for leasing options.</p></li>
             </ul>
         </div>
-        <div class="footer_column">
+        <div class="footer_column" itemprop="department" itemscope="" itemtype="http://schema.org/Organization">
             <div class="label_customer_care"></div>
             <ul>
                 <li><strong>M-F: 8-8 Eastern</strong></li>
-                <li style="font-size: 20px;"><strong>1-866-619-1776</strong></li>
-                <li><a class="a_link_b" onclick="var s=s_gi('socom');s.tl(this,'o','footerEmailCustomerService');" href="mailto:customerservice@schooloutfitters.com">Email Customer Service</a></li>
+                <li style="font-size: 20px;"><strong><span itemprop="telephone">1-866-619-1776</span></strong></li>
+                <li><a class="a_link_b" onclick="sendInfoToOmniture('footerEmailCustomerService');" href="mailto:customerservice@schooloutfitters.com">Email <span itemprop="name">Customer Service</span></a></li>
+                <meta itemprop="email" content="customerservice@schooloutfitters.com">
                 <li><a class="a_link_b" href="/catalog/account.php">My Account</a></li>
                 <li><a class="a_link_b" href="/catalog/order_status.php">Track Order</a></li>
                 <li><a class="a_link_b" href="/catalog/account_history.php">Order History</a></li>
                 <li><a class="a_link_b" href="/catalog/returns.php">Returns</a></li>
-                <li><a class="a_link_b" onclick="var s=s_gi('socom');s.tl(this,'o','footerReportAProblem');" href="mailto:helpdesk@schooloutfitters.com">Report a Problem</a></li>
+                <li><a class="a_link_b" onclick="sendInfoToOmniture('footerReportAProblem');" href="mailto:helpdesk@schooloutfitters.com">Report a Problem</a></li>
             </ul>
         </div>
         <div class="footer_column">
@@ -812,56 +1653,61 @@ s.eVar19="40070895";
         <div class="footer_column" style="width: 183px; border-right: none;">
             <div class="label_company_info"></div>
             <ul class="address">
-                <li>School Outfitters</li>
-                <li>3736 Regent Ave.</li>
-                <li>Cincinnati, OH, U.S.A.</li>
-                <li>45212-3724</li>
+                <li itemprop="name">School Outfitters</li>
+                <meta itemprop="sameAs" content="https://www.freebase.com/m/0127my7h">
+                <meta itemprop="logo" content="https://www.schooloutfitters.com/Content/Images/SO_googkg_logo.png">
+                <meta itemprop="url" content="https://www.schooloutfitters.com">
+                <span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                <li itemprop="streetAddress">3736 Regent Ave.</li>
+                <li><span itemprop="addressLocality">Cincinnati</span>, <span itemprop="addressRegion"> OH</span>, <span itemprop="addressCountry">U.S.A.</span></li>
+                <li itemprop="postalCode">45212-3724</li></span>
             </ul>
             <ul>
                 <li><a class="a_link_b" href="/catalog/aboutus.php">About Us</a></li>
                 <li><a class="a_link_b" href="/catalog/privacy.php">Privacy Policy</a></li>
-                <li><a class="a_link_b" onclick="var s=s_gi('socom');s.tl(this,'o','FooterCareers');" href="http://blog.schooloutfitters.com/careers/" target="_blank">Careers</a></li>
-                <li><a class="a_link_b" onclick="var s=s_gi('socom');s.tl(this,'o','footerCompanyInfoBlog');" href="http://blog.schooloutfitters.com/" target="_blank">Blog</a></li>
+                <li><a class="a_link_b" onclick="sendInfoToOmniture('FooterCareers');" href="http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8acf1691467adae2014687993d761179" target="_blank" rel="nofollow">Careers</a></li>
+                <li><a class="a_link_b" onclick="sendInfoToOmniture('footerCompanyInfoBlog');" href="http://blog.schooloutfitters.com/" target="_blank" rel="nofollow">Blog</a></li>
+                <li><a class="a_link_b" target="_blank" href="https://www.youtube.com/embed/50E4ihG0z0A" rel="nofollow">Watch Our Video</a></li>
             </ul>
         </div>
         <div id="footer_misc">
             <div class="footer_misc_column" style="width: 33.33%">
                 <p style="font-size: 11px;">Join the Conversation</p>
                 <div class="social_media">
-                    <a onclick="var s=s_gi('socom');s.tl(this,'o','footerFacebookButton');" rel="http://www.facebook.com/SchoolOutfitters" href="http://www.facebook.com/SchoolOutfitters" rev="externalLink" target="_blank"><img title="School Outfitters Facebook" alt="School Outfitters Facebook" src="/Content/Images/ProductPageRedesign/sm_facebook.png"></a>
-                    <a onclick="var s=s_gi('socom'); s.tl(this,'o','footerTwitterButton');" rel="http://twitter.com/SchoolOutfitter" href="http://twitter.com/SchoolOutfitter" rev="externalLink" target="_blank"><img title="School Outfitters Twitter" alt="School Outfitters Twitter" src="/Content/Images/ProductPageRedesign/sm_twitter.png"></a>
-                    <a onclick="var s=s_gi('socom');s.tl(this,'o','footerPinterestButton');" rel="http://pinterest.com/schooloutfitter" href="http://pinterest.com/schooloutfitter" rev="externalLink" target="_blank"><img title="School Outfitters Pinterest" alt="School Outfitters Pinterest" src="/Content/Images/ProductPageRedesign/sm_pinterest.png"></a>
-                    <a onclick="var s=s_gi('socom');s.tl(this,'o','footerSocialMediaBlog');" rel="http://blog.schooloutfitters.com" href="http://blog.schooloutfitters.com" rev="externalLink" target="_blank"><img title="School Outfitters Blog" alt="School Outfitters Blog" src="/Content/Images/ProductPageRedesign/sm_blog.png"></a>
-                    <a onclick="var s=s_gi('socom');s.tl(this,'o','footerGooglePlusButton');" rel="https://plus.google.com/105522603133623784158/posts" href="https://plus.google.com/105522603133623784158/posts" rev="externalLink" target="_blank"><img title="School Outfitters Google+" alt="School Outfitters Google+" src="/Content/Images/ProductPageRedesign/sm_googleplus.png"></a>
+                    <a onclick="return sendInfoToOmniture('footerFacebookButton');" itemprop="sameAs" href="http://www.facebook.com/SchoolOutfitters" rev="external" target="_blank" rel="http://www.facebook.com/SchoolOutfitters nofollow"> <img title="School Outfitters Facebook" alt="School Outfitters Facebook" src="/Content/Images/ProductPageRedesign/sm_facebook.png" width="32px" height="32px"></a>
+                    <a onclick="return sendInfoToOmniture('footerTwitterButton');" itemprop="sameAs" href="http://twitter.com/SchoolOutfitter" rev="external" target="_blank" rel="http://twitter.com/SchoolOutfitter nofollow"> <img title="School Outfitters Twitter" alt="School Outfitters Twitter" src="/Content/Images/ProductPageRedesign/sm_twitter.png" width="32px" height="32px"></a>
+                    <a onclick="return sendInfoToOmniture('footerPinterestButton');" itemprop="sameAs" href="http://pinterest.com/schooloutfitter" rev="external" target="_blank" rel="http://pinterest.com/schooloutfitter nofollow"> <img title="School Outfitters Pinterest" alt="School Outfitters Pinterest" src="/Content/Images/ProductPageRedesign/sm_pinterest.png" width="32px" height="32px"></a>
+                    <a onclick="return sendInfoToOmniture('footerSocialMediaBlog');" itemprop="sameAs" href="http://blog.schooloutfitters.com" rev="external" target="_blank" rel="http://blog.schooloutfitters.com nofollow"> <img title="School Outfitters Blog" alt="School Outfitters Blog" src="/Content/Images/ProductPageRedesign/sm_blog.png" width="32px" height="32px"></a>
+                    <a onclick="return sendInfoToOmniture('footerGooglePlusButton');" itemprop="sameAs" href="https://plus.google.com/105522603133623784158/posts" rev="external" target="_blank" rel="https://plus.google.com/105522603133623784158/posts nofollow"><img title="School Outfitters Google+" alt="School Outfitters Google+" src="/Content/Images/ProductPageRedesign/sm_googleplus.png" width="32px" height="32px"></a>
                 </div>
             </div>
             <div class="footer_misc_column" style="width: 33.33%">
                 <p style="font-size: 11px;"><a class="a_link_b" href="javascript:newwindow('/catalog/privacy_popup.php','privacy',330,400)">Shop with confidence at School Outfitters</a></p>
                 <div class="trust">
-                    <a href="javascript:newwindow('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.SCHOOLOUTFITTERS.COM&amp;lang=en','verisign',540,480)">
-                        <img src="/Content/Images/ProductPageRedesign/trust_norton.png" alt="Norton Secured" title="Norton Secured">
+                    <a href="javascript:newwindow('https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.schooloutfitters.com&amp;lang=en','verisign',540,480)" rel="nofollow">
+                        <img src="/Content/Images/ProductPageRedesign/trust_norton.png" width="100px" height="55px" alt="Norton Secured" title="Norton Secured">
                     </a>
-                    <a href="http://www.bbb.org/cincinnati/business-reviews/school-furniture-and-equipment/schooloutfitters-com-in-cincinnati-oh-11004218/">
-                        <img src="/Content/Images/ProductPageRedesign/trust_bbb.png" alt="Better Business Bureau Accredited Business" title="Better Business Bureau Accredited Business">
+                    <a href="http://www.bbb.org/cincinnati/business-reviews/school-furniture-and-equipment/schooloutfitters-com-in-cincinnati-oh-11004218/" rel="nofollow">
+                        <img src="/Content/Images/ProductPageRedesign/trust_bbb.png" width="85px" height="55px" alt="Better Business Bureau Accredited Business" title="Better Business Bureau Accredited Business">
                     </a>
                 </div>
             </div>
             <div class="footer_misc_column" style="width: 33.33%">
                 <p style="font-size: 11px;">We accept the following payment types:</p>
                 <div class="credit_card">
-                    <img title="Visa" alt="Visa" src="/Content/Images/ProductPageRedesign/cc_visa_48.png">
-                    <img title="MasterCard" alt="MasterCard" src="/Content/Images/ProductPageRedesign/cc_mastercard_48.png">
-                    <img title="American Express" alt="American Express" src="/Content/Images/ProductPageRedesign/cc_american_express_48.png">
-                    <img title="Discover" alt="Discover" src="/Content/Images/ProductPageRedesign/cc_discover_48.png">
-                    <img title="Check" alt="Check" style="margin-left: 48px" src="/Content/Images/ProductPageRedesign/cc_check_48.png">
-                    <a href="/catalog/help.php#PurchaseOrders"><img title="Purchase Order" alt="Purchase Order" src="/Content/Images/ProductPageRedesign/cc_po_48.png"></a>
+                    <img title="Visa" alt="Visa" src="/Content/Images/ProductPageRedesign/cc_visa_48.png" width="48px" height="48px">
+                    <img title="MasterCard" alt="MasterCard" src="/Content/Images/ProductPageRedesign/cc_mastercard_48.png" width="48px" height="48px">
+                    <img title="American Express" alt="American Express" src="/Content/Images/ProductPageRedesign/cc_american_express_48.png" width="48px" height="48px">
+                    <img title="Discover" alt="Discover" src="/Content/Images/ProductPageRedesign/cc_discover_48.png" width="48px" height="48px">
+                    <img title="Check" alt="Check" style="margin-left: 48px" src="/Content/Images/ProductPageRedesign/cc_check_48.png" width="48px" height="48px">
+                    <a href="/catalog/help.php#PurchaseOrders"><img title="Purchase Order" alt="Purchase Order" src="/Content/Images/ProductPageRedesign/cc_po_48.png" width="48px" height="48px"></a>
                 </div>
             </div>
         </div>
     </div>
 </div>
 <div style="width: 780px; margin: 0px auto; padding-top: 10px;">
-    <p style="font-size: 11px; text-align: center; margin: 0px; line-height: 18px;"><br>©School Outfitters, 2013<br><br></p>
+    <p style="font-size: 11px; text-align: center; margin: 0px; line-height: 18px;"><br>©School Outfitters, 2015<br><br></p>
 </div>
 
 <script type="text/javascript">
@@ -899,12 +1745,26 @@ s.eVar19="40070895";
     <div id="tipDiv" style="position: absolute; z-index: 1000; display: none"> </div>
     <div id="tipDivPromo" style="position: absolute; z-index: 1000; display: none">
     </div>
-<script src="/RequestReduceContent/9b22de47fef150315c4ae4f2c2d95f69-a11801e8679c2e9522e601f4c8a14401-RequestReducedScript.js" type="text/javascript"></script>        
+<script src="/RequestReduceContent/4291b689bf9ba5c3d2534e2d329ed9ab-0a73f7fb58176056fbdf9cd4ff97dd5b-RequestReducedScript.js" type="text/javascript"></script>        
         
             
 
 
         <script type="text/javascript">
+        $("#LP_DIV_1366665338627").click(function() {
+            var lpFindRepstateImage = lpCheckFindRepstate();
+            if (lpFindRepstateImage.toLowerCase() == "online") {
+                trackLiveChatPopup("Live Chat (Online)");
+            } else {
+                if (lpFindRepstateImage.toLowerCase() == "offline") {
+                    trackLiveChatPopup("Live Chat (Offline)");
+                } else {
+                    trackLiveChatPopup("Live Chat (Thank you)");
+                }
+            }
+            return false;
+        });
+        
         $(document).ready(function () {
             $("#popupContactClose").click(function () {
                 $("#popupContact").hide();
@@ -960,27 +1820,63 @@ s.eVar19="40070895";
 
 
         });
-        /*  Deadlock exception from the table TrackingRequest on the SO	website : Remove this function
-        // Track request
         
-        */
         $(document).ready(function () {
-            // Tracking last url, last time click of visitor
-            $.ajax
-	        (
-		        {
-		            type: "POST",
-		            url: '/Home/TrackingVisitor',
-		            data: "currentUrl=http://www.schooloutfitters.com:81/catalog/privacy.php",
-		            dataType: "json"
-		        }
-	        );
+            trackingVisitor('/Home/aSyncJobs','currentUrl=http://www.schooloutfitters.com:81/catalog/privacy.php');
         });    
+
+        function TrackPageNameLiveChat(lpFindRepstateImage)
+        {            
+             if(lpFindRepstateImage != "offline")        
+             {
+                if(lpFindRepstateImage.toLowerCase() == "online")
+                {   
+                    trackLiveChatPopup("Live Chat (Online)");
+                }
+                else {
+                    trackLiveChatPopup("Live Chat (Thank you)");
+                }
+            }
+        }
+        
+        function trackLiveChatPopup(livechatPopup) {
+            
+                    
+/* Traffic variables */
+s.prop1="999999";
+s.prop3="https://www.schooloutfitters.com/catalog/index";
+s.prop18="/catalog/privacy.php";
+/* Commerce variables */
+s.eVar20="1150324B510148";
+s.eVar15="B";
+s.eVar19="106851088";
+                    s.events = getEventsValue(s.events);
+                    ;
+            s.pageName = livechatPopup;
+            s.prop1 = livechatPopup;
+            submitOmnitureTaggings();
+        }
     </script>
     
     
     
     
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1072702479;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072702479/?value=0&amp;label=iQKxCNGQ5AQQj8jA_wM&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+
 
 
 
