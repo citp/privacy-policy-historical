@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datafox.co privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021234427id_/http%3A//www.datafox.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafox.co privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325143826id_/http%3A//www.datafox.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DataFox
 
@@ -29,3 +29,35 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 Cookies are required to use the DataFox service.
 
 We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your DataFox account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+
+#### Data Storage
+
+* * *
+
+DataFox uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run DataFox. Although DataFox owns the code, databases, and all rights to the DataFox application, you retain all rights to your data.
+
+You understand that DataFox uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
+
+#### Disclosure
+
+* * *
+
+DataFox may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the DataFox [Terms of Service](http://datafox.co/terms-of-service/ "Terms of Service").
+
+#### Changes
+
+* * *
+
+DataFox may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your DataFox account or by placing a prominent notice on our site.
+
+#### Links to Other Sites
+
+* * *
+
+Our web site may contain links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from our web site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
+
+#### Questions
+
+* * *
+
+Any questions about this Privacy Policy should be addressed to [info@datafox.co](mailto:info@datafox.co)
