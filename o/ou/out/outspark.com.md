@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outspark.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107183503id_/https%3A//en.gamigo.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outspark.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325075018id_/https%3A//en.gamigo.com/pages/privacy) for the most accurate reproduction.*
 
 # Data security declaration | gamigo
 
