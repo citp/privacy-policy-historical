@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prana.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820011351id_/http%3A//www.prana.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prana.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326002715id_/http%3A//www.prana.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | prAna
 
