@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dpublisher.net privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421083029id_/http%3A//3dpublisher.net/3DContentCentral/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dpublisher.net privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325215817id_/http%3A//3dpublisher.net/3DContentCentral/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # 3D ContentCentral - Privacy Statement
 
