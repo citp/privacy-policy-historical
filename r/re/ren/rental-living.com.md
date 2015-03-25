@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rental-living.com privacy policy that was archived on 2014-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140725233024id_/http%3A//www.rental-living.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rental-living.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325210143id_/https%3A//www.rental-living.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rental-Living
 
