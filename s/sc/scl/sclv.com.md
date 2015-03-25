@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sclv.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210094827id_/https%3A//www.sclv.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sclv.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325134305id_/https%3A//www.sclv.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Station Casinos - Las Vegas
 
@@ -70,16 +70,31 @@ If you prefer that Station Casinos does not share personal information we collec
 
 * * *
 
-## Mobile Terms of Use/Conditions
+### Mobile & SMS Terms of Use/Conditions
 
-**Service Description**  
-Station Casinos is offering a SMS text alert program. You will receive a confirmation text to confirm your participation in this program. Once enrolled you will receive up to 10 text message per month with product specials and coming event promotions.
+**Service Description  
+**This SMS Terms and Conditions page describes our mobile program and available codes. Station Casinos is offering a SMS text alert program. You will receive a confirmation text to confirm your participation in this program. Once enrolled you will receive up to 10 text message per month with product specials and upcoming event promotions.
 
-**Opt-in**  
-You may opt-in to this program by sending 'rrc' to 56242.
+#### Station Casinos Promo Alert Reminders
 
-**Opt-out**  
-You may opt-out to this program at any time by sending STOP to 56242. We will send you a text message confirming that you are no longer enrolled in the program and we will not send you any more text messages.
+**Opt-in  
+**Text JOIN to 72777/34763 or RRC to 56242 to join the Station Casinos Promo Alert. 10 msgs/mo. Messages may be delayed or undelivered, carriers are not to be held liable for delayed or undelivered messages. You may opt-in to this program by sending 'rrc' to 56242.
 
-**Supported Carriers**  
-Not all carriers support the Station Casinos SMS promotion program. These carriers do support the program, Alltel, AT&T Mobility, Boost Mobile, NTELOS, Sprint PCS, T-Mobile, U.S. Cellular, Verizon Wireless, Virgin Mobile USA.
+Msg&Data Rates May Apply
+
+Texts may be sent using an automatic telephone dialing system. Consent to receive marketing text messages is not required as a condition of purchasing any goods or services.
+
+**Opt-out/Stop Information  
+**You may opt-out to these individual programs at any time by sending **STOP** to 72777/56242/34763 respectively. We will send you a text message confirming that you are no longer enrolled in the program and we will not send you any more text messages.
+
+To get help you may **CALL** our toll free number at 1-844-976-2646. From your mobile phone you can request our contact information at any time by texting **HELP** to 72777/56242/34763.
+
+**Supported Carriers  
+**Not all carriers support the Station Casinos SMS promotion program. Compatible carriers include: AT&T, Sprint, T-Mobile®, Verizon Wireless, Boost, Cricket, MetroPCS, U.S. Cellular, Virgin Mobile, ACS Wireless, Appalachian Wireless, Bluegrass Cellular, Breakaway Wireless, Cabelvision (Optimum Mobile), Carolina West Wireless, Cellcom, Cellular One of East Central Illinois, Centennial Wireless, Chariton Valley Cellular, Chat Mobility (Hawkeye), Cincinnati Bell Wireless, Coral Wireless, Cox Mobility, Cross/ Sprocket, C-Spire Wireless (formerly Cellsouth), CTC Telecom, DTC Wireless (Advantage Cellular), Duet IP (AKA Max/Benton/Albany), Element Mobile, Epic Touch, GCI Communications, Golden State, Illinois Valley Cellular, Immix (Keystone Wireless/ PC Management), Inland Cellular, iWireless, Leaco, Mobi PCS, Mosaic, MTPCS/ Cellular One (Cellone Nation), Nemont, Nex-Tech Wireless, nTelos, NW Missouri Cellular (Hawkeye), Panhandle Telecommunications, Peoples Wireless, Pioneer, Pine Cellular, Plateau, Revol, Rina - Custer, Rina - All West, Rina - Cambridge Telecom Coop, Rina - Eagle Valley Comm, Rina - Farmers Mutual Telephone Co, Rina - Nucla Nutria Telephone Co, Rina - Silver Star, Rina - Syringa, Rina - UBET, Rina - Manti, Rural Cellular Corporation, SI Wireless, Simmetry, SouthernLINC, SRT, Strata Networks, Thumb Cellular, Union Wireless, United, Viaero Wireless, West Central Wireless.
+
+**NOTICE REGARDING POTENTIAL EXTRA CHARGES BY YOUR WIRELESS CARRIER; PROMOTIONAL TEXT MESSAGING CAMPAIGNS  
+**Using Sports Connection Mobile may allow you to receive content on your mobile phone or other wireless device. The manner in which that content is delivered to your phone or device may cause you to incur extra data, text messaging, or other charges from your wireless carrier **_MESSAGE AND DATA RATES MAY APPLY. You, not Station Casinos, will be solely responsible for any carrier charges associated with Sports Connection Services_**. Please contact your carrier or Station Casinos if you have questions about how Sports Connection Mobile might impact your wireless usage fees. In addition, when you download Sports Connection’s mobile wagering app to your mobile phone or other wireless device, your phone or device may send to a vendor of Station Casinos– for verification purposes only – one SMS message that includes your phone number.
+
+Station Casinos will send an SMS text alert to each registered device as part of the device registration process. This SMS text alert must be accepted and responded to on the device that is registering in order to authorize that device for wagering. Failure to accept or respond to this SMS text alert will cause the registration process to fail and make your device ineligible for participation in Sports Connection Mobile.
+
+Station Casinos may also run promotional text messaging campaigns, which may include your phone number into a long-term marketing campaign. Station will send you a text message to provide you with details of the promotion and the specific location at one of the Station Casinos properties where you would be able to sign-up for the promotion.  You may also be able to sign-up for the promotion online. Standard text messaging rates will apply. Text **STOP** to 72777/56242/34763 to opt out. Text **HELP** for more information/help.
