@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705081111id_/https%3A//www.machinetools.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325051221id_/https%3A//www.machinetools.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy - MachineTools.com
 
