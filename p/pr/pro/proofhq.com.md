@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proofhq.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126125450id_/http%3A//www.proofhq.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proofhq.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325060019id_/http%3A//www.proofhq.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ProofHQ
 
