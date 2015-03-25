@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stance.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908022005id_/http%3A//www.stance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stance.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325090449id_/http%3A//www.stance.com/privacy-policy) for the most accurate reproduction.*
 
-# The Uncommon Thread - Stance Socks
+# Stance Socks® - The Uncommon Thread | Stance.com
 
 Stance Privacy Policy
 
