@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920210206id_/http%3A//www.recon.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325203038id_/https%3A//www.recon.com/en/Legal/Privacy) for the most accurate reproduction.*
 
-# Recon - Photo profiles for gay men
+# 
 
-**We have created this policy to demonstrate our respect for your privacy. Please read it carefully before using this website as it concerns use of your personal information.**
+We have created this policy to demonstrate our respect for your privacy. Please read it carefully before using this website as it concerns use of your personal information.
 
 **Interpretation**  
 Headings do not form part of this policy and will not affect their interpretation. 
@@ -31,7 +31,7 @@ The personal information we collect may be used for the following purposes:
 
 
 
-We may need to share your information with our service providers and agents for these purposes. 
+We may need to share your information with our service providers and agents for these purposes.
 
 **Your personal data - IMPORTANT**  
 We advise you not to post information that can identify you (directly or indirectly) in your profile. You need to be aware that if you choose to do so, it means that you are choosing to place your personal data in a worldwide environment where some jurisdictions do not have adequate laws to protect your data by European standards. 
