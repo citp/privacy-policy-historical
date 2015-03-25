@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmyforex.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709153720id_/https%3A//www.bookmyforex.com/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmyforex.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325131724id_/https%3A//www.bookmyforex.com/privacy-policy.do) for the most accurate reproduction.*
 
 # BookMyForex - Privacy Policy
 
@@ -62,4 +62,4 @@ This Site is not intended for minors. We will not knowingly collect information 
 
 ## Comments and Grievances
 
-We have taken great measures to ensure that your visit to our Site is a satisfying one and that your privacy  is constantly respected. If you have any questions, comments or concerns about our privacy practices,   please contact our grievance officer by e-mail at info@bookmyforex.com or telephone at 124 - 4114072 
+We have taken great measures to ensure that your visit to our Site is a satisfying one and that your privacy  is constantly respected. If you have any questions, comments or concerns about our privacy practices,   please contact our grievance officer by e-mail at info@bookmyforex.com or telephone at 09212219191 
