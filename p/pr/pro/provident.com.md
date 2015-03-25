@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the provident.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704095605id_/https%3A//www.provident.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provident.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325172930id_/https%3A//www.provident.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Provident Funding
 
 **_Here at Provident Funding, our continued focus on loan quality and customer service is never separate from our commitment to protect the privacy and security of those who visit us at www.provident.com. For this reason we have put together the following policy to explain just how we protect and use the information collected by us, or provided by you, through our website._**
 
-Provident Funding Associates, L.P., also doing business as Provident Funding Group, Inc., Provident Home Loans, and Provident Funding Loans, Inc. (collectively "Provident Funding"). 
+Provident Funding Associates, L.P. 
 
 You may visit and use certain features of our site without providing personal information necessary to register with us. Our Rate Calculator, Amortization Charts, and general information about us or our programs/offers fall under this category.
 
@@ -56,6 +56,6 @@ You consent to the collection and use of information by Provident Funding, as se
 
 Contact Us
 
-Provident Funding welcomes your questions, comments and concerns about our privacy practices. [Click here](https://web.archive.org/web/20140704095605id_/https%3A//www.provident.com/ContactUs.aspx?wsmenu=1) to contact our customer service representatives. 
+Provident Funding welcomes your questions, comments and concerns about our privacy practices. [Click here](https://web.archive.org/web/20150325172930id_/https%3A//www.provident.com/ContactUs.aspx?wsmenu=1) to contact our customer service representatives. 
 
-**Effective Date:** This policy was last revised on 06/11/2014 and takes effect immediately and is in effect until further revised. 
+**Effective Date:** This policy was last revised on 10/1/2014 and takes effect immediately and is in effect until further revised. 
