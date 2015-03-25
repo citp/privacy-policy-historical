@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equitymaster.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033137id_/http%3A//www.equitymaster.com/help/privacy.html%3Futm_source%3Dhomepage%26utm_medium%3Dwebsite%26utm_campaign%3Dnewsletters%26utm_content%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equitymaster.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325071035id_/https%3A//www.equitymaster.com/help/privacy.html%3Futm_source%3Dhomepage%26utm_medium%3Dwebsite%26utm_campaign%3Dnewsletters%26utm_content%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Equitymaster.com : Privacy Policy
 
