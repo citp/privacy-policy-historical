@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxy-service.de privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728093126id_/http%3A//www.proxy-service.de/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxy-service.de privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326005418id_/http%3A//www.proxy-service.de/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,11 +16,11 @@ The service we provide may attempt to forward third-party cookies from the websi
 
 We reserve the right to review and change this Policy for this Site and/or any other rules and policies relating to the Site at any time and to provide notification solely by posting an updated version on the Site.
 
-  * [Proxy Service](https://web.archive.org/web/20140728093126id_/http%3A//www.proxy-service.de/) \- 
-  * [Proxy Browser Agent](https://web.archive.org/web/20140728093126id_/http%3A//www.proxy-service.de/edit-browser.php) \- 
-  * [Proxy Cookies](https://web.archive.org/web/20140728093126id_/http%3A//www.proxy-service.de/cookies.php)
-  * [Privacy](https://web.archive.org/web/20140728093126id_/http%3A//www.proxy-service.de/privacy.php) \- 
-  * [Our Terms](https://web.archive.org/web/20140728093126id_/http%3A//www.proxy-service.de/terms.php) \- 
-  * [Impressum](https://web.archive.org/web/20140728093126id_/http%3A//www.proxy-service.de/impressum.php)
+  * [Proxy Service](https://web.archive.org/web/20150326005418id_/http%3A//www.proxy-service.de/) \- 
+  * [Proxy Browser Agent](https://web.archive.org/web/20150326005418id_/http%3A//www.proxy-service.de/edit-browser.php) \- 
+  * [Proxy Cookies](https://web.archive.org/web/20150326005418id_/http%3A//www.proxy-service.de/cookies.php)
+  * [Privacy](https://web.archive.org/web/20150326005418id_/http%3A//www.proxy-service.de/privacy.php) \- 
+  * [Our Terms](https://web.archive.org/web/20150326005418id_/http%3A//www.proxy-service.de/terms.php) \- 
+  * [Impressum](https://web.archive.org/web/20150326005418id_/http%3A//www.proxy-service.de/impressum.php)
 
 
