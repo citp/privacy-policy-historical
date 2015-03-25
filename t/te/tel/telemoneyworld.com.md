@@ -1,99 +1,67 @@
-> *The following text is extracted and transformed from the telemoneyworld.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823023945id_/http%3A//www.telemoneyworld.com/%3Fpage_id%3D50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telemoneyworld.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325105739id_/http%3A//www.wirecard.asia/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Wirecard Asia Pacific | Systems@Work Pte Ltd
+# WIRECARD ASIA: Privacy
 
-* * *
+Wirecard AG and its subsidiaries (Wirecard group) offer products and services for electronic payments and risk management to their customers. Our aim is to enable companies and consumers to process electronic payments worldwide smoothly and easily. 
 
-This privacy policy sets out the practices of Systems@Work in using the information that you provide when you register with us or use the services at the Systems@Work Website (“Customer Information”). The terms of this policy form a part of and are in addition to the “TELEMONEY” Terms and Conditions for Customers (“Terms & Conditions”) which govern the rights and obligations of Systems@Work and the Customer in Systems@Work’s provision and the Customer’s use of the Services. Capitalised terms used herein are as defined in the Terms and Conditions.
+The security and protection of personal data is one of the most important aspects in processing payments. This is why Wirecard AG ensures compliance with the legal provisions on privacy, in particular in accordance with the provisions of the German Data Protection Act (BDSG) and the German Teleservices Act (TMG). 
 
-Please read this policy carefully. By using the Systems@Work Website and providing the Customer Information, you consent to our collection and use of the Customer Information in the manner set out in this policy. If you have any questions regarding the use of your information, please contact us at our Customer Helpdesk.
+This statement covers all key aspects of privacy. Please note the following information.
 
-**1\. Accountability**
+### General information
 
-1.1 All personal data collected by Systems@Work will be used and processed fairly and lawfully while in our possession or custody. We ensure all users that we would be accountable for our organisation’s compliance to our Privacy Policy.
+This website provides information on the services offered by the Wirecard group. The Wirecard group also provides various information systems via which affiliated customers (merchants) may obtain data concerning the payments processed via Wirecard. 
 
-1.2 Should there be a requirement for data to be transferred to any party, Systems@Work will take reasonable steps to ensure that the data which is to be transferred will not be processed inconsistently with this Model Code.
+### Accountable body
 
-1.3 The identity of the person(s) designated by Systems@Work to oversee the organisation’s compliance with the principles shall be made known upon request.
+Wirecard Technologies AG at Einsteinring 35, 85609 Aschheim, Germany, is the accountable body as defined by German law. 
 
-**  2\. Specifying Purposes**
+Customers are accountable for all data processed as part of contracted data processing. Wirecard will refer to the respective customer in the event of any queries regarding this data. 
 
- 2.1 Systems@Work collect personally identifiable information for the sole purpose of registering a user and for transactional purposes on our website.
+### Anonymous page view
 
-2.2 Personal data collected will not be used for a new purpose unless we obtain consent from users. Systems@Work is the sole owner of the personally identifiable information collected on this site.
+As a rule, pages of the Wirecard group website can be viewed anonymously. Data that is collected automatically (see below) is anonymized prior to its being stored and used. 
 
-**3\. Consent**
+### Collection and use of personal data
 
-3.1 All sensitive information obtained from users are stored in strict compliance with current PCI Data Security Standard. All such information will be used or disclosed only for the purposes for which it was collected.
+Wirecard processes payment information on behalf of her customers (merchants) as part of payment processing and related services (e.g. risk management). Particularly in its role as a data processor, Wirecard works through its affiliated customers towards compliance with the principle of data efficiency as defined under the German Data Protection Act. 
 
-3.2 Systems@Work will obtain prior consent from users should we need to use the personal data for a new purpose or for a purpose not previously identified.
+The affiliated customer (merchant) concerned is considered accountable for processed payment data. Sensitive data in particular, such as credit card numbers and account details, are processed as part of payment processing. This data is encrypted and stored in the Wirecard databases in compliance with PCI DSS regulations.
 
-3.3 Users may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Users may only be subjected to consequences because of this decision where the information is required to fulfill the specified and legitimate purposes set out by the organisation.
+The data processed on behalf of an affiliated customer (merchant) is utilized only for the purpose requested by this customer - e.g. payment processing and risk management. Depending on the contracted service, additional information such as IP geolocation data and credit reports may also be consulted. 
 
-**4\. Limiting Collection**
+Any and all data processed on behalf of a customer will be stored as specified by the customer and also deleted at the customer's request - at the latest, however, following expiry of the legal term. In the event that a customer requests removal of their data before expiry of this term, the data will usually be blocked instead of being deleted. 
 
- Only the necessary personal data is collected from registered users for business purposes only. Both the amount and the type of data collected shall be limited to that which is necessary to fulfill the purposes identified.
+### Disclosure of personal data
 
-**5\. Limiting Use, Disclosure and Retention**
+The companies of the Wirecard group utilize personal data only as requested by its affiliated customers (merchants). This data is disclosed exclusively to subcontractors of the Wirecard group for the purpose of completing the transaction. This data may be disclosed to relevant service providers, e.g. credit rating agencies, for the purpose of identity verification and fraud prevention. 
 
-Systems@Work shall not use the Customer Information or disclose the same to any party except in circumstances where the Customer Information is required:-
+The data is not disclosed to other third parties - e.g. for the purpose of selling addresses.
 
-5.1 to provide, operate, administer and/or monitor the TELEMONEY System, the Services and/or the Customer’s TELEMONEY Account including to verify the accuracy of the Customer Information;
+### Right of revocation concerning the collection, processing and use of personal data
 
-5.2 by those of Systems@Work’s suppliers who agree to keep the Customer Information confidential, to the extent that they need such Customer Information to provide their services to Systems@Work and/or the Customer so as to facilitate the provision of the Services to the Customer, including to the Payment Account Issuer;
+The customer may revoke their consent to the collection, processing and utilization of personal data at any time with effect for the future. The revocation shall be addressed to the aforementioned accountable body. Please note that the Wirecard group may not be able to perform certain services in the event of a revocation. 
 
-5.3 to undertake debt tracing or to fraud prevention agencies so that the Customer Information may be made available to other organisations to help prevent fraud or to trace debtors;
+### Automatically collected non-personal data.
 
-5.4 to be given to any person to whom Systems@Work transfers its rights and/or duties under this Agreement, and to their insurers, agents, sub-contractors and suppliers (on a strictly need-to-know basis) in advance or after such transfer;
+When visiting the Website of the Wirecard group statistical data are automatically collected and recorded in order to constantly improve the design of the Wirecard group website. This includes the IP address, pages visited on the site, data and time of visit, cookies, and information regarding the visitor's browser, operating system and language settings. On the basis of this non-personal data user profiles are created using a pseudonym. Cookies may be used for this purpose (please refer to the definition of the term “Cookies” below under the respective headline). These data are processed only in pseudonymous form. This especially applies for the IP-address which is processed and stored only abbreviated i.e. without the last two number blocks. The data collected will not be used to personally identify the customer and will not be merged with personal data about the bearer of the pseudonym without the express permission of the respective individual. As soon as the storage of the data is no longer necessary for the creation of the user profile, they will be deleted. 
 
-5.5 to be so disclosed at the Customer’s request or where Systems@Work has obtained the Customer’s consent;
+For the processing of the non-personal data, The Wirecard group uses the technologies of the etracker GmbH ([www.etracker.com](http://www.etracker.com/)). The Wirecard group employs the tool by the company etracker GmbH to analyze the data collected in this fashion.
 
-5.6 for the purpose of seeking advice and counsel from such professional advisers as are under a duty of confidentiality with respect to the same;
+### Right of revocation concerning the collection, processing and utilization of non-personal data
 
-5.7 to track the pattern of the Customer’s activities to analyse market trends and preferences, whether for Systems@Work’s internal use or for third parties in a manner which does not personally identify the Customer;
+The customer may revoke their consent to the collection, processing and utilization of personal data at any time with effect for the future. The revocation shall be addressed to the aforementioned accountable body. In this event the non-personal data of the respective customer will no longer be collected, processed or utilized. Please note that some parts of the Website of the Wirecard group may - as consequence of the revocation - not work correctly. Furthermore all non-personal data of the opposing party which have already been stored will be deleted. 
 
-5.8 to send the Customer promotional or other materials which Systems@Work believes may be of interest to him (unless notified otherwise by e-mail by the Customer that he does not wish to receive the same); and
+### Cookies
 
-5.9 for the purposes of complying with any provision of any law, bye-law, rule or regulation or otherwise pursuant to any order, judgment or direction of any court or governmental or quasi-governmental authority.
+Cookies are text files that are locally stored on the temporary storage of your internet-browser to recognize it. The Wirecard group utilizes cookies in some sections of its website to make it easier for customers to use the site and to customize its design. 
 
-**6\. Accuracy**
+Customers can configure their browsers to inform them when a cookie is being saved or to prevent cookies from being saved altogether. Information on how to do this is available from the help function of the browser in question.
 
-Systems@Work ensures all users that all personal information collected is accurate and kept up-to-date. We will only make a request to users for updates of personal data if the update is necessary to fulfill the purposes for which the data was collected. We do not maintain duplicate copies of personal information in different systems.
+### External links
 
-**7\. Undertaking of Systems@Work**
+Some pages of third parties are linked on the website of the Wirecard group in order to provide customers with comprehensive information. Wirecard has no influence over the design of these websites and is not responsible for the content provided therein. The principles contained in this statement do not apply to the aforementioned external websites. 
 
-Systems@Work further represents and undertakes that apart from the use of the Customer Information as described above, it shall not trade in, deal with or exchange any of the Customer Information for money or money’s worth or otherwise.
+### Right to information
 
-**8\. Openness**
-
-Our Privacy Policy is displayed on the web-site and the policy is set out in the same language medium as the web-site. We encourage all users to read our Privacy Policy to understand the objective of collecting their personal data.
-
-All complaints and requests (for personal data submitted by the user) can be made to the following:
-
-TeleMoney Support Team  
-Email: support@telemoney.com.sg  
-Hotline: +65 6296 0506
-
-**9\. Individual Access and Correction**
-
-Systems@Work allow users the right to access their personal information. Users can access their personal information by using their respective TeleMoney ID and PIN to gain access to their personal information.
-
-9.1 If your personal identifiable information changes, you may correct, update or remove your personal data at the TeleMoney Member’s Lobby, or by contacting our TeleMoney Support Team.
-
-9.2 We will respond to all customer requests within 3-5 working days, and no service fee will be levied for providing the information or data requested for.
-
-**10\. Challenging Compliance**
-
-Our mechanisms and processes are in place to receive and address complaints or inquiries about our policies and procedures relating to the handling of personal data. Appropriate measures will be taken to amend policies and procedures if a complaint is found to be justified.
-
-**11\. Protection of Minors**
-
-Children (users under the age of 18 years) are not eligible to use our services unsupervised. Systems@Work requests that children do not submit any personal information to us online. If you are under the age of 18 years old, you may only surf the Site only if you have obtained consent from your parents/legal guardian or if you are under the supervision of your parent or legal guardian.
-
-**12\. Non-Applicability of Policy**
-
-To the extent that the Customer makes available the Customer Information to other parties, whether on the Systems@Work Web-site or other websites, the practices of such other parties or sites will apply. The policies of these third parties may differ from our practices as stated in this policy. The Customer agrees that it shall not hold Systems@Work responsible or liable in any way for the collection or use of the Customer Information by such third parties.
-
-**13\. Amendment to Policy**
-
-Systems@Work will post any changes to its privacy policy at the Systems@Work Website so that the Customer can always be aware of the manner and the circumstances in which the Customer Information is used.
+At the request of a user, the Wirecard group will provide them with information regarding the personal data held on file. At the request of this user, this information may also be provided by electronic means. 
