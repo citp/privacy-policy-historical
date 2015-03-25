@@ -1,0 +1,1485 @@
+<!--The following is the downloaded HTML source of the haburi.com privacy policy that was archived on 2015-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150325191916id_/http%3A//www.haburi.com/en/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa"><head>
+		
+					<meta name="ROBOTS" content="index, follow">
+				
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+<link href="http://static.haburi.com/favicon.ico?v=1" rel="shortcut icon" type="image/x-icon">
+<link href="http://static.haburi.com/favicon.ico?v=1" rel="icon" type="image/x-icon">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=5.0">
+<meta name="CommerceSearch" content="storeId_10151">
+
+
+<script type="text/javascript">
+	djConfig = {
+			parseOnLoad: false,
+			isDebug: 'false',
+			useCommentedJson: true,
+			staticPath: 'http://static.haburi.com',
+			locale: 'en-us'
+		};
+</script>
+<script type="text/javascript" src="http://static.haburi.com/wcsstore/HaburiStorefrontAssetStore/javascript/dojo/dojo/dojo.js?v=71588"></script>
+			
+		<script type="text/javascript" src="http://static.haburi.com/wcsstore/HaburiStorefrontAssetStore/javascript/dojo/haburi/service.js?v=71588"></script>		
+	
+<script type="text/javascript">
+	
+	var googleAccount = 'UA-29624959-1';
+	var absoluteURL = "http://www.haburi.com/";
+	var imageDirectoryPath = "/wcsstore/HaburiStorefrontAssetStore/";
+	var styleDirectoryPath = "images/colors/color1/";
+	var supportPaymentTypePromotions = false;
+	var subsFulfillmentFrequencyAttrName = "";
+	var subsPaymentFrequencyAttrName = "";
+	var subsTimePeriodAttrName = "";
+	
+	var staticContent = new Array();
+	
+	var staticContentHeaders = new Array();
+	var staticContentHeaderHistory = "???SEARCH_HISTORY???";
+	
+	var staticContentSectionDiv = ["autoSuggestStatic_1", "autoSuggestStatic_2", "autoSuggestStatic_3"];
+	
+	var autoSuggestTimer = -1;
+	var autoSuggestKeystrokeDelay = 250;
+	var _gaq = _gaq || [];
+	_gaq.push(
+		['global._setAccount', googleAccount],
+		['_gat._anonymizeIp'],
+		['global._setDomainName', document.domain], //Replace with the correct domain (haburi.com, haburi.es, dev domain...)
+		['global._setAllowLinker', true],
+		['global._setAllowAnchor', true],
+		['global._setCampContentKey', 'et_sub'],
+		['global._setCampaignCookieTimeout', 2592000000]
+	);
+  	
+  	function trackInternalPromotion(gps, gtp, gdt) {
+		_gaq.push(['global._trackEvent','TS>' + gps, gtp, gdt]);
+  	}
+  	
+  	function getTrackingAnchorsFromMS() {
+  		var nodes = [];
+    	var divs = dojo.query("div.genericESpot");
+    	for (var d = 0; d < divs.length; d++) {
+    		var anchors = dojo.query("a[trackingvalues]", divs[d].id);
+    		for (var i = 0; i < anchors.length; i++) {	
+    			nodes.push(anchors[i]);
+   			}
+    	}
+		for (var j = 0; j < nodes.length; j++) {
+   			dojo.connect(nodes[j], 'onclick', function(){
+        		var values = this.getAttribute('trackingvalues').split(',');
+        		trackInternalPromotion(values[0], values[1], values[2]);
+    		});
+   		}
+  	}
+  	
+  	function getTrackingAnchorsFromMSMaps() {
+  		var nodes = [];
+    	var divs = dojo.query("div.genericESpot");
+    	for (var d = 0; d < divs.length; d++) {
+    		var anchors = dojo.query("area[trackingvalues]", divs[d].id);
+    		for (var i = 0; i < anchors.length; i++) {	
+    			nodes.push(anchors[i]);
+   			}
+    	}
+		for (var j = 0; j < nodes.length; j++) {
+   			dojo.connect(nodes[j], 'onclick', function(){
+        		var values = this.getAttribute('trackingvalues').split(',');
+        		trackInternalPromotion(values[0], values[1], values[2]);
+    		});
+   		}
+  	}
+
+	//Summary: Returns the absolute URL to use for prefixing any Ajax URL call.
+	//Description: Dojo does not handle the case where the parameters in the URL are delimeted by the "/" forward slash. Therefore, in order to
+	//             workaround the issue, all AJAX requests must be done using absolute URLs rather than relative.
+	//Returns: The absolute URL to use for prefixing any Ajax URL call.
+	function getAbsoluteURL()
+	{
+		if (absoluteURL != "") {
+			var currentURL = document.URL;
+			var currentProtocol = "";
+	
+			if (currentURL.indexOf("://") != -1) {
+				currentProtocol = currentURL.substring(0, currentURL.indexOf("://"));
+			}
+		
+			var savedProtocol = "";
+			if (absoluteURL.indexOf("://") != -1) {
+				savedProtocol = absoluteURL.substring(0, absoluteURL.indexOf("://"));
+			}
+		
+			if (currentProtocol != savedProtocol) {
+				absoluteURL = currentProtocol + absoluteURL.substring(absoluteURL.indexOf("://"));
+			}
+		}
+	
+		return absoluteURL;
+	}
+	//Summary: Returns the path pointing to the shared image directory.
+	//Description: In order to get the image directory path in any javascript file, this function can be used.
+	//Returns: The path to reference images.
+	function getImageDirectoryPath(){
+		return imageDirectoryPath;
+	}
+	//Summary: Returns the path pointing to the directory containing color-dependant image files.
+	//Description: In order to get the directory containing color-dependant image files in any javascript file, this function can be used.
+	//Returns: The path to reference color-dependant image files.
+	function getStyleDirectoryPath(){
+		return styleDirectoryPath;
+	}
+	
+	dojo.require("dfl/logic/header");
+	dojo.require("dfl/logic/footer");
+	dojo.require("dfl/logic/MiniCartHelper");
+	dojo.require("dfl/logic/CommonContextsDeclarations");
+	dojo.require("dfl/logic/CommonControllersDeclaration");
+	dojo.require("dfl/logic/ServicesDeclaration");
+	dojo.require("dfl/logic/Common");
+	dojo.require("dfl/logic/CommonPopupValidations");
+	dojo.require("dfl/logic/MessageHelper");
+	dojo.require("dfl/logic/AutoSuggest");
+	dojo.require("dfl.widget.CartTimer");
+	dojo.require("dfl/logic/overview/FastFinder");
+	dojo.require("dfl/logic/NewsletterSettings");
+	dojo.require("dfl/logic/domain");
+	
+	dojo.ready(function(){   
+		Common.createCookie('WC_DOMAIN_COOKIE',  window.location.hostname + "#" + 'http://www.haburi.com/en', 30);
+    	Common.createCookie('FULLURL', window.location.hostname + "#" + window.location, 30);
+		CommonContextsJS.storeCountry = 'DE';
+		CommonContextsJS.locale = 'en_US';
+		CommonContextsJS.staticContentPath = 'http://static.haburi.com';
+		CommonContextsJS.shopContext = '';
+		
+		CommonContextsJS.setCommonParameters('-1','10151','10054');
+		CommonControllersDeclarationJS.setCommonParameters('-1','10151','10054');
+		ServicesDeclarationJS.setCommonParameters('-1','10151','10054');
+		NewsletterSettingsJS.setCommmonParameters('10151','10054','-1');
+		MiniCartHelper.setCommonParameters('-1','10151','10054','G');
+		MiniCartHelper.checkoutUrl = 'http://www.haburi.com/OrderCalculate?redirectView=AjaxOrderItemDisplayView&calculationUsageId=-1&calculationUsageId=-2&calculationUsageId=-3&calculationUsageId=-4&calculationUsageId=-5&calculationUsageId=-6&calculationUsageId=-7&calculationUsageId=-9&updatePrices=1&catalogId=10054&shoppingCartPage=1&errorViewName=AjaxOrderItemDisplayView&langId=-1&storeId=10151&previousAction=ServicesGenericView&URL=AjaxOrderItemDisplayView';
+		Common.setNumMaxItemsAllowed('50');
+		
+		CommonControllersDeclarationJS.setControllerURL('MiniShoppingCartController', getAbsoluteURL()+'AjaxQuickCartDisplay?storeId=10151&catalogId=10054&langId=-1&redirectView=AjaxQuickCartDisplay');
+		CommonControllersDeclarationJS.setControllerURL('controllerForDeliveryDiv', getAbsoluteURL()+'ChangeDeliveryContentView?storeId=10151&catalogId=10054&langId=-1');
+		CommonControllersDeclarationJS.setControllerURL('controllerForDeliveryDivTC', getAbsoluteURL()+'ChangeDeliveryContentView?storeId=10151&catalogId=10054&langId=-1');
+		
+		
+		
+		
+		MessageHelper.setMessage("dhk_error_required_text","This is a required field");
+	    MessageHelper.setMessage("dhk_common_validemailplease_text", "Please enter a valid email address ");
+	    MessageHelper.setMessage("dhk_error_invalidformat_text","The format is invalid");	    
+	    MessageHelper.setMessage("dhk_error_wrongcredentials_text", "Invalid email or password");
+	    MessageHelper.setMessage("dhk_error_incorrectpassword_text", "Incorrect password");
+	    MessageHelper.setMessage("dhk_error_passnolength_text", "Your password must be at least 6 characters long");
+	    MessageHelper.setMessage("dhk_error_alreadyregistered_text", "This email is already registered in Haburi");
+	    MessageHelper.setMessage("dhk_error_disabledaccount_text", null);
+	    MessageHelper.setMessage("dhk_error_passnoletter_text", "Your password must have at least one letter");
+	    MessageHelper.setMessage("dhk_error_passnonumber_text", "Your password must have at least one number");
+	    MessageHelper.setMessage("dhk_error_accept_terms_cond_text", "???dhk_error_accept_terms_cond_text???");
+	    MessageHelper.setMessage("dhk_error_passnomatch_text", "The passwords don't match");
+	  	MessageHelper.setMessage("dhk_error_wrongpassword_text", "Oops, this password does not match this email");
+	  	MessageHelper.setMessage("dhk_error_notregistered_email_text", "This e-mail address is not registered.");
+	  	MessageHelper.setMessage("dhk_error_invalidpassword_text", "Invalid password");
+	  	MessageHelper.setMessage("dhk_error_passnumberandletters_text", "Password has to contain numbers and letters");
+	  	MessageHelper.setMessage("dhk_error_pass_maxlength_text", "Password cannot exceed 20 characters");
+	  	MessageHelper.setMessage("dhk_error_pass_sameas_email_text", "Password is not allowed to be identical with E-Mail Address");
+	  	MessageHelper.setMessage("dhk_error_passnomatch_text", "The passwords don't match");
+	  	MessageHelper.setMessage("dhk_error_alreadysubscribed_text", "Hooray! This email is already subscribed to the newsletter");
+	  	MessageHelper.setMessage("dhk_error_notsubscribed_text", "Oops, this email is not subscribed to the newsletter");
+	  	MessageHelper.setMessage("dhk_error_newpassword_text", "Old and new password have to be different");
+	  	MessageHelper.setMessage("dhk_error_invalidphone_text", "Please enter only numbers");
+	  	MessageHelper.setMessage("dhk_error_pass_repeatedchar_text", "The password may not contain three identical consecutive characters");
+	  	
+	  	MessageHelper.setMessage("dhk_common_dividingbar_text", "|");
+	  	MessageHelper.setMessage("dhk_common_login_text", "Login");
+	  	MessageHelper.setMessage("dhk_common_mywishlist_text", "My Wishlist");
+	  	MessageHelper.setMessage("dhk_common_hello_text", "Hello {0}");
+	  	MessageHelper.setMessage("dhk_header_person_title_mrs", "Mrs");
+	  	MessageHelper.setMessage("dhk_header_person_title_mr", "Mr");
+	  	MessageHelper.setMessage("dhk_common_myaccount_text", "My account");
+	  	MessageHelper.setMessage("dhk_common_signout_text", "Sign out");
+	  	MessageHelper.setMessage("dhk_common_checkout_button", "Checkout");
+	  	MessageHelper.setMessage("dhk_common_items_text", "Items ");
+	  	MessageHelper.setMessage("dhk_common_size_text", "Size:");
+	  	MessageHelper.setMessage("dhk_common_quantity_text", "Quantity");
+	  	MessageHelper.setMessage("dhk_common_priceperitem_text", "Price per item");
+	  	MessageHelper.setMessage("dhk_common_allpromotions_text", "All Promotions");
+	  	MessageHelper.setMessage("dhk_common_subtotal_text", "Subtotal");
+	  	MessageHelper.setMessage("dhk_delivery_p1", "Delivery costs");
+	  	MessageHelper.setMessage("dhk_common_extracharge_text", "Deliveries to Balearic Islands, Canary Islands, Ceuta and Melilla have an extra charge of {0}.");
+	  	MessageHelper.setMessage("dhk_common_yousave_text", "You save:");
+	    
+	    getTrackingAnchorsFromMSMaps();
+	});
+</script>
+
+		<link rel="stylesheet" href="http://static.haburi.com/wcsstore/HaburiStorefrontAssetStore/javascript/dojo/dijit/themes/haburi/haburi.css?v=71588" type="text/css">
+		<link rel="stylesheet" href="http://static.haburi.com/wcsstore/HaburiStorefrontAssetStore/javascript/dojo/haburi/theme/print.css?v=71588" type="text/css" media="print">  
+		
+				<link rel="stylesheet" href="http://static.haburi.com/wcsstore/HaburiStorefrontAssetStore/javascript/dojo/haburi/theme/service.css?v=71588" type="text/css">
+			
+		<style type="text/css">.ajaxEspot{display: none;}</style>
+		<noscript>
+			<style type="text/css">.ajaxEspot{display: block;}</style>
+		</noscript>	
+		
+<script type="text/javascript">
+	 dojo.require("dijit.form.FilteringSelect");
+	 dojo.require("dijit.form.Button");
+	 dojo.require("dijit.form.Textarea");
+	 dojo.require("dfl.logic.service.ServicesMenu");
+	 
+	 dojo.addOnLoad(function(){
+	 	
+				dojo.parser.parse('content');
+			
+	    ServicesMenu.initServicesMenu('privacy');
+	   	var node;
+		var id="delivery_widgetId_tc";
+		var widget = dijit.byId(id);
+		
+		if (widget == null || widget == undefined)
+		{
+			node = dojo.byId(id);
+			if (node != null && node != undefined)
+			{
+				if (node.getAttribute("dojoType") != null && node.getAttribute("dojoType") != undefined)
+				{
+					dojo.parser.instantiate([node]);
+				}
+				else
+				{
+					dojo.parser.parse(node);
+				}
+			}
+		}
+		NewsletterSettingsJS.setCommmonParameters('10151','10054','-1');
+		NewsletterSettingsJS.setForwardURLs('http://www.haburi.com/NewsletterView?optionPage=NewsletterChange&catalogId=10054&emsName=ServicePage_Unsubscribe_spot&urlLangId=-1&langId=-1&storeId=10151','http://www.haburi.com/NewsletterView?optionPage=NewsletterChange&catalogId=10054&emsName=ServicePage_EditedSettings_spot&urlLangId=-1&langId=-1&storeId=10151','http://www.haburi.com/NewsletterView?optionPage=NewsletterChange&catalogId=10054&emsName=ServicePage_EditedEmail_spot&urlLangId=-1&langId=-1&storeId=10151');
+	});	
+</script>
+	</head>
+	<body class="dfl">
+		<div id="page" class="outside_container">
+			
+
+<script type="text/javascript">
+    dojo.addOnLoad(function() {
+    	CachedHeaderDisplayJS.initialization('???SEARCH_HISTORY???');
+    	CachedHeaderDisplayJS.chargeAfterLoad("Search");
+    	CachedHeaderDisplayJS.actionSearchSubmit = 'http://www.haburi.com/en/searchterm/[_searchterm_]';        
+   		//dijit.byId("MiniShoppingCart").refresh();
+   		//CachedHeaderDisplayJS.loadMiniCart("&lt;fmt:message key=\"message_max_shopcart\" bundle=\"javax.servlet.jsp.jstl.fmt.LocalizationContext@2c1a2c1a\"/&gt;");
+   		require(["dfl/logic/domain"],function(domain){
+			var d = new domain();
+			d.check();
+		});
+    });    
+</script>
+            
+<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_30862">
+    <div emsname="HeaderSalesCommunication"></div>
+
+
+            <div class="ad" id="ad_30862">
+        <div id="header_info_bar" class="outside_container">
+			<div class="container">
+				<div class="span-4 align_left">
+					Free Shipping for orders over 80€
+				</div>
+				<div class="span-4 align_center">
+					Same day shipping for orders placed by 18:00
+				</div>
+				<div class="span-4 align_right last">
+					Secure Shopping<a class="global_sprite icon_bvh_header" href="" target="_blank"></a> 
+				</div>
+			</div>
+		</div>
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+
+<div id="header" class="container">
+		<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_10023">
+    <div emsname="storeLogoESpot"></div>
+
+
+            <div class="ad" id="ad_10023">
+        <a id="WC_CachedHeaderDisplay_Link_2" href="/en">
+<img border="0" title="haburi online-shop | Buy branded fashion online" alt="haburi online-shop | Buy branded fashion online" src="http://static.haburi.com/content/images/logo.gif"></a>
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+										<ul class="language">
+											
+													<li>
+												
+															<a href="http://www.haburi.com/de">
+																DE
+															</a>
+														
+												</li>								            				            
+											
+													<li class="separator">
+														|
+													</li>
+												
+													<li class="active">
+												
+															<a href="http://www.haburi.com/en">
+																EN
+															</a>
+														
+												</li>								            				            
+											
+										</ul>
+									
+        
+        <div class="service_navi" id="header_links"></div>
+                
+        
+			
+			<div id="outerCartContainer" class="right head_cart">
+				<div class="global_sprite icon_cart"></div>				
+				<div>
+					<div id="shopcartContainer">
+						<div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all"></div>
+							<script type="text/javascript">
+						  		dojo.ready(function() {
+						  			var storeId = "10151";
+									var langId = "-1";
+									var separator = "|";
+									var loginText = "Login";
+									var wishListText = "My Wishlist";
+									var catalogId = "10054";
+									var myAcctMain = "";
+									var urlLogonFormURLAjax = getAbsoluteURL() + "AjaxLoginView?storeId="+storeId+"&catalogId="+catalogId+"&langId="+langId+"&myAcctMain=1";
+									var wishListURL = getAbsoluteURL() + "NonAjaxAccountWishListDisplayView?storeId="+storeId+"&catalogId="+catalogId+"&langId="+langId+"&listId=.&wishListPage=1&myAccountPage=1";
+									var registerURLAjax = getAbsoluteURL() + "AjaxLoginView?storeId="+storeId+"&catalogId="+catalogId+"&langId="+langId+"&myAcctMain="+myAcctMain+"&new=Y";
+							  		
+							  		var infoUserShop = Common.readCookie('infoUserShop');
+							  		var infoUserOrder = Common.readCookie('infoUserOrder');
+							  		var updateMiniCart = Common.readCookie('updateMiniCart');
+							  		var myAcctMain = Common.readCookie('myAcctMain');
+							  		var userId = Common.readCookie('userId');
+							  		var registrationStatus = Common.readCookie('registrationStatus');
+							  		var personTitle = Common.readCookie('personTitle');
+							  		var lastName = Common.readCookie('lastName');
+							  		
+							  		var arrayInfoShop = '';
+							  		if(infoUserShop){
+							  			arrayInfoShop = infoUserShop.split(';');
+							  		}
+							  		
+							  		var query = Common.getQueryObject(); 
+							  		if (query.loginOK === 'true' || query.errorCode === '1' || updateMiniCart || document.URL.indexOf('OrderShippingBillingConfirmationView') != -1 || document.URL.indexOf('OrderShippingBillingConfirmationCmd') != -1 
+							  			|| (arrayInfoShop != "" && (arrayInfoShop[0] != '10151' || arrayInfoShop[1] != '-1'))){
+							  			CommonControllersDeclarationJS.setControllerURL('MiniShoppingCartController', getAbsoluteURL()+'AjaxQuickCartDisplay?storeId=10151&catalogId=10054&langId=-1&redirectView=AjaxQuickCartDisplay');
+										dijit.byId("MiniShoppingCart").refresh();
+										if(updateMiniCart){
+							  				Common.deleteCookie('updateMiniCart');
+							  				Common.deleteCookie('myAcctMain');
+							  				Common.deleteCookie('userId');
+							  				Common.deleteCookie('registrationStatus');
+							  				Common.deleteCookie('personTitle');
+							  				Common.deleteCookie('lastName');
+							  			}
+							  		}
+							  		else if(infoUserOrder === null || infoUserOrder === undefined){
+						  				if(dojo.byId('header_links')){
+											dojo.byId('header_links').innerHTML = '';
+										}
+										var ul = document.createElement("ul");
+										ul.setAttribute("class", "service");
+																								
+										var li2 = document.createElement("li");
+										ul.appendChild(li2);
+										li2.innerHTML = "<a href='javascript:void(0)' id='headerLogin'>" + loginText + "</a>";
+										
+										var li2Separator = document.createElement("li");
+										ul.appendChild(li2Separator);
+										li2Separator.setAttribute("class", "separator");
+										li2Separator.innerHTML = separator;
+																	
+										
+										var li3 = document.createElement("li");
+										ul.appendChild(li3);
+										li3.setAttribute("class", "wishlist");					
+										li3.innerHTML = "<span class='global_sprite icon_wishlist'></span><a href='javascript:void(0)' id='headerWishlist'>"+wishListText+"</a>";
+																						               	 		
+							      	 	dojo.byId('header_links').appendChild(ul);
+							      	 	if(dojo.byId('headerLogin')){	
+								            dojo.connect(dojo.byId('headerLogin'), 'onclick', function(){
+									               _gaq.push(['global._trackEvent', 'popup_login','show']);
+									               CachedHeaderDisplayJS.openPopup(urlLogonFormURLAjax,['login_registration'], CommonPopupValidator.initButtonsEvents);
+								            });
+							            }
+							            if(dojo.byId('headerWishlist')){
+								            dojo.connect(dojo.byId('headerWishlist'), 'onclick', function(){
+									               _gaq.push(['global._trackEvent', 'popup_login','show']);
+									               CachedHeaderDisplayJS.openPopup(urlLogonFormURLAjax,['login_registration'], CommonPopupValidator.initButtonsEvents); 
+									        });		
+								        }
+								        
+								        var nodeStructure = "<span tabindex='0' id='shoppingCartBar' waistate:controls='ShopCartDisplay'>";
+										nodeStructure += "<div id='miniShopCartBody' class='right'>";
+									    var message = 'Items ';
+										nodeStructure +=  message + "(0)&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;" + '&euro;' + " 0,00";
+										nodeStructure += "</div>";
+										dojo.place(nodeStructure, "MiniShoppingCart",  "first");
+										
+										if (CommonControllersDeclarationJS.checkForPopups) {
+      	  
+								      	  var registerConfURL = getAbsoluteURL() + "AjaxJoinConfView?storeId="+CommonControllersDeclarationJS.storeId+"&catalogId="+CommonControllersDeclarationJS.catalogId+"&langId="+CommonControllersDeclarationJS.langId;
+								            var urlLogonFormURLAjax = getAbsoluteURL() + "AjaxLoginView?storeId="+CommonControllersDeclarationJS.storeId+"&catalogId="+CommonControllersDeclarationJS.catalogId+"&langId="+CommonControllersDeclarationJS.langId+"&myAcctMain=1";
+								            if (CommonContextsJS.userType != "R") {
+								          	  if((Common.getUrlParameterValue("errorCode") != null && Common.getUrlParameterValue("errorCode")!="1"  && Common.getUrlParameterValue("showLogon") == null) || Common.getUrlParameterValue("showRegister")=="true" ){
+								    	    		CachedHeaderDisplayJS.openPopup(urlLogonFormURLAjax,['login_registration'], CommonPopupValidator.initButtonsEvents);
+								          	  }else if(Common.getUrlParameterValue("showLogon")=="true"){
+								    	    		CachedHeaderDisplayJS.openPopup(urlLogonFormURLAjax,['login_registration'], CommonPopupValidator.initButtonsEvents);
+								          	  }
+								            } else {
+								          	  if(Common.getUrlParameterValue("errorCode") != null && Common.getUrlParameterValue("errorCode")=="1"){
+								    				CachedHeaderDisplayJS.openPopup(registerConfURL,['login_registration'],CommonPopupValidator.initButtonsEvents);
+								    	    	  }
+								            }
+								            CommonControllersDeclarationJS.checkForPopups = false;
+								        }
+									
+										
+							  		}else{
+							  		 	var nodeStructure = "<span tabindex='0' id='shoppingCartBar' waistate:controls='ShopCartDisplay'>";
+							  		 	nodeStructure += "<div id='miniShopCartBody' class='right'>";
+							  		 	nodeStructure += infoUserOrder;
+							  		 	nodeStructure += "</div>";
+							  		 	dojo.place(nodeStructure, "MiniShoppingCart",  "first");
+							  		 	if(dojo.byId('header_links')){
+											dojo.byId('header_links').innerHTML = '';
+										}
+							  			MiniCartHelper.loadHeadInfo(myAcctMain,userId,registrationStatus,personTitle,lastName);
+							  			
+							  			// If there are articles in the cart, go to shopping cart if the cart area is clicked or display minicart on mouseover
+										dojo.query('#outerCartContainer').connect('onclick', function() {
+											if (dojo.byId('outerCartContainer')){
+												document.location.href = MiniCartHelper.checkoutUrl;
+											}
+										});
+										var connectHandlers = [];
+										
+										
+										dojo.query('#outerCartContainer').forEach(function(node, index, nodelist){
+				    					var handleEnter = dojo.connect(node, 'onmouseenter', function(){
+				    				        if (dojo.byId('outerCartContainer')){
+												CommonControllersDeclarationJS.setControllerURL('MiniShoppingCartController', getAbsoluteURL()+'AjaxQuickCartDisplay?storeId=10151&catalogId=10054&langId=-1&redirectView=AjaxQuickCartDisplay');
+												if(!dojo.byId('cart_button')){
+													dijit.byId("MiniShoppingCart").refresh();
+													//MiniCartHelper.showMiniShopCartDropDown();
+												}
+											}
+				    					});
+				    					var handleLeave = dojo.connect(node, 'onmouseleave', function(){
+				    				       if (dojo.byId('outerCartContainer')){
+													dojo.forEach(connectHandlers, dojo.disconnect);
+											}
+				    				    });
+				    					connectHandlers.push(handleEnter);
+				    					connectHandlers.push(handleLeave);
+				    		    	});
+				    		    	
+				    		    	if (CommonControllersDeclarationJS.checkForPopups) {
+						            	  
+						            	  var registerConfURL = getAbsoluteURL() + "AjaxJoinConfView?storeId="+CommonControllersDeclarationJS.storeId+"&catalogId="+CommonControllersDeclarationJS.catalogId+"&langId="+CommonControllersDeclarationJS.langId;
+						                  var urlLogonFormURLAjax = getAbsoluteURL() + "AjaxLoginView?storeId="+CommonControllersDeclarationJS.storeId+"&catalogId="+CommonControllersDeclarationJS.catalogId+"&langId="+CommonControllersDeclarationJS.langId+"&myAcctMain=1";
+						                  if (CommonContextsJS.userType != "R") {
+						                	  if((Common.getUrlParameterValue("errorCode") != null && Common.getUrlParameterValue("errorCode")!="1"  && Common.getUrlParameterValue("showLogon") == null) || Common.getUrlParameterValue("showRegister")=="true" ){
+						          	    		CachedHeaderDisplayJS.openPopup(urlLogonFormURLAjax,['login_registration'], CommonPopupValidator.initButtonsEvents);
+						                	  }else if(Common.getUrlParameterValue("showLogon")=="true"){
+						          	    		CachedHeaderDisplayJS.openPopup(urlLogonFormURLAjax,['login_registration'], CommonPopupValidator.initButtonsEvents);
+						                	  }
+						                  } else {
+						                	  if(Common.getUrlParameterValue("errorCode") != null && Common.getUrlParameterValue("errorCode")=="1"){
+						          				CachedHeaderDisplayJS.openPopup(registerConfURL,['login_registration'],CommonPopupValidator.initButtonsEvents);
+						          	    	  }
+						                  }
+						                  CommonControllersDeclarationJS.checkForPopups = false;
+						              }
+										
+				    		    	
+								  } 
+							  		
+						  		});
+						  </script>					
+					 </div>
+				</div>
+			 </div>
+					     
+</div>
+
+
+
+<div class="outside_container main_navigation" id="outside_container_main_navigation">
+	<div class="container">			
+		
+			<input type="hidden" value="-1" id="totalCountTopCategories">
+		<!-- Load Marketing Spots Menu Start -->
+		<div id="mDesp" class="span-9">
+			<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_26351">
+    <div emsname="Menu_Header_Complete_spot"></div>
+
+
+            <div class="ad" id="ad_26351">
+        <ul class="main">
+	<li class="main_cat" name="new">
+		<a href="http://www.haburi.com/en/new">New</a>
+
+		<div class="span-4 last main_cat_flyout category">
+			<div class="flyout_arrow"></div>
+			<div class="clearfix">
+				<div class="left span-4 last">
+					<div class="clearfix span-4 last">
+						<div class="span-2 list" style="height: auto;">
+							<h2> New In this week</h2>
+							<ul>
+								<li><a href="http://www.haburi.com/en/new-women">Women</a></li>     
+								<li><a href="http://www.haburi.com/en/new-men">Men</a></li>
+							</ul>
+						</div>
+						<div class="span-2 last list" style="border: none; padding: 0px; height: auto;">
+							<h2>New Brands</h2>
+							<ul>
+								<li><a href="/en/brand/anerkjendt">Anerkjendt</a></li>
+								<li><a href="/en/brand/elvine">elvine</a></li>
+								<li><a href="/en/brand/mustang">Mustang</a></li>
+								<li><a href="/en/brand/nixon">Nixon</a></li>
+								<li><a href="/en/brand/nowadays">Nowadays</a></li>
+								<li><a href="/en/brand/silvian-heach">Silvian Heach</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</li>
+	
+	<li class="main_cat" name="women">
+		<a href="http://www.haburi.com/en/women">Women</a>
+
+		<div class="span-9 last main_cat_flyout category">
+			<div class="flyout_arrow"></div>
+			<div class="clearfix">
+				<div class="left span-6 last">
+					<div class="clearfix span-6 last">
+						<div class="span-2 list">
+							<h2>Clothing</h2>
+							<ul>
+								<li><a href="http://www.haburi.com/en/women-jeans">Jeans</a></li>     
+								<li><a href="http://www.haburi.com/en/women-jackets-coats">Jackets</a></li>
+								<li><a href="http://www.haburi.com/en/women-leather-jackets">Leather Jackets</a></li>
+								<li><a href="http://www.haburi.com/en/women-mid-season-jackets">Transition Jackets</a></li>
+								<li><a href="http://www.haburi.com/en/women-pants">Trousers</a></li>
+								<li><a href="http://www.haburi.com/en/women-dresses">Dresses</a></li>
+								<li><a href="http://www.haburi.com/en/women-overall-jumpsuits">Overalls</a></li>
+								<li><a href="http://www.haburi.com/en/women-skirts">Skirts</a></li>
+								<li><a href="http://www.haburi.com/en/women-pullovers-knitwear">Knitwear</a></li>
+								<li><a href="http://www.haburi.com/en/women-sweatshirts-co">Sweaters</a></li>
+								<li><a href="http://www.haburi.com/en/women-shoes">Shoes</a></li>
+								<li><a href="http://www.haburi.com/en/women-t-shirts-co">T-Shirts</a></li>
+								<li><a href="http://www.haburi.com/en/women-tops">Tops</a></li>
+								<li><a href="http://www.haburi.com/en/women-underwear">Underwear</a></li>
+							</ul>
+						</div>
+						<div class="span-2 list">
+							<h2>Accessories</h2>
+							<ul>
+								<li><a href="http://www.haburi.com/en/women-wallets-co">Purses</a></li>
+								<li><a href="http://www.haburi.com/en/women-leather-belts">Belts</a></li>
+								<li><a href="http://www.haburi.com/en/women-chains">Necklaces</a></li>
+								<li><a href="http://www.haburi.com/en/women-beanies-co">Beanies</a></li>
+								<li><a href="http://www.haburi.com/en/women-scarves-foulards">Scarfs &amp; Shawls</a></li>
+								<li><a href="http://www.haburi.com/en/women-jewellery">Jewellery</a></li>
+								<li><a href="http://www.haburi.com/en/women-socks-co">Socks</a></li>
+								<li><a href="http://www.haburi.com/en/women-sunglasses">Sunglasses</a></li>
+								<li><a href="http://www.haburi.com/en/women-bags">Bags</a></li>
+							</ul>
+						</div>
+						<div class="span-2 list">
+							<h2>Top Brands</h2>
+							<ul>
+								<li><a href="http://www.haburi.com/en/brand/claire-bruce/women">CLAIRE+BRUCE</a></li>
+								<li><a href="http://www.haburi.com/en/brand/diesel/women">Diesel</a></li>
+								<li><a href="http://www.haburi.com/en/brand/fornarina/women">Fornarina</a></li>
+								<li><a href="http://www.haburi.com/en/brand/g-star/women">G-Star</a></li>
+								<li><a href="http://www.haburi.com/en/brand/hilfiger-denim/women">Hilfiger Denim</a></li>
+								<li><a href="http://www.haburi.com/en/brand/marc-o-polo/women">Marc O'Polo</a></li>
+								<li><a href="http://www.haburi.com/en/brand/mbym/women">mbym</a></li>
+								<li><a href="http://www.haburi.com/en/brand/tom-tailor/women">Tom Tailor</a></li>
+								<li><a href="http://www.haburi.com/en/brand/vero-moda/women">Vero Moda</a></li>
+								<li><a href="http://www.haburi.com/en/brand/vila/women">Vila</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="clearfix span-6 last">
+						<div class="span-2">
+							<p class="all"><a href="http://www.haburi.com/en/women">All products<span class="arrow_right_medium"></span></a></p>
+						</div>
+						<div class="span-2">
+							<p class="all"><a href="http://www.haburi.com/en/women-accessories">All Accessories<span class="arrow_right_medium"></span></a></p>
+						</div>
+						<div class="span-2">
+							<p class="all"><a href="http://www.haburi.com/en/brands">All Brands<span class="arrow_right_medium"></span></a></p>
+						</div>
+					</div>
+				</div>
+				<div class="right">
+					<div class="span-3 last">
+						<map name="flyout_women" id="flyout_women">
+							<area shape="rect" coords="0,0,230,337" href="http://www.haburi.com/en/new-men" alt="NEW COLLECTION - SHOP NOW" title="NEW COLLECTION - SHOP NOW">
+						</map>
+						<img src="http://static.haburi.com/content/flyout/flyout_women_de.jpg" width="230" height="337" border="0" alt="" title="" usemap="#flyout_women">
+					</div>
+				</div>
+			</div>
+		</div>
+	</li>
+	
+	<li class="main_cat" name="men">
+		<a href="http://www.haburi.com/en/men">Men</a>
+
+		<div class="span-9 last main_cat_flyout category">
+			<div class="flyout_arrow"></div>
+			<div class="clearfix">
+				<div class="left span-6 last">
+					<div class="clearfix span-6 last">
+						<div class="span-2 list">
+							<h2>Clothing</h2>
+							<ul>
+								<li><a href="http://www.haburi.com/en/men-jeans">Jeans</a></li>
+								<li><a href="http://www.haburi.com/en/men-jackets-coats">Jackets</a></li>
+								<li><a href="http://www.haburi.com/en/men-denim-jackets">Leather Jackets</a></li>
+								<li><a href="http://www.haburi.com/en/men-mid-season-jackets">Transition Jackets</a></li>
+								<li><a href="http://www.haburi.com/en/men-shirts">Shirts</a></li>
+								<li><a href="http://www.haburi.com/en/men-pants">Trousers</a></li>
+								<li><a href="http://www.haburi.com/en/men-polos">Polos</a></li>
+								<li><a href="http://www.haburi.com/en/men-pullovers-knitwear">Pullovers &amp; Knitwear</a></li>
+								<li><a href="http://www.haburi.com/en/men-shirts">Sweaters</a></li>
+								<li><a href="http://www.haburi.com/en/men-shorts-bermudas">Shoes</a></li>
+								<li><a href="http://www.haburi.com/en/men-t-shirts">Tanktops</a></li>
+								<li><a href="http://www.haburi.com/en/men-t-shirts-co">T-Shirts</a></li>
+								<li><a href="http://www.haburi.com/en/men-underwear">Underwear</a></li>
+							</ul>
+						</div>
+						<div class="span-2 list">
+							<h2>Accessories</h2>
+							<ul>
+								<li><a href="http://www.haburi.com/en/men-wallets-co">Purses</a></li>
+								<li><a href="http://www.haburi.com/en/men-leather-belts">Belts</a></li>
+								<li><a href="http://www.haburi.com/en/men-ties-bows">Ties</a></li>
+								<li><a href="http://www.haburi.com/en/men-beanies-co">Beanies</a></li>
+								<li><a href="http://www.haburi.com/en/men-scarves-foulards">Scarfs &amp; Shawls</a></li>
+								<li><a href="http://www.haburi.com/en/men-other-accessories">Sunglasses</a></li>
+								<li><a href="http://www.haburi.com/en/bags-14621--1">Bags</a></li>
+							</ul>
+						</div>
+						<div class="span-2 list">
+							<h2>Top Brands</h2>
+							<ul>
+								<li><a href="http://www.haburi.com/en/brand/claire-bruce/men">CLAIRE+BRUCE</a></li>
+								<li><a href="http://www.haburi.com/en/brand/diesel/men">Diesel</a></li>
+								<li><a href="http://www.haburi.com/en/brand/g-star/men">G-Star</a></li>
+								<li><a href="http://www.haburi.com/en/brand/hilfiger-denim/men">Hilfiger Denim</a></li>
+								<li><a href="http://www.haburi.com/en/brand/marc-o-polo/men">Marc O'Polo</a></li>
+								<li><a href="http://www.haburi.com/en/brand/minimum/men">Minimum</a></li>
+								<li><a href="http://www.haburi.com/en/brand/pepe-jeans/men">Pepe Jeans</a></li>
+								<li><a href="http://www.haburi.com/en/brand/scotch-soda/men">Scotch&amp;Soda</a></li>
+								<li><a href="http://www.haburi.com/en/brand/selected/men">Selected</a></li>
+								<li><a href="http://www.haburi.com/en/brand/tom-tailor/men">Tom Tailor</a></li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="clearfix span-6 last">
+						<div class="span-2">
+							<p class="all"><a href="http://www.haburi.com/en/men">All products<span class="arrow_right_medium"></span></a></p>
+						</div>
+						<div class="span-2">
+							<p class="all"><a href="http://www.haburi.com/en/men-accessories">All Accessories<span class="arrow_right_medium"></span></a></p>
+						</div>
+						<div class="span-2">
+							<p class="all"><a href="http://www.haburi.com/en/brands">All Brands<span class="arrow_right_medium"></span></a></p>
+						</div>
+					</div>
+				</div>
+				<div class="right">
+					<div class="span-3 last">
+						<map name="flyout_men" id="flyout_men">
+							<area shape="rect" coords="0,0,230,337" href="http://www.haburi.com/en/new-men" alt="NEW COLLECTION - SHOP NOW" title="NEW COLLECTION - SHOP NOW">
+						</map>
+						<img src="http://static.haburi.com/content/flyout/flyout_men_de.jpg" width="230" height="337" border="0" alt="" title="" usemap="#flyout_men">
+					</div>
+				</div>
+			</div>
+		</div>
+	</li>
+	
+	<li class="main_cat" name="brands">
+		<a href="http://www.haburi.com/en/brands">Brands</a>
+
+		<div class="span-9 last main_cat_flyout category">
+			<div class="flyout_arrow"></div>
+			<div class="clearfix">
+				<div class="left span-6 last">
+					<div class="clearfix span-6 last">
+						<div class="span-2 list">
+							<h2>Top Brands</h2>
+							<ul>
+								<li><a href="/en/brand/claire-bruce">CLAIRE+BRUCE</a></li>
+								<li><a href="/en/brand/campus">Campus</a></li>
+								<li><a href="/en/brand/diesel">Diesel</a></li>
+								<li><a href="/en/brand/g-star">G-Star</a></li>
+								<li><a href="/en/brand/hilfiger-denim">Hilfiger Denim</a></li>
+								<li><a href="/en/brand/marc-o-polo">Marc O'Polo</a></li>
+								<li><a href="/en/brand/pepe-jeans">Pepe Jeans</a></li>
+								<li><a href="/en/brand/replay">Replay</a></li>
+								<li><a href="/en/brand/selected">Selected</a></li>
+								
+							</ul>
+						</div>
+						<div class="span-2 list">
+							<h2>All Brands</h2>
+							<ul>
+								<li><a href="/en/brand/adidas">adidas</a></li>
+								<li><a href="/en/brand/bomboogie">Bomboogie</a></li>
+								<li><a href="/en/brand/bullboxer">Bullboxer</a></li>
+								<li><a href="/en/brand/converse">Converse</a></li>
+								<li><a href="/en/brand/h-by-hudson">H by Hudson</a></li>
+								<li><a href="/en/brand/khujo">khujo</a></li>
+								<li><a href="/en/brand/levis">Levis</a></li>
+								<li><a href="/en/brand/maison-scotch">Maison Scotch</a></li>
+								
+							</ul>
+						</div>
+						<div class="span-2 list">
+							<h2></h2>
+							<ul>
+								<li><a href="/en/brand/oakwood">Oakwood</a></li>
+								<li><a href="/en/brand/review">Review</a></li>
+								<li><a href="/en/brand/schott-nyc">Schott NYC</a></li>
+								<li><a href="/en/brand/selected-femme">Selected Femme</a></li>
+								<li><a href="/en/brand/tom-tailor">Tom Tailor</a></li>
+								<li><a href="/en/brand/vagabond">Vagabond</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="clearfix span-6 last">
+						<!-- <div class="span-2">
+							<p class="all"><a href="#">Alle Produkte <span class="arrow_right_medium"></span></a></p>
+						</div>
+						<div class="span-2">
+							<p class="all"><a href="#">Alle Brands<span class="arrow_right_medium"></span></a></p>
+						</div> -->
+						<div class="span-2">
+							<p class="all"><a href="http://www.haburi.com/en/brands">Alle Brands<span class="arrow_right_medium"></span></a></p>
+						</div>
+					</div>
+				</div>
+				<div class="right">
+					<div class="span-3 last">
+						<map name="flyout_brands" id="flyout_brands">
+							<area shape="rect" coords="0,0,230,337" href="/en/brand/claire-bruce" alt="FAVORITE BRAND - CLAIRE + BRUCE" title="FAVORITE BRAND - CLAIRE + BRUCE">
+						</map>
+						<img src="http://static.haburi.com/content/flyout/flyout_brands.jpg" width="230" height="337" border="0" alt="" title="" usemap="#flyout_brands">
+					</div>
+				</div>
+			</div>
+		</div>	
+	</li>
+
+	<li class="main_cat" name="sale">
+		<a href="http://www.haburi.com/en/sales">Sale</a>
+
+		<div class="span-9 last main_cat_flyout category">
+			<div class="flyout_arrow"></div>
+			<div class="clearfix">
+				<div class="left span-6 last">
+					<div class="clearfix span-6 last">
+						<div class="span-2 list">
+							<h2>Sale Women</h2>
+							<ul>
+								<li><a href="http://www.haburi.com/en/sales-women-jeans">Jeans</a></li>
+								<li><a href="http://www.haburi.com/en/sales-women-t-shirts-co">T-Shirts</a></li>
+								<li><a href="http://www.haburi.com/en/sales-women-jackets-coats">Jackets</a></li>
+								<li><a href="http://www.haburi.com/en/sales-women-dresses">Dresses</a></li>
+								<li><a href="http://www.haburi.com/en/sales-women-shoes">Shoes</a></li>
+								<li><a href="http://www.haburi.com/en/sales-women-underwear">Underwear</a></li>
+							</ul>
+						</div>
+						<div class="span-2 list">
+							<h2>Sale Men</h2>
+							<ul>
+								<li><a href="http://www.haburi.com/en/sales-men-jeans">Jeans</a></li>
+								<li><a href="http://www.haburi.com/en/sales-men-t-shirts-co">T-Shirts</a></li>
+								<li><a href="http://www.haburi.com/en/sales-men-jackets-coats">Jackets</a></li>
+								<li><a href="http://www.haburi.com/en/sales-men-shirts">Shirts</a></li>
+								<li><a href="http://www.haburi.com/en/sales-men-shoes">Shoes</a></li>
+
+							</ul>
+						</div>
+						<div class="span-2 list">
+							<h2>Sale Brands</h2>
+							<ul>
+								<li><a href="/en/brand/desigual">Desigual</a></li>
+								<li><a href="http://www.haburi.com/en/brand/diesel/sales">Diesel</a></li>
+								<li><a href="http://www.haburi.com/en/brand/fornarina/sales">Fornarina</a></li>
+								<li><a href="http://www.haburi.com/en/brand/g-star/sales">G-Star</a></li>
+								<li><a href="http://www.haburi.com/en/brand/guess/sales">Guess</a></li>
+								<li><a href="http://www.haburi.com/en/brand/hilfiger-denim/sales">Hilfiger Denim</a></li>
+								<li><a href="http://www.haburi.com/en/brand/review/sales">Review</a></li>
+								<li><a href="http://www.haburi.com/en/brand/scotch-soda/sales">Scotch&amp; Soda</a></li>
+								<li><a href="http://www.haburi.com/en/brand/selected/sales">Selected</a></li>
+								
+								
+							</ul>
+						</div>
+					</div>
+					<div class="clearfix span-6 last">
+						<div class="span-2">
+							<p class="all"><a href="http://www.haburi.com/en/sales-women">Sale Women <span class="arrow_right_medium"></span></a></p>
+						</div>
+						<div class="span-2">
+							<p class="all"><a href="http://www.haburi.com/en/sales-men">Sale Men<span class="arrow_right_medium"></span></a></p>
+						</div>
+						<div class="span-2">
+							<p class="all"><a href="http://www.haburi.com/en/brands">Sale Brands<span class="arrow_right_medium"></span></a></p>
+						</div>
+					</div>
+				</div>
+				<div class="right">
+					<div class="span-3 last">
+						<map name="flyout_sale" id="flyout_sale">
+							<area shape="rect" coords="0,0,230,337" href="http://www.haburi.com/en/sales" alt="SUMMER SALE - SHOP NOW" title="SUMMER SALE - SHOP NOW">
+						</map>
+						<img src="http://static.haburi.com/content/flyout/flyout_sale_de1.jpg" width="230" height="337" border="0" alt="" title="" usemap="#flyout_sale">
+					</div>
+				</div>
+			</div>
+		</div>
+	</li>
+</ul>
+
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->		
+		</div>
+		
+		
+		<div class="span-3 last search_form">
+		
+	
+		<form name="CatalogSearchForm" id="CatalogSearchForm">
+		<input type="hidden" name="storeId" value="10151" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
+	
+		<input type="hidden" name="catalogId" value="10054" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
+	
+		<input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
+	
+		<input type="hidden" name="pageSize" value="12" id="WC_CachedHeaderDisplay_FormInput_pageSize_In_CatalogSearchForm_1">
+	
+		<input type="hidden" name="beginIndex" value="0" id="WC_CachedHeaderDisplay_FormInput_beginIndex_In_CatalogSearchForm_1">
+	
+		<input type="hidden" name="searchSource" value="Q" id="WC_CachedHeaderDisplay_FormInput_searchSource_In_CatalogSearchForm_1">
+	
+		<input type="hidden" name="sType" value="SimpleSearch" id="WC_CachedHeaderDisplay_FormInput_sType_In_CatalogSearchForm_1">
+	
+		<input type="hidden" name="resultCatEntryType" value="2" id="WC_CachedHeaderDisplay_FormInput_resultType_In_CatalogSearchForm_1">
+	
+		<input type="hidden" name="showResultsPage" value="true" id="WC_CachedHeaderDisplay_input_1"> <input type="hidden" name="pageView" value="image" id="WC_CachedHeaderDisplay_input_2">
+	
+	
+	
+		<div id="header-search"><span id="searchTextHolder" style="display: none;">Search item</span> <span id="searchTextHolder2" style="display: none;">Search</span> 
+	
+			<input type="text" accesskey="0" size="18" class="search-txt" name="searchTerm" id="SimpleSearchForm_SearchTerm" value="" onfocus="JavaScript:AutoSuggest.clearSearchField();AutoSuggest.retrieveCachedSuggestions('/CachedSuggestionsView?langId=-1&amp;storeId=10151&amp;catalogId=10054');" onblur="AutoSuggest.fillSearchField('Search');" onkeyup="AutoSuggest.doAutoSuggest(event, &quot;/AutoSuggestView?storeId=10151&amp;catalogId=10054&quot;, this.value);" onkeypress="if(event.keyCode==13){Common.deleteCookie('FASTFINDER_FILTER');CachedHeaderDisplayJS.search(document.CatalogSearchForm.searchTerm.value,'http://www.haburi.com/en', 'http://www.haburi.com/ProductDisplay?storeId=10151&amp;brandNameToken=yyyyy&amp;productId=xxxxx&amp;urlRequestType=Base&amp;langId=-1&amp;catalogId=10054'); return false;}" autocomplete="off" maxlength="65" role="combobox" tabindex="0">
+	
+			<div id="autoSuggest_Container">
+	
+			<div id="autoSuggest_Result_div" class="span-3 last flyout search" onmouseover="AutoSuggest.autoSuggestHover = true;" onmouseout="AutoSuggest.autoSuggestHover = false; document.getElementById('SimpleSearchForm_SearchTerm').focus();" style="display: none;">
+	
+			<div class="autoSuggest_wrapper">
+	
+			<div class="search_left_border"></div>
+	
+			<div id="autoSuggest_content_div" class="autoSuggest_content">
+	
+			<div dojotype="wc.widget.RefreshArea" widgetid="autoSuggestDisplay_Widget" controllerid="AutoSuggestDisplayController" id="autoSuggestDynamic_Result_div" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all">
+	
+			</div>
+	
+			<div id="autoSuggestStatic_1"></div>
+	
+			<div id="autoSuggestStatic_2"></div>
+	
+			<div id="autoSuggestStatic_3"></div>
+	
+			<div id="autoSuggestHistory"></div>
+	
+			</div>
+	
+			<div class="search_right_border"></div>
+	
+			<div class="autoSuggest_bottom">
+	
+			<div class="bottom_left_shadow"></div>
+	
+			<div class="middle_shadow"></div>
+	
+			<div class="bottom_right_shadow"></div>
+	
+			<div class="clear_float"></div>
+	
+			</div>
+	
+			</div>
+	
+			</div>
+	
+			<!--[if lte IE 6.5]><iframe id="autoSuggestDropDownIFrame" scrolling="no" frameborder="0" src="/wcsstore/HaburiStorefrontAssetStore/images/empty.gif"></iframe><![endif]-->
+	
+			</div>
+	
+			<div dojotype="wc.widget.RefreshArea" widgetid="AutoSuggestCachedSuggestions" controllerid="AutoSuggestCachedSuggestionsController" id="autoSuggestCachedSuggestions_div" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" style="display: none;"></div>
+	
+		
+	
+	
+	
+		<div id="searchDiv"><a class="imgSearch global_sprite icon_search right" id="WC_CachedHeaderDisplay_button_1" href="#" onclick="Common.deleteCookie('FASTFINDER_FILTER');CachedHeaderDisplayJS.search(document.CatalogSearchForm.searchTerm.value,'http://www.haburi.com/en', 'http://www.haburi.com/ProductDisplay?storeId=10151&amp;brandNameToken=yyyyy&amp;productId=xxxxx&amp;urlRequestType=Base&amp;langId=-1&amp;catalogId=10054'); return false;"></a>
+	
+		</div>
+	
+		</div>
+	
+	
+	
+		</form>
+	
+		
+		</div>
+	
+	
+	</div>
+	<div class="container">
+			<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <div emsname="Menu_STA_spot"></div>
+
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp --><!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <div emsname="SubMenu_Header_Complete_spot"></div>
+
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+	</div>
+</div>			
+<div id="container_search_content">
+<div id="search_dialog" data-dojo-id="search_dialog" class="search_content" data-dojo-type="dijit/Dialog" style="display:none;">
+	<h1>Search Results</h1>
+	<p>We`re sorry. Your search for  : "<span id="termsearchPopup"></span>" delivered no results</p>
+		
+	<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <div emsname="SearchPage_NoResults_STA_spot"></div>
+
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+</div>		
+</div>
+
+	        <script type="text/javascript">
+	        	dojo.ready(function(){
+	        		Common.parseMS('10151','10054','-1',
+                	'','','',
+                	'','','',
+                	'','','');
+	        	});
+	        </script>
+	       	
+
+
+   
+   	<div class="container promotion_message">
+		<div id="HomePage_Row1_STA_spot" class="ajaxEspot marketingSpotPrincipalContent"></div>
+	</div>
+   <!-- Header Nav End --><!-- Main Content Start -->
+   	<div class="container overview_content">
+  	
+   		<div class="container back_to_shop">
+			<a id="continueShoppingId" href="http://www.haburi.com/en">
+				Go shopping
+			</a>
+		</div>
+   	
+	   	<div class="container prepend-top">
+
+	   		<!-- Left navigation -->
+<div class="service_page_menu span-3">
+	<div id="kundenservice" class="menu_block append-bottom">
+		<a class="title" title="Customer Service" style="cursor: pointer;" onclick="ServicesMenu.clickNextSubLevel('kundenservice');">
+			<span class="arrows">
+				<span class="arrow_right_medium"></span>
+				<span class="arrow_bottom_medium"></span>
+			</span>Customer Service
+		</a>
+		<ul class="level1">
+			<li id="contact"><a href="http://www.haburi.com/en/help-contact-us">Contact</a></li>
+			<li id="faq"><a href="http://www.haburi.com/en/faqs">FAQ</a></li>
+			<li id="zahlungsmethoden">
+				<a title="Payment" style="cursor: pointer;" onclick="ServicesMenu.clickNextSubLevel('zahlungsmethoden');">Payment</a>
+				<ul class="level2">
+					<li id="paymentmethod">
+						<a title="Payment Methods" style="cursor: pointer;" onclick="ServicesMenu.clickNextSubLevel('paymentmethod');">Payment Methods</a>
+						<ul class="level3">
+							
+									<li id="visa"><a href="http://www.haburi.com/en/payment-methods/pay-with-visa">Visa</a></li>
+							    
+					                <li id="eurocard"><a href="http://www.haburi.com/en/payment-methods/pay-with-eurocard">MasterCard</a></li>
+								 
+					                <li id="amex"><a href="http://www.haburi.com/en/payment-methods/pay-with-americanexpress">American Express</a></li>
+								
+									<li id="paypal"><a href="http://www.haburi.com/en/payment-methods/pay-with-paypal">Paypal</a></li>
+								
+									<li id="prepayment"><a href="http://www.haburi.com/en/payment-methods/prepayment">Prepayment</a></li>
+								
+									<li id="cash"><a href="http://www.haburi.com/en/payment-methods/cashondelivery">Cash on Delivery</a></li>
+								
+									<li id="sofort"><a href="http://www.haburi.com/en/payment-methods/sofort">Directpay</a></li>
+								
+						</ul>
+					</li>
+					<li id="security">
+						<a href="http://www.haburi.com/en/security">Security</a>
+						
+					</li>
+				</ul>
+			</li>
+			<li id="deliveryservice">
+				<a title="Delivery" style="cursor: pointer;" onclick="ServicesMenu.clickNextSubLevel('deliveryservice');">Delivery</a>
+				<ul class="level2">
+					<li id="deliveryinfo"><a href="http://www.haburi.com/en/deliveryinfo">Deliveryinformation</a></li>
+					<li id="differentaddress"><a href="http://www.haburi.com/en/different-address">Different  Address</a></li>
+					<li id="specialdelivery"><a href="http://www.haburi.com/en/special-delivery">Special Delivery</a></li>
+				</ul>
+			</li>
+			<li id="returnsrefunds">
+				<a title="Returns &amp; Refunds" style="cursor: pointer;" onclick="ServicesMenu.clickNextSubLevel('returnsrefunds');">Returns &amp; Refunds</a>
+				<ul class="level2">
+					<li id="returns"><a href="http://www.haburi.com/en/returns">Return</a></li>
+					<li id="claim"><a href="http://www.haburi.com/en/claim">Claim</a></li>
+					<li id="replace"><a href="http://www.haburi.com/en/replace">Replacement</a></li>
+					<li id="refunds"><a href="http://www.haburi.com/en/refunds">Refunds</a></li>
+				</ul>
+			</li>
+			<li id="sizeguide">
+				<a title="Size Guide" style="cursor: pointer;" onclick="ServicesMenu.clickNextSubLevel('sizeguide');">Size Guide</a>
+				<ul class="level2">
+					<li id="sizetable"><a href="http://www.haburi.com/en/sizetable">Size Table</a></li>
+					<li id="fashiondictionary"><a href="http://www.haburi.com/en/fashiondictionary">Fashion Dictionary</a></li>
+					<li id="washing"><a href="http://www.haburi.com/en/washing">Washing Symbols</a></li>
+				</ul>
+			</li>
+			<li id="voucher">
+				<a href="http://www.haburi.com/en/voucher">Giftvoucher</a>
+			</li>
+		</ul>
+	</div>
+	<div id="dressforless" class="menu_block append-bottom">
+		<a class="title" title="Company" style="cursor: pointer;" onclick="ServicesMenu.clickNextSubLevel('dressforless');">
+			<span class="arrows">
+				<span class="arrow_right_medium"></span>
+				<span class="arrow_bottom_medium"></span>
+			</span>Company  
+		</a>
+		<ul class="level1">
+			<li id="uberuns">
+				<a title="About Us" style="cursor: pointer;" onclick="ServicesMenu.clickNextSubLevel('uberuns');">About Us</a>
+				<ul class="level2">
+					<li id="company"><a href="http://www.haburi.com/en/company">Company</a></li>
+					<li id="team"><a href="http://www.haburi.com/en/team">Our Team</a></li>
+					<li id="products"><a href="http://www.haburi.com/en/products">Our Products</a></li>
+				</ul>
+			</li>
+			<li id="press"><a href="http://www.haburi.com/en/press">Press</a></li>
+			<li id="career"><a href="http://de.workwithus.privalia.com/">Career</a></li>
+			<li id="socialmedia"><a href="http://www.haburi.com/en/social-network">Social Media</a></li>
+			<li id="partners"><a href="http://www.haburi.com/en/partner-programs">Partner Programms</a></li>
+			<li id="privacy"><a href="http://www.haburi.com/en/privacy-policy">Privacy Policy</a></li>
+			<li id="tc"><a href="http://www.haburi.com/en/terms-conditions">Terms and Conditions</a></li>
+			<li id="imprint"><a href="http://www.haburi.com/en/responsibles-site-shop">Imprint</a></li>
+		</ul>
+	</div>
+	<div id="newsletter" class="menu_block append-bottom">
+		<a class="title" title="Newsletter" style="cursor: pointer;" onclick="ServicesMenu.clickNextSubLevel('newsletter');">
+			<span class="arrows">
+				<span class="arrow_right_medium"></span>
+				<span class="arrow_bottom_medium"></span>
+			</span>Newsletter
+		</a>
+		<ul class="level1">
+			<li id="newsletterregistration"><a href="http://www.haburi.com/en/newsletter-registration">Registration</a></li>
+			<li id="newsletterchange"><a href="http://www.haburi.com/en/newsletter-change">Change</a></li>
+		</ul>
+	</div>
+</div>
+		   		<div class="service_page_content span-9 last">
+	   		<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_30872">
+    <div emsname="Services_Generic_STA_Spot"></div>
+
+
+            <div class="ad" id="ad_30872">
+        <div><br></div><u>Data Protection Policy</u><div> We are committed to protecting the privacy of our site visitors and customers. We will not disclose information about our customers to third parties except where it is necessary to providing a service to you e.g. the delivery of a product to you. Your information is used solely for the purpose of carrying out and processing your order and fulfilling our contract to you. Our delivery partner is the Deutsche Post / DHL (and the relevant postal services in countries outside of Germany). These service providers receive your information and use it to deliver your order to you, no more. Once your order has been fulfilled, your data is stored for tax/legal reasons, however access to this data is barred. This data is, therefore, not available to be utilised or shared with any third parties. We will not rent or sell your name, address, e-mail address, credit card information or personal information to any third party. If you have not consented for you data to be used again e.g. for the reception of newsletters, then the remaining data will be deleted. In this case you can view, change and delete the relevant data on our website. Your consent to use your data can be revoked at any time.</div><div> In order to carry out the following activities, we require your permission to store your personal data which we will request from you at the relative steps in this process.</div><div> Request the newsletter with current offers Registration as a regular customer Participate in a raffle Personalize our site Verification of your creditworthiness (or your age), in order to be able to offer you all advantageous payment methods.</div><div> If you have not consented for you data to be used again e.g. for the reception of newsletters, then the remaining data will be deleted. In this case you can view, change and delete the relevant data on our website. Your consent to use your data can be revoked at any time. For the following activity to be carried out, we require your personal information as well as your consent to store your data: - The sending of newsletters with current offers. Should you at a later time decide that you would no longer wish to receive these newsletters, you may revoke your consent by sending a message to us or by "opting out" from the mailing list on our website.</div><div> Telephone:	+44 (0) 20 71 93 39 96   (Monday until friday from 09:00 until 18:00 (CET)) Post:	www.haburi.es operated by  dress-for-less GmbH  Mönchhofallee 1  D-65451 Kelsterbach  Germany eMail:	Datenschutz@haburi.com</div><div> Our data protection policy is in accord with the federal data protection act (BDSG) as well as with the telemedia act (TMG). Please note that the teleservice data protection act (TDDSG) is since 01.03.2007 no longer active and has been replaced by the telemedia act (TMG). We utilise your personal data solely to fulfil your order/s with us. Your data will only be utilised to provide you with additional services should you request this. In order to process and fulfil your order/s, we will forward your data to our delivery service company. Should you at a later point decide that you would no longer like to receive our services, you may at any time revoke your consent. A "cookie" is a small piece of data which is transmitted by us onto your computer when you surf on our website. A cookie may only contain information which we send to your computer - private data cannot be read or transferred. We have no access to your computer should you accept our cookies. However, the cookies allow us to identify your computer. The data saved in our cookies do not include and are not connected to your personal data (name, address etc.).</div>
+<div>A "cookie" is a small piece of data which is transmitted by us onto your computer when you surf on our website. A cookie may only contain information which we send to your computer - private data cannot be read or transferred. We have no access to your computer should you accept our cookies. However, the cookies allow us to identify your computer. The data saved in our cookies do not include and are not connected to your personal data (name, address etc.).</div>
+<div><br></div><u>facebook:</u><div> We are using plug-ins generated by the social network Facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (in the following: Facebook), on our web-pages. In case you are accessing one of our web-pages equipped with the above mentioned plug-ins, a connection to the Facebook servers is established and the plug-in displayed by sending messages to your browser. Herewith, all information about which of our web-pages you have visited is transferred to the Facebook server. In case you are logged in with your Facebook account, the given information is assigned to your personal Facebook user account. When using the plug-in features (i.e. click on the the “like”-button, comment on something.) this information will also be assigned to your personal Facebook account. This can only be prevented by logging out before using the stated plug-ins. More information on data collection and usage by Facebook as well as your rights and possibilities to protect your privacy you may find in Facebook’s data privacy details.</div>
+
+
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+		   		 </div>
+	   		
+		   		<div class="service_page_teaser span-3 last right">
+					<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_30871">
+    <div emsname="ServiceInformation_STA_Spot"></div>
+
+
+            <div class="ad" id="ad_30871">
+        					<h1>So erreichst Du uns!</h1>
+					<div class="info_block" style="padding-top: 10px; overflow: hidden;">
+						<div class="left"><span class="global_sprite_v2 email"></span></div>
+						<div class="right">
+							<h2>per E-Mail:</h2>
+							<div class="data"><a href="mailto:service@haburi.de">service@haburi.de</a></div>
+						</div>
+					</div>
+					<div class="info_block" style="padding-top: 10px; overflow: hidden;">
+						<div class="left"><span class="global_sprite_v2 phone"></span></div>
+						<div class="right">
+							<h2>per Telefon:</h2>
+							<div class="data">+49 (0) 1803 422874 </div>
+							<div class="phone_info">
+								(0,20 € je Anruf inkl. MwSt. aus dem dt. Festnetz, max. 0,60 € je Anruf inkl. MwSt. aus dem Mobilfunk). 
+								<span> Montag bis Freitag von 09:00 bis 18:00h (MEZ).</span>
+							</div>
+						</div>
+					</div>
+					<div class="info_block" style="padding-top: 10px; overflow: hidden;">
+						<div class="left"><span class="global_sprite_v2 fax"></span></div>
+						<div class="right">
+							<h2>per Fax:</h2>
+							<div class="data">+49 (0) 1805-7467329</div>
+						</div>
+					</div>
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+				</div>
+	   		
+   		</div>
+   
+   </div><!-- BEGIN LayoutContainerBottom.jspf -->
+<script type="text/javascript">
+    dojo.addOnLoad(function(){
+    	CachedFooterDisplayJS.initializationAnalytics('en_US');
+    	CachedFooterDisplayJS.initializationURLs('http://www.haburi.com/AjaxContactView?optionName=Contact&optionPage=1&catalogId=10054&urlLangId=-1&langId=-1&storeId=10151','http://www.haburi.com/h-de/en/newsletter','http://www.haburi.com/AjaxMoreInformationView?catalogId=10054&urlLangId=-1&langId=-1&storeId=10151');
+	});
+</script>
+
+<div id="footer" class="container prepend-top">
+	<hr>
+	<div class="container service prepend-top">   	
+		<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_30860">
+    <div emsname="Footer_left_STA_spot"></div>
+
+
+            <div class="ad" id="ad_30860">
+        <div class="left column">      
+<ul>           
+<li class="title">Customer Service</li>   
+        
+<li><a href="/en/help-contact-us">Contact</a></li>           
+<li><a href="/en/faqs">Help</a></li>           
+<li><a href="/en/deliveryinfo">Delivery</a></li>           
+<li><a href="/en/returns">Returns</a></li>  
+<li><a href="/en/terms-conditions">Terms &amp; Conditions</a></li>                    
+<li><a href="/en/newsletter-registration">Newsletter</a></li>      
+</ul>  
+
+</div>           
+<div class="left column">       
+<ul>            
+<li class="title">Haburi</li>            
+<li><a href="/en/company">About us</a></li>            
+<li><a href="http://de.workwithus.privalia.com/">Jobs</a></li> 
+<li><a href="/en/press">Press</a></li>              
+<li><a href="/en/responsibles-site-shop">Imprint</a></li>            
+<li><a href="/en/privacy-policy">Privacy Policy</a></li>                        
+  
+</ul>    
+</div>
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+		<div class="left column">
+			<ul class="icons pmethod">
+				<li class="title">Payment methods</li>
+				
+						<li><a class="VISA " href="http://www.haburi.com/en/payment-methods/pay-with-visa" id="WC_CachedFooterDisplay_link_11" onclick="javascript:_gaq.push(['global._trackEvent', 'paymentGateway','show','Visa']);"></a></li>
+					
+						<li><a class="MASTER " href="http://www.haburi.com/en/payment-methods/pay-with-eurocard" id="WC_CachedFooterDisplay_link_12" onclick="javascript:_gaq.push(['global._trackEvent', 'paymentGateway','show','EuroCard']);"></a></li>
+					
+						<li><a class="AMEX " href="http://www.haburi.com/en/payment-methods/pay-with-americanexpress" id="WC_CachedFooterDisplay_link_13" onclick="javascript:_gaq.push(['global._trackEvent', 'paymentGateway','show','AmericanExpress']);"></a></li>
+					
+						<li><a class="PAYPAL " href="http://www.haburi.com/en/payment-methods/pay-with-paypal" id="WC_CachedFooterDisplay_link_16" onclick="javascript:_gaq.push(['global._trackEvent', 'paymentGateway','show','PayPal']);"></a></li>
+					
+						<li><a class="NOWPM " href="http://www.haburi.com/en/payment-methods/sofort" id="WC_CachedFooterDisplay_link_15" onclick="javascript:_gaq.push(['global._trackEvent', 'paymentGateway','show','Sofort']);"></a></li>
+					
+						<li><a class="PREPM " href="http://www.haburi.com/en/payment-methods/prepayment" id="WC_CachedFooterDisplay_link_17" onclick="javascript:_gaq.push(['global._trackEvent', 'paymentGateway','show','Prepaid']);"></a></li>
+					
+						<li><a class="COD1 " href="http://www.haburi.com/en/payment-methods/cashondelivery" id="WC_CachedFooterDisplay_link_14" onclick="javascript:_gaq.push(['global._trackEvent', 'paymentGateway','show','Dhl']);"></a></li>
+					
+			</ul>
+		</div>
+		<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_30861">
+    <div emsname="Footer_right_STA_spot"></div>
+
+
+            <div class="ad" id="ad_30861">
+        <div class="left country">
+					<ul>
+						<li class="title">Choose Country</li>
+						<a href="http://www.haburi.de/de" class="global_sprite_v2 country_flag_DEU left act"></a>
+						<a href="http://www.haburi.at/de" class="global_sprite_v2 country_flag_AUT left act"></a>
+						<a href="http://www.haburi.ch/de" class="global_sprite_v2 country_flag_CHE left act"></a>
+						<a href="http://www.haburi.nl/nl" class="global_sprite_v2 country_flag_NLD left act"></a>
+						<a href="http://www.haburi.co.uk/en" class="global_sprite_v2 country_flag_GBR left act"></a>
+						<a href="http://www.haburi.fr/fr" class="global_sprite_v2 country_flag_FRA left act"></a>
+						<a href="http://www.haburi.es/es" class="global_sprite_v2 country_flag_ESP left act"></a>
+
+					</ul>
+					<div class="clearfix"><a href="http://www.haburi.com/">International</a></div>
+				</div>
+				
+				<div class="right column">
+					<ul>
+						<li class="title">Partner Shops</li>
+						<li>
+							<a href="http://www.kolibrishop.com" target="_blank" class="partner_shop">kolibrishop.com</a>
+						</li>
+						<li>
+							<a href="http://www.dress-for-less.de/" target="_blank" class="partner_shop">dress-for-less.de</a>
+						</li>
+					</ul>
+				</div>		
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+	</div>
+        
+	
+	<div class="footer_info">	        	                        
+		<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_30859">
+    <div emsname="Footer_info_STA_spot"></div>
+
+
+            <div class="ad" id="ad_30859">
+        <a class="global_sprite icon_bvh_footer" href="http://www.shopinfo.net/zertifizierte-shops/zertifikat/index.html?memberkey=BVH&amp;shopurl=www.dress-for-less.de" target="_blank"></a>
+				<div class="copyright">Copyright © haburi<br>1999-2014</div>
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+	</div>            
+	
+</div>
+
+<div class="container prepend-top append-bottom footer_shop_descr">
+	<hr>
+	<!-- BEGIN ContentAreaESpot.jsp -->
+
+
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_14852">
+    <div emsname="FooterText_STA_spot"></div>
+
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+</div>
+
+<div id="footer_fix_bar">
+	<div class="outside_container footer_fix_bar">
+		<div class="container">
+			<!-- Newsletter -->
+			<div class="span-9 newsletter">
+				<div class="left promo_text">				
+					<span class="global_sprite icon_newsletter"></span> Sign up to our newsletter and
+				</div>
+				<div class="left newsletter_form">
+					<form id="emailNLForm" accept-charset="utf-8" dojotype="dijit.form.Form">
+						<input type="hidden" value="act_or" name="nav">
+						<input type="hidden" id="fix_emailHidden" value="Your E-Mail Address">
+						<input required="true" missingmessage="This is a required field" type="text" id="FooterFixBar_input" dojotype="dijit.form.ValidationTextBox" constraints="{id:'FooterFixBar_input'}" value="Your E-Mail Address" class="span-3 last">
+						<a onclick="NewsletterSettingsJS.goNews('W',dojo.byId('FooterFixBar_input'),'http://www.haburi.com/NewsletterView?optionPage=NewsletterRegistration&amp;catalogId=10054&amp;emsName=ServicePage_Subscribe_spot&amp;urlLangId=-1&amp;langId=-1&amp;storeId=10151');return false;" href="javascript:void(0);">
+							Women
+						</a>
+						<a onclick="NewsletterSettingsJS.goNews('M',dojo.byId('FooterFixBar_input'),'http://www.haburi.com/NewsletterView?optionPage=NewsletterRegistration&amp;catalogId=10054&amp;emsName=ServicePage_Subscribe_spot&amp;urlLangId=-1&amp;langId=-1&amp;storeId=10151');return false;" href="javascript:void(0);">
+							Men
+						</a>
+					</form>
+				</div>
+			</div>
+			<!-- /Newsletter --><!-- Social media icons + contact link -->
+			<div class="span-3 last">
+				<div class="left socialmedia">
+					<a target="_blank" href="https://twitter.com/haburi" class="global_sprite icon_twitter"></a>
+					<a target="_blank" href="https://www.facebook.com/haburi" class="global_sprite icon_facebook"></a>
+					<a target="_blank" href="???footer_social_media_link_google???" class="global_sprite icon_googleplus"></a>
+					<a target="_blank" href="http://instagram.com/haburi_official" class="global_sprite icon_instagram"></a>
+				</div>
+				<div class="right contact">
+					<a href="javascript:void(0);" onclick="CachedHeaderDisplayJS.openPopup('http://www.haburi.com/AjaxContactView?optionName=Contact&amp;optionPage=1&amp;catalogId=10054&amp;urlLangId=-1&amp;langId=-1&amp;storeId=10151',['contact'],CommonPopupValidator.initButtonsEvents); return false;">Contact</a>
+				</div>
+			</div>
+			<!-- /Social media icons + contact link -->
+		</div>
+	</div>
+</div>
+<!-- END LayoutContainerBottom.jspf -->
+        </div>
+		<noscript>
+	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-5XVK" height="0" width="0" style="display:none;visibility:hidden">
+	</iframe>
+</noscript>
+<script type="text/javascript">
+	dojo.ready(function() {
+		dojo.require("dfl/logic/tracking/common");
+		require(["dfl/logic/tracking/google/tagManager"], function(TagManager) {
+			var tm = new TagManager();
+			tm.track('GTM-5XVK');
+		});
+	});
+</script>
+		<script type="text/javascript" src="http://static.haburi.com/wcsstore/HaburiStorefrontAssetStore/javascript/dojo/common/jQuery_1.8.3.min.js?v=71588"></script>
+		<script type="text/javascript" src="http://static.haburi.com/wcsstore/HaburiStorefrontAssetStore/javascript/dojo/common/jquery.scroll.min.js?v=71588"></script>
+		<script type="text/javascript" src="http://static.haburi.com/wcsstore/HaburiStorefrontAssetStore/javascript/dojo/common/jquery.scrollTo-min.js?v=71588"></script>
+		
+	
+
+</body></html>
