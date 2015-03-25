@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the dntrade.com.au privacy policy that was archived on 2014-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140304050245id_/https%3A//www.dntrade.com.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dntrade.com.au privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325085653id_/https%3A//www.dntrade.com.au/blog/dntrade-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DNTrade
-
-## DNTrade Privacy Policy
+# DNTrade Privacy Policy - DNTrade
 
 **1\. About**
 
-This document explains how we collect, use and disclose your personal information in connection with our services. In this document when we use the term “we” or “us” it is a reference to Hypercraft ABN 75 172 062 699. Our website operates as a domain name and technology forum.
+This document explains how we collect, use and disclose your personal information in connection with our services. In this document when we use the term “we” or “us” it is a reference to Web DNA ABN 75 566 100 236. Our website operates as a domain name and technology forum.
 
 **2\. Collection**
 
@@ -40,9 +38,9 @@ This document explains how we collect, use and disclose your personal informatio
 
 5.2. A cookie is a small file we store on your computer which holds the information we outlined in clause 5.1. Every time you visit our site we can view this information.
 
-5.3 Third party vendors, including Google, use cookies to (a) serve ads on our website; and (b) serve ads based on a user's prior visits to your website.
+5.3 Third party vendors, including Google, use cookies to (a) serve ads on our website; and (b) serve ads based on a user’s prior visits to your website.
 
-5.4 Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+5.4 Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
 5.5 Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the ads preference manager or by visiting aboutads.info.
 
@@ -68,4 +66,4 @@ This document explains how we collect, use and disclose your personal informatio
 
 8.2. We may amend this policy from time to time, to make sure that it is accurate and up to date.
 
-8.3 You can contact us as follows [via email](https://www.dntrade.com.au/sendmessage.php) or By Post: DnTrade, P.O Box 2061, Hotham Hill, Victoria, 3051.
+8.3 You can contact us as follows [via email](https://www.dntrade.com.au/sendmessage.php) or By Post: DNTrade, P.O Box 2061, Hotham Hill, Victoria, 3051.
