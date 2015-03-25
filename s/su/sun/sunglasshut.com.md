@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2014-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140721225035id_/http%3A//www.sunglasshut.com/AboutUs%3FcatalogId%3D10101%26langId%3D-1%26storeId%3D10152%26page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325202346id_/http%3A//www.sunglasshut.com/AboutUs%3FcatalogId%3D10101%26langId%3D-1%26storeId%3D10152%26page%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Legal/Privacy | SunglassHut.com
 
-## Security and Privacy Notice
+### Security and Privacy Notice
 
 ### Our Commitment
 
@@ -72,7 +72,7 @@ Links to third party web sites on our Site are provided solely as a convenience 
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to provide you with extra features on our Site. The cookies do not contain any information that would identify you personally. SunglassHut.com uses cookies to monitor the traffic on our Site and enhance your visit by among other things, storing items in your shopping cart. Thank you for visiting us at Sunglass Hut Online and if we can ever be of assistance please feel free to email us at [support@sunglasshutonline.com](mailto:support@sunglasshutonline.com).
 
-## California Privacy Policy
+### California Privacy Policy
 
 If you are a California resident and a Sunglass Hut, Sunglass Hut at Macy's, Ilori, LensCrafters, Pearle Vision, Target Optical or Sears Optical, you have the right to request information from Sunglass Hut about the way in which Sunglass Hut shares certain categories of your personal information with affiliated Luxottica Retail companies for their direct marketing purposes. Sunglass Hut, Sunglass Hut at Macy's, Ilori, LensCrafters, Pearle Vision, Target Optical or Sears Optical does not currently actively respond to "Do Not Track" browser signals or mechanisms.
 
@@ -86,7 +86,7 @@ California law provides that you have the right to submit a request to Sunglass 
   
 You are entitled to receive a copy of this information in a standardized format, and the information will not be specific to you individually.
 
-## TRANSPARENCY IN SUPPLY CHAIN DISCLOSURE
+### TRANSPARENCY IN SUPPLY CHAIN DISCLOSURE
 
 Luxottica has adopted both a Code of Conduct and a Code of Ethics, with which employees, business partners and suppliers are expected to comply. Luxottica produces the vast majority of its products at facilities that it owns and where it controls hiring and employment practices. The Codes require that all associated with Luxottica behave ethically and within the bounds of the law, to respect the rights of people’s dignity, health and safety, and that also denounces the use of child labor. Luxottica promotes the safeguarding of workers’ rights, trade union freedom and freedom of association in general.
 
