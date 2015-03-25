@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mynams.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708024238id_/http%3A//mynams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynams.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325161602id_/https%3A//mynams.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Novice to Advanced Marketing System
+# Privacy Policy - MyNAMS
 
 ## PRIVACY POLICY  
 Effective Date: May 9, 2013
@@ -111,5 +111,5 @@ Email:  compliance.officer-at-mynams.com
 Telephone: 256.318.5202  
 Facsimile:  800.470.5998
 
-–  
+—  
 Material Modifications Since May 9, 2013:  none.
