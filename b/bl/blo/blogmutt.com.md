@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blogmutt.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125621id_/https%3A//www.blogmutt.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmutt.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325052020id_/https%3A//www.blogmutt.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Last revised on: August 1, 2013
 
 Turuly, Inc., doing business as BlogMutt, is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our Site at www.BlogMutt.com and Services (as defined in the Terms of Service). It also describes the choices available to you regarding the use of your Personal Information and how you can access and update this information. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Service located at http://BlogMutt.com/pages/tos.
 
@@ -44,7 +42,7 @@ We may use an outside advertisement serving company to display advertisements on
 Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You may also be able to refuse certain web beacons by adjusting the settings on your browser or email software. Please refer to your browser or email software instructions or help screen to learn more about these functions.
 
 c. Google Analytics.   
-We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: http://www.google.com/analytics/, http://www.google.com/privacy.html and http://www.google.com/analytics/tos.html. You can also opt-out of Google Analytics for Display Advertising by going to the Google Ads Preferences Manager.
+We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: http://www.google.com/analytics/, http://www.google.com/privacy.html and http://www.google.com/analytics/tos.html. You can also opt-out of Google Analytics for Display Advertising by going to the Google Ads Preferences Manager. We enable Google Analytics’ User-ID feature to get a better understanding of logged-in user engagement data from different devices and multiple sessions. We want to continue to provide the best user experience for our customers and writers. This information enables us to better understand how users interact with our content over an extended period of time. 
 
 4\. Use of Your Personal Information   
 a. General Use.   
@@ -106,20 +104,19 @@ We will use at least industry standard security measures on the Site to protect 
 Our Site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, contact us at support@BlogMutt.com. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
 10\. Testimonials.   
-We display personal testimonials of satisfied customers on our Site in addition to other endorsements. If you choose to provide a testimonial on the Site, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at support@BlogMutt.com.
-
+We display personal testimonials of satisfied customers on our Site in addition to other endorsements. If you choose to provide a testimonial on the Site, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at support@BlogMutt.com.   
 11\. Referrals / Tell a Friend.   
 If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. BlogMutt stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us to request that we remove this information from our database.
 
 12\. Contact Information.   
 BlogMutt welcomes your comments or questions regarding this Privacy Policy. Please contact us at the following:
 
-support@blogmutt.com 
-
+support@blogmutt.com   
 or
 
 BlogMutt   
-1023 Walnut St, 1st Floor   
+1245 Pearl St   
+STE 208   
 Boulder CO 80302   
 USA
 
