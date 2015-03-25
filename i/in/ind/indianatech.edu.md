@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indianatech.edu privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803013204id_/http%3A//its.indianatech.edu/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianatech.edu privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325085946id_/http%3A//its.indianatech.edu/policies/privacy-policy) for the most accurate reproduction.*
 
-# Indiana Tech: IT Services: Privacy Policy : IT Services
+# Indiana Tech: IT Services: Privacy Policy
 
 We are committed to protecting your privacy at Indiana Tech. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement.
 
