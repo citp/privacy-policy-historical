@@ -1,0 +1,212 @@
+<!--The following is the downloaded HTML source of the youracclaim.com privacy policy that was archived on 2015-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150325052213id_/https%3A//www.youracclaim.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"01577753b5","applicationID":"1891511","transactionName":"c1tXQUFWWFhXSx1KEFFAUFYcSUZdRFhRQA==","queueTime":2,"applicationTime":15,"agent":"js-agent.newrelic.com/nr-627.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMFUVNSGwIIXVBXBgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta content="Acclaim is an enterprise-class Open Badge platform with one goal: connect individuals with better jobs. We partner with academic institutions, credentialing organizations and professional associations to translate learning outcomes into web-enabled credentials that are seamlessly validated, managed and shared through Acclaim." name="description">
+<meta content="Acclaim, open badges, digital badges, badges, web-enabled credentials, Badge Alliance, Mozilla Open Badge standards, Mozilla Open Badges, verified credentials, learning outcomes, Pearson badges, Pearson, Pearson VUE" name="keywords">
+<meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0" name="viewport">
+<meta content="1B97012E4CB3B07611090D1A0B4D9D19" name="msvalidate.01">
+<meta content="d20lZjrSJJ_n0jc1HHlADZBDmn5wZfiBDucFzzOzHCY" name="google-site-verification">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="iHCVeVZMOLzZI/nAeiilwnHzCy+o7dlG5jKhuzxESOXOEX9DY+9ve6ifVyh6pTBkVfuWP5nUs4vmNwWppb0Vhg==">
+<title>Acclaim</title>
+<link rel="stylesheet" media="screen" href="/assets/screen-2d37c0a9268df67f5b07d5854c7050a5.css">
+<link href="/assets/apple-touch-icon-144x144-precomposed-43fa654c7b12e8f51f505440021e8811.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<link href="/assets/apple-touch-icon-120x120-precomposed-41f1459a4a65b46cabebf9d2c1e5f064.png" rel="apple-touch-icon-precomposed" sizes="120x120">
+<link href="/assets/apple-touch-icon-114x114-precomposed-705f7f76c07a3b1d95e7117566dc0e3f.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="/assets/apple-touch-icon-72x72-precomposed-abbfd4e9d1f0e22fca7e29bb98d89fc0.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+<link href="/assets/apple-touch-icon-precomposed-862938484b7fab74dbd66cf5b0a87c05.png" rel="apple-touch-icon-precomposed">
+</head>
+<body>
+<div id="unsupported-browser-message"></div>
+<header>
+<div class="grid">
+<div class="l1-0 r1-0">
+<a href="https://www.youracclaim.com/" id="acclaim-logo">Acclaim</a>
+<nav class="logged-out">
+<p>
+<a href="/users/sign_up">Sign Up</a>
+|
+<a href="/users/sign_in">Sign In</a>
+</p>
+</nav>
+</div>
+</div>
+
+</header>
+<div class="static" id="flash">
+<div class="grid">
+<div class="l1-0 r1-0" data-behavior="flash-container">
+
+</div>
+</div>
+</div>
+<div class="static" id="public">
+<h1>Privacy</h1>
+<section>
+<h2>PRIVACY AND COOKIES POLICY</h2>
+<p>Pearson VUE, a business of NCS Pearson (“Pearson VUE”) has adopted the following Privacy and Cookies Policy (hereinafter “Policy”) applicable to personal information that we may receive on all websites and web pages offered by Pearson VUE that provide a link to this Policy (collectively this “Site”). We provide this Policy to help you to understand what we may do with any personal information that we obtain from you and how we may use cookies and similar technologies. All references to ‘our’, ‘us’, or ‘we’, in this Policy and within the opt-in notice are deemed to refer to Pearson VUE as appropriate.</p>
+<p>By visiting and/or providing information to us on this Site, you are accepting the practices described in this Policy and agree that we may collect, use, and disclose your personal information as described herein. If you do not agree to this Policy , please do not provide your personal information to us. This Policy is incorporated into, and part of, the Terms of Use, that govern your use of this Site in general. We will use your Personally Identifiable Information, defined below, only for the purposes set forth below.</p>
+<h2>PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT.</h2>
+<p>Pearson VUE collects and uses certain Personally Identifiable Information, as defined below, that you provide voluntarily when using this Site. “Personally Identifiable Information” includes information that can identify you as a specific individual, such as your name or address. “Personally Identifiable Information” does not include anonymized, aggregate or statistical information. Specifically, Personally Identifiable Information Pearson VUE may collect from you when you are ordering products, or requesting information or services from us may include, but is not limited to, your name, address, email address, job title, or other information we deem necessary to process your request for the products, information, or services. If you are purchasing products, we may additionally collect debit/credit card information and ship-to and bill-to information related to your purchase of such products.</p>
+<p>We may request feedback from you in the form of surveys, questionnaires, or comment forms relating to your product preferences and your satisfaction with the products you have purchased. These requests may include demographic information (e.g., age, gender, and interests), to help us better serve you. This information will only be used for our internal and research purposes and not for purposes of future marketing activities unless otherwise explicitly stated.</p>
+<p>Further, if you access other interactive tools or functions on this Site we may collect other types of Personally Identifiable Information from you.</p>
+<h2>AGGREGATION OF NON-PERSON-SPECIFIC DATA.</h2>
+<p>We may statistically aggregate in non-person-specific form information collected to improve this Site, our quality controls, operations management, security processes, future marketing and promotional efforts, and our overall product and service offerings in an attempt to better understand our customers interests and preferences. In some cases we may transfer this information to third parties. By using this Site, you give your consent to this non-person-specific data aggregation and the use and transmission of this aggregated statistical data as outlined above.</p>
+<h2>EMAIL NEWSLETTERS.</h2>
+<p>
+We may use your email address to send you email newsletters or other communications about the products and services available on this Site. You may opt out of receiving the newsletters or other communications at any time by either modifying your preferences in the “My Account” section on this Site (please note that due to email production schedules you may receive emails that are already in production), by notifying us by email at
+<a href="mailto:support@youracclaim.com">support@youracclaim.com</a>,
+or by following the opt-out instructions provided in the email newsletter.
+</p>
+<h2>SHARING OR TRANSFERRING OF PERSONALLY IDENTIFIABLE INFORMATION.</h2>
+<p>Except as otherwise provided herein, Personally Identifiable Information we receive from you will only be used for the purposes for which you provided it. Your Personally Identifiable Information will not be sold or provided to third parties outside of the Pearson family of companies without your permission. Pearson VUE may share or transfer Personally Identifiable Information in the follow situations:</p>
+<ul>
+<li>
+<strong>NCS Pearson, Inc.</strong>
+Within the NCS Pearson, Inc. family of companies.
+</li>
+<li>
+<strong>Company Partners.</strong>
+In some circumstances, we may partner with other companies to provide certain products, information, or services. An example may include certain promotional programs. In those situations, when you provide Personally Identifiable Information about yourself, it may be sent directly to Pearson VUE and to our partner company, or we may share the information with our partner company on an as needed basis. At the time of a product purchase, we will let you know whether, in addition to Pearson VUE, another company or companies will be receiving your Personally Identifiable Information in connection with the products or services you have ordered. If you choose to not have your Personally Identifiable information shared with our company partners, your information will not be shared, and you will not be able to participate in or receive the benefits or services provided by such company partners. Although we strive to only partner with companies who agree to adopt privacy policies that are consistent with our own values and policies, Pearson VUE is not responsible for the policies or offerings of any third party, and we urge you to review their policies and terms and conditions as they may vary.
+</li>
+<li>
+<strong>Services Provided by Third Parties.</strong>
+Pearson VUE, in its sole discretion, may transfer your Personally Identifiable Information to third parties under contract with Pearson VUE for purposes of fraud identification and detection, payment processing, product purchase fulfillment, and reporting services regarding visitor's activities on this Site. All third parties engaged by Pearson VUE are contractually required to maintain the confidentiality of your Personally Identifiable Information and are restricted from using the information for any purposes other than the purpose authorized by Pearson VUE.
+</li>
+<li>
+We may disclose Personally Identifiable Information in the following situations: (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect your security, or the security of other persons, consistent with applicable laws; (c) to address actual or suspected fraud or other illegal activities; (d) in connection with a sale, joint venture or other transfer of some or all of the assets of NCS Pearson, Inc.; and (e) to our contractors or agents, who are committed and obliged to protect your privacy in a manner consistent with this Policy.
+</li>
+<li>
+<strong>International Transfer of Information.</strong>
+NCS Pearson's computer operations are currently based in the United States. The Internet is a global environment. By using this Site and sending information to us electronically, you consent to transborder and international transmission of data that you may choose to supply us. Information transmissions to this Site and emails you send to us may not be secure. Given the inherent operation and nature of the Internet, all Internet transmissions are done at the user's own risk.
+</li>
+</ul>
+<h2>INFORMATION ACCESS AND CORRECTIONS.</h2>
+<p>
+To access and correct Personally Identifiable Information that you have submitted to us under this Policy, you may either sign into the “My Account” section of this Site and remove or modify your shipping addresses, billing addresses &amp; payment information (please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping) or you may contact us at
+<a href="mailto:support@youracclaim.com">support@youracclaim.com</a>.
+To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making alterations.
+</p>
+<h2>RESOLUTION OF CONCERNS.</h2>
+<p>
+If you have questions or concerns about this Policy or how we handle Personally Identifiable Information, please contact us at
+<a href="mailto:PearsonVUEContracts@pearson.com">PearsonVUEContracts@pearson.com</a>,
+If we are unable to satisfactorily address your concerns, you should contact the Data Protection Authority, or other relevant organization, in your area.
+</p>
+<h2>INFORMATION FROM CHILDREN.</h2>
+<p>
+We recognize the importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect Personally Identifiable Information from children under the age of 16. If a child under the age of 16 has provided us with Personally Identifiable Information, we ask that a parent or guardian contact us @
+PearsonVUEContracts@pearson.com
+<a href="mailto:PearsonVUEContracts@pearson.com">PearsonVUEContracts@pearson.com</a>
+or 1 (952) 681-3918. If you are under 18, please be sure to read this Policy with your parent(s) or legal guardian(s) and ask questions about things you do not understand. Those that are under the age of 18 may only purchase products from our online stores with the permission of their parent(s) or legal guardian(s).
+</p>
+<h2>INFORMATION RECEIVED FROM INTERNET SERVICE PROVIDERS THROUGH THIS WEBSITE.</h2>
+<p>This Site receives information that is automatically generated by a user's internet service provider (ISP). This information may include the IP address (a number automatically assigned to a computer by the ISP), the associated URLs, domain types, the browser type used to access this Site, the country, state and telephone area code, the location of the ISP's servers, the pages of this Site that the user views, any search terms entered on this Site, and the user's website address and email address. This information may be collected for system administration purposes, to gather broad demographic information, and to monitor the level of activity on this Site. Pearson VUE does not link IP addresses to Personally Identifiable Information; however, we reserve the right to link IP addresses and other information supplied by the ISP to Personally Identifiable Information in order to protect the integrity of our system and for security purposes.</p>
+<h2>YOUR CHOICES.</h2>
+<p>Pearson VUE strives to provide you with choices with regard to our use of your Personally Identifiable Information. For example, although we may occasionally use your Personally Identifiable Information to contact you regarding our products, information, or services of Pearson VUE we think might be of interest to you, we will provide you with instructions on how to opt out of receiving further communications of this nature by email should you so choose.</p>
+<h2>COOKIES AND WEB BEACONS.</h2>
+<p>
+<strong>Cookies.</strong>
+Cookies are small text files that a web server places on your computer or mobile device. Cookies contain information that can later be read by the web server that originally placed the cookie on your computer or mobile device.
+</p>
+<p>
+<strong>Here is a list of the main types of cookies we use, and what we use them for.</strong>
+</p>
+<ol>
+<li>
+<strong>Strictly Necessary Cookies:</strong>
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+</li>
+<li>
+<strong>Performance Cookies:</strong>
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. Some of these are analytics cookies, set using third party web analytics software, which allow us to understand more about how our website is used. These cookies do not collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous and does not affect your privacy. It is only used to improve how a website works. We might also use these cookies to highlight Pearson VUE products or services which we think will be of interest to you based on your use of our websites. For example, like many companies we use Google Analytics. We use Google Analytics to obtain web trend information about user interaction with this site. We use this information for system administration purposes and to identify problems and improve service. While Google Analytics collects and reports information on an anonymous basis, Google Analytics uses cookies and collects IP addresses to gather web trend information. For further information about Google Analytics, and for links to Google’s Privacy Policy and an opt-out tool for Google Analytics, go to http://www.google.com/intl/en/analytics/privacyoverview.html. By using Pearson VUE's website you agree we may place these types of cookies on your device.
+</li>
+<li>
+<strong>Functionality Cookies:</strong>
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, these cookies can be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites. By using Pearson VUE’s website you agree we may place these types of cookies on your device.
+</li>
+<li>
+<strong>Targeting or advertising cookies:</strong>
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization. Most of our websites do not use targeting cookies. By using Pearson VUE's website you agree we may place these types of cookies on your device.
+</li>
+</ol>
+<p>
+<strong>3rd Party Cookies and Social Networks.</strong>
+If you click on a hyperlink from this Site to any third party websites (e.g. if you ‘share’ content from Pearson VUE's websites with friends or colleagues through social networks), you may be sent cookies from these third party websites. Third party websites will have their own privacy and cookie policies which we cannot control. Please check the third-party websites for more information about their cookies and how to manage them.
+</p>
+<p>
+<strong>How to manage cookies.</strong>
+If cookies aren't enabled on your computer, it will mean that your browsing or shopping experience on our websites will be limited. Some active content, movies and online shopping baskets, for example, may not work correctly.
+</p>
+<p>
+To turn cookies on or off for all websites via your web browser, you can follow the instructions provided by the UK Information Commission Office at
+<a href="http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx">http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx</a>.
+</p>
+<p>
+<strong>Web Beacons.</strong>
+Web Beacons are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring data. For example, when you visit a page on this Site, the code for the page being visited may be transferred to us. The information transmitted to us is used internally, and not shared with third parties, except as provided in this Policy. We use this information for the following purposes:
+</p>
+<ul>
+<li>To allow us to better understand the traffic patterns within our websites and, subsequently, to adjust our content to better respond to visitor's interests; and</li>
+<li>To use the information to suggest materials and resources that may be of interest to you based on your use of this Site.</li>
+</ul>
+<p>By using this Site, you agree to the our use of cookies and our use of web beacons for the collections of certain information in order to provide the products or services you have requested and for improvement, as we deem appropriate in our sole discretion, related to our products and services.</p>
+<h2>LINKS TO OTHER SITES.</h2>
+<p>This Site may contain links to other websites on the Internet that are owned and operated by third parties, or by NCS Pearson or its affiliates. Pearson VUE does not control the privacy policies or practices of these websites. You should review the privacy policies of the third party offering the website before providing any Personally Identifiable Information to these websites. Pearson VUE is not responsible for the content or practices of any linked third party website and such third party websites are provided solely for the convenience and information to our visitors.</p>
+<h2>SECURITY.</h2>
+<p>The security of your Personally Identifiable Information is important to us. We follow generally accepted industry standards to protect the Personally Identifiable Information we receive from unauthorized access and use. When you enter sensitive information (such as credit card numbers or social security numbers) on your product or service order forms, we encrypt that information using secure socket layer technology (SSL). We safeguard your credit card information in our internal systems through the use of credit card industry standard protections. However, no method of transmission over the Internet, or method of electronic storage is 100% secure. Therefore, while we strive to use commercially reasonable means to protect your Personally Identifiable Information we cannot guarantee that your Personally Identifiable Information will never be disclosed in a manner inconsistent with this Policy (for example, as a result of unauthorized acts by third parties that violate applicable laws).</p>
+<h2>UPDATES TO THIS POLICY.</h2>
+<p>Pearson VUE reserves the right to update, revise, modify, and supplement this Policy and any disclosures and disclaimers at any time without notice by posting an updated Policy. We encourage you to review this Policy periodically for any changes or updates. At the end of this Policy we indicate the date of the latest update to the Policy. Your continued use of this Site following any of changes to this Policy signifies your acceptance of these changes.</p>
+<h2>HOW TO CONTACT US.</h2>
+<p>
+If you have any questions or concerns about this Policy, please contact us at
+<a href="mailto:PearsonVUEContracts@pearson.com">PearsonVUEContracts@pearson.com</a>.
+You may also contact us at +1 (952) 681-3918.
+</p>
+<p>Effective Date: June 28, 2012</p>
+</section>
+</div>
+
+<footer>
+<div class="grid">
+<section class="l1-0 r1-0">
+<div class="links">
+<a href="http://blog.youracclaim.com">Blog</a>
+<a href="/terms">Terms</a>
+<a href="/privacy">Privacy</a>
+<a href="/about">About</a>
+<a href="/support">Support</a>
+</div>
+<div class="social">
+<a class="icon-sharing-linkedin" href="https://www.linkedin.com/company/acclaim-badging?trk=biz-companies-cym">linkedin</a>
+<a class="icon-sharing-facebook" href="https://www.facebook.com/YourAcclaim?v=timeline&amp;filter=1">facebook</a>
+<a class="icon-sharing-twitter" href="https://twitter.com/youracclaim">twitter</a>
+<a class="icon-sharing-google" href="https://plus.google.com/+Youracclaim">google</a>
+
+</div>
+<div class="copy">
+© Copyright 2015
+</div>
+</section>
+</div>
+
+</footer>
+<script src="/assets/application-0eb60fb9cd32a4829cf696ccee094a72.js"></script>
+<script src="/assets/utilities/set_time_zone_cookie-69039d9c369133ac644630066ad8dca2.js"></script>
+<script src="/assets/utilities/set_supported_browser_flag-3981e66c34f8b3b55e7df47318e9cae3.js"></script>
+<script src="/assets/utilities/warn_unsupported_browsers-34ffc8a70e1fc872f8595c8f066d122c.js"></script>
+<script>
+//<![CDATA[
+(function(i,s,o,g,r,a,m) { i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-41547114-1', 'youracclaim.com');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+
+//]]>
+</script>
+
+<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
