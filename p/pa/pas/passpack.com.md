@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passpack.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708105357id_/https%3A//www.passpack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passpack.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326002958id_/https%3A//www.passpack.com/privacy) for the most accurate reproduction.*
 
 # privacy - Passpack.com
 
@@ -14,7 +14,7 @@ This Privacy Statement sets out the purposes of Passpack’s data processing in 
 This is an official informative note provided to whoever visits Passpack’s web site or uses the Passpack service. Passpack is required by law to uphold this Privacy Statement.
 
 By using the Passpack service and this website, you consent to the information practices described in this policy. Keep in mind that your use of the Passpack service is also subject to, and controlled by, the Passpack  
-[Terms and Conditions](https://web.archive.org/web/20140708105357id_/https://www.passpack.com/tac/ "Terms and Conditions") and the [Passpack User Agreement](https://web.archive.org/web/20140708105357id_/https://www.passpack.com/ua/).
+[Terms and Conditions](https://web.archive.org/web/20150326002958id_/https://www.passpack.com/tac/ "Terms and Conditions") and the [Passpack User Agreement](https://web.archive.org/web/20150326002958id_/https://www.passpack.com/ua/).
 
 #### Data Controller (this is us)
 
@@ -114,7 +114,7 @@ There are, however, some limited circumstances in which we may need to disclose 
 
   1. We may employ other companies to perform functions on our behalf, such as fulfilling orders, providing customer service, processing credit card payments, or other functions necessary to our business. We may therefore need to share your Personally Identifiable Information to banks or financial institutions, service companies, consultants, contractors and to the relevant Authorities imposed by law. The data you submit may be transmitted abroad, even outside European Union, only to our affiliated companies, in compliance with the requirements set forth by the privacy laws in force. However, we will provide them with only that information necessary to perform their functions, and will not allow them to use that information for any other purpose.
   2. Responses to requests for information necessary to provide you with the products you purchase or subscribe to through the Passpack service may contain Personally Identifiable Information. Passpack will provide the authors of such products the information you supply in response to those requests. The information practices of those publishers are not covered by this Privacy Statement. Your name, address, phone number, and email address, will not be shared with the Authors.
-  3. We may reveal a user’s identity (or whatever information we know about that individual) if we believe that user is harming or interfering with other Passpack users, anyone else, or violating (either intentionally or unintentionally) our [Terms and Conditions](https://web.archive.org/web/20140708105357id_/https://www.passpack.com/tac/ "Terms and Conditions") or infringing any of Passpack’s legal rights.
+  3. We may reveal a user’s identity (or whatever information we know about that individual) if we believe that user is harming or interfering with other Passpack users, anyone else, or violating (either intentionally or unintentionally) our [Terms and Conditions](https://web.archive.org/web/20150326002958id_/https://www.passpack.com/tac/ "Terms and Conditions") or infringing any of Passpack’s legal rights.
   4. Passpack will reveal information, including Personally Identifiable Information, to the extent it reasonably believes it is required to do so by law. If we receive legal process calling for the disclosure of any of your personally identifiable information we will, if permitted by law, attempt to notify you via your e-mail address, if, and only if, we have one on record, within a reasonable amount of time before we respond to the request.
   5. Passpack may transfer information it collects, including any Personally Identifiable Information, in connection with a sale of all or most of the assets of the company. Should your Personally Identifiable Information be transfered as the result of such sale, you will be notified in your Account.
 
