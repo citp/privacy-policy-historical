@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630070247id_/http%3A//www.catholicmatch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325100115id_/http%3A//www.catholicmatch.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | CatholicMatch.com
 
-###### **Last Updated On:** July 24th, 2013
+###### **Last Updated On:** March 4th, 2015
 
 The CatholicMatch Privacy Policy covers how CatholicMatch treats personal information that is obtained from its users. Personal information is defined as that which personally identifies you. Examples included, but are not limited to, your name, address, e-mail address, phone number and other information not readily available to the general public. This policy applies strictly to CatholicMatch and not to any other associated firm or person whom CatholicMatch does not control.
 
@@ -22,6 +22,8 @@ b) Private: This information is gathered from members and guests who apply for t
 
 a) Aggregate: This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site.
 
+b) Google Analytics and Display Advertising: CatholicMatch uses Google Analytics to collect information about the use of this site and Display Advertising to inform, optimize, and serve ads based on someone's past visits to our website. The information collected includes how often users visit our site, what pages they view, and what site they were on before they landed on CatholicMatch. We use the information we get only to improve our site and services. Google Analytics only collects the IP address that visitors use when on the the site and not any personal identifying information (such as name). We do not combine any information collected from Google Analytics with a user's personal identifying information. Though Google Analytics does plant a permanent cookie on the visitor's web browser, this is only to identify the visitor as a unique user on their next visit to CatholicMatch and can be cleared by selecting "clear cookies" in the web browser. This cookie can only ever be used by Google, and visitors may opt of Google Analytics by downloading this [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt Out"). You can opt of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TChB83fTnYjmBJFIUSWvpH4MN_f0nWYWkW_2wQqWUnjTCAlr_NNznqHo-VEts57LHbhRoQg_RHbCQdomaSmETNyZiDR1VSXqtVXwY-5mkIQiG4jhYygntpZPdfN1hHuST33xIKRfq3Tu0nGRgi8ohOVW9YiXts453ogNH2Kak4nFiz5LMPk "Google Ad Settings"). For more information see the [Google Analytics Terms of Service ](http://www.google.com/analytics/terms/us.html "Google Analytics Terms of Service")and the [Google Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy").
+
 **4\. Sharing of the Information this Website Gathers**
 
 Except where you are expressly informed otherwise or as described immediately below, we do not sell, rent, share, trade or give away any of your personal information except to the financial institution that processes your credit card, unless required by law or for the protection of your membership.
@@ -40,13 +42,13 @@ Information submitted by the Partner is used for establishing and maintaining a 
 
 **7\. Use of Cookies**
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user does not enable cookies to be set on their browser, they will not be able to use our website. We occasionally use cookies to anonymously track and target the interests of our users to enhance the experience on our site to allow enhanced capabilities, such as chat. We do not and will not, use cookies to collect private information from any user.
+Cookies are a piece of data that we transfer to your device. This data allows us to recognize your device, provide features and services, etc. In order to be a subscribing member of CatholicMatch, cookies must be enabled. You can delete cookies, be notified when you receive a new cookie, or disable cookies altogether through your internet browser. Typically this is done via the browser's Settings. Each internet browser has a help menu to assist you with locating the cookie settings.
 
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to, or control over these cookies. We may also use a third-party advertising company to serve ads externally to the site on the behalf of CatholicMatch and our partners.
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to, or control over these cookies. See the above information on how cookies relate to Google Analytics and Display Advertising.
 
 **8\. Editing & Deleting Your Account Information**
 
-You can edit your CatholicMatch account information at any time. We reserve the right to send you certain communications relating to the CatholicMatch service, without allowing you to opt out of them. You can remove your CatholicMatch account by visiting our [unsubscribe page](https://web.archive.org/help/remove_account.html).
+You can edit your CatholicMatch account information at any time. We reserve the right to send you certain communications relating to the CatholicMatch service, without allowing you to opt out of them. You can remove your CatholicMatch account by visiting our [unsubscribe page](https://www.catholicmatch.com/account/remove_account.html).
 
 **9\. Changes To The Privacy Policy**
 
@@ -54,4 +56,4 @@ If we change our privacy policy, we will notify our members in some form. Our me
 
 **10\. Contacting CatholicMatch**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact the [help desk](https://web.archive.org/help.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact the [help desk](https://institute.catholicmatch.com/help.html).
