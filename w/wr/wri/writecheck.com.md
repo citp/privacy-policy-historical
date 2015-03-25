@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writecheck.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208144945id_/http%3A//en.writecheck.com/privacy-pledge) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writecheck.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325130351id_/http%3A//en.writecheck.com/privacy-pledge) for the most accurate reproduction.*
 
 # Privacy Pledge — Plagiarism Checker | WriteCheck by Turnitin
 
