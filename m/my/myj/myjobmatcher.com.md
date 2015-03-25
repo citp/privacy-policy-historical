@@ -1,35 +1,127 @@
-> *The following text is extracted and transformed from the myjobmatcher.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328201601id_/http%3A//www.myjobmatcher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobmatcher.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325173732id_/https%3A//www.myjobmatcher.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : MyJobMatcher.com
+# Privacy and cookies policy : MyJobMatcher.com
 
-[](https://web.archive.org/)
+This is the privacy and cookies policy for www.myjobmatcher.com and any mobile applications we make available from time to time (Site). The Site is operated by My Job Matcher Limited (we, us and our). For the purposes of the Data Protection Act 1998, we are the data controller.
 
-## Information Collection and Use
+We are committed to protecting your privacy on-line. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have.
 
-You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site, to use certain services, we may require you to create an account, or we may invite you to submit questions or comments or request information, subscribe to a newsletter, participate in surveys, questionnaires or contests, or message boards. Due to the nature of some of these activities, we may ask that you complete and submit an online form with personally identifiable information such as your name, username, email address, zip code and contact information. If you have created an account, you may opt to provide additional personally identifiable information in your profile such as your age, gender and employment information. Providing any additional personally identifiable information beyond what is required to create an account is optional. We may use your personally identifiable information to deliver certain services, products or information you have requested, verify your authority to enter certain password protected areas of the Site, send you notices for services that you have used or that may be of interest to you, and improve the content and general administration of the Site. We also may from time to time automatically opt you in to other products and services that our group parent Opinio Group Limited owns and/or operates. You can at any time opt out of these or unsubscribe as appropriate.
+By using the Site, you consent to the collection and use of information in accordance with this privacy policy.
+
+We reserve the right to change this privacy policy from time to time by changing it on the Site. This privacy policy was last updated on 4 November 2014.
+
+In addition to this policy, our [Terms of Use Service](https://web.archive.org/terms) also apply to your use of the Website and are, where relevant, incorporated by reference into these terms.
+
+## Information we may collect from you
+
+We may collect and process the following information about you:
+
+information (such as your name, email address, postal address and telephone number, CV or resumé) that you provide by completing forms on the Site, including if you register as a user of the Site, subscribe to any service, upload or submit any material via the Site, request any information, or enter into any competition or promotion we may sponsor; in connection with an account sign-in facility, your log-in and password details; details of jobs you have been matched with, job you have viewed or any of your job preferences; communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding the Site or its content; information from surveys that we may, from time to time, run on the Site for research purposes, if you choose to respond to, or participate in, them; employment details if you send us a CV, resumé or other details of your employment history in connection with an advertised job vacancy or a general enquiry regarding employment opportunities with us.
+
+You are under no obligation to provide any such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
+
+When you visit the Site, we may automatically collect additional information about you, such as the type of internet browser you use, any website from which you have come to the Site and your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. Your IP address may be used to identify your location and country of origin, but you cannot be identified from this information and it is only used to assist us in providing an effective service on the Site and to collect broad demographic information for aggregate use.
 
 ## Cookies
 
-We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you. Some advertisements that appear on this Site are delivered to you by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third party advertisers.
+When you interact with the Site, we try to make that experience simple and meaningful. When you visit the Site, our web server sends a cookie to your computer. Cookies are small pieces of information which are issued to your computer when you visit a website and which store and sometimes track information about your use of the Site. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the Site and will last for longer.
 
-## Aggregate Information
+We use cookies to:
 
-The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses, External Web Sites (defined below) linked to, search criteria and the domain names of our users' Internet Service Providers, and we may analyse these data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We also may collect aggregate labour statistics from public records. Such aggregate information is not linked to any personal information that can identify any individual person. We may use such aggregate information to analyse trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use. We may share this aggregate information with third parties, including for various reasons related to our business to assist them in targeting advertisements to appropriate audiences.
+  * Remember that you have visited us before; this means we can identify the number of unique visitors we receive. This allows us to make sure we have enough capacity for the number of users that we get;
+  * Customise elements of the promotional layout and/or content of the pages of the Site;
+  * Collect anonymous statistical information about how you use the Site (including how long you spend on the Site) and where you have come to the Site from, so that we can improve the Site and learn which parts of the Site are most popular with visitors; and
+  * Some of the cookies used by the Site are set by us, and some are set by third parties who are delivering services on our behalf.
+  * Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note, however, that by blocking or deleting cookies used on the Site, you may not be able to take full advantage of the Site.
 
-## Disclosure
 
-We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any other company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which MyJobMatcher.com participates or to a purchaser of all or substantially all of MyJobMatcher.com's assets to which this Site relates. Such successor entity shall be bound by the terms and conditions of this Privacy Policy.
 
-## Links to Third Party Sites
+## Our cookies:
 
-The Site may provide links to other Web sites or resources over which MyJobMatcher.com does not have control ("External Web Sites"). Such links do not constitute an endorsement by MyJobMatcher.com of those External Web Sites. You acknowledge that MyJobMatcher.com is providing these links to you only as a convenience, and further agree that MyJobMatcher.com is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+## Essential session management
+
+  * Creating a specific log-in session for a visitor to the Website in order that the Website remembers that a visitor is logged in and that their page requests are delivered in an effective, secure and consistent manner;
+  * Recognising when a visitor to the Website has visited before allowing us to identify the number of unique visitors we receive to the Website and make sure we have enough capacity for the number of users that we get;
+  * Recognising when a visitor to the Website is a registered member;
+  * We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of our services;
+
+
+
+## Functionality
+
+  * customising elements of the promotional layout and/or content of the pages of the Website for example by storing a country code and providing users with content relevant to their country; and
+
+
+
+## Performance and measurement
+
+  * collecting statistical information about how our visitors use the Website so that we can improve the Website and learn which parts are most popular to visitors.
+
+
+
+In addition to cookies, tracking Gifs may be set by us or third parties in respect of your use of the Site. Tracking Gifs are small image files within the content of the Site or the body of our newsletters so we or third parties can understand which parts of the Site are visited and whether particular content is of interest.
+
+## Uses made of your information
+
+We will use the information you provide to:
+
+  * Enable us to process your orders and to provide you with the services and information offered through the Site now and in future and which you request;
+  * Administer your account with us;
+  * Audit the downloading of data from the Site;
+  * Improve the layout and/or content of the pages of the Site and customise them for users;
+  * Identify visitors to the Site;
+  * Send you information we think you may find useful or which you have requested from us, including information about our services and job listings or those of carefully selected third parties, provided you have indicated that you do not object to being contacted for these purposes;
+  * Carry out research on our users' demographics and tracking of sales data;
+  * Show you targeted advertisements and other content customised for you.
+
+
+
+You can tell us not to contact you with information regarding our products and services or those of third parties, either at the point such information is collected on the Site (by checking or un-checking (as directed) the relevant box) or, where you do not wish us to continue to use your information in this way, by following the unsubscribe instructions on any communications sent to you. You can also exercise the right at any time by contacting us using the contacting us details at the end of this privacy policy.
+
+## Information sharing
+
+We may disclose aggregate statistics about visitors to the Site, customers and sales in order to describe our services to prospective partners , advertisers, sponsors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifiable information.
+
+We may disclose your personal information to any of our affiliates, or to our agents or contractors who assist us in providing the services we offer through the Site, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analysing data, providing support services or in other tasks, from time to time. Our agents and contractors will only use your information to the extent necessary to perform their functions.
+
+In the event that we undergo re-organisation or are sold to a third party, you agree that any personal information we hold about you may be transferred to that re-organised entity or third party.
+
+We may disclose your personal information if required to do so by law or if we believe that such action is necessary to prevent fraud or cyber crime or to protect the Site or the rights, property or personal safety of any person.
+
+## Public forums
+
+The Site may, from time to time, make chat rooms, message boards, news groups and/or other public forums available to its users. Any information that is disclosed in these areas becomes public information and you should exercise caution when using these and never disclose your personal information.
+
+## Child safety
+
+Protecting the safety of children when they use the Internet is very important to us. We recommend that children receive permission from their parent or guardian before gaining access to the Site or sending personal information to us or anyone else online.
+
+## External links
+
+The Site will contain links to external sites. We are not responsible for the privacy policies or the content of such sites.
 
 ## Security
 
-We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. MyJobMatcher.com may use firewalls, internal restrictions, password protection, physical lock and key and other security measures to help prevent unauthorized access to your personally identifiable information.
+We place great importance on the security of all personally identifiable information associated with our users. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to personal information. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it.
 
-## Contact
+You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via the Site whilst it is in transit over the internet and any such submission is at your own risk.
 
-All comments, queries and requests relating to our use of your information are welcomed and should be emailed to: [info@myjobmatcher.com](mailto:info@myjobmatcher.com)
+It is advisable to close your browser when you have finished your user session to help ensure others do not access your personal information if you use a shared computer or a computer in a public place.
 
-Last updated 21st March 2013
+## Retention of your information
+
+We will retain information you have submitted to us as required for our records in accordance with applicable law. We will remove information you have submitted to us if specifically requested by you in writing.
+
+## Storage of your information
+
+Information that you submit via the Site is sent to and stored on secure servers located in the EEA or USA. This is necessary in order to process the information. Information submitted by you may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above (see information sharing), which may be situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. The countries concerned may not have similar data protection laws to the EEA. Where we transfer your information we will take all reasonable steps to ensure that your privacy rights continue to be protected. By submitting information via the Site, you agree to this storing, processing and/or transfer.
+
+## Your rights
+
+You have a legal right under the Data Protection Act 1998 to a copy of all the personal information about you held by us. On request, we will provide you with a copy of this information subject to a fee not exceeding £10. You also have a right to correct any errors in that information. As mentioned above, you have a right to prevent the use of your personal information for direct marketing purposes.
+
+## Contacting us
+
+Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to [support@myjobmatcher.com](mailto:support@myjobmatcher.com) or write to us at:
+
+My Job Matcher Ltd, Suite C, Falcon Drive, Old Stratford Business Park, Old Stratford, MK19 6FG
