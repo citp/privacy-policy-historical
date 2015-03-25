@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netazee.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708143825id_/http%3A//www.netazee.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netazee.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325080236id_/http%3A//www.netazee.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to a better lifestyle - Add your home and find online home valuation, nearby services, lifestyle and neighborhood information - 100Nests
 
