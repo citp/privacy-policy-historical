@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lifeout.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705231251id_/https%3A//www.lifeout.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeout.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325175232id_/https%3A//www.lifeout.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LifeOUT.com · Privacy Policy
 
 ### Last updated 2007-11-14.
 
-At LifeOUT Systems, LLC we believe that your privacy is paramount, and therefore we have created this policy in recognition of your rights to keep personal information personal. This statement details our information gathering and dissemination practices for LifeOUT.com. If you have questions, comments, or concerns regarding this policy, please [contact us](http://www.lifeout.com/support.php).
+At LifeOUT Systems, LLC we believe that your privacy is paramount, and therefore we have created this policy in recognition of your rights to keep personal information personal. This statement details our information gathering and dissemination practices for LifeOUT.com. If you have questions, comments, or concerns regarding this policy, please [contact us](https://www.lifeout.com/support.php).
 
 ### Cookies
 
@@ -54,4 +54,4 @@ Occasionally we may revise this privacy notice. If we make a change, we will pos
 
 ### Contacting Us
 
-If you have any questions regarding this privacy statement, the practices of this website, or your dealing with this website, please [contact us](https://web.archive.org/http://www.lifeout.comsupport.php).
+If you have any questions regarding this privacy statement, the practices of this website, or your dealing with this website, please [contact us](https://web.archive.org/https://www.lifeout.comsupport.php).
