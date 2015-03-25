@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gratispoints.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702204120id_/https%3A//www.gratispoints.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratispoints.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325025714id_/https%3A//www.gratispoints.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GratisPoints
 
 Last updated: 17/4/2013
 
-GratisPoints is committed to safeguarding your privacy online. GratisPoints is a branded site owned and operated by United Sample Inc., headquartered at 16501 Ventura Blvd., Suite 250, Encino, California, 91436, with its United Kingdom office located at 88 Gray’s Inn Road, London, WC1X 8AA. 
+GratisPoints is committed to safeguarding your privacy online. GratisPoints is a branded site owned and operated by Instantly Inc., headquartered at 16501 Ventura Blvd., Suite 250, Encino, California, 91436, with its United Kingdom office located at 88 Gray’s Inn Road, London, WC1X 8AA. 
 
-Please read the following policy to understand how your personal information will be treated as you make full use of our website and services. By using this website and registering for our service you agree that your personal information will be shared with United Sample Inc. in the U.S., where a lower level of privacy protection may apply than in your own country.
+Please read the following policy to understand how your personal information will be treated as you make full use of our website and services. By using this website and registering for our service you agree that your personal information will be shared with Instantly Inc. in the U.S., where a lower level of privacy protection may apply than in your own country.
 
 What personally identifiable information does GratisPoints collect from me?
 
@@ -50,13 +50,13 @@ Finally, if there is a sale of a majority of the shares or assets of the legal e
 
 Children under the age of 13
 
-Because this website and its surveys are not directed at children under the age of 13, we do not provide memberships to persons under 13. If you are under the age of 13, please let your parent or guardian know about this policy and get his or her permission before you give us any of your personal information or demographic information, use our website or participate in surveys. Except as may be required by law, United Sample will not knowingly collect, maintain or disclose any personal information from children under the age of 13 without the parent’s express approval and consent.  
+Because this website and its surveys are not directed at children under the age of 13, we do not provide memberships to persons under 13. If you are under the age of 13, please let your parent or guardian know about this policy and get his or her permission before you give us any of your personal information or demographic information, use our website or participate in surveys. Except as may be required by law, Instantly will not knowingly collect, maintain or disclose any personal information from children under the age of 13 without the parent’s express approval and consent.  
 General information regarding minors   
 In some jurisdictions, participation in GratisPoints, its surveys, and other offerings are subject to age restrictions and other limitations with regard to persons up to the age of 18. Please consult your local requirements, but if you have a specific question or query, please contact: support@surveyhelpcenter.com. 
 
 Information for Parents/Guardians
 
-If you are a parent or guardian who has discovered that your child has submitted his or her personal information without your permission or consent, United Sample will take reasonable steps to remove that information from the its database at your request. To request removal of your child’s information, please send us an e-mail at support@surveyhelpcenter.com and be sure to include in your message the same user name, password, and e-mail address that your child submitted.
+If you are a parent or guardian who has discovered that your child has submitted his or her personal information without your permission or consent, Instantly will take reasonable steps to remove that information from the its database at your request. To request removal of your child’s information, please send us an e-mail at support@surveyhelpcenter.com and be sure to include in your message the same user name, password, and e-mail address that your child submitted.
 
 What are my choices regarding collection, use and distribution of my information?
 
@@ -76,7 +76,7 @@ Anyone can request access to or rectification of his or her other personal infor
 
 Are there limits to the number of surveys I can complete?
 
-To ensure that high research standards are met for our clients and the general public, United Sample places, at its sole discretion, an upper limit on the number of surveys a respondent can complete during a given time period (a week or a day). This limit, which is set at the reasonable discretion of United Sample, is based on a variety of factors and these are subject to change.
+To ensure that high research standards are met for our clients and the general public, Instantly places, at its sole discretion, an upper limit on the number of surveys a respondent can complete during a given time period (a week or a day). This limit, which is set at the reasonable discretion of Instantly, is based on a variety of factors and these are subject to change.
 
 What other requirements or obligations are placed on me?
 
@@ -88,7 +88,7 @@ In addition to websites, some GratisPoints surveys and solutions are offered via
 
 When you are participating in GratisPoints surveys and solutions via mobile devices and are asked for personal information, you are sharing that information with GratisPoints or with any other third party with whom you elect to share such information, unless it is specifically stated otherwise. If personally identifiable information is being collected and/or maintained by any company other than GratisPoints, the use of such personal information will be governed by appropriate confidentiality and security agreements between GratisPoints and such third parties. Because GratisPoints surveys and solutions via mobile devices are not directed to children under the age of 13, we do not provide memberships to persons under age 13 for that purpose. Any surveys or solutions via mobile devices are further subject to the requirements set forth in the section above, entitled, “Children under the age of 13”, of this Privacy Policy.
 
-There may be instances when photographs, video or other imagery of individuals or locations is captured via mobile devices in connection with surveys and other solutions (the “Imagery”). GratisPoints will not utilize the rights of publicity of any individual in connection with the Imagery (or otherwise) without obtaining the proper consents. Any use by you of any Imagery should be utilized for your internal purposes only and any required consents from third parties must be properly obtained. You agree to indemnify and hold harmless United Sample, Inc., its branches, subsidiaries, affiliates, officers, directors, employees and agents from any claims arising out of, or relating to, your unauthorized use of the Imagery.
+There may be instances when photographs, video or other imagery of individuals or locations is captured via mobile devices in connection with surveys and other solutions (the “Imagery”). GratisPoints will not utilize the rights of publicity of any individual in connection with the Imagery (or otherwise) without obtaining the proper consents. Any use by you of any Imagery should be utilized for your internal purposes only and any required consents from third parties must be properly obtained. You agree to indemnify and hold harmless Instantly, Inc., its branches, subsidiaries, affiliates, officers, directors, employees and agents from any claims arising out of, or relating to, your unauthorized use of the Imagery.
 
 Please be aware that other websites and apps may collect personally identifiable information about you when you visit or use them. The information practices of those websites and apps linked to GratisPoints are not covered by this privacy statement. Please consult the privacy policies of such third party websites or apps for more information.
 
