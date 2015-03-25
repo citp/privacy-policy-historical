@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230233040id_/https%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325154253id_/http%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Data.gov
+# Privacy Policy - Data.gov
 
 Data.gov is committed to protecting the privacy and security of visitors to this website. Data.gov does not collect personal information when you visit our website unless you choose to provide that information.  Outlined below is the Data.gov online privacy policy. If you have questions about this policy, [please let us know](https://web.archive.org/contact-us).
 
@@ -22,19 +22,17 @@ Users can choose to disable cookies using their web browsers.  It will not affe
 
 ### Personal Information
 
-Users are NOT required to provide any information to search, retrieve, download, filter and otherwise use the data available on Data.gov.  There are some optional uses of Data.gov that require a user account.  They include participation in some Data.gov Communities, commenting on blog posts or datasets, suggesting datasets, and saving specific views created by the user on the Data.gov platform.  If you choose to use these options, you need to create a user account by providing an email address and user name. Email addresses are not made public  and are used for authentication only. If you choose to provide us with personal information—like filling out a [Contact us](https://web.archive.org/contact-us) form with an email address and submitting it to us through the website—we use that information to respond to your message, and to help get you the information you requested. Your email address will not be stored or retrieved by Data.gov.  We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. Data.gov never collects information or creates individual profiles for commercial marketing.
+Users are NOT required to provide any information to search, retrieve, download, filter and otherwise use the data available on Data.gov.  If you choose to provide us with personal information—like filling out a form on Data.gov to ask questions, request a dataset, etc. with an email address—we use that information to respond to your message, and to help get you the information you requested. Providing your email address is optional, except for submitting feedback on Data.gov Topics. We only share the information you give us with another government agency to assist in answering your questions and to better understand user needs for Data.gov, or as otherwise required by law. Any email address provided in connection with your question or suggestion will not be publicly viewable on the website. Data.gov never collects information or creates individual profiles for commercial marketing.
 
-While you must provide an email address and user name for the optional uses of Data.gov, you should NOT include any other personal information, especially [Social Security numbers](http://www.ssa.gov/pubs/10002.html#protect).
+In contacting Data.gov with your questions and comments, you should NOT include additional personal information, especially [Social Security numbers](http://www.ssa.gov/pubs/10002.html#protect).
 
 For certain Data.gov users who need access to administrative privileges in order to carry out Data.gov functions in their roles as official representatives of federal, state, local or tribal governments or certain non-governmental organizations, Data.gov collects additional information such as name, organization, job title, and business address, business telephone number and business email address.
 
-Data.gov is NOT a Privacy Act System of Record. Submission of any information is voluntary, and the collection of email addresses is being done purely for the purpose of authentication.
+Data.gov is NOT a Privacy Act System of Record. Submission of any information is voluntary, and the collection of email addresses for user accounts with administrative privileges is being done purely for the purpose of authentication.
 
-### User Profiles and Online Comments
+### Online Comments
 
-Users creating accounts can pick any user name. It does not have to be the user’s real name or email address. Users have the option of uploading additional information such as an image, location, tags, and other social profiles. Providing additional information is entirely voluntary.
-
-Any comments you provide are categorized as public information. Compilations of your comments may be provided to national leaders (without email address) and other individuals participating in Data.gov efforts. Comments may also be made available online to the public without the use of any optionally provided email addresses, but with the user name.
+Any comments you provide are categorized as public information. Compilations of your comments may be provided to national leaders (without email address) and other individuals participating in Data.gov efforts. Comments may also be made available online to the public with the name of the commenter but without the use of any email addresses.
 
 ### Moderation of Comments and Posts
 
@@ -55,17 +53,11 @@ We reserve the discretion not to display posts that:
 
 Do not submit copyrighted, trademarked or other proprietary material in any form unless you clearly indicate that you have permission to do so. By submitting your posts or other work, you grant the government and anyone viewing the discussion forum web site irrevocable permission to copy, distribute, make derivatives, display or perform the poster’s work publicly and free-of-charge.
 
+To protect your privacy, please do not include information (e.g., an e-mail address or phone number) in the text of your comment that identifies you.
+
 If you are a reporter, please send questions regarding this through normal agency channels rather than by submitting questions here as posts. It is our policy not to post reporter’s questions.
 
 We recognize that the Internet is a 24/7 medium and your posts are welcome at any time. However, given the need to manage federal resources, we intend to review and moderate posts from 9 am – 5 pm Monday through Friday, except federal holidays. We intend to review and moderate posts submitted at other times as soon as possible on the next business day.
-
-A user name and e-mail address is required to post comments and your comments will be associated with your user name. We ask for your e-mail address so that we can contact you if necessary. We will not publish your e-mail address.
-
-To protect your privacy, please do not include information (e.g., an e-mail address or phone number) in the text of your comment that identifies you.
-
-Thank you for taking the time to read this discussion forum policy. We encourage your participation in our discussion and look forward to an active exchange of ideas.
-
-If you have questions about this discussion forum policy or how we apply it, please contact us through the “contact us” link on the home page.
 
 ### Browser Information Collected on the Website
 
