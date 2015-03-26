@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125201036id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326112810id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**LAST UPDATED:** 12-04-2012 ( [view archived versions](https://web.archive.org/web/20141125201036id_/http%3A//www.gore.com/en_xx/footer/privacy_archive.html) )
+**LAST UPDATED:** 12-04-2012 ( [view archived versions](https://web.archive.org/web/20150326112810id_/http%3A//www.gore.com/en_xx/footer/privacy_archive.html) )
 
-W. L. Gore & Associates, Inc. and our [affiliates](https://web.archive.org/web/20141125201036id_/http%3A//www.gore.com/en_xx/affiliates.html) (referred to below collectively as “ **Gore** ”) are concerned about privacy issues and want you to be familiar with how we collect, use. and disclose personal information (“ **PI** ,” as defined below). This Privacy Policy describes our practices in connection with PI that we collect through this website (" **Site** "). This Privacy Policy does not address the collection, use, or disclosure of information by any third parties, on other websites or offline.
+W. L. Gore & Associates, Inc. and our [affiliates](https://web.archive.org/web/20150326112810id_/http%3A//www.gore.com/en_xx/affiliates.html) (referred to below collectively as “ **Gore** ”) are concerned about privacy issues and want you to be familiar with how we collect, use. and disclose personal information (“ **PI** ,” as defined below). This Privacy Policy describes our practices in connection with PI that we collect through this website (" **Site** "). This Privacy Policy does not address the collection, use, or disclosure of information by any third parties, on other websites or offline.
 
 By providing PI to us, you agree to the terms and conditions of this Privacy Policy. We may change this Privacy Policy by posting a new privacy policy on the website. You can determine when this Privacy Policy was last revised by referring to the " _LAST UPDATED_ " legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Site. If you use the Site after we make changes, you will be deemed to accept the Privacy Policy.
 
@@ -72,9 +72,9 @@ We use reasonable organizational, technical, and administrative measures to prot
 
 ## CHOICES AND ACCESS
 
-If you would like to opt out from receiving electronic communications from Gore and/or from Gore’s sharing of your PI with third parties for their marketing purposes, please [contact us](https://web.archive.org/web/20141125201036id_/http%3A//www.gore.com/en_xx/privacy-contact.html).
+If you would like to opt out from receiving electronic communications from Gore and/or from Gore’s sharing of your PI with third parties for their marketing purposes, please [contact us](https://web.archive.org/web/20150326112810id_/http%3A//www.gore.com/en_xx/privacy-contact.html).
 
-If you would like to review, correct, update, suppress, delete, or otherwise limit our use of your PI that has been previously provided to us, you may please [contact us](https://web.archive.org/web/20141125201036id_/http%3A//www.gore.com/en_xx/privacy-contact.html). 
+If you would like to review, correct, update, suppress, delete, or otherwise limit our use of your PI that has been previously provided to us, you may please [contact us](https://web.archive.org/web/20150326112810id_/http%3A//www.gore.com/en_xx/privacy-contact.html). 
 
 In your request, please make clear what information you would like to have changed, what you are opting out from, whether you would like to have your PI suppressed from our database, or otherwise let us know what limitations you would like to put on our use of your PI. We will try to comply with your request as soon as reasonably practicable. 
 
@@ -100,8 +100,8 @@ Please do not send us, or disclose, any sensitive Personal Information ( _e.g._ 
 
 ## CONTACTING US
 
-If you have any questions regarding this Privacy Policy, please [contact us](https://web.archive.org/web/20141125201036id_/http%3A//www.gore.com/en_xx/privacy-contact.html), or please write to the following address: W. L. Gore & Associates, Inc., 555 Paper Mill Road, Newark, DE 19711, U.S.A.
+If you have any questions regarding this Privacy Policy, please [contact us](https://web.archive.org/web/20150326112810id_/http%3A//www.gore.com/en_xx/privacy-contact.html), or please write to the following address: W. L. Gore & Associates, Inc., 555 Paper Mill Road, Newark, DE 19711, U.S.A.
 
-  * [Legal Information of Use of Website](https://web.archive.org/web/20141125201036id_/http%3A//www.gore.com/en_xx/footer/legal.html)
+  * [Legal Information of Use of Website](https://web.archive.org/web/20150326112810id_/http%3A//www.gore.com/en_xx/footer/legal.html)
 
 
