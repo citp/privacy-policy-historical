@@ -1,164 +1,334 @@
-<!--The following is the downloaded HTML source of the eatthismuch.com privacy policy that was archived on 2014-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141031122025id_/http%3A//www.eatthismuch.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eatthismuch.com privacy policy that was archived on 2015-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150326092045id_/https%3A//www.eatthismuch.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQQHUFRRGwEJXVBbDwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-    <meta charset="utf-8">
+<!DOCTYPE html><html lang="en"><head>
+
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=337307303021297&amp;version=v2.0"></script><script type="text/javascript" async="" src="https://eatthismuch.groovehq.com/widgets/55be9b44-0d5f-42f8-8b33-d3c4b4702b36/ticket.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-2.0.3-min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"f28db441bf","agent":"js-agent.newrelic.com/nr-632.min.js","transactionName":"NFVTYBBZXUEDBRAKVg0fd0EMW0dbDQhLB1MCXlZbTE5aVxUVSgRcDVVDXQEWUVMRA143XA5AXVUWXWVbBxE=","applicationID":"6115271","errorBeacon":"bam.nr-data.net","applicationTime":11}</script>
     <title>
     Privacy Policy
  - Eat This Much</title>
-    <meta name="description" content="Eat This Much is an automatic diet generator that builds a meal plan based on your desired caloric intake. The generator works for every kind of diet, including weight loss, bodybuilding, atkins, paleo, iifym diet, and more.">
+    <meta name="description" content="Eat This Much is an automatic meal planner that creates customized meal plans to meet your diet goals. The generator works for every kind of diet, including weight loss, bodybuilding, atkins, paleo, IIFYM, and more.">
     <meta name="author" content="Louis DeMenthon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-    <!--[if IE]>
-                <style type="text/css"> 
-                  @import 'iestyle.css'; 
-                </style> 
-              <![endif]-->
+    <meta property="og:url" content="http://www.eatthismuch.com/">
+    <meta property="og:title" content="Eat This Much, your personal diet assistant">
+    <meta property="og:description" content="Eat This Much is an automatic meal planner that creates customized meal plans to meet your diet goals. The generator works for every kind of diet, including weight loss, bodybuilding, atkins, paleo, IIFYM, and more.">
+
+    <script src="//cdn.optimizely.com/js/2340360844.js"></script>
+
+    <!-- Different favicon sizes -->
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static_files/favicon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static_files/favicon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static_files/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static_files/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/static_files/favicon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static_files/favicon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static_files/favicon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static_files/favicon/apple-touch-icon-152x152.png">
+    <link rel="icon" type="image/png" href="/static_files/favicon/favicon-196x196.png" sizes="196x196">
+    <link rel="icon" type="image/png" href="/static_files/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/static_files/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/static_files/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/static_files/favicon/favicon-128.png" sizes="128x128">
+    <meta name="application-name" content="Eat This Much">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/static_files/favicon/mstile-144x144.png">
+    <meta name="msapplication-square70x70logo" content="/static_files/favicon/mstile-70x70.png">
+    <meta name="msapplication-square150x150logo" content="/static_files/favicon/mstile-150x150.png">
+    <meta name="msapplication-wide310x150logo" content="/static_files/favicon/mstile-310x150.png">
+    <meta name="msapplication-square310x310logo" content="/static_files/favicon/mstile-310x310.png">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML elements -->
     <script type="text/javascript">var ie9 = 0;
     var ie8 = 0;</script>
 
     <!--[if lt IE 9]>
           <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+          <script src="http://cdnjs.cloudflare.com/ajax/libs/es5-shim/2.3.0/es5-shim.min.js"></script>
         <![endif]-->
 
-    <!--[if lte IE 8]><script language="javascript" type="text/javascript" src="excanvas.min.js"></script><![endif]-->
+    <script>
+        window.FileAPI = {
+            debug: false // debug mode
+            , staticPath: '/static_files/jscript/FileAPI/statics' // path to *.swf
+        };
+    </script>
 
-    <!-- JQUERY INCLUDE --><!-- 
-    <script type="text/javascript" src="http://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
+    <link href="/static_files/css_libs.css" rel="stylesheet" type="text/css">
+    <script language="javascript" type="text/javascript" src="/static_files/js_libs.js"></script>
 
-    -->
-
-    <!--
-
-    <script language="javascript" type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script> 
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
-
-    -->
-
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/jquery-1.8.3.min.js"></script>
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/jquery-ui-1.9.2.min.js"></script>
-
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/jquerybbq-1.2.1.js"></script>
-
-
-    <!-- Include any fonts here -->
-    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/json2.js"></script>
-    <!-- <script language="javascript" type="text/javascript" src="/static_files/jscript/jquery.min.js"></script> -->
-
-
-    <!-- Tour stuff -->
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/modernizr.mq.js"></script>
-
-    <link rel="stylesheet" type="text/css" href="/static_files/css/joyride-2.0.3.css">
-    <script src="/static_files/jscript/jquery.joyride-2.0.3.js"></script>
-
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/jquery.flot.min.js"></script>
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/jquery.flot.pie.min.js"></script>
-
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/jquery.ezmark.min.js"></script>
-
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/jquery.cookie.js"></script>
-
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/bootstrap.js"></script>
-
-
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/jquery.ui.touch-punch.js"></script>
-
-
-    <!-- Things to uncomment for production -->
-
-    <!-- <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script> -->
-
-
-    <!-- styles -->
-    <link href="/static_files/css/reset.css" rel="stylesheet" type="text/css">
-    <link href="/static_files/css/bootstrap.css" rel="stylesheet">
-    <!--  <link href="/static_files/css/bootstrap_simplex.css" rel="stylesheet"> -->
-    <link href="/static_files/css/jquery-ui-1.8.14.custom.css" rel="stylesheet">
-    <!--     <link href="/static_files/css/bootstrap_cerulean.css" rel="stylesheet">
- -->    <!-- <link href="/static_files/css/newstyle.css" rel="stylesheet" type="text/css"> -->
-
-    <link href="/static_files/css/eat_this_much.css" rel="stylesheet" type="text/css">
-
-
-    <!--
-    <link rel="stylesheet/less" type="text/css" href="/static_files/css/variables.less">
-    <link rel="stylesheet/less" type="text/css" href="/static_files/css/bootswatch.less">
-
-
-    <script language="javascript" type="text/javascript" src="/static_files/jscript/less-1.3.0.min.js"></script>
- -->
+<!--    <script src="https://rawgithub.com/ngryman/jquery.finger/v0.1.0/dist/jquery.finger.js"></script> -->
+    
 
     <!--[if IE]>
       <link href="/static_files/css/iestyle.css" rel="stylesheet" type="text/css"> 
     <![endif]-->
 
-
-    
-    
-
     <script type="text/javascript">
+        
+            var is_logged_in = false;
+        
 
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-33881292-1']);
-        _gaq.push(['_trackPageview']);
+        
+            var is_subscriber = false;
+        
 
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
+        
+            var is_mobile = false;
+            var is_tablet = false;
+        
+
+        
+            var is_app = false;
+        
+
+
+        
+            var is_debug = false;
+        
+
+        
+            var show_planner_log = false;
+        
+
+
+        
+            var LOAD_PREMADE_DIET = false;
+            var PREMADE_DIET_PARAMETERS = false;
+
+        
+
+
+
+        var app = false;
 
     </script>
 
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<body><div class="navbar">
-    <div class="navbar-inner">
-        <div class="container">
-            <a class="brand pull-left" href="/"><img title="Eat This Much" alt="Eat This Much" class="logo_image_words" src="/static_files/images/eat_this_much_logo_words.png"><img class="logo_image_carrot" src="/static_files/images/carrot.png">
+      
+            ga('create', 'UA-33881292-2', 'auto');
+        
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
 
-                <!-- <img src="/swoleme2/images/swoleme-mini.png" alt="Swole.me" title="Swole.me - The automatic diet generator"/> -->
-            </a>
-
-
-            <ul class="nav nav-left pull-left">
-                <li><a href="/how-to/">How-To Guide</a></li>
-                <!-- <li><a href="#recipes">Recipes</a></li> -->
-                <li><a href="/recipe/search/?type=recipe">Recipes</a></li>
-                <!-- <li><a href="http://swole.me/blog">Blog</a></li> -->
-                <li><a href="https://eatthismuch.groovehq.com/help_center">FAQ</a></li>
-                
-            </ul>
+    </script>
 
 
+    <script type="text/javascript">
+      (function(h,a){var f=h.amplitude||{};var b=a.createElement("script");b.type="text/javascript";
+      b.async=true;b.src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-2.0.3-min.js";
+      var g=a.getElementsByTagName("script")[0];g.parentNode.insertBefore(b,g);
+      f._q=[];function e(i){f[i]=function(){f._q.push([i].concat(Array.prototype.slice.call(arguments,0)))}}
+      var c=["init","logEvent","setUserId","setUserProperties","setVersionName","setDomain","setDeviceId",
+      "setGlobalUserProperties"];
+      for(var d=0;d<c.length;d++){e(c[d])}h.amplitude=f})(window,document);
 
-            
-                <a class="btn btn-primary pull-right register-button" href="/register">Sign up</a>
-                <ul class="nav nav-right pull-right">
-                    <!-- <p>Welcome, new user. Please log in.</p> -->
-                    <li><a href="/user/login">Login</a></li>
-                </ul>
 
-            
+      
+          
+              amplitude.init("2738a2024d3ca5fde381a629b48399bf");
+          
+      
+    </script>
 
 
-        </div>
-    </div>
+    <script>(function() {
+      var _fbq = window._fbq || (window._fbq = []);
+      if (!_fbq.loaded) {
+        var fbds = document.createElement('script');
+        fbds.async = true;
+        fbds.src = '//connect.facebook.net/en_US/fbds.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fbds, s);
+        _fbq.loaded = true;
+      }
+      _fbq.push(['addPixelId', '314708382058594']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=314708382058594&amp;ev=PixelInitialized" /></noscript>
+
+
+
+<script>
+  //<![CDATA[
+    (function() {var s=document.createElement('script');
+      s.type='text/javascript';s.async=true;
+      s.src=('https:'==document.location.protocol?'https':'http') +
+      '://eatthismuch.groovehq.com/widgets/55be9b44-0d5f-42f8-8b33-d3c4b4702b36/ticket.js'; var q = document.getElementsByTagName('script')[0];q.parentNode.insertBefore(s, q);})();
+  //]]>
+</script>
+
+
+
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=337307303021297&version=v2.0";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+    !function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+        if (!d.getElementById(id)) {
+            js = d.createElement(s);
+            js.id = id;
+            js.src = p + '://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }
+    }(document, 'script', 'twitter-wjs');
+
+</script>
+
+<div id="sidebar_container">
 </div>
 
-<!-- Include the popups here somehow. JK, only do this on the homepage template -->
+<div class="body-container  ">
+    <!-- Static navbar -->
+
+    
+
+    <div id="top_nav" class="navbar navbar-default navbar-static-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/"><img class="logo_image_carrot" src="/static_files/images/etm_logo_new.png"></a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/how-it-works/">How it works</a></li>
+                    <li><a href="/about/">About us</a></li>
+                    <li><a href="/food/browse/?type=recipe">Browse foods</a></li>
+                    
+                    
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown help-dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-question-sign"></span> Help <strong class="caret"></strong></a>
+                        <ul class="dropdown-menu">
+                            <div role="presentation" class="dropdown-header"><span class="glyphicon glyphicon-book"></span> Resources</div>
+                            <li><a href="http://help.eatthismuch.com/help_center" style="font-weight: bold;">Knowledge base / FAQ</a></li>
+                            <li><a href="/how-to/">Step-by-step guides</a></li>
+                            <div role="presentation" class="divider"></div>
+
+                            <li><a href="http://mikesays.eatthismuch.com/">Mike's nutrition blog</a></li>
+                            <li><a href="/nutrition-references/">Nutrition references</a></li>
+                            <div role="presentation" class="divider"></div>
+                            <div role="presentation" class="dropdown-header"><span class="glyphicon glyphicon-plane"></span> Walkthroughs</div>
+                            
+    <li><a href="/">Head to the main page to view walkthroughs</a>
+</li>
+
+
+                        </ul>
+                    </li>
+
+                    
+                        <a class="btn btn-primary pull-right register-button" href="/user/register-free-account/">Sign
+                            up</a>
+                        <a class="btn btn-default pull-right register-button" href="/user/login/">Login</a>
+                    
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </div>
+
+    
+
+    
+
+    <div id="fill_container">
+    </div>
+
+
+    <noscript>
+
+    <!-- Render a large list of diet plans at different calorie levels -->
+
+    <!-- 1200 to 2000 calories -->
+
+    <div class="container content_container">
+
+
+    <div class="row">
+
+        <div class="col-xs-12">
+            
+                <h1 class="header_tagline">Put your diet on autopilot</h1>
+            
+
+
+            <div class="header_info">
+                <strong>Eat This Much</strong> automatically creates meal plans that meet your diet goals.<br/>
+                It can be personalized for your <strong>food preferences</strong>, <strong>budget</strong>, and
+                <strong>schedule.</strong><br/>
+                Then, once a week, we give you a grocery list with <strong>everything you need.</strong><br/>
+
+                <div class="strong_header_info">Eating smart has never been this easy.</div>
+            </div>
+
+            <div class="alert alert-info top_margin">
+                <p>
+                    Eat This Much requires javascript to generate your diets. Please enable javascript and reload the page, or use a browser that supports javascript.
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-xs-12">
+            Primary diet types:
+            <a href="/diet-plan/mediterranean/" title="Customizable Mediterranean diet plan">Mediterranean diet plan</a>,
+            <a href="/diet-plan/paleo/" title="Customizable paleo diet plan">Paleo diet plan</a>,
+            <a href="/diet-plan/atkins-ketogenic/" title="Customizable Atkins diet plan">Atkins / ketogenic diet plan</a>,
+            <a href="/diet-plan/vegetarian/" title="Customizable vegetarian diet plan">Vegetarian diet plan</a>,
+            <a href="/diet-plan/vegan/" title="Customizable vegan diet plan">Vegan diet plan</a>,
+            <a href="/diet-plan/gluten-free/" title="Customizable gluten free diet plan">Gluten free diet plan</a>
+        </div>
+    </div>
+
+    <hr/>
+
+    
+
+    
+
+        <br/><br/>
+
+    
 
 
 
-<div class="kontainer">
+
+    
+
+    </div>
+
+    </noscript>
+
+
 
 
     
@@ -190,7 +360,8 @@
 
         <p>
             Eat This Much LLC - Los Angeles, CA<br>
-            louis@eatthismuch.com
+            louis@eatthismuch.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script>
             <br>
         </p>
     </div>
@@ -497,44 +668,113 @@
 
 
 
+
     
-    <div class="footer">© EatThisMuch.com 2014 | <a href="/about">About</a> | <a href="http://blog.eatthismuch.com/">Dev Blog</a>
-        <!-- | <a data-toggle='modal' href="#calorie_calculator">Calorie Calculator</a> --> | <a href="/nutrition-references/">Nutrition References</a> | <a href="mailto:contact@eatthismuch.com">Contact</a> | <a href="/privacy-policy/">Privacy policy</a> | <a href="/disclaimer/">Disclaimer</a>
 
-        <br><br>
 
-        <a href="https://twitter.com/EatThisMuch" class="twitter-follow-button" data-show-count="true">Follow @EatThisMuch</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> <!-- | <a href='/affiliate-program/'>Affiliates</a> --></div>
 
+    
+    <input type="hidden" name="csrfmiddlewaretoken" value="fl6CTuLw7fg3yybQuqH6yvbFMPB2zl8w">
+    <link href="/static_files/etm.css" rel="stylesheet">
+    <script language="javascript" type="text/javascript" src="/static_files/etm.js"></script>
+
+
+    
+    
+
+    
+
+
+    
+
+    <div class="footer_container">
+        <div class="container">
+
+
+        <div class="footer">
+
+            <!--[if lt IE 10]>
+                <div class="row">
+                    <div class="alert alert-danger col-xs-12 col-sm-10 col-sm-offset-1">
+                        We've detected that you're using an old version of Internet Explorer. Many parts of the site may not function properly until you upgrade to a modern browser,
+                        like Firefox, Chrome, or a later version of Internet Explorer (IE10 or newer).
+                    </div>
+                </div>
+            <![endif]-->
+
+            <div class="row">
+
+                <div class="col-xs-12">
+                    ©2015 Eat This Much Inc. |
+                    <a href="http://mikesays.eatthismuch.com/" target="_blank">Mike's Nutrition Blog</a> |
+                    <a href="/about/">About us</a> |
+                    <a href="http://blog.eatthismuch.com/">Dev Blog</a> |
+                    <a href="/affiliate-program/">Affiliate program</a> |
+
+                    <a href="/privacy-policy/">Privacy</a> |
+                    <a href="/copyright/">DMCA</a> |
+                    <a href="/terms/">Terms of service</a>
+
+                    <!--  |  <a href="/press/">Press</a> -->
+                    &nbsp;&nbsp;
+
+
+
+                    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+                    <a href="https://www.facebook.com/EatThisMuch"><i class="social fa fa-facebook-square fa-3x social-fb"></i></a>
+                    <a href="https://twitter.com/EatThisMuch"><i class="social fa fa-twitter-square fa-3x social-tw"></i></a>
+                    <a href="mailto:contact@eatthismuch.com"><i class="social fa fa-envelope-square fa-3x social-em"></i></a>
+
+
+                </div>
+            </div>
+
+
+            <!-- <div class="row top_margin">
+                <div class="col-sm-8 col-sm-offset-2 col-xs-12 were_hiring alert alert-info text-center">
+                    We're looking to hire a full stack web / mobile developer! <a target="_blank" href="https://eat-this-much.workable.com/j/5F96DECF7C">Interested? Click here to learn more.</a>
+                </div>
+            </div> -->
+
+            <div class="row">
+                <div class="col-xs-12 share_footer">
+                    <div class="fb-like" data-href="https://www.eatthismuch.com/" data-width="350" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+
+                    <a href="https://twitter.com/EatThisMuch" class="twitter-follow-button" data-show-count="true">Follow @EatThisMuch</a>
+
+
+                </div>
+            </div>
+
+
+
+        </div>
     </div>
+    </div>
+
+    
+
+</div>
+
+<div class="print-body">
+</div>
+
+<div class="pixelz">
+    <div class="ss_fb_pixel"></div>
+    <div class="ld_fb_pixel"></div>
+    <div class="google_pixel"></div>
+    <div class="su_pixel"></div>
+</div>
 
 
 <script type="text/javascript">
-    adroll_adv_id = "YZ362CWMBZDMFE2UYDCGGT";
-    adroll_pix_id = "CWCF4NTUNVD7FKYZD77H2T";
-    (function () {
-        var oldonload = window.onload;
-        window.onload = function () {
-            __adroll_loaded = true;
-            var scr = document.createElement("script");
-            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-            scr.setAttribute('async', 'true');
-            scr.type = "text/javascript";
-            scr.src = host + "/j/roundtrip.js";
-            ((document.getElementsByTagName('head') || [null])[0] ||
-                    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-            if (oldonload) {
-                oldonload()
-            }
-        };
-    }());
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
 </script>
 
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","queueTime":0,"licenseKey":"f28db441bf","agent":"js-agent.newrelic.com/nr-476.min.js","transactionName":"NFVTYBBZXUEDBRAKVg0fd0EMW0dbDQhLB1MCXlZbTE5aVxUVSgRcDVVDXQEWUVMRA143XA5AXVUWXWVbBxE=","applicationID":"2991982","errorBeacon":"bam.nr-data.net","applicationTime":3}</script>
 
 
-
-
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
