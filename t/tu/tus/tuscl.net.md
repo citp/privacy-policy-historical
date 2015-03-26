@@ -1,21 +1,33 @@
-> *The following text is extracted and transformed from the tuscl.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/postread.php%3FPID%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuscl.net privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy
 
-Got something to say? [Start Your Own Discussion!](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/de.php) It's Free!     **Would you like 4 weeks free VIP time?** [Click here to write your own Article](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/ae.php)
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-[ ](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/u.php?UID=171458 "View founder's Profile") [founder](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/u.php?UID=171458 "View founder's Profile") [](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/ms.php?ToUserID=171458 "Send Private Message to founder")   [](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/ignore.php?UserID=171458 "Ignore founder")   
-This is the web site of The Ultimate Strip Club List. We can be contacted via [our contact page](http://www.tuscl.net/contact.php).
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor and .
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
+* * *
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.  
-Our privacy policy is simple. We don't share any of your information with anyone. We will use your email address to send you pertinent information about your membership at The Ultimate Strip Club List. That's about it. If you choose to publish your email on www.tuscl.net, then other members and non-members may have access to it.
+**The Ultimate Strip Club List**
 
-Got something to say? [Start Your Own Discussion!](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/de.php) It's Free!     **Would you like 4 weeks free VIP time?** [Click here to write your own Article](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/ae.php)
+ _More than a list. It's the evocation of a culture._
+
+[Glossary](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/gloss.php) | [FAQ](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/faq.php) | [Advertise](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/promote.php) | [Contact](mailto:founder@tuscl.net) | [Privacy](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/privacy.php) | [Terms](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/tos.php)
+
+[Free Girls on Webcam 18+](http://www.myfreecams.com/?cam=30487&track=footer1) | [Sex Dating](http://www.sexdating.org/sex-dating-online-or-hookup-at-a-bar-.php)
+
+March 26, 2015 •  Vol. 22, No. 85
+
+Everything written on this site should be considered a work of fiction.
+
+© 1995-2015 - tuscl 
