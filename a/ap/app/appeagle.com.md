@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appeagle.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703212605id_/https%3A//www.appeagle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appeagle.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326012945id_/https%3A//www.appeagle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,7 +71,7 @@ Appeagle may assign or transfer this Policy, and your user account and related i
 If We make any material changes to this Policy We will notify You by email or by posting a prominent notice on the Site prior to the change becoming effective. We encourage You to periodically review this page for the latest information on our privacy practices. Your continued use of the Site or Service constitutes your agreement to be bound by such changes to this Policy. **Your only remedy, if You do not accept the terms of this Policy, is to discontinue use of the Site and Service.**
 
 **16\. TERMS OF SERVICE**  
-When You access and use the Service, You are subject to the Appeagle Terms of Service, found here: [https://www.appeagle.com/terms-of-service](https://web.archive.org/web/20140703212605id_/https://www.appeagle.com/privacy-policy/terms-of-service "Terms of service").
+When You access and use the Service, You are subject to the Appeagle Terms of Service, found here: [https://www.appeagle.com/terms-of-service](https://web.archive.org/web/20150326012945id_/https://www.appeagle.com/privacy-policy/terms-of-service "Terms of service").
 
 **17\. CONTACT US**  
 If You have questions regarding this Policy or about the privacy practices of Appeagle, please contact us by email at [privacy@appeagle.com](mailto:privacy@appeagle.com "privacy@appeagle.com").
