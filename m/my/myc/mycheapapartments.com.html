@@ -1,34 +1,81 @@
-<!--The following is the downloaded HTML source of the mycheapapartments.com privacy policy that was archived on 2014-07-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703182317id_/http%3A//www.apartmentlist.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycheapapartments.com privacy policy that was archived on 2015-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150326054141id_/https%3A//www.apartmentlist.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html id="apartmentlist" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta charset="UTF-8">
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"fd800ec412","applicationID":"3475032,3474891","transactionName":"e1oLERdeWV0BRx1XBldAEUoVQ1xHBVZL","queueTime":10,"applicationTime":11,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQUOVF5ACwcHUVFRBQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"fd800ec412","applicationID":"3475032","transactionName":"e1oLERdeWV0BRx1XBldAEUoVQ1xHBVZL","queueTime":3,"applicationTime":75,"agent":"js-agent.newrelic.com/nr-632.min.js","userAttributes":"QxcGEBdDUF8QakdFAUpqDAFHCwQCVA0AA1IJBElHAUhbXkYPEEEBWhtUR0kTR1QCUEBEAUoXX0cNRUFBFw8dGRNPQksEFVBHRQlQXEIIUUYRSwZeWB5GGRBEAVVaEQA6WEUTXhcABlMWB1FUSwMGBkoHAgFGFBcWABdHUEM7W1NbARoPRxISRhtQFFRAQgldWxEJDEJBHwdaXxRIGkAWABduVFYBW0YUXhp4Ch8MXVlQSwAcBkQQVgoIFVBBWAZZVw1EWUcGDQxHUB8LR1VpBldBRU4NRUFBXhodQRNPGwQXBllcRwEbXUQDF1EAEQRYWUJLVEBVDFFDAEsKQ1JuBlpGH0YUFxAXCRMPEwxBRkYXAhpKEhJGG1AUVEBCCV1bEQkMQkEfB1pfGQVaWhARSkFHWBJUUU9GRQ=="}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQUOVF5ACwcHUVFRBQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="Apartment List is a free service that helps you find the perfect apartment. Click to view move-in specials, photos, floorplans, rates, amenities and more..." name="description">
-<meta content="index, follow" name="robots">
-<meta content="authenticity_token" name="csrf-param">
-<meta content="b0DPIkGPdOEOaT7U5Jq1ha257oX9rDmHk37bC7srZsc=" name="csrf-token">
-<link href="http://cdn3.apartmentlist.com/assets/favicon-b0bf91c8ed4bcbf44feff10fa6b0bd0b.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-<title>Privacy Policy Apartment List</title>
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" media="screen" rel="stylesheet">
-<link href="http://cdn2.apartmentlist.com/assets/bootstrap-9031b074a584cf14b73d57756d22e8bd.css" media="screen" rel="stylesheet">
-<link href="http://cdn3.apartmentlist.com/assets/application-4a65aad025e4acebdf58887463a8d960.css" media="screen" rel="stylesheet">
-<script src="http://cdn1.apartmentlist.com/assets/compile/modernizr-df49e3d8fbf3cde7bb592cc0a7297c24.js"></script>
-<script src="//cdn.optimizely.com/js/136931837.js"></script>
 
+<meta name="robots" content="index, follow">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="K1v4h7cvUr/G594HYk5If5NcnEBjachx8tN3CCGSSdW45Uwl+DP5zBm+LiE8HDtcnfSwKHdfjx/8FIqYtGddLA==">
+<link rel="shortcut icon" type="image/x-icon" href="https://cdn2.apartmentlist.com/assets/favicon-c9fc8178664afda3db88ba048baaa453.ico">
+<title>Privacy Policy Apartment List</title>
+<link rel="stylesheet" media="screen" href="https://cdn2.apartmentlist.com/assets/bootstrap-0d69296c27c2c749e1d7693d3536e6d4.css">
+<link rel="stylesheet" media="screen" href="https://cdn0.apartmentlist.com/assets/application-c1b0427b037759b34d40f5534aa55ce6.css">
+<script src="https://cdn0.apartmentlist.com/assets/compile/modernizr-af1173043ad9c68d2781da45076b2613.js"></script>
+<script src="//cdn.optimizely.com/js/136931837.js"></script>
+<script type="text/javascript">
+  //<![CDATA[
+    // Dynamic objects (ex. Backbone view instances)
+    window.app = window.app || {};
+    
+    // Set page information from controller and action
+    app.page = {
+      'controller': "about",
+      'action': "privacy"
+    };
+    
+    // Static objects (ex. Backbone view class)
+    window.vb = window.vb || {};
+    
+    // Declare namespaces
+    vb.ads = {};
+    vb.api = {};
+    vb.config = {};
+    vb.model = {};
+    vb.search = {};
+    vb.service = {};
+    vb.text = {};
+    vb.view = {};
+    
+    // Declare constants
+    vb.gaAccount = 'UA-23312730-1';
+    vb.isHttps = 'https:' === document.location.protocol;
+    vb.isProduction = true;
+    vb.sourceApp = 'ApartmentList';
+    vb.apiKey = "3d68b77b52cc4ac7902b103e6c8834e4";
+    vb.adminMode = false;
+    vb.currentUserId = 130825611;
+    vb.currentAlUserJson = {"id":130825611,"first_name":null,"last_name":null,"preferences":{"amenities":null,"beds":null,"baths":null,"price_min":null,"price_max":null,"location_ids":null,"move_in_date":null,"pet_details":null,"email_consent":null,"phone_consent":null,"preferred_contact_method":null,"user_id":130825611}};
+    vb.apiHost = 'https://api.apartmentlist.com';
+    
+    // For bhotw_test_1
+    var isMobile = (window.innerWidth < 980);
+    
+    // We can set a MAXIMUM of 4 feature flags here.
+    // Google only allows up to 5 custom variables and one is used for the source app/device type.
+    vb.trackedFeatureFlags = {
+      'availability_ldp': 'no',
+      'bhotw_test_1a': 'no',
+      'bhotw_test_1_variation': isMobile ? 'mobile-beds-no-text' : 'desktop-beds-no-text'
+    };
+    
+    vb.featureFlags = {"bhotw_test_1a":true,"availability_ldp":false,"online_tour_booking":true};
+  //]]>
+</script>
+
+<script src="https://cdn0.apartmentlist.com/assets/application-b99e5e0a5497e63c38eeee3a1ca7df1e.js"></script>
 <meta content="yes" name="apple-mobile-web-app-capable">
-<link href="http://cdn0.apartmentlist.com/assets/touch-icon-iphone-253b832a054c550215df77ba5c39a4a3.png" rel="apple-touch-icon">
-<link href="http://cdn2.apartmentlist.com/assets/touch-icon-ipad-f7a79735927f2b3e7aa21177d731144e.png" rel="apple-touch-icon" sizes="72x72">
-<link href="http://cdn3.apartmentlist.com/assets/touch-icon-iphone4-88f2570f022a1dadde3141e109487a2c.png" rel="apple-touch-icon" sizes="114x114">
-<meta content="app-id=659694038" name="apple-itunes-app">
-</head>
-<body class="about-controller privacy-action">
-<div id="wrapper-for-sticky-footer">
-<div id="fb-root"></div>
-<nav class="navbar header hidden-map">
+<link href="https://cdn2.apartmentlist.com/assets/touch-icon-iphone-af6d0587d468d373fac96878da69d533.png" rel="apple-touch-icon">
+<link href="https://cdn2.apartmentlist.com/assets/touch-icon-ipad-fc02ea271f33e6436b33fad3305ddc24.png" rel="apple-touch-icon" sizes="72x72">
+<link href="https://cdn2.apartmentlist.com/assets/touch-icon-iphone4-6efa32607552a3db3a44e7c5fc8247cb.png" rel="apple-touch-icon" sizes="114x114">
+<meta name="apple-itunes-app" content="app-id=659694038">
+</head><body class="about-controller privacy-action"><div id="wrapper-for-sticky-footer"><div id="fb-root"></div><nav class="navbar header hidden-map" id="header-navbar">
 <div class="container">
 <div class="navbar-header">
 <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
@@ -43,55 +90,57 @@
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav">
 <li>
-<a href="http://blog.apartmentlist.com">Blog</a>
-</li>
-<li>
 <a href="http://blog.apartmentlist.com/about">About Us</a>
 </li>
-<li>
-<a href="http://jobs.apartmentlist.com/">Jobs</a>
+<li id="navbar-logout">
+<a href="/users/logout" class=" "> Log Out</a>
 </li>
-<li>
-<a href="/signup">Sign Up</a>
+<li id="navbar-signup">
+<a href="/users/signup">Sign Up</a>
 </li>
-<li>
-<a href="/login">Log In</a>
+<li id="navbar-login">
+<a href="/users/login">Log In</a>
 </li>
 </ul>
 </div>
 </div>
 </nav>
-
 <div class="container">
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 push-down">
 <div class="body-content">
-<p>Last Updated: 4/22/2014</p>
+<p>Last Updated: 9/4/2014</p>
 
 <h1>Privacy Policy</h1>
 
-<p>Welcome to this website (“Site”), as operated by Vertical Brands Media, Inc. (“Company” or “we”). Company operates the Site and other associated services and offerings, including, without limitation, mobile and tablet applications, that allow individuals to list or locate apartments, houses or other real estate for rent or sale or to locate roommates (collectively, the "Service"), and makes it available to you subject to the <a href="/about/terms">Terms of Service</a> (the "Terms"). This Privacy Policy is incorporated into and is subject to the Terms of Service. Capitalized terms used but not defined in this Privacy Policy have the meaning given to them in the Terms of Service.</p>
+<p>Welcome to this website (“Site”), as operated by Apartment List, Inc. (“Company” or “we”). Company operates the Site and other associated services and offerings, including, without limitation, mobile and tablet applications, that allow individuals to list or locate apartments, houses or other real estate for rent or sale and to locate roommates (collectively, the "Service"), and makes it available to you subject to the Terms of Service (the "Terms"). This Privacy Policy is incorporated into and is subject to the Terms of Service. Capitalized terms used but not defined in this Privacy Policy have the meaning given to them in the Terms of Service.</p>
 
-<p>This statement governs information you provide to us or that we learn from you and other users of the Service (individually “User” or collectively, "Users") through use of the Service, and describes how we may collect, use, and disclose this information.</p>
+<p>This Privacy Policy applies to the information you provide to us or that we learn from you through the Service, and describes how we may collect, use, and disclose this information. If you do not want information about you to be used in the manner described in this Privacy Policy, please do not use the Service.</p>
 
 <h2>The Information Company Collects</h2>
 
 <p><strong>User Provided Information.</strong>
-You may provide to Company what is generally called "personally identifiable" or “personal” information when you register or use the Service, such as your name, e-mail address, gender, physical address, telephone number, and credit card number, as well as a variety of other personal information such as information about your demographic profile and interests. Any time you enter information into a form or other data entry field available on the Service, Company collects and stores any personal information you include.</p>
+You may provide to Company what is generally called "personally identifiable" or “personal” information when you register or use the Service, such as your name, e-mail address, gender, physical address, telephone number, and credit card number, as well as a variety of other personal information such as information about your demographic profile and interests. Any time you enter information into a form or other data entry field available on the Service, Company collects and stores any personal information you include. From time to time, we may also ask you to provide other information if you so choose and if we deem it necessary or helpful in the provision of the Service or any part thereof. If you choose to provide such information, during registration or otherwise, you are giving us the permission to use and store it consistent with this Privacy Policy.</p>
 
 <p><strong>Aggregate Data.</strong>
 Aggregate data is data we collect about a group or category of features, services or individuals, from which individual identities have been removed. For example, information about how you use a feature may be collected and combined with information about how others use the same feature, without any personal information included in the resulting data.</p>
 
 <p><strong>"Cookies" Information.</strong>
-When you use the Service, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Company uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. By using these cookies, we can "remember" what you have done on the Service before and personalize our site for you. These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up. Please note that disabling cookies may prevent you from accessing some of the functionality available via the Service. In addition, in order to recognize you, store your preferences, and track your use of any application, we may store your mobile device IDs (the unique identifier assigned to a device by the manufacturer) when you use the Service. Unlike cookies, mobile device IDs cannot be deleted.</p>
+When you use the Service, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Company uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. By using these cookies, we can "remember" what you have done on the Service before and personalize our Site for you. These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up. Please note that disabling cookies may prevent you from accessing some of the functionality available via the Service. In addition, if you access or use the Service from your phone, tablet or mobile device, we may store your mobile device IDs or other unique identifier assigned to a device by the manufacturer that uniquely identifies individual smart phones, tablets, or mobile devices. Unlike cookies, mobile device IDs or other such identifiers cannot be deleted.</p>
 
 <p><strong>"Automatically Collected" Information.</strong>
-When you visit the Service or open one of our HTML emails, certain information from your web browser, mobile device or email client may be recorded through use of different types of technology, including "clear gifs" or "web beacons". This "automatically collected" information may include your Internet Protocol address ("IP Address"), mobile device type, web browser type, the web pages or sites that you visit just before or just after the Service, the pages you view, and the dates and times that you use the Service. Without limiting the generality of the foregoing, we also allow analytics companies to use tracking technologies to collect information about our Users’ computers or mobile devices and their online activities. These companies analyze this information to help us understand how the Service is being used. Analytics companies may use mobile device IDs, as described in the paragraph above.</p>
+When you visit the Service or open one of our HTML emails, certain information from your web browser, mobile device or email client may be recorded through use of different types of technology, including "clear gifs" or "web beacons". This "automatically collected" information may include your Internet Protocol address ("IP Address"), mobile device type, web browser type, the web pages or sites that you visit just before or just after the Service, the pages you view, and the dates and times that you use the Service. Without limiting the generality of the foregoing, we also allow analytics companies to use tracking technologies to collect information about our Users’ computers or mobile devices and their online activities. These companies analyze this information to help us understand how the Service is being used. Analytics companies may also collect mobile device IDs, as described in the paragraph above.</p>
 
 <p><strong>Third Party Buttons.</strong>
 We may implement third party buttons (such as Facebook “like” or “share” buttons or Twitter “tweet” buttons) that may allow third parties to collect information about you through such third parties’ browser cookies, even when you do not interact with the button. Information collected through buttons is collected directly by these third parties, and Company does not participate in that data transmission. Information collected by a third party in this manner is subject to that third party’s own data collection, use, and disclosure policies.</p>
 
 <p><strong>Integrated Services.</strong>
-You may be given the option to access or register for the Service through the use of your user name and passwords for certain services provided by third parties (each, an “Integrated Service”), such as Google or Facebook credentials, or you may otherwise have the option to authorize an Integrated Service to provide personal information or other information to us. By authorizing us to connect with an Integrated Service, you authorize us to access and store your name, email address(es), education, profile pictures, interests and activities, your gender and age, your hometown, school, employer, your username and other information that the Integrated Service makes available to us, and for certain aspects of the Service (such as the Roommates application), the names and profile pictures of your friends or contacts within the Integrated Service who are also users of the Service (or friends with Users of the Service) (“Friend Information”). Company may use and disclose any such information in accordance with this Privacy Policy. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Service.</p>
+You may be given the option to access or register for the Service through the use of your user name and passwords for certain services provided by third parties (each, an “Integrated Service”), such as Google or Facebook account credentials, or you may otherwise have the option to authorize an Integrated Service to provide personal information or other information to us. By authorizing us to connect with an Integrated Service, you authorize us to access and store your name, email address(es), education, profile pictures, interests and activities, your gender and age, your hometown, school, employer, your username and other information that the Integrated Service makes available to us, and for certain aspects of the Service (such as the Roommates application), the names and profile pictures of your friends or contacts within the Integrated Service who are also Users of the Service (or friends with Users of the Service) (“Friend Information”), and to use and disclose any such information in accordance with this Privacy Policy. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Service.</p>
+
+<p><strong>Information from Other Sources.</strong>
+If we combine or associate information from other sources with personal information that we collect through the Service, we will treat the combined information as personal information in accordance with this Privacy Policy.</p>
+
+<p><strong>Location Information.</strong>
+Some of the features of the Service may enable or require us to access information about your location (“Location-based Services”).  In order to use Location-based Services, you must allow Company access to your localized position through your mobile device, which Company may accomplish through a variety of means, including IP address, or geo-fencing technology, as available. Your mobile device may automatically enable the provision of some Location-based Services, but you will have the option to enable or disable such Location-based Services at any time by configuring your mobile device’s setting appropriately.</p>
 
 <p><strong>Information from Other Sources.</strong>
 If we combine or associate information from other sources with personal information that we collect through the Service, we will treat the combined information as personal information in accordance with this Privacy Policy.</p>
@@ -101,26 +150,26 @@ If we combine or associate information from other sources with personal informat
 <p>Company uses information that we collect through the Service for a variety of purposes, including those described below:</p>
 
 <p><strong>Providing and Supporting the Service.</strong>
-Company uses the information that we collect to provide to you all of the features and services found on the Service. We will use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major Service updates, responding to your requests, and sending you other types of notices.  We may review the content of communications you make through the Service so that we can provide better services.  For example, monitoring user communications may help us identify and remove users who are attempting to scam other users or perform other illegal activity.</p>
+Company uses the information that we collect to provide to you all of the features and services found on the Service. We will use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major Service updates, responding to your requests, and sending you other types of notices. We may review the content of communications you make through the Service so that we can provide better services. For example, monitoring User communications may help us identify and remove Users who are attempting to scam other Users or perform other illegal activity.</p>
 
 <p><strong>Improving the Service.</strong>
 Company may use all of the information that we collect from our Users to understand usage trends and preferences, to improve the way the Service works and looks, to improve our marketing and promotional efforts, and to create new features and functionality.</p>
 
 <p><strong>Monitoring the Service.</strong>
-Company may use automatically collected and cookies information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the Service; (b) provide custom, personalized advertisements, content, and information; (c) monitor the effectiveness of our marketing campaigns; and (d) monitor aggregate usage metrics such as total number of visitors or users and pages viewed.</p>
+Company may use automatically collected and cookies information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the Service; (b) provide custom, personalized advertisements, content, and information; (c) monitor the effectiveness of our marketing campaigns; and (d) monitor aggregate usage metrics such as total number of visitors or Users and pages viewed. Company may use the location information that you provide or that it collects to monitor the effectiveness of the Service, such as whether you utilized the Service to tour and find an apartment.</p>
 
 <p><strong>Marketing the Service.</strong>
 Company may use your email address or other personally identifiable information to send promotional or marketing messages relating to the Service, which you will have the ability to opt-out of.</p>
 
 <h2>When Company Discloses Information</h2>
 
-<p>Company discloses information that we collect through the Service to third parties for a variety of purposes, including those described below.</p>
+<p>Company discloses information that we collect from or obtain about you to third parties for a variety of purposes, including those described below.</p>
 
 <p><strong>Fulfilling User Requests.</strong>
-Company may disclose both personally identifiable, automatically collected information and any other information to certain third parties in order to fulfill User requests. For instance, if you respond to an offer or listing for a third party’s product(s) or service(s) or sign up to be notified about related offers or listings from that third party or other third parties, then Company will provide such third parties with your information in order to fulfill your request. In addition, if, for example, you post a listing on the Site and agree that we may make it available to third parties, we will provide the listing and all related information to such third parties. COMPANY'S PRIVACY POLICY DOES NOT APPLY TO SUCH THIRD PARTIES AND THEIR HANDLING OF YOUR INFORMATION, SO YOU SHOULD CAREFULLY CONSULT THEIR PRIVACY POLICIES.</p>
+Company may disclose Users’ information to certain third parties in order to fulfill User requests. For instance, if you respond to an offer or listing for a third party’s product(s) or service(s) or sign up to be notified about related offers or listings from that third party or other third parties, then Company will provide such third parties with your information in order for such third party to fulfill your request. In addition, if, for example, you post a listing on the Site and agree that we may make it available to third parties, we will provide the listing and all related information to such third parties. COMPANY'S PRIVACY POLICY DOES NOT APPLY TO SUCH THIRD PARTIES AND THEIR HANDLING OF YOUR INFORMATION, SO YOU SHOULD CAREFULLY CONSULT SUCH THIRD PARTIES’ PRIVACY POLICIES FOR INFORMATION REGARDING THEIR COLLECTION, USE AND DISCLOSURE OF YOUR INFORMATION.</p>
 
 <p><strong>Information About Others.</strong>
-For certain aspects of the Service (such as in connection with the Roommates application), Company may share your Friend Information with other users of the Service who are already friends or contacts with that individual on an Integrated Service.</p>
+For certain aspects of the Service (such as in connection with the Roommates application), Company may share your Friend Information with other Users of the Service who are also friends or contacts with that individual on the relevant Integrated Service.</p>
 
 <p><strong>Operating the Service.</strong>
 Company may disclose both personally identifiable and automatically collected information to certain third parties to process such information on our behalf, to provide website or other services, maintenance, and security, to manage our contacts and send out promotional messages on our behalf, to assist us in improving the way the Service works and looks, and to create new features. Generally, such disclosures are made under obligations of confidentiality.</p>
@@ -138,17 +187,17 @@ We may sell or render access to User information, including contact information,
 Information about our Users, including personally identifiable information, may be disclosed or otherwise transferred as part of any merger, acquisition, debt financing, or sale of Company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information is transferred to third parties as one of our business assets.</p>
 
 <p><strong>Public Areas.</strong>
-Any information that you voluntarily choose to include in a publicly (or semi- publicly) accessible area of the Service, such as a public profile page or communications you may initiate or engage in through the Service, will be available to anyone who has access to that content, including other Users. We cannot control who reads your posting or what other Users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.</p>
+Any information that you voluntarily choose to include in a publicly (or semi- publicly) accessible area of the Service, such as a public profile page or communications you may initiate or engage in through the Service, will be available to anyone who has access to that content, including other Users. We cannot control who reads your posting or what other Users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to what you share on or through the Service.</p>
 
 <h2>Your Choices and Account</h2>
 
 <p>You may, of course, decline to share your personally-identifiable information with Company, in which case Company will not be able to provide to you some or all of the features and functionality found on the Service.</p>
 
-<p>If you receive promotional email from Company, you may unsubscribe at any time by following the instructions contained within the email. Even after you opt-out from receiving promotional messages from Company, you will continue to receive administrative messages from Company regarding the Service.</p>
+<p>If you receive promotional emails from Company, you may unsubscribe from such emails at any time by following the instructions contained within the email. Even after you opt-out from receiving promotional messages from Company, you will continue to receive administrative messages from Company regarding the Service.</p>
 
-<p>To protect your privacy and security, we take reasonable steps to verify your identity before granting Users’ profile access. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.</p>
+<p>To protect your privacy and security, we take reasonable steps to verify your identity before granting you access to your account for the Service. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.</p>
 
-<p>You may request that we use commercially reasonable efforts to delete your information by contacting us at feedback@apartmentlist.com.</p>
+<p>You may request that we delete your information from our active user databases by contacting us at feedback@apartmentlist.com, in which case we will use commercially reasonable efforts to do so. Please note that while such deletions may be reflected in our active user databases, we may retain your personal information for a variety of other purposes, including backups and archiving, prevention of fraud and abuse, and analytics.</p>
 
 <h2>Children</h2>
 
@@ -170,7 +219,7 @@ Any information that you voluntarily choose to include in a publicly (or semi- p
 
 <p>No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we take steps to protect your information from unauthorized access, disclosure, alteration, or destruction, which may include use of industry standard technologies and procedures. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software.</p>
 
-<p>If Company learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Service or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. Company may post a notice on the Service if a security breach occurs. If this happens, you will need a web browser enabling you to view the Service. Company may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at feedback@apartmentlist.com.</p>
+<p>If Company learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Service or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. Company may post a notice on the Service if a security breach occurs. If this happens, you will need a web browser enabling you to access and view the notice on the Service. Company may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at feedback@apartmentlist.com.</p>
 
 <h2>Special Note to International Users</h2>
 
@@ -178,7 +227,7 @@ Any information that you voluntarily choose to include in a publicly (or semi- p
 
 <h2>Changes and Updates to this Privacy Policy</h2>
 
-<p>We may occasionally update this Privacy Policy. When we do, we will also revise the "last updated” date on the Privacy Policy. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will attempt to obtain your consent before implementing the change, and without your consent, the new policy will not apply to information collected prior to the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the Service constitutes your going forward agreement to this Privacy Policy and any updates.</p>
+<p>We may occasionally update this Privacy Policy. When we do, we will also revise the "last updated” date on the Privacy Policy. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will attempt to obtain your consent before implementing the change, and without your consent, the new policy will not apply to information collected prior to the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the Service constitutes your agreement to this Privacy Policy and any updates.</p>
 
 <h2>Contacting Company</h2>
 
@@ -191,19 +240,11 @@ San Francisco, CA 94107</p>
 
 </div>
 </div>
-
-</div>
-<footer class="navbar navbar-inverse hidden-map">
+</div><footer class="navbar navbar-inverse">
 <div class="container">
 <ul class="nav navbar-nav pull-left">
 <li>
-<a href="http://blog.apartmentlist.com/">Blog</a>
-</li>
-<li>
 <a href="http://blog.apartmentlist.com/about/">About Us</a>
-</li>
-<li>
-<a href="http://jobs.apartmentlist.com/">Jobs</a>
 </li>
 <li>
 <a href="/about/privacy">Privacy Policy</a>
@@ -213,39 +254,8 @@ San Francisco, CA 94107</p>
 </li>
 </ul>
 <div class="pull-right" id="equal-housing-container">
-<img src="http://cdn0.apartmentlist.com/assets/common/equal-housing-3665cc43df55e3077e9d4c1167b2bb56.svg">
+<img alt="Equal housing logo" src="https://cdn1.apartmentlist.com/assets/common/equal-housing-08b6842b64cf33babdc5bbd7f6ae56fd.svg">
 </div>
 </div>
 </footer>
-
-<script type="text/javascript">
-  //<![CDATA[
-    // Dynamic objects (ex. Backbone view instances)
-    window.app = window.app || {};
-    
-    // Static objects (ex. Backbone view class)
-    window.vb = window.vb || {};
-    
-    // Declare namespaces
-    vb.api = {};
-    vb.config = {};
-    vb.console = {};
-    vb.model = {};
-    vb.search = {};
-    vb.service = {};
-    vb.text = {};
-    vb.view = {};
-    
-    // Declare constants
-    vb.gaAccount = 'UA-23312730-1';
-    vb.isHttps = 'https:' === document.location.protocol;
-    vb.isProduction = true;
-    vb.sourceApp = 'ApartmentList';
-  //]]>
-</script>
-
-<script src="http://cdn3.apartmentlist.com/assets/application-b42505de20614812cad03c03ec5427ab.js"></script>
-
-
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
