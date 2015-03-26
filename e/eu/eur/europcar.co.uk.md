@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europcar.co.uk privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713212454id_/http%3A//www.europcar.co.uk/EBE/module/render/security-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europcar.co.uk privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326050301id_/http%3A//www.europcar.co.uk/EBE/module/render/security-and-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UK, France, Germany, Spain, Italy Europcar Car Hire
 
