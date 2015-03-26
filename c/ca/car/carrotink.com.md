@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the carrotink.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626152711id_/http%3A//www.carrotink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrotink.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326195951id_/http%3A//www.carrotink.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Carrot Ink
+# Privacy Carrotink.com
 
 **Privacy Policy - Effective January 27, 2012**
 
-Carrot Acquisition Partners LLC (“Carrot Ink”) is committed to respecting your privacy and recognizing your need for appropriate protection and management of the personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, email address, address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information, as well as our policy limiting any potential sale or transfer of ownership of such information. This policy applies only to users accessing our web site from the United States.
+ is committed to respecting your privacy and recognizing your need for appropriate protection and management of the personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, email address, address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information, as well as our policy limiting any potential sale or transfer of ownership of such information. This policy applies only to users accessing our web site from the United States.
 
-As a part of our commitment to your privacy, Carrot Ink supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to: (1) provide customers with the notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Carrot Ink.
+As a part of our commitment to your privacy, Carrot Ink supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to: (1) provide customers with the notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Carrot Ink.
 
 ## **Collecting Information About You**
 
@@ -20,17 +20,17 @@ To serve you better, we may combine information you give us online and over the 
 We may contract with companies or persons to provide certain services, including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.
 
 **Editing, Updating, Correcting, and Deleting Information About You – “Opt-Out”  
-**We want to communicate with you only if you want to hear from us. At any time, if you prefer not to receive information from us or from our Marketing Partners, please let us know by calling us at toll free (877) 322-7768 or by sending us an email at [privacy@carrotink.com](mailto:privacy@carrotink.com). Please be sure to include your email address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, street addresses, or other personal information with us, please contact us by email at [privacy@carrotink.com](mailto:privacy@carrotink.com).
+**We want to communicate with you only if you want to hear from us. At any time, if you prefer not to receive information from us or from our Marketing Partners, please let us know by calling us at toll free 877 3 CARROT or by sending us an email at custom1@carrotink.com. Please be sure to include your email address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, street addresses, or other personal information with us, please contact us by email at custom1@carrotink.com.
 
 In addition, when you purchase from us online, via the telephone, facsimile, or postal mail, or when you choose to enter a sweepstakes or other promotion, we may need to contact you via phone, email, or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive communications.
 
 Please remember, if you delete certain information, you may not be able to continue to purchase products or access other portions of our web site without entering that information again.
 
 **Limitations on Sale / Transfer  
-**Should circumstances arise which give opportunity for your personal information to be sold or transferred, Carrot Ink will not sell, share, or otherwise disclose covered information to an unaffiliated party without first obtaining the express affirmative consent of the individual to whom the covered information relates.
+**Should circumstances arise which give opportunity for your personal information to be sold or transferred, Carrot Ink will not sell, share, or otherwise disclose covered information to an unaffiliated party without first obtaining the express affirmative consent of the individual to whom the covered information relates.
 
 **Protecting Children  
-**Carrot Bunch Companies takes special care to protect the safety and privacy of children. Our web site is a general audience site. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13 without their parent's consent.
+** Carrot Ink takes special care to protect the safety and privacy of children. Our web site is a general audience site. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13 without their parent's consent.
 
 Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web.
 
@@ -42,9 +42,9 @@ We also use pixel tags – tiny graphic images – to tell us what parts of ou
 We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Carrot Ink.
 
 **How We Use Email  
-**When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at carrotink.com, you will receive an email confirmation of your order, and in most cases an email with package tracking information.
+**When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at http://www.carrotink.com/, you will receive an email confirmation of your order, and in most cases an email with package tracking information.
 
-It is our intent to send you promotional email (our Email Newsletter, product promotions, and “you may be running low” reminders) if you provide us with an email address. Instructions on how to unsubscribe are included in each promotional email we send. You may also unsubscribe from all of our promotional mailings by sending an email to this address: [unsubscribe@carrotink.com](mailto:unsubscribe@carrotink.com).
+It is our intent to send you promotional email (our Email Newsletter, product promotions, and “you may be running low” reminders) if you provide us with an email address. Instructions on how to unsubscribe are included in each promotional email we send. You may also unsubscribe from all of our promotional mailings by sending an email to this address: custom2@carrotink.com.
 
 Asking to be removed from Carrot Ink’s Promotional E-Mail List will not prevent you from receiving e-mail communications relating to any online order you place at Carrot Ink or other operational e-mail communications.
 
@@ -55,4 +55,4 @@ Asking to be removed from Carrot Ink’s Promotional E-Mail List will not preven
 **From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our web site. We encourage you to review our privacy policy periodically.
 
 **Your Feedback  
-**To help us improve our privacy policy and practice, please give us your feedback. You may email at [service@carrotink.com](mailto:service@carrotink.com) us or write to us at Carrot Ink – Privacy Director, PO Box 2606, Addison, TX 75001.
+**To help us improve our privacy policy and practice, please give us your feedback. You may email at service@carrotink.com us or write to us at Carrot Ink – Privacy Director, 6520 Platt Ave # 643, West Hills, CA 91307.
