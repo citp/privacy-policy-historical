@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the debtfinancearticles.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312001146id_/http%3A//www.debtfinancearticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtfinancearticles.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326195244id_/http%3A//www.debtfinancearticles.com/privacy) for the most accurate reproduction.*
 
-# Privacy | DebtFinanceArticles.com | DebtFinanceArticles.com
+# Privacy | DebtFinanceArticles.com
 
 DebtFinanceArticles.com has created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
