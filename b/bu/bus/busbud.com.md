@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busbud.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914112219id_/http%3A//busbud.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busbud.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326020415id_/http%3A//busbud.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Busbud
 
