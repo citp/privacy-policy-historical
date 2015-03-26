@@ -1,33 +1,6 @@
-> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728190348id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326114413id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - The Company Corporation
-
-Getting Started
-
-  * [Incorporate Now](https://web.archive.org/incorporate_now.html)
-  * [Business Startup Wizard](https://web.archive.org/business_startup_wizard.html)
-  * [Limited Liability Company  
-(LLC)](https://web.archive.org/limited_liability_company.html)
-  * [S Corporation](https://web.archive.org/s_corporation.html)
-  * [C Corporation](https://web.archive.org/c_corporation.html)
-  * [Comparison Chart](https://web.archive.org/business_structure_comparison_chart.html)
-  * [Business Licenses](https://web.archive.org/business_licenses_permits.html)
-  * [Employer ID Number (EIN)](https://web.archive.org/employer_id_number_ein.html)
-
-
-
-Learn More
-
-  * [Benefits of Incorporating](https://web.archive.org/benefits_of_incorporating.html)
-  * [Start-up Tasks](https://web.archive.org/completing_startup_tasks.html)
-  * [Corporation vs LLC](https://web.archive.org/comparing_corporations_llcs.html)
-  * [Bylaws & Operating Agreements](https://web.archive.org/bylaws_operating_agreements.html)
-  * [State Guides](https://web.archive.org/choosing_a_state.html)
-  * [Business Coaching](https://web.archive.org/compliance_coaching.html)
-  * [Annual Report](https://web.archive.org/annual_report_filing.html)
-  * [Contact Us](https://web.archive.org/contact_us.html)
-
-
 
 ## The Company Corporation Privacy Statement 
 
@@ -66,5 +39,3 @@ You should also take the necessary precautions to safeguard your user i.d. and p
 If you require assistance to update or delete your information, or if you feel that your user i.d. and password have been compromised, you should contact our Customer Service staff at 800-818-6082 (toll-free) or 302-636-5440. Our hours of operation are Monday - Friday from 8 a.m. to 8 p.m. Eastern Time. 
 
 If you wish for your contact information not to be shared with outside parties, or if you would rather not receive any updates from us, please send a request to [info@incorporate.com](mailto:info@incorporate.com). 
-
-privacy
