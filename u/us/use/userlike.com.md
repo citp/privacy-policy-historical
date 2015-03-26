@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the userlike.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104052054id_/https%3A//www.userlike.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userlike.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326045414id_/https%3A//www.userlike.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Userlike.com](http://www.userlike.com/) is a website, Userlike is a service owned by Userlike UG (haftungsbeschränkt). If you have any comments or questions you may address them to the customer service at support@userlike.com, by telephone at +49-221-63060024 or via mail addressed to Userlike Customer Service, Userlike UG (haftungsbeschränkt),Deisterweg 7, 51109 Köln, Germany.
+[Userlike.com](https://www.userlike.com/) is a website, Userlike is a service owned by Userlike UG (haftungsbeschränkt). If you have any comments or questions you may address them to the customer service at support@userlike.com, by telephone at +49-221-63060024 or via mail addressed to Userlike Customer Service, Userlike UG (haftungsbeschränkt),Deisterweg 7, 51109 Köln, Germany.
 
 Userlike UG (haftungsbeschränkt) (in the text also called "Userlike" or "we") owns and runs Userlike.com (the "website") and the service of the brand Userlike. Userlike respects the privacy of its users. Userlike respects the right to privacy of their software users and takes reasonable steps for the user to learn how and which information is processed. The acceptance of terms and conditions for the use of any Userlike' service or deciding on using or purchasing any product offered by Userlike means accepting the Userlike Terms of Service and the Userlike Privacy Policy.
 
 ## Provided Data
 
-According to § 33, Sec. 1 of the German Data Security Law (Bundesdatenschutzgesetz), the user is hereby informed that Userlike is digitally processing personal data for tasks arising from the agreement. Personal data and other user information collected by Userlike is used to complete user registration and to ensure access to Userlike services and products. While registering on the website [http://www.userlike.com](http://www.userlike.com/) we request that you provide us with such information as name, username, email, business name, address, website address and credit or payment card information when purchases of Userlike products are made. When contacting Userlike, the user may be asked to render accessible analogical data to those provided while registering on the Userlike website. Personal data provided in connection with the correspondence between the user and Userlike shall only be used to reply to inquiries made by the user or to transfer information.
+According to § 33, Sec. 1 of the German Data Security Law (Bundesdatenschutzgesetz), the user is hereby informed that Userlike is digitally processing personal data for tasks arising from the agreement. Personal data and other user information collected by Userlike is used to complete user registration and to ensure access to Userlike services and products. While registering on the website [https://www.userlike.com](https://www.userlike.com/) we request that you provide us with such information as name, username, email, business name, address, website address and credit or payment card information when purchases of Userlike products are made. When contacting Userlike, the user may be asked to render accessible analogical data to those provided while registering on the Userlike website. Personal data provided in connection with the correspondence between the user and Userlike shall only be used to reply to inquiries made by the user or to transfer information.
 
 ## Data Disclosure
 
@@ -47,11 +47,11 @@ Telefon: +49 (0)221-63060024
 
 ## Modification of the Privacy Policy
 
-Userlike reserves the right to modify its Userlike Pirvacy Policy. The user may familiarize himself at any time with the currently effective version of the Privacy Policy on the Userlike website: <http://www.userlike.com/>. Further use of products and services shall constitute the consent to accept privacy policy modifications.
+Userlike reserves the right to modify its Userlike Pirvacy Policy. The user may familiarize himself at any time with the currently effective version of the Privacy Policy on the Userlike website: <https://www.userlike.com/>. Further use of products and services shall constitute the consent to accept privacy policy modifications.
 
 ## Terms and Conditions
 
-By using Userlike products and services the user is bounded to the Userlike Terms and Conditions which are available at the website <http://www.userlike.com/>.
+By using Userlike products and services the user is bounded to the Userlike Terms and Conditions which are available at the website <https://www.userlike.com/>.
 
 ## Google Analytics
 
@@ -61,7 +61,7 @@ In case IP-anonymisation is activated on this website, your IP address will be t
 
 Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage.
 
-The IP-address, that your Browser conveys within the scope of Google Analytics, will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: <http://tools.google.com/dlpage/gaoptout?hl=en>.
+The IP-address, that your Browser conveys within the scope of Google Analytics, will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: <https://tools.google.com/dlpage/gaoptout?hl=en>.
 
 ## Legal effectiveness of the data security
 
