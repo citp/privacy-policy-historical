@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the cqu.edu.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142949id_/http%3A//www.cqu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqu.edu.au privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326075136id_/https%3A//www.cqu.edu.au/privacy) for the most accurate reproduction.*
 
-# CQUniversity Australia - Privacy
+# Privacy - CQU
 
 CQUniversity is committed to protecting user privacy. CQUniversity understands and appreciates that visitors and users of this website are concerned about their privacy and the confidentiality and security of any information that may be provided to us.
 
 The Queensland Government has established a privacy regime for the Queensland public sector based on the 11 Information Privacy Principles set out in Commonwealth Privacy Legislation. These are contained in an Information Standard 42 that Queensland agencies are required to adhere to. A copy of this standard can be accessed at <http://www.qgcio.qld.gov.au/02_infostand/standards.htm>.
 
-**CQUniversity Website**
+## CQUniversity Website
 
 ### General Users
 
 In the normal course of operation of our web servers, CQUniversity collects information about users that may include:
 
-\- IP Address
+  * IP Address
+  * Type of Operating System and Browser
+  * Operating Characteristics, like screening resolution, and colouring depth
+  * The URL that referred you to our site
+  * The part of the world from which you are accessing our site
 
-\- Type of Operating System and Browser
 
-\- Operating Characteristics, like screening resolution, and colouring depth
-
-\- The URL that referred you to our site
-
-\- The part of the world from which you are accessing our site
 
 This information is retained and used by web support teams and by system administrators to review and improve user experience on CQUniversity's site and to diagnose problems. CQUniversity does not use this information to identify individual users.
 
@@ -36,19 +34,17 @@ In these circumstances, if you are concerned about transmitting information over
 
 CQUniversity uses a variety of technologies to secure the information we collect on our servers and to secure the transmission of information to our servers. However, there is always a small possibility that your information could be inadvertently disclosed. By using our sites, you agree that CQUniversity is not liable for the inadvertent or unintentional disclosure of your information.
 
-Information you choose to provide to us will be treated as a public record and will be retained as required by the _Public Records Act 2002_ and other relevant regulations. CQUniversity may be ordered by a court, law enforcement agency or regulatory agency with jurisdiction to disclose information. CQUniversity will comply with such requests and is not obligated to notify you of such disclosure.
-
-Some software components of our sites may write small files to your computer, known as cookies. These cookies are used to improve user experience and do not contain personally identifying information.
+Information you choose to provide to us will be treated as a public record and will be retained as required by the _Public Records Act 2002_ and other relevant regulations. CQUniversity may be ordered by a court, law enforcement agency or regulatory agency with jurisdiction to disclose information. CQUniversity will comply with such requests and is not obligated to notify you of such disclosure. Some software components of our sites may write small files to your computer, known as cookies. These cookies are used to improve user experience and do not contain personally identifying information.
 
 ### Authorised Users
 
 If you access CQUniversity sites using passwords, computers or network connections supplied by CQUniversity, CQUniversity will have additional information about you including your identity and your relationship to the University. Notwithstanding anything in this statement, this information may be used to assess compliance with relevant University policies on use of technology.
 
-**Access to Personal Information**
+#### Access to Personal Information
 
 Requests for access to personal information should be directed in writing to the University's Freedom of Information (FOI) Officer who will process the request in accordance with the Queensland _Freedom of Information Act 1992_. For more information, see <http://www.cqu.edu.au/compliance/FOI>.
 
-**Payments to the University**
+#### Payments to the University
 
 When you pay an account or purchase something through our website, your personal and financial details are protected at all stages of the transaction. In order to process your payment, the information requested consists of name, student number, phone number, and credit card details.
 
@@ -56,6 +52,6 @@ Credit card details may be encrypted and stored locally while the connection to 
 
 The University accepts Mastercard, Bankcard, Visa and AMEX credit card payments by electronic means through our website and via the Australia Post automated telephone service. Electronic payments can also be made using the BPay facility. In instances whereby students do not have the ability to make payment by these methods, payments can be accepted over the telephone by Accounts Receivable or Student Service Line officers, or made in person at all Australia Post locations and CQUniversity Campuses. Accounts Receivable staff in Financial Services Division can provide further information on these services.
 
-**Contact Person - Privacy and Security**
+#### Contact Person - Privacy and Security
 
-If you have queries about our privacy and security practices, please contact the Governance Directorate on 07 4923 2551 or by email to [k.white@cqu.edu.au](mailto:k.white@cqu.edu.au) in the first instance. 
+If you have queries about our privacy and security practices, please contact the Governance Directorate on 07 4923 2551 or by email to [k.white@cqu.edu.au](mailto:k.white@cqu.edu.au) in the first instance.
