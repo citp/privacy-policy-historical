@@ -1,18 +1,28 @@
-> *The following text is extracted and transformed from the stylistpick.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702235842id_/http%3A//www.stylistpick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylistpick.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326101309id_/https%3A//www.stylistpick.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Cookies**
+Below we set out our privacy policy which will govern the way in which we process any personal information that you provide to us. We will notify you if the way in which we process your information is to change at any time. Our details are:
 
-Our Website uses cookies to distinguish you from other users of our Website. This helps us to provide you with a good experience when you browse our Website and also allows us to improve our Website. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](http://www.fusefashion.com/cookie-policy)
+Stylist Pick Group Plc,    
+8 St John's Hill,  
+London,  
+SW11 1SA  
+  
+Tel: 08452 620 400  
+Monday to Friday, 9am to 5pm
 
-This privacy policy (“ **the Policy** ”) applies to your use of the Website at www.stylistpick.com (“ **the Website** ”). The Website is operated by **HALLETT RETAIL SERVICES LIMITED** , a company incorporated in England and Wales (company number: 03733384) with its registered office at 26A Church Lane, London, UK N2 8DT (“ **Hallett** ”, “ **us** ” or “ **we** ”).
+[Contact us](https://web.archive.org/contactus)
+
+This privacy policy (“the Policy”) applies to your use of the Website at www.stylistpick.com (“the Website”). The Website is operated by HALLETT RETAIL SERVICES LIMITED, a company incorporated in England and Wales (company number: 03733384) with its registered office at 26A Church Lane, London, UK N2 8DT (“Hallett”, “us” or “we”).
 
 We are committed to preserving and respecting your privacy. Please read the following Policy to understand how we use and protect the information that you provide to us.
 
 By using the Website or by otherwise providing us with your information you consent to the collection, storage, use and transfer of your information under the terms of this Policy.
 
-### **Information that we collect from You**
+* * *
+
+## Information that we collect from You
 
 We collect information:
 
@@ -25,7 +35,9 @@ We collect information:
 
 
 
-### **Use of Your Information**
+* * *
+
+## Use of Your Information
 
 We use your information:
 
@@ -45,13 +57,15 @@ If you do not want us to use your data in this way, please tick the relevant box
 
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
-### **Where we store your personal information**
+* * *
 
-The data that we collect from you is stored on servers within the United Kingdom. By submitting your personal data, you agree to this storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy.
+## Where we store your personal information
 
-All information you provide to us is stored on our secure servers. Any payment transactions that are carried out by, or on behalf of, us will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+The data that we collect from you is stored on servers within the United Kingdom. By submitting your personal data, you agree to this storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy. All information you provide to us is stored on our secure servers. Any payment transactions that are carried out by, or on behalf of, us will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-### **Disclosure of your information**
+* * *
+
+## Disclosure of your information
 
 The information you provide to us will be treated as confidential. However, we may disclose your information to other third parties who act for us such as our employees, officers, agents, or partners as necessary for the purposes set out in this Policy or for purposes approved by you.
 
@@ -59,24 +73,29 @@ We may disclose your personal information to third parties:
 
   * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
   * if Hallett or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms [ ** _insert link to Website Terms_** ] or terms and conditions of supply of goods [ ** _insert link to terms and conditions of supply of goods_** ] and other agreements; or to protect our rights and property, or our safety and our customers’ safety; and/or
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms [insert link to Website Terms] or terms and conditions of supply of goods [insert link to terms and conditions of supply of goods] and other agreements; or to protect our rights and property, or our safety and our customers’ safety; and/or
   * for the purposes of fraud protection and credit risk reduction.
 
 
 
-### **Your Rights**
+* * *
+
+## Your Rights
+
+You have the right to ask for a copy of the information held by us in our records in return for which we may charge a small fee. You also have the right to require us to correct any inaccuracies in your information.
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at:
 
-**_Stylistpick_**
+  * Stylistpick 
+  * 26a Church Lane 
+  * London 
+  * N2 8DT 
 
-**_26a Church Lane_**
 
-**_London_**
 
-**_N2 8DT_**
+* * *
 
-### **Security**
+## Security
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website. Any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -84,14 +103,16 @@ Your data may be stored by third parties on our behalf. We, and our third party 
 
 Please help us keep our records updated by informing us of any changes to your e-mail address and other contact details.
 
-### **Changes to Our Privacy Policy**
+* * *
+
+## Changes to Our Privacy Policy
 
 We may amend this Policy from time to time. If we make any substantial changes we will notify you by posting a prominent notice on the Website.
 
-### **Your Rights**
+* * *
 
-You have the right to ask for a copy of the information held by us in our records in return for which we may charge a small fee. You also have the right to require us to correct any inaccuracies in your information.
+## Contact Us
 
-### **Contact Us**
+If you have any queries concerning your personal information or any questions on our use of the information then please contact us by email to: [service@stylistpick.com](mailto:service@stylistpick.com)
 
-If you have any queries concerning your personal information or any questions on our use of the information then please contact us by email to: **service@stylistpick.com**
+* * *
