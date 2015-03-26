@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smplayer.info privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206173203id_/http%3A//smplayer.sourceforge.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smplayer.info privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326115746id_/http%3A//smplayer.sourceforge.net/en/privacy-policy) for the most accurate reproduction.*
 
 # SMPlayer - Privacy Policy
 
@@ -45,4 +45,4 @@ At any moment, you are free to exercise your right of access, modification, canc
 
 ## Version
 
-This Privacy Policy is dated on June 4, 2013. Any modification to its terms will be posted on this website. 
+This Privacy Policy is dated on December 23, 2014. Any modification to its terms will be posted on this website. 
