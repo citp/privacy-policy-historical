@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821114920id_/https%3A//www.wedj.com/dj-photo-video.nsf/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326162319id_/https%3A//www.wedj.com/dj-photo-video.nsf/privacy.html) for the most accurate reproduction.*
 
 # WeDJ.com Privacy Policy
 
@@ -31,7 +31,7 @@ This notice applies to all information collected or submitted on our website. We
 
 #### Site Vendors:
 
-Our service collects information from thousands of DJs, Photographers, Videographers, and other wedding-related businesses throughout the Unites States and abroad. We send emails to each site vendor when a visitor clicks on their website link. We only provide personal information when the visitor approves it. WeDJ.com also sends by email certain update information to our system, monthly statistics, and occassional items of interest within the vendor community. All email addresses are kept strictly confidential and we do not sell, lease, or provide this to any third party. Additionally, the information is used to create search results available to any person who visits the site. Vendor information is divided into two categories: public and private.
+Our service collects information from thousands of DJs, Photographers, Videographers, and other wedding-related businesses throughout the Unites States and abroad. We send emails to each site vendor when a visitor clicks on their website link. We only provide personal information when the visitor approves it. WeDJ.com also sends by email certain update information to our system, monthly statistics, and occasional items of interest within the vendor community. All email addresses are kept strictly confidential and we do not sell, lease, or provide this to any third party. Additionally, the information is used to create search results available to any person who visits the site. Vendor information is divided into two categories: public and private.
 
 Public Information: Available to any person who searches this site. Includes: company name, general location, phone number, email (provided as a link), web site (optional), and user-supplied company information text.
 
@@ -73,4 +73,4 @@ email: support@wedj.com
 phone: (727) 216-2997  
 
 
-[](https://web.archive.org/web/20140821114920id_/https%3A//www.wedj.com/dj-photo-video.nsf/http//www.bbb.org/west-florida/business-reviews/web-hosting-companies/wedjcom-in-clearwater-beach-fl-90129972#sealclick "Click for the Business Review of WeDJ.com, Find djs, photographers, and videographers for weddings and more!")
+[](https://www.bbb.org/west-florida/business-reviews/web-hosting-companies/wedjcom-in-clearwater-beach-fl-90129972#sealclick "Click for the Business Review of WeDJ.com, Find djs, photographers, and videographers for weddings and more!")
