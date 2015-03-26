@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hothaat.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221344id_/http%3A//www.hothaat.com/%3Fpage%3Dpages%26page_name%3DPrivacy%2520Policy%26page_id%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothaat.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326161945id_/http%3A//www.hothaat.com/%3Fpage%3Dpages%26page_name%3DPrivacy%2520Policy%26page_id%3D36) for the most accurate reproduction.*
 
 # Hothaat.com: India's 1st Dropshipping Website: Ab Business Karega India: Start Your Own Online Business Today.
 
@@ -39,4 +39,4 @@ Changes to our privacy policy
 
 We reserve the right to change this privacy policy from time to time by publishing the revised privacy policy on our website. Please check this privacy policy regularly for modifications and updates. If you continue to use this website or if you provide any personal information after we post changes to this privacy policy, this will deemed your conclusive acceptance of any such changes.
 
-If you have any queries or concerns regarding our privacy policies, please email us at [support@hothaat.com](https://web.archive.org/web/20140330221344id_/http%3A//www.hothaat.com/support@hothaat.com)
+If you have any queries or concerns regarding our privacy policies, please email us at [support@hothaat.com](https://web.archive.org/web/20150326161945id_/http%3A//www.hothaat.com/support@hothaat.com)
