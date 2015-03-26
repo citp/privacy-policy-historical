@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterhelp.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730105028id_/https%3A//www.betterhelp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterhelp.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326062124id_/https%3A//www.betterhelp.com/privacy) for the most accurate reproduction.*
 
 # BetterHelp - Privacy Policy
 
