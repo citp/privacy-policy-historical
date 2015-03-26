@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the withknown.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028045303id_/http%3A//withknown.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withknown.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326155900id_/https%3A//withknown.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Known
 
@@ -26,4 +26,4 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Known may change its Privacy Policy from time to time, and in Known’s sole discretion. Known encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, Known may change its Privacy Policy from time to time, and in Known’s sole discretion. Known encourages visitors to frequently check this page for any changes to its Privacy Policy, but we will email you when we make changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
