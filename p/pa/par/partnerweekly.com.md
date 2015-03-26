@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerweekly.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043615id_/https%3A//www.partnerweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerweekly.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326125626id_/https%3A//www.partnerweekly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PartnerWeekly
 
