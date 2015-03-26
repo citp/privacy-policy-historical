@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the altdriver.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223111825id_/http%3A//altdriver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altdriver.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327002300id_/http%3A//www.altdriver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - alt_driver
 
-**alt_driver Privacy Statement**  
 **Effective Date** : October 1, 2014
 
-**Introduction**  
 Thank you for your interest in alt_driver. We respect the privacy of our users when they use our websites, mobile and other online applications and products and services (collectively, the “alt_driver Sites”). By using the alt_driver Sites, you consent to the use of your information and information about you in accordance with this Privacy Statement.
 
 This Privacy Statement applies to information collected through the alt_driver Sites and does not describe the collection, use and disclosure practices of any of our corporate affiliates or third parties.  For information on the collection, use and disclosure practices of any company with whom you are doing business, whether or not affiliated with alt_driver, please review their privacy policies.
