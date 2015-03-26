@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716001927id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326035305id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.*
 
 # Puritan's Pride Privacy Policy
 
@@ -61,7 +61,7 @@ We may use the personal information we collect about you in the ways described b
 
 
 Sharing Site Content With A Friend    
-You may be able to share certain content from our Services with others by asking us to forward the content. To share information, we ask for the recipient's and your name and email addresses. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. We collect personal information in this way, we will use it to fulfill your request and for no other purpose. Your friend may contact us at info@puritanspride.com to request that we remove this information from our database.
+You may be able to share certain content from our Services with others by asking us to forward the content. To share information, we ask for the recipient's and your name and email addresses. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. We collect personal information in this way, we will use it to fulfill your request and for no other purpose. Your friend may contact us at [info@puritan.com](mailto:info@puritan.com) to request that we remove this information from our database.
 
 Information We Share    
 Our affiliates may share personal information among themselves. We will not share your personal information in ways other than as outlined in this policy. In addition, we may share personal information with other entities, including in the following circumstances:
@@ -79,13 +79,13 @@ Information Collected from Visitors Outside the United States
 If you are using the Services from outside the United States and provide us with personal information, please note that your personal information will be transferred, stored and processed in the United States. The data protection laws in the United States may not be as comprehensive as those in your country of residence. **By doing business or interacting with the Company and the Services, you are consenting to the transfer of your personal information to facilities located in the United States and other facility locations selected by the Company.**
 
 We Provide You Choices  
-If you prefer not to receive unsolicited commercial email from us, please [click here](https://web.puritan.com/unsub.jsp?brandName=puritan&language=EN) or contact us at info@puritanspride.com. You can subscribe to receive marketing offers or solicitations from us through email by [clicking here](https://web.archive.org/house/newsletter.asp?). Please note that these requests may take up to 10 days to be effective.
+If you prefer not to receive unsolicited commercial email from us, please [click here](https://web.puritan.com/unsub.jsp?brandName=puritan&language=EN) or contact us at [info@puritan.com](mailto:info@puritan.com). You can subscribe to receive marketing offers or solicitations from us through email by [clicking here](https://web.archive.org/house/newsletter.asp?). Please note that these requests may take up to 10 days to be effective.
 
 Please note that your request not to receive unsolicited commercial emails from us will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us even if you opt out of receiving unsolicited commercial messages. 
 
-If you have established a user account in connection with one of our Services, you may be able to review and request changes to some information that the Company maintains about you through your account settings or by contacting us at info@puritanspride.com . We will respond to your request for access within 30 days.
+If you have established a user account in connection with one of our Services, you may be able to review and request changes to some information that the Company maintains about you through your account settings or by contacting us at [info@puritan.com](mailto:info@puritan.com) . We will respond to your request for access within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@puritanspride.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@puritan.com](mailto:info@puritan.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 Third Parties  
 Our Services may provide links to websites operated by third parties for your convenience and information. All of these websites and applications operate independently from us, and we do not control their privacy practices. We encourage you to review the privacy policies of any third-party websites and applications that you use to better understand their privacy practices. 
@@ -95,7 +95,7 @@ We maintain reasonable security procedures to help protect against loss, misuse 
 
 Among other safeguards, we use Secure Sockets Layer ("SSL") technology to help protect transmissions over the internet of your payment card data. 
 
-Unfortunately, no data transmission over the internet or stored on a server can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information. If you prefer not to transmit your credit card number over the internet, you can contact us using the toll-free number listed on the website from which you want to order. If you have any questions regarding security you can contact us at info@puritanspride.com. 
+Unfortunately, no data transmission over the internet or stored on a server can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information. If you prefer not to transmit your credit card number over the internet, you can contact us using the toll-free number listed on the website from which you want to order. If you have any questions regarding security you can contact us at [info@puritan.com](mailto:info@puritan.com). 
 
 Updates to Our Privacy Policy  
 We reserve the right to modify the Privacy Policy at any time. If we do this, we will post the changes on this page and will indicate at the top of this page the date those terms will be effective. We will attempt to give you advance notice of any substantive changes, but reserve the right to make such modifications immediately if required. It is your responsibility to check to determine if there have been changes to the Privacy Policy and to review such changes. We may update this Privacy Policy periodically to reflect changes in our privacy practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. 
@@ -108,7 +108,7 @@ Our Services are U.S.-based and therefore, information we collect about you may 
 
 How to Contact Us If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by: 
 
-Email: info@puritanspride.com 
+Email: [info@puritan.com](mailto:info@puritan.com)
 
 Mail: Puritan's Pride, Inc   
 Legal Department   
