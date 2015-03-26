@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the betamerica.com privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216044935id_/http%3A//www.betamerica.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betamerica.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326030025id_/https%3A//www.betamerica.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BetAmerica
+# BetAmerica | Privacy Policy
 
-BetAmerica respects the privacy of our Account Holders and the information they provide us, and is committed to protecting Account Holder information.
+* * *
+
+**BetAmerica respects the privacy of our Account Holders and the information they provide us, and is committed to protecting Account Holder information.**
 
 As a part of this commitment, BetAmerica agrees to diligently protect information submitted by BetAmerica Account Holders, including Social Security numbers, Credit and Debit Card information, and banking information, from all entities foreign to BetAmerica. In addition, BetAmerica stipulates to secure all Social Security numbers, Credit and Debit Card information, and banking information from co-marketing arrangements.
 
