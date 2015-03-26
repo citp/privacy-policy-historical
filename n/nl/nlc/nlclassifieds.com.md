@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlclassifieds.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528133343id_/http%3A//www.nlclassifieds.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlclassifieds.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326155148id_/https%3A//www.nlclassifieds.com/privacypolicy%3Bjsessionid%3D47E746C14EFD792AF1DE2D57D971B44F) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,7 +64,7 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-©2014 **Newfoundland Labrador Classifieds** , All rights reserved.  
+©2015 **Newfoundland Labrador Classifieds** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
 
 |   
