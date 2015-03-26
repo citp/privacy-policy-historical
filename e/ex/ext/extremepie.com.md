@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extremepie.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928022638id_/http%3A//www.extremepie.com/legal/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremepie.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326130901id_/https%3A//www.extremepie.com/en-UK/legal/privacy-statement.php) for the most accurate reproduction.*
 
-# Privacy Statement at Extremepie.com
+# Privacy Statement
 
 Internet Fusion Ltd is committed to protecting your privacy. We only use the information we collect about you to process orders and to provide a more personalised shopping experience.
 
@@ -21,7 +21,7 @@ When you order, we collect personal information such as your name, e-mail addres
 
 We will also collect non-transactional data should you enter a competition, take part in a survey, request an e-newsletter or contact Internet Fusion or one of its other operating companies via email. 
 
-At times we may use the information we collect to notify you about news and information or goods and services we think you may find of interest. At every point on the site where such personal information is collected, we give you the option to tell us if you do not want your personal information used in this way. If at any later stage you decide you would rather not receive such information please contact us on our [Contact Us page](http://www.extremepie.com/contact-us/)
+At times we may use the information we collect to notify you about news and information or goods and services we think you may find of interest. At every point on the site where such personal information is collected, we give you the option to tell us if you do not want your personal information used in this way. If at any later stage you decide you would rather not receive such information please contact us on our [Contact Us page](https://www.extremepie.com/en-UK/contact-us/)
 
 We employ other companies and individuals to perform functions on our behalf, (i.e. when fulfilling orders), processing credit card payments, and providing customer service. Our contractors have access to personal information needed to perform their functions, but may not use it for other purposes.
 
