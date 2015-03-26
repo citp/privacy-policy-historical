@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the puritan.com privacy policy that was archived on 2014-07-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140716001927id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the puritan.com privacy policy that was archived on 2015-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150326035305id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script async="" type="text/javascript" src="//sec.levexis.com/clients/nbty/1.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"5fb04af0f5","applicationID":"934399","transactionName":"YlwGY0UEDBUAV0UNV1sWKlhFCAMKCE5UAG1HUEtfWBARA04e","queueTime":0,"applicationTime":63,"ttGuid":"EA51E2DCC062F45C","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQFU1JaGwoDUFJbDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>
 		Puritan's Pride
 		Privacy Policy</title>
@@ -15,48 +15,48 @@ h1,h2,h3,h4,ul,p{list-style:none;display:inline;margin:0;padding:0;}
 h1{font-size:15px;color:#1a1a1a;}
 h2,h3,h4{font-size:13px;color:#003f75;font-weight:700;}
 input,select,textarea{border:1px solid #7f9db9;outline:none;}
-.hide-desktop{display:none}     
+.hide-desktop{display:none}
 #outer-container{width:968px;margin:0 auto;}
 #container{width:910px;margin:0 auto;text-align:left;}
 #header-logo span,.header-shipping span,.header-siteoffer span,#international-es span,#header-livechat span,.header-phone span,#header-nav span,#search span,#puritanpoints-banner span,#banner-leftnav span,.footer-phone span,.banner-footer span,.footer-social span,.stay-conn span,.shopconfidence span{display:none;}
-#header-logo a{float:left;background-image:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_newnav.png);margin:12px 0 5px 5px;width:297px;height:68px;background-position:1px 0;}
+#header-logo a{float:left;background-image:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_july2014.png);margin:12px 0 5px 5px;width:297px;height:68px;background-position:1px 0;}
 .header-shipping{float:left;margin:5px 31px 0 50px;}
-#header-livechat a{float:left;position:relative;background-image:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_newnav.png);width:104px;height:43px;background-position:-514px -15px;margin:11px 0 0 37px;}
-#international a{background-image:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_newnav.png);position:relative;}
+#header-livechat a{float:left;position:relative;background-image:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_july2014.png);width:104px;height:43px;background-position:-514px -15px;margin:11px 0 0 37px;}
+#international a{background-image:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_july2014.png);position:relative;}
 #international-es{width:118px;height:15px;background-position:-960px -10px;float:right;}
-.header-phone{float:right;width:160px;height:39px;background:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_newnav.png);background-position:-620px -8px;margin-right:8px;}
-#cartinfo{float:right;text-align:center;width:285px;height:26px;background:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_newnav.png);background-position:-707px -288px;white-space:nowrap;padding:5px 5px 0 0;margin-top:2px;color:#fff;}
+.header-phone{float:right;width:160px;height:39px;background:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_july2014.png);background-position:-620px -8px;margin-right:8px;}
+#cartinfo{float:right;text-align:center;width:285px;height:26px;background:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_july2014.png);background-position:-707px -288px;white-space:nowrap;padding:5px 5px 0 0;margin-top:2px;color:#fff;}
 .sep{padding:0 7px;margin:0 2px;}
 #cartinfo a{color:#fff;}
 #header-nav li{float:left;}
-#header-nav a{display:block;background-image:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_newnav.png);}
+#header-nav a{display:block;background-image:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_july2014.png);}
 
-#header-nav-home{width:116px;height:25px;background-position:0 -70px;}
-#header-nav-aromatherapy{width:118px;height:25px;background-position:-118px -70px;}
-#header-nav-coffee{width:96px;height:25px;background-position:-347px -70px;}
-#header-nav-beauty{width:111px;height:25px;background-position:-613px -70px;}
-#header-nav-foods{width:111px;height:25px;background-position:-233px -70px;}
-#header-nav-pets{width:56px;height:25px;background-position:-558px -70px;}
-#header-nav-sports{width:115px;height:25px;background-position:-444px -70px;}
-#header-nav-help{width:84px;height:25px;background-position:-725px -70px;}
-#header-nav-myfavs{width:92px;height:25px;background-position:-809px -70px;}
+#header-nav-vitamins{width:141px;height:25px;background-position:0 -70px;}
+#header-nav-natural{width:108px;height:25px;background-position:-794px -70px;}
+#header-nav-aromatherapy{width:113px;height:25px;background-position:-141px -70px;}
+#header-nav-coffee{width:99px;height:25px;background-position:-365px -70px;}
+#header-nav-beauty{width:116px;height:25px;background-position:-678px -70px;}
+#header-nav-foods{width:111px;height:25px;background-position:-254px -70px;}
+#header-nav-pets{width:99px;height:25px;background-position:-579px -70px;}
+#header-nav-sports{width:115px;height:25px;background-position:-464px -70px;}
 
-#header-nav-shopbrand{width:108px;height:33px;background-position:0 -95px;}
-#header-nav-onsale{width:108px;height:33px;background-position:-108px -95px;}
-#header-nav-topsellers{width:108px;height:33px;background-position:-216px -95px;}
-#header-nav-newprods{width:109px;height:33px;background-position:-324px -95px;}
-#header-nav-healthnews{width:109px;height:33px;background-position:-433px -95px;}
-#header-nav-email{width:107px;height:33px;background-position:-466px -95px;}
-#header-nav-freecat{width:108px;height:33px;background-position:-542px -95px;}
-#header-nav-quickorder{width:107px;height:33px;background-position:-650px -95px;}
-#header-nav-login{width:153px;height:33px;background-position:-757px -95px;}
-#header-nav-myaccount{width:78px;height:33px;background-position:-910px -95px;}
+#header-nav-home{width:91px;height:33px;background-position:0 -95px;}
+#header-nav-shopbrand{width:103px;height:33px;background-position:-91px -95px;}
+#header-nav-topsellers{width:80px;height:33px;background-position:-194px -95px;}
+#header-nav-newprods{width:96px;height:33px;background-position:-274px -95px;}
+#header-nav-onsale{width:49px;height:33px;background-position:-370px -95px;}
+#header-nav-clearance{width:72px;height:33px;background-position:-419px -95px;}
+#header-nav-quickorder{width:87px;height:33px;background-position:-491px -95px;}
+#header-nav-help{width:85px;height:33px;background-position:-578px -95px;}
+#header-nav-myfavs{width:95px;height:33px;background-position:-663px -95px;}
+#header-nav-login{width:152px;height:33px;background-position:-758px -95px;}
+#header-nav-myaccount{width:76px;height:33px;background-position:-910px -95px;}
 #header-nav-logout{width:75px;height:33px;background-position:-988px -95px;}
 #search-form{margin:0;}
 .search-form-go{border:none;position:relative;z-index:1001;}
-#search{float:left;background:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_newnav.png);width:267px;height:38px;margin-bottom:10px;background-position:0 -128px;white-space:nowrap;}
+#search{float:left;background:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_july2014.png);width:267px;height:38px;margin-bottom:10px;background-position:0 -128px;white-space:nowrap;}
 #search input.text{height:18px;width:155px;margin:7px 3px 0 59px;border:1px solid #522907;color:#522907;position:relative;z-index:1000;}
-#puritanpoints-banner a{float:left;background-image:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_newnav.png);width:643px;height:38px;background-position:-267px -128px;}
+#puritanpoints-banner a{float:left;background-image:url(//images.vitaminimages.com/pp/images/sprites/sprite_sitestructure_july2014.png);width:643px;height:38px;background-position:-267px -128px;}
 #sidebar{float:left;width:177px;padding-bottom:35px;}
 .banner-search-landing{padding-bottom:5px;}
 #sidebar h3,h4{font-size:12px;}
@@ -111,7 +111,7 @@ input,select,textarea{border:1px solid #7f9db9;outline:none;}
 .clearfloat{clear:both;height:0;line-height:0;}
 .bold-text{font-weight:bold;}
 .banner-header-promo{padding-bottom:6px;}
-.email-container{background:#f1f1f1;border:1px solid #cccccc;padding-bottom:8px;margin-bottom:5px}    
+.email-container{background:#f1f1f1;border:1px solid #cccccc;padding-bottom:8px;margin-bottom:5px}
 .email-form{width:110px;margin-left:7px;border-color:#cccccc;font-size:11px;height:16px;}
 .email-submit{border:none;margin-top:-2px;}
 .email-error{font-size:11px;color:#a60900;margin-left:7px;}
@@ -119,7 +119,7 @@ input,select,textarea{border:1px solid #7f9db9;outline:none;}
 .email-conf{font-size:11px;color:#0c5700;text-align:center;}
 .container-social{margin:10px 0 0 6px;}
 .official-rules{margin:-16px 8px 0 0;font-size:10px;float:right;}
-.leftnav-banners{margin-bottom:5px;}  
+.leftnav-banners{margin-bottom:5px;}
 .email-container a{color:#747474;
 
 
@@ -162,7 +162,44 @@ A:link.more-product-info,A:visited.more-product-info,A:active.more-product-info,
 
 }
 </style>
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script async="" type="text/javascript" src="//sec.levexis.com/clients/nbty/1.js"></script><script type="text/javascript" defer="" async="" src="https://cdn.evergage.com/beacon/puritancom/engage/scripts/evergage.min.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.blockUI.js"></script> 
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript">
+    // Block UI defaults
+    $(document).ready(function (e) {
+        if ($.blockUI) {
+            $.blockUI.defaults.css = {};
+            $.blockUI.defaults.overlayCSS = {
+                backgroundColor: '#fff',
+                opacity: 0.5
+            };
+            $.blockUI.defaults.message = '<img src="/images/loading.gif" alt="Loading..." style="border:0px" />';
+        }
+    });
+
+    // Add indexOf() method to array for browsers that don't support it (i.e. IE8 and under)
+    if (!Array.prototype.indexOf) {
+        Array.prototype.indexOf = function (elt /*, from*/) {
+            var len = this.length >>> 0;
+
+            var from = Number(arguments[1]) || 0;
+            from = (from < 0)
+         ? Math.ceil(from)
+         : Math.floor(from);
+            if (from < 0)
+                from += len;
+
+            for (; from < len; from++) {
+                if (from in this &&
+          this[from] === elt)
+                    return from;
+            }
+            return -1;
+        };
+    }
+</script>
+
 
 
  <!-- start Cannonical tag. -->
@@ -172,6 +209,12 @@ A:link.more-product-info,A:visited.more-product-info,A:active.more-product-info,
   
 
 <!-- Maxymiser script start -->
+
+<!-- 8/2014: Added meta tag to signal Maxymiser newly created, default source code sessions -->
+
+    <meta name="IsNewDefaultSession" content="false">
+
+
 <script type="text/javascript" src="//service.maxymiser.net/cdn/nbty/puritan/js/mmcore.js"></script>
 <!-- Maxymiser script end -->
 
@@ -207,7 +250,9 @@ var google_remarketing_only = true;
 
 <!--end of Google Dynamic tagging-->
 
-
+<!-- Omniture tagging -->
+<script type="text/javascript" src="/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+<script type="text/javascript" src="/js/s_code.js"></script><img name="s_i_vadev" height="1" width="1" border="0" alt="">
 
 
 <script language="javascript" type="text/javascript">
@@ -252,6 +297,44 @@ width -= number.toString().length;
 }
 </script>
 
+
+<!-- Begin Evergage code -->
+<script type="text/javascript">
+    var _aaq = window._aaq || (window._aaq = []);
+    var evergageAccount = 'puritancom';
+    
+        var dataset = 'engage';
+    
+    _aaq.push(['setEvergageAccount', evergageAccount], ['setDataset', dataset], ['setUseSiteConfig', true]);
+
+    //Evergage unique identifier logic
+    var evergageKey='';
+
+
+    (function () {
+        var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+        g.type = 'text/javascript'; g.defer = true; g.async = true;
+        g.src = document.location.protocol + '//cdn.evergage.com/beacon/'
+                + evergageAccount + '/' + dataset + '/scripts/evergage.min.js';
+        s.parentNode.insertBefore(g, s);
+    })();
+</script>
+<!-- End Evergage code -->
+
+
+
+<!-- Start ALC Global Tag 
+
+ <script type="text/javascript">
+     window._mojnTrack = window._mojnTrack || []
+     _mojnTrack.push({ cid: "HA25O", skipDisp: true });
+     var e = document.getElementsByTagName("script")[0], w = window, s = document.createElement("script");
+     s.type = "text/javascript"; s.src = "//cdn.idtargeting.com/track/HA25O-na.js"; e.parentNode.insertBefore(s, e);
+  </script>
+ End ALC Global Tag -->
+
+
+
 <!-- Begin TagMan code -->
 <script>
     // client configurable parameters
@@ -287,7 +370,9 @@ width -= number.toString().length;
         "scid":"",
         "product_amount_total":"",
         "discount_value":"",
-        "discount_code":""
+        "discount_code":"",
+        "sessionId":"D1CFD6A3AE224F4E87435EB61103F492",
+        "categoryId":""
     };
 
 
@@ -312,7 +397,7 @@ width -= number.toString().length;
 </script>
 <!-- End TagMan code -->
 
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"5fb04af0f5","applicationID":"934399","transactionName":"YlwGY0UEDBUAV0UNV1sWKlhFCAMKCE5UAG1HUEtfWBARA04e","queueTime":0,"applicationTime":64,"ttGuid":"A85B028A4FE787DB","agent":"js-agent.newrelic.com/nr-627.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQFU1JaGwoDUFJbDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 	<style>
 		#mainContent p
 		{
@@ -334,14 +419,18 @@ width -= number.toString().length;
 	</style>
 	<div id="outer-container">
 		<div id="container">
-			<script type="text/javascript" src="/js/s_code.js"></script><img name="s_i_vadev" height="1" width="1" border="0" alt="">
+			<noscript>
+<div style="text-align:center;font-weight:bold;color:#860202;margin-bottom:10px;font-size:14px">
+<image src="//images.vitaminimages.com/pp/images/checkout/icon_shippingnotice.png" style="position:relative;top:10px;margin-right:2px" />Trouble viewing this page? Make sure javascript is enabled in your browser.</div>
+</noscript>
+<input type="hidden" id="xs" value="D1CFD6A3AE224F4E87435EB61103F492">
 
 <style>
  #header-logo a{float:left;background-image:url(/images/sprites/sprite_sitestructure_new_logo.png);margin:0 0 5px 5px;width:297px;height:80px;background-position:-920px -145px;}
 </style>
 <h1 id="header-logo"><a href="/?icid=ros-_-topnav-_-logo " title="Puritan's Pride The #1 Direct-To-You Vitamin Manufacturer for Over 50 Years"><span>Discount Vitamins and Herbal Supplements</span></a></h1>
-   
-      <a href="/top-sellers-076?icid=ros-_-topnav-_-5for2FS"><img src="//images.vitaminimages.com/pp/VF/promotionuploads/10952/13-pp-1541-header_freeship.png" class="header-shipping"></a>  
+
+      <a href="/top-sellers-076?icid=ros-_-header-_-saveupto75"><img src="//images.vitaminimages.com/pp/VF/promotionuploads/11027/15-pp-1132-header-135rotator-core.gif" class="header-shipping"></a>
     
 
 
@@ -356,38 +445,214 @@ width -= number.toString().length;
 
 <p class="header-phone"><span>Order by Phone 1-800-645-1030</span></p>
 
-<p id="cartinfo"> Cart: <a href="/pages/addprod.asp?icid=ros-_-topnav-_-cart" title="View Cart" class="cartinfo"><span id="cartcount">0 Item(s)</span></a><span class="sep">|</span><a href="https://www.puritan.com/scart/myaccount.asp?checkout=1&amp;top&amp;cm_re=TopNav-_-Link-_-Checkout" title="Checkout" class="cartinfo">Checkout</a><span class="sep">|</span><a href="https://www.puritan.com/scart/trackinglogin.asp?Track=1&amp;top&amp;cm_re=TopNav-_-Link-_-trackshipments" title="Track Order" class="cartinfo">Track Order</a></p>
+<p id="cartinfo"><a id="mycart" href="/pages/addprod.asp?icid=ros-_-topnav-_-cart" title="View Cart" class="cartinfo underline">My Cart: <span id="cartcount">0 Item(s)</span></a><span class="sep">|</span><a href="https://www.puritan.com/scart/myaccount.asp?checkout=1&amp;top&amp;cm_re=TopNav-_-Link-_-Checkout" title="Checkout" class="cartinfo underline">Checkout</a><span class="sep">|</span><a href="https://www.puritan.com/scart/trackinglogin.asp?Track=1&amp;top&amp;cm_re=TopNav-_-Link-_-trackshipments" title="Track Order" class="cartinfo underline">Track Order</a></p>
+
+<style>
+.quickcart-wrapper{width:910px;position:absolute}
+.quickcart-container{background:#fff;border:1px solid #ccc;position:absolute;top:83px;right:0px;z-index:9999;width:282px;padding:8px;-webkit-box-shadow:2px 2px 2px 0 rgba(128,128,128,1);-moz-box-shadow:2px 2px 2px 0 rgba(128,128,128,1);box-shadow:2px 2px 2px 0 rgba(128,128,128,1)}
+.quickcart-container h3{color:#e56f00}
+.quickcart-container h3 a{color:#e56f00;text-decoration:none}
+.quickcart-close{position:relative;right:0;float:right;border:1px solid #979797;padding:1px 3px;margin-bottom:5px}
+.quickcart-scroll{max-height:230px !important;overflow-y:scroll}
+.quickcart-product{border-top:1px solid #ccc;padding:7px 0}
+.quickcart-product h2{font-size:12px;padding-bottom:3px;float:left}
+.quickcart-product img{float:left;height:auto;width:30px}
+.quickcart-product ul{float:left;width:220px;margin-left:10px}
+.quickcart-product .promo-type{clear:both}
+.quickcart-callout-red{color:#930015;clear:both}
+.quickcart-reg-price{font-size:11px;height:14px;text-decoration:line-through}
+.quickcart-subtotal{background:#1b4276;padding:5px 10px;text-align:right;color:#fff}
+.quickcart-continueshopping{float:left;padding-top:23px}
+.quickcart-checkout{padding-top:10px;margin-left:35px}   
+.quickcart-autoship{color:#595959;font-size:11px}
+.quickcart-messaging{text-align:right;padding:8px 0}
+.quickcart-messaging p{padding-bottom:2px}
+.quickcart-discount{color:#1b4276}
+.quickcart-discount span{color:#930015}
+.quickcart-save{text-align:right;color:#d1650d}
+</style>
+<div class="quickcart-wrapper">
+    <!--<div id="quickcart-container" class="quickcart-container" style="display: none;"><div class="quickcart-placeholder" style="height:74px;"></div></div>-->
+    <!--<div id="quickcart-container" class="quickcart-container" style="display: none;"><div class="quickcart-placeholder" style="height:332px;"></div></div>-->
+    
+    <div id="quickcart-container" class="quickcart-container" style="display: none;"><div class="quickcart-placeholder" style="height:74px;"></div></div>
+</div>
+<script language="javascript">
+
+    // Mini cart code
+    
+
+    $(document).ready(function () {
+        // Close minicart if user click outside of it
+        $(document).mouseup(function (e) {
+            var $quickcart = $("#quickcart-container");
+            if (!$quickcart.is(e.target) // if the target of the click isn't the container...
+                && $quickcart.has(e.target).length === 0) { // ... nor a descendant of the container
+                $quickcart.slideUp('medium');
+            }
+        });
+
+        $("#quickcart-container").mouseenter(function(){
+            //console.log('mouse enter - cleared time out ' + $(this).data('timeoutId'));
+            clearTimeout($(this).data('timeoutId'));
+        }).mouseleave(function(){
+            var $quickcart = $(this);
+            var timeoutId = setTimeout(function(){
+                $quickcart.slideUp('medium');
+            }, 3000);
+            $quickcart.data('timeoutId', timeoutId); 
+            //console.log('mouse leave - set time out ' + timeoutId);
+        });
+    });
+
+    function refreshOrAddToMiniCart(addToCartLink, scrollTop, autoOpen, autoClose) {
+
+        var $quickcart = $('#quickcart-container');
+        if($quickcart.data('isMiniCartRefreshing')) { return true; }
+
+        var originalUrl = $(addToCartLink).prop('href');
+        var querystring = (originalUrl != null && originalUrl.indexOf('?') >= 0) ? originalUrl.substr(originalUrl.indexOf('?') + 1) : '';
+        var sli_sessionId = $('#Sli_SessionId').html();
+        var url = querystring != '' 
+            ? ('//www.puritan.com/mvc/shoppingcart/add?' + querystring + '&IsMiniCart=true&SessionId=' + sli_sessionId)
+            : ('//www.puritan.com/mvc/shoppingcart/?isMiniCart=true&sessionId=' + sli_sessionId);
+
+        $quickcart.block({ message: null });
+
+        if(scrollTop) {
+            $('html,body').animate({ scrollTop: 0 }, 'slow', function() {
+                if(autoOpen) {
+                    $quickcart.slideDown('medium', function() {
+                        miniCart(url, autoClose);
+                    });
+                } else {
+                    miniCart(url, autoClose);
+                }
+            });
+        } else if(autoOpen) {
+            $quickcart.slideDown('medium', function() {
+                miniCart(url, autoClose);
+            });
+        } else {
+            miniCart(url, autoClose);
+        }
+
+        return true;
+    }
+    
+    function miniCart(url, autoClose) {
+    
+        var $quickcart = $('#quickcart-container');
+        if($quickcart.data('isMiniCartRefreshing')) { return true; }
+        $quickcart.data('isMiniCartRefreshing', true);
+
+        clearTimeout($quickcart.data('timeoutId'));
+        if(autoClose) {
+            var timeoutId = setTimeout(function(){$quickcart.slideUp('medium')}, url.indexOf('add?')==0 ? 6000 : 3000);
+            $quickcart.data('timeoutId', timeoutId);
+            //console.log('mini cart: set time out ' + timeoutId);
+        }
+
+        $quickcart.block();
+        $.ajax({
+            'url': url,
+            'type': 'GET',
+            'dataType': 'html',
+            'cache': false,
+            'success': function (data) {
+                $quickcart.data('isMiniCartRefreshing', false);
+
+                $quickcart.unblock();
+                $quickcart.html(data);
+                numberOfItems = $('#miniCartItemCount', $quickcart).html();
+                numberOfItems = numberOfItems == null ? 0 : numberOfItems;
+                updateSliCookie(numberOfItems);
+                $('#cartcount').html(numberOfItems + ' Item(s)');
+            },
+            'error': function (jqXr, textStatus, errorThrown) {
+                $quickcart.data('isMiniCartRefreshing', false);
+                
+                if(originalUrl != null) {
+                        window.location = originalUrl;
+                    }
+                
+            }
+        });
+        return true;
+    }
+
+    function addToMiniCart(e, link) {
+        clearTimeout($('#quickcart-container').data('timeoutId'));
+        if(refreshOrAddToMiniCart(link, true, true, true)) {
+            e.preventDefault();
+            return false;
+        }
+    }
+
+    function displayMiniCart(refreshCart) {
+        // Do not do anything is cart is empty or if minicart is already visible
+        if($('#cartcount').html().indexOf('0') == 0 || $('#quickcart-container').is(":visible") ) {
+            return;
+        }
+        if($('#quickcart-container').html().indexOf('quickcart-placeholder') > 0 || refreshCart) {
+            refreshOrAddToMiniCart(null, refreshCart, true, true);
+        } else {
+            // Remove ITEM ADDED TO CART message
+            $('#quickcart-container h3.minicart-title').html('My Shopping Cart');
+            // Open cart, close after 6 seconds
+            var $quickcart = $('#quickcart-container');
+            $quickcart.slideDown('medium');
+            clearTimeout($quickcart.data('timeoutId'));
+            var timeoutId = setTimeout(function(){$quickcart.slideUp('medium')}, 6000);
+            $quickcart.data('timeoutId', timeoutId);
+            //console.log('display mini cart: set time out ' + timeoutId);
+        }
+    }
+
+    function updateSliCookie(newItemCount) {
+
+        var sliCookie = $.cookie('SLICookie');
+        if(sliCookie == null) return;
+
+        var truncatedSliCookie = sliCookie.substr(sliCookie.indexOf('item_count=') + 11);
+        var itemCount = truncatedSliCookie.indexOf('&') >=0 
+           ? truncatedSliCookie.substring(0, truncatedSliCookie.indexOf('&'))
+           : truncatedSliCookie;
+        sliCookie = sliCookie.replace('item_count=' + itemCount, 'item_count=' + newItemCount);
+        $.cookie('SLICookie', sliCookie, { domain: '.puritan.com', path: '/' });
+    }
+
+</script>
+<span id="Sli_SessionId" style="display: none"></span>
+
 
 <!--end header-nav-elements--></div>
 <br class="clearfloat">
 <ul id="header-nav">
-<li><a id="header-nav-home" href="/vitamins?icid=ros-_-topnav-_-vitaminherbs" title="Vitamins"><span>Vitamins</span></a></li>
+<li><a id="header-nav-vitamins" href="/vitamins?icid=ros-_-topnav-_-vitaminherbs" title="Vitamins"><span>Vitamins</span></a></li>
+<li><a id="header-nav-natural" href="/natural-living-1716?icid=ros-_-topnav-_-naturalliving" title="Natural Living"><span>Natural Living</span></a></li>
 <li><a id="header-nav-aromatherapy" href="/aromatherapy-041?icid=ros-_-topnav-_-aromatherapy" title="Aromatherapy"><span>Aromatherapy</span></a></li>
 <li><a id="header-nav-coffee" href="/coffee-tea-719?icid=ros-_-topnav-_-coffeetea" title="Coffee &amp; Tea"><span>Coffee &amp; Tea</span></a></li>
 <li><a id="header-nav-beauty" href="/health-beauty-070?icid=ros-_-topnav-_-healthbeauty" title="Health and Beauty"><span>Health and Beauty</span></a></li>
 <li><a id="header-nav-foods" href="/healthy-foods-1500?icid=ros-_-topnav-_-healthyfoods" title="Healthy Foods"><span>Healthy Foods</span></a></li>
 <li><a id="header-nav-pets" href="/pet-products-008?icid=ros-_-topnav-_-pets" title="Pet Products"><span>Pet Products</span></a></li>
-<li><a id="header-nav-sports" href="/sports-nutrition-043?icid=ros-_-topnav-_-sportsnutrition" title="Sports Nutrition"><span>Sports Nutrition</span></a></li>
-<li><a id="header-nav-help" href="/house/helpcenter.asp?icid=ros-_-topnav-_-helpcenter" title="Help Center"><span>Help Center</span></a></li>
-<li><a id="header-nav-myfavs" href="/pages/fav.asp?icid=ros-_-topnav-_-myfavorites" title="My Favorites"><span>My Favorites</span></a></li>
+<li><a id="header-nav-sports" href="/sports-nutrition-043?icid=ros-topnav-sportsnutrition" title="Sports &amp; Diet"><span>Sports &amp; Diet</span></a></li>
 </ul>
 <br class="clearfloat">
 <ul id="header-nav">
-<li><a id="header-nav-freecat" href="/?icid=ros-_-topnav-_-homepage" title="Home Page"><span>Home Page</span></a></li>
+<li><a id="header-nav-home" href="/?icid=ros-_-topnav-_-homepage" title="Home Page"><span>Home Page</span></a></li>
 <li><a id="header-nav-shopbrand" href="/brands?icid=ros-_-topnav-_-shopbybrand" title="Shop By Brand"><span>Shop By Brand</span></a></li>
-
 <li><a id="header-nav-topsellers" href="/top-sellers-076?icid=ros-_-topnav-_-topsellers" title="Top Sellers"><span>Top Sellers</span></a></li>
-
 <li><a id="header-nav-newprods" href="/new-arrivals-176?icid=ros-_-topnav-_-newproducts" title="New Products"><span>New Products</span></a></li>
-
 <li><a id="header-nav-onsale" href="bargain-bin-127?icid=ros-_-topnav-_-onsale " title="On Sale"><span>On Sale</span></a></li>
-
-
-<li><a id="header-nav-healthnews" href="/clearance-914?icid=ros-_-topnav-_-clearance" title="Clearance"><span>Clearance</span></a></li>
-<!--<li><a id="header-nav-email" href="/house/newsletter.asp?top&cm_re=TopNav-_-Link-_-Email_Specials" title="Email Specials" onclick=""><span>Email Specials</span></a></li>
--->
+<li><a id="header-nav-clearance" href="/clearance-914?icid=ros-_-topnav-_-clearance" title="Clearance"><span>Clearance</span></a></li>
 <li><a id="header-nav-quickorder" href="/pages/quickorderform.asp?icid=ros-_-topnav-_-quickorder" title="Quick Order"><span>Quick Order</span></a></li>
-<li><a id="header-nav-login" href="https://www.puritan.com/scart/myaccount.asp?top&amp;cm_re=TopNav-_-Link-_-Login_Register" title="Log In"><span>Log In or Register</span></a></li></ul>
+<li><a id="header-nav-help" href="/house/helpcenter.asp?icid=ros-_-topnav-_-helpcenter" title="Help Center"><span>Help Center</span></a></li>
+<li><a id="header-nav-myfavs" href="/pages/fav.asp?icid=ros-_-topnav-_-myfavorites" title="My Favorites"><span>My Favorites</span></a></li>
+
+    <li><a id="header-nav-login" href="https://www.puritan.com/scart/myaccount.asp?top&amp;cm_re=TopNav-_-Link-_-Login_Register" title="Log In"><span>Log In or Register</span></a></li>
+
+</ul>
 <!-- SLI SEARCH FORM STARTS -->
 
    <form id="search-form" name="search-form" action="http://search.puritan.com/search" method="get">
@@ -408,15 +673,12 @@ width -= number.toString().length;
 
 
 
-
-
-
 <!-- SLI SEARCH FORM ENDS -->
 <br class="clearfloat">
 
 
-    
-    <link type="text/css" href="/css/autocomplete/autocomplete.css" rel="stylesheet">  
+
+    <link type="text/css" href="/css/autocomplete/autocomplete.css" rel="stylesheet">
     <script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
     <script type="text/javascript">
         $(function () {
@@ -432,6 +694,7 @@ width -= number.toString().length;
 <!--SLI header ends -->
 
 <!-- SLI LEFTNAV STARTS -->
+
 <div id="sidebar">
  
     
@@ -467,24 +730,21 @@ width -= number.toString().length;
                     });
                 });
             </script>
-
-	<a href="pages/autoship.asp?icid=leftnav-_-banner-_-Autoship" title="Schedule My Savings, Learn More" class="leftnav-banners">
-		<img src="//images.vitaminimages.com/pp/images/quality/bannerleftnav_autoship.png" alt="Schedule My Savings">			
-	</a>
-
-	<a href="house/quality.asp?icid=leftnav-_-banner-_-Quality" title="Satisfaction Guaranteed,Learn More">
-		<img src="//images.vitaminimages.com/pp/images/quality/bannerleftnav_satisfaction.png" alt="Satisfaction Guaranteed" class="leftnav-banners">			
-	</a>
-	
+    <a href="/house/pricematch.asp?icid=leftnav-_-banner-_-PriceMatch" title="Price Match Guarantee,Learn More">
+        <img src="//images.vitaminimages.com/pp/vf/ppimages/bannerleftnav_pricematch.png" alt="Price Match Guarantee" class="leftnav-banners">	
+    </a>
+    
+    
 
     
     
 
+
+    
 
     
 	
-  
-    
+     
     
     <p class="nav-sep">
     </p>
@@ -493,7 +753,6 @@ width -= number.toString().length;
             Shop All Categories&nbsp;»</a><br>
     </h3>
      
-       
     
     
 
@@ -512,22 +771,6 @@ width -= number.toString().length;
 
                 <p class="nav-sep"></p>
              <ul id="navlistnew" class="nosub">
-        <li>		
-            <a href="/semi-annual-sale-1704?cm_re=LeftNav-_-Link-_-Semi-Annual_Sale" title="Semi-Annual Sale" style="white-space:nowrap; ">
-Semi-Annual Sale				
-                <span class="hottag">					
-                    <img height="14" alt="hottag" src="//images.vitaminimages.com/pp/images/hottag.png">
-                </span>
-            </a>
-        </li>
-        <li>		
-            <a href="/new-low-prices-1706?cm_re=LeftNav-_-Link-_-New_Low_Prices" title="New Low Prices" style="white-space:nowrap; ">
-New Low Prices				
-                <span class="newtag">					
-                    <img height="14" alt="newtag" src="//images.vitaminimages.com/pp/images/newtag.png">
-                </span>
-            </a>
-        </li>
         <li>		
             <a href="/a-d-vitamins-081?cm_re=LeftNav-_-Link-_-A_D_Vitamins" title="A &amp; D Vitamins" style="white-space:nowrap; ">
 A &amp; D Vitamins				
@@ -549,6 +792,11 @@ Antioxidants
             </a>
         </li>
         <li>		
+            <a href="/astaxanthin-792?cm_re=LeftNav-_-Link-_-Astaxanthin" title="Astaxanthin" style="white-space:nowrap; ">
+Astaxanthin				
+            </a>
+        </li>
+        <li>		
             <a href="/b-vitamins-026?cm_re=LeftNav-_-Link-_-B_Vitamins" title="B Vitamins" style="white-space:nowrap; ">
 B Vitamins				
             </a>
@@ -561,6 +809,19 @@ B-12 Vitamins
         <li>		
             <a href="/b-complex-vitamins-021?cm_re=LeftNav-_-Link-_-B-Complex_Vitamins" title="B-Complex Vitamins" style="white-space:nowrap; ">
 B-Complex Vitamins				
+            </a>
+        </li>
+        <li>		
+            <a href="/babies-kids-1740?cm_re=LeftNav-_-Link-_-Babies_Kids" title="Babies &amp; Kids" style="white-space:nowrap; ">
+Babies &amp; Kids				
+                <span class="newtag">					
+                    <img height="14" alt="newtag" src="//images.vitaminimages.com/pp/images/newtag.png">
+                </span>
+            </a>
+        </li>
+        <li>		
+            <a href="/biotin-421?cm_re=LeftNav-_-Link-_-Biotin" title="Biotin" style="white-space:nowrap; ">
+Biotin				
             </a>
         </li>
         <li>		
@@ -579,6 +840,11 @@ Co Q-10
             </a>
         </li>
         <li>		
+            <a href="/coconut-products-1841?cm_re=LeftNav-_-Link-_-Coconut_Products" title="Coconut Products" style="white-space:nowrap; ">
+Coconut Products				
+            </a>
+        </li>
+        <li>		
             <a href="/d-vitamins-326?cm_re=LeftNav-_-Link-_-D_Vitamins" title="D Vitamins" style="white-space:nowrap; ">
 D Vitamins				
             </a>
@@ -586,6 +852,11 @@ D Vitamins
         <li>		
             <a href="/diet-lifestyle-072?cm_re=LeftNav-_-Link-_-Diet_Lifestyle" title="Diet &amp; Lifestyle" style="white-space:nowrap; ">
 Diet &amp; Lifestyle				
+            </a>
+        </li>
+        <li>		
+            <a href="/diffusers-view-all-819?cm_re=LeftNav-_-Link-_-Diffusers" title="Diffusers" style="white-space:nowrap; ">
+Diffusers				
             </a>
         </li>
         <li>		
@@ -629,28 +900,18 @@ Joint Support
             </a>
         </li>
         <li>		
-            <a href="/l-carnitine-063?cm_re=LeftNav-_-Link-_-L-Carnitine" title="L-Carnitine" style="white-space:nowrap; ">
-L-Carnitine				
-            </a>
-        </li>
-        <li>		
             <a href="/magnesium-335?cm_re=LeftNav-_-Link-_-Magnesium" title="Magnesium" style="white-space:nowrap; ">
 Magnesium				
             </a>
         </li>
         <li>		
-            <a href="/medicine-cabinet-1249?cm_re=LeftNav-_-Link-_-Medicine_Cabinet" title="Medicine Cabinet" style="white-space:nowrap; ">
-Medicine Cabinet				
+            <a href="/melatonin-542?cm_re=LeftNav-_-Link-_-Melatonin" title="Melatonin" style="white-space:nowrap; ">
+Melatonin				
             </a>
         </li>
         <li>		
             <a href="/mens-vitamins-006?cm_re=LeftNav-_-Link-_-Mens_Vitamins" title="Men's Vitamins" style="white-space:nowrap; ">
 Men's Vitamins				
-            </a>
-        </li>
-        <li>		
-            <a href="/mental-focus-119?cm_re=LeftNav-_-Link-_-Mental_Focus" title="Mental Focus" style="white-space:nowrap; ">
-Mental Focus				
             </a>
         </li>
         <li>		
@@ -661,11 +922,6 @@ Multivitamins
         <li>		
             <a href="/omega-3-products-128?cm_re=LeftNav-_-Link-_-Omega_3_Products" title="Omega 3 Products" style="white-space:nowrap; ">
 Omega 3 Products				
-            </a>
-        </li>
-        <li>		
-            <a href="/organic-vegetarian-nongmo-1654?cm_re=LeftNav-_-Link-_-Organic_Vegetarian_Non-GMO" title="Organic, Vegetarian, Non-GMO" style="white-space:nowrap; ">
-Organic, Vegetarian, Non-GMO				
             </a>
         </li>
         <li>		
@@ -687,12 +943,14 @@ Women's Vitamins
 
 	 
 
+
     
     <p class="nav-sep">
     </p>
     <h3 class="shopall">
         <a href="/singles" title="Shop Singles">Shop Singles</a>
     </h3>
+
     
     <p class="nav-sep">
     </p>
@@ -700,6 +958,7 @@ Women's Vitamins
         <a href="/categories?cm_re=LeftNav-_-Link-_-View_All_Bottom" title="Shop All Categories">
             Shop All Categories&nbsp;»</a>
     </h3>
+
      
      <p class="nav-sep">
     </p>
@@ -891,7 +1150,7 @@ Women's Vitamins
 						email inviting him or her to visit the site. We store this information for the sole
 						purpose of sending this one-time email and tracking the success of our referral
 						program. We collect personal information in this way, we will use it to fulfill
-						your request and for no other purpose. Your friend may contact us at info@puritanspride.com
+						your request and for no other purpose. Your friend may contact us at <a href="mailto:info@puritan.com">info@puritan.com</a>
 						to request that we remove this information from our database.</p>
 					<p>
 						<span class="bold-text">Information We Share </span>
@@ -953,7 +1212,7 @@ Women's Vitamins
 				<p>
 					<span class="bold-text">We Provide You Choices</span><br>
 					If you prefer not to receive unsolicited commercial email from us, please <a href="https://web.puritan.com/unsub.jsp?brandName=puritan&amp;language=EN">click
-					here</a> or contact us at info@puritanspride.com. You can subscribe to receive marketing
+					here</a> or contact us at <a href="mailto:info@puritan.com">info@puritan.com</a>. You can subscribe to receive marketing
 					offers or solicitations from us through email by <a href="/house/newsletter.asp?">clicking here</a>. Please note that
 					these requests may take up to 10 days to be effective.</p>
 				<p>
@@ -965,12 +1224,12 @@ Women's Vitamins
 				<p>
 					If you have established a user account in connection with one of our Services, you
 					may be able to review and request changes to some information that the Company maintains
-					about you through your account settings or by contacting us at info@puritanspride.com
+					about you through your account settings or by contacting us at <a href="mailto:info@puritan.com">info@puritan.com</a>
 					. We will respond to your request for access within 30 days.</p>
 				<p>
 					We will retain your information for as long as your account is active or as needed
 					to provide you services. If you wish to cancel your account or request that we no
-					longer use your information to provide you services contact us at info@puritanspride.com.
+					longer use your information to provide you services contact us at <a href="mailto:info@puritan.com">info@puritan.com</a>.
 					We will retain and use your information as necessary to comply with our legal obligations,
 					resolve disputes, and enforce our agreements.
 				</p>
@@ -999,7 +1258,7 @@ Women's Vitamins
 					or inadvertent disclosure of your personal information. If you prefer not to transmit
 					your credit card number over the internet, you can contact us using the toll-free
 					number listed on the website from which you want to order. If you have any questions
-					regarding security you can contact us at info@puritanspride.com.
+					regarding security you can contact us at <a href="mailto:info@puritan.com">info@puritan.com</a>.
 				</p>
 				<p>
 					<span class="bold-text">Updates to Our Privacy Policy</span><br>
@@ -1036,7 +1295,7 @@ Women's Vitamins
 					about you or your preferences, please contact us by:
 				</p>
 				<p>
-					Email: info@puritanspride.com
+					Email: <a href="mailto:info@puritan.com">info@puritan.com</a>
 					<br>
 					<br>
 					Mail: Puritan's Pride, Inc
@@ -1055,8 +1314,8 @@ Women's Vitamins
 		
 <!--survery feedback-->
 <script type="text/javascript">    var addthis_config = { "data_track_clickback": true };</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=puritanspride"></script>
-<div style="background:#003C73;color:#fff;padding:10px;position:fixed;bottom:0;right:0;z-index:1999;border:2px solid #fff;box-shadow:0px 5px 8px 0px rgba(66,66,66,0.5)"><a href="/house/feedback.asp?icid=ros-_-footer-_-contactus" target="_blank" title="Click Here Give Feedback" style="color:#fff;text-decoration:none;font-weight:bold;">Give Feedback +</a></div>
+<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#username=puritanspride"></script>
+<div style="background:#003C73;color:#fff;padding:10px;position:fixed;bottom:0;right:0;z-index:1999;border:2px solid #fff;box-shadow:0px 5px 8px 0px rgba(66,66,66,0.5)"><a href="/house/feedback.asp?icid=ros-_-footer-_-contactus" target="_blank" title="Click Here Give Feedback" style="color:#fff;text-decoration:none;font-weight:bold;">Give Feedback</a></div>
 <!--end of survey-->
 
 <br class="clearfloat">
@@ -1086,9 +1345,11 @@ Women's Vitamins
 <li><a href="/house/feedback.asp?icid=ros-_-footer-_-contactus" title="Contact Us">Contact Us</a></li>
 <li><a href="/house/quality.asp?icid=ros-_-footer-_-quality" title="Quality Guarantee">Quality Guarantee</a></li>
 <li><a href="/house/csresetpassword.asp?icid=ros-_-footer-_-cspr" title="CsLogin">CSPR</a></li>
+<li><a href="/house/helpcenter.asp?top#distributorinformation" title="CsLogin">International Distribution</a></li>
 </ul>
 <ul>
 <li class="bold-text">Customer Service</li>
+<li><a href="/house/pricematch.asp?icid=ros-_-footer-_-PriceMatch" title="Price Match Guarantee">Price Match Guarantee</a></li>
 <li><a href="/house/helpcenter.asp?icid=ros-_-footer-_-coupon#couponredemption" title="Coupon Policy">Coupon Policy</a></li>
 <li><a href="/house/helpcenter.asp?icid=ros-_-footer-_-helpcenter" title="Help Center">Help Center</a></li>
 		
@@ -1096,12 +1357,11 @@ Women's Vitamins
 <ul>
 <li class="bold-text">My Account</li>
 <li><a href="/scart/myaccount.asp?icid=ros-_-footer-_-loginregister" title="Log In">Log In</a></li>
-<li><a href="/pages/autoship.asp?icid=ros-_-footer-_-autoship" title="Manage Schedule My Savings">Auto-Replenish</a></li>
 <li><a href="/scart/register.asp?checkout=1&amp;icid=ros-_-footer-_-createaccount" title="Create Account">Create Account</a></li>
 <li><a href="/pages/fav.asp?icid=ros-_-footer-_-myfavorites" title="My Favorites">My Favorites</a></li>
 <li><a href="/scart/myaccount.asp?myaccount_action=orderhistory&amp;icid=ros-_-footer-_-orderhistory" title="Order History">Order History</a></li>
 <li><a href="/scart/trackinglogin.asp?icid=ros-_-footer-_-ordertracking" title="Track Order">Track Order</a></li>	
-<li><a href="/house/sweepstakeJuly.asp?icid=ros-_-footer-_-Sweepstakes" title="Sweepstakes">Sweepstakes</a></li>	
+<li><a href="/DynamicSweeps/sweepstake.asp?id=33&amp;2015=ros-_-footer-_-Sweepstakes" title="Sweepstakes">Sweepstakes</a></li>	
 
 </ul>
 <ul>
@@ -1113,11 +1373,7 @@ Women's Vitamins
 </ul>
 <div class="site-seals-rule"></div>
 <ul class="site-seals">
-<li>
-<!-- BEGIN STELLASERVICE SEAL CODE -->
-<a class="stella-seal"></a>
-<script defer="" src="//seal.stellaservice.com/public/js/seal.js?companyUrl=puritan.com"></script><!--<script type='text/javascript'>	var seal_host = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Ca target='_blank' href='http://www.stellaservice.com/profile/124'%3E%3Cimg src='" + seal_host + "seal.stellaservice.com/seals/stellaservice_elite.png?c=124' border='0' title='Puritan is top rated for customer service' /%3E%3C/a%3E"));</script>--></li>
-<!-- END STELLASERVICE SEAL CODE --> 
+
 <li class="geotrust"><script language="JavaScript" type="text/javascript" src="https://smarticon.geotrust.com/si.js"></script></li>
 <li class="sitesecure"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.puritan.com&amp;cm_re=Footer-_-Link-_-McAfee"><img align="bottom" width="115" height="32" border="0" src="//images.scanalert.com/meter/www.puritan.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></li>
 </ul>
@@ -1131,7 +1387,7 @@ Women's Vitamins
 <p class="footer-copyright">The information provided on this site is intended for your general knowledge only and is not a substitute for professional medical advice or treatment for specific medical conditions. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition. The information on this website is not intended to diagnose, treat, cure or prevent any disease. Never disregard medical advice or delay in seeking it because of something you have read on the Puritan's Pride site. Product sold on this site are for personal use and not for resale. All orders placed through this website are subject to Puritan's Pride acceptance, in its sole discretion. This means that Puritan's Pride may refuse to accept, or may cancel, any order, whether or not it has been confirmed, without liability to you or any third party. Puritan's Pride reserves the right to discontinue any program or offer.<br><br>
 If you would like to unsubscribe from future Puritan's Pride emails, please <a href="https://web.puritan.com/unsub.jsp?brandName=puritan&amp;language=EN" target="_blank"><strong>click <u>here</u></strong></a> to unsubscribe.
 <br><br>
-            ^ Same Item, Same Size Puritan's Pride Brand Products. Certain products, including clearance section items, may be excluded. All products subject to availability. To expedite orders, we may substitute smaller bottles if ordered quantity is out of stock. Terms and conditions subject to change. Free Shipping offers apply within the contiguous 48 U.S. states; will automatically apply to your cart at checkout; not valid on orders greater than $1,000.00 USD or on prior purchases.<br><br>
+            ^ Same item, same size Puritan's PrideÂ® brand products, discount already reflected in the applicable product price. Certain products, including clearance section items, may be excluded. All products subject to availability. To expedite orders, we may substitute smaller bottles if ordered quantity is out of stock. Terms and conditions subject to change. Free Shipping offers apply within the contiguous 48 U.S. states; will automatically apply to your cart at checkout; not valid on orders greater than $1,000.00 USD or on prior purchases.<br><br>
 â€¡Recent media coverage has focused on the ingredients generically.<br><br>
 â€&nbsp;Individual results may vary
 <br><br>
@@ -1139,7 +1395,8 @@ Puritan's Pride, 1233 Montauk Highway, PO Box 9001, Oakdale, NY 11769-9001</p>
 <!--end footer-disclaimers--></div>
 			
 <!--end footer-links-container--></div>
-<div class="footer-copy">Copyright 2014 Puritan's Pride, Inc.<span class="footer-sep">|</span>Customer Service 1-800-645-1030<span class="footer-sep">|</span><a href="/house/privacypolicy.asp" title="Privacy Policy">Privacy Policy</a><span class="footer-sep">|</span><a href="/house/termsofuse.asp" title="Terms of Use">Terms of Use</a></div>
+<div class="footer-copy">Copyright 2015 Puritan's Pride, Inc.<span class="footer-sep">|</span>Customer Service 1-800-645-1030<span class="footer-sep">|</span><a href="/house/privacypolicy.asp" title="Privacy Policy">Privacy Policy</a><span class="footer-sep">|</span><a href="/house/termsofuse.asp" title="Terms of Use">Terms of Use</a></div>
+
 <!-- Begin Adobe Analytics Support -->
 <script type="text/javascript">
 if (typeof siteProducts == "undefined") var siteProducts = new Array();
@@ -1172,7 +1429,9 @@ function getSelected(){
 		return '';
 }
 if (typeof jQuery != "undefined"){
-	$(document).ready(function() {
+	
+    $(document).ready(function() {
+    
 	if(s){
 
 		
@@ -1265,7 +1524,9 @@ if (typeof jQuery != "undefined"){
 	    
 	    s.t();
 	}
+    
 	});
+    
 }
 </script>
 <!-- End Adobe Analytics Support -->
@@ -1395,10 +1656,10 @@ url = url.replace("//s.puritan", "//www.puritan");
         document.write(unescape("%3Cscript language=\"JavaScript1.1\" type=\"text/javascript\" src=\"" + CQP + "js.clickequations.net/CLEQ_" + CQK + ".js\" %3E%3C/script%3E"));
 </script><script language="JavaScript1.1" type="text/javascript" src="https://js.clickequations.net/CLEQ_B4C4C3AF.js"></script>
 
-<img src="/images/pixels/info.gif?xs=32F40404ED6B4211BED13B89F11209E9&amp;name=/house/privacypolicy.asp&amp;errornumber=0&amp;error=&amp;qs=&amp;rest=" alt="info">
+<img src="/images/pixels/info.gif?xs=D1CFD6A3AE224F4E87435EB61103F492&amp;name=/house/privacypolicy.asp&amp;errornumber=0&amp;error=&amp;qs=&amp;rest=" alt="info">
 
 		<!-- end #outer-container -->
 	</div>
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
