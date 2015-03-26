@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klaviyo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024757id_/https%3A//www.klaviyo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klaviyo.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326094337id_/https%3A//www.klaviyo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Klaviyo
 
