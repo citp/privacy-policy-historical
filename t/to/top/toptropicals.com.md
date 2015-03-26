@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptropicals.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010035122id_/http%3A//toptropicals.com/html/toptropicals/sale/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptropicals.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326180305id_/http%3A//toptropicals.com/html/toptropicals/sale/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - TopTropicals.com
 
@@ -51,4 +51,4 @@ This policy was last modified on 09/28/2011
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20141010035122id_/http%3A//toptropicals.com/html/toptropicals/links/contact.htm). 
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20150326180305id_/http%3A//toptropicals.com/html/toptropicals/links/contact.htm).
