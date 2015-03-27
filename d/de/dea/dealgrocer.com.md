@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealgrocer.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703080533id_/https%3A//dealgrocer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealgrocer.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327030419id_/https%3A//dealgrocer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Deal Grocer
 
@@ -53,11 +53,11 @@ In addition, if you use our Website to send information or a product to another 
 
 ######  Tell-A-Friend. 
 
-If you choose to use our referral service, we may ask you for your friend's first and last name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Deal Grocer stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [ team@dealgrocer.com ](mailto:team@dealgrocer.com) to request that we remove this information from our database. 
+If you choose to use our referral service, we may ask you for your friend's first and last name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Deal Grocer stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [team@dealgrocer.com](mailto:team@dealgrocer.com) to request that we remove this information from our database. 
 
 ######  Gifting. 
 
-If you choose to buy a Coupon for a friend, we may ask you for your friend's first and last name, date of birth, home or office address, and email address. We will automatically send your friend an email with the gift you bought for them, or the gift may also be sent by post. Deal Grocer stores this information for the sole purpose of sending this email, and sending their gift. Your friend may contact us at [ team@dealgrocer.com ](mailto:team@dealgrocer.com) to request that we remove this information from our database. 
+If you choose to buy a Coupon for a friend, we may ask you for your friend's first and last name, date of birth, home or office address, and email address. We will automatically send your friend an email with the gift you bought for them, or the gift may also be sent by post. Deal Grocer stores this information for the sole purpose of sending this email, and sending their gift. Your friend may contact us at [team@dealgrocer.com](mailto:team@dealgrocer.com) to request that we remove this information from our database. 
 
 ######  Non-Personally Identifiable Information. 
 
@@ -107,11 +107,11 @@ We may also aggregate all survey responses and anonymize the data and make such 
 
 #####  Updating and Correcting Information 
 
-We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "settings" section of the site, sending us an email at [ team@dealgrocer.com ](mailto:team@dealgrocer.com) or writing to us 4304 43F China Resources Bldg. 26 Harbour Road, Wanchai, Hong Kong. Please indicate your name, address and email address, and what information you would like to update when you contact us. 
+We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "settings" section of the site, sending us an email at [team@dealgrocer.com](mailto:team@dealgrocer.com) or writing to us 4304 43F China Resources Bldg. 26 Harbour Road, Wanchai, Hong Kong. Please indicate your name, address and email address, and what information you would like to update when you contact us. 
 
 We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information. 
 
-Should you wish to terminate your account for any reason, you may do so by sending an email with the subject line "Termination" to the following email address: [ team@dealgrocer.com ](mailto:team@dealgrocer.com)
+Should you wish to terminate your account for any reason, you may do so by sending an email with the subject line "Termination" to the following email address: [team@dealgrocer.com](mailto:team@dealgrocer.com)
 
 #####  User Choices on Collection and Use of Information 
 
@@ -119,7 +119,7 @@ As discussed above, you can always choose not to provide information, although i
 
 As a condition of purchase of our Coupons, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. 
 
-You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of Coupons. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our Coupons and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by emailing us at [ team@dealgrocer.com ](mailto:team@dealgrocer.com) or by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our emails, or by changing your account settings. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive. 
+You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of Coupons. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our Coupons and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by emailing us at [team@dealgrocer.com](mailto:team@dealgrocer.com) or by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our emails, or by changing your account settings. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive. 
 
 #####  Security of Information 
 
@@ -171,7 +171,7 @@ The Deal Grocer Website may allow users to access Facebook Connect to interact w
 
 #####  Contacting Us 
 
-Whether you're a new or loyal customer, restaurant owner, hotel owner, business owner, marketer, publisher, media member or job seeker we'd like to stay connected and want to hear from you! Contact us at [ team@dealgrocer.com ](mailto:team@dealgrocer.com)
+Whether you're a new or loyal customer, restaurant owner, hotel owner, business owner, marketer, publisher, media member or job seeker we'd like to stay connected and want to hear from you! Contact us at [team@dealgrocer.com](mailto:team@dealgrocer.com)
 
 ######  Corporate Address 
 
