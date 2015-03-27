@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gimmiefreebies.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727000703id_/http%3A//gimmiefreebies.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimmiefreebies.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327014938id_/http%3A//gimmiefreebies.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure
 
-[ ](http://disclosurepolicy.org/)
+[](http://disclosurepolicy.org/)
 
 **This policy is valid from 25 July 2011.**
 
@@ -41,6 +41,3 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 ## Contact Information
 
 Concerns or questions can be directed to privacy@gimmiefreebies.com for further clarification.
-
-  
-
