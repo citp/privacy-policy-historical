@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jobnewsusa.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706092539id_/https%3A//www.jobnewsusa.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobnewsusa.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327142309id_/https%3A//www.jobnewsusa.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Please Sign in or Register to continue.
 
 **Overview**
 
@@ -74,7 +76,7 @@ We may have an area on the web site where you can submit feedback. Any feedback 
 
  **Terms and Conditions**
 
-Please review our Terms and Conditions of Use (click here) which govern your use of this web site. If you have any questions whatsoever, you should contact your attorney. If we decide to change this Privacy Policy, any changes will be posted here so that you will always know what our Privacy Policy is, what information we gather, how we use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about Job News' Privacy Policy or terms and conditions of use, please feel free to email us at Notices@JobNewsusa.com or call 1-888-502-6397 and ask to speak with one of our representatives.
+Please review our Terms and Conditions of Use (click here) which govern your use of this web site. If you have any questions whatsoever, you should contact your attorney. If we decide to change this Privacy Policy, any changes will be posted here so that you will always know what our Privacy Policy is, what information we gather, how we use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about Job News' Privacy Policy or terms and conditions of use, please feel free to [email us](https://web.archive.org/help "Email Job News USA") or call 1-888-502-6397 and ask to speak with one of our representatives.
 
  **Contact Information**
 
