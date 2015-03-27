@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundmenu.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121023109id_/http%3A//www.roundmenu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundmenu.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327105934id_/https%3A//www.roundmenu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,3 +32,6 @@ Cookies are packets of information that are stored on your computer's hard drive
 
 **Privacy Commitment Changed**  
 The Company will continue to commit itself to protecting and maximizing our users' privacy. We will update you on an ongoing basis on any changes/enhancements in our privacy practices. 
+
+**Content**  
+All restaurant information details and reservation technology has been aggregated and developed by RoundMenu, and holds the rights to distribute or license the content and the technology available on the RoundMenu domain. 
