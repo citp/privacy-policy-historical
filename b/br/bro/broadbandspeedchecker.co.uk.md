@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandspeedchecker.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005321id_/http%3A//www.broadbandspeedchecker.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandspeedchecker.co.uk privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327031135id_/http%3A//www.broadbandspeedchecker.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Broadband Speed Checker - Privacy policy
 
@@ -77,6 +77,6 @@ By using our site, you consent to the collection and use of information by us. O
 
 We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please do so through our website. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you or if you have any questions relating to this Privacy Policy or how we use the personal information we have about you, please write to: 
 
-Speedchecker Ltd. , 2 High Royd Lane, Sheffield, S36 7JR, 
+Optimal Software s.r.o. , 2 High Royd Lane, Sheffield, S36 7JR, 
 
 To find out more about your rights under the Data Protection Act, visit the Information Commissionerâ€™s website: [www.gov.uk/data-protection](http://www.gov.uk/data-protection) or read the Act online at: [www.hmso.gov.uk/acts/acts1998/19980029.htm](http://www.hmso.gov.uk/acts/acts1998/19980029.htm). 
