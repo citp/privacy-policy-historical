@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050642id_/http%3A//www.stanstedairport.com/help/policies/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327075537id_/http%3A//www.stanstedairport.com/help/policies/privacy-notice) for the most accurate reproduction.*
 
 # Stansted: Privacy notice
 
@@ -35,6 +35,8 @@ If you are giving us your personal information in the course of purchasing, regi
 We will keep your personal information relating to services or products purchased in line with our retention policy which ensures that we keep your details for no longer than is necessary. Your information will be retained in a secure environment and access to it will be restricted according to the 'need to know' principle.
 
 When you purchase certain products and services from Stansted Airport we may send you confirmation emails; these may also include marketing which may be of interest to you. We do our best to tailor this information so that it is useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
+
+We may also share information about you with our preferred partners, but the information we share with them (e.g. your title and purpose of travel) will be anonymous and they will not be able to identify you from it.
 
 ## Future communications
 
