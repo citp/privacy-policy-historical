@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the janeiredale.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626054819id_/https%3A//janeiredale.com/us/en/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the janeiredale.com privacy policy that was archived on 2015-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150327095056id_/https%3A//janeiredale.com/us/en/privacy-policy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="google-site-verification" content="x6XaaAzpetftZ22KzPQdDWRpgDmC6adSx5Wxn6IY4Ek">
 
   <meta http-equiv="Description" content="">
 <meta http-equiv="Keywords" content="">
@@ -13,66 +14,256 @@
 
   <link rel="shortcut icon" href="/favicon.ico">
 
-                  
+                    
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="desktop/ltIE9_style.css" />
+  <![endif]-->
+
   <link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/templates/template.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/templates/simple_page_template.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/zones/zone.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/zones/grid_with_quad_zone_right.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/slots/slot.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/components/component.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/components/tile_component.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/components/rich_text_component.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/layout.css?v=5">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/layout_en_US.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/components/page_title_component.css?v=1">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/components/rich_text_component.css?v=1">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/layout.css?v=13">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/layout_en_US.css?v=2">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/dimensions.css?v=2">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/style.css?v=2">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/style.css?v=5">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/common.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/dropdown/dropdown.linear.columnar.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/zones/zone.css?v=2">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/zones/simple_grid_zone.css?v=2">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/desktop/pages/zones/grid_with_quad_zone_left.css?v=2">
+<link rel="stylesheet" type="text/css" media="screen" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
 
   <!--[if lt IE 7]>
   <script type="text/javascript" src="/generic/js/jquery.js"></script>
   <script type="text/javascript" src="/js/jquery.dropdown.js"></script>
   <![endif]-->
 
-      <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+      <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
       var cookie_acceptance_wording = 'We wanted you to know that we use cookies on our website in order to give you the best possible browsing experience. Cookies are files that are stored in your browser and are used to help personalize your web browsing experience. By continuing to browse our site, you are agreeing to our cookie policy. <a href="/us/en/cookie-policy.htm">More information</a>';
       var close_wording = 'Close';
     </script>
   
-          
-  <script type="text/javascript" src="/js/jquery.js?v2"></script>
+            
+  <script type="text/javascript" src="/js/jquery.js?v=4"></script>
+<script type="text/javascript" src="https://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 <script type="text/javascript" src="/js/desktop/pages/components/rich_text_component.js"></script>
 <script type="text/javascript" src="/js/slider.js"></script>
 <script type="text/javascript" src="/jquery_rating/jquery.rating.pack.js"></script>
-<script type="text/javascript" src="/js/desktop/layout.js?v=1"></script>
-<script type="text/javascript" src="/js/cookie_handlers.js"></script>
+<script type="text/javascript" src="/js/desktop/layout.js?v=2"></script>
+<script type="text/javascript" src="/js/cookie_handlers.js?v=4"></script>
+
+  <script type="text/javascript">
+      $.ajaxSetup ({
+        // Disable caching of AJAX responses
+        cache: false,
+        statusCode: {
+          401:function() {
+            if (confirm('To use this feature, please login and try again. Would you like to login now?')) {
+              window.location.href = '/us/en/login.htm';
+            }
+          }
+        }
+      });
+
+      imcFn = {
+        updateMiniCart : function() {
+          return $('#miniCartContainer').load('/us/en/mini-cart.htm', function(){
+            if (!$('#miniCartContainer').is(':visible')) {
+              $('.mini_cart_trigger').click();
+            }
+          });
+        },
+        updateCartContents : function() {
+          return $('.cart_contents').load('/us/en/my-shop-cart.htm .cart_contents',
+            function(responseText, textStatus, XMLHttpRequest) {
+              $(this).find('form.add_to_bag input[type="submit"]').addClass('hidden');
+            }
+          );
+        },
+        updateContents : function(responseText, replacement_tags) {
+          var replacementTags = replacement_tags.split(',');
+
+          for (var i=0; i < replacementTags; i++) {
+            // Set the selector into a var for readability
+            var selector = replacementTags[i];
+
+            // Parse the response html and get the contents you need.
+            var partial = $("<div>").append(
+                jQuery.parseHTML( data )
+              ).find( selector ).html()
+            ;
+
+            // If there was a selector replace it.
+            if ( 0 < partial.length) {
+              // Apply the new data to the partial
+              $(selector).html(partial);
+            }
+          }
+        },
+        displayAssetForm : function (action, title) {
+          var form_container = '#productAssetForm .product_asset_form_container';
+          var $form = $(form_container.concat(' form'));
+
+          $form.attr('action', action);
+          $(form_container).find('h3').html(title);
+
+          if (0 == action.length) return;
+
+          if (0 == $form.length) return;
+
+          $.fancybox({href: form_container});
+        },
+        runCallbacks : function(callbacks) {
+          // Fire off the callback if it was provided.
+          // Single string at this point. Will explode at later point
+          var callbacks = callbacks.split(',');
+
+          for (var i=0; i<callbacks.length; i++)
+          {
+            this.runCallback(callbacks[i]);
+          }
+        },
+        runCallback : function(method) {
+          // Get the method
+          var method_args = method.split('_');
+
+          // Get the arguements
+          var callback = method_args[0];
+
+          // Do we have arguements?
+          var args = new Array();
+
+          // Yay, we do
+          if (method_args.length == 2) {
+            args = method_args[1].split('|');
+          }
+
+          // Is this a method we now of?
+          if (typeof this[callback] == 'function') {
+            // Apply the current context of null and pass the arguements
+            return this[callback].apply(null, args);
+          }
+        }
+      }
+
+    // Searches the document and clears all untranslated text.
+    // DELETABLE
+    function clearUntranslatedText() {
+      $('form label:contains(untranslated_text)').each(function(){
+        var newText = $(this).text().substr(32);
+        newText = newText.substr(0, newText.indexOf('<'))
+
+        $(this).html(newText);
+      });
+
+      $('form input[untranslated_text\\"]').each(function(){
+        var content = $(this).parent().contents().filter(function() {
+          if ( result = this.nodeType === 3) {
+            // Do not return blank rows
+            if (this.nodeValue.match(/^[\n\s]+/)) return false;
+            // No blank rows return this object. (node)
+            return true;
+          }
+
+          // It is not a string type, get rid of it
+          return false;
+        });
+
+        // Grab the text content
+        var text = content[0].textContent;
+
+        // Remove the node with the text in it
+        content.remove();
+
+        // Let's grab the text before the first "
+        var newText = text.substr(0, text.indexOf('"'))
+
+        // Add a class untranslated text
+        //$(this).addClass('untranslated_text');
+
+    // Get rid of the wonky attr
+        $(this).removeAttr('untranslated_text\"');
+
+        $(this).val(newText);
+      });
+    ///////////////////////////////////////////////////////////
+    }
+
+    function searchToggle() {
+      $('.search input[type="text"]').on('focus', function() {
+        var $that = $(this);
+        $(this).css({'width':'200px'});
+
+        if (0 == $(this).parent().find('button').length) {
+          $('<button class="close_search button secondary_button small" type"button">x</button>').on('focus', function() {
+            $that.blur();
+            $(this).remove();
+
+            return false;
+          }).prependTo($(this).parent());
+        }
+
+      }).on('blur', function () {
+        $(this).removeAttr('style');
+        $(this).parent().find('button').remove();
+
+      })
+    }
+
+    $(document).ready(function() {
+      clearUntranslatedText();
+      searchToggle();
+    });
+  </script>
 
   
+  
+<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body class="janeiredale lang_en_US  non-responsive " onload="">
-  <div id="page">
+<body class="responsive janeiredale lang_en_US  non-responsive  " onload="">
+  <div id="page"><div id="cookieAcceptance"><div><div class="start"></div><div class="end"></div><div class="cookie_acceptance_wrapper"><div class="close"><img src="/images/frontend/icons/close.png" alt="Close"></div><div class="wording">We wanted you to know that we use cookies on our website in order to give you the best possible browsing experience. Cookies are files that are stored in your browser and are used to help personalize your web browsing experience. By continuing to browse our site, you are agreeing to our cookie policy. <a href="/us/en/cookie-policy.htm">More information</a></div></div></div></div>
           <div id="mastheadContainer">
         <div id="masthead" class="top">
-          <a href="/us/en.htm" class="logo"><span><img alt="" src="/images/sandbox/logo.png"></span></a>
-          <a id="menuExpander" href="#"></a>
           <div id="menu">
-                          <ul class="super_links">
+            <ul class="super_links">
+                              <li id="menuExpander"><a href="#"></a></li>
                             <li class="home"><a href="/us/en.htm"><span>Home</span></a></li>
-                  <li class="Shop"><a href="/us/en/where-to-shop.htm"><span>Shop</span></a></li>
-                  <li class="Contact"><a href="/us/en/contact.htm"><span>Contact</span></a></li>
-                                                            <li class="login"><a href="/us/en/login.htm"><span>Log in</span></a></li>
-                                    <li class="pro"><a href="http://secure.janeiredale.com/SSO/FormLogin.aspx"><span>Pro Site</span></a></li>
-                                <li class="culture_switcher_trigger"><a href="#">
+                  <li class="Contact"><a href="/us/en/contact-us.htm"><span>Contact</span></a></li>
+                                        <li class="pro"><a href="http://secure.janeiredale.com/SSO/FormLogin.aspx"><span>pro site</span></a></li>
+                
+                <li class="locations"><a href="/us/en/where-to-shop.htm"><span>location</span></a></li>
+
+                                  <li class="my_account"><a href="/us/en/my-account.htm"><span>my account</span></a></li>
+                
+                              
+                <li class="culture_switcher_trigger desktop_hidden"><a href="#">
                   <img src="/images/flags/us.png" alt="en_US" title="en_US">
-                  <span>Switcher</span>
+                  <span>switcher</span>
                 </a></li>
-              </ul><!-- .super_links-->
-                                      <div id="cultureSwitcher" style="display: none;">
+
+                                                      <li class="mini_cart_trigger"><a href="/us/en/my-shop-cart.htm">
+                      <span>my bag</span>
+                      <span class="quantity">0</span>
+                    </a></li>
+                                  
+                                  <li class="search">
+                    <div class="search">
+                      <form id="site_search" action="/us/en/search.htm" name="site_search">
+                        <input type="text" placeholder="search" class="text inactive" name="q" size="6">
+                        <input class="submit" type="image" src="/images/frontend/icons/masthead/search.png" value="go">
+                      </form>
+                    </div><!--.search-->
+                  </li>
+                            </ul><!-- .super_links-->
+
+            <div id="cultureSwitcher" style="display: none;">
   <div class="close_holder">
-    <a href="#"><span>Close</span></a>
+    <a href="#"><span>close</span></a>
   </div>
   <ul>
           <li><a href="/us/en.htm"><img src="/images/flags/us.png" alt="en_US" title="en_US">
@@ -99,6 +290,12 @@
           <li><a href="/be/nl.htm"><img src="/images/flags/be.png" alt="nl_BE" title="nl_BE">
         Belgium (nl)</a>
       </li>
+          <li><a href="/fr/fr.htm"><img src="/images/flags/fr.png" alt="fr_FR" title="fr_FR">
+        France</a>
+      </li>
+          <li><a href="/lu/fr.htm"><img src="/images/flags/lu.png" alt="fr_LU" title="fr_LU">
+        Luxembourg</a>
+      </li>
           <li><a href="/nl/nl.htm"><img src="/images/flags/nl.png" alt="nl_NL" title="nl_NL">
         Netherlands</a>
       </li>
@@ -123,18 +320,113 @@
           <li><a href="/nz/en.htm"><img src="/images/flags/nz.png" alt="en_NZ" title="en_NZ">
         New Zealand</a>
       </li>
+          <li><a href="/se/sv.htm"><img src="/images/flags/se.png" alt="sv_SE" title="sv_SE">
+        Sweden</a>
+      </li>
+          <li><a href="/gr/el.htm"><img src="/images/flags/gr.png" alt="el_GR" title="el_GR">
+        Greece (el)</a>
+      </li>
+          <li><a href="/gr/en.htm"><img src="/images/flags/gr.png" alt="en_GR" title="en_GR">
+        Greece (en)</a>
+      </li>
           <li><a href="/pa/es.htm"><img src="/images/flags/pa.png" alt="es_PA" title="es_PA">
         Panama</a>
       </li>
           <li><a href="/gt/es.htm"><img src="/images/flags/gt.png" alt="es_GT" title="es_GT">
         Guatemala</a>
       </li>
+          <li><a href="/ae/en.htm"><img src="/images/flags/ae.png" alt="en_AE" title="en_AE">
+        United Arab Emirates</a>
+      </li>
+          <li><a href="/pe/es.htm"><img src="/images/flags/pe.png" alt="es_PE" title="es_PE">
+        Peru</a>
+      </li>
+          <li><a href="/sv/es.htm"><img src="/images/flags/sv.png" alt="es_SV" title="es_SV">
+        El Salvador</a>
+      </li>
       </ul>
 </div><!-- #cultureSwitcher -->
-            
+
+                                          <div id="miniCartContainer" style="display: none;">
+                  
+<script type="text/javascript">
+$(document).ready(function() {
+  // Set up a default sum for the cart items.
+  var sum = 0;
+
+  $('.cart_items_wrapper').find('td.quantity').each(function() {
+    var qty = parseInt($(this).text());
+
+    // If there is no number, skip it.
+    if (isNaN(qty)) return true;
+
+    sum += qty;
+
+    // If number is greater than 9 break the loop and set quantity to 9+
+    if (sum > '9') {
+      sum = '9+';
+      return;
+    }
+  });
+
+  // Update the quantity to the proper amount.
+  $('.mini_cart_trigger a span.quantity').html(sum);
+
+  // Get the lineitem data
+  
+  $('#miniCart.post_load').load("/us/en/mini-cart.htm #miniCart", function(){
+    $('#miniCart').removeClass('post_load');
+
+    var sum = 0;
+    $('.cart_items_wrapper').find('td.quantity').each(function() {
+      var qty = parseInt($(this).text());
+
+      // If there is no number, skip it.
+      if (isNaN(qty)) return true;
+
+      sum += qty;
+
+      // If number is greater than 9 break the loop and set quantity to 9+
+      if (sum > '9') {
+        sum = '9+';
+        return;
+      }
+    });
+
+    $('.mini_cart_trigger a span.quantity').html(sum);
+  });
+
+});
+</script>
+<div id="miniCart" class="">
+  <div class="close_holder">
+    <a href="#"><span>close</span></a>
+    <h4>my shopping bag</h4>
+  </div>
+  
+<div class="cart_items_wrapper">
+  <table>
+    <tbody>
+              <tr>
+          <td colspan="2"></td>
+          <td class="subtotal">subtotal</td>
+          <td>$0.00</td>
+          <td></td>
+        </tr>
+    </tbody>
+  </table>
+</div><!-- #cartItemsWrapper -->
+  <div class="checkout button_container">
+    <a href="/us/en/my-shop-cart.htm" class="button primary_button">
+      <span>edit/checkout</span>
+    </a>
+  </div>
+</div>
+                </div>
+                          
                           <div id="contactUs" style="display:none;">
   <div class="close_holder">
-    <a href="#"><span>Close</span></a>
+    <a href="#"><span>close</span></a>
   </div>
   <ul>
     <li>
@@ -144,16 +436,11 @@
     <img src="/images/frontend/layout/bg_culture_switcher.png" alt="globe" title="Globe" class="globe">Outside the US</a></li>
   </ul>
 </div><!-- #contactChooser -->
-            
-                          <div class="search">
-                <form id="site_search" action="/us/en/search.htm" name="site_search">
-                  <input type="text" class="text inactive" name="q" size="10">
-                  <input class="submit" type="submit" value="go">
-                </form>
-              </div><!--.search--> 
-                        <div class="clear"></div>
-                            <ul id="nav" class="dropdown dropdown-linear dropdown-columnar">
-          <li id="mainNavTab_id_1" class="dir tab tab_0">
+                        <a href="/us/en.htm" class="logo"><span><img alt="" src="/images/logos/desktop_logo.png"></span></a>
+
+            <div class="clear"></div>
+                            <ul id="nav" class="dropdown dropdown-linear dropdown-columnar tab_count_6">
+      <li id="mainNavTab_id_1" class="dir tab tab_0 makeup">
       <a class="tab" href="/us/en/mineral-makeup/all-face-makeup.htm">
         <span class="hide">makeup</span>
       </a>
@@ -166,9 +453,12 @@
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/oil-control.htm">oil control</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/concealer.htm">concealer</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/hydration-sprays/ecocert-hydration-spray.htm">hydration spray</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/men/h-e-products.htm">for men</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/body.htm">body</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/body/handdrink.htm">HandDrink Hand Cream</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/skin-accumax-supplement.htm">Skin Accumax</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/blush-bronzer/golden-shimmer-face-and-body-lotion.htm">Golden Shimmer Face and Body Lotion</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/men/h-e-products.htm">H/E men's collection</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/last-hurrah.htm">Last hurrah!</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/egift-card.htm">eGift card</a></li>
                                                 </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                                         <li class="dir sub_tab">
@@ -177,9 +467,8 @@
                                                       <li class="navigation_item"><a href="/us/en/mineral-makeup/all-eye-makeup.htm">all eye makeup</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/eyeshadow.htm">eye shadow </a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/eyeliner.htm">eyeliner</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/eyebrows-eyelashes.htm">eyebrows &amp; eyelashes </a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/breast-cancer-awareness-2013-2014-bright-future-compact.htm">Bright Future Eye Shadow Compact</a></li>
-                                                </ul><!-- .navigation_items -->
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/eyebrows-eyelashes.htm">mascara &amp; brows</a></li>
+                                                                                                                    </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                                         <li class="dir sub_tab">
               <h4>Cheeks</h4>
@@ -192,8 +481,7 @@
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/blush-bronzer/quad-bronzer.htm">Quad Bronzer </a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/blush-bronzer/in-touch-highlighter.htm">In Touch Highlighter</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/blush-bronzer/24-karat-gold-dust.htm">24-Karat Gold Dust</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/lips/just-kissed-lip-and-cheek-stain.htm">Just Kissed Lip and Cheek Stain</a></li>
-                                                </ul><!-- .navigation_items -->
+                                                                                  </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                                         <li class="dir sub_tab">
               <h4>Lips</h4>
@@ -205,7 +493,7 @@
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/lips/just-kissed-lip-plumper.htm">Just Kissed Lip Plumper</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/lips/lipdrink-spf-15-lip-balm.htm">LipDrink</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/lips/sugar-butter-lip-exfoliator-plumper.htm">Sugar&amp;Butter</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/lips/lip-definer.htm">lip definers</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/lips/lip-pencil.htm">Lip Pencil</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/lips/just-kissed-lip-and-cheek-stain.htm">Just Kissed Lip and Cheek Stain</a></li>
                                                 </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
@@ -213,44 +501,42 @@
               <h4>Makeup Kits</h4>
               <ul class="navigation_items">
                                                       <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-kits.htm">all makeup kits</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-kits/starter-kits.htm">NEW Starter Kits</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/gilded-and-gifted-holiday-collection.htm">Glamour Eye &amp; Lip Palette</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-kits/starter-kits.htm">Starter Kits</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-kits/color-sample-kit.htm">Color Sample Kit</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-kits/glamour-eye-lip-palette.htm">Glamour Eye &amp; Lip Palette</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/eyeshadow/eye-steppes.htm">Eye Steppes</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-kits/my-steppes-makeup-kit.htm">My Steppes</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-kits/sample-kit.htm">Sample Kits</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/eyeshadow/eye-shadow-kits.htm">eye shadow kits</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/lips/chocoholicks.htm">Chocoholicks</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-kits/janes-signature-gilded-collection-24-karat-gold-dust.htm">Jane's Signature Gilded Collection</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/eyeshadow/getaway-eye-shadow-kit.htm">Getaway Eye Shadow Kit</a></li>
                                                 </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                                         <li class="dir sub_tab">
               <h4>Makeup Tools</h4>
               <ul class="navigation_items">
                                                       <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-tools.htm">all makeup tools</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-removal/dot-the-i-makeup-remover-swabs.htm">Dot the <span class="force_lower">i</span></a></li>
+                                                                                                          <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-removal/dot-the-i-makeup-remover-swabs.htm">Dot the <span class="force_lower">i</span></a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-removal/botanical-makeup-remover.htm">Botanical Makeup Remover</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-removal/magic-mitt.htm">Magic Mitt</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-tools/makeup-brushes.htm">makeup brushes</a></li>
+                                                                                                          <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-tools/makeup-brushes.htm">makeup brushes</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-tools/brush-care.htm">makeup brush care</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-tools/cosmetic-bags.htm">cosmetic bags</a></li>
                                                 </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                         </ul><!-- .sub_tabs -->
     </li><!-- .dir.tab -->
-          <li id="mainNavTab_id_2" class="dir tab tab_1">
-      <a class="tab" href="/us/en/mineral-makeup/glow-like-a-goddess.htm">
+      <li id="mainNavTab_id_2" class="dir tab tab_1 new">
+      <a class="tab" href="/us/en/whats-new.htm">
         <span class="hide">what's new</span>
       </a>
       <ul class="sub_tabs count_tabs_3">
                               <li class="dir sub_tab">
               <h4>New Makeup</h4>
               <ul class="navigation_items">
-                                                      <li class="navigation_item"><a href="/us/en/mineral-makeup/glow-like-a-goddess.htm">Golden Shimmer Face and Body Lotion</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/eyeliner/jelly-jar-tm-gel-eyeliner.htm">Jelly Jar Gel Eyeliner</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/eyeshadow/purepressed-eye-shadows.htm">Golden Girl PurePressed Eye Shadow Triple</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/blush-bronzer/in-touch-highlighter.htm">Comfort In Touch Highlighter</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/lips/lip-fixation.htm">Lip Fixation</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/whats-new/discover-the-difference-new-starter-kit.htm">Starter Kits</a></li>
-                                                                                                                                                                                        </ul><!-- .navigation_items -->
+                                                      <li class="navigation_item"><a href="/us/en/mineral-makeup/collections/country-weekend-spring-makeup.htm">Country Weekend Spring Collection</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/body/handdrink.htm">HandDrink Hand Cream</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/makeup-kits/color-sample-kit.htm">Color Sample Kit</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/collections/handdrink-hand-cream-color-sample-kit.htm">Refresh &amp; Renew</a></li>
+                                                                                                                                                                                                                                                                                                                                </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                                         <li class="dir sub_tab">
               <h4>In the Media</h4>
@@ -263,15 +549,15 @@
                                         <li class="dir sub_tab">
               <h4>Trending</h4>
               <ul class="navigation_items">
-                                                      <li class="navigation_item"><a href="/us/en/mineral-makeup/glow-like-a-goddess.htm">GLOW LIKE A GODDESS</a></li>
+                                                      <li class="navigation_item"><a href="/us/en/mineral-makeup/body/handdrink.htm">HandDrink Hand Cream</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/jane-iredale-bridal-makeup.htm">beautiful brides</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/whats-new/ipad-virtual-makeover.htm">iPad makeover</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/skin-accumax.htm">Skin Accumax<sup>®</sup></a></li>
-                                                </ul><!-- .navigation_items -->
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/skin-accumax-supplement.htm">Skin Accumax<sup>®</sup></a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/power-of-3.htm">Power of 3</a></li>
+                                                                                                                                                      </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                         </ul><!-- .sub_tabs -->
     </li><!-- .dir.tab -->
-          <li id="mainNavTab_id_3" class="dir tab tab_2">
+      <li id="mainNavTab_id_3" class="dir tab tab_2 tips">
       <a class="tab" href="/us/en/get-the-look.htm">
         <span class="hide">makeup tips</span>
       </a>
@@ -282,26 +568,21 @@
                                                       <li class="navigation_item"><a href="/us/en/makeup-tips/makeover-room.htm">makeover room</a></li>
                                                                         <li class="navigation_item"><a href="http://makeupblog.janeiredale.com/">makeup blog</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/our-video-tutorials.htm">video tutorials</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/get-the-look.htm">get the look</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/buzz/youtube-beauty-gurus.htm">YouTube beauty gurus</a></li>
-                                                </ul><!-- .navigation_items -->
+                                                                                  </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                                         <li class="dir sub_tab">
               <h4>Get The Look</h4>
               <ul class="navigation_items">
                                                       <li class="navigation_item"><a href="/us/en/get-the-look.htm">all looks</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/soft-looks/country-weekend.htm">Country Weekend</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/soft-looks/solar-escape.htm">solar escape</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/holiday-looks/where-there-s-smoke.htm">Where there's smoke...</a></li>
+                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/sultry-looks/city-nights.htm">CITY NIGHTS</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/follow-that-look/natural-looks/glow-like-a-goddess-get-the-look.htm">GLOW LIKE A GODDESS</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/follow-that-look/soft-looks/magic-hour.htm">MAGIC HOUR</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/soft-looks/discover-the-difference-look-page.htm">discover the difference</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/holiday-looks/GILDED-GIFTED-LOOK.htm">GILDED AND GIFTED</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/sultry-looks/live-in-full-bloom.htm">LIVE IN FULL BLOOM</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/soft-looks/fresh-delight-ruby-s-look.htm">Fresh Delight - Ruby's Look</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/soft-looks/fresh-delight-daphne-s-look.htm">Fresh Delight - Daphne's Look</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/natural-looks/easy-on-the-eyes.htm">Easy on the Eyes</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/natural-looks/lush-and-plush.htm">Lush and Plush</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/follow-that-look/natural-looks/a-good-long-look.htm">a Good Long Look</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/follow-that-look/spring-2012/beautiful-bride.htm">beautiful bride</a></li>
-                                                </ul><!-- .navigation_items -->
+                                                                                                                                                      </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                                         <li class="dir sub_tab">
               <h4>About Our Makeup</h4>
@@ -326,7 +607,7 @@
             </li><!-- .dir.sub_tab -->
                         </ul><!-- .sub_tabs -->
     </li><!-- .dir.tab -->
-          <li id="mainNavTab_id_4" class="dir tab tab_3">
+      <li id="mainNavTab_id_4" class="dir tab tab_3 buzz">
       <a class="tab" href="/us/en/buzz/press.htm">
         <span class="hide">buzz</span>
       </a>
@@ -334,14 +615,9 @@
                               <li class="dir sub_tab">
               <h4>We Love</h4>
               <ul class="navigation_items">
-                                                      <li class="navigation_item"><a href="/us/en/mineral-makeup/glow-like-a-goddess.htm">Golden Shimmer Face and Body Lotion</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/magic-hour-spring-2014-makeup-collection.htm">MAGIC HOUR</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/jane-iredale-bridal-makeup.htm">bridal makeup</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/whats-new/discover-the-difference-new-starter-kit.htm">discover the difference</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/mineral-makeup/breast-cancer-awareness-2013-2014-bright-future-compact.htm">Breast Cancer Awareness</a></li>
+                                                      <li class="navigation_item"><a href="/us/en/jane-iredale-bridal-makeup.htm">bridal makeup</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/whats-new/ipad-virtual-makeover.htm">iPad Makeover</a></li>
-                                                                        <li class="navigation_item"><a href="/us/en/foundation-of-beautiful-skin.htm">Foundation of Beautiful Skin</a></li>
-                                                </ul><!-- .navigation_items -->
+                                                                                                                                                                                                                          </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                                         <li class="dir sub_tab">
               <h4>Socialize</h4>
@@ -365,7 +641,7 @@
             </li><!-- .dir.sub_tab -->
                         </ul><!-- .sub_tabs -->
     </li><!-- .dir.tab -->
-          <li id="mainNavTab_id_6" class="dir tab tab_4">
+      <li id="mainNavTab_id_6" class="dir tab tab_4 ">
       <a class="tab" href="/us/en/about-jane-iredale.htm">
         <span class="hide">about us</span>
       </a>
@@ -378,10 +654,16 @@
                                                                         <li class="navigation_item"><a href="/us/en/our-commitments.htm">our commitments</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/cruelty-free.htm">cruelty-free</a></li>
                                                                         <li class="navigation_item"><a href="/us/en/mineral-makeup/product-testing.htm">product testing</a></li>
-                                                                                  </ul><!-- .navigation_items -->
+                                                                        <li class="navigation_item"><a href="/us/en/contact-us.htm">contact us</a></li>
+                                                </ul><!-- .navigation_items -->
             </li><!-- .dir.sub_tab -->
                         </ul><!-- .sub_tabs -->
     </li><!-- .dir.tab -->
+        <li id="mainNavTab_id_10" class="dir tab shop">
+      <a class="tab" href="/us/en/shop.htm">
+        <span class="hide">shop</span>
+      </a>
+    </li>
   </ul><!-- #nav.dropdown.dropdown-linear.dropdown-columnar -->
 
                         <div class="clear"></div>
@@ -398,40 +680,96 @@
   <div class="grid_cell_1_and_3">
     <div class="grid_cell_1 width_4">
       
-<div id="slot_9823" class="slot slot_1  width_4 height_4 " style="">
+<div id="slot_41222" class="slot slot_1  width_4 height_4 " style="background-image: url(/us/en/images/tile/318/1514.jpg?v=1); background-repeat: no-repeat; background-position: left top;">
       
-<div id="component_9021" class="component tile_component">
-            
-    <img alt="" class="tile" title="" src="/us/en/images/tile/318/775.jpg?v=1">
-      
-  </div><!-- #component_9021.component.tile_component -->
-  </div><!-- #slot_9823.slot.slot_1 -->
+<div id="component_38615" class="component page_title_component left_padding top_padding">
+    
+      <h3 style="color:#b6008d">
+      privacy policy    </h3>
+    <div id="componentContent_38615" class="component_content" style="">
+          
+      </div><!-- #componentContent_38615.component_content -->
+  </div><!-- #component_38615.component.page_title_component.left_padding.top_padding -->
+  </div><!-- #slot_41222.slot.slot_1 -->
     </div><!-- .grid_cell_1.width_4 -->
     <div class="grid_cell_3 width_4">
       
-<div id="slot_" class="slot slot_ empty_slot width_ height_ " style="">
-        </div><!-- #slot_.slot.slot_ -->
+<div id="slot_41224" class="slot slot_3 empty_slot width_4 height_4 " style="">
+      <div class="empty_slot_inner height_4">
+          </div><!-- .empty_slot_inner -->
+  </div><!-- #slot_41224.slot.slot_3 -->
     </div><!-- .grid_cell_3.width_4 -->
   </div><!-- ..grid_cell_1_and_3 -->
   <div class="grid_cell_2 width_8 height_8">
     
-<div id="slot_9824" class="slot slot_2  width_8 height_8 " style="">
+<div id="slot_41223" class="slot slot_2  width_8 height_20 " style="">
       
-<div id="component_9020" class="component rich_text_component left_padding right_padding">
-        <div id="componentContent_9020" class="component_content" style="">
-          <p class="MsoNormal">Iredale Mineral Cosmetics, Ltd. is committed to protecting the privacy of our customers and visitors. Personal information received by janeiredale.com or shop.janeiredale.com&nbsp;is not shared with or sold to third parties.</p>
-<p class="MsoNormal">Information is collected during site visits and during the purchase process. Site visit information is used only in aggregate form to help enhance the overall janeiredale.com&nbsp;experience. Purchase information is maintained in account form as required to engage in secure consumer friendly e-commerce on shop.janeiredale.com.</p>
-<p class="MsoNormal">Users who purchase products on shop.janeiredale.com may receive promotional emails. Users may opt-out of our mailing list during the order process. If a user does not opt-out during the order process they may log into their account and update their preferences. If a user does not create an account during their order they may opt-out of our mailing list by using the supplied link on any of our emails. Furthermore, the user may create an account using their email address and opt-out from their account page.</p>
-<p class="MsoNormal">Users of shop.janeiredale.com may receive promotional emails from Shop&nbsp;<em>jane iredale</em>&nbsp;if they register for an account without purchasing a product. Users may opt-out of our mailing list for specials and promotions during the registration process. If a user does not opt-out during the registration process, they may log into their account and update their preferences.</p>
-<p class="MsoNormal">Users may change their address or other personal information in their account. Users may edit any of their personal information by logging in and following the "edit this information" links in their account. If an account is not created during a purchase, a user may choose to create one later with the same email address used for the purchase.</p>
-<p class="MsoNormal">janeiredale.com utilizes cookies to help optimize and customize the user experience. Cookies enhance efficiency and allow us to recognize returning visitors.</p>
-<p class="MsoNormal">Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.</p>
-<p class="MsoNormal">janeiredale.com does provide links to other web sites but is not responsible for the privacy practices or content of these other sites.</p>
-<p class="MsoNormal">Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.</p>
-<p class="MsoNormal">If we plan to utilize users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users by posting a prominent notice on our Web site for 30 days.</p>
-<p class="MsoNormal">If users have any questions or suggestions regarding our privacy policy, please contact us at 1-877-869-9420 or via email at at&nbsp;<a href="mailto:personalshoppers@janeiredale.com">personalshoppers@janeiredale.com</a>.</p>      </div><!-- #componentContent_9020.component_content -->
-  </div><!-- #component_9020.component.rich_text_component.left_padding.right_padding -->
-  </div><!-- #slot_9824.slot.slot_2 -->
+<div id="component_38616" class="component rich_text_component left_padding right_padding">
+  <div>
+                <div id="componentContent_38616" class="component_content" style="">
+              <p>Iredale Mineral Cosmetics, Ltd. (“IMC”) is committed to protecting the privacy of our customers and visitors. This Privacy Policy describes the ways in which we collect, use and disclose the information you provide to us through this Site (this “Site”).</p>
+
+<h4>Personal Information</h4>
+
+<p>“Personal information” is information by which you can be identified, such as your name, e-mail address, billing and mailing addresses, telephone number(s) and credit card number(s).  When you provide personal information at this Site, you are consenting to the way in which we collect, use and disclose your personal information, as more particularly set forth in this Privacy Policy.</p>
+
+<p>We may collect personal information that you provide when you:<br>
+- Register with this Site;<br>
+- Make a purchase from this Site;<br>
+- Submit an entry in a contest or sweepstakes sponsored by us, respond to one of our surveys or participate in another feature of this Site; or<br>
+- Provide us with comments or suggestions.</p>
+
+<p>Personal information that you provide to this Site is not shared with or sold to third parties.</p>
+
+<h4>Registration at Our Site</h4>
+
+<p>This Site provides you with an option to register at this Site, but no registration is required to browse this Site.  In order to register, you may be required to select a password and provide your name, e-mail address, and other information. You may edit any of your personal information at any time by logging into your account and following the "edit this information" link. If you do not create an account during a purchase, a user may choose to create one later with the same email address used for the purchase.</p>
+
+<h4>Purchases</h4>
+
+<p>When you make a purchase from <a href="https://janeiredale.com" title="">janeiredale.com</a>, we will collect the personal information needed to process and ship your order, including your name, phone number, e-mail address, shipping and billing addresses, and credit card number.</p>
+
+<p>We employ reasonable security measures to protect your personal and financial information.  Credit card details supplied at checkout are transmitted directly to our payment provider over a secure connection (SSL).  We do not save your full credit card number or security code on our servers.  We keep only the last four digits of your card number and expiry date to help you and us identify your saved credit card(s) when you call us or visit us online.</p>
+
+<h4>Participation in Contests, Sweepstakes, Surveys or Other Site Features</h4>
+
+<p>When you submit an entry in a contest or sweepstakes sponsored by us through this Site or our Facebook page, we may request your name, address, phone number and e-mail address so that we are able to contact you if you are a winner of the contest or sweepstakes.  If you participate in a survey or other Site feature, we may request your name, address, phone number and e-mail address in order to respond to any questions you may have or allow us to obtain further information from you.</p>
+
+<h4>Other Uses of Personal Information</h4>
+
+<p>In addition to the uses described above, we may use personal information to help us assess and improve our products and to notify you about products and services, sales and special events in which you might be interested.</p>
+
+<p>If you register at this Site or purchase products from this Site, you may receive promotional e-mails from us. You may opt out of our mailing list during the registration or ordering process. In addition, if you have registered, you may log into your account at any time to opt in or out of our mailing list. You may opt out of our mailing list by using the supplied link on any of our e-mails.</p>
+
+<h4>Collection of Information by this Site</h4>
+
+<p>This Site uses “cookies”.  A “cookie” is a small data file that a site can send to your web browser, which may then be stored on your computer’s hard drive so that your computer is recognized when you return to the site.  If you have registered with this Site, these cookies may (a) let us know who you are, (b) be needed to enable you to access your account or other information, and (c) provide us with information that we may use to customize this Site in accordance with your needs and preferences. Your web browser contains settings that allow you to request notification when you receive a cookie and to reject cookies. If you elect not to accept cookies from this Site, it may limit the options that this Site provides for you.</p>
+
+<p>Like most standard web site servers we use log files. These include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track users’ movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.  Site visit information is used only in aggregate form to help enhance the overall janeiredale.com experience.</p>
+
+<h4>Links to Third-Party Sites</h4>
+
+<p>This Site may provide links to websites of third parties for your convenience. IMC does not assume any responsibility for the (a) content of, (b) technology implemented by, or (c) privacy practices of third party sites and all use is at your own risk. You should review the privacy policy and terms of use for each third party site and confirm they are acceptable prior to registration on or use of that site. Links to third party sites do not imply endorsement of the sites by us. To the extent that this Site contains links to third party websites, the availability and content of which we do not control, any concerns regarding any such website and the treatment of your personal information by such third party should be directed to the particular third party website.</p>
+
+<h4>Disclosure Required by Law</h4>
+
+<p>Though we make every effort to preserve the privacy of our customers and visitors, we may need to disclose personal information when required by law, governmental rule or regulation or judicial or administrative process.</p>
+
+<h4>Security of Personal Information</h4>
+
+<p>We maintain administrative, technical and physical safeguards to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control.</p>
+
+<h4>Changes to Privacy Policy</h4>
+
+<p>We may change our Privacy Policy from time to time.  Please check this page periodically for changes.</p>
+
+<h4>Contact Us</h4>
+
+<p>If you have any questions or concerns, please contact us at 1-877-869-9420 or via email at <a href="mailto:personalshoppers@janeiredale.com" title="">personalshoppers@janeiredale.com</a>.</p>
+          </div><!-- #componentContent_38616.component_content -->
+      </div>
+</div><!-- #component_38616.component.rich_text_component.left_padding.right_padding -->
+  </div><!-- #slot_41223.slot.slot_2 -->
   </div><!-- .grid_cell_2.width_8.height_8 -->
   <div class="clear"></div>
 
@@ -443,39 +781,131 @@
     </div><!-- #content -->
     </div><!--.middle-->
     <div class="footer">
-      <div class="icons">
-        <a href="http://www.facebook.com/janeiredale" class="fb"></a>
-        <a href="http://pinterest.com/janeiredale" class="pinterest"></a>
-        <a href="http://twitter.com/janeiredale" class="tw"></a>
-        <a href="http://www.youtube.com/janeiredale" class="yt"></a>
+      <div class="keep_in_touch">
+        <div class="width_2">
+          Let's keep in touch!        </div>
+        <div class="email_signup_form width_6">
+                        <form action="/us/en/email-updates/subscribe.htm" method="post">
+              <input size="23" type="text" name="email_signup[email_address]" id="email_signup_email_address" placeholder="Email address*">
+              <input type="submit" class="button secondary_button" value="Sign up">
+            </form>
+                    </div>
+        <div class="icons width_2">
+          <a href="http://www.facebook.com/janeiredale" class="fb"></a>
+          <a href="http://pinterest.com/janeiredale" class="pinterest"></a>
+          <a href="http://twitter.com/janeiredale" class="tw"></a>
+          <a href="http://www.youtube.com/janeiredale" class="yt"></a>
+          <div class="clear"></div>
+        </div><!-- .icons -->
         <div class="clear"></div>
-      </div><!-- .icons -->
-      <div class="copyright_info width_6 column">
-        © 2014 Iredale Mineral Cosmetics, Ltd
-        | fw2
-      </div><!-- .copyright_info -->
-      <div class="clear"></div>
-              <ul class="footer_links">
-            <li><a href="/us/en/terms-of-use.htm">Terms of Use</a></li>
-                  <li><a href="/us/en/privacy-policy.htm">Privacy Policy</a></li>
+      </div>
+
+      <div class="footer_nav">
+        <div class="column first_column width_4">
+          <h4>CUSTOMER SERVICE</h4>
+          <ul>
+            <li>Need help?</li>
+            <li>Personal Shoppers</li>
+            <li>Call: 877-869-9420</li>
+            <li>Interested in becoming a partner?</li>
+            <li>Call: 844-350-1610</li>
+            <li>
+              <a href="https://janeiredale.com/us/en/contact.htm" alt="" title="Inside the US" class="link_contact_us">
+                contact us              </a>
+            </li>
+                          <li class="pro"><a href="http://secure.janeiredale.com/SSO/FormLogin.aspx"><span>pro site</span></a></li>
+                      </ul>
+        </div>
+
+        <div class="column width_4">
+          <h4>ORDER INQUIRIES</h4>
+          <ul>
+            <li><a href="/us/en/my-account.htm">order status</a></li>
+            <li><a href="/us/en/shop/shipping-information.htm">shipping information</a></li>
+            <li><a href="/us/en/shop/phone-orders.htm">phone orders</a></li>
+            <li><a href="/us/en/shop/faq.htm">FAQs</a></li>
+            <li><a href="/us/en/shop/returns.htm">returns</a></li>
+          </ul>
+        </div>
+
+        <div class="column width_4">
+          <h4>FIND US</h4>
+          <ul>
+            <li><a href="/us/en/where-to-shop.htm">find a location</a></li>
+            <li><a href="https://janeiredale.com/us/en/contact-us/international.htm">outside the US</a></li>
+          </ul>
+        </div>
+        <div class="clear"></div>
+      </div>
+
+      <div class="copyright">
+        <div class="copyright_info width_4 column">
+          © 2015 Iredale Mineral Cosmetics, Ltd
+        </div><!-- .copyright_info -->
+        <div class="tagline width_4 column">
+          Our Minerals Rock<sup>®</sup>
+        </div><!-- .tagline -->
+                  <ul class="footer_links">
+            <li><a href="/us/en/privacy-policy.htm">Privacy Policy</a></li>
+                  <li><a href="/us/en/terms-of-use.htm">Terms of Use</a></li>
+                  <li><a href="/us/en/cookie-policy.htm">Cookie Policy</a></li>
       </ul><!-- .footer_links -->
-          </div><!-- .footer -->
+              </div>
+    </div><!-- .footer -->
   </div><!-- #page -->
-  <script type="text/javascript">
-if (!checkCookie('ga_opt_out', 'these_arent_the_droids_youre_looking_for')) {
+  
+<!-- Google Code for Remarketing Tag -->
+<!-- 
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+-->
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-12952626-14']);
-  _gaq.push(['_trackPageview']);
+<script type="text/javascript">
+  if(window.location.pathname == '/' || window.location.pathname == '/us/en.htm')
+  {
+    var google_tag_params = {
+      ecomm_pagetype: "home"
+    };
+  }
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-}
+  // if the body tag has a class of category_page set this tag attribute
+/*
+  if (-1 != document.getElementsByTagName('body')[0].getAttribute('class').indexOf('category_page'))
+  {
+    var google_tag_params = {
+      ecomm_pagetype: "category"
+    };
+  }
+*/
 </script>
+
+<script type="text/javascript">
+  /* <![CDATA[ */
+    var google_conversion_id = 1070692154;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1070692154/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+</noscript>
+
+<!-- Google Code for Analytics -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12952626-14', 'auto');
+  ga('send', 'pageview');
+
+  </script>
+
+
 <!-- Google Code for All Site Visitors - shop.janeiredale.com -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
@@ -493,6 +923,33 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1070692154/?value=0&label=htVACMqh3gEQuu7F_gM&guid=ON&script=0"/>
 </div>
 </noscript>
+
+  
+        <!-- Start Quantcast Tag -->
+    <script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+    _qevents.push({
+      qacct:"p-Y9jXnmNNxz7FV",
+      labels:"_fp.event.Privacy Policy"
+            
+    });
+    </script>
+
+    <noscript>
+    <img src="//pixel.quantserve.com/pixel/p-Y9jXnmNNxz7FV.gif?labels=_fp.event.Privacy+Policy" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+    </noscript>
+    <!-- End Quantcast tag -->
+  
 
 
 </body><!-- .janeiredale --></html>
