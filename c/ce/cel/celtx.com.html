@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the celtx.com privacy policy that was archived on 2013-07-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130705201852id_/https%3A//www.celtx.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the celtx.com privacy policy that was archived on 2015-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150327095711id_/https%3A//www.celtx.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Celtx - Privacy</title>
@@ -7,14 +7,20 @@
     <meta name="keywords" content="  ">
     <meta name="description" content="  ">
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+    <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">
 window.cx_uri = function(path) { 
-  return '/celtx/1.86/en-US/ux' + '/' + path;
+  return 'https://s3.amazonaws.com/celtx.com/production/ux/celtx/2.72/en-US/ux' + '/' + path;
 };
 	</script>
-<script type="text/javascript" src="/celtx/1.86/en-US/ux/scripts/module_cxmodules.js"></script>
-<script type="text/javascript" src="https://s3.amazonaws.com/celtx.com/assets/1.86/javascript/jlabel-1.3-min.js"></script>
+<script type="text/javascript" src="https://s3.amazonaws.com/celtx.com/production/ux/celtx/2.72/en-US/ux/scripts/module_cxmodules.js"></script>
+<script type="text/javascript" src="https://s3.amazonaws.com/celtx.com/production/www/cx-static/2.72/assets/2.72/javascript/jlabel-1.3-min.js"></script>
+<script type="text/javascript" src="https://s3.amazonaws.com/celtx.com/production/www/cx-static/2.72/assets/2.72/javascript/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://s3.amazonaws.com/celtx.com/production/www/cx-static/2.72/assets/2.72/javascript/intl-tel-input/js/intlTelInput.js"></script>
+<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/production/www/cx-static/2.72/assets/2.72/javascript/intl-tel-input/css/intlTelInput.css">
+
+<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.css" rel="stylesheet">
     
 
 	<!-- Basic Page Needs
@@ -33,19 +39,20 @@ window.cx_uri = function(path) {
   ================================================== -->
 	<!-- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> -->
 	
-	<meta name="viewport" content="width=1024">
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<!-- CSS
   ================================================== -->
 
-	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/assets/1.86/css/styles.css">
+	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/production/www/cx-static/2.72/assets/2.72/css/styles.css">
 
 	<!-- Favicons
 	================================================== -->
 	<link rel="shortcut icon" href="favicon.ico">
-	<!-- <link rel="apple-touch-icon" href="https://s3.amazonaws.com/celtx.com/assets/1.86/images/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="https://s3.amazonaws.com/celtx.com/assets/1.86/images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="https://s3.amazonaws.com/celtx.com/assets/1.86/images/apple-touch-icon-114x114.png"> -->
+	<!-- <link rel="apple-touch-icon" href="https://s3.amazonaws.com/celtx.com/production/www/cx-static/2.72/assets/2.72/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://s3.amazonaws.com/celtx.com/production/www/cx-static/2.72/assets/2.72/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://s3.amazonaws.com/celtx.com/production/www/cx-static/2.72/assets/2.72/images/apple-touch-icon-114x114.png"> -->
 	
 
 	<!--[if IE 9]>
@@ -72,20 +79,76 @@ window.cx_uri = function(path) {
 			startup();
 		});
 	});
+
+	function checkFormSectionValidity($form, $section){
+		var valid = true;
+		$req = $section.find('input[required], select[required], textarea[required]');
+		$req.each(function(){
+			if(!this.validity.valid){
+				valid = false;
+				$(this).addClass('input-error');
+				$(this).one('change', function(){
+					$(this).removeClass('input-error');
+				});
+			}
+		});
+
+		if(!valid){
+			//trigger validation popups
+
+			$form.one('submit', function(e){
+				e.preventDefault();
+			});
+
+			$inputSubmit = $form.find('input[type="submit"]');
+
+			if($inputSubmit.length>0){
+				$inputSubmit.click();
+			} else {
+				$form.submit();
+			}
+		}
+
+		return valid;
+	}
     	
     function startup(){
     	
     	var updateInputs = function(arr, b){
     		$.each(arr, function(i, el){
-    			$(el).attr('disabled', b);
+    			if(el){
+	    			if(!$(el).hasClass('perma-disabled')){
+		    			$(el).attr('disabled', b);
+		    		}
+		    	}
     		});
     	},
     	
-    	showError = function(errSpan, errText, userTb){
+    	showError = function(errSpan, errText, userTb, opt_promoInput){
+
+    		var msg = errText.toUpperCase();    	
     		
-    		var msg = errText.toUpperCase(); 
-    	
-    		
+    		if(msg.indexOf('IS NOT AVAILABLE')>=0){
+				userTb.addClass('error');
+				userTb.focus();
+
+				userTb.get(0).oninvalid = function(e) {
+		            e.target.setCustomValidity("");
+		            if (!e.target.validity.valid) {
+		                e.target.setCustomValidity(msg);
+		            }
+		        };
+		        userTb.get(0).oninput = function(e) {
+		            e.target.setCustomValidity("");
+		        };
+		        userTb.val("");
+		        var form = userTb.parents('form');
+
+		        setTimeout(function(){
+		        	checkFormSectionValidity(form, form);	
+		        },0);
+    		}
+
 			if (msg.substring(0, 13) === 'INVALID EMAIL'){
 				msg = "The email address you've entered is invalid.";
 				userTb.addClass('error');
@@ -103,7 +166,14 @@ window.cx_uri = function(path) {
 				msg = "An account already exists for that email address.";
 				userTb.addClass('error');
 				userTb.focus();
-			} else{
+			} else if (msg.indexOf('INVALID PROMO CODE:') >= 0){
+				msg = "The Celtx code you entered isn't valid or has expired. Enter a valid code or remove the code to continue.";
+				if(opt_promoInput){
+					opt_promoInput.addClass('error');
+					opt_promoInput.removeAttr('disabled');
+					opt_promoInput.focus();
+				}
+			} else {
 				msg = errText;
 			}
 			
@@ -120,6 +190,10 @@ window.cx_uri = function(path) {
 			}
 			else{
 				$('#signInDiv').hide();
+
+				$('#login-btn').click(function(){
+					goToApplication();
+				});
 				
 				//$('#loggedInDiv').fadeIn();
 				//$('#loggedInUsername').text(cx.auth.Session.getInstance().getUserId());
@@ -132,12 +206,14 @@ window.cx_uri = function(path) {
 		goToApplication = function(){
 			//var app = new cx.ui.ApplicationManager();
 			//app.goToApplication();
-			window.location.href = "/a/ux/";
+			if($.cookie('inviteduser')!=='yes'){
+				window.location.href = "/a/ux/";
+			}
 		},
 		
 		signupSuccess = function(email){
 			_gaq.push(['_trackEvent', 'Login', 'Create Account']);
-			window.location.href = "/signedup.html?email=" + encodeURI(email);
+			window.location.href = "/signedup.html?email=" + encodeURIComponent(email);
 		},
 		
 		validate = function(user, pass, messageEl){
@@ -164,8 +240,70 @@ window.cx_uri = function(path) {
 		hideError = function(errSpan){
 			errSpan.css('visibility', 'hidden');
 		},
+
+		setupFormLogin = function(userTb, passTb, submitBtn, errorSpanId){
+
+			userTb.bind('keypress', function(){
+				$(this).removeClass('error');
+				hideError(errorSpanId);
+			});
+			
+			passTb.bind('keypress', function(){
+				$(this).removeClass('error');
+				hideError(errorSpanId);
+			});
+
+			var inputList = [userTb, passTb, submitBtn];
+
+			submitBtn.click(function(e){
+
+				// stop the submission of the form.
+				e.preventDefault();
 				
-		setupForm = function(userTb, passTb, submitBtn, errorSpanId, spinnerId, isLogin){
+				hideError(errorSpanId);
+				
+				if (validate(userTb, passTb, errorSpanId)){
+					return;
+				}
+				
+				updateInputs(inputList, true);
+			
+				cx.auth.Session.login(userTb.val(), passTb.val())
+				.addCallback(function(){
+					goToApplication();
+				})
+				.addErrback(function(e){
+					showError(errorSpanId, e.message, userTb);
+					updateInputs(inputList, false);
+				});
+			});
+		},
+				
+		setupForm = function(form, userTb, passTb, fName, lName, city, country, jobTitle, companyName, teamSize, phone, submitBtn, errorSpanId, spinnerId, isLogin, opt_promoInput){
+
+			//special case for invtied people
+			if(!isLogin && $.cookie('inviteduser') === 'yes' && $.cookie('cx_session')){
+				var cxm = cx.module.Manager.getInstance();
+				cxm.load("cxauth", function() {
+				
+					cxm.load("cxdocs", function() {
+				
+						cx.auth.Session.getInstance().getLogon(cx.docs.Docs).addCallback(function(logon){
+							userTb.val(logon.getName());
+							userTb.addClass('disabled');
+							userTb.attr('disabled', 'true');
+
+							if(opt_promoInput && opt_promoInput.length>0){
+								opt_promoInput.addClass('disabled');
+								opt_promoInput.attr('disabled', 'true');
+							}
+
+							userTb.siblings('label.placeholder-input').hide();
+
+						});
+					});		
+				});
+			}
 			
 			userTb.bind('keypress', function(){
 				$(this).removeClass('error');
@@ -177,15 +315,29 @@ window.cx_uri = function(path) {
 				hideError(errorSpanId);
 			});
 			
-			var inputList = [userTb, passTb, submitBtn];
+			var inputList = [userTb, passTb, submitBtn, fName, lName, city, country, jobTitle, companyName, teamSize, phone];
+
+			if(opt_promoInput && opt_promoInput.length > 0){
+				inputList.push(opt_promoInput);
+
+				opt_promoInput.bind('keypress', function(){
+					$(this).removeClass('error');
+					hideError(errorSpanId);
+				});
+			}
 				
-			submitBtn.click(function(e){
+			form.submit(function(e){
 				// stop the submission of the form.
 				e.preventDefault();
+
+				// userTb.val( userTb.val().toLowerCase() );
 				
 				hideError(errorSpanId);
 				
-				if (validate(userTb, passTb, errorSpanId)){
+
+				var valid = checkFormSectionValidity(form, form);
+
+				if(!valid){
 					return;
 				}
 				
@@ -203,28 +355,83 @@ window.cx_uri = function(path) {
 				}
 				else{
 					spinnerId.css('visibility', 'visible');
-					cx.auth.Session.signup(userTb.val(), passTb.val(), $('#subscribe').is(':checked'))
-					.addCallback(function(){
-						spinnerId.css('visibility', 'hidden');
-						signupSuccess(userTb.val());		
-					})
-					.addErrback(function(e){
-						showError(errorSpanId, e.message, userTb);
-						updateInputs(inputList, false);
-						spinnerId.css('visibility', 'hidden');
-					});
+
+					//special case for invtied people
+					if($.cookie('inviteduser') === 'yes' && $.cookie('cx_session')){
+						cx.auth.Session.updatePassword(passTb.val())
+						.addErrback(function(e){
+							showError(errorSpanId, e.message, userTb);
+						})
+						.addCallback(function(){
+							$.removeCookie("inviteduser", 'yes');
+							window.location.href = '/a/ux/index#getting-started';
+						});	
+					} else {
+
+						var promocode = opt_promoInput && opt_promoInput.length>0 && opt_promoInput.val() != "" ? opt_promoInput.val().toLowerCase() : undefined;
+
+						cx.auth.Session.signup(
+							userTb.val(),
+							passTb.val(),
+							$('#subscribe').is(':checked'),
+							fName.val(), 
+							lName.val(), 
+							city.val(), 
+							country.val(), 
+							jobTitle.val(), 
+							companyName.val(), 
+							teamSize.val(), 
+							phone.val(),
+							promocode)
+						.addCallback(function(){
+							spinnerId.css('visibility', 'hidden');
+							signupSuccess(userTb.val());		
+						})
+						.addErrback(function(e){
+							showError(errorSpanId, e.message, userTb, opt_promoInput);
+							updateInputs(inputList, false);
+							spinnerId.css('visibility', 'hidden');
+						});
+
+					}
 				}
 			});
+
+			submitBtn.click(function(){
+				form.submit();
+			});
+
 		
 		},
 		
 		setupLogin = function(){
-			setupForm($('#email_id'), $('#password_id'), $('#btnLogin'), $('#login-failed-msg'), undefined, true);
+			setupFormLogin(
+				$('#email_id'), 
+				$('#password_id'),  
+				$('#btnLogin'),
+				$('#login-failed-msg'),
+				undefined);
 		},
 		
 		setupSignup = function(){
-			$('.signup-form').each(function(){
-				setupForm($(this).find('.username'), $(this).find('.password'), $(this).find('.signup-btn'), $(this).find('.message'), $(this).find('.spinner'), false);
+			$('.signup-form, .signup-bigask-form').each(function(){
+				setupForm(
+					$(this),
+					$(this).find('*[name="username"]'),
+					$(this).find('*[name="password"]'),
+					$(this).find('*[name="firstname"]'),
+					$(this).find('*[name="lastname"]'),
+					$(this).find('*[name="city"]'),
+					$(this).find('*[name="country"]'),
+					$(this).find('*[name="jobtitle"]'),
+					$(this).find('*[name="companyname"]'),
+					$(this).find('*[name="teamsize"]'),
+					$(this).find('*[name="phone"]'),
+					$(this).find('.signup-btn'),
+					$(this).find('.message'),
+					$(this).find('.spinner'),
+					false,
+					$(this).find('.promocode-input'));
 			});
 		};
 		
@@ -242,8 +449,8 @@ window.cx_uri = function(path) {
 
 		$(document).ready(function() {
 			setupLogin();
-			setupSignup();		
-			$('input[type="submit"]').removeAttr('disabled');
+			setupSignup();	
+			$('input[type="submit"], .signup-btn').removeAttr('disabled');
 			var i = 1;
 			$('.j-label').each(function(){
 				if(!$(this).attr('id')){
@@ -257,6 +464,9 @@ window.cx_uri = function(path) {
 	};
     
     </script>
+    
+    <script type="text/javascript" src="//use.typekit.net/eyc3pvo.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 
     <script type="text/javascript">
@@ -274,6 +484,20 @@ window.cx_uri = function(path) {
 
 </script>
 
+<script type="text/javascript">// <![CDATA[
+  piAId = '69092';
+	piCId = '2348';
+ 
+    (function() {
+        function async_load(){
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if(window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+// ]]></script>
 
   </head>
   <body id="" class="www-body ">
@@ -281,40 +505,21 @@ window.cx_uri = function(path) {
 <!-- Top Bar and Menu
 ================================================== -->
 
+
 <div id="topBarContainer">
 <div id="topBar">	
 	<div class="globalNavContainer">
 			<div class="globalNav">
-				<div class="logo">
-					<a href="/">
-						<img src="https://s3.amazonaws.com/celtx.com/assets/1.86/images/celtxLogo.png" alt="Celtx Logo">
-					</a>
-				</div>
-				<ul id="topnav">
-					<li>
-						<a href="products.html">Products</a>
-					</li>
-					<li>
-						<a href="http://celtx.tumblr.com/" target="_new">Blog</a>
-					</li>
-					<li>
-						<a href="seeds.html">Seeds</a>
-					</li>
-					<li>
-						<a href="support.html">Support</a>
-					</li>
-					<li>
-						<a href="contact.html">Contact</a>
-					</li>
-					<li class="pull-right" style="position:relative;">
-						<a href="#" id="login-btn" class="btn btn-inverse btn-large">Sign in</a>
+				<div class="pull-right signlogtop" style="position:relative;">
+						<a id="startatrial" href="learnmore.html" style="margin-right:10px" class="btn btn-primary btn-large"><span>Start now!</span></a>
+						<a href="/a/ux/logon" id="login-btn" class="btn btn-antiflat btn-large">Sign in</a>
 						<div id="login-or-signin" class="pull-right" style="display:none;">
 						<div id="loggedInDiv">
 							<a style="color: white !important; display: inline-block; text-align: center; margin-top: -9px;" class="btn btn-large" href="/">Go back to your <span style="font-weight:bold">Celtx Account</span></a>
 						</div>
 						<div id="signInDiv" class="well dropdown-menu">
 							<form id="sign-in" class="clearfix" name="sign-in" method="post">
-								<ul id="loginFields" style="float:right; margin-bottom: 5px;">
+								<ul id="ha">
 									<li class="inputFields clearfix">
 										<label class="placeholder-input" for="email_id">email</label>
 										<input type="email" name="email_id" value="" id="email_id" class="homeUsername wicked" autocorrect="off" autocapitalization="off">
@@ -322,14 +527,42 @@ window.cx_uri = function(path) {
 									<li class="inputFields clearfix">
 										<label class="placeholder-input" for="password_id">password</label>
 										<input type="password" name="password_id" id="password_id" class="homePassword wicked"></li>
-									<li class="homeLogIn" style="padding-right:5px"><input class="btn" type="submit" disabled="" id="btnLogin" value="Log In" onsubmit="_gaq.push(['_trackEvent', 'Login', 'Submit']);"></li>
+									<li class="homeLogIn"><input class="btn" type="submit" disabled="" id="btnLogin" value="Log In" onsubmit="_gaq.push(['_trackEvent', 'Login', 'Submit']);"></li>
 								</ul>
 								<div id="login-failed-msg" class="pull-left" style="height:11px; color:#b94a48;font-size:11px;visibility:hidden;font-weight:bold;padding-left:6px;"></div>
 								<div class="pull-right" style="height:11px; color:white;font-size:11px"><a href="reset.html">Trouble logging in?</a></div>
 							</form>
 						</div>
 					</div>
+				</div>
+				<div class="logo">
+					<a href="/">
+						<img src="https://s3.amazonaws.com/celtx.com/production/www/cx-static/2.72/assets/2.72/images/celtxLogoBigBlack.png" alt="Celtx Logo">
+					</a>
+				</div>
+					<a class="phonemenubtn" href="index.html" style="margin-top:2px">
+						<i class="icon-list"></i>
+					</a>
+				<!-- <a href='#' id='topnavdrop' class='visible-phone' style='margin-left:20px; padding:16px'><i class='icon-white icon-list'></i></a> -->
+				
+				<ul id="topnav">
+					
+					<li class="homelinkitem">
+						<a name="home" href="index.html">Home</a>
 					</li>
+					<li>
+						<a name="pricing" href="services.html">Pricing</a>
+					</li>
+					<li>
+						<a name="support" href="support.html">Support</a>
+					</li>
+					<li>
+						<a name="contact" href="contact.html">Contact</a>
+					</li>
+					<li>
+						<a name="blog" href="http://blog.celtx.com">Blog</a>
+					</li>
+					
 				</ul>
 				
 			</div>
@@ -337,6 +570,8 @@ window.cx_uri = function(path) {
 		</div>
 	</div>
 </div>
+
+
 
 <noscript>
 	<div id="noscript">
@@ -346,9 +581,27 @@ window.cx_uri = function(path) {
 		</div>
 	</div>
 </noscript>
+
+
 <script>
 	$(document).ready(function(){
+
+		$topnav = $('#topnav');
+		$('.phonemenubtn').click(function(e){
+			e.preventDefault();
+			if($topnav.hasClass('open')){
+				$topnav.removeClass('open');
+			} else {
+				$topnav.addClass('open')
+			}
+		});
+
 		$('#login-btn').click(function(e){
+
+			if($.cookie("inviteduser") === 'yes' && $.cookie("cx_session")){
+				window.location = 'invitation.html';
+			}
+
 			$('#login-or-signin').fadeToggle(function(){
 				if($(this).is(':visible')){
 					$('#email_id, #password_id').jLabel();
@@ -375,27 +628,32 @@ window.cx_uri = function(path) {
 
 <div class="container" style="padding: 30px; width: 920px;">
 
+
+
 <h1 class="heading">Privacy Policy</h1>
 
-<p>This privacy policy is designed to assist you in understanding how celtx uses and safeguards the information and resources that you provide to us.</p>
+<p>This privacy policy is designed to assist you in understanding how Celtx uses and safeguards the information and resources that you provide to us.</p>
 
 <h2>Use of Information</h2>
 
-<p>CELTX DOES NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER ANY PERSONALLY IDENTIFIABLE INFORMATION COLLECTED THROUGH THE CELTX SOFTWARE OR SERVICES TO ANY THIRD PARTY.</p>
+<p>Celtx does not sell, rent, loan, trade or otherwise transfer personally identifying information collected through the Celtx software or services to any third party.</p>
 
-<p>celtx may collect information which is required in order for the Services to verify your identity. This includes your username and password. You are personally responsible for safeguarding your username and password.</p>
+<p>Celtx may collect information which is required in order for the Services to verify your identity. This includes your username and password. You are personally responsible for safeguarding your username and password.
+</p>
 
-<p>The celtx website may contain forms and forums where feedback and other comments can be reported directly to celtx (the "Forums"). Information which is voluntarily submitted to the Forums is used to improve the celtx Services. celtx reserves the right to utilize this information for marketing purposes, for instance by displaying selected comments on the celtx website or in other communications. If celtx chooses to display a user-submitted comment it will either display it anonymously, stripping away all personally identifiable information, or request permission directly from you before displaying any such personally identifiable information.</p>
+<p>The Celtx website contain places where feedback and other comments can be reported directly to Celtx. Information which is voluntarily submitted is used to improve the Celtx Services. Celtx reserves the right to utilize this information for marketing purposes, for instance by displaying selected comments on the Celtx website or in other communications. If Celtx chooses to display a user-submitted comment it will either display it anonymously, stripping away all personally identifying information, or request permission directly from you before displaying any such personally identifying information.</p>
 
 <h2>No System Information Collected</h2>
 
-<p>No information concerning your computing facilities is collected that is not related to providing celtx Services. No information about your computing facilities will be provided to any third party without your express permission.</p>
+<p>No information concerning your computing facilities is collected that is not related to providing Celtx Services. No information about your computing facilities will be provided to any third party without your express permission.</p>
 
 <h2>Delete/Deactivation Policy</h2>
 
-<p>If you wish to modify or delete any personal information you submitted to celtx, you may do so by either modifying your profile on the Forums or contacting us at <a href="mailto:billing@celtx.com">billing@celtx.com</a>. We will use commercially reasonable efforts to delete all such information within fifteen working days from the date of the receipt of your request. Please note that it may be impossible to delete a user's entry without some residual information remaining in our system due to the presence of celtx maintained backups and records of deletions. celtx reserves the right not to delete information in order to comply with applicable local laws or regulations.</p>
+<p>If you wish to modify or delete any personal information you submitted to Celtx, you may do so by either modifying your profile or contacting us at <a href="mailto:billing@celtx.com">billing@celtx.com</a>. We will use commercially reasonable efforts to delete all such information within fifteen working days from the date of the receipt of your request. Please note that it may be impossible to delete a user's entry without some residual information remaining in our system due to the presence of Celtx maintained backups and records of deletions. Celtx reserves the right not to delete information in order to comply with applicable local laws or regulations.</p>
+
 
 </div>
+
 
     <!-- Footer
 ================================================== -->
@@ -403,16 +661,20 @@ window.cx_uri = function(path) {
 	<div class="clear"></div>
 	<div id="footer-container">
 		<div class="footer">
-			<a href="products.html">Products</a>
+			<a href="index.html">Home</a>
+			<a href="desktop.html">Mac OS X Software</a>
+			<a href="mobile.html">Mobile</a>
 			<a href="http://celtx.tumblr.com/">Blog</a>
 			<a href="seeds.html">Seeds</a>
-			<a href="https://studio.celtx.com">Studio Login</a>
+			<a href="https://studio.celtx.com" rel="nofollow">Legacy Studio Login</a>
 			<a href="privacy.html">Privacy Policy</a>
 			<a href="terms.html">Terms</a>
-			<a href="desktoplicense.html">Licenses</a>
+			<a href="license.html">Licenses</a>
 			<a href="logo.html">Logo License</a>
 			<a href="support.html">Support</a>
-			<a href="contact.html">Contact</a>	
+			<a href="contact.html">Contact</a>
+			<a href="http://blog.celtx.com">Blog</a>	
+			<a href="careers.html">Careers</a>	
 		</div>
 	</div>
     
