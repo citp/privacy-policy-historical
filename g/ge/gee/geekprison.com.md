@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekprison.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102121601id_/http%3A//geekprison.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekprison.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328003459id_/http%3A//geekprison.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
