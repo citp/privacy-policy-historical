@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leegt-games.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714034619id_/http%3A//www.leegt-games.co.uk/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leegt-games.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327050256id_/http%3A//www.leegt-games.co.uk/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - LeeGT-Games
 
