@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121072845id_/http%3A//www.lupus.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327015121id_/http%3A//www.lupus.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Lupus Foundation of America
 
 ## Privacy Policy
 
-###  Privacy Policy
+##  Privacy Policy
 
-We respect the privacy of all visitors to our websites, which include lupus.org and its related sub-domains, the embedded websites of our national network affiliates, lupusnow.org, shoplupus.org, lupusvoices.org, walktoendlupus.org, worldlupusday.org, LFA-POINT.org, and cruelmystery.org.  
-Why We Collect Information
+We respect the privacy of all visitors to our websites, which include lupus.org and its related sub-domains, the embedded websites of our national network affiliates, lupusnow.org, shoplupus.org, lupusvoices.org, walktoendlupus.org, worldlupusday.org, LFA-POINT.org, and cruelmystery.org.
+
+##  Why We Collect Information
 
 We use data gathered through our websites to distribute information, conduct programs, provide services, process orders and donations, respond to questions, fulfill requests, monitor the effectiveness of our websites, and plan for future improvements.  We do not automatically collect email addresses or other personal information unless you provide it to us on a form, survey or within an email message. 
 
-###  The Type of Information We Collect
+##  The Type of Information We Collect
 
 ####  Cookies
 
