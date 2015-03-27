@@ -1,51 +1,98 @@
-<!--The following is the downloaded HTML source of the bysymphony.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122091942id_/http%3A//bysymphony.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bysymphony.com privacy policy that was archived on 2015-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150327064604id_/https%3A//www.bysymphony.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" charset="utf-8" src="//v2.zopim.com/?1yfQqCrXOym2dNgF9vVcHawNb3CG6ACi" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MPG2QR"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMGUFBVGwcBV1lQBgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy | BySymphony</title>
 <meta name="description" content="Symphony (&quot;Symphony &quot;, &quot;we&quot;, &quot;our&quot;, &quot;us&quot;) is a trading name of Symphony Style. We respect the privacy rights of its online visitors (&quot;you&quot;, &quot;your&quot;, &quot;yours&quot;) and recognise the importance of protecting the information collected about them.">
 <meta name="keywords" content="">
+<meta charset="UTF-8"><script async="" charset="utf-8" src="//v2.zopim.com/?1yfQqCrXOym2dNgF9vVcHawNb3CG6ACi" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MPG2QR"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMGUFBVGwcBV1lQBgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="p:domain_verify" content="9c9365e82f2d085fa0b34ac3ada3c275">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://bysymphony.com/media/favicon/default/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://bysymphony.com/media/favicon/default/favicon.ico" type="image/x-icon">
+
+<link rel="alternate" hreflang="ar-global" href="https://ar.bysymphony.com/privacy-policy/"><link rel="icon" href="https://media.bysymphony.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://media.bysymphony.com/media/favicon/default/favicon.ico" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://bysymphony.com/js/blank.html';
-    var BLANK_IMG = 'http://bysymphony.com/js/spacer.gif';
+    var BLANK_URL = 'https://media.bysymphony.com/js/blank.html';
+    var BLANK_IMG = 'https://media.bysymphony.com/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
 
-<style>.megamenu-en { display: inline-block !important; } </style>
-
-<link rel="stylesheet" type="text/css" href="http://bysymphony.com/media/css/6e214f83e97ab0925e848eb84c1bfea1.css" media="all">
-<script type="text/javascript" src="http://bysymphony.com/media/js/0a7e2062bd278c42f0177bae7cd300e2.js"></script>
-<link href="http://bysymphony.com/notes/rss/index/store_id/1/" title="" rel="alternate" type="application/rss+xml">
+<style type="text/css">.megamenu-en { display: inline-block !important; } </style>
+    <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/fb11d7d6-012f-45c2-aac7-142bceec9d49.css">
+    <script type="text/javascript" src="https://www.bysymphony.com/js/jquery/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/pages/customer.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/amshopby.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/style-newsletterpopup.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/mageworx/searchautocomplete.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/global/reset.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/global/fonts.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/global/text.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/global/forms.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/global/master.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/pages/modal.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/pages/cms.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/breaks/1024.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/breaks/700.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/breaks/500.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/folk/css/folk.modal.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/brainwashed/symphony.css" media="all">
+<script type="text/javascript" src="https://media.bysymphony.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/varien/js.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/varien/form.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/newsletterpopup/script.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/mageworx/searchautocomplete.js"></script>
+<script type="text/javascript" src="https://www.bysymphony.com/skin/frontend/symphony/default/folk/js/folk.responsivity.js"></script>
+<script type="text/javascript" src="https://www.bysymphony.com/skin/frontend/symphony/default/folk/js/folk.megamenu.js"></script>
+<script type="text/javascript" src="https://www.bysymphony.com/skin/frontend/symphony/default/js/symphony.js"></script>
+<script type="text/javascript" src="https://www.bysymphony.com/skin/frontend/symphony/default/js/modernizr.js"></script>
+<script type="text/javascript" src="https://www.bysymphony.com/skin/frontend/symphony/default/js/ios-orientationchange-fix.js"></script>
+<script type="text/javascript" src="https://www.bysymphony.com/skin/frontend/symphony/default/js/scripts.js"></script>
+<script type="text/javascript" src="https://www.bysymphony.com/skin/frontend/symphony/default/folk/js/folk.modal.js"></script>
+<link href="https://www.bysymphony.com/notes/rss/index/store_id/1/" title="" rel="alternate" type="application/rss+xml">
+<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async=""></script>
+<link rel="canonical" href="https://www.bysymphony.com/privacy-policy/">
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://bysymphony.com/media/css/1daff8455a72a95cdec8c5aef00e2267.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/styles-ie.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://bysymphony.com/media/js/6bc0b387ff2060d4dcf14648b5873960.js"></script>
+<script type="text/javascript" src="https://media.bysymphony.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="https://www.bysymphony.com/skin/frontend/base/default/js/ie6.js"></script>
 <![endif]-->
 <!--[if lte IE 7]>
-<link rel="stylesheet" type="text/css" href="http://bysymphony.com/media/css/854d991ca0c114ecc1bce5f64cfcdb35.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/compat/lte-ie-7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/compat/forms.lte-ie-7.css" media="all" />
 <![endif]-->
 <!--[if lte IE 8]>
-<link rel="stylesheet" type="text/css" href="http://bysymphony.com/media/css/a9a0f27998a3f6b115a6d467c2e34d56.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/compat/lte-ie-8.css" media="all" />
 <![endif]-->
 <!--[if gte IE 8]>
-<link rel="stylesheet" type="text/css" href="http://bysymphony.com/media/css/fd680ca5a21575d234c1ec46ecf1c7a3.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/compat/gte-ie-8.css" media="all" />
 <![endif]-->
 <!--[if gte IE 9]>
-<link rel="stylesheet" type="text/css" href="http://bysymphony.com/media/css/412753a92f450ec8bfc9720355148479.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/compat/gte-ie-9.css" media="all" />
 <![endif]-->
 <!--[if (IE 9) | (IE 8)]>
-<link rel="stylesheet" type="text/css" href="http://bysymphony.com/media/css/44c964e2f6e1d87f5efa04985d70f423.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.bysymphony.com/skin/frontend/symphony/default/css/compat/forms.ie-8-9.css" media="all" />
 <![endif]-->
+    <link type="text/css" rel="stylesheet" href="https://www.bysymphony.com/skin//frontend/symphony/default/css/global/font-awesome.min.css">
+    
 
 <script type="text/javascript">
 //<![CDATA[
@@ -55,70 +102,52 @@ Mage.Cookies.domain   = '.bysymphony.com';
 </script>
 <link rel="alternate" hreflang="ar-ae" href="http://bysymphony.com/privacy-policy-ar"><script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><script type="text/javascript">
-</script>
-</head>
+        //]]></script></head>
 <body class=" cms-page-view cms-privacy-policy">
-<!--
-<!-- BEGIN GOOGLE ANALYTICS CODEs -->
-<!--<script type="text/javascript">-->
-<!-- <![CDATA[
-    //var _gaq = _gaq || []; -->
-        <!--
-    //(function() {
-        //var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        //var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    //})();
-
-//]]> -->
-<!--</script>-->
-<!-- END GOOGLE ANALYTICS CODE -->
+<script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No"}];</script>
 
 
-<!--404 Tracking-->
-<!--<script type="text/javascript">-->
+<script>
+    dataLayer = [];
+    
+    
+    </script>
 
-    <!-- var ref_referrer = document.referrer; -->
-    <!-- _gaq.push(['_trackEvent', 'Error', '404', 'page: ' + document.location.pathname + document.location.search + ' ref: ' + ref_referrer,,true]); -->
 
-<!--</script>-->
-<!--End 404 Tracking-->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MPG2QR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script type="text/javascript">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MPG2QR');
+</script>
+<!-- End Google Tag Manager --><script type="text/javascript">
         EsNewsSubscribers.setCookieLiveTime(100);
             EsNewsSubscribers.setCookieName('bysymphony_newsletterpopup');
-        EsNewsSubscribers.setBaseUrl('http://bysymphony.com/');
+        EsNewsSubscribers.setBaseUrl('https://www.bysymphony.com/');
 </script>
 <div id="esns_background_layer">
         <div id="esns_box_layer">
         <div id="esns_box_close"></div>
         <div id="esns_box_title">
                         <div id="esns_box_block_1">
-               Become An Insider            </div>
+               <span style=" text-transform:uppercase;">Become An Insider</span>            </div>
                                     <div id="esns_box_block_2">
-                Be the first to receive updates about new arrivals,  designers, deals, the latest trends and other fashion news now, from our editors to your inbox.            </div>
+                <span style="font-size:12px; text-transform:uppercase;">                 Be the first to receive updates about new arrivals,  designers, deals, the latest trends and other fashion news now, from our editors to your inbox.   </span>            </div>
                     </div>
 
                 <div id="esns_box_subscribe">
             <div id="esns_box_subscribe_response_error"></div>
             <div id="esns_box_subscribe_response_success"></div>
             <div id="esns_box_subscribe_form">
-                <div id="esns_box_subscribe_input"><input placeholder="Your email address" id="esns_email" name="subscribe_email" type="text"></div>
+                <div id="esns_box_subscribe_input">
+                    <input placeholder="Your email address" id="esns_email" name="subscribe_email" type="text"></div>
                 <div id="esns_box_subscribe_submit"><a href="javascript:void(0)" id="esns_submit">Sign Up Now</a></div>
             </div>
         </div>
     </div>
     </div>
-<!-- Google Tag Manager -->
-<script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No"}];</script>
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MPG2QR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MPG2QR');
-</script>
-<!-- End Google Tag Manager -->
         <div class="branding">
         		
-            	<div class="logo"><strong>BySymphony</strong><a href="http://bysymphony.com/" onclick="_gaq.push(['_trackEvent', 'Header link', 'Logo link', 'http://bysymphony.com/']);" title="BySymphony" class="logo"><img src="http://bysymphony.com/skin/frontend/symphony/default/images/logo.png" alt="BySymphony" title="BySymphony"></a></div>
+            	<div class="logo"><strong>BySymphony</strong><a href="https://www.bysymphony.com/" onclick="_gaq.push(['_trackEvent', 'Header link', 'Logo link', 'https://www.bysymphony.com/']);" title="BySymphony" class="logo"><img src="https://www.bysymphony.com/skin/frontend/symphony/default/images/logo.png" alt="BySymphony" title="BySymphony"></a></div>
         	        </div><div class="wrapper">
         <noscript>
         <div class="global-site-notice noscript">
@@ -135,8 +164,8 @@ Mage.Cookies.domain   = '.bysymphony.com';
                 <!--{CONTAINER_BREADCRUMBS_f2fd352b4ec378b60cf02455ed81ab11}-->    <div class="breadcrumbs">
         <ul class="left">
                             <li class="home">
-                                            <a href="http://bysymphony.com/" title="Go to Home Page">Home</a>
-                                                                <span><img src="http://bysymphony.com/skin/frontend/symphony/default/images/blank.gif"></span>
+                                            <a href="https://www.bysymphony.com/" title="Go to Home Page">Home</a>
+                                                                <span><img src="https://www.bysymphony.com/skin/frontend/symphony/default/images/blank.gif"></span>
                                     </li>
                             <li class="cms_page">
                                             <strong>Privacy Policy | BySymphony</strong>
@@ -146,8 +175,8 @@ Mage.Cookies.domain   = '.bysymphony.com';
         <ul class="right">
             
             <li class="back">
-                <span><img class="back" src="http://bysymphony.com/skin/frontend/symphony/default/images/blank.gif"> </span>
-                <a href="http://bysymphony.com/" title="Back">Back</a>
+                <span><img class="back" src="https://www.bysymphony.com/skin/frontend/symphony/default/images/blank.gif"> </span>
+                <a href="https://www.bysymphony.com/" title="Back">Back</a>
             </li>
         </ul>
         <div class="clear"></div>
@@ -199,49 +228,50 @@ Mage.Cookies.domain   = '.bysymphony.com';
     
     <ul class="mobile-store-switcher" style="display: none;">
         <li>
-                                                <a href="http://bysymphony.com/privacy-policy?___store=ar&amp;___from_store=default" title="Switch to our العربية Store">العربية</a>
-            
-        </li>
+                                                                                                                                                                          <a href="https://ar.bysymphony.com/privacy-policy/" title="Switch to our العربية Store">
+                            العربية 
+                        </a>
+                                               </li>
+        
     </ul>
     
         <div class="quick-access left">
             <ul class="links">
                 <li class="left-link first">
-                    <img class="icon-telephone" src="http://bysymphony.com/skin/frontend/symphony/default/images/blank.gif">
+                    <img class="icon-telephone" src="https://www.bysymphony.com/skin/frontend/symphony/default/images/blank.gif" alt="Telephone">
                     <span class="telephone">+971 4 3106904</span>
                 </li>                
-                <li class="left-link last"><span class="free-ship">Available WorldWide Shipping</span></li>
-                <div class="clear"></div>
+                <li class="left-link last"><span class="free-ship">WorldWide Shipping Available</span></li>
             </ul>
         </div>
         <div class="quick-access right">
             
 
 
-<ul class="top-link-container">
-            <li class="header-top-link first"><a class="top-anchor" href="https://bysymphony.com/customer/account/create/">Register</a></li>
-        <li class="header-top-divide"></li>
-        <li class="header-top-link"><a class="top-anchor" href="https://bysymphony.com/customer/account/login/">Sign In</a></li>
-        <li class="header-top-divide"></li>
-            <li class="form-language left">
+    <ul class="top-link-container">
+        <li class="header-top-link first"><a class="top-anchor" href="https://www.bysymphony.com/customer/account/create/">Register</a></li>
+<li class="header-top-divide"></li>
+<li class="header-top-link"><a class="top-anchor" href="https://www.bysymphony.com/customer/account/login/">Sign In</a></li>
+<li class="header-top-divide"></li>
+    <li class="form-language left">
         <!-- label class="left" for="custom-currency-selector">Your Currency:</label -->
         <select onchange="window.location.href=this.value" name="custom-currency-selector" id="popId-languageSelect">
-                            <option value="http://bysymphony.com/directory/currency/switch/currency/GBP/uenc/aHR0cDovL2J5c3ltcGhvbnkuY29tL3ByaXZhY3ktcG9saWN5/">
+                            <option value="https://www.bysymphony.com/directory/currency/switch/currency/GBP/uenc/aHR0cHM6Ly93d3cuYnlzeW1waG9ueS5jb20vcHJpdmFjeS1wb2xpY3k,/">
                     GBP                </option>
-                            <option value="http://bysymphony.com/directory/currency/switch/currency/EUR/uenc/aHR0cDovL2J5c3ltcGhvbnkuY29tL3ByaXZhY3ktcG9saWN5/">
+                            <option value="https://www.bysymphony.com/directory/currency/switch/currency/EUR/uenc/aHR0cHM6Ly93d3cuYnlzeW1waG9ueS5jb20vcHJpdmFjeS1wb2xpY3k,/">
                     EUR                </option>
-                            <option value="http://bysymphony.com/directory/currency/switch/currency/USD/uenc/aHR0cDovL2J5c3ltcGhvbnkuY29tL3ByaXZhY3ktcG9saWN5/" selected="SELECTED">
+                            <option value="https://www.bysymphony.com/directory/currency/switch/currency/USD/uenc/aHR0cHM6Ly93d3cuYnlzeW1waG9ueS5jb20vcHJpdmFjeS1wb2xpY3k,/" selected="SELECTED">
                     USD                </option>
-                            <option value="http://bysymphony.com/directory/currency/switch/currency/AED/uenc/aHR0cDovL2J5c3ltcGhvbnkuY29tL3ByaXZhY3ktcG9saWN5/">
+                            <option value="https://www.bysymphony.com/directory/currency/switch/currency/AED/uenc/aHR0cHM6Ly93d3cuYnlzeW1waG9ueS5jb20vcHJpdmFjeS1wb2xpY3k,/">
                     AED                </option>
                     </select>
     </li>
 
-    <li class="header-top-divide"></li>
-    <li class="header-top-link second-last">
-        <a class="top-anchor" id="cart-link" href="http://bysymphony.com/checkout/cart/">My Bag ( <span class="total_count">0</span> ) </a>
-        <div class="shopping-bag-container hide" id="shopping-bag-dropdown" style="display:none;">
-            <!--{CART_SIDEBAR_81e65ceec6daa723c6bb2130fe635e26}--><div class="uparrow"></div>
+<li class="header-top-divide"></li>
+<li class="header-top-link second-last">
+        <a class="top-anchor" id="cart-link" href="https://www.bysymphony.com/checkout/cart/">My Bag ( <span class="total_count">0</span> ) </a>
+    <div class="shopping-bag-container hide" id="shopping-bag-dropdown" style="display:none;">
+        <!--{CART_SIDEBAR_81e65ceec6daa723c6bb2130fe635e26}--><div class="uparrow"></div>
 <div class="block block-cart">
     <div class="block-content">
     
@@ -251,21 +281,69 @@ Mage.Cookies.domain   = '.bysymphony.com';
                 
     </div>
 </div>
-<!--/{CART_SIDEBAR_81e65ceec6daa723c6bb2130fe635e26}-->        </div>
-    </li>
-
+<!--/{CART_SIDEBAR_81e65ceec6daa723c6bb2130fe635e26}-->    </div>
+</li>
         <li class="header-top-divide"></li>
-    <li class="header-top-link last">
-	            <a href="http://bysymphony.com/privacy-policy?___store=ar&amp;___from_store=default" title="Switch to our العربية Store">العربية</a>
-        
-    </li>
-                
-</ul>
+         <li class="header-top-link">
+                                                                                                                                                                          <a class="language" id="ar_global" href="https://ar.bysymphony.com/privacy-policy/" title="Switch to our العربية Store">
+                            العربية 
+                        </a>
+                        <script type="text/javascript">
+
+                            jQuery(".language ").live('click', function () {
+                                
+                                var storeCode   =   this.id;
+                                jQuery.cookie("store_code", storeCode, { path: '/', domain: "bysymphony.com", expires: 1 });
+                                
+                            });
+
+                        </script>
+                                               </li>
+    <li class="header-top-divide"></li>
+        <li class="header-top-link last countries">
+                        <span class="current base">International</span> <span style="color:#fff;">▼</span><i class="fa fa-caret-down"></i>
+                        <ul class="website-switcher" style="display: none;">
+                            <li class="uparrow"><i class="fa fa-caret-up"></i></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                            <li id="en_uae">
+                                            <a href="https://en-uae.bysymphony.com/privacy-policy/" class="uae">UAE</a>
+                                        </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li id="en_saudi">
+                                            <a href="https://en-saudi.bysymphony.com/privacy-policy/" class="saudi">Saudi Arabia</a>
+                                        </li>
+                                                                                                                                                                                                                                                                                <li id="en_kuwait">
+                                            <a href="https://en-kuwait.bysymphony.com/privacy-policy/" class="kuwait">Kuwait</a>
+                                        </li>
+                                                                                                                                                                                </ul>
+                        <script type="text/javascript">
+
+                            jQuery(".website-switcher li ").live('click', function () {
+                                
+                                var storeCode   =   this.id;
+                                jQuery.cookie("store_code", storeCode, { path: '/', domain: "bysymphony.com", expires: 1 });
+                                
+                            });
+
+                        </script>
+
+                        <script type="text/javascript">
+                            jQuery('.header-top-link.last').mouseover(function () {
+                                jQuery('.header-top-link.last .website-switcher').show();
+                            });
+                            jQuery('.header-top-link.last').mouseout(function () {
+                                jQuery('.header-top-link.last .website-switcher').hide();
+                            });
+
+                        </script>
+
+                    </li>
+
+    
+    </ul>
 
         </div>
         <div class="clear"></div>
 
-                        <form id="search_mini_form" action="http://bysymphony.com/catalogsearch/result/" method="get">
+                        <form id="search_mini_form" action="https://www.bysymphony.com/catalogsearch/result/" method="get">
     <div class="form-search">
         <input id="search" type="text" name="q" value="" class="input-text" maxlength="128">
         <button type="submit" title="Search" class="button"></button>
@@ -278,7 +356,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
             }
 
             var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search');
-            searchForm.initAutocomplete('http://bysymphony.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            searchForm.initAutocomplete('https://www.bysymphony.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
             jQuery("#search_mini_form #search").blur(function(e) {
                 if (jQuery(this).val().toLowerCase() != "search")
                 {
@@ -307,7 +385,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
 
 <div class="search-container mobile">
     <div class="search-main">
-        <form id="search_under_mini_form" action="http://bysymphony.com/catalogsearch/result/" method="get">
+        <form id="search_under_mini_form" action="https://www.bysymphony.com/catalogsearch/result/" method="get">
     <div class="form-search">
         <input id="undersearch" type="text" name="q" value="" class="input-text" maxlength="128">
         <button type="submit" title="Search" class="button"></button>
@@ -320,7 +398,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
             }
 
             var underSearchForm = new Varien.searchForm('search_under_mini_form', 'undersearch', 'Search');
-            underSearchForm.initAutocomplete('http://bysymphony.com/catalogsearch/ajax/suggest/', 'under_search_autocomplete');
+            underSearchForm.initAutocomplete('https://www.bysymphony.com/catalogsearch/ajax/suggest/', 'under_search_autocomplete');
             jQuery("#search_under_mini_form #undersearch").blur(function(e) {
                 if (jQuery(this).val().toLowerCase() != "search")
                 {
@@ -344,23 +422,21 @@ Mage.Cookies.domain   = '.bysymphony.com';
 <div class="nav-main">
     <div class="megamenu-container">
     <ul class="megamenu-navigation">
-                    <li class="menu-item"><a href="http://bysymphony.com/new-arrivals" id="nav-item-1">New Arrivals</a></li>
-                    <li class="menu-item"><a href="http://bysymphony.com/designers/all" id="nav-item-2">Designers</a></li>
-                    <li class="menu-item"><a href="http://bysymphony.com/clothing" id="nav-item-3">Clothing</a></li>
-                    <li class="menu-item"><a href="http://bysymphony.com/designer-shoes" id="nav-item-4">Shoes</a></li>
-                    <li class="menu-item"><a href="http://bysymphony.com/designer-handbags" id="nav-item-5">Bags</a></li>
-                    <li class="menu-item"><a href="http://bysymphony.com/accessories" id="nav-item-6">Accessories</a></li>
-                    <li class="menu-item"><a href="http://bysymphony.com/gifts" id="nav-item-11">Gifts</a></li>
-                    <li class="menu-item"><a href="http://bysymphony.com/sale" id="nav-item-9">Sale</a></li>
-                    <li class="menu-item"><a href="http://bysymphony.com/notes" id="nav-item-8">Notes</a></li>
-                    <li class="menu-item"><a href="http://bysymphony.com/our-store" id="nav-item-10">Our store</a></li>
+                    <li class="menu-item "><a href="https://www.bysymphony.com/new-arrivals/" id="nav-item-1">New Arrivals</a></li>
+                    <li class="menu-item "><a href="https://www.bysymphony.com/clothing/" id="nav-item-3">Clothing</a></li>
+                    <li class="menu-item "><a href="https://www.bysymphony.com/accessories/" id="nav-item-6">Accessories</a></li>
+                    <li class="menu-item "><a href="https://www.bysymphony.com/designer-shoes/" id="nav-item-4">Shoes</a></li>
+                    <li class="menu-item "><a href="https://www.bysymphony.com/designer-handbags/" id="nav-item-5">Bags</a></li>
+                    <li class="menu-item sale-menu"><a href="https://www.bysymphony.com/sale/" id="nav-item-9">Sale</a></li>
+                    <li class="menu-item "><a href="https://www.bysymphony.com/designers/all" id="nav-item-2">Designers</a></li>
+                    <li class="menu-item "><a href="https://www.bysymphony.com/notes/a-story-of-style/a-story-of-style" id="nav-item-8">Notes</a></li>
             </ul>
     <div class="clear"></div>
 </div>    <div class="mobile-navigation mobile">
         <ul class="inner-container mobile-menu">
     <li class="menu-item item-1 first mobile_menu_browse"><a>Browse</a></li>
-    <li class="menu-item item-2 "><a href="https://bysymphony.com/customer/account/" id="mob-item-2">My Account</a></li>
-    <li class="menu-item item-3 last"><a href="http://bysymphony.com/checkout/cart/" id="mob-item-3">My Bag</a></li>
+    <li class="menu-item item-2 "><a href="https://www.bysymphony.com/customer/account/" id="mob-item-2">My Account</a></li>
+    <li class="menu-item item-3 last"><a href="https://www.bysymphony.com/checkout/cart/" id="mob-item-3">My Bag</a></li>
 </ul>
 <div class="clear"></div>
     </div>
@@ -373,8 +449,8 @@ Mage.Cookies.domain   = '.bysymphony.com';
     
     		<div class="up-arrow"></div>
 
-        <div class="custom-url megamenu-en" style="display:none"><a href="http://bysymphony.com/new-arrivals">All New Arrivals</a></div>
-<div class="custom-url megamenu-ar" style="display:none"><a href="http://bysymphony.com/new-arrivals">جميع المنتجات التي وصلت حديثا</a></div>
+        <div class="custom-url megamenu-en" style="display:none"><a href="https://www.bysymphony.com/new-arrivals/">All New Arrivals</a></div>
+<div class="custom-url megamenu-ar" style="display:none"><a href="https://www.bysymphony.com/new-arrivals/">جميع المنتجات التي وصلت حديثا</a></div>
 
 
 
@@ -384,19 +460,13 @@ Mage.Cookies.domain   = '.bysymphony.com';
                         
             
             
-                                    <li><a href="http://bysymphony.com/new-arrivals/designer-clothing">Clothing</a></li>
+                                    <li><a href="https://www.bysymphony.com/new-arrivals/designer-clothing/">Clothing</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/new-arrivals/designer-shoes">Shoes</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/new-arrivals/designer-bags">Bags</a></li>
+                                    <li><a href="https://www.bysymphony.com/new-arrivals/designer-shoes/">Shoes</a></li>
 
                     </ul>
         <ul class="left">
@@ -404,14 +474,16 @@ Mage.Cookies.domain   = '.bysymphony.com';
             
 
             
-                                    <li><a href="http://bysymphony.com/new-arrivals/designer-accessories">Accessories</a></li>
+                                    <li><a href="https://www.bysymphony.com/new-arrivals/designer-bags/">Bags</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/new-arrivals/new-in-gifts">Gifts</a></li>
+                                    <li><a href="https://www.bysymphony.com/new-arrivals/designer-accessories/">Accessories</a></li>
 
+                    </ul>
+        <ul class="left">
             
             
 
@@ -434,12 +506,326 @@ Mage.Cookies.domain   = '.bysymphony.com';
         </script>
     </div>
 
+        <div class="megamenu" id="megamenu-3" style="display:none;">
+    
+    		<div class="up-arrow"></div>
+
+        <div class="custom-url megamenu-en" style="display: none"><a href="https://www.bysymphony.com/clothing/">All Clothing</a></div>
+<div class="custom-url megamenu-ar" style="display: none"><a href="https://www.bysymphony.com/clothing/">جميع الملابس</a></div>
+
+
+
+
+    
+    <div class="subcategories ">
+        <ul class="left">
+                        
+            
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/designer-dresses/">Dresses</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/designer-tops/">Tops</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/designer-skirts/">Skirts</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/designer-pants/">Pants</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/designer-jeans/">Jeans</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/designer-knitwear/">Knitwear</a></li>
+
+                    </ul>
+        <ul class="left">
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/designer-coats/">Coats</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/designer-jackets/">Jackets</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/jumpsuits/">Jumpsuits</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/designer-abayas/">Abayas</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/clothing/beachwear/">Beachwear</a></li>
+
+            
+            
+
+                                </ul>
+        <div class="clear"></div>
+    </div>
+
+
+    <div class="new-in">
+        <div class="new-image">
+            <a href="/clothing/designer-tops"><img alt="" src="&#10;&#10;https://media.bysymphony.com/media/megamenu/mega-menu-cloth.jpg"></a>
+        </div>
+        <!--h5 class="gs"><a href="/clothing/designer-tops"></a></h5-->
+
+    </div>
+    <div class="clear"></div>
+
+
+        <script type="text/javascript">
+        megamenus['nav-item-3'] = 'megamenu-3';
+        </script>
+    </div>
+
+        <div class="megamenu" id="megamenu-6" style="display:none;">
+    
+    		<div class="up-arrow"></div>
+
+        <div class="custom-url megamenu-en" style="display: none"><a href="https://www.bysymphony.com/accessories/">All Accessories</a></div>
+<div class="custom-url megamenu-ar" style="display: none"><a href="https://www.bysymphony.com/accessories/">جميع الإكسسوارات</a></div>
+
+
+
+    
+    <div class="subcategories ">
+        <ul class="left">
+                        
+            
+            
+                                    <li><a href="https://www.bysymphony.com/accessories/designer-jewellery/">Jewellery</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/accessories/designer-sunglasses/">Sunglasses</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/accessories/designer-scarves/">Scarves</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/accessories/designer-belts/">Belts</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/accessories/designer-gloves/">Gloves</a></li>
+
+                    </ul>
+        <ul class="left">
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/accessories/designer-hats/">Hats</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/accessories/hair-accessories/">Hair Accessories</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/accessories/key-fobs/">Key Fobs</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/accessories/technology/">Technology</a></li>
+
+            
+            
+
+                                </ul>
+        <div class="clear"></div>
+    </div>
+
+
+    <div class="new-in">
+        <div class="new-image">
+            <a href="/accessories/designer-jewellery"><img alt="" src="https://media.bysymphony.com/media/megamenu/mega-menu-accessories.jpg"></a>
+        </div>
+        <!--h5 class="gs"><a href="/accessories/designer-jewellery"></a></h5-->
+
+    </div>
+    <div class="clear"></div>
+
+
+        <script type="text/javascript">
+        megamenus['nav-item-6'] = 'megamenu-6';
+        </script>
+    </div>
+
+        <div class="megamenu" id="megamenu-4" style="display:none;">
+    
+    		<div class="up-arrow"></div>
+
+        <div class="custom-url megamenu-en" style="display: none"><a href="https://www.bysymphony.com/designer-shoes/">All Shoes</a></div>
+<div class="custom-url megamenu-ar" style="display: none"><a href="https://www.bysymphony.com/designer-shoes/">جميع الاحذيه</a></div>
+
+
+
+    
+    <div class="subcategories ">
+        <ul class="left">
+                        
+            
+            
+                                    <li><a href="https://www.bysymphony.com/designer-shoes/pumps/">Pumps</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/designer-shoes/sandals/">Sandals</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/designer-shoes/flats/">Flats</a></li>
+
+                    </ul>
+        <ul class="left">
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/designer-shoes/sneakers/">Sneakers</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/designer-shoes/boots/">Boots</a></li>
+
+            
+            
+
+                                </ul>
+        <div class="clear"></div>
+    </div>
+
+
+    <div class="new-in">
+        <div class="new-image">
+            <a href="/designer-shoes"><img alt="" src="https://media.bysymphony.com/media/megamenu/mega-menu-shoes.jpg"></a>
+        </div>
+        <!--h5 class="gs"><a href="/designer-shoes"></a></h5-->
+
+    </div>
+    <div class="clear"></div>
+
+
+        <script type="text/javascript">
+        megamenus['nav-item-4'] = 'megamenu-4';
+        </script>
+    </div>
+
+        <div class="megamenu" id="megamenu-5" style="display:none;">
+    
+    		<div class="up-arrow"></div>
+
+        <div class="custom-url megamenu-en" style="display: none"><a href="https://www.bysymphony.com/designer-handbags/">All Bags</a></div>
+<div class="custom-url megamenu-ar" style="display: none"><a href="https://www.bysymphony.com/designer-handbags/">جميع الحقائب</a></div>
+
+
+
+
+    
+    <div class="subcategories ">
+        <ul class="left">
+                        
+            
+            
+                                    <li><a href="https://www.bysymphony.com/designer-handbags/clutches/">Clutch Bags</a></li>
+
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/designer-handbags/totes/">Tote Bags</a></li>
+
+                    </ul>
+        <ul class="left">
+            
+            
+
+            
+                                    <li><a href="https://www.bysymphony.com/designer-handbags/shoulder/">Shoulder Bags</a></li>
+
+            
+            
+
+                                </ul>
+        <div class="clear"></div>
+    </div>
+
+
+    <div class="new-in">
+        <div class="new-image">
+            <a href="/designer-handbags"><img alt="" src="https://media.bysymphony.com/media/megamenu/mega-menu-bags.jpg"></a>
+        </div>
+        <!--h5 class="gs"><a href="/designer-handbags"></a></h5-->
+
+    </div>
+    <div class="clear"></div>
+
+
+        <script type="text/javascript">
+        megamenus['nav-item-5'] = 'megamenu-5';
+        </script>
+    </div>
+
         <div class="megamenu" id="megamenu-2" style="display:none;">
     
     		<div class="up-arrow"></div>
 
-        <div class="custom-url megamenu-en" style="display: none"><a href="http://bysymphony.com/designers/all/">All Designers A - Z</a></div>
-<div class="custom-url megamenu-ar" style="display: none"><a href="http://bysymphony.com/designers/all/">جميع المصممين من ال أ الى الياء</a></div>
+        <div class="custom-url megamenu-en" style="display: none"><a href="https://www.bysymphony.com/designers/all/">All Designers A - Z</a></div>
+<div class="custom-url megamenu-ar" style="display: none"><a href="https://www.bysymphony.com/designers/all/">جميع المصممين من ال أ الى الياء</a></div>
 
 
 
@@ -450,63 +836,79 @@ Mage.Cookies.domain   = '.bysymphony.com';
                         
             
             
-                                    <li><a href="http://bysymphony.com/designers/alessandra-rich">Alessandra Rich</a></li>
+                                    <li><a href="https://www.bysymphony.com/designers/alexander-mcqueen/">Alexander McQueen</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/alexander-mcqueen">Alexander McQueen</a></li>
+                                    <li><a href="https://www.bysymphony.com/designers/balenciaga/">Balenciaga</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/balenciaga">Balenciaga</a></li>
+                                    <li><a href="https://www.bysymphony.com/designers/bottega-veneta/">Bottega Veneta</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/bottega-veneta">Bottega Veneta</a></li>
+                                    <li><a href="https://www.bysymphony.com/designers/carolina-herrera/">Carolina Herrera</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/emporio-armani">Emporio Armani</a></li>
+                                    <li><a href="https://www.bysymphony.com/designers/emporio-armani/">Emporio Armani</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/gucci">Gucci</a></li>
+                                    <li><a href="https://www.bysymphony.com/designers/gucci/">Gucci</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/joseph">Joseph</a></li>
+                                    <li><a href="https://www.bysymphony.com/designers/peter-pilotto/">Peter Pilotto</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/msgm">MSGM</a></li>
+                                    <li><a href="https://www.bysymphony.com/designers/roberto-cavalli/">Roberto Cavalli</a></li>
 
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/peter-pilotto">Peter Pilotto</a></li>
+                                    <li><a href="https://www.bysymphony.com/designers/saint-laurent/">Saint Laurent</a></li>
 
-                    </ul>
-        <ul class="left">
             
             
 
             
-                                    <li><a href="http://bysymphony.com/designers/saint-laurent">Saint Laurent</a></li>
+                                    <li><a href="https://www.bysymphony.com/designers/stella-mccartney/">Stella McCartney</a></li>
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
 
             
             
@@ -550,339 +952,33 @@ Mage.Cookies.domain   = '.bysymphony.com';
         megamenus['nav-item-2'] = 'megamenu-2';
         </script>
     </div>
-
-        <div class="megamenu" id="megamenu-3" style="display:none;">
-    
-    		<div class="up-arrow"></div>
-
-        <div class="custom-url megamenu-en" style="display: none"><a href="http://bysymphony.com/clothing">All Clothing</a></div>
-<div class="custom-url megamenu-ar" style="display: none"><a href="http://bysymphony.com/clothing">جميع الملابس</a></div>
-
-
-
-    
-    <div class="subcategories ">
-        <ul class="left">
-                        
-            
-            
-                                    <li><a href="http://bysymphony.com/clothing/designer-dresses">Dresses</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/clothing/designer-tops">Tops</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/clothing/designer-skirts">Skirts</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/clothing/designer-pants">Pants</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/clothing/designer-jeans">Jeans</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/clothing/designer-knitwear">Knitwear</a></li>
-
-                    </ul>
-        <ul class="left">
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/clothing/designer-coats">Coats</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/clothing/designer-jackets">Jackets</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/clothing/jumpsuits">Jumpsuits</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/clothing/designer-abayas">Abayas</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/clothing/beachwear">Beachwear</a></li>
-
-            
-            
-
-                                </ul>
-        <div class="clear"></div>
-    </div>
-
-
-    <div class="new-in">
-        <div class="new-image">
-            <a href="/clothing/dresses"><img alt="" src="&#10;&#10;http://assets.bysymphonymedia.com/aH9SqOvG7FZwfhO$97NYvmRjaIwj.jpg?q=80&amp;p=2"></a>
-        </div>
-        <h5 class="gs"><a href="/clothing/dresses"></a></h5>
-
-    </div>
-    <div class="clear"></div>
-
-
-        <script type="text/javascript">
-        megamenus['nav-item-3'] = 'megamenu-3';
-        </script>
-    </div>
-
-        <div class="megamenu" id="megamenu-4" style="display:none;">
-    
-    		<div class="up-arrow"></div>
-
-        <div class="custom-url megamenu-en" style="display: none"><a href="http://bysymphony.com/designer-shoes">All Shoes</a></div>
-<div class="custom-url megamenu-ar" style="display: none"><a href="http://bysymphony.com/designer-shoes">جميع الاحذيه</a></div>
-
-
-
-    
-    <div class="subcategories ">
-        <ul class="left">
-                        
-            
-            
-                                    <li><a href="http://bysymphony.com/designer-shoes/pumps">Pumps</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/designer-shoes/sandals">Sandals</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/designer-shoes/flats">Flats</a></li>
-
-                    </ul>
-        <ul class="left">
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/designer-shoes/sneakers">Sneakers</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/designer-shoes/boots">Boots</a></li>
-
-            
-            
-
-                                </ul>
-        <div class="clear"></div>
-    </div>
-
-
-    <div class="new-in">
-        <div class="new-image">
-            <a href="/designer-shoes"><img alt="" src="http://assets.bysymphonymedia.com/ZOPvG2yjd511NsL3N9dwU8Tjw6oj.jpg?q=80&amp;p=2"></a>
-        </div>
-        <h5 class="gs"><a href="/designer-shoes"></a></h5>
-
-    </div>
-    <div class="clear"></div>
-
-
-        <script type="text/javascript">
-        megamenus['nav-item-4'] = 'megamenu-4';
-        </script>
-    </div>
-
-        <div class="megamenu" id="megamenu-5" style="display:none;">
-    
-    		<div class="up-arrow"></div>
-
-        <div class="custom-url megamenu-en" style="display: none"><a href="http://www.bysymphony.com/designer-handbags">All Bags</a></div>
-<div class="custom-url megamenu-ar" style="display: none"><a href="http://www.bysymphony.com/designer-handbags">جميع الحقائب</a></div>
-
-
-
-
-    
-    <div class="subcategories no-image">
-        <ul class="left">
-                        
-            
-            
-                                    <li><a href="http://bysymphony.com/designer-handbags/clutches">Clutch Bags</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/designer-handbags/totes">Tote Bags</a></li>
-
-                    </ul>
-        <ul class="left">
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/designer-handbags/shoulder">Shoulder Bags</a></li>
-
-            
-            
-
-                                </ul>
-        <div class="clear"></div>
-    </div>
-
-
-    <div class="clear"></div>
-
-    <script type="text/javascript">
-        var menuItem = '#megamenu-5';
-        jQuery(menuItem).css({
-            'width' :'20%'
-        });
-    </script>
-
-        <script type="text/javascript">
-        megamenus['nav-item-5'] = 'megamenu-5';
-        </script>
-    </div>
-
-        <div class="megamenu" id="megamenu-6" style="display:none;">
-    
-    		<div class="up-arrow"></div>
-
-        <div class="custom-url megamenu-en" style="display: none"><a href="http://www.bysymphony.com/accessories">All Accessories</a></div>
-<div class="custom-url megamenu-ar" style="display: none"><a href="http://www.bysymphony.com/accessories">جميع الاكسسوارا</a></div>
-
-
-
-    
-    <div class="subcategories ">
-        <ul class="left">
-                        
-            
-            
-                                    <li><a href="http://bysymphony.com/accessories/designer-jewellery">Jewellery</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/accessories/designer-sunglasses">Sunglasses</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/accessories/designer-scarves">Scarves</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/accessories/designer-belts">Belts</a></li>
-
-                    </ul>
-        <ul class="left">
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/accessories/designer-gloves">Gloves</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/accessories/designer-hats">Hats</a></li>
-
-            
-            
-
-            
-                                    <li><a href="http://bysymphony.com/accessories/key-fobs">Key Fobs</a></li>
-
-            
-            
-
-                                </ul>
-        <div class="clear"></div>
-    </div>
-
-
-    <div class="new-in">
-        <div class="new-image">
-            <a href="/accessories"><img alt="" src="http://assets.bysymphonymedia.com/4L1ku8iIhvStK5vGGQuFir1BuHMj.jpg?q=80&amp;p=2"></a>
-        </div>
-        <h5 class="gs"><a href="/accessories"></a></h5>
-
-    </div>
-    <div class="clear"></div>
-
-
-        <script type="text/javascript">
-        megamenus['nav-item-6'] = 'megamenu-6';
-        </script>
-    </div>
         </div>
         <div class="mobile-dropdown-menu mobile">
             <div class="indicator up-arrow"></div>
             <ul class="mobile-dropdown-navigation">
                         <li class="menu-item item-1 first ">
-        	<a href="http://bysymphony.com/new-arrivals" id="nav-item-1">New Arrivals</a>
+        	<a href="https://www.bysymphony.com/new-arrivals/" id="mobile-nav-item-1">New Arrivals</a>
           </li>
                     <li class="menu-item item-2 ">
-        	<a href="http://bysymphony.com/designers/all" id="nav-item-2">Designers</a>
+        	<a href="https://www.bysymphony.com/clothing/" id="mobile-nav-item-3">Clothing</a>
           </li>
                     <li class="menu-item item-3 ">
-        	<a href="http://bysymphony.com/clothing" id="nav-item-3">Clothing</a>
+        	<a href="https://www.bysymphony.com/accessories/" id="mobile-nav-item-6">Accessories</a>
           </li>
                     <li class="menu-item item-4 ">
-        	<a href="http://bysymphony.com/designer-shoes" id="nav-item-4">Shoes</a>
+        	<a href="https://www.bysymphony.com/designer-shoes/" id="mobile-nav-item-4">Shoes</a>
           </li>
                     <li class="menu-item item-5 ">
-        	<a href="http://bysymphony.com/designer-handbags" id="nav-item-5">Bags</a>
+        	<a href="https://www.bysymphony.com/designer-handbags/" id="mobile-nav-item-5">Bags</a>
           </li>
                     <li class="menu-item item-6 ">
-        	<a href="http://bysymphony.com/accessories" id="nav-item-6">Accessories</a>
+        	<a href="https://www.bysymphony.com/sale/" id="mobile-nav-item-9">Sale</a>
           </li>
                     <li class="menu-item item-7 ">
-        	<a href="http://bysymphony.com/gifts" id="nav-item-11">Gifts</a>
+        	<a href="https://www.bysymphony.com/designers/all" id="mobile-nav-item-2">Designers</a>
           </li>
-                    <li class="menu-item item-8 ">
-        	<a href="http://bysymphony.com/sale" id="nav-item-9">Sale</a>
-          </li>
-                    <li class="menu-item item-9 ">
-        	<a href="http://bysymphony.com/notes" id="nav-item-8">Notes</a>
-          </li>
-                    <li class="menu-item item-10 last">
-        	<a href="http://bysymphony.com/our-store" id="nav-item-10">Our store</a>
+                    <li class="menu-item item-8 last">
+        	<a href="https://www.bysymphony.com/notes/a-story-of-style/a-story-of-style" id="mobile-nav-item-8">Notes</a>
           </li>
             </ul>        </div>
     </div>
@@ -901,7 +997,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
 <div class="newsletter-inner">
     <h5>Newsletter Sign Up</h5>
     <p>Stay up to date with all of our exclusive news, events and promotions.</p>
-    <form action="https://bysymphony.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail" onsubmit="newsletterSubscriberFormDetail.submit('http://bysymphony.com/ajax_newsletter/index/new'); return false;">
+    <form action="https://www.bysymphony.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail" onsubmit="newsletterSubscriberFormDetail.submit('https://www.bysymphony.com/ajax_newsletter/index/new/'); return false;">
 
 
         <div class="newsletter-input">
@@ -1042,30 +1138,102 @@ Mage.Cookies.domain   = '.bysymphony.com';
         </div>
 
         <div class="bottom_links left">
-        
+
             <div class="footer-inner cms_links english left">
 <div class="about-us left">
 <h5>About Us</h5>
 <ul>
-<li><a href="http://bysymphony.com/about-us">Symphony</a></li>
-<li><a href="http://bysymphony.com/careers">Careers</a></li>
-</ul></div>
+<li><a href="https://www.bysymphony.com/about-us">Symphony</a></li>
+<li><a href="https://www.bysymphony.com/our-store">Our Store</a></li>
+<li><a href="https://www.bysymphony.com/careers">Careers</a></li>
+</ul>
+<style type="text/css">
+
+.sub-topic .desktop.tablet .sub-topic-left img {height:auto !important;}
+.page-designer .main-banner .desktop.tablet .main-banner-button a {
+letter-spacing:2px;
+font-weight:bold;
+}
+.page-designer .main-banner:hover .desktop.tablet .main-banner-button a {
+background: #000 !important; 
+color: #fff !important;
+}
+.category-button a, .category-button a span {
+font-weight: bold;
+}
+.category-type-top:hover  .category-button, .category-type-top:hover  .category-button a, .category-type-top:hover .category-button a span, .category-type-top:hover  .category-button:hover a span, .notes:hover  .notes-content-button-wrapper > a > span, .category-type-bottom:hover  .category-button, .category-type-bottom:hover  .category-button a, .category-type-bottom:hover .category-button a span, .category-type-bottom:hover  .category-button:hover a span
+ {
+background:#000 !important ;
+color:#fff !important ;
+}
+
+.notes .desktop.tablet .notes-content-button-wrapper > a > span , .mobileView.notes a.notes-button
+ {
+font-size: 0.9em !important;
+margin: 1em auto 0 !important;
+width:12em !important;
+font-weight: bold;
+
+}
+
+.notes .desktop.tablet .notes-secondary-content .notes-secondary-content-title {
+font-size:2em !important;
+letter-spacing: 2px !important;
+line-height: 1em !important;
+}
+
+.notes .desktop.tablet .notes-secondary-content .notes-secondary-content-title {
+position: absolute !important; 
+top: 245px !important;
+width: 386px !important;
+}
+
+.notes .desktop.tablet .notes-content {
+top: 377px !important;
+}
+
+</style>
+</div>
 <div class="customer-care left">
 <h5>Customer Care</h5>
 <ul>
-<li><a href="http://bysymphony.com/contact-us">Contact Us</a></li>
-<li><a href="http://bysymphony.com/terms-and-conditions">Terms &amp; Conditions</a></li>
-<li><a href="http://bysymphony.com/shipping-information">Shipping Information</a></li>
-<li><a href="http://bysymphony.com/returns">Returns &amp; Exchanges</a></li>
-<li><a href="http://bysymphony.com/cookie-policy">Cookie Policy</a></li>
-<li><a href="http://bysymphony.com/privacy-policy">Privacy Policy</a></li>
-<li style="display: none;"><a class="no-popup" href="http://bysymphony.com/catalog/seo_sitemap/category">Site Map</a></li>
+<li><a href="https://www.bysymphony.com/contact-us">Contact Us</a></li>
+<li><a href="https://www.bysymphony.com/terms-and-conditions">Terms &amp; Conditions</a></li>
+<li><a href="https://www.bysymphony.com/shipping-information">Shipping Information</a></li>
+<li><a href="https://www.bysymphony.com/returns">Returns &amp; Exchanges</a></li>
+<li><a href="https://www.bysymphony.com/cookie-policy">Cookie Policy</a></li>
+<li><a href="https://www.bysymphony.com/privacy-policy">Privacy Policy</a></li>
+<li style="display: none;"><a class="no-popup" href="https://www.bysymphony.com/catalog/seo_sitemap/category">Site Map</a></li>
 </ul></div>
 <div class="clear">&nbsp;</div>
-</div> 
-            
-                        
-
+</div>
+<style type="text/css">
+.sub-topic .desktop.tablet .sub-topic-right img {height:auto; }
+</style>
+                        <div class="footer-inner cms_links english left">
+                <div class="top-categories left">
+                    <h5>Top Categories</h5>
+                    <ul>
+                                                    <li><a href="https://www.bysymphony.com/clothing/designer-dresses/">Designer Dresses</a></li>
+                                                    <li><a href="https://www.bysymphony.com/clothing/">Designer Clothing</a></li>
+                                                    <li><a href="https://www.bysymphony.com/designer-shoes/">Designer Shoes</a></li>
+                                                    <li><a href="https://www.bysymphony.com/designer-handbags/">Designer Bags</a></li>
+                                                    <li><a href="https://www.bysymphony.com/accessories/">Designer Accessories</a></li>
+                                                    <li><a href="https://www.bysymphony.com/clothing/designer-dresses/gowns/">Designer Gowns</a></li>
+                                            </ul>
+                </div>
+                <div class="top-brands right">
+                    <h5>Top Designers</h5>
+                    <ul>
+                                                    <li><a href="https://www.bysymphony.com/designers/alexander-mcqueen/">Alexander McQueen</a></li>
+                                                    <li><a href="https://www.bysymphony.com/designers/bottega-veneta/">Bottega Veneta</a></li>
+                                                    <li><a href="https://www.bysymphony.com/designers/carolina-herrera/">Carolina Herrera</a></li>
+                                                    <li><a href="https://www.bysymphony.com/designers/gucci/">Gucci</a></li>
+                                                    <li><a href="https://www.bysymphony.com/designers/roberto-cavalli/">Roberto Cavalli</a></li>
+                                                    <li><a href="https://www.bysymphony.com/designers/stella-mccartney/">Stella McCartney</a></li>
+                                            </ul>
+                </div>
+            </div>
         </div>
 
         <div class="footer-inner social_links left">
@@ -1073,27 +1241,27 @@ Mage.Cookies.domain   = '.bysymphony.com';
         <h5>Follow bysymphony.com</h5>
 
 <div class="social-inner">
-  <a class="social-icon facebook" target="_blank" href="http://www.facebook.com/BySymphony" onclick="_gaq.push(['_trackEvent', 'facebook', 'click', 'http://bysymphony.com/privacy-policy']);"></a>
-  <a class="social-icon twitter" target="_blank" href="http://www.twitter.com/BySymphony" onclick="_gaq.push(['_trackEvent', 'twitter', 'click','http://bysymphony.com/privacy-policy']);"></a>
-  <a class="social-icon pinterest" target="_blank" href="http://www.pinterest.com/BySymphony" onclick="_gaq.push(['_trackEvent', 'Pinterest', 'click','http://bysymphony.com/privacy-policy']);"></a>
+  <a class="social-icon facebook" target="_blank" href="http://www.facebook.com/BySymphony" onclick="_gaq.push(['_trackEvent', 'facebook', 'click', 'https://www.bysymphony.com/privacy-policy/']);"></a>
+  <a class="social-icon twitter" target="_blank" href="http://www.twitter.com/BySymphony" onclick="_gaq.push(['_trackEvent', 'twitter', 'click','https://www.bysymphony.com/privacy-policy/']);"></a>
+  <a class="social-icon pinterest" target="_blank" href="http://www.pinterest.com/BySymphony" onclick="_gaq.push(['_trackEvent', 'Pinterest', 'click','https://www.bysymphony.com/privacy-policy/']);"></a>
   <div class="clear mobile"></div>
-  <a class="social-icon tumblr" target="_blank" href="http://www.bysymphony.tumblr.com" onclick="_gaq.push(['_trackEvent', 'tumblr', 'click','http://bysymphony.com/privacy-policy']);"></a>
+  <a class="social-icon tumblr" target="_blank" href="http://www.bysymphony.tumblr.com" onclick="_gaq.push(['_trackEvent', 'tumblr', 'click','https://www.bysymphony.com/privacy-policy/']);"></a>
   <div class="clear desktop"></div>
-  <a class="social-icon desktop"></a>
-  <a class="social-icon youtube" target="_blank" href="http://www.youtube.com/user/SymphonyDubai" onclick="_gaq.push(['_trackEvent', 'youtube', 'click','http://bysymphony.com/privacy-policy']);"></a>
-  <a class="social-icon instagram" target="_blank" href="http://www.instagram.com/BySymphony" onclick="_gaq.push(['_trackEvent', 'instagram', 'click','http://bysymphony.com/privacy-policy']);"></a>
-  <a class="social-icon desktop"></a>
+  <a class="social-icon youtube" target="_blank" href="http://www.youtube.com/user/SymphonyDubai" onclick="_gaq.push(['_trackEvent', 'youtube', 'click','https://www.bysymphony.com/privacy-policy/']);"></a>
+  <a class="social-icon instagram" target="_blank" href="http://www.instagram.com/BySymphony" onclick="_gaq.push(['_trackEvent', 'instagram', 'click','https://www.bysymphony.com/privacy-policy/']);"></a>
+    <div class="clear mobile"></div>
+    <a class="social-icon gplus" target="_blank" href="https://plus.google.com/+Bysymphony" onclick="_gaq.push(['_trackEvent', 'gplus', 'click','https://www.bysymphony.com/privacy-policy/']);"></a>
   <div class="clear"></div>
 </div>        </div>
         <div class="clear"></div>
 
         <div class="verisign left">
-            <p class="grey"><a target="_blank" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=bysymphony.com&amp;lang=en"><img src="http://bysymphony.com/skin/frontend/symphony/default/images/verisign.jpg" alt="Verisign" title="Verisign"></a> 
-            <span>© Copyright 2012-2014 BySymphony</span>
-            
+            <p class="grey"><a target="_blank" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=bysymphony.com&amp;lang=en"><img src="https://www.bysymphony.com/skin/frontend/symphony/default/images/verisign.jpg" alt="Verisign" title="Verisign"></a>
+                <span>© Copyright 2012-2015 BySymphony</span>
+
             </p>
         </div>
-       
+
         <div class="clear"></div>
 
 
@@ -1105,7 +1273,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
     jQuery(window).load(function(e) {
         jQuery(window).resize(function(e) {
             jQuery(".footer-inner").css({height: "auto"});
-            
+
             var footer_height = 0;
             jQuery(".footer-inner").each(function () {
                 if (jQuery(this).height() > footer_height)
@@ -1118,11 +1286,9 @@ Mage.Cookies.domain   = '.bysymphony.com';
         jQuery(window).resize();
     });
 </script>
-        
-                        <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/8c09c9f7-6da3-4510-aa0b-445071acfbf3.css">
-                    
-                        <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/fb11d7d6-012f-45c2-aac7-142bceec9d49.css">
-                    <!--Start of Zopim Live Chat Script-->
+    </div>
+</div>
+<!--Start of Zopim Live Chat Script-->
 <script type="text/javascript">
     window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
         d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
@@ -1136,7 +1302,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
     $(searchFieldId).stopObserving();
     $('search_autocomplete').style.position = 'absolute';
     var autocomplete = new SearchAutocomplete(searchFieldId, 'search_autocomplete', 
-    'http://bysymphony.com/catalogsearch/ajax/suggest/', 
+    'https://www.bysymphony.com/catalogsearch/ajax/suggest/', 
     500, 
                 'Search');
 //]]>
@@ -1167,7 +1333,7 @@ Mage.Cookies.domain   = '.bysymphony.com';
         });
 
 
-        jQuery(".footer .cms_links a, .cms-modal-a-link").on("click touchstart", function (e) {
+        jQuery(".footer .cms_links .about-us a, .footer .cms_links .customer-care a, .cms-modal-a-link").on("click touchstart", function (e) {
             // If not "mobile width"
             if (jQuery("body").width() > 700 && !jQuery(this).hasClass("no-popup")) {
                 e.preventDefault();
@@ -1220,10 +1386,6 @@ Mage.Cookies.domain   = '.bysymphony.com';
         });
     });
 </script>
-    </div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1da4038dc8","applicationID":"4138213","transactionName":"NF1XMUYAV0EHVxBRXQ0XdAZACFZcSVcJSx0TWVIAGxdQVxE=","queueTime":0,"applicationTime":182,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>
 
- 
-</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"1da4038dc8","applicationID":"4138213","transactionName":"NF1XMUYAV0EHVxBRXQ0XdAZACFZcSVcJSx0TWVIAGxdQVxE=","queueTime":0,"applicationTime":172,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
