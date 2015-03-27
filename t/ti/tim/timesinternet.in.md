@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesinternet.in privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026185934id_/http%3A//timesinternet.in/policy/22619631.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesinternet.in privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327031612id_/http%3A//timesinternet.in/policy/22619631.cms) for the most accurate reproduction.*
 
 # None
 
