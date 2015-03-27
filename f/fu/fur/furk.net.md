@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furk.net privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706165121id_/https%3A//www.furk.net/t/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furk.net privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327075046id_/https%3A//www.furk.net/t/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Furk.net
 
