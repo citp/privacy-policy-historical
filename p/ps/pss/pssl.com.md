@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pssl.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912075432id_/http%3A//www.pssl.com/lp/help.rsp%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pssl.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327133615id_/http%3A//www.pssl.com/lp/help.rsp%23Privacy) for the most accurate reproduction.*
 
 # PSSL.com - Company Information | ProSound And Stage Lighting
 
@@ -54,9 +54,7 @@ Cypress, CA 90630
   
 About Us
 
-ProSound And Stage Lighting (or PSSL.com as we have become to be known as) has grown to one of the largest and most respected sources of professional audio and lighting equipment in the United States. We are located in Cypress, California - right down the road from Disneyland! Our goal at PSSL.com is to exceed our customer's expectations at every point of contact. To meet this goal we must provide excellent products and outstanding customer service, all at guaranteed low prices. Total customer satisfaction will always be our bottom line.
-
-Dave Rice, CEO
+ProSound And Stage Lighting (PSSL or PSSL.com as we have become to be known) has grown to one of the largest and most respected sources of professional audio and lighting equipment in the United States. We are located in Cypress, California - right down the road from Disneyland! Our goal at PSSL.com is to exceed our customer's expectations at every point of contact. To meet this goal we must provide excellent products and outstanding customer service, all at guaranteed low prices. Total customer satisfaction will always be our bottom line.
 
 "PSSL.com has always helped me in making the right decision in purchasing the latest in sound technology. Our company produces music programs for the fitness industry as well as mobile event services. Because of the great deals, support and service, I am always on target when it comes to creating cutting edge music programs. My clients demand only the best in music. With PSSL.com by my side, I can't fail!"
 
@@ -224,7 +222,7 @@ Have other shipping questions? Call us at 1-800-268-5520, 1-714-891-5914 outside
 
 Taxes
 
-PSSL.com does not collect sales tax on purchases except in California. CA residents add 7.75% to their purchases. 
+PSSL.com does not collect sales tax on purchases except in California. CA residents add 8.00% to their purchases. 
 
 Returns and Exchanges
 
@@ -322,14 +320,9 @@ In designing our website, we started with the simple belief that customer servic
 
 **Send to a friend:** The information collected (friend's name and email address) is used to send a one time only email to the friend letting them know about the product that the user recommends.
 
-**If you place an online order, our secure order form requests contact, billing, and financial information** (such as your credit card numbers for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send orders and information about our company to you. Your contact information, including email address, is also used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. And yes, you can opt not to get email from us, as described in the opt-out section below. The credit card information we collect is used to bill you for products you purchase. For your convenience, your information including credit card and order history is stored on a secure server that allows you to reorder by entering your email address and password. You will automatically be registered to receive our weekly newsletter unless you opt-out at the time of purchase. You may opt-out at any later time by following the unsubscribe instructions in the newsletter.
+**If you place an online order, our secure order form requests contact, billing, and financial information** (such as your credit card numbers for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send orders and information about our company to you. Your contact information, including email address, is also used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. And yes, you can opt not to get email from us, as described in the opt-out section below. The credit card information we collect is used to bill you for products you purchase. For your convenience, your information including credit card and order history is stored on a secure server that allows you to reorder by entering your email address and password. You will automatically be registered to receive our weekly newsletter unless you opt-out at the time of purchase. You may opt-out at any later time by following the unsubscribe instructions in the newsletter. 
 
-We have several types of third-party relationships.
-
-  1. We have an affiliate program that allows other websites to earn money by directing people (through links) to our website. If you sign up as an affiliate, your contact information (website address and related information, email address, mailing and payment addresses, and contact information) is sent to a third party who activates your affiliate status and pays you based on the sales you generate for PSSL.com, Inc. The third-party affiliate manager (Commission Junction) has its own privacy policy. Please be aware that when signing up as an affiliate you are entering information on a the third party's website (not PSSL.com's site) even though our logo frames the Web page you are visiting.
-  2. We use third-party intermediaries. When you purchase from us, we send your credit card information, name, and billing address to credit card companies for verification and to authorize your purchase.
-
-
+**Third-party relationships:** We use third-party intermediaries. When you purchase from us, we send your credit card information, name, and billing address to credit card companies for verification and to authorize your purchase. 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Customer Service:
 
