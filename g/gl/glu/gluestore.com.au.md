@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703101831id_/http%3A//www.gluestore.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327130808id_/http%3A//www.gluestore.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Glue Store Privacy Policy Online | About Us | Glue Store - Glue Store
 
