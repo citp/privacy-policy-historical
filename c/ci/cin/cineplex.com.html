@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cineplex.com privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220123851id_/http%3A//cineplex.com/Global/PrivacyPolicy%3Fcmpid%3DFooterEN_privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cineplex.com privacy policy that was archived on 2015-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150327083913id_/http%3A//www.cineplex.com/Global/PrivacyPolicy%3Fcmpid%3DFooterEN_privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
     
@@ -21,6 +21,20 @@
 <link href="http://mediafiles.cineplex.com/Cineplex2013/touch/apple-touch-icon-57x57-precomposed.png" rel="apple-touch-icon-precomposed">
 <link href="http://mediafiles.cineplex.com/Cineplex2013/touch/apple-touch-icon.png" rel="shortcut icon">
 <title>Cineplex.com | Privacy Policy</title>
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://musculahq.appspot.com/Muscula7.js"></script><script type="text/javascript">
+    window.Muscula = { settings:{
+        logId:"tj2CH4D-JQlaJ", suppressErrors: false
+    }};
+    (function () {
+        var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true;
+        m.src = (window.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//musculahq.appspot.com/Muscula7.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+        window.Muscula.run=function(){var a;eval(arguments[0]);window.Muscula.run=function(){};};
+        window.Muscula.errors=[];window.onerror=function(){window.Muscula.errors.push(arguments);
+        return window.Muscula.settings.suppressErrors===undefined;}
+    })();
+</script>
 
 <meta http-equiv="content-language" content="en-us">
 
@@ -28,7 +42,7 @@
 <meta name="description" content="One stop for all theatre and movie information. Show times, trailers, news, movie details, and online ticketing. Cineplex.com has entertainment covered.">
 <meta http-equiv="content-language" content="en-us">
 <meta name="generator" content="Agility CMS">
-<meta name="agility_timestamp" content="2014/12/20 07:38:52 AM"><meta name="agility_attributes" content="Mode=Live, IsPreview=False, Language=en-us">
+<meta name="agility_timestamp" content="2015/03/27 04:39:13 AM"><meta name="agility_attributes" content="Mode=Live, IsPreview=False, Language=en-us, Machine=WEBLIVEIIS12">
 <!--[if (gt IE 8) | (IEMobile)]><!-->
 <link rel="stylesheet" href="/css/site.min.css" type="text/css">
 <!--<![endif]-->
@@ -38,20 +52,35 @@
 <![endif]-->
     <link rel="stylesheet" href="https://connect.cineplex.com/Account/styles/Cineplex.Connect.css" type="text/css">
 <link rel="stylesheet" href="/css/Styles.css" type="text/css">
-<link href="/bundles/CineplexV2?v=YWWvP9SWt38BK9iruPxOhj3h46-YhJTUn0yCdwyABHc1" rel="stylesheet">
+<link href="/bundles/CineplexV2?v=cPJNzLq_pe2jpM6RloM9162Evpm4EkBSuqjoDaDmgEo1" rel="stylesheet">
 
 
 
-<script src="//ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js" type="text/javascript"></script>
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
 <script src="https://code.jquery.com/jquery-migrate-1.1.0.js"></script>
-<script src="/bundles/CplxCore?v=wBYiGnMsrFxEzB4423814QX3BQDdPK5-oWf82i_xwas1"></script>
+<script src="/bundles/CplxCore?v=IdfZwK-jDI3g3J96aQ9PYYtMu_91LcKC-fYYm39H_ow1"></script>
 
     <script src="https://connect.cineplex.com/Account/scripts/Cineplex.Connect.js" type="text/javascript"></script>
     <script>
         if (typeof Cineplex !== 'undefined') {
             Cineplex.Connect.Settings.ServiceUrl = 'https://connect.cineplex.com/Account';
-            Cineplex.Connect.Initialize();
+            Cineplex.Connect.Initialize(function() {
+                $(document).trigger("Cineplex.Connect.Initialized");
+                if (Cineplex.Connect.IsUserLoggedIn()) {
+                    $(document).trigger("Cineplex.Connect.LoggedIn");
+                } else {
+                    $(document).trigger("Cineplex.Connect.NotLoggedIn");
+                }
+            });
+            Cineplex.Connect.Settings.Close = function () {
+                if (Cineplex.Connect.IsUserLoggedIn()) {
+                    $(document).trigger("Cineplex.Connect.LoggedIn");
+                } else {
+                    $(document).trigger("Cineplex.Connect.NotLoggedIn");
+                }
+            };
         } else {
             var script = document.createElement('script');
             script.type = 'text/javascript';
@@ -68,9 +97,10 @@
 
     
 </head>
-<body class="" onload="setDomain();">
-    <div class="remodal-bg">
-        <div id="Wrapper">
+    <body class="" onload="setDomain();">
+        <form id="__AjaxAntiForgeryForm" action="#" method="post"><input name="__RequestVerificationToken" type="hidden" value="dffLpLlftuzfDacKOsZ74GAqXsA3IDbIm8hK03h/o44pCLfkIJlvQOwXwQM99l3WFaxQBgYtUQ6K3uALcW0qT1Ydeiq42M+SN9L4gPzBplxHqgI9LNWTTwstk3bQ+ls/pmwk73yrpIe4zyYrNFPn1S2pHhCUs5M7pjrcMI4KYe9Sd5RRmmn6txUgcOLd0Oee"></form>
+        <div class="remodal-bg">
+            <div id="Wrapper">
 
 
 
@@ -79,7 +109,7 @@
         <div id="adblock-970x90_top"></div>
         <div id="adblock-320x50_top"></div>
     </div>
-</div>            <div class="chrome">
+</div>                <div class="chrome">
 
 <script type="text/javascript">
     function submitForm(device) {
@@ -94,7 +124,7 @@
         <div class="pagewidth--inner">
             <div class="grid">
                 <div class="grid__item one-whole">
-                    <a class="sprite logo" href="/" title="Go Home">Cineplex.com</a>
+					<a class="sprite logo" href="/?cmpid=TopNavEN_logo" title="Go Home">Cineplex.com</a>
                     <nav class="portal-nav">
                         <ul>
                             
@@ -102,7 +132,7 @@
                                     <a href="http://store.cineplex.com/store/guidedsearch?ex=TopNavEN_store">Store</a>
                                 </li>   
                                 <li>
-                                    <a href="/Magazine?cmpid=TopNavEN_magazine">Magazine</a>
+                                    <a href="/CorporateSalesAndRentals?cmpid=TopNavEN_CorporateSales">Corporate Sales</a>
                                 </li>   
                                 <li>
                                     <a href="/Promos/Scene?cmpid=TopNavEN_scene">SCENE™</a>
@@ -158,7 +188,7 @@
             <nav class="nav-primary--site">
                 <ul id="mobileMenu">
 
- <li class="menu-item menu-buy" data-mobileclass="menu-buy"><a href="/Showtimes?cmpid=MainNavEN_showtimes"><span class="label">SHOWTIMES</span></a></li><li aria-haspopup="true" class="menu-item dropdown menu-theatres"><a href="/Theatres/TheatreListings?cmpid=MainNavEN_theatres"><span class="label">Theatres</span><i aria-hidden="true" class="icon-arrow-down"></i></a><div class="dropdown-container dropdown--theatres" role="menu"><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Theatre and Movie Listings</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Theatres/TheatreListings?cmpid=MainSubNavEN_find-a-theatre">Find A Theatre</a></li>  <li><a class="sub-nav-item" href="/Movies/NowPlaying?cmpid=MainSubNavEN_now-playing">Now Playing</a></li>  <li><a class="sub-nav-item" href="/Movies/ComingSoon?cmpid=MainSubNavEN_coming-soon">Coming Soon</a></li>  <li><a class="sub-nav-item" href="https://onlineticketing.cineplex.com/resendtickets.aspx">Resend Online Tickets</a></li></ul></div></div><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Experience</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Theatres/IMAX">IMAX</a></li>  <li><a class="sub-nav-item" href="/Theatres/UltraAVX">UltraAVX</a></li>  <li><a class="sub-nav-item" href="/Theatres/RealD3D">RealD-3D</a></li>  <li><a class="sub-nav-item" href="/Theatres/D-Box">D-BOX</a></li>  <li><a class="sub-nav-item" href="/Theatres/StarsAndStrollers?cmpid=MainSubNavEN_stars-and-strollers">Stars &amp; Strollers</a></li>  <li><a class="sub-nav-item" href="/Theatres/VIP">VIP</a></li>  <li><a class="sub-nav-item" href="/Theatres/XSCAPE">XSCAPE</a></li>  <li><a class="sub-nav-item" href="/Theatres/DolbyAtmos">Dolby Atmos</a></li>  <li><a class="sub-nav-item" href="/Promos/TimePlay">TimePlay</a></li></ul></div></div><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Group Events</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Theatres/Birthdays/Parties">Popcorn Parties</a></li>  <li><a class="sub-nav-item" href="/Theatres/Birthdays/XSCAPEParties">XSCAPE Parties</a></li>  <li><a class="sub-nav-item" href="/Theatres/Birthdays/CineSpatiales">Cine Spatiales</a></li>  <li><a class="sub-nav-item" href="/Theatres/Birthdays/XBoxParties">Xbox Parties</a></li>  <li><a class="sub-nav-item" href="/Theatres/GroupSales/GeneralInformation?cmpid=MainSubNavEN_group-sales">School Group Bookings</a></li>  <li><a class="sub-nav-item" href="/CorporateSales/CorporateMeetings?cmpid=MainSubNavEN_corporate-sales">Meetings, Events, Rentals</a></li></ul></div></div><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Theatre Info</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Theatres/AccessibilityPolicy?cmpid=MainSubNavEN_accessibility-policy">Theatre Accessibility</a></li>  <li><a class="sub-nav-item" href="/Theatres/">Theatre <br> Technology</a></li>  <li><a class="sub-nav-item" href="/Theatres/FoodAndDrink?cmpid=MainSubNavEN_food-and-drink">Food &amp; Drink</a></li></ul></div></div></div></li><li aria-haspopup="true" class="menu-item dropdown menu-trailers"><a href="http://videos.cineplex.com/All-Trailers/Media/?cmpid=MainNavEN_trailers"><span class="label">Trailers</span><i aria-hidden="true" class="icon-arrow-down"></i></a><div class="dropdown-container dropdown--trailers" role="menu"><div class="grid dropdown-container--section"><div class="grid__item"></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="http://videos.cineplex.com/All-Trailers/Media/">All Trailers</a></li>  <li><a class="sub-nav-item" href="http://videos.cineplex.com/Interviews/Media/">Interviews</a></li>  <li><a class="sub-nav-item" href="http://videos.cineplex.com/All-Videos/Feat/Media/">Featurettes</a></li>  <li><a class="sub-nav-item" href="http://videos.cineplex.com/All-Videos/Film-Clips/Media/">Movie Clips</a></li>  <li><a class="sub-nav-item" href="http://videos.cineplex.com/All-Videos/OnSet/Media/">On-sets</a></li></ul></div></div></div></li><li aria-haspopup="true" class="menu-item dropdown menu-news"><a href="/News?cmpid=MainNavEN_news"><span class="label">News</span><i aria-hidden="true" class="icon-arrow-down"></i></a><div class="dropdown-container dropdown--news" role="menu"><div class="grid dropdown-container--section"><div class="grid__item"></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/AwardsAndFestivals/AwardsRace">Awards Race</a></li>  <li><a class="sub-nav-item" href="/news?category=listed">Top Movie Lists</a></li>  <li><a class="sub-nav-item" href="/news?category=interviews">Interviews</a></li>  <li><a class="sub-nav-item" href="/News/Quiz">Quizzes</a></li>  <li><a class="sub-nav-item" href="/news?category=clips-movie-trailers">New Trailers and Clips</a></li>  <li><a class="sub-nav-item" href="/News/Photo">Photo Galleries</a></li></ul></div></div></div></li><li aria-haspopup="true" class="menu-item dropdown menu-events"><a href="/Events?cmpid=MainNavEN_events"><span class="label">Events</span><i aria-hidden="true" class="icon-arrow-down"></i></a><div class="dropdown-container dropdown--events" role="menu"><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Performing Arts</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Events/DanceSeries">Dance Series</a></li>  <li><a class="sub-nav-item" href="/Events/MetOpera">MET Opera</a></li>  <li><a class="sub-nav-item" href="/Events/NationalTheatre">National Theatre</a></li>  <li><a class="sub-nav-item" href="/Events/InTheGallery">In The Gallery</a></li></ul></div></div><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Film Series</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Events/ClassicFilmSeries">Classic Film Series</a></li>  <li><a class="sub-nav-item" href="/Events/FamilyFavourites">Family Favourites</a></li>  <li><a class="sub-nav-item" href="/Events/MostWantedMovies">Most Wanted Movies</a></li>  <li><a class="sub-nav-item" href="/Events/SinisterCinema">Sinister Cinema</a></li>  <li><a class="sub-nav-item" href="/Events/DigitalFilmFest">Digital Film Fest</a></li>  <li><a class="sub-nav-item" href="/Events/RiffTrax">RiffTrax Live</a></li></ul></div></div><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Music, Sports and More</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Events/EventScreen">Event Screen</a></li>  <li><a class="sub-nav-item" href="/Events/WWE">WWE</a></li></ul></div></div></div></li><li aria-haspopup="true" class="menu-item dropdown menu-giftcards"><a href="http://store.cineplex.com/store/guidedsearch?N=102199+4294914294&amp;ex=MainNavEN_gift-cards"><span class="label">Gift Cards</span><i aria-hidden="true" class="icon-arrow-down"></i></a><div class="dropdown-container dropdown--giftcards" role="menu"><div class="grid dropdown-container--section"><div class="grid__item"></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Promos/eGiftCard">E-Gift Cards</a></li>  <li><a class="sub-nav-item" href="http://store.cineplex.com/store/guidedsearch?N=102199">Standard Gift Cards</a></li>  <li><a class="sub-nav-item" href="https://store.cineplex.com/corporate/">Corporate Product Sales</a></li></ul></div></div></div> </li><li class="menu-item menu-item-bolded mobile-only" data-mobileclass="menu-item-bolded"><a href="http://store.cineplex.com/store/guidedsearch?ex=TopNavEN_store"><span class="label">CINEPLEXSTORE.COM</span></a></li> <li class="menu-item menu-item-bolded mobile-only" data-mobileclass="menu-item-bolded"><a href="/Magazine?cmpid=TopNavEN_magazine"><span class="label">Magazine</span></a></li> <li class="menu-item menu-item-bolded mobile-only" data-mobileclass="menu-item-bolded"><a href="/Promos/Scene?cmpid=TopNavEN_scene"><span class="label">SCENE™</span></a></li>                     <li class="menu-item mobile-only" data-mobileclass="menu-mobileLang"><a href="/Global/PrivacyPolicy?lang=fr-ca&amp;cmpid=FooterEN_privacy-policy"><span class="label">Français</span></a></li>
+ <li class="menu-item menu-buy" data-mobileclass="menu-buy"><a href="/Showtimes?cmpid=MainNavEN_showtimes"><span class="label">SHOWTIMES</span></a></li><li aria-haspopup="true" class="menu-item dropdown menu-theatres"><a href="/Theatres/TheatreListings?cmpid=MainNavEN_theatres"><span class="label">Theatres</span><i aria-hidden="true" class="icon-arrow-down"></i></a><div class="dropdown-container dropdown--theatres" role="menu"><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Theatre and Movie Listings</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Theatres/TheatreListings?cmpid=MainSubNavEN_find-a-theatre">Find A Theatre</a></li>  <li><a class="sub-nav-item" href="/Movies/NowPlaying?cmpid=MainSubNavEN_now-playing">Now Playing</a></li>  <li><a class="sub-nav-item" href="/Movies/ComingSoon?cmpid=MainSubNavEN_coming-soon">Coming Soon</a></li>  <li><a class="sub-nav-item" href="https://onlineticketing.cineplex.com/resendtickets.aspx">Resend Online Tickets</a></li></ul></div></div><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Experience</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Theatres/IMAX">IMAX</a></li>  <li><a class="sub-nav-item" href="/Theatres/UltraAVX">UltraAVX</a></li>  <li><a class="sub-nav-item" href="/Theatres/RealD3D">RealD-3D</a></li>  <li><a class="sub-nav-item" href="/Theatres/D-Box">D-BOX</a></li>  <li><a class="sub-nav-item" href="/Theatres/StarsAndStrollers?cmpid=MainSubNavEN_stars-and-strollers">Stars &amp; Strollers</a></li>  <li><a class="sub-nav-item" href="/Theatres/VIP">VIP</a></li>  <li><a class="sub-nav-item" href="/Theatres/XSCAPE">XSCAPE</a></li>  <li><a class="sub-nav-item" href="/Theatres/DolbyAtmos">Dolby Atmos</a></li>  <li><a class="sub-nav-item" href="/Promos/TimePlay">TimePlay</a></li>  <li><a class="sub-nav-item" href="/Theatres/SensoryFriendly">Sensory Friendly</a></li></ul></div></div><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Group Events</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Theatres/Birthdays/Parties">Popcorn Parties</a></li>  <li><a class="sub-nav-item" href="/Theatres/Birthdays/XSCAPEParties">XSCAPE Parties</a></li>  <li><a class="sub-nav-item" href="/Theatres/Birthdays/CineSpatiales">Cine Spatiales</a></li>  <li><a class="sub-nav-item" href="/Theatres/Birthdays/XBoxParties">Xbox Parties</a></li>  <li><a class="sub-nav-item" href="/Theatres/GroupSales/GeneralInformation?cmpid=MainSubNavEN_group-sales">School Group Bookings</a></li>  <li><a class="sub-nav-item" href="/CorporateSales/CorporateMeetings?cmpid=MainSubNavEN_corporate-sales">Meetings, Events, Rentals</a></li></ul></div></div><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Theatre Info</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Theatres/AccessibilityPolicy?cmpid=MainSubNavEN_accessibility-policy">Theatre Accessibility</a></li>  <li><a class="sub-nav-item" href="/Theatres/">Theatre <br> Technology</a></li>  <li><a class="sub-nav-item" href="/Theatres/FoodAndDrink?cmpid=MainSubNavEN_food-and-drink">Food &amp; Drink</a></li></ul></div></div></div></li><li aria-haspopup="true" class="menu-item dropdown menu-trailers"><a href="http://videos.cineplex.com/All-Trailers/Media/?cmpid=MainNavEN_trailers"><span class="label">Trailers</span><i aria-hidden="true" class="icon-arrow-down"></i></a><div class="dropdown-container dropdown--trailers" role="menu"><div class="grid dropdown-container--section"><div class="grid__item"></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="http://videos.cineplex.com/All-Trailers/Media/">All Trailers</a></li>  <li><a class="sub-nav-item" href="http://videos.cineplex.com/Interviews/Media/">Interviews</a></li>  <li><a class="sub-nav-item" href="http://videos.cineplex.com/All-Videos/Feat/Media/">Featurettes</a></li>  <li><a class="sub-nav-item" href="http://videos.cineplex.com/All-Videos/Film-Clips/Media/">Movie Clips</a></li>  <li><a class="sub-nav-item" href="http://videos.cineplex.com/All-Videos/OnSet/Media/">On-sets</a></li></ul></div></div></div></li><li aria-haspopup="true" class="menu-item dropdown menu-news"><a href="/News?cmpid=MainNavEN_news"><span class="label">News</span><i aria-hidden="true" class="icon-arrow-down"></i></a><div class="dropdown-container dropdown--news" role="menu"><div class="grid dropdown-container--section"><div class="grid__item"></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/news?category=clips-movie-trailers">New Trailers and Clips</a></li>  <li><a class="sub-nav-item" href="/news?category=listed">Top Movie Lists</a></li>  <li><a class="sub-nav-item" href="/news?category=interviews">Interviews</a></li>  <li><a class="sub-nav-item" href="/News/Quiz">Quizzes</a></li>  <li><a class="sub-nav-item" href="/movieanniversaries">Movie Anniversaries</a></li>  <li><a class="sub-nav-item" href="/News/Photo">Photo Galleries</a></li></ul></div></div></div></li><li aria-haspopup="true" class="menu-item dropdown menu-events"><a href="/Events?cmpid=MainNavEN_events"><span class="label">Events</span><i aria-hidden="true" class="icon-arrow-down"></i></a><div class="dropdown-container dropdown--events" role="menu"><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Performing Arts</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Events/DanceSeries">Dance Series</a></li>  <li><a class="sub-nav-item" href="/Events/MetOpera">MET Opera</a></li>  <li><a class="sub-nav-item" href="/Events/NationalTheatre">National Theatre</a></li>  <li><a class="sub-nav-item" href="/Events/InTheGallery">In The Gallery</a></li>  <li><a class="sub-nav-item" href="/Events/Stratford">Stratford Festival</a></li></ul></div></div><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Film Series</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Events/ClassicFilmSeries">Classic Film Series</a></li>  <li><a class="sub-nav-item" href="/Events/FamilyFavourites">Family Favourites</a></li>  <li><a class="sub-nav-item" href="/Events/MostWantedMovies">Most Wanted Movies</a></li>  <li><a class="sub-nav-item" href="/Events/SinisterCinema">Sinister Cinema</a></li>  <li><a class="sub-nav-item" href="/Events/DigitalFilmFest">Digital Film Fest</a></li>  <li><a class="sub-nav-item" href="/Events/RiffTrax">RiffTrax Live</a></li></ul></div></div><div class="grid dropdown-container--section"><div class="grid__item"><h4 class="inverted">Music, Sports and More</h4></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Events/EventScreen">Event Screen</a></li>  <li><a class="sub-nav-item" href="/Events/WWE">WWE</a></li></ul></div></div></div></li><li aria-haspopup="true" class="menu-item dropdown menu-giftcards"><a href="http://store.cineplex.com/store/guidedsearch?N=102199+4294914294&amp;ex=MainNavEN_gift-cards"><span class="label">Gift Cards</span><i aria-hidden="true" class="icon-arrow-down"></i></a><div class="dropdown-container dropdown--giftcards" role="menu"><div class="grid dropdown-container--section"><div class="grid__item"></div><div class="grid__item"> <ul class="dropdown-container--list">  <li><a class="sub-nav-item" href="/Promos/eGiftCard">E-Gift Cards</a></li>  <li><a class="sub-nav-item" href="http://store.cineplex.com/store/guidedsearch?N=102199">Standard Gift Cards</a></li>  <li><a class="sub-nav-item" href="https://store.cineplex.com/corporate/">Corporate Product Sales</a></li></ul></div></div></div> </li><li class="menu-item menu-item-bolded mobile-only" data-mobileclass="menu-item-bolded"><a href="http://store.cineplex.com/store/guidedsearch?ex=TopNavEN_store"><span class="label">STORE</span></a></li> <li class="menu-item menu-item-bolded mobile-only" data-mobileclass="menu-item-bolded"><a href="/CorporateSalesAndRentals?cmpid=TopNavEN_CorporateSales"><span class="label">CORPORATE SALES</span></a></li> <li class="menu-item menu-item-bolded mobile-only" data-mobileclass="menu-item-bolded"><a href="/Promos/Scene?cmpid=TopNavEN_scene"><span class="label">SCENE™</span></a></li>                     <li class="menu-item mobile-only" data-mobileclass="menu-mobileLang"><a href="/Global/PrivacyPolicy?lang=fr-ca&amp;cmpid=FooterEN_privacy-policy"><span class="label">Français</span></a></li>
                 </ul>
             </nav>
 
@@ -166,8 +196,8 @@
         </div>
     </div>
 </div>
-            </div>
-            
+                </div>
+                
 
 <div class="page-content">
     <div class="pagewidth--inner">
@@ -576,39 +606,39 @@ Please clearly indicate the information that you wish to review or have changed.
     <section class="store-reco-sidebar">
         <h4>Recommended in Store</h4>
 <div class="grid">            <div class="grid__item one-half">
-                <a href="http://store.cineplex.com/store/recorddetails?R=prod1870056&amp;ex=171214_CPX_SideBar_Reco-moonlight" class="reco">
+                <a href="http://store.cineplex.com/store/recorddetails?R=prod2010215&amp;ex=180215_CPX_SideBar_Reco-mockingjay" class="reco">
                     <div class="figure">
-                        <img width="140" height="208" src="http://mediafiles.cineplex.com/NIS-CPX-320x474-moonlight.jpg" alt="">
+                        <img width="140" height="208" src="http://mediafiles.cineplex.com/NIS-CPX-320x474-mj.jpg" alt="">
                     </div>
-                    <p class="reco--title">Magic In The Moonlight</p>
-                    <p class="reco--info">Digital-Buy</p>
+                    <p class="reco--title">The Hunger Games: Mockingjay - Part 1</p>
+                    <p class="reco--info">Digital-Rent, Blu-ray, DVD</p>
                 </a>
             </div>
             <div class="grid__item one-half">
-                <a href="http://store.cineplex.com/store/recorddetails?R=prod1890052&amp;ex=171214_CPX_SideBar_Reco-Annabelle" class="reco">
+                <a href="http://store.cineplex.com/store/recorddetails?R=prod2010129&amp;ex=170315_CPX_SideBar_Reco-interstellar" class="reco">
                     <div class="figure">
-                        <img width="140" height="208" src="http://mediafiles.cineplex.com/NIS-CPX-320x474-anna.jpg" alt="">
+                        <img width="140" height="208" src="http://cineplexfiles.s3.amazonaws.com/NIS-CPX-320x474-inter.jpg" alt="">
                     </div>
-                    <p class="reco--title">Annabelle</p>
+                    <p class="reco--title">Interstellar</p>
                     <p class="reco--info">Digital-Buy</p>
                 </a>
             </div>
 </div><div class="grid">            <div class="grid__item one-half">
-                <a href="http://store.cineplex.com/store/recorddetails?R=prod1890042&amp;ex=171214_CPX_SideBar_Reco_the-guest" class="reco">
+                <a href="http://store.cineplex.com/store/recorddetails?R=prod1950089&amp;ex=170315_CPX_SideBar_Reco-hobbit" class="reco">
                     <div class="figure">
-                        <img width="140" height="208" src="http://mediafiles.cineplex.com/NIS-CPX-320x474-guest.jpg" alt="">
+                        <img width="140" height="208" src="http://cineplexfiles.s3.amazonaws.com/NIS-CPX-320x474-hob.jpg" alt="">
                     </div>
-                    <p class="reco--title">The Guest</p>
+                    <p class="reco--title">The Hobbit: The Battle of the Five Armies</p>
                     <p class="reco--info">Digital-Buy</p>
                 </a>
             </div>
             <div class="grid__item one-half">
-                <a href="http://store.cineplex.com/store/recorddetails?R=prod1930034&amp;ex=171214_CPX_SideBar_Reco-equalizer" class="reco">
+                <a href="http://store.cineplex.com/store/recorddetails?R=prod1850037&amp;ex=170315_CPX_SideBar_Reco-big-hero-6" class="reco">
                     <div class="figure">
-                        <img width="140" height="208" src="http://mediafiles.cineplex.com/NIS-CPX-320x474-equalizer.jpg" alt="">
+                        <img width="140" height="208" src="http://cineplexfiles.s3.amazonaws.com/NIS-CPX-320x474-bh6.jpg" alt="">
                     </div>
-                    <p class="reco--title">The Equalizer</p>
-                    <p class="reco--info">Digital-Buy</p>
+                    <p class="reco--title">Big Hero 6</p>
+                    <p class="reco--info">Digital-Buy, Digital-Rent, Blu-ray, DVD</p>
                 </a>
             </div>
 </div>        <a href="http://store.cineplex.com" class="cta-primary">
@@ -672,6 +702,9 @@ Please clearly indicate the information that you wish to review or have changed.
                                                 </li>
                                                 <li>
                                                     <a href="http://www.cineplex.com/Promos/eGiftCard">E-Gift Cards</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/Magazine">Cineplex Magazine</a>
                                                 </li>
                                         </ul>
                                     </nav>
@@ -765,28 +798,28 @@ Please clearly indicate the information that you wish to review or have changed.
                                         <ul>
 
                                                 <li>
-                                                    <a href="/Movie/the-hobbit-the-battle-of-the-five-armies">The Hobbit: The Battle Of The Five Armies</a>
+                                                    <a href="/Movie/home?cmpid=FooterEN_TopMovies">Home</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/Movie/night-at-the-museum-secret-of-the-tomb">Night At The Museum: Secret Of The Tomb</a>
+                                                    <a href="/Movie/get-hard?cmpid=FooterEN_TopMovies">Get Hard</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/Movie/annie">Annie</a>
+                                                    <a href="/Movie/the-divergent-series-insurgent?cmpid=FooterEN_TopMovies">The Divergent Series: Insurgent</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/Movie/exodus-gods-and-kings">Exodus: Gods And Kings</a>
+                                                    <a href="/Movie/cinderella?cmpid=FooterEN_TopMovies">Cinderella</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/Movie/the-hunger-games-mockingjay-part-1">The Hunger Games: Mockingjay - Part 1</a>
+                                                    <a href="/Movie/furious-7?cmpid=FooterEN_TopMovies">Furious 7</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/Movie/the-penguins-of-madagascar">The Penguins of Madagascar</a>
+                                                    <a href="/Movie/the-second-best-exotic-marigold-hotel?cmpid=FooterEN_TopMovies">The Second Best Exotic Marigold Hotel</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/Movie/horrible-bosses-2">Horrible Bosses 2</a>
+                                                    <a href="/Movie/kingsman-the-secret-service?cmpid=FooterEN_TopMovies">Kingsman: The Secret Service</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/Movie/big-hero-6">Big Hero 6</a>
+                                                    <a href="/Movie/run-all-night?cmpid=FooterEN_TopMovies">Run All Night</a>
                                                 </li>
                                         </ul>
                                     </nav>
@@ -900,7 +933,7 @@ Please clearly indicate the information that you wish to review or have changed.
                             </ul>
                         </nav>
                         <p class="copyright">
-                           © 2014 Cineplex Entertainment LP
+                           © 2015 Cineplex Entertainment LP
                         </p>
                     </div>
                 </div>
@@ -1041,42 +1074,46 @@ googletag.cmd.push(function() {
     });
 </script>
 </footer>
-            <script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
-            <script>
-                window.jQuery || document.write('<\/script>')
-                var _gaq = [['_setAccount', 'UA-712208-1'], ['_trackPageview']];
-                (function (d, t) {
-                    var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-                    g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
-                    s.parentNode.insertBefore(g, s)
-                }(document, 'script'));
-            </script>
-            <!-- / Full-page loader -->
-            <div id="loader">
-                <div class="loader-icon"></div>
-            </div>
-            <div class="cineplex_connect_modal"></div>
-            <div class="remodal" data-remodal-id="theatre-map-modal" data-remodal-options="hashTracking: false">
-                <div class="modal-content"></div>
-            </div>
-            <div class="remodal trailer-box" data-remodal-id="trailer-player-modal" data-remodal-options="hashTracking: false">
-                <div class="modal-content"></div>
+                <script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+                <script>
+                    var __RequestVerificationToken = $('#__AjaxAntiForgeryForm input[name=__RequestVerificationToken]').val() || "";
+                    window.jQuery || document.write('<\/script>')
+                    var _gaq = [['_setAccount', 'UA-712208-1'], ['_trackPageview']];
+                    (function (d, t) {
+                        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+                        g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+                        s.parentNode.insertBefore(g, s)
+                    }(document, 'script'));
+                </script>
+                <!-- / Full-page loader -->
+                <div id="loader">
+                    <div class="loader-icon"></div>
+                </div>
+                <div class="cineplex_connect_modal"></div>
+                <div class="remodal" data-remodal-id="theatre-map-modal" data-remodal-options="hashTracking: false">
+                    <div class="modal-content"></div>
+                </div>
+                <div class="remodal trailer-box" data-remodal-id="trailer-player-modal" data-remodal-options="hashTracking: false">
+                    <div class="modal-content"></div>
+                </div>
+                <div class="remodal video-in-modal-box" data-remodal-id="video-in-modal" data-remodal-options="hashTracking: false">
+                    <div class="modal-content"></div>
+                </div>
             </div>
         </div>
-    </div>
-    
-    <!-- WEBLIVEIIS2 -->
-    <div id="adblock-voken"></div>
-    <script>
-        var $buoop = { vs: { i: 8, f: 15, o: 12.1, s: 5.1 }, c: 2 };
-        function $buo_f() {
-            var e = document.createElement("script");
-            e.src = "//browser-update.org/update.js";
-            document.body.appendChild(e);
-        };
-        try { document.addEventListener("DOMContentLoaded", $buo_f, false) }
-        catch (e) { window.attachEvent("onload", $buo_f) }
-    </script>
+        
+        <!-- WEBLIVEIIS12 -->
+        <div id="adblock-voken"></div>
+        <script>
+            var $buoop = { vs: { i: 8, f: 15, o: 12.1, s: 5.1 }, c: 2 };
+            function $buo_f() {
+                var e = document.createElement("script");
+                e.src = "//browser-update.org/update.js";
+                document.body.appendChild(e);
+            };
+            try { document.addEventListener("DOMContentLoaded", $buo_f, false) }
+            catch (e) { window.attachEvent("onload", $buo_f) }
+        </script>
 
 
 <script src="//browser-update.org/update.js"></script></body></html>
