@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704113429id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327062304id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warby Parker
 
 **Effective Date: December 13, 2013.**
 
-At Warby Parker, we're all about helping you see things a little more clearly—what better place to start than right here, with our company? We believe that you have a right to know what information we collect from you, and we want you to understand our commitment to protecting your privacy. (Because we take your privacy very seriously!) We've created this Privacy Policy to let you know what to expect when you interact with us. To keep things simple, we stick to this Privacy Policy no matter which of our stores, sites, applications, or website features you use or access, including those located at [www.warbyparker.com](http://www.warbyparker.com/), [www.warbybarker.com](http://www.warbybarker.com/), [www.warbyparkerclasstrip.com](http://www.warbyparkerclasstrip.com/), and [www.theoculists.com](http://www.theoculists.com/) (the "Sites"), as well as any mobile application (each, an "Application") that includes an authorized link to this Privacy Policy (together the stores, Sites and Applications are referred to as the "Services").
+At Warby Parker, we're all about helping you see things a little more clearly—what better place to start than right here, with our company? We believe that you have a right to know what information we collect from you, and we want you to understand our commitment to protecting your privacy. (Because we take your privacy very seriously!) We've created this Privacy Policy to let you know what to expect when you interact with us. To keep things simple, we stick to this Privacy Policy no matter which of our stores, sites, applications, or website features you use or access, including those located at [www.warbyparker.com](https://www.warbyparker.com/), [www.warbybarker.com](http://www.warbybarker.com/), [www.warbyparkerclasstrip.com](http://www.warbyparkerclasstrip.com/), and [www.theoculists.com](http://www.theoculists.com/) (the "Sites"), as well as any mobile application (each, an "Application") that includes an authorized link to this Privacy Policy (together the stores, Sites and Applications are referred to as the "Services").
 
 By using our Services, you agree to the use, disclosure and procedures this Privacy Policy describes. Please note that this Privacy Policy does not apply to third party websites ("Third Party Services"), such as Facebook, Twitter, Pinterest, Instagram and Google+, that we do not own or control, even if you access them through the Services. We try to only work with Third Party Services that share our respect for your privacy, but we cannot take responsibility for their practices, content, or privacy policies. We encourage you to carefully review the privacy policies of any Third Party Services you access so that you know how they will use and share your information.
 
 If you have any questions, please reach out to us at [privacy@warbyparker.com](mailto:privacy@warbyparker.com).
 
-### 1\. What Information does Warby Parker Collect?
+###  1\. What Information does Warby Parker Collect? 
 
 The information we collect from you falls into two categories: personally identifiable information ("Personal Information") and non-personally identifiable information (i.e., information that cannot be used to identify who you are) ("Non-Personal Information"). This Privacy Policy covers both types and will tell you how we might collect and use each.
 
@@ -47,9 +47,9 @@ We may also collect some of the following _Non-Personal Information_ from you:
 
 
 
-__Children's Information.__ We are especially sensitive about children's information. We do not knowingly collect information from children under the age of 13, in accordance with the Children's Online Privacy Protection Act ("COPPA"). If you are a parent or legal guardian of a minor child, you may use the Services on behalf of such minor child. We will treat any information that you provide us while using the Services on behalf of your minor child as Personal Information as otherwise provided in this Privacy Policy. If you have questions concerning our information practices with respect to children, or if after a transaction, you would like to review, have deleted, or stop the further collection of your child's Personal Information, please email us at privacy@warbyparker.com.
+_Children's Information._ We are especially sensitive about children's information. We do not knowingly collect information from children under the age of 13, in accordance with the Children's Online Privacy Protection Act ("COPPA"). If you are a parent or legal guardian of a minor child, you may use the Services on behalf of such minor child. We will treat any information that you provide us while using the Services on behalf of your minor child as Personal Information as otherwise provided in this Privacy Policy. If you have questions concerning our information practices with respect to children, or if after a transaction, you would like to review, have deleted, or stop the further collection of your child's Personal Information, please email us at [privacy@warbyparker.com](mailto:privacy@warbyparker.com).
 
-### 2\. How We Collect Information
+###  2\. How We Collect Information 
 
 We may collect your information in the following ways:
 
@@ -70,7 +70,7 @@ Pixel tags or web beacons are tracking devices on websites or in e-mails that ca
 
 Cookies (not to be confused with the sugary morsel) are small files that web servers may place on your computer when you visit a website. You may be able to set your web browser to reject cookies entirely or require that it request permission from you before accepting each new cookie. You can also delete cookies from your hard drive once you leave a website. We may also collect information when you are visiting our stores. Like most retailers, we have in-store video that helps us understand customer behavior within our physical spaces. We may also anonymously collect wireless device signature information while you are near or in our stores to help us better understand our customers. This information will not be linked to you individually.
 
-### 3\. How We Use the Information We Gather
+###  3\. How We Use the Information We Gather 
 
 We primarily use the information we collect and store to enhance the Services and your experience with Warby Parker. Except if we sell all or a portion of our business, as described below, we do not rent or sell your Personal Information to anyone, period. If we share your Personal Information, we do so only as described below.
 
@@ -92,7 +92,7 @@ We may use Personal Information to provide the Services to you. Some ways we may
 
 
 _**Non-Personal Information**_  
-We may share or disclose aggregated Non-Personal Information on our Site, with service providers, and/or with other persons we conduct business with. These service providers and other persons may also share with us aggregated Non-Personal Information that they have independently developed or acquired. Additionally, we may combine aggregate information from the pixel tags, web beacons and cookies we discussed above with similar data we collect from other visitors to help us improve our Services, but that anonymous information cannot be linked back to you.
+We may share or disclose aggregated Non-Personal Information on our Site, with service providers, and/or with other persons we conduct business with. These service providers and other persons may also share with us aggregated Non-Personal Information that they have independently developed or acquired. Additionally, we may combine aggregate information from the pixel tags, web beacons and cookies we discussed above with similar data we collect from other visitors to help us improve our Services, but that aggregate, anonymous information cannot be linked back to you.
 
 _**Opting Out.**_ If you decide you don't want to receive email or other mail from us, you can select the "opt out" provision in our communications to unsubscribe. Unsubscribing will stop you from receiving most types of communication, but it may not apply to emails about orders or transactions you place through the Services or to respond to your specific request, such as password recovery.
 
@@ -116,26 +116,26 @@ We've figured out ways to do a lot of things on our own, but we haven't quite fi
 
 
 
-We promise, no surprises—unless we tell you differently, our Agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
+We promise, no surprises—unless we've told you differently, our Agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
 
 _**Business Transfers**_  
 We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
 
 _**Protection of Us and Others**_  
-We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; cooperate with law enforcement; enforce or apply our [Terms of Use](http://www.warbyparker.com/terms-of-use) and other agreements; or protect the rights, property, or safety of Warby Parker, our employees, our users, or others.
+We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; cooperate with law enforcement; enforce or apply our [Terms of Use](https://www.warbyparker.com/terms-of-use) and other agreements; or protect the rights, property, or safety of Warby Parker, our employees, our users, or others.
 
 _**With Your Consent**_  
 Except as we've stated above, we will notify you before we share your Personal Information with any third parties, and you will be able to prevent the sharing of this information.
 
-### 4\. We are Committed to Making Sure Your Information is Protected
+###  4\. We are Committed to Making Sure Your Information is Protected 
 
 We take the protection of your information very seriously. We understand the sensitivity of (for example) the prescription information you may give us. Therefore, we take many security measures (physical, electronic and procedural) to help keep your Personal Information safe. For example, we limit access to authorized employees and third parties who have agreed to follow confidentiality obligations we give them. Also, we only allow parties to access your Personal Information for permitted business purposes. Unfortunately, even though we use commercially reasonable efforts to protect your Personal Information, we cannot guarantee complete security. Any information that you provide to us is done so entirely at your own risk.
 
-### 5\. We Reserve the Right to Update and Revise this Privacy Policy at Any Time.
+###  5\. We Reserve the Right to Update and Revise this Privacy Policy at Any Time 
 
 We occasionally review this Privacy Policy to make sure it complies with applicable law and conforms to changes in our business. We may need to update this Privacy Policy, and we reserve the right to do so at any time. If we do revise this Privacy Policy, we will update the "Effective Date" at the top of this page so that you can tell if it has changed since your last visit. Please review this Privacy Policy regularly to ensure that you are aware of its terms. Your use of our Services constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us from time to time.
 
-### 6\. What Personal Information can I access?
+###  6\. What Personal Information can I access? 
 
 Through your account settings, you may access, and, in some cases, edit or delete the following information you've provided to us:
 
