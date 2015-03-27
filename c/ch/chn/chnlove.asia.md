@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chnlove.asia privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101005625id_/http%3A//www.chnlove.asia/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chnlove.asia privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327182428id_/http%3A//www.chnlove.asia/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - See How to Protect Yourself When Dating Asian Chinese Girls on Chnlove.com.
 
