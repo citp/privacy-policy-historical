@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksmarts.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726115344id_/http%3A//www.cooksmarts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksmarts.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327144332id_/http%3A//www.cooksmarts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cook Smarts
 
