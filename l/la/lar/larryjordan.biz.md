@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the larryjordan.biz privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701023532id_/http%3A//www.larryjordan.biz/privacy-policy-for-google) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the larryjordan.biz privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327220813id_/http%3A//www.larryjordan.biz/privacy-policy-for-google) for the most accurate reproduction.*
 
 # Google Privacy Policy | Final Cut Pro Training & Classes
 
