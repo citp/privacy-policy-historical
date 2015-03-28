@@ -1,41 +1,32 @@
-> *The following text is extracted and transformed from the mad4flash.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155328id_/http%3A//www.mad4flash.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mad4flash.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328032113id_/http%3A//www.mad4flash.com/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Flash Games and Embed Code
+# Privacy Policy Statement | Mad4Flash
 
-Your Privacy at Mad4flash.com  
-We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, we collect and store certain information automatically. Here is how we handle information about your visit to our website. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at games(@)mad4flash.com.
 
-What We Collect and Store Automatically  
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
+At www.mad4flash.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.mad4flash.com and how it is used.
 
-The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website.  
-The type of browser and operating system used to access our site.  
-The date and time you access our site.  
-The pages you visit.  
-If you linked to our website from another website, the address of that website.  
-We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you.
+Log Files  
+Like most standard Web site servers, www.mad4flash.com use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-If You Send Us E-mail You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
+Cookies and Web Beacons  
+www.mad4flash.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitorsâ€™ browser type or other information that the visitor sends.
 
-Cookies  
-To save you logging in everytime you visit Mad4flash.com, we place a little text file called a "cookie" on your hard drive. It sits in your web browser directory.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include but not limited to Google Adsense, CPX Interactive .
 
-A cookie lets us store your profile information on your computer and let's our web site retrieve it when you visit our site. No other web site can use or view the cookie set by Mad4flash.com.
+These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on www.mad4flash.com. They automatically receive your IP address when this happens. They may also use other technologies ( such as cookies, JavaScript, or Web Beacons ) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
 
-Cookies help us create a speedy web experience by remembering your address and email information, so you don't have to re-type it when making multiple purchases. They also enable you to recall previous purchases.
+www.mad4flash.com has no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
 
-Cookies do not store credit card information and we do not use them to track your movements through our site.
+You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. www.mad4flash.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Links to Other Sites  
-Our website has links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Restriction of Liability  
-Mad4flash.com makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+  * third parties, like Google, may collect certain types of information about visits to your sites, including interaction with content on these sites.
 
-No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this website or its hyperlinks to other Internet resources.
 
-Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by Mad4flash.com
 
-To opt out of the NAI's collection process please follow this [link](http://www.networkadvertising.org/managing/opt_out.asp).
-
-* Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
