@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the up-video.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126061323id_/http%3A//www.up-video.com/page.php%3Fpage%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up-video.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328145750id_/http%3A//www.up-video.com/page.php%3Fpage%3D5) for the most accurate reproduction.*
 
 # Up-video.com - Watch Latest Videos Broadcast Yourself Share Videos
 
