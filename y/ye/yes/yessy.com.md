@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yessy.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006054643id_/http%3A//www.yessy.com/privacy.html%3Fs%3Dyf4puezrbtv3kbuomgsnqg55) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yessy.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328101007id_/http%3A//www.yessy.com/privacy.html%3Fs%3D0ekzynjgs1l5ho3223cb2x55) for the most accurate reproduction.*
 
 # Yessy > Privacy Policy
 
