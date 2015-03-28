@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vccllc.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726230851id_/http%3A//www.vccllc.com/%3Fpage_id%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vccllc.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328213726id_/http%3A//www.vccllc.com/%3Fpage_id%3D13) for the most accurate reproduction.*
 
 # Privacy Policy | VCC Bookkeeping
 
