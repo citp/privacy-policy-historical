@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubuntuone.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113061528id_/https%3A//login.ubuntu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuntuone.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328214057id_/https%3A//login.ubuntu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
