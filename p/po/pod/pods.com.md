@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pods.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708182919id_/http%3A//www.pods.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pods.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328162959id_/http%3A//www.pods.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Online Privacy Policy for Self Storage and Portable Moving | PODS
 
@@ -8,9 +8,11 @@ Please read our privacy policy terms carefully before using this Website to unde
 
 **Personal Information.** We collect several types of personal information from and about users of our Website, including information you provide to us either through our Website or call center. Your use of this Website constitutes your consent to collect and use your personal information obtained from you. For purposes of this policy only, "personal information" refers to any information by which you can be personally identified that includes name, e-mail address, mailing address, telephone number, credit card information, your responses to our survey questions, and information relating to any orders you place.
 
-**Non-Personally Identifiable Information.** Our Website also collects technical and navigational information that is not personally identifiable to any particular user. This type of information may include computer browser type, internet protocol (IP) address, pages visited and time spent on our Website, and other communication data. This information may be used or analyzed by us to improve our web design and functionality, show our ads on sites across the internet, enhance our ability to service you, and estimate our audience size and usage patterns. For the same reasons, we may also obtain other non-personally identifiable information about your general internet usage by using cookies. We may share non-personally identifiable information with third parties in connection with referral relationships and for reasons stated above. We use Google’s Remarketing with Google Analytics to advertise online.  Third party vendors, including Google, shows our ads on sites across the internet.  We and third party vendors, including Google, use first party cookies and third party cookies together to inform, optimize and serve ads based on visits to our website.  You may refuse to accept cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. In addition, you can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads).
+**Non-Personally Identifiable Information.** Our Website also collects technical and navigational information that is not personally identifiable to any particular user. This type of information may include computer browser type, internet protocol (IP) address, pages visited and time spent on our Website, and other communication data. This information may be used or analyzed by us to improve our web design and functionality, show our ads on sites across the internet, enhance our ability to service you, and estimate our audience size and usage patterns. For the same reasons, we may also obtain other non-personally identifiable information about your general internet usage by using cookies. We may share non-personally identifiable information with third parties in connection with referral relationships and for reasons stated above. We use Google’s Remarketing with Google Analytics to advertise online.  Third party vendors, including Google, shows our ads on sites across the internet.  We and third party vendors, including Google, use first party cookies and third party cookies together to inform, optimize and serve ads based on visits to our website.  You may refuse to accept cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. In addition, you can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads).  
 
- **Providing Online Support.** We may provide online customer service chat sessions to assist you while you are navigating through our Website. We will use and maintain any personal information you provide via these sessions in accordance with this privacy policy. We and our 3rd party service provider of the online customer chat feature may maintain dialogue transcripts of the online chats with us for staff training, for quality assurance purposes or for other purposes as described herein. 
+
+**Providing Online Support.** We may provide online customer service chat sessions to assist you while you are navigating through our Website. We will use and maintain any personal information you provide via these sessions in accordance with this privacy policy. We and our 3rd party service provider of the online customer chat feature may maintain dialogue transcripts of the online chats with us for staff training, for quality assurance purposes or for other purposes as described herein.  
+
 
 **Minors.** We do not knowingly collect personal information from minors and ask that children under 18 years of age not submit personal information on our Website without parental consent. Although we cannot prevent children under 18 from submitting personal information, we will destroy such information if we are made aware that proper consent was not given.
 
@@ -20,9 +22,23 @@ Occasionally, we may deliver marketing and account information relevant to you, 
 
 You may opt-out of receiving any of our marketing or promotional emails at any time by sending an e-mail to accountmanager@pods.com or by using the links provided in any emails received from us.
 
-We do not sell or release your personal information to outside organizations. Third party service and product suppliers, however, may be engaged by PODS to perform a variety of functions, such as fulfilling orders, assisting with promotions, credit card processing, transportation services, conducting contests or services, providing technical services for our Website, etc. We may at times share information about you that is necessary for the outside company to provide the requested service. These outside companies may only use such information about you for the limited purpose of performing their services and may not use such information for any other purpose.
+We do not sell or rent your personal information to third parties.  However, we may disclose personal information that we collect or you provide as described in this privacy policy:
 
-We reserve the right to disclose your personally identifiable information as required by law if we believe that disclosure is necessary to protect our rights, for fraud detection or prevention, and/or to comply with a judicial proceeding, court order or other legal processes (e.g., subpoenas).
+• To our franchises, subsidiaries and affiliates for the purposes of providing services;
+
+• To contractors, service providers and other third parties we use to support our business and to perform a variety of functions, such as fulfilling orders, billing and collection, assisting with promotions, credit card processing, transportation services, conducting contests or sweepstakes, helping us improve our product and service offerings and our website, providing technical services for our Website, data analytics, etc.  Such third parties are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+
+• To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of PODS' assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by PODS about our Website users is among the assets transferred.
+
+• To fulfill the purpose for which you provide it. 
+
+• With your consent.
+
+We may also disclose your personal information:
+
+• To comply with any court order, law or legal process (e.g., subpoenas), including to respond to any government or regulatory request.
+
+• If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of PODS, our customers or others.  This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
 
 By providing your cellular number, you agree to permit PODS to contact you using an automatic telephone dialing system and/or a prerecorded voice regarding matters relevant to your account, including, without limitation, estimated time of arrivals and pickups of container(s), status of your contract, accounts payable and gypsy moth documentation, as applicable, and any other operational or account matters.
 
@@ -57,7 +73,7 @@ Clearwater, Florida 33760
 1-888-776-7637  
 [marketing-inquiries@pods.com](mailto:marketing-inquiries@pods.com)
 
-**Updated:** October 30, 2013
+**Updated:** December 9, 2014
 
   
 
