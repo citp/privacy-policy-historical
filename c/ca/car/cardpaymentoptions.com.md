@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cardpaymentoptions.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194417id_/http%3A//www.cardpaymentoptions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardpaymentoptions.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329000202id_/https%3A//www.cardpaymentoptions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CardPaymentOptions.com
+# Privacy Policy • Expert & User Reviews
 
 ## We Hate Spam Too!
 
@@ -33,5 +33,3 @@ Clicking ads on this website may direct you to a website that collects informati
 ## Questions or Concerns
 
 If you would like to discuss our Privacy Policy, please [contact us](http://www.cardpaymentoptions.com/about/ "About").
-
-**Permanent link to this article:** http://www.cardpaymentoptions.com/privacy-policy/
