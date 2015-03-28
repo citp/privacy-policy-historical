@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarbuzz.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329070901id_/http%3A//www.solarbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarbuzz.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328045416id_/http%3A//www.solarbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solarbuzz
 
@@ -7,7 +7,7 @@
   * 
 
 
-Solarbuzz® respects your privacy and protects your personally identifiable information.  This statement outlines our privacy policy as it applies to our Solarbuzz.com website.
+Solarbuzz respects your privacy and protects your personally identifiable information.  This statement outlines our privacy policy as it applies to our Solarbuzz.com website.
 
 **Information Collected**
 
@@ -35,11 +35,4 @@ Our e-mail communications with you will offer you the opportunity to unsubscribe
 
 **Contact Solarbuzz**
 
-If you have any questions about our Privacy Policy or our web site, or wish to confirm, change or delete any of your personal information with us, you may contact:
-
-Solarbuzz, a part of The NPD Group  
-900 West Shore Road   
-Port Washington, NY 11050   
-1.888.436.7673  
-1.516.625.2452  
-_Contact:_ [contact@solarbuzz.com](mailto:contact@solarbuzz.com)
+If you have any questions about our Privacy Policy or our web site, or wish to confirm, change or delete any of your personal information with us, email [contact@solarbuzz.com](mailto:contact@solarbuzz.com).
