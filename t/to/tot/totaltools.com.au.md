@@ -1,40 +1,106 @@
-> *The following text is extracted and transformed from the totaltools.com.au privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623021221id_/http%3A//www.totaltools.com.au/Privacy.html%3Fsesid%3D9256ae2672ba0b431d3def14e4eba95d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltools.com.au privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328034129id_/http%3A//www.totaltools.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Total Tools Industrial :: Home Page
+# Privacy Policy | Total Tools
 
-Privacy Act 1998 as amended by the Privacy Amendment Private Sector Act 2000
+**PRIVACY POLICY**
+
+_Total Tools Importing Pty Ltd ABN 18 084 220 342 and its related entities as defined in the Corporations Act 2001 (Cth) (“Total Tools”) **** respect the privacy of individuals and treat your Personal Information with respect and integrity. This privacy policy (“Privacy Policy”) sets out the way in which Total Tools collects and handles your Personal Information and complies with the Privacy Act 1988 (Cth). Total Tools reserves the right to amend, at its sole discretion, this Privacy Policy without notice._ ****
+
+  1. ******Collection of Personal Information**
+
+
+
+1.1       Generally you can deal with Total Tools anonymously (i.e. without identifying yourself). However, by doing any of the following you consent to the collection of your Personal Information by Total Tools in accordance with this Privacy Policy:
+
+(a)        Visit Total Tools’ website and providing your Personal Information;
+
+(b)        Interact or follow social media managed by Total Tools (such as Facebook, Twitter, YouTube or Instagram);
+
+(c)        Place an order via a store, telephone or website;
+
+(d)        Apply for a job with Total Tools;
+
+(e)        Submit website feedback, enquires or comments;
+
+(f)         Provide your Personal Information for the provision of special offers by Total Tools or any other service provided by Total Tools, including the newsletter;
+
+(g)        Enter into an agreement with Total Tools; or
+
+(h)        Any other method of collection as determined by Total Tools from time to time.
+
+1.2       Total Tools may collect and hold the following personal information (“Personal Information”):
+
+(a)        Name, address, phone and/or facsimile number and email address;
+
+(b)        Australian Company Number and/or Australian Business Number (if required);
+
+(c)        Details of your orders;
+
+(d)        IP address;
+
+(e)        Loyalty program, award or redemption details;
+
+(f)         Bank details; and
+
+(g)        Any additional information provided to Total Tools, including any feedback, rating or comments made by you.
+
+  1. ******Use of Personal Information**
+
+
+
+2.1       Total Tools uses the Personal Information for the purpose for which it was specified or reasonably apparent at the time when the Personal Information was collected. The Personal Information may be used in respect to the following:
+
+(a)        Providing order confirmations;
+
+(b)        Processing and delivering of orders;
+
+(c)        Assisting the offering of products and services by Total Tools or its related entities, merchants, contractors, agents and/or employees;
+
+(d)        Processing of job or franchise applications and the provision of relevant information in this respect;
+
+(e)        Communicating promotional offers, marketing information or special events;
+
+(f)         Responding to feedback, ratings, comments, complaints and enquiries; and
+
+(g)        Using for administrative, marketing, planning, employment performance review, service or product development purposes.
+
+2.2       You may advise Total Tools if you do not wish to receive any promotional offers, marketing information or special events from Total Tools.
+
+  1. ******Disclosure of Personal Information**
+
+
+
+3.1       Where appropriate and required, Total Tools may disclose your Personal Information:
+
+(a)        To other associated Total Tools entities, including its delivery company;
+
+(b)        To Total Tools’ suppliers, agents or contractors in connection with or for the purpose of Total Tools’ business;
+
+(c)        Where the law requires or authorises Total Tools to do so; and
+
+(d)        To any other third party notified by you at the time of or after collecting your Personal Information, including the merchant performing services to you.
+
+3.2       Total Tools will not disclose Personal Information to overseas recipients.
 
   
-**1\. Collection**  
-The personal information which is provided to Total Tools Industrial (TTI) from our clients part of TTI primary function is not and will not be made available for commercial purposes and is only used for the primary purpose for which it is supplied. TTI collects personal information to build mailing lists for commercial purposes and is not a list broker. 
 
-**2\. Use and Disclosure**  
-The personal information supplied to TTI by our clients will be used only as directed by our clients and in accordance with the Privacy Act, and will not be used for any other purpose. 
 
-**3\. Data quality**  
-The accuracy and quality of personal information is governed by the accuracy and quality data supplied by our clients 
+  1. ******Access to and Protection of Personal Information**
 
-**4\. Data Security**  
-Client Data is stored on our computer files located in our secure premises. Data on our Computer is backed up to guard against system failures and is overwritten every four weeks. Connection of portable computers to our system is not permitted.   
-In addition to the above, TTI has a Staff Security Agreement of which is designed to ensure that the use of the data shall be solely and exclusively to the agreed specific purpose or service. (Copies attached for information). 
 
-**5\. Openness**  
-Our privacy policy and our security forms part of all our negotiations and contractual arrangements and will be made available in written form on request. 
 
-**6\. Access**  
-A person can request access to personal information held by us about that person. We will permit access in accordance with the Privacy Act and National Privacy Principles. We will notify our client if any person has requested access to information about that person provided to us by our client. 
+4.1       Subject to the _Privacy Act 1988_ (Cth), Total Tools provides you with access to your Personal Information upon your request.
 
-**7\. Correction**  
-Any personal information which is found to be inaccurate, incomplete or not up-to-date will be notified to our supplying client, and will be corrected as soon as we have been provided with the correct information by our client. 
+4.2       Total Tools will take reasonable steps to ensure that your Personal Information is accurate, up to date and complete. However, Total Tools relies on you advising of any changes or inaccuracies of your Personal Information. Please advise Total Tools if you are of the view that any of your Personal Information requires updating or correcting.
 
-**8\. Anonymity**  
-Where practicable TTI will maintain the anonymity of an individual in a database of personal information unless identification of an individual is necessary for the purposes for which TTI uses such information in accordance with the Privacy Act. 
+4.3       Total Tools will take reasonable steps to protect your Personal Information from misuse, interference, loss, unauthorised access, modification or disclosure (other than set out in the Privacy Policy).
 
-**9\. Transborder Data Flow**  
-TTI will not transfer personal information to any organization or individual in a foreign country unless the person to whom the information relates has consented to the transfer and the recipient of the information has a privacy policy similar to the National Privacy Principles. 
+4.4       No data transmission over the internet can be guaranteed to be 100% secure. As a result, while Total Tools strives to protect your Personal Information, Total Tools cannot ensure or warrant the security of any information you transmit to Total Tools over the internet, and you do so at your own risk. Once Total Tools receives your transmission, Total Tools makes its best effort to try and ensure the information and Personal Information security both on Total Tools systems and while in transit between Total Tools’ systems and the companies who provide Total Tools with the various systems.
 
-**10\. Sensitive Information**  
-TTI does not and will not collect or use sensitive information as defined in the Privacy Act. Should sensitive information be provided to TTI it will comply with the Privacy Act and national Privacy Principles concerning that information. 
+  1. ******Complaints Procedure**
 
-**11\. General**  
-TTI will use its best endeavors to comply with its obligations under the Privacy Act and the National Privacy Principles to the extent that the Act and those principles apply to TTI Total Tools Business. 
+
+
+5.1       If you wish to make a complaint about a breach of the Privacy Policy or the _Privacy Act 1988_ (Cth) by Total Tools, please lodge a complaint to the Total Tools privacy policy co-ordinator (“Co-ordinator”) at enquiries@totaltools.com.au. The Co-ordinator will investigate your complaint and determine how it can be resolved.
+
+5.2       Should you not be satisfied with the way your complaint was handled or determined, you may contact Total Tools or, alternatively, contact the Australian Information Commissioner via [www.oaic.gov.au](http://www.oaic.gov.au/).
