@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myinfoline.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209223834id_/https%3A//www.myinfoline.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinfoline.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328160637id_/https%3A//www.myinfoline.com/pages/privacypolicy) for the most accurate reproduction.*
 
-# Privacy | My Infoline - whole world at your fingertips. | Online Business Directory of USA | My Infoline USA
+# Privacy | MyInfoline India | MyInfoline Yellow Page | Indian Business Directory | Yellow pages India
 
 Thank you for visiting our website, and for viewing our [terms and conditions ](https://www.myinfoline.com/pages/termsandconditions)and our privacy policy published on this page. We welcome you aboard, and are looking forward to doing business together. Before you go further though, we ask that you take a few moments to review the brief information that follows. If you are unable to accept these terms, then we respectfully ask you to leave.
 
