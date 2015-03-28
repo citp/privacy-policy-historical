@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instant-guru.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820121339id_/http%3A//instant-guru.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instant-guru.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328021954id_/http%3A//instant-guru.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
