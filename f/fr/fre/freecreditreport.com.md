@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecreditreport.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018061526id_/http%3A//www.freecreditreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecreditreport.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328022354id_/http%3A//www.freecreditreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Credit Report
 
