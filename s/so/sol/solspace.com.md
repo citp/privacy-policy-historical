@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solspace.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123075601id_/http%3A//www.solspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solspace.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329120914id_/http%3A//www.solspace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Solspace
 
@@ -32,11 +32,3 @@ Our website utilizes "cookies". A "cookie" is a small text file that permits us 
 #### Commitment
 
 We are committed to privacy and support industry initiatives to preserve individual privacy rights on the Internet. Questions regarding this policy may be sent to: [support@solspace.com](mailto:support@solspace.com).
-
-### Software Support
-
-We pride ourselves on our level of support and our attention to the customer. If you have an issue, we're here to help.
-
-[Support Forums](https://web.archive.org/forums)[Billing Inquiries](https://web.archive.org/contact/billing/)
-
-### Sign-up For Updates
