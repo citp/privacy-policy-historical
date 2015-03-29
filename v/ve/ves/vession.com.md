@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vession.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025053724id_/http%3A//vession.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vession.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329121803id_/http%3A//vession.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - vession.com : vession.com
 
@@ -40,6 +40,6 @@
 
 ### Contacting Us
 
-  14. This is the website of vession.com. We can be reached via e-mail at spy2furious [at] gmail.com. Please replace [at] with @. If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+  14. If you have any questions or information, please don’t hesitate to contact us using the contact form.
 
 
