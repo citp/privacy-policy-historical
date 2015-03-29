@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opportunity-2014x.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004194419id_/http%3A//opportunity-2014x.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opportunity-2014x.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329191241id_/http%3A//opportunity-2014x.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Opportunity 2014 by Bonofa
 
