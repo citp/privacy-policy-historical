@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petsfoto.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710034944id_/http%3A//www.petsfoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsfoto.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329202307id_/http%3A//www.petsfoto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pet Photos
+# Privacy Policy - Pet Photos
 
 Pets Foto  has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
