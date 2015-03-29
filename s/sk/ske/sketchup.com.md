@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sketchup.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022041936id_/http%3A//www.trimble.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchup.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330002916id_/http%3A//www.trimble.com/privacy.aspx) for the most accurate reproduction.*
 
-# Trimble - Online Privacy
-
-### Trimble's Commitment to Online Privacy
-
-Last updated: May 10, 2012
+# Online Privacy
 
 Your right to privacy is important. At Trimble we believe that personal information you choose to furnish online should only be used to help us provide you with the highest quality of products, services and support. We display this Privacy Statement to make you aware of the information practices for Trimble websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. We may update our Privacy Statement from time to time to stay current with changes in our business and to better serve you. We encourage you to visit this page frequently to inform yourself of any changes.
 
@@ -12,9 +8,7 @@ This Privacy Statement covers Trimble's family of corporate websites, which incl
 
 #### Consent to Use and Transfer Personal Data
 
-#### 
-
-Please note that if you submit personal data through the Trimble websites, you will send it to us (Trimble Navigation Limited), in the United States.  We will collect, process and transfer your personal data in accordance with this Data Privacy Statement but possibly not in accordance with the laws of the jurisdiction in which your reside.  By submitting your personal data through a Trimble web site you consent to Trimble's collection, use, storage and transfer of your personal data to our company databases and other repositories, wherever located, for the purposes for which it is submitted and in accordance with the policies set forth in this Privacy Statement.
+**Please note that if you submit personal data through the Trimble websites, you will send it to us (Trimble Navigation Limited), in the United States.   We will collect, process and transfer your personal data in accordance with this Data Privacy Statement but possibly not in accordance with the laws of the jurisdiction in which your reside.  By submitting your personal data through a Trimble web site you consent to Trimble's collection, use, storage and transfer of your personal data to our company databases and other repositories, wherever located, for the purposes for which it is submitted and in accordance with the policies set forth in this Privacy Statement.**
 
 #### Types of Data Collected Online
 
@@ -50,16 +44,11 @@ Specific uses of personal information that vary from this Privacy Policy (if any
 
 In the ordinary course of business Trimble will not sell, trade or rent your individual identifying information to others absent your consent to do so. Trimble may share the personal data you provide online with Trimble Companies and as described below: 
 
-  * Affiliated Companies and Business Partners.We work together with affiliated companies and business partners who are acting on our behalf for the uses described above. For example, an external service provider listed below may host or operate an online Trimble service, or process credit card transactions. When an affiliated company or one of our business partners is involved in a transaction with you, we may share personal identifying information related to this transaction.  
-
-  * Trimble Authorized Dealers and Distributors.We work with and through members of our distribution channel to provide customers and potential customers with product information and customer service. For example, Trimble may forward the contact information of a potential customer to a Trimble-authorized dealer to respond to a customer inquiry about Trimble products.Or Trimble may forward such contact information to enable a Trimble-authorized dealer to furnish customers with a product updates. Trimble requires that its dealers and distributors keep confidential any personal data of customers or potential customers disclosed to them.  
-
-  * Agents. We use agents to act on our behalf. For example, agents may fulfill orders, provide support, or organize sweepstakes. Agents are only given access to the information necessary to perform their functions and Trimble requires that its agents keep confidential any personal identifying information disclosed to them.   
-
-  * Mergers and Reorganizations. In the event of a corporate reorganization, such as a merger, acquisition or sale or transfer of assets by Trimble outside the normal course of business, customer information may be transferred to third parties.   
-
-  * Other Situations. Finally, Trimble may release personal identifying information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of our user agreements (e.g., Trimble website Terms of Use), or (iii) to protect the rights, property or safety of Trimble, our website users, or others.   
-
+  * Affiliated Companies and Business Partners.We work together with affiliated companies and business partners who are acting on our behalf for the uses described above. For example, an external service provider listed below may host or operate an online Trimble service, or process credit card transactions. When an affiliated company or one of our business partners is involved in a transaction with you, we may share personal identifying information related to this transaction.
+  * Trimble Authorized Dealers and Distributors.We work with and through members of our distribution channel to provide customers and potential customers with product information and customer service. For example, Trimble may forward the contact information of a potential customer to a Trimble-authorized dealer to respond to a customer inquiry about Trimble products.Or Trimble may forward such contact information to enable a Trimble-authorized dealer to furnish customers with a product updates. Trimble requires that its dealers and distributors keep confidential any personal data of customers or potential customers disclosed to them.
+  * Agents. We use agents to act on our behalf. For example, agents may fulfill orders, provide support, or organize sweepstakes. Agents are only given access to the information necessary to perform their functions and Trimble requires that its agents keep confidential any personal identifying information disclosed to them. 
+  * Mergers and Reorganizations. In the event of a corporate reorganization, such as a merger, acquisition or sale or transfer of assets by Trimble outside the normal course of business, customer information may be transferred to third parties. 
+  * Other Situations. Finally, Trimble may release personal identifying information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of our user agreements (e.g., Trimble website Terms of Use), or (iii) to protect the rights, property or safety of Trimble, our website users, or others. 
 
 
 
@@ -88,6 +77,8 @@ Ceridian has agreed not sell or rent personally identifiable information provide
 Trimble uses Chase Paymentech to process credit card transactions and for electronic check processing. Trimble passes Chase Paymentech the name of the customer and customer credit card and electronic check details. For further information about Chase Paymentech and its privacy policy please visit its website at <http://www.chasepaymentech.com/>. 
   * [Cybersource](http://www.cybersource.com/)  
 Trimble uses Cybersource to process credit card transactions. Trimble passes Cybersource the name of the customer and their credit card details. For further information about Cybersource's data privacy practices please view its privacy statement at <http://www.cybersource.com/privacy.php>. 
+  * [Docebo NA Inc](http://www.docebo.com/)  
+Docebo NA Inc. hosts the Trimble learning management system (LMS) Learn.Trimble.com. Docebo stores users' training history and contact information on Trimble's behalf. Purchases of Learn.Trimble.com services by credit card are processed as encrypted transactions using Cybersource (see profile above), and users' credit card numbers are not stored by Docebo. For more information about Docebo and its services, please visit their website at [http://www.docebo.com](http://www.docebo.com/). 
   * [Google Analytics](http://www.google.com/analytics/)  
 Google Analytics is a website statistics service that Trimble uses to track our site activity including traffic sources, visitors' information, their activity and sales. This helps us in understanding our audience and improving the customer experience on our sites. For further information about Google Analytics data privacy practices, please view its privacy policy at <http://www.google.com/intl/en/policies/privacy/>
   * [VeriSign](http://www.verisign.com/)   
@@ -123,6 +114,7 @@ You can access or ask for corrections of your personally identifiable informatio
   4. If the information to which access is requested is not maintained in retrievable form, we will explain why access cannot be provided and how this type of information is collected and used. 
   5. If the information to which access is requested is maintained in retrievable form, we will respond to your request within ten working days. Access to the information will be provided in the form of disclosure and will not involve your direct access to our data repositories, on-line or off-line. 
 
+  
 
 
 #### How to Contact Us
