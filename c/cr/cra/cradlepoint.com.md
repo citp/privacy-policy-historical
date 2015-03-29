@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cradlepoint.com privacy policy that was archived on 2014-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140830130945id_/http%3A//cradlepoint.com/legal-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cradlepoint.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330004419id_/http%3A//cradlepoint.com/legal-privacy-statement) for the most accurate reproduction.*
 
-# Legal/Privacy Statement | CradlePoint
+# Legal/Privacy Statement | Cradlepoint
 
 **Privacy Policy**  
 This Privacy Policy describes our practices regarding information we gather from you while you visit the CradlePoint, Inc. U.S. Web site, www.cradlepoint.com, and information we gather from you while you use CradlePoint products. 
