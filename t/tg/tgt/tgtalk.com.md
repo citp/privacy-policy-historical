@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgtalk.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224184839id_/http%3A//tgtalk.com/privacy-polic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgtalk.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330005710id_/http%3A//tgtalk.com/privacy-polic) for the most accurate reproduction.*
 
 # Transgender Chat: Privacy Policy of TGTalk.com | Free Transgender Chat Room
 
