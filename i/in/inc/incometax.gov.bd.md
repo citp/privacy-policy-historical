@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incometax.gov.bd privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501091313id_/http%3A//secure.incometax.gov.bd/Registration/Private_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incometax.gov.bd privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329235731id_/http%3A//secure.incometax.gov.bd/Registration/Private_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - NBR TIN Registration
 
