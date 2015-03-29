@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argentinalook.blogspot.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831025619id_/http%3A//www.uniqueargentina.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argentinalook.blogspot.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329094635id_/http%3A//www.uniqueargentina.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Places to visit in Argentina: Privacy Policy
 
