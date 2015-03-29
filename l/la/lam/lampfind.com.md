@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lampfind.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914062601id_/http%3A//www.lampfind.com/about.html%3Fmethod%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lampfind.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329062141id_/http%3A//www.lampfind.com/about.html%3Fmethod%3Dpolicy) for the most accurate reproduction.*
 
 # Policy - lampfind.com
 
