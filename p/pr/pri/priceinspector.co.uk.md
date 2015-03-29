@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceinspector.co.uk privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829122753id_/http%3A//www.priceinspector.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceinspector.co.uk privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329083113id_/http%3A//www.priceinspector.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - PriceInspector UK
 
