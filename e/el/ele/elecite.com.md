@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elecite.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812225210id_/http%3A//www.elecite.com/pages.php%3Fcmsid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elecite.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330000508id_/http%3A//www.elecite.com/pages.php%3Fcmsid%3D4) for the most accurate reproduction.*
 
 # BlackBerry Themes - Elecite
 
@@ -8,7 +8,7 @@ Blackberry Themes.
 Beware - instant popularity   
 may occur...
 
-[](https://web.archive.org/web/20140812225210id_/http%3A//www.elecite.com/gallery.php)
+[](https://web.archive.org/web/20150330000508id_/http%3A//www.elecite.com/gallery.php)
 
 Get super-secret emails on   
 things you are otherwise   
