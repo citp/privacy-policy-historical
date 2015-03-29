@@ -1,61 +1,115 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922210836id_/http%3A//www.faro.com/en-gb/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329213526id_/http%3A//www.faro.com/en-us/footer/privacy-policy) for the most accurate reproduction.*
 
-# FARO Technologies Internet Privacy Policy
+# FARO - Privacy Policy
 
-* **General**  
-The responsibility for data processing in connection with this website rests with FARO Technologies  (“FARO”).  
-FARO respects individual privacy and values the confidentiality of every visitor to its website. FARO strives to collect, process and transfer personal data in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices.   
-This Internet Privacy Policy (the “Policy”) sets forth the privacy principles that FARO follows with respect to personal data it collects, processes and transfers using this website. 
+This website is owned and operated by FARO Technologies Inc. (“FARO”, “we”, “our”, or “us”). FARO respects the privacy of visitors to our website. This Notice describes the types of information we collect about visitors to the FARO website, how we may use the information and with whom we may share it. This Notice also describes (1) the measures we take to safeguard the information we collect and (2) your rights and privileges concerning our collection, use and disclosure of information about you. 
 
-* **Data being Collected**
+This Notice is consistent with [FARO’s Notice of Safe Harbor Compliance](https://web.archive.org/en-us/footer/faro---legal-notices) regarding transfers of personal information from the European Economic Area to the United States. 
 
-  1. Automatically collected data  
-In general, visitors can reach FARO on the web without revealing any personal data.  
-Some data will be recorded automatically each time the FARO website is being accessed. Such data may contain IP-address, type of browser used, operating system of accessing computer, length of stay on the FARO website, areas of the FARO website being visited etc. Such data are of technical nature and, in general, can not and will not be used by FARO to identify individuals.   
-FARO may also collect anonymous data concerning website users through the use of “cookies” in order to provide better customer service. Cookies are files that websites place on users’ computers to identify the user and enhance the website experience. None of this data is reviewed at an individual level. Visitors may set their browsers to provide notice before they receive a cookie, giving the opportunity to decide whether to accept the cookie. Visitors can also set their browsers to turn off cookies. If visitors do so, however, some areas of FARO websites may not function properly. Visitors wishing to control cookies in the ways described above should consult the user manual of their browser software. 
+This Notice applies to the FARO website, located at [www.faro.com](http://www.faro.com/), as well as to any versions of the FARO website that FARO operates. Please note that our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. 
 
-  2. Voluntarily provided data   
-Visitors on the web may elect to voluntarily provide personal data via the FARO websites but are not required to do so. FARO collects data from visitors to the websites who voluntarily provide personal data by sending emails using contact data obtained by using the FARO website, filling out and submitting online questionnaires concerning feedback on the website; commenting, discussing or using other means of communication or feedback where such are being provided; requesting information on products or services; or seeking employment. 
+For clarification, this Notice applies only to information collected through the FARO website and does not describe the ways in which we may collect or use information obtained offline or the collection, use and disclosure practices of any of FARO’s corporate affiliates or business partners who make our services available on their websites (collectively, “Affiliates”) or other third parties. For information on the collection, use and disclosure practices of an Affiliate or other third party, please review the privacy policy on the applicable party’s website.
+
+Goods and services offered by FARO are not directed to individuals under the age of thirteen (13). FARO does not knowingly collect Personal Information (as defined below) from individuals under thirteen (13) years of age. No information should be submitted to or posted to the FARO website by visitors younger than 13 years old.
+
+**Information We May Collect**
+
+The information we may collect falls into two categories: Personal Information and Site-Level Data. Personal Information is information that we directly associate with a specific person or entity, which may include but not be limited to name, company name, industry, job title or role, state, zip or postal code, telephone numbers, email addresses, product interest, device serial numbers, how you heard about FARO, payment information (including credit card numbers or online payment services numbers) and financial information such as bank account numbers. The Personal Information you provide will vary based upon the context, and we will not collect your Personal Information unless you make it available. You are not required to provide Personal Information at any time while visiting the FARO website; however, you may be required to provide Personal Information to use certain FARO services or to purchase goods offered by FARO on its website.  You may also submit Personal Information to us in other ways, such as participating in online surveys, promotions, contests and sweepstakes, downloading whitepapers, webinars, and other materials through the FARO website, and in connection with other products, services, features, or requests made available through the FARO website.
+
+Site-Level Data is anonymous information regarding use of our website or services that is collected and/or aggregated by or on behalf of FARO through the use of automated means, which include cookies and web beacons. “Cookies” are small identifiers sent from a web server that are stored on your computer’s hard drive for the purpose of identifying your browser during interaction on websites or storing information or settings in your browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Site-Level Data collected through these automated means may include information that we may gather and store about your visit to, and use of, the FARO website, such as your IP address, screen resolution, type of browser and operating system used, date and time you access the websites, pages you visit, and if you linked to this website from another website or search engine, the identity of that website or search engine. Site-Level Data does not include Personal Information and is not treated as Personal Information under this Notice. 
+
+In addition to the cookies and web beacons we set, we may also allow certain third-party analytics service providers to include cookies and web beacons within the pages of the FARO website on our behalf and to retain and use Site-Level Data received from such cookies and web beacons themselves. Third party service providers that collect Site-Level Data on our behalf may offer information about their data collection practices, and in some cases, an opt out on their respective websites which you can access here: ([Hosting](http://www.hosting.com/terms-conditions/privacy-policy); [Eloqua](http://www.eloqua.com/trust/Privacy_Policy.html); [Google](http://www.google.com/intl/en/policies/); [Adobe](http://www.adobe.com/privacy/advertising-services.html)).  
+  
+Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies. If you choose to decline cookies, certain features of the FARO website may not function properly or at all as a result.  
+
+
+**How We May Use the Information We Collect**
+
+We may use the Personal Information we collect for the following purposes:
+
+  1. for our everyday business purposes, such as establishing and managing your customer account, providing products and services you request, processing and collecting payments and  providing customer support;
+  2. to offer our products or services and/or the products or services of others to you;
+  3. to communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes and other offers or promotions; 
+  4. to enable you to interact with FARO and our customers through our message boards, blogs and social media; 
+  5. to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services and website; 
+  6. to perform data analyses, including market and consumer search, trend analysis, demographic analysis and financial analysis; and
+  7. to comply with applicable legal requirements and our policies.
 
 
 
-* **Purpose for Collecting Data**  
-FARO’s sole purpose for operating its websites is to provide information concerning products and services to its customers and employees and to provide a means of communication. FARO Technologies collects, processes and uses personal data using its website solely for this reason, unless there are more specific reasons, which will be stated explicitly when collecting that data. Particularly, FARO processes data so it may answer questions and forward requested information.  
-FARO does not use data other than for its intended purpose in each case. 
+In addition, we use Site-Level Data collected through automated means for purposes such as:
 
-* **Transmission of Data**  
-In general, FARO does not transfer personal data to third parties without the expressed consent of the visitor concerned. Particularly, FARO will not sell or rent personal data to third parties for marketing purposes.   
-FARO may, however, utilise third party service providers to perform under a contract or honor a request made by the visitor (e.g. when sending out requested information material by mail). Such service providers act on behalf of FARO and may have access to personal data needed to perform their functions, but may not use such personal data for other purposes. Further, they must process the personal data in accordance with this Privacy Policy and as permitted by the applicable Data Protection laws and regulations.  
-Third party service providers may also be utilised to collect and process statistical data as described above in paragraph 2.1.   
-Personal data may be transferred to affiliated companies of FARO if and to the extend such transfer is explicitly requested by the visitor or necessary to perform under a contract or honor a request made by the visitor and such transfer is obvious to the visitor (e.g. if the visitor applies for a job offer made on FARO’s website by an affiliate company such application will be forwarded to such affiliate company). Such transfers may include recipients outside of the European Union and/or the European Economic Area, particularly to FARO’s holding company, if and to the extend such transfer is permitted by the applicable law and regulations including the Safe Harbor Principles.   
-The companies in the FARO group abide by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission. 
+  1. customizing visits to our website based on observable user preferences;
+  2. delivering content (including advertising) correlating to our users’ interests based on the ways in which our users interact with our website;
+  3. diagnosing technical and service problems; and 
+  4. administering our website. 
 
-* **Data Security**  
-FARO maintains technical and organisational measures to protect the security of all personal data being collected, processed and transferred. Such measures will be constantly further updated and amended according to the technological development. 
 
-* **Term of Storage**  
-The applicable laws and regulations specify what personal data FARO can and must store and for how long. Once these terms expire, FARO routinely deletes this data or blocks it, following Data Protection laws and regulations.  
-Where the storage of data is not subject to specific terms, FARO deletes it or blocks it once the reasons why the data was collected for cease to apply. 
 
-* **Disclosure and Choice**  
-FARO website visitors have the option to request disclosure of personal data of such visitor FARO may have stored, and to request that FARO Technologies may not use data previously provided, correct data previously provided, or remove data previously provided to FARO.   
-Such inquiries should be directed to:
+**Applications and Widgets**
 
-Human Resources FARO Technologies
+We may include applications or widgets from third parties on some pages of this website that allows interaction or content sharing by users. “Widgets” are mini-programs that provide specific services or content from a third party. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the webpage you visit. Your interaction with a widget typically allows the third party to collect some information about you through the third party’s cookies or its registration information. In some cases, the third party may recognize you through its widgets and cookies even when you do not interact with the widget. Please visit the third-parties’ respective privacy policy to better understand their data collection practices and controls they make available to you [LINK to websites of widget providers].  The privacy policies of those third parties applies to, and controls, all data collection practices via interaction with such widgets. 
 
+**Advertising Networks**
+
+We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of such advertisements. Typically, these companies are third-party advertising servers, advertising agencies, technology vendors, providers of sponsored content and research firms, and they may utilize information collected through cookies, web server logs  and web beacons  to provide customization, auditing, research and reporting for us, our Affiliates and other advertisers. This data collection takes place both on this website and on third-party websites that participate in the advertising networks. This process enhances the deployment of our marketing programs and helps us to track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences, for measuring the effectiveness of their advertising, and for other purposes. 
+
+We do not provide any Personal Information to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the possibility exists that the advertiser will make the assumption that you are interested in the subject matter of the advertisements. [Click here](http://www.networkadvertising.org/managing/opt_out.asp) to visit the Network Advertising Initiative website to learn more about ad serving companies and opt-out from each of those listed.
+
+Please note that this does not opt you out of being served advertising but only excludes you from interest-based advertising. If you use the FARO website or Affiliate websites, you will continue to receive generic advertisements. 
+
+**Information collected automatically**
+
+Usage data may be collected on this website using technology provided by third-party providers acting on behalf of FARO.  The click paths of website users who cannot be personally identified are also collected for marketing and optimization purposes. The collected data is used exclusively by FARO and is never passed on to third parties. The collection of data is carried out in compliance with current data protection guidelines appropriate to the regions in which FARO operates. 
+
+In the European Union, any tracking program that is used not only ensures that no cookies are created, but it also prevents the user's locally stored cookies from being disclosed. The data that is collected by means of technology provided by any third-party providers is not used to personally identify the website user. This data is used to perform quality analysis of the website or for testing marketing activities.  
+
+**Information We Share**
+
+We may share Site-Level Data with third parties, including our Affiliates, dealers, marketing businesses and lead generation businesses, for any reason and without notice to you. We do not sell or otherwise share Personal Information except as described below:
+
+  1. Affiliates. FARO may share your Personal Information with its Affiliates so long as the disclosure and use of your Personal Information by such entities is consistent with this Notice.
+  2. Service Providers.  We may engage third parties to provide the services offered through this website on our behalf, or other services with us. In such cases, we require such providers to maintain your Personal Information as confidential and to use the information only to perform the services specified by us in a manner consistent with this Notice.
+  3. Surveys/Sweepstakes/Promotions. In the event that you participate in a survey, sweepstakes, contest or other promotion on the FARO website that is sponsored by FARO and a third party, such participation serves as your consent for FARO to share your Personal Information collected in conjunction with the survey, sweepstakes, contest or promotion with the third party. After the information is provided to such third parties, the subsequent use or disclosure of such information is subject to those third parties’ privacy policies and practices. 
+  4. Other. We may access or disclose information, including Personal Information, to: (i) protect or defend our interests and the legal rights or property of FARO] and our Affiliates; (ii) protect the rights, interest and safety and security of users of our website or members of the public,; (iii) protect against fraud or for risk management purposes; or (iv) comply with prudent legal practice as we may determine, applicable law or legal process. In addition, if we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer all information we have collected and stored, including your Personal Information, to the party or parties involved in the transaction as part of that transaction.
+
+
+
+**Your Choices**
+
+You are entitled to make certain choices about how we communicate with you and the information we collect from you and share with third parties. You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in our marketing emails, adjusting your email preferences or contacting us as specified in the “How To Contact Us” section below. You also may withdraw your consent for FARO to share your Personal Information with third parties as described in this Notice by contacting us using the means specified in the “How To Contact Us” section below, and we will honor your request. 
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. As stated in this Notice, FARO will not sell or share your Personal Information with non-FARO companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the “How to Contact Us” section below.
+
+**Access and Correction**
+
+Subject to applicable law, (i) you may obtain a copy of certain personal information we maintain about you or update or correct inaccuracies in that information through your account on [www.faro.com](http://www.faro.com/) or (ii) you may have the right to obtain access to personal information we maintain about you by contacting us as indicated in the “How To Contact Us” section below. To protect your privacy, we will take steps to verify your identity before granting you access to the information. If you believe that Personal Information we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated below.
+
+**Links**
+
+The FARO website may contain links to websites or web pages not operated by FARO. Once you leave the FARO, we suggest that you review the applicable privacy policy of the third-party website, among other things, how they will handle any Personal Information they collect from you. We are not responsible for the content of any websites that are not affiliated with FARO, any use of those websites, or the privacy practices of those websites.  
+
+**Data Transfers**
+
+We may transfer the Personal Information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Notice and in accordance with applicable law and FARO’s Safe Harbor Privacy Practices, if applicable.
+
+**Data Security**
+
+FARO uses commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard Personal Information in our possession against loss, theft and unauthorized use, disclosure, or modification. Of course, despite these measures, we cannot guarantee perfect security of networks, servers and databases we operate or that are operated on our behalf.
+
+**Updates to this Notice**
+
+We may update this Notice to provide clarification or notice of changes to our practices. If we make changes, we will revise the date at the top of this Notice.  If we propose to use Personal Information in a materially different way, we will provide you with additional notice by posting notice of the changes on the FARO website for at least 30 days before we implement those changes, and we will obtain your consent as noted above for any material change regarding disclosure of Personal Information.
+
+**How to Contact Us**
+
+If you have any questions or comments about this Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [info@faro.com](mailto:info@faro.com) or call us at (407) 333-9911. 
+
+You may also write to us at:
+
+FARO Technologies  
 250 Technology Park  
 Lake Mary, FL 32746  
-Phone: 407.333.9911  
-Fax: 407.333.4181  
-E-Mail: [hr@faro.com](mailto:hr@faro.com)
-
-The inquiries should include the visitor’s name, address, and other relevant contact data (phone number, email address). FARO will use all reasonable efforts to honor such requests as quickly as possible. FARO may have to request a proof of identity in order to disclose any data or to honor any requests. 
-
-* **Changes to this Privacy Policy**  
-The practices described in this Policy are current personal data protection policies as of 11/25/2008. FARO reserves the right to modify or amend this Policy at any time consistent with the requirements of the applicable Data Protections laws and regulations. Appropriate public notice will be given concerning such amendments. 
-
-* **Links to other Websites**  
-FARO websites may contain links to other “non-FARO” websites. FARO assumes no responsibility for the content or the privacy policies and practices on those websites. FARO encourages all users to read the privacy statements of those sites; their privacy practices may differ from those of FARO 
-
-* **Use of Google Analytics**  
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website is usually transmitted to and stored by Google on servers in the United States. If IP anonymisation is activated on this website, within EU Member States or in other member states of the European Economic Area Google will shorten your IP address before transmitting it. Your full IP address will only be transmitted to a Google server in the USA and shortened there in exceptional cases. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for the website operator and providing other services for the website operator relating to website activity and internet usage. Google will not associate your browser’s IP address transmitted for Google Analytics purposes with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser; however, please note that if you do this you may not be able to use the full functionality of this website. Furthermore, you can prevent the collection of data generated by the cookie about your use of the website (including your IP address) and its processing by Google by downloading and installing the browser plug-in provided under this link: <http://tools.google.com/dlpage/gaoptout?hl=en>
+(800) 736-0234  \-  (407) 333-9911
