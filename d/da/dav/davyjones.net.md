@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davyjones.net privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907171209id_/http%3A//davyjones.net/djprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davyjones.net privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330002000id_/http%3A//www.davyjones.net/djprivacy.html) for the most accurate reproduction.*
 
 # D a v y J o n e s | O f f i c i a l S i t e
 
