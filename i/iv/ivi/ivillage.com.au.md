@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivillage.com.au privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227094734id_/http%3A//www.ivillage.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivillage.com.au privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329020538id_/http%3A//www.ivillage.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iVillage AU
 
