@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redroof.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018215145id_/http%3A//www.redroof.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redroof.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329060943id_/https%3A//www.redroof.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Protection Policy & Terms | Your Rights & Personal Information | About Us | Red Roof Inn
+# Privacy Protection Policy & Terms | Red Roof Inn
 
 The purpose of this Policy is to balance our legitimate business interests in collecting and using Guest Information with the reasonable expectation of privacy, which may be held by those providing such Guest Information. It is necessary for us to collect and store Guest Information to provide requested lodging and related services and for billing purposes. Many state laws require hotel operators to collect and retain some or all of such Guest Information. We may also use credit card numbers to identify our frequent guests and the persons who make guaranteed reservations.
 
@@ -51,3 +51,6 @@ All contents of this website are protected by United States and International Co
 ####  **Privacy Protection Policy Changes**
 
 In the future, we may need to change this Policy. All changes will be included on this website so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. This Policy was last updated on September 1, 2008.
+
+  
+
