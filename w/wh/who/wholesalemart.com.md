@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalemart.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703143918id_/http%3A//www.wholesalemart.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalemart.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329195108id_/http%3A//www.wholesalemart.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20140703143918id_/http%3A//www.wholesalemart.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20150329195108id_/http%3A//www.wholesalemart.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
