@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bplaynetwork.com privacy policy that was archived on 2014-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140725012535id_/http%3A//www.bplaynetwork.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplaynetwork.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329011111id_/http%3A//www.bplaynetwork.com/front/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for bplaynetwork.com
 
