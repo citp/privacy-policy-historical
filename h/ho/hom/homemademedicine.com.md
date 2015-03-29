@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemademedicine.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808104428id_/http%3A//www.homemademedicine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemademedicine.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329032103id_/https%3A//www.homemademedicine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,4 +45,4 @@ Several public forums are hosted on the HMM website. The inherent public nature 
 External Links  
 The only domain covered by the HMM privacy policy is HMM.com. The HMM website may contain links to other sites, however, and the HMM is not responsible for the privacy practices or content of those external sites.
 
-E-mail: [privacy@homemademedicine.com](http://www.homemademedicine.com/privacy.html#)
+E-mail: [privacy@homemademedicine.com](https://www.homemademedicine.com/privacy.html#)
