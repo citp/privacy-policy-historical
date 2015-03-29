@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitistjerks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052004id_/http%3A//forums.elitistjerks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitistjerks.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330013759id_/http%3A//forums.elitistjerks.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Elitist Jerks
 
