@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ktmb.com.my privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529045630id_/http%3A//www.ktmb.com.my/index.php/terms/business-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktmb.com.my privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330013752id_/http%3A//www.ktmb.com.my/index.php/en/terms/business-privacy-policy) for the most accurate reproduction.*
 
 # Business Privacy Policy
 
-__Category:[Information](http://www.ktmb.com.my/index.php/terms/business-privacy-policy/15-information) __Published: Monday, 10 February 2014 __Written by Super User
+__Category:[Information](http://www.ktmb.com.my/index.php/en/terms/business-privacy-policy/15-information) __Published: Monday, 10 February 2014 __Written by Super User
 
 This privacy policy sets out how KTMB uses and protects any information that you give KTMB when you use this website. 
 
@@ -72,4 +72,4 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-__Hits: 2291
+__Hits: 8481
