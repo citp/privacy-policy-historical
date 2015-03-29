@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120043258id_/http%3A//www.valpak.com/coupons/show/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329233352id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.*
 
 # Free Printable Coupons and Online Promo Codes - Valpak.com
 
@@ -111,7 +111,7 @@ To change your profile and preferences or deactivate your participation in the s
 
   * Visit the "Your Profile" section of Valpak.com and change your current status.
   * Send an email to [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com) and request to unsubscribe.
-  * Write to Valpak.com, 8605 Largo Lakes Drive, Largo, Florida 33773 attn: Customer Service.
+  * Write to Valpak.com, 805 Executive Center Drive West, St. Petersburg, FL 33702 attn: Customer Service.
   * Call 1-800-237-6266 and ask for Digital Support with any other questions you may have.
 
 
