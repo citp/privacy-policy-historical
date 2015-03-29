@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stupidcoeds.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004215201id_/http%3A//www.stupidcoeds.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stupidcoeds.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330014025id_/http%3A//www.stupidcoeds.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
