@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freedompop.com privacy policy that was archived on 2014-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141130205905id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freedompop.com privacy policy that was archived on 2015-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150330084554id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     
@@ -26,6 +26,7 @@
     
     <meta name="keywords" content="free wireless internet, free internet, wireless internet, internet, internet provider, wireless internet provider, 4G, free internet, free broadband, mobile broadband, free mobile broadband, mobile broadband isp, broadband isp, wireless internet provider, internet provider, wifi">
     <meta name="msvalidate.01" content="C07FC2E788828042A873475AD864A416">
+
     <!--<meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" name="viewport" />-->
     <!--
     /* @license
@@ -61,27 +62,41 @@
             var basePath = "/";
             funnelName = ("organic".length > 0) ? "organic" : "organic";
             experience = "";
-            console.log("per the controller/default, the funnelName is "+funnelName);
-            console.log("Experience is " + experience);
+            try{ // console objects not guaranteed to exist until after checks below complete.
+               console.log("per the controller/default, the funnelName is "+funnelName);
+               console.log("Experience is " + experience);
+            }
+            catch(e){}
         </script>
     	<link rel="stylesheet" href="/static/css/webfonts.css">
         <link href="https://fonts.googleapis.com/css?family=Lekton:700" rel="stylesheet" type="text/css">
-
-
         
         
 
 
     
     
-        <!--[if gt IE 8]><!--><link rel="stylesheet" href="/static/css/account.css?v=6927"><!--<![endif]-->
+        <!--[if gt IE 8]><!--><link rel="stylesheet" href="/static/css/account.css?v=7858"><!--<![endif]-->
         <!--[if lte IE 8]>
-        <link rel="stylesheet"  href="/static/css/ie-account.css?v=6927" />
+        <link rel="stylesheet"  href="/static/css/ie-account.css?v=7858" />
         <![endif]-->
     
 
 
     
+         <script type="text/javascript">
+            if (typeof window.onerror === 'undefined')onerror=new Function();
+            if (typeof Image === 'undefined')Image={};
+            if (typeof Image.src === 'undefined')console.src=new Function();
+
+            window.onerror = function(message, url, linenumber){
+               message = (typeof message !== 'undefined' && message != null) ? message : "No Message";
+               url = (typeof url !== 'undefined' && url != null) ? url : "No url";
+               linenumber = (typeof linenumber !== 'undefined' && linenumber != null) ? linenumber : "No linenumber";
+               new Image().src ="/jsScavenger?message="+encodeURIComponent(message)+"&url="+encodeURIComponent(url)+"&line="+encodeURIComponent(linenumber);
+               window.onerror = new Function();
+            }
+         </script>
         <script type="text/javascript">
             if (typeof window.console === 'undefined')console={};
             if (typeof window.console.log === 'undefined')console.log=new Function();
@@ -116,7 +131,7 @@
         
             
             
-                <script type="text/javascript" src="/static/js/freedompop_scripts.min.js?v=6927"></script>
+                <script type="text/javascript" src="/static/js/freedompop_scripts.min.js?v=7858"></script>
             
         
         <script type="text/javascript">
@@ -138,7 +153,6 @@
 
         <script type="text/javascript">
             $(document).ready(function(){
-
                 //modal dialog
                 var t = $('#modal .modalContent');
 
@@ -147,14 +161,15 @@
                     trigger         : ".modalTrigger",
                     ajax            : "@href",
                     onHide          : function(h){
-                                            h.o.remove(); // remove overlay
-                                            h.w.fadeOut(888); // hide window
-                                        },
+                        h.o.remove(); // remove overlay
+                        h.w.fadeOut(888); // hide window
+                    },
                     overlay         : 70, /* 0-100 (int) : 0 is off/transparent, 100 is opaque */
                     modal           : true,
                     target          : t,
                     overlayClass    : 'modalOverlay'
                 });
+
 
                 // Close Button Highlighting. IE doesn't support :hover. Surprise?
                 $('input.jqmdX').hover( function(){
@@ -251,7 +266,6 @@
 
 
 
-
 <!-- Google Code for REMARKETING SEARCH [NOT SUB] -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
@@ -295,8 +309,8 @@
                             </div>
                         </li>
                         <li class="logIn">
-                            <a href="https://freedompop.com/login.htm" class="signin">Log in</a>
-                            <form name="signin" method="post" id="signin" action="https://freedompop.com/login.htm" novalidate="novalidate">
+                            <a href="https://www.freedompop.com/login.htm" class="signin">Log in</a>
+                            <form name="signin" method="post" id="signin" action="https://www.freedompop.com/login.htm" novalidate="novalidate">
                                 <fieldset id="signin_menu">
                                     <div class="errorContainer" style="height:14px;margin-top:-16px;"></div>
                                     <ul>
@@ -324,6 +338,7 @@
 	    
         
     </div>
+      
 </header>
 <div id="tntClickTrack"></div>
 
@@ -756,7 +771,6 @@
                             <li><a href="/affiliates">Affiliates</a></li>
                             <li><a href="/retail-partners">Retail Partners</a></li>
                             <li><a href="/freedompop-business/">Business Solutions</a></li>
-
                         </ul>
                     </li>
                     <li class="mid">
@@ -802,10 +816,16 @@
                 </ul>
             </div>
             <div class="footerLogo">
-                <ul>
-                    <li class="logoImg"><a href="/">&nbsp;<img src="/static/img/logo.png"></a></li>
-                    <li>© 2014 FreedomPop</li>
-                </ul>
+                <div class="footerLogoCntr">
+                    <ul class="footerApps">
+                        <li><a href="https://play.google.com/store/apps/details?id=com.freedompop.ott&amp;hl=en/">Free Call &amp; Text Android App</a></li>
+                        <li><a href="https://itunes.apple.com/us/app/freedompop-free-voice-text/id835399970?ls=1&amp;mt=8">Free Call &amp; Text iOS App</a></li>
+                    </ul>
+                    <ul>
+                        <li class="logoImg"><a href="/">&nbsp;<img src="/static/img/logo.png"></a></li>
+                        <li>© 2015 FreedomPop</li>
+                    </ul>
+                </div>
             </div>
         
         
