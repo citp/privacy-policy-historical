@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104115625id_/http%3A//www.rsmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330070910id_/https%3A//www.rsmart.com/privacy-policy) for the most accurate reproduction.*
 
-# rSmart Privacy Policy - rSmart
+# rSmart Privacy Policy - rSmart OneCampus
 
 rSmart recognizes and respects the privacy interests of its users. rSmart is committed to protecting that privacy and keeping users informed about our privacy policy.
 
@@ -14,19 +14,20 @@ rSmart recognizes and respects the privacy interests of its users. rSmart is com
   * [How do I know my information is safe with you?](http://www.rsmart.com/privacy-policy#safe)
   * [Does rSmart use cookies?](http://www.rsmart.com/privacy-policy#cookies)
   * [Links](http://www.rsmart.com/privacy-policy#websites)
+  * [About this website](https://web.archive.org/privacy-policy#about-this-site)
   * [Questions](http://www.rsmart.com/privacy-policy#questions)
 
 
 
-## rSmart Privacy Statement and its exceptions
+## rSmart Privacy Statement and its Exceptions
 
 Except as set forth below, the personally identifiable data you submit to rSmart is not made available or distributed to third parties, except with your express consent and at your direction. In particular, rSmart will not give, sell or provide access to your personal information to any company, individual or organization for its use in marketing or commercial solicitation or for any other purpose, except as is necessary for the operation of this site.
 
-### Exceptions to the Privacy Policy
+**Exceptions to the Privacy Policy**
 
 There are limited exceptions to the rSmart privacy policy.
 
-  * Personal information you enter on public web sites such as the rSmart CLE Community site in MySakai is available to other site participants. rSmart is not responsible for the privacy practices of users of these sites who are not rSmart employees.
+  * Personal information you enter on public web sites is available to other site participants. rSmart is not responsible for the privacy practices of users of these sites who are not rSmart employees.
   * When required by law to comply with any valid legal process such as a search warrant, subpoena, statute, regulation or court order, rSmart will supply such information as that organization reasonably determines, based on the advice of counsel, it is legally required to supply.
   * rSmart may release specific information relevant to special cases, such as a physical threat to you or others or an attempted breach of security on the rSmart site.
 
@@ -44,15 +45,11 @@ rSmart collects personal to enable rSmart to respond to your questions or contac
 
 rSmart will use your personal identifying information to automatically fill out forms and surveys upon your instructions to do so.
 
-Your personal identifying information may also be used for the following purposes:
-
-We may use your identifying information to help diagnose problems with rSmart’s server and to administer the rSmart Website.
-
-Summary data representing a compilation of aggregate data representing rSmart users may be collected by rSmart. NO PERSONAL IDENTIFYING INFORMATION IS USED IN THESE SUMMARY REPORTS. Some examples of summary data are the number of monthly visitors to the site, and the number of subscribers to rSmart e-mail newsletters.
+Your personal identifying information may also be used for the following purposes: (1) We may use your identifying information to help diagnose problems with rSmart’s server and to administer the rSmart Website. (2) Summary data representing a compilation of aggregate data representing rSmart users may be collected by rSmart. NO PERSONAL IDENTIFYING INFORMATION IS USED IN THESE SUMMARY REPORTS. Some examples of summary data are the number of monthly visitors to the site, and the number of subscribers to rSmart e-mail newsletters.
 
 ## Who else gets to see my information?
 
-Currently, no one.
+Currently, no one. We will never share or sell your information.
 
 ## How do I know my information is safe with you?
 
@@ -66,6 +63,10 @@ A cookie is a small file that a website transfers to a user’s computer, which 
 
 rSmart hosts links to other sites having privacy policies that may differ from those of rSmart. rSmart is not responsible for the privacy practices or the content of any websites to which rSmart links.
 
+## About this Website
+
+This website was created using the latest standards in website development technology, with a mobile-friendly responsive design layout, and proper HTML5 schema markup. It was proudly developed in partnership with [Web Symphonies](http://www.websymphonies.com/), an eco-friendly web design company.
+
 ## Questions?
 
-If you have any questions about this privacy statement and the privacy practices on this site, please [contact us](http://www.rsmart.com/contact "Contact rSmart").
+If you have any questions about this privacy statement and the privacy practices on this site, please [contact us](http://www.rsmart.com/contact-us/ "Contact rSmart").
