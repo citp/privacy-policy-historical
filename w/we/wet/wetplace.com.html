@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wetplace.com privacy policy that was archived on 2014-07-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140713182814id_/http%3A//www.wetplace.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wetplace.com privacy policy that was archived on 2015-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150331000512id_/http%3A//www.wetplace.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -299,7 +299,7 @@ else
 		</div>
 
       
-
+<script type="text/javascript" src="/js/fab.js"></script>
 <script type="text/javascript">
 var userLang = navigator.language || navigator.userLanguage; 
 if( userLang == 'ru' ) {
@@ -336,6 +336,51 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 
+var video_dir = "";
+var video_title = "";
+$('.dd_link').each(function() {
+$(this).attr('href', $(this).attr('href') + '&t=' + encodeURIComponent(btoa(video_title)) + '&d=' + encodeURIComponent(btoa(video_dir)) + '&v=' + encodeURIComponent(btoa(flashvars.video_url))  );
+});
+
+function adBlockNotDetected() {
+    console.log('ab not found');
+    if (typeof ga !== 'undefined') {
+      ga('send', 'event', 'Adblock', 'No', {'nonInteraction': 1}); 
+    } else if (typeof _gaq !== 'undefined') { 
+      _gaq.push(['_trackEvent', 'Adblock', 'No', undefined, undefined, true]);
+    }
+    if( GetCookie('adbd') == 1 ) {
+      if (typeof ga !== 'undefined') {
+        ga('send', 'event', 'Adblock', 'Disable', {'nonInteraction': 1}); 
+      } else if (typeof _gaq !== 'undefined') { 
+        _gaq.push(['_trackEvent', 'Adblock', 'Disable', undefined, undefined, true]);
+      }
+    }
+}
+
+function adBlockDetected() {
+    console.log('ab detected');
+    SetCookie('adbd',1,24);
+    $('#vpc').html("<div style='margin:0 auto;width: 700px;'><img src='/images/sad.png' style='margin-left: 277px;margin-top:13px;'><h1 style='color:white;text-align: center;'>Please disable AdBlock to watch </h1><img src='/images/adb.png' style='width: 400px;margin-left: 150px;'></div>");
+    if (typeof ga !== 'undefined') {
+      ga('send', 'event', 'Adblock', 'Yes', {'nonInteraction': 1}); 
+    } else if (typeof _gaq !== 'undefined') { 
+      _gaq.push(['_trackEvent', 'Adblock', 'Yes', undefined, undefined, true]);
+    }
+}
+
+if( _GET('utm_campaign') != null ) {
+  if(typeof fuckAdBlock === 'undefined') {
+    adBlockDetected();
+  } else {
+    fuckAdBlock.onDetected(adBlockDetected);
+    fuckAdBlock.onNotDetected(adBlockNotDetected);    
+  }
+  fuckAdBlock.setOptions({
+    checkOnLoad: true,
+    resetOnEnd: true
+  });
+}
 </script>
 
     <div class="clear"></div>
@@ -441,5 +486,6 @@ var cnt = Math.round($('.content').width() / 300);
 $("#askbox").find("#button").attr('value','');
 $("#query").click(function() { $("#query").val(''); });
 </script> 
+<meta name="check" content="4503a59b31f040a16969f28f263d03f3">
 
 </body></html>
