@@ -1,0 +1,512 @@
+<!--The following is the downloaded HTML source of the gnarks.com privacy policy that was archived on 2015-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150331001549id_/http%3A//gnarks.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-GB" prefix="og: http://ogp.me/ns#"><head>
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Gnarks Privacy Policy - Gnarks</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://gnarks.com/xmlrpc.php">
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Gnarks Privacy Policy">
+<link rel="canonical" href="http://gnarks.com/privacy-policy/">
+<meta property="og:locale" content="en_GB">
+<meta property="og:locale:alternate" content="fr_FR">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Gnarks">
+<meta property="og:description" content="Gnarks Privacy Policy">
+<meta property="og:url" content="http://gnarks.com/privacy-policy/">
+<meta property="og:site_name" content="Gnarks">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Gnarks » Feed" href="http://gnarks.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Gnarks » Comments Feed" href="http://gnarks.com/comments/feed/">
+<link rel="stylesheet" id="select2-css" href="//gnarks.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//gnarks.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.7" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//gnarks.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.7" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//gnarks.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.7" type="text/css" media="all">
+<link rel="stylesheet" id="wpclef-main-css" href="http://gnarks.com/wp-content/plugins/wpclef/assets/dist/css/main.min.css?ver=2.2.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="http://gnarks.com/wp-content/themes/simplegreat/css/bootstrap.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="stylesheet-css" href="http://gnarks.com/wp-content/themes/simplegreat/style.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="http://gnarks.com/wp-content/themes/simplegreat/responsive.css?ver=all" type="text/css" media="all">
+<link rel="stylesheet" id="animations-css" href="http://gnarks.com/wp-content/themes/simplegreat/css/animations.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://gnarks.com/wp-content/themes/simplegreat/css/font-awesome.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="flexslider-css" href="http://gnarks.com/wp-content/themes/simplegreat/css/flexslider.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="bxslider-css" href="http://gnarks.com/wp-content/themes/simplegreat/css/jquery.bxslider.css?ver=4.1.1" type="text/css" media="all">
+<script type="text/javascript" src="http://gnarks.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="http://gnarks.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://gnarks.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://gnarks.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.1.1">
+<meta name="generator" content="WooCommerce 2.3.7">
+<link rel="shortlink" href="http://gnarks.com/?p=61">
+    <script>
+    (function($){
+    $(document).ready(function() {
+
+
+        
+        window.onload = function() {
+          skrollr.init({
+            forceHeight: false
+          });
+        }
+        
+        
+
+        
+        $(".products-module").each(function(){
+
+          var product_module = $(this);
+
+          $(this).find($(".products")).after( "<div class='hidethisblock'></div>" );
+
+          $(this).find($(".products .product")).each(function( index ) {
+            //console.log( index + ": " + $( this ).text() );
+            if(index > 7) {
+              product_module.find($(".hidethisblock")).append($(this));
+            }
+          });
+
+          $(this).show();
+
+        });
+
+        $(".show-more-button").show();
+
+        // Show more
+        $(".show-more-button").live('click', function(event) {
+
+            event.preventDefault();
+
+            var i = 0;
+
+            var parent_container = $(this).prev();
+
+            parent_container.find($('.hidethisblock .product')).each(function(){
+              if(i < 4) {
+
+              $(this).hide().appendTo(parent_container.find($('.products'))).slideDown();
+
+              }
+              i++;
+
+            });
+
+            $('html, body').delay(500).animate({
+
+              scrollTop: parent_container.find($('.products-module ul > .product')).last().offset().top
+
+          }, 500);
+
+            if(parent_container.find($('.hidethisblock .product')).length == 0) {
+              $(this).fadeOut();
+            }
+
+        });
+        
+
+
+        
+        $('.parallax').each(function(){
+           $(this).parallax("50%", 0.1);
+        });
+
+        
+
+    });
+    })(jQuery);
+    </script>
+
+
+    
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=cyrillic" rel="stylesheet" type="text/css">
+        
+    <style type="text/css">
+    
+    
+    
+    /**
+    * Custom CSS
+    **/
+    
+
+    /**
+    * Theme Google Font
+    **/
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Open Sans';
+    }
+    h1 {
+        font-size: 26px;
+    }
+    body {
+        font-family: 'Open Sans';
+        font-size: 12px;
+    }
+    /**
+    * Colors and color skins
+    */
+        a,
+    a:hover,
+    a:focus,
+    .page-header-title a:hover,
+    .header-menu li a:hover,
+    .navbar .nav li.link-blog > a,
+    .nav .sub-menu li a:hover,
+    .nav .children li a:hover,
+    .homepage-about-block h2.post-title a:hover,
+    .navigation-paging a,
+    .widget_product_categories .children a:hover,
+    .woocommerce .woocommerce-breadcrumb a,
+    .woocommerce .star-rating,
+    .woocommerce .products .product h3:hover,
+    .page-404 h1 span,
+    .container .wpb_toggle:before,
+    .container #content h4.wpb_toggle:before {
+        color: #C2A26F;
+    }
+    a.btn,
+    .btn,
+    .btn:focus,
+    input[type="submit"],
+    .btn-primary,
+    .btn-primary:focus,
+    .shopping-cart .shopping-cart-title,
+    .shopping-cart .shopping-cart-icon:hover,
+    .shopping-cart .view-cart,
+    .navbar-toggle,
+    .homepage-about-block .wpb_column:nth-child(2) .wpb_text_column:nth-child(2) a:hover,
+    .yith-wcwl-add-button a,
+    .blog-post .post-date,
+    .blog-post .post-format,
+    .blog-post .format-quote blockquote,
+    .widget_custom_box_left #custom_box_icon,
+    .footer-social a:hover,
+    #top-link,
+    .navigation-paging a:hover,
+    .sidebar .widget_calendar th,
+    .sidebar .widget_calendar tfoot td,
+    .woocommerce span.onsale,
+    .woocommerce-page span.onsale,
+    .woocommerce .widget_layered_nav ul li.chosen a,
+    .woocommerce-page .widget_layered_nav ul li.chosen a,
+    .woocommerce .widget_layered_nav_filters ul li a,
+    .woocommerce-page .widget_layered_nav_filters ul li a,
+    .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+    .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+    .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+    .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,
+    .woocommerce #content input.button,
+    .woocommerce #respond input#submit,
+    .woocommerce a.button,
+    .woocommerce button.button,
+    .woocommerce input.button,
+    .woocommerce-page #content input.button,
+    .woocommerce-page #respond input#submit,
+    .woocommerce-page a.button,
+    .woocommerce-page button.button,
+    .woocommerce-page input.button,
+    .woocommerce a.added_to_cart, .woocommerce-page a.added_to_cart,
+    .woocommerce a.button.add_to_cart_button:hover,
+    .woocommerce #content input.button.alt:hover,
+    .woocommerce #respond input#submit.alt:hover,
+    .woocommerce a.button.alt:hover,
+    .woocommerce button.button.alt:hover,
+    .woocommerce input.button.alt:hover,
+    .woocommerce-page #content input.button.alt:hover,
+    .woocommerce-page #respond input#submit.alt:hover,
+    .woocommerce-page a.button.alt:hover,
+    .woocommerce-page button.button.alt:hover,
+    .woocommerce-page input.button.alt:hover,
+    .woocommerce .quantity .plus:hover,
+    .woocommerce .quantity .minus:hover,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li:not(.active):hover,
+    .woocommerce #content div.product .woocommerce-tabs ul.tabs li:not(.active):hover,
+    .woocommerce-page div.product .woocommerce-tabs ul.tabs li:not(.active):hover,
+    .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:not(.active):hover,
+    .show-more-button,
+    .wpb_button,
+    .comment-meta .reply a,
+    .woocommerce ul.products li.product .onsale,
+    .woocommerce-page ul.products li.product .onsale,
+    .woocommerce span.onsale, .woocommerce-page span.onsale,
+    .woocommerce .shop-product .summary .yith-wcwl-wishlistexistsbrowse a,
+    .woocommerce .shop-product .summary .yith-wcwl-wishlistaddedbrowse a,
+    .tp-button.big {
+        background-color: #C2A26F;
+    }
+    .shopping-cart .shopping-cart-content,
+    .homepage-about-block .wpb_column:nth-child(2) .wpb_text_column:nth-child(2) a:hover,
+    .widget_custom_box_left .custom_box,
+    .navigation-paging a,
+    .sidebar .widget_calendar tbody td a,
+    .woocommerce .widget_layered_nav ul li.chosen a,
+    .woocommerce-page .widget_layered_nav ul li.chosen a,
+    .woocommerce .widget_layered_nav_filters ul li a,
+    .woocommerce-page .widget_layered_nav_filters ul li a,
+    blockquote {
+        border-color: #C2A26F;
+    }
+    .header-menu-bg {
+        background-color: #4A5456;
+    }
+    .header-menu li a {
+        color: #FFFFFF;
+    }
+    .footer-container {
+        background-color: #4A5456;
+    }
+    body {
+        background-color: #F6F7F8;
+    }
+    .page-item-title h1 {
+        color: #000000;
+    }
+    .sidebar .widgettitle {
+        color: #000000;
+    }
+    .btn:hover,
+    input[type="submit"]:hover,
+    .shopping-cart .shopping-cart-icon,
+    .shopping-cart .view-cart:hover,
+    .navbar-toggle:hover,
+    .homepage-about-block .wpb_column:nth-child(2) .wpb_text_column:nth-child(2),
+    .yith-wcwl-add-button a:hover,
+    .custom-footer-contact .contact-icon,
+    .footer-social a,
+    #top-link:hover,
+    .woocommerce a.add_to_cart_button,
+    .woocommerce #content input.button.alt,
+    .woocommerce #respond input#submit.alt,
+    .woocommerce a.button.alt,
+    .woocommerce button.button.alt,
+    .woocommerce input.button.alt,
+    .woocommerce-page #content input.button.alt,
+    .woocommerce-page #respond input#submit.alt,
+    .woocommerce-page a.button.alt,
+    .woocommerce-page button.button.alt,
+    .woocommerce-page input.button.alt,
+    .woocommerce #content input.button:hover,
+    .woocommerce #respond input#submit:hover,
+    .woocommerce a.button:hover,
+    .woocommerce button.button:hover,
+    .woocommerce input.button:hover,
+    .woocommerce-page #content input.button:hover,
+    .woocommerce-page #respond input#submit:hover,
+    .woocommerce-page a.button:hover,
+    .woocommerce-page button.button:hover,
+    .woocommerce-page input.button:hover,
+    .woocommerce .shop-product .summary .yith-wcwl-wishlistexistsbrowse a:hover,
+    .woocommerce .shop-product .summary .yith-wcwl-wishlistaddedbrowse a:hover,
+    .woocommerce .quantity input.qty,
+    .woocommerce .quantity .minus,
+    .woocommerce .quantity .plus,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li,
+    .woocommerce #content div.product .woocommerce-tabs ul.tabs li,
+    .woocommerce-page div.product .woocommerce-tabs ul.tabs li,
+    .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li,
+    .show-more-button:hover,
+    .tp-leftarrow:hover,
+    .tp-rightarrow:hover,
+    .tp-button.big:hover  {
+        background-color: #3D4445;
+    }
+    .navbar {
+        background-color: #FFFFFF;
+    }
+    .navbar .nav li a {
+        color: #000000;
+    }
+    .nav .sub-menu li a,
+    .nav .children li a,
+    .navbar .nav > li > a:hover {
+        background-color: #4A5456;
+    }
+    .nav .sub-menu li a,
+    .nav .children li a {
+        color: #A3A8A9;
+    }
+    .nav .sub-menu li li a,
+    .nav .children li li a {
+        background-color: #3D4445;
+    }
+    .nav .sub-menu li li a,
+    .nav .children li li a {
+        color: #A3A8A9;
+    }
+    .footer-container a,
+    .footer-container {
+        color: #A3A8A9;
+    }
+    .footer-container h2.widgettitle {
+        color: #F6F7F8;
+    }
+    .header-menu li a {
+        border-color: #556163;
+    }
+    .navbar {
+        border-color: #EAE9E9;
+    }
+    header {
+        background-color: #FFFFFF;
+    }
+    .woocommerce ul.products li.product:hover {
+        border-color: #EAE9E9;
+    }
+    </style>
+    <script>
+        </script>
+    <link rel="alternate" href="http://gnarks.com/privacy-policy/" hreflang="uk">
+<link rel="alternate" href="http://gnarks.com/politique-de-confidentialite/" hreflang="fr">
+</head>
+
+<body class="page page-id-61 page-template-default">
+
+
+<!-- header-menu-bg section was here -->
+	<div class="x">
+		<div class="logo">
+			<a class="logo-link" href="http://gnarks.com/"><img src="/gnarks_logo.png"></a>
+		</div>
+		<div class="navNextToSearch">
+			<div id="navbar" class="navbar navbar-default clearfix">
+				<!-- <div class="navbar-inner">
+					<div class="container"> -->
+						<div class="navbar-toggle" data-toggle="collapse" data-target=".collapse">
+							Menu						</div>
+												<!-- form id="searchform" was here -->
+						<div class="navbar-collapse collapse"><ul id="menu-simplegreat" class="nav"><li id="menu-item-94" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/">Browse Departments</a>
+<ul class="sub-menu">
+	<li id="menu-item-78" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/appliances/">Appliances</a></li>
+	<li id="menu-item-79" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/cars-and-accessories/">Cars and Accessories</a></li>
+	<li id="menu-item-80" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/clothing-and-accessories/">Clothing and Accessories</a></li>
+	<li id="menu-item-81" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/computers/">Computers</a></li>
+	<li id="menu-item-82" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/cosmetics/">Cosmetics</a></li>
+	<li id="menu-item-83" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/electronics/">Electronics</a></li>
+	<li id="menu-item-84" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/health-and-beauty/">Health and Beauty</a></li>
+	<li id="menu-item-85" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/home-and-garden/">Home and Garden</a></li>
+	<li id="menu-item-86" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/jewellery-and-accessories/">Jewellery and Accessories</a></li>
+	<li id="menu-item-87" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/kids-and-family/">Kids and Family</a></li>
+	<li id="menu-item-88" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/mobile-and-accessories/">Mobile and Accessories</a></li>
+	<li id="menu-item-89" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/office/">Office</a></li>
+	<li id="menu-item-90" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/sports-and-outdoors/">Sports and Outdoors</a></li>
+	<li id="menu-item-91" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/toys-and-games/">Toys and Games</a></li>
+	<li id="menu-item-92" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/video-gaming/">Video Gaming</a></li>
+	<li id="menu-item-93" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://gnarks.com/category/wine-and-gifts/">Wine and Gifts</a></li>
+</ul>
+</li>
+</ul></div>					<!-- </div>
+				</div> -->
+			</div>		
+			<div class="searchField">
+				<form id="searchform" method="get" role="search" action="http://gnarks.com/">
+					<div>
+						<label for="s" class="screen-reader-text">Product Search:</label>
+						<input type="text" name="s" id="s" placeholder="Product Search" value="">
+						<!-- <select name="c" id="c">
+							<option>UK</option>
+							<option>US</option>
+						</select> -->
+						<input type="submit" id="searchsubmit" value="Search">
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	
+	
+
+	
+	
+	
+
+	
+<div class="content-block ">
+  <div class="container">
+	<div class="row">
+	  			<div class="col-md-12 entry-content">
+	  	  <div class="page-item-title">
+		<h1>Privacy Policy</h1>
+	  </div>
+	  	  <article>
+				<p><strong>General</strong></p>
+<p>Gnarks&nbsp;respects the privacy of all those who use the services we provide on this site. We have a simple policy that we will not wilfully disclose any personal information regarding our users without first obtaining their permission, unless required by law. By using our web site, you consent to the collection and use of your information as outlined in this policy and to our Terms and Conditions of Use.</p>
+<p><strong>Use of Cookies</strong></p>
+<p>A “cookie” is a file sent to your browser by a Web server and stored on your computer, it contains data that Web sites use to identify you as a unique user. Companies which advertise on our site may collect information from you if you click on their advertisements or access their sites. They may do this by using cookies. Due to the way the Internet operates, we cannot control this collection of information. Most Web browsers are initially set up to accept cookies. You can change the settings of your browser to refuse all cookies or to notify you each time a cookie is sent to your computer, giving you the choice whether to accept it or not.</p>
+<p>If you have any questions or concerns about the way in which information is collected or used by another site, then you should contact whoever is responsible for that site directly.</p>
+<p><strong>What Information does Gnarks&nbsp;Collect?</strong></p>
+<p>Gnarks&nbsp;does not collect any personal information about you (such as your name or email address) except when you specifically and knowingly provide that information. We do keep a record of the IP addresses from which users access our site. This data is used by us for internal administration, and to analyse the way in which people use our site, so that we can keep improving the services we offer. This data also provides us with anonymous and broad demographic information about those using our site.</p>
+<p><strong>Does Gnarks&nbsp;disclose information to anyone else?</strong></p>
+<p>We do not disclose any information about our site users to any 3rd party. For example, we may disclose the total number of “hits” our sites receive, or how often the average user visits our site, or which terms are most often entered in our search engine. Please be aware, however, that we will release specific personal information about you if required by law. We receive and reply to email from users on a regular basis. For record-keeping purposes we retain copies of all incoming and outgoing email. Information in the email we receive or send will not be disclosed to any third party without the permission of the sender, either express or implied, unless required by law.</p>
+<p><strong>Links</strong></p>
+<p>The Gnarks&nbsp;site and search database contain a large number of links to external sites. Please be aware that these external sites are developed by people over whom we have no control, and we are not responsible for their privacy practices. We encourage you to familiarise yourself with the privacy policy of any Web site you visit which collects personal information, and to exercise discretion when providing such information.</p>
+<p><strong>Changes to the Privacy Policy</strong></p>
+<p>We may change this Privacy Policy from time to time at our discretion and without notice. If we do, an updated version of this Privacy Policy will be made available on this site so that you remain aware of the data we collect, how we use it, and under what circumstances we disclose it.</p>
+<p><strong>Further information</strong></p>
+<p>Please feel free to contact us if you have any questions, comments or would like more information. You can contact the Gnarks&nbsp;team here. This Privacy Statement is version 1.0, and replaces all previous versions.</p>
+	  </article>
+	  			</div>
+	  	</div>
+	  </div>
+</div>
+
+
+<footer>
+<div class="container">
+<div class="row">
+    <div class="col-md-6">
+    <p class="copyright"></p>
+    </div>
+    <div class="col-md-6">
+  <div class="payment-icons">
+    </div>
+  </div>
+</div>
+</div>
+<a id="top-link" href="#top"></a>
+</footer>
+<script type="text/javascript" src="//gnarks.com/wp-content/plugins/woocommerce/assets/js/select2/select2.min.js?ver=3.5.2"></script>
+<script type="text/javascript" src="//gnarks.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//gnarks.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.7"></script>
+<script type="text/javascript" src="http://gnarks.com/wp-content/themes/simplegreat/js/bootstrap.min.js?ver=3.1.1"></script>
+<script type="text/javascript" src="http://gnarks.com/wp-content/themes/simplegreat/js/easing.js?ver=1.3"></script>
+<script type="text/javascript" src="http://gnarks.com/wp-content/themes/simplegreat/js/jquery.flexslider-min.js?ver=1.0"></script>
+<script type="text/javascript" src="http://gnarks.com/wp-content/themes/simplegreat/js/jquery.bxslider.min.js?ver=1.0"></script>
+<script type="text/javascript" src="http://gnarks.com/wp-content/themes/simplegreat/js/twitter/jquery.tweet.min.js?ver=1.0"></script>
+<script type="text/javascript" src="http://gnarks.com/wp-content/themes/simplegreat/js/jquery.parallax.js?ver=1.1.3"></script>
+<script type="text/javascript" src="http://gnarks.com/wp-content/themes/simplegreat/js/skrollr.min.js?ver=0.5.14"></script>
+<script type="text/javascript" src="http://gnarks.com/wp-content/themes/simplegreat/js/template.js?ver=1.0"></script>
+ 
+
+<!-- header-menu-bg was originally in header.php -->
+<div id="menuContainer">
+	<div class="header-menu-bg">
+		<div class="header-menu">
+			<div class="container">
+			<div class="links"><ul><li class="page_item page-item-2"><a href="http://gnarks.com/">Home</a></li><li class="page_item page-item-56"><a href="http://gnarks.com/about/">About Gnarks</a></li><li class="page_item page-item-61 current_page_item"><a href="http://gnarks.com/privacy-policy/">Privacy Policy</a></li><li class="page_item page-item-63"><a href="http://gnarks.com/terms-of-use/">Terms of Use</a></li></ul></div>
+			<div class="languages">
+				<ul class="language">	<li class="lang-item lang-item-7 lang-item-uk current-lang"><a hreflang="uk" href="http://gnarks.com/privacy-policy/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAflJREFUeNpinDRzn5qN3uFDt16+YWBg+Pv339+KGN0rbVP+//2rW5tf0Hfy/2+mr99+yKpyOl3Ydt8njEWIn8f9zj639NC7j78eP//8739GVUUhNUNuhl8//ysKeZrJ/v7z10Zb2PTQTIY1XZO2Xmfad+f7XgkXxuUrVB6cjPVXef78JyMjA8PFuwyX7gAZj97+T2e9o3d4BWNp84K1NzubTjAB3fH0+fv6N3qP/ir9bW6ozNQCijB8/8zw/TuQ7r4/ndvN5mZgkpPXiis3Pv34+ZPh5t23//79Rwehof/9/NDEgMrOXHvJcrllgpoRN8PFOwy/fzP8+gUlgZI/f/5xcPj/69e/37//AUX+/mXRkN555gsOG2xt/5hZQMwF4r9///75++f3nz8nr75gSms82jfvQnT6zqvXPjC8e/srJQHo9P9fvwNtAHmG4f8zZ6dDc3bIyM2LTNlsbtfM9OPHH3FhtqUz3eXX9H+cOy9ZMB2o6t/Pn0DHMPz/b+2wXGTvPlPGFxdcD+mZyjP8+8MUE6sa7a/xo6Pykn1s4zdzIZ6///8zMGpKM2pKAB0jqy4UE7/msKat6Jw5mafrsxNtWZ6/fjvNLW29qv25pQd///n+5+/fxDDVbcc//P/zx/36m5Ub9zL8+7t66yEROcHK7q5bldMBAgwADcRBCuVLfoEAAAAASUVORK5CYII=" title="UK" alt="UK">&nbsp;UK</a></li>
+	<li class="lang-item lang-item-10 lang-item-fr"><a hreflang="fr" href="http://gnarks.com/politique-de-confidentialite/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGzSURBVHjaYiyeepkBBv79+Zfnx/f379+fP38CyT9//jAyMiq5GP77wvDnJ8MfoAIGBoAAYgGqC7STApL///3/9++/pCTv////Qdz/QO4/IMna0vf/z+9/v379//37bUUTQACBNDD8Z/j87fffvyAVX79+/Q8GQDbQeKA9fM+e/Pv18/+vnwzCIkBLAAKQOAY5AIAwCEv4/4PddNUm3ji0QJyxW3rgzE0iLfqDGr2oYuu0l54AYvnz5x9Q6d+/QPQfyAQqAin9B3EOyG1A1UDj//36zfjr1y8GBoAAFI9BDgAwCMIw+P8Ho3GDO6XQ0l4MN8b2kUwYaLszqgKM/KHcDXwBxAJUD3TJ779A8h9Q5D8SAHoARP36+Rfo41+/mcA2AAQQy49ff0Cu//MPpAeI/0FdA1QNYYNVA/3wmwEYVgwMAAHE8uPHH5BqoD1//gJJLADoJKDS378Z//wFhhJAALF8A3rizz8uTmYg788fJkj4QOKREQyYxSWBhjEC/fcXZANAALF8+/anbcHlHz9+ffvx58uPX9KckkCn/gby/wLd8uvHjx96k+cD1UGiGQgAAgwA7q17ZpsMdUQAAAAASUVORK5CYII=" title="FR" alt="FR">&nbsp;FR</a></li>
+</ul>
+			</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: gnarks.com @ 2015-03-31 00:15:49 by W3 Total Cache --></body></html>
