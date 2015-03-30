@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsource2india.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122849id_/http%3A//www.outsource2india.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsource2india.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330024539id_/http%3A//www.outsource2india.com/privacy.asp) for the most accurate reproduction.*
 
 # The Privacy Policy of Outsource2india
 
