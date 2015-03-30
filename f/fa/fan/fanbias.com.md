@@ -1,76 +1,99 @@
-> *The following text is extracted and transformed from the fanbias.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012015107id_/http%3A//fanbias.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbias.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330214535id_/http%3A//www.fanbias.com/privacy-policy) for the most accurate reproduction.*
 
-# Fan Bias » Privacy Policy
+# Privacy Policy | Fanbias.com
 
 ## Privacy Policy
 
-## Brown Recluse Media, LLC Website Privacy Statement
+This privacy policy applies to the information Fanbias.com (the Site) collects about you from any device you use to access Fanbias.com products, services, software, websites, and other goods and services offered, owned, or operated by Fanbias.com (collectively “Services”). Some of these Services may provide you with additional information and choices about your privacy, which you should review.
 
-This document was last updated on October 25, 2009.
+This policy does not apply to information about you collected by third party websites and offerings linked to or otherwise accessible from the Site. The information collected or received by third parties is subject to their own privacy policies.
 
-  1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
+### Collection of Your Information
 
-Brown Recluse Media, LLC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing FanBias.com, you acknowledge and fully understand Brown Recluse Media, LLC’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+It is our policy to respect the privacy of the people who use the Services (each a “User,” collectively the “Users”). Therefore, we will not disclose to any unauthorized third party a User’s name or contact information. We will also not monitor, edit or disclose the contents of a User’s information unless required to do so by law or in the good faith belief that such action is necessary to: 
 
-  2. **PARTICIPATING MERCHANT POLICIES**
-
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Brown Recluse Media, LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
-
-  3. **INFORMATION WE COLLECT AND HOW WE USE IT**
-
-Brown Recluse Media, LLC collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
-
-    1. **Web Server Logs.**
-
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
-
-      * Your Internet protocol address. 
-      * The kind of browser or computer you use. 
-      * Number of links you click within the site. 
-      * State or country from which you accessed the site. 
-      * Date and time of your visit. 
-      * Name of your Internet service provider. 
-      * Web page you linked to our site from. 
-      * Pages you viewed on the site. 
-    2. **Use of Cookies**
-
-Brown Recluse Media, LLC may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
-
-Brown Recluse Media, LLC reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into FanBias.com a site that relies on third-party cookies).
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
-
-    3. **Personal Information Users**
-
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-      * To fulfill your service requests for services, 
-      * To protect ourselves from liability, 
-      * To respond to legal process or comply with law, or
-      * In connection with a merger, acquisition, or liquidation of the company.
-  4. **USE OF WEB BEACONS OR GIF FILES**
-
-FanBias.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Brown Recluse Media, LLC to count users who have visited those pages and to deliver co-branded services. Brown Recluse Media, LLC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
-
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Brown Recluse Media, LLC prohibits Web beacons from being used to collect or access your personal information.
-
-  5. **ACCESSING WEB ACCOUNT INFORMATION**
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant – brownreclusemedia@gmail.com.
-
-  6. **CHANGES TO THIS STATEMENT**
-
-Brown Recluse Media, LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-  7. **CONTACTING US**
-
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at brownreclusemedia@gmail.com.
+  * Conform to the edicts of the law or comply with legal process served on us;
+  * Protect and defend our rights or property;
+  * Act under exigent circumstances to protect the personal safety of Users or the public;
+  * To prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable; or
+  * Fix or debug problems with our servers/software/service.
 
 
 
+When you register to become a member of the Site and in the course of using the Site, you may voluntarily submit personally identifiable information that can be used to contact or identify you and administer your account (”Personal Information”). Personal information may include, but is not limited to, your name, phone number and e-mail address. The Site may also collect Personal Information from you if you choose to opt-in to participate in sweepstakes, surveys, contests or competitions. When you register with the Site, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and photo, are displayed to people you have specified in your privacy settings. Profile information you submit to the Site, and make public via your privacy settings, will also be available to other users via searching our Site, and may be available to third party search engines. This is primarily so your friends can find you and the content you create and store on the Site. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.
 
-Brown Recluse Media, LLC will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service (”Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.
+
+Your information may be supplemented with additional information from other companies such as publicly available information, information about households, and other information which we may append or match to your Fanbias.com information.
+
+The Site may also receive or collect certain technical information when you use our Services. This may include: your browser or operating system, your manner of connecting to the Internet (including the type of device you are using) and the name of your Internet service provider or wireless carrier; your Internet protocol (IP) address; information about Services that you used prior to registering with the Site; and data relating to malfunctions or problems occurring when you use the Site Services. Additionally, we may collect information about other software on your device for the limited purpose of protecting your security or improving your online experience.
+
+### How Your Information is Used
+
+Personal Information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and your account; (iii) to enable users to enjoy and easily navigate the Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time.
+
+### Privacy Policy and Consumer Education
+
+### Children’s Privacy
+
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact info@fanbias.com, titled Privacy. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
+We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
+
+### Consumer Education Related to Social Networking
+
+Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
+
+  * http://οnguardοnline·gοv/sοcialnetwοrking·html [[link](http://onguardonline.gov/socialnetworking.html)]
+  * http://οnguardοnline·gοv/sοcialnetwοrking_youth·html [[link](http://onguardonline.gov/socialnetworking_youth.html)]
+
+
+
+### Other Information/Logging and Cookies
+
+Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
+
+We also use the services of a third-party advertising companies – such as Gοοgle Adsense – and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use “non-identifying information” (which will not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. Snippet from Gοοgle Adsense website :
+
+> Google uses the DoubleClick cookie on publisher websites displaying AdSense for content ads. Subject to any applicable laws, rules and regulations, you will have the sole and exclusive right to use all data derived from your use of the DoubleClick cookie for any purpose related to your business, provided that Gοοgle may use and disclose this data subject to the terms of [Gοοgle’s advertising privacy policies](http://www.google.com/intl/en/privacy/ads/privacy-policy.html "Google’s Advertising Privacy Policies") and any applicable laws, rules and regulations.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit Network Advertising Initiative (networkadvertising·org) and read their article regarding [Opt Out of Behavioral Advertising](http://www.networkadvertising.org/managing/opt_out.asp "Opt Out of Behavioral Advertising").
+
+### Information Sharing And Disclosure
+
+ _Members/Users._  
+In addition to your username, any comments or submissions that you post to the Site will be publicly available. You post and share your Personal Information and content on the Site at your own risk. While we go to great lengths to create a safe and enjoyable experience on the Site, we cannot control the actions of other users with whom you may choose to share your content and/or profile information. In addition, we cannot anticipate other users’ ability to circumvent privacy settings. You understand that, even after removal of your Personal Information and content from the Site, copies of your information may remain viewable in cached or archived Web pages or on the local computers of users who may have downloaded or stored your information.  
+Even with all the appropriate precautions we take to protect your information, we recommend you refrain from sending private information or Personal Information by e-mail, chat, or other messaging services.
+
+ _Aggregate Information and Non-Identifying Information._  
+We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services.
+
+ _Service Providers._  
+We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your non-identifying personal information or log data (cookies) only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Changing OR Deleting Your Information
+
+All members/authors may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+
+### Our Commitment to Security
+
+The Site concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access.
+
+The Site has established safeguards to help prevent unauthorized access to or misuse of your Fanbias.com information, but cannot guarantee that your information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the Site and its affiliated providers’ policies). To protect your privacy and security, we may use passwords or other technologies to register or authenticate you and enable you to take advantage of the Services, and before granting access or making corrections to your Fanbias.com information.
+
+### International Transfer
+
+Your “non-identifying” personal information may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the France and choose to provide information to us, please be advised that we transfer Personal Information to the France and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+### Links To Other Sites
+
+The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+### Changes to this Privacy Notice and Additional Information
+
+The Site may update this Privacy Notice from time to time, and so you should review this Policy periodically. If there are significant changes to the Site’s information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the Site as well as for special features and services not described in this Policy that may be introduced in the future.
+
+ _Violations and Comments_  
+Please report any violations of the TOS to abuse@fanbias.com, titled : Abuse/Violation; or make any comments to info@fanbias.com.
+
+ _Last Updated_  
+Monday, March 23rd 2015 - 00:04:23 PM
