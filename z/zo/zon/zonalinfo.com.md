@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zonalinfo.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213142201id_/http%3A//www.zonalinfo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonalinfo.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331001200id_/http%3A//www.zonalinfo.com/moreinfo_zonalinfo/privacy.html) for the most accurate reproduction.*
 
-# 
+# Zonalinfo| About Zonalinfo Privacy Policy
+
+## Who we are
 
 We take your privacy seriously. Please take a moment to read this privacy policy, which discloses the privacy practices of the Zonal info websites. Specifically, the policy outlines the types of information that may be gathered when you register for or use the Services, and the ways in which that information may be used. In this Privacy Policy, references to “you” mean any person submitting any data to us or the Site. If you have any comments or suggestions, we would be pleased to receive them at shrikant@zonalinfo.com   
 **Information that you give:**  
