@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the inspire2rise.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129030439id_/http%3A//www.inspire2rise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspire2rise.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331000713id_/http%3A//www.inspire2rise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inspire2rise.com © 2012
+
+[](http://www.inspire2rise.com/privacy-policy/privacy-policy-inspire2rise/)
 
 Privacy Policy for www.inspire2rise.com
 
@@ -8,18 +10,18 @@ If you require any more information or have any questions about our privacy poli
 
 At www.inspire2rise.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.inspire2rise.com and how it is used.
 
-**Log Files :**  
+ **Log Files :**  
 Like many other Web sites, www.inspire2rise.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable as is mentioned in our privacy policy further.
 
-**Cookies and Web Beacons :**  
+ **Cookies and Web Beacons :**  
 www.inspire2rise.com does not use cookies.
 
-**Double Click** **  DART Cookie :**  
+ **Double Click** **  DART Cookie :**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.inspire2rise.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.inspire2rise.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-_**Some of our advertising partners may use cookies and web beacons on our site**_. Our advertising partners include ….  
+ _ **Some of our advertising partners may use cookies and web beacons on our site**_. Our advertising partners include ….  
 Google Ad-sense  
 Adbrite
 
@@ -32,9 +34,9 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  
 ____________________________________________________________________________________________
 
-**_A.N.J ( a.k.a[ Aditya Nath Jha ](http://www.facebook.com/anjshandilya " Aditya Nath Jha ")) – Site admin and an engineering student**
+ **_A.N.J ( a.k.a[ Aditya Nath Jha ](http://www.facebook.com/anjshandilya " Aditya Nath Jha ")) – Site admin and an engineering student**
 
-**Above content is copyrighted and shall not be reproduced anywhere by any means.**
+ **Above content is copyrighted and shall not be reproduced anywhere by any means.**
 
 ## Privacy policy – Inspire2rise©[ Inspire2Rise.com](http://www.facebook.com/Inspire2rise " Inspire2Rise.com") 2012
 
