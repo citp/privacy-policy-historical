@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the napapijri.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505111313id_/http%3A//www.napapijri.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napapijri.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330122210id_/http%3A//www.napapijri.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
 
-# Napapijri Online Store - Legal Area
+# 
 
-|  |  Welcome to napapijri.com. Please read our Privacy Policy carefully. This Privacy Policy applies when you visit and surf the United States section of napapijri.com (the "napapijri.com US Site") regardless of whether you purchase products or not, when you register with the napapijri.com US Site, and when you use our services. By using the napapijri.com US Site, you accept the practices described in this Privacy Policy. If you do not want to accept the practices described in this Privacy Policy, please do not use the napapijri.com US Site.   
-The napapijri.com US Site is operated under license by YOOX Corporation, a Delaware corporation having an address at 122 Hudson Street, 5th Floor, New York, New York 10013, United States of America ("YOOX USA"). YOOX USA is a subsidiary of YOOX S.p.A., an Italian company having its registered address at Via Nannetti, 1, 40069 Zola Predosa - Bologna, Italy ("YOOX") and controls the personal data of users and customers of the napapijri.com US Site together with VF International SAGL, having address at VF International SAGL, Via Senago 42, 6912 Pazzallo (CH), Italy, VAT, CH 595826 (jointly referred to as "YOOX and Napapijri").   
+Welcome to napapijri.com. Please read our Privacy Policy carefully. This Privacy Policy applies when you visit and surf the United States section of napapijri.com (the "napapijri.com US Site") regardless of whether you purchase products or not, when you register with the napapijri.com US Site, and when you use our services. By using the napapijri.com US Site, you accept the practices described in this Privacy Policy. If you do not want to accept the practices described in this Privacy Policy, please do not use the napapijri.com US Site.   
+The napapijri.com US Site is operated under license by YOOX Corporation, a Delaware corporation having an address at 148 Lafayette Street, 10th Floor, New York, NY, 10013, United States of America ("YOOX USA"). YOOX USA is a subsidiary of YOOX S.p.A., an Italian company having its registered address at Via Nannetti, 1, 40069 Zola Predosa - Bologna, Italy ("YOOX") and controls the personal data of users and customers of the napapijri.com US Site together with VF International, having address at Via Laveggio 5, 6855 Stabio (CH), Switzerland, Italy, VAT, CH 595826 (jointly referred to as "YOOX and Napapijri").   
 Since personal data of users and customers of the napapijri.com US Site may be processed in Italy, any such processing of personal data will be conducted in compliance with applicable US law as well as the Italian Data Protection Code (Legislative Decree no. 196 dated June 30, 2003). Pursuant to the Italian Data Protection Code, YOOX USA is the controller of personal data of users and customers of the napapijri.com US Site. As controller of personal data, YOOX USA independently determines the purposes and means by which your personal data are processed, including all security measures. As required by the Italian Data Protection Code, YOOX USA has appointed YOOX as its data protection representative in Italy. As our data protection representative in Italy, YOOX, together with Napapijri, independently ensures that personal data are processed in Italy in a correct and lawful manner and in accordance with good practice.
 
  **1\. OUR POLICY**  
@@ -17,7 +17,9 @@ The above-mentioned data processors have been chosen by YOOX and Napapijri becau
 
   * [United Parcel Service S.p.A.("UPS")](http://www.ups.com/). We provide UPS, by electronic means, with customers' addresses and other personal data for the purpose of shipping, delivering and returning products purchased on the napapijri.com US Site; 
   * BT Italia S.p.A., for purposes related to the maintenance of YOOX servers; 
-  * [YOOX Italy](http://www.yoox.com/). We provide YOOX Italy with personal data of users and customers for purposes related to direct marketing services of YOOX and Napapijri and in connection with other services provided by YOOX Italy to YOOX USA, such as call center and help desk services.
+  * [YOOX Italy](http://www.yoox.com/). We provide YOOX Italy with personal data of users and customers for purposes related to direct marketing services of YOOX and Napapijri and in connection with other services provided by YOOX Italy to YOOX USA, such as call center and help desk services. 
+
+
 
 Please contact our Customer Care or send us an e-mail at [privacy@mail.napapijri.com](mailto:privacy@mail.napapijri.com) if you would like to receive a full list of our data processors.
 
@@ -30,6 +32,8 @@ Your personal data are collected and processed by YOOX and Napapijri for purpose
   * when you are executing purchasing procedures for products sold on the napapijri.com US Site, including conclusion of an agreement for the purchase of products, we collect your personal data (for example, personal information, e-mail address, address, Credit Card numbers, bank account number and telephone number) on your order form only for the purpose of selling the products ordered by you; 
   * when you request technical assistance, we collect your personal data in order to provide you with information on net-surfing, Internet browsing or viewing and downloading web pages; 
   * when creating your Wish List, we process your personal data in order to customize our services for the purchase of products on the napapijri.com US Site. 
+
+
 
 Your personal data are generally processed by electronic means; however, in certain circumstances, paper-based means may be used (for example, when the processing of your personal data is required for the prevention of fraud against us). Your personal data are stored in a way which allows YOOX and Napapijri to identify you for the period that is strictly necessary for the original purposes for which such personal data are collected and subsequently processed, all in accordance with applicable laws.  
 Please report any changes to your personal data to the e-mail address [privacy@mail.napapijri.com](mailto:privacy@mail.napapijri.com) in order to ensure that your personal data are always accurate and kept up-to-date.  
@@ -53,7 +57,6 @@ In the event there is a change in the corporate structure of YOOX and Napapijri 
 In any event, your personal data will not be disclosed to third parties without you being informed or without your consent, when such consent is required by law.
 
  **6\. HOW DO WE COLLECT YOUR DATA ON  napapijri.com **  
-Cookies  
 When you are using the napapijri.com US Site, some personal data may be collected automatically through so-called "cookies". A cookie is a device transmitted to the hard drive of an Internet user. While cookies do not contain intelligible information, they allow us to link an Internet user to personal information provided by such user through the napapijri.com US Site. YOOX and Napapijri process information collected by cookies in a collective and anonymous way, in order to optimize our services and the napapijri.com US Site for the needs and preferences of its users. We use cookies to collect users' IP addresses and other information regarding users' data traffic or preferences in the choice of services provided and products purchased through the napapijri.com US Site.  
 We disseminate cookies in connection with functions such as browsing the catalogue, purchasing products on-line and supplying "My Account" services.  
 As you may know, each Internet browser allows the deletion of cookies after each session. Your Internet browser contains instructions on how to carry out these procedures of deletion. Please access the appropriate instructions section on your Internet browser if you wish to delete cookies.   
@@ -61,11 +64,12 @@ Your acceptance of our automatic procedures of collection of data and the use of
 Other Methods of Collecting User Information.   
 YOOX and Napapijri directly collect personal data and information from users when they register on-line with the napapijri.com US Site or when they send purchase orders for products sold on the napapijri.com US Site in order to finalize their transactions.
 
- **SECURITY MEASURES**  
+ **7\. SECURITY MEASURES**  
 We have adopted security measures to protect personal data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access and against other unlawful forms of data processing, as provided in our Privacy Policy.   
 Nevertheless, YOOX and Napapijri cannot guarantee that the security measures adopted for the protection of the napapijri.com US Site and the transmission of data and information through the napapijri.com US Site will prevent or exclude any risk of unauthorized access to or loss of data. It is advisable that your computer be equipped with software devices for the protection of network data transmission and receipt (such as, updated antivirus systems) and that your Internet service provider take appropriate measures for the security of network data transmission (such as, firewalls and anti-spam filtering).
 
- **OPT-IN/OPT OUT** Advertising material and direct marketing or other commercial communications which are not specifically requested by you or necessary to provide a service you requested, including the purchase of products on the US Site, will be sent to you only after we receive your consent. Please note that each time your consent is required, we will inform you in advance and we will give you the option to either provide or refuse your consent by selecting the appropriate box.  
+ **8\. OPT-IN/OPT OUT**  
+Advertising material and direct marketing or other commercial communications which are not specifically requested by you or necessary to provide a service you requested, including the purchase of products on the US Site, will be sent to you only after we receive your consent. Please note that each time your consent is required, we will inform you in advance and we will give you the option to either provide or refuse your consent by selecting the appropriate box.  
 YOOX and Napapijri may process your personal data without your consent when such processing is necessary to comply with applicable laws and regulations or to provide you with services you requested, including the purchase of products on the US Site.  
 Even when your prior consent is not necessary, you may exercise, at any time, your right not to receive future communications regarding services you requested, such as the Newsletter.
 
@@ -76,11 +80,16 @@ You are entitled to obtain at any time from YOOX and Napapijri:
 
   * the updating, rectification or integration of your personal data; 
   * the deletion, transformation into anonymous form or blocking of your personal data, which are processed in violation of the law, including when the storage of data is not necessary for the purposes for which it has been collected and subsequently processed; 
-  * the confirmation that the operations under letters a) and b) have been reported to whom the data were disclosed or disseminated, except when it becomes impossible to do so or if it means exceeding the protection of the right you are claiming.
+  * the confirmation that the operations under letters a) and b) have been reported to whom the data were disclosed or disseminated, except when it becomes impossible to do so or if it means exceeding the protection of the right you are claiming. 
+
+
 
 You are entitled to object, in all or in part: 
+
   * for legitimate reasons, to the processing of your personal data, even if it is related to the purposes for which it was collected; 
-  * to the processing of your personal data for advertising or direct marketing purposes or in order to carry out marketing research or commercial communications.
+  * to the processing of your personal data for advertising or direct marketing purposes or in order to carry out marketing research or commercial communications. 
+
+
 
 You may freely and at any time exercise your rights, provided that you do so in compliance with applicable laws and regulations, by sending your request to YOOX and Napapijri at the following e-mail address: [privacy@mail.napapijri.com](mailto:privacy@mail.napapijri.com).
 
