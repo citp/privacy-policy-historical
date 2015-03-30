@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avon.uk.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907003450id_/http%3A//www.avon.uk.com/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avon.uk.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330220502id_/http%3A//www.avon.uk.com/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
 
 # Avon - Anew A-F33, Mega Effects Mascara, cosmetics, beauty, make-up, skincare, fragrance, work from home
 
