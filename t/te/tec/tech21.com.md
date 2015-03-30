@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tech21.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726062035id_/https%3A//www.tech21.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech21.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330021310id_/https%3A//www.tech21.com/privacy) for the most accurate reproduction.*
 
 # Tech21 - Privacy Policy | Intelligent Impact Protection
 
 **PRIVACY TERMS**
 
-Tech 21 UK Limited, a company incorporated and registered in England and Wales with company number: 5630013 (who we refer to as "we", "us" and "our" below), take your privacy very seriously. This Privacy Statement explains what personal information we collect, how and when it is collected, what we use it for and how we will use it in the future and details of the circumstances in which we may disclose it to third parties. If you have any questions about the way in which your information is being collected or used which are not answered by this Privacy Statement and/or any complaints please [contact us](http://www.tech21.com/contact-us/).
+Tech 21 UK Limited, a company incorporated and registered in England and Wales with company number: 5630013 (who we refer to as "we", "us" and "our" below), take your privacy very seriously. This Privacy Statement explains what personal information we collect, how and when it is collected, what we use it for and how we will use it in the future and details of the circumstances in which we may disclose it to third parties. If you have any questions about the way in which your information is being collected or used which are not answered by this Privacy Statement and/or any complaints please [contact us](https://www.tech21.com/contact-us/).
 
-By visiting and using www.tech21.com (the "Website") or any other application or website ("Application") for the purchase or sampling of products from Tech21 (as applicable) you are consenting to the practices in relation to use and disclosure of your personal information described in this Privacy Statement and [Terms and Conditions](http://www.tech21.com/terms/). If you are under the age of 16, please obtain your parent's or guardian's consent before providing us with any personal information.
+By visiting and using www.tech21.com (the "Website") or any other application or website ("Application") for the purchase or sampling of products from Tech21 (as applicable) you are consenting to the practices in relation to use and disclosure of your personal information described in this Privacy Statement and [Terms and Conditions](https://www.tech21.com/terms/). If you are under the age of 16, please obtain your parent's or guardian's consent before providing us with any personal information.
 
 **WHAT INFORMATION DO WE COLLECT AND HOW WILL WE USE IT?**
 
@@ -20,13 +20,13 @@ We may also use your personal information for our internal marketing and demogra
 
 In addition, for quality control and training purposes, we may monitor or record your communications with us.
 
-We will at all times seek to comply with the requirements of UK Data Protection Act, 1998 (the "Act") and any applicable laws and regulations to ensure that the personal information you give us is kept appropriately secure and processed fairly and lawfully. Your data will be held and managed by Tech21 Limited at Syd’s Quay, Eel Pie Island, Twickenham, Middlesex TW1 3DY, United Kingdom who will act as Data Controller for the purposes of the Act. [Please contact us](http://www.tech21.com/contact-us/) if you have any queries in relation to your data.
+We will at all times seek to comply with the requirements of UK Data Protection Act, 1998 (the "Act") and any applicable laws and regulations to ensure that the personal information you give us is kept appropriately secure and processed fairly and lawfully. Your data will be held and managed by Tech21 Limited at Syd’s Quay, Eel Pie Island, Twickenham, Middlesex TW1 3DY, United Kingdom who will act as Data Controller for the purposes of the Act. [Please contact us](https://www.tech21.com/contact-us/) if you have any queries in relation to your data.
 
 **RETENTION AND DELETION OF PERSONAL INFORMATION**
 
 We shall only keep your information as long as you remain an active customer and for three years afterwards or as otherwise required by law.
 
-If you wish to request the deletion of your personal details, or wish to change your preferences at any time please [contact us](http://www.tech21.com/contact-us/).
+If you wish to request the deletion of your personal details, or wish to change your preferences at any time please [contact us](https://www.tech21.com/contact-us/).
 
 **HOW DO I UNSUBSCRIBE FROM TECH21 LIMITED EMAIL UPDATES?**
 
