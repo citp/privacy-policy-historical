@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interracu.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217171828id_/https%3A//www.interracu.com/files/interra/1/file/Disclosure/Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracu.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330115829id_/https%3A//www.interracu.com/files/interra/1/file/Disclosure/Privacy.pdf) for the most accurate reproduction.*
 
 # 
 
