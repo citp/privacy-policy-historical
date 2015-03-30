@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awempire.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003144123id_/http%3A//www.awempire.com/privacy-policy%3Fawesec_session%3Dawea563034c86d3481a77acb3f6cbffa162) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awempire.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331010106id_/http%3A//www.awempire.com/privacy-policy%3Fawesec_session%3Daweb0bd34a943f5c94a22f8e543b2b1501e) for the most accurate reproduction.*
 
 # Awempire.com - Privacy Policy of Adult Webmaster Empire
 
