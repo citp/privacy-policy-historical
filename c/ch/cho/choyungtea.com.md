@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the choyungtea.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219153714id_/http%3A//www.choyungtea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choyungtea.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330133304id_/http%3A//www.choyungtea.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy • Cho-Yung Tea
+# Cho-Yung Weight Loss Tea | Green Tea for Weight Loss • Cho-Yung
 
-Cho-Yung (Cyprus) Limited ( **"We"; "Us"** ) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [Terms and Conditions](https://web.archive.org/terms) and any other documents referred to therein), sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how We will treat it.
+Cho-Yung (Cyprus) Limited ( **"We"; "Us"** ) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [Terms and Conditions](https://web.archive.org/web/20150330133304id_/http%3A//www.choyungtea.com/terms.html) and any other documents referred to therein), sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how We will treat it.
 
 **1\. DATA CONTROLLER**
 
@@ -26,7 +26,7 @@ If you have provided Us with the personal data of another person, you confirm th
 
 **3\. IP ADDRESSES AND COOKIES**
 
-We may collect information about your mobile phone, computer or other device from which you access the Website including where available your IP address, operating system and browser type, for systems administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. We may, however, use such information in conjunction with the data we have about you in order to track your usage of our services.
+We may collect information about your mobile phone, computer or other device from which you access the Website including where available your IP address, operating system and browser type, for systems administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. We may, however, use such information in conjunction with the data we have about you in order to track your usage of our services.
 
 Our Website uses cookies (small files stored by your browser that allow it to recognise you as a user and store your preferred settings). Cookies are widely used to make websites function efficiently
 
@@ -72,7 +72,7 @@ We may disclose your personal information to third parties:
 
 (b)          if We or substantially all of our assets are acquired by a third party, in which case personal data held by it about our customers will be one of the transferred assets; or
 
-(c)          if We are under a duty to disclose or share your personal data in order to comply with any legal obligation or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/terms) and other agreements; or
+(c)          if We are under a duty to disclose or share your personal data in order to comply with any legal obligation or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/web/20150330133304id_/http%3A//www.choyungtea.com/terms.html) and other agreements; or
 
 (d)          to protect the rights, property or safety of Cho-Yung (Cyprus) Limited, our customers and users or others.
 
