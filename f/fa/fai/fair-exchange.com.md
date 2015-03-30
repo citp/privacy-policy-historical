@@ -1,119 +1,174 @@
-> *The following text is extracted and transformed from the fair-exchange.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402104220id_/http%3A//www.fair-exchange.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fair-exchange.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330071716id_/http%3A//www.fair-exchange.com/docs/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
-# Fair Exchange Privacy Policy
+# P
 
-Privacy Policy - Last updated November 2008.  
-
-
-PDV Ltd operates the Fair Exchange Programme and is the Data Controller.
-
-PDV Ltd takes the protection of your privacy very seriously and this Privacy Policy sets out how PDV Ltd will use the information you have provided through your interaction with any of the Fair Exchange data collection properties.
-
-PDV is registered in the United Kingdom under the Data Protection Act 1998 (registration Z720633X) and we adhere to the Privacy and Electronic Communications (EC Directive) Regulations 2003.
-
-PDV Ltd is a full member of the Direct Marketing Association (DMA).
-
-PDV’s registered office Green Heys, Walford Road, Ross on Wye, HR9 5DB, is registered in England under the Companies Act 2006 under registration number 3974954. VAT registration number is 761423151
-
-We promise our users that we will: 
-
-  * Protect any personal data that we gather
-  * Adhere to the principles of permission marketing*
-  * Be clear about how we use the information we collect
-  * Deal promptly and honestly with any complaints about our practices
-  * Be a champion of consumer data protection
-  * Endeavour to provide you with a personalised experience
-
-
-
-And that we will not 
-
-  * Send you offers without your permission
-  * Release personal information about you unless it is 
-    * With your permission
-    * To a third party who works with us under strict contractual terms to deliver our service to you
-
-
-
-***Permission marketing means that when you join the Fair Exchange Programme you agree that we and our partner companies may use the details you supply to decide which offers may interest you most and then to get in touch with you about these offers, via post, e-mail, text or telephone. You can specify that you do NOT wish to be contacted by a specific method by logging on to MY PROFILE and clicking whichever options best suit you. PDV Ltd may, also use information about you from other suppliers to provide all of part of its service to you.**
-
-Our websites will form the Fair Exchange Programme are:
-
-Chooseaprize.com, Thedailydraw.com, Scratchandmatch.com, Fruitillion.com,Strikermillion.com, Prizetag.com, Winaflat.com, Winferraris.com, Fair-exchange.com, free-dvd-club.com
-
-Information about you will be collected initially when you join the Fair Exchange Programme and will involve contact information (e.g. age and gender). This information will be used to identify offers that may be of interest to you.
-
-Through your interaction with the Fair Exchange Programme, there may be occasions where additional personal information is collected through surveys, questionnaires, offers or competitions. This information provided by you may be shared with our commercial partners.
-
-Our websites provide links to our partner sites. These links will lead you to websites operated by third parties that operate under different Privacy Policies. Should you choose one of these links you will be leaving a PDV Ltd site for a site over which we have no control and we therefore accept no liability once you have left one of our sites.
-
-**WHEN YOU LEAVE OUR WEBSITE, THE PRIVACY POLICY ON THE SITE YOU HAVE MOVED TO MAY NOT BE THE SAME AS OURS, SO IF YOU WANT TO KNOW HOW YOUR INFORMATION WILL BE USED BY THE BUSINESS CONTROLLING THAT SITE, BE SURE TO READ ITS PRIVACY POLICY**
-
-PDV Ltd works with many partners to deliver offers to you that we believe may be of interest given the information you have provided.
-
-By joining the Fair Exchange Programme through any of our data collection methods, you are agreeing that you are happy for us and our partner companies to use your details to decide which offers may interest you most and then to get in touch with you about these offers, via post, e-mail, text or telephone.
-
-PDV Ltd may, from time to time, use third party suppliers to provide all of part of its service to you. PDV Ltd shall only be entitled to disclose such of your personal information as is necessary to enable them to provide the relevant service to you.
-
-PDV Ltd strongly supports the principles of ‘permission marketing’ and will only send communications from itself and its partners with your agreement.
-
-When you first register with us you agree to receive e-mails, postal communications, text and phone communications. You can specify that you do NOT wish to be contacted by a specific method by logging on to MY PROFILE and clicking whichever options best suit you.
-
-We hope you will enjoy the communications we send you, but if at any time you change your mind, you may withdraw these permissions AT ANY TIME by either:
-
-  * Going to the MY PROFILE page within any of our sites and ticking the relevant ‘NO’ box.
-  * Using the ‘unsubscribe’ link on any of the e-mail messages we send you.
+PRIVACY POLICY
+Fair-exchange.com is a brand managed by PDV Limited (“PDV” or “We”) who are specialists in the provision of consumer
+data for marketing and market research purposes and We are committed to protecting and respecting your privacy. We
+work closely with some of the UK's leading brands to help them target their offers better and help them learn more about
+what consumers want from their products. Fair-exchange.com provides manufacturers, retailers and service providers
+with the key information they need to serve you better.
+As a leading data marketing company, PDV takes the issue of personal data and privacy extremely seriously. PDV is
+registered as a Data Controller with the Information Commissioner’s Office, and as such your information will always be
+safeguarded through our adherence to the Data Protection Act 1998, and the Privacy and Electronic Communications
+Regulations (2003) to ensure that the information you provide to us is safe and only used for the purposes stated in the
+opt-in statement and this Privacy Policy.
+PDV is also a member of the UK Direct Marketing Association (DMA) and fully complies with its protocols to properly
+ensure the correct use of data.
+This Privacy Policy (together with our terms of use www.Fair-exchange.com and any other documents referred to on it)
+sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+Please read the following carefully to understand our views and practices regarding your personal data and how we will
+treat it.
+For the purpose of the Data Protection Act 1998 (the “Act”), the Data Controller is PDV Ltd, Company No. 3974954,
+Registered in England. Registered Office: Green Heys, Walford Rd, Ross-on-Wye, HR9 5DB a subsidiary of DM plc.
+INFORMATION WE MAY COLLECT FROM YOU
+Fair-exchange.com is keen to ensure that the principals of our opt-in when your data is collected are clearly explained.
+The information you volunteer to Fair-exchange.com and that PDV holds about you, will be shared and used to
+appropriately target offers and marketing communication from Fair-exchange.com, from our clients, from our selected
+third party partners (including Intela Ltd) and from PDV and its other brands. Marketing communication may be through
+email, mailing, telemarketing, SMS/MMS and door-to-door canvassing, depending on which contact channel information
+you have volunteered. You may also receive marketing calls via automated voice broadcast over the telephone.
+Some questions on our consumer surveys are specific to our named sponsors, and by expressing a positive interest in
+their brand or products you are also agreeing to contact from them. By volunteering your phone number you are agreeing
+to telephone contact by these named sponsors. You may subsequently need to contact these named sponsor brands
+directly if in the future you decide to opt-out of further communication from these brands.
+We may collect and process the following data about you:
+     •    Your data may be used for analytical purposes. Your data may also be used in conjunction with data we may
+          have received from other sources in order to improve personalised and targeted communications, and we may
+          share information with other companies for the same reason.
+     •    Your data may be shared and combined with other companies who hold your personal data, and we may use
+          information from other sources to add to data we already hold. This information may help us to improve our
+          ability to service your needs on a personalised basis, by helping us to learn more about you and your purchasing
+          habits and allowing us to let you know about offers you might be interested in.
+     •    Your data may be used for data validation, enhancement, information verification, suppression, tracing and to
+          the extent permitted by law, individual reference or look-up services, by PDV and third parties.
+     •    Please remember that you can de-register from Fair-exchange.com at any time (see Deregistration below).
+          Furthermore you can request suppression of your details from PDV’s database if you would prefer us not to use
+          your information for any of the above.
+     •    You can also request to know what personal information PDV holds about you, by writing in person to us at the
+          address below asking for subject access request.
+© PDV 2011                                                    1
 
 
+     •    PDV may also receive information about you when you register on one of our affiliate or partner sites, or when
+          you take part in a special promotion for one of these affiliates or partners. If you have registered with Fair-
+          exchange.com through one of our third party partner sites, it is possible that the third party site may also retain
+          your data, but only in accordance with the terms and conditions as published by them on their site.
+     •    By filling in forms on our site www.Fair-exchange.com (“our site”). This includes information provided at the
+          time of registering to use our site, subscribing to our service, posting material or requesting further services.
+IP ADDRESSES AND COOKIES
+We may obtain information about your general internet usage by using a cookie file which is stored on your browser or
+the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help
+us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for
+the site to operate.
+Cookie                Name              Purpose                                               More information
+ASPXANONYMOUS         www.Fair-         Our cookie tracks a users movement throughout ASP.NET_SessionId=czgal4i13
+                      exchange.com      the site and also acknowledges them when they uuocxdqtkjwtbkx
+                                        return. Our cookie does not hold any personal
+                                        data
+                                        This cookie enables us to:
+                                             •    Uniquely identify the user to .net, which
+                                                  maintains
+                                                  copies of the variables from page to
+                                                  page as part of a session.
+Google analytics      Google            Google Analytics tracks uses cookies in order to Types of cookie __utma __utmb
+                                        provide meaningful reports about your site __utmc __utmz __utmx
+                                        visitors. Google Analytics cookies do not collect
+                                        personal data about your website visitors.
+Please note that our advertisers may also use cookies, over which we have no control. You can block cookies by activating
+the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your
+browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit
+our site.
+WHERE WE STORE YOUR PERSONAL DATA
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic
+Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers.
+Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details
+and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing.
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this
+privacy policy.
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL
+technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts
+of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to
+protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at
+your own risk. Once we have received your information, we will use strict procedures and security features to try to
+prevent unauthorised access.
+© PDV 2011                                                      2
 
-If you prefer you may change your mind or stop all further communication (there may be a short delay) by writing to: The Data Protection Compliance Officer, PDV Ltd, 3rd Floor, 64 Clarendon Road, Watford, Hertfordshire, WD17 1DA. This is also the contact point if you have any complaint about our service.
 
-If we do not hear otherwise from you, we will assume that the information you provide to us is accurate and up-to-date and we will continue to use the information to send you the communications you have requested.
+USES MADE OF THE INFORMATION
+We use information held about you in the following ways:
+     •    To ensure that content from our site is presented in the most effective manner for you and for your computer.
+     •    To provide you with information, products or services that you request from us or which we feel may interest
+          you, where you have consented to be contacted for such purposes.
+     •    To carry out our obligations arising from any contracts entered into between you and us.
+     •    To allow you to participate in interactive features of our service, when you choose to do so.
+     •    To notify you about changes to our service.
+We may also use your data, or permit selected third parties to use your data, to provide you with information about
+goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
+If you are an existing customer, we will contact you by e-mail, phone, post or SMS with information about goods and
+services similar to those which were the subject of a previous sale to you.
+If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by
+electronic means only if you have consented to this.
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes,
+please tick the relevant box situated on the form on which we collect your data the order form or registration form.
+DISCLOSURE OF YOUR INFORMATION
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate
+holding company and its subsidiaries.
+We may disclose your personal information to third parties:
+     •    In the event that we sell any business or assets we may disclose your personal data to the prospective buyer of
+          such business or assets.
+     •    If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in
+          order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of
+          PDV, our customers, or others. This includes exchanging information with other companies and organisations for
+          the purposes of fraud protection and credit risk reduction.
+YOUR RIGHTS
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before
+collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any
+third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the
+forms we use to collect your data. You can also exercise the right at any time by contacting us at PDV, Compliance
+Department, 64 Clarendon Road, Watford, WD17 1DA.
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.
+If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we
+do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal
+data to these websites.
+DEREGISTRATION
+You can unsubscribe from Fair-exchange.com email communications at any time by clicking on the link at the foot of any
+email correspondence. Your details will be suppressed, Fair-exchange.com will send no further emails and your details
+will no longer be passed onto any third parties for the uses described in this Privacy Policy.
+You can also deregister from Fair-exchange.com at any time through the website. Your details will then be suppressed
+and Fair-exchange.com will send no further email communication.
+To request suppression from PDV completely, please write to us at the address at the bottom of this Privacy Policy, or
+email client.services@pdvltd.com
+© PDV 2011                                                      3
 
-Please note that PDV Ltd will act in accordance with the Data Protection Act 1998 and remove your permission as promptly as possible but you could continue to receive communications for a short period of time whilst this change is actioned.
 
-You have a right under the Data Protection Act 1998 to see what information we hold about you, subject to certain conditions. 
-
-Our websites provide you with direct access to your contact details which you may update at any time but should you make an application to us in writing, we may ask you to provide us with sufficient information so that we can be sure that you are who you say you are as we cannot act on requests for access to personal data from third parties. We also reserve the right to make a small charge for providing you with the information you are requesting.
-
-If you would like to proceed with a request to see what data we hold about you, please write to the Data Protection Compliance Officer, PDV Ltd, 3rd Floor, 64 Clarendon Road, Watford, Hertfordshire, WD17 1DA.
-
-When you give your personal data to PDV Ltd we will process that data in accordance with our responsibilities under the Data Protection Act 1998, and the Privacy and Electronic Communications (EC Directive) 2003 and other legislation if it is relevant.
-
-We will keep your data safe and secure. To prevent unauthorised access, maintain data accuracy and ensure the correct usage of information, we monitor and adjust our physical, electronic and managerial procedures to safegard and secure your personal data while in our care, or in the care of any outside suppliers with whom we may contract to process your data on our behalf. 
-
-Whilst we strive to protect your personal information, the internet is not a 100% secure medium for communication and, accordingly, PDV Ltd cannot guarantee the security of any information you send PDV via the internet. PDV Ltd is not responsible for any loss or damage that you or others may suffer as a result of loss of confidentiality of such information.
-
-You must type in a correct password to access your Fair Exchange account and details. It is your responsibility to ensure the security of your Fair Exchange password and not to reveal this information to others.
-
-Cookies are small files of letters and numbers downloaded onto your computer when you access certain websites. Cookies unlock a computer’s memory allowing sites to recognise users when they return to a site. Like a key, a cookie itself does not contain information but when it is read by a browser it can help a website identify you and your requirements.
-
-PDV Ltd uses cookies as a means of limiting the number of times you may see a certain advertisement on your screen (a process called frequency capping) to ensure that you see the best range of relevant offers and adverts.
-
-PDV Ltd also uses ‘web beacons’ as a means of tracking whether or not you open e-mails from us. This information is used to assess whether the message has been effective, both for you and us or our partners. The information is retained by us and used in deciding the most appropriate offers to be made to you in the future.
-
-In some cases, we also track the pages visited when you click through from Fair Exchange to one of our partner sites. Note that this information is
-
-  * Anonymous – no personal information is released or can be derived from it
-  * Restricted only to our sites and the sites of our partners. We do not track pages you visit on the general internet.
-
-
-
-Some of the partners that we advertise with require us to use cookies or action tags. These action tags provide those websites with the aggregate number of registrations to enable them to evaluate the effectiveness of their advertising. In some instances, we and another business may exchange some of your information as part of this assessment and the provision of rewards to you. The specific details should be explained in the ‘Privacy Policy’ or ‘Conditions of Use’ page of the partner sites.
-
-Some of the partner websites that advertise with us via our games, competitions and e-mails may well use cookies within their sites.
-
-You may decide how you wish cookies to be used. You can make and action this decision within your computer and you can easily delete cookies that have been installed in the cookie folder of your browser.
-
-Most industry-standard web browsers have an option that allows you to turn off all cookies or have your computer inform you each time that a request to place a cookie is being made. If you turn cookies off (or refuse to accept a request to place a cookie) you may not have access to some features on our websites and our partners’ websites and you may lose the functionality of locating some of our services.
-
-If you would like more information about cookies and how to control them no matter what version and which software you are using, go to  
-www.allaboutcookies.org 
-
-PDV Ltd is not liable for information that is inaccurate due to technical defects in software used on our websites, whether induced by our systems or by software provided by third parties.
-
-By using our websites you signify your acceptance of this Privacy Policy. PDV Ltd reserves the right to modify, alter or otherwise update this policy at any time. Visitors are encouraged to review this policy from time-to-time to stay abreast of any changes. Your continued use of our websites following the posting of any changes to this policy means you accept those changes. 
-
-PDV Ltd will undertake to revise the ‘last updated’ statement at the top and bottom of the Privacy Policy in the event of any changes to the Policy in the future.
-
-Last Updated November 2008.
+DATA SECURITY
+Although we endeavour to ensure the security of all correspondence, the Internet is not a 100% secure medium.
+Therefore, we are unable to guarantee the security of any data you send electronically to Fair-exchange.com and are
+unable to accept responsibility for any loss or damage experienced through any loss of confidentiality of your
+information.
+RIGHT OF TRANSFER
+Should Fair-exchange.com or PDV choose to sell or transfer business assets, it is possible that the information we hold
+may be transferred as part of the transaction. Fair-exchange.com or PDV may choose to retain a copy of the information
+post sale or transfer.
+ACCESS TO INFORMATION
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with
+the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the
+information we hold about you.
+USEFUL LINKS
+As members of the Direct Marketing association we are keen to promote the best interests of consumers and how their
+personal data is used. If you would like to know more about how your information can be utilised, how you can restrict its
+use, who has access and a wide range of other aspects, we suggest you refer to the following sources:
+     •   The Direct Marketing Association; www.dma.org.uk
+     •   The Information Commissioner; www.ico.gov.uk
+     •   The Citizens Advice Bureau; www.adviceguide.org.uk
+For further information please write to:
+Compliance Department
+Fair-exchange.com
+PDV Ltd
+64 Clarendon Road
+Watford
+WD17 1DA
+© PDV 2011                                                  4
