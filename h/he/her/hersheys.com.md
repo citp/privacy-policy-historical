@@ -1,129 +1,123 @@
-> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008014327id_/http%3A//www.thehersheycompany.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331003720id_/http%3A//www.thehersheycompany.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Hershey Company | Privacy Policy
 
-## Welcome to The Hershey Company Internet web sites!
-
-We are proud to have this opportunity to tell you a little about our company, our products and our history. Along the way, we also hope you have some fun. Before you begin exploring, we'd like to review the steps we have taken to ensure that on-line visitors of all ages have a safe, enjoyable experience.
-
-## Our Commitment To Privacy
-
-Your privacy is important to us. At The Hershey Company, we value our consumer's privacy and have made it our policy to provide on-line content that requires minimal collection of information from our visitors. Furthermore, to better protect your privacy we provide this notice explaining our on-line information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. Any significant changes to this Privacy Policy shall be printed in blue italics for a period of 30 days.
-
-## Kids
-
-We take seriously our responsibility to our many young consumers. Our sites have been designed primarily for our adult consumers to enjoy, but they also have been designed to be accessible, safe for kids of all ages, and to adhere to all applicable laws and regulations. Children under the age of 13 and their parents should review the section of this policy called "A Word to Parents About Kids' Privacy" which discusses the special steps we take for young children who may visit our pages.
-
-## How We Collect Information
-
-Below are some of the ways in which a visitor may provide information to us on-line and how we may use that information.
-
-## Domain Name Recognition
-
-Our web servers automatically recognizes a visitor's domain name, however, they do not recognize a visitor's e-mail.
-
-## Use Of Cookies
-
-Cookies and web beacons are small bits of information that a web site transfers to an individual's computer for record keeping purposes. We use cookies in a variety of ways to create a more personalized on-line experience for the user. For example, cookies may be used to reduce the number of repeat questions provided, to ensure that a promotion is not entered more than the permitted number of times, to create a recipe box, or to monitor how effective our ads on third party sites are at bringing visitors to our web pages. We use a cookie in the Hershey's Kitchens area when you build a recipe box. This cookie is the key to your recipe box and is stored within your browser. The purpose for this cookie is to allow the system to recognize you as a return visitor and populate your recipe box with the recipes you have added. On our Investor Relations web site, a cookie is used for user profile verification. Personally identifiable information which may be obtained through cookies or web beacons is not sold, rented or provided to third parties and is not used internally by The Hershey Company for any purpose other than to enhance your experience on our web site.
-
-## Information Actively Provided by Our Visitors
-
-We do not require visitors to register or provide any information before entering our web sites. However, there are several places where visitors may choose to provide personally identifiable information about themselves or other people. Unless we tell you otherwise, Hershey will use the information for the purpose the information was provided.
-
-For example:
+##             Effective Date: December 05, 2014 (last updated 12/05/2014)
 
   
 
 
-  * **Questions** : On some pages our visitors can submit comments or ask questions. The only personally identifiable information that we collect is the sender's e-mail address. We do not save any personally identifiable information associated with comments, and we only save e-mail addresses associated with questions in order to respond to those questions.
+## **Privacy Policy applies to several of our sites and apps.**
 
-  * **E-Cards** : Visitors to some of our pages can send electronic cards by providing the name and  e-mail address for the sender and recipient. The information provided cannot be viewed by Hershey. The information is used only to allow the sender and recipient to view the e-card and is then automatically deleted.
+This policy describes our privacy practices for the websites and mobile applications where it is posted. This includes the _Hershey’s Chocolate World_ website and Hershey brand websites, as well as [_Hershey’s_ Kitchens](http://www.hersheykitchens.com/) and Celebrate with _Hershey’s_. This includes mobile websites. The policy also describes our practices on our smart phone applications. This policy does not apply to information we collect offline. This policy also does not apply to the websites of [Hershey Entertainment and Resorts Company](http://www.hersheypa.com/) , including [The Hotel Hershey](http://www.thehotelhershey.com/) and [Hersheypark ](http://www.hersheypark.com/). It also does not apply to the Hershey Park mobile app.
 
-  * **Promotions & Sweepstakes**: We frequently offer promotions and sweepstakes on our pages. In order to enter a promotion and/or sweepstake or to access certain web site content, we might require you to register online. During the registration process, we collect information necessary for prize fulfillment and will not share this information with any third party companies unless it is for prize fulfillment purposes. If you win a prize, additional information may be collected offline for tax and prize fulfillment purposes. Your online registration may be used across our web sites to enter multiple promotions and/or sweepstakes or to access certain content. The first initial, last name, hometown and state of all winners will be included on a Winners List. The Winners List will be provided upon request and as required by law. Information required for tax purposes, the Winner's List or other information required by law is kept as required by law. We also may use the email address that you provide to send you promotional offers if you opt in.
+[To download a copy of this full privacy policy, [click here.](https://web.archive.org/assets/pdfs/hersheycompany/2014-privacy-policy.pdf)]
 
-  * **Coupons** : Sometimes we offer coupons by mail to web visitors who provide us with their name and mailing address The information provided may also be used to facilitate that same visitor's entry into a sweepstakes or contest so that the consumer does not have to repeatedly enter the same information.
+## **We collect information from and about you.**
 
-  * **Tell-a-Friend** : We may give you the ability to tell your friends about features on our websites. In order to use this Tell-A-Friend feature, we ask you to provide your friends' first names and e-mail addresses. We also ask that you provide your first name and e-mail address. The name and e-mail address of your friend is used only to send the notification to your friend. We do not keep your friends' e-mail addresses or use them for any other purposes. We do not keep your e-mail address or use it for any other purposes. If your friends have "opted out" of communications from our company's e-mail at least 72 hours or more before your send-a-friend email, they will not receive a notification through the Tell-A-Friend feature.
+**Contact information:** For example, we might collect your name and zip code. We might also collect your state or email. 
 
-  * **E-mail Newsletters** : If you are over the age of 13, some of our pages permit you to register to receive e-mail newsletters or updates in the future by providing your e-mail address. Any e-mail you receive from Hershey will allow you to change your preference or "unsubscribe" from this informational service at any time. At the bottom of each promotional email, there is a link stating "Click here to change or remove your subscription". Clicking that link will lead to a page where you can immediately remove your subscription.
+**Payment information:** If you make purchases, we or our vendors might collect your credit card information.
 
-  * **Job Applications:** We will use the information submitted in on-line job applications for the sole purpose of filling the specific position applied for by the applicant. After this position is filled, we will retain the information submitted for the period of time required by applicable law. During this retention period, the application will be considered inactive, and the applicant will be considered for other positions only if he/she submits an additional application for those specific positions. We will not release information submitted in on-line job applications to third parties except to appropriate governmental authorities when such release is required by law.
+**Information you submit or post:** If you post content, apply for a job, or respond to a survey, we will collect the information you provide to us.
 
-  * **Auctions:** Visitors to some of our web sites can participate in on-line auctions. We only collect information which is required for participation in the auction and delivery of merchandise to auction winners. All personally identifiable information submitted is used for the purpose of the auction. The same information may also be used to facilitate that same visitor's entry into a sweepstakes or contest so that the consumer does not have to repeatedly enter the same information.
+**Demographic information:** We may collect gender. We might also ask for information like your age.
 
-  * **Other Features:** There may be other features available on our web sites which may require some personally identifiable information to use the feature. We only use the personally identifiable information to provide the feature.
+**Other Information:** If you use our websites, we may collect information about the browser you are using. We might track the pages you visit. We might look at what site you came from, or what site you visit when you leave us. We collect this information using the tracking tools described [here.](https://web.archive.org/assets/pdfs/hersheycompany/Tracking-Techniques.pdf) To control those tools, please read [here.](https://web.archive.org/assets/pdfs/hersheycompany/Tracking-Techniques.pdf) The information may include GPS locations for our mobile apps.
 
+## **We collect information in different ways.**
 
+**We collect information directly from you.** For example, if you register for a promotion or apply for a job. We might also collect information if you post a recipe review or contact us. We may also collect information if register for certain sites.
 
+**We collect information from you passively.** We may use tracking tools like browser cookies and web beacons. To learn more about these tools and how you can control them, [click here.](https://web.archive.org/assets/pdfs/hersheycompany/Tracking-Techniques.pdf)
 
-## Business Partners
+**We get information about you from third parties.** For example, social media platforms may give us information about you. 
 
-We have some business partners with whom we may operate some of our pages and share information. For example, on occasion we may offer a sweepstakes jointly with another company. In such instances, information may be shared with the co-sponsor so that the sweepstakes may be conducted. Another situation in which information may be shared is when we have licensed our trademarks to another company to manufacture or distribute a particular product.
+## **We use information as disclosed and described here.**
 
-## Aggregate Information
+**We use information to respond to your requests or questions.** For example, we might use your information to register you for promotions. We also use your information to respond to you when you contact us. 
 
-Aggregate information about which pages visitors access or visit (for example, to enter a visitor in a contest or to send the visitor information) is only used for internal review as we continue to improve our web site. Non-personally identifiable aggregate information is shared with third parties. If you prefer not to allow us to collect this information, you can do so by turning off the cookies in your browser, although some areas of our websites may not function properly if you do. We do not rent, sell, or share e-mail addresses with any other company or organization.
+**We use information for marketing purposes.** For example, we might send you information about new products and special offers. We might also use your information to serve you ads about products and offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. We will send you marketing emails if you sign-up. To manage this, read [Your Choices](https://www.hersheys.com/account/login.aspx) section below. We may also use push notifications on our mobile apps.
 
-Finally, we never use or share the personally identifiable information provided to us on-line in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+**We use information to improve our products and services.** We might use your information to customize your experience with us. 
 
-## Our Commitment To Data Security
+**We use information to look at site trends and customer interests.** We may use your information to make website or product improvements. We may also combine information we get from you with information about you we have gotten from third parties.
 
-To prevent unauthorized access, use or disclosure of your personal information, and to maintain data accuracy, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the personal information we collect on-line. The Hershey Company, and its subsidiaries, maintains its data on servers located in the United States. We will only keep your personal information for as long as it remains necessary or relevant for the purposes stated above or as otherwise required by law.
+**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
 
-## A Word To Parents About Kids' Privacy
+**We use information to promote us and our various websites.** Unless we tell you otherwise, we might send you notices of special promotions, offers or solicitations. We might tell you about new website features or product offerings. To manage this, follow the instructions in [Your Choices](https://www.hersheys.com/account/login.aspx), below. 
 
-Our sites have been designed primarily for our adult consumers to enjoy, but they also have been designed to be accessible, safe for kids of all ages, and to adhere to all applicable laws and regulations. There are some extra precautions that we take, however, with respect to collecting information from children under 13.
+**We use information to communicate with you about your account or our relationship:** We may contact you to tell you about changes to this Policy or our website Terms. We may also tell you about issues with your orders. 
 
-  * Most of our promotions are designed for our adult consumers. All promotion entrants are required to provide their date of birth prior to entering any personally identifiable information. We do not knowingly collect personally identifiable information from children under 13 on-line.
+**We use information to talk to parents or guardians to get permission.** We may use contact information to get permission from parents for children who want to use our site.
 
-  * Our web sites do not offer activities that allow your child or Hershey to disclose your child's personal information publicly (for example through chat rooms or message boards).
+**We use information as otherwise permitted by law.**
 
-  * If you would like to request that information be changed or deleted, please contact:
+## **We may share information with third parties.**
 
-The Hershey Company  
-Consumer Relations  
-100 Crystal A Drive  
+**We will share information within our company (including our affiliated companies).**
+
+**We will share information if we think we have to in order to comply with the law.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. 
+
+**We will share information with any successor to all or part of our business.** For example, if part of our business was sold we may sell our customer list as part of that transaction.
+
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors, or will authorize them to collect information on our behalf. Some vendors may be located outside of the United States.
+
+**We will share information with our business partners.** For example, we might share information with a business partner who is running a joint promotion with us. We might also share information with a business partner who distributes our products. To opt out of having your information shared, see the [Your Choices](https://www.hersheys.com/account/login.aspx) section below. 
+
+**We will share information with Hershey Entertainment and Resorts Company.** For example, sometimes we receive questions about The Hotel Hershey or Hersheypark. We may share information so they can address those questions.
+
+**We will share information for other reasons we may describe to you.**
+
+## **You have certain choices about our marketing and tracking tools.**
+
+**You can opt out of marketing emails.** To stop receiving our promotional emails, follow the opt-out link in any of our promotional emails or call us at 1 (800) 468-1714. 
+
+**You can control cookies and tracking tools.** We may use tracking tools and cookies. To learn how to manage how we – and our vendors – use cookies and other tracking tools on our ecommerce sites, please click [here](https://web.archive.org/assets/pdfs/hersheycompany/Tracking-Techniques.pdf)
+
+**You have other controls you can exercise.** You can choose whether or not to share personal information. If you choose not to share, some parts of our sites and some services may be more difficult or impossible to use. If you turn off cookies or tracking tools, parts of our site and services may also not work properly
+
+## **These sites and children.**
+
+Our e-commerce sites are meant for adults. We do not knowingly collect personally identifiable information from children under 13 on-line without first obtaining permission from the child's parent or guardian. 
+
+We do not require a child to provide more personally identifiable information than is reasonably necessary to participate in an activity. 
+
+Parents, you can review information about your child that we have on file, or request that certain information be changed or deleted, please contact:
+
+The Hershey Company   
+Consumer Relations   
+100 Crystal A Drive   
+Hershey, PA 17033
+
+Phone Toll Free 1-800-468-1714, or Contact us [Online](http://www.thehersheycompany.com/contact-us.aspx)
+
+For information from the Federal Trade Commission about protecting children's privacy on-line, [click here.](http://www.ftc.gov/news-events/press-releases/2002/04/ftc-protecting-childrens-privacy-online)
+
+## **We use standard security measures.**
+
+The Internet is not 100% secure, though. We thus cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+
+## **We store information in the United States.**
+
+If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States and by using the Sites/giving your information, you consent to such transfer, and understand that the U.S. may not provide the same level of protections as the laws of your country. 
+
+## **We may link to third party sites or services we don’t control.**
+
+If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the information practices of that website. You should read the privacy policy of other websites carefully. We are not responsible for such third party's sites.
+
+## **Feel free to contact us if you have more questions.**
+
+You can Contact us Online or write to us at: 
+
+Public Relations Department   
+The Hershey Company   
+PO Box 810   
+100 Crystal A Drive   
 Hershey, PA 17033 
 
-Phone Toll Free 1-800-468-1714, or  
- **Contact us Online:**  
-[Online Form](https://web.archive.org/contact-us.aspx)
+You can also call us at 1-800-468-1714 
 
-
-
-
-**NOTICE: Visit** [**http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html**](https://web.archive.org/bumper.asp?url=http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html "http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html") **for information from the Federal Trade Commission about protecting children's privacy on-line.**
-
-## How You Can Access Or Correct Your Information
-
-If it has not already automatically been deleted as explained above, you may review your or your child's personally identifiable information, have it deleted and withdraw permission for its continued use by Hershey by [ Contacting Us Online](https://web.archive.org/contact-us.aspx). To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. In addition to this, all sweepstakes and www.hersheyskitchens.com websites let you edit your information online within that website.
-
-## This Privacy Policy Is For Our On-line Consumers
-
-This Privacy Policy is for our consumers who visit our internet sites. It does not apply to information which we may collect by means other than over the Internet and it does not apply to businesses which may use our site.
-
-## Links
-
-Our policy is to link only to other sites which are appropriate for visitors to our web site. However, content on web sites can change quickly, so we cannot always guarantee the appropriateness of the content of sites we link to.  When you leave our site for another website, you will go first to a bumper page informing you that you are leaving our website.
-
-## Hershey's - How To Contact Us
-
-Should you have other questions or concerns about our privacy policy, please don't hesitate to [Contact us Online](https://web.archive.org/contact-us.aspx). You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714.
-
-## Dagoba chocolate - How To Contact Us
-
-Should you have other questions or concerns about our privacy policy, please don't hesitate to [Contact us Online](https://web.archive.org/contact-us.aspx). You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714.
-
-## Scharffen Berger - How To Contact Us
-
-Should you have other questions or concerns about our privacy policy, please don't hesitate to [Contact us Online](http://www.scharffenberger.com/contact/form/). You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714.
-
-## Mauna Loa - How To Contact Us
-
-Should you have other questions or concerns about our privacy policy, please don't hesitate to [ Contact us Online](http://www.maunaloa.com/contact/contact-us.asp). You may also write to us at Public Relations Department, The Hershey Company, PO Box 810, 100 Crystal A Drive, Hershey, PA 17033 or call us at 1-800-468-1714.
-
-\- Your Friends at The Hershey Company 
+You can review the information we have collected about you or your child by [Contacting Us Online.](http://www.thehersheycompany.com/contact-us.aspx)
 
 Copyright © The Hershey Company
-
-**Effective:** March 5, 2014
