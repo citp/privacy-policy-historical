@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the termwiki.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207193430id_/http%3A//www.termwiki.com/index.php/TermWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termwiki.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330151857id_/http%3A//www.termwiki.com/privacy_policy) for the most accurate reproduction.*
 
-# TermWiki: Privacy policy - TermWiki
+# TermWiki: Privacy policy
 
-  * [Home](https://web.archive.org/) > 
-  * TermWiki:Privacy policy
+[Home](https://web.archive.org/) > TermWiki:Privacy policy
 
-
-
-CSOFT International Limited, and its local and overseas affiliates and subsidiaries (referred to as “Company”, “we”, “us”, and “our”), are committed to protecting your privacy and will carefully handle and protect the Personal Information (defined below) which you provide to us or we obtain during your use of this website (“Website”). 
+CSOFT International Limited, and its local and overseas affiliates and subsidiaries (referred to as "Company", "we", "us", and "our"), are committed to protecting your privacy and will carefully handle and protect the Personal Information (defined below) which you provide to us or we obtain during your use of this website ("Website"). 
 
 By accessing, browsing or using this Website, or by providing your Personal Information to us, you agree and consent to our handling and processing of your Personal Information in accordance with this Privacy Policy. If you do not so consent, please stop accessing, browsing or using this Website and do not provide any Personal Information to us. 
 
@@ -19,7 +16,7 @@ When you visit this Website or register, order products or services, or communic
 
 We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with the Website. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, domain name, browser type and language, access times and referring website addresses. 
 
-All of the personal information referred to in this section is collectively referred to as “Personal Information”. 
+All of the personal information referred to in this section is collectively referred to as "Personal Information". 
 
 ##  Use of Personal Information
 
@@ -43,7 +40,7 @@ We are committed to protecting the security of your Personal Information and tak
 
 If a username and a password are used to help protect your accounts and Personal Information, it is your responsibility to keep them confidential and not share them with anyone. If you are sharing a computer with anyone you should always log-out before leaving to protect access to your information from subsequent users. 
 
-##  Collection and Use of Minors’ Personal Information
+##  Collection and Use of Minors' Personal Information
 
 The Website is intended for users of eighteen years of age (or older) and we do not knowingly collect any Personal Information from those below this age. 
 
