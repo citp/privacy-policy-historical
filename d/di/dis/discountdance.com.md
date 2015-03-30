@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountdance.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144835id_/http%3A//www.discountdance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountdance.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331014940id_/http%3A//discountdance.com/privacy.php) for the most accurate reproduction.*
 
 # Discount Dance Supply - Privacy Statement
 
@@ -84,6 +84,6 @@ We are here to help you in any way possible, please feel free to contact us usin
 **Via Snail Mail**
 
 Discount Dance Supply  
-5065 E. Hunter Ave.  
+5037 E. Hunter Ave.  
 Anaheim, CA. 92807 
-© 2014 Discount Dance Supply | info@discountdance.com | (800) 328-7107
+© 2015 Discount Dance Supply | info@discountdance.com | (800) 328-7107
