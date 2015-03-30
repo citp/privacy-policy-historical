@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kode-blog.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927020903id_/http%3A//www.kode-blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kode-blog.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330075528id_/http%3A//www.kode-blog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kode Blog
 
@@ -67,6 +67,10 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: India Street Blue Plaza Building Arusha Tanzania info@blog.rodrickazembe.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Code Blog](http://www.generateprivacypolicy.com/account/policies/edit/www.codeblog.askwomen247.com)  
+[www.codeblog.askwomen247.com](http://www.generateprivacypolicy.com/account/policies/edit/www.codeblog.askwomen247.com)  
+India Street Blue Plaza Building Arusha Tanzania  
+info@blog.rodrickazembe.com
 
 This document was last updated on January 11, 2014
