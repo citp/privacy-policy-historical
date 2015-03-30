@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedompop.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130205905id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedompop.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330084554id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.*
 
 # Free Wireless Internet | Free Internet | 4G Wireless Internet - FreedomPop
 
