@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045104id_/http%3A//www.briantracy.com/privacy.aspx%3Flid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331003026id_/http%3A//www.briantracy.com/privacy.aspx%3Flid%3Dfooter%26ssid%3Dd96d86ab-7360-44ef-9205-6dcae06d1ba8) for the most accurate reproduction.*
 
 # Achieve Your Personal and Professional Goals Faster - Brian Tracy International
 
-[](https://web.archive.org/?lid=logo)
+[](https://web.archive.org/?lid=logo&ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8)
 
 Order by Phone  
 858.436.7300
 
 _Brian Tracy International knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting Brian Tracy International, you are accepting the practices described in this Privacy Notice._
 
-Questions regarding this statement should be directed by e-mail to [support@briantracy.com](mailto:support@briantracy.com). You may also contact us at Brian Tracy International, Inc., 462 Stevens Ave, Suite 305, Solana Beach, CA 92075. 
+Questions regarding this statement should be directed by e-mail to [support@briantracy.com](mailto:support@briantracy.com?ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8). You may also contact us at Brian Tracy International, Inc., 462 Stevens Ave, Suite 305, Solana Beach, CA 92075. 
 
-This Privacy Policy sets forth the policies and practices with respect to information or data that is received or gathered regarding members, visitors and users (collectively "you" and "your"). [www.briantracy.com](http://www.briantracy.com/) and all related sites of Brian Tracy International may be referred to collectively as "www.briantracy.com", "Brian Tracy International", "us", "we", "Site", "Website" or "the Company" CAREFULLY READ THIS PRIVACY POLICY BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY AND THAT YOU ASSENT TO THE TERMS OF THIS AGREEMENT, INCLUDING THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY YOU SHOULD NOT USE THIS SITE OR ITS SERVICES.
+This Privacy Policy sets forth the policies and practices with respect to information or data that is received or gathered regarding members, visitors and users (collectively "you" and "your"). [www.briantracy.com](http://www.briantracy.com/?ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8) and all related sites of Brian Tracy International may be referred to collectively as "www.briantracy.com", "Brian Tracy International", "us", "we", "Site", "Website" or "the Company" CAREFULLY READ THIS PRIVACY POLICY BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY AND THAT YOU ASSENT TO THE TERMS OF THIS AGREEMENT, INCLUDING THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY YOU SHOULD NOT USE THIS SITE OR ITS SERVICES.
 
 **How we collect member, visitor or user information**
 
@@ -60,7 +60,7 @@ If you are a newsletter subscriber, you always have the option of no longer rece
 
 **Correct/Update**
 
-Our customers can correct, access and update pertinent Personally Identifiable Information obtained through the site. Mechanisms include online, email, telephone, postal mail etc. This helps to assure that the information we collect is accurate and up to date. You can correct, access, and update your personal information by e-mailing [Support.](mailto:support@briantracy.com)
+Our customers can correct, access and update pertinent Personally Identifiable Information obtained through the site. Mechanisms include online, email, telephone, postal mail etc. This helps to assure that the information we collect is accurate and up to date. You can correct, access, and update your personal information by e-mailing [Support.](mailto:support@briantracy.com?ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8)
 
 **Conditions of Use, Notices, and Revisions**
 
@@ -76,6 +76,6 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 Phone: 1-858-436-7300  
 Fax: 1-858-436-7301  
-Email: [support@briantracy.com](mailto:support@briantracy.com)  
+Email: [support@briantracy.com](mailto:support@briantracy.com?ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8)  
 462 Stevens Ave #305 Solana Beach, CA 92075  
-Website: [www.briantracy.com](http://www.briantracy.com/)
+Website: [www.briantracy.com](http://www.briantracy.com/?ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8)
