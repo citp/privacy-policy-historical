@@ -1,25 +1,34 @@
-<!--The following is the downloaded HTML source of the murad.com privacy policy that was archived on 2014-07-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140726063457id_/http%3A//www.murad.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the murad.com privacy policy that was archived on 2015-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150330043210id_/http%3A//www.murad.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-6S4Q"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcCVFJRGwAEVFVaBgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-6S4Q"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
 <title>Murad Privacy Policy</title>
 <meta name="description" content="Murad skin care products including Acne Complex acne treatment, Resurgence anti aging skin treatment and other clinically proven acne treatments and anti aging products.">
 <meta name="keywords" content="Acne, Anti-Aging, Skin Care">
 <meta name="robots" content="INDEX,FOLLOW">
+<!-- For page recognition on requirejs setup -->
+<meta id="page-name" class=" cms-page-view cms-privacy-policy">
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
 <meta name="com.silverpop.brandeddomains" content="www.pages03.net,dev-guidance.murad.com,stage.murad.com,www.murad.com">
 <meta name="com.silverpop.cothost" content="engage3.silverpop.com">
 <script src="https://www.sc.pages03.net/lp/static/js/iMAWebCookie.js?90543b-127bae3838f-2d17c223308675814a3c362bb71726bf&amp;h=www.pages03.net" type="text/javascript"></script>
-<link rel="icon" href="https://www.murad.com/media/favicon/default/favicon.1311307296.gif" type="image/x-icon">
-<link rel="shortcut icon" href="https://www.murad.com/media/favicon/default/favicon.1311307296.gif" type="image/x-icon">
-<script type="text/javascript" src="//use.typekit.com/khs0wim.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="icon" href="https://www.murad.com/media/favicon/default/favicon.1427197126.gif" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.murad.com/media/favicon/default/favicon.1427197126.gif" type="image/x-icon">
+
+
+
+
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
     var BLANK_URL = 'https://www.murad.com/js/blank.html';
-    var BLANK_IMG = 'https://www.murad.com/js/spacer.1327566693.gif';
+    var BLANK_IMG = 'https://www.murad.com/js/spacer.1426079090.gif';
 //]]>
 </script>
 <![endif]-->
@@ -29,49 +38,48 @@
 var s_account = "webmetromurad";
 </script>
 
-<!-- STARTHeadContainer --><link rel="stylesheet" type="text/css" href="https://www.murad.com/js/prototype/windows/themes/default.1406087757.css">
-<link rel="stylesheet" type="text/css" href="https://www.murad.com/js/prototype/windows/themes/murad.1406087757.css">
-<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/muraddefault/css/styles.1406087756.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/muraddefault/css/widgets.1406087756.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/muraddefault/aw_islider/representations/default/style.1406087756.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/muraddefault/css/ms-dropdown/dd.1406087756.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/d-header-2014/css/d-header.1402613602.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/muraddefault/css/privacy.1406087756.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/muraddefault/css/nsp-global.1406087756.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/default/css/print.1406087756.css" media="print">
-<script type="text/javascript" src="https://www.murad.com/js/prototype/prototype.1327566693.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/lib/ccard.1327566693.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/prototype/validation.1406087771.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/scriptaculous/builder.1406087772.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/scriptaculous/effects.1406087774.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/scriptaculous/dragdrop.1406087773.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/scriptaculous/controls.1406087773.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/scriptaculous/slider.1406087774.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/varien/js.1406087775.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/varien/form.1406087774.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/varien/menu.1406087775.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/mage/translate.1406087772.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/mage/cookies.1406087772.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/prototype/window.1406087772.js"></script>
-<script type="text/javascript" src="https://www.murad.com/js/testtarget/mbox.1406087770.js"></script>
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/scripts.1406087769.js"></script>
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/jquery/jquery-1.7.2.min.1342820595.js"></script>
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/murad.1406087768.js"></script>
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/default/js/enterprise/catalogevent.1342820595.js"></script>
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/campaign_tracking/campaignTracking.1406087757.js"></script>
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/sitecatalyst/s_code.1406087769.js"></script>
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/jquery/jquery.placeholder.min.1342820595.js"></script>
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/default/js/ms-dropdown/jquery.dd.1342820595.js"></script>
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/default/js/ms-dropdown/jquery.dd.apply.1342820595.js"></script>
-<!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/muraddefault/css/styles-ie.1406087756.css" media="all" />
-<![endif]-->
+<!-- STARTHeadContainer -->
+<!--The new typekit on murad.com account-->
+<script type="text/javascript" src="//use.typekit.net/wqw4wwu.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://www.murad.com/js/prototype/windows/themes/default.1427279668.css">
+<link rel="stylesheet" type="text/css" href="https://www.murad.com/js/prototype/windows/themes/murad.1427279668.css">
+<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/default/css/print.1427279668.css" media="print">
+<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/muraddefault/aw_islider/representations/default/style.1427279667.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/pod1/css/cms-page.1427279686.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/muraddefault/css/privacy.1427279668.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.murad.com/skin/frontend/muradlevel/muraddefault/css/nsp-global.1427279668.css" media="all">
+<script type="text/javascript" src="https://www.murad.com/js/prototype/prototype.1426079090.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/lib/ccard.1426079090.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/prototype/validation.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/scriptaculous/builder.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/scriptaculous/effects.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/scriptaculous/dragdrop.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/scriptaculous/controls.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/scriptaculous/slider.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/varien/js.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/varien/form.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/mage/translate.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/mage/cookies.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/prototype/window.1427279671.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/jquery/jquery.min.1426079090.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/testtarget/mbox.1427279670.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/scripts.1427279670.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/murad.1427279670.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/default/js/enterprise/catalogevent.1426079090.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/campaign_tracking/campaignTracking.1427279668.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/sitecatalyst/s_code.1427279670.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/jquery/jquery.placeholder.min.1426079091.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/pod1/js/lib/require.1426079091.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/pod1/js/main.1426079091.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/pod1/js/init.1426079091.js"></script>
 <!--[if lt IE 7]>
-<script type="text/javascript" src="https://www.murad.com/js/lib/ds-sleight.1327566693.js"></script>
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/default/js/iehover-fix.1342820595.js"></script>
+<script type="text/javascript" src="https://www.murad.com/js/lib/ds-sleight.1426079090.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/default/js/iehover-fix.1426079090.js"></script>
 <![endif]-->
+<!-- ENDHeadContainer -->
 
-<script src="//cdn.optimizely.com/js/779660128.js"></script><!-- ENDHeadContainer -->
+<script src="//cdn.optimizely.com/js/779660128.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -97,9 +105,38 @@ var s_account = "webmetromurad";
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 })();
 </script>
-<meta name="viewport" content="width=1024"><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script></head>
-<body class=" cms-page-view cms-privacy-policy">
+<meta name="viewport" content="width=1024">
 
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.min.js"></script>
+<![endif]-->
+
+<script>
+    // Old Pages
+    var classes = " cms-page-view cms-privacy-policy";
+    if (
+        classes.indexOf('cms-index-index') === -1 &&
+        classes.indexOf('catalog-category-view') === -1 &&
+        classes.indexOf('catalog-product-view ') === -1 &&
+        classes.indexOf('catalogsearch-result-index') === -1 &&
+        classes.indexOf('cms-brand-page') === -1 &&
+        classes.indexOf('checkout-cart-index') === -1 &&
+        classes.indexOf('checkout-onepage-index') === -1 &&
+        classes.indexOf('catalog-freesample-index') === -1 &&
+        classes.indexOf('livechat-index-index') === -1 &&
+        classes.indexOf('holiday-regimen-index-index') === -1
+    ) {
+        jQuery('html').addClass('old-style').attr('id', 'old');
+    }
+</script>
+
+
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script></head>
+<body class=" cms-page-view cms-privacy-policy">
+  
 <!-- BEGIN MURAD GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
 //<![CDATA[
@@ -117,11 +154,39 @@ _gaq.push(['_trackPageview']);
 
 //]]>
 </script>
-<!-- END MURAD GOOGLE ANALYTICS CODE -->
+<!-- END MURAD GOOGLE ANALYTICS CODE --><!-- DoubleClick DART Natural Search Standard Tracking Tag for DS3
+     DFA Network - The Search Agency - DFA (7050) : DS Agency - The Search Agency (20100000000000944) : DS Advertiser - Murad (21700000001010136)
+     Please do not remove
+     Tag should be placed at the top of the page, after opening body tag and before DoubleClick Spotlight or Floodlight tag(s)
+     Creation Date: 07-01-2014 -->
+<script type="text/javascript">
+    // DoubleClick DART Natural Search Tracking Code
+    if (document.referrer){
+        var ord = Math.random()*1000000000000;
+        var url = 'ad.doubleclick.net/adj/N7050.197812.NSO.CODESRV/B8182532.109860903;dcadv=4461905;sz=1x2;ord=' + ord;
 
-    <script>
-                    var gocart_xid="F:50213";
+        
+        document.write('<SCRIPT language="JavaScript1.1" SRC="' + 'https://' + url + '"><\/SCRIPT>');
+    }
 </script>
+    <!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Murad - Landing
+URL of the webpage where the tag is expected to be placed: http://www.murad.com
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+    Creation Date: 07/03/2014
+-->
+
+<script type="text/javascript">
+        var axel = Math.random() + "";
+        var a = axel * 10000000000000;
+        document.write('<iframe src="http://4461568.fls.doubleclick.net/activityi;src=4461568;type=ret01;cat=land01;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script><iframe src="http://4461568.fls.doubleclick.net/activityi;src=4461568;type=ret01;cat=land01;ord=8986344011635.564?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<noscript>
+        <iframe src="http://4461568.fls.doubleclick.net/activityi;src=4461568;type=ret01;cat=land01;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+
+    
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-6S4Q"
@@ -132,151 +197,153 @@ _gaq.push(['_trackPageview']);
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-6S4Q');</script>
 <!-- End Google Tag Manager -->
-<div class="wrapper">
-        <noscript>
-        <div class="noscript">
-            <div class="noscript-inner">
-                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
-                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
-            </div>
-        </div>
-    </noscript>
-    <!-- STARTHeaderContainer --><div class="header-container header-global">
-    <div class="header-top">
-    <div class="quick-access">
-        <div class="top-menu">
-            <div class="free-shipping50">
-                <!--
-<p><a href="/bestsellers" _mce_href="/bestsellers">Limited Time Offer! Free Gift + Free Shipping with any $80 purchase. <span style="text-decoration: underline;" _mce_style="text-decoration: underline;">Shop Now</span>.</a></p>
-<p><a href="/bestsellers-d" _mce_href="/bestsellers-d">TODAY ONLY. Free Limited-Edition Murad Tote with $75 purchase. Promo Code: <strong>SUMMERBAG</strong>. <span style="text-decoration: underline;" _mce_style="text-decoration: underline;">Shop Now</span>.</a></p>
--->
-<p><a href="/bestsellers-c">4 Days. 4 Faves. Free Deluxe Sample + Free Shipping with any purchase. <span style="text-decoration: underline;">Shop Now</span>.</a></p>            </div>
-        </div>
-    </div>
-    </div>
 
-    <div class="header-wrapper">
-    <div class="header">
-        <div class="branding">
-                    <a href="http://www.murad.com/" title="Murad Skin Care Products for Acne Treatment, Anti-Aging and Healthy Skin" class="logo"><strong>Murad Skin Care Products for Acne Treatment, Anti-Aging and Healthy Skin</strong><img src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/images/logo.1351725664.png" alt="Murad Skin Care Products for Acne Treatment, Anti-Aging and Healthy Skin"></a>
-                                </div>
-        <div class="header-menu">
-            <ul>
-                <li class="top-menu-link"><!--{CART_SIDEBAR_f013f70b1cef4781dc78dd93812b1618}-->
+  <div id="container">
+      <!-- STARTHeaderContainer -->
+
+<div id="promo">
+    <div>
+        <p><a href="/bestsellers-d">Free shipping on all orders + 3 free samples. <span> Shop Now</span></a></p>    </div>
+</div>
+
+
+
+<header class="global dark">
+
+    <div class="top">
+
+        <div class="wrapper fluid">
+
+            <div class="branding">
+                                <a href="http://www.murad.com/" title="Murad Skin Care Products for Acne Treatment, Anti-Aging and Healthy Skin" class="logo"><strong>Murad Skin Care Products for Acne Treatment, Anti-Aging and Healthy Skin</strong><img src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/images/logo.1426079091.png" alt="Murad Skin Care Products for Acne Treatment, Anti-Aging and Healthy Skin"></a>
+                                            </div>
+
+            <div class="header-menu links">
+                <ul>
+                    <li class="top-menu-link"><a class="spa-locator" href="/spa-locator/show">Stores &amp; Spas</a></li>
+                    <li class="top-menu-link">
+                        </li><li class="top-menu-link my-murad ">
+                            <a class="anchor" href="https://www.murad.com/customer/account/" title="Sign In">Sign in</a>
+                                                        <div id="login-suckerfish" class="suckerfish">
+                                                            </div>
+                                                </li>
+                    
+
+                    <li class="top-menu-link contact-link">
+                        <a class="contact anchor" href="/customercare">Contact Us</a>
+                        <div class="suckerfish">
+                            <ul>
+                                <li>
+                                    <h2>Our Certified Skincare Specialists are happy to help.</h2>
+                                    <div class="box">
+                                        <div class="tel">1-888-686-8723</div>
+                                        <div class="chat"><a href="#" onclick="javascript:openChatTopMenu()">Live Chat</a></div>
+                                    </div>
+                                    <h2>Customer Care is available:</h2>
+                                    <div class="box">
+                                        <p>Monday - Friday<br>6am - 6pm PST</p>
+                                        <p>Saturday<br>7am - 3:30pm PST</p>
+                                    </div>
+                                    <p><a class="faq-link" href="/customercare">Frequently Asked Questions</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                     </li>
+                    <li class="top-menu-link">
+                       <a class="check" href="/personalized-skin-care">What's Right For Me</a>
+                    </li>
+                    
+                    <li class="top-menu-link"><!--{CART_SIDEBAR_5b3ccb2bfa09cf2363dcbe250f57fdb0}-->
 <div class="top-cart">
+
+
     
-        <div class="block-title no-items">
+
+    <div class="block-title no-items">
         <ul class="links cart-link">
-            <li><a href="http://www.murad.com/checkout/cart/">Shopping Bag (<span>0</span>)</a></li>
+            <li><a href="http://www.murad.com/checkout/cart/"><span>Bag</span></a></li>
         </ul>
     </div>
-</div>
-<!--/{CART_SIDEBAR_f013f70b1cef4781dc78dd93812b1618}--></li>
-                <li class="top-menu-link help">
-                    <a class="anchor" href="/customercare">Customer Service</a>
-                    <div class="suckerfish">
-                        <ul>
-                            <li><h2>Our Certified Skincare Specialists are happy to help.</h2>
-                                <div class="box">
-                                    <div class="tel">1-888-686-8723</div>
-                                    <div class="chat"><a href="#" onclick="javascript:openChatTopMenu()">Live Chat</a></div>
-                                                                    </div>
-                                <div class="box">
-                                    <strong>Customer Care is available:</strong>
-                                    <p>Monday - Friday<br>
-                                        6am - 6pm PST</p>
-                                    <p>Saturday<br>
-                                        7am - 3:30pm PST
-                                    </p>
-                                </div>
-                                <p><a href="/customercare" class="more">Frequently Asked Questions</a></p>
-                            </li>
-                        </ul>
-                    </div>
-                </li>
-                <li class="top-menu-link my-murad ">
-                    <a class="anchor" href="https://www.murad.com/customer/account/" title="My Murad">My Murad</a>
-                                            <div id="login-suckerfish" class="suckerfish">
-                                                    </div>
-                                    </li>
-                <li class="top-menu-link"><a class="anchor" href="/personalized-skin-care">What's Right For Me</a></li>
-            </ul>
-        </div>
-    </div>
-    </div>
-	<div class="menu-wrapper">
-		<div class="menu-bar">
 
-		<div class="nav-container">
-    <ul id="nav">
-        <li class="level0 nav-1 level-top first">
+</div>
+<!--/{CART_SIDEBAR_5b3ccb2bfa09cf2363dcbe250f57fdb0}--></li>
+                </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+    <div class="navigation">
+        <ul id="nav">
+    <li class="level0 nav-1 parent level-top first">
 <a href="http://www.murad.com/anti-aging" class="level-top" title="Murad Anti-Aging Products">
 <span>Anti-Aging</span>
 </a>
 <div class="suckerfish">
-<!-- Anti Aging -->
 <div class="topmenu-sukerfish antiaging">
 <ul>
 <li class="first">Skin Concerns</li>
-<li><a href="/menopause-treatments">Loss of Firmness / Deep Wrinkles</a></li>
+<li><a href="/menopause-treatments">Loss of Firmness &amp; Deep Wrinkles</a></li>
 <li><a href="/anti-aging-products">Fine Lines &amp; Wrinkles</a></li>
 <li><a href="/sun-spots">Age or Dark Spots</a></li>
-<li><a href="/best-anti-wrinkle-eye-creams">Eye Wrinkles / Crow's Feet</a></li>
+<li><a href="/best-anti-wrinkle-eye-creams">Eye Wrinkles &amp; Crow's Feet</a></li>
 </ul>
 <ul>
 <li class="first">Products</li>
 <li><a href="/hydrating-skin-cleansers">Cleansers</a></li>
 <li><a href="/anti-aging-treatments">Treatments</a></li>
 <li><a href="/anti-wrinkle-moisturizers">Moisturizers</a></li>
-<li><a href="/face-skin-toners">Toners</a></li>
 <li><a href="/anti-aging-eye-creams">Eye Care</a></li>
 <li><a href="/anti-aging-face-mask">Masks</a></li>
 <li><a href="/all-effective-anti-aging-products">All Anti-Aging Products</a></li>
 </ul>
 <ul>
 <li class="first">Brands</li>
-<li><a href="/resurgence-menopause-treatments">Resurgence®                     <span>firms skin &amp; fights medium/deep wrinkles</span> </a></li>
-<li><a href="/age-reform-anti-aging-products">Age Reform®<span>smooths fine lines &amp; wrinkles</span></a></li>
-<li><a href="/environmental-shield-sun-spots">Environmental Shield®<span>fades age/dark spots</span></a></li>
+<li><a href="/resurgence-menopause-treatments">Resurgence</a></li>
+<li><a href="/age-reform-anti-aging-products">Age Reform</a></li>
+<li><a href="/environmental-shield-sun-spots">Environmental Shield</a></li>
+<li><a href="/youth-builder-body-care">Youth Builder Bodycare</a></li>
 </ul>
-<ul class="last">
-<li class="first">Regimens</li>
-<li><a href="/anti-aging-treatment-kits">3-Step Regimens</a></li>
-<li><a href="/hydrating-face-cleansers">Step 1: Cleanse | Tone</a></li>
-<li><a href="/anti-aging-treatment-products">Step 2: Treat | Repair</a></li>
-<li><a href="/anti-aging-moisturizers">Step 3: Hydrate | Protect</a></li>
-<li><a href="/resurgence-anti-aging-products">Resurgence® TV Offer</a></li>
-</ul>
-<div class="offers"><a href="/resurgence-30-day">
-<div class="left"><img class="Anti-Aging-Nav-1" style="margin: 0px 5px 0px 20px;" src="/media/campaigns/2014/01.January/NAV/Anti-Aging-Nav-1.jpg" alt="Resurgence TV Offer" width="88" height="65" align="left">
-<div class="suckerfish-hover">
-<h1>Resurgence® TV Offer</h1>
-<br><br>
-<p class="more">Shop Now</p>
+<a class="image-holder" href="/invisiblur-perfecting-shield-broad-spectrum-spf-30"><img src="http://static.murad.com/media//campaigns/2015/02.february/nav/nav-invisiblur-sneak-peek.jpg" alt=""></a></div>
 </div>
-</div>
-</a> <a href="/renewing-eye-cream">
-<div class="right"><img class="Anti-Aging-Nav-2" style="margin: 0px 15px 0px 20px;" src="/media/campaigns/2014/01.January/NAV/Anti-Aging-Nav-2.jpg" alt="Renewing Eye Cream" width="48" height="65" align="left">
-<div class="suckerfish-hover">
-<h1>Renewing Eye Cream</h1>
-<br><br>
-<p class="more">Buy Now</p>
-</div>
-</div>
-</a></div>
-</div>
-</div>
-</li><li class="level0 nav-2 level-top">
-<a href="http://www.murad.com/acne-products" class="level-top" title="Murad Acne Treatments">
-<span>Acne</span>
+</li><li class="level0 nav-2 parent level-top">
+<a href="http://www.murad.com/resurgence-skin-care" class="level-top" title="">
+<span>Resurgence</span>
 </a>
 <div class="suckerfish">
-<!-- Acne -->
+<!-- Resurgence -->
+<div class="topmenu-sukerfish antiaging">
+<ul>
+<li class="first">Top Rated</li>
+<li><a href="/renewing-cleansing-cream">Renewing Cleansing Cream</a></li>
+<li><a href="/renewing-eye-cream">Renewing Eye Cream</a></li>
+<li><a href="/age-balancing-night-cream">Age-Balancing Night Cream</a></li>
+</ul>
+<ul>
+<li class="first">Targeted Solutions</li>
+<li><a href="/age-diffusing-firming-skin-mask">Skin Firming Favorite</a></li>
+<li><a href="/rejuvenating-lift-for-neck-and-decollete">Neck &amp; Decollete Repair</a></li>
+<li><a href="/resurgence-age-balancing-moisturizer">Dehydrated Skin Rescue</a></li>
+</ul>
+<ul>
+<li class="first">Complete Regimens</li>
+<li><a href="/resurgence-anti-aging-kit-intensive-age-diffusing-serum">Starter Kit</a></li>
+<li><a href="/resurgence-night-regimen">Night Regimen</a></li>
+<li><a href="/resurgence-complete-regimen-cat">Complete Regimen</a></li>
+</ul>
+<a class="image-holder" href="/renewing-eye-cream"><img src="http://static.murad.com/media//2014-rebrand/NAV/renewing-eye.jpg" alt=""></a></div>
+</div>
+</li><li class="level0 nav-3 parent level-top">
+<a href="http://www.murad.com/acne-products" class="level-top" title="Murad Acne Treatments">
+<span>Acne Relief</span>
+</a>
+<div class="suckerfish">
 <div class="topmenu-sukerfish acne">
 <ul>
 <li class="first">Skin Concerns</li>
 <li><a href="/acne-medications">Acne Breakouts</a></li>
-<li><a href="/acne-scars-treatment">Acne Scars</a></li>
+<li><a href="/acne-scars-treatment">Post-Acne Marks</a></li>
 <li><a href="/back-acne-treatment">Back &amp; Body Acne</a></li>
 <li><a href="/best-adult-acne-treatment">Adult Acne</a></li>
 <li><a href="/blackhead-and-clogged-pore-skin-care">Clogged Pores &amp; Blackheads</a></li>
@@ -286,223 +353,193 @@ _gaq.push(['_trackPageview']);
 <li><a href="/acne-skin-cleansers">Cleansers</a></li>
 <li><a href="/acne-treatment-products">Treatments</a></li>
 <li><a href="/oil-free-moisturizers">Moisturizers</a></li>
+<li><a href="/acne-treatment-kits">3-Step Kits</a></li>
 <li><a href="/all-effective-acne-products">All Acne Products</a></li>
 </ul>
 <ul class="last">
-<li class="first">Regimens</li>
-<li><a href="/acne-treatment-kits">3-Step Regimens</a></li>
-<li><a href="/acne-face-cleansers">Step 1: Cleanse | Tone</a></li>
-<li><a href="/acne-treatments">Step 2: Treat | Repair</a></li>
-<li><a href="/acne-moisturizers">Step 3: Hydrate | Protect</a></li>
+<li class="first">Clear Skin Favorites</li>
+<li><a href="/adult-acne-cleanser">Time Release Acne Cleanser</a></li>
+<li><a href="/post-acne-gel">Post-Acne Spot Lightening Gel</a></li>
+<li><a href="/acne-lotion">Skin Perfecting Lotion</a></li>
 </ul>
-<div class="offers"><a href="/murad-acne-clearing-solution">
-<div class="left"><img class="Acne-Nav-1" src="/media/campaigns/2014/03.March/NAV/Acne-Nav-1.jpg" alt="Acne Clearing Solution" width="88" height="65" align="left">
-<div class="suckerfish-hover">
-<h1>Acne Clearing Solution</h1>
-<br><br>
-<p class="more">Buy Now</p>
+<a class="image-holder" href="/face-cleanser"><img src="http://static.murad.com/media//2014-rebrand/NAV/clarifying-cleanser.jpg" alt="Acne Cleanser"></a></div>
 </div>
-</div>
-</a> <a href="/acne-pills-supplements">
-<div class="right"><img class="Acne-Nav-2" style="margin: 0px 10px 0px 10px;" src="/media/campaigns/2013/05.May/NAV/Acne-Nav-2.jpg" alt="Clarifying Cleanser" width="48" height="65" align="left">
-<div class="suckerfish-hover">
-<h1>Pure Skin® Clarifying Dietary Supplements</h1>
-<br><br>
-<p class="more">Buy Now</p>
-</div>
-</div>
-</a></div>
-</div>
-</div>
-</li><li class="level0 nav-3 level-top">
+</li><li class="level0 nav-4 parent level-top">
 <a href="http://www.murad.com/all-murad-products" class="level-top" title="All Murad Skin Care Products">
 <span>All Products</span>
 </a>
 <div class="suckerfish">
 <!-- All Products -->
-<div class="topmenu-sukerfish allproducts">
-<ul>
+<div class="topmenu-sukerfish allproducts four-col">
+<ul class="first-col">
 <li class="first">Products</li>
 <li><a href="/skin-cleansers">Cleansers</a></li>
 <li><a href="/skin-treatments">Treatments</a></li>
 <li><a href="/skin-moisturizers">Moisturizers</a></li>
 <li><a href="/eye-creams">Eye Care</a></li>
-<li><a href="/face-toners">Toners</a></li>
-<li><a href="/face-skin-treatment-masks">Masks</a></li>
-<li><a href="/spf-sun-block-products">SPF</a></li>
-<li><a href="/skin-care-kits">3-Step Regimens</a></li>
-<li><a href="/skin-supplements">Supplements</a></li>
-<li><a href="/cellulite-solutions">Body Care</a></li>
-<!--
-<li><a href="/hybrids" _mce_href="/hybrids">Makeup</a></li>
--->
-<li><a href="/skincare-for-men">Men's</a></li>
-<li><a href="/travel-size-skin-care-products">Travel Sizes</a></li>
-<li><a href="/healthy-skin-books">Books</a></li>
-<!--
-<li><a href="/teen-skin-care-products" _mce_href="/teen-skin-care-products">Teen Skin Care</a></li>
--->
 <li><a href="/new-skin-care-products">What's New</a></li>
+<li><a href="/cellulite-solutions">Body Care</a></li>
 <li><a href="/all-skin-care-products">All Products</a></li>
 </ul>
-<div class="two-columns">
-<h2>Brands</h2>
 <ul>
-<li><a href="/acne-complex-products">Acne Complex®<span>fights acne breakouts</span></a></li>
-<li><a href="/resurgence-anti-aging">Resurgence®<span>firms skin &amp; fights medium/deeps wrinkles</span></a></li>
-<li><a href="/age-reform-anti-wrinkle">Age Reform®<span>smooths fine lines &amp; wrinkles</span></a></li>
-<li><a href="/environmental-shield-vitamin-c-skincare">Environmental Shield®<span>fades age/dark spots</span></a></li>
-<li><a href="/pore-reform-skin-care-products">Pore Reform™<span>clears clogged pores &amp; balances the t-zone </span></a></li>
-<li><a href="/redness-therapy-dry-sensitive-skin-care">Redness Therapy®<span>calms sensitive skin &amp; Rosacea</span></a></li>
-<li><a href="/age-proof-suncare-sun-protection-solutions">Age-Proof Suncare<span>fights aging &amp; sun damage</span></a></li>
+<li class="first">&nbsp;</li>
+<li><a href="/skin-care-kits">Regimens &amp; Kits</a></li>
+<li><a href="/face-skin-treatment-masks">Masks</a></li>
+<li><a href="/spf-sun-block-products">Suncare</a></li>
+<li><a href="/skin-supplements">Supplements</a></li>
+<li><a href="/face-toners">Toners</a></li>
+<li><a href="/youth-builder-body-care">Youth Builder Bodycare</a></li>
 </ul>
-<ul class="last">
-<li><a href="/cellulite-solution-anti-cellulite-treatments">Bodycare<span>firms skin &amp; reduces the appearance of cellulite</span></a></li>
-<li><a href="/murad-man-skincare-for-men">Murad Man<span>reduces bumps &amp; irritation from shaving</span></a></li>
-<!--
-<li><a href="/hybrids-skin-care-makeup" _mce_href="/hybrids-skin-care-makeup">Hybrids&reg;<span>conceal flaws while improving health over time</span></a></li>
---> <!--
-<li><a href="/clean-scene-teen-skin-care" _mce_href="/clean-scene-teen-skin-care">Clean Scene&reg;<span>skincare for the next generation of skincare enthusiasts</span></a></li>
---> 
+<ul class="first-col">
+<li class="first">Skin Concerns</li>
+<li><a href="/menopause-treatments">Deep Wrinkles</a></li>
+<li><a href="/anti-aging-products">Fine Lines</a></li>
+<li><a href="/sun-spots">Age or Dark Spots</a></li>
+<li><a href="/best-anti-wrinkle-eye-creams">Eye Wrinkles</a></li>
+<li><a href="/acne-medications">Acne Breakouts</a></li>
 </ul>
+<ul>
+<li class="first">&nbsp;</li>
+<li><a href="/pore-reform-skin-care-products">Clogged Pores</a></li>
+<li><a href="/redness-therapy-dry-sensitive-skin-care">Redness</a></li>
+<li><a href="/age-proof-suncare-sun-protection-solutions">Sun Protection</a></li>
+<li><a href="/murad-man-skincare-for-men">Men's Razor Burn</a></li>
+</ul>
+<a class="image-holder" href="/remove-age-spots"><img src="http://static.murad.com/media//2014-rebrand/NAV/rapid-age-spot.jpg" alt="Fade Age Spots"></a></div>
 </div>
-</div>
-</div>
-</li><li class="level0 nav-4 level-top">
+</li><li class="level0 nav-5 parent level-top">
 <a href="http://www.murad.com/customer-favorite-skin-care" class="level-top" title="Murad Best Sellers">
 <span>Favorites</span>
 </a>
 <div class="suckerfish">
-<!-- Most Popular -->
-<div class="topmenu-sukerfish popular">
-<div class="offers two"><a href="/bestsellers">
-<div class="left"><img class="Most-Popular-1" style="margin: 0px 0px 0px 25px; vertical-align: middle;" title="Best Sellers" src="/media/catalog/homepage/suckerfish/RASPLS.jpg" alt="Best Sellers" width="206" height="145">
-<div class="suckerfish-hover">
-<h1>Bestsellers</h1>
-<p>Rapid Age Spot and Pigment Lightening Serum</p>
-<p class="more">Shop Now</p>
+<div class="topmenu-sukerfish antiaging">
+<ul>
+<li class="first">Customer Favorites</li>
+<li><a href="/rapid-collagen-infusion">Rapid Collagen Infusion</a></li>
+<li><a href="/face-cleanser">Clarifying Cleanser</a></li>
+<li><a href="/renewing-eye-cream">Renewing Eye Cream</a></li>
+<li><a href="/intensive-wrinkle-reducer">Intensive Wrinkle Reducer</a></li>
+<li><a href="/resurgence-age-balancing-moisturizer">Age-Balancing Moisture</a></li>
+</ul>
+<ul>
+<li class="first">New Favorites</li>
+<li><a href="/youth-builder-body-preview-set">Youth Builder Preview Kit</a></li>
+<li><a href="/skin-smoothing-polish">Skin Smoothing Polish</a></li>
+<li><a href="/pore-reform-starter-kit">Pore Reform Starter Kit</a></li>
+<li><a href="/new-skin-care-products">Shop All New Products</a></li>
+</ul>
+<ul>
+<li class="first">Problem Solvers</li>
+<li><a href="/remove-age-spots">Dark Spot Corrector </a></li>
+<li><a href="/time-release-retinol-anti-wrinkle">Deep Wrinkle Treatment</a></li>
+<li><a href="/hydro-dynamic-moisture">Dry Skin Relief</a></li>
+<li><a href="/oil-control-mattifier-spf-15">Oil Control</a></li>
+<li><a href="/instant-radiance-eye-cream">Dark Circles</a></li>
+</ul>
+<a class="image-holder" href="/renewing-eye-cream"><img src="http://static.murad.com/media//2014-rebrand/NAV/renewing-eye.jpg" alt=""></a></div>
 </div>
-</div>
-</a>
-<div class="right"><a href="/top-reviewed-skin-care">
-<div class="line-bottom"><img class="Most-Popular-2" style="margin: 0px 5px 0px 5px;" src="/media/campaigns/2013/03.March/NAV/Most-Popular-2.jpg" alt="Top Rated" width="60" align="left">
-<div class="suckerfish-hover">
-<h1>Top Rated</h1>
-<p>Skin Perfecting Lotion</p>
-<br>
-<p class="more">Shop Now</p>
-</div>
-</div>
-</a> <a href="/award-winning-skin-care"> <img class="Most-Popular-3" style="margin: 0px 5px 0px 5px;" src="/media/campaigns/2013/03.March/NAV/Most-Popular-3.jpg" alt="Award Winning" width="60" align="left"> </a>
-<div class="suckerfish-hover"><a href="/award-winning-skin-care">
-<h1>Award-Winning</h1>
-<p>Complete Reform</p>
-<br>
-<p class="more">Shop Now</p>
-</a></div>
-<a href="/award-winning-skin-care"> </a></div>
-</div>
-</div>
-</div>
-</li><li class="level0 nav-5 level-top">
+</li><li class="level0 nav-6 parent level-top">
 <a href="http://www.murad.com/special-promotion-offers" class="level-top" title="">
 <span>Offers</span>
 </a>
 <div class="suckerfish">
-<!-- Sales and Offers -->
-<div class="topmenu-sukerfish special-offers">
-<div class="offers two">
-<div class="left"><a href="/bestsellers-i"><img class="nav_SpecialOffers1" style="margin: 0px 0px 0px 5px; vertical-align: middle;" src="http://static.murad.com/media//campaigns/2014/07.July/nav/summer.jpg" alt="Summer Beauty Collection" width="232"><br>
-<div class="suckerfish-hover">
-<h1>Free 5-Piece Gift Set</h1>
-<p>Plus Free Shipping.†</p>
-<p class="more">Shop Now</p>
+<!-- Sales and Offers --> <!-- Most Popular -->
+<div class="topmenu-sukerfish antiaging">
+<ul>
+<li class="first">Value Sets</li>
+<li><a href="/complete-renewal">Complete Skin Renewal</a></li>
+<li><a href="/skincare-set16">Radiant Skin Renewal</a></li>
+<li><a href="/youthful-skincare-set17">Youthful Skin Renewal</a></li>
+<li><a href="/acne-duo">Clear Skin Set</a></li>
+</ul>
+<ul>
+<li class="first">Special Offers</li>
+<li><a href="/bestsellers">Free Nurture Your Skin Set</a></li>
+<li><a href="/bestsellers-b">Choose Your Free Cleanser</a></li>
+<li><a href="/bestsellers-c">Free Renewal Set</a></li>
+<li><a href="/skin-care-gift-duos">Skincare Duos</a></li>
+</ul>
+<ul>
+<li class="first">Travel Size</li>
+<li><a href="/youth-builder-body-preview-set">Youth Builder Body Kit</a></li>
+<li><a href="/intensive-c-radiance-peel">Brightening Mask</a></li>
+<li><a href="/hydro-dynamic-ultimate-moisture-travel-size">Luxurious Hydration</a></li>
+<li><a href="/travel-size-skin-care-products">All Travel Size</a></li>
+</ul>
+<a class="image-holder" href="/bestsellers"><img src="http://static.murad.com/media//campaigns/2015/03.march/nav-nurture-your-skin.jpg" alt=""></a></div>
 </div>
-</a></div>
-<div class="left"><a href="/bestsellers"><img class="nav_SpecialOffers1" style="margin: 0px 0px 0px 5px; vertical-align: middle;" src="http://static.murad.com/media//campaigns/2014/07.July/nav/cleansers.jpg" alt="Cleanser Trio" width="232"><br>
-<div class="suckerfish-hover">
-<h1>Free Cleanser Trio</h1>
-<p>with $50 purchase.†</p>
-<p class="more">Shop Now</p>
-</div>
-</a></div>
-<div class="clear">&nbsp;</div>
-</div>
-</div>
-</div>
-</li><li class="level0 nav-6 level-top last">
-<a href="http://www.murad.com/blog" class="level-top" title="">
-<span>Inside Murad</span>
+</li><li class="level0 nav-7 parent level-top last">
+<a href="http://www.murad.com/about-murad" class="level-top" title="">
+<span>About Murad</span>
 </a>
 <div class="suckerfish">
-<!-- Most Popular -->
-<div class="topmenu-sukerfish popular">
-<div class="offers two"><a href="/blog">
-<div class="left"><img class="Most-Popular-1" style="margin: 0 0 15px 5px; vertical-align: middle;" title="Best Sellers" src="/media/wysiwyg/suckerfish-inside/Blog.jpg" alt="Best Sellers" width="206" height="145">
-<h1 style="margin-left: 3px;">Face Forward</h1>
-<div class="suckerfish-hover">
-<p>Our Blog for Living Beautifully</p>
-<p class="more">Read More</p>
+<div class="topmenu-sukerfish antiaging">
+<ul>
+<li class="first">Inside Murad</li>
+<li><a href="/murad-community">Community</a></li>
+<li><a href="/blog">Face Forward Blog</a></li>
+<li><a href="/ambassadors">Our Ambassadors</a></li>
+<li><a href="/bettereveryday">#BetterEveryDay</a></li>
+</ul>
+<ul>
+<li class="first">About Dr. Murad</li>
+<li><a href="/murad-insider">His Story</a></li>
+<li><a href="/dr-murad-insights-and-collection">His Inspirations</a></li>
+<li><a href="/about-us/dr-murad/skin-care-patents">Patents &amp; Awards</a></li>
+<li><a href="/healthy-skin-books">Books</a></li>
+</ul>
+<ul>
+<li class="first">Around The Company</li>
+<li><a href="/murad-store-los-angeles">Our Store </a></li>
+<li><a href="http://muradinclusivehealth.com/spa/" target="_blank">Murad Spa </a></li>
+<li><a href="/about-us/murad-inclusive-health">Inclusive Health</a></li>
+<li><a href="http://muradfamilyfoundation.org/" target="_blank">Murad Family Foundation</a></li>
+</ul>
+<a class="image-holder" href="/healthy-skin-books-conquering-cultural-stress/"><img src="http://static.murad.com/media//campaigns/2015/01.january/nav/nav-cultural-stress.jpg" alt=""></a></div>
 </div>
-</div>
-</a>
-<div class="right"><a href="/top-reviewed-skin-care"> </a>
-<div class="line-bottom"><a href="/top-reviewed-skin-care"><img class="Most-Popular-2" style="margin: 0px 5px 0px 5px;" src="/media/wysiwyg/suckerfish-inside/AboutDrMurad.jpg" alt="Top Rated" width="60" align="left">
-<h1>About Dr. Murad</h1>
-</a>
-<div class="suckerfish-hover"><a href="/top-reviewed-skin-care"> </a><a href="/about-us/dr-murad">
-<p>The leader in skincare science</p>
-<p class="more">Learn More</p>
-</a></div>
-</div>
-<img class="Most-Popular-3" style="margin: 0px 5px 0px 5px;" src="/media/wysiwyg/suckerfish-inside/MuradSpa.jpg" alt="Award Winning" width="60" align="left">
-<h1>Around the Company</h1>
-<div class="suckerfish-hover"><a href="http://muradinclusivehealth.com/spa/">
-<p class="more">Murad Spa</p>
-</a></div>
-<div class="suckerfish-hover"><a href="http://muradfamilyfoundation.org/" target="_blank">
-<p class="more">Murad Family Foundation</p>
-</a></div>
-</div>
-</div>
-</div>
-</div>
-</li>    </ul>
-</div>
-		<form id="search_mini_form" action="https://www.murad.com/catalogsearch/result/" method="get">
-<div class="form-search">
-    <label for="search">Search site:</label><input id="search" type="text" src="https://www.murad.com/skin/frontend/base/default/images/searchBtn.jpg" name="q" value="" class="input-text">&nbsp;<input type="image" title="" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/images/transp.1342820595.png" class="button"><span><span></span></span><a href="http://www.murad.com/catalogsearch/advanced/">Advanced Search</a>
-    <div id="search_autocomplete" class="search-autocomplete"></div>
-    <script type="text/javascript">
-    //<![CDATA[
-        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
-        searchForm.initAutocomplete('https://www.murad.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
-    //]]>
-    </script>
-</div>
+</li></ul>
+        <form id="search_mini_form" action="https://www.murad.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+
+        <label for="search">Search site:</label>
+
+        <button type="submit" title="Go" class="button"></button>
+
+        <input id="search" type="text" name="q" value="" class="input-text">
+
+        
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+
+        <script type="text/javascript">
+            //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+            searchForm.initAutocomplete('https://www.murad.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            //]]>
+        </script>
+    </div>
 </form>
-
-		</div>
-	</div>
-
+    </div>
+    <script>
+        jQuery(document).ready( function() {
+            jQuery('#nav li.level0 a').bind({'touchstart': function(event) {
+               if ( jQuery(this).next('.suckerfish').css('opacity') != 1 ) {
+                   event.preventDefault();
+               }
+            }});
+        });
+    </script>
+</header><!-- ENDHeaderContainer -->
+        <noscript>
+        <div class="noscript">
+            <div class="noscript-inner">
+                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
+                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+            </div>
         </div>
-
-<script type="text/javascript">
-    function openChatTopMenu()
-    {
-        window.open( "https://www.murad.com/livechat/index/index/sectionId/header/", "myWindow",
-            "status = 1, height = 420, width = 540, resizable = no, location = no, menubar = no, scrollbars = no, titlebar = no, bottom = 0, right = 0");
-    }
-
-    function openChatCustomercare()
-    {
-        window.open( "https://www.murad.com/livechat/index/index/sectionId/customercare/", "myWindow",
-            "status = 1, height = 420, width = 540, resizable = no, location = no, menubar = no, scrollbars = no, titlebar = no, bottom = 0, right = 0");
-    }
-</script><!-- ENDHeaderContainer -->
-
-    <div class="page">
-                <div class="breadcrumbs">
+    </noscript>
+        <div class="bc">
+      <div class="wrapper">
+        <div class="breadcrumbs">
     <ul>
                                 			            <li class="home">
                             <a href="http://www.murad.com/" title="Go to Home Page">Home</a>
@@ -513,210 +550,208 @@ _gaq.push(['_trackPageview']);
                                     </li>
 			            </ul>
 </div>
-        <div class="main col1-layout">
-            <div class="col-main">
-                
-<div class="std"><ul class="messages"><li class="success-msg"><ul><li><span>The product AHA/BHA Exfoliating Cleanser has been added to comparison list.</span></li><li><span>The product Intensive Wrinkle Reducer® for eyes has been added to comparison list.</span></li></ul></li></ul><div id="header-wrapper">
-<h2>Privacy Policy</h2>
-</div>
-<div class="left">
-<h3>Security Statement</h3>
+      </div>
+    </div>
+    <div id="content" role="main" class="page">
+      
+<div class="std"><h3 class="title">Privacy Policy</h3>
+<p class="sub-title">Security Statement</p>
 <p>When you log in to Murad.com, we respect your privacy. Murad.com uses the information you provide us to help personalize product information and offers. We only use your name and address information to mail you promotional items, news and offers. <strong>We will never give or sell your user information or email address to anyone without your consent.</strong></p>
-<h3>Email Privacy Matters</h3>
+<p class="sub-title">Email Privacy Matters</p>
 <p>We use your email address only to send you information and updates about Murad.com. On your registration form you may select whether or not you want to receive emails from us. You can unsubscribe at any time you wish to be taken off the Murad.com emailing list.</p>
-<h3>Cookies and Your Computer</h3>
+<p class="sub-title">Cookies and Your Computer</p>
 <p>Like most e-commerce websites, we use "cookie" technology. A cookie is a very small text file that a website can save onto your computer's hard disk to store your information and settings. When you log on, the cookie tells us whether you have visited us before or are a new visitor. It doesn't track any personal information, give us the means to contact you, extract information from your computer or deliver viruses. Furthermore, your address or credit card information is never stored in a cookie. Cookies are simply the most efficient way for us to be able to offer you an enjoyable online shopping environment.</p>
-<h3>Disclosure of Personal Information</h3>
+<p class="sub-title">Disclosure of Personal Information</p>
 <p>Any information you provide to us when you establish or update an account, enter a contest, shop online or request information (i.e. name, address, email address, telephone number and credit card information), is maintained in private files on our secure server and our internal systems. This information is used to enable Murad.com to deliver services and information about our products to you.</p>
 <p>To ensure compliance with federal law, Murad.com does not</p>
-</div>
-<div class="right">
 <p>maintain information provided by children under the age of 16. If you  are visiting Murad.com from a location outside the U.S., your connection will be through and to servers located in the U.S. Your orders placed through Murad.com will be accepted and fully processed in and shipped from the U.S. and all information you provide will be securely maintained in our Web server and internal systems located within the U.S.</p>
-<h3>Links</h3>
+<p class="sub-title">Links</p>
 <p>For your convenience, our website may contain links to other sites. Murad.com is not responsible for the privacy practices or the content of such websites.</p>
-<h3>Security</h3>
+<p class="sub-title">Security</p>
 <p>Murad.com believes in providing a safe and secure shopping experience for all of our clients. We provide stringent and effective security measures on our website.</p>
 <p>It is our policy to never send private information, such as your credit card number, via email. In fact, this is a practice we recommend you adopt in all of your Internet activities.</p>
 <p>We designed Murad.com to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology; for example, 3.0 versions or higher of Netscape Navigator and versions 3.02 or higher of Internet Explorer. This means you'll be unable to inadvertently place an order through an unsecured connection.</p>
-<h3>Third-Party Ad-Servers</h3>
-<p>We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single-pixel .gifs or web beacons) to measure advertising effectiveness. Any information these third parties collect via cookies and action tags is completely anonymous.</p>
-</div></div>
+<p class="sub-title">Third-Party Ad-Servers</p>
+<p>We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single-pixel .gifs or web beacons) to measure advertising effectiveness. Any information these third parties collect via cookies and action tags is completely anonymous.</p></div>
     <script type="text/javascript">
         var google_tag_params = {
             ecomm_pagetype: "other"
         };
     </script>
-            </div>
-        </div>
-       
-    </div> 
-		    <!-- STARTFooterContainer -->
-<div class="footer-container">
-    <div class="footer">
-        <ul class="links">
-                        <li class="first"><a href="http://www.murad.com/catalog/seo_sitemap/category/" title="Site Map">Site Map</a></li>
-                                <li><a href="http://www.murad.com/catalogsearch/term/popular/" title="Search Terms">Search Terms</a></li>
-                                <li class=" last"><a href="http://www.murad.com/catalogsearch/advanced/" title="Advanced Search">Advanced Search</a></li>
-            </ul>
-<ul class="addlinks">
-<div class="footer-links">
-<h4 class="footer-links-heading">Customer Care</h4>
-<li><a href="/customercare">Contact Us</a></li>
-<!--
-<li><a href="#" _mce_href="#">Skin Care Glossary</a></li>
--->
-<li><a href="http://resource.murad.com/" target="_blank">Skin Care Resources</a></li>
-<li><a href="/customercare/general-questions/bill-of-rights">Customer Bill of Rights</a></li>
-<li><a href="/customercare/general-questions/unauthorized-resellers">Unauthorized Resellers</a></li>
-</div>
-<div class="footer-links">
-<h4 class="footer-links-heading">Online Orders</h4>
-<li><a href="/customercare/orders-shipments-returns/order-tracking">Order Status</a></li>
-<li><a href="/customercare/orders-shipments-returns/shipping-options">Shipping Information</a></li>
-<li><a href="/customercare/orders-shipments-returns/how-to-return">Return Policy</a></li>
-</div>
-<div class="footer-links">
-<h4 class="footer-links-heading">Gift Cards</h4>
-<li><a href="https://murad.cashstar.com/" target="_blank">Purchase a Gift Card</a></li>
-<li><a href="/customercare/gift-cards-questions/gift-cards-balance">Check Your Balance</a></li>
-<li><a href="/customercare/gift-cards-questions">Frequently Asked Questions</a></li>
-</div>
-<div class="footer-links">
-<h4 class="footer-links-heading">Partnerships</h4>
-<li><a href="/salon-professional">Become a Murad Account</a></li>
-<li><a href="http://www.massageenvy.com/facials.aspx" target="_blank">Massage Envy Spa</a></li>
-</div>
-</ul>
-<ul class="addlinks">
-<div class="footer-links">
-<h4 class="footer-links-heading">Company</h4>
-<li><a href="/about-us">About Murad</a></li>
-<li><a href="/about-us/murad-careers">Careers</a></li>
-<li><a href="http://buzz.murad.com/" target="_blank">Press</a></li>
-<li><a href="/blog">Skin Care Blog</a></li>
-<li><a href="/affiliateprogram">Affiliate Program</a></li>
-<li><a href="/spa-locator/show">Store &amp; Spa Locator</a></li>
-</div>
-<div class="footer-links">
-<h4 class="footer-links-heading">Customer Favorites</h4>
-<li><a href="/best sellers">Best Sellers</a></li>
-<li><a href="/resurgence-anti-aging">Resurgence®</a></li>
-<li><a href="/acne-complex-treatment-products">Acne Complex®</a></li>
-<li><a href="/acne-products">Acne Treatments</a></li>
-<li><a href="/all-effective-anti-aging-products">Anti-Aging Products</a></li>
-<li><a href="/sun-spots">Dark Spots and Age Spots</a></li>
-</div>
-<div class="footer-links">
-<h4 class="footer-links-heading">Personalized Skin Care</h4>
-<li><a href="/personalized-skin-care">Acne Treatment Regimen</a></li>
-<li><a href="/personalized-skin-care">Anti-Aging Regimen</a></li>
-</div>
-<!--
-<div class="footer-links">
-<h4 class="footer-links-heading">Get the Catalog</h4>
-<li><a href="#" _mce_href="#">Online Catalog</a></li>
-<li><a href="#" _mce_href="#">Request a Catalog</a></li>
-</div>
---> 
-</ul>
-<ul class="addlinks">
-<div class="footer-links">
-<h4 class="footer-links-heading">Inclusive Health</h4>
-<li><a href="/about-us/murad-inclusive-health">What is Inclusive Health®?</a></li>
-<li><a href="http://muradinclusivehealth.com/medical-group/" target="_blank">Murad Inclusive Health Medical Group®</a></li>
-<li><a href="http://muradinclusivehealth.com/spa/" target="_blank">Murad Inclusive Health Spa®</a></li>
-<li><a href="http://muradinclusivehealth.com/university/" target="_blank">University for Inclusive Health®</a></li>
-<li><a href="http://muradinclusivehealth.com/blog/" target="_blank">Dr. Murad's Blog</a></li>
-</div>
-<div class="footer-links social">
-<h4 class="footer-links-heading">Connect</h4>
-<li><a class="icon-fb" href="http://www.facebook.com/Murad" target="_blank"><span class="facebookicon">Facebook</span></a></li>
-<li><a class="icon-tw" href="https://twitter.com/MuradCares" target="_blank"><span class="twittericon">Twitter</span></a></li>
-<li><a class="icon-pt" href="http://pinterest.com/MuradSkincare/" target="_blank"><span class="pinteresticon">Pinterest</span></a></li>
-<li><a class="icon-gplus" rel="publisher" href="https://plus.google.com/+Murad/posts" target="_blank">Google+</a></li>
-<li><a class="icon-yt" href="http://www.youtube.com/user/muradskincare" target="_blank"><span class="youtubeicon">YouTube</span></a></li>
-<li><a class="icon-in" href="http://instagram.com/MuradCares" target="_blank"><span class="instagranmicon">Instagram</span></a></li>
-</div>
-</ul><div class="switcher-store">
-    <label>Select Store:</label>
-    <ul id="select-store">
-                            <li><a href="http://acne.stage.murad.com/?___store=acnecomplexdefaultview">Murad Acne Complex Store</a></li>
-                                    <li><a href="http://resurgence.stage.murad.com/?___store=resurgencedefaultview">Murad Resurgence Store</a></li>
-                                    <li><a href="http://beta3.murad.com/skincare/?___store=default">Murad Skincare Store</a></li>
-                                    <li class="current"><strong>Murad Store</strong></li>
-                </ul>
-</div>
-
- 
-<form action="https://www.murad.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
-    <div class="form-subscribe">
-        <label for="newsletter">Sign Up for Emails</label>
-		<p>Free Bestseller Set, Exclusive Offers and Skincare Tips.</p>
-        <div class="v-fix"><input name="email" placeholder="Your Email Address" type="text" id="newsletter" value="" class="input-text required-entry validate-email"></div>
-        <button type="submit" class="button" title="Sign Up"><span><span>Sign Up</span></span></button>
     </div>
-    <p class="error-message"></p>
-</form>
-<div id="footer-newsletter-success" style="display:none">
-	<h2>THANK YOU for signing up! </h2>
-	<p class="success-message"></p>
-</div>
-<script type="text/javascript">
-//<![CDATA[
-    /*var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');*/
-//]]>
-</script>
+  </div>
 
-<script type="text/javascript">
-	jQuery(function($){
-		var $form = $("#newsletter-validate-detail");
-		var setError = function(message){
-			$form.find('.error-message').html(message);
-		};
-		$form.submit(function(){
-			var email = $form.find('.validate-email').val();
-			var validEmail = $.isValidEmail(email);
-			if( ! validEmail){
-				setError('Please enter a valid email address.');
-				return false;
-			}
-			setError('Sending...');
-			var action = $form.attr('action');
-			//$form.append('<input type="hidden" name="isAjax" value="1" />');
-			$.ajax({
-				type: "POST",
-                                // Using relative paths to avoid security error on Safari and Chrome.
-                                url: '/newsletter/subscriber/new/',
-				data: $form.serialize(),
-				dataType: "json",
-				success: function(data) {
-					if(data['success']){
-						setError('');
-						$form.hide();
-						$("#footer-newsletter-success").show().find('.success-message').html(data['success']);
-					}
-					else{
-						setError(data['error']);
-					}
-				},
-				error: function() {
-					setError('An error occurred while doing the request');
-				},
-				complete: function(){
-					var suckerfish = $form.closest('.suckerfish');
-					suckerfish.show();
-					setTimeout(function(){
-						suckerfish.removeAttr( 'style' );
-					}, 3000);
-				}
-			});
-			return false;
-		});
-	});
-</script>
-		 <div class="muradquote">
-<p><img src="https://www.murad.com/media/footer/quote-open.1342045322.png" alt=""> Turn the rest of your life<br>into the best of your life. <img src="https://www.murad.com/media/footer/quote-close.1342045322.png" alt=""> <strong>Howard Murad, M.D.</strong></p>
-<a href="https://twitter.com/DrMurad" target="_blank">Follow Dr. Murad on Twitter</a></div>	<div class="footer-bottom">
+    <!-- STARTFooterContainer -->
+<footer class="global">
+    <div class="wrapper">
+        <form action="" method="post" id="newsletter-validate-detail">
+        <ul>
+            <li>Connect with us</li>
+            <li><a href="http://www.facebook.com/Murad" target="_blank"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://twitter.com/MuradSkincare" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="http://pinterest.com/MuradSkincare/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+            <li><a href="http://instagram.com/MuradSkincare" target="_blank"><i class="fa fa-instagram"></i></a></li>
+            <li><a href="https://plus.google.com/+Murad/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+            <li><a href="http://www.youtube.com/user/muradskincare" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+            <li class="last">
+                <div id="newsletter-container"><input name="email" placeholder="Your Email Address" type="text" id="newsletter" value="" class="input-text required-entry validate-email">
+                <button type="submit" class="dark-grey" title="Sign Up"><span><span>Sign Up</span></span></button></div>
+                <p class="error-message" style="color: #DD0000;"></p>
+                <div id="footer-newsletter-success" style="display:none">
+                    <h2>THANK YOU for signing up! </h2>
+                    <p class="success-message" style="font-size:12px;"></p>
+                </div>
+            </li>
+        </ul>
+        </form>
+
+        <script type="text/javascript">
+            //<![CDATA[
+            /*var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');*/
+            //]]>
+        </script>
+
+        <script type="text/javascript">
+            jQuery(function($){
+                var container = $("#newsletter-container");
+                var $form = $("#newsletter-validate-detail");
+                var setError = function(message){
+                    $form.find('.error-message').html(message);
+                };
+                $form.submit(function(){
+                    var email = $form.find('.validate-email').val();
+                    var validEmail = $.isValidEmail(email);
+                    if( ! validEmail){
+                        setError('Please enter a valid email address.');
+                        return false;
+                    }
+                    setError('Sending...');
+                    var action = $form.attr('action');
+                    //$form.append('<input type="hidden" name="isAjax" value="1" />');
+                    $.ajax({
+                        type: "POST",
+                        // Using relative paths to avoid security error on Safari and Chrome.
+                        url: '/newsletter/subscriber/new/',
+                        data: $form.serialize(),
+                        dataType: "json",
+                        success: function(data) {
+                            if(data['success']){
+                                setError('');
+                                container.hide();
+                                $("#footer-newsletter-success").show().find('.success-message').html(data['success']);
+                            }
+                            else{
+                                setError(data['error']);
+                            }
+                        },
+                        error: function() {
+                            setError('An error occurred while doing the request');
+                        },
+                        complete: function(){
+                            var suckerfish = $form.closest('.suckerfish');
+                            suckerfish.show();
+                            setTimeout(function(){
+                                suckerfish.removeAttr( 'style' );
+                            }, 3000);
+                        }
+                    });
+                    return false;
+                });
+            });
+        </script>
+    </div>
+
+        <div class="links">
+<ul>
+<li>
+<h4>May We Help?</h4>
+</li>
+<li><a href="/customercare">Contact Us</a></li>
+<li><a href=" /customercare/orders-shipments-returns">Shipping &amp; Returns</a></li>
+<li><a href="/skin-concern">Skin Care Solutions</a></li>
+<li><a href="/all-effective-anti-aging-products">Anti-Aging Products</a></li>
+<li><a href="/acne-products">Acne Treatments</a></li>
+</ul>
+<ul>
+<li>
+<h4>My Murad</h4>
+</li>
+<li><a href="/customer/account/login">Sign In</a></li>
+<li><a href="/customercare/my-account">My Account</a></li>
+<li><a href="/customercare/orders-shipments-returns/order-tracking">Orders</a></li>
+<li><a href="/customercare/general-questions/bill-of-rights">Customer Bill of Rights</a></li>
+<li><a href="/personalized-skin-care">What’s Right for Me?</a></li>
+</ul>
+<ul>
+<li>
+<h4>Partnerships</h4>
+</li>
+<li><a href="/salon-professional">New Salon Accounts</a></li>
+<li><a href="/affiliateprogram">Affiliate Program</a></li>
+<li><a href="http://www.massageenvy.com/facials.aspx" target="_blank">Massage Envy Spa</a></li>
+<li><a href="/ambassadors">Ambassadors</a></li>
+<li><a href="/customercare/general-questions/unauthorized-resellers">Unauthorized Resellers</a></li>
+</ul>
+<ul>
+<li>
+<h4>Around the Company</h4>
+</li>
+<li><a href="/murad-store-los-angeles">Our Store</a></li>
+<li><a href="http://muradinclusivehealth.com/spa/" target="_blank">Murad Spa</a></li>
+<li><a href="http://muradfamilyfoundation.org/" target="_blank">Murad Family Foundation</a></li>
+<li><a href="/spa-locator/show">Store &amp; Spa Locator</a></li>
+<li><a href="http://buzz.murad.com/" target="_blank">Press</a></li>
+</ul>
+<ul>
+<li>
+<h4>About Murad</h4>
+</li>
+<li><a href="/murad-insider">Inside Murad</a></li>
+<li><a href="/about-us/murad-careers">Careers</a></li>
+<li><a href="/blog">Face Forward Blog</a></li>
+<li><a href="/about-us/murad-inclusive-health">Inclusive Health</a></li>
+<li><a href="/bettereveryday">#BETTEREVERYDAY</a></li>
+</ul>
+</div>   <!-- <div class="links clear">
+        <ul>
+        <li><h4>May We Help?</h4></li>
+        <li><a href="#">Contact Us</a></li>
+        <li><a href="#">Skin Care Resources</a></li>
+        <li><a href="#">Customer Bill of Rights</a></li>
+            <li><a href="#">Unauthorized Resellers</a></li>
+        </ul>
+        <ul>
+            <li><h4>Company</h4></li>
+            <li><a href="#">Inside Murad</a></li>
+            <li><a href="#">Careers</a></li>
+            <li><a href="#">Press</a></li>
+            <li><a href="#">Affiliate Program</a></li>
+            <li><a href="#">Store &amp; Spa Locator</a></li>
+        </ul>
+        <ul>
+            <li><h4>My Murad</h4></li>
+            <li><a href="#">My Information</a></li>
+            <li><a href="#">Orders</a></li>
+            <li><a href="#">Addresses</a></li>
+            <li><a href="#">Shipping Information</a></li>
+            <li><a href="#">Return Policy</a></li>
+        </ul>
+        <ul>
+            <li><h4>Gift Card</h4></li>
+            <li><a href="#">Purchase a Gift Card</a></li>
+            <li><a href="#">Check Your Balance</a></li>
+            <li><a href="#">Frequently Asked</a></li>
+            <li><a href="#">Questions</a></li>
+        </ul>
+        <ul>
+            <li><h4>Culture</h4></li>
+            <li><a href="#">Better Every Day</a></li>
+            <li><a href="#">Community</a></li>
+            <li><a href="#">Inclusive Health</a></li>
+        </ul>
+    </div>-->
+
+    <div class="wrapper">
         <div class="footer-terms"><a href="/privacy-policy" target="_blank">Privacy Policy</a> <a class="terms" href="/terms-of-use" target="_blank">Terms of Use</a> <a class="sitemap" href="/sitemap">Site map</a></div>        <div class="country">
             <div class="def">
                 <div>
@@ -736,18 +771,17 @@ _gaq.push(['_trackPageview']);
                         <li><a class="fi" target="_blank" href="http://www.carpelancosmetics.fi/Murad/Default.aspx?id=432964"><span></span>Finland</a></li>
                         <li><a class="ch" target="_blank" href="http://www.murad.cl/"><span></span>Chile</a></li>
                         <li><a class="us" href="/"><span></span>United States</a></li>
-                        <li><a class="all" href="http://www.murad.com/international"><span></span>All Countries</a></li>
+                        <li><a class="all" href="/international"><span></span>All Countries</a></li>
                     </ul>
                 </div>
             </div>
             Choose Your Country
         </div>
-
         <address class="copyright">2014 Murad Inc., All Rights Reserved</address>
     </div>
-	</div>
-</div>
-        <!-- Google Code for Remarketing Tag -->
+</footer>
+<!-- ENDFooterContainer -->
+  <!-- Google Code for Remarketing Tag -->
 <!--------------------------------------------------
 Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
 --------------------------------------------------->
@@ -766,9 +800,31 @@ Remarketing tags may not be associated with personally identifiable information 
         <img height="1" width="1" style="border-style:none;display:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019378227/?value=0&amp;guid=ON&amp;script=0"/>
     </div>
 </noscript>
-</div>
+</div><!--SteelHouse Tracking Pixel-->
+<!-- INSTALL ON ALL PAGES OF SITE-->
+<script type="text/javascript" src="https://dx.steelhousemedia.com/spx?dxver=4.0.0&amp;shaid=10852&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150330043210id_%2Fhttp%253A%2F%2Fwww.murad.com%2Fprivacy-policy&amp;cb=4895307134845828"></script><script type="text/javascript">
+    (function(){"use strict";var e=null,b="4.0.0",
+        n="10852",
+        additional="",
+        t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
+</script><!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Murad - Landing_Booyah
+URL of the webpage where the tag is expected to be placed: http://www.murad.com
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 02/10/2015
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="http://4698620.fls.doubleclick.net/activityi;src=4698620;type=baretarg;cat=murad0;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script><iframe src="http://4698620.fls.doubleclick.net/activityi;src=4698620;type=baretarg;cat=murad0;ord=1;num=6034023081827.657?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<noscript>
+<iframe src="http://4698620.fls.doubleclick.net/activityi;src=4698620;type=baretarg;cat=murad0;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+    </noscript>
+    <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
 <!-- Sitecatalyst -->
-<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/sitecatalyst/identifier.1406087769.js"></script>
+<script type="text/javascript" src="https://www.murad.com/skin/frontend/muradlevel/muraddefault/js/sitecatalyst/identifier.1427279670.js"></script>
 <script type="text/javascript">
 var s_code = s.t();
 if (s_code) {
@@ -783,8 +839,6 @@ if (navigator.appVersion.indexOf('MSIE') >=0 ) {
     <a href="http://www.omniture.com" title="Web Analytics"><img src="https://102.122.2O7.net/b/ss/webmetromurad/1/H.17--NS/0" height="1" width="1" border="0" alt=""/></a>
 </noscript>
 <!-- End SiteCatalyst Footer code version: H.17. -->
-    <!-- ENDFooterContainer -->
-</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"320062de8d","applicationID":"3404815","transactionName":"YwQEZ0tRD0sEUBJRW1pOJ1BNWQ5WSlALSxtEAAFWFkYIXRI=","queueTime":0,"applicationTime":253,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"320062de8d","applicationID":"12843437","transactionName":"YwQEZ0tRD0sEUBJRW1pOJ1BNWQ5WSlALSxtEAAFWFkYIXRI=","queueTime":0,"applicationTime":117,"atts":"T0MHEQNLHEU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
