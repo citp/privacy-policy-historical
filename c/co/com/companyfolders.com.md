@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627135234id_/http%3A//www.companyfolders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330025640id_/http%3A//www.companyfolders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CompanyFolders.com
 
@@ -61,7 +61,7 @@ We may transfer or otherwise disclose information collected from and about you t
 
 
 
-## Special Notification for California Residents:
+## Special Notification for California Residents
 
 Individual customers who reside in California and have provided their Personal Information to the Company Folders, Inc. may request information about our disclosures of certain categories of Personal Information to third parties for their direct marketing purposes. Such requests must be submitted to us in writing at the address below:
 
@@ -72,25 +72,61 @@ Individual customers who reside in California and have provided their Personal I
 
 This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
 
+## International Customers and Users
+
+Company Folders, Inc. complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Company Folders, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+
 ## Children Using the Site
 
 We do not direct the site to, nor do we knowingly collect personal information from children under thirteen.
 
-## Links to Third Party Websites:
+## Links to Third Party Websites
 
 While you are visiting or using the Website, you may find links to third party sites. These sites are independent companies not owned or operated by Company Folders, Inc. Since they are not own by Company Folders, Inc., their privacy policies will differ from our own. We are not responsible for the information provided on the site nor are we responsible for the information they collect on you. We recommend that you review the privacy policy posted on any site that you may access through our site.
 
-## Website Security:
+## Website Security
 
 We maintain reasonable physical, electronic, and procedural safeguards designed to help us protect your Personal Information against loss, misuse, disclosure and alteration. For example, we use Secure Socket Layer (SSL) technology to encrypt your credit card information when you purchase products through our Website. When you establish an account at companyfolders.com, you choose a password to help protect your account information. A password is only as strong as you make it: you should select a unique password and keep it safe. You may change the password as often as you wish by going to “Change Password” under the section “My Account.”
 
-## Communications:
+## Communications
 
 If you do not want to receive e-mails from Company Folders about products and services that may be of interest to you, simply indicate this preference by removing the applicable check mark during registration. If you wish to change your preference after you have registered, you can do so by logging into “Account Setting,” under “My Account” and unselect “receive promotions.” You may also request to be added to our Do-Not-E-Mail list, Do-Not-Call list, and/or our Do-Not-Mail list by writing to the address below and indicating your preferences. Please be sure to provide your exact name, e-mail address, mailing address and telephone number(s) and the list or lists you would like to be included on (Do-Not-E-mail, Do-Not-Call, and/or Do-Not-Mail). Even if you choose to be placed on one of these lists, we may still communicate with you using any of these methods regarding your use of our Website, your orders or your account.
 
-## Deactivate Your Account:
+## Deactivate Your Account
 
 You may also request deactivation of your Company Folders account by contacting Customer Service at [info@companyfolders.com](mailto:info@companyfolders.com) or by writing to the address below and requesting account deactivation. Please note that some information may remain in our archived records after your account has been deactivated.
+
+## Contact Information and Enforcement
+
+Company Folders, Inc. uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible. We encourage interested persons to raise any complaints or concerns using the contact information provided in this section and we will investigate and attempt to resolve any concerns regarding use and disclosure of personal information.
+
+**Privacy Complaints by United States & Canadian Customers**  
+Company Folders, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. United States or Canadian citizens with inquiries or complaints regarding this privacy policy should first contact Company Folders, Inc. by mail or email.
+
+**Email:**  
+privacy@companyfolders.com
+
+**Mail:**   
+Regarding: Privacy Policy  
+Company Folders, Inc.  
+3297 Orchard Lake Rd, Suite 203  
+Keego Harbor, Michigan 48320
+
+If a complaint or dispute cannot be resolved through our internal process, Company Folders, Inc. has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, The Better Business Bureau (BBB). If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by Company Folders, Inc. you may [click here](http://www.bbb.org/detroit/get-consumer-help/) to go directly to BBB website to file your complaint.
+
+**Privacy Complaints by European Union & Swiss Customers**  
+Company Folders, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information in accordance with US-EU and US-Swiss Safe Harbor Principles. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Company Folders, Inc. by mail or email.
+
+**Email:**   
+privacy@companyfolders.com
+
+**Mail:**   
+Regarding: Privacy Policy   
+Company Folders, Inc.   
+3297 Orchard Lake Rd, Suite 203   
+Keego Harbor, Michigan 48320
+
+If a complaint or dispute cannot be resolved through our internal process, Company Folders, Inc. has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, the Better Business Bureau EU Safe Harbor, operated by the Council of Better Business Bureaus, as a third party resolution provider. If you do not receive timely acknowledgment of your complaint or concern, or it is it not satisfactorily addressed by Company Folders, Inc., you may click this link <http://www.bbb.org/us/safe-harbor-complaints> to file a complaint.
 
 ## Privacy Policy Changes:
 
@@ -102,4 +138,4 @@ Company Folders, Inc. may revise this Privacy Policy from time to time by postin
 
 ## Last Updated:
 
-January 27, 2009
+December 1, 2014
