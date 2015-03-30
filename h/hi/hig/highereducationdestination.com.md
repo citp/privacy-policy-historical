@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highereducationdestination.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118094509id_/http%3A//www.highereducationdestination.com/content.php%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highereducationdestination.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330195007id_/http%3A//www.highereducationdestination.com/content.php%3Fid%3D5) for the most accurate reproduction.*
 
 # Higher Education Destination - Privacy Policy
 
