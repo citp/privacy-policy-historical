@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justclicktravels.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026072908id_/http%3A//www.justclicktravels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justclicktravels.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330180031id_/http%3A//www.justclicktravels.com/privacy.html) for the most accurate reproduction.*
 
 # Just Click Travels Pvt. Ltd.
 
