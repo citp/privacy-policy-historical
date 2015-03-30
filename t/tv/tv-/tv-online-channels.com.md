@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tv-online-channels.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092933id_/http%3A//tvlive32.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv-online-channels.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330041029id_/http%3A//tvlive32.com/privacy-policy.html) for the most accurate reproduction.*
 
 # tvlive32.com Privacy Policy and Terms of Use
 
