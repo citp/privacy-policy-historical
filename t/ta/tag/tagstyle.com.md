@@ -1,90 +1,79 @@
-> *The following text is extracted and transformed from the tagstyle.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408042526id_/https%3A//www.tagstyle.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagstyle.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330235237id_/http%3A//www.tagstyle.com/privacy-policy) for the most accurate reproduction.*
 
-# Likes.com
+# Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/MyLikes,-Inc-/validation?rid=edfa18e5-f75f-4062-b9ff-aa855ae1541f "TRUSTe online privacy certification")
+Tagstyle (Tagstyle Pte Ltd) respects the privacy rights of our customers and we will only track statistics for business purposes. No private information will be disclosed to unrelated entities or any third party merchants unless required by law. All email addresses in our mailing list are strictly kept confidential. 
 
-Effective Date: 27 August 2013
+This Privacy Policy applies to personal data collected, stored, disclosed and/or processed by Tagstyle. 
 
-We take your privacy seriously. Please read the following to learn more about our privacy policy. The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.
+This Policy is based on the Singapore Personal Data Protection Act 2012 ("PDPA") and all of the associated regulations and guidelines may vary from time to time as per issue by the Personal Data Protection Commission ("PDPC") of Singapore. Tagstyle’s practices may be subjected to different or more restrictive local laws in jurisdictions outside of Singapore. 
 
-This privacy policy applies to www.likes.com (“Likes”) owned and operated by MyLikes, Inc. This privacy policy describes how MyLikes, Inc. collects and uses the personal information you provide on our website: [www.likes.com](http://likes.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+By visiting or using the Tagstyle website, you agree to the terms of this Privacy Policy. Please review this Privacy Policy carefully before visiting, using our website, or providing us with any of your personal data. 
 
-MyLikes, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this website, [www.likes.com](http://likes.com/).
+Information is collected from you when you subscribe to our newsletter; fill out any forms and via cookies. Data that Tagstyle collects or stores may, subject to applicable law and the PDPA, be transferred to and used by us outside of Singapore. It will be treated according to the privacy practices set forth in this Privacy Policy. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://www.tagstyle.com/content/contact_form). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+**Personal Data**
 
-#### INFORMATION AND COLLECTION OF USE
+Data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics may be used to: 
 
-We collect personal information when you register with Likes, and when you subscribe and share Likes channels. Likes may combine information about you that we have with information we obtain from business partners or other companies such as Google, for the purpose of delivering personalized content. When you register we ask for information such as your name, gender, age and email address. Likes uses the information for the following general purposes: to customize the content you see, fulfill your requests for services, improve our services, contact you, and conduct research. You may set up a channel on Likes.
-
-#### INFORMATION SHARING
-
-We do not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or when we respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. If we becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
-
-#### COOKIES
-
-We use “cookies” on Likes to track how users use our website. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We link some information we store in cookines to personal information you submit in order to deliver a better experience on the service.
-
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to make it easier for you to navigate our site. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
-
-If you reject cookies, you may still use our website, but your ability to use some areas of our site, such as contests or surveys, will be limited. 
-
-As is true of most websites, we gather certain information automatically and store it in log files. These are non-personal information which includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the website, to track users’ movements around the website and to gather demographic information about our user base as a whole. We do link this automatically-collected data to personal information. 
-
-#### BEHAVIORAL TARGETING / RE-TARGETING
-
-We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
-
-#### CONTENT OF ITEMS
-
-The contents of any item that you post directly to the site, including any text, images and audio, are stored and maintained on our servers in order to publish these items and provide the Service. Your submitted content will be associated with your account.
-
-#### CONFIDENTIALITY AND SECURITY
-
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-#### THIRD PARTY SITES
-
-This Policy only applies to the Likes website and services. We do not exercise control over the sites that our service links to. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personal information, and we shall not be liable for wrongful use or disclosure of your personal information by any third party.
-
-  * (i) Likes may sometimes use third-party advertising companies to serve ads to users;
-  * (ii) Third-party advertising companies may use non-personally identifiable information about user visits in order to provide advertisements for goods and services that may be of interest to the user.
-  * (iii) You can find more information about these practices and the your choices concerning these practices at <http://networkadvertising.org/managing/opt_out.asp>
+  * To personalize your experience (your information helps us to better respond to your individual needs) 
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) 
+  * To send periodic emails (the email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.) 
 
 
 
-#### DATA INTEGRITY
+When ordering or registering on our site, personal data includes, among other things, your: name; street or mailing address; telephone number(s); email addresses; date of birth; gender; nationality; purchases of products; payment information; credit card numbers; marketing preferences; answers you provide to security questions (such as your mother's maiden name, the name of your pet, etc.); information used to provide products or services; information needed to administer rewards or loyalty programs, including transaction and correspondence details; and any other types of information that you choose to provide to us or that we may collect about you through your transactions with Tagstyle.
 
-We processes personal information only for the purposes for which it was collected and in accordance with this policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. Users can update, correct or delete their personal information through the profile page of their account or by [contacting us](https://www.tagstyle.com/content/contact_form).
+Information collected under Tagstyle will be retained under the authority of Tagstyle Pte Ltd. In the event of a sale of any Tagstyle Pte Ltd’s asset including customer information, buyers will be required to honor our Privacy Policy or provide you a notice and option to limit the sharing of your information. You may, however, visit our site anonymously. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Note: If at any time you would like to unsubscribe from receiving future email notifications, we have included detailed unsubscribe instructions at the bottom of each email. 
 
-We send out promotional or marketing email to you. Out of respect for your privacy, you may choose to stop receiving these emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can [contact us](https://www.tagstyle.com/content/contact_form).
+**Protection of Information**
 
-#### BLOG / FORUM
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us](https://www.tagstyle.com/content/contact_form). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+**Usage of Cookies**
 
-#### SOCIAL MEDIA WIDGETS
+When you visit our website, we may assign your computer one or more "cookies." By accessing our website, you agree that we can place cookies on your device. 
 
-Our website includes Social Media Features, such as the Facebook and Twitter button and Widgets, such as the Share this button or interactive mini-programs that run on our website. These Features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+A cookie is a small text file that contains information that can later be read by us to facilitate your access to our website, gather statistical data, and personalize your online experience. We currently use cookies on our website for purposes including, but not limited to, detecting your web browser's multimedia capabilities, tracking promotional advertisements that we have displayed to you, maintaining current login and providing a unique identifier to your computer so that we can generate statistics regarding website usage. 
 
-#### SINGLE SIGN-ON
+Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies. Generally, you can remove these cookies by following directions provided in your Internet browser's "help" file. If you choose not to allow us to place a cookie on your computer, you may be restricted from some services and some of the interactive features offered on our websites may be similarly restricted or rendered inoperable. 
 
-You can log in to our website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+In addition to cookies, we may also use other Internet technologies, such as web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of our website. The information we obtain in this manner enables us measure the overall effectiveness of our online content, advertising campaigns, and the products we offer through our website. By accessing our website and agreeing to receive our email messages or newsletters, you agree to that we can use other Internet technologies such as those mentioned above on your device(s). 
 
-#### CHANGES TO THIS PRIVACY POLICY
+Our website may allow third parties to download cookies to your device(s). Third parties, such as Google Analytics, may use cookies and other technologies to collect non-personal data about your online activities while you are on our website. This information may be used to measure usage of our website and personalize advertising content on our website. We do not have access to or control over cookies or other features these third parties may use, and this Privacy Policy does not cover the information practices of these third parties. Please refer to the privacy policies of those third parties to better understand their activities and practices. 
 
-We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Likes account or by placing a prominent notice on our site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+**Third Party Links**
 
-#### CONTACT US
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-If you have questions or comments about this privacy policy please contact us through the information below:
+**Non-disclosure Agreement**
 
-My Likes, Inc.  
-1000 Brannan Street  
-San Francisco, CA  
-94103
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, as long as these parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect others and our rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-[Email us](https://www.tagstyle.com/content/contact_form)
+**Opt-Out**
+
+If you do not want your personal data to be shared among affiliates, you may opt-out of such information sharing by sending us an email at customerservice@tagstyle.com. Please note that if you withdraw your consent for a limited purpose, such as for marketing, we may still contact you or use your information for other purposes for which you have not withdrawn your consent and such personal data may still be shared, as permitted under the PDPA and other applicable law. If you do not wish to receive any further information from Tagstyle regarding launches, offers, promotions or special events via email, you may unsubscribe by clicking the unsubscribe link in our mailers. 
+
+**Usage of Site**
+
+Tagstyle may feature pictures, articles, information, digital images, text, data, games, surveys, contests, promotions, advertising, logos, trademarks and other forms of content*** we deem will be of interest to our customers or visitors. This Content can be viewed, transferred, shared and stored by our customers and guest. However, the ownership of this Content belongs to tagstyle.com and by downloading or storing of this Content does not render the customer or visitor the rights or ownership to it. 
+
+***Collectively, content composite one or more of the following - text, data, music, sound, graphics, images, pictures, photographs, videos, software or other forms later created or not known at this time. 
+
+Content extracted from tagstyle.com and published or shared on any platforms must be credited. Tagstyle Pte. Ltd. reserves the rights to pursue legal actions against unauthorized usage of this Content. 
+
+**Security**
+
+Tagstyle practices reasonable precautions to protect your personal data and store it securely. However, you should be aware that no method of transmission over the Internet or method of electronic storage has 100% security. While security cannot be guaranteed, we strive to protect the security of your information and are constantly reviewing and enhancing our information security measures. Tagstyle’s website has security measures in place that strive to protect against the accidental loss, misuse, and unauthorized access to your personally identifiable information while under our control. Such security measures include, but are not limited to, password controls, firewalls, and other industry standard security measures.
+
+**Privacy Policy Amendments**
+
+Tagstyle (Tagstyle Pte. Ltd.) reserves the rights to amend any of the policies above at any time. The Effective Date, as stated below, indicates the last time this policy was materially revised. We encourage you to review this page periodically as changes may be made to our policy from time to time regarding the collection and use of your personal data. 
+
+Your continued use of our website and acceptance of our services after any changes to this Privacy Policy constitutes your consent to any such changes; to the extent such consent is not otherwise provided. 
+
+**For more information on our Privacy Policy, please contact us at[customerservice@tagstyle.com](mailto:customerservice@tagstyle.com). **
+
+(Last updated on 1 March 2015) 
