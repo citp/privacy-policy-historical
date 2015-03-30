@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yahoosportsradio.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230062054id_/http%3A//info.yahoo.com/privacy/us/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoosportsradio.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331002222id_/http%3A//info.yahoo.com/privacy/us/yahoo) for the most accurate reproduction.*
 
 # Yahoo Privacy Policy
 
