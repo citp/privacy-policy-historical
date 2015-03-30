@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapers-diq.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234704id_/http%3A//wallpapers-diq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapers-diq.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330151447id_/http%3A//wallpapers-diq.com/privacy.php) for the most accurate reproduction.*
 
 # Desktop Wallpaper > Privacy Policy for WALLPAPERS-DIQ.COM
 
