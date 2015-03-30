@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dangerdave.com.au privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816061928id_/http%3A//www.dangerdave.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dangerdave.com.au privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330022948id_/http%3A//dangerdave.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
