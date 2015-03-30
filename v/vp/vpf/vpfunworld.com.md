@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpfunworld.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110055325id_/http%3A//www.vpfunworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpfunworld.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330042332id_/http%3A//www.fbhdwallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Funny Pictures tumblr quotes Captions
 
