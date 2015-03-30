@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the projecteve.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704143833id_/http%3A//www.projecteve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projecteve.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330150944id_/http%3A//www.projecteve.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective Date: April 14, 2014**
+**Privacy Policy for ProjectEve.com Effective Date: January  13, 2015**
 
-[www.projecteve.com](http://www.projecteve.com/)
+[www.projecteve.com](http://www.projecteve.com/) (“projecteve.com”, “http://projecteve.com” or “The Website”)
 
-[www.jobboard.projecteve.com](http://www.jobboard.projecteve.com/)
-
-[www.gettingbalance.com](http://www.gettingbalance.com/)
-
-(collectively, “The Website”)
-
-Project Eve LLC is a Delaware limited liability company (“Project Eve”, “Eve”, “we”, “company or “us”). We know that you care about how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by us when you use the Website, any mobile versions of the Website, any applications published by Project Eve LLC and other related services, how the information will be used and how you can control the collection, correction and/or deletion of the information.  The Website (“network”, “community”, “platform”) is an online social network that provides content as well as a set of services and technology applications that enable users to interact, create their own profile, add content utilizing the Website. “Content” means any work of authorship on a Network, including, comments, recommendations, forums, photos, videos, music, sounds, images, text, files, listings, logos, trademarks, postings, messages, tags and other content added to or submitted to the Website.
+Project Eve LLC is a Delaware limited liability company (“Project Eve”, “Eve”, “we”, “company or “us”). We know that you care about how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by us when you use [www.projecteve.com](http://www.projecteve.com/) (“projecteve.com”, “http://projecteve.com” or “The Website”), any mobile versions of the Website, any applications published by Project Eve LLC and other related services, how the information will be used and how you can control the collection, correction and/or deletion of the information.  The Website (“network”, “community”, “platform”) is an online social network that provides content as well as a set of services and technology applications that enable users to interact, create their own profile, add content utilizing the Website. “Content” means any work of authorship on a Network, including, comments, recommendations, forums, photos, videos, music, sounds, images, text, files, listings, logos, trademarks, postings, messages, tags and other content added to or submitted to the Website.
 
 Project Eve values your privacy, and we want to help make your experience on The Website as satisfying and safe as possible. We have established this Privacy Policy to explain how Personal Information (as defined below) is collected on our Website, and how that Personal Information is used and disclosed. “Personal Information” is information that allows a person to directly identify an individual, such as name or email address, and information that we combine directly with such identifying information. This Privacy Policy is incorporated into and is subject to Our Terms of Service. Any capitalized terms not defined herein have the meaning set forth in Our Terms of Service. By using The Website, you expressly consent to the information handling practices described in this Privacy Policy.
 
@@ -25,7 +19,7 @@ Project Eve LLC
 1819 Polk Street #402  
 San Francisco, CA 94109
 
-Project Eve LLC has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better[ Business](http://www.projecteve.com/on-a-shoestring/business-planning/ " Business") Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Project Eve LLC please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Project Eve LLC has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Project Eve LLC please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 1\. HOW THE WEBSITE OPERATES
 
