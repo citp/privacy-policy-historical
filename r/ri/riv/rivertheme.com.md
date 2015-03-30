@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivertheme.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230012104id_/http%3A//www.rivertheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivertheme.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330063159id_/http%3A//www.rivertheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Premium Wordpress Theme by RiverTheme
 
