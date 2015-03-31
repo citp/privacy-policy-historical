@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dymocks.com.au privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014151940id_/http%3A//www.dymocks.com.au/faq/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dymocks.com.au privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331053808id_/https%3A//www.dymocks.com.au/faq/privacy-security) for the most accurate reproduction.*
 
 # Dymocks FAQ | Privacy & Security Policy
 
