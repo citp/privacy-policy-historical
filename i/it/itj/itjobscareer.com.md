@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itjobscareer.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718123501id_/http%3A//www.itjobscareer.com/2006/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itjobscareer.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331201122id_/http%3A//www.itjobscareer.com/2006/07/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, IT Jobs
 
