@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comfree.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219195208id_/http%3A//comfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comfree.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331043811id_/http%3A//comfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ComFree
 
