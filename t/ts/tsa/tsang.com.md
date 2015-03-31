@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsang.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916120126id_/http%3A//tsang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsang.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331070335id_/http%3A//tsang.com/privacy-policy) for the most accurate reproduction.*
 
 # tsang | Privacy policy
 
