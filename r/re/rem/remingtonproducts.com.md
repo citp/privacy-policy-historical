@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remingtonproducts.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813155042id_/http%3A//www.remingtonproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remingtonproducts.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331114340id_/https%3A//www.remingtonproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SPECTRUM BRANDS HOLDINGS, INC. PRIVACY POLICY | Remington Products
 
