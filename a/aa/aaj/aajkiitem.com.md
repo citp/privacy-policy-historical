@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aajkiitem.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220032437id_/http%3A//www.aajkiitem.com/Privacy-Policy-pid-82603.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aajkiitem.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331060423id_/http%3A//www.aajkiitem.com/Privacy-Policy-pid-82603.html) for the most accurate reproduction.*
 
 # Privacy Policy | aajkiitem.com
 
