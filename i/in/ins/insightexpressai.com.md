@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the insightexpressai.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227122610id_/http%3A//insightexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpressai.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401000713id_/http%3A//www.insightexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InsightExpress
 
-The effective date for this Privacy Policy is August 15, 2014. 
-
-InsightExpress, LLC (http://www.InsightExpress.com) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [**TRUSTe's Data Collection Program**](http://www.truste.com/privacy-program-requirements/3rd-party-data-collection/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@insightexpress.com. If you are not satisfied with our response you can contact [**TRUSTe here**](http://watchdog.truste.com/pvr.php?page=complaint). 
-
-[](https://privacy.truste.com/privacy-seal/InsightExpress,-LLC/validation?rid=3e59a0ee-d39f-4b0f-a86d-366508a97fe1 "Validate TRUSTe privacy certification")
+The effective date for this Privacy Policy is March 13, 2015.  
 
 **Scope**
 
-This Privacy Policy and the TRUSTe program addresses our use and disclosure of information we collect from Respondents to our surveys and/or contests. Respondents are users who respond to surveys and/or participate in sweepstakes that may be offered to you.
+This Privacy Policy addresses our use and disclosure of information we collect from Respondents to our surveys and/or contests. Respondents are users who respond to surveys and/or participate in sweepstakes that may be offered to you.
 
 **Privacy Overview Respondents**
 
@@ -121,19 +117,17 @@ Phone: 1.203.359.4174
 Fax: 1.203.359.4718  
 E-Mail: support@insightexpress.com 
 
-If users have questions or concerns regarding this statement, they should first contact our Privacy Department by e-mailing us at privacy@insightexpress.com or calling us at 1.203.406.3202. If they do not receive an acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact [**TRUSTe here**](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should first contact our Privacy Department by e-mailing us at privacy@insightexpress.com or calling us at 1.203.406.3202.
 
 * * *
 
 ## Visitor/Client Privacy Policy
 
-The effective date for this Privacy Policy is August 15, 2014. 
-
-InsightExpress, LLC (http://www.InsightExpress.com) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [**TRUSTe's program requirements**](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@insightexpress.com. If you are not satisfied with our response you can contact [**TRUSTe here**](http://watchdog.truste.com/pvr.php?page=complaint). 
+The effective date for this Privacy Policy is March 13, 2014. 
 
 **Scope**
 
-This Privacy Policy and the TRUSTe program addresses our use and disclosure of information we collect from visitors to our Web site as well as from our Clients on our product platform.
+This Privacy Policy addresses our use and disclosure of information we collect from visitors to our Web site as well as from our Clients on our product platform.
 
 Visitors are users who visit the website [**http://www.InsightExpress.com**](http://www.insightexpress.com/). Clients use our product platform in order to create surveys.
 
@@ -223,4 +217,4 @@ Phone: 1.203.359.4174
 Fax: 1.203.359.4718  
 E-Mail: support@insightexpress.com 
 
-If users have questions or concerns regarding this statement, they should first contact our Privacy Department by e-mailing us at privacy@insightexpress.com or calling us at 1.203.406.3202. If they do not receive an acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact [**TRUSTe here**](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should first contact our Privacy Department by e-mailing us at privacy@insightexpress.com or calling us at 1.203.406.3202.
