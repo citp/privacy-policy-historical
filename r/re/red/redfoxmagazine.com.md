@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redfoxmagazine.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627155248id_/http%3A//www.redfoxmagazine.com/privacy-policy-for-redfoxmagazinecom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redfoxmagazine.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331154419id_/http%3A//www.redfoxmagazine.com/privacy-policy-for-redfoxmagazinecom) for the most accurate reproduction.*
 
 # Privacy Policy - RedFox MagazineRedFox Magazine
 
