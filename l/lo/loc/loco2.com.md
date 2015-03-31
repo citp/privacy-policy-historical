@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loco2.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219173908id_/https%3A//loco2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loco2.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331111952id_/https%3A//loco2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Loco2
 
@@ -6,9 +6,9 @@
 
 Loco2 Limited (“ **We** “) are committed to protecting and respecting your privacy. 
 
-This policy (together with our [Website Terms and Conditions](http://www.loco2.com/terms-of-website-use/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+This policy (together with our [Website Terms and Conditions](https://web.archive.org/terms-of-website-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Loco2 Limited of 229 Shoreditch High Street, London, E1 6PJ.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Loco2 Limited c/o Chapman, Robinson & Moore Ltd, 30 Bankside Court, Stationfields, Kidlington, OXON OX5 1JE.
 
 ####  **Information We May Collect From You**
 
@@ -72,7 +72,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Loco2 Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms and Conditions](http://www.loco2.com/terms-of-website-use/) or [Booking Terms and Conditions](http://www.loco2.com/booking-terms-and-conditions/) and other agreements; or to protect the rights, property, or safety of Loco2 Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms and Conditions](https://web.archive.org/terms-of-website-use) or [Booking Terms and Conditions](https://web.archive.org/booking-terms-and-conditions) and other agreements; or to protect the rights, property, or safety of Loco2 Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 
 
