@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadaexpoonline.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053412id_/http%3A//www.canadaexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadaexpoonline.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331035339id_/http%3A//www.canadaexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
