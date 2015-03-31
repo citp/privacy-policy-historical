@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verabear.net privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101204319id_/http%3A//verabear.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verabear.net privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401011834id_/http%3A//verabear.net/privacy) for the most accurate reproduction.*
 
-# where the moon shines » Privacy
+# Privacy | Verabear
 
 **Verabear.net’s Privacy Policy**
 
@@ -28,10 +28,10 @@ This website contains links to other websites. Please be aware that I am not res
 
 I use outside advertising networks and companies in order to display ads on this site. These ads may contain cookies and/or web beacons in order to collect data in the ad serving process. These such cookies and/or web beacons are collected by the companies and/or advertising networks, themselves. I do not have any access to this information.
 
-I currently work with several advertising networks and companies, such as: Google Adsense, Bidvertiser, Adgitize and Clickbank . If you have any questions, please check their websites for their respective privacy policies.
+I currently work with several advertising networks and companies, such as: Google Adsense, Bidvertiser, Nuffnang and Clickbank . If you have any questions, please check their websites for their respective privacy policies.
 
 **Webmaster Contact Information**
 
-If you have any questions or suggestions regarding the Where The Moon Shines’ privacy policy, please feel free to contact me at vera (at) verabear.net.
+If you have any questions or suggestions regarding the Verabear.Net’s privacy policy, please feel free to contact me at vera (at) verabear.net.
 
 Thanks to [AaronCook.com](ttp://www.aaroncook.com/) for the Privacy Policy.
