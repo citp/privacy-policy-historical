@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionfling.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004220410id_/http%3A//www.fashionfling.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionfling.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331122709id_/http%3A//www.fashionfling.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Fashion Fling
 
 We value and respect our visitors privacy. That is the reason why we included this privacy policy to make sure that your privacy is not being violated. If you have any questions concerning our Privacy Policy, please do not hesitate to ask!
 
@@ -26,4 +26,4 @@ We do not collect personal information from children under 13 without appropriat
 
  **Advertising:**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>. 
