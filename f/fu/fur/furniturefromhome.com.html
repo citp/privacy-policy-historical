@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the furniturefromhome.com privacy policy that was archived on 2014-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141109180656id_/http%3A//furniturefromhome.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the furniturefromhome.com privacy policy that was archived on 2015-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150401070503id_/http%3A//furniturefromhome.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 
 
 
 
-<link rel="stylesheet" href="/v2/css/style-abs.css?d64f263">
+<link rel="stylesheet" href="/v2/css/style-abs.css?27cc948">
 
 
 
 <link rel="stylesheet" href="/v2/css/lightbox.css">
 <link rel="stylesheet" href="/v2/css/camera.css">
-<link rel="stylesheet" href="/pages/custom-css.css?d64f263">
+<link rel="stylesheet" href="/pages/custom-css.css?27cc948">
 <link href="https://fonts.googleapis.com/css?family=Doppio+One" rel="stylesheet" type="text/css">
 
 <!--[if IE 7]>
@@ -27,7 +27,7 @@
 <script src="/v2/js/jquery-ui.js"></script>
 
 
-<script src="/v2/js/custom.js?d64f263"></script>
+<script src="/v2/js/custom.js?27cc948"></script>
 
 <script type="text/javascript">
 	jQuery(function($) {
@@ -41,6 +41,18 @@
     if (jQuery('#camera_wrap_1').length > 0) {
       jQuery('#camera_wrap_1').camera();
     }
+ 
+    //Diplay nav img on hover 
+    $('#nav li img').hide();  
+    $("#nav li").on({
+      mouseover: function() {
+         $(this).find ("img").show();
+      }, 
+      mouseout: function() {
+         $(this).find ("img").hide();
+      }
+    }) 
+
   });
    
 </script>
@@ -48,7 +60,7 @@
 <title>Privacy Policy</title>
 
 
-  <meta name="ROBOTS" content="NOINDEX">
+  <meta name="robots" content="noindex, nofollow">
 
 
 
@@ -67,6 +79,7 @@ var _gaq = _gaq || [];
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
+
 
 
 <script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=46437039"></script></head>
@@ -114,20 +127,20 @@ var _gaq = _gaq || [];
        
 
         
-          <a id="live-chat" href="#" onclick="window.open('http://server.iad.liveperson.net/hc/46437039/?cmd=file&amp;file=visitorWantsToChat&amp;site=46437039&amp;referrer='+escape(document.location),'chat46437039','width=472,height=320');return false;">
-            <img src="/images/v2/ffh-livechat.png">
+          <a id="live-chat" href="#" onclick="return false;">
+            <img src="/images/v2/btn-livechat-offline.png">
           </a>
         
 
-				<a id="int-ship" href="#"><img src="/images/v2/int-ship.png"></a>
+        <a id="int-ship" href="#"><img src="/images/v2/int-ship.png"></a>
 
-				<div id="search">
-          <form action="http://furniturefromhome.com/search" id="search_form" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="CbA+3ML0r0NFmHW/C+usEgL06mzkFfPzE/X+pZyT7ao="></div>
+        <div id="search-ffh">
+          <form action="http://furniturefromhome.com/search" id="search_form" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="v/68TgKRePJhqrfw/gn/jm4WtyaXv/giUkL7PipDkfE="></div>
             <span><input type="text" id="search-area" placeholder="SEARCH" name="query"><input id="search-btn" type="button" onclick="jQuery('#search_form')[0].submit()"></span>
           </form>
 				</div>
 			</div>
-			
+
 			<div id="nav-header">
         
           
@@ -136,9 +149,9 @@ var _gaq = _gaq || [];
           <li><a href="/" id="home-a">HOME</a></li>
           
             
-            
-            <li>
-              <a href="http://furniturefromhome.com/category/bedroom">BEDROOM</a>
+            <li class="bed">
+              <a href="https://furniturefromhome.com/category/bedroom">BEDROOM</a>
+              
               
               
               <ul>
@@ -153,10 +166,6 @@ var _gaq = _gaq || [];
                 
                   <li>
                     <a href="/category/bedroom/country">Country</a>
-                  </li>
-                
-                  <li>
-                    <a href="/category/bedroom/iron">Iron</a>
                   </li>
                 
                   <li>
@@ -204,9 +213,9 @@ var _gaq = _gaq || [];
             </li>
           
             
-            
-            <li>
-              <a href="http://furniturefromhome.com/category/livingroom">LIVING ROOM</a>
+            <li class="livingroom">
+              <a href="https://furniturefromhome.com/category/livingroom">LIVING ROOM</a>
+              
               
               
               <ul>
@@ -312,9 +321,9 @@ var _gaq = _gaq || [];
             </li>
           
             
-            
-            <li>
-              <a href="http://furniturefromhome.com/category/dining">DINING ROOM</a>
+            <li class="diningroom">
+              <a href="https://furniturefromhome.com/category/dining">DINING ROOM</a>
+              
               
               
               <ul>
@@ -472,9 +481,9 @@ var _gaq = _gaq || [];
             </li>
           
             
-            
-            <li>
-              <a href="http://furniturefromhome.com/category/entertainment">ENTERTAINMENT</a>
+            <li class="ent">
+              <a href="https://furniturefromhome.com/category/entertainment">ENTERTAINMENT</a>
+              
               
               
               <ul>
@@ -552,9 +561,9 @@ var _gaq = _gaq || [];
             </li>
           
             
-            
-            <li>
-              <a href="http://furniturefromhome.com/category/office">HOME OFFICE</a>
+            <li class="homeoffice">
+              <a href="https://furniturefromhome.com/category/office">HOME OFFICE</a>
+              
               
               
               <ul>
@@ -612,25 +621,25 @@ var _gaq = _gaq || [];
             </li>
           
             
-            
-            <li>
-              <a href="http://furniturefromhome.com/category/leather">LEATHER</a>
+            <li class="">
+              <a href="https://furniturefromhome.com/category/leather">LEATHER</a>
+              
               
                <!-- empty -->
             </li>
           
             
-            
-            <li>
-              <a href="http://furniturefromhome.com/category/dinettes">DINETTES</a>
+            <li class="">
+              <a href="https://furniturefromhome.com/category/dinettes">DINETTES</a>
+              
               
                <!-- empty -->
             </li>
           
             
-            
-            <li>
-              <a href="http://furniturefromhome.com/category/sectionals">SECTIONALS</a>
+            <li class="sectional">
+              <a href="https://furniturefromhome.com/category/sectionals">SECTIONALS</a>
+              
               
               
               <ul>
@@ -649,10 +658,6 @@ var _gaq = _gaq || [];
                 
                   <li>
                     <a href="/category/sectionals/upholstered">Upholstered</a>
-                  </li>
-                
-                  <li>
-                    <a href="/category/sectionals/recliners">Recliners</a>
                   </li>
                 
               </ul>
@@ -717,7 +722,7 @@ var _gaq = _gaq || [];
       </script>
       <div id="signin-container">
         <h4>Sign In</h4>
-        <form action="/customers/sign_in" id="sign_in_form" method="post" onsubmit="signIn(); return false;"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="CbA+3ML0r0NFmHW/C+usEgL06mzkFfPzE/X+pZyT7ao="></div>
+        <form action="/customers/sign_in" id="sign_in_form" method="post" onsubmit="signIn(); return false;"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="v/68TgKRePJhqrfw/gn/jm4WtyaXv/giUkL7PipDkfE="></div>
         <div class="txt-fld">
           <label>Email Address</label>
           <input type="text" name="email" id="sign_in_email" placeholder="EMAIL">
@@ -743,11 +748,6 @@ var _gaq = _gaq || [];
 						<li><a href="http://furniturefromhome.com/contact-us" rel="nofollow">Service &amp; Sales</a></li>
 						<li><a href="http://furniturefromhome.com/support" rel="nofollow">Open a Support Ticket</a></li>
 					</ul>
-					<h3>Additional Resources</h3>
-					<p><img src="/images/v2/footer-border.png"></p>
-					<ul>
-						<li><a href="http://furniturefromhome.com/blog">Furniture From Home - Blog</a></li>
-					</ul>
 				</div>
 				<div class="third">
 					<h3>Research Center</h3>
@@ -766,12 +766,12 @@ var _gaq = _gaq || [];
             <h3>Quick Links</h3>
             <p><img src="/images/v2/footer-border.png"></p>
             <ul>
-            <li><a href="http://furniturefromhome.com/category/bedroom">Bedroom Furniture</a></li>
-            <li><a href="http://furniturefromhome.com/category/livingroom">Living Room Furniture</a></li>
-            <li><a href="http://furniturefromhome.com/category/dining">Dining Room Furniture</a></li>
-            <li><a href="http://furniturefromhome.com/category/entertainment">Entertainment Furniture</a></li>
-            <li><a href="http://furniturefromhome.com/category/office">Home Office Furniture</a></li>
-            <li><a href="http://furniturefromhome.com/category/youth-bedroom-furniture">Kids Bedroom Furniture</a></li>
+            <li><a href="https://furniturefromhome.com/category/bedroom">Bedroom Furniture</a></li>
+            <li><a href="https://furniturefromhome.com/category/livingroom">Living Room Furniture</a></li>
+            <li><a href="https://furniturefromhome.com/category/dining">Dining Room Furniture</a></li>
+            <li><a href="https://furniturefromhome.com/category/entertainment">Entertainment Furniture</a></li>
+            <li><a href="https://furniturefromhome.com/category/office">Home Office Furniture</a></li>
+            <li><a href="https://furniturefromhome.com/category/youth-bedroom-furniture">Kids Bedroom Furniture</a></li>
             </ul>
           
 				</div>
@@ -781,7 +781,9 @@ var _gaq = _gaq || [];
 				<div class="full">
         
           
-          <p>Furniture From Home, Copyright 2014 Furniture From Home LLC</p>
+          
+            <p>Furniture From Home, Copyright 2015 Furniture From Home LLC</p>
+          
 				</div>
 			</div>
 		</div>
@@ -885,6 +887,6 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-3.newrelic.com","8af435a891","1327527","JwwLQkBeXQ1SRhkXQQsRABlCUFYE",0.0,29.0,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","bam.nr-data.net","8af435a891","1327527","JwwLQkBeXQ1SRhkXQQsRABlCUFYE",0.0,25.0,new Date().getTime(),"","","","",""]);</script>
 
 <div id="lightboxOverlay" style="display: none;"></div><div id="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image"><div class="lb-nav"><a class="lb-prev"></a><a class="lb-next"></a></div><div class="lb-loader"><a class="lb-cancel"><img src="/images/v2/lightbox/loading.gif"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"><img src="/images/v2/lightbox/close.png"></a></div></div></div></div><div id="lean_overlay"></div><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
