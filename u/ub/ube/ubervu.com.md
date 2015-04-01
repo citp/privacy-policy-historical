@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubervu.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804033032id_/https%3A//www.ubervu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubervu.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402003636id_/https%3A//www.ubervu.com/privacy) for the most accurate reproduction.*
 
 # uberVU - Privacy & Terms of Service
 
