@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snip.it privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231151752id_/http%3A//info.yahoo.com/privacy/us/yahoo/details.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snip.it privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401101249id_/http%3A//info.yahoo.com/privacy/us/yahoo/details.html) for the most accurate reproduction.*
 
 # Yahoo Privacy Policy
 
