@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degruyter.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214547id_/http%3A//www.degruyter.com/dg/page/2/datenschutzerklrung%3Ft%3Astate%3Aclient%3DH4sIAAAAAAAAAE3MvQ5BQRCG4fEXRKdxA%2BpVqZQSiTgRiSsY54y1smd3zU78NFqlG3FDarVOpbIa0T1f8uW9PaFxqANAJTLMPGuFAfMNKcFAUfg0VMYJsUOrIvHe5BTV2BpysiCOJkrSxJAtluIZNU3LYPszOt1fvWvz8b5UoZZBJ/dl8C5dp4VAN9viHgcWnR4shY3Towza629kjiXt4AyVDFoh1X77GARa1mvjVv6YuGZfLtIhsfhWkOWPH120FsXWAAAA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degruyter.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402002123id_/http%3A//www.degruyter.com/dg/page/2/datenschutzerklrung%3Ft%3Astate%3Aclient%3DH4sIAAAAAAAAAE3MvQ5BQRCG4fEXRKdxA%2BpVqZQSiTgRiSsY54y1smd3zU78NFqlG3FDarVOpbIa0T1f8uW9PaFxqANAJTLMPGuFAfMNKcFAUfg0VMYJsUOrIvHe5BTV2BpysiCOJkrSxJAtluIZNU3LYPszOt1fvWvz8b5UoZZBJ/dl8C5dp4VAN9viHgcWnR4shY3Towza629kjiXt4AyVDFoh1X77GARa1mvjVv6YuGZfLtIhsfhWkOWPH120FsXWAAAA) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -46,13 +46,10 @@ Genthiner Strasse 13
 D-10785 Berlin / Germany  
 Tel: +49 30 260 05-0  
 Fax: +49 30 260 05-251  
-E-mail: [feedback@degruyter.com](mailto:feedback@degruyter.com)
+E-mail: service [ at ] degruyter.com
 
 ###   
 Data Security Officer
 
-Gudrun Crämer  
-Genthiner Str. 13  
-10785 Berlin, Germany  
-Tel: +49 (0)30 26 005 160  
-E-mail: [gudrun.craemer@degruyter.com](mailto:gudrun.craemer@degruyter.com)
+Thorsten Feldmann  
+e-mail: [datenschutz@degruyter.com](mailto:datenschutz@degruyter.com)
