@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bizety.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007185453id_/http%3A//www.bizety.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizety.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401091601id_/http%3A//www.bizety.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Bizety
+# Privacy Policy - CDN, Security, Infrastructure | Bizety
+
+## **Privacy Policy**
 
 What information do we collect  
 We collect information from you when you register on our site.
@@ -10,13 +12,13 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 What do we use your information for  
 Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience  
+To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-; To improve our website  
+To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To improve customer service  
+To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
 How do we protect your information  
@@ -55,6 +57,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 Contacting Us  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Vadzi Technologies, LLC  
+Bizety Technologies, LLC  
 5405 Wilshire Blvd. Suite 353  
-Los Angeles, CA 90036
+Los Angeles, CA 90036  
+support @ bizety.com
+
+[Copyright secured by Digiprove © 2015](http://www.digiprove.com/prove_copyright.aspx?id=P583770%26guid=uZDeqrtIikKP6jFVCghULA)
