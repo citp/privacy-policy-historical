@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conservativepost.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217171816id_/http%3A//conservativepost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativepost.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401094450id_/http%3A//conservativepost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Conservative Post
+# Privacy Policy - Conservative Post
 
 Welcome to http://conservativepost.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by (collectively, “Services”) (“Authorized Customers”).  
 “Personally Identifiable Information”  
