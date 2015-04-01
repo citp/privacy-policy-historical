@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmusicblog.net privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802173326id_/http%3A//worldmusicblog.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmusicblog.net privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401092744id_/http%3A//worldmusicblog.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Music Blog
 
