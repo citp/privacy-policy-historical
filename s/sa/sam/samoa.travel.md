@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samoa.travel privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212082230id_/http%3A//www.samoa.travel/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samoa.travel privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401023346id_/http%3A//www.samoa.travel/privacy.aspx) for the most accurate reproduction.*
 
 # Samoa Tourism Authority : Privacy Policy
 
