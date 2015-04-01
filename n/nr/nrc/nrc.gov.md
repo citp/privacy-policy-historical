@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129031118id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401191652id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
 
 # NRC: Privacy Policy and Security Notice
 
