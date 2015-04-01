@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yescustom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051133id_/http%3A//www.customdropshipping.com/article-agreement/n/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yescustom.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401215716id_/http%3A//www.customdropshipping.com/article-agreement/n/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
