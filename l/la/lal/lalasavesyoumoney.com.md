@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lalasavesyoumoney.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227075531id_/http%3A//lalasavesyoumoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lalasavesyoumoney.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401043157id_/http%3A//lalasavesyoumoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lala Saves You Money
 
