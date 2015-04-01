@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreespeak.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827081147id_/http%3A//www.degreespeak.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreespeak.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401051848id_/http%3A//degreespeak.com/privacy.asp) for the most accurate reproduction.*
 
 # DEGREE SPEAK
 
