@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comeonyouspurs.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707024703id_/http%3A//www.comeonyouspurs.com/index.php%3Fapp%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeonyouspurs.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401024308id_/http%3A//www.comeonyouspurs.com/index.php%3Fapp%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - COYS
 
