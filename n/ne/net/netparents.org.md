@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netparents.org privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013054024id_/http%3A//www.netparents.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netparents.org privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401022307id_/http%3A//www.netparents.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NetParents
+# Privacy Policy - NetParents
 
 **What information do we collect?**  
 
