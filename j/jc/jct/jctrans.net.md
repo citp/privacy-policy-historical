@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jctrans.net privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015215id_/http%3A//www.jctrans.net/Content/FAQ/jin.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jctrans.net privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401124421id_/http%3A//www.jctrans.net/tool/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - JCtrans.net
 
 | 
 
-##   Privacy Policy  
+##    Privacy Policy   
   
   
 ---  
@@ -81,8 +81,8 @@ Your feedback
 ---  
   
   
-JCtrans.net welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send your comments and responses to info@jctrans.net.
+JCtrans.net welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send your comments and responses to info@jctrans.net. 
 
-You can opt out of email communications from JCtrans.net at any time from within each email or by contacting our service team by email at customer@jctrans.net or by phone at 0086-411-39735660 39735663.
+You can opt out of email communications from JCtrans.net at any time from within each email or by contacting our service team by email at customer@jctrans.net or by phone at 0086-411-39735660 39016816.
 
 You can also contact us by post at the following address: FL 18, 541 Huangpu Rd, High-tech Industrial Zone, Dalian, China. 
