@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicecomments.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029231635id_/http%3A//www.spicecomments.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicecomments.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401034559id_/http%3A//www.spicecomments.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SpiceComments.com
 
