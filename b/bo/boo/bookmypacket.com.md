@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bookmypacket.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723143739id_/http%3A//bookmypacket.com/staticpages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmypacket.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401090102id_/http%3A//www.bookmypacket.com/index.php/staticpages/policy) for the most accurate reproduction.*
 
 # India's first online courier service for domestics and International
-
-Our Privacy Policy
 
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. We do update this Policy from time to time so please do review this Policy regularly. 
 
@@ -89,5 +87,3 @@ By providing us with your personal information when registering on our site or w
 Contacting Us
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](http://www.myparceldelivery.com/contactus.aspx "Contact myParcelDelivery.com") from the contact us page.
-
-Copyright 2013 - 2014. All Rights Reserved 
