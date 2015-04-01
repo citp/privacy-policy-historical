@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the pozuda.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704191332id_/http%3A//pozuda.com%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pozuda.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401020423id_/http%3A//pozuda.com%3Fprivacy) for the most accurate reproduction.*
 
 # Flashlight Enterprises Corporation Privacy Policy Statement :: pozuda.com
+
+Registrirani korisnici **106638**
+
+### Prijava korisnika
+
+[](https://web.archive.org/user/TONI29)
+
+**TONI29** Pozdrav,svim slobodnim curama,koje žele SEX1na1,bit će mi drago,svaku curu zadovoljiti u sexu,ako budu oz Zagreba,točnije centar i okolica,ima tu puno cura koje hoće samo sex,pa to neće biti problem,samo će mo si razmijeniti brojeve mobitela,oko dogovora,kisss,i pozz curkama,od 25do29 godina 
+
+[Želiš postati lider?](https://web.archive.org/user/leader)
 
 This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of majority in their jurisdiction are strictly prohibited from accessing or viewing the contents of this Site.
 
