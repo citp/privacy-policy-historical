@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the britainfirst.org privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020113859id_/http%3A//www.britainfirst.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainfirst.org privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401074437id_/https%3A//www.britainfirst.org/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY |
+# PRIVACY, REFUNDS & UN-SUBSCRIBE POLICIES -
 
-Britain First is committed to safeguarding the privacy of our website visitors. We believe you have the right to privacy on the web. This policy sets out how we will treat your personal information.
+Britain First is committed to safeguarding the privacy of our website visitors. We believe you have the right to privacy on the web. We do not store credit card details nor do we share customer details with any 3rd parties. This policy sets out how we will treat your personal information.
 
 1\. What information do we collect?  
 We may collect, store and use the following kinds of personal data:  
@@ -57,7 +57,7 @@ We will take reasonable technical and organisational precautions to prevent the 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. We may also notify you of changes to our privacy policy by email.
 
 8\. Your rights  
-On receipt of proof of identity and a written request you may have a copy of any information that we hold about you. Please e-mail [info@britainfirst.org](mailto:info@britainfirst.org)
+On receipt of proof of identity and a written request you may have a copy of any information that we hold about you. Please e-mail [admin@britainfirst.org](mailto:admin@britainfirst.org)
 
 We will reply within forty days.
 
@@ -65,13 +65,36 @@ We will reply within forty days.
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
 10\. Updating information  
-Please let us know if the personal information which we hold about you needs to be corrected or updated by contacting us via [info@britainfirst.org](mailto:info@britainfirst.org)
+Please let us know if the personal information which we hold about you needs to be corrected or updated by contacting us via [admin@britainfirst.org](mailto:admin@britainfirst.org)
 
 11\. Unsubscribing  
-You may unsubscribe from Britain First at any time by contacting info@britainfirst.org
+You may unsubscribe from Britain First at any time by contacting [admin@britainfirst.org](mailto:admin@britainfirst.org)
 
 12\. Contact  
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email [info@britainfirst.org](mailto:info@britainfirst.org)
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email [admin@britainfirst.org](mailto:admin@britainfirst.org)
 
-If you like this page, please share it with your friends and family:  
+Britain First is committed to safeguarding the privacy of our website visitors. We believe you have the right to privacy on the web. This policy sets out how we will treat your personal information.
 
+We do not store credit card details nor do we share customer details with any 3rd parties.
+
+### HOW TO GET A REFUND
+
+If you desire a refund for a donation, membership or merchandise sale, please ring **0208 914 8212** (office hours) or email [admin@britainfirst.org](mailto:admin@britainfirst.org)
+
+### REFUNDS TIMEFRAME
+
+Most refunds can be made instantly, but we ask for a period of 3 working days to organise a refund.
+
+### UN-SUBSCRIBE METHODS
+
+Please use this section to un-subscribe from our email bulletin service.
+
+If you want to un-subscribe, you have three options:
+
+– **Ring  0208 914 8212**  
+– **Email[admin@britainfirst.org](mailto:admin@britainfirst.org)**  
+– **Click the “un-subscribe” link on your e-bulletin**
+
+Please send all letters relating to this privacy policy to:
+
+**Britain First, 24 Beeches Close, London, SE20 8ED**
