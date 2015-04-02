@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the re.vu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073051id_/http%3A//re.vu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the re.vu privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402030559id_/http%3A//re.vu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | re.vu
 
