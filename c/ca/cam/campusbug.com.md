@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusbug.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111040549id_/http%3A//campusbug.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbug.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402065540id_/http%3A//campusbug.com/privacy.php) for the most accurate reproduction.*
 
 # Punk Rock Demonstration Radio Station - A Demonstration of Punk Rock since 2005
 
