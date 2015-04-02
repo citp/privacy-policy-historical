@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aurora.org privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105182724id_/http%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurora.org privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402101130id_/http%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy, Aurora Health Care
 
