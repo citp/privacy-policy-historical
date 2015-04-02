@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visible.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225231226id_/http%3A//www.visible.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visible.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402235703id_/http%3A//www.visible.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Visible Systems Corporation Privacy Policy What information do we collect?
 
@@ -34,16 +34,15 @@ By using our site, you consent to our privacy policy. This online privacy policy
 information collected through our web site and not to any information collected offline.
 Changes to our Policy
 Any changes to the privacy policy will be posted to this web site. This policy was last updated on
-10/24/2013
+3/16/2015
 Contact Us
 If there are any questions regarding this privacy policy you may contact us using the information
 below.
 
 
 Visible Systems Corporation
-63 Fountain St.
-Suite 301 B
-Framingham MA 01702
+711 Atlantic Avenue
+Boston, MA 02111
 781-778-0200
 www.visible.com
 Info@visible.com
