@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the devitrianto.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220185402id_/http%3A//www.devitrianto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devitrianto.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402020022id_/http%3A//www.devitrianto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Android APK Download
 
 [**All Android Apps**](http://www.devitrianto.com/ "Android APK Download") takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
