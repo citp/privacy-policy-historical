@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonicum.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104132728id_/http%3A//www.dragonicum.com/page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonicum.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402062523id_/http%3A//www.dragonicum.com/page%3Dprivacy_policy) for the most accurate reproduction.*
 
 # NEW Dragonicum.com - making the right business connections !
 
@@ -229,21 +229,15 @@ _An example below, for those of you using Mozilla Firefox:_
 
 ### **GOOGLE ADS - THIRD PARTY COOKIES**
 
- **
+**We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
-
-You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
-
-**
+**You can find additional information in Appendix A of the[NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.**
 
 ### **Conclusion**
 
 Dragonicum has designed its Privacy Policy to serve the Dragonicum community, customers, and employees fairly. You should remember to consider every piece of information you receive, not as de facto recommendation, but as an idea for further consideration. Our Privacy Policy does not relieve individuals or companies from taking responsibility for their own decisions. Due diligence and critical thoughts are crucial to your business success. 
 
-We will welcome your continuous input regarding our Privacy Policy and our services provided to you. You may send us your responses and comments by email to 
-
-**mcf (at) elkatv.si**
+We will welcome your continuous input regarding our Privacy Policy and our services provided to you. You may send us your responses and comments by email to
 
 **_Thank you for visiting our Website!_**
 
