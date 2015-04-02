@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706044750id_/http%3A//www.ldproducts.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402061510id_/http%3A//www.ldproducts.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - LD Products
 
-Your privacy is important to us. This Privacy Policy (“Policy”) explains how LD Products (referred to hereafter as “we,” “us,” “our,” “LD Products” or “LD”) handle your personal information when you use our website (http://www.LD Products), applications and services (referred to hereafter collectively as “Website”). When you use the Website, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy. 
+Your privacy is important to us. This Privacy Policy (“Policy”) explains how LD Products (referred to hereafter as “we,” “us,” “our,” “LD Products” or “LD”) handle your personal information when you use our website (http://www.LD Products), applications and services (referred to hereafter collectively as “Website”). When you use the Website, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy.
 
 * ### Collection of Personal Information.
 
-We do not automatically collect personal information when you browse the Website. We only collect personally identifiable information, such as your name, address, telephone number, email address, credit card information and date of birth when you specifically and knowingly provide it to us by registering to create an account, placing an order, completing online forms, opting in to receive our newsletter and promotional offers or entering a sweepstakes, contest or drawing. When you use the website to apply for employment opportunities, we may collect additional personal information such as your resume. Information that you furnish to LD Products is used to provide the services available through the Website.
+We do not automatically collect personal information when you browse the Website. We only collect personally identifiable information,such as your name, address, telephone number, email address, credit card information and date of birth when you specifically and knowingly provide it to us by registering to create an account, placing an order, completing online forms, opting in to receive our newsletter and promotional offers or entering a sweepstakes, contest or drawing. When you use the website to apply for employment opportunities, we may collect additional personal information such as your resume. Information that you furnish to LD Products is used to provide the services available through the Website.
 
 * ### Automatically-Collected Information.
 
-We automatically collect non-personal information about the computer or devices (including mobile devices) you use to access the Website. For example, we may collect and store information such as your browser type, IP address, language, operating system, location of your wireless device (e.g. latitude and longitude), the state or country from which you accessed the Website, unique device identifier (e.g. a UDID or IDFA on Apple devices), the pages you view, the services you use, the date and time of your visit, the websites you visited immediately before and after visiting the Website, error logs and other hardware and software information. This automatically collected information does not identify and is not associated with any specific individuals. We may use third party analytics providers and technologies, including cookies and similar tools to assist in collecting this information. We may use this information to formulate statistical models about use of the Website, enhance the services available through the Website for other users, and to provide you with tailored content and advertising.
+We automatically collect non-personal information about the computer or devices (including mobile devices) you use to access the Website. For example, we may collect and store information such as your browser type, IP address, language, operating system, location of your wireless device (e.g. latitude and longitude), the state or country from which you accessed the Website, unique device identifier (e.g. a UDID or IDFA on Apple devices), the pages you view, the services you use, the date and time of your visit, the websites you visited immediately before and after visiting the Website, error logs and other hardware and software information. This automatically collected information does not identify and is not associated with any specific individuals. We may use third party analytics providers and technologies, including cookies and similar tools to assist in collecting this information. We may use this information to formulate statistical models about use of the Website, enhance the services available through the Website for other users, and to provide you with tailored content and advertising.
 
 * ### Use of Your Information.
 
@@ -21,42 +21,39 @@ We use your information for the purpose for which you provided it, and we may al
   * Perform research and analytics
   * Customize and personalize the content and advertising that you see on the Website;
   * Respond to and fulfill your request for services (including processing orders);
-  * Determine your eligibility for certain promotions, contets and services; and
+  * Determine your eligibility for certain promotions, contests and services; and
   * Send you communications related to your account and to alert you of the latest developments and features of the Website.
 
 
 
-We use information your provide about someone else when placing an order only to ship the product to that person and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We use information your provide about someone else when placing an order only to ship the product to that person and to confirm delivery.We do not share this information with outside parties except to the extent necessary to complete that order.
 
 * ### Disclosure of Your Information to Third Parties.
 
 We use third parties to complete certain services that are provided through the Website, such as a shipping company to fulfill orders, a credit card processing company to bill you for your orders, and an email service provider to send you newsletters in the event you opt-in to receive them. We use Live Chat to assist you if you have questions while using our site or regarding your order and we use an applicant-management database to process employment submissions. We only share your information with these third parties to the extent that it is necessary to provide a particular service. These third parties are prohibited from using your information for other purposes.
 
-We may also share your information in the following ways: 
+We may also share your information in the following ways:
 
   * We may make information collected through the Website available to affiliated brands that are under common ownership or control as the Website.
-
   * We may share, as allowed by law, information about you with other companies who we believe may have products and services of interest to you. If you would like to opt-out of our sharing of your information with these other companies, please follow the instructions in the “Opting out of Emails and Promotional Communications” section below.
-
   * We may share your information with any person or entity where we believe in good faith that such disclosure is necessary to: (a) comply with the law or in response to a subpoena, court order, government request or other legal process; (b) produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings; (c) protect the interests, rights, safety or property of LD Products or others; (d) enforce the Terms of Use on the Website; (e) provide users of the Website with the services they request; (f) provide you with special offers or promotions from us; and (g) If LD Products is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-
 
 
 * ### Use of Cookies and Other Technology.
 
-The Website uses “cookie” technology and similar online tools, such as web beacons and web pixels. “Cookies” are small files that a website stores on a user’s computer or device. The Website uses Cookies to keep the information you enter on multiple pages together. The majority of the cookies that we use are “session cookies” that are automatically deleted from your hard drive after you close your browser at the end of your session. Session cookies are used to optimize performance of the Website and to limit the amount of redundant data that is downloaded during a single session. LD Products also uses “persistent cookies” which remain on your computer or device unless deleted by you (or by your browser’s settings). We use persistent cookies for statistical analysis of the Website’s performance to ensure the ongoing quality of the services provided through the Website. We do not use cookies to obtain or retain any personal information about you apart from what you voluntarily provide us. Most web browsers automatically accept cookies, but web browsers can be set to block cookies (consult your browser’s instructions on how to block cookies). Please note that blocking cookies may interfere with your ability to perform certain transactions, use certain functionality, and access certain content on the Website.
+The Website uses “cookie” technology and similar online tools, such as web beacons and web pixels. “Cookies” are small files that a website stores on a user’s computer or device. The Website uses Cookies to keep the information you enter on multiple pages together. The majority of the cookies that we use are “session cookies” that are automatically deleted from your hard drive after you close your browser at the end of your session. Session cookies are used to optimize performance of the Website and to limit the amount of redundant data that is downloaded during a single session. LD Products also uses “persistent cookies” which remain on your computer or device unless deleted by you (orby your browser’s settings). We use persistent cookies for statistical analysis of the Website’s performance to ensure the ongoing quality of the services provided through the Website. We do not use cookies to obtain or retain any personal information about you apart from what you voluntarily provide us. Most web browsers automatically accept cookies, but web browsers can be set to block cookies (consult your browser’s instructions on how to block cookies). Please note that blocking cookies may interfere with your ability to perform certain transactions, use certain functionality, and access certain content on the Website.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We connect the information gathered to our Customers’ or Users’ personally identifiable information. 
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We connect the information gathered to our Customers’ or Users’ personally identifiable information.
 
 * ### Tailored Advertising.
 
-The Website may include third party tailored ad technology from our ad partners which enables customized ads to be displayed to you through the Website and that manages our advertising on other sites. We do not share personal information with these third parties; however, when you use the Website, we or our third party ad partners operating the ad serving technology may use non-personal information that is collected through cookies, anonymous identifiers, such as an IDA on iOS devices, web beacons, pixels or clear GIFs to ensure that appropriate ads are presented and/or to perform analytics concerning your use of the Website and other websites tracked by our ad partners. These technologies also may control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. To the extent any of this information is collected by third parties, you acknowledge and agree that such collection and use is governed by those third parties’ privacy policies and that LD Products is not responsible for the privacy practices of such third parties. The Website is not designed to respond to “do not track” signals or mechanisms from your web browser. 
+The Website may include third party tailored ad technology from our ad partners which enables customized ads to be displayed to you through the Website and that manages our advertising on other sites. We do not share personal information with these third parties; however,when you use the Website, we or our third party ad partners operating the ad serving technology may use non-personal information that is collected through cookies, anonymous identifiers, such as an IDA on iOS devices, web beacons, pixels or clear GIFs to ensure that appropriate ads are presented and/or to perform analytics concerning your use of the Website and other websites tracked by our ad partners. These technologies also may control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. To the extent any of this information is collected by third parties, you acknowledge and agree that such collection and use is governed by those third parties’ privacy policies and that LD Products is not responsible for the privacy practices of such third parties.The Website is not designed to respond to “do not track” signals or mechanisms from your web browser.
 
-If you are interested in more information about tailored ads and your choices to prevent third parties from delivering tailored ads, you may visit the following third party websites: the Network Advertising Initiative Consumer Opt-Out Page by clicking [here](https://www.networkadvertising.org/choices/) or the Digital Advertising Alliance’s Consumer Opt-Out Page by clicking [here](http://www.aboutads.info/choices/). 
+If you are interested in more information about tailored ads and your choices to prevent third parties from delivering tailored ads, you may visit the following third party websites: the Network Advertising Initiative Consumer Opt-Out Page by clicking [here](http://www.networkadvertising.org/choices) or the Digital AdvertisingAlliance’s Consumer Opt-Out Page by clicking [here](http://www.aboutads.info/choices/#completed).
 
 * ### User-Initiated Communication.
 
-From time to time, portions of the Website may enable you to send emails and other types of messages to us or third parties. All such emails, messages and written communications become our property once you submit them. Whenever you choose to initiate these kinds of communications with us, you may be contacted in return.
+From time to time, portions of the Website may enable you to send emails and other types of messages to us or third parties. All such emails,messages and written communications become our property once you submit them. Whenever you choose to initiate these kinds of communications with us, you may be contacted in return.
 
 * ### Customer Reviews.
 
@@ -78,7 +75,7 @@ Protecting the privacy of children is especially important to us. We do not know
 
 If your personally identifiable information changes, is inaccurate, or if you no longer wish to use the services offered through the Website, you may notify us by emailing our customer support at [info@ldproducts.com](mailto:info@ldproducts.com) or by contacting us by telephone or mail at the contact information listed below. You may request factual errors to be corrected in your personally identifiable information by sending us a request that credibly shows the errors. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@ldproducts.com](mailto:info@ldproducts.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@ldproducts.com](mailto:info@ldproducts.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 * ### Third Party Links and Services.
 
@@ -86,13 +83,13 @@ The Website may contain links to third-party websites including social networkin
 
 * ### Social Media Features and Widgets.
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on ourSite. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 * ### Single Sign-On.
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-* ### Contacting Us.
+* ### Contact Us.
 
 If you have any questions about the Policy, contact us by sending an email to [info@ldproducts.com](mailto:info@ldproducts.com). You can also call us at (888) 321-2552 or write to us at:
 
@@ -100,11 +97,11 @@ LD Products
 3700 Cover St.  
 Long Beach, CA 90808 
 
-We may record the conversations that our agents or employees have with you. We do this from time to time to monitor the quality of service and accuracy of information our agents and employees give to you and to ensure that your instructions are followed. No agent or employee of the Company is authorized to waive any provisions of any of LD Products’ policies or procedures. 
+We may record the conversations that our agents or employees have with you. We do this from time to time to monitor the quality of service and accuracy of information our agents and employees give to you and to ensure that your instructions are followed. No agent or employee of the Company is authorized to waive any provisions of any of LD Products’ policies or procedures.
 
 * ### Updates to Policy.
 
-We may amend this Policy at any time by posting the changes on this page. Any changes to the Policy will become effective upon posting. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your continued use of the Website following any changes means you accept such revisions. You should check the effective date of the Policy below and review any changes since the last time you used the website.
+We may amend this Policy at any time by posting the changes on this page. Any changes to the Policy will become effective upon posting. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your continued use of the Website following any changes means you accept such revisions.You should check the effective date of the Policy below and review any changes since the last time you used the website.
 
 * ### Effective Date.
 
