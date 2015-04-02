@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evergage.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813233938id_/http%3A//www.evergage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evergage.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402172137id_/http%3A//www.evergage.com/privacy-policy) for the most accurate reproduction.*
 
-# Evergage – Privacy Policy
+# Evergage | Privacy Policy
 
 Evergage, Inc. (“ **Evergage** ” or “ **we** ” or “ **us** ”) provides an online service (the “ **Evergage Service** ”) to help our customers (“ **Evergage Clients** ”) make their products and services (“ **Client Services** ”) more successful.  In order to provide the Evergage Service, Evergage collects certain information, as described in this Privacy Statement, from both Evergage Clients and their end user customers (“ **End Users** ”).  Evergage is deeply committed to protecting the privacy of both Evergage Clients and End Users.  The purpose of this Privacy Statement is to inform you, as an Evergage Client or an End User, about our privacy practices.  We encourage you to read this Privacy Statement in order to learn more about how we safeguard your privacy.
 
