@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aldi.co.uk privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915160807id_/https%3A//www.aldi.co.uk/en/new-privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.co.uk privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402042624id_/https%3A//www.aldi.co.uk/en/privacy-policy-cookies) for the most accurate reproduction.*
 
-# ALDI - NEW - Privacy Policy & Cookies
+# ALDI - Privacy Policy & Cookies
 
 Aldi Stores Limited (“We”) are committed to protecting and respecting your privacy. This policy and any other documents referred to on this website sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
 
