@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the harmony-central.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415232519id_/http%3A//www01.harmony-central.com/t5/custom/page/page-id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmony-central.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402155039id_/http%3A//www.harmonycentral.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Harmony Central
+# Harmony Central
 
-## YOUR PRIVACY RIGHTS
+YOUR PRIVACY RIGHTS
 
 Harmony Central understands your concerns as to how your information is used and shared, and we wish, by providing you with this Privacy Statement, to gain your trust and confidence in how we care for your personal information.
 
-### DOES HARMONY CENTRAL COLLECT PERSONAL INFORMATION?
+DOES HARMONY CENTRAL COLLECT PERSONAL INFORMATION?
 
 Information you provide
 
@@ -16,11 +16,11 @@ Information automatically provided
 
 We track user behavior on our website automatically. That information may include your IP address, your domain server, your type of computer, your type of web browser and statistical information regarding the pages you visit. We use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners.
 
-### Use of Cookies
+Use of Cookies
 
 Users also should be aware that non-personal information and data may be automatically collected through the standard operation of Harmony Central's internet servers or through the use of cookies. Cookies are small text files a web site can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users should be aware that Harmony Central cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for Harmony Central. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available on the Harmony Central site.
 
-### DOES HARMONY CENTRAL SHARE THE INFORMATION IT COLLECTS?
+DOES HARMONY CENTRAL SHARE THE INFORMATION IT COLLECTS?
 
 Companies offering promotions, products or services
 
@@ -62,21 +62,21 @@ With your consent
 
 Other than as explained above, Harmony Central will notify you when information about you may be provided to third parties, and you will have the option to prevent such information sharing.
 
-### WHAT SECURITY PRECAUTIONS ARE TAKEN TO PROTECT PERSONAL INFORMATION?
+WHAT SECURITY PRECAUTIONS ARE TAKEN TO PROTECT PERSONAL INFORMATION?
 
 This website incorporates appropriate safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information we have collected, and we have put in place reasonable precautions to protect information from loss, misuse and alteration. Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals have access to the information you provide us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Statement.
 
 You hereby acknowledge that Harmony Central is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
 
-### Collection Of Children’s Personal Information
+Collection Of Children’s Personal Information
 
 Harmony Central is committed to protecting the privacy of children. The Site is not directed to children under the age of 13, and Harmony Central does not collect or maintain personal information online from children we actually know are under the age of 13. Should we discover that we have collected personal information online from a child who is under 13, we will promptly delete that personal information. If you have concerns over the collection of children’s personal information online, please contact us at the address below.
 
-### TERMS AND MODIFICATIONS TO THIS PRIVACY STATEMENT
+TERMS AND MODIFICATIONS TO THIS PRIVACY STATEMENT
 
 By using the website, you signify your agreement to the terms of our Privacy Statement. If you do not agree with these terms, you should not use the site. Harmony Central may modify this Privacy Statement at any time. If a material change is made to this Privacy Statement and/or the way we use our users' personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Statement and also on our home page. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Statement. This Privacy Statement is applicable to all web sites under the .harmony-central.com and .harmonycentral.com domains.
 
-### CONTACT DETAILS
+CONTACT DETAILS
 
 If you have any questions about this Privacy Statement, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Statement, you can contact:
 
