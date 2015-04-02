@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masteringaandp.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214153718id_/https%3A//register.pearsoncmg.com/w3c/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masteringaandp.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402220020id_/https%3A//register.pearsoncmg.com/w3c/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
