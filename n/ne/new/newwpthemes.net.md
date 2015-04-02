@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newwpthemes.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130512id_/http%3A//wpresponsive.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newwpthemes.net privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402144955id_/http%3A//wpresponsive.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WordPress Responsive
+# Privacy Policy - WordPress Responsive
 
 The privacy and security of our site visitors is our highest priority. It is the policy of WordPress Responsive that personal information, such as your name, personal postal and email address, or personal telephone number is private and confidential. Because your privacy is important to us, WordPress Responsive maintains privacy policies to protect your personal information.
 
