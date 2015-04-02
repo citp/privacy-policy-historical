@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nc.gov privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008135159id_/http%3A//nc.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nc.gov privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402222709id_/http%3A//nc.gov/privacy.aspx) for the most accurate reproduction.*
 
 # NC.gov: Privacy
 
@@ -17,7 +17,7 @@ NC.Gov uses this information to help make the site more useful to visitors, to l
 
 ##  Web Site Security 
 
-For Web site security purposes and to ensure that this service remains available to all users, this computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+For Web site security purposes and to ensure that this service remains available to all users, this computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Use of this site constitutes consent to such monitoring. Unauthorized attempts to upload information and/or change information on this Web site are strictly prohibited and subject to legal action to include the Computer Fraud and Abuse Act of 1986. 
 
 ## Public Disclosure 
 
@@ -36,6 +36,10 @@ A persistent cookie is generally defined as a piece of data that is stored on th
 Temporary or session cookies are used on all NC.Gov web site pages. These cookies are stored in memory and are only available during an active browser session. Session cookies are also used by some of the applications deployed on our web site to temporarily save information entered by a user as long as the user's browser is open. These cookies do not collect personal information on users, and they are erased as soon as you close your web browser. No personally identifiable information about you is maintained as a result of a temporary or session cookie. 
 
 You can configure your web browser to accept or decline cookies, or to alert you when cookies are in use. You do not have to accept cookies from us, but if you choose not to, some of the functions on our site may not be available to you. 
+
+## Interaction with Children Online
+
+The State is committed to the protection of children’s online privacy. The Children’s Online Privacy Protection Act (COPPA) governs information gathered online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. If a State agency website intends to collect information from children under 13 years old, COPPA-required information and instructions will be provided by the specific Web page that collects information about the child. The Web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
 
 ## Links to Other Sites 
 
