@@ -1,5 +1,28 @@
-> *The following text is extracted and transformed from the sswitt.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510001831id_/http%3A//sswitt.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sswitt.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402192726id_/http%3A//www.sswitt.com/privacy-policy) for the most accurate reproduction.*
 
-# Super Switt Links Directory - Privacy Policy
+# Privacy Policy | Sswitt.Com
 
-Privacy This business collects and maintains certain information (including business names,e-mail addresses, IP addresses, contact's names, phone numbers, geographic location information, etc.) on its Web site and its directory database for the purpose of publishing this suppliers news and directory resource. This is done to help us provide our users with the best resource and with valuable information regarding relevant products and services from appropriate third parties. Our customer's listing details are not deliberately disclosed to third parties, other than contractors for the purpose of publishing this resource, except as purposely published on this site. This business is not specifically dedicated to protecting personal information and will make only reasonable efforts to handle collected information appropriately as per any third party sofware designer's guidelines for the use of the software that runs this site. All information collected, as well as related requests, will be handled as carefully and efficiently as practical in accordance with the sofware designer's guidelines. However because of the incidence of hackers and the involvement of unknown third parties on most internet servers, we deem any information gathered by this service to be unsafe from privacy intruders. If your worried about privacy please dont use our service. Email newsletters originating at this site always contains clear and efficient instructions for opting out of future emails of its kind on a properly managed system. We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including our published data) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to visitors. If you would like more information about this practice and to know your choices about not having this information used by these companies, please contact the manufacturer of your browser software. Google, as a third-party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on a visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Sswitt.Com has no access or control over these cookies that may be used by third party advertisers. 
+
+**Collection of Personal Information**  
+When visiting Sswitt.Com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
+
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
+
+If you have any questions regarding the privacy policy of Sswitt.Com then you may contact us at admin@sswitt.com 
+
+This privacy policy was generated by the [Easy Privacy Policy](http://europeancruiseadvisor.com/ "Easy Privacy Policy homepage") plugin for WordPress.
+
+Last updated Sun, 07 Dec 2014 19:37
