@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcondosonline.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805051908id_/http%3A//www.newcondosonline.com/condos-for-sale-worldwide/new-condos-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcondosonline.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402171737id_/http%3A//www.newcondosonline.com/condos-for-sale-worldwide/new-condos-privacy-policy.html) for the most accurate reproduction.*
 
 # New Condos Online | Condos For Sale | Find Condominiums Worldwide | Privacy Policy
 
