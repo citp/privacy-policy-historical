@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alltop9.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026123838id_/http%3A//www.alltop9.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltop9.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402070516id_/http%3A//www.alltop9.com/p/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | All Top 9
+# Privacy Policy
 
 This Privacy Policy was last modified on March 19, 2014.  
 All Top 9 ("us", "we", or "our") operates www.alltop9.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.  
