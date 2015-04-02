@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thankyou.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808033730id_/https%3A//www.thankyou.com/privacyStmt.jspx%3Fcmp%3DNAV%26LID%3Dfooter%7Cprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thankyou.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402022253id_/https%3A//www.thankyou.com/privacyStmt.jspx%3Fcmp%3DNAV%26LID%3Dfooter%7Cprivacy) for the most accurate reproduction.*
 
 # Citi ThankYou® Rewards - Our Privacy Statement
 
