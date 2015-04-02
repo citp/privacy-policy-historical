@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adf01.net privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804033952id_/https%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adf01.net privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402061412id_/https%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
 
 # Adfish - A premium CPA network
 
@@ -57,7 +57,7 @@ We may employ other companies and individuals to perform functions on our behalf
 
 B. Referral Program 
 
-As part of some of our referral programs, we request contact information (like the name and e-mail address) of visitors' friends and family whom they think would like to receive a Adfish.com service. The persons referred to us will receive sample Adfish.com e-mails, but do not become subscribers until they confirm their interest in the service. Adfish.com stores this information for the sole purpose of sending the emails regarding Adfish.net services. The person referred also can unsubscribe at any time; see "What Choices Do I Have," below. 
+As part of some of our referral programs, we request contact information (like the name and e-mail address) of visitors' friends and family whom they think would like to receive a Adfish.com service. The persons referred to us will receive sample Adfish.com e-mails, but do not become subscribers until they confirm their interest in the service. Adfish.com stores this information for the sole purpose of sending the emails regarding Adfish.com services. The person referred also can unsubscribe at any time; see "What Choices Do I Have," below. 
 
 C. Links To Other Sites 
 
@@ -77,7 +77,7 @@ Please note once an account is created, we may send you a confirmation e-mail ac
 
 B. Opting Out 
 
-To remove your User information from our mailing list(s) so as not to receive future communications from us or to no longer receive our service, please send an email to webmaster@adfish.net If you have submitted personal information under more than one e-mail account, you must make this request from each account that you have used. Adfish.com will use commercially reasonable efforts to delete records from our mailing list when we receive requests to do so. Please allow up to 48 hours to be completely removed from our database. If we decide to change this privacy statement, we will post those changes on this Web site so our Users are always aware of what information we collect and how we use it. 
+To remove your User information from our mailing list(s) so as not to receive future communications from us or to no longer receive our service, please send an email to webmaster@adfish.com If you have submitted personal information under more than one e-mail account, you must make this request from each account that you have used. Adfish.com will use commercially reasonable efforts to delete records from our mailing list when we receive requests to do so. Please allow up to 48 hours to be completely removed from our database. If we decide to change this privacy statement, we will post those changes on this Web site so our Users are always aware of what information we collect and how we use it. 
 
 ## How secure is my information?
 
@@ -103,11 +103,11 @@ Fax: 925.462.3110
 
 **Mailing Address**   
 Adfish   
-6800 Koll Center Parkway, Suite No. 170   
+303 Ray Street   
 Pleasanton, CA 94566 
 
 ## Unsubscribe Information:
 
-If you are not in agreement with the terms of this Policy, please write to us at Adfish, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed. 
+If you are not in agreement with the terms of this Policy, please write to us at Adfish, 303 Ray Street, Pleasanton, CA 94566 and request to be removed. 
 
-If you feel that Adfish is not abiding by its posted privacy policy, please send an e-mail to [webmaster@adfish.net](mailto:webmaster@adfish.net) or write us at Adfish, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566. 
+If you feel that Adfish is not abiding by its posted privacy policy, please send an e-mail to [webmaster@adfish.com](mailto:webmaster@adfish.com) or write us at Adfish, 303 Ray Street, Pleasanton, CA 94566. 
