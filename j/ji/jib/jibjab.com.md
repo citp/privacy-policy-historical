@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080955id_/http%3A//www.jibjab.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403173420id_/http%3A//www.jibjab.com/about/privacy) for the most accurate reproduction.*
 
-# Funny eCards, Happy Birthday eCards, and Holiday eCards - JibJab.com
+# JibJab.com - Easter eCards, Funny eCards, Happy Birthday eCards, and more
 
-The following Privacy Policy applies to your use of all websites, mobile applications, and other products and services owned, controlled, operated or hosted (whether now or in the future) by JibJab Media Inc. dba JibJab Bros. Studios and/or its corporate affiliates, including but not limited to the JibJab.com, StoryBots.com, Hello Santa.com and all related applications and services (collectively the “JibJab Sites”).
+The following Privacy Policy applies to your use of all websites, mobile applications, and other products and services owned, controlled, operated or hosted (whether now or in the future) by JibJab Media Inc. dba JibJab Bros. Studios and/or its corporate affiliates, including but not limited to the JibJab.com, StoryBots.com, HelloSanta.com, JibJab Messages and all related applications and services (collectively the “JibJab Sites”).
 
 **Privacy Policy**
 
-**Last Updated: September 25, 2014**
+**Last Updated: March 1, 2015**
 
 This Privacy Policy is an integral part of the agreement between JibJab Bros. Studios (“JibJab” or “we”) and each Visitor, Registered User, Live Call Purchaser or Member, as the case may be (each, a “user” or “you”) concerning the use of the JibJab Sites. The other integral parts of such agreement are the JibJab Terms of Service (click here), the JibJab Terms of Sale (click here) and the Legal Notices (click here). All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be as defined in the JibJab Terms of Service (click here).
 
@@ -20,7 +20,7 @@ By submitting personal information on any of the JibJab Sites or through any of 
 
 Effective January 1, 2005, California Civil Code Section 1798.83 (known as the “Shine the Light” law) provides that, if an individual who is a California resident has provided his/her personal information to a business in connection with a business relationship that is primarily for personal, family, or household purposes, and if that business has within the immediately preceding calendar year disclosed such individual’s personal information to a third party and knows or should have known that such third party used the information for its own direct marketing purposes, then that business is obligated to disclose in writing to such individual upon request, what personal information was shared and with whom the information was shared. A business may comply with this law by: (1) having EITHER a published privacy policy of not sharing a customer’s personal information for third-party direct marketing use unless the customer has first affirmatively opted in to such sharing OR a published privacy policy of not sharing a customer’s personal information for third-party direct marketing use if the customer has opted out to prevent his/her personal information from being shared for third-party direct marketing use; AND (2) notifying the customer of his/her right to opt out and providing a cost-free means for the customer to exercise that right.
 
-California residents may request an information-sharing disclosure from us by emailing your request to support@JibJab.com or writing to us at JibJab Bros. Studios, Att: Privacy Dept., PO Box 5356, Santa Monica, CA, 90405\. Please note that, under the law, we are not required to respond to your request more than once in a calendar year, nor are we required to respond to any requests that are not sent to the above-designated email or mailing address.
+California residents may request an information-sharing disclosure from us by emailing your request to support@JibJab.com or writing to us at JibJab Bros. Studios, Att: Privacy Dept., 13428 Maxella Ave #363, Marina Del Rey, CA 90292. Please note that, under the law, we are not required to respond to your request more than once in a calendar year, nor are we required to respond to any requests that are not sent to the above-designated email or mailing address.
 
 _Do Not Track Disclosure_ : The JibJab Sites do not currently respond to "Do Not Track" signals of Web browsers. However, should the industry establish uniform technological standards for recognizing and interpreting "Do Not Track" signals, the JibJab Sites would be open to following such industry standards.
 
@@ -127,4 +127,4 @@ This Privacy Policy is subject to change by JibJab from time to time. If we make
 
 **Contacting the Web Site**
 
-If you have any questions about this Privacy Policy, the data practices of any of the JibJab Sites, or your dealings with any of the JibJab Sites, please contact us via email at  ** _support@jibjab.com_** , or via mail at  **JibJab Bros. Studios, Att: Privacy Dept., PO Box 5356, Santa Monica, CA 90405.**
+If you have any questions about this Privacy Policy, the data practices of any of the JibJab Sites, or your dealings with any of the JibJab Sites, please contact us via email at  ** _support@jibjab.com_** , or via mail at  **JibJab Bros. Studios, Att: Privacy Dept., 13428 Maxella Ave #363, Marina Del Rey, CA 90292.**
