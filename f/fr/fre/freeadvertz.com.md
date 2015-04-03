@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the freeadvertz.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619102325id_/http%3A//www.workathomebusinesssuccess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvertz.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403103514id_/http%3A//www.freeadvertz.com/contact/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
   
 
 
-## [workathomebusinesssuccess.com](http://www.workathomebusinesssuccess.com/) Privacy Statement
+## [freeadvertz.com](http://www.freeadvertz.com/) Privacy Statement
 
 In order to demonstrate our commitment to our visitors’ privacy, we disclose our information practices. We will keep to these practice guidelines on ALL occasions in our dealings with you. 
 
@@ -15,11 +15,11 @@ We will **NEVER** distribute, share or sell any personal information we collect 
 We will **NEVER** spam your email address.
 
 If you are interested, here are the details on information collection and use at  
-**[workathomebusinesssuccess.com](http://www.workathomebusinesssuccess.com/)**. 
+**[freeadvertz.com](http://www.freeadvertz.com/)**. 
 
 **Information Collection**
 
-**[workathomebusinesssuccess.com](http://www.workathomebusinesssuccess.com/)** is the sole owner of the information collected on this site. We collect information from our visitors at several different points. 
+**[freeadvertz.com](http://www.freeadvertz.com/)** is the sole owner of the information collected on this site. We collect information from our visitors at several different points. 
 
 **Newsletter**  
 If a visitor wishes to subscribe our newsletter, we ask for contact information such as name and email address. We then send newsletters to visitor’s email address. 
@@ -54,7 +54,7 @@ By setting a cookie on our site, first time visitors would see a popup window in
 The ads appearing on this web site are delivered to visitors by our web advertising partner. Information about visit to this site, such as number of times visitors have viewed an ad (but not email address, or other personal information), is used to serve ads to users on this site. For more information about our web advertising partner, cookies, and how to “opt-out”, please visit our web advertising partner’s site. 
 
 This privacy statement covers the use of cookies by  
-**[workathomebusinesssuccess.com](http://www.workathomebusinesssuccess.com/)** only and does not cover the use of cookies by any advertisers. 
+**[freeadvertz.com](http://www.freeadvertz.com/)** only and does not cover the use of cookies by any advertisers. 
 
 **Log Files**  
 Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track visitor’s movement in the aggregate, and gather broad demographic information for aggregate use. These information are not linked to personally identifiable information. 
@@ -86,16 +86,16 @@ We use a credit card processing company to bill users for goods and services. Th
 
 **Business Transitions**  
 In the event  
-**[workathomebusinesssuccess.com](http://www.workathomebusinesssuccess.com/)** goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, visitors’ personal information will, in most instances, be part of the assets transferred. Subscribers and customers will be notified via prior to a change of ownership or control of their personal information. If as a result of the business transition, the visitors’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
+**[freeadvertz.com](http://www.freeadvertz.com/)** goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, visitors’ personal information will, in most instances, be part of the assets transferred. Subscribers and customers will be notified via prior to a change of ownership or control of their personal information. If as a result of the business transition, the visitors’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
 
 **Choice/Opt-out**  
 Our subscribers and customers are given the opportunity to opt-out of having their information used by us. 
 
-Visitors who no longer wish to receive our newsletter and other communications may opt-out of receiving these communications by clicking the unsubscribe link in the newsletter or email us at: **[webmaster@workathomebusinesssuccess.com](mailto:webmaster@workathomebusinesssuccess.com)**
+Visitors who no longer wish to receive our newsletter and other communications may opt-out of receiving these communications by clicking the unsubscribe link in the newsletter or email us at: **[webmaster@freeadvertz.com](mailto:webmaster@freeadvertz.com)**
 
 **Links**  
 This web site contains links to other sites. Please be aware that we,  
-**[workathomebusinesssuccess.com](http://www.workathomebusinesssuccess.com/)** , are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+**[freeadvertz.com](http://www.freeadvertz.com/)** , are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
 **Surveys & Contests**  
 From time to time our site may request information from visitors via surveys or contests. Participation in these surveys or contests is completely voluntary and the visitors (and subscribers, customers) therefore have a choice whether or not to disclose this information. 
@@ -111,7 +111,7 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 **Children**
 
-**[workathomebusinesssuccess.com](http://www.workathomebusinesssuccess.com/)** does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under 13, please contact us at the address listed below. 
+**[freeadvertz.com](http://www.freeadvertz.com/)** does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under 13, please contact us at the address listed below. 
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our visitors are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
@@ -122,7 +122,7 @@ If, however, we are going to use visitors’ personally identifiable information
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 **Email:**  
-**[webmaster@workathomebusinesssuccess.com](mailto:webmaster@workathomebusinesssuccess.com)**
+**[webmaster@freeadvertz.com](mailto:webmaster@freeadvertz.com)**
 
 **Address:**  
 PO Box 1172  
