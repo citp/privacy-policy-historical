@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the feralinteractive.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022003315id_/http%3A//www.feralinteractive.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feralinteractive.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403204126id_/http%3A//www.feralinteractive.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Feral Interactive
 
-**Younger Feralites - Please check with your parents before entering any information on this or any other website. Ask them to read this privacy policy and discuss it with you.**
+[ ](https://web.archive.org/en/)
+
+  * [Home](https://web.archive.org/en/)
+  * [News](https://web.archive.org/en/news/)
+  * [Mac Games](https://web.archive.org/en/mac-games/)
+  * [Linux games](https://web.archive.org/en/linux-games/)
+  * [Store](https://store.feralinteractive.com/en/us/)
+  * [Support](http://support.feralinteractive.com/en/)
+  * [About](https://web.archive.org/en/about/)
+
+English
+
+**Younger Feralists - Please check with your parents before entering any information on this or any other website. Ask them to read this privacy policy and discuss it with you.**
 
 This is a general statement of principle, intended to give you a quick and clear understanding of our approach to your privacy. If you want more information on how we handle privacy in specific areas, we also provide detailed policies for:
 
