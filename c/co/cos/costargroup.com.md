@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costargroup.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724192433id_/http%3A//www.costargroup.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costargroup.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403160418id_/http%3A//www.costargroup.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
