@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the premiumoutlets.com privacy policy that was archived on 2014-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141030093101id_/http%3A//www.premiumoutlets.com/privacy/index.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the premiumoutlets.com privacy policy that was archived on 2015-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150403101909id_/http%3A//www.premiumoutlets.com/privacy/index.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Premium Outlets: Terms of Use and Privacy Policy</title>
@@ -113,7 +113,8 @@ sup { vertical-align: top; }
 
             //**--Centers by states--**//
 			var centerTemplate = "<img class='dropdown-image' src='/images/centers/img-center-#short#.jpg' alt='#title#' width='100' height='100' /><div class='dropdown-details'><b>#title#</b><br>#address#<br>#city#, #state# #zip#</div><div class='dropdown-links'><a href=/outlets/outlet.asp?id=#id#>Center Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href=/outlets/hours.asp?id=#id#>Hours</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href=/outlets/directions.asp?id=#id#>Directions</a> </div>";
-            var centerTemplate2 = "<img class='dropdown-image' src='/images/centers/img-center-#short#.jpg' alt='#title#' width='100' height='100' /><div class='dropdown-details'><b>#title#</b><br>#city#, #state#<br>#address#</div><div class='dropdown-links'><a href=/outlets/outlet.asp?id=#id#>Center Info</a>";
+			var centerTemplate2 = "<img class='dropdown-image' src='/images/centers/img-center-#short#.jpg' alt='#title#' width='100' height='100' /><div class='dropdown-details'><b>#title#</b><br>#city#, #state#<br>#address#</div><div class='dropdown-links'><a href=/outlets/outlet.asp?id=#id#>Center Info</a>";
+			var centerTemplate3 = "<img class='dropdown-image' src='/images/centers/img-center-#short#.jpg' alt='#title#' width='100' height='100' /><div class='dropdown-details'><b>#title#</b><br>#city#, #state#<br>#address#</div>";
             //attach event to the states ddl that will show the centers.
             $("#selectstate").change(function () {
                 $('.dropdown_menu').css('height', 800);
@@ -124,7 +125,11 @@ sup { vertical-align: top; }
 
 
                 if ($(this).val() == "999") {var newHtml = centerTemplate2;}
-                    else { var newHtml = centerTemplate;}
+                else { var newHtml = centerTemplate; }
+
+                /* do not display center info for 116, 117, 118 */
+                if (($(this).val() == "116") || ($(this).val() == "117") || ($(this).val() == "118"))
+                { newHtml = centerTemplate2; }
 
                 if ($(this).val() != "") {
 					$this = $(this).find(":selected");
@@ -137,7 +142,6 @@ sup { vertical-align: top; }
 						$thisCenter.fadeIn("slow")
 					});
                     $("#country-centers-list").hide();
-
                 }
             });
         });
@@ -204,13 +208,12 @@ sup { vertical-align: top; }
 <noscript>
     <iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7X4KT" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
-<script>   
- (function (w, d, s, l, i) {
+<script>
+    (function (w, d, s, l, i) {
         w[l] = w[l] || []; w[l].push({ 'gtm.start':
 new Date().getTime(), event: 'gtm.js'
         }); var f = d.getElementsByTagName(s)[0],
-j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src ='//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-T7X4KT');
 </script>
 <!-- End Google Tag Manager -->
@@ -225,7 +228,21 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 <div class="navbar navbar-inverse navbar-static-top">
     <div class="navbar-inner">
         <div class="container">
-            
+                  
+          <!--<ul class="nav ht-25 text-uc"> 
+               <li class="mr-5"><a href="&lang=en" class="pt-5">Anglais</a></li>
+               <li class="pt-5 col-grey mr-5">|</li>
+               <li><a href="&lang=fr" class="pt-5 pl-2 active">Français</a></li>
+          </ul>  -->       
+        
+        
+          <!-- <ul class="nav ht-25 text-uc">  
+           <li class="mr-5"><a href="&lang=en" class="pt-5 active">English</a></li>
+           <li class="pt-5 col-grey mr-5">|</li>
+           <li><a href="&lang=fr" class="pt-5 pl-2">French</a></li>
+         </ul>
+         -->
+        
 
             <a href="http://www.premiumoutlets.com" class="brand">
                 <img src="http://www.premiumoutlets.com/images/logo.png" alt="">
@@ -249,6 +266,10 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                         
                                             <option data-title="Phoenix Premium Outlets" data-short="Phoenix" data-address="4976 Premium Outlets Way" data-city="Chandler" data-state="AZ" data-zip="85226" value="105">
                                                 Phoenix Premium Outlets
+                                            </option>
+                                        
+                                            <option data-title="Tucson Premium Outlets" data-short="Tucson" data-address="6401 West Marana Center Blvd" data-city="Marana" data-state="AZ" data-zip="85353" value="118">
+                                                Tucson Premium Outlets
                                             </option>
                                         
                                         <option disabled="disabled">
@@ -285,10 +306,6 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                                 Las Americas Premium Outlets
                                             </option>
                                         
-                                            <option data-title="Livermore Premium Outlets" data-short="livermore" data-address="2774 Livermore Outlets Drive" data-city="Livermore" data-state="CA" data-zip="94551" value="107">
-                                                Livermore Premium Outlets
-                                            </option>
-                                        
                                             <option data-title="Napa Premium Outlets" data-short="Napa" data-address="629 Factory Stores Drive" data-city="Napa" data-state="CA" data-zip="94558" value="25">
                                                 Napa Premium Outlets
                                             </option>
@@ -299,6 +316,10 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                         
                                             <option data-title="Pismo Beach Premium Outlets" data-short="PismoBeach" data-address="333 Five Cities Drive, Ste 100" data-city="Pismo Beach" data-state="CA" data-zip="93449" value="91">
                                                 Pismo Beach Premium Outlets
+                                            </option>
+                                        
+                                            <option data-title="San Francisco Premium Outlets" data-short="sanfrancisco" data-address="2774 Livermore Outlets Drive" data-city="Livermore" data-state="CA" data-zip="94551" value="107">
+                                                San Francisco Premium Outlets
                                             </option>
                                         
                                             <option data-title="Vacaville Premium Outlets" data-short="Vacaville" data-address="321 Nut Tree Road, Suite 2" data-city="Vacaville" data-state="CA" data-zip="95687" value="50">
@@ -358,6 +379,10 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                         
                                             <option data-title="St. Augustine Premium Outlets" data-short="Augustine" data-address="2700 State Road 16" data-city="St. Augustine" data-state="FL" data-zip="32092" value="55">
                                                 St. Augustine Premium Outlets
+                                            </option>
+                                        
+                                            <option data-title="Tampa Premium Outlets" data-short="Tampa" data-address="2398 Grand Cypress Drive" data-city="Lutz" data-state="FL" data-zip="33559" value="117">
+                                                Tampa Premium Outlets
                                             </option>
                                         
                                         <option disabled="disabled">
@@ -571,6 +596,10 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                                         <option disabled="disabled"></option>
                                         <optgroup label="New Jersey">
                                         </optgroup>
+                                        
+                                            <option data-title="Gloucester Premium Outlets" data-short="Gloucester" data-address="100 Premium Outlets Drive" data-city="Blackwood" data-state="NJ" data-zip="08012" value="116">
+                                                Gloucester Premium Outlets
+                                            </option>
                                         
                                             <option data-title="Jackson Premium Outlets" data-short="Jackson" data-address="537 Monmouth Road" data-city="Jackson" data-state="NJ" data-zip="08527" value="54">
                                                 Jackson Premium Outlets
@@ -1162,16 +1191,15 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=2576">JAMES PERSE</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=1793">JIMMY&nbsp;CHOO</a></li>
     <li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=2003">JOE'S&nbsp;JEANS</a></li>
-	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=1581">JUICY&nbsp;COUTURE</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=655">KATE&nbsp;SPADE&nbsp;NEW&nbsp;YORK</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=282">KENNETH&nbsp;COLE</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=286">LA&nbsp;PERLA</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=288">LACOSTE</a></li>
-    <li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=354">LAST&nbsp;CALL&nbsp;BY&nbsp;NEIMAN&nbsp;MARCUS</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=331">MAXMARA</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=630">MAXSTUDIO.COM</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=1512">MICHAEL&nbsp;KORS</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=352">NAUTICA</a></li>
+    <li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=354">NEIMAN&nbsp;MARCUS&nbsp;LAST&nbsp;CALL</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=2297">NEW&nbsp;YORK&nbsp;&amp;&nbsp;COMPANY</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=358">NIKE</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=374">OSHKOSH&nbsp;B'GOSH</a></li>
@@ -1181,7 +1209,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=1459">RESTORATION&nbsp;HARDWARE</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=366">SAKS&nbsp;FIFTH&nbsp;AVENUE&nbsp;OFF&nbsp;5TH</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=424">SALVATORE&nbsp;FERRAGAMO</a></li>
-	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=449">ST. JOHN&nbsp;OUTLET</a></li>
+	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=449">ST. JOHN</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=1076">SWAROVSKI</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=869">THEORY</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=536">TIMBERLAND</a></li>
@@ -1190,6 +1218,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=539">TOMMY&nbsp;HILFIGER</a></li>
     <li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=1805">TORY&nbsp;BURCH</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=1736">TRUE&nbsp;RELIGION</a></li>
+    <li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=519">TUMI</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=1598">VALENTINO</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=2232">VERA BRADLEY</a></li>
 	<li><a href="http://www.premiumoutlets.com/brands/brands_3rd_level.asp?id=2696">VINCE CAMUTO</a></li>
@@ -1275,7 +1304,7 @@ $(document).ready(function() {
                     </ul>
                 </li>
 				
-				                <li>
+				 <li>
                     <ul class="unstyled">
                         <li><a href="http://www.premiumoutlets.com/japanese/" class="ft-link">日本語</a></li>
                         <li><a href="http://www.premiumoutlets.com/faqs/index.asp" class="ft-link">FAQs</a></li>
@@ -1284,8 +1313,12 @@ $(document).ready(function() {
                 </li>
                 <li>
                     <ul class="unstyled">
+					
                         <li><a href="http://www.premiumoutlets.com/sitemap.asp" class="ft-link">Site Map</a></li>
-                        <li><a href="http://www.premiumoutlets.com/privacy/index.asp" class="ft-link">Terms of Use / Policies</a></li>
+						
+							<li><a href="http://www.premiumoutlets.com/privacy/index.asp" class="ft-link">Terms of Use / Policies</a></li>
+						
+                        
                         <li><a href="http://www.syf.org/" target="_blank" class="ft-link">Simon Youth Foundation</a></li>
                     </ul>
                 </li>
@@ -1302,14 +1335,16 @@ $(document).ready(function() {
 
         <div class="footer-bottom">
 		
-            <p>
-                <small>
-                    <em>COPYRIGHT ®1999-2014, SIMON PROPERTY GROUP, L.P. ALL RIGHTS RESERVED.
-                    <br>
-                    By using this site, you agree to abide by its <a href="http://www.premiumoutlets.com/privacy/index.asp">Terms of Use</a>, which prohibit commercial use of any information on this site. <a href="http://www.premiumoutlets.com/privacy/index.asp">View our Privacy Policy</a> / <a href="http://www.simon.com/legal/california-privacy">Your California Privacy Rights</a></em>
-                </small>
-            </p>
-		
+							<p>
+								<small>
+									<em>COPYRIGHT ® 1999-2015, SIMON PROPERTY GROUP, L.P. ALL RIGHTS RESERVED.
+									<br>
+									By using this site, you agree to abide by its <a href="http://www.premiumoutlets.com/privacy/index.asp">Terms of Use</a>, which prohibit commercial use of any information on this site. <a href="http://www.premiumoutlets.com/privacy/index.asp">View our Privacy Policy</a> / <a href="http://www.simon.com/legal/california-privacy">Your California Privacy Rights</a></em>
+									
+									<br>Simon Premium Outlets, 60 Columbia Road, Building B, 3rd Floor, Morristown, NJ 07960.  Contact Us <a href="http://www.premiumoutlets.com/contact/index.asp">here</a>.									
+								</small>
+							</p>
+							
         </div><!--/footer-bottom-->
     </footer>
 </div><!--/container-->
