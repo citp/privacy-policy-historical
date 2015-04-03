@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affirm.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003065552id_/https%3A//www.affirm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affirm.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403203412id_/https%3A//www.affirm.com/privacy) for the most accurate reproduction.*
 
 # Affirm | Privacy Policy
 
@@ -50,7 +50,7 @@ We will share your information with any party when required by law or by a gover
 
 #### 4.3. With Our Merchant Partners to Provide Personalized Offers.
 
-We may share your information with merchants you interact with using Affirm for marketing, if you consent or as permitted by law. For accounts created on or after 11/30/17: By creating an Affirm account, you consent to Affirm sharing your information with merchants you use the Affirm Services with, for those merchants to market to you. We do this to help merchants personalize services and offers, so you can have a better experience. You’re able to revoke your consent at any time by following the steps below. If you choose to do so, we will stop sharing your information with merchants from that point onward, except as necessary to complete transactions you initiate. To revoke your consent to information sharing with merchants for marketing, you can log into your Affirm account at [www.affirm.com/u/](https://web.archive.org/save/https://www.affirm.com/u/#/) and edit your Personalized Services preferences.
+We may share your information with merchants you interact with using Affirm for marketing, if you consent or as permitted by law. For accounts created on or after 11/30/17: By creating an Affirm account, you consent to Affirm sharing your information with merchants you use the Affirm Services with, for those merchants to market to you. We do this to help merchants personalize services and offers, so you can have a better experience. You’re able to revoke your consent at any time by following the steps below. If you choose to do so, we will stop sharing your information with merchants from that point onward, except as necessary to complete transactions you initiate. To revoke your consent to information sharing with merchants for marketing, you can log into your Affirm account at [www.affirm.com/u/](https://web.archive.org/web/20200130200258/https://www.affirm.com/u/#/) and edit your Personalized Services preferences.
 
 ## 5\. How Affirm does NOT use your information.
 
@@ -62,19 +62,19 @@ We don't sell or rent your personal information to third parties.
 
 #### 6.1. Notifications.
 
-If you no longer wish to receive notifications about our Services, you may change your notification preferences by emailing [help@affirm.com](mailto:help@affirm.com). Alternatively, you may be able to indicate your preference by logging into your account and adjusting your preferences or by following the directions provided with the communication. Affirm reserves the right to close or limit access to your account should you opt out of the crucial notices that are required to perform the Affirm Service. You are still responsible for any amounts due to Affirm even if we close or limit access to your account.
+If you no longer wish to receive notifications about our Services, you may change your notification preferences by emailing [help@affirm.com](https://web.archive.org/web/20200130200258/mailto:help@affirm.com). Alternatively, you may be able to indicate your preference by logging into your account and adjusting your preferences or by following the directions provided with the communication. Affirm reserves the right to close or limit access to your account should you opt out of the crucial notices that are required to perform the Affirm Service. You are still responsible for any amounts due to Affirm even if we close or limit access to your account.
 
 #### 6.2. SMS Messaging.
 
-You can opt out of receiving SMS messages by emailing [help@affirm.com](mailto:help@affirm.com). Alternatively, you may be able to indicate your preference by logging into your account and adjusting your preferences or by following the directions provided with the communication. Again, Affirm reserves the right to close or limit access to your account should you opt out of the crucial notices that are required to perform the Affirm Service. You are still responsible for any amounts due to Affirm even if we close or limit access to your account.
+You can opt out of receiving SMS messages by emailing [help@affirm.com](https://web.archive.org/web/20200130200258/mailto:help@affirm.com). Alternatively, you may be able to indicate your preference by logging into your account and adjusting your preferences or by following the directions provided with the communication. Again, Affirm reserves the right to close or limit access to your account should you opt out of the crucial notices that are required to perform the Affirm Service. You are still responsible for any amounts due to Affirm even if we close or limit access to your account.
 
 #### 6.3. Access Your Information.
 
-You can review and edit your personal information at any time by logging in to your account on the Website or by contacting us at [help@affirm.com](mailto:help@affirm.com). You can also request to close your account by contacting us at [help@affirm.com](mailto:help@affirm.com). If you close your Affirm account, we will mark your account in our database as “Closed,” but will keep your account information in our database to comply with our legal obligations. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account. If you close your account, your personally identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, as required by law or in accordance with this Privacy Policy.
+You can review and edit your personal information at any time by logging in to your account on the Website or by contacting us at [help@affirm.com](https://web.archive.org/web/20200130200258/mailto:help@affirm.com). You can also request to close your account by contacting us at [help@affirm.com](https://web.archive.org/web/20200130200258/mailto:help@affirm.com). If you close your Affirm account, we will mark your account in our database as “Closed,” but will keep your account information in our database to comply with our legal obligations. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account. If you close your account, your personally identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, as required by law or in accordance with this Privacy Policy.
 
 #### 6.4. Contact Affirm.
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us at [help@affirm.com](mailto:help@affirm.com).
+If you have questions or concerns regarding this Privacy Policy, you should contact us at [help@affirm.com](https://web.archive.org/web/20200130200258/mailto:help@affirm.com).
 
 Facts | What does Affirm, Inc. do with your personal information?  
 ---|---  
@@ -96,7 +96,7 @@ information about your transactions and experiences  | No | We don't share
 **For our affiliates' everyday business purposes--**   
 information about your creditworthiness  | No | We don't share  
 For nonaffiliates to market to you  | Yes | Yes  
-To Limit Our Sharing |  You may limit our sharing by logging into your Affirm account at [www.affirm.com/u/](https://web.archive.org/save/https://www.affirm.com/u/) and editing your Personalized Services preferences. 
+To Limit Our Sharing |  You may limit our sharing by logging into your Affirm account at [www.affirm.com/u/](https://web.archive.org/web/20200130200258/https://www.affirm.com/u/) and editing your Personalized Services preferences. 
 
 Please note:  
 If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice, or earlier if you consent or as permitted by law. When you are _no longer_ our customer, we continue to share your information as described in this notice.  
