@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessportals.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127033127id_/http%3A//www.businessportals.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessportals.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403230126id_/http%3A//www.businessportals.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Business Portals .com
 
