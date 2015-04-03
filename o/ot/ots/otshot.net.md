@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otshot.net privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927110237id_/http%3A//www.otshot.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otshot.net privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404010555id_/http%3A//www.otshot.net/privacy.html) for the most accurate reproduction.*
 
 # Ot Shot
 
