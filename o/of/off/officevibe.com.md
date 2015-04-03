@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927013110id_/http%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404002930id_/http%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
 
-# Officevibe Privacy Statement
+# Privacy Statement
 
 ## Legal
 
@@ -8,15 +8,31 @@ This statement describes our privacy policy. Officevibe.com reserves the right t
 
 ## Our Promises to You
 
-Thank you for visiting Officevibe. We know that you care how information about you is used and shared, and we appreciate your trust. Spam e-mail is the bane of the internet and we won't have anything to do with it. We promise that we will never share your e-mail address or other identifiable information with any third party company (no external spam). We promise that you will never receive spam from Officevibe. We promise to protect your information through the use of secure databases.
+Thank you for visiting Officevibe. We know that you care how information about you is used and shared, and we appreciate your trust. Spam e-mail is the bane of the internet and we won't have anything to do with it.
+
+  * We promise that we will never share your e-mail address or other identifiable information with any third party company (no external spam).
+  * We promise that you will never receive spam from Officevibe.
+  * We promise to protect your information through the use of secure databases.
+
+
 
 ## Personally Identifiable Information
 
-We collect the personally identifiable information that you submit on the registration and user profile forms to permit you access to our site and to enable credit card verification, where applicable. Please note that any optional information you fill out might be visible to other users on the site (i.e. your biography, or location in the world). If you do not feel comfortable with others knowing this information, then leave it blank. Generally, the information Officevibe collects helps us to communicate with you regarding media licensed from or to you. For instance, we use your email address to provide you with an email confirmation of your registration and to notify you of information concerning your media on our site. In addition, users on the site will be able to communicate with you via a confidential form on the site, but they will not know your e-mail address or other personal identification information aside from your username (and therefore will not be able to add you to spam lists, etc). We will not share, rent or sell your personally-identifiable information with any entity, subject to the provisions below. We may share your information with our vendors in connection with system maintenance and other services that these individuals or entities perform for us. In some cases, we may run a joint marketing effort with third parties. We will only release personal information without your authorization in the following situations: To the authorities when necessary to comply with the law (i.e. answering subpoenas). To enforce or to apply our Terms of Use and other agreements (including our Member Agreement). To protect the rights, property, or safety of Officevibe.com, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We collect the personally identifiable information that you submit on the registration and user profile forms to permit you access to our site and to enable credit card verification, where applicable. Please note that any optional information you fill out might be visible to other users on the site (i.e. your biography, or location in the world). If you do not feel comfortable with others knowing this information, then leave it blank.
+
+Generally, the information Officevibe collects helps us to communicate with you regarding media licensed from or to you. For instance, we use your email address to provide you with an email confirmation of your registration and to notify you of information concerning your media on our site. In addition, users on the site will be able to communicate with you via a confidential form on the site, but they will not know your e-mail address or other personal identification information aside from your username (and therefore will not be able to add you to spam lists, etc). We will not share, rent or sell your personally-identifiable information with any entity, subject to the provisions below. We may share your information with our vendors in connection with system maintenance and other services that these individuals or entities perform for us. In some cases, we may run a joint marketing effort with third parties.
+
+We will only release personal information without your authorization in the following situations:
+
+  * To the authorities when necessary to comply with the law (i.e. answering subpoenas).
+  * To enforce or to apply our Terms of Use and other agreements (including our Member Agreement).
+  * To protect the rights, property, or safety of Officevibe.com, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+
 
 ## Newsletter
 
-You can opt-in to receive our newsletter. This information will not be sent to you if you ask us not to include your name on our mailing lists. In many places where personal information is collected, we have a box that you can check indicating that you would like to "opt out" if you don't wish to receive further information of the sort indicated. If you have previously consented to have Officevibe send you it's newsletter and no longer wish to be contacted, please follow the link at the bottom of each newsletter to unsubscribe.
+You can opt-in to receive our newsletter. This information will not be sent to you if you ask us not to include your name on our mailing lists. In many places where personal information is collected, we have a box that you can check indicating that you would like to "opt out" if you don't wish to receive further information of the sort indicated. If you have previously consented to have Officevibe send you its newsletter and no longer wish to be contacted, please follow the link at the bottom of each newsletter to unsubscribe.
 
 ## Username and Password Recommendations
 
@@ -28,7 +44,7 @@ In addition to being delicious treats baked fresh by our grandmas, cookies are a
 
 ## Minors on Officevibe
 
-Children below fourteen years of age should not use our website, nor do we have any intention of collecting any personally identifiable information from individuals under thirteen years of age. If you are aware that a child has provided us with personally identifiable information, please contact us and we will remove the information.
+Children below fifteen years of age should not use our website, nor do we have any intention of collecting any personally identifiable information from individuals under thirteen years of age. If you are aware that a child has provided us with personally identifiable information, please [contact us](http://www.officevibe.com/support) and we will remove the information.
 
 ## Updating or Deleting Your Information
 
@@ -36,36 +52,28 @@ You can change or delete any optional information in your account settings. Any 
 
 ## Security
 
-We understand that many consumers are concerned about security on the Internet. The security of the information that you provide to us is also very important to us. To prevent unauthorized disclosure, maintain data accuracy and ensure the correct use of information, we have in place reasonable physical, electronic and managerial procedures to safeguard and secure any information we collect online. Our payment systems vendor uses Secure Sockets Layer (SSL), an advanced encryption protocol, to scramble credit card information that you enter so that it cannot be read as it is transmitted across the Internet. SSL is the recognized industry standard worldwide for such sensitive transactions, enhancing safety when you shop with a credit card on the web. It is important for you to protect against unauthorized access to your password and to your computer. When using a shared computer, be sure to sign off and do not opt to stay logged in to Officevibe.com. Should you realize that you accidentally allowed a third party to access your account, you must let us know immediately, as you may be held liable for their actions in your name. Contact us here. In the event that our security system is breached, we will attempt to notify you as soon as possible.
+We understand that many consumers are concerned about security on the Internet. The security of the information that you provide to us is also very important to us. To prevent unauthorized disclosure, maintain data accuracy and ensure the correct use of information, we have in place reasonable physical, electronic and managerial procedures to safeguard and secure any information we collect online. Our payment systems vendor uses Secure Sockets Layer (SSL), an advanced encryption protocol, to scramble credit card information that you enter so that it cannot be read as it is transmitted across the Internet. SSL is the recognized industry standard worldwide for such sensitive transactions, enhancing safety when you shop with a credit card on the web. It is important for you to protect against unauthorized access to your password and to your computer.
+
+When using a shared computer, be sure to sign off and do not opt to stay logged in to Officevibe.com. Should you realize that you accidentally allowed a third party to access your account, you must let us know immediately, as you may be held liable for their actions in your name. [Contact us here](http://www.officevibe.com/support).
+
+In the event that our security system is breached, we will attempt to notify you as soon as possible.
 
 ## Links, Hosted Sites & Advertisers
 
-We do not have any control over the privacy practices of any external websites linked from the main www.Officevibe.com domain (or any of the websites that are hosted on our server and aren't affiliated with Officevibe). Therefore you should review their privacy policies separately from ours and know that we in no way have any control over their practices. Third party advertisers may collect certain information that is available to them through your interaction with their advertisements. Officevibe has no control or knowledge as to their practices and it is suggested that you read their privacy policy separately before clicking on any advertisements.
+We do not have any control over the privacy practices of any external websites linked from the main www.Officevibe.com domain (or any of the websites that are hosted on our server and aren't affiliated with Officevibe). Therefore you should review their privacy policies separately from ours and know that we in no way have any control over their practices.
+
+Third party advertisers may collect certain information that is available to them through your interaction with their advertisements. Officevibe has no control or knowledge as to their practices and it is suggested that you read their privacy policy separately before clicking on any advertisements.
+
+#### Use of Yammer:
+
+If a company’s Officevibe network is integrated with the “Yammer” social-enterprise network platform (for either Facegame or Officevibe Platform), Yammer’s API will be used in order to post within the company’s Yammer network, add/integrate users within Officevibe, and will appear on the Yammer activity feed. If you have any specific requests with the use of Yammer’s API for the use of Facegame or the Officevibe Platform, please contact Yammer at the link provided: <https://about.yammer.com/success/activate/need-help/>
+
+For more information on Yammer’s API limitations, read the literature on their dev site: <https://developer.yammer.com/restapi/>
+
+#### Use of Intercom Services:
+
+We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. Intercom analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit <http://docs.intercom.io/privacy>. Intercom’s services are governed by Intercom’s terms of use which can be found at <http://docs.intercom.io/terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please [contact us](http://www.officevibe.com/support).
 
 ## Questions?
 
-If you have any questions regarding this Privacy Statement, the practices of Officevibe.com, or your dealings on our web site, please Contact Us.
-
-## Copyright
-
-## Officevibe Copyright Policy
-
-Officevibe has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act. The address of Officevibe's Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy. It is Officevibe's policy to (1) block access to or remove Content that it believes in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or Users; and (2) remove and discontinue service to repeat offenders. If you believe that Content residing on or accessible through the Officevibe Site or Service infringes a copyright, please send a notice of copyright infringement by facsimile or regular mail (not e-mail) to Officevibe, Inc., Attn: Copyright Agent, 1751 Rue Richardson, Montréal, QC H3K 1G6, Canada, Fax: 514 - 303 - 8204, containing the following information: A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed; Identification of works or materials being infringed; Identification of the Content that is claimed to be infringing including information regarding the location of the Content that the copyright owner seeks to have removed, with sufficient detail so that Officevibe is capable of finding and verifying its existence; Contact information about the notifier including address, telephone number and, if available, e-mail address; A statement that the notifier has a good faith belief that the Content is not authorized by the copyright owner, its agent, or the law; and A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner. Once proper infringement notification is received by the Designated Agent, it is Officevibe policy to remove or disable access to the infringing Content and to notify the Content provider or User that it has removed or disabled access to the Content; that repeat offenders will have the infringing Content removed from the Service and that Officevibe will terminate such content provider's or User's access to the Site and the Service. In the event that Officevibe notifies User that Officevibe has received proper infringement notification about User's Content, User may elect to send Officevibe a counter notice. Please note that under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability. The process for counter-notifications is governed by Section 512(g) of Digital Millennium Copyright Act: To file a counter notification with Officevibe, User must provide the following items to us in writing: The specific URLs of material that Officevibe has removed or to which Officevibe has disabled access. User's name, address, telephone number, and email address. A statement that User consent to the jurisdiction of Federal District Court for the judicial district in which your address is located (or New York County, New York if your address is outside of the United States), and that User will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person. The following statement: "I swear, under penalty of perjury, that I have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled." User's signature. Send the written communication to the following address: Officevibe, Inc. 1751 Rue Richardson, Montréal, QC, H3K 1G6, Canada Attn: DMCA Counter-Notification Tel: 514-303-8203 Fax: 514-303-8204 Email: geeks@Officevibe.com After we receive User's counter-notification, we will forward it to the party who submitted the original claim of copyright infringement. Please note that when we forward the counter-notification, it includes User's personal information. By submitting a counter-notification, User consents to having User's information revealed in this way. We will not forward the counter-notification to any party other than the original claimant. After we send out the counter-notification, the claimant must notify us within ten (10) days that he or she has filed an action seeking a court order to restrain you from engaging in infringing activity relating to the material on Officevibe. If we receive such notification we will not display, distribute or otherwise exploit the material. If we do not receive such notification, we may elect to do so.
-
-## Branding
-
-## Officevibe Branding Guidelines
-
-The Officevibe logo, "Õ" logo, ‘Officevibe’ icons and derivatives thereof are the trademarked property of Officevibe and may not be used without prior written consent from a legally authorized Officevibe representative. In an effort to protect our trademark from being diluted, in accordance with USA law, we have established the following branding guidelines that discuss how our logo and icons may be used.
-
-## Officevibe Application
-
-NOTE: In general if you use Officevibe as part of a third party app and it comes with an Officevibe logo already built into it (e.g., our app for web or mobile), then that logo and associated branding already meets our guidelines. This guide is for reference should you want to make any changes or use the logo in a different way.
-
-## Please don't:
-
-Alter and display the Officevibe logo without our prior written consent. Include a version of the Officevibe logo in your app in such a way that it appears to be an endorsement of your app. Include a version of the Officevibe logo in any app that includes materials that are potentially offensive (i.e. promotes hatred or bigotry), adult only in nature (i.e. porn), or illegal in the USA (i.e. copyrighted material). Our brand is family-friendly in nature and we want to make sure there is never any external confusion about which material Officevibe does or does not endorse. Include a version of the Officevibe logo in your app that is bigger than your own logo. Include a version of the Officevibe logo in your press announcements or promotional materials without Officevibe's prior written consent.
-
-## Please do:
-
-Contact us with any questions you have! We're happy to help make whatever you are trying to accomplish happen. Ask us for permission before using our logo in a press announcement or promotional material. We will give you a speedy answer. Ask us for a larger version of the logo or press kit with high resolution branding materials included. We're happy to provide it. Have a lovely day!
+If you have any questions regarding this Privacy Statement, the practices of Officevibe.com, or your dealings on our web site, please [contact us](http://www.officevibe.com/support).
