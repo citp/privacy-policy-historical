@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogameguru.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714140950id_/https%3A//gogameguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogameguru.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403155819id_/https%3A//gogameguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Your privacy is critically important to us. At Go Game Guru we have a few fundam
 
 Below is our privacy policy which incorporates these goals.
 
-If you have questions about deleting or correcting your personal data please [contact us](http://gogameguru.com/contact/ "Contact").
+If you have questions about deleting or correcting your personal data please [contact us](https://gogameguru.com/contact/ "Contact").
 
 Go Game Guru operates the website GoGameGuru.com. It is Go Game Guru’s policy to respect your privacy regarding any information we may collect while operating our website.
 
