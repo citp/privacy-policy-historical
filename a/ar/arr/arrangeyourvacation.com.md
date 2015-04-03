@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrangeyourvacation.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719053215id_/http%3A//arrangeyourvacation.com/Content/Privacy-policy/8.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrangeyourvacation.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403224908id_/http%3A//arrangeyourvacation.com/Content/Privacy-policy/8.aspx) for the most accurate reproduction.*
 
 # ArrangeYourVacation.com - Privacy policy
 
@@ -50,15 +50,7 @@ In the event of questions about access to your Personal Information or Prospect 
 
 Privacy Officer
 
-SDC-BG Ltd 
-
-ul. Goliama mogila 44 
-
-kw. Kinocentur (Bojana) 
-
-1616 Sofia 
-
-BULGARIA
+SDC-BG Ltd
 
 Effective Date
 
