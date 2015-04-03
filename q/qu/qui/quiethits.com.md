@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiethits.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012025257id_/http%3A//quiethits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiethits.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403080211id_/http%3A//quiethits.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
