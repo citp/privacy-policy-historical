@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netfirms.ca privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831140059id_/http%3A//netfirms.ca/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfirms.ca privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403170629id_/https%3A//netfirms.ca/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Netfirms' Privacy Policy
 
