@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automationanywhere.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040820id_/http%3A//www.automationanywhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automationanywhere.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403233657id_/https%3A//www.automationanywhere.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,8 +16,14 @@ We use IP addresses, web server logs, and cookie data to analyze trends, adminis
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can email: [](maito:<script type='text/javascript'> <!-- var prefix = 'ma' + 'il' + 'to'; var path = 'hr' + 'ef' + '='; var addy88193 = 'contact' + '@'; addy88193 = addy88193 + 'automationanywhere' + '.' + 'com'; document.write\('<a ' + path + '\\'' + prefix + ':' + addy88193 + '\\'>'\); document.write\(addy88193\); document.write\('<\\/a>'\); //-->\\n </script><script type='text/javascript'> <!-- document.write\('<span style=\\'display: none;\\'>'\); //--> </script>This email address is being protected from spambots. You need JavaScript enabled to view it. <script type='text/javascript'> <!-- document.write\('</'\); document.write\('span>'\); //--> </script>)[contact@automationanywhere.com](mailto:contact@automationanywhere.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can email: [contact@automationanywhere.com](maito:contact@automationanywhere.com)
 
 #### Unsubscribe.
 
 If you are currently a registered user of Automation Anywhere and do not want to receive any further communication from Automation Anywhere, please email us with subject line 'Unsubscribe' at [newsletter@automationanywhere.com](mailto:newsletter@automationanywhere.com)
+
+#### E-mail and Anti-Spam Policy
+
+Automation Anywhere only sends emails to customers and prospects that have directly consented (opted-in) to receive email. Automation Anywhere forbids the transmission of unsolicited commercial email (spam). Automation Anywhere does not buy or sell email lists, nor do we allow our employees to use purchased or harvested email lists.
+
+In addition, Automation Anywhere offers confirmed opt-in as a tool for our clients to use to help minimize allegations of spam and abuse. When a list is designated as "confirmed opt-in" Automation Anywhere automatically sends a follow-up email to each subscriber on such lists asking the recipient to verify that they wish to receive communications via email. Only those subscribers responding affirmatively will be opted-in to future mailings sent from Automation Anywhere and any of its associated domains.
