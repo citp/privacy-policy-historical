@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplefastcash.biz privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030174814id_/http%3A//simplefastcash.biz/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplefastcash.biz privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403150727id_/http%3A//simplefastcash.biz/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # 
 
