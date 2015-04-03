@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunlight-bingo.co.uk privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112054534id_/http%3A//sunlight-bingo.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlight-bingo.co.uk privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403141426id_/http%3A//sunlight-bingo.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
