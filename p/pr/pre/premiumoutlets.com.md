@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumoutlets.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030093101id_/http%3A//www.premiumoutlets.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumoutlets.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403101909id_/http%3A//www.premiumoutlets.com/privacy/index.asp) for the most accurate reproduction.*
 
 # Premium Outlets: Terms of Use and Privacy Policy
 
@@ -21,7 +21,7 @@ Except as provided below, we do not knowingly collect personally identifiable in
 We use your information in a number of ways. For example, we conduct internal research on our user's demographics, interests, and site usage, to better understand and service you.  
 
 
-If you opt in, we may share user information with businesses affiliated with Premium Outlets. They may use this information as we would, and you may occasionally receive product and service information from them. We may also use your information to deliver information to you that, in some cases, is targeted to your interests. In the future, we may make our email address list available to carefully screened companies whose products may be of interest to you. If you wish to unsubscribe you may do so by filling out the [unsubscribe form](https://web.archive.org/web/20141030093101id_/http%3A//www.premiumoutlets.com/vip/unsubscribe.asp) or by going to the [Contact Us](https://web.archive.org/web/20141030093101id_/http%3A//www.premiumoutlets.com/contact/index.asp) page and sending an email.  
+If you opt in, we may share user information with businesses affiliated with Premium Outlets. They may use this information as we would, and you may occasionally receive product and service information from them. We may also use your information to deliver information to you that, in some cases, is targeted to your interests. In the future, we may make our email address list available to carefully screened companies whose products may be of interest to you. If you wish to unsubscribe you may do so by filling out the [unsubscribe form](https://web.archive.org/web/20150403101909id_/http%3A//www.premiumoutlets.com/vip/unsubscribe.asp) or by going to the [Contact Us](https://web.archive.org/web/20150403101909id_/http%3A//www.premiumoutlets.com/contact/index.asp) page and sending an email.  
 
 
 In addition, if you opt in, we may share user information with third parties that we believe are reputable in order to offer products and services that may be of interest to you.  
@@ -56,7 +56,7 @@ By using our website, you consent to the collection and use of the information d
 
 #### Can Users Update or Change the Information We Collect?
 
-VIP Club Members can update or change their information by logging into [ The VIP Lounge](https://web.archive.org/web/20141030093101id_/http%3A//www.premiumoutlets.com/vip/index.asp) and clicking [My Profile](https://web.archive.org/web/20141030093101id_/http%3A//www.premiumoutlets.com/vip/member_edit.asp) located at the top of the page. You may also use the [ Contact Us](https://web.archive.org/web/20141030093101id_/http%3A//www.premiumoutlets.com/contact/index.asp) page and make an email request.
+VIP Club Members can update or change their information by logging into [ The VIP Lounge](https://web.archive.org/web/20150403101909id_/http%3A//www.premiumoutlets.com/vip/index.asp) and clicking [My Profile](https://web.archive.org/web/20150403101909id_/http%3A//www.premiumoutlets.com/vip/member_edit.asp) located at the top of the page. You may also use the [ Contact Us](https://web.archive.org/web/20150403101909id_/http%3A//www.premiumoutlets.com/contact/index.asp) page and make an email request.
 
 #### Accuracy of Sale and Coupon Information
 
