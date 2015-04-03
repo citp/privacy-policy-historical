@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the traiborg.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327093255id_/https%3A//www.traiborg.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traiborg.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403024104id_/https%3A//www.traiborg.com/help/privacy) for the most accurate reproduction.*
 
 # Traiborg - Privacy Policy
 
 Last revised and is effective as of: 01/01/2012 
 
-The personal data security is a priority for traiborg.com. This website strives to provide the highest level of safety which is used for advanced technology. We adhere to the requirements of Law 34/2002 of Services of the Information Society and Electronic Commerce (LSSICE), and the Organic Law 15/1999 on Protection of Personal Data. This Privacy Policy (forward "Privacy Policy".) apply to your use of the website www.traiborg.com (in forward,the "Web Site".). The Website is owned by CREACIONES TRAIBORG, S.L. To Traiborg.com., Your privacy is an issue of utmost importance. As custodians of your personal information, we have developed this policy to ensure that your privacy is always protected when you use the social network Traiborg.com. By accessing or using the Website, you signify compliance with the Policy. If you do not agree with it, please do not access or use the Web Site. 
+The personal data security is a priority for traiborg.com. This website strives to provide the highest level of safety which is used for advanced technology. We adhere to the requirements of Law 34/2002 of Services of the Information Society and Electronic Commerce (LSSICE), and the Organic Law 15/1999 on Protection of Personal Data. This Privacy Policy (forward "Privacy Policy".) apply to your use of the website www.traiborg.com (in forward,the "Web Site".). The Website is owned by CREACIONES TRAIBORG, S.L. CIF-B04736823 To Traiborg.com., Your privacy is an issue of utmost importance. As custodians of your personal information, we have developed this policy to ensure that your privacy is always protected when you use the social network Traiborg.com. By accessing or using the Website, you signify compliance with the Policy. If you do not agree with it, please do not access or use the Web Site. 
 
 Traiborg.com, ("Traiborg" or "we") take your privacy very seriously. Traiborg knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting Traiborg.com, you are accepting the practices described in this Privacy Notice.**
 
@@ -84,6 +84,8 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 CA Privacy Rights 
 
 CREATIONES TRAIBORG, S.L. 
+
+CIF-B04736823 
 
 Avda. Bahia de Almeria Nr. 5 Bl. 4 1/B 
 
