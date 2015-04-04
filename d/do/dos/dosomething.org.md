@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007010142id_/https%3A//www.dosomething.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404153934id_/https%3A//www.dosomething.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DoSomething.org | America's largest organization for youth volunteering opportunities, with 2,700,000 members and counting
 
