@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecookinggames.net privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707170137id_/http%3A//www.freecookinggames.net/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecookinggames.net privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404171040id_/http%3A//www.freecookinggames.net/page/2.html) for the most accurate reproduction.*
 
 # Cooking Games - Free Cooking Games and Games for Girls - Privacy Policy
 
