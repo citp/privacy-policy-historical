@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fpno.edu.ng privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717060411id_/http%3A//fpno.edu.ng/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpno.edu.ng privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404093119id_/https%3A//fpno.edu.ng/privacy-policy-2) for the most accurate reproduction.*
 
-# Federal Polytechnic Nekede » Privacy Policy
+# Privacy Policy | Federal Polytechnic Nekede
 
 ## FPNO.edu.ng  Privacy Policy
 
-This Privacy Policy discloses the privacy practices for fpno.edu.ng. For the purposes of this Privacy Policy, unless otherwise noted, all references to “fpno.edu.ng” include news.fpno.edu.ng.
+This Privacy Policy discloses the privacy practices for fpno.edu.ng. For the purposes of this Privacy Policy, unless otherwise noted, all references to "fpno.edu.ng" include news.fpno.edu.ng.
 
 #### WHAT INFORMATION DO WE GATHER ABOUT YOU?
 
@@ -40,7 +40,7 @@ We may provide hyperlinks to third-party websites as a convenience to users of F
 
 **EMAIL SUBSCRIPTIONS**
 
-The FPNO.edu.ng News site allows you to subscribe online, and receive the FPNO.edu.ng News site via email. If you no longer wish to receive this email, follow the “unsubscribe” instructions located near the bottom of each email.
+The FPNO.edu.ng News site allows you to subscribe online, and receive the FPNO.edu.ng News site via email. If you no longer wish to receive this email, follow the "unsubscribe" instructions located near the bottom of each email.
 
 If you send us email messages, you should be aware that information disclosed in email may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in email. We will use your email address to respond directly to your questions or comments.
 
@@ -50,17 +50,17 @@ We will not share, sell, rent, swap or authorize any third party to use your ema
 
 **USER GENERATED CONTENT (INCLUDING COMMENTS AND PROFILES)**
 
-We offer opportunities for you to engage in Gazette news discussions on http://news.fpno.edu.ng/, including submitting comments and replies on selected news stories. Any information you disclose in your submission of comments, including name, email, website, and the comment itself is property of Federal Polytechnic Nekede and visible on internal servers. Additionally, information regarding name and comments shall be public on the Gazette news site once a comment or reply is approved for submission on the website. Comments are up to the discretion and approval of Federal Polytechnic Nekede moderators.
+We offer opportunities for you to engage in Gazette news discussions on <http://news.fpno.edu.ng/>, including submitting comments and replies on selected news stories. Any information you disclose in your submission of comments, including name, email, website, and the comment itself is property of Federal Polytechnic Nekede and visible on internal servers. Additionally, information regarding name and comments shall be public on the Gazette news site once a comment or reply is approved for submission on the website. Comments are up to the discretion and approval of Federal Polytechnic Nekede moderators.
 
-If you choose to use http://news.fpno.edu.ng/ (the “Site”), Federal Polytechnic Nekede’s mobile sites and applications, any of the features of these sites, including but not limited to RSS, API, software and other downloads (collectively, “the Services”), you will be agreeing to abide by all of the terms and conditions of these Terms of Service between you and Federal Polytechnic Nekede (“us” or “we”).
+If you choose to use <http://news.fpno.edu.ng/> (the "Site"), Federal Polytechnic Nekede’s mobile sites and applications, any of the features of these sites, including but not limited to RSS, API, software and other downloads (collectively, "the Services"), you will be agreeing to abide by all of the terms and conditions of these Terms of Service between you and Federal Polytechnic Nekede (“us" or "we").
 
 Federal Polytechnic Nekede reserves the right to reject or remove thereafter any content from appearing on its site that does not meet its user generated content policy.
 
 **USER GENERATED CONTENT TERMS OF USE**
 
-You shall not upload to, or distribute or otherwise publish on to the Gazette news website (“Services”) any libelous, defamatory, obscene, pornographic, abusive, or otherwise illegal material; any comment deemed to contain any of the above following. You agree that you will not deliberately disrupt discussions with repetitive messages, meaningless messages or “spam.” You agree not to use language that abuses or discriminates on the basis of race, religion, nationality, gender, sexual preference, age, region, disability, etc. You may not impersonate another user or a Federal Polytechnic Nekede or Gazette News staff member by choosing a similar screen name. You must disclose conflicts of interest. Any comments deemed containing the above will not be approved for distribution or, if approved, will removed thereafter.
+You shall not upload to, or distribute or otherwise publish on to the Gazette news website (“Services”) any libelous, defamatory, obscene, pornographic, abusive, or otherwise illegal material; any comment deemed to contain any of the above following. You agree that you will not deliberately disrupt discussions with repetitive messages, meaningless messages or "spam.” You agree not to use language that abuses or discriminates on the basis of race, religion, nationality, gender, sexual preference, age, region, disability, etc. You may not impersonate another user or a Federal Polytechnic Nekede or Gazette News staff member by choosing a similar screen name. You must disclose conflicts of interest. Any comments deemed containing the above will not be approved for distribution or, if approved, will removed thereafter.
 
-You acknowledge that any submissions you make to the Services (i.e., user-generated comments (each, a “Submission”) may be edited, removed, modified, published, and displayed on the Gazette News website and you waive any rights you may have in having the material altered or changed in a manner not agreeable to you. Submissions made to the Services may also be included in our RSS feeds, APIs and made available for republishing through other formats.
+You acknowledge that any submissions you make to the Services (i.e., user-generated comments (each, a "Submission") may be edited, removed, modified, published, and displayed on the Gazette News website and you waive any rights you may have in having the material altered or changed in a manner not agreeable to you. Submissions made to the Services may also be included in our RSS feeds, APIs and made available for republishing through other formats.
 
 Federal Polytechnic Nekede reserves the right to delete, move, or edit Submissions that it deems abusive, defamatory, obscene, in violation of copyright or trademark laws, or otherwise unacceptable.
 
