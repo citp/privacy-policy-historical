@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whodoyou.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908003837id_/https%3A//www.whodoyou.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whodoyou.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404200402id_/https%3A//www.whodoyou.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: WhoDoYou – Local businesses recommended by friends
 
@@ -96,4 +96,4 @@ If you have any questions or comments regarding this Privacy Policy, you can con
 
 Your use of the Site, and any disputes arising from it, are subject to this Privacy Policy. WhoDoYou may occasionally revise this Privacy Policy to reflect changes in its Services. We reserve the right to change the provisions of this Privacy Policy at any time, but we will alert you that changes have been made by indicating on the Privacy Policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement will constitute your acceptance of the changes.
 
-Last modified: March 2013
+Last modified: February 2015
