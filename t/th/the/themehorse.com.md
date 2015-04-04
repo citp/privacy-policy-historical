@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themehorse.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626105328id_/http%3A//themehorse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themehorse.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404072227id_/http%3A//themehorse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Theme Horse
+# Privacy Policy - Theme Horse
 
 The Themehorse.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
