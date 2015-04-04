@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspire.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401170357id_/http%3A//www.inspire.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspire.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404040743id_/http%3A//www.inspire.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Inspire
 
@@ -66,6 +66,10 @@ Consistent with the Children's Online Privacy Protection Act:
 
 We use a standard technology called a "cookie" to collect information about how you use the site and to help us administer the site. Some cookies reside on your computer persistently and help our website to recognize your computer's browser as a previous visitor. We also use "session cookies" which expire when you close your browser and do not retain any information about you after they expire. This information allows us to customize delivery of information. For example, our site may use cookies to save and remember registration information or preferences that you may have set while browsing the site, to ensure you don't see the same ad content repeatedly, and to deliver content specific to your interests. We use cookies only to gather information as indicated in this policy.
 
+**Advertising**
+
+ClinicaHealth uses advertising to promote Inspire elsewhere on the Internet, and in other places. In some cases we use technologies to track and understand what happens after someone sees, or clicks on, an advertisement for Inspire. We use these technologies to measure the effectiveness of our advertising. In particular, we use the conversion tracking feature of Google AdWords to measure the effectiveness of AdWords advertisements in bringing new members to Inspire. You can request more detail about this topic by sending an e-mail to [team@inspire.com](mailto:team@inspire.com).
+
 **IP Address and Log Files**
 
 We may use your IP address to administer the Service, to help identify problems with our server, to analyze trends, to track your webpage movements, to help identify you, and to gather broad demographic information for aggregate use.
@@ -94,4 +98,4 @@ The P3P codes and so-called P3P privacy policies we publish have no meaning and 
 
 **Effective Date**
 
-This Privacy Statement is effective as of May 4, 2012.
+This Privacy Statement is effective as of March 18, 2014.
