@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avforums.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023023015id_/https%3A//www.avforums.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avforums.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404143051id_/https%3A//www.avforums.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AVForums
 
@@ -17,7 +17,7 @@ Also in the registration process, you have the option of providing some addition
 **Cookies  
 **  
 Certain activities on AVForums involve the use of "cookies" to facilitate your experience. This includes the ability to automatically log you into the website and show you the new forum discussions since your last visit. You have the option to turn these cookies off at any time by updating your browser settings. If your browser doesn't support cookies, or if you have cookies turned off, these preferences will not be set.  
-We also use a cookie which collects anonymous traffic data about how people use AVForums. This information helps us to improve the website and does not affect anyone's browsing experience or their privacy.
+For full information on our use of cookies, please read our [Cookie Policy](https://www.avforums.com/help/cookies).
 
 **Disclosure of Personal Information  
 **  
@@ -31,7 +31,7 @@ Although AVForums is generally targeted at an adult audience, we welcome the par
 
 **Cyber Bullying  
 **  
-AVForums operates a zero tolerance policy toward online bullying. If any member has a concern about any message they see on the website, they can report that content and our moderating team will investigate. We expect members of our community to treat each other with respect. The rules for using AVForums can be found [here](https://web.archive.org/web/20141023023015id_/https://www.avforums.com/pages/privacy_policy/pages/rules/).
+AVForums operates a zero tolerance policy toward online bullying. If any member has a concern about any message they see on the website, they can report that content and our moderating team will investigate. We expect members of our community to treat each other with respect. The rules for using AVForums can be found [here](https://web.archive.org/web/20150404143051id_/https://www.avforums.com/pages/privacy_policy/pages/rules/).
 
 **Data Protection Act**
 
@@ -39,11 +39,6 @@ AVForums complies fully with the UK data protection act. The personal data we st
 
 **Changing or Updating Personal Information  
 **  
-If members wish to update or change their profile on AVForums, they may [click here](https://web.archive.org/web/20141023023015id_/https://www.avforums.com/pages/privacy_policy/account/personal-details/).
+If members wish to update or change their profile on AVForums, they may [click here](https://web.archive.org/web/20150404143051id_/https://www.avforums.com/pages/privacy_policy/account/personal-details/).
 
-If you have questions regarding your information, please [contact us](https://web.archive.org/web/20141023023015id_/https://www.avforums.com/pages/privacy_policy/contact_us/).
-
-Published:
-    Sep 17, 2013
-Page Views:
-    10,028
+If you have questions regarding your information, please [contact us](https://web.archive.org/web/20150404143051id_/https://www.avforums.com/pages/privacy_policy/contact_us/).
