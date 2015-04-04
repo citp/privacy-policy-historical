@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizzle.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712031633id_/https%3A//www.quizzle.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizzle.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404181538id_/https%3A//www.quizzle.com/security-and-privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Quizzle
 
@@ -45,7 +45,7 @@ Here is a description of the information we collect and how it is used:
 
   * **E-mail Message Formatting:** When sending you e-mail we may use an image called a single-pixel GIF, that allows us to (1) format messages that best align with your computer’s capabilities, and (2) determine whether you’ve opened an HTML e-mail. When you click on a link within an e-mail message, you will first pass through our server, and then are redirected onto the Internet. We use this data on an aggregate level to evaluate response rates to our e-mail messages and to determine which links are most useful to our customer base.
 
-  * **Within the Quizzle Family:** Within the Quizzle family, which includes Quicken Loans, One Reverse Mortgage, In-House Realty, Title Source, Inc., Rock Connections and [other partners](https://www.quizzle.com/company/partners), we may exchange customer information to fulfill your requests or to provide you with information about other products or services, if you have chosen to receive such communications.
+  * **Within the Quizzle Family:** Within the Quizzle family, we may exchange customer information to fulfill your requests or to provide you with information about other products or services, if you have chosen to receive such communications.
 
   * **Service Providers:** In some cases, we will employ or use service providers such as title companies, appraisers, consultants, temporary workers, third party software developers, to complete a business process or provide a service on our behalf. For example, we may use service providers to enhance our Web site technology, deliver products, or to send e-mails. When we employ service providers, we may need to share your personally identifiable information. Service providers are strictly prohibited from using your personally identifiable information for purposes other than to act on our behalf.
 
@@ -114,6 +114,6 @@ We provide you the opportunity to update or correct the contact information that
 
 ### We Provide Various Ways for You to Contact Us About Our Information Practices and Other Aspects of Privacy.
 
-Questions regarding the Quizzle web site’s privacy statement, our online privacy policy, our information practices or other aspects of privacy on our web sites, should be directed to us by e-mail to [support@quizzle.com](mailto:support@quizzle.com) or by writing to us at Quizzle LLC, Attn: Customer Service, 1042 Woodward Avenue, Detroit, MI 48226-1906. You may call us at (800) 784-9953.
+Questions regarding the Quizzle web site’s privacy statement, our online privacy policy, our information practices or other aspects of privacy on our web sites, should be directed to us by e-mail to [support@quizzle.com](mailto:support@quizzle.com) or by writing to us at Quizzle LLC, Attn: Customer Service, 1042 Woodward Avenue, Detroit, MI 48226-1906.
 
 [Top of Page](https://www.quizzle.com/security-and-privacy#page_title)
