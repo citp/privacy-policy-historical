@@ -1,103 +1,150 @@
-> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628183834id_/http%3A//www.okcupid.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404034603id_/https%3A//www.okcupid.com/legal/privacy) for the most accurate reproduction.*
 
 # OkCupid | Privacy
 
-## Privacy Policy
+## Privacy policy
 
-OkCupid.com, operated by Humor Rainbow, Inc., ( _we_ , _us_ or _OkCupid_ ) has provided this Privacy Policy to assist you in understanding how we collect and use the personal information that you provide to us and to assist you in making informed decisions when using the OkCupid web site located at www.okcupid.com (the _Web Site_ ). 
+Last revised October 31, 2013. 
 
-back to top
+This Privacy Policy describes the information collected by OkCupid.com, operated by Humor Rainbow, Inc., ( **we** , **us** or **OkCupid** ), how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. 
 
-### The information we collect
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-When you visit the Web Site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you browse our Web Site. 
+## The information we collect
 
-When you register on the Web Site, you create your own profile and privacy settings. Your profile includes personal information, such as your personal interests, gender, age, education, occupation and certain relationship preferences. Your profile information, as well as your name, email and photo, may be displayed to other users of the Web Site. If you post personally identifiable information in areas of the site accessible to other users, you should be aware that such information can be read, collected, or used by other users, and could be used improperly (including for example to send you unsolicited messages). We are not responsible for the personally identifiable information you choose to submit in these forums or for others’ misuse of such information. 
+**In General.** We may collect information that can identify you such as your name and email address ("personal information") and other information that does not identify you. We may collect this information through a website or a mobile application. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world. 
 
-When you enter our Web Site, we collect the user’s browser type and IP address. This information is gathered for all users of the Web Site and is used for administrative and analytical purposes, including diagnosing problems with our servers. In addition, when you enter our Web Site, we store certain information from your browser using “cookies.” A cookie is a piece of data stored on the user’s computer tied to information about the user. We use session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in. This information allows us to process your online requests and preferences. We also use persistent cookies, that only we can read and use, for purposes of personal identification. We are careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature. 
+**Information you provide.** We may collect and store any personal information you enter on our website or on a mobile application, or provide to us in some other manner. This includes identifying information, such as your name, address, email address and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). You may also provide us information about your interests and activities, your gender and age, and other demographic information such as your hometown or your username. 
 
-back to top
+**Information from other sources.** OkCupid is a part of the IAC family of businesses (please see [www.iac.com](http://www.iac.com/)), which as of the date of this policy includes Match.com, Ask.com, About.com, CityGrid.com, websites owned by People Media, Meetic, College Humor, and many other companies and websites. We may obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties and add it to our account information or other information we have collected. We may also recieve information about our users from third party social platforms, such as Facebook. When you access or use our website or mobile application through such a site you allow us to access or collect information made available by the third party site in accordance with its privacy policy. This information may be available from your profile or account with such site or from cookies placed on your device by the third party platform 
 
-### Use of information obtained by OkCupid
+**Information about others.** We may collect and store personal information about other people that you provide to us, such as their name, address and email address. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, we may store your personal information, and the personal information of each such recipient in order to process those requests or facilitate future activities. 
 
-We use personal information to provide the services we offer. Your profile, pictures and user name are displayed in order to facilitate user interaction and for purposes of our matching services. With the exception of inviting friends and certain notifications, a user’s email address is not shared or displayed. Users may communicate using various OkCupid messaging services, including a form of instant messenger, without disclosing their email addresses. To facilitate searching and finding friends and acquaintances on the service, OkCupid allows users to search for other members using certain profile matching systems and/or specific user names. Please remember that any information that is disclosed in the course of using the service provided by OkCupid and/or participating in any of the public forums available via the Web Site becomes public information; accordingly, you should exercise caution when deciding to disclose your personal information. 
+**Use of cookies and other technologies to collect information.** We use various technologies to collect information from your device and about your activities on our site or application. 
 
-From time to time, OkCupid or a partner, may sponsor a promotion or contest on the Web Site. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
+**Information collected automatically.** We automatically collect information from your browser or device when you visit our website or application. This information could include your IP address, device ID, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address. 
 
-In cases of suspected abuse or service problems, OkCupid may use an IP address in conjunction with other personally identifiable information to enforce our Terms of Service and/or to protect or troubleshoot this Web Site, its users or others who may be affected. 
+**Cookies and Use of Cookie Data.** When you visit our website or application, we may assign your device one or more **cookies** , to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the pages you visit, the time and date of your visits, the links you click, and the searches you conduct on our site. During your visits to other websites or applications where we advertise, we (or third parties) may use certain data collected on our site to show you OkCupid.com advertisements. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted OkCupid.com advertising during your visits to other websites. To opt-out of OkCupid.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.match.com/optout_confirm.html). Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to **decline cookies** , please note that you may not be able to sign in or use some of the interactive features offered on our website. Other cookies may reflect de-identified demographic or other data linked to the registration data you have submitted to us, e.g., your email address, in hashed, non-human readable form. No personally identifiable information is contained in these cookies. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>. 
 
-OkCupid may archive information, including personal information, you provide in the course of using our services and any other aspects of the OkCupid Web site. We store that information on servers that are controlled by us or by third parties who have agreed to comply with our commitments made under this Privacy Policy and with whom we have a contractual relationship. Archived information will not ordinarily be erased unless and until your entire account with OkCupid is deleted, and even then we may retain some or all of your information on back-up files; provided, however, we assume no obligation or guarantee to archive any information and do not warrant that any archived information will later be made available to you. 
+**Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website or application visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
 
-We may use personal information for auditing, research and analysis to operate and improve the services we offer. 
+**Information collected by third-parties.** We may allow service providers, IAC companies, advertising companies, ad networks and other third parties, to display advertisements on our site. These companies may use tracking technologies, such as **cookies** , to collect information about users who view or interact with their advertisements. We do not not provide any non-anonymized personal information to these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
 
-back to top
+## How we use the information we collect
 
-### Sharing your information with third parties
+**In General.** We may use information that we collect about you to: 
 
-We may share demographic information with third parties, including companies with which we have a relationship. For example and without limitation: 
+  * deliver our products and services, and manage our business;
+  * manage your account and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, other IAC companies or other third parties;
+  * develop and display content and advertising tailored to your interests on our site and other sites, including providing our advertisements to you when you visit other sites;
+  * perform ad tracking and website or mobile application analytics;
+  * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+  * enforce or exercise any rights in our terms and conditions;
+  * perform functions as otherwise described to you at the time of collection; and
+  * register you with and display your profile on other online dating and other social websites owned by IAC, such as [match.com](http://www.match.com/) and websites operated by People Media.
 
-We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as directing and displaying specific advertisements on the Web Site. In connection with these offerings and business operations, our service providers may have access to your personal information for use in connection with these business activities. 
 
-We may be required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally, we may share account or other information when we believe it is necessary to comply with law or to protect our interests or property. This may include sharing information with other companies, lawyers, agents or government agencies. 
 
-If the ownership of all or substantially all of the OkCupid business or assets were to change, your user information would likely be transferred to the new owner(s). 
+**Financial information.** We may use financial information or payment method information to (i) process payment for any purchases made on our website or application, (ii) enroll you in the discount, rebate, and other programs in which you elect to participate, (iii) to protect against or identify possible fraudulent transactions, and (iv) otherwise as needed to manage our business. 
 
-We may share with, or disclose or sell to, third parties aggregated information which does not reference individually identifiable users. 
+**Job applicants.** If your personal information is submitted through our website when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information, but only for the purpose of considering your application for current or future available positions. This information, which may include your name and contact information, prior education and experience, and other information you provided to us, may be shared with other IAC companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings. 
 
-We will not sell contact information to third parties. 
+Please review "Your choices about collection and use of your information" below.
 
-If you do not want to receive promotional email from OkCupid and/or do not want us to share your information with third parties for marketing purposes, please submit a request by emailing us at . We will make reasonable efforts to implement any choice you make as soon as possible; provided, however, OkCupid reserves the right to send you certain communications relating to the OkCupid service, such as service announcements and administrative messages without offering you the opportunity to opt out of receiving them. 
+In all circumstances, we may perform these functions directly or use a third party vendor to perform these functions on our behalf who will be obligated to use your personal information only to perform services for us. Also, if you access our website or mobile applications from a third party social platform, such as Facebook, we may share non-personal information with that platform to the extent permitted by your agreement with it and its privacy settings. 
 
-back to top
+## With whom we share your information
 
-### Links
+**Personal information.** We do not share your personal information with others except as indicated in this Privacy Policy or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
 
-This site may contain links to other websites. OkCupid is not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to this Web Site. 
+**Service providers:** We may share information, including personal information, with third parties that perform certain services on our behalf. These services may include fulfilling orders, providing customer service (including through our users who moderate flagged content for the OkCupid community) and marketing assistance, performing business and sales analysis, ad tracking and analytics, member screenings, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes. 
 
-back to top
+**Business partners:** When you register or make purchases on our website or click-through our advertisements offered on third party websites or applications, we may share personal information with the businesses with which we partner to offer you the applicable products, services or any advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>. 
 
-### Third party advertising
+**Other IAC businesses.** IAC’s businesses include the online dating websites [match.com](http://www.match.com/), [chemistry.com](http://www.chemistry.com/), [singlesnet.com](http://www.singlesnet.com/), [datehookup.com](http://www.datehookup.com/) and the websites operated by People Media ([ourtime.com](http://www.ourtime.com/), [seniorpeoplemeet.com](http://www.seniorpeoplemeet.com/), [blackpeoplemeet.com](http://www.blackpeoplemeet.com/) and other sites listed on [www.peoplemedia.com](http://www.peoplemedia.com/)). We may share information we collect, including your profile and personal information such as your name and contact information, photos, interests, activities and transactions on our website, with IAC companies. As part of our online service, your profile may be registered on and/or appear in search results or other areas of other online dating websites owned by IAC. All IAC companies comply with the IAC Privacy Policy. 
 
-Advertisements that appear on the Web Site are delivered to users by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. OkCupid does not have access to or control of the cookies that may be placed by the third party advertisers. This privacy statement covers the use of cookies by OkCupid and does not cover the use of cookies by any of its advertisers. 
+**Business partners:** When you make purchases on our website or click-through our advertisements offered on third party websites, we may share personal information with the businesses with which we partner to offer you the applicable products, services or advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. 
 
-To control your privacy settings with our advertising partners, please use the following links: <http://www.lotame.com/privacy>, <http://www.networkadvertising.org/>. 
+**Other Situations.** We also may disclose your information, including personal information: 
 
-back to top
+In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
 
-### Changing or removing information
+When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies. 
 
-OkCupid users may modify or remove any of their personal information at any time by logging into their account. For technical reasons, any modifications or deletions which you request may take a short period of time to take effect. 
+In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
 
-If you change or delete any of your personal information, OkCupid will remove the old or deleted information from public view; however, as noted in Section 3 above, we may keep such information archived indefinitely. 
+**Aggregated and/or non-personal-information.** We may share non-personal information we collect under any of the above circumstances. We may also share it with IAC companies and third parties to develop and deliver targeted advertising on our website and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated, non-personal, or personal information in hashed, non-human readable form, information with third parties, including advisors, writers, researchers, partners, advertisers and investors for the purpose of conducting general business analysis, studies, articles, and essays media and entertainment or other business purposes. For example, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us (such as your email address), that we may share with a data provider solely in hashed, non-human readable form. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>. 
 
-back to top
+## Third-party websites
 
-### Security
+There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting. 
 
-OkCupid takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. Because email is not recognized as a secure medium of communication, we request that you do not send private information to us by email. In addition, as all security measures are subject to possible circumvention, we cannot and do not provide any guarantees regarding the effectiveness of the security we employ or our ability to prevent third parties, acting unlawfully, from obtaining information that you provide to us. If you have any questions about the security of the OkCupid Web Site, please contact us. 
+## How you can access your information
 
-OkCupid encourages all users to maintain a pseudonymous identity when using the services provided by OkCupid or any other public aspects of the Web Site. OkCupid cannot ensure that your identity, telephone number, work or home address and other personal identifying or contact information will not be discovered by other users of the Web Site. This is particularly true because your location (within a radius of approximately five miles) will be revealed. It is, of course, more likely that your true identity will be discovered if you post photographs or share other unique identifying information about yourself on public areas of the Web Site. 
+If you have an online account with us, you have the ability to review and update your personal information online by logging into your account and clicking on Settings. More information about how to contact us is provided below. If you have an online account with us, you also may delete or disable your account at any time by visiting the "Settings" page for your account. If you delete or disable your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our website or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. 
 
-back to top
+## Your choices about collection and use of your information
 
-### Changes in our privacy policy
+You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website. 
 
-We reserve the right to change our privacy policy at any time. If we do this, we will post the changes to this policy on this page and will indicate at the top of this page the policy’s effective date. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. 
+When you register on our website, you consent to receive email messages from us. Any time you can choose to no longer receive commercial or promotional emails from us by submitting this request to privacy@okcupid.com. You may be given the opportunity, in any commercial email that we send to you, to opt out of receiving such messages in the future. We request a reasonable time to process an opt-out request. We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications, will only affect future activities or communications from us. If we have already provided your information to a third party (such as a service provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party. 
 
-back to top
+Our applications may also deliver notifications to your phone or mobile device. You can disable these notifications in your device’s settings in your account under “Settings” or by deleting the relevant application. 
 
-### Acceptance
+You can also control information collected by cookies. See Cookies below for information about declining or deleting cookies. 
 
-This privacy policy is incorporated into and subject to the terms and conditions of OkCupid’s Terms of Service Agreement. Use of OkCupid’s services is subject to your compliance with those terms and conditions, which constitute a legal agreement between you and OkCupid. Each time you use OkCupid’s services you signify that you have read, understood and agree to be bound by the Terms of Service, which incorporates the privacy policy, and the applicable posted guidelines. 
+## How we protect your personal information
 
-USE OF THIS WEBSITE SIGNIFIES THE ACCEPTANCE OF THE TERMS OF SERVICE AGREEMENT AND THE PRIVACY POLICY. 
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the [Federal Trade Commission's website](http://www.ftc.gov/bcp/menus/consumer/data.shtm) for information about how to protect yourself against identity theft. 
 
-If you do not agree with the terms of either of these documents, please do not provide OkCupid with any information and do not use OkCupid’s services or this Web site. Your continued use of OkCupid’s services or this Web site in light of changes to this statement, to the privacy policy or to the relevant principles will signify your acceptance of the changes. 
+## Information you provide about yourself while using our service
 
-back to top
+We provide areas on our websites where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our [Terms & Conditions.](http://www.okcupid.com/terms) In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
 
-### Contacting the web site
+## Children's privacy
 
-If you have any questions about this privacy policy, please contact us at . 
+Although our website is a general audience site, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect personal information from children under the age of 13. 
 
-back to top
+## Visiting our websites from outside the United States 
+
+If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. 
+
+## No Rights of Third Parties
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website. 
+
+## Changes to this Privacy Policy
+
+We will occasionally update this Privacy Policy. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. 
+
+## How to contact us
+
+If you have any questions about this Privacy Policy, please contact us by email or postal mail as follows: 
+
+_Privacy Officer  
+OkCupid.com  
+8300 Douglas Avenue, Suite 800  
+Dallas, Texas 75225  
+privacy@okcupid.com _
+
+© IAC/InterActiveCorp. All rights reserved.
+
+## Linked information:
+
+**Cookies:** A cookie is a small text file that is stored on a user's device for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your device for an extended period of time. Cookies on our website do not link to or store your personal information. 
+
+For example, when you sign in to our website, we will record your user or member ID and the name associated with your user or member ID in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we encrypt account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our service providers to serve cookies from our website or application to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising. 
+
+You may delete or decline cookies by changing your browser settings. Click "Help" in the toolbar of most browsers for instructions. If you do so, some of the features and services of our website may not function properly. 
+
+We may allow third-parties, including advertising companies, analytics companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements or our website or mobile applications. We do not provide any personal information to these third parties, but they may collect information about where you, or others who are using your device, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites or other data they have collected. They also may combine this information with personal information they collect from you to provide advertisements about goods and services likely to be of greater interest to you. The collection and use of that information is subject to the third-party's privacy policy. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice ([www.networkadvertising.org](http://www.networkadvertising.org/)). This policy covers the use of cookies by OkCupid.com only and does not cover the use of cookies by any advertisers. 
+
+**Opting-Out of Advertising Cookies.** You may opt out of our data collection for use by third party ad companies to provide targeted OkCupid.com advertising to you when you visit other sites. Cookies are unique to each device. Therefore, you must opt out separately on all devices you use. If you delete all of your cookies (specifically, the "Opt-Out" cookie), you will have to go through the opt-out process again to reactivate your opted-out status. You can opt out of receiving such advertising-related cookies by clicking below: 
+
+[Opt Out Now.](http://media.match.com/optout_confirm.html)
+
+**Web Beacons:** Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's device hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. 
+
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. Third parties may use anonymous information about your visits to our site and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. 
