@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobs-in-my-area.net privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101082559id_/http%3A//jobs-in-my-area.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-in-my-area.net privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404101759id_/http%3A//www.jobs-in-my-area.net/privacy.php) for the most accurate reproduction.*
 
-# Jobs-in-my-area.net
+# Jobs In My Area
 
-PURPOSE OF POLICY. jobs-in-my-area.net (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”) pursuant to the terms contained herein. We created this jobs-in-my-area.net Privacy Policy (this “Policy”) to give you notice of how your private information will be used as a result of submitting it to our Company. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+PURPOSE OF POLICY. www.jobs-in-my-area.net (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”) pursuant to the terms contained herein. We created this www.jobs-in-my-area.net Privacy Policy (this “Policy”) to give you notice of how your private information will be used as a result of submitting it to our Company. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 NOTICE CONCERNING CHILDREN. We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user’s account.
 
@@ -46,8 +46,8 @@ WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
 6\. POLICY UPDATES
 
-6.1 UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. All Content Copyright © 2014, jobs-in-my-area.net 
+6.1 UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. All Content Copyright © 2014, www.jobs-in-my-area.net 
 
-Click Here to [Contact Us](https://web.archive.org/contact.php)
+Click Here to [Contact Us](http://www.jobs-in-my-area.net/contact.php)
 
-Want to unsubscribe from our mailing list? [Click here](http://jobs-in-my-area.net/unsubscribe.php) to go to our unsubscribe page where you can unsubscribe from receiving any more email from us or any of our affiliates. 
+Want to unsubscribe from our mailing list? [Click here](http://www.jobs-in-my-area.net/unsubscribe.php) to go to our unsubscribe page where you can unsubscribe from receiving any more email from us or any of our affiliates. 
