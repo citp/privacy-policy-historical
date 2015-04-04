@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816184250id_/http%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404062815id_/http%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Childcare.co.uk
 
@@ -12,17 +12,17 @@ For the purpose of the Data Protection Act 1998 ( **the Act** ), the data contro
 
 We may collect and process the following data about you:
 
-Information that you provide by filling in forms on our site www.childcare.co.uk ( **our site** ). This includes information provided at the time of registering to use our site, subscribing to our service, posting material (including personal profiles, materials advertising your services or details about your family/home life in order to seek appropriate childcare services) or requesting further services. We may also ask you for information when you report a problem with our site.
+Information that you provide by filling in forms on our site www.childcare.co.uk or our mobile apps ( **our site** ). This includes information provided at the time of registering to use our site, subscribing to our service, posting material (including personal profiles, materials advertising your services or details about your family/home life in order to seek appropriate childcare services) or requesting further services. We may also ask you for information when you report a problem with our site.
 
 If you contact us, we may keep a record of that correspondence.
 
 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-Details of transactions you carry out through our site and your contact with **Childcare Providers** (a person or organisation offering babysitting, childminding, nursery, midwifery or maternity nursing services or **Parents** (a parent or guardian seeking childcare assistance from a Childcare Provider).
+Details of transactions you carry out through our site and your contact with **Childcare Providers** (a person or organisation offering babysitting, childminding, nursery, tutoring midwifery or maternity nursing services or **Parents** (a parent or guardian seeking childcare assistance from a Childcare Provider).
 
 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-Parents can review Childcare Providers by scoring them as positive, neutral or negative and can add some custom written text alongside their review. These reviews are made available via our site alongside with any response by the Childcare Provider to which the review relates.
+Parents can review Childcare Providers by rating them between 1 and 5 stars and can add some custom written text alongside their review. These reviews are made available via our site alongside with any response made by the Childcare Provider to which the review relates.
 
 ## IP addresses and cookies
 
