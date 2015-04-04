@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieglamour.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120073707id_/http%3A//www.movieglamour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieglamour.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404092348id_/http%3A//www.movieglamour.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MovieGlamour
 
