@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubnt.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223025051id_/http%3A//www.ubnt.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubnt.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404133802id_/https%3A//www.ubnt.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Ubiquiti Networks - Privacy Policy
 
