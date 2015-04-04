@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assetize.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012221733id_/http%3A//keyhole.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assetize.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404075437id_/http%3A//keyhole.co/privacy-policy) for the most accurate reproduction.*
 
 # Hashtag Tracking for Twitter, Facebook and Instagram - Keyhole
 
