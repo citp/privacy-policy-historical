@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bgcs.k12.oh.us privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011092409id_/http%3A//www.bgcs.k12.oh.us/district/board/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgcs.k12.oh.us privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404233724id_/http%3A//www.bgcs.k12.oh.us/district/board/privacy-policies) for the most accurate reproduction.*
 
 # Bowling Green City Schools :: Privacy Policies
 
