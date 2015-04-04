@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameacademy.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703010026id_/https%3A//www.gameacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameacademy.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404135233id_/https%3A//www.gameacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GameAcademy.com
 
@@ -50,7 +50,7 @@ ______________________________________________________________________
 
 **I. Notice**
 
-The Website refers to the website at [www.gameacademy.com](https://web.archive.org/web/20140703010026id_/http://www.gameacademy.com/privacy-policy/www.gameacademy.com "www.gameacademy.com"), www.treysmithstuff.com, [www.treysmithblog.com](http://www.treysmithblog.com/ "www.treysmithblog.com"), all subdomains, and related domains such as [www.treyhelpdesk.com](https://web.archive.org/web/20140703010026id_/http://www.gameacademy.com/privacy-policy/www.treyhelpdesk.com "www.treyhelpdesk.com"). This Website is owned or operated by Secret Headquarters, Inc., dba Trey Smith Marketing, and dba GameAcademy.com and/or its subsidiary companies in the United States of America (collectively, “COMPANY”). This privacy policy (“Privacy Policy”) applies to information that you provide to COMPANY via the Website, and/or by use of other services (collectively, the “Services”) that may be provided by other means or media, including as set forth below and as defined in the applicable terms and conditions or other terms.
+The Website refers to the website at [www.gameacademy.com ®](https://web.archive.org/web/20150404135233id_/https://www.gameacademy.com/privacy-policy/www.gameacademy.com "www.gameacademy.com ®"), www.treysmithstuff.com, [www.treysmithblog.com](http://www.treysmithblog.com/ "www.treysmithblog.com"), all subdomains, and related domains such as [www.treyhelpdesk.com](https://web.archive.org/web/20150404135233id_/https://www.gameacademy.com/privacy-policy/www.treyhelpdesk.com "www.treyhelpdesk.com"). This Website is owned or operated by Secret Headquarters, Inc., dba Trey Smith Marketing, and dba GameAcademy.com® and/or its subsidiary companies in the United States of America (collectively, “COMPANY”). This privacy policy (“Privacy Policy”) applies to information that you provide to COMPANY via the Website, and/or by use of other services (collectively, the “Services”) that may be provided by other means or media, including as set forth below and as defined in the applicable terms and conditions or other terms.
 
 This Privacy Policy is intended to provide you notice of COMPANY’s information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any COMPANY Service or the Website constitutes acceptance of this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the terms and conditions for the Website.
 
@@ -162,8 +162,8 @@ Please note that information submitted to the Website via a “contact us,” �
 
 COMPANY reserves the right to change this Privacy Policy and its Terms and Conditions at any time. In case of any material change to the Privacy Policy, we will replace the “Privacy Policy” link on the home page of our sites with a link entitled “Updated Privacy Policy” for no less than 30 days. All changes to the Privacy Policy and/or Terms of Service will be effective when posted, and your continued use of any COMPANY Website or Service after the posting will constitute acceptance of, and agreement to be bound by, those changes.
 
-Secret Headquarters, Inc. dba Trey Smith Marketing and dba GameAcademy.com  PRIVACY POLICY.
+Secret Headquarters, Inc. dba Trey Smith Marketing and dba GameAcademy.com ® PRIVACY POLICY.
 
 Last updated: March 26, 2014
 
-Copyright  © Secret Headquarters, Inc. dba Trey Smith Marketing and dba GameAcademy.com  ALL RIGHTS RESERVED
+Copyright  © Secret Headquarters, Inc. dba Trey Smith Marketing and dba GameAcademy.com ® ALL RIGHTS RESERVED
