@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quantopian.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010192047id_/https%3A//www.quantopian.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantopian.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404034734id_/https%3A//www.quantopian.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Quantopian is both a platform and a community. It's a place to write and test trading algorithms. It's a place to meet other algorithm writers, to share algorithms, ideas, strategies, and trading experiences. Quantopian, Inc. (" **Quantopian** ", " **we** " or " **us** ") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at quantiopian.com, ( **"Site"** ) and related Services (as defined in the Terms of Use). If you simply browse the Site, you are referred to in this Privacy Policy as a " **Visitor**." If you have registered with the Site and receive Services, you are referred to in this Privacy Policy as a " **Member**." Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at <https://www.quantopian.com/policies/terms>.
+Quantopian is both a platform and a community. It's a place to write and test trading algorithms. It's a place to meet other algorithm writers, to share algorithms, ideas, strategies, and trading experiences. Quantopian, Inc. ("**Quantopian**", "**we**" or "**us**") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at quantiopian.com, ( **"Site"** ) and related Services (as defined in the Terms of Use). If you simply browse the Site, you are referred to in this Privacy Policy as a "**Visitor**." If you have registered with the Site and receive Services, you are referred to in this Privacy Policy as a "**Member**." Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at <https://www.quantopian.com/policies/terms>.
 
 ### 1\. User Consent
 
@@ -18,7 +18,7 @@ Our Services and Site are not directed to children and children are not eligible
 
 ### 4\. Types of Information We Collect.
 
-So that we are clear about the terminology we are using, when we refer to " **Personal Information** " we mean information that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing information. When we refer to " **Anonymous Information** " we mean information that is not associated with or linked to your Personal Information. Anonymous Information does not enable identification of or contact with individual persons. 
+So that we are clear about the terminology we are using, when we refer to "**Personal Information**" we mean information that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing information. When we refer to "**Anonymous Information**" we mean information that is not associated with or linked to your Personal Information. Anonymous Information does not enable identification of or contact with individual persons. 
 
   1. #### Information You Provide to Us.
 
@@ -35,16 +35,18 @@ So that we are clear about the terminology we are using, when we refer to " **Pe
   2. #### Information Collected via Technology.
 
     * To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), and domain name.
-    * We also use cookies and URL information to gather information regarding the date and time of your visit, the website URL you were visiting immediately before you came to our Site and the website URL you visit as you leave our Site and the information for which you searched and which you viewed. " **Cookies** " are small pieces of information that a website sends to your computer’s web browser while you are viewing a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions; please note that certain aspects of the Site or Services may not be available if the Persistent Cookies are removed.
+    * We also use cookies and URL information to gather information regarding the date and time of your visit, the website URL you were visiting immediately before you came to our Site and the website URL you visit as you leave our Site and the information for which you searched and which you viewed. "**Cookies**" are small pieces of information that a website sends to your computer’s web browser while you are viewing a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions; please note that certain aspects of the Site or Services may not be available if the Persistent Cookies are removed.
 
     * We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us analyze visitor activity on the Site. We may permit these service providers to use cookies and other technologies to perform these services for us.
     * If you are logged into the Site or Services, the information collected via technology as described in this Section may be associated with your Personal Information and will, accordingly, be treated as Personal Information in accordance with this Privacy Policy.
+    * We collect and store performance data generated by your algorithms when you use the platform to backtest, paper trade, and live trade.
+    * We may generate additional performance data from your algorithms for the purposes of (a) verifying that software platform changes do not change or break your algorithm and/or (b) analyzing standardized performance results.
 
 
 
 ### 5\. Our Relationship with Social Networking Sites
 
-We have created and may offer you interfaces that allow you to connect with social networking websites such as Facebook (" **SN Site** ") through our Site. We will work with the SN Site’s application protocol interface (better known as their developer API) in a way that allows you to authorize us to access your account on that SN Site on your behalf. In order to provide this authorization, you will not provide us with your user name or password to the SN Site, but you will need to log-in to that SN Site directly through our Site. Once authorized by you, the SN Site will provide us a token that allows the SN Site to recognize us when we ask, on your behalf, for access to your account information or to post information. You will be able to revoke our access to any SN Site at any time by amending the appropriate settings from within your account settings on the applicable SN Site, though such revocation may limit the Services we are able to provide you.
+We have created and may offer you interfaces that allow you to connect with social networking websites such as Facebook ("**SN Site**") through our Site. We will work with the SN Site’s application protocol interface (better known as their developer API) in a way that allows you to authorize us to access your account on that SN Site on your behalf. In order to provide this authorization, you will not provide us with your user name or password to the SN Site, but you will need to log-in to that SN Site directly through our Site. Once authorized by you, the SN Site will provide us a token that allows the SN Site to recognize us when we ask, on your behalf, for access to your account information or to post information. You will be able to revoke our access to any SN Site at any time by amending the appropriate settings from within your account settings on the applicable SN Site, though such revocation may limit the Services we are able to provide you.
 
 ### 6\. Use of Personal Information
 
@@ -64,12 +66,14 @@ In general, Personal Information you submit to us regarding you or your company 
     * to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback;
     * to suggest contacting (or friending) other Members of the Site that you may know;
     * to send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes;
+    * to contact you regarding opportunities to compensate you for your algorithm's performance;
+    * to share anonymized and/or aggregated algorithm performance statistics with third parties, for example potential investors or for marketing purposes;
     * to share with other organizations to help them contact you for marketing purposes; and
     * to market our products and services (and those of third parties) to you that we believe may be of interest, both on and off the Site. We may allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the attributes we have collected (including information you do not make publicly available on the Site) to select the appropriate audience for those advertisements.
 
 
 
-**Creation of Anonymous Information.** We may create Anonymous Information records from Personal Information by excluding information (such as the name) that makes the information personally identifiable to the data subject. We use this Anonymous Information to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. Quantopian reserves the right to use Anonymous Information for any purpose and disclose Anonymous Information to third parties in its sole discretion. 
+**Creation of Anonymous Information.** We may create Anonymous Information records from Personal Information by excluding information (such as the name) that makes the information personally identifiable to the data subject. We use this Anonymous Information to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. Quantopian reserves the right to use Anonymous Information for any purpose and disclose Anonymous Information to third parties at its sole discretion. 
 
 ### 7\. Disclosure of Your Personal Information.
 
@@ -125,11 +129,11 @@ Quantopian welcomes your comments or questions regarding this Privacy Policy. Pl
     
     Quantopian
     Attn: Member Support
-    77 Summer St., 3rd Floor
+    100 Franklin St., 5th Floor
     Boston MA 02110
 
 ### 11\. Changes to This Privacy Policy.
 
 This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Information, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service or as otherwise provided in the revised policy. Please note that at all times you are responsible for updating your Personal Information to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Information, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
 
-_Last Revised: January 5, 2014_
+_Last Revised: January 13, 2015_
