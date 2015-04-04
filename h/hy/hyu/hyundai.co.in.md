@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundai.co.in privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912132837id_/http%3A//www.hyundai.com/in/en/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.co.in privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404223548id_/http%3A//www.hyundai.com/in/en/Privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | HYUNDAI MOTOR INDIA - NEW THINKING. NEW POSSIBILITIES.
 
@@ -6,7 +6,7 @@ Hyundai Motor
 Company takes the  
 privacy of your  
 information very  
-seriously.
+seriously. 
 
 Hyundai Motor India Ltd (HMIL) respects the privacy and security of the visitors to its website. Our goal is to provide you with a personalized Internet experience that delivers the information, resources and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users. In order to demonstrate our commitment to your privacy, we have prepared this Privacy Policy. This policy explains what personally identifiable information of yours is collected, how and when we might use your information, how we protect your information, who has access to your information, and how you can correct any inaccuracies in this information. In order to fully understand your rights we encourage you to read this privacy policy. HMIL reserves the right at any time and without notice to change this Privacy Policy simply by posting such change on our site. Any such change will be effective immediately upon posting. Continued usage of this website following changes to these terms will mean that you accept these changes.
 
