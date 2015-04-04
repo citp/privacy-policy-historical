@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231213242id_/https%3A//www.fairchildsemi.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404154332id_/https%3A//www.fairchildsemi.com/privacy-terms/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fairchild
 
@@ -40,7 +40,7 @@ Fairchild Semiconductor reserves the right to change this policy, however, we wi
 
 ### Conditions of use
 
-By using our website, you consent to the collection and use of your information as set forth in this Privacy Policy and to the [Terms and Conditions](https://web.archive.org/privacy-policy/terms-of-use/index.html "Terms of Use") pertaining to our website.
+By using our website, you consent to the collection and use of your information as set forth in this Privacy Policy and to the [Terms and Conditions](https://web.archive.org/privacy-terms/terms-of-use/index.html "Terms of Use") pertaining to our website.
 
 ### Contact us
 
