@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aupair-world.net privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009064912id_/https%3A//www.aupair-world.net/tos/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aupair-world.net privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404071110id_/https%3A//www.aupair-world.net/tos/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy - Aupair World
+# Privacy policy - AuPairWorld
 
 ####  General information
 
@@ -10,23 +10,23 @@ The following statement provides you an overview of how we ensure the protection
 
 ####  Privacy
 
-Following your registration, all data that are relevant for searching on Aupair World are visible to other users. This includes pictures that have been uploaded, information regarding availability, and of course your own description as an au pair or host family. Your last name is visible for others only if they are logged in as registered users. Otherwise the last name appears in an abbreviated form. Furthermore, the complete last names of au pairs can only be seen by host families who are Premium Members. The complete last name of host families can only be seen by au pairs who are logged in as registered users. Your postal address, e-mail address or your telephone number is only accessible to Aupair World employees. You decide on your own to whom you provide your contact information. The Aupair World internal messaging system is available to you in order to make contact and exchange information.
+Following your registration, all data that are relevant for searching on AuPairWorld are visible to other users. This includes pictures that have been uploaded, information regarding availability, and of course your own description as an au pair or host family. Your last name is visible for others only if they are logged in as registered users. Otherwise the last name appears in an abbreviated form. Furthermore, the complete last names of au pairs can only be seen by host families who are Premium Members. The complete last name of host families can only be seen by au pairs who are logged in as registered users. Your postal address, e-mail address or your telephone number is only accessible to AuPairWorld employees. You decide on your own to whom you provide your contact information. The AuPairWorld internal messaging system is available to you in order to make contact and exchange information.
 
 ####  Collection, processing and transmission of data
 
 We only collect personal data if you register on our website. If payment is made via Paypal or Worldpay, your data is transmitted to these services for such purposes. We transmit data to companies engaged by us for purposes of analysing user behaviour (for more information, see “Analysing user behaviour” below). Otherwise, no data is transmitted to companies or individuals other than users of the website for either commercial or non-commercial purposes.
 
-**By registering, you consent to authorize your data to be accessed by Aupair World users.** After contact has been established via the Aupair World internal messaging system, you decide to which other Aupair World users you want to provide your contact information.
+**By registering, you consent to authorize your data to be accessed by AuPairWorld users.** After contact has been established via the AuPairWorld internal messaging system, you decide to which other AuPairWorld users you want to provide your contact information.
 
-Mandatory information is indicated with an asterisk (*). This information is necessary for the Aupair World website to function.
+Mandatory information is indicated with an asterisk (*). This information is necessary for the AuPairWorld website to function.
 
-**By making payment using Paypal or Worldpay, you consent to the transmission of data to these companies.** The data to be transmitted is described in the privacy protection statement of the respective service provider:
+When you decide to make your payment for a Premium Membership by credit card or with PayPal, you will be forwarded to the website of the respective payment processor. When this occurs, we transmit your profile number and your email address to the third-party payment processor. All additional data, such as your credit card information for example, are requested by the payment processor and handled by this service provider. AuPairWorld has no access to this information. Any reimbursements also occur directly via the respective payment processor. Please take note of the privacy statements of the respective service providers.
 
-Worldpay (external link): [http://www.worldpay.com/about_us/index.php?page=privacy&c=UK](http://www.worldpay.com/about_us/index.php?page=privacy&c=UK)
+Credit card payments are handled by ConCardis GmbH, Helfmann-Park 7, 65760 Eschborn, Germany (www.concardis.de). Paypal payments are handled by PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (www.paypal.com).
 
-Paypal (external Link): [https://cms.paypal.com/en/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_EN](https://www.paypal.com/webapps/mpp/ua/privacy-full?country.x=US&locale.x=en_US)
+**With your payment via PayPal or Concardis you consent to the transmission of data to these companies.**
 
-####  Revocation
+Revocation
 
 You may revoke your consent to the future use of your data at any time. To do so, send an e-mail with the subject “Revocation” to support(at)aupair-world.net.  Your account will then be blocked and it will no longer be possible for third parties to locate you in the system.
 
@@ -51,7 +51,7 @@ A brief summary of the most important data we save:
 
 
 
-All of this data may only be associated with a specific person if you register at Aupair World. This data is not aggregated with other sources of data; in addition, this data is deleted following a statistical analysis.
+All of this data may only be associated with a specific person if you register at AuPairWorld. This data is not aggregated with other sources of data; in addition, this data is deleted following a statistical analysis.
 
 We also use the following software and services in order to analyse user behaviour. In some cases, these services are only used on underlying pages.
 
@@ -65,11 +65,11 @@ We additionally utilise Alexa, a service of Alexa Internet, Inc. This service us
 
 **AW Stats**
 
-Aupair World uses AWStats, a free web analysis software deployed on our servers. Log files from visitor queries are created and graphically processed with the aid of AWStats. Data collected corresponds to the data referred to under “Analysis of user behaviour”.
+AuPairWorld uses AWStats, a free web analysis software deployed on our servers. Log files from visitor queries are created and graphically processed with the aid of AWStats. Data collected corresponds to the data referred to under “Analysis of user behaviour”.
 
 ####  Analysis of user behaviour following your registration
 
-Following your registration, we collect your IP address and the time you registered in addition to the data you have entered. Upon registration, you consent to our analysis of this data. This is necessary in order to continue to able to offer the high level of quality at Aupair World. For such purposes, we compare the data you have entered to additional data freely available online. This enables us to identify unwanted entries (joke entries, agencies, human trafficking, etc.). However, Aupair World does not guarantee the quality of the entries presented in the profiles.
+Following your registration, we collect your IP address and the time you registered in addition to the data you have entered. Upon registration, you consent to our analysis of this data. This is necessary in order to continue to able to offer the high level of quality at AuPairWorld. For such purposes, we compare the data you have entered to additional data freely available online. This enables us to identify unwanted entries (joke entries, agencies, human trafficking, etc.). However, AuPairWorld does not guarantee the quality of the entries presented in the profiles.
 
 ####  Social bookmarks
 
@@ -81,7 +81,7 @@ This website is encrypted using SSL (https). This means that your data are encry
 
 ####  Data protection officer
 
-It is important to Aupair World that data is processed properly and securely under applicable data protection laws. We have appointed an external data protection officer in order to be able to document this to external parties as well.
+It is important to AuPairWorld that data is processed properly and securely under applicable data protection laws. We have appointed an external data protection officer in order to be able to document this to external parties as well.
 
 Stephan Moers  
 Sicherheitsberatung e.K.  
@@ -90,4 +90,4 @@ Grüner Weg 30,
 
 [www.dsb-moers.de](http://www.dsb-moers.de/)
 
-You may reach Mr Stephan Moers by e-mail at [datenschutz@and-is.de](mailto:datenschutz@and-is.de).
+You may reach Mr Stephan Moers by e-mail at [datenschutz@aupair-world.net](mailto:datenschutz@aupair-world.net)
