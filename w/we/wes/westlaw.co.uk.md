@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719050529id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404041821id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Sweet & Maxwell Privacy Polices
-
-( Back to [home page](https://web.archive.org/) )
+# Our Privacy Policies
 
 * * *
 
@@ -20,7 +18,7 @@
 
 ## OUR WEBSITE PRIVACY POLICY
 
-1\. This website is published by Thomson Reuters (Professional) UK Limited - Legal Business. 100 Avenue Road, London NW3 3PF (Company No. 1679046 registered in England & Wales. Registered Office and address for service: Aldgate House, 33 Aldgate High Street, London EC3N 1DL) which trades using various trading names, of which a list is posted on its website at [www.sweetandmaxwell.co.uk](http://www.sweetandmaxwell.co.uk/), and is part of Thomson Reuters.
+1\. This website is published by Thomson Reuters (Professional) UK Limited - Legal Business. Friars House, 160 Blackfriars Road, Southwark, London SE1 8EZ (Company No. 1679046 registered in England & Wales. Registered Office and address for service: Aldgate House, 33 Aldgate High Street, London EC3N 1DL) which trades using various trading names, of which a list is posted on its website at [www.sweetandmaxwell.co.uk](http://www.sweetandmaxwell.co.uk/), and is part of Thomson Reuters.
 
 2\. Thomson Reuters (Professional) UK Limited ("the Company") is committed to respecting your privacy and we recognise your need to know that your personal information is being lawfully processed and held in accordance with the Data Protection Act 1998. The Company is a registered data controller under number Z7602050.
 
@@ -101,9 +99,11 @@ For access or correction of your information:
 
 Write to:   
 Marketing Information Data Management   
-100 Avenue Road   
-Swiss Cottage   
-London NW3 3PF 
+Friars House   
+160 Blackfriars Road   
+Southwark   
+London   
+SE1 8EZ 
 
 Call Customer Services on   
 0845 600 9355 (UK)   
