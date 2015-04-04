@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813215505id_/https%3A//www.geron.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404195234id_/https%3A//www.geron.org/privacy-policy) for the most accurate reproduction.*
 
 # The Gerontological Society of America
 
