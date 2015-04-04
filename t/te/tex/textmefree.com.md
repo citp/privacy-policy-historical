@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textmefree.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092653id_/http%3A//textmefree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmefree.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404201156id_/http%3A//www.textmefree.com/privacy.html) for the most accurate reproduction.*
 
 # TextMeFree Privacy Statement
 
@@ -9,7 +9,7 @@ At TextMeFree.com, we recognize that privacy of your personal information is imp
 
 TextMeFree.com does not collect information on its website visitors such as names, addresses, telephone numbers or email addresses unless you specifically give TextMeFree.com that information (via the newsletter signup form, for example).
 
-TextMeFree.com does not sell or otherwise make available email addresses to anyone except Aweber.com, which distributes the TextMeFree.com Newsletter. The Aweber people are OK - they won't sell or share such data. ([Read Aweber's privacy policy here](http://www.aweber.com/privacy-policy.htm).) 
+TextMeFree.com does not sell or otherwise make available email addresses to anyone except Aweber.com, which distributes the TextMeFree.com Newsletter. The Aweber people are OK - they won't sell or share such data. ([Read Aweber's privacy policy here](http://www.aweber.com/privacy.htm).) 
 
 **Cookies and AdSense**
 
