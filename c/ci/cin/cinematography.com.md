@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cinematography.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711084346id_/http%3A//www.cinematography.com/index.php%3Fapp%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinematography.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404192343id_/http%3A//www.cinematography.com/index.php%3Fs%3Df4250afe9aa41f106f94e082213c3285%26app%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cinematography.com
+
+[](http://www.kitmondo.com/?utm_source=cinematography.com&utm_medium=banner&utm_campaign=KITBN001)
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
