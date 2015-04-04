@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleartax.in privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201053758id_/http%3A//cleartax.in/Meta/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartax.in privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404123712id_/https%3A//cleartax.in/Meta/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy: ClearTax.in
 
