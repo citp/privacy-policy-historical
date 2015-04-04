@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the edelkrone.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331074819id_/http%3A//www.edelkrone.com/us/index.php%3Fid_cms%3D26%26controller%3Dcms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edelkrone.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404173745id_/https%3A//www.edelkrone.com/us/index.php%3Fid_cms%3D26%26controller%3Dcms) for the most accurate reproduction.*
 
-# USA PRIVACY POLICY - edelkrone® USA
+# PRIVACY POLICY - edelkrone® USA
 
 **What information do we collect?  **
 
-We collect information from you when you register on our website, place an order or subscribe to our newsletter.
+We collect information from you when you register on our website, place an order or subscribe to our newsletter.  Your information is held by us and processed on computers located in the United States. However, personal information collected on this site may be stored and processed in any other country.
 
-When ordering or registering on our website, as appropriate, you may be asked to enter your name, e-mail address, shipping and billing addresses,  phone number(s) and/or credit card information. You may, however, choose to visit our site anonymously.
+When ordering or registering on our website, as appropriate, you may be asked to enter your name, e-mail address, shipping and billing addresses, phone number(s) and/or credit card information. You may, however, choose to visit our site anonymously.
 
 **What do we use your information for?**
 
@@ -21,12 +21,15 @@ Any of the information we collect from you may be used in one of the following w
 **-To improve customer service**  
 (such information helps us to more effectively respond to your customer service requests and support needs)
 
-**-To process transactions**
-
+**-To process transactions**  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the sole purpose of delivering the purchased product or service requested.
 
-**-To administer a contest, promotion, survey or other site feature  
--To send periodic emails  
+**-To administer a contest, promotion, survey or other site feature**
+
+**  
+-To send periodic e-newsletter**
+
+**  
 -The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.**
 
 **How do we protect your information?**
@@ -35,11 +38,13 @@ We implement a variety of security measures to maintain the safety of your perso
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (e.g.credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+After a transaction, your private information (e.g.credit cards) will not be kept on file for more than 60 days.
+
+While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do this at your own risk.
 
 **Do we use cookies?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -51,7 +56,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Children's Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **Online Privacy Policy Only**
 
@@ -61,23 +66,17 @@ This online privacy policy applies only to information collected through our web
 
 We never post anything to your accounts with Facebook, Twitter, or any other third party sites without your permission.
 
-Except for the purposes of providing the Services, we will not give your name or personal information to third parties.
-
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our products and website.
 
 **Your Consent**
 
 By using our site, you consent to our website privacy policy.
 
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. This policy was last modified on 01.04.2014.
-
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us at info@edelkrone.com or using the information below.
 
 edelkrone USA Inc.
 
@@ -85,9 +84,4 @@ edelkrone USA Inc.
 
 Winter Park, FL 32792
 
-1.866.594.EDEL (3335)
-
-usa@edelkrone.com
-
-  
-
+_Last Update: February 11, 2015_
