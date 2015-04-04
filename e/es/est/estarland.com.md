@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estarland.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826202930id_/https%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estarland.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404142410id_/https%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # eStarland Privacy / Security Policy - Video Games & Anime Merchandise
 
@@ -46,7 +46,7 @@ All payments are processed with secure payments technology through Authorize.net
 
 * * *
 
-****Safe Shopping Guarantee**
+Safe Shopping Guarantee**
 
 Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, eStarland.com will cover the entire liability for you, up to the full $50.00. eStarland.com will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made at eStarland.com while using the secure server. 
 
