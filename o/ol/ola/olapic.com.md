@@ -1,52 +1,62 @@
-> *The following text is extracted and transformed from the olapic.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713233224id_/https%3A//www.olapic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olapic.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404131421id_/https%3A//www.olapic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Visual Commerce - Visual Content Discovery & Integration | Olapic
+# Privacy Policy | Olapic | Visual Commerce Platform | Visual Marketing Platform
 
-By accessing the Olapic website: www.olapic.com ("Site") or using the other features, content or applications (including the Olapic Platform: Photorank (“Platform”) offered by Olapic ("Services") you agree and acknowledge to be bound by this Privacy Policy (“Policy”). The use of the Olapic Site or Services and any personal information you provide on the Site or Services, remains subject to the terms of this Privacy Policy and our Terms of Use. 
+## Privacy Policy
 
-Olapic, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification cover personal information collected through our website: www.olapic.com and the service: Photorank. 
+By accessing the Olapic website: www.olapic.com (“Site”) or using the other features, content or applications (including the Olapic Platform: Photorank (“Platform”) offered by Olapic (“Services”) you agree and acknowledge to be bound by this Privacy Policy (“Policy”). The use of the Olapic Site or Services and any personal information you provide on the Site or Services, remains subject to the terms of this Privacy Policy and our Terms of Use.
+
+Olapic, Inc. has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification cover personal information collected through our website: www.olapic.com and the service: Photorank.
 
 [](https://privacy.truste.com/privacy-seal/Olapic,-Inc-/validation?rid=d601c57b-9299-4e0e-8ba6-4ea3ef6905e6 "TRUSTe European Safe Harbor certification")
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-**Olapic complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Olapic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Olapic’s certification, please visit<http://www.export.gov/safeharbor>. **
+**  
+Olapic complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Olapic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Olapic’s certification, please visit<http://www.export.gov/safeharbor>.  
+**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-If you do not agree to abide by these or any future Policy, please do not use or access the Site or Services. The Olapic Site and all related Services are provided by (or on behalf of), Olapic, Inc. (“Olapic”), a Delaware corporation, and its wholly-owned Olapic subsidiaries (collectively, "Olapic”, “us”, “we”, “our”). 
+If you do not agree to abide by these or any future Policy, please do not use or access the Site or Services. The Olapic Site and all related Services are provided by (or on behalf of), Olapic, Inc. (“Olapic”), a Delaware corporation, and its wholly-owned Olapic subsidiaries (collectively, “Olapic”, “us”, “we”, “our”).
 
-If you have any questions or comments about this Privacy Policy or about our use of your personally identifiable information, please contact us at [legal@Olapic.com](mailto:%20legal@Olapic.com) or you can contact us at: 
+If you have any questions or comments about this Privacy Policy or about our use of your personally identifiable information, please contact us at [legal@Olapic.com](mailto:%20legal@Olapic.com) or you can contact us at:
 
-Olapic, Inc.  
-Attn: Legal  
-151 West 25th Street, 5th Floor,  
-New York, NY 10001  
-Copyright 2013 Olapic, Inc. All rights reserved. 
+Olapic, Inc.
 
-**Personally Identifiable Information we Collect From You**
+Attn: Legal
 
-When you visit our site we may collect information from you such as your name, email address and phone number. We collect this information in order to provide you with demonstrations of our Platform, when you download information such as whitepapers and in order for you to contact us with questions regarding our Site or Service. 
+151 West 25th Street, 5th Floor,
 
-Communications From the Site 
+New York, NY 10001
+
+Copyright 2013 Olapic, Inc. All rights reserved.
+
+**  
+Personally Identifiable Information we Collect From You  
+**
+
+When you visit our site we may collect information from you such as your name, email address and phone number. We collect this information in order to provide you with demonstrations of our Platform, when you download information such as whitepapers and in order for you to contact us with questions regarding our Site or Service.
+
+Communications From the Site
 
 #### Newsletters
 
-If you wish to subscribe to our newsletter(s) or when you sign up for our services, we will use your name and email address to send the newsletter to you. If you no longer wish to receive these communications you can follow the unsubscribe instructions contained in those emails or contact us at [support@olapic.com](mailto:%20support@olapic.com). 
+If you wish to subscribe to our newsletter(s) or when you sign up for our services, we will use your name and email address to send the newsletter to you. If you no longer wish to receive these communications you can follow the unsubscribe instructions contained in those emails or contact us at [support@olapic.com](mailto:%20support@olapic.com).
 
 #### Service-related Announcements
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account, or provide an alternative email address for contact by contacting us at [privacy@olapic.com](mailto:%20privacy@olapic.com). 
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account, or provide an alternative email address for contact by contacting us at [privacy@olapic.com](mailto:%20privacy@olapic.com).
 
 ##### Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by logging into your account and making the appropriate changes or by emailing your Account Manager directly or reaching out at [privacy@olapic.com](mailto:%20privacy@olapic.com). We will respond to your request to access within 30 days. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by logging into your account and making the appropriate changes or by emailing your Account Manager directly or reaching out at [privacy@olapic.com](mailto:%20privacy@olapic.com). We will respond to your request to access within 30 days.
 
 ##### Social Connect
 
-You can connect your social media accounts, such as Facebook to your Platform account. These services will authenticate your identity and provide you the option to (i) include Platform elements on Facebook Fan Pages, (ii) follow, like, or comment on others’ social profiles from within the Platform account. 
+You can connect your social media accounts, such as Facebook to your Platform account. These services will authenticate your identity and provide you the option to (i) include Platform elements on Facebook Fan Pages, (ii) follow, like, or comment on others’ social profiles from within the Platform account.
 
 #### Information Related to Data Collected for our Customers
 
@@ -66,13 +76,13 @@ We collect information for our Customers, if you are a User of one of our Custom
 
 Olapic has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to Olapic’s Customer (the data controller). If the Client requests Olapic to remove the data, we will respond to their request within 30 business days. 
 
-When you visit the Site or interact with the Platform, our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and Services, and for the Site's technical administration. 
+When you visit the Site or interact with the Platform, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and Services, and for the Site’s technical administration. 
 
 #### Additional Policy Information
 
 ##### Cookies
 
-Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Site and Services. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Olapic may use both session cookies and persistent cookies to better understand how you interact with the Site and Services, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and Services. 
+Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and Services. A cookie is a small data file that we transfer to your computer’s hard disk. We do not use cookies to collect personally identifiable information. Olapic may use both session cookies and persistent cookies to better understand how you interact with the Site and Services, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and Services. 
 
 A session cookie enables certain features of the Site and our Services and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
 
@@ -80,7 +90,7 @@ The use of cookies by our Customers, partners, affiliates, and service providers
 
 ##### IP Address and Clickstream Data
 
-Our server may collect data about your server’s Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that is automatically assigned to your computer by your Internet service provider whenever you're on the Internet. When you request pages from our Site, our servers may log your IP Address and sometimes your domain name. Your IP Address is used to help identify you and to gather demographic information about our customers as a whole, but does not include personally identifiable information. Our server may also record the referring page that linked you to us (e.g., another Web site or a search engine); the pages you visit on this Site; the Web site you visit after this Site; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Site or a referral site; and other Web usage activity and data logged by our Web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer the Site. Such information may also be used to gather demographic information, such as country of origin and Internet Service Provider. We may link this information with your personal information. 
+Our server may collect data about your server’s Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that is automatically assigned to your computer by your Internet service provider whenever you’re on the Internet. When you request pages from our Site, our servers may log your IP Address and sometimes your domain name. Your IP Address is used to help identify you and to gather demographic information about our customers as a whole, but does not include personally identifiable information. Our server may also record the referring page that linked you to us (e.g., another Web site or a search engine); the pages you visit on this Site; the Web site you visit after this Site; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Site or a referral site; and other Web usage activity and data logged by our Web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer the Site. Such information may also be used to gather demographic information, such as country of origin and Internet Service Provider. We may link this information with your personal information. 
 
 Any or all of these activities with regard to Site usage information may be performed on our behalf by our service providers, including, for example, our analytics vendor(s) and our e-mail management partner(s). 
 
@@ -102,7 +112,7 @@ Our policy is to only release the data we collect in the following circumstances
   * As required by law. 
   * To designated third parties to resolve or investigate abuse complaints. 
   * When the information is related to spiders or bots, usually when investigating technical issues.
-  * For abusive users, we may release information to assist in attempting to block the abusive user or to complain to that user's Internet Service Provider.
+  * For abusive users, we may release information to assist in attempting to block the abusive user or to complain to that user’s Internet Service Provider.
   * If necessary to defend against legal claims. 
   * When we deem it necessary to protect the property or rights of the user community, or this Site. 
 
@@ -124,11 +134,11 @@ We will make any legally-required disclosures of any breach of the security, con
 
 ##### Social Media Features
 
-**Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.**
+ **Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.**
 
 ##### Testimonials
 
-We post customer testimonials/comments/reviews on our Site which may contain personally identifiable information. We obtain the customer's consent, wherever necessary, prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [privacy@olapic.com](mailto:%20privacy@olapic.com).
+We post customer testimonials/comments/reviews on our Site which may contain personally identifiable information. We obtain the customer’s consent, wherever necessary, prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [privacy@olapic.com](mailto:%20privacy@olapic.com).
 
 ##### Public Forums
 
