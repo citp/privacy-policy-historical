@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insureandgo.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620010417id_/http%3A//www.insureandgo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insureandgo.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404160052id_/https%3A//www.insureandgo.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - InsureandGo UK
 
@@ -6,7 +6,7 @@ We're committed to safeguarding the privacy of visitors to our website as well a
 
 ## Definitions
 
-"We", "us", "our" means Insure & Go Insurance Services Limited. "You" means a visitor to our website and/or customer of our product(s). "Personal information" means the personal information you provide us when registering, obtaining a quote and/or buying a product. "Product" means a product that we may sell from time to time on our website. "General information" means information other than personal information that we may collect from visitors to our website. "Information" means personal information and/or general information as appropriate. "Website" means [http://www.insureandgo.com](http://www.insureandgo.com/) or such website that may replace it from time to time.
+"We", "us", "our" means Insure & Go Insurance Services Limited. "You" means a visitor to our website and/or customer of our product(s). "Personal information" means the personal information you provide us when registering, obtaining a quote and/or buying a product. "Product" means a product that we may sell from time to time on our website. "General information" means information other than personal information that we may collect from visitors to our website. "Information" means personal information and/or general information as appropriate. "Website" means [www.insureandgo.com](https://www.insureandgo.com/) or such website that may replace it from time to time.
 
 * * *
 
@@ -41,47 +41,56 @@ Please remember that disabling cookies can severely affect the functionality of 
 
 ## List of the cookies we use
 
-**From us**
+### From us
 
 Here's a list of all the cookies we put on your computer when you visit our website:
 
-**affiliateid**  
+#### affiliateid
+
 Used to track the affiliate ID, which lets us know which of our partners (if any) sent you to our website.
 
-**ASP.NET_SessionId**  
+#### ASP.NET_SessionId
+
 A unique identifier assigned to each visitor to our website. This cookie is retained for the duration of your session (until you close your browser).
 
-**From third parties**
+### From third parties
 
 We use a number of third-party services that need to place cookies on your computer to function properly. Here is a list of the services we use, the cookies they create and a brief description of what we use each service for:
 
-**Service: Disqus**  
- **Cookie name: __jid, disqus_unique**  
+#### Disqus
+
+Cookie name: __jid, disqus_unique  
 We use Disqus to enable readers of the InsureandGo blog to leave comments on our posts. For information about the data Disqus's cookies contain, [click here](http://help.disqus.com/customer/portal/articles/466235-enabling-cookies).
 
-**Service: DoubleClick (Google)**  
- **Cookie name: id**  
+#### DoubleClick (Google)
+
+Cookie name: id  
 We use DoubleClick to help us monitor the performance of our online advertisements and for the purpose of retargeted advertising. This enables us to display adverts to people who've visited our website and then gone to another website without buying a policy. For information about the data DoubleClick's cookies contain, [click here](http://www.google.com/intl/en/policies/privacy/)
 
-**Service: Google Analytics**  
- **Cookie name: _ga, __utma, __utmb, __utmc, __utmz**  
+#### Google Analytics
+
+Cookie name: _ga, __utma, __utmb, __utmc, __utmz  
 We use Google Analytics to help us understand how people find and use our website. For information about the data Google Analytics' cookies contain, [click here](http://www.google.com/analytics/learn/privacy.html).
 
-**Service: LivePerson**  
- **Cookie name: 22725166-SKEY, 22725166-VID, ASPSESSIONIDCSBRDBRA, HumanClickKEY, HumanClickSiteContainerID_22725166, LivePersonID**  
+#### LivePerson
+
+Cookie name: 22725166-SKEY, 22725166-VID, ASPSESSIONIDCSBRDBRA, HumanClickKEY, HumanClickSiteContainerID_22725166, LivePersonID  
 We use LivePerson to enable people to chat to members of our customer services team. For information about the data LivePerson's cookies contain, [click here](http://www.liveperson.com/policies/privacy).
 
-**Service: nRelate**  
- **Cookie name: nrelateID, nrelateInt2**  
-We use nRelate to show visitors to our blog related posts that they might be interested in reading. For information about the data nRelate's cookies contain, [click here](http://nrelate.com/privacy-policy/).
+#### Pintrest
 
-**Service: Scorecard Research (AddThis)**  
- **Cookie name: UID, UIDR**  
-Scorecard Research is used by a service called AddThis, which is what we use to enable visitors to our blog to share our posts with their friends. For information about the data AddThis's cookies contain, [click here](http://www.addthis.com/privacy).
+Cookie name: Cookie name: _pinterest_cm  
+We use Pinterest to allow visitors to our blog to share photos with their followers. For information about the data Pinterest's cookies contain, [click here](http://about.pinterest.com/en/privacy-policy).
 
-**Service: Twitter**  
- **Cookie name: pid**  
-We use Twitter to enable people to share our blog posts and follow us with the click of a button. This cookie is only set if you visit the InsureandGo blog. For information about the data Twitter's cookies contain, [click here](https://twitter.com/privacy).
+#### Scorecard Research (Disqus)
+
+Cookie name: guest_id, pid  
+Scorecard Research is used by a service called Disqus, which is what we use to enable visitors to our blog to leave comments on our posts. For information about the data AddThis's cookies contain, [click here](http://www.addthis.com/privacy).
+
+#### Twitter
+
+Cookie name: pid  
+We use Twitter to enable people to follow InsureandGo with the click of a button. For information about the data Twitter's cookies contain, [click here](https://twitter.com/privacy).
 
 * * *
 
@@ -104,7 +113,7 @@ When registering with us or obtaining a quote and/or a product, we will ask you 
 
 
 
-Please be aware that if you do consent to be contacted by us or our selected third parties, you can withdraw this consent at any time by [contacting us](http://www.insureandgo.com/contact-us).
+Please be aware that if you do consent to be contacted by us or our selected third parties, you can withdraw this consent at any time by [contacting us](https://web.archive.org/contact-us).
 
 * * *
 
