@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the igindex.co.uk privacy policy that was archived on 2014-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141010053520id_/http%3A//www.ig.com/uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igindex.co.uk privacy policy that was archived on 2015-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150404141031id_/http%3A//www.ig.com/uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="gtie9 gtie10 nojs" lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
+<!DOCTYPE html><html class="gtie9 gtie10 nojs " lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 
         
 
@@ -9,8 +9,22 @@
 
 
 
+
+
+
+
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1; requiresActiveX=true">
+
+    
+        
+        
+            <meta name="viewport" content="width=768, maximum-scale=1.0;">
+        
+    
+
+
+
 
 
 <title>Privacy Policy | IG UK</title><meta name="keywords" content="">
@@ -20,10 +34,10 @@
 
     <meta name="apple-itunes-app" content="app-id=406492428">
             <link rel="canonical" href="http://www.ig.com/uk/privacy-policy">
-	<meta property="og:site_name" content="IG">
+    <meta property="og:site_name" content="IG">
 
     <meta property="og:type" content="website">
-<meta property="og:image" content="http://www.ig.com/etc/designs/onedomain/1412008513840/images/og_image.jpg">
+<meta property="og:image" content="http://www.ig.com/etc/designs/onedomain/1427887756000/images/og_image.jpg">
 <meta property="og:title" content="Privacy policy">
     <meta property="og:url" content="http://www.ig.com/uk/privacy-policy">
 
@@ -116,19 +130,32 @@ var d = document;
     PS.util.jspVars.set('user.redirects')([]);
     PS.util.jspVars.set('deprecatedBrowsers')({"msie":"7","mozilla":"3.6","safari":"3"});
     PS.util.jspVars.set('deprecatedBrowsersPopup')({});
-    PS.util.jspVars.set('permanent_sticky')(true);
+    PS.util.jspVars.set('permanent_sticky')();
     PS.util.jspVars.set('hide_megascroller_bar')(false);
     PS.util.jspVars.set('google.analytics.tracking.id')("UA-53269626-3");
     PS.util.jspVars.set('analytics.s_account')("adviggroupigcomuklive,adviggrouprollup");
     PS.util.jspVars.set('analytics.page_title')("Privacy policy");
     PS.util.jspVars.set('analytics.cq_page_name')("privacy-policy");
     PS.util.jspVars.set('analytics.path')("/content/igcom/en_GB/ex-nav/terms-and-agreements/privacy-policy");
+    PS.util.jspVars.set('analytics.trackingTagDelay')("0");
     //T&T Config
     PS.util.jspVars.set('tandt.linkReplacements')([{"currentUrl":"/content/igcom/en_GB","newUrl":"http://www.ig.com/ie","segment":"tt_irish_visitors","vanityCurrentUrl":"/uk"}, {"currentUrl":"/content/igcom/en_GB/ex-nav/create-account","newUrl":"https://www.ig.com/uk/application-form?lnk=top","segment":"tt_createacct_noreload","vanityCurrentUrl":"/uk/create-account"}]);
     PS.util.jspVars.set('tandt.customID')('igComUK');
     PS.util.jspVars.set('tandt.timeout')(1200);
+
     //Sets the JSON for the hero panel
-    PS.util.jspVars.set('heroPanelSegmentSettings')('{"hpDefault":{"colorScheme":"white","additionalColorScheme":"light","imagePath":""}}');
+    PS.util.jspVars.set('heroPanelSegmentSettings')('');
+
+    //Live chat
+    PS.util.jspVars.set('livechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('livechat.activateLiveChat')("true");
+    PS.util.jspVars.set('livechat.popupPageUri')("/uk/live-chat");
+    PS.util.jspVars.set('livechat.apiUri')("");
+    PS.util.jspVars.set('livechat.initialisationUri')("");
+    PS.util.jspVars.set('livechat.deploymentID')("57220000000000V");
+    PS.util.jspVars.set('livechat.organisationID')("00D200000006kCZ");
+    PS.util.jspVars.set('livechat.buttonID')("57320000000000V");
+    PS.util.jspVars.set('livechat.promptTimeDelay')("30000");
 
     //this is all used by site cat
 //TODO: update site cat init js to look to jspVars, then all this becomes redundant
@@ -167,6 +194,235 @@ var analytics = analytics || {};
 
     PS.util.Analytics = new Analytics();
 }(PS));
+    window.PS = window.PS || {}; // Public Sites namespace
+window.PS.info = window.PS.info || {};
+window.PS.util = window.PS.util || {};
+window.PS.util.Browser = window.PS.util.Browser || {};
+
+
+
+(function (PS) {
+    PS.info.user = {
+        segments : {
+            loggedIn : "ig_loggedIn",
+            client : "ig_client",
+            demoClient : "ig_demoClient",
+            prospect : "ig_prospect"
+        },
+        getCurrentSegment : function(){
+            if(PS.info.user.isLoggedIn){
+                return PS.info.user.segments.loggedIn;
+            }
+            else if(PS.info.user.isDemoClient){
+                return PS.info.user.segments.demoClient;
+            }
+            else if(PS.info.user.isClient){
+                return PS.info.user.segments.client;
+            }
+            return PS.info.user.segments.prospect;
+        },
+        isLoggedIn : false,
+        isClient : false,
+        isDemoClient : false,
+        isProspect : true
+    };
+
+    PS.info.user.options =[
+        {
+            text : "Logged in user",
+            value : PS.info.user.segments.loggedIn
+        },
+        {
+            text : "Client",
+            value : PS.info.user.segments.client
+        },
+        {
+            text : "Demo client",
+            value : PS.info.user.segments.demoClient
+        },
+        {
+            text : "Prospect",
+            value : PS.info.user.segments.prospect
+        }
+    ];
+
+
+    PS.startup.updateUserSegment = function(){
+        PS.info.user.isClient = false;
+        PS.info.user.isDemoClient = false;
+        PS.info.user.isLoggedIn = false;
+        PS.info.user.isProspect = true;
+
+        //If there's the session open cookie, the user has logged in
+        PS.info.user.isLoggedIn = PS.util.Page.sessionOpen();
+
+        //Gets the ID cookie, to check if it's a client or not
+        var idCookie = PS.util.Cookie.get('ID');
+        if(!!idCookie){
+            //If there's a A=1 or a CS inside the ID cookie, then the user can be a client or a demo client
+            if((idCookie.indexOf('A=1') >= 0) || (idCookie.indexOf(':CS=') >= 0)){
+                if(idCookie.indexOf('demo-account') < 0){
+                    PS.info.user.isClient = true;
+                }
+                else{
+                    PS.info.user.isDemoClient = true;
+                }
+            }
+        }
+    };
+
+
+    PS.startup.redirectUserToURL = function (userRedirectURL, transferQueryString) {
+        var queryString = '';
+        if(!!transferQueryString){
+            queryString = window.location.search;
+        }
+    	var loc = window.location.href,
+        	cqMode = (loc.indexOf('iggroup.local') > -1);
+
+        //If the url exists and we are not inside the author, redirect
+        if ((!!userRedirectURL) && !cqMode && (window.location.pathname !== userRedirectURL)) {
+            if(window.PS.util.Browser.storeReferrer){
+                window.PS.util.Browser.storeReferrer();
+            }
+            window.location = userRedirectURL + queryString;
+        }
+    };
+
+
+    PS.startup.redirectUser = function(userRedirectsMap) {
+        if(userRedirectsMap == undefined){
+            return false;
+        }
+
+        var matchingList = [];
+
+        //Updates and retrieves the user segment
+        var currentSegment = PS.startup.getUserSegment();
+
+        //This cookie will contain the timestamp of the first access
+        var id = PS.util.Cookie.get('user_ts');
+        if(!id){
+
+            /* The timestamp once converted to the hashnum is not giving the expected "randomness"
+            Changing the id to a javascript random generated number with the same length
+            if (!Date.now) {
+                id = new Date().getTime();
+            }
+            else{
+                id = Date.now();
+            }   */
+            id = Math.floor(Math.random() * 10000000000000);
+            PS.util.Cookie.set('user_ts',id);
+        }
+
+        //This code is taken from Login.js
+        var idMD5 = PS.util.getMD5(id + "");//make sure we pass a string. if you pass a number the returned value is always the same
+        var hashnum = parseFloat(idMD5);
+        hashnum /= 4294967296; //magic number from script attached to W-268850
+        hashnum += 0.5; //another seemingly magic number
+
+        var percentageNormaliser = 0;
+
+        //We run through the redirects, to find out which redirects are associated with the current user segment and
+        //to find out the total number inside the percentage (to normalise it)
+        for(var i = 0; i < userRedirectsMap.length; i++){
+            var userSegmentRedirect = userRedirectsMap[i];
+            if(userSegmentRedirect.segment === currentSegment){
+                percentageNormaliser+=userSegmentRedirect.percentage;
+                matchingList.push(userSegmentRedirect);
+            }
+        }
+
+        //If there is at least one redirect with a percentage greater than 0, then we normalise the value and redirect
+        //the user accordingly to his hash value
+        if(percentageNormaliser > 0){
+            var normalisedPercentage = 0;
+            for(var j = 0; j < matchingList.length; j++){
+                normalisedPercentage += matchingList[j].percentage/percentageNormaliser;
+                if(hashnum <= normalisedPercentage){
+                    PS.util.addUserSegment(matchingList[j].name);
+
+                    PS.startup.redirectUserToURL(matchingList[j].redirectPath, true);
+                    return true;
+                }
+            }
+        }
+        return false;
+
+    };
+
+    PS.util.addUserSegment = function(segment){
+        if(!!segment){
+
+            //Gets the list of segments
+            var userSegmentList = PS.util.Cookie.get('user_sgm');
+
+            var found = false;
+
+            //If the list exists
+            if(!!userSegmentList){
+                var userSegmentsSet = userSegmentList.split(',');
+
+                //We search if the segment is already stored
+                for(var k = 0; k< userSegmentsSet.length;k ++){
+                    if(userSegmentsSet[k] === segment){
+                        found = true;
+                    }
+                }
+            }
+
+            //If the segment isn't inside the cookie
+            if(!found){
+                //If the list is empty the segment is written, otherwise is added
+                if(!userSegmentList){
+                    userSegmentList = segment;
+                }
+                else {
+                    userSegmentList += ','+segment;
+                }
+            }
+            //The cookie is stored again
+            PS.util.Cookie.set('user_sgm',userSegmentList);
+        }
+    };
+
+    //Check if the user is a client
+    PS.startup.isClient = function () {
+        PS.startup.updateUserSegment();
+        return PS.info.user.isClient;
+    };
+
+    //Check if the user is a client
+    PS.startup.isDemoClient = function () {
+        PS.startup.updateUserSegment();
+        return PS.info.user.isDemoClient;
+    };
+
+    //Check if the user is a client
+    PS.startup.isLoggedIn = function () {
+        PS.startup.updateUserSegment();
+        return PS.info.user.isLoggedIn;
+    };
+
+    //Check if the user is a client
+    PS.startup.isProspect = function () {
+        PS.startup.updateUserSegment();
+        return PS.info.user.isProspect;
+    };
+
+    //Updates and return the segment of the user
+    PS.startup.getUserSegment = function() {
+        PS.startup.updateUserSegment();
+        return PS.info.user.getCurrentSegment();
+    }
+
+
+
+}(window.PS));
+
+
+
 
     
     
@@ -177,11 +433,11 @@ var analytics = analytics || {};
 
 
     var i18n= i18n || {};
-i18n['clientlibs.browsers.deprecated.upgradelink.msie']='http:\/\/windows.microsoft.com\/en-GB\/internet-explorer\/download-ie';i18n['clientlibs.browsers.deprecated.default.browser']='browser';i18n['clientlibs.dates.september']='September';i18n['clientlibs.dates.march']='March';i18n['clientlibs.browsers.deprecated.default.upgradelink']='https:\/\/www.google.com\/chrome';i18n['clientlibs.yes']='Yes';i18n['clientlibs.dates.december']='December';i18n['clientlibs.dates.january']='January';i18n['clientlibs.dates.format']='{2} {3} {1} {0} {4}:{5}';i18n['clientlibs.dates.monday']='Monday';i18n['clientlibs.dates.october']='October';i18n['clientlibs.secondaryNav.more']='More';i18n['clientlibs.dates.february']='February';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='http:\/\/www.mozilla.org\/en-GB\/firefox\/update\/';i18n['clientlibs.dates.august']='August';i18n['clientlibs.dates.wednesday']='Wednesday';i18n['clientlibs.dates.tuesday']='Tuesday';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.dates.thursday']='Thursday';i18n['clientlibs.browsers.deprecated.name.mozilla']='version of Firefox';i18n['clientlibs.dates.sunday']='Sunday';i18n['clientlibs.dates.saturday']='Saturday';i18n['clientlibs.dates.november']='November';i18n['clientlibs.dates.may']='May';i18n['clientlibs.dates.july']='July';i18n['clientlibs.no']='No';i18n['clientlibs.dates.april']='April';i18n['clientlibs.dates.june']='June';i18n['clientlibs.browsers.deprecated.name.msie']='version of Internet Explorer';i18n['clientlibs.yes_no_cr']='Yes (No CR)';i18n['clientlibs.browsers.deprecated.name.chrome']='version of Chrome';i18n['clientlibs.dates.friday']='Friday';
+i18n['clientlibs.browsers.deprecated.upgradelink.msie']='http:\/\/windows.microsoft.com\/en-GB\/internet-explorer\/download-ie';i18n['clientlibs.browsers.deprecated.default.browser']='browser';i18n['clientlibs.dates.september']='September';i18n['clientlibs.dates.march']='March';i18n['clientlibs.browsers.deprecated.default.upgradelink']='https:\/\/www.google.com\/chrome';i18n['clientlibs.yes']='Yes';i18n['clientlibs.dates.december']='December';i18n['clientlibs.dates.january']='January';i18n['clientlibs.dates.format']='{2} {3} {1} {0} {4}:{5}';i18n['clientlibs.dates.monday']='Monday';i18n['clientlibs.dates.october']='October';i18n['clientlibs.secondaryNav.more']='More';i18n['clientlibs.dates.february']='February';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='http:\/\/www.mozilla.org\/en-GB\/firefox\/update\/';i18n['clientlibs.dates.august']='August';i18n['clientlibs.liveprices.bid']='Bid';i18n['clientlibs.dates.wednesday']='Wednesday';i18n['clientlibs.dates.tuesday']='Tuesday';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.dates.thursday']='Thursday';i18n['clientlibs.browsers.deprecated.name.mozilla']='version of Firefox';i18n['clientlibs.dates.sunday']='Sunday';i18n['clientlibs.dates.saturday']='Saturday';i18n['clientlibs.dates.november']='November';i18n['clientlibs.dates.may']='May';i18n['clientlibs.dates.july']='July';i18n['clientlibs.no']='No';i18n['clientlibs.dates.april']='April';i18n['clientlibs.dates.june']='June';i18n['clientlibs.browsers.deprecated.name.msie']='version of Internet Explorer';i18n['clientlibs.yes_no_cr']='Yes (No CR)';i18n['clientlibs.browsers.deprecated.name.chrome']='version of Chrome';i18n['clientlibs.dates.friday']='Friday';
 
     
 
-var tagData = [[{"vendor":"Mouseflow","description":"Mouseflow user tracking tag","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"//cdn.mouseflow.com/projects/11f51bf7-e8ff-4914-982c-ce4c6a769938.js","secureSrc":"","post_vars":[],"pre_vars":[["_mfq","obj-[]"]],"src_vars":[]}],[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)","cookie_name":"","cookie_value":"","element":"iframe","func":"","scope":"page","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","priva508"],["CAT","priva473"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien589"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien722"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien607"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien783"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien634"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=BI","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien631"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien914"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien226"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=RA","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien820"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (DEMO)","cookie_name":"ID","cookie_value":"demo-account","element":"iframe","func":"","scope":"site","segment":"ig_all","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien019"]]}],[{"vendor":"Adroll","description":"Adroll Smartpixel","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"","type":"script","src":"http://a.adroll.com/j/roundtrip.js","secureSrc":"https://a.adroll.com/j/roundtrip.js","post_vars":[],"pre_vars":[["adroll_adv_id","GAS7KBYCZVD5HGC43JYJXS"],["adroll_pix_id","QHQSFXB5AFFRLF7KSG6JL3"]],"src_vars":[]}],[{"vendor":"Exelator","description":"Exelator demo tag","cookie_name":"ID","cookie_value":"demo-account","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA29064"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"A=1","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA30903"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"CS=1","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA14085"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=IN","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA32469"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=CU","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA18343"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=CO","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA14202"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=BI","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA19434"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=OP","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA20518"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=SH","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA10041"]]}],[{"vendor":"Diligent","description":"wtp101 tag","cookie_name":"","cookie_value":"","element":"js","func":"","scope":"page","segment":"","type":"element","src":"//www.wtp101.com/pixel?id=__ID__","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["ID","17607"]]}],[{"vendor":"Facebook","description":"An alternative to the full JS tag, that uses their recommended noscript version.","cookie_name":"","cookie_value":"","element":"img","func":"","scope":"site","segment":"ig_all","type":"element","src":"https://www.facebook.com/tr?id=__VAR__&amp;ev=PixelInitialized","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","268914066602947"]]}],[{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","988543918"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing Everypage nojs","cookie_name":"","cookie_value":"","element":"img","func":"","scope":"everypage","segment":"","type":"element","src":"http://www.googleadservices.com/pagead/conversion/__GOOGLEID__/?label=__GOOGLELABEL__&amp;guid=ON&amp;script=0","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["GOOGLEID","1037885815"],["GOOGLELABEL","1biwCOvb5QMQ98Lz7gM"]]}]];
+var tagData = [[{"vendor":"Mouseflow","description":"Mouseflow user tracking tag","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"//cdn.mouseflow.com/projects/11f51bf7-e8ff-4914-982c-ce4c6a769938.js","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[["_mfq","obj-[]"]],"src_vars":[]}],[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)","cookie_name":"","cookie_value":"","element":"iframe","func":"","scope":"page","segment":"ig_all","type":"element","src":"//__SRC__.fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","priva508"],["CAT","priva473"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien589"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien722"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien607"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien783"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien634"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=BI","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien631"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien914"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien226"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=RA","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien820"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (DEMO)","cookie_name":"ID","cookie_value":"demo-account","element":"iframe","func":"","scope":"site","segment":"ig_all","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien019"]]},{"vendor":"DoubleClick","description":"Doubleclick Floodlight (PUBLIC EVERYPAGE)","cookie_name":"","cookie_value":"","element":"iframe","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//__SRC__.fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=random","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","sitew0"],["CAT","sitew0"]]}],[{"vendor":"Brandscreen","description":"Brandscreen Remarketing All","cookie_name":"","cookie_value":"","element":"img","func":"","scope":"site","segment":"ig_all","type":"element","src":"//tags.rtbidder.net/track?sid=__SID__&rnd=random","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SID","5433ecfe8bc06f191464412a"]]},{"vendor":"Brandscreen","description":"Brandscreen Remarketing Client","cookie_name":"","cookie_value":"","element":"img","func":"","scope":"site","segment":"ig_client","type":"element","src":"//tags.rtbidder.net/track?sid=__SID__&rnd=random","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SID","5433fd5d33bad61630840935"]]}],[{"vendor":"Adroll","description":"Adroll Smartpixel","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"","type":"script","src":"http://a.adroll.com/j/roundtrip.js","secureSrc":"https://a.adroll.com/j/roundtrip.js","delay":"","channel":"","post_vars":[],"pre_vars":[["adroll_adv_id","GAS7KBYCZVD5HGC43JYJXS"],["adroll_pix_id","QHQSFXB5AFFRLF7KSG6JL3"]],"src_vars":[]}],[{"vendor":"Exelator","description":"Exelator demo tag","cookie_name":"ID","cookie_value":"demo-account","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA29064"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"A=1","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA30903"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"CS=1","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA14085"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=IN","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA32469"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=CU","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA18343"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=CO","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA14202"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=BI","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA19434"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=OP","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA20518"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=SH","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA10041"]]}],[{"vendor":"Diligent","description":"wtp101 tag","cookie_name":"","cookie_value":"","element":"js","func":"","scope":"page","segment":"","type":"element","src":"//www.wtp101.com/pixel?id=__ID__","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["ID","17607"]]}],[{"vendor":"Everest","description":"AMO Search Retargeting","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"effp","scope":"everypage","segment":"ig_all","type":"script","src":"//www.everestjs.net/static/st.v2.js","secureSrc":"","delay":"","channel":"","post_vars":[["ef_segment","13538"],["ef_search_segment","13530"],["ef_userid","3219"],["ef_pixel_host","pixel.everesttech.net"],["ef_fb_is_app","0"],["ef_allow_3rd_party_pixels","1"],["ef_event_type","pageview"],["ef_pageview_properties",""]],"pre_vars":[],"src_vars":[]}],[{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","988543918"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing Everypage nojs","cookie_name":"","cookie_value":"","element":"img","func":"","scope":"everypage","segment":"","type":"element","src":"http://www.googleadservices.com/pagead/conversion/__GOOGLEID__/?label=__GOOGLELABEL__&amp;guid=ON&amp;script=0","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["GOOGLEID","1037885815"],["GOOGLELABEL","1biwCOvb5QMQ98Lz7gM"]]}],[{"vendor":"Facebook","description":"An alternative to the full JS tag, that uses their recommended noscript version.","cookie_name":"","cookie_value":"","element":"img","func":"","scope":"site","segment":"ig_all","type":"element","src":"https://www.facebook.com/tr?id=__VAR__&amp;ev=PixelInitialized","secureSrc":"","delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","268914066602947"]]}]];
 
 </script>
 
@@ -192,15 +448,42 @@ var tagData = [[{"vendor":"Mouseflow","description":"Mouseflow user tracking tag
 
 
 <script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/en_GB/ex-nav/terms-and-agreements/privacy-policy","extension":"html","selectors":[],"systemId":"ea5e59d4-43b0-4a68-b37f-55ac264b0151","runModes":"samplecontent,uk,crx2,publish,crx3mongo,prod"};</script>
-<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1412008513840/clientlibs_head.min.js"></script>
-
-
-<link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1412008513840/clientlibs_ps.min.css" type="text/css">
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/clientlibs_head.min.js"></script>
 
 
 
 
+    
+        <link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/clientlibs_common_top.min.css" type="text/css">
 
+        
+    
+    
+
+
+
+
+
+
+<!-- taken from https://mathiasbynens.be/notes/touch-icons -->
+
+<!-- For iPhone 6 Plus with @3Ã display: -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/images/icons/apple-touch-icon-180x180-precomposed.png">
+<!-- For iPad with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/images/icons/apple-touch-icon-152x152-precomposed.png">
+<!-- For iPad with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/images/icons/apple-touch-icon-144x144-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/images/icons/apple-touch-icon-120x120-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/images/icons/apple-touch-icon-114x114-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/images/icons/apple-touch-icon-76x76-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/images/icons/apple-touch-icon-precomposed.png"><!-- 57Ã57px -->
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@IGcom">
@@ -237,7 +520,11 @@ var tagData = [[{"vendor":"Mouseflow","description":"Mouseflow user tracking tag
 
 
 
-<body class="desktop privacy-policy content-page">
+<body class="igcom desktop privacy-policy top-content-page">
+
+
+
+
 
 
 
@@ -247,9 +534,7 @@ var tagData = [[{"vendor":"Mouseflow","description":"Mouseflow user tracking tag
 
 
 <div class="wrapper">
-
-   
-
+    
 
 
 
@@ -264,1656 +549,738 @@ var tagData = [[{"vendor":"Mouseflow","description":"Mouseflow user tracking tag
 
 
 
-<div class="header clearfix">
-    <div class="fluid-width inner inner-anniversary">
-        <p class="logo">
-			<a class="logo-link" href="/uk">
-				<span class="screenreader">home</span>
-			</a>
-		</p> 
-        <div class="header-top">                    
-        
-            <form action="/uk/search-results" class="search-form">
-                <fieldset class="searchbar-container">
-                    <legend class="screenreader">Search</legend>
-                    <input class="search-box" name="q" type="text" placeholder="Search">
-                    <input class="search-icon" type="submit" value="">
-                </fieldset>
-            </form>
 
-            <div class="language-select">
+
+    
+        <div class="wrapper-header">
+            <div class="header clearfix">
                 
+                    
+                        <ul class="header-cta">
 
-
-
-
-
-
-
-
-
-            </div>
-
-            
-                
-                    <div class="top-nav">
-                        <div class="linkList section">
-                            <ul>            
-                            
-                                <li>
-									
-										
-										
-											<a target="_self" href="/uk/igplayer" class="normal js_target"><span>IG Player</span></a>
-										
-									
-                                </li>
-                            
-                                <li>
-									
-										
-										
-											<a target="_self" href="/uk/refer-a-friend" class="normal js_target"><span>Refer a friend</span></a>
-										
-									
-                                </li>
-                            
-                                <li>
-									
-										
-										
-											<a target="_self" href="/uk/cookies" class="normal js_target"><span>Cookies</span></a>
-										
-									
-                                </li>
-                            
-                                <li>
-									
-										
-										
-											<a target="_blank" href="http://portal.ig.com/support/?websiteLocale=en_EN&amp;webSiteId=pub" class="normal js_target"><span>Help and support</span></a>
-										
-									
-                                </li>
-                            
-                                <li>
-									
-										
-										
-											<a target="_self" href="/uk/contact-us" class="normal js_target"><span>Contact us</span></a>
-										
-									
-                                </li>
-                            
-                                <li>
-									
-										
-											
-											<a target="_self" href="/uk/touch" class="normal js_target hidden" id="mobileLink"><span>Mobile Site</span></a>
-										
-										
-									
-                                </li>
-                            
-                            </ul>
-                        </div>                    
-                    </div>                          
-                
-                        
-            
-        </div>
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <ul class="header-cta">
-        <li>
-            <a id="header-login-button" href="/uk/login" class="button-grey button">
-    Login</a>
-
-
-        </li>
-        <li>
-            <a id="" href="/uk/create-account" class="button-green button">
+                            <li>
+                               <a id="" href="/uk/create-account" class="button button-green-small create-account-top ">
     Create account</a>
 
 
-        </li>
-        <li class="logged-in">
-            <a href="https://deal.ig.com/dealing/pd/index.htm" class="button-green button" id="open-dealer-button" target="_blank">
-                Open dealer
-            </a>
-        </li>
-        
-    </ul>
-
-    <ul class="nav">
-        
-            <li class=" menu-item uber-menu-trigger ">
-                <a class="menu-link" href="/uk/services-ig">
-					IG services
-                </a>
-                <div class="uber-menu-panel uber-dark">
-                    <div class="base-ig-page uber-menu-page page">
-
-
-
-
-
-
-
-
-
-
-	
-		<div class="content-parsys parsys snippet-parsys">
-
-<!-- DBG: included_as_snippet=true -->
-<div class="igColumns section">
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="cols col-4444">
-    <div class="col col1 parsys">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">Dealing products</p>
-
-<ul>
-	<li><a href="/uk/spread-betting">Spread betting</a></li>
-	<li><a href="/uk/cfd-trading">CFD trading</a></li>
-	<li><a href="/uk/stockbroking-with-ig">Stockbroking</a></li>
-	<li><a href="/uk/investyourway">InvestYourWay</a></li>
-	<li><a href="/uk/spread-betting-versus-cfds">Spread betting vs CFDs</a></li>
-	<li><a href="/uk/spread-betting-cfds-risks">What are the risks?</a></li>
-</ul>
-
-<p class="quaternary-header">Costs and margins</p>
-
-<ul>
-	<li><a href="/uk/spread-betting-cfds-charges">Our charges</a></li>
-	<li><a href="/uk/spread-betting-cfds-margin">Margins</a></li>
-	<li><a href="/uk/product-details">Product details</a></li>
-</ul>
-
-<p>&nbsp;</p>
-
+                            </li>
+
+                            <li>
+
+                                <a id="header-login-button" href="/uk/login" class="login-top">
+    Login</a>
+
+
+                            </li>
+                            <li class="logged-in">
+                                <a href="https://deal.ig.com/dealing/pd/index.htm" class="button button-green-small open-dealer-top" id="open-dealer-button" target="_blank">
+                                    Open dealer
+                                </a>
+                            </li>
+                        </ul>
+
+                        <div class="language-select">
+                            
+
+
+
+
+
+
+
+
+
+                        </div>
+                        <div class="top-head-menu">
+                            <div class="linkList">
+                                <ul class="top-items-menu">
+                                    
+                                        <li>
+                                            
+                                                
+                                                
+                                                    <a target="_self" href="/uk/igplayer" class="normal js_target"><span>IG TV</span></a>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                
+                                                
+                                                    <a target="_self" href="/uk/refer-a-friend" class="normal js_target"><span>Refer a friend</span></a>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                
+                                                
+                                                    <a target="_self" href="/uk/cookies" class="normal js_target"><span>Cookies</span></a>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                
+                                                
+                                                    <a target="_blank" href="http://portal.ig.com/support/?websiteLocale=en_EN&amp;webSiteId=pub" class="normal js_target"><span>Help and support</span></a>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                
+                                                
+                                                    <a target="_self" href="/uk/contact-us" class="normal js_target"><span>Contact us</span></a>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                
+                                                    
+                                                    <a target="_self" href="/uk/touch" class="normal js_target hidden" id="mobileLink"><span>Mobile Site</span></a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="international_wrap">
+                            <a class="header-international header-international-uk" href="http://www.ig.com/?rc=true">United Kingdom</a>
+                        </div>
+                        <p class="welcome-message">
+                            header.WelcomeMessage
+                        </p>
+
+                    
                 
             </div>
 
-            
-        </div>
+            <div class="main-head">
+                <div class="fluid-width inner inner-anniversary">
+                    <div class="left menu-wrapper logo">
+                        <p class="logo">
+                            <a class="logo-link" href="/uk">
+                                <span class="screenreader">IG</span>
+                            </a>
+                        </p>
+                    </div>
+                    <div class="right-wrapper menu-wrapper">
+                        <div class="right">
+                            <div class="main-head-right">
+                                <div class="search-box">
+                                    <form action="/uk/search-results" class="search-form">
+                                        <fieldset class="searchbar-container">
+                                            <legend class="screenreader">Search</legend>
+                                            <input class="search-box" name="q" type="text" placeholder="Search">
+                                            <input class="search-icon" type="submit" value="">
+                                        </fieldset>
+                                    </form>
+                                    <div class="clearfix"></div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="menu-mobile jsMenuMobile" id="menu-mobile">
+                                        
+                                    <span id="menu-text" class="menu-text">Menu</span>
+                                    <span id="hamburger-icon" class="hamburger-icon"></span>
+                                    <span class="screenreader">Menu</span>
+                                        
+                                </div>
+                                <div class="search_nav">
+                            <span>
+                                Search
+                            </span>
+                            <span>
+                                <span class="show_hide_icon"></span>
 
-        
+                            </span>
+
+                                </div>
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="main-menu-container jsMainMenu">
     
-</div>
-
-</div>
-
-    <div class="parsys col col2">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">Range of markets</p>
-
-<ul>
-	<li><a href="/uk/indices-trading">Indices</a></li>
-	<li><a href="/uk/forex-trading">Forex</a></li>
-	<li><a href="/uk/shares-trading">Shares</a></li>
-	<li><a href="/uk/commodities-trading">Commodities</a></li>
-	<li><a href="/uk/binaries-trading">Binaries</a></li>
-	<li><a href="/uk/sprint-markets-binaries">Sprint markets</a></li>
-	<li><a href="/uk/options-trading">Options</a></li>
-	<li><a href="/uk/other-markets">Other markets</a></li>
-	<li><a href="/uk/ipo-list">IPOs</a></li>
-</ul>
-
-                
-            </div>
+        <ul class="menu first-level-menu">
 
             
-        </div>
+                <li class="menu-item item-main">
+                    <a class="menu-link" href="/uk/indices-trading">
+                        Indices
 
-        
-    
-</div>
-
-</div>
-
-    
-    
-        <div class="parsys col col3">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">Tools and technology</p>
-
-<ul>
-	<li><a href="/uk/pricing-execution">Execution and pricing</a></li>
-	<li><a href="/uk/risk-management">Risk management</a></li>
-	<li><a href="/uk/charts">Charts</a></li>
-	<li><a href="/uk/research-and-trading-ideas">Trading ideas and research</a></li>
-	<li><a href="/uk/trading-alerts">Alerts</a></li>
-	<li><a href="/uk/automated-trading">Automated trading</a></li>
-</ul>
-
-<p class="quaternary-header">Platforms and apps</p>
-
-<ul>
-	<li><strong><a href="/uk/trading-platform-devices">All platforms and apps</a></strong></li>
-	<li><a href="/uk/desktop-trading-platform">Web-based platform</a></li>
-	<li><a href="/uk/mobile-trading-platform">Mobile apps</a></li>
-	<li><a href="/uk/tablet-trading-platform">Tablet apps</a></li>
-	<li><a href="/uk/l2-trading-platform">DMA platform</a></li>
-	<li><a href="/uk/trading-platform-prorealtime">ProRealTime</a></li>
-	<li><a href="/uk/trading-platform-metatrader">MetaTrader 4</a></li>
-	<li><a href="/uk/apis">Terminals and APIs</a></li>
-	<li><a href="/uk/compare-trading-platforms">Compare features</a></li>
-</ul>
-
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-        <div class="parsys col col4">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">Support</p>
-
-<ul>
-	<li><a href="/uk/client-support">Client support</a></li>
-	<li><a href="/uk/introduction-programme">Introduction programme</a></li>
-	<li><a href="/uk/premium-services">Premium services</a></li>
-	<li><a href="/uk/welcome-to-your-account">Welcome to your account</a></li>
-	<li><a href="/uk/monthly-newsletter">Monthly newsletter</a></li>
-</ul>
-
-<p class="quaternary-header">Before you apply</p>
-
-<ul>
-	<li><a href="/uk/how-to-apply">How to apply</a></li>
-	<li><a href="/uk/demo-account">Platform demos</a></li>
-	<li><a href="/uk/professional-corporate-trader">Corporate account</a></li>
-</ul>
-
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="https://demo-deal.ig.com/dealing/pd/publicpd.htm?webSiteId=igi&amp;locale=en_GB&amp;profile=DEFAULT&amp;exitPath=spread-betting" class="button-green button "><span>Try our platform</span>
                     </a>
+                    
+                        <span></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/uk/indices-trading" data-mainlink="Overview">
+                                    Indices
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/indices-trading-costs">
+                                        Indices trading costs and details
+                                    </a>
+                                </li>
+                            
+                        </ul>
                     
                 </li>
             
-
-            </ul>
-        
-        
-    
-</div></div>
-
-</div>
-
-    
-</div></div>
-</div>
-
-	
-	
-</div>
-
-                </div>
-            </li>
-        
-            <li class=" menu-item uber-menu-trigger ">
-                <a class="menu-link" href="/uk/ig-financial-markets">
-					Market insight
-                </a>
-                <div class="uber-menu-panel uber-dark">
-                    <div class="base-ig-page uber-menu-page page">
-
-
-
-
-
-
-
-
-
-
-	
-		<div class="content-parsys parsys snippet-parsys">
-
-<!-- DBG: included_as_snippet=true -->
-<div class="igColumns section">
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="cols col-4444">
-    <div class="col col1 parsys">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-width baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">Popular markets</p>
-
-<ul>
-	<li><a href="/uk/ig-indices/ftse-100">FTSE 100</a></li>
-	<li><a href="/uk/ig-indices/wall-street">Wall Street</a></li>
-	<li><a href="/uk/ig-indices/germany-30">Germany 30</a></li>
-	<li><a href="/uk/ig-forex/eur-usd">EUR/USD</a></li>
-	<li><a href="/uk/ig-forex/gbp-usd">GBP/USD</a></li>
-	<li><a href="/uk/ig-shares/apple-inc-AAPL-US">Apple</a></li>
-	<li><a href="/uk/ig-shares/facebook-inc-FB-US">Facebook</a></li>
-	<li><a href="/uk/ig-shares/twitter-inc">Twitter</a></li>
-	<li><a href="/uk/ig-commodities/gold">Gold</a></li>
-</ul>
-
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-    <div class="parsys col col2">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">Market data</p>
-
-<ul>
-	<li><strong><a class="none" href="/uk/market-data">All market data</a></strong></li>
-	<li><a href="/uk/forex">Forex data</a></li>
-	<li><a href="/uk/indices">Indices data</a></li>
-	<li><a href="/uk/shares">Shares data</a></li>
-	<li><a href="/uk/commodities">Commodities data</a></li>
-	<li><a href="/uk/bonds-and-rates">Bonds data</a></li>
-</ul>
-
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-    
-    
-        <div class="parsys col col3">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">News and analysis</p>
-
-<ul>
-	<li><strong><a href="/uk/market-news-and-analysis">All news and analysis</a></strong></li>
-	<li><a href="/uk/market-update">Market update</a></li>
-	<li><a href="/uk/forex-news">Forex news</a></li>
-	<li><a href="/uk/indices-news">Indices news</a></li>
-	<li><a href="/uk/shares-news">Shares news</a></li>
-	<li><a href="/uk/commodities-news">Commodities news</a></li>
-	<li><a href="/uk/non-farm-payrolls">Non-farm payrolls</a></li>
-</ul>
-
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-        <div class="parsys col col4">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">Trading tools and ideas</p>
-
-<ul>
-	<li><a href="/uk/week-ahead">The week ahead</a></li>
-	<li><a href="/uk/broker-ratings">Daily broker ratings</a></li>
-	<li><a href="/uk/shares-rsis-highs-lows">Daily shares RSIs, highs and lows</a></li>
-	<li><a href="/uk/out-of-hours-shares">Extended hours on US stocks</a></li>
-	<li><a href="/uk/ig-economic-calendar">Economic calendar</a></li>
-	<li><a href="/uk/ig-market-screener">Market screener</a></li>
-	<li><a href="/uk/ig-diary">Trading diary</a></li>
-	<li><a href="/uk/trading-central-newsletter">Trading Central email briefings</a></li>
-</ul>
-
-<div class="live-video-title"><p><a class="button button-grey js_target" href="/uk/live-video" target="_self">Discover IG Live</a></p>
-</div>
-
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-    
-</div></div>
-</div>
-
-	
-	
-</div>
-
-                </div>
-            </li>
-        
-            <li class=" menu-item uber-menu-trigger ">
-                <a class="menu-link" href="/uk/trading-skills">
-					Trading skills
-                </a>
-                <div class="uber-menu-panel uber-dark">
-                    <div class="base-ig-page uber-menu-page page">
-
-
-
-
-
-
-
-
-
-
-	
-		<div class="content-parsys parsys snippet-parsys">
-
-<!-- DBG: included_as_snippet=true -->
-<div class="igColumns section">
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="cols col-4444">
-    <div class="col col1 parsys">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">Seminars</p>
-
-<ul>
-	<li><strong><a href="/uk/seminars">All seminars</a></strong></li>
-	<li><a href="/uk/stock-index-trading-risk-management-advanced-charts1">Indices, charting and risk management</a></li>
-	<li><a href="/uk/our-speakers">Speakers</a></li>
-</ul>
-
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-    <div class="parsys col col2">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-width baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">Articles and guides</p>
-
-<ul>
-	<li><strong><a href="/uk/trading-articles-and-guides">All articles and guides</a></strong></li>
-	<li><a href="/uk/introduction-to-spread-betting">Introduction to spread betting</a></li>
-	<li><a href="/uk/introduction-to-cfds">Introduction to CFDs</a></li>
-	<li><a href="/uk/shares-articles">Shares guide</a></li>
-	<li><a href="/uk/forex-articles">Forex guide</a></li>
-	<li><a href="/uk/indices-articles">Indices guide</a></li>
-	<li><a href="/uk/other-markets-articles">Binaries guide</a></li>
-</ul>
-
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-    
-    
-        <div class="parsys col col3">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-width baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">&nbsp;</p>
-
-<ul>
-	<li><a href="/uk/what-is-short-selling">Short selling</a></li>
-	<li><a href="/uk/introduction-to-leverage">Leverage</a></li>
-	<li><a href="/uk/types-of-risk">Managing risk</a></li>
-	<li><a href="/uk/what-is-a-trading-plan">Developing a trading plan</a></li>
-	<li><a href="/uk/trading-psychology">Common mistakes</a></li>
-	<li><a class="none" href="/uk/introduction-to-technical-analysis">Technical analysis</a></li>
-</ul>
-
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-        <div class="parsys col col4">
-<div class="content promo section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div data-background-image="//a.c-dn.net/c/content/igcom/en_GB/market-training/menu/jcr%3Acontent/content-parsys/columns_0/col%20col4/promo.webimg.jpg/1410430794770.jpg" style="height:230px;" class="theme
-        
-        text-left
-        full-width
-        
-        crop-right
-         js_clickable 
-    ">
-    
-
-    
-
-    <div class="text">
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-
-        
-
-
-
-
-
-
-<p class="primary-standfirst"><font color="#FFFFFF">IG Player</font></p>
-
-<p>Exclusive, on-demand videos, including market news, analysis and educational guides</p>
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <p class="cta float-left">
-        <a class="  normal js_target" href="/uk/igplayer" target="_self">
-    
-        </a>
-    </p>
-
-
-        
-        
-    </div>
-
-    
-</div></div>
-
-</div>
-
-    
-</div></div>
-</div>
-
-	
-	
-</div>
-
-                </div>
-            </li>
-        
-            <li class=" menu-item uber-menu-trigger ">
-                <a class="menu-link" href="/uk/about-ig">
-					About IG
-                </a>
-                <div class="uber-menu-panel uber-dark">
-                    <div class="base-ig-page uber-menu-page page">
-
-
-
-
-
-
-
-
-
-
-	
-		<div class="content-parsys parsys snippet-parsys">
-
-<!-- DBG: included_as_snippet=true -->
-<div class="igColumns section">
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="cols col-106">
-    <div class="col col1 parsys">
-
-</div>
-
-    <div class="parsys col col2">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p class="quaternary-header">About IG</p>
-
-<ul>
-	<li><a href="/uk/why-ig">Why IG?</a></li>
-	<li><a href="/uk/client-funds">What we do with your money</a></li>
-	<li><a href="/uk/social-media">Follow us online</a></li>
-	<li><a href="/uk/sponsorship">Sponsorship</a></li>
-</ul>
-
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-    
-    
-</div></div>
-</div>
-
-	
-	
-</div>
-
-                </div>
-            </li>
-        
-    </ul>
- 
-        <div class="uber-menu-container" id="uber-menu-container"></div>
-    </div>
-</div>
-   
-
-
-
-
-
-
-<div class="header-bottom" id="secondary-cq-menu">
-        <div class="header-secondary-nav">
-            <ul class="secondary-nav" id="secondary-nav">
-                <li class="menu-item menu-item-secondary " id="cq-menu-item-0">
-                        <a class="menu-link link" href="/uk/complaints">Complaints</a>
-                    </li>
-                <li class="menu-item menu-item-secondary " id="cq-menu-item-1">
-                        <a class="menu-link link" href="/uk/cookies">Cookies</a>
-                    </li>
-                <li class="menu-item menu-item-secondary " id="cq-menu-item-2">
-                        <a class="menu-link link" href="/uk/responsible-gambling">Responsible gambling</a>
-                    </li>
-                <li class="menu-item menu-item-secondary " id="cq-menu-item-3">
-                        <a class="menu-link link" href="/uk/site-terms-and-conditions">Website terms and conditions</a>
-                    </li>
-                <li class="menu-item menu-item-secondary " id="cq-menu-item-4">
-                        <a class="menu-link link" href="/uk/customer-agreement">Customer agreement</a>
-                    </li>
-                <li class="menu-item menu-item-secondary " id="cq-menu-item-5">
-                        <a class="menu-link link" href="/uk/proof-of-identity">Proof of identity</a>
-                    </li>
-                </ul>
-        </div>
-    </div>
-
-   
-
-
-
-
-
-
-
-
-        <div class="breadcrumb-bar">
-            <div class="fluid-width">
-                <div class="breadcrumb">
-		            <ul>
-                        
-		                    <li><a href="/uk/terms-and-agreements">Terms and agreements</a></li>
-                        
-		                    <li><a href="/uk/privacy-policy">Privacy policy</a></li>
-                        
-                    <!--ig-breadcrumbs--> 
-				    </ul>
-			    </div>
-                
-
-
-
-
-
-
-
-    <div class="sharebanner">
-        <ul> 
-            
-            
-            
-                
-                    <li><a id="share-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.ig.com/uk/privacy-policy" target="_blank" title="Linked In" class="group openPopup"></a></li>
-                
-                
-                    <li><a id="share-tweet" href="https://twitter.com/share?url=http://www.ig.com/uk/privacy-policy&amp;text=Privacy%20policy&amp;via=IGcom" target="_blank" title="Tweet" class="group openPopup"></a></li>
-                
-                              
-                    <li><a id="share-fb" href="http://www.facebook.com/sharer/sharer.php?u=http://www.ig.com/uk/privacy-policy" target="_blank" title="Facebook" class="group openPopup"></a></li>
-                
+                <li class="menu-item item-main">
+                    <a class="menu-link" href="/uk/shares-trading">
+                        Shares
+
+                    </a>
+                    
+                        <span></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/uk/shares-trading" data-mainlink="Overview">
+                                    Shares
+                                </a>
+                            </li>
                             
-                
-                
-                
-                    <li><div id="share-plusone"><g:plusone size="medium" annotation="none"></g:plusone></div></li>
-                              
-                
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/shares-trading-costs">
+                                        Share trading costs and details
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/shares-dma">
+                                        Shares DMA
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/out-of-hours-shares">
+                                        Extended hours on US stocks
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
             
-        
+                <li class="menu-item item-main">
+                    <a class="menu-link" href="/uk/forex-trading">
+                        Forex
+
+                    </a>
+                    
+                        <span></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/uk/forex-trading" data-mainlink="Overview">
+                                    Forex
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/forex-trading-costs">
+                                        Forex trading costs and details
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/forex-direct">
+                                        Forex Direct
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main">
+                    <a class="menu-link" href="/uk/binaries-trading">
+                        Binaries
+
+                    </a>
+                    
+                        <span></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/uk/binaries-trading" data-mainlink="Overview">
+                                    Binaries
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/binaries-with-ig">
+                                        IG binaries
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/sprint-markets-binaries">
+                                        Sprints
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main">
+                    <a class="menu-link" href="/uk/other-markets">
+                        Other markets
+
+                    </a>
+                    
+                        <span></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/uk/other-markets" data-mainlink="Overview">
+                                    Other markets
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/bitcoin-btc">
+                                        Bitcoin
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/commodities-trading">
+                                        Commodities
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/options-trading">
+                                        Options
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/trading-interest-rates">
+                                        Interest rates
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/trading-sectors">
+                                        Sectors
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/trading-bonds">
+                                        Bonds
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/etps-trading">
+                                        ETPs
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/ipo-list">
+                                        IPOs
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/sunday-trading">
+                                        Sunday trading
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main">
+                    <a class="menu-link" href="/uk/services-ig">
+                        IG services
+
+                    </a>
+                    
+                        <span></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/uk/services-ig" data-mainlink="Overview">
+                                    IG services
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/spread-betting">
+                                        Spread betting
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/cfd-trading">
+                                        CFD trading
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/stockbroking-with-ig">
+                                        Stockbroking with IG
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/investyourway">
+                                        InvestYourWay
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/professional-corporate-trader">
+                                        Corporate account
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/premium-services">
+                                        Premium services
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/spread-betting-cfds-charges">
+                                        Our charges
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/spread-betting-versus-cfds">
+                                        Spread betting vs CFDs
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/spread-betting-cfds-risks">
+                                        What are the risks?
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main">
+                    <a class="menu-link" href="/uk/trading-platform-devices">
+                        Trading platforms
+
+                    </a>
+                    
+                        <span></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/uk/trading-platform-devices" data-mainlink="Overview">
+                                    Trading platforms
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/desktop-trading-platform">
+                                        Web
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/trading-apps">
+                                        Trading apps
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/advanced-trading-platforms">
+                                        Advanced platforms
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/trading-platform-features">
+                                        Platform features
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/compare-trading-platforms">
+                                        Compare features
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main">
+                    <a class="menu-link" href="/uk/ig-financial-markets">
+                        IG analysis
+
+                    </a>
+                    
+                        <span></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/uk/ig-financial-markets" data-mainlink="Overview">
+                                    IG analysis
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/market-data">
+                                        Market data
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/market-news-and-analysis">
+                                        News and analysis 
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/week-ahead">
+                                        The week ahead
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/ig-economic-calendar">
+                                        Economic Calendar
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/ig-market-screener">
+                                        Market Screener
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/ig-diary">
+                                        Trading diary
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/trading-central-newsletter">
+                                        Trading Central
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/live-video">
+                                        IG Live
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/broker-ratings">
+                                        Daily broker ratings
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/shares-rsis-highs-lows">
+                                        Daily shares RSIs, highs and lows
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/week-ahead-previous">
+                                        Last week
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main">
+                    <a class="menu-link" href="/uk/trading-skills">
+                        Education
+
+                    </a>
+                    
+                        <span></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/uk/trading-skills" data-mainlink="Overview">
+                                    Education
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/seminars">
+                                        Seminars
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/trading-articles-and-guides">
+                                        Articles and guides 
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/introduction-programme">
+                                        Introduction programme
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/uk/monthly-newsletter">
+                                        Monthly newsletter
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
         </ul>
-    </div>
-
-		    </div>
-        </div>
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
-    
-        
-            
-                <div class="hero-panel " style="background-image: url('');">
-                    <div class="fluid-width light">
-                        <h1>Privacy policy</h1>
-                        <div class="parsys hero-parsys">
-
 </div>
 
+
+
+
+
+
+
+    <div class="main-home-line"></div>
+
+<div class="clearfix"></div>
+
+
+
+
+                            </div>
+                        </div>
                     </div>
-                    
-                        <div class="loader"></div>
-                    
+                    <div class="clearfix"></div>
+
                 </div>
-            
-            
-        
+            </div>
+        </div>
+    
+
     
 
 
 
-<div class="content-parsys parsys">
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    <div class="content-wrapper">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="igColumns section">
+
+    <div class="cols col-124 ">
+        <div class="col col1 parsys">
+
+            
+                
+                
+                    
+                        
+                        
+                            <div class="title-wrapper">
+                                <h1 class="fluid-width title-header">Privacy policy</h1>
+                                
+
+
+
+
+
+
+
+
+
+
+
+    <div class="inline-disclaimer-draggable">
+        <div id="inline-disclaimer" class="inline-disclaimer">
+            All trading involves risk. Losses can exceed deposits.
+        </div>
+    </div>
+
+                            </div>
+                        
+                    
+                
+            
+
+            <div class="content-parsys parsys">
 <div class="content section rich-content">
 
 
@@ -1946,13 +1313,19 @@ var tagData = [[{"vendor":"Mouseflow","description":"Mouseflow user tracking tag
 
 
 
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
 
+
+
+
+
+    
+    
+        <div style="" class="text-theme  text-layout-full-left    baseline text-no-image">
+
+            
             <div class="text text-content" style="">
                 
-                
+                    
 
 
 
@@ -1971,7 +1344,7 @@ var tagData = [[{"vendor":"Mouseflow","description":"Mouseflow user tracking tag
 
 
 
-                <p class="standfirst">Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the IG group of companies.</p>
+                        <p class="standfirst">Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the IG group of companies.</p>
 
 <p>It is our policy to respect the confidentiality of information and the privacy of individuals. We are bound by the data protection principles contained in the Data Protection Act 1998.</p>
 
@@ -2083,40 +1456,18 @@ We may collect personal information you enter when using our website.</p>
 
 <p>&nbsp;</p>
 
-                
+                    
+
+
+                    
             </div>
 
-            
+
         </div>
 
         
     
 </div>
-
-</div>
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="footer UK">
-    <div class="footer-section-1">
-        <div class="fluid-width">
-            <div class="footer-padding">
-                <div class="parsys iparsys footer-section-1-parsys">
-<div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys footer-section-1-parsys">
 <div class="content section rich-content">
 
 
@@ -2149,13 +1500,19 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-    
-    
-        <div data-background-image="//a.c-dn.net/c/content/igcom/en_GB/jcr%3Acontent/footer-section-1-parsys/rich_content.webimg.png/1380191056109.png" style="height:30px;" class="white-opaque text-layout-full-width crop-right baseline imagesize50">
 
+
+
+
+
+    
+    
+        <div data-background-image="//a.c-dn.net/c/content/igcom/en_GB/ex-nav/terms-and-agreements/privacy-policy/jcr%3Acontent/content-parsys/moved_3_rich_content_3.webimg.png/1412783580661.png" style="height: 20px;" class="text-theme white text-layout-full-width     baseline imagesize50">
+
+            
             <div class="text text-content" style="">
                 
-                
+                    
 
 
 
@@ -2168,1389 +1525,192 @@ We may collect personal information you enter when using our website.</p>
 
 
     
-        <h3 class="heading ">
-        Any questions?
+    
+        
+    
+
+
+
+                        <p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+                    
+
+
+                    
+            </div>
+
+
+        </div>
+
+        
+    
+</div>
+
+</div>
+
+
+        </div>
+        <div class="col col2 parsys">
+            
+                <div class="parbase contact-us">
+
+
+
+
+
+
+
+
+
+
+
+<div class="contact-us-wrapper jsContactUs">
+    
+    
+    <div class="content rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div style="" class="text-theme  text-layout-full-left   content-margin-bot baseline text-no-image">
+
+            
+            <div class="text text-content" style="">
+                
+                    
+
+
+
+
+
+
+
+
+
+
+
+    
+        <h3 class="heading h2">
+        Contact us
         </h3>
     
     
 
 
 
-                
-                
-            </div>
+                        <p>We're here 24hrs a day from 8am Sunday to 10.15pm Friday,<br>
+and 9am to 5pm Saturday.</p>
 
-            
-        </div>
+<p class="large-label"><a class="telephone" href="tel:08004096789">0800 409 6789</a></p>
 
-        
-    
-</div>
-<div class="igColumns section">
+<p>You can also call&nbsp;0207 896 0079&nbsp;or<br>
+email <a href="mailto:helpdesk.uk@ig.com">helpdesk.uk@ig.com</a></p>
 
-
-
-
-
-
-
-
-
-
-
-
-<div class="cols col-4444">
-    <div class="col col1 parsys">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="height:58px;" class=" text-layout-right baseline imagesize20">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p><strong>New accounts</strong><br>
-0800 195 3100<br>
-1800 995 362 (Ireland)</p>
-
-                
-            </div>
-
-            
-                <div class="image text-image">
                     
 
 
+                    
+            </div>
 
 
-
-
-
-    
-    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_GB/jcr:content/footer-section-1-parsys/columns/col col1/rich_content.webimg.png/1377706644681.png" data-alt="New accounts" data-classnames="crop-right " data-height="58" data-width="56" data-link="">
-    <noscript>
-        
-            <img title="IGM_Content_Footer-Account_20pc" alt="New accounts" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_GB/jcr%3acontent/footer-section-1-parsys/columns/col%20col1/rich_content.webimg.png/1377706644681.png">
-            
-    </noscript>
-    </p>
-
-
-                </div>
-            
         </div>
 
         
     
 </div>
 
-</div>
-
-    <div class="parsys col col2">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     
-    
-        <div style="height:58px;" class=" text-layout-right baseline imagesize20">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p><strong>Helpdesk</strong><br>
-0800 409 6789<br>
-1800 995 364 (Ireland)</p>
-
-                
-            </div>
-
-            
-                <div class="image text-image">
-                    
-
-
-
-
-
-
-
-    
-    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_GB/jcr:content/footer-section-1-parsys/columns/col col2/rich_content.webimg.png/1377706788980.png" data-alt="Helpdesk" data-classnames="crop-right " data-height="58" data-width="56" data-link="">
-    <noscript>
-        
-            <img title="IGM_Content_Footer-Helpdesk_20pc" alt="Helpdesk" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_GB/jcr%3acontent/footer-section-1-parsys/columns/col%20col2/rich_content.webimg.png/1377706788980.png">
-            
-    </noscript>
-    </p>
-
-
-                </div>
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-    
-    
-        <div class="parsys col col3">
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="height:78px;" class=" text-layout-right baseline imagesize20">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                <p><strong>Dealing desk</strong><br>
-+44 20 7896 0000<br>
-+44 20 7633 5323</p>
-
-                
-            </div>
-
-            
-                <div class="image text-image">
-                    
-
-
-
-
-
-
-
-    
-    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_GB/jcr:content/footer-section-1-parsys/columns/col col3/rich_content.webimg.png/1407340373856.png" data-alt="Dealing desk" data-classnames="crop-right " data-height="78" data-width="56" data-link="">
-    <noscript>
-        
-            <img title="IGM_Content_Footer-DeaingDesk_20pc01" alt="Dealing desk" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_GB/jcr%3acontent/footer-section-1-parsys/columns/col%20col3/rich_content.webimg.png/1407340373856.png">
-            
-    </noscript>
-    </p>
-
-
-                </div>
-            
-        </div>
-
-        
-    
-</div>
-
-</div>
-
-        <div class="parsys col col4">
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="http://portal.ig.com/support/?websiteLocale=en_EN&amp;webSiteId=pub" class="block-arrow " target="_blank"><span>Help and support portal</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
     
 </div></div>
 
-</div>
-
-    
-</div></div>
+            
+            <div class="parsys secondary-parsys">
 
 </div>
-</div>
-</div>
 
-            </div>
         </div>
     </div>
-    <div class="footer-section-2a">
-        <div class="fluid-width">
-            <div class="footer-padding">
-                <div class="parsys iparsys footer-section-2a-parsys">
-<div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys footer-section-2a-parsys">
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/services-ig" class="block-arrow " title="Our services"><span>Our services</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-<div class="igColumns section">
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="cols col-4444">
-    <div class="col col1 parsys">
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-        <h3 class="linkList-header linkList-header-top">Dealing products</h3>
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/spread-betting" class="small-red-arrow " title="Spread betting"><span>Spread betting</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/cfd-trading" class="small-red-arrow " title="CFD trading"><span>CFD trading</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/stockbroking-with-ig" class="small-red-arrow " title="Stockbroking with IG"><span>Stockbroking with IG</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/spread-betting-versus-cfds" class="small-red-arrow " title="Spread betting vs CFDs"><span>Spread betting vs CFDs</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-        <h3 class="linkList-header linkList-header-top">Charges and margins</h3>
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/spread-betting-cfds-charges" class="small-red-arrow "><span>Our charges</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-
 </div>
-
-    <div class="parsys col col2">
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-        <h3 class="linkList-header linkList-header-top">Range of markets</h3>
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/forex-trading" class="small-red-arrow " title="Forex"><span>Forex</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/indices-trading" class="small-red-arrow " title="Indices"><span>Indices</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/shares-trading" class="small-red-arrow "><span>Shares</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/commodities-trading" class="small-red-arrow " title="Commodities"><span>Commodities</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/binaries-trading" class="small-red-arrow "><span>Binaries</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/options-trading" class="small-red-arrow "><span>Options</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-
-</div>
-
-    
-    
-        <div class="parsys col col3">
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-        <h3 class="linkList-header linkList-header-top">Tools &amp; technology</h3>
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/trading-platform-devices" class="small-red-arrow "><span>Dealing platforms &amp; devices</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/tablet-trading-platform" class="small-red-arrow "><span>iPad dealing</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/mobile-trading-platform" class="small-red-arrow "><span>Mobile dealing</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/apis" class="small-red-arrow "><span>APIs</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-
-</div>
-
-        <div class="parsys col col4">
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-        <h3 class="linkList-header linkList-header-top">Support</h3>
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/client-support" class="small-red-arrow " title="24 hour customer service"><span>Client support</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/introduction-programme" class="small-red-arrow "><span>Introduction programme</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-        <h3 class="linkList-header linkList-header-top">Before you apply</h3>
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/how-to-apply" class="small-red-arrow "><span>How to apply</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/demo-account" class="small-red-arrow "><span>Platform demos</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-
-</div>
-
-    
-</div></div>
-
-</div>
-</div>
-</div>
-
-            </div>
-        </div>
     </div>
-    <div class="footer-section-2b">
-        <div class="fluid-width">
-            <div class="footer-padding">
-                <div class="parsys footer-section-2b-parsys iparsys">
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <div class="footer-wrapper clearfix">
+            <div class="footer">
+
+                <div class="footer-promos">
+                    <div class="parsys iparsys footer-promos-parsys">
 <div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys footer-section-2b-parsys iparsys">
-<div class="igColumns section">
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="cols col-4444">
-    <div class="col col1 parsys">
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/ig-financial-markets" class="block-arrow "><span>Market insight</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/market-data" class="small-red-arrow "><span>Market data</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/market-news-and-analysis" class="small-red-arrow "><span>News and analysis</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/ig-economic-calendar" class="small-red-arrow "><span>Economic calendar</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-
-</div>
-
-    <div class="parsys col col2">
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/trading-skills" class="block-arrow "><span>Trading skills</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/seminars" class="small-red-arrow "><span>Seminars</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/trading-articles-and-guides" class="small-red-arrow "><span>Trading guides</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-
-</div>
-
-    
-    
-        <div class="parsys col col3">
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/about-ig" class="block-arrow "><span>About IG</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/social-media" class="small-red-arrow "><span>Find us online</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-<div class="content section rich-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
-
-            <div class="text text-content" style="">
-                
-                
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-
-
-
-                
-                
-            </div>
-
-            
-        </div>
-
-        
-    
-</div>
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/igplayer" class="block-arrow "><span>IG Player</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-
-</div>
-
-        <div class="parsys col col4">
-<div class="linkList section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="linkList-wrapper
-    
-    ">
-
-    
-
-    
-    
-        
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="/uk/create-account" class="button-green button "><span>Create account</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="https://demo-deal.ig.com/dealing/pd/publicpd.htm?webSiteId=igi&amp;locale=en_GB&amp;profile=DEFAULT&amp;exitPath=spread-betting" class="button-grey button "><span>Try our platform</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
-    
-</div></div>
-
-</div>
-
-    
-</div></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys footer-promos-parsys">
 
 </div>
 </div>
 </div>
 
-            </div>
-        </div>
-    </div>    
-    <div class="footer-section-3">
-        <div class="fluid-width">
-            <div class="footer-padding">
-                <div class="footer-logo" itemscope="" itemtype="http://schema.org/Organization">
-                    <a itemprop="url" href="/uk">
-                        
-                        <img itemprop="logo" src="//www.ig.com/etc/designs/onedomain/1412008513840/images/schema_image.jpg" width="20">
-                    </a>
                 </div>
-                <div class="parsys iparsys footer-section-3-parsys">
+
+                <div class="footer-main">
+
+                    <div class="footer-menu">
+                        <div class="footer-menu-parsys parsys iparsys">
 <div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys footer-section-3-parsys">
+</div><div class="iparys_inherited"><div class="footer-menu-parsys parsys iparsys">
 <div class="igColumns section">
 
 
@@ -3564,8 +1724,21 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="cols col-88">
-    <div class="col col1 parsys">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="cols-bg    bg-default   ">
+    <div class="cols col-4444 ">
+        <div class="col col1 parsys">
 <div class="content section rich-content">
 
 
@@ -3598,13 +1771,19 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-    
-    
-        <div style="" class=" text-layout-full-left baseline text-no-image">
 
+
+
+
+
+    
+    
+        <div style="" class="text-theme  text-layout-full-left    baseline text-no-image">
+
+            
             <div class="text text-content" style="">
                 
-                
+                    
 
 
 
@@ -3623,12 +1802,25 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-                <p>© 2003-2014 <a class="normal" href="/uk">IG</a> | <a class="normal" href="/uk/sitemap-ig">Sitemap</a> | <a class="normal" href="/uk/terms-and-agreements">Terms and agreements</a> | <a class="normal" href="/uk/privacy-policy">Privacy</a></p>
+                        <h3 class="heading"><a href="/uk/market-data">Markets</a></h3>
 
-                
+<p class="heading"><a href="/uk/forex-trading">Forex</a></p>
+
+<p><a href="/uk/indices-trading">Indices</a></p>
+
+<p><a href="/uk/shares-trading">Shares</a></p>
+
+<p><a href="/uk/binaries-trading">Binaries</a></p>
+
+<p><a href="/uk/other-markets">Other Markets</a></p>
+
+                    
+
+
+                    
             </div>
 
-            
+
         </div>
 
         
@@ -3637,8 +1829,9 @@ We may collect personal information you enter when using our website.</p>
 
 </div>
 
-    <div class="parsys col col2">
-<div class="linkList section">
+        
+            <div class="parsys col col2">
+<div class="content section rich-content">
 
 
 
@@ -3661,89 +1854,264 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
-        inline 
-    ">
+        <div style="" class="text-theme  text-layout-full-left    baseline text-no-image">
 
-    
+            
+            <div class="text text-content" style="">
+                
+                    
+
+
+
+
+
+
+
+
+
+
 
     
     
         
-            <ul class="linkList-items ">
-
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="http://www.iggroup.com/" class="small-red-arrow " title="IG Group" target="_blank"><span>IG Group</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="http://www.ig.com?rc=true" class="small-red-arrow " title="International" target="_blank"><span>International </span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="http://www.igmarketspartners.com/" class="small-red-arrow " title="Partners" target="_blank"><span>Partners</span>
-                    </a>
-                    
-                </li>
-            
-                <li class="linkList-item
-                        
-                        
-                        js_clickable">
-
-                    <a href="http://www.iggroup.com/corporate/careers.html" class="small-red-arrow " title="Careers" target="_blank"><span>Careers</span>
-                    </a>
-                    
-                </li>
-            
-
-            </ul>
-        
-        
     
-</div></div>
 
-</div>
 
-    
-    
-</div></div>
 
-</div>
-</div>
-</div>
+                        <h3 class="heading"><a href="/uk/services-ig">IG&nbsp;services</a></h3>
 
+<p class="heading"><a href="/uk/spread-betting">Spread betting</a></p>
+
+<p><a href="/uk/cfd-trading">CFD trading</a></p>
+
+<p><a href="/uk/stockbroking-with-ig">Stockbroking</a></p>
+
+                    
+
+
+                    
             </div>
+
+
         </div>
+
+        
+    
+</div>
+
+</div>
+
+        
+        
+        
+            <div class="parsys col col3">
+<div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div style="" class="text-theme  text-layout-full-left    baseline text-no-image">
+
+            
+            <div class="text text-content" style="">
+                
+                    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                        <h3 class="heading"><a href="/uk/trading-platform-devices">Trading platforms</a></h3>
+
+<p class="heading"><a href="/uk/desktop-trading-platform">Web platform</a></p>
+
+<p><a href="/uk/trading-apps">Trading apps</a></p>
+
+<p><a href="/uk/advanced-trading-platforms">Advanced platforms</a></p>
+
+<p><a href="/uk/compare-trading-platforms">Compare features</a></p>
+
+                    
+
+
+                    
+            </div>
+
+
+        </div>
+
+        
+    
+</div>
+
+</div>
+
+            <div class="parsys col col4">
+<div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div style="" class="text-theme  text-layout-full-left    baseline text-no-image">
+
+            
+            <div class="text text-content" style="">
+                
+                    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                        <h3 class="heading"><a href="/uk/ig-financial-markets">IG analysis</a></h3>
+
+<p class="heading"><a href="/uk/week-ahead">The week ahead</a></p>
+
+<p><a href="/uk/market-news-and-analysis">Market news</a></p>
+
+<p><a href="/uk/igplayer">IG TV</a></p>
+
+                    
+
+
+                    
+            </div>
+
+
+        </div>
+
+        
+    
+</div>
+
+</div>
+
+        
     </div>
+</div>
 
+</div>
 
+</div>
+</div>
+</div>
 
-    <div class="footer-section-4">
-        <div class="fluid-width">
-            <div class="footer-padding">
-                <div class="parsys iparsys footer-section-4-parsys">
+                    </div>
+
+                    <div class="footer-contact">
+                        <div class="parsys footer-contact-parsys iparsys">
 <div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys footer-section-4-parsys">
+</div><div class="iparys_inherited"><div class="parsys footer-contact-parsys iparsys">
 <div class="content section rich-content">
 
 
@@ -3776,13 +2144,19 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-    
-    
-        <div style="" class="dark-grey text-layout-full-left baseline text-no-image">
 
+
+
+
+
+    
+    
+        <div style="" class="text-theme  text-layout-full-left    baseline text-no-image">
+
+            
             <div class="text text-content" style="">
                 
-                
+                    
 
 
 
@@ -3801,16 +2175,228 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-                <p><strong>Spread bets and CFDs are leveraged products and can result in losses that exceed deposits. The value of shares, ETFs and ETCs bought through an IG stockbroking or stocks and shares ISA account can fall as well as rise, which could mean getting back less than you originally put in. Please ensure you fully understand the risks and take care to manage your exposure.</strong></p>
+                        <h3 class="heading" style="color: #fff;">Contact us</h3>
 
-<p>CFD, stockbroking and stocks and shares ISA accounts provided by IG Markets Ltd, spread betting provided by IG Index Ltd. IG is a trading name of IG Markets Ltd (a company registered in England and Wales under number 04008957) and IG Index Ltd (a company registered in England and Wales under number 01190902). Registered address at Cannon Bridge House, 25 Dowgate Hill, London EC4R 2YA. Both IG Markets Ltd (Register number 195355) and IG Index Ltd (Register number 114059) are authorised and regulated by the Financial Conduct Authority. Excludes binary bets, where IG Index Ltd is licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx" target="_blank">Gambling Commission, reference number 2628</a>. IG Index supports responsible gambling, for information and advice please visit <a href="http://www.gambleaware.co.uk/" target="_blank">www.gambleaware.co.uk</a>.</p>
+<p>New client: <a href="tel:08001953100">0800 1953100</a></p>
+
+<p>Clients: <a href="tel:08004096789">0800 4096789</a></p>
+
+<p>Tweet us: <a href="https://twitter.com/igclienthelp">@IGClientHelp</a></p>
+
+                    
+
+
+                    
+            </div>
+
+
+        </div>
+
+        
+    
+</div>
+
+</div>
+</div>
+</div>
+
+                    </div>
+
+                    <div class="footer-bottom">
+                        <div class="footer-links">
+                            <a class="footer-international footer-international-uk" href="http://www.ig.com/?rc=true">UK</a>
+                            <div class="parsys footer-links-parsys iparsys">
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys footer-links-parsys iparsys">
+<div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div style="" class="text-theme  text-layout-full-left    baseline text-no-image">
+
+            
+            <div class="text text-content" style="">
+                
+                    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                        <p><a href="/uk">IG</a>&nbsp;|&nbsp;<a href="/uk/sitemap-ig">Sitemap</a>&nbsp;|&nbsp;<a class="normal" href="/uk/terms-and-agreements">Terms and agreements</a>&nbsp;|&nbsp;<a href="https://www.ig.com/usermanagement/customeragreements?igCompany=iggb&amp;agreementType=privacy_policy&amp;locale=en_GB">Privacy</a>&nbsp;| <a href="http://portal.ig.com/support/?websiteLocale=en_EN&amp;webSiteId=pub" target="_blank">Help and support</a> | <a href="/uk/about-ig">About IG</a></p>
+
+                    
+
+
+                    
+            </div>
+
+
+        </div>
+
+        
+    
+</div>
+
+</div>
+</div>
+</div>
+
+                        </div>
+
+                        <div class="footer-social">
+                            <p>Follow us online:</p>
+                            <ul>
+                                
+                                <li class="facebook"><a href="https://www.facebook.com/IGcom">Facebook</a></li>
+                                
+                                
+                                <li class="twitter"><a href="https://twitter.com/IGcom">Twitter</a></li>
+                                
+                                
+                                <li class="linkedin"><a href="https://www.linkedin.com/company/igcom">LinkedIn</a></li>
+                                
+                                
+                                
+                                <li class="googleplus"><a href="https://plus.google.com/+igunitedkingdom">Google Plus</a></li>
+                                
+                                
+                                
+                                
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="footer-disclaimer">
+                    <div class="parsys iparsys footer-disclaimer-parsys">
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys footer-disclaimer-parsys">
+<div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div style="" class="text-theme  text-layout-full-left    baseline text-no-image">
+
+            
+            <div class="text text-content" style="">
+                
+                    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                        <p><strong>Spread bets and CFDs are leveraged products and can result in losses that exceed deposits. The value of shares, ETFs and ETCs bought through an IG stockbroking or stocks and shares ISA account can fall as well as rise, which could mean getting back less than you originally put in. Please ensure you fully understand the risks and take care to manage your exposure.</strong></p>
+
+<p>CFD, stockbroking and stocks and shares ISA accounts provided by IG Markets Ltd, spread betting provided by IG Index Ltd. IG is a trading name of IG Markets Ltd (a company registered in England and Wales under number 04008957) and IG Index Ltd (a company registered in England and Wales under number 01190902). Registered address at Cannon Bridge House, 25 Dowgate Hill, London EC4R 2YA. Both IG Markets Ltd (Register number 195355) and IG Index Ltd (Register number 114059) are authorised and regulated by the Financial Conduct Authority. Excludes binary bets, where IG Index Ltd is licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=2628" rel="nofollow" target="_blank">Gambling Commission, reference number 2628</a>. IG Index supports responsible gambling, for information and advice please visit <a href="http://www.gambleaware.co.uk" rel="nofollow" target="_blank">www.gambleaware.co.uk</a>.</p>
 
 <p>The information on this site is not directed at residents of the United States or any particular country outside the UK and is not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.</p>
 
-                
+                    
+
+
+                    
             </div>
 
-            
+
         </div>
 
         
@@ -3821,12 +2407,222 @@ We may collect personal information you enter when using our website.</p>
 </div>
 </div>
 
+                </div>
+
+                <div class="footer-colophon">
+                    <div class="footer-year">
+                        <div class="footer-logo" itemscope="" itemtype="http://schema.org/Organization">
+                            <a itemprop="url" href="/uk">
+                                <img itemprop="logo" src="//www.ig.com/etc/designs/onedomain/1427887756000/images/schema_image.jpg" width="20">
+                            </a>
+                        </div>
+                        <div class="parsys iparsys footer-year-parsys">
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys footer-year-parsys">
+<div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div style="" class="text-theme  text-layout-full-left    baseline text-no-image">
+
+            
+            <div class="text text-content" style="">
+                
+                    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                        <p>2003-2015</p>
+                    
+
+
+                    
+            </div>
+
+
+        </div>
+
+        
+    
+</div>
+
+</div>
+</div>
+</div>
+
+                    </div>
+                    <div class="footer-external-links">
+                        <div class="parsys iparsys footer-external-links-parsys">
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys footer-external-links-parsys">
+<div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div style="" class="text-theme  text-layout-full-left    baseline text-no-image">
+
+            
+            <div class="text text-content" style="">
+                
+                    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                        <p>&nbsp;<a href="http://www.iggroup.com/">IG Group</a>&nbsp;|&nbsp;<a href="/uk/institutions">Institutions</a>&nbsp;|&nbsp;<a href="http://www.iggroup.com/corporate/careers.html">Careers</a></p>
+
+                    
+
+
+                    
+            </div>
+
+
+        </div>
+
+        
+    
+</div>
+
+</div>
+</div>
+</div>
+
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
+    
+    
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <div id="inline-disclaimer" class="inline-disclaimer hidden">All trading involves risk. Losses can exceed deposits.</div>
+    
+    
+
+
+
 </div>
 
-   
 
 
 
@@ -3842,30 +2638,16 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-	<div class="sticky-footer " id="sticky-footer">
-	    <div class="fluid-width">
-	        <p class="disclaimer-text">All trading involves risk. Spread bets and CFDs are leveraged products and can result in losses that exceed deposits. The value of shares, ETFs and ETCs bought through a stockbroking account can fall as well as rise. Please take care to manage your exposure.</p>
-            
-	    </div>
-	</div>
-
-
-</div>
 
 
 
 
 
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1427887756000/clientlibs_ps.min.js"></script>
 
 
 
 
-
-
-
-<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1412008513840/clientlibs_ps.min.js"></script>
-
-<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/cq-cms-core/1411164997000/clientlibs_encryption.min.js"></script>
 
 
 
