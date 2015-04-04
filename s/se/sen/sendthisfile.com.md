@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sendthisfile.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728031313id_/http%3A//www.sendthisfile.com/policy/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendthisfile.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404154146id_/https%3A//www.sendthisfile.com/policy/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | SendThisFile
 
 PRIVACY POLICY
 
-Last Updated: November 22, 2013 
+Last Updated: November 20, 2014 
 
 This privacy policy (the "Statement") covers SendThisFile, Inc's ("SendThisFile," "us," or "our") SendThisFile file transfer service website, sendthisfile.com. By using the SendThisFile website, you consent to the data practices described in this Statement, as the same may be updated from time to time. 
 
@@ -56,7 +56,7 @@ We do not share personally identified information with anyone, unless we need to
 
 Except as stated above, when we ask you for personally identified information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don't want us to share the information or if you don't want to receive promotional and/or marketing information about products, services, and offerings from SendThisFile and/or any third parties. We will also provide you with a way to update your personally identified information that you share with us during registration. Once you have "opted in" and agreed that your information may be shared with third parties or you have responded to an offer by any third party on the SendThisFile websites, SendThisFile can no longer update any of your personally identified information that has been transferred to such third parties or opt you out of such third parties so that you no longer receive their promotional and/or marketing information. Instead, you must either contact that third party or refer to their privacy policy to update your personally identified information or to let them know that you no longer want to receive promotional and/or marketing information about their products, services, or offerings. The privacy policies and practices of these third parties may differ from this Statement. You may not opt-out of the uses stated above or our internal uses of your personally identified information.
 
-SendThisFile may, from time-to-time use the names of businesses that have accounts with SendThisFile in SendThisFile's marketing or advertising materials, in order to show prospective customers the types of businesses that have accounts with SendThisFile. If you do not want SendThisFile to use your company name in this manner, send an email to [legal@sendthisfile.com](mailto:legal@sendthisfile.com) and so state. We will send you a confirmation email. Make sure that you receive the confirmation email so as to assure that the transaction was completed.
+SendThisFile may, from time-to-time use the names of businesses that have accounts with SendThisFile in SendThisFile's marketing or advertising materials, in order to show prospective customers the types of businesses that have accounts with SendThisFile. If you do not want SendThisFile to use your company name in this manner, send an email to  and so state. We will send you a confirmation email. Make sure that you receive the confirmation email so as to assure that the transaction was completed.
 
 ### How does SendThisFile use cookies?
 
@@ -83,10 +83,10 @@ Attn: Safe Harbor Complaints
 2250 N. Rock Rd. Ste. 118-136   
 Wichita, KS 67226-2331 
 
-Fax: 215-895-9813, Attn: Safe Harbor Complaints 
+Fax: 316-925-5261, Attn: Safe Harbor Complaints 
 
 SendThisFile, Inc. has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SendThisFile, Inc., please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
 
 ###  How can you contact SendThisFile with Questions? 
 
-If you have questions regarding the SendThisFile Privacy Policy, you can contact us via email at [legal@sendthisfile.com](mailto:legal@sendthisfile.com), or via phone at 1-855-SEND-THIS (736-3844). 
+If you have questions regarding the SendThisFile Privacy Policy, you can contact us via email at , or via phone at 1-855-SEND-THIS (736-3844). 
