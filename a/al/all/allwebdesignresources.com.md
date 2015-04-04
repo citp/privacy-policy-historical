@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the allwebdesignresources.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326102736id_/http%3A//www.allgraphicdesign.com//privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwebdesignresources.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404233149id_/http%3A//www.allgraphicdesign.com/privacy-policy.html) for the most accurate reproduction.*
 
 # AllGraphicDesign.com's Privacy Policy
 
-**LAST UPDATED:   **February 14, 2013
+**QUINSTREET, INC.**
+
+**PRIVACY POLICY**
+
+**LAST UPDATED:   **December 10, 2013
 
 **QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
 
-**PERSONAL INFORMATION**
+**Personal Information**
 
 **Personal Information We Collect**
 
@@ -17,6 +21,7 @@
   * Telephone number
   * Email address
   * Credit or debit card number
+  * Social Security number
 
 
 
@@ -26,17 +31,18 @@ We collect Personal Information when you interact with us on the Site.  We may 
 
 **How We Use Personal Information**
 
-We may use Personal Information: ****
+We may use Personal Information:
 
-  * When you request, to connect you with vendors who will provide you with information about products and services.  ****
-  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an “inquiry” to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws. ****
-  * to respond to your inquiries and fulfill your requests, such as to send you newsletters. ****
+  * When you request, to connect you with vendors who will provide you with information about products and services. 
+  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an “inquiry” to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws.
+  * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
   * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information. 
   * to send you surveys and marketing communications that we believe may be of interest to you. 
   * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you. 
+  * to present you with advertisements tailored to you on certain third party websites, including on Facebook.
   * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully. 
   * to allow you to send messages to a friend through the Site.  By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. 
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends, and determining and improving the effectiveness of our promotional campaigns. 
   * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.
 
 
@@ -49,7 +55,7 @@ Your Personal Information may be disclosed:
 
 ·        to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services. 
 
-·        if you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services.  We are not responsible or liable for vendors’ use of your Personal Information.  ****
+·        if you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services.  We are not responsible or liable for vendors’ use of your Personal Information. 
 
 ·        if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource.  If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
 
@@ -59,16 +65,15 @@ Your Personal Information may be disclosed:
 
 ·        if you choose to send messages through the Site, to identify you as the sender to the recipient indicated by you. We will ask you for such recipient’s name and email address and we store both email addresses for the purpose of sending such message.
 
-·        by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials.  Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public.  ****
+·        by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials.  Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. 
 
-·        by you, if you have provided a testimonial about a site and given us permission to post that testimonial on our site. ****
+·        by you, if you have provided a testimonial about a site and given us permission to post that testimonial on our site.
 
 ·        to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
 
 ·        as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-**NON-PERSONAL INFORMATION  
-**
+**NON-personal Information**
 
 **Non-Personal Information We Collect**
 
@@ -107,15 +112,17 @@ We use IP Addresses for purposes such as calculating Site usage levels, helping 
 
 This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link or a widget on our site.  The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.  We may also utilize framing techniques that may make it appear that you are still on the site when you are actually on a third party web site.
 
-**THIRD PARTY VENDORS**
+The Site's mapping features are powered by Google Inc., the use of which is also governed by Google’s privacy policy located at <http://www.google.com/privacy.html>, as amended by Google from time to time.  
 
-We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies.  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting <http://www.networkadvertising.org/choices/>, <http://assets.invitemedia.com/opt-out.html> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  <http://www.networkadvertising.org/faq>.
+**Third Party VENDORS**
+
+We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies, including Google Analytics (we have enabled, among others, Google Analytics Demographics and Interest Reporting).  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting <http://google.com/settings/ads>,<http://networkadvertising.org/optout_nonppii.asp>, <http://assets.invitemedia.com/opt-out.html> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  <http://www.networkadvertising.org/managing/faqs.asp#question_11>.
 
 Our Site may include social media features, such as the Facebook Like or Tweet this button.  These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly.  These features are either hosted by a third party or hosted directly on our Site.  Your interactions with these features are governed by the privacy policy of the company providing it.
 
 PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS. 
 
-**SECURITY**
+**security**
 
 We use reasonable organizational, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below.
 
@@ -144,9 +151,9 @@ In your request, please make clear what information you would like to have chang
 
 We will retain your Personal Information for as long as your account is active or as needed to provide you services and for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law or as necessary to resolve disputes and enforce our agreements.  If you wish to request that we no longer use your information, please follow the instructions above.
 
-**USE OF SITE BY MINORS**
+**use of site by MINORS**
 
-The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site.  ****
+The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. 
 
 **CROSS-BORDER TRANSFER**
 
@@ -154,16 +161,15 @@ Your Personal Information may be stored and processed in any country where we ha
 
 **SENSITIVE INFORMATION**
 
-we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us.
+we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security number (unless otherwise requested), driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS  
-**
+**Your California Privacy Rights**
 
 California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information by writing to us at the address below. QuinStreet, Inc. is not obligated to respond to more than one such request from you per calendar year.
 
 **UPDATES TO THIS PRIVACY POLICY**
 
-We may change this Privacy Policy.  Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site.  Your use of the Site following these changes means that you accept the revised Privacy Policy. ****
+We may change this Privacy Policy.  Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site.  Your use of the Site following these changes means that you accept the revised Privacy Policy.
 
 **CONTACTING US**
 
