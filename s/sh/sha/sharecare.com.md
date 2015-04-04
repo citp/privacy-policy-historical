@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecare.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120102226id_/https%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecare.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405011400id_/https%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sharecare
 
@@ -16,7 +16,7 @@ _This privacy policy statement describes our privacy practices, including what i
 
 _We encourage parents to talk about what information their children should and shouldn't share online, and other restrictions about the online release of personal information to anyone they don't know. We hope that our privacy practices as described in this statement will remove any concerns that parents may have about their children visiting our websites._
 
-_We do not intentionally gather Personal Information about visitors who are under the age of [13]._
+_We do not intentionally gather Personal Information about visitors who are under the age of 13._
 
 By using our websites, you acknowledge that you have read this privacy policy statement and consent to our privacy practices as described in this statement, including our use and disclosure of personal information for the purposes described below. You further affirm your consent by becoming a registered member or submitting content or materials to or through our websites. This statement is not intended to and does not create any contractual or other legal right in or on behalf of any person.
 
