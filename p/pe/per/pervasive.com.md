@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210191113id_/http%3A//www.actian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405000850id_/http%3A//www.actian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Actian – Take Action on Big Data
 
