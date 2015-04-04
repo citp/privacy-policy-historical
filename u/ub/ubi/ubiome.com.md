@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubiome.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094837id_/https%3A//cache.ubiome.com/images/forms/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubiome.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404080435id_/https%3A//register.ubiome.com/images/forms/privacy_policy.pdf) for the most accurate reproduction.*
 
 # uBiome Website and Services
 
