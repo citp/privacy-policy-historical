@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warriordash.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811052219id_/https%3A//www.warriordash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriordash.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404123532id_/https%3A//www.warriordash.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy | Warrior Dash | The World's Largest Obstacle Race Series
+# Our Privacy Policy | Warrior Dash
 
 Welcome to a website owned by Red Frog Events (“RFE”) that features RFE or one of our events (collectively, the “Websites”).  RFE makes the Websites available for your use subject to all terms and conditions (“Terms”) set forth on the Websites, as may be amended from time to time.
 
