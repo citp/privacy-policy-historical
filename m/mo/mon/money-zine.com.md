@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money-zine.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703233501id_/http%3A//www.money-zine.com/about/information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-zine.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404232825id_/http%3A//www.money-zine.com/about/information/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -43,6 +43,8 @@ Money-zine.com uses third-party advertisements to help support the website.  Ad
 When this website is publishing advertisements from Google, those advertisements may use the DoubleClick DART cookie.  The DART cookie enables Google to serve ads based on user visits to Money-zine.com as well as other websites participating in Google's advertising program.  Users may opt out of the DART cookie by visiting the Google ad and [content network privacy policy](http://www.google.com/policies/privacy/ads/).
 
 Money-Zine.com uses cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), or save your password in password-protected areas.
+
+This website also uses Google Analytics Advertiser Features, which provides information about Google Display Network Impressions, integrates with DoubleClick, and allows us to use Google Analytics Demographics and Interest Reporting.  This feature enables third-party vendors to integrate first-party identifiers such as the Google Analytics cookie, with third party identifiers such as the DoubleClick cookie.  Users of this website have the right to [opt-out of these programs](https://tools.google.com/dlpage/gaoptout/).
 
 ### Commitment to Security
 
