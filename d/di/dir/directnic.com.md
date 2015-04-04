@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directnic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140609id_/https%3A//directnic.com/terms/doc/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directnic.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404162915id_/https%3A//directnic.com/terms/doc/privacy.policy) for the most accurate reproduction.*
 
 # Directnic.com-Terms
 
