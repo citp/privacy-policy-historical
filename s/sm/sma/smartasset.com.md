@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartasset.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705031325id_/https%3A//www.smartasset.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartasset.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405105318id_/https%3A//smartasset.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SmartAsset
+# Privacy Policy | SmartAsset.com
 
 **FINANCIAL INSIGHT TECHNOLOGY, INC** (" **Company** ") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.SmartAsset.com (the " **Site** ") and related services (collectively, " **Services** "). 
 
@@ -17,19 +17,6 @@
 **Personal Data Collected via Technology.** To make our Site, products, and related services more useful to you, our servers (which may be hosted by a third party service provider) collect Personal Data from you, including **your IP address or HTTP referrer**. We also use Cookies (as defined below) and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and which you viewed. Like most Internet services, we automatically gather this Personal Data and store it in log files each time you visit our website or access your account on our network. " **Cookies** " are small pieces of information that a website sends to your computer's hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of our website may not work properly. We have also enabled Google Analytics features, including Demographics and Interest Reporting to gather demographic information provided by these features. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by changing your Google Ads Settings. 
 
 **Our Relationship with Social Networking Sites.** We have created, and may offer You, interfaces that allow You to connect with social networking websites such as Facebook and Twitter ("SN Sites") through our Site. We will work with the SN Site's application protocol interface (better known as their developer API) in a way that allows You to authorize us to access Your account on that SN Site on Your behalf. In order to provide this authorization, You will not provide us with Your user name or password to the SN Site, but You will need to log-in to that SN Site directly through our Site. Once authorized by You, the SN Site will provide us a token that allows the SN Site to recognize us when we ask, on Your behalf, for access to Your account information or to post information. You will be able to revoke our access to any SN Site at any time by amending the appropriate settings from within Your account settings on the applicable SN Site, though such revocation may limit the Services we are able to provide You. 
-
-**5\. USE OF YOUR DATA.**
-
-**General Use.** In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. Company uses your Personal Data in the following ways: 
-
-  * Provide you with the Services and customer support; 
-  * Respond to your requests, resolve disputes and/or troubleshoot problems; 
-  * Verify your compliance with your obligations in our Terms of Use or other policies; 
-  * Improve the quality of the Site and the Services; 
-  * Communicate with you about the Site and the Services; 
-  * Market our products and services (and those of third parties) to You that we believe may be of interest to You. If you prefer that we do not send you these messages, please see the section below on **YOUR CHOICES REGARDING YOUR PERSONAL DATA** to learn how to opt-out. 
-
-
 
 **Creation of Anonymous Data.** We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Products and services and improve site navigation. Company reserves the right to use and disclose Anonymous Data to Third Party Companies in its discretion. 
 
@@ -71,11 +58,11 @@ A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL DATA TO A BUSINESS WITH WHOM HE/
 
 **Financial Insight Technology, Inc  
 Attn: Michael Carvin  
-5 Tudor City, New York City, NY, 10017  
-(646) 535 9487**
+44 Wall Street, New York City, NY, 10005  
+**
 
 **11\. DISPUTE RESOLUTION.** If you believe that Company has not adhered to this Statement, please contact Company by email at info@smartasset.com. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. 
 
 **12\. CHANGES TO THIS PRIVACY POLICY.** This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our site. These changes will be effective immediately for new users of our website, Products or related services. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of our website, Products, or related services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-**This Privacy Policy was enacted on March 12th, 2012.**
+**This Privacy Policy was enacted on November 23rd, 2014.**
