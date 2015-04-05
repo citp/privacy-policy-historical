@@ -1,292 +1,179 @@
-> *The following text is extracted and transformed from the creditcardfinder.com.au privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213084044id_/http%3A//www.creditcardfinder.com.au/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardfinder.com.au privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405223017id_/http%3A//www.finder.com.au/terms-and-conditions) for the most accurate reproduction.*
 
-# Terms of Use, Disclaimer & Privacy Policy | Credit Card Finder
+# Terms of Use, Disclaimer & Privacy Policy
 
-**Terms and Conditions of Use**
+  1. These are the Terms and Conditions of use of the website. By using the website, you agree to abide by these Terms and Conditions of Use.
+  2. Hive Empire Pty Ltd (ABN 18 118 725 125) trading as finder.com.au provides factual information, general advice and services on financial products as a Corporate Authorised Representative (432664) of Advice Evolution Pty Ltd AFSL 342880. Please [refer to our FSG - Financial Products](http://www.finder.com.au/resources/Finder-Financial-Services-Guide.pdf). We also provide general advice on credit products under our own Credit Licence ACL 385509. Please [refer to our Credit Guide](http://www.finder.com.au/resources/Hive_Empire_Credit.pdf) for more information. We are also a Corporate Authorised Representative of Countrywide Tolstrup Financial Services Group Pty Ltd. ABN 51 586 953 292 AFSL 244436 for the provision of general advice on general insurance products. Please [refer to our FSG - General Insurance](http://www.finder.com.au/resources/Finder-Financial-Services-Guide-for-General-Insurance.pdf).
+  3. finder.com.au is an information service that provides you with the tools and information you need to compare a wide range of products, providers and services. We do not provide information on all available products, providers or services so please appreciate that there may be other options available to you then the products, providers or services covered by our service. You should consider seeking financial advice and consider your own personal financial circumstances when comparing products.
+  4. We are not a product manufacturer nor are we owned by a bank, insurer or product manufacturer. While in some cases we may provide you with general financial product advice we don't, and won't, recommend specific providers, products or services. We want to provide you with the information and confidence to make an informed decision but we don't know enough about you to provide you with personal advice about your specific needs or circumstances.
+  5. In order to provide you with quotes, comparisons, factual information or advice we may need to collect some basic information about you such as your age, gender and occupation. By clicking "quote" or "enquiry" buttons you're authorising us to provide your information to an adviser or broker who will call you to provide you with personal advice about your options and available products. By doing this you are also consenting to us retaining your personal information so that we can contact you about other relevant services that we think might interest you (but you can "opt out" of this process at any time by simply withdrawing your consent).
+  6. We compare insurance data, basic information such as interest rates, application fees and other data which can be objectively determined. We do not assess if a particular product is suitable for you. Providing or obtaining an estimated insurance quote through us does not guarantee you can get the insurance. Acceptance by insurance companies is based on things like occupation, health and lifestyle.
+  7. We endeavour to ensure that the information and other content on our website is accurate and current but we can't guarantee the accuracy or currency of the information on which we've relied. We suggest that you use your own judgment and read the Product Disclosure Statement before you make any decision about a financial product covered by our site. If you find an error in our data please let us know and we'll correct our site.
+  8. To the extent permitted by law, Hive Empire disclaims all liability to any person in relation to use of the website, and you waive all claims against Hive Empire in relation to your use of the website. Hive Empire accepts no liability for any interference with or damage to a user's computer, software or data occurring in connection with or relating to the website or its use or any website linked to this website, and does not represent or warrant that applications initiated through the website will in fact be received or made to the intended recipient. Users are advised to confirm the application by other means.
+  9. The website includes links to other websites operated by community, business and government. These linked websites will have their own terms and conditions of use and you should familiarise yourself with these. All linked websites are linked "as is" and Hive Empire does not sponsor, endorse or necessarily approve of any material on websites linked from or to this site; does not make any warranties or representations regarding the quality, accuracy, merchantability or fitness for purpose of any material on websites linked from or to this site; does not make any warranties or representations that material on other websites to which this site is linked does not infringe the intellectual property rights of any person anywhere in the world; and does not authorise the infringement of any intellectual property rights contained in material in other websites by linking the website to those other websites.
+  10. If you have a complaint or dispute in relation our service, please email our complaints handling office using the following email address: [complaints@hiveempire.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=complaints@hiveempire.com)
+  11. The information and data on the website is subject to change without notice.
+  12. Hive Empire may revise the Terms and Conditions of Use at any time by updating this posting.
+  13. Unless expressly stated otherwise, Hive Empire claims copyright ownership of all material on the website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. Hive Empire reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968 (Cth), all other rights are reserved.
 
-  1. The CreditCardFinder.com.au website (the “website”) is owned and operated by Hive Empire Pty Ltd ACN 118 785 121 (“Hive Empire” or “we”) with Australian Credit License Number 385509.
-  2. These are the Terms and Conditions of Use of the website. By using the website, you agree to abide by these Terms and Conditions of Use. 
-  3. CreditCardFinder.com.au is a free information service. It gives you tools to identify and compare options. It does not make decisions for you. Hive Empire does not provide credit assistance: it does not suggest that you apply for a particular credit card with a particular credit provider, and does not assist you to apply for a particular credit card with a particular credit provider.
-  4. We compare cards on basic data such as interest rates, application fees and other data which can be objectively determined. We do not assess if a particular product is suitable for you.
-  5. Information on the website is only factual information about credit products or classes of products. It is not a statement of opinion or advice or a recommendation, express or implied. You acknowledge through the use of the website that you do not rely on the website as any form of professional or personal advice. You should seek the independent advice of an appropriate professional to verify your selection of a credit card product.
-  6. No claim is made as to the accuracy or authenticity of the content of the website. Hive Empire does not accept any liability to any person for the information provided on the website or incorporated into it by reference. Use of the information and data contained within the website or these pages is at your sole risk. If you rely on the information on the website you are responsible for ensuring by independent verification its accuracy, currency or completeness. 
-  7. Hive Empire is not a credit provider. We do not perform checks to ensure that you are able to afford a credit card product.
-  8. To the extent permitted by law, Hive Empire disclaims all liability to any person in relation to use of the website, and you waive all claims against Hive Empire in relation to your use of the website.
-  9. In some cases we receive a commission for referrals.
-  10. The website includes links to other websites operated by community, business and government. These linked websites will have their own terms and conditions of use and you should familiarise yourself with these. All linked websites are linked “as is” and Hive Empire does not sponsor, endorse or necessarily approve of any material on websites linked from or to this site; does not make any warranties or representations regarding the quality, accuracy, merchantability or fitness for purpose of any material on websites linked from or to this site; does not make any warranties or representations that material on other websites to which this site is linked does not infringe the intellectual property rights of any person anywhere in the world; and does not authorise the infringement of any intellectual property rights contained in material in other websites by linking the website to those other websites. 
-  11. If you have a complaint or dispute in relation our service, please email our complaints handling office using the following email address: [complaints@hiveempire.com](mailto:complaints@hiveempire.com)
-  12. If we are unable to resolve your complaint, it will be referred to the external dispute resolution service of which we are a member.
-  13. Although Hive Empire maintains a regular plan of recovery in the event of the loss of data stored in relation to products and for the purposes of compliance with internal dispute resolution procedures, we do not store individual personal data in relation to people’s use of the website, or any aspect of personal details such as names, addresses, phone numbers, email addresses or credit card data which may be used to identify a person or their credit card information.
-  14. The information contained in the website is not to be displayed except in full screen format. No liability is accepted for any information or services which may appear in any other format. 
-  15. Hive Empire accepts no liability for any interference with or damage to a user’s computer, software or data occurring in connection with or relating to the website or its use or any website linked to this website, and does not represent or warrant that applications initiated through the website will in fact be received or made to the intended recipient. Users are advised to confirm the application by other means.
-  16. If you use automatic language translation services in connection with the website, you do so at your own risk. 
-  17. The information and data on the website is subject to change without notice.
-  18. Hive Empire may revise the Terms and Conditions of Use at any time by updating this posting.
-  19. Unless expressly stated otherwise, Hive Empire claims copyright ownership of all material on the website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. Hive Empire reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968 (Cth), all other rights are reserved.
 
 
+### Selection & ordering of products
 
-**Selection& Ordering of Products**
+  1. Regarding the ordering of products, we believe there is no perfect order nor perfect ranking system. Our products are therefore displayed in no particular order or ranking and instead we provide functionality for users to self-select and compare products.There is no particular basis or system of awards or ratings for the products on this site.
+  2. The products listed in the tables on our website are selected based on a number of features including but not limited to:
 
-1.  Regarding the ordering of products, we believe there is no perfect order nor perfect ranking system. Our products are therefore displayed in no particular order or ranking and instead we provide functionality for users to self-select and compare products.There is no particular basis or system of awards or ratings for the products on this site.
 
-2\. The products listed in the tables on our website are selected based on a number of features including but not limited to:
+  * Features: including, but not limited to interest rates, annual fees and penalty fees.
+  * Promotions: the availability of promotions in relation to particular products.
+  * Access: whether a financial institution is offering a particular product at a particular time.
 
-  * Features: including, but not limited to interest rates, annual fees and penalty fees.
-  * Promotions: the availability of promotions in relation to particular products.
-  * Access: whether a financial institution is offering a particular product at a particular time.
 
 
+### Important information
 
-**Disclaimer**
+  1. Comparisons are not intended to be comprehensive of the market of available products and the not all providers in the market will always be included in our comparisons.
+  2. Where advertisements appear on this site they should not be taken as ranking or referencing any particular product above another in terms of its suitability for your use. Where terms such as "Top", "Best", "Featured", 'Editor's Choice'; and other terms indicating a selection of products but are in a no particular order, these terms are not based on objective criteria and may not apply in relation to your personal circumstances.
+  3. Financial products compared do not compare features that may be relevant to you in your choices about which product to utilise.
+  4. Where it is stated on this site that we have analysed offers in the market, the process of analysis is restricted to the information subsequently disclosed and may not be suitable for your personal circumstances.
+  5. Where our site links to particular products or displays 'Enquire now' buttons, we may receive a commission, referral fee or payment in relation to your clicking of this link. We also in some cases include products in particular comparisons or display products as 'featured' where the products being displayed or compared have commissions or referral fees or payments associated with them which we receive from product providers. In some cases we may receive remuneration for referring you to an adviser or product issuer. These arrangements vary but if you are referred to an adviser they will tell you what referral arrangements are in place.
 
-1.  Comparisons are not intended to be comprehensive of the market of available products and the not all providers in the market will always be included in our comparisons.
 
-2.  Where advertisements appear on this site they should not be taken as ranking or referencing any particular product above another in terms of its suitability for your use. Where terms such as “Top”, “Best”, “”, “Editor’s Choice” and other terms indicating a selection of products but are in a no particular order, these terms are not based on objective criteria and may not apply in relation to your personal circumstances. 
 
-3.  Financial products compared do not compare all features that may be relevant to you in your choices about which product to utilise.
+### Privacy policy
 
-4.  Where it is stated on this site that we have analysed offers in the market, the process of analysis is restricted to the information subsequently disclosed and may not be suitable for your personal circumstances.
+Hive Empire Pty Ltd (ABN 18 118 725 125) trading as finder.com.au is an information service that provides you with the tools and information you need to compare a wide range of products, providers and services. We take your privacy seriously. We have published this policy to show we manage the personal information you provide to us when using our services.
 
-**Disclosure**
+In order to provide you with information, tools and other services we may collect and retain "Personal Information" that may identify you or contribute to identifying you. "Personal Information" can include information such as your name, email address, your photo, contact details and, in some cases, general financial information. We will not collect your personal information unless it's necessary to provide the information, advice or service you've requested and, where possible, you'll be able to use our services anonymously.
 
-1\. Where our site links to particular products or displays ‘apply now’ buttons, we may receive a commission, referral fee or payment in relation to your clicking of this link. We also in some cases include products in particular comparisons or display products as ‘featured’ where the products being displayed or compared have commissions or referral fees or payments associated with them which we receive from product providers.
+We will only collect your personal information from you or from someone you've authorised to provide it to us. We will also only collect information by lawful and fair means and not in an unreasonably intrusive way.
 
-**Privacy Policy**
+**When we collect your information**
 
-Hive Empire Pty Ltd ACN 118 785 121(“Hive Empire” or “we”) takes your privacy seriously. We have adopted the following principles in relation to how we manage personal information.
+When you use our service (or while you're accessing our services) we may collect personal information about you. Because we take your privacy seriously we will take reasonable steps to ensure that you are aware of:
 
-**1\. Collection**
+  * who we are and how you can contact us; and
+  * how you can gain access to the information we have collected about you; and
+  * the purposes for which the personal information is collected; and
+  * the organisations (or the types of organisations) to which we may disclose your personal information; and
+  * the laws that requires us to collect this information; and
+  * the main consequences (if any) for you if you choose not to provide us with personal information about you.
 
-1.1 Hive Empire will not collect personal information unless the information is necessary for one or more of its functions or activities.
 
-1.2 Hive Empire will collect personal information only by lawful and fair means and not in an unreasonably intrusive way.
 
-1.3 At or before the time (or, if that is not practicable, as soon as practicable after) Hive Empire collects personal information about an individual from the individual, Hive Empire takes reasonable steps to ensure that the individual is aware of:
+We provide general advice and comparative information about a range of financial and credit products and can help you connect with businesses that provide relevant products and services. The financial services laws often require us to collect some personal information to provide these services and, if you choose not to provide this information, then there is a chance that the information or advice you receive may not be suitable.
 
-(a) the identity of the organisation and how to contact it; and
+We prefer to collect personal information about an individual only from that individual but when you use our services you may provide us with personal information about someone else. We won't ask you for personal information about someone else unless it's needed to provide you with the service, advice or information you've requested but if you provide us with information about another person, you need to ensure that you are authorised to disclose that information to us. It's your responsibility to ensure that they understand how we will collect, use or disclose the information you provide. You need to take reasonable steps to ensure that they understand that we will not take any additional steps to confirm their understanding of these issues.
 
-(b) the fact that he or she is able to gain access to the information; and
+**How we use personal information**
 
-(c) the purposes for which the information is collected; and
+We collect personal information from you to provide you with services, advice and information including
 
-(d) the organisations (or the types of organisations) to which the organisation usually discloses information of that kind; and
+  * answering your general queries about financial products, credit products and related matters;
+  * confirming your identity;
+  * communicating with you;
+  * administering our services;
+  * notifying you of the services we offer;
+  * carrying out marketing, training or promotional activities;
+  * Responding to feedback, comments, or any other contact;
+  * Sending you email(s) or newsletters to which you have subscribed;
+  * Carrying out competitions;
+  * helping you to resolve technical issues with our site;
+  * helping you to identify products and product providers appropriate for your needs and circumstances;
+  * referring you to product providers;
+  * in marketing, educative and promotional material (and then only with your express permission).
 
-(e) any law that requires the particular information to be collected; and
 
-(f) the main consequences (if any) for the individual if all or part of the information is not provided.
 
-1.4 If it is reasonable and practicable to do so, Hive Empire will collect personal information about an individual only from that individual.
+By using our services, you consent to us collecting, holding and using your personal information in this way.
 
-1.5 If Hive Empire collects personal information about an individual from someone else, it takes reasonable steps to ensure that the individual is or has been made aware of the matters listed in subclause 1.3 except to the extent that making the individual aware of the matters would pose a serious threat to the life or health of any individual.
+We may also access, hold and use aggregated information about the people that use our services. Aggregated information won't identify you or any other individual but simply provides us with non-personally identifiable data that we'll use to improve our services, understand our users' needs and develop tailored content. Although you would have provided us with the information we aggregate for these purposes, it won't identify you or enable you to be personally identified.
 
-**2\. Use and disclosure**
+**Where we hold your information**
 
-2.1 Hive Empire will not use or disclose personal information about an individual for a purpose (the secondary purpose) other than the primary purpose of collection unless:
+The information you provide to us - both personal and general information - is held on our servers within Australia and access to these servers is restricted. The information we collect is entered into our site by you, imported on your instruction and transmitted across the internet to our servers. By using our service, you are consenting to this process. The service providers who host our servers are not permitted to access your personal information except for the purposes of storing it. Although we will take reasonable steps to protect the information you provide to us, you should appreciate that the Internet itself is not secure and take care about the personal information that you transfer over the internet or by email.
 
-(a) both of the following apply:
+In a limited number of circumstances we may use third party providers to facilitate surveys or mail outs on our behalf. Should this occur, we will only do so where the Service Provider
 
-(i) the secondary purpose is related to the primary purpose of collection and, if the personal information is sensitive information, directly related to the primary purpose of collection;
+  * commits to securing your personal information in a manner consistent with our policy; or
+  * neither holds nor retains the personal information access or used for the specific purpose.
 
-(ii) the individual would reasonably expect the organisation to use or disclose the information for the secondary purpose; or
 
-(b) the individual has consented to the use or disclosure; or
 
-(c) if the information is not sensitive information and the use of the information is for the secondary purpose of direct marketing:
+**When we will disclose your information**
 
-(i) it is impracticable for Hive Empire to seek the individual’s consent before that particular use; and
+As a general principle, we won't disclose your personal information without your express permission unless
 
-(ii) Hive Empire will not charge the individual for giving effect to a request by the individual to the organisation not to receive direct marketing communications; and
+  * we are required to do so by the law, to comply with our obligations or exercise our rights;
+  * it's necessary to lessen or prevent a serious and imminent threat to a person's health, life or safety;
+  * it's necessary to lessen or prevent a threat to public health or public safety.
 
-(iii) the individual has not made a request to Hive Empire not to receive direct marketing communications; and
 
-(iv) in each direct marketing communication with the individual, the organisation draws to the individual’s attention, that he or she may express a wish not to receive any further direct marketing communications; and
 
-(v) each written direct marketing communication by Hive Empire with the individual (up to and including the communication that involves the use) sets out Hive Empire contact details; or
+**How we maintain accurate information**
 
-(d) Hive Empire reasonably believes that the use or disclosure is necessary to lessen or prevent:
+Although we will take reasonable steps to make sure that the personal information we collect, uses or disclose is accurate, complete and up-to-date, it is your responsibility to ensure that the information you provide to us is accurate, complete and current. You control the information you provide to us and you can correct or update any information you choose to provide to us. If you want us to correct our records simply tell us what needs to be changed and why.
 
-(i) a serious and imminent threat to an individual’s life, health or safety; or
+**How do we retain and secure your personal information**
 
-(ii) a serious threat to public health or public safety; or
+We will only ask for the information we need to provide you with services, advice and information you request from us. Where we retain your information, it will only be information you provide to us and it will only be collected and used with your express permission. Rest assured that we will, and do, take reasonable steps to protect the personal information we hold and prevent the misuse, loss or unauthorised use of the information we hold. We will also take reasonable steps to destroy or permanently de-identify personal information that we do not need or no longer need to retain.
 
-(e) Hive Empire has reason to suspect that unlawful activity has been, is being or may be engaged in, and uses or discloses the personal information as a necessary part of its investigation of the matter or in reporting its concerns to relevant persons or authorities; or
+Although Hive Empire maintains a regular plan of recovery in the event of the loss of data stored in relation to products and for the purposes of compliance with internal dispute resolution procedures, we do not routinely store individual personal data except with your express permission. Please be aware that when you engage with us via social media, in a forum or by email you may be providing us with some of your personal information such as names, addresses, phone numbers or email addresses. This information, which may identify you, is generally not retained by us for our broader use.
 
-(f) the use or disclosure is required or authorised by or under law; or
+**We believe in openness**
 
-(g) Hive Empire reasonably believes that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of an enforcement body:
+This document sets out our approach to the management of personal information and we make this available to anyone who asks for it. If you need to know more, we are more than happy to explain to you what sort of personal information we holds, for what purposes, and how we collect, hold, use and disclose that information. If you need additional information about the Australian Privacy Principles, the Privacy Law or our obligations you can also access the website of The Office of the Australian Information Commissioner (<http://www.oaic.gov.au/>).
 
-(i) the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law;
+**You can access your information**
 
-(ii) the enforcement of laws relating to the confiscation of the proceeds of crime;
+If we hold personal information about you, and in many cases we won't, you can request access to the information we hold. We will not restrict your access to the information unless:
 
-(iii) the protection of the public revenue;
+  * providing access would pose a serious and imminent threat to someone's life or health;
+  * providing access would pose a serious threat to someone's life or health; or
+  * providing access would have an unreasonable impact upon someone else's privacy; or
+  * the request for access is frivolous or vexatious; or
+  * the information relates to existing or anticipated legal proceedings between you and us;
+  * providing access would prejudice our negotiations; or
+  * providing access would be unlawful; or
+  * denying access is required or authorised by or under law.; or
+  * providing access would be prejudicial or commercially sensitive.
 
-(iv) the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct;
 
-(v) the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of the orders of a court or tribunal.
 
-**3\. Data quality**
+If we can't provide you with access to the information because of one or more of these reasons (which we will confirm in writing) we will consider reasonable alternatives that may satisfy all parties. You'll generally be able to access your personal information without cost but, if we think a charge is reasonable it will not be excessive and will not apply to lodging a request for access.
 
-Hive Empire will take reasonable steps to make sure that the personal information it collects, uses or discloses is accurate, complete and up-to-date.
+**You determine how you're identified**
 
-**4\. Data security**
+We only collect the information you provide to us so, to a great extent, when you use or services you can determine how you are identified. You can also choose to remain anonymous. We won't try to identify by your TFN, Medicare Number or other Government Identifier and we don't need this information from you.Your ABN may be used in some circumstances but the ABN is not an Government identifier.
 
-4.1 Hive Empire will take reasonable steps to protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure.
+**Where your personal information may end up**
 
-4.2 Hive Empire will take reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose for which the information may be used or disclosed under National Privacy Principle 2.
+Unless you choose to provide disclose your personal information, or instruct us to do so, the personal information we hold will be secured on our servers and not be transferred elsewhere. There are some exceptions, but we won't transfer personal information to a foreign country unless:
 
-**5\. Openness** ****
+  * We believes that the recipient of the information is subject to a law or arrangements that are substantially similar to the Australian Privacy Principles; or
+  * you consent to the transfer; or
+  * the transfer is necessary for the performance of a contract between you and us, or for the implementation of pre-contractual measures taken in response to your request; or
+  * he transfer is necessary for the conclusion or performance of a contract concluded by you;
 
-5.1 Hive Empire will set out in a document clearly expressed policies on its management of personal information. The organisation must make the document available to anyone who asks for it.
 
-5.2 On request by a person, Hive Empire will take reasonable steps to let the person know, generally, what sort of personal information it holds, for what purposes, and how it collects, holds, uses and discloses that information.
 
-**6\. Access and correction**
+We will not transfer information contrary to this policy or without your consent or in a manner inconsistent with the Australian Privacy Principles.
 
-6.1 If Hive Empire holds personal information about an individual, it will provide the individual with access to the information on request by the individual, except to the extent that:
+**How to provide feedback or request access**
 
-(a) in the case of personal information other than health information, providing access would pose a serious and imminent threat to the life or health of any individual; or
+We believe in openness and we are committed to ensuring that we respect the privacy of those using the exceptional services we provide. If you want to arrange access to your information or have questions about privacy or the use of this site, contact us at [privacy@hiveempire.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=privacy@hiveempire.com)
 
-(b) in the case of health information, providing access would pose a serious threat to the life or health of any individual; or
+If you have a complaint, you can use the same address or write directly to the Privacy Officer who will try to:
 
-(c) providing access would have an unreasonable impact upon the privacy of other individuals; or
+  * provide a response within 5 days; and
+  * investigate and attempt to resolve your complaint within 20 days.
 
-(d) the request for access is frivolous or vexatious; or
 
-(e) the information relates to existing or anticipated legal proceedings between the organisation and the individual, and the information would not be accessible by the process of discovery in those proceedings; or
 
-(f) providing access would reveal the intentions of the organisation in relation to negotiations with the individual in such a way as to prejudice those negotiations; or
+**How this policy will be updated**
 
-(g) providing access would be unlawful; or
+This policy will be updated from time to time and become effective the moment it is posted on our site. If you subsequently use our site or services you are deemed to have a accepted the amended policy
 
-(h) denying access is required or authorised by or under law; or
-
-(i) providing access would be likely to prejudice an investigation of possible unlawful activity; or
-
-(j) providing access would be likely to prejudice:
-
-(i) the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; or
-
-(ii) the enforcement of laws relating to the confiscation of the proceeds of crime; or
-
-(iii) the protection of the public revenue; or
-
-(iv) the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct; or
-
-(v) the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of its orders,
-
-by or on behalf of an enforcement body; or
-
-(k) an enforcement body performing a lawful security function asks the organisation not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia.
-
-6.2 However, where providing access would reveal evaluative information generated within the organisation in connection with a commercially sensitive decision-making process, Hive Empire will give the individual an explanation for the commercially sensitive decision rather than direct access to the information.
-
-6.3 If Hive Empire is not required to provide the individual with access to the information because of one or more of paragraphs 6.1(a) to (k) (inclusive), it will, if reasonable, consider whether the use of mutually agreed intermediaries would allow sufficient access to meet the needs of both parties.
-
-6.4 If Hive Empire charges for providing access to personal information, those charges:
-
-(a) will not be excessive; and
-
-(b) will not apply to lodging a request for access.
-
-6.5 If Hive Empire holds personal information about an individual and the individual is able to establish that the information is not accurate, complete and up-to-date, the organisation must take reasonable steps to correct the information so that it is accurate, complete and up-to-date.
-
-6.6 If the individual and Hive Empire disagree about whether the information is accurate, complete and up-to-date, and the individual asks the organisation to associate with the information a statement claiming that the information is not accurate, complete or up-to-date, the organisation must take reasonable steps to do so.
-
-6.7 Hive Empire will provide reasons for denial of access or a refusal to correct personal information.
-
-**7\. Identifiers**
-
-7.1 Hive Empire will not adopt as its own identifier of an individual an identifier of the individual that has been assigned by:
-
-(a) a government agency; or
-
-(b) an agent of a government agency acting in its capacity as agent; or
-
-(c) a contracted service provider for a Commonwealth contract acting in its capacity as contracted service provider for that contract.
-
-7.2 Hive Empire will not use or disclose an identifier assigned to an individual by an agency, or by an agent or contracted service provider mentioned in subclause 7.1, unless:
-
-(a) the use or disclosure is necessary for the organisation to fulfil its obligations to the agency; or
-
-(b) one or more of paragraphs 2.1(e) to 2.1(h) (inclusive) apply to the use or disclosure; or
-
-(c) the use or disclosure is by a prescribed organisation of a prescribed identifier in prescribed circumstances.
-
-7.3 In this clause, identifier includes a number assigned by an organisation to an individual to identify uniquely the individual for the purposes of the organisation’s operations. However, an individual’s name or ABN (as defined in the A New Tax System (Australian Business Number) Act 1999) is not an identifier.
-
-**8\. Anonymity**
-
-Wherever it is lawful and practicable, individuals must have the option of not identifying themselves when entering transactions with Hive Empire.
-
-**9\. Transborder data flows**
-
-Hive Empire may transfer personal information about an individual to someone (other than the organisation or the individual) who is in a foreign country only if:
-
-(a) Hive Empire reasonably believes that the recipient of the information is subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to the National Privacy Principles; or
-
-(b) the individual consents to the transfer; or
-
-(c) the transfer is necessary for the performance of a contract between the individual and Hive Empire, or for the implementation of pre-contractual measures taken in response to the individual’s request; or
-
-(d) the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the individual between the organisation and a third party; or
-
-(e) all of the following apply:
-
-(i) the transfer is for the benefit of the individual;
-
-(ii) it is impracticable to obtain the consent of the individual to that transfer;
-
-(iii) if it were practicable to obtain such consent, the individual would be likely to give it; or
-
-(f) Hive Empire has taken reasonable steps to ensure that the information which it has transferred will not be held, used or disclosed by the recipient of the information inconsistently with the National Privacy Principles.
-
-**10\. Sensitive information**
-
-10.1 Hive Empire will not collect sensitive information about an individual unless:
-
-(a) the individual has consented; or
-
-(b) the collection is required by law; or
-
-(c) the collection is necessary to prevent or lessen a serious and imminent threat to the life or health of any individual, where the individual whom the information concerns:
-
-(i) is physically or legally incapable of giving consent to the collection; or
-
-(ii) physically cannot communicate consent to the collection; or
-
-(d) the collection is necessary for the establishment, exercise or defence of a legal or equitable claim.
-
-Hive Empire stores your details if you subscribe to the CreditCardFinder.com.au email service with Aweber.com. Hive Empire cannot be held responsible for breach of security and any losses due to any breach of security of Aweber.com. You can review the [Aweber privacy policy](http://www.aweber.com/privacy.htm) on their website.
-
-Details that you enter when you sign up to receive updates will be used to fulfil our obligations to you. These include:
-
-  * Answering enquiries.
-  * Responding to feedback, comments, or any other contact.
-  * Sending you email newsletters that you have subscribed to.
-
-
-
-Your information will also be used by Hive Empire for:
-
-  * Analysis and assessment.
-  * Carrying out competitions.
-
-
-
-Your information will only be passed to third parties and authorities involved in fraud detection and prevention.
-
-You are able to request access to information held about you by Hive Empire. To make such a request, please write a letter to us at:
-
-CreditCardFinder.com.au  
-Attn: Privacy Manager  
-Level 10, 99 York St  
-Sydney NSW 2000
-
-Hive Empire takes your privacy seriously and if any issue has arisen in relation to privacy and the use of this site, you may contact Hive Empire at [privacy@hiveempire.com](mailto:privacy@hiveempire.com)
+**Version Date: 12 March 2014**
 
 Please note that if the responding officer determines with good reason that your message is spam within the meaning of the Spam Act 2003 (Cth), Hive Empire reserves the right not to respond to any message you send and to block your use of this website from the IP address where the spam originates and reserves the right to claim compensation under the appropriate legislation.
-
-  
-
