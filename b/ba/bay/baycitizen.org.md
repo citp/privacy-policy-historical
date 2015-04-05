@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baycitizen.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627065937id_/https%3A//www.baycitizen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baycitizen.org privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406001257id_/https%3A//www.baycitizen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # The Bay Citizen
 
