@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630215248id_/http%3A//www.estore.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405202410id_/http%3A//www.estore.com.au/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | eStore.com.au
+# eStore - Privacy Policy | eStore.com.au
 
-### Effective 22/11/2012
+### Effective 04/03/2014
 
 eStore.com.au respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy. If you have questions or concerns regarding this statement, you should first contact eStore.com.au using [this online form](http://www.estore.com.au/home/contact) or call us on 1300 658 600.
 
@@ -77,4 +77,4 @@ Only those eStore employees that have a legitimate business purpose for accessin
 
 If and when we make any changes to any part of this Privacy Policy we will amend the effective date displayed at the top of this page.
 
-**eStore a Division of City Software Group Pty Ltd ABN 11054615253**
+**Copyright 2015 AER Group Pty Ltd trading as eStore.com.au, ABN: 25 163 963 782**
