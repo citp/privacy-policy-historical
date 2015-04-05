@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourupload.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063526id_/http%3A//www.yourupload.com/index.php%3Fact%3Dpage%26page%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourupload.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405042417id_/http%3A//www.yourupload.com/page/privacy-policy) for the most accurate reproduction.*
 
-# YourUpload
+# Privacy Policy
 
 There are many different ways you can use our services - to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a YourUpload Account, we can make those services even better - to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we're using information and the ways in which you can protect your privacy.
 
@@ -162,7 +162,3 @@ We regularly review our compliance with our Privacy Policy. We also adhere to se
 ## Changes
 
 Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
-
-* * *
-
-Execution: 0.01675 | Memory: 1.27MB
