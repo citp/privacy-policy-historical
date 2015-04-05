@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the rview.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704101955id_/https%3A//www.rview.com/Service/PersonalPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rview.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405131137id_/https%3A//content.rview.com/en/policy/personal-policy) for the most accurate reproduction.*
 
-# RemoteView - Remote Access, Control your PC from a mobile and another PC,
-
-  * [Legal Info](https://web.archive.org/Service/UsingPolicy)
-  * [Privacy Policy](https://web.archive.org/Service/PersonalPolicy)
-
-
-
-Privacy Policy
+# RemoteView | Smart remote control RemoteView
 
 We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, RSUPPORT follows different principles in accordance with worldwide practices for customer privacy and data protection.
 
@@ -97,5 +90,3 @@ RSUPPORT, INC.
 New York, NY 10018, USA  
 (888) 348-6330  
 COPYRIGHT © 2003-2012 RSUPPORT, INC. ALL RIGHTS RESERVED. 
-
-Site map
