@@ -1,35 +1,29 @@
-> *The following text is extracted and transformed from the topb2c.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404194837id_/http%3A//www.topb2c.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topb2c.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405020658id_/http%3A//www.topb2c.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice :
+# Privacy Policy
 
-﻿ 
+We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of Inc.  
+If you have visited our website, that will be considered to be your acceptance to this privacy policy.
 
-Due to the nature of our website and in an effort to improve your shopping experience, topb2c.com does collect personally identifiable information as well as log aggregate shopping information. We recognize we must maintain and use customer information responsibly. **We respect your privacy and will never sell your information to third parties.**
+ **Automatically collected information**    
+Whenever you interact with us, we will receive and deposit the given information.  
+For example, like many other sites, we use “cookies”.  
+When your internet browser visits , we will collect some information. (please refer to the sample of information collecting process stated at the end of this policy)  
+Many companies provide you with the technology that can help you to visit the website anonymously. Although under this condition we can’t offer you the individualized experience on our website as your ID is unidentified, we still like to remind you of the existence of these technologies.
 
-**What personal information is collected and how is it used?**  
-Personal information is considered any information that is specific to you, such as your name, email address, credit card information, etc. In order to make a purchase or receive topb2c.com's newsletter, users must enter their personal information.
+ **E-mail Correspondence**  
+To help us making the E-mail more useful and interesting, when you open the email from , we will often receive a mail confirming you having read the delivered email. (if your computer support this function)We will also make the comparison between our customer list and other companies’in order to avoid the junk messages.  
+The information from other resources:  
+We may collect your information for other resources and add it into our customer database (please refer to the sample of information collecting process stated at the end of this policy)
 
-When you make a purchase, we require that you provide your shipping and billing address, phone number and credit card information (if paying by credit card). This information is stored in a secure database, only accessible to select employees with access rights to this information. topb2c.com protects your online order information using Secure Sockets Layer (SSL) technology. 
+ **Cookies**  
+Cookies can be defined as a kind of discriminating symbols consisting of letters and numbers read-in your computer hard disc by us through your internet browser so that our system will identify your browser during your visit and display the characteristics and quantity of items in your shopping cart.   
+The help function of tool bar on your browser will tell you how to prevent the browser from installing new cookies and inform you when the browser installing a new cookie or shut down the cookies totally.  
+Besides, you can close or cancel the alike data of browser add-ons like Flash cookies by changing its setting or visiting other manufactures’websites.  
+However, cookies can help you to make most use of the best special services from , so we recommend you to set up an open status for this program.
 
-Additionally, topb2c.com logs your Internet Protocol Address (IP). An IP address is a number that is automatically assigned to your computer when browsing the Internet. Information from IP addresses is used for system administration, to examine overall traffic trends, troubleshooting, etc. This information is used only in the aggregate form. IP addresses are not linked to any PII, meaning that your session on our site is tracked, but will not be linked to any personal information.
-
-**How secure is my personal information?**  
-Your information is secure with topb2c.com! Protecting your order information is a priority. topb2c.com uses Secure Sockets Layer (SSL) technology to insure that all data passed between our server and your web browser remain private and secure.
-
-SSL encrypts your order information to avoid the decoding of that information by anyone other than topb2c.com. To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), this means the SSL is active. You can also double check by looking at your browsers URL. When accessing a secure server, the first characters of the site address will change from "http" to "https".
-
-Some firewalls do not permit communication through secure servers. In this case, you will not be able to connect to the secure server and must disable your firewall or choose a different method to order.
-
-**Cookies: What are they and how do we use them?**  
-A web tracking cookie is a bit of electronic information that a website or web browser can place on your computer's hard drive in order to do specific jobs like remember your preferences or shopping cart contents. Cookies allow web site operators to better customize site visits to the visitor's preferences. The use of cookies has become standard on the Internet and most major websites use them.
-
-topb2c.com uses cookies to help keep track of the products you add to your wishlist and your cart so that we can provide a more convenient shopping experience. Please be assured that we do not use cookies to track any information about other sites you may visit or to collect any additional personal information.
-
-Although most browsers automatically accept cookies, you can usually change your web browser’s preferences to block cookies or notify you whenever you are sent a cookie.
-
-**Protection for Children**  
-
-
-topb2c.com is not intended for users under the age of 18, and we have no intention of collecting Personal Information from children (i.e., individuals under the age of 13). Where appropriate, we take reasonable measures to inform children not to submit such information to our site or in response to advertisements. If a child has provided us with personally identifiable information, we will use all reasonable efforts to delete such information from our database.
-
-If you have any questions about this privacy statement, the practices of this site, your dealings with topb2c.com, or would like to opt-out of receiving communications from us, you can contact us — **[sales@topb2c.com](mailto:sales@topb2c.com)**.
+ **The Information from Other Resources  
+** The examples of the information we get from other resources containing the depatching and address information we get from our forwarder or other third party, which can correct our record and make it easy to deliver your next order and contact you..  
+Account information, purchasing or returning information, searching keywords and results given by our affiliated enterprises’service, page browsing information gotten from our cooperative enterprises, searching result and links, including not-for-free searching list.  
+The information you can get  
+The information you can get easily from containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
