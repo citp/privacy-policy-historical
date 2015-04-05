@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybabycart.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602202616id_/http%3A//mybabycart.com/content/2-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybabycart.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405070235id_/http%3A//mybabycart.com/content/2-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyBabyCart
 
