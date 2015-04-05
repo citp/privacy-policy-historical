@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the rakutenmarketing.com privacy policy that was archived on 2014-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216095930id_/http%3A//marketing.rakuten.com/affiliate-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rakutenmarketing.com privacy policy that was archived on 2015-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150405021033id_/http%3A//marketing.rakuten.com/affiliate-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580461800000/30741.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 q_privacy = true;
 </script>
 <link rel="canonical" href="http://marketing.rakuten.com/affiliate-privacy-policy">
-<link rel="alternate" hreflang="x-default" href="http://marketing.rakuten.com">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="imagetoolbar" content="false">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -57,7 +56,21 @@ var common_page_title = 'Rakuten Marketing';
 <script src="http://marketing.rakuten.com/common/scripts.js"></script>
 
 <!-- START of Rakuten DC Storm Head Tag -->
-<script src="//usjs.stormiq.com/dcv4/jslib/5889.ct.js"></script>
+<!-- START Rakuten C Tracking -->
+<script type="text/javascript" src="//nyjs.dc-storm.com/110246.ct.js"></script>
+<!-- END Rakuten C Tracking -->
+<script type="text/javascript">
+var dcsrand = new Date().getTime().toString() + '-';
+dcsrand += (Math.random() * 2147483648).toString() + '-';
+dcsrand += (Math.random() * 2147483648).toString()+ '-';
+dcsrand = dcsrand.substring(0, 50);
+</script>
+<script type="text/javascript">
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.src = "//usjs.stormiq.com/dcv4/jslib/5889.ct.js?rand=" + dcsrand;
+document.getElementsByTagName("head")[0].appendChild(s);
+</script><script type="text/javascript" src="//usjs.stormiq.com/dcv4/jslib/5889.ct.js?rand=1580461761308-668371975.2007184-1874471123.364963-"></script>
 <script type="text/javascript">
 if(typeof(Storm)==="undefined"){Storm={};}Storm.DataLayer=new function(){var a=this;a.data={};a.put=function(c,d,b){if(typeof(b)==="undefined"){b="user";}if(typeof(a.data[b])==="undefined"){a.data[b]={};}a.data[b][c]=d;};a.get=function(c,b){if(typeof(b)==="undefined"){b="user";}if(typeof(a.data[b])==="undefined"){a.data[b]={};}if(typeof a.data[b][c]==="undefined"){return null;}return a.data[b][c];};};
 Storm.DataLayer.put('market', 'us');
@@ -65,7 +78,12 @@ Storm.DataLayer.put('market', 'us');
 <!-- END of Rakuten DC Storm Head Tag -->
 
 <!-- START MediaForge tracking -->
-<script type="text/javascript" src="//tags.mediaforge.com/js/3007" defer=""></script>
+<script type="text/javascript">
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.src = "http://tags.mediaforge.com/js/3007/?prodID=" + dcsrand;
+document.getElementsByTagName("head")[0].appendChild(s);
+</script><script type="text/javascript" src="http://tags.mediaforge.com/js/3007/?prodID=1580461761308-668371975.2007184-1874471123.364963-"></script>
 <!-- END MediaForge tracking -->
 
 <meta name="google-site-verification" content="uvxmj1rj5CRk0nLYQ1vzNDRzSv5L-2AJLqXn8tsSE4Y">
@@ -168,11 +186,96 @@ get_el('login_layer').style.right = '-10000px';
 function delete_news_cookies() {
 delete_cookie('news_sort');
 delete_cookie('news_sort_val');
-/*
-delete_cookie('press_page');
-delete_cookie('industry_page');
-*/
 }
+
+function delete_careers_cookies() {
+delete_cookie('careers_sort');
+delete_cookie('careers_sort_val');
+delete_cookie('careers_sort_loc');
+delete_cookie('careers_sort_loc_val');
+delete_cookie('careers_sort_dept');
+delete_cookie('careers_sort_dept_val');
+}
+
+var subnav_ids = new Array();
+subnav_ids[0] = "2";
+subnav_ids[1] = "3";
+subnav_ids[2] = "4";
+subnav_ids[3] = "7";
+subnav_ids[4] = "6";
+subnav_ids[5] = "9";
+subnav_ids[6] = "11";
+
+var time_hide_subnav;
+var nav_on = this_section_id;
+
+function show_subnav(nav_id,sticky,over,close) {
+	if (over) {
+	clearTimeout(time_hide_subnav);
+		for (i=0;i<subnav_ids.length;i++) {
+			if (!sticky)
+			get_el('subnav_container_'+subnav_ids[i]).style.display = 'none';
+			else 
+			get_el('subnav_sticky_container_'+subnav_ids[i]).style.display = 'none';
+		}
+
+		//if (!close && section_has_subnav)
+		if (nav_id == nav_on) {
+			if (!sticky)
+			get_el('subnav_container_'+nav_id).style.display = 'block';
+			else
+			get_el('subnav_sticky_container_'+nav_id).style.display = 'block';
+		} else {
+			if (!sticky)
+			opacity('subnav_container_'+nav_id, 0, 100, 200);
+			else
+			opacity('subnav_sticky_container_'+nav_id, 0, 100, 200);
+		}
+//		get_el('subnav_container_'+nav_id).style.display = 'block';
+
+		if (!section_has_subnav) {
+			if (!sticky) {
+			get_el('subnav_row_container').className = 'content_row';
+			get_el('subnav_row').className = 'content_row';
+			} else {
+			get_el('sticky_nav_row_container').className = 'content_row subnav';
+			}
+		}
+	nav_on = nav_id;
+	} else {
+	time_hide_subnav = setTimeout(function() {
+		for (i=0;i<subnav_ids.length;i++) {
+			if (!sticky)
+			get_el('subnav_container_'+subnav_ids[i]).style.display = 'none';
+			else
+			get_el('subnav_sticky_container_'+subnav_ids[i]).style.display = 'none';
+		}
+		if (section_has_subnav) {
+			if (nav_id == this_section_id) {
+				if (!sticky)
+				get_el('subnav_container_'+this_section_id).style.display = 'block';
+				else
+				get_el('subnav_sticky_container_'+this_section_id).style.display = 'block';
+			} else {
+				if (!sticky)
+				opacity('subnav_container_'+this_section_id, 0, 100, 200);
+				else
+				opacity('subnav_sticky_container_'+this_section_id, 0, 100, 200);
+			}
+		}
+			if (!section_has_subnav) {
+				if (!sticky) {
+				get_el('subnav_row_container').className = 'content_row closed';
+				get_el('subnav_row').className = 'content_row closed';
+				} else {
+				get_el('sticky_nav_row_container').className = 'content_row';
+				}
+			}
+		nav_on = this_section_id;
+		}, 1000);
+	}	
+}
+
 </script>
 
 <div id="locations_nav" class="content_row" style="top: 0px; overflow: hidden; height: 0px;">
@@ -189,10 +292,10 @@ delete_cookie('industry_page');
 </div>
 
 <ul id="main_nav">
-<li onclick=" go_page('http://marketing.rakuten.com/affiliate-marketing');">Services</li>
-<li onclick=" go_page('http://marketing.rakuten.com/who-we-are');">Company</li>
-<li onclick=" delete_news_cookies(); go_page('http://marketing.rakuten.com/press-releases');">In the News</li>
-<li onclick=" go_page('http://marketing.rakuten.com/lets-talk');">Let's Talk</li>
+<li onmouseover="show_subnav('2', false, true);" onmouseout="show_subnav('2', false, false);">Services</li>
+<li onmouseover="show_subnav('3', false, true);" onmouseout="show_subnav('3', false, false);">Company</li>
+<li onmouseover="show_subnav('4', false, true);" onmouseout="show_subnav('4', false, false);">In the News</li>
+<li onclick=" go_page('http://marketing.rakuten.com/lets-talk');" style="color: #bf0001;">Let's Talk</li>
 </ul>
 
 <ul id="secondary_nav">
@@ -321,11 +424,12 @@ delete_cookie('search_page');
 <script>
 
 var section_has_subnav = false;
+/*
 var subnav_section_on = null;
 var subnav_close_speed = 300;
 var subnav_open_speed = 300;
 var subnav_open_first_time;
-
+*/
 var subnav_height = ($(window).width() <= 768) ? 48 : 65;
 
 	if (section_has_subnav) {
@@ -335,17 +439,133 @@ var subnav_height = ($(window).width() <= 768) ? 48 : 65;
 
 </script>
 
-<div class="subnav_container">
+
+
+<div class="subnav_container" style="display: none " id="subnav_container_2" onmouseover="show_subnav('2', false, true);" onmouseout="show_subnav('2', false, false);">
 <div class="subnav_list_container" id="subnav_list">
 <div class="subnav_list_outer_center">
 <div class="subnav_list_inner_center">
 <ul>
-</ul>
+<li onclick="go_page('http://marketing.rakuten.com/affiliate-marketing'); return false;">Affiliate Marketing</li>
+<li onclick="go_page('http://marketing.rakuten.com/display'); return false;">Display </li>
+<li onclick="go_page('http://marketing.rakuten.com/paid-search'); return false;">Paid Search</li>
+<li onclick="go_page('http://marketing.rakuten.com/attribution'); return false;">Attribution</li>
+</ul><br>
 </div>
 </div>
 <div class="clear"></div>
 </div>
 </div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_container_3" onmouseover="show_subnav('3', false, true);" onmouseout="show_subnav('3', false, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+<li onclick="go_page('http://marketing.rakuten.com/who-we-are'); delete_careers_cookies(); return false;">Who We Are</li>
+<li onclick="go_page('http://marketing.rakuten.com/our-clients'); delete_careers_cookies(); return false;">Our Clients</li>
+<li onclick="go_page('http://marketing.rakuten.com/case-studies'); delete_careers_cookies(); return false;">Case Studies</li>
+<li onclick="go_page('http://marketing.rakuten.com/careers'); delete_careers_cookies(); return false;">Careers</li>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_container_4" onmouseover="show_subnav('4', false, true);" onmouseout="show_subnav('4', false, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+<li onclick="go_page('http://marketing.rakuten.com/press-releases'); delete_news_cookies(); return false;">Press Releases</li>
+<li onclick="go_page('http://marketing.rakuten.com/industry-news'); delete_news_cookies(); return false;">Industry News</li>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_container_7" onmouseover="show_subnav('7', false, true);" onmouseout="show_subnav('7', false, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_container_6" onmouseover="show_subnav('6', false, true);" onmouseout="show_subnav('6', false, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+<li onclick="go_page('http://marketing.rakuten.com/united-states'); return false;">United States</li>
+<li onclick="go_page('http://marketing.rakuten.com/australia'); return false;">Australia</li>
+<li onclick="go_page('http://marketing.rakuten.com/brazil'); return false;">Brazil</li>
+<li onclick="go_page('http://marketing.rakuten.com/france'); return false;">France</li>
+<li onclick="go_page('http://marketing.rakuten.com/united-kingdom'); return false;">United Kingdom</li>
+<li onclick="go_page('http://marketing.rakuten.com/germany-1'); return false;">Germany</li>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_container_9" onmouseover="show_subnav('9', false, true);" onmouseout="show_subnav('9', false, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_container_11" onmouseover="show_subnav('11', false, true);" onmouseout="show_subnav('11', false, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+<li onclick="go_page('http://marketing.rakuten.com/index.php?p=143'); return false;">Rakuten Affiliate Network</li>
+<li onclick="go_page('http://marketing.rakuten.com/rakuten-display-'); return false;">Rakuten Display </li>
+<li onclick="go_page('http://marketing.rakuten.com/rakuten-attribution'); return false;">Rakuten Attribution</li>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+
 
 </div>
 </div>
@@ -425,10 +645,10 @@ scroll_to_id_offset = $('#sticky_nav_row_container').height();
 <div class="main_nav_inner">
 <div class="logo"><a href="index.php"><img src="http://marketing.rakuten.com/img/common/logo_alt/2.gif" alt="Rakuten Marketing" title="" border="0"></a></div>
 <ul id="main_nav">
-<li onclick=" go_page('http://marketing.rakuten.com/affiliate-marketing');">Services</li>
-<li onclick=" go_page('http://marketing.rakuten.com/who-we-are');">Company</li>
-<li onclick=" delete_news_cookies(); go_page('http://marketing.rakuten.com/press-releases');">In the News</li>
-<li onclick=" go_page('http://marketing.rakuten.com/lets-talk');">Let's Talk</li>
+<li onmouseover="show_subnav('2', true, true);" onmouseout="show_subnav('2', true, false);">Services</li>
+<li onmouseover="show_subnav('3', true, true);" onmouseout="show_subnav('3', true, false);">Company</li>
+<li onmouseover="show_subnav('4', true, true);" onmouseout="show_subnav('4', true, false);">In the News</li>
+<li onclick=" go_page('http://marketing.rakuten.com/lets-talk');" style="color: #bf0001;">Let's Talk</li>
 </ul>
 <div id="nav_search_container_sticky">
 <div id="nav_search_container_form_sticky">
@@ -444,12 +664,6 @@ scroll_to_id_offset = $('#sticky_nav_row_container').height();
 
 <script>
 
-var section_has_subnav = false;
-var subnav_section_on = null;
-var subnav_close_speed = 300;
-var subnav_open_speed = 300;
-var subnav_open_first_time;
-
 var subnav_height = ($(window).width() <= 768) ? 48 : 65;
 
 	if (section_has_subnav) {
@@ -459,17 +673,133 @@ var subnav_height = ($(window).width() <= 768) ? 48 : 65;
 
 </script>
 
-<div class="subnav_container">
+
+
+<div class="subnav_container" style="display: none " id="subnav_sticky_container_2" onmouseover="show_subnav('2', true, true);" onmouseout="show_subnav('2', true, false);">
 <div class="subnav_list_container" id="subnav_list">
 <div class="subnav_list_outer_center">
 <div class="subnav_list_inner_center">
 <ul>
-</ul>
+<li onclick="go_page('http://marketing.rakuten.com/affiliate-marketing'); return false;">Affiliate Marketing</li>
+<li onclick="go_page('http://marketing.rakuten.com/display'); return false;">Display </li>
+<li onclick="go_page('http://marketing.rakuten.com/paid-search'); return false;">Paid Search</li>
+<li onclick="go_page('http://marketing.rakuten.com/attribution'); return false;">Attribution</li>
+</ul><br>
 </div>
 </div>
 <div class="clear"></div>
 </div>
 </div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_sticky_container_3" onmouseover="show_subnav('3', true, true);" onmouseout="show_subnav('3', true, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+<li onclick="go_page('http://marketing.rakuten.com/who-we-are'); delete_careers_cookies(); return false;">Who We Are</li>
+<li onclick="go_page('http://marketing.rakuten.com/our-clients'); delete_careers_cookies(); return false;">Our Clients</li>
+<li onclick="go_page('http://marketing.rakuten.com/case-studies'); delete_careers_cookies(); return false;">Case Studies</li>
+<li onclick="go_page('http://marketing.rakuten.com/careers'); delete_careers_cookies(); return false;">Careers</li>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_sticky_container_4" onmouseover="show_subnav('4', true, true);" onmouseout="show_subnav('4', true, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+<li onclick="go_page('http://marketing.rakuten.com/press-releases'); delete_news_cookies(); return false;">Press Releases</li>
+<li onclick="go_page('http://marketing.rakuten.com/industry-news'); delete_news_cookies(); return false;">Industry News</li>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_sticky_container_7" onmouseover="show_subnav('7', true, true);" onmouseout="show_subnav('7', true, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_sticky_container_6" onmouseover="show_subnav('6', true, true);" onmouseout="show_subnav('6', true, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+<li onclick="go_page('http://marketing.rakuten.com/united-states'); return false;">United States</li>
+<li onclick="go_page('http://marketing.rakuten.com/australia'); return false;">Australia</li>
+<li onclick="go_page('http://marketing.rakuten.com/brazil'); return false;">Brazil</li>
+<li onclick="go_page('http://marketing.rakuten.com/france'); return false;">France</li>
+<li onclick="go_page('http://marketing.rakuten.com/united-kingdom'); return false;">United Kingdom</li>
+<li onclick="go_page('http://marketing.rakuten.com/germany-1'); return false;">Germany</li>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_sticky_container_9" onmouseover="show_subnav('9', true, true);" onmouseout="show_subnav('9', true, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+<div class="subnav_container" style="display: none " id="subnav_sticky_container_11" onmouseover="show_subnav('11', true, true);" onmouseout="show_subnav('11', true, false);">
+<div class="subnav_list_container" id="subnav_list">
+<div class="subnav_list_outer_center">
+<div class="subnav_list_inner_center">
+<ul>
+<li onclick="go_page('http://marketing.rakuten.com/index.php?p=143'); return false;">Rakuten Affiliate Network</li>
+<li onclick="go_page('http://marketing.rakuten.com/rakuten-display-'); return false;">Rakuten Display </li>
+<li onclick="go_page('http://marketing.rakuten.com/rakuten-attribution'); return false;">Rakuten Attribution</li>
+</ul><br>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+
 
 </div></div>
 
@@ -693,11 +1023,11 @@ document.write('<div class="col" style="display: block" id="nav_col_7"><p class=
 
 </script>
 
-<div class="col" style="display: block" id="nav_col_0"><p class="header"><a href="http://marketing.rakuten.com/affiliate-marketing">Services</a></p><div class="navlist_container" id="navlist_container_0"><ul id="footer_navlist_0"><li><a href="http://marketing.rakuten.com/affiliate-marketing">Affiliate Marketing</a></li><li><a href="http://marketing.rakuten.com/display">Display </a></li><li><a href="http://marketing.rakuten.com/paid-search">Paid Search</a></li><li><a href="http://marketing.rakuten.com/attribution">Attribution</a></li></ul></div></div>
+<div class="col" style="display: block" id="nav_col_0"><p class="header">Services</p><div class="navlist_container" id="navlist_container_0"><ul id="footer_navlist_0"><li><a href="http://marketing.rakuten.com/affiliate-marketing">Affiliate Marketing</a></li><li><a href="http://marketing.rakuten.com/display">Display </a></li><li><a href="http://marketing.rakuten.com/paid-search">Paid Search</a></li><li><a href="http://marketing.rakuten.com/attribution">Attribution</a></li></ul></div></div>
 
-<div class="col" style="display: block" id="nav_col_1"><p class="header"><a href="http://marketing.rakuten.com/who-we-are">Company</a></p><div class="navlist_container" id="navlist_container_1"><ul id="footer_navlist_1"><li><a href="http://marketing.rakuten.com/who-we-are">Who We Are</a></li><li><a href="http://marketing.rakuten.com/our-clients">Our Clients</a></li><li><a href="http://marketing.rakuten.com/case-studies">Case Studies</a></li><li><a href="http://marketing.rakuten.com/careers">Careers</a></li></ul></div></div>
+<div class="col" style="display: block" id="nav_col_1"><p class="header">Company</p><div class="navlist_container" id="navlist_container_1"><ul id="footer_navlist_1"><li><a href="http://marketing.rakuten.com/who-we-are">Who We Are</a></li><li><a href="http://marketing.rakuten.com/our-clients">Our Clients</a></li><li><a href="http://marketing.rakuten.com/case-studies">Case Studies</a></li><li><a href="http://marketing.rakuten.com/careers">Careers</a></li></ul></div></div>
 
-<div class="col" style="display: block" id="nav_col_2"><p class="header"><a href="http://marketing.rakuten.com/press-releases">In the News</a></p><div class="navlist_container" id="navlist_container_2"><ul id="footer_navlist_2"><li><a href="http://marketing.rakuten.com/press-releases">Press Releases</a></li><li><a href="http://marketing.rakuten.com/industry-news">Industry News</a></li></ul></div></div>
+<div class="col" style="display: block" id="nav_col_2"><p class="header">In the News</p><div class="navlist_container" id="navlist_container_2"><ul id="footer_navlist_2"><li><a href="http://marketing.rakuten.com/press-releases">Press Releases</a></li><li><a href="http://marketing.rakuten.com/industry-news">Industry News</a></li></ul></div></div>
 
 <div class="col" style="display: none" id="nav_col_3"><script>
 hide_footer_nav_nums.push(3);
@@ -711,7 +1041,7 @@ hide_footer_nav_nums.push(4);
 
 <div class="col" style="display: none" id="nav_col_5"><p class="header"><a href="http://marketing.rakuten.com/united-states">Locations</a></p><div class="navlist_container" id="navlist_container_5"></div></div>
 
-<div class="col" style="display: block" id="nav_col_6"><p class="header"><a href="http://marketing.rakuten.com/events">Events</a></p><div class="navlist_container" id="navlist_container_6"><ul id="footer_navlist_6"><li><a href="http://marketing.rakuten.com/events">All</a></li><li><a href="http://marketing.rakuten.com/hosted-events">Hosted Events</a></li><li><a href="http://marketing.rakuten.com/industry-events">Industry Events</a></li></ul></div></div>
+<div class="col" style="display: block" id="nav_col_6"><p class="header">Events</p><div class="navlist_container" id="navlist_container_6"><ul id="footer_navlist_6"><li><a href="http://marketing.rakuten.com/events">All</a></li><li><a href="http://marketing.rakuten.com/hosted-events">Hosted Events</a></li><li><a href="http://marketing.rakuten.com/industry-events">Industry Events</a></li></ul></div></div>
 
 <div class="col" style="display: block" id="nav_col_7"><p class="header"><a href="http://blog.marketing.rakuten.com/">Blog</a></p><div class="navlist_container" id="navlist_container_7"></div></div>
 
@@ -720,9 +1050,9 @@ hide_footer_nav_nums.push(8);
 </script>
 	<p class="header"><a href="http://marketing.rakuten.com/contact">Contact</a></p><div class="navlist_container" id="navlist_container_8"></div></div>
 
-<div class="col" style="display: none" id="nav_col_9"><p class="header"><a href="http://marketing.rakuten.com/rakuten-affiliate-network-1">Login</a></p><div class="navlist_container" id="navlist_container_9"></div></div>
+<div class="col" style="display: none" id="nav_col_9"><p class="header"><a href="http://marketing.rakuten.com/index.php?p=143">Login</a></p><div class="navlist_container" id="navlist_container_9"></div></div>
 
-<div class="col col_last" style="display: block" id="nav_col_10"><p class="header">Connect</p><div class="navlist_container" id="navlist_container_10"><ul id="footer_navlist_10"><li><a href="https://www.youtube.com/user/RakutenMarketing" target="_blank" onclick="logOCSale({st: 'social media connect', pover:'/affiliate-privacy-policy', isconv:'0', orderid:'1418723970', curcode:'us', saleitems:[{itemcount:1, m10:'YouTube'}]});" onmouseover="opacity('connect_icon_129', 76, 100, 0);" onmouseout="opacity('connect_icon_129', 100, 76, 0);"><img src="http://marketing.rakuten.com/img/pages/145/img/1.png" alt="" title="" border="0" id="connect_icon_129">YouTube</a></li><li><a href="https://www.facebook.com/rakutenmarketingUS" target="_blank" onclick="logOCSale({st: 'social media connect', pover:'/affiliate-privacy-policy', isconv:'0', orderid:'1418723970', curcode:'us', saleitems:[{itemcount:1, m10:'Facebook'}]});" onmouseover="opacity('connect_icon_130', 76, 100, 0);" onmouseout="opacity('connect_icon_130', 100, 76, 0);"><img src="http://marketing.rakuten.com/img/pages/146/img/1.png" alt="" title="" border="0" id="connect_icon_130">Facebook</a></li><li><a href="https://twitter.com/RakutenMKTG_US" target="_blank" onclick="logOCSale({st: 'social media connect', pover:'/affiliate-privacy-policy', isconv:'0', orderid:'1418723970', curcode:'us', saleitems:[{itemcount:1, m10:'Twitter'}]});" onmouseover="opacity('connect_icon_131', 76, 100, 0);" onmouseout="opacity('connect_icon_131', 100, 76, 0);"><img src="http://marketing.rakuten.com/img/pages/147/img/1.png" alt="" title="" border="0" id="connect_icon_131">Twitter</a></li><li><a href="http://www.linkedin.com/company/rakuten-marketing" target="_blank" onclick="logOCSale({st: 'social media connect', pover:'/affiliate-privacy-policy', isconv:'0', orderid:'1418723970', curcode:'us', saleitems:[{itemcount:1, m10:'LinkedIn'}]});" onmouseover="opacity('connect_icon_132', 76, 100, 0);" onmouseout="opacity('connect_icon_132', 100, 76, 0);"><img src="http://marketing.rakuten.com/img/pages/148/img/1.png" alt="" title="" border="0" id="connect_icon_132">LinkedIn</a></li><li><a href="https://plus.google.com/+rakutenmarketing/posts" target="_blank" onclick="logOCSale({st: 'social media connect', pover:'/affiliate-privacy-policy', isconv:'0', orderid:'1418723970', curcode:'us', saleitems:[{itemcount:1, m10:'Google+'}]});" onmouseover="opacity('connect_icon_133', 76, 100, 0);" onmouseout="opacity('connect_icon_133', 100, 76, 0);"><img src="http://marketing.rakuten.com/img/pages/149/img/1.png" alt="" title="" border="0" id="connect_icon_133">Google+</a></li></ul></div></div>
+<div class="col col_last" style="display: block" id="nav_col_10"><p class="header">Connect</p><div class="navlist_container" id="navlist_container_10"><ul id="footer_navlist_10"><li><a href="https://www.youtube.com/user/RakutenMarketing" target="_blank" onclick="logOCSale({st: 'social media connect', pover:'/affiliate-privacy-policy', isconv:'0', orderid:'1428199833', curcode:'us', saleitems:[{itemcount:1, m10:'YouTube'}]});" onmouseover="opacity('connect_icon_129', 76, 100, 0);" onmouseout="opacity('connect_icon_129', 100, 76, 0);"><img src="http://marketing.rakuten.com/img/pages/145/img/1.png" alt="" title="" border="0" id="connect_icon_129">YouTube</a></li><li><a href="https://www.facebook.com/rakutenmarketingUS" target="_blank" onclick="logOCSale({st: 'social media connect', pover:'/affiliate-privacy-policy', isconv:'0', orderid:'1428199833', curcode:'us', saleitems:[{itemcount:1, m10:'Facebook'}]});" onmouseover="opacity('connect_icon_130', 76, 100, 0);" onmouseout="opacity('connect_icon_130', 100, 76, 0);"><img src="http://marketing.rakuten.com/img/pages/146/img/1.png" alt="" title="" border="0" id="connect_icon_130">Facebook</a></li><li><a href="https://twitter.com/RakutenMKTG_US" target="_blank" onclick="logOCSale({st: 'social media connect', pover:'/affiliate-privacy-policy', isconv:'0', orderid:'1428199833', curcode:'us', saleitems:[{itemcount:1, m10:'Twitter'}]});" onmouseover="opacity('connect_icon_131', 76, 100, 0);" onmouseout="opacity('connect_icon_131', 100, 76, 0);"><img src="http://marketing.rakuten.com/img/pages/147/img/1.png" alt="" title="" border="0" id="connect_icon_131">Twitter</a></li><li><a href="http://www.linkedin.com/company/rakuten-marketing" target="_blank" onclick="logOCSale({st: 'social media connect', pover:'/affiliate-privacy-policy', isconv:'0', orderid:'1428199833', curcode:'us', saleitems:[{itemcount:1, m10:'LinkedIn'}]});" onmouseover="opacity('connect_icon_132', 76, 100, 0);" onmouseout="opacity('connect_icon_132', 100, 76, 0);"><img src="http://marketing.rakuten.com/img/pages/148/img/1.png" alt="" title="" border="0" id="connect_icon_132">LinkedIn</a></li><li><a href="https://plus.google.com/+rakutenmarketing/posts" target="_blank" onclick="logOCSale({st: 'social media connect', pover:'/affiliate-privacy-policy', isconv:'0', orderid:'1428199833', curcode:'us', saleitems:[{itemcount:1, m10:'Google+'}]});" onmouseover="opacity('connect_icon_133', 76, 100, 0);" onmouseout="opacity('connect_icon_133', 100, 76, 0);"><img src="http://marketing.rakuten.com/img/pages/149/img/1.png" alt="" title="" border="0" id="connect_icon_133">Google+</a></li></ul></div></div>
 
 </div>
 </div>
@@ -770,10 +1100,11 @@ size_footer();
 </div>
 
 <div class="footer_subnav_right">
-©2014 Rakuten Marketing LLC. All Rights Reserved.</div>
+©2015 Rakuten Marketing LLC. All Rights Reserved.</div>
 
 </div>
 </div>
+
 
 
 <script>
