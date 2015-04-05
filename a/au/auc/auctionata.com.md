@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionata.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230014445id_/http%3A//auctionata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionata.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405160722id_/https%3A//auctionata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Auctionata
 
@@ -6,17 +6,17 @@
 
 _**Important:**_
 
-_**Please note that this website allows you to purchase goods from Auctionata Beteiligungs AG or Auctionata, Inc. - a wholly owned US subsidiary of Auctionata Beteiligungs AG. Both organizations operate with different Privacy Policies.**_
+_**Please note that this website allows you to purchase goods from Auctionata AG or Auctionata, Inc. - a wholly owned US subsidiary of Auctionata AG. Both organizations operate with different Privacy Policies.**_
 
 _**Before any purchase via this website you will have to take notice and have to accept the respective Privacy Policy which apply for your purchase!**_
 
 _**The Privacy Policy below applies for all purchases of goods at auction or via the online shop in which Auctionata, Inc. acts as the seller.**_
 
-_**For all purchases of goods at auction or via the online shop in which Auctionata Beteiligungs AG acts as the seller, this[Privacy Policy](http://auctionata.com/intl/privacy-policy) applies.**_
+_**For all purchases of goods at auction or via the online shop in which Auctionata AG acts as the seller, this[Privacy Policy](https://auctionata.com/intl/privacy-policy) applies.**_
 
 _**The transaction details can be determined from information on the lot detail page.**_
 
-Auctionata, Inc. (“Auctionata”) is committed to letting you know how we will collect and use your personally identifiable information. The policies below are applicable to Auctionata’s network of websites, including [www.auctionata.com](http://www.auctionata.com/) and [www.blog.auctionata.com](http://www.blog.auctionata.com/), all email newsletters published or distributed by Auctionata, the Auctionata mobile application, and all other interactive features, services, and communications provided by Auctionata (the ”Sites”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Auctionata (collectively “Auctionata” or “we”, “us”, or “our”). We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personally identifiable information we may gather during your visit to these Sites, why we gather your information, what we use your personally identifiable information for, when we might disclose your personally identifiable information, and how you can manage your personally identifiable information.
+Auctionata, Inc. (“Auctionata”) is committed to letting you know how we will collect and use your personally identifiable information. The policies below are applicable to Auctionata’s network of websites, including [www.auctionata.com](https://www.auctionata.com/) and [magazine.auctionata.com](https://magazine.auctionata.com/), all email newsletters published or distributed by Auctionata, the Auctionata mobile application, and all other interactive features, services, and communications provided by Auctionata (the ”Sites”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Auctionata (collectively “Auctionata” or “we”, “us”, or “our”). We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personally identifiable information we may gather during your visit to these Sites, why we gather your information, what we use your personally identifiable information for, when we might disclose your personally identifiable information, and how you can manage your personally identifiable information.
 
 This Privacy Policy does not apply to websites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites.
 
