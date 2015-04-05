@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windowsanswers.net privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003040202id_/http%3A//www.windowsanswers.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsanswers.net privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405152918id_/https%3A//www.slimwareutilities.com/privacy.php) for the most accurate reproduction.*
 
-# WindowsAnswers.net - Privacy Policy
+# SlimWare Utilities - Privacy Policy
 
 **NOTICE** : _Last Updated April 29, 2014_
 
@@ -99,7 +99,7 @@ This Privacy Policy does not create rights enforceable by third parties or requi
 
 ## CHANGES TO THIS PRIVACY POLICY
 
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "Last Updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your Personal Information, we will notify you by posting the new policy at [www.windowsanswers.net/pages/privacy](http://www.windowsanswers.net/pages/privacy). We recommend that you check this page from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "Last Updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your Personal Information, we will notify you by posting the new policy at [www.slimwareutilities.com/privacy.php](https://www.slimwareutilities.com/privacy.php). We recommend that you check this page from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
 
 ## HOW TO CONTACT US
 
@@ -111,12 +111,3 @@ New York, NY 10011
 ATTN: Privacy Officer/Legal Dept.
 
 [info@slimwareutilities.com](mailto:info@slimwareutilities.com)
-
-|  |  |           **Search**  
----  
-  
-  
-  
-  
-         **Sponsor**  
----
