@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyngagames.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903054134id_/http%3A//company.zynga.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyngagames.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405050416id_/http%3A//company.zynga.com/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zynga
 
@@ -7,6 +7,8 @@ This Privacy Policy will be effective from August 11th 2014. To review a copy of
 Please read Zynga’s Privacy Policy before using Zynga’s services because it will tell you how we collect, store, use and disclose your personal information when providing these services to you. 
 
 Zynga has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and the practices it describes have been reviewed by TRUSTe for compliance with TRUSTe's program [requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to advance online trust among consumers and organizations globally through its leading privacy trustmark (seal) and innovative trust solutions. 
+
+[](https://privacy.truste.com/privacy-seal/Zynga/validation?rid=e081f453-268e-40e4-8141-c9ce06c94824 "TRUSTe online privacy certification")
 
 If you have questions or complaints regarding our Privacy Policy or practices, please see Contact Us. 
 
@@ -282,7 +284,7 @@ back to top
 ## How to Access, Update and Manage Your Information
 
 **Information We Receive From a Social Network Where You Play Our Games or From Your Mobile Device**  
-To manage the information Zynga receives about you from a social network, like Facebook, where you play our games, you will need to follow the instructions at that site for updating your information and changing your privacy settings. The privacy management tools for applications on Facebook can be found [here](https://www.facebook.com/settings/?tab=privacy). To review and update information associated with your Zynga game profile in certain games, visit the “settings” page in that game. You also can manage some aspects of information collection and use by visiting the “settings” page of your mobile device and reviewing the permissions of each application or “app.”
+To manage the information Zynga receives about you from a social network, like Facebook, where you play our games, you will need to follow the instructions at that site for updating your information and changing your privacy settings. The privacy management tools for applications on Facebook can be found [here](https://www.facebook.com/settings/?tab=applications). To review and update information associated with your Zynga game profile in certain games, visit the “settings” page in that game. You also can manage some aspects of information collection and use by visiting the “settings” page of your mobile device and reviewing the permissions of each application or “app.”
 
 Once Zynga receives your information from a social network or your mobile device, that information is stored and used by Zynga in accordance with this Privacy Policy. You may access and update that information as described below.
 
