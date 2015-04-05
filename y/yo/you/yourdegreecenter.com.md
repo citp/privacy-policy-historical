@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdegreecenter.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226204924id_/http%3A//www.yourdegreecenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdegreecenter.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405184007id_/http%3A//www.yourdegreecenter.com/privacy.html) for the most accurate reproduction.*
 
 # YourDegreeCenter.com
 
