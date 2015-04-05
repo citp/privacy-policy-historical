@@ -1,0 +1,741 @@
+<!--The following is the downloaded HTML source of the pcloud.com privacy policy that was archived on 2015-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150405092237id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en"><head>
+<meta charset="utf-8">
+<title>pCloud - Privacy Policy </title>
+<meta name="apple-itunes-app" content="app-id=692002098">
+<meta name="HandheldFriendly" content="true">
+
+<meta name="description" content="Learn more about the Privacy Policy in pCloud">
+<meta name="keywords" content="cloud storage, online storage, personal storage space, free online storage, free cloud storage, send large files,  collaboration, share files">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="last-modified" content="Fri, 03 Apr 2015 15:23:06 GMT">
+<meta name="google-site-verification" content="dMjhCZjzfYLftnQBr1QxPMqSL7W8Pih1itPn4vqQ9rk">
+
+
+ <link type="text/css" rel="stylesheet" href="//d2k5eplsbcgehr.cloudfront.net/Z9t/css/c551eb0594004e.css"><!--[if lte IE 9]>
+	<link type="text/css" rel="stylesheet" href="//d2k5eplsbcgehr.cloudfront.net/Z9t/css/c_site_ie9.css" />
+<![endif]-->
+
+<script>
+	var
+		CDN = "//d2k5eplsbcgehr.cloudfront.net/Z9t/",
+		apiServer = "api.pcloud.com",
+		apiUrl = "//"+apiServer+"/",
+		detectLang = true
+
+	var jstranslations = {"short_password":"Password is not long enough","email_not_valid":"Email is not valid","short_mail":"Email is too short","pass_must_match":"Both password must match!","must_accept_terms":"You must accept terms and conditions","email_required":"Email is required","pass_required":"Password is required","INSTALL_DRIVE_WINDOWS_ STEP1":"<a href=\"#\" id=\"download-drive-link\">Download<\/a> and Install pCloud Drive on your device","INSTALL_DRIVE_WINDOWS_ STEP2":"Log in with your pCloud account or create a new one","INSTALL_DRIVE_WINDOWS_ STEP3":"Access your brand new virtual drive and manage your files and folders","DOWNGRADE":"Downgrade","CHANGE_SUBSCRIPTION":"Change Subscription","UPGRADE":"Upgrade","Current":"Current","PREMIUM_PLAN":"Premium Plan","PREMIUM_PLUS_PLAN":"Premium Plus Plan","SELECTED_PLAN_PREMIUM":"Premium \u2013 500 GB","SELECTED_PLAN_PREMIUM_PLUS":"Premium Plus \u2013 1 TB","PCLOUD_CRYPTO":"pCloud Crypto","DAYS_LEFT":"%days% days left","DAY_LEFT":"One day left","CRYPTO_ACTIVATED_BTN":"Your pCloud Crypto is activated","HOURS_LEFT":"%hours% hours left"};
+	function __(key) {
+		return jstranslations[key] || key;
+	}
+</script>
+
+<script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/jquery.min.js"></script>
+<script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/cookie.js"></script>
+<script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/modernizr.js"></script>
+<script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/retina-1.1.0.min.js"></script>
+<script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/ymodal.js"></script>
+<script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/template.js"></script>
+
+<!--[if lt IE 9]>
+  <script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/ie/html5shiv.js"></script>
+  <script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/ie/nwmatcher-1.2.5-min.js"></script>
+  <script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/ie/selectivizr-1.0.3b.js"></script>
+  <script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/ie/respond.min.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+	<script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/ie/jquery.corner.js"></script>
+<![endif]-->
+
+<script>
+pcloud.config.api_server = apiServer;
+pcloud.config.my_url = 'https://my.pcloud.com';
+var download_info = {"windows_8":{"code":"XZNCIkZfGowPJFiU6XWe8R5B0c7LQ85G6YV"},"windows_xp":{"code":"XZiCIkZyaz352mjaRJR6G6kC2PfcRWk4iXX"},"macos":{"code":"XZyxIkZfxQWvodRC2makxl8dzy70SneVQgX"},"deb_32":{"code":"XZDxIkZSrlWwLJDtWJPQJ0tuzqE8pB3Mw9V"},"deb_64":{"code":"XZWxIkZuAkt4AQ9bT05r3TpMKN8lSYnEyfV"},"android_apk":{"code":"XZnVpXZhPQiwTOnmefDWJXxemDUVmE2Vodk"}};
+</script>
+
+<link href="/images/fav.ico" rel="shortcut icon" type="image/x-icon">
+</head>
+<body class="en">
+<script type="text/javascript">
+pcloud_page_language = 'en';
+
+// create my jsCookies function
+jsCookies = {
+	get: function(name) {
+	    var nameEQ = name + "=";
+	    var ca = document.cookie.split(';');
+	    for(var i=0;i < ca.length;i++) {
+	        var c = ca[i];
+	        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	    }
+	    return null;
+	},
+
+	set: function(name, value, days, path, domain) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+
+    	document.cookie = name+"="+value+expires+((path) ? "; path=" + path : "")+((domain) ? "; domain=" + domain : "");
+	}
+};
+
+get_browser_lang = function() {
+	var lang = {'bg':'bg','tr':'tr','en':'en','es':'es','ru':'ru','pt':'pt','fr':'fr','it':'it','de':'de','zh':'zh','fa':'fa'};
+
+	var code;
+	if (typeof navigator.languages == 'undefined')
+		return 'en';
+
+	for (var n = 0; n < navigator.languages.length; ++n) {
+		code = navigator.languages[n].match(/^[a-z]{2}/i)[0].toLowerCase();
+		if (code in lang)
+			return lang[code];
+	}
+	return 'en';
+}
+
+redirecting = false;
+
+var detect_language = function() {
+		if (!detectLang)
+		return
+	var t =  get_browser_lang(),
+	c = jsCookies.get('lang'),
+	redirect = false, lang_cookie = jsCookies.get('lang') || get_browser_lang();
+
+	set_lang_cookie(lang_cookie);
+
+	if (pcloud_page_language == 'en' && pcloud_page_language != lang_cookie) {
+		document.body.style.visibility='hidden';
+		redirecting = true;
+		window.location.href = '/'+ lang_cookie + window.location.pathname + window.location.hash;
+	}
+}
+
+var set_lang_cookie = function(lang) {
+	jsCookies.set('lang', lang, 365, '/', '.pcloud.com');
+};
+
+detect_language();
+</script>
+	<header class="fixed">
+
+		<div class="header-bg"></div>
+		<div class="logo">
+			<a href="/"><img class="retina" src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/logo.png" alt="pCloud.com Logo"></a>
+		</div>
+
+		<div class="top_nav_links_holder">
+
+			<ul class="mob_user_info" style="display: none;">
+				<li class="_name"></li>
+			</ul>
+
+			<ul class="nav_links">
+								<li>
+					<a href="/">pCloud</a>
+				</li>
+								<li>
+					<a href="/expand-your-computer-storage-with-pcloud-drive.html">Desktop</a>
+				</li>
+								<li>
+					<a href="/access-and-share-on-the-go.html">Mobile</a>
+				</li>
+								<li>
+					<a href="/access-your-files-everywhere.html">Web</a>
+				</li>
+								<li>
+					<a href="/encrypt-your-sensitive-files-in-the-cloud.html">Crypto</a>
+				</li>
+							</ul>
+
+			<ul class="mob_login">
+				<li><a href="/plans.html" class="blue_btn signup_btn">Sign Up</a></li>
+				<li class="mob_login_btn"><a href="#" class="login_btn" onclick="modal.open_login();return false;">Log in</a></li>
+			</ul>
+
+			<ul class="mob_logout">
+				<li class="goto_pcloud"><a href="#" onclick="window.location='https://my.pcloud.com/#authtoken='+$.cookie('pcauth');return false;">Go to My pCloud</a></li>
+				<li class="upgr_acc"><a href="/plans.html">Upgrade Account</a></li>
+				<li class="logout_btn"><a href="#" onclick="pcloud.logout();return false;">Logout</a></li>
+			</ul>
+		</div>
+
+		<div class="login_area">
+
+			<div id="_user_header">
+				<a href="/plans.html" class="blue_btn signup_btn">Sign Up</a>
+				<a href="#" class="open-login-modal" onclick="modal.open_login();return false;">Log in</a>
+			</div>
+
+			<div class="name-box clearfix">
+				<div class="gear-ico load-bg"></div>
+				<div class="_name" title=""></div>
+
+				<div class="_gear g-hidden">
+					<div class="gear_inner">
+						<ul class="gear_top">
+							<li class="goto_pcloud"><a href="#" onclick="window.location='https://my.pcloud.com/#authtoken='+$.cookie('pcauth');return false;">Go to My pCloud</a></li>
+							<li class="upgr_acc"><a href="/plans.html">Upgrade Account</a></li>
+						</ul>
+
+						<ul>
+							<li class="logout_btn"><a href="#" onclick="pcloud.logout();return false;">Logout</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+		<div class="mobile-menu-btn">
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+
+	</header>
+
+<div class="microheader-wrap">
+	<div class="microheader">
+		<h2>Terms of Use</h2>
+		<div class="search-area">
+			<div class="search-wrap">
+				<input type="text" name="q" placeholder="Search our F.A.Q.">
+				<div class="search-but"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="micro-content clearfix">
+	<div class="micro-content-wrap">
+		<div class="menu">
+			<div class="cats">Categories</div>
+			<ul>
+							<li>
+					<a href="/terms_and_conditions.html">
+						<img src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/left-micro/business-default.png" class="ina">
+						<img src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/left-micro/business-active.png" class="act">
+						Terms and conditions					</a>
+				</li>
+							<li class="selected">
+					<a href="/privacy_policy.html">
+						<img src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/left-micro/business-default.png" class="ina">
+						<img src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/left-micro/business-active.png" class="act">
+						Privacy Policy					</a>
+				</li>
+							<li>
+					<a href="/int_pr_policy.html">
+						<img src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/left-micro/business-default.png" class="ina">
+						<img src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/left-micro/business-active.png" class="act">
+						Intellectual Property Policy					</a>
+				</li>
+						</ul>
+		</div>
+
+		<div class="content">
+			<h1>Privacy Policy</h1>
+			<div class="textcontent legal">
+				<p class="terms_privacy_header">
+pCloud values your privacy.  We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose information and data when you use the pCloud website located at <a href="http://www.pcloud.com">http://www.pcloud.com</a> and any pCloud mobile applications ("<b>Site</b>") or pCloud services ("<b>Services</b>").
+</p>
+
+<p>
+This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information (as defined below). By using the Site or Services you consent to the collection and use of information in accordance with this Privacy Policy. The Site is operated by pCloud AG, Switzerland (hereinafter referred to as "<b>pCloud</b>", "<b>we</b>", "<b>us</b>" and "<b>our</b>"). For the purposes of applicable European Union data protection legislation, we are the data controller.
+</p>
+
+<h3>Managing Your Information Preferences</h3>
+
+<p>
+<em>Personal Information</em> <br> We collect information that personally identifies you, such as your e-mail and other personally identifiable information that you choose to provide us with or that you choose to include in your pCloud profile or account ("<b>Personal Information</b>"). You may be asked to provide us with Personal Information when you register with the Site or use any of our Services, and at other times. The decision to provide this information is optional. However, if you choose not to provide the requested information, you may not be able to use some or all of the features of the Site or Services. We may also receive additional Personal Information, such as your name, address, and payment information, from Service Providers, like our payment processors.
+</p>
+
+<p>
+<em>Usage Data and Site Activity</em> <br> We automatically collect information regarding the actions you take on the Site ("<b>Usage Data</b>"). For example, each time you use the Site we automatically collect the type of web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, and the time and duration of your visits to the Site. This anonymous usage information may be associated with your username and profile, but we do not disclose the associated usage information to third parties. We use this information to help us understand how people use the Site and Services and to enhance the services we offer.
+</p>
+
+<p>
+<em> Cookies </em> <br> We use cookies (a small text file placed on your computer to identify your computer and browser) on the Site. We use cookies to improve the experience of the Site and Services, such as pre-populating your username for easier login and preserving your user session. We do not use cookies to collect Personal Information. Most web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent, however, certain features of the Site or Services may not work if you delete or disable cookies. You can also learn more about cookies by visiting <a href="http://www.allaboutcookies.org" target="_blank"> www.allaboutcookies.org </a> which includes additional useful information on cookies and how to block cookies using different types of browser. Some of our Service Providers may use their own cookies in connection with the services they perform on our behalf.
+</p>
+
+<h3>How We Use Information and When We May Share and Disclose Information Generally</h3>
+<p>
+We use Personal Information for internal purposes only, such as to provide you with the Site and Services and to improve the Site and Services. We also use Personal Information to notify you of new products or Services and to otherwise communicate with you about pCloud provided you have indicated that you do not object to being contacted for these purposes. We will not disclose Personal Information to third parties, including for their direct marketing purposes, without your consent, except as explained in this Privacy Policy.
+</p>
+
+<h3>Profile Information You Make Available to Others</h3>
+<p>
+By using the Site or the Services you may make certain of your Personal Information available to others. For example, your email address will be visible when you share a file or a folder with another user of the Site or Services. You should therefore ensure that any person who you share a file or folder with is someone who you are happy to share your email address with.
+</p>
+
+
+<h3>Service Providers</h3>
+<p>
+From time to time, we may establish a business relationship with other businesses who we believe trustworthy, and who have confirmed that their privacy practices are consistent with ours ("<b>Service Providers</b>"). For example, we may contract with Service Providers to provide certain services, such as hosting and maintenance, data storage and management, processing of transactions and marketing and promotions. We only provide our Service Providers with the information necessary for them to perform these services on our behalf. Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use or disclosure. Service Providers are prohibited from using Personal Information other than as specified by pCloud.
+</p>
+
+<h3>Other Transfers</h3>
+<p>
+We may share Personal Information and Usage Data with businesses controlling, controlled by or under common control with pCloud. If pCloud is merged, acquired or sold or in the event of a transfer of some or all of our assets, we may disclose or transfer Personal Information and Usage Data in connection with such transaction. You will have the opportunity to opt out of any such transfer if, in our discretion, the new entity plans to handle your information in a way that differs materially from this Privacy Policy.
+</p>
+
+<h3>Compliance with Laws and Law Enforcement</h3>
+<p>
+pCloud cooperates with government and law enforcement officials (and private parties, outside of the European Union) to enforce and comply with the law. We may disclose Personal Information and any other information about you to government or law enforcement officials (and private parties, outside of the European Union) if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of pCloud or of any third party, to prevent or stop any illegal, unethical or legally actionable activity, or to comply with the law.
+</p>
+
+<h3>Be Careful When You Share Information with Others</h3>
+<p>
+Please be aware that whenever you share information on a publicly available profile page or any other public forum on the Site, that information may be accessed by others. In addition, please remember that when you share information in any other communications with third parties, that information may be passed along or made public by others. This means that anyone with access to such information can potentially use it for any purpose, including sending unsolicited communications.
+</p>
+
+<h3>Security</h3>
+<p>
+We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk.
+</p>
+
+<h3>Links To Other Web Sites</h3>
+<p>
+Our Site and Services may contain links to other websites, or allow others to send you such links. A link to a third party's website does not mean that we endorse it or that we are affiliated with it. We do not exercise control over third-party websites. You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before providing any information to the website.
+</p>
+
+<h3>Children's Privacy</h3>
+<p>
+The Site and Services are intended for users who are 18 years old or older. We do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.
+</p>
+
+<h3>Processing in the European Union and the United States</h3>
+<p>
+Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province or country. Please be advised that we process and store all information on secure servers in the United States and/or the European Union. This is necessary in order to process your Personal Information. The laws in the United States or the European Union may not be as protective of your privacy as those in your location. By using our Site or Services and submitting Personal Information via the Site, you agree to this collection, use, transfer, and disclosure of your Personal Information and that such collection, use, transfer, and disclosure shall be governed by applicable laws in the United States and the European Union.
+</p>
+
+<h3>Your Rights (For Users in the European Union Only)</h3>
+<p>
+If you reside in the European Union, you have a legal right to a copy of all the personal information about you held by us. On request, we will provide you with a copy of this information subject to a fee not exceeding £10. You also have a right to correct any errors in that information.
+</p>
+
+<h3>Privacy Policy Changes</h3>
+<p>
+From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will become effective on the revision date shown in the revised Privacy Policy. Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy.
+</p>
+
+<p><em>Revised: <strong>14 Jan 2015</strong></em></p>			</div>
+		</div>
+	</div>
+</div>
+<div class="footer-wrapper">
+
+
+	<footer>
+
+					<div class="footer-menu">
+				<h4><img src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/newsletter-pointer.png" class="toggle">Services</h4>
+				<ul>
+									<li><a class="" href="/expand-your-computer-storage-with-pcloud-drive.html">Desktop</a></li>
+									<li><a class="" href="/access-and-share-on-the-go.html">Mobile</a></li>
+									<li><a class="" href="/access-your-files-everywhere.html">Web</a></li>
+									<li><a class="" href="/encrypt-your-sensitive-files-in-the-cloud.html">Crypto</a></li>
+									<li><a class="" target="_blank" href="https://transfer.pcloud.com">Transfer</a></li>
+								</ul>
+			</div>
+					<div class="footer-menu">
+				<h4><img src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/newsletter-pointer.png" class="toggle">More Info</h4>
+				<ul>
+									<li><a class="" href="/plans.html">Plans and Pricing</a></li>
+									<li><a class="" href="/features/file-management.html">Features</a></li>
+									<li><a class="" href="/features/security.html">Security</a></li>
+									<li><a class="" target="_blank" href="https://blog.pcloud.com/">Blog</a></li>
+									<li><a class="" target="_blank" href="http://docs.pcloud.com/">Dev API</a></li>
+									<li><a class="" href="/release-notes/windows8.html">Release Notes</a></li>
+								</ul>
+			</div>
+					<div class="footer-menu">
+				<h4><img src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/newsletter-pointer.png" class="toggle">Company</h4>
+				<ul>
+									<li><a class="" href="/company/about.html">About</a></li>
+									<li><a class="" href="/company/careers.html">Careers</a></li>
+									<li><a class="" href="/company/press.html">Press</a></li>
+									<li><a class="" href="/company/contactus.html">Contact Us</a></li>
+								</ul>
+			</div>
+					<div class="footer-menu">
+				<h4><img src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/newsletter-pointer.png" class="toggle">FAQ</h4>
+				<ul>
+									<li><a class="" href="/help/general-help-center/">General</a></li>
+									<li><a class="" href="/help/drive-help-center/">pCloud Drive</a></li>
+									<li><a class="" href="/help/ios-help-center/">iOS</a></li>
+									<li><a class="" href="/help/android-help-center/">Android</a></li>
+									<li><a class="" href="/help/web-help-center/">Web</a></li>
+									<li><a class="" href="/help/crypto-help-center/">pCloud Crypto</a></li>
+									<li><a class="" href="/request-help.html">Request Help</a></li>
+								</ul>
+			</div>
+
+		<div class="footer-inputs">
+			<div class="lang">
+				<div class="inptitle">Language</div>
+				<div class="lang-box">
+					<span class="chosen">English</span>
+					<span class="flag"><span class="load-bg en"></span></span>
+					<div class="other-langs">
+
+													<div class="each-lang">
+							  	<a class="set-lang" href="/bg/privacy_policy.html" data-lang="bg">
+									<span class="name">Български</span>
+									<span class="flag"><span class="load-bg bg"></span></span>
+								</a>
+							</div>
+													<div class="each-lang">
+							  	<a class="set-lang" href="/tr/privacy_policy.html" data-lang="tr">
+									<span class="name">Türkçe</span>
+									<span class="flag"><span class="load-bg tr"></span></span>
+								</a>
+							</div>
+													<div class="each-lang">
+							  	<a class="set-lang" href="/es/privacy_policy.html" data-lang="es">
+									<span class="name">Español</span>
+									<span class="flag"><span class="load-bg es"></span></span>
+								</a>
+							</div>
+													<div class="each-lang">
+							  	<a class="set-lang" href="/ru/privacy_policy.html" data-lang="ru">
+									<span class="name">Русский</span>
+									<span class="flag"><span class="load-bg ru"></span></span>
+								</a>
+							</div>
+													<div class="each-lang">
+							  	<a class="set-lang" href="/zh/privacy_policy.html" data-lang="zh">
+									<span class="name">正體中文</span>
+									<span class="flag"><span class="load-bg zh"></span></span>
+								</a>
+							</div>
+													<div class="each-lang">
+							  	<a class="set-lang" href="/de/privacy_policy.html" data-lang="de">
+									<span class="name">Deutsch</span>
+									<span class="flag"><span class="load-bg de"></span></span>
+								</a>
+							</div>
+													<div class="each-lang">
+							  	<a class="set-lang" href="/it/privacy_policy.html" data-lang="it">
+									<span class="name">Italiano</span>
+									<span class="flag"><span class="load-bg it"></span></span>
+								</a>
+							</div>
+													<div class="each-lang">
+							  	<a class="set-lang" href="/fr/privacy_policy.html" data-lang="fr">
+									<span class="name">Français</span>
+									<span class="flag"><span class="load-bg fr"></span></span>
+								</a>
+							</div>
+													<div class="each-lang">
+							  	<a class="set-lang" href="/pt/privacy_policy.html" data-lang="pt">
+									<span class="name">Português</span>
+									<span class="flag"><span class="load-bg pt"></span></span>
+								</a>
+							</div>
+													<div class="each-lang">
+							  	<a class="set-lang" href="/fa/privacy_policy.html" data-lang="fa">
+									<span class="name">فارسی</span>
+									<span class="flag"><span class="load-bg fa"></span></span>
+								</a>
+							</div>
+
+						<div class="each-lang current">
+							<span class="name">English</span>
+							<span class="flag"><span class="load-bg en"></span></span>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="clearfix"></div>
+			<div class="newsletter">
+				<form action="" onsubmit="newsletter.submit($(this));return false;">
+				<div class="inptitle">Join Our Newsletter</div>
+				<div class="input-wrap">
+					<input type="text" placeholder="Enter your email address" name="mail">
+					<div class="pointer load-bg" onclick="$(this).parents('form').submit(); return false;"></div>
+				</div>
+				</form>
+			</div>
+		</div>
+	</footer>
+
+	<script>
+	$(document).on('ready', function () {
+		$('footer').on('click', '.footer-menu h4', function (e) {
+			if ($(this).find('img').is(':visible')) {
+				if ($(this).parent().hasClass('open')) {
+					$(this).parent().removeClass('open');
+				} else {
+					$('.footer-menu.open').removeClass('open');
+					$(this).parent().addClass('open');
+				}
+			}
+		});
+
+		$('.lang-box .chosen').on('click', function () {
+			$('.other-langs').css('display', '');
+		});
+
+		$('.each-lang.current').on('click', function (e) {
+			$('.other-langs').hide();
+		});
+
+		$('.lang-box').on('mouseleave', function (e) {
+			$('.other-langs').css('display', '');
+		});
+	});
+	</script>
+
+	<div class="clearfix"></div>
+
+	<div class="follow">
+		<div class="follow-title">Follow Us</div>
+		<div class="follow-line"></div>
+		<div class="follow-buttons">
+			<a href="https://www.facebook.com/pCloudapp" target="_blank"><img class="lazy" data-src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/fb-button.png" src="images/lazy-load.png"></a>
+			<a href="https://plus.google.com/110291492066379393780/posts" target="_blank"><img class="lazy" data-src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/gplus-button.png" src="images/lazy-load.png"></a>
+			<a href="https://twitter.com/pCloudapp" target="_blank"><img class="lazy" data-src="//d2k5eplsbcgehr.cloudfront.net/Z9t/images/twitter-button.png" src="images/lazy-load.png"></a>
+		</div>
+	</div>
+
+
+	<div class="copyright">
+		2015 © pCloud AG, Switzerland. <a href="/terms_and_conditions.html">Terms and conditions</a>, <a href="/privacy_policy.html">Privacy Policy</a>, <a href="/int_pr_policy.html">Intellectual Property Policy</a>	</div>
+
+</div>
+
+<div class="mob_menu_overlay"></div>
+
+<script>
+var pcloudDriveDownloadCodes = {
+	'Windows 8': 'XZNCIkZfGowPJFiU6XWe8R5B0c7LQ85G6YV',
+	'Windows 7': 'XZNCIkZfGowPJFiU6XWe8R5B0c7LQ85G6YV',
+	'Windows Vista': 'XZNCIkZfGowPJFiU6XWe8R5B0c7LQ85G6YV',
+	'Windows XP': 'XZiCIkZyaz352mjaRJR6G6kC2PfcRWk4iXX',
+	'Windows 2000': 'XZiCIkZyaz352mjaRJR6G6kC2PfcRWk4iXX',
+	'Mac': 'XZyxIkZfxQWvodRC2makxl8dzy70SneVQgX',
+	'Linux 32bit': 'XZDxIkZSrlWwLJDtWJPQJ0tuzqE8pB3Mw9V',
+	'Linux 64bit': 'XZWxIkZuAkt4AQ9bT05r3TpMKN8lSYnEyfV',
+	'Android apk': 'XZnVpXZhPQiwTOnmefDWJXxemDUVmE2Vodk'
+};
+</script>
+<!-- TEMPLATES -->
+	<div class="ymodal" id="signup_modal_pcloud">
+		<div class="ymodal-wrap">
+			<div class="inner-box">
+				<span class="close-modal"></span>
+				<h3>Create a New Account</h3>
+
+				<div class="sub_sub_nav">
+					<ul class="modal-tabs">
+						<li onclick="modal.open_login()">Log in</li>
+						<li class="active">Sign Up</li>
+					</ul>
+				</div>
+				<div class="inner">
+					<form id="signupForm" action="">
+
+						<div class="general_error"></div>
+
+						<div class="clearfix div_el">
+							<label>Your Email <span class="errorche_email errorche" style="float: right; display: none;"></span></label>
+							<input class="form-control" type="email" name="mail" value="" placeholder="" autocomplete="off">
+						</div>
+
+						<div class="clearfix div_el">
+							<label>Your Password <span class="errorche_password errorche" style="float: right; display: none;"></span></label>
+							<input class="form-control" type="password" name="password" value="" placeholder="" autocomplete="off">
+						</div>
+
+						<div class="clearfix div_el">
+							<label>Confirm Password</label>
+							<input class="form-control" type="password" name="password2" value="" placeholder="" autocomplete="off">
+						</div>
+
+						<div class="clearfix terms">
+							<div>
+								<input required="" type="checkbox" name="trms">
+								I accept pCloud <a href="/terms_and_conditions.html" target="_blank">Terms and conditions</a>, <a href="/privacy_policy.html" target="_blank">Privacy Policy</a> and <a href="/int_pr_policy.html" target="_blank">Intellectual Property Policy</a>							</div>
+						</div>
+					</form>
+				</div>
+				<div class="bottom">
+					<a href="#" class="btn blue" onclick="$('#signupForm').submit();return false;">Get Started</a>
+				</div>
+			</div>
+		</div>
+		<div class="close_modal_mask"></div>
+	</div>
+
+	<div class="ymodal" id="login_modal_pcloud">
+		<div class="ymodal-wrap">
+			<div class="inner-box">
+				<span class="close-modal"></span>
+				<h3>Log in to pCloud Account</h3>
+
+				<div class="sub_sub_nav">
+					<ul class="small-block-grid-2">
+						<li class="active">Log in</li>
+						<li class="tab-register" onclick="modal.open_register()">Sign Up</li>
+					</ul>
+				</div>
+				<div class="inner">
+					<form onsubmit="return false;" action="">
+						<div class="general_error"></div>
+
+						<label>Your Email</label> <input class="form-control email" type="email" name="email" value="" placeholder="" autocomplete="off">
+						<label>Your Password</label> <input class="form-control password" type="password" name="password" value="" placeholder="" autocomplete="off">
+						<div class="clearfix rememberme-forgotpassword">
+							<label><input id="login_remember" type="checkbox" name="remember" checked="checked"> Remember me</label>
+							<a href="#" class="_forgotpassword">Forgot password?</a>
+						</div>
+					</form>
+				</div>
+				<div class="bottom">
+					<a href="#" onclick="$(this).parents('.ymodal').find('form').first().submit();return false;" class="btn blue p70">Log in</a>
+				</div>
+			</div>
+		</div>
+		<div class="close_modal_mask"></div>
+	</div>
+
+	<div class="ymodal" id="newsletter_wellcome_modal">
+		<div class="ymodal-wrap">
+			<div class="inner-box">
+				<div class="fon">
+					<span class="close-modal"></span>
+					<h3 class="blue light">Welcome to pCloud Newsletter!</h3>
+					<div class="inner" style="text-align: center;">
+						<strong>Thank you for subscribing to our pCloud Newsletter.</strong>
+						<div>Regularly you will get the latest pCloud news and promotions delivered straight to your inbox.</div>
+					</div>
+
+					<div class="btn blue inline centered" style="margin-top: 29px;" onclick="modal.close_all();">Close</div>
+				</div>
+				<div style="padding:5px;height:5px;background: url(images/newsletter_top.png) repeat-x;margin: 7px;"></div>
+			</div>
+		</div>
+		<div class="close_modal_mask"></div>
+	</div>
+
+	<div class="ymodal" id="newsletter_unsubscribe">
+		<div class="ymodal-wrap">
+			<div class="inner-box">
+				<span class="close-modal"></span>
+				<h3 class="blue light">You have been unsubscribed from pCloud newsletter.</h3>
+				<div class="inner" style="text-align: center;">
+					<div class="close_btn">
+						<div class="bottom_icons gray">
+							Close						</div>
+					</div>
+				</div>
+				<div style="padding:5px;height:5px;background: url(images/newsletter_top.png) repeat-x;margin: 7px;"></div>
+			</div>
+		</div>
+		<div class="close_modal_mask"></div>
+	</div>
+
+<!--[if lt IE 9]>
+<script src="//d2k5eplsbcgehr.cloudfront.net/Z9t/js/ie/rem.js"></script>
+<![endif]-->
+<script>
+$(document).on('ready', function () {
+	$('html').addClass(detect_os().split(' ').join('').toLowerCase());
+});
+
+if (!redirecting) {
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-44134956-1', 'pcloud.com');
+
+	// Track event for buttons
+
+	$('#login_modal_pcloud .bottom a').on('click', function() { // Login button
+		ga('send', 'event', 'Login button', 'click');
+	});
+	$('#signup_modal_pcloud .bottom a').on('click', function() { // Signup
+		ga('send', 'event', 'Sign Up button', 'click');
+	});
+	$('#p_home #download-drive-link').on('click', function() { // Home - Download Drive button
+		ga('send', 'event', 'Home - Download Drive button', 'click');
+	});
+	$('#p_home .pcloud-web .free_sign_up, #p_home .home-bg-2 .free_sign_up').on('click', function() { // Home - Opens Register modal
+		ga('send', 'event', 'Home - Open Register', 'click');
+	});
+	$('#p_home .buy_premium').on('click', function() { // Home - Buy Premium Plan
+		ga('send', 'event', 'Home - Buy Premium', 'click');
+	});
+	$('#p_home .buy_premium_plus').on('click', function() { // Home - Buy Premium Plus Plan
+		ga('send', 'event', 'Home - Buy Premium Plus', 'click');
+	});
+	$('#p_home .learn-more').on('click', function() { // Home - Learn More button
+		ga('send', 'event', 'Home - Learn More', 'click');
+	});
+	$('#p_desktop #download-drive-link, #p_desktop .download-btn').on('click', function() { // Desktop - Download Drive button
+		ga('send', 'event', 'Desktop - Download Drive button', 'click');
+	});
+	$('#p_mobile #pcloud-drive-desktop .get-pc-app').on('click', function() { // Mobile - "Get the App" - clicked trough Desktop
+		ga('send', 'event', 'Mobile - Get App (clicked from Desktop)', 'click');
+	});
+	$('#p_mobile .iphone-only, #p_mobile .get-iphone-app').on('click', function() { // Mobile - "Get the App" for iPhone
+		ga('send', 'event', 'Mobile - Get App for iPhone', 'click');
+	});
+	$('#p_mobile .android-only, #p_mobile .get-android-app').on('click', function() { // Mobile - "Get the App" for Android
+		ga('send', 'event', 'Mobile - Get App for Android', 'click');
+	});
+	$('#p_web .get-pc-app').on('click', function() { // Web - Get started
+		ga('send', 'event', 'Web - Get started (Go to Plans)', 'click');
+	});
+	$('#p_crypto .try-for-free').on('click', function() { // Crypto - Try for free
+		ga('send', 'event', 'Crypto - Try for Free', 'click');
+	});
+	$('#p_crypto .get-pc-app').on('click', function() { // Crypto - Buy Crypto
+		ga('send', 'event', 'Crypto - Buy Crypto', 'click');
+	});
+
+	// Gather common information (pageviews/visits/other stats)
+	ga('send', 'pageview');
+
+  var _s2 = _s2 || [];
+  var _stats = _stats || {};
+  _s2.push(['r',Math.random().toString(36).substring(7)+""+Math.random().toString(36).substring(7)+"-"+Math.random().toString(36).substring(7)]);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://s.pcloud.com/e.js";
+    _s2.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u; s.parentNode.insertBefore(g,s);
+  })();
+
+	adroll_adv_id = "KGVNL6NFWNFELPKLAIF5N5";
+	adroll_pix_id = "MQVT3BVUVZBUVABCU3BVUR";
+	(function () {
+	var oldonload = window.onload;
+	window.onload = function(){
+	   __adroll_loaded=true;
+	   var scr = document.createElement("script");
+	   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+	   scr.setAttribute('async', 'true');
+	   scr.type = "text/javascript";
+	   scr.src = host + "/j/roundtrip.js";
+	   ((document.getElementsByTagName('head') || [null])[0] ||
+	    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+	   if(oldonload){oldonload()}};
+	}());
+}
+</script>
+
+</body></html>
