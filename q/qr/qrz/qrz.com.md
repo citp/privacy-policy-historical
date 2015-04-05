@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104153220id_/http%3A//qrz.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405021243id_/http%3A//www.qrz.com/page/privacy.html) for the most accurate reproduction.*
 
 # privacy by QRZ.COM
 
