@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesize.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804144649id_/http%3A//www.lifesize.com/en/company/legal-notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesize.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405095350id_/http%3A//www.lifesize.com/en/company/legal-notices/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,3 +45,7 @@ You can choose to not provide personal information or only limited information. 
 You also may at any time, review, edit and/or remove information we maintain on you. We will promptly comply with any request to review, edit or remove your information. Please use our unsubscribe option for newsletters or fill out this [unsubscribe form](http://www.programs.lifesize.com/unsubscribe).
 
 For additional questions, please send us a message or call 1-877-Lifesize.
+
+### Cookies
+
+Our site uses "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. To learn more read our [Cookie Compliance and Management](https://web.archive.org/en/company/legal-notices/cookie-compliance) page.
