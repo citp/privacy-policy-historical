@@ -1,116 +1,97 @@
-> *The following text is extracted and transformed from the telstra.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226213046id_/http%3A//www.telstra.com.au/privacy/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telstra.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405073207id_/https%3A//www.telstra.com.au/privacy/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Telstra
+# Telstra - Privacy statement (including Credit Reporting Policy)
 
-## Telstra Corporation Limited
+This statement is our privacy policy which sets out how we manage your personal information and other information. Before we go into the detail, we need to define a few terms. This bit can get a bit technical, so please bear with us:
 
-### Protecting your privacy
+Your information: When we refer to your information, we are referring to both your personal information, as defined under the Privacy Act 1988 (Cth), and customer information, which is protected by Part 13 of the Telecommunications Act 1997 (Cth).
 
-We are committed to providing you with the highest levels of customer service. This includes protecting your privacy.
+Credit Reporting Policy: This sets out how we manage your credit information and credit eligibility information where this is relevant to you, and is our credit reporting policy for the purposes of Part IIIA of the Privacy Act.
 
-Set out below is information that we are required to communicate to our customers. We recommend that you keep this information for future reference.
+_ _[Download the Privacy Statement (including Credit Reporting Policy) (PDF, 58KB)](https://web.archive.org/content/dam/tcom/personal/privacy/pdf/Privacy-statement-Nov-2014.pdf)
 
-### About us
+### The kinds of information we collect and hold
 
-We provide a range of telecommunication services, either through a particular division within Telstra or through one of our related companies - for example, the publisher of our directories. 
+Depending on the particular circumstances, we may collect and hold a range of different information about you. This can include your name, date of birth, contact details (including address, email address, phone number or mobile telephone number), occupation, driver's licence number, Telstra PIN, username or password, financial information (such as credit card or bank account numbers) and information about how you use our products and services.
 
-### Your personal information
+This is not an exhaustive list. For example, we may sometimes need to collect additional information as part of a user authentication process, such as when you want to speak to one of our customer service personnel who need to access your account. We may also need to collect additional information from you, such as limited health information to provide priority assistance services or a Centrelink customer reference number to provide you with a pensioner discount.
 
-Personal information held by us may include your name, date of birth, current and previous addresses, telephone or mobile phone number, email address, bank account or credit card details, occupation, driver's licence number and your Telstra PIN, username or password. We also hold details of your Telstra services (including their status), as well as certain details about your personal interests.
+You might also need to provide personal information about other individuals to us (e.g. about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to us and to advise them about this statement.
 
-If you choose not to provide certain personal information (e.g. your date of birth), we may not be able to provide you with the services you require, or the level of service on which we pride ourselves.
+### How we collect your information
 
-Occasionally, you may need to provide personal information about other individuals to us (e.g. about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to us and to advise them that we can be contacted for further information (see 'How to contact us' at the end of this brochure).
+We may collect your information in a number of ways, including:
 
-### How we collect personal information
-
-We collect personal information in a number of ways, including: 
-
-  * directly from you, for example, when you provide information by phone, in application forms or other agreements, or when you submit your personal details through our websites (eg. during telstra.com registration);
-  * from third parties such as our related companies, credit reporting agencies or your representatives;
-  * from publicly available sources of information;
-  * from the organisations identified under 'When we disclose your personal information';
-  * from our own records of how you use your Telstra services;
-  * when you visit our websites. For more information on how our websites collect information please view [Telstra's Privacy Information](https://web.archive.org/privacy/privacy-information/index.htm); or
-  * when legally required to do so - for example, under the Telecommunications (Service Provider - Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2000.
+  * directly from you (such as where you provide information to us when you visit one of our stores or websites, complete an application form or agreement for one of our services, or contact us with a query or request)
+  * from third parties such as our related entities, business partners, credit reporting bodies (for more details see our Credit Reporting Policy below), wholesale or other customers, or your representatives
+  * from publicly available sources of information
+  * from our records of how you use your Telstra products or services
+  * when legally authorised or required to do so, for example, when we need to undertake identity checks for pre-paid public mobile telecommunications services under the Telecommunications (Service Provider — Identity Checks for Prepaid Mobile Carriage Services) Determination 2013
+  * from the third parties we list in the section of this Statement with the heading When we disclose your information
 
 
 
-### How we use your personal information
+If you choose not to provide certain information about you, we may not be able to provide you with the products or services you require, or the level of service on which we pride ourselves.
 
-Your personal information may be used to: 
+We may also collect information from you online. For more information, please go to the [online privacy](https://www.telstra.com.au/privacy/online-privacy) section of our website.
 
-  * verify your identity;
-  * assist you to subscribe to our services;
-  * provide the services you require;
-  * administer and manage those services, including charging, billing and collecting debts;
-  * inform you of ways the services provided to you could be improved;
-  * conduct appropriate checks for credit-worthiness and for fraud;
-  * research and develop our services;
-  * gain an understanding of your information and communication needs in order for us to provide you with a better service; and
-  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems.
+### How we hold your information
 
+We may store your information in hard copy or electronic format, in storage facilities that we own and operate ourselves, or that are owned and operated by our service providers. We take reasonable steps to maintain the security of your information and to protect it from unauthorised disclosures.
 
+While we take these steps to maintain the security of your information, you should be aware of the many information security risks that exist today and take appropriate care to help safeguard your information. We encourage you to read some of our helpful tips and hints on how to protect your information through [online safety](https://www.telstra.com.au/privacy/online-safety), available on our website.
 
-Also, your personal information is collected so that we, our related bodies and our dealers can promote and market services to you (including by way of direct mail, telemarketing, email, SMS and MMS messages). This is to keep you informed of products, services and special offers and may continue after you cease acquiring services from us. If you do not wish us, our related bodies or our dealers to contact you to promote and market products, services and special offers to you, please call 1800 039 059.
+### How we use your information
 
-### When we disclose your personal information
+We may use your information for a range of different purposes, including
 
-In order to deliver the services you require, we may disclose your personal information to organisations outside of Telstra. Your personal information is disclosed to these organisations only in relation to us providing our services to you. 
-
-### These organisations carry out our:
-
-  * customer enquiries;
-  * mailing operations;
-  * billing and debt-recovery functions;
-  * information technology services;
-  * installation, maintenance and repair services;
-  * marketing, telemarketing and door-knocking services;
-  * market research; and
-  * website usage analysis.
+  * to verify your identity, or to conduct appropriate checks for credit-worthiness and for fraud checking
+  * to provide products and services to you, to provide you with information about those products and services, to assist you with enquiries or purchases, to enhance your experience on our network, or to provide you with better customer service
+  * to administer and manage the products and services we provide to you, to charge and bill you for them, and to collect any amounts you may owe us
+  * to gain an understanding of your information and communication needs, to perform research and analysis, and to improve or develop our products and services
+  * to monitor network use, quality and performance, and to operate, maintain, develop, test and upgrade our systems and infrastructure
+  * conduct appropriate checks for credit-worthiness and for fraud
+  * as authorised or required by the Telecommunications Act 1997 (Cth) and other laws applicable to us
+  * to produce and distribute an alphabetical public number directory (known as the White Pages) in compliance with our Carrier Licence Conditions
 
 
 
-We take reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
+### How we use your information for Direct Marketing
 
-### In addition, we may disclose your personal information to:
+We may also use your information so that we, our related entities, dealers and other business partners can promote and market products, services and special offers that we think will be of interest to you (which may include products, services and offers provided by a third party). This marketing may be carried out in a variety of ways (including by email, SMS/MMS, or social media or by customising on-line content and displaying advertising on websites) and may continue after you cease acquiring any products or services from us until you opt-out. You may opt out by calling us on 1800 039 059 or updating your preference by logging into your 'My Account' online.
 
-  * your authorised representatives or your legal advisers (e.g. when requested by you to do so);
-  * credit-reporting and fraud-checking agencies;
-  * credit providers (for credit related purposes such as credit-worthiness, credit rating, credit provision and financing);
-  * our dealers;
-  * our related companies;
-  * our professional advisers, including our accountants, auditors and lawyers;
-  * other telecommunication and information service providers (for example, if you obtain services from other providers, we may need to disclose your personal information for billing purposes);
-  * the manager of the Integrated Public Number Database. For more information on the Integrated Public Number Database please read [Telstra's Privacy Information](https://web.archive.org/privacy/privacy-information/index.htm);
-  * government and regulatory authorities and other organisations, as required or authorised by law; and
-  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (e.g. securitisation).
+### When we disclose your information
 
+We may disclose your information to third parties who provide services to us, including organisations and contractors that assist us with the purposes for which we use your information. These services include:
 
-
-### Help us to ensure we hold accurate information
-
-We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. 
-
-However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you: 
-
-  * let us know if there are any errors in your personal information; and
-  * keep us up-to-date with changes to your personal information such as your name or address. If you are a subscriber to one of our online products or services, you may change your personal details by using the relevant facility on our websites.
+  * customer enquiries
+  * installation, maintenance and repair services
+  * mailing operations, billing and debt-recovery functions
+  * information technology and network services
+  * market research, marketing, telemarketing and door-knocking services
 
 
 
-### You can access your personal information
+We may also disclose your information:
 
-You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. 
+  * to your authorised representatives or advisers, or when you ask us to do so
+  * to credit-reporting bodies (for more details see our Credit Reporting Policy below) and fraud-checking agencies, and to credit providers for credit related purposes such as credit-worthiness, credit rating, credit provision and financing
+  * our dealers, our related entities or our business partners
+  * to other telecommunication and information service providers or to our wholesale and other customers from or through whom you may acquire products or services (for example, we may need to disclose your information for billing purposes)
+  * to the manager of the Integrated Public Number Database, and other organisations as required or authorised by law
+  * to law enforcement and national security agencies, and other government and regulatory authorities as required or authorised by law
+  * to third parties who assist us to manage or develop our business and corporate strategies and functions, including our corporate risk or funding functions
+  * for the purposes of facilitating or implementing a transfer/sale of all or part of our assets or business
+  * to our contractors, Sensis, to enable us to meet our Carrier Licence Conditions to produce and distribute an alphabetical public number directory (known as the White Pages). Note, if you have requested a silent line number your number won't be published in the White pages.
 
-We reserve the right to charge a fee for searching for and providing access to your information. 
 
-### How to contact us
 
-If you have any questions in relation to privacy, please contact us on **1800 039 059** between 9.00am and 5.00pm, Monday to Friday. Please note that this number is not for general service enquiries. Alternatively, you can write to [privacy@online.telstra.com.au](mailto:privacy@online.telstra.com.au)
+In some cases, the organisations to who we may disclose your information may be based outside Australia. For example, we may disclose your information to our service providers in Canada, Hong Kong, India, Japan, Malaysia, Philippines, Singapore, United Kingdom, Spain and the United States of America.
 
-You may obtain further information on privacy matters by viewing [Privacy at Telstra](https://web.archive.org/privacy/index.htm). 
+### How to access or correct your personal information or make a privacy complaint
 
-Telstra Privacy Statement March 2008  
-Telstra Corporation Limited ABN 33 051 775 556  
-C011 03-08 P616244 131530
+If you wish to access any of your personal information that we hold or would like to correct any errors in that information, please contact us using the contact details set out in the how to contact us section of this Statement, so that we can consider and respond to your request. We may apply an administrative charge for providing access to your personal information in response to a request.
+
+You may also use these contact details to notify us of any privacy complaint you have against us, including if you think that we have failed to comply with the Australian Privacy Principles (APP) or any binding APP code that has been registered under the Privacy Act. We are committed to acknowledging your complaint in a prompt manner and will give you an estimated timeframe for when we will respond to your complaint.
+
+While we hope that we will be able to resolve any complaints you may have without needing to involve third parties, you may also be able to lodge a complaint with a relevant regulator such as the Australian Information Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)) or the Telecommunications Industry Ombudsman ([www.tio.com.au](http://www.tio.com.au/)).
