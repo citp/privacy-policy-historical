@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the cubcadet.com privacy policy that was archived on 2013-08-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130825213321id_/http%3A//www.cubcadet.com/equipment/CubCadetFullPageArticleDisplayView%3FlangId%3D-1%26storeId%3D10051%26catalogId%3D14101%26pageView%3DCubcadet_General/Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cubcadet.com privacy policy that was archived on 2015-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150405160940id_/http%3A//www.cubcadet.com/equipment/CubCadetFullPageArticleDisplayView%3FlangId%3D-1%26storeId%3D10051%26catalogId%3D14101%26pageView%3DCubcadet_General/Privacy_Policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js no-touch"><head>
-	 <link href="/wcsstore/Cub/css/cubcadet/eprize.css" type="text/css" rel="stylesheet">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js no-touch history svg" style=""><head>
+
+	<link rel="stylesheet" type="text/css" href="/wcsstore/Cub/css/cubcadet/jqModal.css">
 	
 
 
@@ -54,6 +55,8 @@
 		
 	
 	
+
+
 
 
 
@@ -154,6 +157,9 @@
   
 
 
+	
+	
+	
 
 
 
@@ -163,6 +169,11 @@
 
 
 
+
+
+
+
+		
 		
 
 
@@ -201,17 +212,110 @@
 	<![endif]-->
 	
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/wcsstore/Cub/javascript/libs/jquery-1.7.min.js"></script>
-	<script src="/wcsstore/Cub/javascript/libs/modernizr.custom.2.0.6.min.js"></script>
+	<script src="/wcsstore/Cub/javascript/libs/modernizr.custom.2.8.3.min.js"></script>
 	<script src="/wcsstore/Cub/javascript/cubcadet/swap.js"></script>
 	<script src="/wcsstore/Cub/javascript/product_nav.js"></script> 
-	
+	<script src="/wcsstore/Cub/javascript/libs/parseUri.js"></script>
+	<script src="/wcsstore/Cub/javascript/plugins/underscore.min.js"></script> 
 	
 	<script>window.jQuery || document.write('<script src="/wcsstore/Cub/javascript/libs/jquery-1.7.min.js"><\/script>')</script>
 	
+			<link href="/wcsstore/SharedCheckoutSAS/css/checkout.css" type="text/css" rel="stylesheet">
+        <link href="/wcsstore/SharedCheckoutSAS/font/pictos_custom.css" type="text/css" rel="stylesheet">
+		<script type="text/javascript">
+		     function FileExists(url) {
+				strURL = window.location.protocol + "//" + window.location.host + url;
+				//alert("strURL: " + strURL);
+				var oHttp;
+			    var rv = 'false';
+				
+				if (window.XMLHttpRequest){ //Mozilla, Firefox, Opera 8.01, Safari
+				    oHttp = new XMLHttpRequest(); 
+				    oHttp.open("GET", strURL, false);
+				    try {
+				    	oHttp.send(null);
+				    } catch(e) {
+				    }
+				} else if(window.ActiveXObject){ //IE
+					try{
+						oHttp = new ActiveXObject("Msxml2.XMLHTTP"); 
+				    }catch(e){
+				      try{
+				  		 oHttp = new ActiveXObject("Microsoft.XMLHTTP");
+				      }catch(e){
+				      }
+				    }
+				    oHttp.open("GET", strURL, false);
+				    try {
+				    	oHttp.send();
+				    } catch(e) {
+				    }
+				} else{ 
+				    oHttp = undefined;
+				}
+				if (oHttp != undefined) {
+				    if (oHttp.status == '404') {
+						rv = 'false';
+				    } else rv = 'true';
+				} else rv = 'true';
+				
+			    //alert("file exists? " + rv);
+			    return rv;
+			}
+		
+			function sharedShowHide(elementid){
+			 if(document.getElementById(elementid) != null && document.getElementById(elementid).style != null){
+				if (document.getElementById(elementid).style.display == 'none'){
+					document.getElementById(elementid).style.display = '';
+				} else {
+					document.getElementById(elementid).style.display = 'none';
+				}
+			 }
+			}
+			
+			function checkImage(imageId,noImageId,image1,count1){
+				if(FileExists(image1) == 'false'){
+					sharedShowHide(noImageId + count1);
+					sharedShowHide(imageId +count1);
+				}
+			}
+			
+			function continueShoppingClick(homeUrl){
+				var referrerUrl = document.referrer;
+				if(referrerUrl){
+					if(referrerUrl.indexOf('OrderItemDisplay') != -1){
+						window.open(homeUrl,'_self'); 
+					}else{
+						window.open(referrerUrl,'_self');
+					}
+				} else {
+					window.open(homeUrl,'_self');
+				} 
+				return false;
+			}
+		</script>
+	<link href="/wcsstore/Cub/css/cubcadet-checkout.css" type="text/css" rel="stylesheet">
+	
+	<!-- EV jQuery Accordion -->
+	<link rel="stylesheet" media="all" href="/wcsstore/Cub/css/jquery-accordion.css">
+	<link href="/wcsstore/Cub/css/2014-realign.css" type="text/css" rel="stylesheet">
+	
+
 	<title>Welcome to Cub Cadet</title>
 	<meta name="description" content="Privacy_Policy, Privacy Policy">
 	<meta name="keywords" content="Privacy Policy">
-</head>
+<style id="iconic-responsive-css" type="text/css">/* Iconic Responsive Support Styles */
+.iconic-property-fill, .iconic-property-text {stroke: none !important;}
+.iconic-property-stroke {fill: none !important;}
+svg.iconic.iconic-fluid {height:100% !important;width:100% !important;}
+svg.iconic.iconic-sm:not(.iconic-size-md):not(.iconic-size-lg), svg.iconic.iconic-size-sm{width:16px;height:16px;}
+svg.iconic.iconic-md:not(.iconic-size-sm):not(.iconic-size-lg), svg.iconic.iconic-size-md{width:32px;height:32px;}
+svg.iconic.iconic-lg:not(.iconic-size-sm):not(.iconic-size-md), svg.iconic.iconic-size-lg{width:128px;height:128px;}
+svg.iconic-sm > g.iconic-md, svg.iconic-sm > g.iconic-lg, svg.iconic-md > g.iconic-sm, svg.iconic-md > g.iconic-lg, svg.iconic-lg > g.iconic-sm, svg.iconic-lg > g.iconic-md {display: none;}
+svg.iconic.iconic-icon-sm > g.iconic-lg, svg.iconic.iconic-icon-md > g.iconic-lg {display:none;}
+svg.iconic-sm:not(.iconic-icon-md):not(.iconic-icon-lg) > g.iconic-sm, svg.iconic-md.iconic-icon-sm > g.iconic-sm, svg.iconic-lg.iconic-icon-sm > g.iconic-sm {display:inline;}
+svg.iconic-md:not(.iconic-icon-sm):not(.iconic-icon-lg) > g.iconic-md, svg.iconic-sm.iconic-icon-md > g.iconic-md, svg.iconic-lg.iconic-icon-md > g.iconic-md {display:inline;}
+svg.iconic-lg:not(.iconic-icon-sm):not(.iconic-icon-md) > g.iconic-lg, svg.iconic-sm.iconic-icon-lg > g.iconic-lg, svg.iconic-md.iconic-icon-lg > g.iconic-lg {display:inline;}</style></head>
 <body class="interior"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 20px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
 			<!-- Start - JSP File name:  style1/CachedHeaderDisplay.jsp -->
 
@@ -302,6 +406,8 @@
 
 
 
+
+
 	
 	
 		
@@ -366,6 +472,9 @@
   
 
 
+	
+	
+	
 
 
 
@@ -375,6 +484,11 @@
 
 
 
+
+
+
+
+		
 		
  
 
@@ -426,6 +540,10 @@ obj.value = '';
 	
 		 
 	
+
+	
+		 
+	
 		
 	
 
@@ -437,8 +555,6 @@ obj.value = '';
 	
 		
 			
-			
-		
 			
 			
 				
@@ -446,7 +562,15 @@ obj.value = '';
 		
 			
 			
+				
+			
+			
 		
+			
+			
+			
+		
+			
 			
 			
 		
@@ -458,12 +582,6 @@ obj.value = '';
 	
 	
 	
-
-
-
-  
-  
-  
 
 
 
@@ -485,10 +603,73 @@ obj.value = '';
 				</h1>
 				<nav class="utility col">
 					<ul class="group">
-						<li class="find-dealer col"><a href="http://www.cubcadet.com/equipment/cubcadet/wheretobuy" title="Find A Dealer">Find A Dealer</a></li>
+						<!--  use the mappings from the Header category structure -->
 						
+							
+								
+								
+							
+							
 								
 									
+									
+								
+								
+								
+								
+								
+									<li class="col"><a href="/equipment/cubcadet/wheretobuy" title="Where To Buy">Where To Buy</a></li>
+									
+								
+								
+							
+								
+									
+									
+								
+								
+								
+								
+								
+									<li class="col"><a href="/equipment/CubCadetFullPageArticleDisplayView?storeId=10051&amp;pageView=promos%2FsmartFinancing.html&amp;catalogId=14101&amp;langId=-1" title="Financing">Financing</a></li>
+									
+								
+								
+							
+								
+									
+									
+								
+								
+								
+								
+								
+									<li class="col"><a href="http://www.cubcadetprofessional.com" title="Professional">Professional</a></li>
+									
+								
+								
+							
+								
+									
+									
+								
+								
+								
+								
+								
+									<li class="col"><a href="http://cubcadetgolf.com" title="GOLF">GOLF</a></li>
+									
+								
+								
+							
+						
+					</ul>
+				</nav>
+				<nav class="tools col">
+					<ul class="group">
+						
+							
+								
 
 
 
@@ -534,10 +715,12 @@ obj.value = '';
 
 
 
+	
 	
 		
 	
-	
+
+
 
 
 
@@ -638,6 +821,13 @@ obj.value = '';
   
 
 
+	
+	
+	
+
+
+
+
 
 
 
@@ -648,15 +838,32 @@ obj.value = '';
 
 
 		
+		
 
 
 
 
 	
 	
-		<li class="col"><a href="AjaxUserRegistrationForm?storeId=10051&amp;catalogId=14101&amp;langId=-1&amp;new=Y">Register</a></li>
-	  	<li class="col">/</li>
-	    <li class="col"><a href="LogonForm?storeId=10051&amp;catalogId=14101&amp;langId=-1">Sign In</a></li>
+	
+	
+
+
+
+	
+	
+	
+
+
+
+
+ 
+
+
+	
+	
+		<li class="auth col"><a href="https://www.cubcadet.com/equipment/cubcadet/register" title="Sign Up" class="btn-header">Sign Up</a></li>
+	    <li class="anonymous col"><a href="LogonForm?storeId=10051&amp;catalogId=14101&amp;langId=-1" title="Sign In">Sign In</a></li>
 	
 
 
@@ -665,13 +872,10 @@ obj.value = '';
 					
 					
 					
-								
-								
 							
-					</ul>
-				</nav>
-				<nav class="tools col">
-					<ul class="group">
+							
+						
+					
 						
 						
 							
@@ -713,7 +917,7 @@ obj.value = '';
 						
 						<li id="nav-search" class="col">
 
-							<form name="CatalogSearchForm" action="SearchDisplay" method="get" id="CatalogSearchForm">
+							<form name="CatalogSearchForm" action="http://www.cubcadet.com/webapp/wcs/stores/servlet/SearchDisplay" method="get" id="CatalogSearchForm">
 								<input type="hidden" name="storeId" value="10051" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
 								<input type="hidden" name="catalogId" value="14101" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
 								<input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
@@ -789,8 +993,8 @@ obj.value = '';
     </script>  						  
 						</div></li>
 						
-							<li id="nav-cart" class="col">
-								
+							
+ 
 
 
 
@@ -835,14 +1039,12 @@ obj.value = '';
 
 
 
-
-
-
-
+	
 	
 		
 	
-	
+
+
 
 
 
@@ -943,6 +1145,13 @@ obj.value = '';
   
 
 
+	
+	
+	
+
+
+
+
 
 
 
@@ -953,12 +1162,21 @@ obj.value = '';
 
 
 		
+		
 
 
-	  
 
 
 
+
+	
+		
+		
+		
+		
+		
+		
+		
 	
 
 
@@ -968,30 +1186,231 @@ obj.value = '';
 
 
 
-<a href="#" id="shoppingCartLink">
-	<strong><span id="cart-items-qty">0</span></strong> <span id="cart-items-label">Items</span>
-</a>
-
-<div id="mini-cart">
-</div>
 	
-<script type="text/javascript">
-	
-	function updateQuantity(num){
-		var valQ = document.getElementById('MCquantity_' + num).value * 1;
-		if (valQ == 0){
-			document.getElementById('shopCartURL').value = 'OrderCalculate?updatePrices=1&calculationUsageId=-1&orderItemId*=&quantity*=&URL=OrderItemDisplay';
-		}
-		document.getElementById('ShopCartForm').submit();
-	}
+    
+	    <li class="col" id="cart-link">
+            <a href="https://www.cubcadet.com/webapp/wcs/stores/servlet/OrderCalculate?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;updatePrices=1&amp;calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-3&amp;calculationUsageId=-4&amp;calculationUsageId=-7&amp;orderId=.&amp;listId=.&amp;errorViewName=OrderItemDisplayView&amp;URL=OrderItemDisplay" title="Shopping Cart"> <strong><span id="mini-cart-total">My Cart</span></strong></a>
+            
+		    
+		    	
+		    	
+		    	
+		    	
+		    
 
-	$(document).ready(function() {
+
+	
+	
+	
+		
+	
+
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+
+
+
+  
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+		
+	
+		
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+		
+		
+		
+	
+
+
+	
+	
+		<div id="minicart" class="content cart hide checkout medium" data-cart-total="0">
+			<p>No items currently in cart</p>
+		</div>
+	
+
 			
-	});
+        </li>
+	
 
-</script>
-
-							</li>
 						
 					</ul>
 				</nav>
@@ -1002,6 +1421,7 @@ obj.value = '';
 				<ul class="group">
 						
 							
+								
 								
 							
 
@@ -1023,8 +1443,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1032,38 +1455,34 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
+													
+														
 													
 													
 													<li class="sub-nav">
-														<a data-productid="33810" href="http://www.cubcadet.com/equipment/cubcadet/lawn-and-garden-tractors/series-1000" title="Series 1000">Series 1000</a>
+														<a data-productid="1395975" href="http://www.cubcadet.com/equipment/cubcadet/lawn-and-garden-tractors/xt1/features" title="XT1 Enduro Series">XT1 Enduro Series</a>
 													</li>
 	
 	
-													<div id="category_33810" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/lawn-and-garden-tractors/series-1000" title="View Series 1000">
+													<div id="category_1395975" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/lawn-and-garden-tractors/xt1/features" title="View XT1 Enduro Series">
 															
 																
-																	<img src="/wcpics/CubCadet/products/13WX90AS010_product_listing.jpg" width="135" height="95">
+																	<img src="/wcpics/CubCadet/products/14WQA3CQ010_product_listing.jpg" width="135" height="95">
 																
 																
 															
-															<strong>Series 1000</strong>
-															<p>Lawn tractors ideal for maintaining medium-sized yards.</p>
+															<strong>XT1 Enduro Series</strong>
+															<p>Strong, comfortable and versatile lawn tractors ideal for maintaining medium-sized yards season after season.</p>
 															<ul>
 	
 															
 															  	
 	
-																	<li>Mow up to 3 acres</li>
-	
-															     
-	
-																	<li>Ultra-tight turning</li>
-	
-															     
-	
-																	<li>Starting at $1,649.00</li>
+																	<li>Starting at $1,499.99</li>
 	
 															     
 															
@@ -1075,8 +1494,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1084,38 +1506,142 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
+													
+														
 													
 													
 													<li class="sub-nav">
-														<a data-productid="1342911" href="http://www.cubcadet.com/equipment/cubcadet/lawn-and-garden-tractors/series-2000" title="Series 2000">Series 2000</a>
+														<a data-productid="1395976" href="http://www.cubcadet.com/equipment/cubcadet/lawn-and-garden-tractors/xt2/features" title="XT2 Enduro Series">XT2 Enduro Series</a>
 													</li>
 	
 	
-													<div id="category_1342911" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/lawn-and-garden-tractors/series-2000" title="View Series 2000">
+													<div id="category_1395976" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/lawn-and-garden-tractors/xt2/features" title="View XT2 Enduro Series">
 															
 																
-																	<img src="/wcpics/CubCadet/products/14W-3DM-010_product_listing.jpg" width="135" height="95">
+																	<img src="/wcpics/CubCadet/products/13WIA1CQ010_product_listing.jpg" width="135" height="95">
 																
 																
 															
-															<strong>Series 2000</strong>
-															<p>Garden tractors ideal for mowing large yards and landscaping gardens.</p>
+															<strong>XT2 Enduro Series</strong>
+															<p>The same strength, durability and comfort of XT1 with select premium features that deliver even higher levels of performance, power and convenience.</p>
 															<ul>
 	
 															
 															  	
 	
-																	<li>Mow up to 4 acres</li>
+																	<li>Starting at $1,699.99</li>
+	
+															     
+															
+															</ul>
+														</a>
+													</div>
+													
+													
+												
+													
+														
+															
+													
+													
+													
+													
+													
+														
+														
+														
+														
+														
+													
+													
+													
+													
+													
+														
+													
+													
+													<li class="sub-nav">
+														<a data-productid="1395977" href="http://www.cubcadet.com/equipment/cubcadet/lawn-and-garden-tractors/xt3/features" title="XT3 Enduro Series">XT3 Enduro Series</a>
+													</li>
+	
+	
+													<div id="category_1395977" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/lawn-and-garden-tractors/xt3/features" title="View XT3 Enduro Series">
+															
+																
+																	<img src="/wcpics/CubCadet/products/14B-3GE-010_product_listing.jpg" width="135" height="95">
+																
+																
+															
+															<strong>XT3 Enduro Series</strong>
+															<p>Legendary, ultra-tough garden tractors ideal for maintaining larger yards, hauling heavier loads and using ground-engaging attachments.</p>
+															<ul>
+	
+															
+															  	
+	
+																	<li>Starting at $3,799.99</li>
+	
+															     
+															
+															</ul>
+														</a>
+													</div>
+													
+													
+												
+													
+														
+															
+													
+													
+													
+													
+													
+														
+														
+														
+														
+														
+													
+													
+													
+													
+													
+													
+													<li class="sub-nav">
+														<a data-productid="1387974" href="http://www.cubcadet.com/equipment/CategoryDisplay?storeId=10051&amp;urlRequestType=Base&amp;categoryId=1387974&amp;top_category=1353414&amp;langId=-1&amp;catalogId=14101" title="CC 30 Rider">CC 30 Rider</a>
+													</li>
+	
+	
+													<div id="category_1387974" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/CategoryDisplay?storeId=10051&amp;urlRequestType=Base&amp;categoryId=1387974&amp;top_category=1353414&amp;langId=-1&amp;catalogId=14101" title="View CC 30 Rider">
+															
+																
+																	<img src="/wcpics/CubCadet/products/13A226JD010_product_listing.jpg" width="135" height="95">
+																
+																
+															
+															<strong>CC 30 Rider</strong>
+															<p>Rider ideal for maintaining smaller yards.</p>
+															<ul>
+	
+															
+															  	
+	
+																	<li>Mow up to 1 acre</li>
 	
 															     
 	
-																	<li>Ground-breaking attachments</li>
+																	<li>Compact design with 30" deck</li>
 	
 															     
 	
-																	<li>Starting at $3,699.00</li>
+																	<li>Starting at $1,199.99</li>
 	
 															     
 															
@@ -1134,6 +1660,7 @@ obj.value = '';
 							
 						
 							
+								
 								
 							
 
@@ -1155,8 +1682,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1164,23 +1694,25 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
-														<a data-productid="33817" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/rzt-riders" title="RZT™ Series">RZT™ Series</a>
+														<a data-productid="33817" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/rzt-riders" title="RZT<sup>®</sup> L Series">RZT<sup>®</sup> L Series</a>
 													</li>
 	
 	
 													<div id="category_33817" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/rzt-riders" title="View RZT™ Series">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/rzt-riders" title="View RZT<sup>®</sup> L Series">
 															
 																
-																	<img src="/wcpics/CubCadet/products/17AFCACP010_product_listing.png" width="135" height="95">
+																	<img src="/wcpics/CubCadet/products/17ARCACS010_product_listing.png" width="135" height="95">
 																
 																
 															
-															<strong>RZT™ Series</strong>
+															<strong>RZT<sup>®</sup> L Series</strong>
 															<p>Residential zero-turn ideal for mowing medium-sized yards with mostly flat terrain.</p>
 															<ul>
 	
@@ -1191,11 +1723,11 @@ obj.value = '';
 	
 															     
 	
-																	<li>Lap bar control.</li>
+																	<li>Lap bar control</li>
 	
 															     
 	
-																	<li>Starting at $2,799.00</li>
+																	<li>Starting at $2,399.99</li>
 	
 															     
 															
@@ -1207,8 +1739,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1216,38 +1751,40 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
-														<a data-productid="1353449" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/rzt-s-riders" title="RZT™ S Series">RZT™ S Series</a>
+														<a data-productid="1353449" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/rzt-s-riders" title="RZT<sup>®</sup> S Series">RZT<sup>®</sup> S Series</a>
 													</li>
 	
 	
 													<div id="category_1353449" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/rzt-s-riders" title="View RZT™ S Series">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/rzt-s-riders" title="View RZT<sup>®</sup> S Series">
 															
 																
 																	<img src="/wcpics/CubCadet/products/17WF2BDS010_product_listing.jpg" width="135" height="95">
 																
 																
 															
-															<strong>RZT™ S Series</strong>
-															<p>Residential zero-turn riding lawn mowers equipped with steering wheel control and 4-wheel steering, ideal for mowing medium-sized yards with flat to hilly terrain.</p>
+															<strong>RZT<sup>®</sup> S Series</strong>
+															<p>Residential zero-turn riding lawn mowers equipped with steering wheel control and four-wheel steering, ideal for mowing medium-sized yards with flat to hilly terrain.</p>
 															<ul>
 	
 															
 															  	
 	
-																	<li>Mow up to 3 acres.</li>
+																	<li>Mow up to 3 acres</li>
 	
 															     
 	
-																	<li>Four-wheel steering with steering wheel control.</li>
+																	<li>Steering wheel control with four-wheel steering</li>
 	
 															     
 	
-																	<li>Starting at $2,899.00</li>
+																	<li>Starting at $2,699.99</li>
 	
 															     
 															
@@ -1259,8 +1796,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1268,38 +1808,99 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+														
+													
+													
 													
 													
 													<li class="sub-nav">
-														<a data-productid="1210161" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-riders" title="Z-Force® Series">Z-Force® Series</a>
+														<a data-productid="1381972" href="http://cubcadetrztszero.com/" title="RZT™ S Zero Electric">RZT™ S Zero Electric</a>
 													</li>
 	
 	
-													<div id="category_1210161" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-riders" title="View Z-Force® Series">
+													<div id="category_1381972" class="hidden">
+														<a href="http://cubcadetrztszero.com/" title="View RZT™ S Zero Electric">
 															
 																
-																	<img src="/wcpics/CubCadet/products/17BF3AGX010_product_listing.jpg" width="135" height="95">
+																	<img src="/wcpics/CubCadet/products/zero_thumb.png" width="135" height="95">
 																
 																
 															
-															<strong>Z-Force® Series</strong>
+															<strong>RZT™ S Zero Electric</strong>
+															<p>World's only fully electric residential zero-turn ideal for mowing small yards with flat to hilly terrain on a single charge.</p>
+															<ul>
+	
+															
+															  	
+	
+																	<li>60 minutes of continuous cutting time with no power fade</li>
+	
+															     
+	
+																	<li>Four wheel steering with steering wheel control</li>
+	
+															     
+	
+																	<li>Starting at $3,999.99</li>
+	
+															     
+															
+															</ul>
+														</a>
+													</div>
+													
+													
+												
+													
+														
+															
+													
+													
+													
+													
+													
+														
+														
+														
+														
+														
+													
+													
+													
+													
+													
+													
+													<li class="sub-nav">
+														<a data-productid="1386980" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-l-lz-series" title="Z-Force<sup>®</sup> L/LZ Series">Z-Force<sup>®</sup> L/LZ Series</a>
+													</li>
+	
+	
+													<div id="category_1386980" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-l-lz-series" title="View Z-Force<sup>®</sup> L/LZ Series">
+															
+																
+																	<img src="/wcpics/CubCadet/products/17ASDALC010_product_listing.jpg" width="135" height="95">
+																
+																
+															
+															<strong>Z-Force<sup>®</sup> L/LZ Series</strong>
 															<p>Residential zero-turn ideal for mowing larger yards with mostly flat terrain.</p>
 															<ul>
 	
 															
 															  	
 	
-																	<li>Mow up to 3.5 acres.</li>
+																	<li>Mow up to 3.5 acres</li>
 	
 															     
 	
-																	<li>Lap bar control.</li>
+																	<li>Lap Bar Control</li>
 	
 															     
 	
-																	<li>Starting at $4,849.00</li>
+																	<li>Starting at $3,499.99</li>
 	
 															     
 															
@@ -1311,8 +1912,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1320,38 +1924,40 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
-														<a data-productid="1210162" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-s-riders" title="Z-Force® S Series">Z-Force® S Series</a>
+														<a data-productid="1386981" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-sz-series" title="Z-Force<sup>®</sup> SZ Series">Z-Force<sup>®</sup> SZ Series</a>
 													</li>
 	
 	
-													<div id="category_1210162" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-s-riders" title="View Z-Force® S Series">
+													<div id="category_1386981" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-sz-series" title="View Z-Force<sup>®</sup> SZ Series">
 															
 																
-																	<img src="/wcpics/CubCadet/products/17AI5GHD010_product_listing.jpg" width="135" height="95">
+																	<img src="/wcpics/CubCadet/products/17ASDGHB010_product_listing.jpg" width="135" height="95">
 																
 																
 															
-															<strong>Z-Force® S Series</strong>
-															<p>Residential zero-turn riding lawn mowers equipped with steering wheel control and 4-wheel steering, ideal for mowing larger yards with flat to hilly terrain.</p>
+															<strong>Z-Force<sup>®</sup> SZ Series</strong>
+															<p>Residential zero-turn riding lawn mowers equipped with steering wheel control and four-wheel steering, ideal for mowing larger yards with flat to hilly terrain</p>
 															<ul>
 	
 															
 															  	
 	
-																	<li>Mow up to 4 acres.</li>
+																	<li>Mow up to 4 acres</li>
 	
 															     
 	
-																	<li>Four-wheel steering with steering wheel control.</li>
+																	<li>Steering wheel control with four-wheel steering</li>
 	
 															     
 	
-																	<li>Starting at $4,699.00</li>
+																	<li>Starting at $4,299.99</li>
 	
 															     
 															
@@ -1363,8 +1969,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1372,38 +1981,97 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
-														<a data-productid="1342919" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-s-commercial" title="Z-Force® S  Commercial">Z-Force® S  Commercial</a>
+														<a data-productid="1386978" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-lz-commercial-riders" title="Z-Force<sup>®</sup> LZ Commercial Series">Z-Force<sup>®</sup> LZ Commercial Series</a>
 													</li>
 	
 	
-													<div id="category_1342919" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-s-commercial" title="View Z-Force® S  Commercial">
+													<div id="category_1386978" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-lz-commercial-riders" title="View Z-Force<sup>®</sup> LZ Commercial Series">
 															
 																
-																	<img src="/wcpics/CubCadet/products/53BH5FJB050_product_listing.jpg" width="135" height="95">
+																	<img src="/wcpics/CubCadet/products/53ANDAGD050_1_product_listing.jpg" width="135" height="95">
 																
 																
 															
-															<strong>Z-Force® S  Commercial</strong>
+															<strong>Z-Force<sup>®</sup> LZ Commercial Series</strong>
+															<p>Commercial zero-turn ideal for mowing larger properties with mostly flat terrain.</p>
+															<ul>
+	
+															
+															  	
+	
+																	<li>Mow up to 5 acres daily</li>
+	
+															     
+	
+																	<li>Lap bar control</li>
+	
+															     
+	
+																	<li>Starting at $6,499.99</li>
+	
+															     
+															
+															</ul>
+														</a>
+													</div>
+													
+													
+												
+													
+														
+															
+													
+													
+													
+													
+													
+														
+														
+														
+														
+														
+													
+													
+													
+													
+													
+													
+													<li class="sub-nav">
+														<a data-productid="1386977" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-sz-commercial-riders" title="Z-Force<sup>®</sup> SZ Commercial Series">Z-Force<sup>®</sup> SZ Commercial Series</a>
+													</li>
+	
+	
+													<div id="category_1386977" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/z-force-sz-commercial-riders" title="View Z-Force<sup>®</sup> SZ Commercial Series">
+															
+																
+																	<img src="/wcpics/CubCadet/products/53ATDFJB050_product_listing.jpg" width="135" height="95">
+																
+																
+															
+															<strong>Z-Force<sup>®</sup> SZ Commercial Series</strong>
 															<p>Commercial zero-turn riding lawn mowers equipped with steering wheel control and 4-wheel steering, ideal for mowing medium-sized property with flat to hilly terrain.</p>
 															<ul>
 	
 															
 															  	
 	
-																	<li>Mow up to 5 acres daily. </li>
+																	<li>Mow up to 5 acres daily</li>
 	
 															     
 	
-																	<li>Four-wheel steering with steering wheel control.</li>
+																	<li>Steering wheel control with four-wheel steering</li>
 	
 															     
 	
-																	<li>Starting at $6,999.00</li>
+																	<li>Starting at $7,199.99</li>
 	
 															     
 															
@@ -1415,8 +2083,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1424,38 +2095,40 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
-														<a data-productid="1353450" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/tank-lz" title="TANK™ LZ Series">TANK™ LZ Series</a>
+														<a data-productid="1353450" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/tank-lz" title="TANK™ L/LZ Series">TANK™ L/LZ Series</a>
 													</li>
 	
 	
 													<div id="category_1353450" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/tank-lz" title="View TANK™ LZ Series">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/tank-lz" title="View TANK™ L/LZ Series">
 															
 																
-																	<img src="/wcpics/CubCadet/products/53AH2PTC050_product_listing.jpg" width="135" height="95">
+																	<img src="/wcpics/CubCadet/products/53BI2PTD050_product_listing.jpg" width="135" height="95">
 																
 																
 															
-															<strong>TANK™ LZ Series</strong>
+															<strong>TANK™ L/LZ Series</strong>
 															<p>Commercial zero-turn designed to mow larger properties with mostly flat terrain.</p>
 															<ul>
 	
 															
 															  	
 	
-																	<li>Mow up to 15 acres daily. </li>
+																	<li>Mow up to 15 acres daily</li>
 	
 															     
 	
-																	<li>Advanced lap bar control.</li>
+																	<li>Advanced lap bar control</li>
 	
 															     
 	
-																	<li>Starting at $8,899.00</li>
+																	<li>Starting at $8,499.99</li>
 	
 															     
 															
@@ -1467,8 +2140,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1476,90 +2152,40 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
-														<a data-productid="1353451" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/tank-sz" title="TANK™ SZ Series">TANK™ SZ Series</a>
+														<a data-productid="1353451" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/tank-sz" title="TANK™ S/SZ Series">TANK™ S/SZ Series</a>
 													</li>
 	
 	
 													<div id="category_1353451" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/tank-sz" title="View TANK™ SZ Series">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/tank-sz" title="View TANK™ S/SZ Series">
 															
 																
-																	<img src="/wcpics/CubCadet/products/53AI2PUD050_product_listing.jpg" width="135" height="95">
+																	<img src="/wcpics/CubCadet/products/53BI2PUD050_product_listing.jpg" width="135" height="95">
 																
 																
 															
-															<strong>TANK™ SZ Series</strong>
-															<p>Commercial zero-turn riding lawn mowers equipped with steering wheel control and 4-wheel steering, designed to mow large or multiple properties with flat to hilly terrain.</p>
+															<strong>TANK™ S/SZ Series</strong>
+															<p>Commercial zero-turn riding lawn mowers equipped with steering wheel control and four-wheel steering, designed to mow large or multiple properties with flat to hilly terrain.</p>
 															<ul>
 	
 															
 															  	
 	
-																	<li>Mow 20 or more acres daily. </li>
+																	<li>Mow 20 or more acres daily.</li>
 	
 															     
 	
-																	<li>Four-wheel steering with steering wheel control.</li>
+																	<li>Steering wheel control with four-wheel steering</li>
 	
 															     
 	
-																	<li>Starting at $10,199.00</li>
-	
-															     
-															
-															</ul>
-														</a>
-													</div>
-													
-													
-												
-													
-														
-													
-				
-													
-														
-														
-														
-														
-														
-													
-	
-													
-													
-													<li class="sub-nav">
-														<a data-productid="43279" href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/tank" title="TANK™ Series">TANK™ Series</a>
-													</li>
-	
-	
-													<div id="category_43279" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/zero-turn-riding-mowers/tank" title="View TANK™ Series">
-															
-																
-																	<img src="/wcpics/CubCadet/products/53BH8CT6050_product_listing.jpg" width="135" height="95">
-																
-																
-															
-															<strong>TANK™ Series</strong>
-															<p>Commercial zero-turn for large and demanding applications on mostly flat terrain.</p>
-															<ul>
-	
-															
-															  	
-	
-																	<li>Mows up to 20 acres daily. </li>
-	
-															     
-	
-																	<li>Advanced lap bar control.</li>
-	
-															     
-	
-																	<li>Starting at $12,599.00</li>
+																	<li>Starting at $13,999.99</li>
 	
 															     
 															
@@ -1578,6 +2204,7 @@ obj.value = '';
 							
 						
 							
+								
 								
 							
 
@@ -1599,60 +2226,11 @@ obj.value = '';
 												
 													
 														
-													
-				
-													
-														
-														
-														
-														
-														
-													
-	
-													
-													
-													<li class="sub-nav">
-														<a data-productid="1360372" href="http://www.cubcadet.com/equipment/CategoryDisplay?storeId=10051&amp;urlRequestType=Base&amp;categoryId=1360372&amp;top_category=33830&amp;langId=-1&amp;catalogId=14101" title="Self-Propelled Lawn Mowers">Self-Propelled Lawn Mowers</a>
-													</li>
-	
-	
-													<div id="category_1360372" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/CategoryDisplay?storeId=10051&amp;urlRequestType=Base&amp;categoryId=1360372&amp;top_category=33830&amp;langId=-1&amp;catalogId=14101" title="View Self-Propelled Lawn Mowers">
 															
-																
-																	<img src="/wcpics/CubCadet/products/12AE999J010_product_listing.jpg" width="135" height="95">
-																
-																
-															
-															<strong>Self-Propelled Lawn Mowers</strong>
-															<p>Discover nearly effortless mowing for medium-sized yards.</p>
-															<ul>
-	
-															
-															  	
-	
-																	<li>Mow up to 1/2 acre. </li>
-	
-															     
-	
-																	<li>Nearly effortless operation.</li>
-	
-															     
-	
-																	<li>Starting at $399.00</li>
-	
-															     
-															
-															</ul>
-														</a>
-													</div>
 													
 													
-												
 													
-														
 													
-				
 													
 														
 														
@@ -1660,7 +2238,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -1691,7 +2271,7 @@ obj.value = '';
 	
 															     
 	
-																	<li>Starting at $299.00</li>
+																	<li>Starting at $249.99</li>
 	
 															     
 															
@@ -1703,8 +2283,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1712,7 +2295,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -1724,7 +2309,7 @@ obj.value = '';
 														<a href="http://www.cubcadet.com/equipment/cubcadet/walk-behind-mowers/self-propelled-lawn-mowers" title="View Signature Cut™ Series Self-Propelled Lawn Mowers">
 															
 																
-																	<img src="/wcpics/CubCadet/products/12AQC62J710_product_listing.jpg" width="135" height="95">
+																	<img src="/wcpics/CubCadet/products/12ABC62J710_product_listing.jpg" width="135" height="95">
 																
 																
 															
@@ -1743,7 +2328,7 @@ obj.value = '';
 	
 															     
 	
-																	<li>Starting at $399.00</li>
+																	<li>Starting at $299.99</li>
 	
 															     
 															
@@ -1755,8 +2340,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1764,7 +2352,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -1795,7 +2385,7 @@ obj.value = '';
 	
 															     
 	
-																	<li>Starting at $1,399.00</li>
+																	<li>Starting at $1,299.99</li>
 	
 															     
 															
@@ -1814,6 +2404,7 @@ obj.value = '';
 							
 						
 							
+								
 								
 							
 
@@ -1835,8 +2426,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1844,7 +2438,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -1875,7 +2471,7 @@ obj.value = '';
 	
 															     
 	
-																	<li>Starting at $349.00</li>
+																	<li>Starting at $299.99</li>
 	
 															     
 															
@@ -1887,8 +2483,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1896,7 +2495,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -1927,7 +2528,7 @@ obj.value = '';
 	
 															     
 	
-																	<li>Starting at $49.99</li>
+																	<li>Starting at $79.99</li>
 	
 															     
 															
@@ -1939,8 +2540,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -1948,7 +2552,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -1979,7 +2585,7 @@ obj.value = '';
 	
 															     
 	
-																	<li>Starting at $179</li>
+																	<li>Starting at $179.99</li>
 	
 															     
 															
@@ -1991,8 +2597,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -2000,7 +2609,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -2043,8 +2654,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -2052,7 +2666,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -2095,8 +2711,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -2104,23 +2723,25 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
-														<a data-productid="1353455" href="http://www.cubcadet.com/equipment/cubcadet/handhelds-and-cleanup/string-and-hedge-trimmers" title="String &amp; Hedge Trimmers">String &amp; Hedge Trimmers</a>
+														<a data-productid="1353455" href="http://www.cubcadet.com/equipment/cubcadet/handhelds-and-cleanup/string-and-hedge-trimmers" title="String Trimmers">String Trimmers</a>
 													</li>
 	
 	
 													<div id="category_1353455" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/handhelds-and-cleanup/string-and-hedge-trimmers" title="View String &amp; Hedge Trimmers">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/handhelds-and-cleanup/string-and-hedge-trimmers" title="View String Trimmers">
 															
 																
 																	<img src="/wcpics/CubCadet/products/41AD591C912_product_listing.png" width="135" height="95">
 																
 																
 															
-															<strong>String &amp; Hedge Trimmers</strong>
+															<strong>String Trimmers</strong>
 															<p>Use string trimmers and hedge trimmers from Cub Cadet for the perfect finishing touch.</p>
 															<ul>
 	
@@ -2135,7 +2756,154 @@ obj.value = '';
 	
 															     
 	
-																	<li>Starting at $129.00</li>
+																	<li>Starting at $139.99</li>
+	
+															     
+															
+															</ul>
+														</a>
+													</div>
+													
+													
+												
+													
+														
+															
+													
+													
+													
+													
+													
+														
+														
+														
+														
+														
+													
+													
+													
+													
+													
+													
+													<li class="sub-nav">
+														<a data-productid="1386983" href="http://www.cubcadet.com/equipment/cubcadet/handhelds-and-cleanup/edgers-and-trenchers" title="Edgers and Trenchers">Edgers and Trenchers</a>
+													</li>
+	
+	
+													<div id="category_1386983" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/handhelds-and-cleanup/edgers-and-trenchers" title="View Edgers and Trenchers">
+															
+																
+																	<img src="/wcpics/CubCadet/products/25B-552J710_product_listing.jpg" width="135" height="95">
+																
+																
+															
+															<strong>Edgers and Trenchers</strong>
+															<p>Find the value of versatility in precision for a manicured lawn and the power to dig deep in varied terrain.</p>
+															<ul>
+	
+															
+															  	
+															
+															</ul>
+														</a>
+													</div>
+													
+													
+												
+													
+														
+															
+													
+													
+													
+													
+													
+														
+														
+														
+														
+														
+													
+													
+													
+													
+													
+													
+													<li class="sub-nav">
+														<a data-productid="1386984" href="http://www.cubcadet.com/equipment/cubcadet/handhelds-and-cleanup/wheeled-string-trimmers" title="Wheeled String Trimmers">Wheeled String Trimmers</a>
+													</li>
+	
+	
+													<div id="category_1386984" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/handhelds-and-cleanup/wheeled-string-trimmers" title="View Wheeled String Trimmers">
+															
+																
+																	<img src="/wcpics/CubCadet/products/25A-262J710_product_listing.jpg" width="135" height="95">
+																
+																
+															
+															<strong>Wheeled String Trimmers</strong>
+															<p>Designed for quickly and easily cutting tall weeds and grasses in open fields and around fence lines</p>
+															<ul>
+	
+															
+															  	
+															
+															</ul>
+														</a>
+													</div>
+													
+													
+												
+													
+														
+															
+													
+													
+													
+													
+													
+														
+														
+														
+														
+														
+													
+													
+													
+													
+													
+													
+													<li class="sub-nav">
+														<a data-productid="1397985" href="http://www.cubcadet.com/equipment/cubcadet/handhelds-and-cleanup/pressure-washers" title="Pressure Washers">Pressure Washers</a>
+													</li>
+	
+	
+													<div id="category_1397985" class="hidden">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/handhelds-and-cleanup/pressure-washers" title="View Pressure Washers">
+															
+																
+																	<img src="/wcpics/CubCadet/products/26A-BPH3710_product_listing.jpg" width="135" height="95">
+																
+																
+															
+															<strong>Pressure Washers</strong>
+															<p>Use the new pressure washers from Cub Cadet to give your property a pristine clean</p>
+															<ul>
+	
+															
+															  	
+	
+																	<li>Ideal for washing siding, decks, driveways and prepping surfaces for new work</li>
+	
+															     
+	
+																	<li>Heavy-duty contractor grade, efficient long-life pump</li>
+	
+															     
+	
+																	<li>Quick Connect system for an easy start to the job</li>
 	
 															     
 															
@@ -2154,6 +2922,7 @@ obj.value = '';
 							
 						
 							
+								
 								
 							
 
@@ -2175,8 +2944,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -2184,7 +2956,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -2227,8 +3001,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -2236,16 +3013,18 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
-														<a data-productid="1371878" href="http://www.cubcadet.com/equipment/cubcadet/snow-throwers/2X-single-stage-power" title="<b>2X</b>™ Two-Stage Power"><b>2X</b>™ Two-Stage Power</a>
+														<a data-productid="1371878" href="http://www.cubcadet.com/equipment/cubcadet/snow-throwers/2X-two-stage-power" title="<b>2X</b>™ Two-Stage Power"><b>2X</b>™ Two-Stage Power</a>
 													</li>
 	
 	
 													<div id="category_1371878" class="hidden">
-														<a href="http://www.cubcadet.com/equipment/cubcadet/snow-throwers/2X-single-stage-power" title="View <b>2X</b>™ Two-Stage Power">
+														<a href="http://www.cubcadet.com/equipment/cubcadet/snow-throwers/2X-two-stage-power" title="View <b>2X</b>™ Two-Stage Power">
 															
 																
 																	<img src="/wcpics/CubCadet/products/31BH55TU710_product_listing.jpg" width="135" height="95">
@@ -2279,8 +3058,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -2288,7 +3070,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -2339,6 +3123,7 @@ obj.value = '';
 						
 							
 								
+								
 							
 
 							
@@ -2359,8 +3144,11 @@ obj.value = '';
 												
 													
 														
+															
 													
-				
+													
+													
+													
 													
 														
 														
@@ -2368,7 +3156,9 @@ obj.value = '';
 														
 														
 													
-	
+													
+													
+													
 													
 													
 													<li class="sub-nav">
@@ -2419,6 +3209,7 @@ obj.value = '';
 						
 							
 								
+								
 							
 
 							
@@ -2440,7 +3231,6 @@ obj.value = '';
 			</nav>
 		</div>
 	</header>
-
 
 
 
@@ -2522,9 +3312,11 @@ obj.value = '';
 
 
 	
+	
 		
 	
-	
+
+
 
 
 
@@ -2625,6 +3417,9 @@ obj.value = '';
   
 
 
+	
+	
+	
 
 
 
@@ -2634,6 +3429,11 @@ obj.value = '';
 
 
 
+
+
+
+
+		
 		
 
 
@@ -2684,91 +3484,88 @@ obj.value = '';
 
 
 
-<div id="breadcrumbs">
-<a href="http://www.cubcadet.com/equipment/cubcadet">Cub Cadet</a>
 
+	
+		
+		
+			<div id="breadcrumbs">
 		
 	
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-			
-	  		
-			 
-	  		              		
+
+	<a href="http://www.cubcadet.com/equipment/cubcadet">Cub Cadet</a>
 	
-			              		
+		
+		
+
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+		
+  		
+		 
+  		              		
+
+		              		
+
+		              		
+
+		              		
+		
+  		
+  		
+  		              		              		
+
+  		
+  		
+  		              		              		
+  		
+  		               		
+  		     	              		
+  		       
+  		          
+
+  		          
+  		
+  		 
+  		 
+  		
+  		
+  		        
+
+  		        
+
+ 		          
+  		
+  		 
+  		  		         
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  		
+  			| <strong>Service &amp; Parts</strong>
+  		
 	
-			              		
-	
-			              		
-			
-	  		
-	  		
-	  		              		              		
-	
-	  		              		              		
-	
-	  		
-	  		
-	  		              		              		
-	  		
-	  		               		
-	  		     	              		
-	  		       
-	  		          
-	
-	  		          
-	  		
-	  		 
-	  		 
-	  		
-	  		
-	  		        
-	
-	  		        
-	
-	 		          
-	  		
-	  		 
-	  		  		         
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  		
-	  			| <b>Service &amp; Parts</b>
-	  		
-	
-	
-		<section class="connect group">
-			<ul class="group col">
-				<li class="col"><h4>Connect with Cub Cadet:</h4></li>
-				<li class="col"><a title="Cub Cadet on Facebook" href="http://www.facebook.com/pages/Cub-Cadet/21680264586" target="_blank"><img alt="Cub Cadet on Facebook" src="/wcpics/CubCadet/images/facebook-26.png"></a></li>
-				<li class="col"><a title="Cub Cadet on Twitter" href="http://www.twitter.com/cub_cadet" target="_blank"><img alt="Cub Cadet on Twitter" src="/wcpics/CubCadet/images/twitter-26.png"></a></li>
-				<li class="col"><a title="Cub Cadet on YouTube" href="http://www.youtube.com/CubCadetRidingMowers" target="_blank"><img alt="Cub Cadet on YouTube" src="/wcpics/CubCadet/images/youtube-26.png"></a></li>
-			</ul>
-		</section>
 	
 </div>
               
@@ -2871,6 +3668,8 @@ obj.value = '';
 
 
 
+
+
 	
 	
 		
@@ -2935,6 +3734,9 @@ obj.value = '';
   
 
 
+	
+	
+	
 
 
 
@@ -2944,6 +3746,11 @@ obj.value = '';
 
 
 
+
+
+
+
+		
 		
 
  
@@ -3053,6 +3860,8 @@ obj.value = '';
 
 
 
+
+
 	
 	
 		
@@ -3117,6 +3926,9 @@ obj.value = '';
   
 
 
+	
+	
+	
 
 
 
@@ -3126,6 +3938,11 @@ obj.value = '';
 
 
 
+
+
+
+
+		
 		
 
 
@@ -3143,15 +3960,13 @@ obj.value = '';
 
 
 
-  <div class="outerbox"><ul class="infolist"><li><a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_General/AmericanIngenuity.html">American Ingenuity</a></li><li><a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_Info_Center/InfoCenter.html&amp;outerTab=2">Financing</a></li>	<li><a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_Info_Center/InfoCenter.html&amp;outerTab=0">Demos &amp; TV Spot</a></li><li><a href="OperatorManualView?langId=-1&amp;storeId=10051&amp;catalogId=14101" target="_blank">Operator's Manuals</a></li><li><a href="ServiceLocator?langId=-1&amp;storeId=10051&amp;catalogId=14101">Service Locator</a></li></ul></div>   
+<div class="outerbox"><ul class="infolist"><li><a target="" title="" href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_General/AmericanIngenuity.html">American Ingenuity</a></li><li><a target="" title="" href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_Info_Center/InfoCenter.html&amp;outerTab=2">Financing</a></li>	<li><a target="" title="" href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_Info_Center/InfoCenter.html&amp;outerTab=0">Demos &amp; TV Spot</a></li><li><a target="_blank" title="" href="OperatorManualView?langId=-1&amp;storeId=10051&amp;catalogId=14101">Operator's Manuals</a></li><li><a target="" title="" href="ServiceLocator?langId=-1&amp;storeId=10051&amp;catalogId=14101">Service Locator</a></li><li><a target="" title="" href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=promos/dealerSurveyForm.html">Become A Dealer</a></li></ul></div> 
 <!--END CONTENT-->
 				</div>
 			</div>
 		
 	
 					
-					
-	
 	
 		<div class="main col">
 			   <!-- Start WCM Content: HTML_Print_This_Page --><script type="text/javascript">function printPartOfPage(elementId){var printPartOfPageContent = document.getElementById(elementId);var printPartOfPageWindow = window.open('', '', 'left=50000,top=50000,width=0,height=0');printPartOfPageWindow.document.write("<span style=\"font-family:arial\">" + printPartOfPageContent.innerHTML + "</span>");printPartOfPageWindow.document.close();printPartOfPageWindow.focus();printPartOfPageWindow.print();printPartOfPageWindow.close();}</script><!-- End WCM Content: HTML_Print_This_Page --><div id="page"><div class="inside"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td valign="top" align="right"><a href="javascript:printPartOfPage('printContentArea');">Print this Page</a></td></tr><tr><td><div id="printContentArea"><h1>Cub Cadet® Privacy Notice</h1><h2></h2><h4>Our Commitment to Privacy</h4><p style="MARGIN: 0px">Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.</p><p style="MARGIN: 0px">&nbsp;</p><p style="MARGIN: 0px">&nbsp;</p><h4>The Information We Collect</h4><p style="MARGIN: 0px">This notice applies to all information collected or submitted on the Cub Cadet Website at <a href="http://www.cubcadet.com/">http://www.cubcadet.com</a>. We will not share personal information with others unless we have provided you with a chance to opt out. The types of personal information voluntarily submitted and collected on our Website are:</p><ul><li>Name</li><li>Address</li><li>Email address</li><li>Phone number</li><li>Credit/Debit card information</li><li>Serial and model numbers</li><li>Product registration</li><li>Survey information (This may include age, household description, lawn care/outdoor power product ownership/purchase information)</li></ul><p style="MARGIN: 0px">On some pages, you can make requests, register to receive mailings or emails about new products or upcoming events or enter contests. If you opt not to provide us with personally identifiable information no material consequence will result, although you may be unable to participate in certain promotions, order product or receive product information offered through our Website.</p><p style="MARGIN: 0px">&nbsp;</p><p style="MARGIN: 0px">&nbsp;</p><h4>Cookies</h4><p style="MARGIN: 0px">In order to offer and provide customer service, we may use cookies to record session information, such as items added to shopping carts, and to aid in ordering product. For example, we may use cookies to help remind us who you are and to deliver content and services based on your account information. Cookies are simply pieces of information that are sent to your browser from a Web server and stored on your computer's hard drive. The use of cookies is relatively standard and you will likely find them used on most other major Websites. Most browsers are initially set up to accept cookies. If you prefer, you can customize the settings on your browser either to notify you when you receive a cookie or to refuse to accept cookies. As we adopt additional technology, we may also gather information through other means.</p><p style="MARGIN: 0px">&nbsp;</p><p style="MARGIN: 0px">&nbsp;</p><h4>The Way We Use Collected Information</h4><p style="MARGIN: 0px">We use non-identifying information, such as your domain name, and aggregate information on pages consumers access or visit to better design our Website, to help identify customer services issues and internally for marketing purposes. Personally identifiable information may be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our Website may access such information. We will use your information only as permitted by law.</p><p style="MARGIN: 0px">&nbsp;</p><p style="MARGIN: 0px">&nbsp;</p><h4>Our Commitment to Data Security</h4><p style="MARGIN: 0px">Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, despite our efforts to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us, or to or from our online products or services. You transmit all such information at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems. We have put in place appropriate physical, electronic, and managerial procedures to protect against the loss, misuse or alteration of information under our control. </p><p style="MARGIN: 0px">&nbsp;</p><p style="MARGIN: 0px">&nbsp;</p><h4>Our Commitment to Children's Privacy</h4><p style="MARGIN: 0px">Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Website from those we actually know are under 13, and no part of our Website is structured to attract anyone under 13. If a child has provided us with personally identifiable information, a parent/guardian may follow the procedures below to access a child's information and to request the information be deleted from our records. We will make reasonable efforts to delete the child's information from our databases.</p><p style="MARGIN: 0px">&nbsp;</p><p style="MARGIN: 0px">&nbsp;</p><h4>How You Can Correct Your Information</h4><p style="MARGIN: 0px">You can access all your personally identifiable information that we collect online and maintain and correct or delete it by contacting us in writing at the address below. We use this procedure to better safeguard your information. Our system does not accept corrections by e-mail. To protect your privacy and security, we also take reasonable steps to verify your identity before granting access or making corrections.</p><p style="MARGIN: 0px">&nbsp;</p><p style="MARGIN: 0px">&nbsp;</p><h4>Changes to this Privacy Statement</h4><p style="MARGIN: 0px">From time to time, Cub Cadet may use customer information for new purposes not previously disclosed in this privacy notice. If our information practices change at some time in the future, we will post the policy changes here as notification and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back to our Website periodically.</p><p style="MARGIN: 0px">&nbsp;</p><p style="MARGIN: 0px">&nbsp;</p><h4>How to Contact Us</h4><p style="MARGIN: 0px">Should you have other questions or concerns about this privacy statement, please send us an email or write us at:</p><p style="MARGIN: 0px">&nbsp;</p><table border="1"><tbody><tr border="1" align="center" bgcolor="yellow"><td border="1">Home Owners</td><td border="1">Utility Vehicles</td><td border="1">Professional</td></tr><tr border="1"><td border="1">http://cubcadet.custhelp.com/<br></td><td border="1">http://cubcadet.custhelp.com/<br></td><td border="1">http://cubcadet.custhelp.com/<br></td></tr><tr border="1"><td border="1">Webmaster<br>Cub Cadet Service Division<br>P.O. Box 368023<br>Cleveland, OH 44136-9722<br>(330) 225-2600</td><td border="1">Webmaster<br>Cub Cadet Service Division<br>P.O. Box 368023<br>Cleveland, OH 44136-9722<br>(330) 225-2600</td><td border="1">Webmaster<br>Cub Cadet Service Division<br>P.O. Box 368023<br>Cleveland, OH 44136-9722<br>(330) 225-2600</td></tr></tbody></table><p style="MARGIN: 0px">&nbsp;</p><p style="MARGIN: 0px">&nbsp;</p><p style="MARGIN: 0px">&nbsp;</p><br> </div></td></tr></tbody></table></div></div> 
@@ -3250,6 +4065,8 @@ obj.value = '';
 
 
 
+
+
 	
 	
 		
@@ -3314,6 +4131,13 @@ obj.value = '';
   
 
 
+	
+	
+	
+
+
+
+
 
 
 
@@ -3324,6 +4148,7 @@ obj.value = '';
 
 
 		
+		
 
 
 
@@ -3331,6 +4156,8 @@ obj.value = '';
 
 
 <!-- before lookup -->
+
+		 
 
 		 
 
@@ -3393,6 +4220,7 @@ obj.value = '';
 	var _catalogId = '14101';
 	var _langId = '-1';
 	var _homeUrl = 'http://www.cubcadet.com/equipment/cubcadet';
+	var _barnd = 'cubcadet';
 </script>
 <!-- All plugins and JS code below should be concatenated and minified for production use   -->
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
@@ -3401,9 +4229,10 @@ obj.value = '';
 <script src="/wcsstore/Cub/javascript/plugins/jquery.hashurl.js"></script>  
 <script src="/wcsstore/Cub/javascript/plugins/jquery.ba-outside-events.min.js"></script>  
 <script src="/wcsstore/Cub/javascript/plugins/jquery.colorbox-min.js"></script> 
-<script src="/wcsstore/Cub/javascript/plugins/jquery.reveal.js"></script> 
+ 
 <script src="/wcsstore/Cub/javascript/plugins/jquery.cycle.js"></script> 
 <script src="/wcsstore/Cub/javascript/plugins/jquery.ui.touch-punch.min.js"></script>   
+<script src="/wcsstore/Cub/javascript/jquery.timers-1.1.3.js" type="text/javascript"></script>
 <script type="text/javascript" src="/wcsstore/global/javascript/shadowbox/shadowbox.js"></script>  
 <script src="/wcsstore/Cub/javascript/cub.js"></script>    
 <script src="/wcsstore/Cub/javascript/cubcadet/parseUri.js" type="text/javascript"></script>
@@ -3437,6 +4266,7 @@ obj.value = '';
 	//$.addToCartSharedCommandObject.calculationUsageId_5 = '-3';//sales tax
 	$.addToCartSharedCommandObject.calculationUsageId_3 = '-4';//shipping tax
 	$.addToCartSharedCommandObject.calculationUsageId_4 = '-7';//shipping adjustment
+	$.brand = 'cubcadet';
 	var invalid_emails_msg = ' ' + 'contains one or more invalid emails or values were not comma-separated.';
 	var invalid_email_msg = ' ' + 'is an invalid email address.';
 	var to_many_emails_msg = ' ' + 'contains more than 5 email addresses.';
@@ -3445,6 +4275,30 @@ obj.value = '';
 	var pf_get_results = 'Get results';
 	var pf_close = 'Close';
 </script>
+<!-- EV jQuery Accordion -->
+<script src="/wcsstore/Cub/javascript/jquery-accordion.js" type="text/javascript"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		$(".accordion").each(function() {
+			$(this).jqueryAccordion({
+				interval: 100,
+				fadeContent: true,
+				open: false,
+				defaultOpenIndex: 1,
+				hideRest: true,
+				nestColors: false
+			});
+		});
+	});
+</script>
+<script type="text/javascript" src="/wcsstore/global/javascript/libs/mailcheck.min.js"></script>
+<script src="/wcsstore/Cub/javascript/libs/iconic.min.js"></script> 
+<script src="/wcsstore/Cub/javascript/libs/uri.min.js"></script> 
+
+<script src="/wcsstore/Cub/javascript/components/product-finder-light-widget.js"></script>
+<script src="/wcsstore/Cub/javascript/components/product-results.js"></script>
+<script src="/wcsstore/Cub/javascript/components/product-ratings.js"></script>
+
 
 <footer id="site-wide">
 <div class="footer-wrapper"> 
@@ -3540,6 +4394,8 @@ obj.value = '';
 
 
 
+
+
 	
 	
 		
@@ -3604,6 +4460,9 @@ obj.value = '';
   
 
 
+	
+	
+	
 
 
 
@@ -3613,6 +4472,11 @@ obj.value = '';
 
 
 
+
+
+
+
+		
 		
 
 
@@ -3721,6 +4585,8 @@ obj.value = '';
 
 
 
+
+
 	
 	
 		
@@ -3785,6 +4651,9 @@ obj.value = '';
   
 
 
+	
+	
+	
 
 
 
@@ -3794,6 +4663,11 @@ obj.value = '';
 
 
 
+
+
+
+
+		
 		
 
 
@@ -3902,6 +4776,8 @@ obj.value = '';
 
 
 
+
+
 	
 	
 		
@@ -3966,6 +4842,9 @@ obj.value = '';
   
 
 
+	
+	
+	
 
 
 
@@ -3975,6 +4854,11 @@ obj.value = '';
 
 
 
+
+
+
+
+		
 		
 
 
@@ -4083,6 +4967,8 @@ obj.value = '';
 
 
 
+
+
 	
 	
 		
@@ -4147,6 +5033,9 @@ obj.value = '';
   
 
 
+	
+	
+	
 
 
 
@@ -4156,6 +5045,11 @@ obj.value = '';
 
 
 
+
+
+
+
+		
 		
 
 
@@ -4264,6 +5158,8 @@ obj.value = '';
 
 
 
+
+
 	
 	
 		
@@ -4328,6 +5224,9 @@ obj.value = '';
   
 
 
+	
+	
+	
 
 
 
@@ -4337,6 +5236,11 @@ obj.value = '';
 
 
 
+
+
+
+
+		
 		
 
 
@@ -4388,7 +5292,22 @@ obj.value = '';
 					<li>
 						
 							
-								<a href="WhereToBuy?langId=-1&amp;storeId=10051&amp;catalogId=14101" title="Find a Dealer">Find a Dealer</a>			
+								<a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_General/BuiltInAmerica.html" title="Built in America">Built in America</a>			
+							
+							
+							
+						
+					</li>
+					
+				
+					
+						
+						
+					
+					<li>
+						
+							
+								<a href="WhereToBuy?langId=-1&amp;storeId=10051&amp;catalogId=14101" title="Where To Buy">Where To Buy</a>			
 							
 							
 							
@@ -4418,7 +5337,37 @@ obj.value = '';
 					<li>
 						
 							
-								<a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_General/Product_Recall.html" title="Select the Right Product">Select the Right Product</a>			
+								<a target="_blank" href="http://newsroom.cubcadet.com/newsroom" title="Press Room">Press Room</a>			
+							
+							
+							
+						
+					</li>
+					
+				
+					
+						
+						
+					
+					<li>
+						
+							
+							
+								<a href="javascript:setMTDMobileCookie(true);" title="View on Mobile">View on Mobile</a>			
+							
+							
+						
+					</li>
+					
+				
+					
+						
+						
+					
+					<li>
+						
+							
+								<a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_General/onlineStorePolicies.html" title="Online Store Policies">Online Store Policies</a>			
 							
 							
 							
@@ -4445,40 +5394,10 @@ obj.value = '';
 						
 						
 					
-					<li>
-						
-							
-								<a href="AjaxTrackOrderStatus?langId=-1&amp;storeId=10051&amp;catalogId=14101" title="Track My Order">Track My Order</a>			
-							
-							
-							
-						
-					</li>
-					
-				
-					
-						
-						
-					
-					<li>
-						
-							
-								<a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_General/onlineStorePolicies.html" title="Online Store Policies">Online Store Policies</a>			
-							
-							
-							
-						
-					</li>
-					
-				
-					
-						
-						
-					
 					<li class="last-child">
 						
 							
-								<a target="_blank" href="http://newsroom.cubcadet.com/newsroom" title="Press Room">Press Room</a>			
+								<a href="AjaxTrackOrderStatus?langId=-1&amp;storeId=10051&amp;catalogId=14101" title="Track My Order">Track My Order</a>			
 							
 							
 							
@@ -4504,6 +5423,21 @@ obj.value = '';
 					 <li>
 					 	
 							
+								<a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=promos/dealerSurveyForm.html" title="Become A Dealer">Become A Dealer</a>
+							
+							
+							
+						
+					 </li>			
+					
+				
+					
+						
+						
+					
+					 <li>
+					 	
+							
 								<a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_Info_Center/InfoCenter.html" title="Info Center">Info Center</a>
 							
 							
@@ -4519,22 +5453,7 @@ obj.value = '';
 					 <li>
 					 	
 							
-								<a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_General/Content_041.html" title="Product Recalls">Product Recalls</a>
-							
-							
-							
-						
-					 </li>			
-					
-				
-					
-						
-						
-					
-					 <li>
-					 	
-							
-								<a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_General/Privacy_Policy.html" title="Privacy Policy">Privacy Policy</a>
+								<a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_General/ProductRecallLandingPage.html" title="Product Recalls">Product Recalls</a>
 							
 							
 							
@@ -4564,6 +5483,21 @@ obj.value = '';
 					 <li>
 					 	
 							
+								<a href="SiteMapView?langId=-1&amp;storeId=10051&amp;catalogId=14101" title="Site Map">Site Map</a>
+							
+							
+							
+						
+					 </li>			
+					
+				
+					
+						
+						
+					
+					 <li>
+					 	
+							
 								<a href="KnowledgeCenter_10051_14101_-1" title="How-To Tutorials">How-To Tutorials</a>
 							
 							
@@ -4579,22 +5513,7 @@ obj.value = '';
 					 <li>
 					 	
 							
-							
-								<a href="javascript:setMTDMobileCookie(true);" title="View on Mobile">View on Mobile</a>			
-							
-							
-						
-					 </li>			
-					
-				
-					
-						
-						
-					
-					 <li>
-					 	
-							
-								<a href="SiteMapView?langId=-1&amp;storeId=10051&amp;catalogId=14101" title="Site Map">Site Map</a>
+								<a href="CubCadetFullPageArticleDisplayView?langId=-1&amp;storeId=10051&amp;catalogId=14101&amp;pageView=Cubcadet_General/Privacy_Policy.html" title="Privacy Policy">Privacy Policy</a>
 							
 							
 							
@@ -4644,8 +5563,26 @@ obj.value = '';
 			
 			
 			
+			
 				
 		
+		
+		/* EV added for category landing/series landing page */
+		$("span.learn-more").parent().click(function(){
+			var heading = $(this).children("h2").text();
+			cmCreatePageviewTag("CCUS_en:Learn More:"+heading.replace(":"," ")+":"+coremetricsCategoryName,"LearnMore");
+		});
+		$("p.financing-available").children("a").click(function(){
+			cmCreatePageviewTag("CCUS_en:Financing Available Billboard:"+coremetricsCategoryName,"FinancingAvailable");
+		});
+		// For e-spots on the series landing page
+		$(".tab-content").each(function(){
+			var tabName = this.id;
+			$(this).find(".espots").find("a").click(function(){
+				var urlPage = this.href.substr(this.href.lastIndexOf('/')+1);
+				cmCreatePageviewTag("CCUS_en:E-Spots:"+coremetricsCategoryName+":"+tabName+":"+urlPage,"ESpots");
+			});
+		});
 
 		//-->
 
@@ -4740,6 +5677,8 @@ obj.value = '';
 
 
 
+
+
 	
 	
 		
@@ -4804,6 +5743,9 @@ obj.value = '';
   
 
 
+	
+	
+	
 
 
 
@@ -4813,6 +5755,11 @@ obj.value = '';
 
 
 
+
+
+
+
+		
 		
 
 
@@ -4834,7 +5781,7 @@ obj.value = '';
 </div>
 <div id="proactiveChatContainer"></div>
 
-<span style="color:#ffffff">|
+<span id="host" style="color:#ffffff">|
 
 
 
@@ -4842,9 +5789,80 @@ obj.value = '';
 
 
 
-Prod2
+P1
 
 |</span>
+
+	<script type="text/javascript" src="/wcsstore/SharedCheckoutSAS/javascript/foundation.min.js"></script>
+	
+ 
+<script type="text/javascript" src="/wcsstore/SharedCheckoutSAS/javascript/mtdcheckout.js"></script>
+<script type="text/javascript">
+	var ip = false;
+	function submitLogonForm(form){
+		var temp1=  form.elements["logonId_temp"].value;
+		
+		form.elements["logonId"].value = temp1 + "_10051";
+		form.submit();
+	}
+	function submitPromo() {
+		if (document.getElementById('promoCode').value != '') {
+			document.getElementById('promoURL').value = document.getElementById('promoURL').value + '&promoCode=' + document.getElementById('promoCode').value;
+		
+			if (document.getElementById('promocode_email').value != '') {
+				document.PromotionCodeForm.submit();
+			}
+		}
+	}
+	function addRelated(form, catEntryId, quantity) {
+		form.catEntryId.value=catEntryId;
+		form.quantity.value = quantity;
+		form.submit();
+	}
+	
+	function Add2ShopCartShared(form, catentryId, isModal){
+    if(!ip){
+		ip = true;
+		if( typeof(catentryId) === 'undefined'){
+			return false;
+		}else{
+			ip = false;
+			var qtyElemName = '#quantity_'+catentryId;
+		    if(isModal){
+		    	qtyElemName += '_modal';
+		    }
+		    
+		    var qtyElement = $(qtyElemName);
+		    if(typeof(qtyElement) !== 'undefined' && typeof(qtyElement.val()) !== 'undefined'){
+		    	var qtyPassed = qtyElement.val();
+			    form.quantity.value = qtyPassed;
+		    }
+		   
+		    if (document.getElementById("attrValue") != null)
+		  	{
+			  var attElemName = '#attrValue';
+			  var selected_product_id = $(attElemName).val();
+	  	  	  if (selected_product_id != null){
+	  		  		if (selected_product_id == "" ){
+	   		  			alert("please select a style");
+	   		  			return false;
+	  		  		}
+	  		  		form.catEntryId.value = selected_product_id;
+	  		  }
+		  	}
+		    
+			$(form).submit();
+		}
+		ip = false;
+	}
+}	 
+   if (Modernizr.touch) {
+      $(document).foundation('alerts forms placeholder reveal dropdown orbit', function (response) {});
+    }else {
+      $(document).foundation('alerts forms placeholder reveal tooltips dropdown orbit', function (response) {});
+    }
+
+</script>
 			
 			
 
