@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qrz.com privacy policy that was archived on 2014-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141104153220id_/http%3A//qrz.com/page/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qrz.com privacy policy that was archived on 2015-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150405021243id_/http%3A//www.qrz.com/page/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
 <title>privacy by QRZ.COM</title>
@@ -8,9 +8,9 @@
 <meta name="google-site-verification" content="6TK-JKZlwymcjLHzH9sO1D6GJEHWMRRRI60FLPpREC4">
 <link rel="shortcut icon" href="http://files.qrz.com/static/qrz/favicon.ico">
 <link type="application/opensearchdescription+xml" title="qrz.com" rel="search" href="/opensearch.xml">
-<meta property="og:url" content="http://qrz.com/page">
+<meta property="og:url" content="http://www.qrz.com/page">
 
-<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/themes/cupertino/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="http://files.qrz.com/static/css/jquery-ui.min.css?v=0115">
 <link rel="stylesheet" type="text/css" href="http://files.qrz.com/static/css/menu_red.css">
 <style type="text/css">
 <!--/* <![CDATA[ */
@@ -77,6 +77,7 @@ img{border:none;}
 .clb{clear:both}
 .ovh{overflow:hidden}
 .ul{text-decoration:underline}
+.vt{vertical-align:top}
 .hot{margin-left:8px;padding:2px;color:black;cursor:pointer;}
 #qrz{background-color:white;margin-left:auto;margin-right:auto;margin-top:8px;margin-bottom:8px;}
 #lpos img{position:relative;top:12px;}
@@ -118,153 +119,37 @@ span.btn:hover{background-color:#000;}
 
 /* ]]> */-->
 </style>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://files.qrz.com/static/js/jquery-1.11.2.min.js" type="text/javascript"></script>
+<script src="http://files.qrz.com/static/js/jquery-ui-1.11.2.min.js" type="text/javascript"></script>
 <script src="http://files.qrz.com/static/js/advertisement.js" type="text/javascript"></script>
-<script src="http://files.qrz.com/static/js/jquery.hoverIntent.js" type="text/javascript"></script>
-<script src="http://files.qrz.com/static/js/jquery.metadata.js" type="text/javascript"></script>
-<script src="http://files.qrz.com/static/js/mbMenu.js" type="text/javascript"></script>
+<script src="http://files.qrz.com/static/js/jquery.hoverIntent.js?v=0115" type="text/javascript"></script>
+<script src="http://files.qrz.com/static/js/jquery.metadata.js?v=0115" type="text/javascript"></script>
+<script src="http://files.qrz.com/static/js/mbMenu.js?v=0115" type="text/javascript"></script>
 <script type="text/javascript">//<![CDATA[
-// QRZstd.js
-// Copyright 2012 by QRZ.COM
-
-//function e(i) { return document.getElementById(i); }
-//function n(i) { return document.getElementsByName(i)[0]; }
-
-var qrzv='qrzweb6.js';
-var tid;
-
-$(document).ready(function() {
-    qrzLoad();
-});
-
-
-function qrzLoad()
-{
-    if ($('#map').length) {loadMap()}
-    if ($('#reloadtime').length) {tid = setTimeout("reLoad()",$('#reloadtime').val());}
-    if ($('#jstest').length) {$('#jstest').hide();}
-    if ($('#jq').length) {jqInit();}
-    if ($('#qrzinit').length) {qrz_init();}
-    if ($('.myMenu').length) {menu_init();}
-    if ($('.nbg').length) {nbg_init();}
-    if ($('.blink').length) {blink_init();}
-
-    $('.qadv').click(function (ev) {
-	ev.preventDefault();
-	var id = $(this).attr('id');
-	id = id.replace(/\D*/,'');
-	var ck = $(this).attr('href');
-	$.get("/click?d=1;id="+id);
-	setTimeout(function(){window.location=ck},100);
-    });
-
-    if ($('#tquery').length) {
-	$('#tquery').focus();
-    }
-
-    if (bqn > 0) {
-	var bqa = ['u'+bqu.toString(),'n'+bqn.toString()];
-	$('.bq').each(function() {
-	    if ($(this).height() > 0) {
-		bqa.push($(this).attr('id'));
-	    }
-	});
-	$.post("/bq",{bq:bqa.join()});
-    }
-
-    $(".hoverItem").hover(
-	function() {$(this).addClass('hoverOver');},
-	function() {$(this).removeClass('hoverOver');}
-    );    
-
-    $(".hot").click(function() {
-	window.location = www_url + "/db/" + $(this).html();
-    });
-}
-
-function showqem() {
-    id = $('#qem')[0];
-    var cem = qmail;
-    var cl = new String('');
-    var dem = new String('');
-    for (i=cem.length-1; i>0; i--) {
-	var c = cem.charAt(i);
-	if (c != '!') { cl = cl.concat(c); } else { break; }
-    }
-    i--;
-    for (x=0; x<cl; x++) { dem = dem.concat(cem.charAt(i)); i-=2; }
-    id.innerHTML = '<a href="mailto:' + dem + '" id="eml">' + dem + '</a>';
-    var eml = $('#eml')[0];
-    id.onclick = eml.onclick;
-    id.onmouseover = eml.onmouseover;
-}
-
-function blink_init() {
-    $('#fff').show();
-    setInterval(function() {
-	$('.blink').fadeToggle("fast","linear");
-    },500);
-}
-
-function reLoad() {
-    document.reloadform.submit();
-}
-
-function blank() {
-}
-
-function callsign_focus() {
-    qrzLoad();
-}
-
-function nbg_init() {
-    $(".nbg").hover(
-	function() {$(this).addClass('hho');},
-	function() {$(this).removeClass('hho');}
-    );    
-}
-
-function slogin() {
-    window.location.replace("https://www.qrz.com/login");
-}
-
-function menu_init() {
-    $(".myMenu").buildMenu(
-    {
-      template:"dmyqrz.html",
-      additionalData:"pippo=1",
-      menuWidth:100,
-      openOnRight:false,
-      menuSelector: ".menuContainer",
-      iconPath:"/icons/mb/",
-      hasImages:false,
-      fadeInTime:100,
-      fadeOutTime:300,
-      adjustLeft:2,
-      minZindex:9999,
-      adjustTop:10,
-      opacity:1,
-      shadow:false,
-      shadowColor:"#ccc",
-      hoverIntent:100,
-      openOnClick:false,
-      closeOnMouseOut:true,
-      closeAfter:1000,
-      submenuHoverIntent:200
-    });
-}
-
-function showMessage(msg){
-    var msgBox=$("<div>").addClass("msgBox");
-    $("body").append(msgBox);
-    msgBox.append("You click on: <br>"+msg);
-    setTimeout(function(){msgBox.fadeOut(500,function(){msgBox.remove();})},3000)
-}
-
-
-
-var www_url="http://qrz.com";
+var qrzv='qrzweb6.js';var tid;$(document).ready(function(){qrzLoad();});function qrzLoad()
+{if($('#map').length){loadMap()}
+if($('#reloadtime').length){tid=setTimeout("reLoad()",$('#reloadtime').val());}
+if($('#jstest').length){$('#jstest').hide();}
+if($('#jq').length){jqInit();}
+if($('#qrzinit').length){qrz_init();}
+if($('.myMenu').length){menu_init();}
+if($('.nbg').length){nbg_init();}
+if($('.blink').length){blink_init();}
+if(bqn>0){var bqa=['u'+bqu.toString(),'n'+bqn.toString()];$('.bq').each(function(){if($(this).height()>0){bqa.push($(this).attr('id'));}});$.post("/bq",{bq:bqa.join()});}
+$('.qadv').click(function(ev){ev.preventDefault();var id=$(this).attr('id');id=id.replace(/\D*/,'');var ck=$(this).attr('href');$.get("/click?d=1;id="+id);setTimeout(function(){window.location=ck},100);});if($('#tquery').length){$('#tquery').focus();}
+$('.hoverItem').on("mouseenter",function(){$(this).addClass('hoverOver');});$('.hoverItem').on("mouseleave",function(){$(this).removeClass('hoverOver');});$(".hot").click(function(){window.location=www_url+"/db/"+$(this).html();});}
+function showqem(){id=$('#qem')[0];var cem=qmail;var cl=new String('');var dem=new String('');for(i=cem.length-1;i>0;i--){var c=cem.charAt(i);if(c!='!'){cl=cl.concat(c);}else{break;}}
+i--;for(x=0;x<cl;x++){dem=dem.concat(cem.charAt(i));i-=2;}
+id.innerHTML='<a href="mailto:'+dem+'" id="eml">'+dem+'</a>';var eml=$('#eml')[0];id.onclick=eml.onclick;id.onmouseover=eml.onmouseover;}
+function blink_init(){$('#fff').show();setInterval(function(){$('.blink').fadeToggle("fast","linear");},500);}
+function reLoad(){document.reloadform.submit();}
+function blank(){}
+function callsign_focus(){qrzLoad();}
+function nbg_init(){$('.nbg').on("mouseenter",function(){$(this).addClass('hho');});$('.nbg').on("mouseleave",function(){$(this).removeClass('hho');});}
+function slogin(){window.location.replace("https://www.qrz.com/login");}
+function menu_init(){$(".myMenu").buildMenu({template:"dmyqrz.html",additionalData:"pippo=1",menuWidth:100,openOnRight:false,menuSelector:".menuContainer",iconPath:"/icons/mb/",hasImages:false,fadeInTime:100,fadeOutTime:300,adjustLeft:2,minZindex:9999,adjustTop:10,opacity:1,shadow:false,shadowColor:"#ccc",hoverIntent:100,openOnClick:false,closeOnMouseOut:true,closeAfter:1000,submenuHoverIntent:200});}
+function showMessage(msg){var msgBox=$("<div>").addClass("msgBox");$("body").append(msgBox);msgBox.append("You click on: <br>"+msg);setTimeout(function(){msgBox.fadeOut(500,function(){msgBox.remove();})},3000)}
+var www_url="http://www.qrz.com";
 
 function cd(cs) {
     window.location = www_url + "/db/" + cs;
@@ -281,24 +166,15 @@ var bqu=0;
 <div id="qrztop"><!-- begin qrztop -->
 <div style="width:100%;height:92px;">
 <div style="display:inline-block;margin-top:1em;">
-<a href="http://qrz.com/index.html"><img src="http://files.qrz.com/static/qrz/qrzcom240.gif" width="240" height="60" alt="QRZ.COM"></a></div>
-<div style="display:inline-block;float:right"><div class="bq" id="d4456"><script type="text/javascript"><!--
-google_ad_client = "ca-pub-2738444475940784";
-/* QRZ-Top-728 */
-google_ad_slot = "2332587068";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div></div>
+<a href="http://www.qrz.com/index.html"><img src="http://files.qrz.com/static/qrz/qrzcom240.png" width="240" height="60" alt="QRZ.COM"></a></div>
+<div style="display:inline-block;float:right"><div class="bq" id="d1556"><a href="http://www.davisrf.com" class="qadv" id="i1556" target="_blank"><img src="http://files.qrz.com/ads/1556.gif" height="90" width="728" alt="ad: davisrf"></a></div></div>
 </div>
 
-    <form id="lfrm" action="http://qrz.com/login/" method="post">
+    <form id="lfrm" action="http://www.qrz.com/login/" method="post">
     <div id="logbox">
     <span class="fi">Please login</span>
     <a href="https://ssl.qrz.com/reg" class="ml2 f9 wht">help/register</a>
-    <input type="hidden" name="loguri" value="http://qrz.com/page/privacy.html">
+    <input type="hidden" name="loguri" value="http://www.qrz.com/page/privacy.html">
     <span class="ml2">callsign:</span>
     <input type="text" id="username" name="username" value="" size="16" maxlength="16">
     <span class="ml1">password:</span>
@@ -340,9 +216,9 @@ google_ad_height = 90;
 	  <option value="county">by County</option>
 	  <option value="grid">by Grid</option>
 	  </select>
-	  <input type="button" value="Random" class="ml1" onclick="document.location='http://qrz.com/db/N9JPE'">
+	  <input type="button" value="Random" class="ml1" onclick="document.location='http://www.qrz.com/db/SP5XVL'">
       </td>
-      <td class="rt f9"><span class="fi">&nbsp;15:32:21 UTC 4 Nov 2014&nbsp;</span></td>
+      <td class="rt f9"><span class="fi">&nbsp;02:12:43 UTC 5 Apr 2015&nbsp;</span></td>
     </tr>
   </tbody></table>
   </form>
@@ -426,7 +302,7 @@ google_ad_height = 90;
 
 </div><!-- end qrztop -->
 
-<form id="opform" method="post" action="http://qrz.com/page">
+<form id="opform" method="post" action="http://www.qrz.com/page">
 <input type="hidden" id="opop" name="op" value="">
 
 </form>
@@ -437,7 +313,7 @@ google_ad_height = 90;
 <table width="100%" cellpadding="0" cellspacing="0"><tbody><tr>
 
 <td id="qrzleft" valign="top"><div><!-- begin left ads -->
-<div class="lads"><div class="bq" id="d6555"><!-- Google Code for QRZ.com Remarketing List -->
+<div class="lads"><div class="bq" id="d6703"><!-- Google Code for QRZ.com Remarketing List -->
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 1072286609;
@@ -455,15 +331,15 @@ var google_conversion_value = 0;
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072286609/?label=1hLQCJrVkgIQkZen_wM&guid=ON&script=0"/>
 </div>
 </noscript>
-<a href="http://www.gigaparts.com/Yaesu-HF-Rigs/?utm_source=QRZ&amp;utm_medium=banner&amp;utm_content=YaesuHF&amp;utm_campaign=FallSavings2014" class="qadv" id="ad6555"><img src="http://files.qrz.com/ads/6555.gif"></a></div></div>
-<div class="lads"><div class="bq" id="d4916"><a href="http://www.hamradio.com/open_item.cfm" class="qadv" id="i4916" target="_blank"><img src="http://files.qrz.com/ads/4916.jpg" height="125" width="125" alt="ad: L-HROutlet"></a></div></div>
-<div class="lads"><div class="bq" id="d3877"><a href="http://www.associatedradio.com" class="qadv" id="i3877" target="_blank"><img src="http://files.qrz.com/ads/3877.gif" height="125" width="125" alt="ad: l-assoc"></a></div></div>
-<div class="lads"><div class="bq" id="d4935"><a href="http://www.tentec.com" class="qadv" id="i4935" target="_blank"><img src="http://files.qrz.com/ads/4935.jpg" height="125" width="125" alt="ad: l-tentec"></a></div></div>
-<div class="lads"><div class="bq" id="d5787"><a href="http://www.force12inc.com/categories/rotators.html" class="qadv" id="i5787" target="_blank"><img src="http://files.qrz.com/ads/5787.gif" height="125" width="125" alt="ad: l-innov"></a></div></div>
-<div class="lads"><div class="bq" id="d5693"><a href="http://www.randl.com/shop/catalog/product_info.php?products_id=71568" class="qadv" id="i5693" target="_blank"><img src="http://files.qrz.com/ads/5693.gif" height="125" width="125" alt="ad: l-rl"></a></div></div>
+<a href="http://www.gigaparts.com/Icom-HF-Rigs/?utm_source=QRZ&amp;utm_medium=banner&amp;utm_content=IcomRigs&amp;utm_campaign=Tax2015" class="qadv" id="ad6703"><img src="http://files.qrz.com/ads/6703.gif"></a></div></div>
+<div class="lads"><div class="bq" id="d4940"><a href="http://www.hamradio.com" class="qadv" id="i4940" target="_blank"><img src="http://files.qrz.com/ads/4940.gif" height="125" width="125" alt="ad: L-HROutlet"></a></div></div>
+<div class="lads"><div class="bq" id="d6728"><a href="http://www.associatedradio.com" class="qadv" id="i6728" target="_blank"><img src="http://files.qrz.com/ads/6728.gif" height="125" width="125" alt="ad: l-assoc"></a></div></div>
 <div class="lads"><div class="bq" id="d4883"><a href="http://www.gacopper.com" class="qadv" id="i4883" target="_blank"><img src="http://files.qrz.com/ads/4883.gif" height="125" width="125" alt="ad: l-gcopper"></a></div></div>
-<div class="lads"><div class="bq" id="d6174"><a href="http://wsplc.com/ft-817nd-yaesu-hf-6m-vhf-uhf-5w-backpack-transceiver.html" class="qadv" id="i6174" target="_blank"><img src="http://files.qrz.com/ads/6174.gif" height="125" width="125" alt="ad: l-Waters"></a></div></div>
+<div class="lads"><div class="bq" id="d5503"><a href="http://www.despole.com/" class="qadv" id="i5503" target="_blank"><img src="http://files.qrz.com/ads/5503.gif" height="125" width="125" alt="ad: l-innov"></a></div></div>
 <div class="lads"><div class="bq" id="d6166"><a href="http://warrengregoire.com/amateurradio-headsets.htm" class="qadv" id="i6166" target="_blank"><img src="http://files.qrz.com/ads/6166.gif" height="125" width="125" alt="ad: l-WarrenG"></a></div></div>
+<div class="lads"><div class="bq" id="d6688"><a href="http://www.rfparts.com" class="qadv" id="i6688" target="_blank"><img src="http://files.qrz.com/ads/6688.gif" height="125" width="125" alt="ad: L-rfparts"></a></div></div>
+<div class="lads"><div class="bq" id="d6569"><a href="http://wsplc.com/ar-8200-mkiii-aor-scanner-530khz-3ghz-1000-mem-ssb-fm-am-cw-7493.html" class="qadv" id="i6569" target="_blank"><img src="http://files.qrz.com/ads/6569.gif" height="125" width="125" alt="ad: l-Waters"></a></div></div>
+<div class="lads"><div class="bq" id="d5693"><a href="http://www.randl.com/shop/catalog/product_info.php?products_id=71568" class="qadv" id="i5693" target="_blank"><img src="http://files.qrz.com/ads/5693.gif" height="125" width="125" alt="ad: l-rl"></a></div></div>
 
 <div style="background-color:#ccccff;border:solid 1px #aaf;margin-top:20px;">
 
@@ -617,7 +493,7 @@ consumer privacy, please contact us at <a href="https://forums.qrz.com/support">
 
 </div>
 
-<div id="qrzfooter">Copyright © 2014 by QRZ.COM<br>Tue Nov  4 15:32:21 2014 UTC</div>
+<div id="qrzfooter">Copyright © 2015 by QRZ.COM<br>Sun Apr  5 02:12:43 2015 UTC</div>
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -629,26 +505,25 @@ _gaq.push(['_trackPageview']);
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
-<span class="ml2 f6">CPU: 0.029 sec 27192 bytes mp</span>
+<span class="ml2 f6">CPU: 0.031 sec 26396 bytes mp</span>
 <!-- PROFILE
 web_001	0.000
 web_002	0.003
 web_003	0.004
-web_003a	0.007
-web_003l	0.007
-web_003f	0.007
-web_005	0.007
-web_100	0.021
-web_101	0.022
-web_200	0.023
-web_006	0.023
-web_007	0.023
-po_01	0.027
-po_02	0.028
-po_03	0.029
-po_04	0.029
-pm_pg1	0.029
-pm_pg2	0.029
+web_003a	0.006
+web_003f	0.006
+web_005	0.006
+web_100	0.020
+web_101	0.020
+web_200	0.021
+web_006	0.021
+web_007	0.022
+po_01	0.030
+po_02	0.031
+po_03	0.031
+po_04	0.031
+pm_pg1	0.031
+pm_pg2	0.031
 
 -->
 
