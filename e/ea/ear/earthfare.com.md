@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the earthfare.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707143131id_/https%3A//www.earthfare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthfare.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405122711id_/https%3A//www.earthfare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [Menu»]()
 
 At Earth Fare, we recognize that your privacy is important. This Privacy Policy covers the Earth Fare website. We may also post supplementary privacy notices and information on our website.
-
-Earth Fare adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s Safe Harbor Program.
 
 ## Types of Information Gathered
 
@@ -56,5 +54,5 @@ If you have any questions or need more information about our Privacy Policy, ple
 
 Earth Fare  
 Attn: Privacy Matters  
-145 Cane Creek Industrial DriveSuite 150  
+145 Cane Creek Industrial Drive Suite 150  
 Fletcher, NC 28732 
