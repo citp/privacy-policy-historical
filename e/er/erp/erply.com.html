@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the erply.com privacy policy that was archived on 2014-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201055431id_/https%3A//erply.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the erply.com privacy policy that was archived on 2015-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150405230614id_/https%3A//erply.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		
@@ -16,6 +16,7 @@
 		<link href="/wp-content/themes/Erply3.2/css/bootstrap.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/Erply3.5/style.css">
 		
+				
 		
 				
 				
@@ -25,11 +26,11 @@
 		<link rel="alternate" type="application/rss+xml" title="Erply Retail Software » Privacy Policy Comments Feed" href="http://erply.com/privacy-policy/feed/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://erply.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://erply.com/wp-includes/wlwmanifest.xml"> 
+<link rel="canonical" href="http://erply.com/privacy-policy/">
 <link rel="shortlink" href="http://erply.com/?p=1262">
 
 <!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[156,206] -->
 <meta name="description" content="Privacy Policy We respect the privacy of your personal and corporate information. This policy sets out how we use any personal information collected from">
-<link rel="canonical" href="http://erply.com/privacy-policy/">
 <!-- /all in one seo pack -->
 		
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -55,7 +56,6 @@
 				
 				
 				
-		
 		<script type="text/javascript">
 			function toggleNavbarMethod() {
 				if ($(window).width() > 768) {
@@ -129,6 +129,12 @@
 		
 		<style>
 			
+						
+			.blogarticle {
+				border:1px solid #E2E4E5;
+				background:#FFFFFF;
+			}
+			
 			#infobox {
 			}
 			#infobox input {
@@ -172,8 +178,16 @@
 				border-color: #F4C345;
 				width: 150px; /* 180px; */
 				height: 40px;
-				font-size:15px;
+				font-size:14px;
 			}
+			/*.btn-success, .btn-success:hover {
+				color: #FFFFFF;
+				background-color: #5CB85C;
+				border-color: #5CB85C;
+				width: 150px;
+				height: 40px;
+				font-size:14px;
+			}*/
 			.scrnl {
 				text-align: right;
 			}
@@ -185,6 +199,9 @@
 					padding-top: 50px;
 					padding-bottom: 10px;
 				}
+				.poshrdwrimg {
+					visibility: hidden;
+				}
 			}
 			@media screen and (max-width: 991px) {
 				.scrnl {
@@ -195,7 +212,7 @@
 				}
 			}
 			@media screen and (max-width: 500px) {
-				.btn-warning, .btn-warning:hover, .signupEmail {
+				.btn-warning, .btn-warning:hover, .btn-success, .btn-success:hover, .signupEmail {
 					width: 100%;
 				}
 			}
@@ -271,6 +288,10 @@
 				padding: 10px 15px;
 			}
 			
+			.control-label {
+				font-weight: 600;
+			}
+			
 							.iobox {
 					margin-left: 10px;
 					border: 1px solid #00a3e2;
@@ -296,6 +317,12 @@
 					}
 				}	
 						
+			@media (min-width: 991px) {
+				.blogarticle {
+					padding:30px 60px 70px 75px;
+				}
+			}			
+			
 			@media (max-width: 990px) {
 				.panel-collapse {
 					position: absolute;
@@ -319,6 +346,7 @@
 								
 		</style>
 		
+				
 	<style id="holderjs-style" type="text/css">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</style></head>
 
 	<body onload="body_onLoad();" style=""><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
@@ -421,7 +449,7 @@
 		);
 		return false;
 	}	
-	function error_login(message) {
+		function error_login(message) {
 		document.getElementById("alertbox-login").style.display = 'block'; 
 		document.getElementById("alertbox-login").className = 'alertbox-error-login'; 
 		document.getElementById("alertbox-login").innerHTML = message;
@@ -430,8 +458,11 @@
 		var contactName = document.signupform.contactName.value;
 		var contactNames = contactName.split(" ");
 		var businessName = document.signupform.businessName.value;
-		if  (document.signupform.businessCountry) {
+		if (document.signupform.businessCountry) {
 			var businessCountry = document.signupform.businessCountry.value;
+		}
+		if (document.signupform.website) {
+			var website = document.signupform.website.value;
 		}
 		if  (document.signupform.activity) {
 			var activity = document.signupform.activity.value;
@@ -476,6 +507,7 @@
 								"&contactName="+contactName+
 				"&businessName="+businessName+
 				"&businessCountry="+businessCountry+
+				"&website="+website+
 				"&activity="+activity+
 				"&employees="+employees+
 				"&currsoft="+currsoft+
@@ -505,7 +537,7 @@
 				"<div class='progress progress-striped active' style='width:245px;margin-bottom:10px;'>"+
 				"<div class='progress-bar' role='progressbar' aria-valuenow='245' aria-valuemin='0' aria-valuemax='245' style='width:245px;'>"+
 				"</div></div><div style='line-height:30px;'>Creating your account. Please wait...</div>";
-			ajaxRequest.open("POST", "/ajax.php?13b3y14iX8x07c13=q2d5eK9n3s4L5L59&"+sendvars+"&reseller=", true);
+			ajaxRequest.open("POST", "/ajax.php?13b3y14iX8x07c13=VQPidx8aeXjIkWp5&"+sendvars+"&reseller=", true);
 			ajaxRequest.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
 			ajaxRequest.onreadystatechange = function(){
 				if (ajaxRequest.readyState == 4) {
@@ -533,13 +565,14 @@
 	
 		<div style="padding:15px 0 10px 0;">
 		<div class="container" style="text-align:right;padding-right:22px;font-size:14px;">
-			1-855-463-7759 &nbsp; &nbsp; 
-			<a href="/about-erply-contact-us/" style="font-size:15px;color:#555555;text-decoration:none;">Company/Contact us</a> &nbsp; &nbsp; 
-			<a href="/blog/" style="font-size:15px;color:#555555;text-decoration:none;">Blog</a>
+						Call us today at 1-855-463-7759 &nbsp; <span style="font-size:17px;color:#AAAAAA;">|</span> &nbsp; 
+			<a href="http://support.erply.com/" style="font-size:15px;color:#555555;text-decoration:none;">Support</a> &nbsp; <span style="font-size:17px;color:#AAAAAA;">|</span> &nbsp; 
+			<a href="/blog/" style="font-size:15px;color:#555555;text-decoration:none;">Blog</a> &nbsp; <span style="font-size:17px;color:#AAAAAA;">|</span> &nbsp; 
+			<a href="/pricing/" style="font-size:15px;color:#990000;text-decoration:none;font-weight:bold;">Pricing</a> &nbsp; <span style="font-size:17px;color:#AAAAAA;">|</span> &nbsp; 
 		</div>
 	</div>
 		
-	<div style="padding:0px 0 20px 0;">
+	<div style="padding:0px 0 10px 0;">
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -548,7 +581,9 @@
 					<span class="icon-bar"></span>
 				</button>
 				<a href="/" style="float:left;">
-					<img class="navbar-logo" src="http://erply.com/wp-content/themes/Erply3.5/img/Erply-logo.png" alt="ERPLY" style="width:120px;">
+																		<img class="navbar-logo" src="http://erply.com/wp-content/themes/Erply3.5/img/erply-point-of-sale.png" alt="ERPLY" style="margin-top:-5px;">
+							
+										
 				</a>
 			</div>
 			<div id="collapseNavbar" class="navbar-collapse collapse" style="background:transparent;">
@@ -556,25 +591,27 @@
 					
 																	
 													
-							<li style="margin-top:1px;"><a href="/features/" style="font-size:15px;font-weight:600;">FEATURES</a></li>
+							<li style="margin-top:1px;"><a href="/#features" style="font-size:15px;font-weight:600;">FEATURES</a></li>
 							<li class="dropdown" style="margin-top:1px;">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:15px;font-weight:600;">POS APPS<span class="caret"></span></a>
 								<ul class="dropdown-menu" role="menu">
 									<li><a href="/ipad-pos/">iPad POS</a></li>
-									<li><a href="/windows-point-of-sale-pos-download/">POS for Windows</a></li>
+									<li><a href="/windows-point-of-sale-pos-download/">POS Software</a></li>
 									<li><a href="/paypal-pointofsale-instore-payment-retail-pos-integration-ipad-pos/">PayPal POS</a></li>
 									<li><a href="/quick-service-pos/">Quick Service POS</a></li>
-									<li><a href="http://speedpos.com/ipadposfeatures/">Restaurant POS</a></li>
-									<li><a href="/simple-spa-salon-software/">Salons</a></li>
-									<li><a href="/pricing/">Pricing</a></li>
+																											<li><a href="/pricing/">Pricing</a></li>
+									<li><a href="/pos-hardware/">POS hardware</a></li>
+									<li><a href="/payments/">Payments</a></li>
 								</ul>
 							</li>
 							<li class="dropdown" style="margin-top:1px;">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:15px;font-weight:600;">ENTERPRISE<span class="caret"></span></a>
+																<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:15px;font-weight:600;">RETAIL SOFTWARE<span class="caret"></span></a>
 								<ul class="dropdown-menu" role="menu">
-									<li><a href="/retail-erp-software/">Retail Management</a></li>
-									<li><a href="/franchise-management-software/">Franchise Management</a></li>
-									<li><a href="http://www.inventory.com/">Inventory Management</a></li>
+									<li><a href="/retail-erp-software/">Retail Software</a></li>
+									<li><a href="/franchise-management-software/">Franchise Software</a></li>
+									<li><a href="/inventory-software/">Inventory Software</a></li>
+									<li><a href="/windows-point-of-sale-pos-download/">POS Software</a></li>
+									<li><a href="/pim-product-information-management/">PIM Software</a></li>
 									<li><a href="https://erply.com/multi-channel-ecommerce-platform/">eCommerce platform</a></li>
 									<li><a href="/retail-erp-system-software-2015-beta/">ERPLY 2015 Beta</a></li>
 								</ul>
@@ -583,18 +620,30 @@
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:15px;font-weight:600;">INTEGRATIONS<span class="caret"></span></a>
 								<ul class="dropdown-menu" role="menu">
 									<li><a href="/api/">Developer API</a></li>
-									<li><a href="http://erply.com/accounting/">Accounting</a></li>
+									<li><a href="/pos-hardware/">Hardware</a></li>
+									<li><a href="/payments/">Payments</a></li>
 									<li><a href="http://support.erply.com/import/">Products import</a></li>
+									<li><a href="/multi-channel-ecommerce-platform/">eCommerce platform</a></li>
+									<li><a href="http://erply.com/accounting/">Accounting</a></li>
 									<li><a href="/paypal-pointofsale-instore-payment-retail-pos-integration-ipad-pos/">PayPal POS</a></li>
 									<li><a href="/integrations-with-partners/erply-integration-with-prestashop/">Prestashop</a></li>
 									<li><a href="/erply-shopify-connector/">Shopify</a></li>
 									<li><a href="/integrations-with-partners/erply-integration-with-magento/">Magento</a></li>
 									<li><a href="/erply-integration-with-quickbooks/">QuickBooks</a></li>
-									<li><a href="/ad-hoc-reporting/">Labels</a></li>
-									<li><a href="/multi-channel-ecommerce-platform/">Wordpress cart</a></li>
+																		<li><a href="/multi-channel-ecommerce-platform/">Wordpress cart</a></li>
 								</ul>
 							</li>
-							<li style="margin-top:1px;"><a href="http://support.erply.com/" style="font-size:15px;font-weight:600;">SUPPORT</a></li>
+							<li class="dropdown" style="margin-top:1px;">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:15px;font-weight:600;">COMPANY<span class="caret"></span></a>
+								<ul class="dropdown-menu" role="menu">
+									<li><a href="/about-erply-contact-us/">About ERPLY</a></li>
+									<li><a href="/office-locations/">Office locations</a></li>
+									<li><a href="/contact-erply-sales/">Contact sales</a></li>
+									<li><a href="http://support.erply.com/">Support</a></li>
+									<li><a href="/blog-2/">Retail blog</a></li>
+									<li><a href="/careers/">Careers</a></li>
+								</ul>
+							</li>
 							
 														
 															
@@ -635,7 +684,7 @@
 													<b>Helpdesk</b>: <br>
 							<a href="mailto:support@erply.com">support@erply.com</a><br>
 							+1 (917) 210-1251 United States<br>
-							+61 8 7200 0577	Australia<br>
+							+61 8 7200 0577	&nbsp;Australia<br>
 							+44 (20) 8133 7331 Europe
 											</div>
 					<div class="col-md-1 accClose">
@@ -658,17 +707,10 @@
 						<div id="signupformarea" style="min-height:200px;">
 							<div id="alertbox-signup" class="alertbox">Point of Sale and Inventory software for Retail.</div>
 							<form id="sign-up-form" name="signupform" action="/privacy-policy/" method="post">
-								<input id="sendvars" name="sendvars" type="hidden">
-								
-																	<div class="fcwide">
-																	
+								<input id="sendvars" name="sendvars" type="hidden">	
 								<input id="contactName" name="contactName" type="text" class="form-control" placeholder="Your name" onkeypress="if (event.keyCode==13) { submit_signup();return false; }">
-								
-																	</div>
-									<div style="clear:both;"></div>
-																
 								<input id="businessName" name="businessName" type="text" class="form-control" placeholder="Business name" onkeypress="if (event.keyCode==13) { submit_signup();return false; }">
-								
+								<div style="clear:both;"></div>
 																	<select id="businessCountry" name="businessCountry" class="form-control" style="color:#AAAAAA;" onclick="this.style.color='#595959';">
 									<option value="">Business Country</option>
 									<option value="AU">Australia</option>
@@ -692,7 +734,7 @@
 									<option value="US">United States</option> 
 									<option value="other">other</option>
 								</select>	
-																
+																<input id="website" name="website" type="text" class="form-control" placeholder="Website" onkeypress="if (event.keyCode==13) { submit_signup();return false; }">
 								<div style="clear:both;"></div>
 								<input id="phone" name="phone" type="text" class="form-control" placeholder="Phone" onkeypress="if (event.keyCode==13) { submit_signup();return false; }">
 								<input id="email" name="email" type="text" class="form-control" placeholder="E-mail address" onkeypress="if (event.keyCode==13) { submit_signup();return false; }">
@@ -793,7 +835,7 @@
 					<div class="col-md-1">
 						<br>
 						<br>
-						<a href="https://erply.com/features/">Features</a><br>
+						<a href="https://erply.com/features#">Features</a><br>
 						<a href="https://erply.com/security/">Security</a><br>
 												<a href="http://support.erply.com/" rel="nofollow"><sup>Live</sup> Support</a><br>
 													<a href="#" onclick="scroll(0,0);onClick_login();return false;">Login</a><br>
@@ -814,8 +856,7 @@
 						<a href="https://erply.com/hardware-options/">POS Hardware</a><br>
 						<a href="https://erply.com/windows-point-of-sale-pos-download/">Point of Sale for Windows</a><br>
 						<a href="https://erply.com/ipad-pos/">iPad POS</a><br>
-						<a href="https://erply.com/simple-spa-salon-software/">Salons</a><br>
-						<a href="https://erply.com/terms-of-service/">Terms of Service</a><br>
+												<a href="https://erply.com/terms-of-service/">Terms of Service</a><br>
 						<a href="https://erply.com/privacy-policy/">Privacy Policy</a><br>
 					</div>
 					<div class="col-md-2">
@@ -829,14 +870,17 @@
 						<a href="https://erply.com/multi-channel-ecommerce-platform/">Wordpress cart</a>
 					</div>
 					<div class="col-md-3">
-												<div class="title">Like us</div>
-						<iframe class="facebookshare" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FERPLY&amp;width=240&amp;height=250&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23ffffff&amp;stream=false&amp;header=false&amp;appId=102694003168257" style="border:none; overflow:hidden; width:240px; height:255px;">
-						</iframe>
-					
+																		<div class="title">Follow Us</div>
+						<div class="glyph" style="width:100%;padding:0;margin:10px 0 0 0;">
+							<a href="https://www.facebook.com/ERPLY" target="_blank" rel="nofollow" style="text-decoration:none;"><div class="fs1" aria-hidden="true" data-icon="" style="float:left;"></div></a> 
+							<a href="https://twitter.com/erply" target="_blank" rel="nofollow" style="text-decoration:none;"><div class="fs1" aria-hidden="true" data-icon="" style="float:left;margin-left:10px;"></div></a> 
+							<a href="https://ee.linkedin.com/company/erply" target="_blank" rel="nofollow" style="text-decoration:none;"><div class="fs1" aria-hidden="true" data-icon="" style="float:left;margin-left:10px;"></div></a> 
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+
 		
 		<!-- Bootstrap core JavaScript -->
 		<script src="/wp-content/themes/Erply3.2/js/jquery.js"></script>
