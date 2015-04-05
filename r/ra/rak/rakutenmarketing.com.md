@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rakutenmarketing.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216095930id_/http%3A//marketing.rakuten.com/affiliate-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakutenmarketing.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405021033id_/http%3A//marketing.rakuten.com/affiliate-privacy-policy) for the most accurate reproduction.*
 
 # Rakuten Affiliate Network Privacy Policy | Rakuten Marketing
 
