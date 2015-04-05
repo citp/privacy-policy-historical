@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slimwareutilities.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629105506id_/https%3A//www.slimwareutilities.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimwareutilities.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405152918id_/https%3A//www.slimwareutilities.com/privacy.php) for the most accurate reproduction.*
 
 # SlimWare Utilities - Privacy Policy
 
