@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodwill.org privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703080248id_/http%3A//www.goodwill.org/uncategorized/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodwill.org privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405091716id_/http%3A//www.goodwill.org/uncategorized/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Goodwill Industries International, Inc.
 
@@ -12,7 +12,7 @@ Users can visit the site without revealing any information about themselves. If 
 
 If users tell us that they do not wish to have this information used as a basis for further contact, we will respect those wishes. We do keep track of the domains from which people visit us. We analyze this data for trends and statistics, and then we discard it. We do not share information web users provide with third parties for commercial purposes.
 
-GII takes precautions to keep the user information disclosed to us secure. To prevent unauthorized access, maintain data accuracy, and to ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect.
+GII takes precautions to keep the user information disclosed to us secure. To prevent unauthorized access, maintain data accuracy, and to ensure the appropriate use of information, all personal data is transmitted via a Secure Socket Layer (SSL) and access to personal data is restricted via a username and password authentication process. Only authorized GII employees are permitted to access personally identifiable information, and the authorized individuals may do so only for specific work related purposes. GII strives to protect your personal information; however, we urge you to take every precaution when you are on the internet. To better protect your information, be sure to change your passwords often and use a combination of upper and lower case letters, numbers, and special characters.
 
 If users have questions about the types of information collected on this web site or would like to request a correction of any information collected, then please contact us at [contactus@goodwill.org. ](mailto:contactus@goodwill.org?subject=Questions%20about%20Personal%20Information)
 
@@ -25,3 +25,5 @@ Cookies were originally designed to help a web site distinguish a user’s brows
 #### User Agreement
 
 If you have any questions about this User Agreement, contact Goodwill Industries International (GII). If you do not agree with these terms of this User Agreement, you may not use the site. GII reserves the right to change this User Agreement at any time without notice.
+
+**LAST UPDATED** : FEBRUARY 10, 2015
