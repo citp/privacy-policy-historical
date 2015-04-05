@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sivagalerija.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818170950id_/http%3A//www.sivagalerija.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sivagalerija.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405131021id_/http%3A//www.sivagalerija.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sivagalerija
 
