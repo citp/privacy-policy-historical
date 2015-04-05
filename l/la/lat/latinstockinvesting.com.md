@@ -1,66 +1,88 @@
-> *The following text is extracted and transformed from the latinstockinvesting.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903140405id_/http%3A//www.acamarglobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinstockinvesting.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405054608id_/http%3A//www.acamarglobal.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Investing Insights
 
-### Our Commitment to Privacy
+AcamarGlobal.com shares your concerns about your privacy and the protection of your personal information online. We are committed to treating personal information we obtain through our web site with respect for you privacy concerns, and in accordance with the Privacy Policy set forth below. The following Privacy Policy describes AcamarGlobal.com®’s policies concerning the use of personal information of all users collected via this web site.
 
-Acamar Global Capital is committed to maintaining the confidentiality, integrity, and security of personal information about our current and prospective customers. Please note that certain details of this policy may depend on whether you deal with us through an investment professional, directly as an individual investor, or whether Acamar Global provides services to your employer or plan sponsor. The privacy policies of Acamar Global Capital is reviewed annually. Our printed and online notices are then updated to reflect any changes.
+**Purpose of this Privacy Policy**
 
-**Acamar Global Capital Privacy Policy**
+This privacy policy describes how AcamarGlobal.com (the company that created, runs and owns AcamarGlobal.com) treats the personally identifiable information that is collected about you when you visit the AcamarGlobal.com web site. This policy also describes our treatment of personally identifiable information about you that our business partners may share with us.
 
-**How and why we obtain personal information**  
-Acamar Global takes great care to protect personal information about you and when we use it, we do so with respect for your privacy. We may use personal information about you to service and maintain your account; process transactions in your account; respond to inquiries from you or your representative; develop, offer, and deliver products and services; or to fulfill legal and regulatory requirements. Acamar Global may collect public and non-public personal information about you from any of the following sources:
+**What is Personally Identifiable Information**
 
-• You or your representative on applications or forms (for example, name, address, Social Security number, birth date, assets and income)  
-• You or your employer or plan sponsor if Acamar Global provides them with recordkeeping services (for example, payroll, human resources, or benefits information)  
-• Transactional activity in your account (for example, trading history and balances)  
-• Other interactions with Acamar Global (for example, discussions with our customer service staff or information you enter into our websites)  
-• Information from consumer reporting agencies (for example, to assess your creditworthiness for margin products)  
-• Information from other third-party data services (for example, to verify your identity and to better understand your product and service needs)  
-• You or your representative regarding your preferences (for example, your choice of electronic statement delivery, or the screen layout you specify if you use our Internet sites)  
-• Other sources with your consent or with the consent of your representative (for example, from other institutions if you transfer positions into Acamar Global)
+“Personally identifiable information” is information that we can use to identify you as an individual. Personally identifiable information includes your name, address, telephone number and any other information that is connected with your identity.
 
-**How we protect information about you**
+**Information This Privacy Policy Does Not Apply to**
 
-Acamar Global considers the protection of personal information to be a foundation of customer trust and a sound business practice. We employ physical, electronic and procedural controls and we regularly adapt these controls to respond to changing requirements and advances in technology. At Acamar Global, we restrict access to personal information to those who require it to develop, support, offer and deliver products and services to you.
+This privacy policy does not apply to information collected about you by anyone except AcamarGlobal.com. Any information you provide when you visit web sites other than AcamarGlobal.com or when you purchase any products or services that may be offered or advertised on AcamarGlobal.com by companies other than AcamarGlobal.com is subject to the privacy policies of the third party organizations who run and/or own these web sites.
 
-**How we share information about you with third parties**
+**Information We Collect**
 
-Acamar Global does not share personal information about our customers with unaffiliated third parties for use in marketing their products and services. We may share personal information with the following entities:
+_Non-Registered Users_
 
-• Unaffiliated service providers (for example, printing and mailing companies, securities clearinghouses, marketing service providers, and other entities who may provide services at Acamar Global's direction)  
-• Government agencies, other regulatory bodies and law enforcement officials (for example, for tax purposes or for reporting suspicious transactions)  
-• Other organizations, with your consent or as directed by your representative (for example, if you use Acamar Global as a financial reference in applying for credit with another institution), or as permitted or required by law (for example, for fraud prevention)
+Currently certain content and tools on the AcamarGlobal.com web site, such as delayed stock quotes, links and basic worksheets and calculators, are available to all users without registration. AcamarGlobal.com does not collect any personally identifiable information from you when you visit these areas of the AcamarGlobal.com web site.
 
-Our service providers are obligated to keep the personal information we share with them confidential and use it only to provide services specified by Acamar Global. 
+_Registered Members_
 
-Based on the nature of your relationship with Acamar Global, we may exchange information with other third parties as described below:
+In order to access some of the more specialized features of the AcamarGlobal.com web site, such as news articles and webcasts, you must be a registered AcamarGlobal.com web site member. When you register withAcamarGlobal.com, we collect personally identifiable information from you that may include your name, email address, city, state and zip code, as well as other information, such as your gender, age, occupation, personal interests and similar information.  
+In addition, when you use certain specialized features offered to registered AcamarGlobal.com web site members, AcamarGlobal.com may collect additional information about you, such as credit card information, stock and fund information, financial information, employment information and other personally identifiable information. For example, if you create a personalized portfolio, you will need to provide stock or fund ticker symbols and financial information relating to the stocks or funds you wish to track. Also, if you register for a fee-based premium service or you purchase AcamarGlobal.com products, AcamarGlobal.com may collect credit card information, as well as, certain additional information required by the NYSE and NASDAQ Exchanges.
 
-• If Acamar Global provides workplace services to your employer or plan sponsor, such as payroll, human resources or benefits recordkeeping services, Acamar Global may exchange any information received in connection with such services with your employer or plan sponsor or others they may authorize.  
-• If you conduct business with Acamar Global through your investment professional, we may exchange information we collect with your investment professional or with others they may authorize.
+_Promotions and Surveys_
 
-**Privacy online**
+Contests, sweepstakes, other promotions or surveys may be offered on the AcamarGlobal.com web site. In conjunction with such sweepstakes, promotions or surveys, we may ask AcamarGlobal.com participants for personally identifiable information related to the topic of the survey, entry in the promotion, prize notification or fulfillment. For example, we may ask entrants in AcamarGlobal.com sweepstakes for their mailing address, telephone number, and other information that may be used to pick and notify winners.
 
-Privacy, security, and service in Acamar Global's online operations are just as critical as in the rest of our business. We use firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your online session and to protect Acamar Global accounts and systems from unauthorized access.  
-When you interact with us through online channels (for example, websites and mobile applications) owned and controlled by Acamar Global Capital ("Acamar Global websites"), Acamar Global manages personal information in accordance with all of the practices and safeguards described previously. When you visit Acamar Global websites, we may collect technical and navigational information, such as device type, browser type, Internet protocol address, pages visited, and average time spent on Acamar Global websites. We use this information for a variety of purposes, such as maintaining the security of your online session, facilitating site navigation, improving Acamar Global website design and functionality, and personalizing your experience on Acamar Global websites. Additionally, the following policies and practices apply when you are online.
+_Information From Third Party Sources_
 
-**Cookies and similar technologies**
+AcamarGlobal.com may on occasion combine information we receive online with information we have obtained through third party sources to enhance our ability to market those products or services that may be of interest to you.
 
-We use cookies and similar technologies to support the operation of Acamar Global websites. Cookies are small amounts of data that a website sends to a web browser on a visitor's computer. Our cookies help us to collect information about visitors to Acamar Global websites, including date and time of visits, pages viewed, amount of time spent on our sites, or general information about the device used to access the site. Acamar Global cookies are also used for security purposes and to personalize your experience, such as customizing your screen layout. You can refuse or delete cookies. Most browsers and mobile devices offer their own settings to manage cookies. If you refuse a cookie when on an Acamar Global website, or if you delete cookies, you may experience some inconvenience in your use of Acamar Global websites. For example, you may not be able to sign in and access your account, or we may not be able to recognize you, your device, or your online preferences. Both Acamar Global and third-party service providers we hire may use cookies and other technologies, such as web beacons or pixel tags, in online advertising as described below. We do not share personally identifiable information about our customers with these third-party service providers, and these service providers do not collect such information on our behalf.
+_Web Site Usage Information_
 
-**Advertising on non-Acamar Global websites**
+AcamarGlobal.com automatically collects IP addresses and web site usage information from you when you visit the AcamarGlobal.com web site. This information helps us evaluate how our users navigate and use our web site.
 
-Acamar Global also advertises our products and services on websites not affiliated with Acamar Global. We contract with third-party advertising companies to display these ads, and they may use cookies and similar technologies to optimize the placement of our ads. We do not permit these companies to use information they collect on Acamar Global's behalf for any purpose other than to assist them with advertising Acamar Global products and services. When we hire third-party online advertising companies, they may provide you with Acamar Global advertisements that may be relevant to your interests, as determined by your activity on Acamar Global and non-Acamar Global websites. Such advertisements are known as "interest-based advertisements." You may opt-out of receiving interest-based advertisements from online advertising companies by clicking on the AdChoices icon (which appears on all Acamar Global interest-based ads) and following the opt-out instructions. For more information about interest-based advertising please see <http://www.networkadvertising.org/managing/opt_out.asp> .
+**Use of Information**
 
-**Connecting with Acamar Global on social media sites**
+AcamarGlobal.com uses personally identifiable information collected from you for the following general purposes:  
+• to fulfill your requests for specific products and services;  
+• to customize the content and advertising you see;  
+• to improve the design and content of our site;  
+• to contact you about special offers, products or services that may be of interest to you;  
+• to enter you in promotions at your specific request  
+• to provide you with customer service.
 
-Acamar Global provides experiences on social media platforms that enable online sharing and collaboration among users who have registered to use them. We may collect information you provide by interacting with us via social media, such as photographs, opinions, or Twitter handle. Any content you post, such as pictures, information, opinions, or any personal information that you make available to other participants on these social platforms, is also subject to the terms of use and privacy policies of those platforms. Please refer to them to better understand your rights and obligations with regard to such content.
+**Information Sharing and Disclosure**
 
-**Protecting children's privacy online**
+AcamarGlobal.com may share or disclose personally identifiable information about you to other companies or individuals when:  
+• we have your consent to share the information;  
+• we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards), and require these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them;  
+• We have entered into a business relationship with a third party company or an individual whom we believe and expect will conform with our Privacy Policy;  
+• we need to protect our legal rights (for example, if we are trying to collect money you owe us or we are trying to enforce our Terms of Use or other agreement with you);  
+• we must comply with applicable laws, regulations, or legal or regulatory process; or  
+• in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the AcamarGlobal.com business.  
+Aggregate information is information that we (or third party service providers on our behalf) collect about AcamarGlobal.com.com web site users on an anonymous basis. We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties.
 
-Acamar Global websites are not directed to individuals under the age of thirteen (13). Acamar Global does not intentionally collect information on Acamar Global websites from those we actually know are under 13, and we request that these individuals do not provide personal information through the sites.
+**Cookies**
 
-**Additional information**
+AcamarGlobal.com (or third party service providers on our behalf) may set and access cookies on your computer. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. AcamarGlobal.com uses cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to identify you as a registered user, personalize your experience at our site, save your password in password-protected areas, and display relevant content, products, services and advertising. To the extent that AcamarGlobal.com utilizes third party service providers to set and access cookies on the computer of our web site users on behalf of AcamarGlobal.com, AcamarGlobal.com requires such service providers to agree to maintain the confidentiality of the information collected and not to use such information for any reason except to carry out the purpose(s) for which we hired them.  
+We use reputable third parties to present or serve some or all of the advertisements on our web site. These third party network advertisers may set and access their own cookies on your computer. The use of cookies by third parties is subject to such third party’s own privacy policies.  
+Most browsers are initially set up to accept cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to reject cookies. If you set your browser to reject cookies, you may not be able to take advantage of certain features offered through our web site.
 
-If you are a former customer, these policies also apply to you; we treat your information with the same care as we do information about current customers.  
-Acamar Global offers several options for accessing and, if necessary, correcting your account information. You can review your information using your statements, or through our automated telephone or Internet services. You may also write or call us with your request for information. If we serve you through an investment professional, please contact them directly. Specific Internet addresses, mailing addresses and telephone numbers are listed on your statements and other correspondence.
+**Security**
+
+Your AcamarGlobal.com registration information is password-protected for your privacy and security. The personally identifiable information we collect about you is stored in limited access servers. We maintain (directly and through our agents) physical, electronic and procedural security safeguards to protect your personally identifiable information.
+
+**Review and Correction**
+
+AcamarGlobal.com in the future will offer registered users the online ability to correct or update information that we have collected during the registration process. Currently we don’t offer such a feature and will inform you once we do.
+
+**Children**
+
+Due to the financial nature of our business, our web site is not designed to appeal to children under the age of 13. AcamarGlobal.com does not knowingly solicit any information from children nor do we knowingly market or otherwise target the AcamarGlobal.com web site or its products or services to children. If you are under the age of 13, please do not attempt to use or register on our web site.
+
+**Transfer to U.S.**
+
+If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By registering with AcamarGlobal.com, you consent to this transfer.
+
+**Changes to Privacy Policy**
+
+AcamarGlobal.com may change this policy from time to time without notice. Any changes to this policy will be promptly posted on this web site so we encourage you to refer back to this policy each time that you visit. Your use of AcamarGlobal.com®’s web site after any changes have been posted will constitute your agreement to the modified Privacy Policy.  
+ _ _ **\- See more at:[http://AcamarGlobal.com/privacy/](http://acamarglobal.com/privacy/)**__
