@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restodb.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716150441id_/http%3A//restodb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restodb.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405230902id_/http%3A//restodb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Restaurant and Dining Guide - Directory, Review, Articles, Photos
 
