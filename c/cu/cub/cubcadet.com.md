@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubcadet.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825213321id_/http%3A//www.cubcadet.com/equipment/CubCadetFullPageArticleDisplayView%3FlangId%3D-1%26storeId%3D10051%26catalogId%3D14101%26pageView%3DCubcadet_General/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubcadet.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405160940id_/http%3A//www.cubcadet.com/equipment/CubCadetFullPageArticleDisplayView%3FlangId%3D-1%26storeId%3D10051%26catalogId%3D14101%26pageView%3DCubcadet_General/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Welcome to Cub Cadet
 
