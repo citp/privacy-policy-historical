@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedeadbolt.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130015728id_/http%3A//www.thedeadbolt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedeadbolt.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406112245id_/http%3A//www.thedeadbolt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
