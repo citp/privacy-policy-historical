@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the now-events.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164553id_/http%3A//now-events.net/files/privacy.php%3Fcountry%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the now-events.net privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406185036id_/http%3A//gb.now-events.net/files/privacy.php) for the most accurate reproduction.*
 
 # Events Information What's new [Now Events] - Find your local events information
 
