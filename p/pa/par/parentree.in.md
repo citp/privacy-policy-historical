@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentree.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143957id_/http%3A//www.parentree.in/do/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentree.in privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406041649id_/http%3A//www.parentree.in/do/privacypolicy) for the most accurate reproduction.*
 
 # Parentree - Privacy POlicy
 
@@ -82,4 +82,4 @@ The Sites are not directed to anyone under the age of 18. We do not knowingly co
 
 If you have any questions about this Privacy Policy or need to contact us about privacy, please email to support [at] parentree.in 
 
-All Rights Reserved Copyright © 2008-2014 Parentree
+All Rights Reserved Copyright © 2008-2015 Parentree
