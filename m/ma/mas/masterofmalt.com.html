@@ -1,18 +1,21 @@
-<!--The following is the downloaded HTML source of the masterofmalt.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120225916id_/http%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the masterofmalt.com privacy policy that was archived on 2015-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150406111100id_/https%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#"><head id="ctl00_Head1"><script async="" charset="utf-8" src="//cdn.zopim.com/?kJO4BBKzd15D7P2L0danoTHTSY8sNO32" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"819cd4f734","applicationID":"4484612,4484613","transactionName":"NVwEYhNWWkNWBUwLXgwWKFkTWlVcXhxdBh5I","queueTime":0,"applicationTime":18,"ttGuid":"34875698705E64AC","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" class="no-js"><head id="Head1"><title>
 	Privacy Policy - Master of Malt
 </title>    
-    <script type="text/javascript">
+    <script async="" charset="utf-8" src="//cdn.zopim.com/?kJO4BBKzd15D7P2L0danoTHTSY8sNO32" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+        document.domain = 'masterofmalt.com';
         // THIS IS THE GLOBAL MOM OBJECT
         // TODO: Load from Config.
         var mom = mom || {};
         mom.routes = {};
         mom.routes.privateAPI = 'https://admin.atom2.local/webapi/';
+        mom.modules = {};
         mom.browsers = {
             currentBrowserIsIE7: false,
-            currentBrowserIsIE8: false
+            currentBrowserIsIE8: false,
+            currentBrowserIsIE9: false
         };
         // END GLOBAL MOM OBJECT
 
@@ -26,7 +29,7 @@
             isRetina          = false,
             BasketID          = "",            
             
-            ProductsInBasketJSArray = {};
+        ProductsInBasketJSArray = {};
     </script>
     
     <!--[if IE 7]>
@@ -36,9 +39,11 @@
         <script src="/javascript/ie8-polyfill.js"></script>
         <script>  mom.browsers.currentBrowserIsIE8 = true; </script>
     <![endif]-->
+    <!--[if IE 9]>
+        <script>  mom.browsers.currentBrowserIsIE9 = true; </script>
+    <![endif]-->
     
-    <link rel="stylesheet" type="text/css" href="http://cdn2.masterofmalt.com/Css/crushed/crushed_master.css?r=AAxWTIEWp9OmIV7YUeWYHQ==" media="screen"><script language="javascript" type="text/javascript" src="http://cdn3.masterofmalt.com/Javascript/crushed/crushed_master.js?r=T5JVjBEgA2XvSAN2SGRQ1g=="></script>
-    <script src="/javascript/jAjax.js" type="text/javascript"></script>
+    <link href="https://cdn2.masterofmalt.com/Css/crushed/crushed_master-c4898677.css" type="text/css" rel="stylesheet"><script src="https://cdn1.masterofmalt.com/Javascript/crushed/master.min-fa2a1445.js" type="text/javascript"></script>
 <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">  
         <link href="https://plus.google.com/111714992030919294968" rel="publisher">
     
@@ -54,20 +59,20 @@
             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
                 (i[r].q = i[r].q || []).push(arguments)
             }, i[r].l = 1 * new Date(); a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
         ga('create', 'UA-287678-1', 'masterofmalt.com');
-	    ga('require', 'displayfeatures');
+        ga('require', 'displayfeatures');
         ga('send', 'pageview');
     </script>
     
-<link rel="canonical" href="http://www.masterofmalt.com/privacy-policy/">
+<link rel="canonical" href="https://www.masterofmalt.com/privacy-policy/">
 </head>
 <body>    
     
     
-    <form name="aspnetForm" method="post" action="/privacy-policy/" id="aspnetForm">
+    <form name="AspNetForm" method="post" action="/privacy-policy/" id="AspNetForm">
 <div>
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM0MjY5MDQwMWRkfjTnSMQcA4OLD1wn7KnqpU/XfGk=">
 </div>
@@ -80,10 +85,10 @@
     
     
 
-    <input name="ctl00$hidSessionTimeOut" type="hidden" id="ctl00_hidSessionTimeOut" value="1471168928">
+    <input name="ctl00$hidSessionTimeOut" type="hidden" id="hidSessionTimeOut" value="1471168928">
 
     
-    <div id="ctl00_ctl03_partnerHeaderContent" class="partnerHeaderContent"></div>
+    <div id="ctl03_partnerHeaderContent" class="partnerHeaderContent"></div>
 
 
 
@@ -103,21 +108,17 @@
             <div class="headerWrap">
                 <div class="headerLeft">
                     <div itemscope="" itemtype="http://schema.org/Organization">
-                        <a href="http://www.masterofmalt.com/" id="ctl00_siteLogoAnchor" itemprop="url">
-                            <img src="http://cdn2.masterofmalt.com/images/dnp/logo.png" id="ctl00_siteLogoImg" itemprop="logo" class="logoImg" alt="Master of Malt">
+                        <a href="https://www.masterofmalt.com/" id="siteLogoAnchor" itemprop="url">
+                            <img src="https://cdn2.masterofmalt.com/images/dnp/logo.png" id="siteLogoImg" itemprop="logo" class="logoImg" alt="Master of Malt">
                         </a>
                         
                     </div>
-                    <img src="http://cdn1.masterofmalt.com/Images/dnp/international/flags/57-logo-flag.png" id="ctl00_internationalBackground">
+                    <img src="https://cdn1.masterofmalt.com/Images/dnp/international/flags/57-logo-flag.png" id="internationalBackground">
                 </div>                
-
                 
-                
-                
-
-                <div id="ctl00_div_Header_middle" class="headerMiddle">
-                    <a href="http://www.masterofmalt.com/Blog/post/Global-Online-Whisky-Retailer-of-the-Year-Worlds-Best-Blended-Whisky-more.aspx" id="ctl00_headerAwardImg"><img src="http://cdn3.masterofmalt.com/images/dnp/iconsOfWhisky.png" alt="Online Retailer of the Year"> </a>   
-                    <a href="http://www.masterofmalt.com/samples/" id="ctl00_headerDramImg"><img src="http://cdn3.masterofmalt.com/images/dnp/we_do_samples.png" alt="We do samples! Try before you buy!"> </a>              
+                <div id="div_Header_middle" class="headerMiddle">
+                    <a href="/Blog/post/Global-Online-Whisky-Retailer-of-the-Year-Worlds-Best-Blended-Whisky-more.aspx" id="headerAwardImg"><img src="https://cdn3.masterofmalt.com/images/dnp/iconsOfWhisky.png" alt="Online Retailer of the Year"> </a>   
+                    <a href="/samples/" id="headerDramImg"><img src="https://cdn3.masterofmalt.com/images/dnp/we_do_samples.png" alt="We do samples! Try before you buy!"> </a>              
                 </div>
                 <div class="headerRight">
                     
@@ -127,34 +128,34 @@
     
     <a id="cartHeadDelivery" href="/delivery/">Delivery</a>
     
-    <a onclick="ShowLoginBox(); return false;" id="ctl00_ucCart_lnkLogin" name="loginLink" href="javascript:__doPostBack('ctl00$ucCart$lnkLogin','')">Login</a>
+    <a onclick="ShowLoginBox(); return false;" id="ucCart_lnkLogin" name="loginLink" href="javascript:__doPostBack('ctl00$ucCart$lnkLogin','')">Login</a>
     <div id="loginContainer"></div>   
     
-    <a href="/blog/" id="ctl00_ucCart_cartheaderBlog">Blog</a>
+    <a href="/blog/" id="ucCart_cartheaderBlog">Blog</a>
     <a id="cartHeadContact" href="/contact-us/">Contact</a>
-    <a id="ctl00_ucCart_lnkTradeLogon" href="javascript:__doPostBack('ctl00$ucCart$lnkTradeLogon','')">Trade</a>
+    <a id="ucCart_lnkTradeLogon" href="javascript:__doPostBack('ctl00$ucCart$lnkTradeLogon','')">Trade</a>
     
     <span class="cartHeadTelefone icon_phone">+44 (0)1892 888 376</span>         
 </div>
 
-<div id="ctl00_ucCart_cartHeadWrap" class="cartHeadWrap right cartHeadMiddleLine">
+<div id="ucCart_cartHeadWrap" class="cartHeadWrap right cartHeadMiddleLine">
     <div class="cartHeadIn">
         <table id="tblCart">
             <tbody><tr>
-                <td class="txt_left"><a href="javascript:GoTocart()" id="ctl00_ucCart_cartHeadBasket" target="_parent" class="cartHeadAnchor icon_basket" title="My shopping basket">My Basket</a></td>
+                <td class="txt_left"><a href="javascript:GoTocart()" id="ucCart_cartHeadBasket" target="_parent" class="cartHeadAnchor icon_basket" title="My shopping basket">My Basket</a></td>
                 
                 <td style="border-right:0">
-                    <div onclick="javascript:GoTocart()" style="display:inline">Total<span id="ctl00_ucCart_cartHeadTotal" class="cartHeadTotal">$0.00</span></div>
+                    <div onclick="javascript:GoTocart()" style="display:inline">Total<span id="ucCart_cartHeadTotal" class="cartHeadTotal">$0.00</span></div>
                 </td>
-                <td id="ctl00_ucCart_td_currencyDropDown">
+                <td id="ucCart_td_currencyDropDown">
                     <div id="currencyDropDownTip">
                         <div class="allRoundedBorders left currencyDropDownTipText">
                             <div>You can change the currency displayed here.</div>
                             <div id="currencyDropDownClose">click to close</div>
                         </div>
-                        <img src="http://cdn2.masterofmalt.com/Images/dnp/international/dropDownArrow.png" class="right currencyDropDownArrow">
+                        <img src="https://cdn2.masterofmalt.com/Images/dnp/international/dropDownArrow.png" class="right currencyDropDownArrow">
                     </div>
-                    <select name="ctl00$ucCart$ddl_Currency" id="ctl00_ucCart_ddl_Currency" class="CurrencyDD">
+                    <select name="ctl00$ucCart$ddl_Currency" id="ucCart_ddl_Currency" class="CurrencyDD">
 	<option value="-1">GBP (£)</option>
 	<option selected="selected" value="57">USD ($)</option>
 	<option value="16">EUR (€)</option>
@@ -167,7 +168,7 @@
                 <td style="border-right:0">
                     <div style="text-align: right;">
                         <div class="arrRight2 cartArrow"></div>
-                        <a id="ctl00_ucCart_cartHeadBasketCheckout" class="cartHeadAnchor" onclick="javascript:GoTocart()">Checkout</a>                         
+                        <a id="ucCart_cartHeadBasketCheckout" class="cartHeadAnchor" onclick="javascript:GoTocart()">Checkout</a>                         
                         
                      </div>
                 </td>                        
@@ -181,11 +182,8 @@
                         
 
 
-
-
-
 <div class="searchHeadWrap">
-    <div class="searchHeadInput"><input name="ctl00$ucSearch$ucSearch_searchHeadInput" type="text" id="ctl00_ucSearch_ucSearch_searchHeadInput" autocomplete="off" class="searchHeadInputField" onkeydown="return Search(event)" onkeyup="searchBoxActivated()" onfocus="searchBoxActivated()"></div>    
+    <div class="searchHeadInput"><input name="ctl00$ucSearch$ucSearch_searchHeadInput" type="text" id="ucSearch_ucSearch_searchHeadInput" autocomplete="off" class="searchHeadInputField" onkeydown="return Search(event)" onkeyup="searchBoxActivated()" onfocus="searchBoxActivated()"></div>    
     <div class="searchHeadMagny magny" onclick="Search('do')" title="Search"></div>
     <div class="searchHeadWord"><div class="arrRight2 cartArrow"></div><a class="cartHeadAnchor" href="/search/">Go to Advanced Search</a></div>
     <div class="cb"></div>
@@ -212,21 +210,20 @@
           <ul>
             <div style="float:left"></div>
 
-            <li id="menuGiftIdeas"><div></div><a href="http://www.masterofmalt.com/gift-ideas/" rel="subMenuAll">Gift Ideas</a></li>
-            <li id="menuScotchWhisky"><div></div><a href="http://www.masterofmalt.com/country/scotch-whisky/" rel="subMenuAll">Scotch Whisky</a></li>
-            <li id="menuOtherWhisky"><div></div><a href="http://www.masterofmalt.com/world-whisky/" rel="subMenuAll">World Whisky</a></li>
-            <li id="menuOtherSpirits"><div></div><a href="http://www.masterofmalt.com/spirits/" rel="subMenuAll">Other Spirits</a></li>
-            <li id="menuLiqueurs"><div></div><a href="http://www.masterofmalt.com/liqueurs/" rel="subMenuAll">Liqueurs</a></li>
-            <li id="menuOtherDrinks"><div></div><a href="http://www.masterofmalt.com/distilleries-and-brands/" rel="subMenuAll">Other Drinks</a></li>
-            <li id="menuWine"><div></div><a href="http://www.masterofmalt.com/wine-and-champagne/" rel="subMenuAll">Wine &amp; Champagne</a></li>
-            <li id="menuSamples"><div></div><a href="http://www.masterofmalt.com/samples/" rel="subMenuAll">Samples</a></li>
-            
-            <li id="menuOthers"><div></div><a href="http://www.masterofmalt.com/other-products/" rel="subMenuAll">Other</a></li>
+            <li id="menuGiftIdeas"><div></div><a href="https://www.masterofmalt.com/gift-ideas/" rel="subMenuAll">Gift Ideas</a></li>
+            <li id="menuScotchWhisky"><div></div><a href="https://www.masterofmalt.com/country/scotch-whisky/" rel="subMenuAll">Scotch Whisky</a></li>
+            <li id="menuOtherWhisky"><div></div><a href="https://www.masterofmalt.com/world-whisky/" rel="subMenuAll">World Whisky</a></li>
+            <li id="menuOtherSpirits"><div></div><a href="https://www.masterofmalt.com/spirits/" rel="subMenuAll">Other Spirits</a></li>
+            <li id="menuLiqueurs"><div></div><a href="https://www.masterofmalt.com/liqueurs/" rel="subMenuAll">Liqueurs</a></li>
+            <li id="menuOtherDrinks"><div></div><a href="https://www.masterofmalt.com/other-drinks/" rel="subMenuAll">Other Drinks</a></li>
+            <li id="menuWine"><div></div><a href="https://www.masterofmalt.com/wine-and-champagne/" rel="subMenuAll">Wine &amp; Champagne</a></li>
+            <li id="menuSamples"><div></div><a href="https://www.masterofmalt.com/samples/" rel="subMenuAll">Samples</a></li>
+            <li id="menuOthers"><div></div><a href="https://www.masterofmalt.com/other-products/" rel="subMenuAll">Other</a></li>
           </ul>  
         </div>
         
         <div id="subMenuAll">
-            <iframe id="menuFrame" frameborder="0" scrolling="no" src="/Menus.aspx" allowtransparency="true"></iframe>
+            <iframe id="menuFrame" frameborder="0" scrolling="no" src="https://cdn2.masterofmalt.com/Menus.aspx?c=0305111923" allowtransparency="true"></iframe>
         </div>
         
     </div>
@@ -240,95 +237,62 @@
             <noscript><div style="color:White;background-color:Red; font-size:14px;">Please note: Javascript must be enabled for you to use this website properly.</div></noscript>
             <div id="DivCookie" style="color:White;background-color:Red; font-size:14px; display:none;"></div>            
             
-<div id="ctl00_ContentPlaceHolder1_ctl00_breadcrumbs" class="breadCrumb"><span itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.masterofmalt.com/" itemprop="url"><span itemprop="title">Home</span></a></span> &gt; <span itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">Privacy Policy</span></div>
+<div id="ContentPlaceHolder1_ctl00_breadcrumbs" class="breadCrumb"><span itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://www.masterofmalt.com/" itemprop="url"><span itemprop="title">Home</span></a></span> &gt; <span itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">Privacy Policy</span></div>
 <div class="pageIn">
 <h1>Privacy Policy</h1>
     <div class="staticWrap">
-        <div class="privacyBox pageCopy">
-            <p>
-            We are committed to protecting your privacy. We will only use the information that
-            we collect about you lawfully (in accordance with the UK Data Protection Act 1998).
-            </p>
-            <p>
-            We collect information about you for 2 reasons: firstly, to process your order and
-            second, to provide you with the best possible service.
-            </p>
-            <p>
-            We will not e-mail you in the future unless you have given us your consent.
-            </p>
-            <p>
-            We will give you the chance to unsubscribe from any marketing email from us in the
-            future.
-            </p>
-            <p>
-            The type of information we will collect about you may include your:
-            </p>
-            <ul>
-                <li>Name</li>
-                <li>Address</li>
-                <li>Phone number</li>
-                <li>Email address</li>
-                <li>Credit/debit card details</li>
-            </ul>            
-            <p>
-            We will never collect sensitive information about you without your explicit consent.
-            The information we hold will be accurate and up to date. You can check the information
-            that we hold about you by emailing us. If you find any inaccuracies we will delete
-            or correct them promptly.
-            </p>
-            <p>
-            The personal information which we hold will be held securely in accordance with
-            our internal security policy and the law and the Which? Web Trader Code. If we intend
-            to transfer your information outside the EEA (European Economic Area) we will always
-            obtain your consent first. We may use technology to track how visitors use our site.
-            </p>
-            <p>
-            This can include using a "cookie" which would be stored on your browser. You can
-            usually modify your browser to prevent this happening. The information collected
-            in this way can be used to identify you unless you modify your browser settings.
-            Please read on for more information about our cookie usage.
-            </p>
-            <p>
-            If you have any questions/comments about privacy, <a href="/contact-us/">please get in touch.</a>
-            </p><h2>Cookies – what are they?</h2>
-            <p>
-                A “cookie” is a small text file that’s stored on your computer, tablet or phone
-                when you visit a website.
-            </p>
-            <p>
-                Some cookies are deleted when you close down your browser. These are known as <i>session
-                    cookies.</i> Others remain on your device until they expire or you delete them
-                from your cache. These are known as <i>persistent cookies</i> and enable us to remember
-                things about you as a returning visitor.
-            </p>
-            <p>
-                For more information about cookies, please visit <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org.</a>
-                Alternatively, you can search the internet for other independent information on
-                cookies.
-            </p>
-            <h2>Cookies – how we use them</h2>
-            <p>
-                If you delete cookies relating to this website we will not remember things about
-                you, including your cookie preferences, and you will be treated as a first-time
-                visitor the next time you visit the site.
-            </p>
-            <br>
-              <p>We use cookies to:</p>
-            <ul>
-                <li>Keep track of your shopping basket</li>
-                <li>Allow you to login to your account to provide additional services</li>
-                <li>Remember choices such as dismissing notifications</li>
-                <li>Customize the website to be more relevant to you, such as displaying prices in your country's currency</li>
-            </ul>
-            <p>
-            Additionally we use 'analytics' cookies to help us make our website better for those who visit it regularly by telling us what users like and don't like, enabling us to improve the website to suit your needs.
-            </p> 
-            <p>
-                By accessing this website, you agree that we can place cookies on your device. You
-                can disable cookies completely by changing your browser settings; however some areas
-                of the site will not be accessible or may not function properly.
-            </p>                                 
-        </div>
+        <div class="pageCopy">
+	<style>
+		.uppercase {
+			text-transform: uppercase;
+		}
+	</style>
+	<h2 class="uppercase">Please Read The Following Carefully Before Using This Website</h2><h2>
+	</h2><h3 class="uppercase">summary</h3>
+	<ul>
+		<li>This page sets out our approach to your information and cookies.</li>
+		<li>We also have general rules about our website (which can be found <a href="https://www.masterofmalt.com/terms-of-use">here</a>) and rules relating to how our website is to be used (which can be found <a href="https://www.masterofmalt.com/acceptable-use-policy">here</a>).</li>
+		<li>We take your privacy very seriously indeed. If you don’t want us to contact you for promotional purposes, we won’t (we will, of course, communicate with you in connection with any order which you have placed, including order confirmation e-mails). We will never sell your information.</li>
+		<li>We collect information to allow you to place orders with us and to improve your experience using our website.</li>
+		<li>You can always find out what information we hold about you.</li>
+		<li>We have tried to make this page as clear as possible, but we don’t always get it right first time. If you have any questions, please <a href="https://www.masterofmalt.com/contact-us/">get in touch.</a></li>
+	</ul>
+
+	<h3 class="uppercase">introduction</h3>
+	<p>This policy (together with our terms of use (which can be found here: <a href="https://www.masterofmalt.com/terms-of-use">https://www.masterofmalt.com/terms-of-use</a>)) explains how we process personal data. Please read it carefully. By visiting <a href="www.masterofmalt.com">www.masterofmalt.com</a> (our website) you are accepting and consenting to the terms of this policy.</p>
+	<p>We are committed to protecting your privacy. We will only use the information that we collect about you in accordance with the UK Data Protection Act 1998. For the purposes of that Act, the data controller is Atom Supplies Limited, a company registered in England and Wales under company number 03193057 whose registered office is at North House, 198 High Street, Tonbridge, Kent TN9 1BE. The nominated representative is Tom McGuinness, whose principal place of business is 8a London Road, Tunbridge Wells, Kent TN1 1DA.</p>
+	<p>We will not e-mail you in the future for marketing purposes unless you have given us your consent. Any consent which you give to us for marketing purposes will apply to marketing communications issued not only by Master of Malt, but also by our affiliated brands and group companies (including, without limitation, Atom Supplies Limited, Drinks by the Dram, The Handmade Cocktail Company and Maverick Drinks).</p>
+	<p>We will always give you the chance to unsubscribe from any marketing email.</p>
+	<p>The type of information we will collect about you may include your name, address, phone number, email address and payment details.</p>
+	<p>You may give us information by filling in forms on our website or by corresponding with us by phone or e-mail. You will provide information to us when you register to use our website, subscribe to any update service, search for a product, place an order, participate in social media functions or enter a competition or promotion.</p>
+	<p>We also collect technical information relating to your use of our website (including the IP address used to connect to the internet) and to your experience using our website (including the full URL clickstream to, through and from our site, download errors, methods used to browse away from each page and any phone number used to call our customer service number). In basic terms, we will collect as much information about your use of our website as we possibly can. In our experience, this is the best way of improving the experience of visitors to the website. Oh, and just because other websites don’t tell you that they do this, doesn’t mean that they don’t!</p>
+	<p>As part of our participation in Google’s Certified Shops Programme, certain information relating to transactions undertaken on our website will be collected and processed. We provide transaction information to Google to demonstrate that we deliver orders on time, have low occurrence of customer issues, and resolve customer issues quickly.</p>
+	<p>Technical information can be collected using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening, if you wish. The information collected in this way can be used to identify you unless you modify your browser settings. </p>
+	<p>We will never collect sensitive information about you without your explicit consent. Sensitive information includes information relating to your health and religion. We will use our reasonable endeavours to ensure that any information which we do hold will be accurate and up to date. </p>
+	<p>You can make a formal “data subject access request” under the Data Protection Act 1998 to access the information we hold about you. Any data subject access request may be subject to a fee of £10 to meet our costs. However, we want to make it as easy as possible for you to find out what information we hold about you, so you can check the information that we hold by simply sending us an email.  If you find any inaccuracies we will delete or correct them promptly.</p>
+	<p>The personal information which we hold will be held securely in accordance with our internal security policy and the law. We won’t transfer your information outside the European Economic Area without your consent. </p>
+	<p>Please be aware that the transmission of information via the internet is not completely secure. Any transmission of your data to our website is at your own risk. </p>
+	<p>Our website may, from time to time, contain carefully chosen links to the sites of third parties. If you follow a link to any of these sites, please note that these sites will have their own privacy policies and that we do not accept any liability for these sites. Please check these policies before you submit any personal data to these sites.</p>
+	<p>Please check back frequently to see any updates or changes to the privacy policy.</p>
+	<p>If you have any questions/comments about privacy, please <a href="https://www.masterofmalt.com/contact-us/">get in touch.</a></p>
+
+	<h3 class="uppercase">cookies - what are they?</h3>
+	<p>A “cookie” is a small text file that’s stored on your device when you visit a website. Using cookies helps us to provide you with a good experience when you browse our website. By continuing to browse the website, you agree to our use of cookies.</p>
+	<p>Some cookies are deleted when you close down your browser. Others remain on your device until they expire or you delete them from your cache. These enable us to remember things about you as a returning visitor.</p>
+	<p>For more information about cookies, please visit <a href="www.allaboutcookies.org">www.allaboutcookies.org</a>. Alternatively, you can search the internet for other independent information on cookies.</p>
+
+	<h3 class="uppercase">cookies - how we use them</h3>
+	<p>We use cookies to:</p>
+	<ul>
+		<li>keep track of your shopping basket;</li>
+		<li>allow you to login to your account;</li>
+		<li>remember your preferences; and</li>	 
+		<li>customise the website to be more relevant to you, (like displaying prices in your country's currency).</li>
+	</ul>
+	<p>Additionally, we use 'analytics' cookies to help us make our website better by telling us what users like and don't like.</p>
+	<p>You can disable cookies completely by changing your browser settings; however some areas of our website will not be accessible or may not function properly. You can also delete cookies relating to our website, but if you do so we will not remember things about you.</p>
+	<p>Finally, please note that third parties (including providers of external services like web traffic analysis services) may also use cookies. Google also places and reads cookies on the browsers of users of our website (and may also use web beacons and similar technologies) to collect information relevant to the Google Certified Shops Programme. We have no control over these third parties..</p>
+</div>
     </div>
 </div>
 
@@ -338,7 +302,7 @@
         <!-- Cookie Box -->
         <div id="cookiePopup" class="boxBgr cookieNoticePopUp">
             <img src="/images/dnp/closeBtn.png" style="cursor:pointer; position:absolute; top: 5px; right: 5px" onclick="hideCookieNotice();">
-            We use cookies to help provide you with the best possible online shopping experience. By using this site, you agree that we may store and access cookies on your device.<br>Visit our <a href="/privacy-policy" onclick="hideCookieNotice();">privacy policy</a> page for more information.
+            We use cookies to help provide you with the best possible online shopping experience. By using this site, you agree that we may store and access cookies on your device.<br>Visit our <a href="/privacy-policy/" rel="nofollow" onclick="hideCookieNotice();">privacy policy</a> page for more information.
         </div>
     </div>
 
@@ -371,14 +335,14 @@
             </div>
             <div class="footerLinks" style="width: 23%">
                 <span style="margin-right:0px">Legal Information</span>            
-                <a href="/privacy-policy/">Privacy Policy</a>
-                <a href="/terms-and-conditions/">Terms &amp; Conditions</a> 
-                <div>© 2014 Master of Malt.com</div>
-                <a href="#" style="text-align:right"><i>Back to top</i><img class="footerBack2Top" src="/images/dnp/arrUp.gif"></a>
+                <b><a href="/important-allergen-information/" rel="nofollow">Important Allergen Information</a></b>
+                <a href="/the-legal-stuff/" rel="nofollow">The Legal Stuff</a>                
+                <div>© 2015 Master of Malt.com</div>
+                <a href="#" style="text-align:right"><i>Back to top</i><div style="padding-top:0;" class="footerBack2Top"><span class="sprite_arrUp" style="display:inline-block; margin:0; border-bottom:none;"></span></div></a>
             </div>
         </div>
         <br>
-        <div id="ctl00_ucFooter_currencyDisclaimer" class="currencyDisclaimer">The prices currently being shown in USD are approximate, and should be used for illustrative purposes only.  All prices are in GBP and all orders are charged in GBP. The order total – the amount you will actually be charged – will be displayed in GBP before you place your order. <a href="javascript:showCurrencyDropDownTip();">Click here to change your currency</a>.</div>
+        <div id="ucFooter_currencyDisclaimer" class="currencyDisclaimer">The prices currently being shown in USD are approximate, and should be used for illustrative purposes only.  All prices are in GBP and all orders are charged in GBP. The order total – the amount you will actually be charged – will be displayed in GBP before you place your order. <a href="javascript:showCurrencyDropDownTip();">Click here to change your currency</a>.</div>
         <div class="footerLinksBottomCont">
             <div class="footerLinksBottom">
                 <div class="footerLinks2"> 
@@ -407,12 +371,12 @@
             <span>Master of Malt supports responsible drinking - Sip, don't Gulp. </span>  
         </div>
         <div class="cb"></div>
-        <div style="font-size: 12px; margin-bottom: 10px;">ATOM Supplies Ltd trading as Master of Malt.  Registered office: North House, 198 High Street, Tonbridge, TN9 1BE. Registered in England &amp; Wales. Company number 3193057, VAT number GB 662241553.</div>
+        <div id="legalFluff" style="font-size: 12px; margin-bottom: 10px;">ATOM Supplies Ltd trading as Master of Malt.  Registered office: North House, 198 High Street, Tonbridge, TN9 1BE. Registered in England &amp; Wales. Company number 3193057, VAT number GB 662241553.</div>
     </div> 
     
     <script type="text/javascript">
         var currencySymbol = "&#36;";
-        var exchangeRate = 1.56718;
+        var exchangeRate = 1.49260;
         var tradeGroupID = 0;   
     </script>        
 </div>
@@ -420,26 +384,24 @@
     </form>
 
     <script type="text/javascript" defer="defer">
-    var to;
-    $().ready(function() {
-    to = setTimeout("TimedOut()", $("#ctl00_hidSessionTimeOut").val());
-    });
+        var to;
+        $().ready(function() {
+            to = setTimeout("TimedOut()", $("hidSessionTimeOut").val());
+        });
 
-    function TimedOut() {
-    
-        $.post(GetDomainName(window.location.href) + "reconnect.aspx", null,
-            function(data) {
-                if (data == "success") {
-                    to = setTimeout("TimedOut()", $("#ctl00_hidSessionTimeOut").val());
+        function TimedOut() {    
+            $.post(window.location.origin + "/reconnect.aspx", null,
+                function(data) {
+                    if (data == "success") {
+                        to = setTimeout("TimedOut()", $("#hidSessionTimeOut").val());
                 
+                    }
                 }
-            }
-        );
-        //to = setTimeout("TimedOut()", $("#ctl00_hidSessionTimeOut").val());
-    }
+            );
+        }
 
-    CheckDivCookie();
-    DefineOnLoad();
+        CheckDivCookie();
+        DefineOnLoad();
     </script>
 
     
@@ -458,4 +420,4 @@
 <!--<![endif]-->
 
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
