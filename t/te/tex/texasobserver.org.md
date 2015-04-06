@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasobserver.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217223501id_/http%3A//www.texasobserver.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasobserver.org privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406082355id_/http%3A//www.texasobserver.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Texas Observer
 
