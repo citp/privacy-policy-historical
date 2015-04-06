@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713192303id_/http%3A//zenplanner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406101632id_/http%3A//zenplanner.com/privacy-policy) for the most accurate reproduction.*
 
 # Fitness Scheduling Software - Privacy Policy | Zen Planner
 
