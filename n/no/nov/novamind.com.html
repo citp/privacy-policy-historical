@@ -1,0 +1,506 @@
+<!--The following is the downloaded HTML source of the novamind.com privacy policy that was archived on 2015-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150406111009id_/https%3A//www.novamind.com/novamind/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]--><head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAYDVFJQGwcCVFlTDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+        
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="pingback" href="https://www.novamind.com/xmlrpc.php">
+        <!--[if lt IE 9]>
+        <script src="https://www.novamind.com/wp-content/themes/novamind/js/html5.js"></script>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+
+        
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>NovaMind Privacy Policy - NovaMind.com</title>
+<meta name="description" content="Read this article to find out how to take notes effectively using Mind Mapping techniques.">
+<link rel="canonical" href="https://www.novamind.com/novamind/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="NovaMind Privacy Policy - NovaMind.com">
+<meta property="og:description" content="Read this article to find out how to take notes effectively using Mind Mapping techniques.">
+<meta property="og:url" content="https://www.novamind.com/novamind/privacy-policy/">
+<meta property="og:site_name" content="NovaMind.com">
+<meta property="article:publisher" content="https://www.facebook.com/novamind">
+<meta property="fb:admins" content="741907779">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="NovaMind.com » Feed" href="https://www.novamind.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="NovaMind.com » Comments Feed" href="https://www.novamind.com/comments/feed/">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//www.novamind.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.2.10" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.novamind.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.2.10" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//www.novamind.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.2.10" type="text/css" media="all">
+<link rel="stylesheet" id="novamind-lato-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic" type="text/css" media="all">
+<link rel="stylesheet" id="genericons-css" href="https://www.novamind.com/wp-content/themes/novamind/genericons/genericons.css?ver=3.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="novamind-style-css" href="https://www.novamind.com/wp-content/themes/novamind-child/style.css?ver=4.1.1" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='novamind-ie-css'  href='https://www.novamind.com/wp-content/themes/novamind/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="wp-downloadmanager-css" href="https://www.novamind.com/wp-content/plugins/wp-downloadmanager/download-css.css?ver=1.64" type="text/css" media="all">
+<script type="text/javascript" src="https://ssl.p.jwpcdn.com/6/11/jwplayer.js?ver=4.1.1"></script>
+<script type="text/javascript" src="https://www.novamind.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="https://www.novamind.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="https://www.novamind.com/wp-content/themes/novamind-child/js/jquery.client.js?ver=4.1.1"></script>
+<script type="text/javascript" src="https://www.novamind.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.8"></script>
+<meta name="generator" content="WordPress 4.1.1">
+<meta name="generator" content="WooCommerce 2.2.10">
+<!-- Favicon Rotator -->
+<link rel="shortcut icon" href="https://www.novamind.com/wp-content/uploads/2014/10/favicon321-16x16.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.novamind.com/wp-content/uploads/2014/10/LogoSubscription160-114x114.png">
+<!-- End Favicon Rotator -->
+<script type="text/javascript">jwplayer.key='qQm6er1VIUv98FOgv8BltDcnj5IQANUs+MhyDA==';jwplayer.defaults = { "ph": 2 };</script>
+            <script type="text/javascript">
+            if (typeof(jwp6AddLoadEvent) == 'undefined') {
+                function jwp6AddLoadEvent(func) {
+                    var oldonload = window.onload;
+                    if (typeof window.onload != 'function') {
+                        window.onload = func;
+                    } else {
+                        window.onload = function() {
+                            if (oldonload) {
+                                oldonload();
+                            }
+                            func();
+                        }
+                    }
+                }
+            }
+            </script>
+
+            <script type="text/javascript">var ajaxurl = 'https://www.novamind.com/wp-admin/admin-ajax.php';</script><script type="text/javascript">var monthly_recurring = 6.99; var monthly_minimum = 1;var annual_recurring = 74.99; var annual_minimum = 10;var perpetual_signup = 349.99; var perpetual_minimum = 50;var product_615 = 14.99; var product_614 = 14.99; var product_613 = 14.99; var product_612 = 14.99; var product_616 = 199; var product_617 = 995; var product_618 = 130; var product_619 = 49; var product_15909 = 299; var product_15910 = 134; </script><!-- <meta name="vfbPro" version="2.4.8" /> -->
+	<style type="text/css" id="novamind-header-css">
+			.site-title,
+		.site-description {
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+			position: absolute;
+		}
+		</style>
+	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<!-- Block (281) START-->
+<script>
+( function( $ ) {
+
+$('#get-started-mobsize-link').css({'cursor': 'pointer'});
+$('#get-started-mobsize-link').click(function () {
+location.href='/download';
+});
+
+
+$('#learnmore-mobsize-link').css({'cursor': 'pointer'});
+$('#learnmore-mobsize-link').click(function () {
+location.href='/pricing';
+});
+
+}
+)( jQuery );
+ 
+</script>
+<!-- Block (281) END -->
+<!-- Google Analytics Tracking by Google Analyticator 6.4.8: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-17452979-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+        <link rel="stylesheet" id="Novamindtwelve-style-css" href="/wp-content/themes/novamind-child/style3.css?ver=3.9.1" type="text/css" media="all">
+
+        <link rel="stylesheet" id="Novamindtwelve-style-css" href="/wp-content/themes/novamind-child/style2.css?ver=3.9.1" type="text/css" media="all">
+        <link href="/wp-content/themes/novamind-child/bootstrap-dialog.min.css" rel="stylesheet" type="text/css">
+        <script src="/wp-content/themes/novamind-child/js/bootstrap-dialog.min.js"></script>
+	<script src="/wp-content/themes/novamind-child/js/bootstrap-tooltip.js"></script>
+    </head>
+    <body class="page page-id-2067 page-template-default custom-background full-width masthead-fixed singular">
+        <div id="page" class="hfeed site">
+            
+            <header id="masthead" class="site-header" role="banner">
+                <div class="header-main">
+                    <h1 class="site-title"><a href="https://www.novamind.com/" rel="home">NovaMind.com</a></h1>
+
+                    <div id="search-container" class="search-box-wrapper display-none-481">
+                        <div class="search-box">
+                            <form role="search" method="get" class="search-form" action="https://www.novamind.com/">
+                                <span class="glyphicon glyphicon-search toggle-search"></span>
+                                <input type="search" class="field-search form-control" placeholder="Search..." value="" name="s" title="Search for">
+                                <!--<input type="submit" class="submit-search" value="Search">-->
+                                <a href="/my-account/" title="My Account" data-placement="bottom" data-toggle="tooltip"><span class="glyphicon glyphicon-cog"></span></a>
+                            </form>
+                                                    </div>
+                    </div>
+                    <div class="search-toggle">
+                        <a href="#search-container" class="screen-reader-text">Search</a>
+                    </div>		
+
+                    <div class="col-xs-6 col-sm-6 dispaly-783" id="get-started-mobsize-link"><button class="btn btn-success btn-gt-strted" type="button">Install on this device  </button> </div>             
+                    <div class="col-xs-6 dispaly-481" id="learnmore-mobsize-link"><button class="btn btn-success btn-gt-strted" type="button">Learn more... </button> </div>
+
+                    <nav id="primary-navigation" class="site-navigation primary-navigation pointermenu" role="navigation">
+                        <button class="menu-toggle">Menu</button>
+
+                        <a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+                        <div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="nav-menu"><li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://www.novamind.com/">Home</a></li>
+<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-856"><a href="https://www.novamind.com/download/">Download</a></li>
+<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="https://www.novamind.com/pricing/">Pricing</a></li>
+<li id="menu-item-637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-637"><a href="https://www.novamind.com/cloud/doc/list">Cloud</a></li>
+<li id="menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394"><a href="https://www.novamind.com/mindmapping-software/">Mind Mapping</a></li>
+<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="https://www.novamind.com/products/merlin">Merlin</a></li>
+<li id="menu-item-1877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1877"><a href="https://www.novamind.com/products/mind-mapping-books/">eBooks</a></li>
+<li id="menu-item-586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-586"><a href="http://www.novamind.com/forum">Forum</a></li>
+<li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="https://www.novamind.com/support/">Support</a></li>
+<li id="menu-item-1945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1945"><a href="https://www.novamind.com/blog/">Blog</a></li>
+<li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="https://www.novamind.com/testimonials/">Testimonials</a></li>
+</ul></div>                    </nav>
+                </div>
+
+
+            </header><!-- #masthead -->
+
+
+            <div id="main" class="site-main ">
+
+<div id="main-content" class="main-content">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			
+<article id="post-2067" class="post-2067 page type-page status-publish hentry">
+	<header class="entry-header"><h1 class="entry-title">NovaMind Privacy Policy</h1></header><!-- .entry-header -->
+	<div class="entry-content">
+		<div class="container">
+<div class="col-xs-12 col-sm-12 col-md-12 col-xs-12">
+<h1 class="merlin-heading-title">NovaMind Privacy Policy</h1>
+<h3 class="merlin-heading-title" style="text-align: center;">NovaMind Software – Online Privacy Policy</h3>
+<p class="merlin-txt">NovaMind has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer) online.
+</p>
+<ol class="merlin-heading-title">
+<li style="font-weight: bold;">
+<h4 style="font-weight: bold;">Consent for Collection, Use and Disclosure</h4>
+</li>
+<p class="merlin-txt">Your use of the NovaMind site and/or your registration for NovaMind products and services constitute your consent to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the NovaMind site.
+</p>
+<p class="merlin-txt"> NovaMind may occasionally update this Privacy Policy and will post the changes at this or another specified location.
+</p>
+<p class="merlin-txt">A customer may withdraw his or her consent for collection, use and disclosure at any time. Please note that, if you do, NovaMind may suspend its provision of products and services to you.
+</p>
+<li style="font-weight: bold;">
+<h4 style="font-weight: bold;">Accountability    </h4>
+</li>
+<p class="merlin-txt">NovaMind collects, at the time of your registration and your sign-on to its web site, certain “personal information” (information that personally identifies you) which may include, but is not limited to, your name, email address, home or work address, telephone number, and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses).
+</p>
+<p class="merlin-txt">NovaMind has implemented this Privacy Policy to protect personal information received from its customers, and to respond to any inquiries. The Privacy Policy also provides that NovaMind will use appropriate means to establish a comparable level of protection for personal information which is sent for processing by third parties on NovaMind’s behalf.
+</p>
+<li style="font-weight: bold;">
+<h4 style="font-weight: bold;">Purposes for Collecting Personal Information    </h4>
+</li>
+<ol class="merlin-heading-title" type="A" style="list-style: upper-alpha;padding: unset;">
+<p class="merlin-txt">NovaMind collects and uses personal information for the following Identified Purposes:
+</p>
+<li>
+<h4>to understand customer needs regarding NovaMind’s services;</h4>
+</li>
+<li>
+<h4>to develop and provide our web site and our products and services for our customers;</h4>
+</li>
+<li>
+<h4>to fulfill your requests for products, services or information;</h4>
+</li>
+<li>
+<h4>to communicate with customers and site visitors, when necessary, and to inform customers of upgrades, as well as of other products and services available from NovaMind, its affiliates and third parties; </h4>
+</li>
+<li>
+<h4>to allow customers to access limited-entry areas of NovaMind’s site;</h4>
+</li>
+<li>
+<h4>to personalize some of our services and products for you and to deliver targeted advertisements and offers from NovaMind and third parties; </h4>
+</li>
+<li>
+<h4>to bill accounts and maintain payment records; </h4>
+</li>
+<li>
+<h4>to comply with any applicable law, regulation, legal process or government request;</h4>
+</li>
+<li>
+<h4>to respond to a legitimate claim, or to address our reasonable belief, that you are violating the rights of any third party or any of the agreements or policies that govern your use of the NovaMind site or any NovaMind product or service;</h4>
+</li>
+<li>
+<h4>to protect the services, products or rights of NovaMind, including but not limited to the security or integrity of the NovaMind site; and</h4>
+</li>
+<li>
+<h4>to identify and resolve technical problems concerning NovaMind’s site, products and services.</h4>
+</li>
+<p class="merlin-txt">If we hire other companies to provide some products or services on our behalf, then we will only provide those companies the personal information they need for the Identified Purposes, and we will limit their rights to use and further disclose your personal information as appropriate in the course of their work for us.
+</p>
+</ol>
+<li style="font-weight: bold;">
+<h4 style="font-weight: bold;">Limiting the Collection of Personal Information    </h4>
+</li>
+<p class="merlin-txt">NovaMind limits its collection of personal information to only that information which is necessary for the Identified Purposes.¬? NovaMind does not direct its site to, nor does it knowingly collect any personal information from children under the age of thirteen.
+</p>
+<p class="merlin-txt">When you visit the NovaMind web site, a cookie may be placed on your computer or the cookie may be read if you have visited the NovaMind site previously.¬? NovaMind uses cookies to allow NovaMind to determine which products and services you have already purchased so that NovaMind does not provide redundant information to you, and, if you are an NovaMind affiliate, to track NovaMind sales made to customers referred by you so that you can receive compensation under our affiliate program.¬? If you choose to not have your browser accept cookies from the NovaMind web site, you may not be able to view all the text on the screens, or to experience a personalised visit, or to subscribe to certain service and product offerings on the NovaMind site.
+</p>
+<li style="font-weight: bold;">
+<h4 style="font-weight: bold;">Disclosure, Processing and Retention     </h4>
+</li>
+<ol class="merlin-heading-title" type="A" style="list-style: upper-alpha;padding: unset;">
+<p class="merlin-txt">NovaMind does not sell, rent or disclose your personal information to anyone else, except: </p>
+<li>
+<h4> to someone you have designated to act as your agent, for one or more of the Identified Purposes (listed in Section 2, above);</h4>
+</li>
+<li>
+<h4> a very limited amount, and in very few cases, to NovaMind’s employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, suppliers and agents, acting on NovaMind’s behalf for any of the Identified Purposes;</h4>
+</li>
+<li>
+<h4> as necessary if NovaMind has reason to believe that disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with NovaMind’s rights or property, other users of NovaMind’s web site, products or services, or anyone else that could be harmed by such activities; and</h4>
+</li>
+<li>
+<h4> to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. </h4>
+</li>
+<p class="merlin-txt">In addition, as we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company. In such transactions, personal information may be one of the transferred business assets. Also, in the event that NovaMind or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
+</p>
+<p></p>
+<p class="merlin-txt">Your information may be stored and processed in Australia, the Netherlands, Germany, the United States, or in any other country in which NovaMind or its affiliates, subsidiaries or agents maintain facilities.¬? By using this web site, you consent to any such transfer of information outside of your country.
+</p>
+<p></p>
+<p class="merlin-txt">After your account becomes inactive (that is, if you request to be removed from our database), NovaMind will keep your personal information in its archives. Your information will then be used only as necessary for tax reasons or to prove NovaMind’s compliance with any applicable law.
+</p>
+</ol>
+<li style="font-weight: bold;">
+<h4 style="font-weight: bold;">Accuracy of Personal Information    </h4>
+</li>
+<p class="merlin-txt">NovaMind will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information.¬? Customers are responsible for informing NovaMind about changes to their personal information.¬?NovaMind will use new or updated personal information it receives from customers to update its own records.
+</p>
+<li style="font-weight: bold;">
+<h4 style="font-weight: bold;">Security Safeguards    </h4>
+</li>
+<p class="merlin-txt">NovaMind will use reasonable efforts to protect customers’ personal information.
+</p>
+<li style="font-weight: bold;">
+<h4 style="font-weight: bold;">Access to Personal Information    </h4>
+</li>
+<p class="merlin-txt">NovaMind will afford you a reasonable opportunity to review the personal information in your file, if you so request by writing to:
+</p>
+<p class="merlin-txt">NovaMind Software
+</p>
+<p class="merlin-txt">3/61 Commercial Dr
+</p>
+<p class="merlin-txt"> Shailer Park
+</p>
+<p class="merlin-txt"> QLD 4128
+</p>
+<p class="merlin-txt"> Australia
+</p>
+<p class="merlin-txt">If NovaMind is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney-client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
+</p>
+<p class="merlin-txt"> Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting NovaMind as described above. NovaMind will promptly correct such personal information.
+</p>
+</ol>
+</div>
+</div>
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	</div><!-- #main-content -->
+
+<div id="secondary">
+		<h2 class="site-description">Mind mapping Software</h2>
+	
+	
+	</div><!-- #secondary -->
+<div class="modal fade" id="nmLinkModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="myModalLabel">Your Referral Link</h4>
+      </div>
+      <div class="modal-body">
+        <p>Referral links allow you to get your recurring subscription extended automatically when someone who has followed your link purchases a subscription.</p>
+        <p class="text-center">Your referrer id: <input type="text" id="referrer-id" style="width:80px"> <button class="btn btn-default btn-xs" onclick="$('#referrer-id-details').toggle(200);">What is this?</button></p>
+        <div id="referrer-id-details" style="display:none;border:1px solid #dedede;border-radius:9px;background-color:#FFFDD4;padding:15px;margin-bottom:10px">
+            <p>Normally the value will be pre-filled for you.</p>
+            <p>If not, the easiest thing to do is to log in to NovaMind and then reload the page, and it should be populated correctly.</p>
+            <p>If it's still not there, you should be able to find it as your user number in the email you received when you signed up.</p> 
+        </div>
+        <p>Here is your referral link for this page:</p>
+        <p class="text-center"><input id="referrer-url" type="text" onclick="this.focus();this.select()" readonly="readonly" style="width:400px"></p>
+        <p class="text-center"><strong>Copy it and share it with others...</strong></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="/javascript/query-string.js"></script>
+<script type="text/javascript">
+$( document ).ready(function() {
+    var nm_id = $.cookie('nm_id');
+    if (nm_id !== undefined) {
+        $("#referrer-id").val(nm_id);
+    }
+    $("#referrer-id").on("change keyup paste input", function() {
+        updateReferrerLink();
+    });
+    updateReferrerLink();
+});
+function updateReferrerLink() {
+    // parse the query string into an object
+    var q = queryString.parse(location.search);
+    // set the property
+    q.nm_referrer = $("#referrer-id").val();
+
+    var url = [location.protocol, '//', location.host, location.pathname, '?'].join('');
+    // convert the object to a query string
+    url += queryString.stringify(q);
+    $('#referrer-url').val(url);
+}
+</script>
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+			<div class="site-info">
+							<!--	<a href="http://wordpress.org/">Proudly powered by WordPress</a>  -->
+			</div><!-- .site-info -->
+			
+			<!-- newly added   -->
+			<div class="nova_padding-top"> </div>
+			
+			<div class="media-top-800"> 
+	        <div class="col-xs-12 col-md-3">
+	           <div class="col-xs-8 col-md-4 col-xs-320-img">
+	           
+	            <a data-toggle="modal" data-target="#nmLinkModal" title="Create referral link"><img class="footer-img" src="https://cdn.novamind.com/images/logos-icons/n-logo-link.png" alt="n-image"></a>
+	           </div>
+	           <div class="col-xs-2 col-md-4 col-xs-330-img">
+	           
+	             <a href="https://www.facebook.com/novamind"><img class="footer-img" src="https://cdn.novamind.com/images/logos-icons/facebook-logo.png" alt="facebook-image"></a>
+	           </div>
+	           <div class="col-xs-2 col-md-4 col-xs-331-img">
+	             <a class="new-font-hal" href="https://twitter.com/novamind"><img class="footer-img" src="https://cdn.novamind.com/images/logos-icons/twitter.png" alt="twitter-image"></a>
+	           </div>
+	         
+	        </div>
+	        <div class="col-xs-12 col-md-12 nova_padding-bottom-hr">
+	        <hr>
+	        </div>
+	    </div> 
+	    
+	       <div class="media-bottom">  
+	        <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 col-xs-320">
+	            <ul class="list-unstyled nav_ul_data-color">
+	                <li><a class="new-font-hal" href="/novamind/">NovaMind</a></li>
+	                <li><a class="new-font-hal" href="/products/merlin/">Merlin</a></li>
+	                <li><a class="new-font-hal" href="/products/mind-mapping-books/">eBooks</a></li>
+	               
+	            </ul>
+	        </div>
+	        <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 col-xs-320">
+	            <ul class="list-unstyled nav_ul_data-color">
+	                <li><a class="new-font-hal" href="/documentation/">Documentation</a></li>
+	                <li><a class="new-font-hal" href="/support/">Support</a></li>
+	                <li><a class="new-font-hal" href="/forum/">Forum</a></li>
+	               
+	            </ul>
+	        </div>
+	        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-2 col-xs-320">
+	            <ul class="list-unstyled nav_ul_data-color">
+	                <li><a class="new-font-hal" href="/mindmapping-software/">Mind Mapping</a></li>
+	                <li><a class="new-font-hal" href="/blog/">Blog</a></li>
+	                <li><a class="new-font-hal" href="/testimonials/">Testimonials</a></li>
+	               
+	            </ul>
+	        </div>
+	        <div class="col-xs-1 col-sm-1 col-md-2 col-lg-3 footer-500-hr">
+	          <hr>
+	        </div>
+	      </div>
+	
+	    <div class="media-top">
+	        <div class="col-xs-4 col-sm-4 col-md-3 col-lg-3 col-481">
+	           <div class="col-xs-4 col-sm-4 col-md-4">
+	           
+	            <a data-toggle="modal" data-target="#nmLinkModal" title="Create referral link"><img class="footer-img" src="https://cdn.novamind.com/images/logos-icons/n-logo-link.png" alt="n-image"></a>
+	           </div>
+	           <div class="col-xs-4 col-sm-4 col-md-4">
+	           
+	             <a href="https://www.facebook.com/novamind"><img class="footer-img" src="https://cdn.novamind.com/images/logos-icons/facebook-logo.png" alt="facebook-image"></a>
+	           </div>
+	           <div class="col-xs-4 col-sm-4 col-md-4">
+	             <a class="new-font-hal" href="https://twitter.com/novamind"><img class="footer-img" src="https://cdn.novamind.com/images/logos-icons/twitter.png" alt="twitter-image"></a>
+	           </div>
+	         
+	        </div>
+	        <div class="col-xs-12 col-md-12 nova_padding-bottom-hr">
+	        <hr>
+	        </div>
+	     </div>
+	        <div class="col-xs-12 col-sm-12 col-md-12 padding-footer-800 ">
+	            <div class="col-xs-12 col-sm-12 col-md-6 copyight new-font-hal ">
+	                © 2015. Nova Mind Software Pty Ltd. Prices shown are in USD.
+	            </div>
+	            <div class="col-xs-12 col-sm-12 col-md-6 terms nav_ul_data-color ">
+	               <a class="new-font-hal" href="/novamind/privacy-policy"> Privacy Policy </a> | <a class="new-font-hal" href="/novamind-cloud-terms-of-service"> Terms of Service </a> | <a class="new-font-hal" href="/novamind-web-site-terms-of-use"> Terms of Use </a> | <a class="new-font-hal" href="/site-map/"> Site Map </a>
+	            </div>
+	        </div>
+			<!-- end newly added -->
+			
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.novamind.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"","is_cart":"","cart_redirect_after_add":"yes"};
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.novamind.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.novamind.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.2.10"></script>
+<script type="text/javascript" src="//www.novamind.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.novamind.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.novamind.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.novamind.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.2.10"></script>
+<script type="text/javascript" src="//www.novamind.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.novamind.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.2.10"></script>
+<script type="text/javascript" src="https://www.novamind.com/wp-content/themes/novamind/js/functions.js?ver=20140319"></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) {
+
+	$( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).click( function() {
+		ga('send', 'event', 'Products', 'Add to Cart', ($(this).data('product_sku')) ? ('SKU: ' + $(this).data('product_sku')) : ('#' + $(this).data('product_id')));
+	});
+
+});
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"67902147c5","applicationID":"4208185","transactionName":"MQRRNUpYCkAEBxZfXAhOcgJMUAtdShQDUVY=","queueTime":0,"applicationTime":381,"ttGuid":"","agentToken":"","atts":"HUNSQwJCGU4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
