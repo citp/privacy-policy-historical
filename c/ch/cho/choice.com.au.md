@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124181640id_/http%3A//www.choice.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406130358id_/https%3A//www.choice.com.au/privacy-policy) for the most accurate reproduction.*
 
 # CHOICE privacy statement - CHOICE
-
-What we collect
-
-What we do with the information we gather
-
-Security
-
-How we use cookies
-
-Links to other websites
-
-Controlling your personal information
-
-If you wish to make a complaint
 
 _Last updated 4 November 2013 to comply with the new Australian Privacy Principles 2014 and the Mobile Privacy Guidelines September 2013 published by the Office of the Australian Information Commissioner_
 
@@ -23,7 +9,7 @@ CHOICE is committed to ensuring your privacy is protected. This privacy statemen
 Should we ask you to provide certain information by which you can be identified when using the Sites, you can be assured it will only be used in accordance with this privacy statement.
 
 CHOICE may change this statement from time to time by updating this page. Please check this page   
-to ensure you're happy with any changes. This policy must be read in connection with the [CHOICE Terms and Conditions](https://web.archive.org/terms-and-conditions.aspx), which form part of this Statement.
+to ensure you're happy with any changes. This policy must be read in connection with the , which form part of this Statement.
 
 ### What we collect
 
@@ -42,7 +28,7 @@ We require the information to understand your needs and provide you with a bette
 
   * For internal record keeping.
   * To improve our products and services, and/or customise the Sites according to your interests.
-  * To update you on any changes to this Privacy Statement or to the [CHOICE Terms and Conditions](https://web.archive.org/terms-and-conditions.aspx).
+  * To update you on any changes to this Privacy Statement or to the [CHOICE Terms and conditions](https://web.archive.org/terms-and-conditions).
   * To periodically send promotional emails about new products, special offers or other information that we think you may find interesting using the email address that you have provided. You may unsubscribe from these at any time by following the link provided at the bottom of such emails.
 
 
