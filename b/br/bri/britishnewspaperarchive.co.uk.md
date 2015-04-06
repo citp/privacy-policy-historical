@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127144950id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406171809id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Privacy | British Newspaper Archive
 
 This Privacy Policy explains how we use information you provide us with or that we collect about you. We take your privacy extremely seriously, and will store all your personal information securely and in line with applicable data protection laws.
 
-**LAST UPDATED: April 8, 2014  **
+**LAST UPDATED: January 26, 2015 (company name change)  **
 
 This Privacy Policy is part of the [Terms & Conditions of using this website](http://www.britishnewspaperarchive.co.uk/content/terms_and_conditions "Terms and Conditions"), so please read it carefully. If you’d like to know more about data protection generally, [read this guide from the UK Information Commissioner](http://www.ico.gov.uk/for_the_public.aspx).
 
@@ -40,7 +40,7 @@ Group companies: We may disclose your personal information to any member of our 
 
 Companies working on our behalf to provide a service: we work with companies who will need to store and use your personal information on our behalf, for example payment providers who process your payments to us. We have contracts in place with them to control their use of your data and make sure they only use your information for the purposes allowed.
 
-If we sell brightsolid Newspaper Archive Ltd, or a substantial part of our assets, your personal information will be transferred to the new owner.
+If we sell Findmypast Newspaper Archive Ltd, or a substantial part of our assets, your personal information will be transferred to the new owner.
 
 We reserve the right to access and disclose individually identifiable information to comply with any legal obligation or governmental request, to enforce or apply our Terms and Conditions, or to protect our rights, property or safety.
 
