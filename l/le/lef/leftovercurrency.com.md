@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leftovercurrency.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226044347id_/http%3A//www.leftovercurrency.com/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leftovercurrency.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406043943id_/http%3A//www.leftovercurrency.com/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy LeftoverCurrency.com
 
@@ -6,7 +6,7 @@
 
 PRIVACY POLICY
 
-This privacy policy explains what happens to any personal information that you provide to us, or that we collect during your visit. It forms part of our [terms and conditions](https://web.archive.org/web/20141226044347id_/http%3A//www.leftovercurrency.com/terms-and-conditions/terms-and-conditions.html). 
+This privacy policy explains what happens to any personal information that you provide to us, or that we collect during your visit. It forms part of our [terms and conditions](https://web.archive.org/web/20150406043943id_/http%3A//www.leftovercurrency.com/terms-and-conditions/terms-and-conditions.html). 
 
 Information we collect  
 In order to run and maintain our website we may collect and process the following information about you:
@@ -82,6 +82,6 @@ Please do not hesitate to contact us regarding any matter relating to this Priva
 ](mailto:info@leftovercurrency.com) |   
 |   
 |   
-| [](https://web.archive.org/web/20141226044347id_/http%3A//www.leftovercurrency.com/Resources/Privacy-Policy-Feb2010-revision\(2\).pdf) |  |   
+| [](https://web.archive.org/web/20150406043943id_/http%3A//www.leftovercurrency.com/Resources/Privacy-Policy-Feb2010-revision\(2\).pdf) |  |   
 |   
 |  |  |  |  |  |  |  | 
