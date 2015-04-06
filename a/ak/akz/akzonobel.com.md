@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the akzonobel.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719115430id_/https%3A//www.akzonobel.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akzonobel.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406195053id_/https%3A//www.akzonobel.com/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement - AkzoNobel Corporate
+# Privacy Statement - AkzoNobel Global
 
 Your privacy on this website.
 
