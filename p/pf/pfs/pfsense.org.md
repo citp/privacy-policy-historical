@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pfsense.org privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703235747id_/https%3A//www.pfsense.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfsense.org privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406225050id_/https%3A//www.pfsense.org/privacy.html) for the most accurate reproduction.*
 
-# pfSense Privacy Policy - pfsense.org
+# pfsense Privacy Policy
 
-Privacy Policy
+## General Information
 
 This is the web site of Electric Sheep Fencing, LLC (hereafter referred to as ESF).
 
@@ -10,8 +10,6 @@ We can be reached via:
 e-mail: [supportinfo@pfsense.org](mailto:supportinfo@pfsense.org)  
 telephone: +1 512-900-2546  
 
-
-## General Information
 
 We are committed to ensuring the privacy of our customers, partners, employees and users. Our privacy statement has been established to discuss the collection and use of personal information that may be collected and utilized by ESF from time to time. Information about you may be collected when you visit our website, contact us by phone, email, fax or in person.
 
