@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222182605id_/http%3A//picsart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406053118id_/http%3A//picsart.com/privacy) for the most accurate reproduction.*
 
 # Privacy / Picsart Artists Photos and Drawings Gallery
 
