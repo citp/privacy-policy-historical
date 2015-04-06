@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 20dresses.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120122923id_/http%3A//www.20dresses.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 20dresses.com privacy policy that was archived on 2015-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150406061753id_/http%3A//www.20dresses.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -18,20 +18,20 @@
 <meta name="alexaVerifyID" content="Itrw9obJt_mTS6EC3w9VbjW683A">
 <meta name="Generator" content="www.20dresses.com">
 <meta name="Author" content="www.20dresses.com">
-<meta name="Keywords" content="apparels,tops,dresses,bottoms,winter wear,shrugs,denims jeggings and leggings,shorts and skirts,pants and palazzos,jackets,jackets and shrugs,jumpsuits,bags,clutches,slings,wallets,festive,hand bags,backpacks,utility pouches,accessories,necklaces,rings,earrings,cuffs and bangles,anklets,belts,stoles and scarves,mobile pouches,hair accessories,sunglasses,brooches and collar pins,sale,shoes,bellies and flats,boots,heels and wedges,sneakers and loafers,denims,skirts">
+<meta name="Keywords" content="Privacy Policy">
 <meta name="Description" content="All information for Privacy Policy on 20dresses.com">
 
-<meta property="og:title" content="20dresses.com - Privacy Policy">
-<meta property="og:type" content="website">
-<meta property="og:url" content="http://www.20dresses.com/">
-<meta property="og:image" content="http://www.20dresses.com/system/application/views/images/contbg.jpg">
-<meta property="og:site_name" content="20dresses">
-<meta property="og:description" content="All information for Privacy Policy on 20dresses.com">
+<!-- <meta property="og:title" content="20dresses.com - Privacy Policy" />
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.20dresses.com/" />
+<meta property="og:image" content="http://www.20dresses.com/system/application/views/images/contbg.jpg" />
+<meta property="og:site_name" content="20dresses"/>
+<meta property="og:description" content="All information for Privacy Policy on 20dresses.com" /> -->
 
 <link rel="image_src" href="http://www.20dresses.com/system/application/views/images/contbg.jpg">
 
 <link href="http://www.20dresses.com/system/application/views/css/homepage.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.20dresses.com/system/application/views/jquery.ui/jquery-1.5.1.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.20dresses.com/system/application/views/jquery.ui/jquery-1.5.1.js"></script>
 <script src="http://www.20dresses.com/system/application/views/js/jquery.validate.js" type="text/javascript"></script> 
 
 
@@ -122,72 +122,6 @@ $(document).ready(function() {
 		$('.window').hide();
 	});		
 
-	
-	/* validation  */
-	$("#login").validate({
-		errorLabelContainer: $("#login div.error")
-	});
-
-	$("#forgotpassword").validate({
-		errorLabelContainer: $("#forgotpassword div.error")
-	});
-
-
-	 $("#frmRegister").validate({
-			errorLabelContainer: $("#frmRegister div.error")
-	});
-
-
-	$("#forgotpassword-link").click(function(){  
-		document.getElementById("forgotpassword").reset();
-        $("#forgotpassword-panel").toggle('slow'); 
-		$('#message-green').hide();
-		$('#forgotpassword').show();
-		$('#error_msg3').hide();
-		return false;
-    });
-
-	$("#login_dropdown").click(function(e) {
-		e.stopPropagation();
-	});
-
-	$("#login_link").click(function(){
-        $("#login_dropdown").slideToggle('slow'); 
-		$('#message-green').hide();
-		$('#error_msg3').hide();
-		return false;
-    });
-
-	$("#signin_link").click(function(){ //the link is near start here link
-        $("#login_dropdown").slideToggle('slow'); 
-		$('#message-green').hide();
-		$('#error_msg3').hide();
-		return false;
-    });
-
-
-
-
-	$('#forgotpassword-panel-front').hide();
-
-	$("#frmLogin").validate({
-		errorLabelContainer: $("#frmLogin div.error")
-	});
-
-	$("#forgotpassword-link-front").click(function() {  
-		document.getElementById("frmForgotPwd").reset();
-        $("#forgotpassword-panel-front").toggle(); 
-		$('#message-green-front').hide();
-		$('#frmForgotPwd').show;
-		$("#frmLogin div.error").html('');
-		return false;
-    });
-
-	$("#frmForgotPwd").validate({
-		errorLabelContainer: $("#frmForgotPwd div.error")
-	});
-
-
 
 
 	// hide #back-top first
@@ -210,18 +144,118 @@ $(document).ready(function() {
 			return false;
 		});
 
+});
+
+	
+
+$(document).ready(function() {
+
+	$("#frmLogin").validate({
+		errorLabelContainer: $("#frmLogin div.error")
+	});
+	
+	$("#forgotpassword").validate({
+		errorLabelContainer: $("#forgotpassword div.error")
+	});
 
 
+	$("#frmRegister").validate({
+		errorLabelContainer: $("#frmRegister div.error")
+	});
 
-
+	$("#forgotpassword-link").live('click',function(){  	
+        $("#forgotpassword-panel").toggle('slow'); 
+		$('#message-green').hide();
+		$('#forgotpassword').show();
+		$('#error_msg3').hide();
+		return false;
+    });
 
 });
+
+function gotologin() {
+	$('.register').fadeOut();
+	$('.login').fadeIn();
+}
+
+function gotoregister() {
+	$('.login').fadeOut();
+	$('.register').fadeIn();
+}
+
+
+ window.fbAsyncInit = function() {
+	  FB.init({
+		appId      : '404140522973875',
+		status     : true, 
+		cookie     : true,
+		xfbml      : true,
+		oauth      : true
+	  });
+};
+
+(function(d){
+   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   d.getElementsByTagName('head')[0].appendChild(js);
+ }(document));
+
+
+function fblogin() {
+
+	$("#frmLogin div.error").show();	
+	$("#frmRegister div.error").show();	
+	   FB.login(function(response) {
+			if(response.authResponse) {
+						// console.log('Welcome!  Fetching your information.... ');
+						$("#frmLogin div.error").html('Welcome!  Fetching your information.... ');
+						$("#frmRegister div.error").html('Welcome!  Fetching your information.... ');
+					FB.api('/me', function(user) {
+							if(user.id) {
+							
+var strData						="id="+user.id+"&email="+user.email+"&fname="+user.first_name+"&lname="+user.last_name+"&birthday="+user.birthday+"&gender="+user.gender;
+ var base_url='http://www.20dresses.com/login/fblogin';
+
+							  $.ajax({
+									type:'POST',
+									url:base_url,
+									data:strData,
+									dataType:'json',
+									success:function(data)
+									{
+										if(data.status=="success")	{
+											window.location.reload();
+										} else if(data.status=="error") {
+
+											if(data.msg=="quiz") {
+												window.location.href="http://www.20dresses.com/quiz";
+											}
+
+											$("#ajax-loader").hide();
+												$('#frmRegister div.error').html(data.msg);
+											$('#frmLogin div.error').html(data.msg);
+										}
+									}
+								});	
+							 }
+						  });
+						
+							
+			   } else {
+				   $("#ajax-loader").hide();
+				   $("#login div.error").show();
+				   $('#login div.error').html('');
+
+				 // console.log('User cancelled login or did not fully authorize.');
+			   }
+		}, {scope: 'email,user_birthday'});
+	}
 
 
 $(document).click(function() {
 	$(".dropdown").hide();
 });
-
 
 
 function changePincode() {
@@ -368,8 +402,21 @@ $("#nav-utility li").click(function(){
 
 
 
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+  ga('create', 'UA-35171126-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="http://www.20dresses.com/css/default.css">
+
+</head>
 
 <body>
 <!--main page wrap starts -->
@@ -425,226 +472,19 @@ jQuery(document).ready(function($) {
 
 					<div style="float:right;padding-right:14px;">
 					<ul id="nav-utility">
-					
-					
+										
 					<li class="customercare">
-						<a href="javascript:void(0)" id="login_link">Already a Member? 
+						<a href="#register-panel" id="already" name="modal">Already a Member? 
 							<span class="signin_div">SIGN IN</span>
 						</a>
-					</li>
+					</li> 	
+
 										</ul>
 
 
 
-					
-	<div id="login_dropdown" style="display:none;"><div id="fb-root"></div>
-<script type="text/javascript">
-
-(function(d){
-   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-   js = d.createElement('script'); js.id = id; js.async = true;
-   js.src = "//connect.facebook.net/en_US/all.js";
-   d.getElementsByTagName('head')[0].appendChild(js);
- }(document));
-
-
-window.fbAsyncInit = function() {
-	  FB.init({
-		appId      : '404140522973875',
-		status     : true, 
-		cookie     : true,
-		xfbml      : true,
-		oauth      : true
-	  });
-	};
-
-
-function fblogin() {
-	   FB.login(function(response) {
-			FB.api('/me', function(user) {
-				if(user.first_name) {
-					var strData='email='+user.email;
-					var base_url='http://www.20dresses.com/login/fblogin';
-					$.ajax({
-							type:'POST',
-							url:base_url,
-							data:strData,
-							dataType:'json',
-							success:function(data)
-							{
-								if(data.status=='success') {
-									window.location.reload();
-								} else {
-									window.location.href='http://www.20dresses.com/quiz';
-								}
-							}
-					});	
-						
-				}
-			});
-	 
-		}, {scope: 'email,read_friendlists,user_birthday'});
-}
-
-</script>
-
-<script type="text/javascript">
-
-function loginajax()
-{
 	
-	if($("#login").valid())
-	{
-		$("#login div.error").show();
-		$("#login div.error").html("<img width='150' style='padding-left:5px' alt='login loader ' src='http://www.20dresses.com/system/application/views/images/signinloader.gif' />");
-	
-		var base_url= 'http://www.20dresses.com/login/ajaxlogin';
-		var strData= $("#login").serialize();
-		var remember=$('#remembermehid').val();
-		$.ajax({
-			type:'POST',
-			url:base_url,
-			data:strData,
-			dataType: "json",
-			success:function(data)
-			{	
-				if(data.status=="success")
-				{
-					if(remember==1)
-					{		
-						createCookie('20dpassword',data.userpassword,365);
-						createCookie('20duname',data.useremail,365);
-						createCookie('20duid',data.userid,365);
-						$("#login div.error").hide();
-					}
-					window.location.href="http://www.20dresses.com/";
-				}
-				else
-				{
-					$("#login div.error").show();
-					$("#login div.error").html(data.msg);
-					return false;
-				}
-			}
-		});
-	}
-}
-
-
-
-</script>
-
-<div class="login_dropdown_bg">
-	  <a class="login_close" href="#" onclick="hideCart('login_dropdown');"></a>
-	<form action="" method="post" class="cmxform" name="login" id="login">
-		<table width="180" border="0" cellspacing="0" cellpadding="0" style="text-align:left;">
-			   <tbody><tr>
-				<td align="left"><div class="error" style="color:red;"></div></td>
-			  </tr>
-			   <tr>
-				<td align="left" valign="bottom" style="line-height:20px">Email Address</td>
-			  </tr>
-			  <tr>
-				<td height="33">
-				<input type="text" title="Please enter valid Email Address" onkeypress="javascript: if(event.keyCode == 13){loginajax();}" id="txtemailAdd" name="txtemailAdd" style="width:170px;height:25px;border:1px solid #ccc;" class="required email" value="">		
-				</td>
-			  </tr>
-			<tr>
-			   <td align="left" valign="bottom" style="line-height:20px">Password</td>
-			</tr>
-			  <tr>
-				<td height="23">
-				<input type="password" title="Please enter Password" id="txtpassword" name="txtpassword" style="width:170px;height:25px;border:1px solid #ccc;" class="required" value="" onkeypress="javascript: if(event.keyCode == 13){loginajax();}">
-				<input type="hidden" name="remembermehid" id="remembermehid" value="1"> </td>
-			  </tr>
-			  <tr>
-				<td class="remember" height="25"><input type="checkbox" checked="" name="rememberme" id="rememberme" value="1" onclick="sendthestatus(this);"> &nbsp;Remember me</td>
-			  </tr> 
-			  <tr>
-				<td align="left" height="40">
-				<button onclick="loginajax();" class="btn style-btn" type="button">Sign in</button>
-		   <!--<a onclick="loginajax();"  style="cursor:pointer;"  >
-					<img width="100" height="29" src="http://www.20dresses.com//system/application/views/images/sign_inbtn.jpg"  />
-				</a>-->
-				</td>
-			  </tr>
-			  <tr>
-				<td align="left">
-					<a style="cursor:pointer;" onclick="fblogin();">
-							<img width="149" height="22" alt="Login with Facebook" src="http://www.20dresses.com/system/application/views/images/log_fb.jpg">
-					</a>
-				</td>
-			  </tr>  
-
-			  <tr>
-				<td height="30" style="line-height:20px"><a id="forgotpassword-link" title="Forgot Password" class="frgt-pswd" style="cursor:pointer;">Forgot your password?</a></td>
-			  </tr> 
-
-			   <tr>
-			  <td height="25" style="line-height:20px">
-			  New to 20Dresses? <a href="http://www.20dresses.com/quiz" style="cursor:pointer;color:#ff887c; font-weight:bold;font-size:12px;">Get Started</a>
-			  </td>
-			  </tr>
-			 
-			  
-		</tbody></table>
-
-	</form>
-
-
-	<div id="forgotpassword-panel" style="display:none;">  	
-									
-			<div id="message-green" style="display:none;color:green">
-				We have sent your  password to your registered email address.
-			</div>
-								
-
-							<form action="" method="post" class="cmxform" name="forgotpassword" id="forgotpassword">
-							<table border="0" align="left" width="200" cellspacing="0" cellpadding="0">						
-									<tbody><tr>
-										<td align="left"><b>Forgot Your Password</b></td>
-									</tr>
-									<tr>
-										<td align="center">
-											<div class="error" id="error_msg3" style="color:red"></div>
-										</td>
-									</tr>
-									<tr>
-										<td height="39" align="left">Enter your Email Address here to receive  password.</td>
-									</tr>
-									<tr>
-										<td valign="top" align="left">
-										<input type="text" name="txtemail" id="txtemail" style="width:170px;height:25px;border:1px solid #ccc;" value="" maxlength="50" class="required email" title="Please enter valid email address."></td>
-									</tr>
-									
-									<!-- <tr>
-										<td align="left">	
-											<span class="button_bg" onclick="forgotpasswordajax();">SUMBIT</span>
-										</td>
-									</tr> -->
-
-									<tr>
-										<td align="left" style="padding:10px 14px 10px 0px">
-										<div style="height:30px;">
-										<!-- 
-										<input type="button" class="login_button" value="SUMBIT" onclick="forgotpasswordajax();" style="color:#fff;" /> -->
-
-											<button onclick="forgotpasswordajax();" class="btn style-btn" type="button">SUBMIT</button>
-										</div>
-										</td>
-									</tr>
-							</tbody></table>  
-						</form>
-					</div>
-
-</div>
-<!--right side  -->
-
-
-</div>
-
-</div>
-					
+				
 				<div id="cart_dropdown" class="dropdown" style="display:none;">
 
 			
@@ -681,9 +521,220 @@ function loginajax()
 </div><!-- utility id end here -->
 
 
-
+</div>
 
 <!--top band ends -->
+
+
+
+<div id="boxes">
+	<div id="register-panel" class="window" style="display:none;">
+		<div id="cbp-bicontrols" class="cbp-bicontrols register" style="margin-left:0px;top:-174px;left:-169px;">							
+			
+<form action="" method="post" class="cmxform" name="frmRegister" id="frmRegister">
+<!-- <div><img src="http://www.20dresses.com/system/application/views/images/20dlogo.png" /></div>
+ -->
+
+<!-- <div class="landing_logo"><img src="http://www.20dresses.com/new/20dlogo.png" /></div> -->
+
+
+<div class="becomeM">- It's free! Become a Member -</div>
+
+<div class="jointext">JOIN 20DRESSES</div>
+
+<!-- <div class="ypswrap"><img src="http://www.20dresses.com/new/ypstylist.jpg" /></div> -->
+
+<div class="ypswrap">YOUR PERSONAL STYLIST</div>
+
+<div class="landingsubtext">
+Fill a quick fashion profile quiz &amp; get your latest fashion fix that suits you the best at lowest prices!</div>
+
+
+<!-- <div class="landingsubtext">Cool new way to shop women's fashion! Just fill a quick fashion profile quiz & we will get the latest fashion fix that suits you best at the lowest prices!
+</div> -->
+
+
+
+<div class="landing_logintext"><a href="javascript:void(0);" onclick="fblogin();"><img alt="Register With Facebook" src="http://www.20dresses.com/new/REG_f.jpg"></a></div>
+
+
+<!-- <div class="landing_logintext">REGISTER FREE WITH <a href="javascript:void(0);" onclick="fblogin();"><img src="http://www.20dresses.com/new/landing_f.jpg" style="vertical-align:-10px;"/></a> &nbsp;
+<a href="#"><img src="http://www.20dresses.com/new/landing_g.jpg" style="vertical-align:-10px;"/></a></div>
+ -->
+
+
+<div class="regemail">OR REGISTER VIA EMAIL</div>
+
+<div class="error" style="color: red; font-size: 12px; width: 220px; text-align: left; padding-left: 83px;"></div>
+
+<div><input type="text" id="txtemailAdd" name="txtemailAdd" placeholder="Email Address" title="Please enter valid Email Address " class="inputbox required email"></div>
+<div><input type="password" id="txtpassword" name="txtpassword" placeholder="Password" title=" Please enter Password" class="inputbox required"></div>
+<div><button type="button" onclick="registerajax();" class="shopnowbtn">REGISTER</button></div>
+
+
+<div class="landing_logintext">Already a member? <a href="javascript:void(0);" onclick="gotologin();">LOGIN</a></div>
+
+
+					</form>
+
+
+<script type="text/javascript">
+
+
+function registerajax()
+{	
+	if($("#frmRegister").valid())
+	{
+		$("#frmRegister div.error").show();
+		$("#frmRegister div.error").html("<img width='150' style='padding-left:5px' alt='login loader' src='http://www.20dresses.com/system/application/views/images/signinloader.gif' />");
+	
+		var base_url= 'http://www.20dresses.com/login/ajaxlogin';
+		var strData= $("#frmRegister").serialize();
+		
+		$.ajax({
+			type:'POST',
+			url:base_url,
+			data:strData,
+			dataType: "json",
+			success:function(data)
+			{	
+				if(data.status=="success")
+				{	
+					createCookie('20dpassword',data.userpassword,365);
+					createCookie('20duname',data.useremail,365);
+					createCookie('20duid',data.userid,365);
+					$("#frmRegister div.error").hide();
+					window.location.reload();
+				}
+				else if(data.status=='error')
+				{
+					if(data.msg=='quiz') {
+						window.location.href="http://www.20dresses.com/quiz";
+					} else {
+						$("#frmRegister div.error").show();
+						$("#frmRegister div.error").html(data.msg);
+						return false;
+					}
+				}
+			}
+		});
+	}
+}
+
+</script>		</div>
+		<div id="cbp-bicontrols" class="cbp-bicontrols login" style="display:none;margin-left:0px;top:-174px;left:-169px;">			
+			
+<!-- <div><img src="http://www.20dresses.com/system/application/views/images/20dlogo.png" /></div>
+ -->
+
+
+<!-- 
+
+<div class="landing_styletext"><img src="http://www.20dresses.com/new/ypstylist.jpg" />FASHIONABLE AND AFFORDABLE. </br> 
+STYLES SELECTED JUST FOR YOU!
+</div>
+
+ -->
+
+<div class="becomeM">- Welcome Back -</div>
+
+<div class="jointext">20DRESSES</div>
+
+
+<div class="loginwith"><a href="javascript:void(0);" onclick="fblogin();"><img src="http://www.20dresses.com/system/application/views/images/login_f.jpg" alt="Login With Facebook"></a></div>
+
+				<form action="" method="post" class="cmxform" name="frmLogin" id="frmLogin">
+
+
+<div class="ortext"> - OR - </div>
+
+<div class="regemail">Log in with your email</div>
+<div class="error" style="color: red; font-size: 12px; width: 220px; text-align: left; padding-left: 80px;"></div>
+<div><input type="text" placeholder="Email Address" title="Please enter valid Email Address " name="txtemailAdd" class="inputbox required email" id="txtemailAdd"></div>
+<div><input type="password" id="txtpassword" name="txtpassword" placeholder="Password" title=" Please enter Password" class="inputbox required"></div>
+<div><button type="button" onclick="loginajax();" class="shopnowbtn">LOG IN</button></div>
+
+
+
+</form>
+ 
+<div class="forgotpass">Forgot your password? <a id="forgotpassword-link" title="Forgot Password" class="frgt-pswd" style="cursor:pointer;">click here</a> </div> 
+<div id="message-green" style="display:none;color:green">
+				We have sent your  password to your registered email address.
+			</div>
+
+
+ <div id="forgotpassword-panel" style="display:none;">  	
+				<form action="" method="post" class="cmxform" name="forgotpassword" id="forgotpassword">
+			
+			
+			<div class="error" style="color:red"></div>
+	
+								<div class="forgotpass">	Enter your Email Address here to receive  password</div>
+								
+					<div>		<input type="text" title="Please enter valid email address." class="inputbox required email" id="txtemail" name="txtemail" placeholder="Email Address" style="text-align: left; float: left;width:188px">
+						
+
+							<button type="button" class="shopnowbtn" onclick="forgotpasswordajax();" style="width: 114px; margin-top: 8px; padding: 6px; height: 32px;">SUBMIT</button>
+										</div>
+					</form>
+					</div>
+
+<div class="landing_logintext">Not a member yet? <a href="javascript:void(0);" onclick="gotoregister();">REGISTER</a></div>
+
+
+<script type="text/javascript">
+
+
+function loginajax()
+{	
+	if($("#frmLogin").valid())
+	{
+		$("#frmLogin div.error").show();
+		$("#frmLogin div.error").html("<img width='150' style='padding-left:5px' alt='login loader' src='http://www.20dresses.com/system/application/views/images/signinloader.gif' />");
+	
+		var base_url= 'http://www.20dresses.com/login/ajaxlogin';
+		var strData= $("#frmLogin").serialize();
+		
+		$.ajax({
+			type:'POST',
+			url:base_url,
+			data:strData,
+			dataType: "json",
+			success:function(data)
+			{	
+				if(data.status=="success")
+				{	
+					createCookie('20dpassword',data.userpassword,365);
+					createCookie('20duname',data.useremail,365);
+					createCookie('20duid',data.userid,365);
+					$("#frmLogin div.error").hide();
+					window.location.reload();
+				}
+				else if(data.status=='error')
+				{
+					if(data.msg=='quiz') {
+						window.location.href="http://www.20dresses.com/quiz/";
+					} else {
+						$("#frmLogin div.error").show();
+						$("#frmLogin div.error").html(data.msg);
+						return false;
+					}
+				}
+			}
+		});
+	}
+}
+
+</script>		</div>
+	</div>
+</div>
+
+
+
+
+
+
 
 <div id="20D_wrap"> 
 
@@ -735,226 +786,7 @@ function loginajax()
 });
 </script>
 
-<style type="text/css">
-.nav, .nav ul{
-margin:0;
-padding:0;
-list-style-type:none;
-list-style-position:outside;
-position:relative;
-line-height:28px;
-}
-.nav a{
-	font-size:13px;
-display:block;
-padding-right:17px;
-color:#000;
-letter-spacing:1px;
-text-decoration:none;
-cursor: pointer;
-text-transform:uppercase;
-}
 
-.nav a:hover{
-	color: #ff877b;
-}
-
-
-.nav li a.selected{
-
-color: #ff877b;
-}
-.nav li {
-    float: left;
-    font-family: verdana;
-    font-size: 14px;
-    margin: 3px 0;
-    position: relative;
-}
-
-
-.nav ul {
-position:absolute;
-display:none;
-width: 100%;;
-top:2em;
-}
-.nav li ul a{
-width: 100%;
-height:auto;
-float:left;
-cursor: pointer;
-
-}
-
-.nav ul ul{
-top:auto;
-
-}	
-
-.nav li ul ul {
-left:12em;
-margin:0px 0 0 10px;
-}
-
-.nav li:hover ul ul, .nav li:hover ul ul ul, .nav li:hover ul ul ul ul{
-display:none;
-}
-
-.nav li:hover ul, .nav li li:hover ul, .nav li li li:hover ul, .nav li li li li:hover ul{
-display:block;
-
-color: #ff877b;
-padding-right:5px;
-padding-left:5px;
-}
-
-/* Nav 1 END here */
-
-/* Nav 2 start here */
-.nav, .nav ul{
-margin:0;
-padding:0;
-list-style-type:none;
-list-style-position:outside;
-position:relative;
-line-height:28px;
-}
-/*
-.nav li a {
- margin-right:13px;
- letter-spacing:1px;
-}*/
-.nav li a:hover{
-
-color: #ff877b;
-}
-.nav li ul a:hover {
-font-weight:bold;
-color: #ff877b;
-
-}
-
-.nav li {
-    float: left;
-    font-family: verdana;
-    font-size: 14px;
-    margin: 3px 0;
-    position: relative;
-}
-
-
-.nav ul {
-position:absolute;
-display:none;
-width: auto;
-top:2em;
-
-}
-.nav li ul a{
-	color:#6f6f6f;
-width:155px;
-height:auto;
-cursor: pointer;
-text-align:center;
-border:1px solid transparent;
-text-transform:uppercase;
-padding:0;
-letter-spacing:0;
-}
-
-}
-.nav li ul a:hover {
-	border:1px solid #ccc;
-}
-.nav ul ul{
-top:auto;
-
-}	
-
-.menu_cat_name {
-	text-transform:uppercase;width:180px;text-align:left;
-					font-family:Georgia,Helvetica,Arial;font-size:14px;width: auto;margin-top: 20px;margin-bottom:10px;
-					color:#6f6f6f;
-}
-
-.nav li ul ul {
-left:12em;
-margin:0px 0 0 10px;
-}
-
-.nav li:hover ul ul, #nav li:hover ul ul ul, #nav li:hover ul ul ul ul{
-display:none;
-}
-.nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li li li li:hover ul{
-display:block;
-color: #000;
-/*border-bottom: 5px solid #FF887C;
-border-left: 1px solid #FF887C;
-border-right: 1px solid #FF887C;
-border-top: 1px solid #FF887C;
-box-shadow:0 0 10px #ccc;
-background-color: #FFF;
-
-*/
-padding-right:5px;
-padding-left:5px;
-}
-
-.new-flag{border-bottom:17px solid #ff5140;
-border-left:10px solid transparent;
-height:0;
-left:57px;
-line-height:16px;
-padding-left:-7px;
-position:relative;
-color:#fff;font-family:"PNovaSemiB",Helvetica,Arial;font-size:11px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;
-top:-5px;width:90px}
-
-
-.new_link {
-    color: #ff877b;
-    font-family: "PNovaReg",Helvetica,Arial;
-    font-size: 9px;
-    font-weight: normal;
-    letter-spacing: 0;
-    text-transform: uppercase;
-    vertical-align: middle;
-}
-</style>
-
-
-<!-- drop down css  -->
-<style type="text/css">
-
-.dropdown_wrap{width:980px;float:left;background:#fff; height:auto;padding-bottom:20px;border:2px solid #d7d7d7; font-family:Tahoma;position:absolute;left:30px; top:1px;border-top:none;
-background:#f6f6f7 url('http://development.20dresses.com/system/application/views/images/menuhover_top.png')0 0 repeat-x;
-}
-
-.imagenav_wrap{height: auto;
-width: 770px;float: left;margin-top: 20px;border-right: 1px solid #d7d7d7;padding-bottom: 20px;}
-.imagenav_wrap span{display: inline;width:157px;/*border: 1px solid #ebebeb; box-shadow:0 1px 2px 0 rgba(34, 25, 25, 0.4)*/float: left;margin-right: 13px;margin-left:19px;border:1px solid #fff;background:#fff;}
-
-.imagenav_wrap span:hover {border:1px solid #d7d7d7;}
-
-.rightnav_wrap{width: 185px;float: right;font-size: 12px;line-height: 25px;padding-left: 19px;
-}
-
-.right_links{display:block; position:relative;}
-
-.featured{text-align: center;font-family:Georgia,Helvetica,Arial;
-margin-bottom: 20px;width: auto;font-weight: normal;font-size: 14px;height: auto;color: #6F6F6F;}
-
-
-
-
-
-.featured_name{height:auto;font-size: 11px;padding: 5px 0;}
-
-.show_welhead{font-family:arial;font-size: 12px;color: #ff887c;font-weight: bold;text-align: center;line-height: 15px;width: 144px;float: left;margin-left: 20px;margin-right:15px;margin-top:20px;}
-.show_weltext{font-family:arial;color:#777;font-size:11px;width:152px;font-weight:normal;text-transform:lowercase;}
-
-</style>
 <!-- drop down css end -->
 <div class="header_container">
 
@@ -974,13 +806,13 @@ margin-bottom: 20px;width: auto;font-weight: normal;font-size: 14px;height: auto
 	<li><a href="http://www.20dresses.com/trends" title="Trends">TRENDS</a></li>
 	
 		<li><a href="http://www.20dresses.com/testimonials" title="Testimonials">TESTIMONIALS</a></li>
-		<li><a href="http://www.20dresses.com/blog" target="_blank" title="Blog">Blog</a></li>
+		<!-- <li><a  href="http://www.20dresses.com/blog" target="_blank" title="Blog">Blog</a></li> -->
 	</ul>
 	</div>
 
 	<div class="centernav">	
 		<a href="http://www.20dresses.com/">
-			<img src="http://www.20dresses.com/system/application/views/images/20dlogo.png" width="190" height="75">
+			<img alt="20Dresses logo" src="http://www.20dresses.com/system/application/views/images/20dlogo.png" width="190" height="75">
 		</a>
 	</div>
 
@@ -1075,8 +907,9 @@ margin-bottom: 20px;width: auto;font-weight: normal;font-size: 14px;height: auto
 
 </div><!--main bottom container ends -->
 
+
 <script type="text/javascript">
- function subscribe_news()
+function subscribe_news()
 {
 
 var email_id= $("#email_id").val();
@@ -1153,10 +986,7 @@ else
 	<li><a class="footer_link_class" href="http://www.20dresses.com/aboutus">ABOUT US </a></li>
 	<li><a class="footer_link_class" href="http://www.20dresses.com/team">TEAM</a></li>
 	<li><a class="footer_link_class" href="http://www.20dresses.com/testimonials">TESTIMONIALS</a></li>
-
 	<li><a class="footer_link_class" href="http://www.20dresses.com/privacy">PRIVACY</a></li>
-	
-	
 </ul>
 </div>
 
@@ -1166,7 +996,7 @@ else
 <ul>
 	<li>&nbsp;</li>
 	<li><a class="footer_link_class" href="http://www.20dresses.com/Why20dresses">WHY 20D</a></li>
-		<li><a class="footer_link_class" href="http://www.20dresses.com/terms">TERMS</a></li>
+	<li><a class="footer_link_class" href="http://www.20dresses.com/terms">TERMS</a></li>
 	<li><a class="footer_link_class" href="http://www.20dresses.com/trends">TRENDS</a></li>
 	<li><a class="footer_link_class" href="http://www.20dresses.com/jobs">JOBS</a></li>
 </ul>
@@ -1257,7 +1087,7 @@ padding: 2px;">
 </div>
 
 
-<div class="copyright">© 2013 20DRESSES.COM. ALL  RIGHTS RESERVED </div>
+<div class="copyright">© 2015 20DRESSES.COM. ALL  RIGHTS RESERVED </div>
  </div>
 </footer>
 
@@ -1268,6 +1098,13 @@ padding: 2px;">
 <div id="backgroundPopup"></div>
 <div id="mask" style="display:none;"></div>
 
+
+<!-- Back to Top -->
+<p id="back-top">
+		<a href="#top">
+			<span></span>
+		</a>
+</p>
 
 
 
@@ -1282,22 +1119,13 @@ padding: 2px;">
  
 
 
-
 <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-35171126-1']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+
+
 
 </script>
-
-
 
 
 
