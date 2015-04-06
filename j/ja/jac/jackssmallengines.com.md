@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackssmallengines.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019101456id_/http%3A//www.jackssmallengines.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackssmallengines.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407003535id_/http%3A//www.jackssmallengines.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Jack's Small Engines Privacy Policy and Security Statement
 
@@ -8,7 +8,9 @@ Jacks Small Engine & Generator Service, LLC and family of websites respects the 
 
 ## Opt-Out
 
-Jacks Small Engine & Generator Service, LLC may send you communications regarding its services. Jacks Small Engine & Generator Service, LLC provides you the opportunity to opt-out of receiving such communications by indicating your desire to opt-out. If you would like to opt out of receiving communications from us please use our contact page at [http://www.jackssmallengines.com/customer-service.cfm](http://www.jackssmallengines.com/customer-service.cfm#Contact)
+Jacks Small Engine & Generator Service, LLC may send you communications regarding its services. Jacks Small Engine & Generator Service, LLC provides you the opportunity to opt-out of receiving such communications by indicating your desire to opt-out. If you would like to opt out of receiving communications from us please use our [Contact Page](http://www.jackssmallengines.com/contact-us.aspx)
+
+To unsubscribe from The Jacks Small Engines Newsletter Email list: [Unsubscribe Here](http://jackssmallengines.us5.list-manage.com/unsubscribe?u=74b8acd1012ab13b7dd17ecc5&id=b9c41b695b). 
 
 Even if you opt out of receiving marketing messages, we may still contact you for transactional purposes like confirming or following up on an order or service request, asking you to review a product or service you have ordered, or notifying you of product recalls. 
 
@@ -27,6 +29,16 @@ We or our vendors use several common online tracking tools. These may include br
 
 
 _We will not give or sell your individual information to any outside company for its use in marketing or solicitation._
+
+## Internet-Based Ads
+
+Data about your online activities is being collected for use in targeted advertising tailored to your individual interests. Interest-based ads may be displayed to you based on your activities interacting with our website, such as making a purchase, viewing products, or other informational content. We use internet advertising vendors to provide you with relevant and useful ads. These ads appear on other websites that are compliant with internet advertising policies. 
+
+You can choose to have your information collected for that purpose, or opt out. To opt out of having your online behavior collected for advertising purposes, visit the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), or [Digital Advertising Alliance](http://www.aboutads.info/choices/). 
+
+OR 
+
+Opt out by clicking the Ad Choices Icon     located at the top corner of the ad. Then you may choose to opt out, disable, or change your ad settings. 
 
 ## Security
 
