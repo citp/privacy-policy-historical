@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223003426id_/http%3A//www.fepblue.org/en/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406024026id_/http%3A//www.fepblue.org/en/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms & Privacy-Blue Cross and Blue Shield's Federal Employee Program
 
@@ -8,7 +8,7 @@ The following terms and conditions (“terms and conditions”) govern your use 
 
 If you do not agree with the terms and conditions, you are not granted permission to use the website and should exit immediately. This opt-out option is not stated prior to each feature of this website. If you decide to opt-out or not accept our terms and conditions and the terms of our Privacy Policy, you will not be able to use our interactive features such as MyBlue, Health Tools, Pharmacy website and the Provider Directory.
 
-_Please Note: This website offers a summary of some of the features of the Blue Cross and Blue Shield Service Benefit Plan. Before making a final decision, please read the[Blue Cross and Blue Shield Service Benefit Plan Brochure.](http://media.fepblue.org/-/media/PDFs/Brochures/2014%20SBP%20BROCHURE%20100413_032414_N.pdf) All benefits are subject to the definitions, limitations and exclusions included in the brochure. Benefits under the non-FEHBP programs are neither offered as part of nor guaranteed under the Blue Cross and Blue Shield contract with the U.S. Office of Personnel Management (OPM) to provide healthcare to Federal employees and annuitants. These benefits are only available to contract holders and covered family members enrolled in the Blue Cross and Blue Shield Service Benefit Plan. The cost of these benefits is not included in your premium._
+_Please Note: This website offers a summary of some of the features of the Blue Cross and Blue Shield Service Benefit Plan. Before making a final decision, please read the[Blue Cross and Blue Shield Service Benefit Plan Brochure](http://media.fepblue.org/-/media/PDFs/Brochures/2015_SBP_BRO_FINAL_145_102714.pdf). All benefits are subject to the definitions, limitations and exclusions included in the brochure. Benefits under the non-FEHBP programs are neither offered as part of nor guaranteed under the Blue Cross and Blue Shield contract with the U.S. Office of Personnel Management (OPM) to provide healthcare to Federal employees and annuitants. These benefits are only available to contract holders and covered family members enrolled in the Blue Cross and Blue Shield Service Benefit Plan. The cost of these benefits is not included in your premium._
 
 #### General Information:
 
@@ -277,9 +277,9 @@ The Health Insurance Portability and Accountability Act (HIPAA) was enacted by t
 
 **Privacy Regulation**
 
-The HIPAA privacy regulation is a "use and disclosure" set of requirements enacted in 2003 that defines how the Service Benefit Plan can use and share your confidential medical information. The regulation limits the use and disclosure of Protected Health Information (PHI). PHI includes any individually identifiable health information, such as your demographic and clinical information as well as related business and insurance data.
+The HIPAA privacy regulation is a “use and disclosure” set of requirements enacted in 2003 that defines how the Service Benefit Plan can use and share your confidential medical information. The regulation limits the use and disclosure of Protected Health Information (PHI). PHI includes any individually identifiable health information, such as your demographic and clinical information as well as related business and insurance data.
 
-The regulation asserts that privacy is a "fundamental right." This has transformed the way Americans view their right to control their medical information and medical services. You are now in the driver's seat on how your confidential medical information is used and disclosed.
+The regulation asserts that privacy is a “fundamental right.” This has transformed the way Americans view their right to control their medical information and medical services. You are now in the driver’s seat on how your confidential medical information is used and disclosed.
 
 **BCBSA compliance**
 
@@ -321,7 +321,7 @@ Physical security is a major component of the regulation. The law mandates the p
 There are a number of steps that we have taken to implement these security regulations including:
 
   * Designating a security officer to handle security complaints and security breaches to the PHI
-  * Developing a contingency plan and disaster recovery plan to continue operations after a storm or other event out of BCBSA's control
+  * Developing a contingency plan and disaster recovery plan to continue operations after a storm or other event out of BCBSA’s control
   * Maintaining strong access control and securing the physical facility
   * Adopting and training our employees on HIPAA security policies and procedures
 
@@ -397,7 +397,7 @@ When the National Health Plan Identifier HIPAA regulation is released, it will a
 The uniform identifiers permit your doctors and hospital providers, dentists, plus pharmacists to spend much less time dealing with the bureaucracy of getting paid.
 
 Your Privacy Rights  
-As a healthcare consumer, HIPAA asserts that privacy is your fundamental right. Learn more about your personal rights as it relates to your medical information. The HIPAA privacy regulation is a "use and disclosure" set of requirements enacted in 2003 that defines how we can use and share your confidential medical information. The regulation limits the use and disclosure of Protected Health Information (PHI). PHI is individually identifiable health information that includes your demographic and clinical information as well as related business and insurance data.
+As a healthcare consumer, HIPAA asserts that privacy is your fundamental right. Learn more about your personal rights as it relates to your medical information. The HIPAA privacy regulation is a “use and disclosure” set of requirements enacted in 2003 that defines how we can use and share your confidential medical information. The regulation limits the use and disclosure of Protected Health Information (PHI). PHI is individually identifiable health information that includes your demographic and clinical information as well as related business and insurance data.
 
 Under the HIPAA Privacy Rule, you have individual rights that allow you to request the following:
 
@@ -405,7 +405,7 @@ Under the HIPAA Privacy Rule, you have individual rights that allow you to reque
 
 A Notice of Privacy Practices is issued to all Service Benefit Plan contract holders when they enroll and whenever there is a material change to the privacy practices provided in the notice. In situations where there are material changes, the revised Notice of Privacy Practices will be distributed to all contract holders within 60 days of the change. To review our current privacy practices please download the following:
 
-[](http://www.fepblue.org/hipaa/Notice-of-Privacy-Practices-for-the-Service-Benefit-Plan.jsp)[Notice of Privacy Practices for the Service Benefit Plan](https://web.archive.org/en/terms-and-privacy/notice-of-privacy-practices)
+[Notice of Privacy Practices for the Service Benefit Plan](https://web.archive.org/en/terms-and-privacy/notice-of-privacy-practices)
 
 [Notice of Privacy Practices for the US Office of Personnel Management (OPM)](http://www.opm.gov/information-management/privacy-policy/)
 
@@ -415,7 +415,7 @@ In order for BlueCross and BlueShield Health Plans to disclose information about
 
 This form is ideal if you need assistance with handling specific claims or only wish for the designated individual to have limited access to your PHI that will expire in a timeframe not more than one year. It is important to note that this form does not allow the authorized individual(s)/organization(s) to make any healthcare decisions on your behalf. If you wish to authorize the designated individual to be able to make healthcare decisions on your behalf you will need to use a Personal Representative Authorization Form.
 
-This form will generally require the following information (1) a description of the PHI to be Used or Disclosed, (2) a statement of who is authorized to receive the PHI, (3) A description of the purpose for which the disclosure is permitted, (4) an expiration date, and (5) member's signature.
+This form will generally require the following information (1) a description of the PHI to be Used or Disclosed, (2) a statement of who is authorized to receive the PHI, (3) A description of the purpose for which the disclosure is permitted, (4) an expiration date, and (5) member’s signature.
 
 **Appoint a personal representative**
 
