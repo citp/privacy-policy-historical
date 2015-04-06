@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carcomplaints.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702034212id_/http%3A//www.carcomplaints.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcomplaints.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406155626id_/http%3A//www.carcomplaints.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | CarComplaints.com
 
@@ -17,8 +17,8 @@ We use this data within our company in several ways:
 
 **We do not store your phone number or street address in our main user database.** However we may ask for & store this information for the purpose of running contests, promotions, providing leads, selling merchandise, etc. In these cases, your personally identifiable information will only be used for the purpose of completing the related service. 
 
-**We use services provided by third-party companies to serve ads & monitor your web activity while you visit our website.** These third-party services use cookies, web beacons, and other monitoring technologies to compile anonymous statistics about our website visitors. The services may use this anonymous data from your visits to this website, other websites & other forms of media in order to provide advertisements about goods and services that they believe are of particular interest to you. You can opt-out of user-targeted ads from most providers we work with by visiting [this opt-out link](http://networkadvertising.org/managing/opt_out.asp). 
+**We use third-party advertising companies to serve ads and collect information when users visit our site.** These companies may use information (but not your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see [this opt-out link](http://networkadvertising.org/managing/opt_out.asp). 
 
-**This policy is subject to change.** Last updated on May 5, 2011. 
+**This policy is subject to change.** Last updated on July 20, 2014. 
 
 If you have any additional questions or concerns about our privacy policy, [**drop us a line**](https://web.archive.org/contact.shtml)!
