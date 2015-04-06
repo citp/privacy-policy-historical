@@ -1,209 +1,202 @@
-> *The following text is extracted and transformed from the sonyentertainmentnetwork.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208063232id_/http%3A//www.sonyentertainmentnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyentertainmentnetwork.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406063730id_/http%3A//www.sonyentertainmentnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Sony Entertainment Network
 
 ## Privacy Policy
 
-**Last Revised: September 15, 2011**
+**Last Revised: April 18, 2014**
 
-Sony Network Entertainment International LLC ("SNEI") is committed to respecting the privacy rights of all visitors to our websites, and users of the PlayStation®Network ("PSN") and Sony Entertainment Network services ("SEN") (PSN and SEN are collectively referred to in this Privacy Policy as "Sony Online Services"). This privacy policy is intended to provide you with information on how we collect, use and store the information that you provide to us through our websites and via our Sony Online Services so that you can make appropriate choices for sharing information with us. If you have any questions, complaints or comments regarding our online or offline privacy policies, please contact SNEI's Consumer Services Hotline at 855-999-SONY (7669). Additional contact information is provided below.
+**Scope**  
+When you connect with Sony Network Entertainment International ("SNEI") online by using our websites, the Sony Entertainment Network ("SEN"), or certain hardware or software which utilizes SEN for data collection and refers to this Privacy Policy (all collectively, "SNEI Network"), we collect and handle information as described below.  Your use of the SNEI Network constitutes your consent to the practices described below.
 
-### Websites
+### Information That We Collect or Receive
 
-This policy applies to the websites www.sonyentertainmentnetwork.com. From time to time, we may add new websites, but will provide a link to this policy or the applicable privacy policy. By use of our websites, you signify your assent to SNEI's privacy policy. If you do not agree to this policy, please do not use our websites. 
+We collect and receive information from and about you by different means.
 
-### Links
+**Information You Provide to Us**
 
-SNEI may create links to the websites of third parties, including our promotional partners and licensed software publishers, our direct or indirect parents, subsidiaries or affiliates (collectively, the "Sony Group of Companies"; each a "Sony Group Company") or other entities that we own or control. This privacy policy does not apply to third-party websites and treatment of any personal information you provide on such sites is subject to the applicable third party's individual privacy policy, and not this one. Additionally, other websites not associated with SNEI may have links leading to one of our websites even if we have not authorized those links. We cannot control these links and are not responsible for any content appearing on websites that link to ours.
+We collect the information that you directly provide to us, such as when you enter it on a web page, or include it in an email that you send to us.  This type of collection often occurs through our business support processes, such as: 
 
-### Sony Online Services
+  * Registration or Account Creation Processes, where we ask you to provide information such as:
+    * Contact info (e.g. name, email or mailing address, or phone number)
+    * Account Administration Info (e.g. user name, password, or security questions)
+    * Billing Info (e.g. credit card or other payment number, billing address)
+  * Purchase Processes, where we may ask you to provide your name and billing info 
+  * Technical and Customer Support Processes, where we may ask you to provide contact info and information related to the issue you are contacting us about.
 
-In parts of North America and South America, SNEI operates Sony Online Services, a network of online games, movies, music, other media and content and communication services. Users can purchase goods and services from SNEI through Sony Online Services and may have the opportunity to participate in various network community activities. By using Sony Online Services, you assent to the application of this privacy policy to your information that you provide through Sony Online Services. If you do not agree to this privacy policy, please do not use Sony Online Services. 
 
-### Changes to Our Privacy Policy
 
-**We reserve the right to make changes to this privacy policy at any time. If we make a material change to this privacy policy, we will notify you by posting notice of the change on our websites or the applicable Sony Online Services, as relevant. We will post the changes in the privacy policy and, if necessary, give you additional choices regarding changes. Please check this privacy policy from time to time to ensure that you are aware of these changes. Your continued use of our websites, any Sony Online Services or any other SNEI online portals subject to this privacy policy will signify your acceptance of privacy policy changes.**
+In addition, we collect the information that you provide by entering it into certain SNEI Network features.  For example, when you want to post in a forum, you provide us the content for the post (which could contain personally identifying information) which we collect and then display for you on the forum.  Likewise, when you use other features such voice or text chat, blogs, surveys, user-generated content, activity streams, or social media, we may first collect the information you enter into the feature. 
 
-### Collection of Personal Information through our Websites and Sony Online Services Accounts
+**Automatic Information Collection**
 
-We do not require that website visitors reveal any personally identifying information in order to access our websites. However, visitors who do not wish to, or are not allowed by law to share personally identifying information, may not be able to access certain areas of our websites, participate in certain activities or sign up for a Sony Online Services account. Although personally identifying information may be required to participate in certain promotions or features offered through our websites, participants provide this information on a voluntary basis only. Collection of personal information required to access certain website services may include the collection of date of birth, name, mailing address, email address and credit card information. 
+We may also automatically or passively collect information about your use of the SNEI Network.  While information collected in this manner is not typically personal information, we may combine it in ways that make it personally identifiable.  When we do so, we will treat the combined information as personal information.  For example, data collected in this manner may include:
 
-Personally identifying information is needed to establish a Sony Online Services account. In order to set up a PSN account and access these services, you must provide your date of birth, name, mailing address, and email address. In order to set up an SEN account, you must provide your date of birth and email address. You may choose to provide valid credit card information at the time of registration. If you wish to make a purchase through Sony Online Services and would like to pay for that purchase with a credit card, you will be required to provide valid credit card information at the time of purchase. We maintain and store credit card information (other than CVV) provided by consumers for purposes of charging future purchases.
+a. Web browsing, network or service usage data, such as browser type, internet service provider (ISP), IP address, referring/exit pages, operating system, date/time stamp, and clickstream data;
 
-In the United States and Canada, if a Master Account holder is giving consent to allow his or her child under the age of 13 to participate on Sony Online Services, we require that he or she provide valid credit card information to confirm parental consent. If a parent is setting up a Sub Account for his or her child under 18 years of age (or 21 in Argentina) for whom he or she is legally responsible, he or she must provide this information for the child and consent to our use of the child's personally identifying information in accordance with this privacy policy. For more information on Sub Accounts and Master Accounts, please see the Sony Online Services Terms of Service and User Agreement. 
+b. Network connected hardware (e.g. computer, gaming console, or mobile device) data, such as a unique device identifier, type, model, version, error related data, status, capability,  configuration, functionality, performance data, and connection type;
 
-For information on our collection policies for children under the age of 13, please see the "Policies for Children" section of this privacy policy. 
+c. Network connected software data, such as application utilization, game play, game or system video and audio, progress, utilization, performance, peripheral and device use, services requested and used, or content downloaded and viewed; 
 
-Generally, we require a Sony Online Services account in connection with activities including the following:
+d. Physical or geographic location data, such as country, region, city, or latitude and longitude.  For example, to provide location based game matching services, we may collect latitude and longitude.
 
-  * Participation in online contests, sweepstakes or other promotions 
-  * Inclusion in email newsletter programs (an account holder must opt in to receive marketing materials) 
-  * All purchases of content or services via Sony Online Services
+e. Advertising data, such as display frequency, duration, location, or viewing software, location, or identifier.
 
+Technologies used on the SNEI Network to passively collect such information may include: 
 
+  * Cookies. Small data files placed on a devices hard drive. 
+  * Web Beacons. Small graphic images or other web programming code called web beacons, (also known as "1x1 GIFs" or "clear GIFs") may be included on our websites or in our e-mail messages. 
+  * Embedded Scripts. Programming code that is temporarily downloaded onto a device, and is active only while you are connected to our website, and is deactivated or deleted thereafter.
 
-Additionally, we may collect personally identifying information in connection with the following, to the extent such features are available: 
 
-  * Questions or comments directed to Consumer Services through any medium
-  * Subscription to a non-Sony Online Services marketing program 
-  * "Send-to-a-Friend" or "Tell a Friend" emails or related communications 
 
+In addition, the SNEI Network may use a variety of other hardware or software specific technologies that automatically collect information.  (For example, a location based game might include technology that automatically determines the user's location). 
 
+**Information We Receive From Third Parties**
 
-### Collection of Personal Information through PSN
+We may also supplement the information that we collect with information that we obtain from third parties.  For example, if you link your SEN/PSN accounts to your game, social media, or other accounts, we may receive data from the providers of those accounts.  Likewise, if other users give us access to their profiles, we may receive information about you if you are one of their connections or information about you is otherwise accessible through their profile.  Alternatively, we may supplement the information we collect about you with outside records from third parties.   We may combine the information we receive from these third parties with the information we directly collect, in which case we will handle it in accordance with this policy.
 
-In addition to the information collected above, when a consumer creates a PSN account, a PSN mailbox for that account is automatically created. The PSN account holder is prompted to select an identifier called the Online ID, which other PSN users may view and is used to send text email messages to the PSN account mailbox. We consider the Online ID personally identifying information for this reason. 
+### Information Use 
 
-###  Collection of Demographic Information through www.sonyentertainmentnetwork.com
+We use non-personally identifying information without restriction. 
 
-From time to time, we may offer consumers the chance to answer questions, including about their favorite products and other issues. General and demographic information such as gender, game and platform preferences, hobbies and recently purchased products is collected anonymously and is not linked to any personally identifying information through cookies or other methods without the user's approval. To learn more about what "cookies" are and how we may use them, please see the section titled "Cookies" below.
+We use personally identifying information ("PII") in a number of ways. 
 
-### Passive Information Collection via Sony Online Services
+First, we use PII for the purpose for which it was collected.  For example, PII that you provide through any of our business support processes (including customer service) will be used to complete that process, and personal information entered by you through the features of our products and services will be used for the operation and delivery of those features. 
 
-SNEI may collect information such as Sony Online Services account holders' system IP address, IP address-related information, system Media Access Control ("MAC") address, network configuration information, network device information, peripheral information, USB device information, plug-in and monitor information, information generated by applicable devices and information about how account holders use Sony Online Services and applicable device users use their devices, including download activity, browser activity, gaming activities, forum postings, game profile, rankings, features used and presence on Friends list or block list.
+Second, while we strive to minimize our use of PII, or otherwise anonymize or aggregate it before use, we may use personal information to:
 
-### How We Use Your Information
+  * Send you marketing communications;
+  * Conduct demographic studies for marketing, sales, or product development;
+  * Provide requested products and services such as online video, music or video game services; 
+  * Deliver contextual or targeted advertising;
+  * Understand and improve SNEI Network operations and performance
+  * Assist in customer service and transactions
 
-We save and use non-personally identifying information without restriction.
 
-We save and use personally identifying information that we may collect for a particular promotional purpose through one of our websites or other promotional opportunities only for that purpose, unless the participant chooses to opt-in to one of the programs discussed below. 
 
-We save and use personally identifying information collected through our websites and Sony Online Services for administration, including providing Sony Online Services account holders with online video, music and videogame services, videogame-, video-, music- and other content-related commerce and activity services, in-game advertising services and community services, administering customer transactions, monitoring for fraudulent activities and transactions, preventing abuse of Sony Online Services and ensuring compliance with the applicable Terms of Service and User Agreement and this privacy policy.
+**Security**
 
-SNEI may use personally identifying information for marketing and demographic studies. For example, SNEI may use a PSN account holder's Online ID to cross-reference passive information with non-personally identifying information in his or her profile, such as gender or age, in order to develop aggregated information about who uses PSN and how. We or the Sony Group of Companies may conduct these studies or may hire a third party to conduct them. These studies are for internal purposes only, to help us improve our websites, products and services to better meet our users' needs. 
+In order to help protect you and others, we may use the data we collect in order to identify fraudulent activities and transactions; prevent abuse of and investigate and/or prosecute any potential threat to or misuse of the SNEI Network; ensure compliance with the applicable terms of service and this privacy policy; investigate violations of or enforce these agreements; and protect the rights and property of Sony, its partners, and customers.  If you do not consent to these conditions, you must discontinue your use of the SNEI Network.
 
-Consumers who opt-in or otherwise voluntarily provide personally identifying information via our website for purposes of receiving marketing materials may also become members of our marketing program. 
+### Information Sharing and Disclosures
 
-Email addresses collected during the use of the E-Cards or "Send-to-a-Friend" email features on our websites (if available) are not retained by us, and are only used to send a one-time email notification on a consumer's behalf.
+**Information We Share**
 
-SNEI's Consumer Services department maintains information obtained from consumers who contact or submit a complaint so that we may assist these customers with current or future service issues. SNEI's Consumer Services department may collect additional information such as credit card or bank account information if a consumer contacts Consumer Services to request repair of, exchange of or service on an applicable Sony device. Consumer Services uses this information for payment and payment verification purposes. SNEI's Consumer Services department may direct consumers to the consumer services departments of other companies with whom SNEI has arranged to provide consumer service.
+We may share your information, including your personal information, with other parties as follows:   
 
-### Sony Online Services Account Holders
 
-Eligible consumers may register for a Sony Online Services account through certain websites or through applicable Sony devices (for the PSN, devices such as the PlayStation®3 system or the PSP® (PlayStation®Portable) system, and for SEN, devices such as the Sony BRAVIA television, Sony Blu-ray player and Sony Netbox).
+  * Sony.  We may share your information within and among the Sony group of companies for purposes related to providing you with content, products, or services, including games, videos, music, software and software applications; community administration or development; to support various business processes; security; research and development; and so that other Sony companies may contact you about products, services or other offerings that may be of interest to you.
+  * Service Providers to Sony.  With persons or companies we retain to carry out or provide support to business operations, including uses described above in the Information Use section. 
+  * Law Enforcement, Judicial, Administrative, or Regulatory Disclosures. When we believe in good faith that the law requires disclosure or that disclosure is necessary to protect or enforce the rights, property, safety, or security of ourselves or others. 
+  * Business Transfers. In connection with sale of the applicable business, a portion of the business, or certain stock and/or assets, or a corporate merger, consolidation, restructuring, or other corporate change including, without limitation, during the course of any due diligence process.
+  * Third Parties. With third parties (with whom we use reasonable efforts to obtain their agreement to protect the confidentiality, security, and integrity of any personal information we share with them), such as:
+    * Third party providers of products or services that you subscribe to or access through the SNEI Network.  For example, publishers of a game played on a network connected console.
+    * Third parties with whom we are jointly delivering services or features, such as sweepstakes, contests, promotions, or advertising. 
+    * Third parties, who may contact you about products, services or other offerings that may be of interest to you.
 
-Such accounts are free and grant the account holder certain rights on our websites which may include access to restricted areas of our websites, use of our message boards, the opportunity to be a registered user or subscriber of our websites and more. If account holders opt in to receive marketing materials, they may also receive discount and promotional offers, game news, special opportunities and other information about Sony products.
 
-We may give Sony Online Services account holders the opportunity to provide information about themselves on registration materials, and may from time to time send out surveys or questionnaires for account holders to provide feedback and additional information.
 
-By logging in as a Sony Online Services account holder on any website, Sony device or Sony Online Service, consumers consent to having information regarding their activities (which may include their gaming, viewing, listening and browsing preferences and behaviors) added to their Sony Online Services profile. This information allows us to provide those Sony Online Services account holders with information about Sony products and services that best suit their interests, and to customize and personalize their experience (e.g., by providing recommendations based on such preferences and behaviors).
+**Publicly Accessible Sony Social Features**
 
-Sony Online Services may provide several ways for account holders to share freely their thoughts and ideas. They may have the opportunity to use voice chat or video chat or send text email messages to another account holder. Certain games may also provide in-game chat or provide unique means to leave messages for other users. When using these communication tools, account holders must adhere to the applicable Terms of Service and User Agreements as well as any additional terms and conditions that SNEI provides. This privacy policy applies to any information we collect when account holders utilize such communication tools.
+Certain elements of your personal information and certain information about your use of the SNEI Network are publicly accessible to other users of the SNEI Network. For example: other users of the SNEI Network may be able to see your username; your profile picture (if you choose to upload a picture); and your user bio (if you choose to provide a bio).  We may also publicly display other information derived from your activity on the SNEI Network. 
 
-### Prohibited Private Disclosures
+**Information You May Choose to Share**  
+You have the option of sharing your personal information with the public or with certain third parties using features available on certain Sony products, services, and devices.  For example, 
 
-We ask our users to respect the privacy of others and we prohibit Sony Online Services account holders from disclosing their own personally identifying information other than their own Online IDs. Disclosure of phone numbers, addresses, age or other personally identifying information that may violate someone else's privacy is prohibited. Encouraging or asking users to disclose publicly their personally identifying information is also prohibited. We reserve the right to delete any content that violates these rules or any posted term or condition and reserve the right to ban any user who violates these rules. For details on online communication for children in the United States and Canada under the age of 13, please see the section entitled "Policies for Children".
+a. Sharing gameplay video or screen shots with third-party websites or the public through a 'share' button on your game system.
 
-### Consent to Processing
+b. Sharing information regarding your likes via 'like' buttons on our websites.
 
-SNEI operates in parts of North and South America but many of our computer systems are based in the United States. When we process personal data and information and personally identifying information in the United States, we follow United States data protection and privacy regulations, which may not offer the same level of protection as in other parts of the world, such as the European Union. Please be aware that accepting this privacy policy means that you consent to the transfer of your data outside of your country of residence. If a consumer's country of residence is outside the territory where SNEI does business, that consumer will be directed to the SNEI company that services that country. For example, a consumer from Italy would be directed to our affiliated company in Europe and would not go through the registration process for United States consumers nor have data collected by SNEI.
+c. Displaying your real name or photograph within games. 
 
-###  PSN In-Game Advertising
+d. Sharing your activities, including purchases, software used (e.g. games played), and content consumed (e.g. movies watched) with the public through activity feeds.
 
-Dynamic advertisement serving technology enables advertisements to be temporarily loaded or cached to a PSN account holder's system for display only in games that incorporate this technology. If a PSN account holder plays a game that utilizes this feature, we will log information about his or her system and game play to ensure that advertisements are being appropriately served to him or her and to track information about the advertisements displayed during his or her gaming session. Logged data may include: Online ID, system IP address, system MAC address, in-game advertisement location, the length of time an advertisement was visible, relative size of advertisements, the angle of view and other information related to each advertisement visible during the gaming session. We or Sony Group Companies may use information that we have collected about a PSN account holder through this process to provide him or her with future advertisements that we believe will be of particular interest. Logged data or some portion of it will be shared with third-party companies that operate the advertisement serving technology, and these companies may share aggregated data (meaning data that includes data about a PSN account holder's gaming session but is not specific to him or her) with advertisers and game publishers.
+e. You may share personal information with others through chat, text, email or communications features.
 
-### Message Boards
+f. You may follow a link provided on an SNEI website to a third-party website. 
 
-Our websites and Sony Online Services may include message board features, to which the terms and conditions in this section will apply. Our website message boards are a place where users can go to freely share their thoughts and ideas about the Sony brand. A Sony Online Services account is required to contribute to these message boards. Message board participants must adhere to applicable terms of use, as well as any additional posted terms and conditions. Message board moderators enforce these terms of use and other applicable rules. Any information collected in connection with a consumer's participation on our message boards will be covered by this privacy policy. We prohibit Sony Online Services account holders from disclosing their own personally identifying information other than their own Online IDs. We ask our users to respect the privacy of others. Disclosure of phone numbers, addresses, age or other personally identifying information that may violate someone else's privacy is prohibited. Encouraging or asking users to disclose publicly their personally identifying information is also prohibited. We reserve the right to delete any content that violates these rules or any posted term or condition and reserve the right to ban any user who violates these rules. For details on online communication for children in the United States and Canada under the age of 13, please see the section entitled "Policies for Children".
+If you choose to "share" content or to otherwise post information from or via the SNEI Network to a third party website, feature or application, that information will become public and the third party web site may have access to information about you and your use of the SNEI Network. Likewise, other users may use these same features to share information about you.  We are not responsible for how you use or publish personal data through these or similar features, or how third parties use the features to share information. 
 
-### Recording Functionality and Social Media Integration
+### Your California Privacy Rights 
 
-Some Sony Online Services feature games and other functionality that allow account holders to record and publicly distribute footage of their Sony Online Services activities, which could include the personal information of other account holders. If Sony Online Services account holders want to ensure that their activities and information are not shared by other users in this way, those account holders should not utilize services in which this type of functionality is available.
+California Civil Code section 1798.83 permits SNEI customers who are California residents to request certain information regarding SNEI's disclosure within the immediately preceding calendar year of that California resident's personal information to third parties and in some cases affiliates for their direct marketing purposes. To make such a request, contact us through the information provided below.  Any such inquiry must include "California Privacy Rights Request" in the first line of the description. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through the email address.
 
-Sony Online Services account holders can choose to distribute information about their network activities, including their purchases, to our web sites, Sony Group of Companies' websites and third-party websites and services. If you choose to share your information with any third-party websites or services, be sure to review carefully the privacy policies that apply to the use of your information.
+### Children 
 
-### Information Sharing Policy
+SNEI is committed to respecting children's privacy.  We will not collect personal information from anyone under the age of 13 without their parent's consent. 
 
-We share the personally identifying information of Sony Online Services account holders and our website users with: 
+With parental consent, we will collect, use and share information collected from or about children in accordance with the practices described in this document, with the following exceptions:
 
-(1) Sony Computer Entertainment America ("SCEA" or "PlayStation®"), a Sony Group Company which provides PlayStation® products and services through Sony Online Services. SCEA will maintain and treat your personally identifying information that we share with it according to its own privacy policy, which you may review at http://us.playstation.com/support/privacypolicy/index.htm. If you do not agree with all of SCEA's privacy policy's terms, you should not use our websites or Sony Online Services, and you should not create a Sony Online Services account or opt to receive marketing materials.
+**Information You Provide To Us:   **
 
-(2) The Sony Group of Companies and other third parties who assist us with fulfilling your requests, clear and verify transactions, deliver and administer products, content or services, manage and enhance customer data, store and maintain our database records, provide customer service, detect fraud or illegal activities, conduct customer research and surveys, develop new products and services and sell products and services to us for resale to you. In particular, if a Sony Online Services account holder accesses content or services that are published, developed or supported by a Sony Group Company or a third party, his or her personally identifying information may be shared with that entity or third party for purposes related to that content or those services, including game, video, music or community administration or development. SNEI may also share personally identifying information with law enforcement or similar organizations, in connection with a criminal investigation, investigation or prevention of fraud or criminal activities, infringement of intellectual property rights or other activity that is suspected to be illegal or may expose our users or SNEI to legal liability. 
+  * A parent only needs to provide limited information about their child (an email address and date-of-birth) to create a sub-account for their child.  Providing gender is optional.  Language, state, and country are added based upon the Master Account.
+  * Only with the parent's approval can a child add their name, address, or an online ID to their account.
+  * The sub-account's spending limit is set by the parent's Master Account.
 
-We may use personally identifying information and records for defense of a lawsuit, investigation or other action if such personally identifying information, records or profiles are relevant to the lawsuit, investigation or action.
 
-We do not control SCEA's, other Sony Group Companies' or third parties' use of your information after we share it, but we use reasonable efforts to obtain SCEA's, other Sony Group Companies' and third parties' agreement to protect the confidentiality, security, and integrity of any personal information we share with them or that we permit them to collect directly. 
 
-If consumers do not want their personal information made available to others in these ways, they should not establish a Sony Online Services account.
+**Information You May Choose to Share:**
 
-In addition, we may share non-personally identifying information and behavioral data with SCEA, other Sony Group Companies and third parties for the purposes described above as well as other commercial purposes related to Sony Online Services.
+  * A parent can control, through the 'restrict chat' setting on their child's sub-account, their child's ability to use (and share personal information through) text chat, voice chat, video chat, and other messaging features from communicating directly with other users in games, apps or via system software features. Please note that sub accounts can still A) send and receive predetermined text messages created by a game or app, B) create and see other users' in-game character names, designs, and clan titles, C) use communication services via the Internet Browser unless specifically disabled and D) communicate via system messaging on PS3 and PS Vita. 
+  * A parent can control their child's ability to post or view user-generated content, including photos, videos, drawings, and content imported from outside sources (any of which might contain personal information) through the user-generated content control. (This will not prevent video capture of the sub account user's online gameplay). 
 
-### Independent Information Collection and Marketing Opt-ins 
 
-Sony Online Services account holders may be given the option to provide the same or additional personally identifying information directly to a third party pursuant to that third party's privacy policy. In these situations, please review carefully all terms of any third-party privacy policy. We are not responsible for how these companies use your personal information.
 
-Sony Online Services account holders in the United States and Canada have two additional options to "opt-in" to receiving marketing content. The first option is for Sony Online Services account holders to "opt-in" to receive marketing content about Sony Group of Companies' products and services. Unless a Sony Online Services account holder specifically agrees otherwise, these marketing messages will be provided to Sony Online Service account holders by SNEI or PlayStation®/SCEA on behalf of the other Sony Group of Companies. The second option is for Sony Online Services account holders to "opt-in" to have their personal information shared with PlayStation®'s/SCEA's business partners, including promotional partners, licensed software publishers, licensed peripheral makers and other licensees, and other Sony Group Companies so that they may send you marketing materials of their own. This gives account holders the opportunity to receive additional material regarding products that PlayStation®/SCEA thinks account holders will enjoy based on their use of Sony Online Services.
+When a parent allows their child's sub-account to participate in chat or user-generated content features, they also consent to SNEI sharing information with the publishers of the games, applications, or services that incorporate those features and the collection of information entered into such features by the sub-account (e.g. typing text into the chat feature). 
 
-Sony Online Services account holders in all regions other than the United States and Canada have two additional options to "opt-in" to receiving marketing content. The first option is for Sony Online Services account holders to "opt-in" to receive marketing content from SCEA. The second option is for Sony Online Services account holders to "opt-in" to have their personal information shared with SCEA's business partners, including promotional partners, licensed software publishers, licensed peripheral makers and other licensees, and other Sony Group Companies so that they may send you marketing materials of their own. This gives account holders the opportunity to receive additional material regarding products that SCEA thinks account holders will enjoy based on their use of Sony Online Services.
+If you discover your child under the age of 13 has provided personal information to us without your consent, once we verify you are the child's parent, we will promptly: (a) provide direct notice to you indicating what, if any, personal information of your child has been collected and how it has been used or disclosed; (b) remove and cease the use of your child's personal information or other information from our database and (c) by notice to you, confirm compliance with the foregoing.
 
-### California Privacy Rights
+(For additional information on our parental consent and parental controls mechanisms, please refer to Section 2. Parental Consent and Parental Controls of the Terms of Service and User Agreement).
 
-Beginning on January 1, 2005, California Civil Code section 1798.83 permits SNEI customers who are California residents to request certain information regarding SNEI's disclosure within the immediately preceding calendar year of that California resident's personal information to third parties for their direct marketing purposes. To make such a request, contact our consumer services department through the following link: www.sonyentertainmentnetwork.com/support or via telephone at 855-999-SONY (7669). If you would like to change your current account preferences, go to the account management section of your Sony Online Services account.
+### Your Choices and Controls
 
-### Policies for Children
+You have certain choices about how your information is collected and used.  You can access, amend or have your information deleted through your account settings page. You can choose whether or not to receive marketing communications from us and our affiliates, or our marketing partners, through the following mechanisms:
 
-SNEI is committed to complying with all applicable laws and regulations regarding the collection, storage and use of personal information concerning children under the age of 13, including, in the United States, the Children's Online Privacy Protection Act and local legislation. We do not intend to collect or permit the collection, storage or use of any personal information from anyone under 13. We encourage parents to take an active role to protect their children's privacy and to prevent inappropriate uses of their children's information. Parents should instruct their children never to provide their real names, ages or any other identifying information on our websites or via Sony Online Services without first getting permission. If a child under the age of 13 attempts to create a Sony Online Services account and enters his or her correct date of birth, the registration process will direct that child to provide the email address of a parent who can create an account for that child.
+  * E-Mail Messages: Marketing e-mails contain instructions and a link that will allow you to unsubscribe from our marketing e-mails. 
+  * Websites: You can opt-out of receiving marketing communications by un-checking the box indicating your preference at the place where your information is collected.
+  * Customer Profile: You can manage your marketing communications preferences from the Notification Preferences tab in your Account Settings page.
+  * Blogs, Forums, or Message Boards: to request removal of certain of your personal information from a blog, forum, or message board, please contact us as described below. 
 
-In order for a child in the United States or Canada who is under the age of 13 to participate in connection with any Sony Online Services, that child's parent or legal guardian must first create a Master Account for himself or herself. The parent or legal guardian must then use the Master Account to create a Sub Account for the child who is under 13. The creation of a Sub Account requires the parent or legal guardian to provide verifiable legal consent to our collection of the child's personal information and to the child's use of and participation in connection with Sony Online Services. The parent or guardian must also consent to having the child's personal information shared with SNEI's affiliates and third parties, such as game publishers who provide online services on or through PSN for the purposes of game, system or service administration.
 
-The parent or legal guardian must provide SNEI with valid credit card information and a valid email address. SNEI then sends to the parent's internet based email address a message with a link to a secure website. The parent completes the remainder of the account registration on the parent's personal computer, providing the child's name, address and email address. The parent also has options to control his or her child's access to content and ability to chat with other account holders.
 
-If you are a parent or guardian who knows or has discovered your child under the age of 13 has submitted his or her personal information or other information without your consent, permission or authorization, once we verify you are the child's parent or legal guardian, upon request, we will promptly: (a) provide direct notice to you indicating what, if any, personal information of your child has been collected and how it has been used or disclosed; (b) remove and cease the use of your child's personal information or other information from our database and direct any other party with access to such information to do the same; and (c) by notice to you, confirm compliance with the foregoing. 
+In some cases, your choices to change or delete information you provide may affect our ability to deliver our products, services, or websites, or your user experience.  We may decline to process requests which are not otherwise required by law.  Please note that we reserve the right to send you certain communications relating to your account or use of the SNEI Network and these transactional account messages may be unaffected if you choose to opt-out from marketing communications.
 
-### Transfer of Your Information in the Event of Sale or Acquisition
+### Consent to Transfer Information 
 
-In the event that SNEI sells or transfers any or all of its business or has any or all of its business acquired, Sony Online Services account holders' personally identifying information and other consumers' personally identifying information may be transferred to the purchasing or acquiring entity. Please be aware that accepting this privacy policy means that you also consent to the transfer of your personally identifying information outside your country of residence.
+The SNEI Network is operated in the United States and other countries around the world. Please be aware that information we collect, including personal information, will be transferred to, processed and stored in the United States and other countries around the world and, as such, courts, law enforcement, and other authorities in the United States and other countries may, in certain circumstances, be entitled to access your personal information. By using the SNEI Network or providing us with any information through the SNEI Network, you consent to this transfer, processing and storage of your information in the United States and in other countries around the world, jurisdictions in which the privacy laws may not be as comprehensive as those in the country where you reside or are a citizen.
 
-### Cookies
+### Security and Retention  
 
-Cookies are bits of electronic information that a website can transfer to a consumer's hard drive to keep records of his or her visit at the website. Cookies allow website operators to better tailor visits to the website to a consumer's individual preferences. The use of cookies is standard on the Internet and most major websites use them. We may use cookies to improve consumers' experiences when visiting our websites (and utilizing some Sony Online Services). We may use cookies to track anonymously interest in and collect aggregate information on our websites. Similarly, we may keep records of the places Sony Online Services account holders have visited on Sony Online Services and to keep track of their purchases and activities on Sony Online Services.
 
-### Log Files
+We seek to maintain reasonable security measures to help protect your information against unauthorized or accidental disclosure, access, misuse, loss, or alteration.  Although we strive to protect your information, we cannot ensure or warrant the security of such information.  There is no such thing as perfect security.  We may retain information about you as long as it is necessary for us to fulfill the purposes outlined in this policy.  In addition, we may retain your information for an additional period as is permitted or required to, among other things, comply with our legal obligations, resolve disputes, and enforce agreements.  Where required by applicable law, we shall delete your information when the information is no longer necessary or requested to do so.  Even if we delete your information from active databases, the information may remain on backup or archival media as well as other information systems. 
 
-We may use log files to gather statistics about consumers' browsing habits and to assess overall website activity, including how many "hits" a particular web page is getting. These entries are generated anonymously, and enable us to track interest in specific promotions, troubleshoot technical concerns, and provide consumers with content that is most interesting to them. We may also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide to consumers. Log files are used internally only, and are not associated with any particular user, computer or browser.
+### Changes to this Policy
 
-### Web Beacons
+We may revise this statement at any time.  We will post any revisions to this policy, and the changes are effective when we post them here.  By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-Our websites may use a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. We may also use these technical methods to analyze the traffic patterns on our websites, such as the frequency with which consumers visit various parts of our websites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We may also use these technical methods in HTML emails that we send our guests to determine whether our consumers have opened those emails or clicked on links in those emails. The information from use of these technical methods may be collected in a form that is personally identifiable.
+### How to Contact Us About this Privacy Policy
 
-### Accuracy & Security
+For further information on our privacy policy, or for questions on information that we may have collected from you, or should you wish to have your SEN account closed, please contact us by either of the following methods and we will be happy to review, update, or change your record status as appropriate:
 
-We seek to maintain reasonable security measures in order to attempt to protect against the loss, misuse or alteration of the personally identifying information under our control. Unfortunately, there is no such thing as perfect security. As a result, although we strive to protect personally identifying information, we cannot ensure or warrant the security of any information transmitted to us through or in connection with our website, Sony Online Services or that we store on our systems or that is stored on our service providers'systems.
+By Phone at:  
+855-999-SONY (7669)
 
-We strive to take reasonable measures to protect the confidentiality, security, and integrity of the personal information collected from our website visitors. Personal information is stored in secure operating environments that are not available to the public and that are only accessible to authorized employees. In addition, Sony Online Services use industry-standard encryption to prevent unauthorized electronic access to sensitive financial information such as your credit card number. We also have security measures in place to protect the loss, misuse, and alteration of the information under our control. For example, before we allow Sony Online Services account holders to access their personal information, we verify their identity by requesting information such as their Sign-in ID and password. In the event of a security breach, we have procedures in place to protect our consumers' data.
-
-Sony Online Services account holders should keep their Sign-in IDs and passwords secret to prevent unauthorized access and use of their accounts. If you are a Sony Online Services account holder and have set your "Auto Sign-in" setting to populate your password and Sign-in ID automatically, please make sure you change the setting to [Auto Sign-In Off] before you let anyone else use your account or give your device to anyone else, including returning the device to a retailer or to SNEI or its affiliates.
-
-### Retention Policy
-
-We will retain personally identifying information about you for the period necessary to fulfill the purposes outlined in this policy unless a longer retention period is required by law or regulations.
-
-### Contact Us
-
-For further information on our privacy policy, or for questions on information that we may have collected from you, or should you wish to have your Sony Online Services account closed, please contact us by either of the following methods and we will be happy to review, update, or change your record status as appropriate:
-
-### By Phone at: 
-
-855-999-SONY (7669) 
-
-### By Mail at: 
-
+By Mail at:  
 SNEI, Consumer Services Department   
 6080 Center Drive, 10th Floor   
-Los Angeles, CA   
-90045
+Los Angeles, CA 90045  
+90045  
+Online: www.sonyentertainmentnetwork.com/support
 
-### Online:
-
-www.sonyentertainmentnetwork.com/support
-
-### In Latin America:
-
-Argentina: 011-6770-7669
-
+In Latin America:  
+Argentina: 011-6770-7669   
 Brazil: 0800-880-7669 (from outside Brasilia)  
-Brazil: 4003 7669 (inside Brasilia)  
-Chile: 800-261-800; (56)(2)7546333   
-Colombia: 01-800-550-7000   
+Brazil: 4003 7669 (from inside Brasilia)  
+Chile: 800-261-800; (56)(2)7546333  
+Colombia: Bogotá: 3581251; Nacional: 01 8000-94-00-11  
 Mexico: 01800.759.7669   
 Peru: 0-801-1-7000; (51)(1)511-6100
+
+**Additional Information About Certain Sony Products and Services**  
+When you use the SNEI Network, additional privacy notices may apply. 
