@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dinkleboo.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707062934id_/http%3A//www.dinkleboo.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinkleboo.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406034317id_/http%3A//www.dinkleboo.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy Personalised Kids Stuff
+# Privacy Policy - Personalised Kids Stuff
 
 ## Dinkleboo and Your Right to Privacy
 
@@ -30,7 +30,7 @@ To assist in providing some products and services, Dinkleboo may pass on your pe
 
 
 
-Other than described above, Dinkleboo will not use, sell or disclose your personal information without your consent. Security of your Personal Information Dinkleboo holds all personal information securely. Access is restricted to the Dinkleboo employees who need the personal information for a designated purpose and additional security measures including secure locked areas, the highest level of commercially available encryption for financial transactions on line and secure disposal procedures have been implemented. Access to your Personal Information You have a right to access the personal information Dinkleboo collects about you. If you wish to access or change your personal information, or have any questions about this Privacy Policy, please contact us via [Contact Us](mailto:support@dinkleboo.com) . Attention: Privacy Officer, Dinkleboo Australia. 
+Other than described above, Dinkleboo will not use, sell or disclose your personal information without your consent. Security of your Personal Information Dinkleboo holds all personal information securely. Access is restricted to the Dinkleboo employees who need the personal information for a designated purpose and additional security measures including secure locked areas, the highest level of commercially available encryption for financial transactions on line and secure disposal procedures have been implemented. Access to your Personal Information You have a right to access the personal information Dinkleboo collects about you. If you wish to access or change your personal information, or have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20150406034317id_/http%3A//www.dinkleboo.com/contacts). Attention: Privacy Officer, Dinkleboo Australia. 
 
 _**The Privacy Officer  
 Dinkleboo Australia. **_
