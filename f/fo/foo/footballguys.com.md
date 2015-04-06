@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132249id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407001821id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
 
 # Money Back Guarantee
 
@@ -85,7 +85,7 @@ We collect the Personally Identifying Information listed below:
 
 **Privacy Policy Archive**
 
-  * [ Effective date: 3/21/2009](https://web.archive.org/web/20141120132249id_/http%3A//footballguys.com/fbgprivacy03212009.php)
+  * [ Effective date: 3/21/2009](https://web.archive.org/web/20150407001821id_/http%3A//footballguys.com/fbgprivacy03212009.php)
 
 
 
