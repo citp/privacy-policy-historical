@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the celebsnudeworld.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805203214id_/http%3A//www.celebsnudeworld.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebsnudeworld.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406115701id_/http%3A//www.celebsnudeworld.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://web.archive.org/)
 
 ###  PRIVACY POLICY
 
@@ -43,5 +45,3 @@ We also use Your information for the obvious purpose of providing Your User prof
     1. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at help@celebsnudeworld.com
 
 
-
-[](http://www.ascap.com/)[](http://www.rtalabel.org/)
