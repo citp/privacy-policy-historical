@@ -1,17 +1,25 @@
-> *The following text is extracted and transformed from the innerchef.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerchef.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406221535id_/http%3A//innerchef.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy
 
-* * *
+We, InnerChef Pvt Ltd, are committed to protecting and respecting your privacy. This policy (together with our Terms and any other documents referred to herein) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. Information we may collect from you.
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+#### Personal Information
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+When you interact with us, we automatically receive and store certain types of information, such as the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as “Retargeting”). This is statistical information used to monitor the usage of our website and for advertising purposes. This information does not include personal information.
 
+#### Cookies
 
+As you browse InnerChef, advertising cookies will be placed on your computer so that we can understand what you are interested in. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Site and to deliver a better and more personalized service. They enable us: (1) To estimate our audience size and usage pattern, (2) To store information about your preferences, and so allow us to customize our Site according to your individual interests, (3) To speed up your searches and (4) To recognize you when you return to our Site.
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+#### Security
+
+We implement a secure processing server on our site when collecting information to ensure a high level of security for your personal information entered such as bank details and credit card information.
+
+#### Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+#### Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [hello@innerchef.com](mailto:hello@innerchef.com?Subject=Query%20related%20to%20privacy%20policy)
