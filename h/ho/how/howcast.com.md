@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howcast.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125051447id_/http%3A//info.howcast.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howcast.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406114959id_/http%3A//info.howcast.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy- Howcast Media, Inc.
 
