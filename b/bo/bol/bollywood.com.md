@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018010217id_/http%3A//www.bollywood.com/bollywoodcom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406032904id_/http%3A//www.bollywood.com/bollywoodcom-privacy-policy) for the most accurate reproduction.*
 
-# Bollywood.com Privacy Policy | Bollywood.com : Entertainment news, movie, music and fashion reviews
+# Bollywood.com Privacy Policy | Bollywood.com
 
 Privacy Policy for Bollywood.com
 
@@ -20,7 +20,7 @@ We also use third party advertisements on Bollywood.com to support our site.  S
 
 Google's DoubleClick DART cookies
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).  The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting the <A HREF="http://www.doubleclick.com/privacy/dart_adserving.aspx">DART Ad-Serving and Search Cookie Opt-Out</A> site.
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).  The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting the DART Ad-Serving and Search Cookie Opt-Out site.
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
