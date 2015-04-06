@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashsurveysonly.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709202133id_/http%3A//www.cashsurveysonly.com/cash-surveys-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashsurveysonly.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406134313id_/http%3A//www.cashsurveysonly.com/cash-surveys-policy.php) for the most accurate reproduction.*
 
 # Paid Surveys | Cash Surveys Only | Privacy Policy
 
@@ -40,7 +40,7 @@ We reserve the right to contact you via mail, email or phone on any special prom
 
 | 
 
-[Get Your CSO Membership Today ](https://web.archive.org/web/20140709202133id_/signup.php)
+[Get Your CSO Membership Today ](https://web.archive.org/web/20150406134313id_/signup.php)
 
 Plus, when you join CSO, you’ll enjoy all of these benefits and much more: - You’ll have ‘insider’ knowledge about new products that are not yet available to the public - You’ll earn commissions for telling your friends about CSO (even if you’re not a member!) - You’ll learn how to maximize your earnings in the cash survey business Whether you need short-term cash for bills or want to quit your job and work from home full time, CSO offers you freedom and flexibility. And none of the survey companies we list require any fee to join whatsoever! CSO is the only company that lists only cash paying survey sites. Plus, you cannot be turned down – everyone is qualified to do survey work! 
 
