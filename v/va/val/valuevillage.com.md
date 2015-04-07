@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuevillage.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121063130id_/http%3A//www.valuevillage.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuevillage.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407185038id_/http%3A//www.valuevillage.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Value Village - Good deeds. Great deals.
 
