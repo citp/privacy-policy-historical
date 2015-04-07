@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204053309id_/http%3A//www.theidm.com/about/legal-stuff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407135454id_/http%3A//www.theidm.com/about/legal-stuff) for the most accurate reproduction.*
 
 # The legal stuff: privacy, policies, security and copyright
 
