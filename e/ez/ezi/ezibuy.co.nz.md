@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028234551id_/http%3A//www.ezibuy.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407180821id_/http%3A//www.ezibuy.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EziBuy New Zealand
 
@@ -60,15 +60,15 @@ You can subscribe to promotional and marketing email and/or text communications 
 
 By subscribing to our email and/or text communications, or otherwise providing us with your email address and/or mobile number, you consent to receiving emails and/or texts (as the case may be) which promote and market our products and services, or the products and services of others, from time to time.
 
-You can unsubscribe from our email communications at any time by clicking the "Unsubscribe" link in any promotional or marketing email received from us or by signing into My EziBuy [here](http://www.ezibuy.co.nz/) and unchecking "I want to receive: Email" box or by calling us on 1800 148 148 or emailing us at mail@ezibuy.co.nz.
+You can unsubscribe from our email communications at any time by clicking the "Unsubscribe" link in any promotional or marketing email received from us or by signing into My EziBuy [here](http://www.ezibuy.co.nz/) and unchecking "I want to receive: Email" box or by calling us on 0508 500 500 or emailing us at mail@ezibuy.co.nz.
 
-You can unsubscribe from our text communications at any time by following the directions to unsubscribe in any promotional or marketing text received from us or by signing into My EziBuy [here](http://www.ezibuy.co.nz/) and unchecking "I want to receive: Texts" box or by calling us on 1800 148 148 or emailing us at mail@ezibuy.com.au.
+You can unsubscribe from our text communications at any time by following the directions to unsubscribe in any promotional or marketing text received from us or by signing into My EziBuy [here](http://www.ezibuy.co.nz/) and unchecking "I want to receive: Texts" box or by calling us on 0508 500 500 or emailing us at mail@ezibuy.co.nz.
 
 Once you have unsubscribed from our email or text communications, we will remove you from the corresponding marketing list as soon as is reasonably practicable.
 
 We use email open and click tracking including cookies, a single pixel image for tracking and link redirects for tracking clicks, for us to get a better understanding of which email communications are of most interest to you so we can provide you with a better experience by sending relevant and interesting email communications.
 
-If you have any concerns or complaints regarding emails or texts received from us, for example if you are receiving unwanted emails or texts or are not the intended recipient, please call us on 1800 148 148 or email us at mail@ezibuy.com.au.
+If you have any concerns or complaints regarding emails or texts received from us, for example if you are receiving unwanted emails or texts or are not the intended recipient, please call us on 0508 500 500 or email us at mail@ezibuy.co.nz.
 
 Calls may be monitored or recorded for training and quality control purposes.
 
