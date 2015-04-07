@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperscale.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122094338id_/http%3A//hyperscale.com/privacypolicy_1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperscale.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072126id_/http%3A//www.hyperscale.com/privacypolicy_1.htm) for the most accurate reproduction.*
 
 # HyperScale and Missing-Lynx Privacy Policy
 
@@ -122,6 +122,6 @@ The Act gives you the right to access information held about you. Your right of 
 Page Created 19 August, 2014  
 Last updated 19 August, 2014
 
-**Back to[HyperScale Main Page](https://web.archive.org/web/20141122094338id_/http%3A//hyperscale.com/2007/reviews/default.htm)**
+**Back to[HyperScale Main Page](https://web.archive.org/web/20150407072126id_/http%3A//www.hyperscale.com/2007/reviews/default.htm)**
 
-**Back to[Reviews Page](https://web.archive.org/web/20141122094338id_/http%3A//hyperscale.com/2007/reviews/reviews.htm)**
+**Back to[Reviews Page](https://web.archive.org/web/20150407072126id_/http%3A//www.hyperscale.com/2007/reviews/reviews.htm)**
