@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgagewebsuccess.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918090955id_/http%3A//mortgagewebsystem.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagewebsuccess.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073910id_/http%3A//mortgagewebsystem.com/legal/privacy) for the most accurate reproduction.*
 
 # Earnings Disclaimer
 
@@ -133,6 +133,6 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 
 
 
-**Warning** : include(../../include/legalfooter.php) [[function.include](https://web.archive.org/web/20140918090955id_/http%3A//mortgagewebsystem.com/legal/function.include)]: failed to open stream: No such file or directory in **/nfs/c09/h03/mnt/137992/domains/mortgagewebsystem.com/html/legal/privacy/index.php** on line **97**
+**Warning** : include(../../include/legalfooter.php) [[function.include](https://web.archive.org/web/20150407073910id_/http%3A//mortgagewebsystem.com/legal/function.include)]: failed to open stream: No such file or directory in **/nfs/c09/h03/mnt/137992/domains/mortgagewebsystem.com/html/legal/privacy/index.php** on line **97**
 
-**Warning** : include() [[function.include](https://web.archive.org/web/20140918090955id_/http%3A//mortgagewebsystem.com/legal/function.include)]: Failed opening '../../include/legalfooter.php' for inclusion (include_path='.:/usr/local/php-5.3.27/share/pear') in **/nfs/c09/h03/mnt/137992/domains/mortgagewebsystem.com/html/legal/privacy/index.php** on line **97**
+**Warning** : include() [[function.include](https://web.archive.org/web/20150407073910id_/http%3A//mortgagewebsystem.com/legal/function.include)]: Failed opening '../../include/legalfooter.php' for inclusion (include_path='.:/usr/local/php-5.3.29/share/pear') in **/nfs/c09/h03/mnt/137992/domains/mortgagewebsystem.com/html/legal/privacy/index.php** on line **97**
