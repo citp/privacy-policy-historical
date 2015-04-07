@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williecrawford.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231155922id_/http%3A//chitterlings.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williecrawford.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072249id_/http%3A//chitterlings.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Chitterlings.com - Privacy Policy
 
