@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the azonprofitstore.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225181201id_/http%3A//azonprofitstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azonprofitstore.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407112802id_/http%3A//azonprofitstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Amazon Store WordPress Theme
+
+**Strict Standards** : Declaration of truethemes_sub_nav_walker::end_lvl() should be compatible with Walker_Nav_Menu::end_lvl(&$output, $depth = 0, $args = Array) in **/home/azonprof/public_html/wp-content/themes/Sterling/framework/theme-specific/navigation.php** on line **79**
+
+**Strict Standards** : Declaration of truethemes_sub_nav_walker::start_el() should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = Array, $id = 0) in **/home/azonprof/public_html/wp-content/themes/Sterling/framework/theme-specific/navigation.php** on line **79**
+
+**Strict Standards** : Declaration of truethemes_sub_nav_walker::end_el() should be compatible with Walker_Nav_Menu::end_el(&$output, $item, $depth = 0, $args = Array) in **/home/azonprof/public_html/wp-content/themes/Sterling/framework/theme-specific/navigation.php** on line **79**
+
+**Strict Standards** : Declaration of truethemes_gallery_walker::start_el() should be compatible with Walker_Category::start_el(&$output, $category, $depth = 0, $args = Array, $id = 0) in **/home/azonprof/public_html/wp-content/themes/Sterling/framework/theme-specific/navigation.php** on line **154**
+
+**Strict Standards** : call_user_func_array() expects parameter 1 to be a valid callback, non-static method truethemes_sidebar_generator::init() should not be called statically in **/home/azonprof/public_html/wp-includes/plugin.php** on line **429**
+
+**Strict Standards** : Non-static method truethemes_sidebar_generator::get_sidebars() should not be called statically in **/home/azonprof/public_html/wp-content/themes/Sterling/framework/extended/multiple_sidebars.php** on line **60**
 
 This privacy policy sets out how AzonProfitStore.com uses and protects any information that you enter when you use this website.
 
