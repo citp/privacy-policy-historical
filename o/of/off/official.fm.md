@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the official.fm privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606234110id_/http%3A//www.official.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the official.fm privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407135429id_/http%3A//www.official.fm/privacy) for the most accurate reproduction.*
 
-# Official.fm – for your ears and eyes
+# Official.fm. Music to discover and share.
 
 ## 1\. Your Acceptance
 
