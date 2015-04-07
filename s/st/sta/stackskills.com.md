@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stackskills.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225043210id_/http%3A//stackskills.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackskills.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072130id_/http%3A//stackskills.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# StackSkills | Privacy Policy
+
+## Privacy Policy
 
 This Privacy Policy governs the manner in which the website collects, uses, maintains and discloses information collected from users (each, a 'User') of the website ('Site'). This privacy policy applies to the Site and all products and services offered by company.
 
