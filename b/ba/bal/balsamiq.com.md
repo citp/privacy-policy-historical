@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the balsamiq.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209074748id_/http%3A//balsamiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balsamiq.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407214051id_/http%3A//balsamiq.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Balsamiq
+# Privacy Policy - Balsamiq
+
+  * **Mockups for Desktop, Mockups for Confluence and for JIRA (when used with Confluence and JIRA Server)** are governed by the Balsamiq End User License Agreement (EULA). Download it here: [BalsamiqEula.pdf](https://media.balsamiq.com/files/BalsamiqEula.pdf) (revision history).
+  * **myBalsamiq** is governed by the [myBalsamiq Terms of Service and Privacy Policy](http://support.balsamiq.com/customer/portal/articles/174898).
+  * **Mockups for Google Drive, Mockups for Confluence and for JIRA when used on Atlassian Cloud or Mockups used on ux.stackexchange.com** are governed by the [Balsamiq Mockups Hosted Plugin Terms of Service and Privacy Policy](http://support.balsamiq.com/customer/portal/articles/479049).
+  * **balsamiq.com** and **support.balsamiq.com** (our websites) are governed by the [Balsamiq.com Terms of Service](https://web.archive.org/termsofuse) and [Privacy Policy](https://web.archive.org/privacy).
+
+
+
+* * *
 
 Effective March 15th 2008.
 
