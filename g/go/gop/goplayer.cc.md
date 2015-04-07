@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the goplayer.cc privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810171607id_/http%3A//www.goplayer.cc/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goplayer.cc privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407085601id_/http%3A//www.goplayer.cc/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
+[ ](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=503&sealid=112) Privacy Policy
 
 337 Technology Limited’s privacy policies explain how we treat your personal data and protect your privacy when you use our Services. By using our Services, you agree that 337 Technology Limited can use such data in accordance with our privacy policies.
 
 We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which app you’ll find most useful.
+
+**TRUSTe's Trusted Download Program**
+
+new!
+
+337 Technology Limited's application GoPlayer version 3.7.10.0 has been certified by the TRUSTe's Trusted Download Program signifying that GoPlayer version 3.7.10.0 has been tested TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding GoPlayer version 3.7.10.0, please contact us at 337 Technology Limited, Unit 04,7/F, Bright Way Tower, No.33 Mong Kok Road, Kowloon, Hong Kong or by email at contact@337.com or by phone at 86-10-82800116. If you are not satisfied with our response you can contact TRUSTe **[here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=503&sealid=112)**. The TRUSTe Trusted Download program covers only the certified software downloaded from this site. Trusted Download certification does not cover other applications such as mobile versions, Facebook or Twitter apps.
 
 Information we get from your use of our services:
 
@@ -51,12 +57,6 @@ c.If User install v9 homepage as well, the following registry entries will be le
 2) HKEY_LOCAL_MACHINE\SOFTWARE\V9Software\v9hp\
 
 The registry entries can be referenced after uninstall by v9 or 337 Technology Limited. The purpose of the registry entries are dereplication and backup of channel ID.
-
-**TRUSTe's Trusted Download Program**
-
-new!
-
-337 Technology Limited's application GoPlayer 3.7.2 has been provisionally certified by the TRUSTe's Trusted Download Program signifying that the GoPlayer application has been tested TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the GoPlayer application, please contact us at [337 Technology Limited,Unit 04,7/F, Bright Way Tower, No.33 Mong Kok Road, Kowloon, Hong Kong.] or by email at [contact@337.com] or by phone at [86-10-82800116]. If you are not satisfied with our response you can contact TRUSTe **[here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=503&sealid=112)**. The TRUSTe Trusted Download program covers only the certified software downloaded from this site. Trusted Download certification does not cover other applications such as mobile versions, Facebook or Twitter apps.
 
 **Contact Us**
 
