@@ -1,282 +1,378 @@
-<!--The following is the downloaded HTML source of the official.fm privacy policy that was archived on 2014-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140606234110id_/http%3A//www.official.fm/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the official.fm privacy policy that was archived on 2015-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407135429id_/http%3A//www.official.fm/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"1f8b624bd4","applicationID":"622350","transactionName":"IgxXF0QKDV1TEU5JTQMPUAAZFRNYQAICQA==","queueTime":4,"applicationTime":7,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwUBUlJADgECV1RS"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Official.fm – for your ears and eyes</title>
-    <link rel="shortcut icon" href="http://cdn.official.fm/assets/favicon-9c9e67a919bcb3ab2dd410949479d8ea.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
+    <link rel="dns-prefetch" href="//engine.adzerk.net">
+    <link rel="dns-prefetch" href="//static.adzerk.net">
+    <!--[if IE 9]>
+    <link rel="prefetch" href="http://engine.adzerk.net">
+    <link rel="prefetch" href="http://static.adzerk.net">
+    <link rel="prefetch" href="https://engine.adzerk.net">
+    <link rel="prefetch" href="https://static.adzerk.net">
+    <![endif]-->
+
+    <script src="//use.typekit.net/gvq1apx.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
+      <link rel="dns-prefetch" href="//cdn-stream.official.fm">
+  <!--[if IE 9]>
+  <link rel="prefetch" href="http://cdn-stream.official.fm">
+  <link rel="prefetch" href="https://cdn-stream.official.fm">
+  <![endif]-->
+
+
+    <title>Official.fm. Music to discover and share.</title>
+    <meta name="robots" content="index">
+    <meta name="title" content="Official.fm. Music to discover and share.">
+    <meta name="description" content="Official.fm. Music meets Brands meets You. Done the right way.">
+    <link rel="shortcut icon" href="http://cdn.official.fm/assets/favicon-c9bcfb553e1e2f6b16ddc3e117d64d16.ico">
 <!-- For third-generation iPad with high-resolution Retina display: -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cdn.official.fm/assets/apple-touch-icon-144x144-precomposed-7b1b142b8258f12eb619c136bb51f9dd.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cdn.official.fm/assets/apple-touch-icon-144x144-precomposed-6cedfb7246419822ffcdd905ac02eee5.png">
 <!-- For iPhone with high-resolution Retina display: -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cdn.official.fm/assets/apple-touch-icon-114x114-precomposed-9fd51b056894eab2806c46ff314d3ed1.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cdn.official.fm/assets/apple-touch-icon-114x114-precomposed-372cb8a878856bf9af2f61a253f7f8ef.png">
 <!-- For first- and second-generation iPad: -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cdn.official.fm/assets/apple-touch-icon-72x72-precomposed-88bb3a5a5d3d38225a45252f6777f0b7.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cdn.official.fm/assets/apple-touch-icon-72x72-precomposed-507cc0029ad0fc55c3e9c7eab93dcb9c.png">
 <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
-<link rel="apple-touch-icon-precomposed" href="http://cdn.official.fm/assets/apple-touch-icon-precomposed-d725482389974b41f56730e825e96aa8.png">
-    <link href="http://cdn.official.fm/assets/public2_manifest-779741023aebbc6c3092113d010f8859.css" media="screen" rel="stylesheet" type="text/css">
-    <style type="text/css">
-      
-      @media only screen and (-Webkit-min-device-pixel-ratio: 1.5), only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
-        
-      }
-    </style>
+<link rel="apple-touch-icon-precomposed" href="http://cdn.official.fm/assets/apple-touch-icon-precomposed-86fca80daabd9b0b1f68b46fe4aa1009.png">
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="RzaMvmZW2MO2x/rHq7xTGo84kon4hMgCrza+rv5DUiE=" name="csrf-token">
+    <link href="http://cdn.official.fm/assets/page2_manifest-254ec19b278ebb3858c1519ab3dcf44a.css" media="screen" rel="stylesheet">
     
-<script src="http://cdn.official.fm/assets/i18n_manifest-95bc274e823ba2b18f3cb377e9c37b81.js" type="text/javascript"></script>
-<script src="http://cdn.official.fm/assets/i18n/public-en-98b0d081a0ce03a13ec78ac2573d3e1b.js" type="text/javascript"></script>
+    <script>
+      window.page2 = window.page2 || {};
+    </script>
+      <meta property="og:title" content="Official.fm. Music to discover and share.">
+      <meta property="og:type" content="website">
+      <meta property="og:image" content="http://cdn.official.fm/assets/page2/ofm-graph-logo-d3cad7026d7044aaf2246122691b84cc.png">
+      <meta property="og:url" content="http://www.official.fm/privacy">
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:url" content="http://www.official.fm/">
+      <meta name="twitter:title" content="Official.fm. Music to discover and share.">
+      <meta name="twitter:description" content="Official.fm. Music meets Brands meets You. Done the right way.">
+      <meta name="twitter:image" content="http://cdn.official.fm/assets/page2/ofm-twitter-logo-3b09096dad9cdebb1a34e2bc297c3587.png">
+  </head>
+  <body class="">
+    <div class="spinner-bottom-wrapper">
+      <div class="medium spinner spinner-bottom"><div>Loading…</div></div>
+    </div>
+    <div class="navbar navbar-fixed-top container-fluid">
+      <div class="brand-container">
+        <a class="brand" data-push="true" data-target="#main" href="http://www.official.fm/"></a>
+
+        <div class="small spinner spinner-header hidden"><div>Loading…</div></div>
+      </div>
+      <div class="navbar-player" id="ofmplayer">
+        <div class="control-buttons-container hidden">
+          <a href="#" class="fa fa-step-backward" data-player="ofm_btn_previous"></a>
+          <div class="spinner hidden" data-player="ofm_spinner"></div>
+          <a href="#" class="fa fa-play" data-player="ofm_btn_play"></a>
+          <a href="#" class="fa fa-step-forward" data-player="ofm_btn_next"></a>
+        </div>
+        <div class="timeline-container hidden">
+          <p class="timeline-info">
+            <a class="timeline-artist" data-player="artist" data-push="true" data-target="#main" href=""></a>
+            <a class="timeline-title" data-player="title" data-push="true" data-target="#main" href=""></a>
+          </p>
+          <span class="playing-time" data-player="ofm_time_play">00:00</span>
+          <span class="total-time" data-player="ofm_time_total">00:00</span>
+          <div class="timeline tip" data-unitip-follow="x" data-player="ofm_timeline_container" title="00:00">
+            <div class="timeline-visual">
+              <div class="total" data-player="ofm_timeline">
+                <div class="loaded"></div>
+                <div class="played"></div>
+                <div class="buffer"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a href="#" class="black-player-close hidden">×</a>
+      <div class="menu">
+        <ul class="list pull-right">
+            <li><a class="link-login" data-push="true" data-target="#main" href="/login">login</a></li>
+            <li><a class="btn btn-primary" data-push="true" data-target="#main" href="/join">join</a></li>
+        </ul>
+      </div>
+    </div>
+
+
+    <div id="main">
+      <div class="row">
+
+  <div class="ofm-public-boxes text-boxes col-md-4 col-md-offset-4">
+    <h1 class="page-header">Privacy Policy</h1>
+
+    <h2>1. Your Acceptance</h2>
+
+    <p>This notice describes Official.fm’s privacy policy (hereinafter referred to as “Privacy Statement”) and applies to the Official.fm Website, including all online services and functions.  This Privacy Statement applies to you, as a user of the Official.fm Website and as a Viewer of Content provided by users of the Website.</p>
+
+    <p class="uppercase">PLEASE REVIEW THIS PRIVACY STATEMENT BEFORE USING THIS WEBSITE. IF YOU DO NOT AGREE WITH OUR PRIVACY STATEMENT, DO NOT USE THE WEBSITE. BY USING THE WEBSITE OR SUBMITTING ANY PERSONAL INFORMATION TO THE WEBSITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY STATEMENT.</p>
+
+    <p>Your use of this Website is also subject to the Terms of Service. Please review the Terms of Service, located at <a href="/terms">http://www.official.fm/terms</a>, for additional details regarding your use of this Website.  All capitalized terms have the same meaning as defined in the Terms of Service unless otherwise stated herein.</p>
+    <hr>
+
+    <h2>Registration</h2>
+
+    <p>Official.fm requires users who wish to contribute to or use the Website to register by completing the appropriate Official.fm registration process. During registration, you will be required to provide contact information including an e-mail address, username and password. Official.fm requires your true name and identifying information for registration via the Website. In instances where Official.fm does not require your true name or any identifying information, you agree not to choose a name that misleads or misidentifies you as another person, Official.fm or is confusingly similar to any products, services, trademarks or is indecent or otherwise offensive. If you choose to use your own name as your screen name, you consent to it being passed to others by certain functionality and uses of the Website. </p>
+
+    <hr>
+
+    <h2>Protection of Minors</h2>
+
+    <p>Official.fm does not permit children under the age of 13 to register on the Website or use any of its functionality for which registration is required.</p>
+
+    <hr>
+
+    <h2>Personally Identifiable Information</h2>
+
+    <p>PII is information that identifies you or can be used to identify, contact, or locate you. This includes, but is not limited to, your name (i.e., first name or initial and last name), home or business address, email address, telephone number, and debit or credit card information such as the credit card number, card verification value, or billing address. </p>
+
+    <p>Official.fm respects your privacy. We only collect PII through optional, voluntary submissions, such as email, survey information, and online registration forms. The types and amount of personal information collected from these activities will vary depending on the activity, but in no event will we collect PII that is not voluntarily given by you. Official.fm may use PII to facilitate requests, to contact you if a problem arises or for other uses consistent with this statement and your requests.</p>
+
+    <hr>
+
+    <h2>Non-Personally Identifiable Information</h2>
+
+    <p>Official.fm collects statistical data about your use and third parties’ use of the Website and interest in the Content provided on the Website using Cookies, as described below.  This data does not identify you personally and is purely statistical data, such as the date a Viewer views Content, length of viewing, where Content is embedded, where the Viewer is geo-located and other similar anonymous data.  This Non-PII helps Official.fm maintain, administer and monitor the Website in order to analyze trends, improve the overall quality of the Website, enhance Official.fm’s services, tailor the Website to your needs and respond to your inquiries. Such analysis and information is aggregated across users, does not identify anyone as an individual and does not link to any personally identifiable information. Besides posting these statistics for you and other fans to enjoy, Official.fm may publish or share this statistical information in the aggregate with other companies.</p>
+
+    <hr>
+
+    <h2>Sharing with Third Parties</h2>
+
+    <p>Official.fm may partner with other third parties to provide specific services.  When you sign up for such services, Official.fm may share names or other PII as necessary in order for the third party to provide such services. From time to time, Official.fm may need to share such PII with other trusted third parties who perform certain services and functions on Official.fm’s behalf (such as maintenance and support for the Website).  These parties only have access to the PII they need in order to perform their functions.  Official.fm may also share your personal information with users of the Website at your request, for example, you may be asked to provide your email address in exchange for a free download of song.  Except as outlined in this statement or on the Website, Official.fm does not provide your PII to third parties without your consent.</p>
+
+    <p>Official.fm may share non-PII in the aggregate with you and other fans to enjoy, and may publish or share this statistical information in the aggregate with other companies.</p>
+
+    <p><strong>Official.fm’s Privacy Statement does not apply to, and we cannot fully control how, third parties use your information.  Accordingly, we cannot be held responsible for third parties’ use of your PII or Non-PII.  </strong></p>
+
+    <p>Should Official.fm merge with or be acquired by another company, or if the business unit providing your service were sold to another company, any information collected may be transferred to and used by the resulting combined company. If Official.fm were to cease operations, this customer data might be transferred to and used by another company, which offers similar or related products or services. While we cannot predict a great deal about such an unlikely event, we would hope this would provide you with continuity of service.</p>
+
+    <hr>
+
+    <h2>Public Profile</h2>
+
+    <p>You, as a registered user on the Website may opt to provide a public page where you may post information for public viewing or share such information on third party websites. You are not required to post any personal information or any other information or Content on this page, but may post it in your own discretion.  Please note that the information you publish on your public page, including your personal information, becomes public information that can be viewed by others and accessed through the Internet (directly on our Website or through Official.fm’s Application Programming Interface (API) worldwide).  You may share the information from your public page with other websites as you desire and may revoke access to your public profile at any time. This Privacy Statement does not apply to, and we cannot control the activities of, such other websites. You should consult the respective privacy policies of these third-party websites.</p>
+
+    <hr>
+
+    <h2>Third Party Links</h2>
+
+    <p>We may display links, and users may post third party links within their user profiles, to third party websites. Please note that we cannot control and cannot be held responsible for the privacy policies of such third party websites. You should always read the privacy policy of a website to find out more about how personal information is collected and processed.</p>
+
+    <hr>
+
+    <h2>Use of IP Addresses</h2>
+
+    <p>As with any Internet-based service, queries to our service transmit an Internet Protocol (IP) address, as this is what allows delivery of the information you requested back to you. We also use IP addresses for security purposes and to determine the approximate geographic location (the country or metropolitan region) of the query. We use the approximate geographic location for several purposes: to create aggregate statistics about the use of the Website and use of the Content by country or region, which we may share with registered users of our Website and other third parties.  We do not use IP addresses to identify an individual user by name, address or exact location.  It is possible that we might be legally required to make a disclosure, for example, in response to court orders or in governmental investigations.</p>
+
+    <hr>
+
+    <h2>Cookies, Log Information and Opt Out</h2>
+
+    <p>When you visit the Website, Official.fm sends one or more cookies (which is a small file containing a string of characters) to your computer or other device that uniquely identifies your browser. Official.fm uses cookies to improve the quality of Official.fm’s services, including for storing user sessions and preferences, improving search results and ad selection, and tracking user trends, such as how people search. Official.fm servers automatically record information that your browser sends whenever you visit the Website. These server logs may include information such as your web request, IP address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.  <strong>You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website.  You may contact Official.fm at <a href="http://help.official.fm/anonymous_requests/new">http://help.official.fm/anonymous_requests/new</a> for instructions on how to disable cookies.</strong></p>
+
+    <hr>
+
+    <h2>User Communications and Opt-Out</h2>
+
+    <p>When you send email or other communications to Official.fm, Official.fm may retain those communications and related e-mail addresses in order to process your inquiries, respond to your requests and improve our services. In addition, Official.fm may use your username and email address to provide you with email newsletters, announcements, Official.fm news about products and/or services and information about your user account. If you do not wish to receive these kinds of communications, you may “opt out” either by: (a) unchecking the email newsletters and announcements during registration; or (b) by doing the same within your user profile.</p>
+
+    <hr>
+
+    <h2>Legal Compliance</h2>
+
+    <p>Official.fm may disclosed any information we collect, including both PII and Non-PII, if required to do so by law or under a good faith belief that such action is necessary to conform to the law or comply with legal process or to protect and defend Official.fm’s rights, property, and customers, whether or not required to do so by law. Official.fm reserves the right to contact appropriate authorities and disclosed such information to them at its discretion when it appears that individuals using Official.fm’s products or services are engaged in activities that are illegal or violate the Official.fm Terms of Service.</p>
+
+    <hr>
+
+    <h2>Secured Information</h2>
+
+    <p>Official.fm maintains a variety of physical, electronic and procedural safeguards to guard your information and to deliver the services and features of the Website. All user information is stored on physically and electronically secured servers located in the United States. In addition, all of Official.fm's data and information is firewall protected and encrypted against unauthorized access into our systems and our servers are not directly connected to the Internet.  <strong>While Official.fm cannot guarantee that loss, misuse or alteration of your data will not occur, Official.fm works hard to prevent such occurrences.</strong></p>
+
+    <hr>
+
+    <h2>Data Protection</h2>
+
+    <p>Official.fm complies with the E.U. Directives on the protection of individuals with regard to the processing of personal data and on the free movement of such data. Pursuant to the Directives, you have the right to be informed of, and to have access to, all of the personally identifiable information we hold about you, and you may do so by visiting your user profile when logged-in to your account on the Website, or by e-mailing us at the address the forth below.</p>
+
+    <hr>
+
+    <h2>Privacy Statement Updates</h2>
+
+    <p>Official.fm will update this Privacy Statement as Official.fm’s business and services expand and change. Updates to this policy will be posted on the Website, and your continued use of the Website will constitute consent to the new terms. Official.fm encourages you to review this policy periodically for any changes that may have been posted. Official.fm will never change its commitment to your privacy.</p>
+
+    <hr>
+
+    <h2>Questions</h2>
+
+    <p>If you have any questions, comments or feedback about Official.fm’s use of your information or about this Privacy Statement, please contact us at <a href="http://help.official.fm/anonymous_requests/new">http://help.official.fm/anonymous_requests/new</a>.  Official.fm will use reasonable efforts to promptly investigate any complaint you may have regarding our use of information and to comply fully with the legal and regulatory supervisory authorities responsible for enforcing Official.fm’s adherence to the privacy principles stated above.</p>
+
+    <small>Last updated March 1, 2012</small>
+    <small>Copyright © 2012 Official.fm, Inc. All rights reserved.</small>
+  </div>
+</div>
+
+
+        <div class="ofm-public-background"></div>
+        <div id="black-player" class="black-player-container hidden">
+  <div class="black-player-wrapper">
+
+    <div class="black-player col-md-6 col-md-push-3" data-panel="center">
+      <div class="uf-item">
+        <div class="uf-user-action">
+          <a class="uf-avatar img-circle" data-push="true" data-target="#main" data-panel="user">
+            <img data-panel="avatar">
+          </a>
+          <a class="uf-username" data-push="true" data-target="#main" data-panel="artist"></a>
+          <a class="uf-username" data-push="true" data-target="#main" data-panel="title"></a>
+        </div>
+
+        <div class="uf-art-wrapper">
+
+          <div class="campaign animated ease-out" data-player="ofm_campaign">
+            <a href="" target="_blank" data-player="ofm_campaign_link"></a>
+
+            <div>
+              <div id="wistia_video_placeholder">&nbsp;</div>
+            </div>
+
+            <div id="campaign_adzerk"></div>
+          </div>
+
+          <div data-player="ofm_campaign_name">
+            <a href="" target="_blank" data-player="ofm_campaign_name_link"></a>
+          </div>
+
+          <a class="fa fa-play pp-btn-play" data-action="play"></a>
+          <div class="spinner-centered-wrap">
+            <div class="spinner" data-player="ofm_spinner"><div>Loading…</div></div>
+          </div>
+          <img class="uf-artwork" src="" data-panel="artwork">
+        </div>
+
+        <div class="uf-share">
+          <span class="uf-plays" data-panel="count"></span>
+          <ul class="uf-links" data-panel="links">
+            <li data-action="share" class="record-action icon">
+              <i class="fa fa-share"></i>
+              <span>share</span>
+            </li>
+            <li data-action="download" class="record-action icon">
+              <i class="fa fa-download"></i>
+              <span>download</span>
+            </li>
+            <li data-action="collect" class="record-action icon">
+              <i class="fa fa-heart"></i>
+              <span>collect</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="black-player-comments col-md-3 col-md-pull-6">
+      <h2 class="sidebar-heading" data-panel="comments-header">Comments</h2>
+
+<div class="sidebar-elements-container" data-panel="comments-root">
+
+  <div class="comments-list-items" data-panel="comments-list">
+
+  </div>
+
+  <div class="spinner-comment-wrapper">
+    <div class="medium spinner spinner-bottom"><div>Loading…</div></div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="black-player-recommend col-md-3" data-panel="recommended"></div>
+  </div>
+
+  <div class="overlay">
+  </div>
+</div>
+
+      <script>
+        window.page2 = window.page2 || {};
+window.page2.projectId = null;
+window.page2.projectId2 = null;
+window.page2.playlistId = null;
+window.page2.trackId = null;
+window.page2.homepage = false;
+window.page2.dailyfresh = false;
+window.page2.emptyAudio = "http://cdn.official.fm/musics/restricted.mp3";
+window.page2.fsp = {
+};
+window.page2.fbPermissions = "email, publish_stream, publish_actions".split(', ');
+window.page2.pageDefaultBackground = "http://cdn.official.fm/assets/default_background_picture_1024-735af05172f672da89fa5bb0aa5e759c.jpg";
+
+        window.page2._pageLoadCallbacks = ["$op.page2.showPlayer"];
+        window.page2._pageUnloadCallbacks = [];
+      </script>
+    </div>
+    <script type="text/javascript" src="//tags.crwdcntrl.net/c/5501/cc.js?ns=_cc5501" id="LOTCC_5501"></script>
+    
+<script src="http://cdn.official.fm/assets/i18n/public-en-d37fbcd4d302a0948c1c904650571553.js"></script>
 
 <script type="text/javascript">
   I18n.fallbacks = true;
-  I18n.fallbackRules.fr = [ "en" ];
   I18n.defaultLocale = "en";
   I18n.locale = "en";
 </script>
 
-    <script src="http://cdn.official.fm/assets/public_manifest-e2b4e4faa125b2803de9cdebc20538ca.js" type="text/javascript"></script>
-      <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-15651225-8']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-    
-  <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
-  <body>
-    <div id="container-fluid">
-        <div class="navbar navbar-fixed-top ">
-  <div class="navbar-inner">
-    <a href="/" class="brand"></a>
-    <ul class="nav pull-right navigation-top-right">
-        <li class="hidden-phone">
-          <div class="btn-group">
-            <a href="/login" class="btn btn-link">login</a>
-          </div>
-        </li>
-      <li>
-        <div class="btn-group">
-            <a href="/join" class="btn btn-primary">join</a>
-        </div>
-      </li>
-    </ul>
-      <span class="navbar-tagline navbar-text hidden-phone">for your ears and eyes</span>
-  </div>
-</div>
-
-      <div class="navbar-offset">
-        <div class="l-constrained-inner content">
-  <div class="row-fluid">
-
-    <div class="box span6 offset3">
-      <h1 class="page-header">Privacy Policy</h1>
-
-      <h2>1. Your Acceptance</h2>
-
-      <p>This notice describes Official.fm’s privacy policy (hereinafter referred to as “Privacy Statement”) and applies to the Official.fm Website, including all online services and functions.  This Privacy Statement applies to you, as a user of the Official.fm Website and as a Viewer of Content provided by users of the Website.</p>
-
-      <p class="uppercase">PLEASE REVIEW THIS PRIVACY STATEMENT BEFORE USING THIS WEBSITE. IF YOU DO NOT AGREE WITH OUR PRIVACY STATEMENT, DO NOT USE THE WEBSITE. BY USING THE WEBSITE OR SUBMITTING ANY PERSONAL INFORMATION TO THE WEBSITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY STATEMENT.</p>
-
-      <p>Your use of this Website is also subject to the Terms of Service. Please review the Terms of Service, located at <a href="/terms">http://www.official.fm/terms</a>, for additional details regarding your use of this Website.  All capitalized terms have the same meaning as defined in the Terms of Service unless otherwise stated herein.</p>
-      <hr>
-
-      <h2>Registration</h2>
-
-      <p>Official.fm requires users who wish to contribute to or use the Website to register by completing the appropriate Official.fm registration process. During registration, you will be required to provide contact information including an e-mail address, username and password. Official.fm requires your true name and identifying information for registration via the Website. In instances where Official.fm does not require your true name or any identifying information, you agree not to choose a name that misleads or misidentifies you as another person, Official.fm or is confusingly similar to any products, services, trademarks or is indecent or otherwise offensive. If you choose to use your own name as your screen name, you consent to it being passed to others by certain functionality and uses of the Website. </p>
-
-      <hr>
-
-      <h2>Protection of Minors</h2>
-
-      <p>Official.fm does not permit children under the age of 13 to register on the Website or use any of its functionality for which registration is required.</p>
-
-      <hr>
-
-      <h2>Personally Identifiable Information</h2>
-
-      <p>PII is information that identifies you or can be used to identify, contact, or locate you. This includes, but is not limited to, your name (i.e., first name or initial and last name), home or business address, email address, telephone number, and debit or credit card information such as the credit card number, card verification value, or billing address. </p>
-
-      <p>Official.fm respects your privacy. We only collect PII through optional, voluntary submissions, such as email, survey information, and online registration forms. The types and amount of personal information collected from these activities will vary depending on the activity, but in no event will we collect PII that is not voluntarily given by you. Official.fm may use PII to facilitate requests, to contact you if a problem arises or for other uses consistent with this statement and your requests.</p>
-
-      <hr>
-
-      <h2>Non-Personally Identifiable Information</h2>
-
-      <p>Official.fm collects statistical data about your use and third parties’ use of the Website and interest in the Content provided on the Website using Cookies, as described below.  This data does not identify you personally and is purely statistical data, such as the date a Viewer views Content, length of viewing, where Content is embedded, where the Viewer is geo-located and other similar anonymous data.  This Non-PII helps Official.fm maintain, administer and monitor the Website in order to analyze trends, improve the overall quality of the Website, enhance Official.fm’s services, tailor the Website to your needs and respond to your inquiries. Such analysis and information is aggregated across users, does not identify anyone as an individual and does not link to any personally identifiable information. Besides posting these statistics for you and other fans to enjoy, Official.fm may publish or share this statistical information in the aggregate with other companies.</p>
-
-      <hr>
-
-      <h2>Sharing with Third Parties</h2>
-
-      <p>Official.fm may partner with other third parties to provide specific services.  When you sign up for such services, Official.fm may share names or other PII as necessary in order for the third party to provide such services. From time to time, Official.fm may need to share such PII with other trusted third parties who perform certain services and functions on Official.fm’s behalf (such as maintenance and support for the Website).  These parties only have access to the PII they need in order to perform their functions.  Official.fm may also share your personal information with users of the Website at your request, for example, you may be asked to provide your email address in exchange for a free download of song.  Except as outlined in this statement or on the Website, Official.fm does not provide your PII to third parties without your consent.</p>
-
-      <p>Official.fm may share non-PII in the aggregate with you and other fans to enjoy, and may publish or share this statistical information in the aggregate with other companies.</p>
-
-      <p><strong>Official.fm’s Privacy Statement does not apply to, and we cannot fully control how, third parties use your information.  Accordingly, we cannot be held responsible for third parties’ use of your PII or Non-PII.  </strong></p>
-
-      <p>Should Official.fm merge with or be acquired by another company, or if the business unit providing your service were sold to another company, any information collected may be transferred to and used by the resulting combined company. If Official.fm were to cease operations, this customer data might be transferred to and used by another company, which offers similar or related products or services. While we cannot predict a great deal about such an unlikely event, we would hope this would provide you with continuity of service.</p>
-
-      <hr>
-
-      <h2>Public Profile</h2>
-
-      <p>You, as a registered user on the Website may opt to provide a public page where you may post information for public viewing or share such information on third party websites. You are not required to post any personal information or any other information or Content on this page, but may post it in your own discretion.  Please note that the information you publish on your public page, including your personal information, becomes public information that can be viewed by others and accessed through the Internet (directly on our Website or through Official.fm’s Application Programming Interface (API) worldwide).  You may share the information from your public page with other websites as you desire and may revoke access to your public profile at any time. This Privacy Statement does not apply to, and we cannot control the activities of, such other websites. You should consult the respective privacy policies of these third-party websites.</p>
-
-      <hr>
-
-      <h2>Third Party Links</h2>
-
-      <p>We may display links, and users may post third party links within their user profiles, to third party websites. Please note that we cannot control and cannot be held responsible for the privacy policies of such third party websites. You should always read the privacy policy of a website to find out more about how personal information is collected and processed.</p>
-
-      <hr>
-
-      <h2>Use of IP Addresses</h2>
-
-      <p>As with any Internet-based service, queries to our service transmit an Internet Protocol (IP) address, as this is what allows delivery of the information you requested back to you. We also use IP addresses for security purposes and to determine the approximate geographic location (the country or metropolitan region) of the query. We use the approximate geographic location for several purposes: to create aggregate statistics about the use of the Website and use of the Content by country or region, which we may share with registered users of our Website and other third parties.  We do not use IP addresses to identify an individual user by name, address or exact location.  It is possible that we might be legally required to make a disclosure, for example, in response to court orders or in governmental investigations.</p>
-
-      <hr>
-
-      <h2>Cookies, Log Information and Opt Out</h2>
-
-      <p>When you visit the Website, Official.fm sends one or more cookies (which is a small file containing a string of characters) to your computer or other device that uniquely identifies your browser. Official.fm uses cookies to improve the quality of Official.fm’s services, including for storing user sessions and preferences, improving search results and ad selection, and tracking user trends, such as how people search. Official.fm servers automatically record information that your browser sends whenever you visit the Website. These server logs may include information such as your web request, IP address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.  <strong>You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website.  You may contact Official.fm at <a href="http://help.official.fm/anonymous_requests/new">http://help.official.fm/anonymous_requests/new</a> for instructions on how to disable cookies.</strong></p>
-
-      <hr>
-
-      <h2>User Communications and Opt-Out</h2>
-
-      <p>When you send email or other communications to Official.fm, Official.fm may retain those communications and related e-mail addresses in order to process your inquiries, respond to your requests and improve our services. In addition, Official.fm may use your username and email address to provide you with email newsletters, announcements, Official.fm news about products and/or services and information about your user account. If you do not wish to receive these kinds of communications, you may “opt out” either by: (a) unchecking the email newsletters and announcements during registration; or (b) by doing the same within your user profile.</p>
-
-      <hr>
-
-      <h2>Legal Compliance</h2>
-
-      <p>Official.fm may disclosed any information we collect, including both PII and Non-PII, if required to do so by law or under a good faith belief that such action is necessary to conform to the law or comply with legal process or to protect and defend Official.fm’s rights, property, and customers, whether or not required to do so by law. Official.fm reserves the right to contact appropriate authorities and disclosed such information to them at its discretion when it appears that individuals using Official.fm’s products or services are engaged in activities that are illegal or violate the Official.fm Terms of Service.</p>
-
-      <hr>
-
-      <h2>Secured Information</h2>
-
-      <p>Official.fm maintains a variety of physical, electronic and procedural safeguards to guard your information and to deliver the services and features of the Website. All user information is stored on physically and electronically secured servers located in the United States. In addition, all of Official.fm's data and information is firewall protected and encrypted against unauthorized access into our systems and our servers are not directly connected to the Internet.  <strong>While Official.fm cannot guarantee that loss, misuse or alteration of your data will not occur, Official.fm works hard to prevent such occurrences.</strong></p>
-
-      <hr>
-
-      <h2>Data Protection</h2>
-
-      <p>Official.fm complies with the E.U. Directives on the protection of individuals with regard to the processing of personal data and on the free movement of such data. Pursuant to the Directives, you have the right to be informed of, and to have access to, all of the personally identifiable information we hold about you, and you may do so by visiting your user profile when logged-in to your account on the Website, or by e-mailing us at the address the forth below.</p>
-
-      <hr>
-
-      <h2>Privacy Statement Updates</h2>
-
-      <p>Official.fm will update this Privacy Statement as Official.fm’s business and services expand and change. Updates to this policy will be posted on the Website, and your continued use of the Website will constitute consent to the new terms. Official.fm encourages you to review this policy periodically for any changes that may have been posted. Official.fm will never change its commitment to your privacy.</p>
-
-      <hr>
-
-      <h2>Questions</h2>
-
-      <p>If you have any questions, comments or feedback about Official.fm’s use of your information or about this Privacy Statement, please contact us at <a href="http://help.official.fm/anonymous_requests/new">http://help.official.fm/anonymous_requests/new</a>.  Official.fm will use reasonable efforts to promptly investigate any complaint you may have regarding our use of information and to comply fully with the legal and regulatory supervisory authorities responsible for enforcing Official.fm’s adherence to the privacy principles stated above.</p>
-
-      <small>Last updated March 1, 2012</small>
-      <small>Copyright © 2012 Official.fm, Inc. All rights reserved.</small>
-    </div>
-  </div>
-</div><!-- /feat-block -->
-
-          <div class="music-artwork hidden-phone"></div>
-
-      </div>
-
-        <footer id="footer">
-  <div class="container">
-    <div class="row">
-
-      <div class="span2">
-        <h5>Official.fm</h5>
-        <ul class="footer-links">
-          <li><a href="/about">About</a></li>
-          <li><a href="http://help.official.fm" target="_blank">Support</a></li>
-          <li><a href="http://blog.official.fm/" target="_blank">Blog</a></li>
-          <li><a href="/jobs">Jobs</a></li>
-        </ul>
-      </div>
-
-      <div class="span2">
-        <h5>Legal</h5>
-        <ul class="footer-links">
-          <li><a href="/terms">Terms of service</a></li>
-          <li><a href="/api-terms">API terms of service</a></li>
-          <li><a href="/privacy">Privacy</a></li>
-        </ul>
-      </div>
-
-      <div class="span2">
-        <h5>Developers</h5>
-        <ul class="footer-links">
-          <li><a href="/developers">Developer center</a></li>
-        </ul>
-      </div>
-
-      <div class="span6">
-        <ul class="social-circles">
-          <li><a href="http://twitter.com/officialfm" class="icon icon--circle icon--circle-white icon-twitter" target="_blank"></a></li>
-          <li><a href="http://facebook.com/official.fm" class="icon icon--circle icon--circle-white icon-facebook" target="_blank"></a></li>
-          <li><a href="http://fuckyeahofficialfm.tumblr.com/" class="icon icon--circle icon--circle-white icon-tumblr" target="_blank"></a></li>
-          <li><a href="http://digitaledge.official.fm" class="icon icon--circle icon--circle-white icon-digitaledge" target="_blank"></a></li>
-        </ul>
-      </div>
-
-    </div><!-- /.row -->
-  </div><!-- /.container -->
-</footer><!-- /#footer -->
-
-    </div>
+    <div data-player="message" class="msg-alert col-md-6 col-md-offset-3 hidden animated fadeInDown"></div>
+
+    <script src="http://cdn.official.fm/assets/page2_manifest-2a5c052abbee855222d7f261d20d7c65.js"></script>
+    <script>
+      "embeddable_feed false";
+window.$player = new Ofm.Player.Ui('ofmplayer', {
+  feed: unescapeHTML(""),
+  siteUrl: '//www.official.fm/',
+  cdnUrl: '//cdn.official.fm/',
+  release: '20150407075159',
+  assets: null,
+  referer: '',
+  enableLog: false,
+    aspect: 'header',
+  listener: window.$op && $op.page2 ? $op.page2.playerListener : null,
+  akamaiMediaAnalytics: 1,
+});
+
+    </script>
     
     <div id="fb-root"></div>
 <script>
+  $op.page2 = $op.page2 || {};
+  $op.page2.loadFacebook = function (callback) {
+    if (window.FB) {
+      callback();
+      return;
+    }
 
+    window.fbAsyncInit = function () {
+      FB.init({
+        appId  : '105112716239803',
+        status : true,
+        cookie : true,
+        xfbml  : true
+      });
+      callback();
+    };
 
-  (function(d){
-     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-     js = d.createElement('script'); js.id = id; js.async = true;
-     js.src = "//connect.facebook.net/en_US/all.js";
-     d.getElementsByTagName('head')[0].appendChild(js);
-   }(document));
-
-   // IMPORTANT: Ensure both Facebook AND jQuery are loaded
-   // Event 'facebook:ready' fired when they are successfully loaded
-   $(document).ready(function(){
-     function facebookReady(){
-       FB.init({
-         appId  : '105112716239803',
-         status : true,
-         cookie : true,
-         xfbml  : true
-       });
-       $(document).trigger("facebook:ready");
-     }
-
-     if (window.FB) {
-       facebookReady();
-     } else {
-       window.fbAsyncInit = facebookReady;
-     }
-   });
+    (function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = "//connect.facebook.net/en_US/all.js";
+      d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+  };
 </script>
 
-    <script>
-      $(document).ready(function(){
-        // Make videos responsive to grow and shrink nicely, like an image. Yay!
-        $(".l-fluid-width-video-wrapper").fitVids();
-        $("input[placeholder]").placeHeld();
-      });
-  </script>
-  <!-- VisualDNA Audience Analytics Tag -->
+    <!-- VisualDNA Audience Analytics Tag -->
 <script type="text/javascript">
   (function() {
       var s, e;
@@ -296,6 +392,18 @@
 </script>
 <!-- End of VisualDNA Audience Analytics Tag -->
 
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-15651225-8']);
+    _gaq.push(['_trackPageview']);
 
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+  
+
+</body></html>
