@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagepool.in privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123062504id_/http%3A//imagepool.in/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagepool.in privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151452id_/http%3A//imagepool.in/content-privacy.html) for the most accurate reproduction.*
 
 # IMAGEPOOL ( Share Your Horny Images With The World ) -
 
