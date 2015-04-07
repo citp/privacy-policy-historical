@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051416id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082724id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Typing Test and Free Learn to Type Tutor Online - Privacy Statement
 
 **Copyrighted Typing Test Technology**
 
-Content and materials on this website are Copyright ©1999-2014 Learn2Type.com, Inc. 
+Content and materials on this website are Copyright ©1999-2015 Learn2Type.com, Inc. 
 
 Access to this website and content is provided at no charge, and with no   
 guarantees. While this content has been made available to assist you in   
