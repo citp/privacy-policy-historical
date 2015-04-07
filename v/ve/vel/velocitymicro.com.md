@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715013556id_/http%3A//www.velocitymicro.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083910id_/http%3A//www.velocitymicro.com/Privacy.php) for the most accurate reproduction.*
 
-# Velocity Micro | Privacy
+# Velocity Micro | Privacy Policy
 
 Velocity Micro has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
