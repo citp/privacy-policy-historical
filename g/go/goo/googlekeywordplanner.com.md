@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googlekeywordplanner.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208183614id_/http%3A//www.googlekeywordplanner.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlekeywordplanner.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408001924id_/http%3A//www.googlekeywordplanner.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Google Keyword Planner: Privacy Policy
 
