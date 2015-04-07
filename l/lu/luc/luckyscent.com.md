@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the luckyscent.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130020358id_/http%3A//www.luckyscent.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyscent.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407124808id_/http%3A//www.luckyscent.com/privacy.asp) for the most accurate reproduction.*
 
 # LuckyScent: shop for hard to find perfumes, fragrances and candles.
 
 |  |   
 ---  
+  
+[ ](http://www.luckyscent.com/)  
+  
 |  |  |  |  |  |   
 ---|---|---  
 | 
@@ -12,7 +15,7 @@ PRIVACY AND SECURITY POLICY
 
 Your privacy on the Internet is of the utmost importance to us. We at LuckyScent want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
-If you have opted-in to receive updates from luckyscent.com, we may use your e-mail address as a means to contact you, our customer, regarding updates to the luckyscent.com site, new product offerings, and/or ways in which we can improve your future shopping experiences at luckyscent.com. You can always decide that you want to stop receiving any of these updates by opting out of our database by going to our [unsubscribe](https://web.archive.org/web/20141130020358id_/http%3A//www.luckyscent.com/email_subscription/unsubscribe.asp) page.
+If you have opted-in to receive updates from luckyscent.com, we may use your e-mail address as a means to contact you, our customer, regarding updates to the luckyscent.com site, new product offerings, and/or ways in which we can improve your future shopping experiences at luckyscent.com. You can always decide that you want to stop receiving any of these updates by opting out of our database by going to our [unsubscribe](https://web.archive.org/web/20150407124808id_/http%3A//www.luckyscent.com/email_subscription/unsubscribe.asp) page.
 
 **Types of information that we collect:**  
 We may collect personally identifiable information about you through our Service when you register for an account, such as your email address. If you choose to purchase a product from us, we or our third-party payment processors will collect your payment information also. When you use our Service or if you visit such websites, your browser may send us certain information about you as described below. We send promotional emails. If you no longer wish to receive these emails, you may opt out of them by canceling your account.
@@ -32,6 +35,6 @@ Ads:
 
 **We use Remarketing with Google Analytics to advertise online. In connection with this advertising, we, along with third-party business partners, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) to allow our third-party business partners, including Google, ad servers, and ad networks, to serve you advertisements ("ads") based on your prior visits to our Service. These ads are delivered to you on third-party websites and services across the Internet. These third-party business partners use technology to send, directly to your browser or mobile device, the ads and ad links that appear on third-party sites, and will automatically receive your IP address when they do so. Along with cookies, they may also use other technologies (such as JavaScript, device identifiers, location data, see above) to compile information about your browser's or device's visits and usage patterns on the Service, and to measure the effectiveness of their ads and to optimize and personalize the advertising content. Luckyscent does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party business partners for such parties' own marketing purposes. You may opt out of the DoubleClick cookie by visiting the Google advertising opt-out page or you may opt out of Google Analytics by visiting the Google Analytics opt-out page. Google has additional information available about their Remarketing Privacy Guidelines, Policies, and Restrictions. The Luckyscent Privacy Policy does not apply to, and we cannot control the activities of, third-party ad servers and ad networks. Please contact or consult the respective privacy policies of such ad servers or ad networks for more information. ****  
   
-| [Free Fragrance Samples with Fragrance Purchase*](https://web.archive.org/customerservice.asp#samples) |   
+|  |   
   
 
