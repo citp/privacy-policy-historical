@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typeandgrids.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127200931id_/http%3A//www.typeandgrids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typeandgrids.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407183415id_/http%3A//www.typeandgrids.com/privacy) for the most accurate reproduction.*
 
 # Type & Grids — Privacy Policy
 
@@ -35,3 +35,13 @@ Although most changes are likely to be minor, Type & Grids may change its privac
 Should you have other questions or concerns about this privacy policy, please email us at:
 
 [support@typeandgrids.com](mailto:support@typeandgrids.com)
+
+Our mailing address is:  
+Jeremiah Shoaf Design LLC  
+PO Box 746524  
+Arvada, CO 80006-6524  
+
+
+#### Disclosure
+
+Some of the external links on Type & Grids are affiliate links. If a visitor clicks a link and makes a purchase, Type & Grids may receive a commission.
