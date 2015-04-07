@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behappy.me privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201070655id_/http%3A//behappy.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behappy.me privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407123348id_/http%3A//behappy.me/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Behappy.me
 
