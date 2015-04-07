@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nickelodeonafrica.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708182003id_/http%3A//www.nickelodeonafrica.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickelodeonafrica.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084333id_/http%3A//www.nickelodeonafrica.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Nickelodeon Africa
+# Nickelodeon | Privacy Policy
 
 **1\. What Is A Privacy Policy?**
 
