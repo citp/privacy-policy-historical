@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the homemediamagazine.com privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831003253id_/http%3A//www.questex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemediamagazine.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073834id_/http%3A//www.questex.com/privacy-policy) for the most accurate reproduction.*
 
-# Questex Privacy Policy | Questex Media
+# Questex Privacy Policy | Questex | Digital Media | Events | Business Information | Content Marketing & Media
 
-he following Privacy Statement summarizes the various ways that **Questex Media Group LLC**. (“Questex Media Group”) treats the information you provide while using **www.questex.com** or any other Questex Media Group site. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. This Privacy Statement does not cover information collected elsewhere, including offline and on sites linked to or from any of our sites.
+The following Privacy Statement summarizes the various ways that **Questex Media Group LLC**. (“Questex Media Group”) treats the information you provide while using **[www.questex.com](http://www.questex.com/)** or any other Questex Media Group site. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. This Privacy Statement does not cover information collected elsewhere, including offline and on sites linked to or from any of our sites.
 
 Please read this Privacy Statement carefully. **Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement.** If you do not agree to these terms, please do not use our sites. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@questex.com](mailto:privacy@questex.com).
 
@@ -10,7 +10,7 @@ In addition to reviewing this Privacy Policy, please read our Terms of Use. Your
 
 This Privacy Statement may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Any change, update or modification we make will be effective immediately upon posting on our site(s). If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail. Continued access of our sites by you will constitute your acceptance of any changes or revisions to the Privacy Statement.
 
-###  Information Collected by Questex Media Group
+### Information Collected by Questex Media Group
 
 In general, you may visit our sites without identifying yourself or revealing any personal information.
 
@@ -26,7 +26,7 @@ Portions of our sites may require you to give us personally identifiable informa
 
 If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as personal information. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of our sites, but you may be unable to access certain options and services.
 
-###  How We Use Your Information
+### How We Use Your Information
 
 If you elect to provide us personal information, we may use it to:
 
@@ -40,7 +40,7 @@ If you elect to provide us personal information, we may use it to:
 
 If you submit financial information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations, etc.
 
-###  Personal Information Sharing
+### Personal Information Sharing
 
 We may share your personal information with our affiliates and with our partners, including our exhibitors, sponsors and advertisers, for marketing, advertising, and/or product/service offering purposes, and with others who are licensed to access your personal information by any of the foregoing. Also, we rent e-mail lists compiled from e-mail addresses gathered from our sites. While we will seek to require all such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Questex Media Group does not bear any responsibility for any actions or policies of third parties.
 
@@ -52,25 +52,25 @@ In addition, we reserve the right to use the information we collect about you an
 
 In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Questex Media Group, or any subsidiary or affiliated entity, are sold, assigned, transferred or acquired by another company, the information from and about our sites’ users may be among the transferred assets.
 
-###  Special Notification for California Residents
+### Special Notification for California Residents
 
 If you reside in California and you have provided us with personal information, you may request information about our disclosures of certain categories of your personal information (if any) to third parties for their direct marketing purposes. Such requests must be submitted to us at [privacy@questex.com](mailto:privacy@questex.com). Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties (if any) for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the email address specified in this paragraph.
 
-###  Aggregated Anonymous Information
+### Aggregated Anonymous Information
 
 We reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends, improving our products and/or services, and seeking compatible advertisers and partners.We reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends, improving our products and/or services, and seeking compatible advertisers and partners.
 
-###  Information on Children
+### Information on Children
 
 As a business-to-business company, we have created and maintain sites that are not intended for use by children, particularly those under age 13, and we do not knowingly collect information from children. On-line registration and website usage is restricted to adults who are professionally engaged in the businesses we serve. No one under age 13 is allowed to provide any personal information or use any public discussion areas, forums and chats comprising part of our sites. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on our sites. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible
 
-###  Removing or Correcting Your Information
+### Removing or Correcting Your Information
 
 Many of our Site functions (but not all) provide you with the option of correcting, updating and modifying your personal and/or financial information, or visitor profile, at any time and as often as desired. The only item of information you cannot change is your username ID selected at registration for a trade show, event or conference.
 
 If you would like to update, remove or correct your information and are unable to do so through your user profile, please contact [privacy@questex.com](mailto:privacy@questex.com).
 
-###  Opt-Out Option
+### Opt-Out Option
 
 Visitors to our sites and users of our services can decide if they want to receive targeted promotional information from Questex Media Group or targeted promotional information sponsored by our marketing partners. On the visitor registration pages, you can state preferences regarding advertising and promotional communications from Questex Media Group or our partners. Should visitors accept promotional email from Questex Media Group, any email they receive will include instructions on how to be removed from our promotional email list.
 
@@ -80,11 +80,11 @@ Please note that if you opt-out as described above, we will not be able to remov
 
 To opt out of communications from these third parties, please contact the third party sender. Questex Media Group does not bear any responsibility for ensuring that any third party complies with your opt-out or unsubscribe request vis-à-vis its own lists.
 
-###  Third Party and Affiliated Links
+### Third Party and Affiliated Links
 
 Our sites may from time to time contain external links to other websites, including suppliers, advertisers and affiliates. We have no control over, and are not responsible for, the content of, or information gathered by, these other websites. We do not endorse any of these websites or the products or services associated with such websites merely because they are linked to any of our sites. In addition, users of our sites should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.
 
-###  Cookies
+### Cookies
 
 A “cookie” is a bit of data sent by a website through the browser to the computer of the user visiting the site, and enables our sites to return the results the browser expects. We may use temporary, session-specific cookies to ensure visits to our sites is smooth and customized for the visitor – for example, to control the display of ads, to track usage patterns on our sites, to deliver editorial content, and to record registration and personalization information. Such cookies allow us to provide a visitor’s browser with information tailored to the visitor’s preferences and needs. We also may use permanent or persistent cookies that remain on a visitor’s computer after the visitor leaves our sites. We use this data on an anonymous basis and we do not correlate this information with personal data of any user.
 
@@ -92,7 +92,7 @@ Most website browsers automatically accept cookies, but you may be able to turn 
 
 We might also receive information about you from third parties that track your activities on the web or from partners or third party service providers with whom you’ve transacted business. These third parties generally would be other providers that you have authorized to obtain and share information about you and/or information about your activities on the internet, such as sites you visit using your computer or mobile device. We may combine this information with other information we have collected from you by other means and we may use and/or disclose that combined information consistent with this Policy.
 
-###  Use of Google Analytics Tools for Display Advertising
+### Use of Google Analytics Tools for Display Advertising
 
 We may employ tools provided by Google Analytics to support Display Advertising, including Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration and/or Google Analytics Demographics and Interest Reporting.
 
@@ -105,21 +105,21 @@ In general, this means that:
 
 
 
-To opt-out of Google Analytics for Display Advertising, please use the opt-out feature in Google’s Ad Settings at [www.google.com/settings/ads/](http://www.google.com/settings/ads/ "www.google.com/settings/ads/"). Visitors may also use the Google Analytics opt-out Browser add on (available for download here <https://tools.google.com/dlpage/gaoptout/>) to opt out of these advertisements online.
+To opt-out of Google Analytics for Display Advertising, please use the opt-out feature in Google’s Ad Settings at [www.google.com/settings/ads/](http://www.google.com/settings/ads/). Visitors may also use the Google Analytics opt-out Browser add on (available for download here <https://tools.google.com/dlpage/gaoptout/>) to opt out of these advertisements online.
 
 We may also use one or more of the following features of Google AdWords Interest-Based Advertising features: remarketing; interest categories; similar audiences; demographic and location targeting. We follow Google’s policy for advertising based on interest and location, which you can view here: <https://support.google.com/adwordspolicy/answer/143465>.
 
 We will not combine any analytic data collected through these services with your personally indefinable information without first receiving your explicit consent.
 
-###  Security and Encryption
+### Security and Encryption
 
 We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, “firewalls” and Secure Socket Layers. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.
 
-###  Non-US Users
+### Non-US Users
 
 This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer and to our collection and use of your information as set forth above.
 
-###  Privacy Statement Coordinator
+### Privacy Statement Coordinator
 
 If you have any questions regarding our privacy statement, please feel free to contact us by letter at the address below, or by e-mail at [privacy@questex.com](mailto:privacy@questex.com).
 
