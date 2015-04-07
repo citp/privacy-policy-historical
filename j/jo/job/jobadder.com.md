@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the jobadder.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122174650id_/http%3A//jobadder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobadder.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407182456id_/http%3A//jobadder.com/privacy) for the most accurate reproduction.*
 
 # Recruitment Software - JobAdder - Privacy Policy
 
-## JOB ADDER PRIVACY POLICY
+## PRIVACY POLICY
 
-Job Adder Operations Pty Ltd ABN 39 167 597 953 ( **JOB ADDER** ) understands that privacy is important to you, and is committed to complying with the National Privacy Principles (NPPs), which are contained in the  _Privacy Act 1988_  (Privacy Act).
+Last updated on November 25, 2010
+
+Job Adder Operations Pty Ltd ABN 39 167 597 953 ( **JOB ADDER** ) understands that privacy is important to you, and is committed to complying with the National Privacy Principles (NPPs), which are contained in the _Privacy Act 1988_ (Privacy Act).
 
 From 21 December 2001, the NPPs have governed how organisations in the private sector handle 'personal information' (which is basically information which can identify you).
 
