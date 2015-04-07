@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytasvir.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025122342id_/http%3A//www.mytasvir.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytasvir.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407032913id_/http%3A//mytasvir.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Mytasvir » More Information » Privacy Policy - عکس - تصویر
 
