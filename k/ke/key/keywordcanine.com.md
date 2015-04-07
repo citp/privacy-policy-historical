@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordcanine.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205090147id_/http%3A//keywordcanine.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordcanine.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407180130id_/http%3A//www.keywordcanine.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
