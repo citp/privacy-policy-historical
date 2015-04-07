@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchlotto.co.uk privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901070240id_/http%3A//www.searchlotto.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchlotto.co.uk privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407124858id_/https%3A//www.searchlotto.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Search Lotto :: Play the National Lottery for free by searching the web
 
@@ -28,10 +28,10 @@ Our site contains links to other sites whose information practices may be differ
 
 When you visit our website we send you a cookie. A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
 
-SearchLotto.co.uk use cookies:
+SearchLotto.co.uk use cookies :
 
-  * To enable the personalisation features on our website (which allow you to login to your account and perform searches through our search engine).
-  * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
+  * 1\. To enable the personalisation features on our website (which allow you to login to your account and perform searches through our search engine).
+  * 2\. To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
 
 
 
