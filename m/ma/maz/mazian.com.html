@@ -1,0 +1,694 @@
+<!--The following is the downloaded HTML source of the mazian.com privacy policy that was archived on 2015-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407043204id_/http%3A//www.flavopages.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+
+<link rel="stylesheet" href="/lib/example.css">
+
+  <!-- This is what you need -->
+  <script src="/lib/lib/sweet-alert.js"></script>
+  <link rel="stylesheet" href="/lib/lib/sweet-alert.css">
+	
+	<style>
+    	#flavofeedGrid{width: 674px;padding:20px;
+height: 240px;
+position: fixed;
+background: #FFF;
+top: 120px;
+left: 33%;
+-webkit-box-shadow: 0px 0px 10px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 10px 3px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 10px 3px rgba(0,0,0,0.75);display:none;
+z-index:7777}
+#grid {
+background: url(/video-js/fancybox_overlay.png);
+width: 100%;
+height: 100%;
+position: fixed;
+top: 0;
+left: 0;
+z-index:555;display:none
+}
+    </style>
+	</head><body style="overflow-x: hidden;"><div id="grid"></div>
+        <div id="flavofeedGrid">
+            <a href="#" class="close"></a>
+        </div>
+    
+
+
+
+
+
+<meta charset="utf-8">
+<title>FlavoPages | Privacy </title>
+<link rel="stylesheet" type="text/css" href="/style3.css">
+<style>
+	#form_contact{width:100%;padding-top:10px;margin-left:20px;height: 2665px;}
+	#form_contact h3{margin:10px 0;font-weight:normal;font-size:20px;color:#282828}
+	#form_contact input[type=text], #form_contact textarea{padding:5px;border:1px solid #ccc;width:400px;margin:5px 0}
+	#form_contact textarea{height:200px;margin:5px 0}
+	#form_contact input[type=submit]{padding:10px 8px;border:none;background:#3498db;color:#fff;width:120px;}
+	#form_contact p{width:94%;text-align:left;line-height:22px;font-size:13px}
+	#form_contact p.ques{text-decoration:underline}
+</style>
+<link rel="stylesheet" href="http://ma.flavopages.com/styles.css" type="text/css">
+
+
+
+
+<style>
+#countries_all{width:800px;top:10%;left:50%;position:fixed;padding:0;margin:0;display:none}
+#countries_center{position: relative; left: -50%;border:1px solid #eee;background:#fff;padding:0;margin:0;
+-webkit-box-shadow: 0px 0px 13px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 0px 13px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 0px 13px 0px rgba(50, 50, 50, 0.75);}
+#countries_center ul{list-style:none;margin:20px;width:140px;margin-right:10px;display:inline-block;vertical-align:top}
+#countries_center ul li{margin:3px 0}
+#countries_center ul li a{color:#282828;font-size:13px}
+#countries_center h3{background:#3498db;color:#FFF;margin:0;padding:7px}
+</style>
+<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+<script src="/notification/notifications.min.js"></script> 
+<script type="text/javascript" src="/js/jsplugin/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<script>
+		 $(document).ready(function(){	
+		
+		
+		 $(document).on("submit","#NewsForm",function(event){	
+
+			event.preventDefault();
+	    $.ajax({type:"POST", data: $(this).serialize(), url:"/commun/addNews.php",
+            success: function(data){
+                $("#TableNews").html(data);
+				 $("#newsResult").html('<p style="color:#ccc;font-size:12px" class="newsfeed">News has been added</p>');
+				$(".notebook").val('');				
+            },
+
+                        error: function(){
+                    $("#newsResult").html('Une erreur est survenue.');
+            }
+        });
+        return false;
+		
+    	})
+		
+		$(document).on("click","#grid",function(event){					
+			$("#pubVideo").fadeOut("slow",function(){$("#pubVideo").html("");});
+			$("#flavofeedGrid").fadeOut("slow",function(){$("#flavofeedGrid").html("");$("#grid").fadeOut();});
+		});
+		 	 
+		 
+		 $(".fancybox").fancybox();
+			  $(document).on("click","#header_inner ul li img",function(event){				  		 
+				  $("#user_slide").slideToggle();	
+			  });
+			$(document).on("submit"	,"#search_form",function(event){	
+				var who = $("#who").val().length;
+				var where = $("#where").val().length;
+				
+				if(who<3 || where<3){					
+					displayNotification('error', 'You must fill both search boxes (3 characters at least)', 4000);
+					if(who<3){
+						$("#who").addClass("error");
+					}
+					if(where<3){
+						$("#where").addClass("error");
+					}
+					return false;
+
+				}else{
+					return true;
+				}
+				
+			})
+			
+	
+
+
+		
+			// Verification du champs Pseudo en cas de changement de la valeur
+
+			$("#who").bind('keypress', function() {
+				var who = $("#who").val().length;			
+				if(who>2){				
+					$("#who").removeClass("error");
+				}				
+			});
+			$("#where").bind('keypress', function() {
+				var who = $("#where").val().length;			
+				if(who>2){				
+					$("#where").removeClass("error");
+				}				
+			});
+	
+	
+			$(document).on("change","#lg",function(event){					
+				event.preventDefault();
+				var id = $(this).val();			
+				window.location.href = "/index.php?lg="+id;
+				return false;
+			})
+	
+			$(document).on("click","#moreCt",function(event){					
+					event.preventDefault();
+					$("#countries_all").fadeIn();
+					return false;
+				})
+		$(document).on("click","#close_countrieAll",function(event){					
+					event.preventDefault();
+					$("#countries_all").fadeOut();
+					return false;
+				})
+	$(document).on("submit","#Form_newsletterFooter",function(event){	
+			event.preventDefault();
+	    $.ajax({type:"get", data: $(this).serialize(), url:"/commun/newsletterFooter.php",
+            success: function(data){
+                $("#newsletterFooter").html(data);				
+            },
+
+                        error: function(){
+                    $("#newsletterFooter").html('Please try again.');
+            }
+        });
+        return false;
+		
+    	})
+	
+	
+	
+	
+	
+	$(document).on("click","#featured2 a",function(){	
+	
+
+		var val = $(this).closest('#featured2').attr("data");
+		//alert(val);
+	   $.ajax({type:"get", data: "ads="+val, url:"/commun/adsclick.php",
+            success: function(data){
+                $("#newsletterFooter").html(data);				
+            },
+
+                        error: function(){
+                    $("#newsletterFooter").html('');
+            }
+        });
+
+    	})
+		
+		
+		
+	$(document).on("click",".place_grid a",function(){	
+			var val = $(this).closest('.place_grid').attr("data");
+		//alert(val);
+	   $.ajax({type:"get", data: "ads="+val, url:"/commun/adsclick.php",
+            success: function(data){
+                $("#newsletterFooter").html(data);				
+            },
+
+                        error: function(){
+                    $("#newsletterFooter").html('');
+            }
+        });
+
+    	})	
+	
+	
+	
+	
+		 });
+</script>
+
+
+
+
+<script>
+
+
+</script>
+
+<div id="header">
+    <div id="header_inner">
+    	<div class="langue" style="padding-top:0px !important">
+        	<table>
+                <tbody><tr>
+                    <td>                          <select name="lg" id="lg">
+	                                                    
+                            <option value=""></option>
+                                                    </select> 
+                                            </td>                
+                </tr>
+            </tbody></table>
+		</div>
+	
+        	<ul class="header_menu">
+            	<li>
+                	<a href="/submit-listing.php" class="btn_green">Submit Listing</a>
+                    <a href="https://flavopages.com/login/">Sign in</a> <span style="color:#eee">|</span> <a href="https://flavopages.com/login/register.php">Sign Up</a>                </li>
+            </ul>
+       
+         
+    </div>       
+</div>
+ <div id="search_logo">
+    <div style="float:left;width:300px">
+        <h1><a href="/">Flavopages.com</a></h1> <br clear="">
+        <h3>The best place to find places</h3>  
+    </div>
+    <div id="search">
+            <form action="/search.php" method="get" id="search_form">
+                <input type="text" name="who" id="who" placeholder="what">
+                <input type="text" name="where" id="where" placeholder="Near">
+                <input type="submit" value="Search">
+            </form>
+    </div>
+</div>
+
+<div id="articles" style="min-height:2800px !important">
+	<div id="left-side">
+    	<div id="site">
+        	<span><a href="/">Home</a></span>             
+            <span>&gt;</span> 
+			<span><a href="/">Privacy</a></span>
+            
+            
+    	</div>                        
+        
+        <div id="trie">
+        	<label>Privacy Policy</label>            
+        </div>
+
+		<div class="page_container">
+					<p class="quote">This privacy policy is about the usage of data that Flavopages.com
+
+		collects from its user (s) .This policy is a public statement and 
+
+		acknowledgment of what type of information our website (site) 
+
+		collects from the user(s) that visits our website. This policy is 
+
+		applicable for all pages, posts, products and services that this 
+
+		website (site) offers.</p>
+
+		<h2 class="title">Personal Information of User(s)</h2>
+		<p>
+		Personal information that we can ask a user to give use when he visits and 
+
+		registers on our websites includes but not limited to)
+		</p>
+
+		<ul class="liste" style="list-style: square !important;">
+				<li>Name</li>
+				<li>Email Address</li>
+				<li>Mailing Address</li>
+				<li>Contact No</li>
+				<li>Male</li> 
+		</ul>
+	
+		<p>
+			This information will be recorded only if the user agrees to submit this 
+
+			information to avail the services on our website. He can refuse to disclose 
+
+			this information.
+		</p>
+		
+
+		<h2 class="title">Non-Personal Information of the User(s)</h2>
+		<p>We will collect Non-Personal Information of the user who visits our website.Non Personal information may include:</p>
+
+			<ul class="liste">
+				<li>Browser name</li>
+				<li>IP</li>
+				<li>ISP </li>
+				<li>Operating Software</li>
+				<li>Type of Computer</li>
+				<li>Type of Internet Connection</li>
+				<li>Other technical information</li>
+			</ul>
+
+			<p>We may or may not inform users about Non-Personal Information 
+
+recording.</p>
+
+<h2 class="title">Browser Cookies</h2>
+<p>
+	For maximizing users experience on our website, we may user 
+
+browsers cookies. Browsers keep cookies safe in their hard drive 
+
+in order to use them for improving user experience or for tracking 
+
+users. You can easily change your browser’s setting and can 
+
+refuse to give cookies data or at least can ask browsers to alert 
+
+you when cookies are being recorded.
+</p>
+
+<h2 class="title">Why we collect Personal Information and how we 
+
+use them?</h2>
+
+<p class="quote quote_gray">We collect personal or non-personal information of our website users for 
+
+various purposes. Here is how we use it.</p>
+
+<ul class="liste">
+<li>Improving Customer Services</li>
+
+<li> Improving User Experience</li>
+
+<li>Periodic Email Alerts</li>
+
+<li> Referral Programs</li>
+<li>Share with Law Enforcement Authorities</li>
+	</ul>
+
+	<h2 class="title">Protection of Your Data</h2>
+
+	<p>We adopt all steps to ensure protection of your personal data. We do not 
+
+give any authorized person or company access to your data. We neither 
+
+sell nor let any use your personal data (or any piece of data) for any 
+
+unauthorized use. We do not share your personalized data to any third 
+
+party for any advertising purpose, yet any ads on our ‘own website’ where 
+
+your data is stored may use your stored cookies for displaying relevant ads 
+
+to you.</p>
+
+<p>Using this website (site) confirms that you are agreed with Terms and 
+
+Conditions of this website and hence you cannot challenge them in any 
+
+court of law.</p>
+
+<p>Our customer service officers are always there to help you. If you have any
+
+query or want to know anything about your privacy, just call us or send us 
+
+an email on given email address.</p>
+
+
+<h2 class="title">DMCA NOTICE</h2>
+<p class="quote">
+	<b>Notice of Copyright Infringement.</b> If you believe that any Content or Submission appearing on the Site has been used in a manner that infringes upon your copyrights, you or your authorized agent may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") by providing our Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail): 
+</p>
+
+<ul class="liste">
+	<li>(a) An electronic or physical signature of a person authorized to act on behalf of the owner of the exclusive right that is allegedly infringed;</li>
+<li>(b) Identification of the material that is claimed to be infringing or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works on the Site;</li>
+<li>(c) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the Company to locate the material;</li>
+<li>(d) Information reasonably sufficient to permit the Company to contact you, such as your address, telephone number or e-mail address;</li>
+<li>(e) A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and </li>
+<li>(f) A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
+</ul>
+
+<p class="quote quote_gray">Revised September 25th 2014</p>
+		</div>
+    </div>
+    <div id="right-side">
+    	<h3>Sponsorised</h3>                
+        <h5>advertise with us</h5>
+        			
+
+
+			
+            <div id="featured2" style="">
+					<div id="ad">
+					<script type="text/javascript"><!--
+					google_ad_client = "ca-pub-5231701412519065";
+					/* 336-280 */
+					google_ad_slot = "3073878234";
+					google_ad_width = 346;
+					google_ad_height = 280;
+					//-->
+					</script>
+					<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+					</script></div></div><div id="featured2" style="">
+					<div id="ad">
+					<script type="text/javascript"><!--
+					google_ad_client = "ca-pub-5231701412519065";
+					/* 336-280 */
+					google_ad_slot = "3073878234";
+					google_ad_width = 346;
+					google_ad_height = 280;
+					//-->
+					</script>
+					<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+					</script></div></div>        <h3>Featured</h3>  
+        
+        
+
+
+        <div id="featured">
+        	<img src="/w-80-no-image.png" class="featurd" width="80" height="60">
+            <div class="descreption">
+            	<a href="/Profiles/the-sign-post" style="color:#066">The Sign Post</a>
+                <br clear="all">
+                <p><img src="/images/phone.png"></p>
+                <p><img src="/images/location.png">4190 Washington St</p>
+            </div>
+            <br clear="all">
+             <span><a href="/Profiles/the-sign-post#Website" class="footer-featured">Website</a></span>            
+            <span><a href="/Profiles/the-sign-post#Gallery" class="footer-featured">Gallery</a></span>
+            <span><a href="/Profiles/the-sign-post#info" class="footer-featured">More info</a></span>
+            <span><a href="/Profiles/the-sign-post#map" class="footer-featured">Map Location</a></span>
+            	
+        </div>
+                <div id="featured">
+        	<img src="/w-80-no-image.png" class="featurd" width="80" height="60">
+            <div class="descreption">
+            	<a href="/Profiles/orthopaedic-and-sports-medicine-center" style="color:#066">Orthopaedic And Sports Medicine Center</a>
+                <br clear="all">
+                <p><img src="/images/phone.png"></p>
+                <p><img src="/images/location.png">1600 Charles Pl</p>
+            </div>
+            <br clear="all">
+             <span><a href="/Profiles/orthopaedic-and-sports-medicine-center#Website" class="footer-featured">Website</a></span>            
+            <span><a href="/Profiles/orthopaedic-and-sports-medicine-center#Gallery" class="footer-featured">Gallery</a></span>
+            <span><a href="/Profiles/orthopaedic-and-sports-medicine-center#info" class="footer-featured">More info</a></span>
+            <span><a href="/Profiles/orthopaedic-and-sports-medicine-center#map" class="footer-featured">Map Location</a></span>
+            	
+        </div>
+                <div id="featured">
+        	<img src="/w-80-no-image.png" class="featurd" width="80" height="60">
+            <div class="descreption">
+            	<a href="/Profiles/k-j-contracting-of-green-lane" style="color:#066">K &amp; J Contracting of Green Lane</a>
+                <br clear="all">
+                <p><img src="/images/phone.png">215-234-0471</p>
+                <p><img src="/images/location.png">1614 Snyder Road<br> Green Lane, PA 18054</p>
+            </div>
+            <br clear="all">
+             <span><a href="/Profiles/k-j-contracting-of-green-lane#Website" class="footer-featured">Website</a></span>            
+            <span><a href="/Profiles/k-j-contracting-of-green-lane#Gallery" class="footer-featured">Gallery</a></span>
+            <span><a href="/Profiles/k-j-contracting-of-green-lane#info" class="footer-featured">More info</a></span>
+            <span><a href="/Profiles/k-j-contracting-of-green-lane#map" class="footer-featured">Map Location</a></span>
+            	
+        </div>
+                <div id="featured">
+        	<img src="/w-80-no-image.png" class="featurd" width="80" height="60">
+            <div class="descreption">
+            	<a href="/Profiles/the-grant-team-real-estate-coldwell-banker-residential" style="color:#066">The Grant Team Real Estate, Coldwell Banker Residential</a>
+                <br clear="all">
+                <p><img src="/images/phone.png">708-249-4009</p>
+                <p><img src="/images/location.png">6232 W. 95th Street</p>
+            </div>
+            <br clear="all">
+             <span><a href="/Profiles/the-grant-team-real-estate-coldwell-banker-residential#Website" class="footer-featured">Website</a></span>            
+            <span><a href="/Profiles/the-grant-team-real-estate-coldwell-banker-residential#Gallery" class="footer-featured">Gallery</a></span>
+            <span><a href="/Profiles/the-grant-team-real-estate-coldwell-banker-residential#info" class="footer-featured">More info</a></span>
+            <span><a href="/Profiles/the-grant-team-real-estate-coldwell-banker-residential#map" class="footer-featured">Map Location</a></span>
+            	
+        </div>
+                <div id="featured">
+        	<img src="/w-80-no-image.png" class="featurd" width="80" height="60">
+            <div class="descreption">
+            	<a href="/Profiles/frank-s-european-service-henderson" style="color:#066">Frank's European Service Henderson</a>
+                <br clear="all">
+                <p><img src="/images/phone.png">702-566-0990</p>
+                <p><img src="/images/location.png">704 W Sunset Rd #B1</p>
+            </div>
+            <br clear="all">
+             <span><a href="/Profiles/frank-s-european-service-henderson#Website" class="footer-featured">Website</a></span>            
+            <span><a href="/Profiles/frank-s-european-service-henderson#Gallery" class="footer-featured">Gallery</a></span>
+            <span><a href="/Profiles/frank-s-european-service-henderson#info" class="footer-featured">More info</a></span>
+            <span><a href="/Profiles/frank-s-european-service-henderson#map" class="footer-featured">Map Location</a></span>
+            	
+        </div>
+            </div>
+</div>
+<br clear="all"> 
+    <div id="footer">
+        <div id="footer_inner">                                                
+            <div class="grid">
+                <h5>World Wide</h5>
+                <ul>
+                
+
+
+					<li><a href="http://dz.flavopages.com">Algeria</a></li>
+									<li><a href="http://at.flavopages.com">Austria</a></li>
+									<li><a href="http://be.flavopages.com">Belgium</a></li>
+									<li><a href="http://bg.flavopages.com">Bulgaria</a></li>
+									<li><a href="http://ca.flavopages.com">Canada</a></li>
+									<li><a href="http://cn.flavopages.com">China</a></li>
+									<li><a href="http://hr.flavopages.com">Croatia</a></li>
+									<li><a href="http://cz.flavopages.com">Czech Republic</a></li>
+									<li><a href="http://dk.flavopages.com">Denmark</a></li>
+									<li><a href="http://fi.flavopages.com">Finland</a></li>
+									<li><a href="http://fr.flavopages.com">France</a></li>
+				                    <li>&nbsp;</li>
+                    <li>&nbsp;</li>
+                </ul>
+                <ul>
+                   					<li><a href="http://de.flavopages.com">Germany</a></li>
+									<li><a href="http://gr.flavopages.com">Greece</a></li>
+									<li><a href="http://hu.flavopages.com">Hungary</a></li>
+									<li><a href="http://ie.flavopages.com">Ireland</a></li>
+									<li><a href="http://it.flavopages.com">Italy</a></li>
+									<li><a href="http://lu.flavopages.com">Luxembourg</a></li>
+									<li><a href="http://mc.flavopages.com">Monaco</a></li>
+									<li><a href="http://ma.flavopages.com">Morocco</a></li>
+									<li><a href="http://nl.flavopages.com">Netherlands</a></li>
+									<li><a href="http://no.flavopages.com">Norway</a></li>
+									<li><a href="http://pl.flavopages.com">Poland</a></li>
+				                    <li>&nbsp;</li>
+                    <li>&nbsp;</li>
+                </ul>
+                <ul>
+                      							<li><a href="http://pt.flavopages.com">Portugal</a></li>
+													<li><a href="http://ro.flavopages.com">Romania</a></li>
+													<li><a href="http://sk.flavopages.com">Slovakia</a></li>
+													<li><a href="http://si.flavopages.com">Slovenia</a></li>
+													<li><a href="http://es.flavopages.com">Spain</a></li>
+													<li><a href="http://se.flavopages.com">Sweden</a></li>
+													<li><a href="http://ch.flavopages.com">Switzerland</a></li>
+													<li><a href="http://tn.flavopages.com">Tunisia</a></li>
+													<li><a href="http://tr.flavopages.com">Turkey</a></li>
+													<li><a href="http://us.flavopages.com">United States</a></li>
+						                    <li><a href="" id="moreCt">More..</a></li>
+
+                    <li>&nbsp;</li>
+                    <li>&nbsp;</li>
+                    
+                </ul>                
+            </div>
+            <div class="grid">
+                <h5>Advertising width us</h5>
+                <ul>                   
+                    <li><a href="/services/#solutions">Advertising Solution</a></li>
+                    
+                    <li><h5>Contact Us</h5></li>           
+                    <li><a href="/contact.php">Send us a message</a></li>
+                    <li>&nbsp;</li>          
+    
+                </ul>
+            </div>
+            <div class="grid">
+                <h5>Browse</h5>
+                <ul>
+                    <li><a href="/services">Services</a></li>                    
+                    <li><a href="/tos.php">Terms of service</a></li>
+                    <li><a href="/help.php">Help</a></li>                    
+                    <li><a href="/privacy.php">Privacy</a></li>
+                    <li><a href="/contact.php">Contact</a></li>
+                    <li><a href="/about.php">About</a></li>
+                </ul>
+            </div>
+            <div class="grid" style="float:right">
+                <h5>Newsletter</h5>
+                <ul>
+                    <li><a href="">Receive flavopages newsletter and news feed.</a></li>
+                    <li>
+                    	<form id="" action="/newsletterConfirmation.php" method="get">
+                    		<input type="text" placeholder="Get Email updates" name="email">
+                            <input type="submit" value="Get updates">
+                        </form>
+                        <div id="newsletterFooter"></div>
+                    </li>
+                    <li>&nbsp;</li>
+                    <li>                    	
+                    	<a href="https://www.facebook.com/flavopages"><img src="/images/fb.png"></a> 
+                        <a href="https://twitter.com/flavopages"><img src="/images/twitter.png"></a>   
+                        <a href="https://plus.google.com/b/101063655470240435116"><img src="/images/google.png"></a>   
+                    </li>    
+                                     
+                </ul>
+            </div>
+            <div id="footer_rs">
+            </div>	
+             <p class="footer_bottom">
+                © 2014 FlavoPages Intellectual Property LLC. All rights reserved.<br>
+    <br clear="all">
+    
+            </p>
+            
+        </div>
+    </div>
+    <div id="countries_all">
+    	<div id="countries_center">
+            <h3>Countries</h3>
+            
+            <ul>							<li><a href="http://dz.flavopages.com">Algeria</a></li>
+													<li><a href="http://at.flavopages.com">Austria</a></li>
+													<li><a href="http://be.flavopages.com">Belgium</a></li>
+													<li><a href="http://bg.flavopages.com">Bulgaria</a></li>
+													<li><a href="http://ca.flavopages.com">Canada</a></li>
+													<li><a href="http://cn.flavopages.com">China</a></li>
+													<li><a href="http://hr.flavopages.com">Croatia</a></li>
+													<li><a href="http://cz.flavopages.com">Czech Republic</a></li>
+													<li><a href="http://dk.flavopages.com">Denmark</a></li>
+													<li><a href="http://fi.flavopages.com">Finland</a></li>
+													<li><a href="http://fr.flavopages.com">France</a></li>
+													<li><a href="http://de.flavopages.com">Germany</a></li>
+													<li><a href="http://gr.flavopages.com">Greece</a></li>
+													<li><a href="http://hu.flavopages.com">Hungary</a></li>
+													<li><a href="http://ie.flavopages.com">Ireland</a></li>
+						</ul><ul>							<li><a href="http://it.flavopages.com">Italy</a></li>
+													<li><a href="http://lu.flavopages.com">Luxembourg</a></li>
+													<li><a href="http://mc.flavopages.com">Monaco</a></li>
+													<li><a href="http://ma.flavopages.com">Morocco</a></li>
+													<li><a href="http://nl.flavopages.com">Netherlands</a></li>
+													<li><a href="http://no.flavopages.com">Norway</a></li>
+													<li><a href="http://pl.flavopages.com">Poland</a></li>
+													<li><a href="http://pt.flavopages.com">Portugal</a></li>
+													<li><a href="http://ro.flavopages.com">Romania</a></li>
+													<li><a href="http://sk.flavopages.com">Slovakia</a></li>
+													<li><a href="http://si.flavopages.com">Slovenia</a></li>
+													<li><a href="http://es.flavopages.com">Spain</a></li>
+													<li><a href="http://se.flavopages.com">Sweden</a></li>
+													<li><a href="http://ch.flavopages.com">Switzerland</a></li>
+													<li><a href="http://tn.flavopages.com">Tunisia</a></li>
+						</ul><ul>							<li><a href="http://tr.flavopages.com">Turkey</a></li>
+													<li><a href="http://us.flavopages.com">United States</a></li>
+						</ul>				
+            
+          
+            <div style="background:#eee;width:100%;padding:10px 0;display:inline-block">
+            	<button style="background:#3498db;border:none;padding:5px 12px;float:right;margin-right:20px;color:#FFF;cursor:pointer" id="close_countrieAll">ok</button>
+            </div>
+        </div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58106185-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+    </div>
+
+
+
+<div><div class="sweet-overlay" tabindex="-1"></div><div class="sweet-alert" tabindex="-1"><div class="icon error"><span class="x-mark"><span class="line left"></span><span class="line right"></span></span></div><div class="icon warning"> <span class="body"></span> <span class="dot"></span> </div> <div class="icon info"></div> <div class="icon success"> <span class="line tip"></span> <span class="line long"></span> <div class="placeholder"></div> <div class="fix"></div> </div> <div class="icon custom"></div> <h2>Title</h2><p>Text</p><button class="cancel" tabindex="2">Cancel</button><button class="confirm" tabindex="1">OK</button></div></div></body></html>
