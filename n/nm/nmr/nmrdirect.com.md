@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmrdirect.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050911id_/http%3A//www.nmrdirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmrdirect.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407181912id_/http%3A//nmrdirect.com/privacy) for the most accurate reproduction.*
 
 # National Marketing Resources
 
