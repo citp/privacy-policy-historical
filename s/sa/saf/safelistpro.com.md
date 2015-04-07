@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safelistpro.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220112201id_/http%3A//www.safelistpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelistpro.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084031id_/http%3A//www.safelistpro.com/privacy.php) for the most accurate reproduction.*
 
 # Safelist Pro - Free Credit Based SafeList Advertising - Free Safelist
 
