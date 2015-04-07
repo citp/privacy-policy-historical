@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaalaa.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217143059id_/http%3A//www.shaalaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaalaa.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151639id_/http%3A//www.shaalaa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shaalaa.com | शाला.com
 
