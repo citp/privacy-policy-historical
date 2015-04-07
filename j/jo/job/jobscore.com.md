@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224022813id_/https%3A//www.jobscore.com/site/about_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407190809id_/https%3A//www.jobscore.com/site/about_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobScore
 
