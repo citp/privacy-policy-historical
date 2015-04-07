@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tropicalsmoothiecafe.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123064618id_/http%3A//tropicalsmoothiecafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropicalsmoothiecafe.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407122647id_/http%3A//www.tropicalsmoothiecafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Tropical Smoothie Café · Privacy Policy · Eat Better. Feel Better.
 
