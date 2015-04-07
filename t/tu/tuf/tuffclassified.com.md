@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuffclassified.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827211721id_/http%3A//tuffclassified.com/privacy-p24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuffclassified.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082700id_/http%3A//tuffclassified.com/privacy-p24) for the most accurate reproduction.*
 
 # Privacy - Tuffclassified
 
