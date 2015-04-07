@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the york.ac.uk privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214111700id_/http%3A//www.york.ac.uk/about/legal-statements/%23tab-5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the york.ac.uk privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407031915id_/http%3A//www.york.ac.uk/about/legal-statements/%23tab-5) for the most accurate reproduction.*
 
 # Legal statements - About the University, The University of York
 
