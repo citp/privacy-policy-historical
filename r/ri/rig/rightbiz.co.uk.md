@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rightbiz.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123907id_/http%3A//rightbiz.co.uk/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbiz.co.uk privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407040240id_/https%3A//www.rightbiz.co.uk/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Policy - RightBiz UK
 
-RightBiz takes everyone’s privacy very serious. 
+RightBiz takes everyone's privacy very serious. 
 
 Protecting your privacy is one of our highest priorities. We developed this policy to demonstrate our firm commitment to protect your privacy. Please read the following information to learn more about our privacy policy.
 
