@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readtheory.org privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112112245id_/http%3A//readtheory.org/welcome/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readtheory.org privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407141818id_/http%3A//www.readtheory.org/welcome/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Read Theory
 
