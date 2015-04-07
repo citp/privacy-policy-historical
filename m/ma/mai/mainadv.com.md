@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainadv.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019134558id_/http%3A//www.mainadv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainadv.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407115204id_/http%3A//mainadv.com/privacy.php) for the most accurate reproduction.*
 
 # mainADV
 
@@ -43,7 +43,7 @@ We believe that the use of these tools enable us and our advertiser clients to p
 
 You may at all times adjust your computer's web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit nor take full advantage of all the website offerings and interest-based advertising. You can remove cookies by following directions provided in your Internet browser's "help" file. 
 
-You may also simply opt out to receive interest-based advertising by [**clicking here**](https://web.archive.org/web/20141019134558id_/http%3A//www.mainadv.com/privacy.php?del=1#opt-out). 
+You may also simply opt out to receive interest-based advertising by [**clicking here**](https://web.archive.org/web/20150407115204id_/http%3A//mainadv.com/privacy.php?del=1#opt-out). 
 
 Our opt-out cookies are programmed to expire ten years after they are initially issued. If you buy a new computer, upgrade or change Web browsers or delete this "opt-out" cookie, you will need to perform this opt-out process again. In order for the opt-out to work, your browser must be set to accept third party cookies. Opting out does not necessarily delete or replace all cookies from our domain. 
 
