@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsign.in privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930060305id_/http%3A//socialsign.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsign.in privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407181405id_/https%3A//socialsign.in/privacy) for the most accurate reproduction.*
 
 # SocialSign.in
 
