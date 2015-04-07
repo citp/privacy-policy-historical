@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paxtonim.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121045522id_/http%3A//paxtonim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paxtonim.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408015808id_/http%3A//paxtonim.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Paxton Internet Marketing
 
