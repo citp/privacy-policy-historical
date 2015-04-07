@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logoyes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052454id_/http%3A//logoyes.com/site/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoyes.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407180212id_/http%3A//logoyes.com/site/page/privacy-policy) for the most accurate reproduction.*
 
 # Logo Design | Free Logo Design Software | Make Your Own Logo Designs
 
