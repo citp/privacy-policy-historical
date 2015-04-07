@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecreativeim.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911231843id_/http%3A//www.ecreativeim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecreativeim.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082230id_/http%3A//www.ecreativeim.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -36,5 +36,5 @@ Ecreativeworks provides you with the opportunity to change your non-public perso
 
 If you have any questions or concerns about any privacy issues, please contact us at [privacy@ecreativeworks.com](mailto:privacy@ecreativeworks.com). 
 
-©2014 Ecreative Internet Marketing | [Site Map](http://www.ecreativeim.com/site-map) | [Privacy](http://www.ecreativeim.com/privacy) | [Terms & Conditions](http://www.ecreativeim.com/terms-and-conditions)  
+©2015 Ecreative Internet Marketing | [Site Map](http://www.ecreativeim.com/site-map) | [Privacy](http://www.ecreativeim.com/privacy) | [Terms & Conditions](http://www.ecreativeim.com/terms-and-conditions)  
 An Internet Marketing Group of Ecreativeworks, Inc. – An Industrial Web Design Company. 
