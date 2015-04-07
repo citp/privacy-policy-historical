@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the followshows.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022164604id_/http%3A//followshows.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followshows.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407074232id_/http%3A//followshows.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | followshows
 
-This Privacy Policy governs the manner in which followshows collects, uses, maintains and discloses information collected from users (each, a "User") of the [followshows.com](https://web.archive.org/web/20141022164604id_/http%3A//followshows.com/followshows.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by followshows.
+This Privacy Policy governs the manner in which followshows collects, uses, maintains and discloses information collected from users (each, a "User") of the [followshows.com](https://web.archive.org/web/20150407074232id_/http%3A//followshows.com/followshows.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by followshows.
 
 **Personal identification information**
 
