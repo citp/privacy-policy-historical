@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005141id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072843id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Symptom Find
 
-Last Updated: March 17, 2014
+Last Updated: January 15, 2015
 
 Generally SymptomFind.com ("Site," “SymptomFind.com,” "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII").
 
-SymptomFind.com is operated by IAC Search & Media Brands, Inc. (“IACSAM Brands”). For SymptomFind.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
+SymptomFind.com is an affiliate of About.com Health and operated by IAC Search & Media Brands, Inc. (“IACSAM Brands”). For SymptomFind.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
 
 ###### What does this Privacy Policy cover?
 
@@ -45,6 +45,6 @@ If you have any questions about anything in this Privacy Policy or about collect
   * IAC Search & Media Brands, Inc.
   * 555 12th Street, Suite 500
   * Oakland, CA 94607
-  * E-Mail: [contact us](https://web.archive.org/web/20141120005141id_/http%3A//www.symptomfind.com/contact.html)
+  * E-Mail: [contact us](https://web.archive.org/web/20150407072843id_/http%3A//www.symptomfind.com/contact.html)
 
 
