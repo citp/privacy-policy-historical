@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mysteryscience.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824110450id_/http%3A//mysteryscience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysteryscience.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407130714id_/http%3A//mysteryscience.com/privacy) for the most accurate reproduction.*
 
-# Mystery Science: Open-and-go lessons for elementary teachers
+# Privacy Policy
 
-Effective: May 20, 2014
+## Effective: May 20, 2014
 
 This Privacy Policy explains how information is collected, used and disclosed by Limelight Corp. with respect to your access and use of our services. This Privacy Policy doesn’t apply to any websites, services or applications operated or provided by other companies that can be accessed through our services.
 
@@ -22,7 +22,7 @@ We collect certain information that your web browser sends when you visit our we
 
 **Information Collected by Others**
 
-We may enable other companies to collect usage analytics about our services. These companies may place their own cookies on your device to collect traffic and activity data in order to deliver us relevant metrics and information. We do not share any personal information of our users with these companies, but we may share anonymous or aggregated information about our users with them to help improve our services. The collection of this data by these companies is subject to their own privacy policy. For more information visit: [Google Analytics.](https://web.archive.org/web/20140824110450id_/http%3A//mysteryscience.com/www.google.com/policies/privacy/)
+We may enable other companies to collect usage analytics about our services. These companies may place their own cookies on your device to collect traffic and activity data in order to deliver us relevant metrics and information. We do not share any personal information of our users with these companies, but we may share anonymous or aggregated information about our users with them to help improve our services. The collection of this data by these companies is subject to their own privacy policy. For more information visit: [Google Analytics.](https://web.archive.org/web/20150407130714id_/http%3A//mysteryscience.com/www.google.com/policies/privacy/)
 
 **How We Use the Information We Collect**
 
