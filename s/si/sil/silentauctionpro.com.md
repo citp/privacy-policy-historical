@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silentauctionpro.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025085409id_/http%3A//www.silentauctionpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silentauctionpro.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082703id_/http%3A//silentauctionpro.com/privacy.php) for the most accurate reproduction.*
 
 # Silent Auction Pro - Privacy Policy
 
