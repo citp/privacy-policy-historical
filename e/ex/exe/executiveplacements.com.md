@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the executiveplacements.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204120141id_/http%3A//www.executiveplacements.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the executiveplacements.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407112751id_/http%3A//www.executiveplacements.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Executive Placements - Privacy Policy
 
@@ -57,7 +57,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.executiveplacements.com/disclaimer.php](https://web.archive.org/web/20141204120141id_/http%3A//www.executiveplacements.com/disclaimer.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.executiveplacements.com/disclaimer.php](https://web.archive.org/web/20150407112751id_/http%3A//www.executiveplacements.com/disclaimer.php)
 
 **Your Consent**
 
