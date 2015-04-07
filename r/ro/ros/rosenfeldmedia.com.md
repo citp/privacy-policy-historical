@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosenfeldmedia.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219094215id_/https%3A//rosenfeldmedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosenfeldmedia.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407124828id_/http%3A//rosenfeldmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rosenfeld Media
 
@@ -6,7 +6,7 @@
 
 We hope you’ll find our user experience books and other services valuable to your work. And we hope you’ll [let us know](http://rosenfeldmedia.com/contact/ "Contact Us") what we’ve done well and how we can do better. Our privacy policy addresses the kind of information we gather from our visitors and how we use it. If you have any questions, please contact us:
 
-**Rosenfeld Media, LLC**  
+ **Rosenfeld Media, LLC**  
 Louis Rosenfeld, Publisher and Privacy Policy Representative  
 457 Third Street, #4R  
 Brooklyn, NY 11215 USA  
@@ -33,4 +33,4 @@ We use the information we gather to enhance the experience of using the site, to
 
 We will not disclose your PI to third parties without your permission unless required by law.
 
-_Dated: July 6, 2007_
+ _Dated: July 6, 2007_
