@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the readtheory.org privacy policy that was archived on 2014-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141112112245id_/http%3A//readtheory.org/welcome/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the readtheory.org privacy policy that was archived on 2015-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407141818id_/http%3A//www.readtheory.org/welcome/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
 
@@ -48,16 +48,19 @@
 
 
 
+<script src="//use.typekit.net/iqm5nls.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+
 
 </head>
 
 <body style="">
-	<script type="text/javascript">
-    var applicationContextPath = ""
-</script>
+
 
 
 	<div class="titipArrow"></div>
+	<div class="returnToAssociatedQuestion-link" title="View questions">View Questions ⇒</div>
 	<div id="topNavigation-container" class="container" role="banner">
 		<div id="topNavigation-topBar">
 			<div id="topNavigation-width">
@@ -90,11 +93,11 @@
 		<div id="withLeftNavMainContainer" class="container">
 
 			
-			<div id="pageErrors-container" class="container" role="alert">
+			<div id="pageErrors-container" class="container" role="note">
 				<div id="pageErrors-section" class="section">
 					<div id="pageErrors-template" class="pageErrors-template">
 
-	<div id="pageErrors-errors" class="pageErrors-errors" role="alert">
+	<div id="pageErrors-errors" class="pageErrors-errors" role="note">
 		
 	</div>
 
@@ -285,17 +288,19 @@
 		</div>
 	</div>
 
-	<div class="loading" style="display: none;"></div>
+	<div class="loading-container">
+		<div class="loading"></div>
+	</div>
 
 	
 	
 
 <div id="bottomNavigation-container" class="section">
 	<div id="socialIcons">
-		<span id="newsletter" title="Subscribe to our newsletter">newsletter</span>
-		<a href="http://www.readtheoryworkbooks.com" target="blank"><span id="print" title="Print our lessons">print]</span></a> <a href="http://www.facebook.com/ReadTheory" target="blank"><span id="facebook" title="Like us on facebook">facebook</span></a> <a href="http://www.twitter.com/ReadTheory" target="blank"><span id="twitter" title="Follow us on twitter">twitter</span></a> <span id="donate" title="Support our program">donate</span>
+		<span id="newsletter" class="newsletter" title="Subscribe to our newsletter">Subscribe</span>
+		<a href="http://www.readtheoryworkbooks.com" target="blank"><span id="print" title="Print our lessons">Print</span></a> <a href="http://www.facebook.com/ReadTheory" target="blank"><span id="facebook" title="Like us on facebook">Facebook</span></a> <a href="http://www.twitter.com/ReadTheory" target="blank"><span id="twitter" title="Follow us on twitter">Twitter</span></a> <span id="donate" title="Support our program">Donate</span>
 		<a href="/contact/contactUs">
-			<span id="contact" title="Contact us">contact</span>
+			<span id="contact" title="Contact us">Contact</span>
 		</a>
 	</div>
 
@@ -309,7 +314,7 @@
 	<ul id="legal-list">
 		<li><a href="/welcome/termsAndConditions">Terms of Use</a></li>
 		<li><a href="/welcome/privacyPolicy">Privacy Policy</a></li>
-		<li>Copyright © 2014 Read Theory.  All Rights Reserved.</li>
+		<li>Copyright © 2014 Read Theory</li>
 	</ul>
 </div>
 
@@ -317,94 +322,101 @@
 	
 	<script src="/static/js/jquery.tipTip.minified.js" type="text/javascript"></script>
 <script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-5853865-5']);
+ _gaq.push(['_trackPageview']);
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-5853865-5']);
-  _gaq.push(['_trackPageview']);
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-
-	<!-- Show the jQuery loading indicator -->
+	// Show the jQuery loading indicator
 	function showAjax() {
+ 	  jQuery('.loading-container').show();  // show loading indicator
  	  jQuery('.loading').show();  // show loading indicator
 	};
-	jQuery( document ).ajaxStart(showAjax());
-
+	
 	function hideAjax() {
+ 	  jQuery('.loading-container').hide();  // hide loading indicator
  	  jQuery('.loading').hide();  // hide loading indicator
 	};
-	jQuery( document ).ajaxStop(hideAjax());
-
-	<!-- Correctly set active navigation item border color -->
-	jQuery('document').ready( function() {
-		jQuery('ul.topNavigation li.active').prev('li').css({'borderRightColor': '#666'});
-	});
 	
-	<!-- Handle displaying the teacher class navigation drop-down -->
-	jQuery("#leftNavigation-classes-link").click(function(event) {
-		event.preventDefault();
-		jQuery('#leftNavigation-classes-link').css({'backgroundPosition': '-172px -58px'});
-		jQuery("#leftNavigation-classes-container").slideToggle();
-	});
-	
-	jQuery(document).click(function(event) {
-		if(!jQuery(event.target).closest("#classesNavItem").length) {
-			if (jQuery("#leftNavigation-classes-container").css("display") == "block") {
-				jQuery('#leftNavigation-classes-link').css({'backgroundPosition': '18px -58px'});
-				jQuery("#leftNavigation-classes-container").slideToggle();
+	jQuery(document).ready(function(){
+		// Correctly set active navigation item border color
+		jQuery('document').ready( function() {
+			jQuery('ul.topNavigation li.active').prev('li').css({'borderRightColor': '#666'});
+		});
+		
+		// Handle displaying the teacher class navigation drop-down
+		jQuery("#leftNavigation-classes-link").click(function(event) {
+			event.preventDefault();
+			jQuery('#leftNavigation-classes-link').css({'backgroundPosition': '-172px -58px'});
+			jQuery("#leftNavigation-classes-container").slideToggle();
+		});
+		
+		jQuery(document).click(function(event) {
+			if(!jQuery(event.target).closest("#classesNavItem").length) {
+				if (jQuery("#leftNavigation-classes-container").css("display") == "block") {
+					jQuery('#leftNavigation-classes-link').css({'backgroundPosition': '18px -58px'});
+					jQuery("#leftNavigation-classes-container").slideToggle();
+				}
 			}
-		}
+		});
+
 	});
 
-	jQuery("#newsletterDialog").dialog(
-		{
-			autoOpen: false,
-			width: "520",
-			modal: true, 
-			show: 'fade', 
-			hide: 'fade', 
-			draggable: false
-		}
-	);
-	jQuery("#newsletter").click(function() {
- 		jQuery("#newsletterDialog").dialog("open");
-		jQuery(".ui-widget-overlay").bind("click",function() {
-			jQuery("#newsletterDialog").dialog("close");
+	jQuery(document).ready(function(){
+		jQuery("#newsletterDialog").dialog(
+			{
+				autoOpen: false,
+				width: "520",
+				modal: true, 
+				show: 'fade', 
+				hide: 'fade', 
+				draggable: false
+			}
+		);
+		jQuery(".newsletter").click(function() {
+	 		jQuery("#newsletterDialog").dialog("open");
+			jQuery(".ui-widget-overlay").bind("click",function() {
+				jQuery("#newsletterDialog").dialog("close");
+			});
+			jQuery(".closeDialog-stockButton").bind("click",function() {
+				jQuery("#newsletterDialog").dialog("close");
+			});
 		});
-		jQuery(".closeDialog-stockButton").bind("click",function() {
-			jQuery("#newsletterDialog").dialog("close");
+		
+		jQuery("#donateDialog").dialog(
+			{
+				autoOpen: false,
+				width: "600",
+				modal: true,
+				show: 'fade',
+				hide: 'fade',
+				draggable: false
+			}
+		);
+		jQuery("#donate").click(function() {
+	 		jQuery("#donateDialog").dialog("open");
+			jQuery(".ui-widget-overlay").bind("click",function() {
+				jQuery("#donateDialog").dialog("close");
+			});
+			jQuery(".closeDialog-stockButton").bind("click",function() {
+				jQuery("#donateDialog").dialog("close");
+			});
 		});
 	});
-	
-	jQuery("#donateDialog").dialog(
-		{
-			autoOpen: false,
-			width: "600",
-			modal: true,
-			show: 'fade',
-			hide: 'fade',
-			draggable: false
-		}
-	);
-	jQuery("#donate").click(function() {
- 		jQuery("#donateDialog").dialog("open");
-		jQuery(".ui-widget-overlay").bind("click",function() {
-			jQuery("#donateDialog").dialog("close");
-		});
-		jQuery(".closeDialog-stockButton").bind("click",function() {
-			jQuery("#donateDialog").dialog("close");
-		});
-	});
-</script><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-resizable" tabindex="-1" role="dialog" aria-describedby="newsletterDialog" aria-labelledby="ui-id-1" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">&nbsp;</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="newsletterDialog" class="ui-dialog-content ui-widget-content">
+</script>
+
+
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-resizable" tabindex="-1" role="dialog" aria-describedby="newsletterDialog" aria-labelledby="ui-id-1" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">&nbsp;</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="newsletterDialog" class="ui-dialog-content ui-widget-content" style="display: block;">
 		<!-- Begin MailChimp Signup Form -->
 		<div id="mc_embed_signup">
 			<form action="http://readtheory.us6.list-manage.com/subscribe/post?u=2f1ba833b08d7374e73c8a3de&amp;id=9ff608abaa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-				<div id="dialogInfoImage"></div>
+				<div class="dialogInfoImage"></div>
 				<div id="newsletterTitle">
 					Subscribe to our newsletter
 				</div>
@@ -425,8 +437,8 @@
 		<div id="newsletterSubtitle">
 			Subscribe to get monthly updates in your inbox from Read Theory. You will receive website updates, teaching tips and exclusive offers.
 		</div>
-	</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-resizable" tabindex="-1" role="dialog" aria-describedby="donateDialog" aria-labelledby="ui-id-2" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-2" class="ui-dialog-title">&nbsp;</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="donateDialog" class="ui-dialog-content ui-widget-content">
-		<div id="dialogInfoImage"></div>
+	</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-resizable" tabindex="-1" role="dialog" aria-describedby="donateDialog" aria-labelledby="ui-id-2" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-2" class="ui-dialog-title">&nbsp;</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="donateDialog" class="ui-dialog-content ui-widget-content" style="display: block;">
+		<div class="dialogInfoImage"></div>
 		<div class="dialog-title">Support Our Program</div>
 		<div id="donateMessage1">
 			"I'm so happy to have found your program. My students have made
@@ -453,8 +465,4 @@
 			pledges, or promises of support, should we incorporate as a
 			non-profit.</div>
 		<div class="closeDialog-stockButton">Continue Learning!</div>
-	</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div>
-
-
-
-</body></html>
+	</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div></body></html>
