@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinsupreme.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821105041id_/http%3A//pinsupreme.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinsupreme.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407102359id_/http%3A//pinsupreme.com/privacy.html) for the most accurate reproduction.*
 
 # PinSupreme | Privacy Policy
 
