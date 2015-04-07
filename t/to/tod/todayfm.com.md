@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayfm.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115161557id_/http%3A//www.todayfm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayfm.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407145119id_/http%3A//www.todayfm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Today FM
 
@@ -161,6 +161,6 @@ If you contact us, we may keep a record of that correspondence;
 
 Any other information provided by you pursuant to your use of the Today FM Application.
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us here.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us [here](http://www.todayfm.com/contact-us).
 
 * * *
