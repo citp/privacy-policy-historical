@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritualnetworks.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229005312id_/http%3A//spiritualnetworks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualnetworks.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072654id_/http%3A//spiritualnetworks.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Meet New People on Spiritual Networks, Make Friends, Share, Chat
 
