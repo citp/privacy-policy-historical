@@ -1,21 +1,18 @@
-> *The following text is extracted and transformed from the smartguy.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521022306id_/http%3A//www.smartguy.com/index.asp%3Fid%3D523%26c%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartguy.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151355id_/http%3A//www.smartguy.com/home/privacy) for the most accurate reproduction.*
 
-# SmartGuy.com
-
-  
-Effective date [October 14, 2008] 
+# Privacy Policy | smartguy.com
 
 **Our Commitment to Privacy**
 
-SmartGuy.com, a division of Cristal Solutions, Inc. (hereinafter collectively "SmartGuy.com"), is committed to protecting the privacy of users of our website. All the terms and definitions in our Website's Terms of Use located at [www.smartguy.com/index.asp?id=522&c=Terms-of-Use](http://www.smartguy.com/index.asp?id=522&c=Terms-of-Use) are incorporated by reference herein. Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Website and our Services. This Privacy Policy will be continuously assessed against new technologies, business practices and the needs or our clients, customers and website users. This Privacy Policy applies to our Website and governs data collection and usage at our Website. Please read it in its entirety. 
+SmartGuy.com, a division of Cristal Solutions, Inc. (hereinafter collectively "SmartGuy.com"), is committed to protecting the privacy of users of our website. All the terms and definitions in our Website's Terms of Use located at [www.smartguy.com/index.asp?id=522&c=Terms-of-Use](http://www.smartguy.com/index.asp?id=522&c=Terms-of-Use)are incorporated by reference herein. Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Website and our Services. This Privacy Policy will be continuously assessed against new technologies, business practices and the needs or our clients, customers and website users. This Privacy Policy applies to our Website and governs data collection and usage at our Website. Please read it in its entirety.
 
 **Information Provided to Match User with Contractors and Service Professionals**
 
-When you submit information to SmartGuy.com requesting our _[Services](http://www.smartguy.com/index.asp?id=522&c=Terms-of-Use)_ , you authorize us to share this information with our network of Contractors and Service Professionals (Contractors, Tradesmen, Architects, etc.) in order to try to provide the services you request. For example, when an approved member of our service professional network accepts a lead from a registered user, and that user indicates what personal information they are willing to share so that the Contractor or Service Professional can contact the user, such as telephone numbers and email addresses, that information is shared with our Contractors and Service Professionals who have accepted a service request lead. We may also post and publish users'  _[Ratings and Reviews](http://www.smartguy.com/index.asp?id=522&c=Terms-of-Use)_  of Contractors' or Service Professionals' performance, as well as _[Feedback and Testimonials](http://www.smartguy.com/index.asp?id=522&c=Terms-of-Use)_ at our sole discretion.
+When you submit information to SmartGuy.com requesting our [Services](http://www.smartguy.com/index.asp?id=522&c=Terms-of-Use), you authorize us to share this information with our network of Contractors and Service Professionals (Contractors, Tradesmen, Architects, etc.) in order to try to provide the services you request. For example, when an approved member of our service professional network accepts a lead from a registered user, and that user indicates what personal information they are willing to share so that the Contractor or Service Professional can contact the user, such as telephone numbers and email addresses, that information is shared with our Contractors and Service Professionals who have accepted a service request lead. We may also post and publish users'[Ratings and Reviews](http://www.smartguy.com/index.asp?id=522&c=Terms-of-Use)of Contractors' or Service Professionals' performance, as well as [Feedback and Testimonials](http://www.smartguy.com/index.asp?id=522&c=Terms-of-Use) at our sole discretion.
 
 **Other Types of Information We May Collect**
 
-Through the use of cookie technology or otherwise, we may track and collect information about your computer and software when you visit our website. This information can include: (i) your IP address; (ii) domain server; (iii) type of computer; (iv) type of web browser; (v) access times; and (vi) referring websites addresses (collectively " **Traffic Data** "). Traffic Data is anonymous information that does not personally identify you. Traffic Data helps us to design and deliver the most user-friendly web pages, allows for constant improvement to our Website and enables us to best satisfy the needs of our users, customers and prospective customers. 
+Through the use of cookie technology or otherwise, we may track and collect information about your computer and software when you visit our website. This information can include: (i) your IP address; (ii) domain server; (iii) type of computer; (iv) type of web browser; (v) access times; and (vi) referring websites addresses (collectively " **Traffic Data** "). Traffic Data is anonymous information that does not personally identify you. Traffic Data helps us to design and deliver the most user-friendly web pages, allows for constant improvement to our Website and enables us to best satisfy the needs of our users, customers and prospective customers.
 
 In order for you to access the Services that we offer via our Website or otherwise, we may require you to provide us with information that personally identifies you, such as your name, mailing address, e-mail address and home and business telephone numbers (" **Personally Identifiable Information** "). If you communicate with us by e-mail, or otherwise complete online forms, surveys, or the like, any information provided in such communication may be collected as Personally Identifiable Information.
 
@@ -31,7 +28,7 @@ Cookies are a feature of web browser software that allows web servers to recogni
 
 We may use third-party advertising companies to serve ads on our behalf and to monitor certain pages of our Website for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our Site. These companies, which may include Google and Microsoft, Inc., may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
 
-Some of our business partners may use cookies on our Website, e.g. advertisers. We have no access to or control over these cookies once our business partners have been given permission to set cookies. This privacy statement covers the use of cookies by SmartGuy.com only and does not cover the use of cookies by any advertisers. 
+Some of our business partners may use cookies on our Website, e.g. advertisers. We have no access to or control over these cookies once our business partners have been given permission to set cookies. This privacy statement covers the use of cookies by SmartGuy.com only and does not cover the use of cookies by any advertisers.
 
 **Use of Log Files**
 
@@ -39,19 +36,19 @@ We use log files like most standard website servers. This includes Internet prot
 
 **Uses and Sharing of Collected Information**
 
-We will keep your Personally Identifiable Information private, except as otherwise provided in this Privacy Policy, and will not share it with third parties, unless such disclosure is necessary to: (a) comply with legal process (such as a court order) or other legal requirements of any governmental authority; (b) protect our rights or property; (c) act under extreme circumstances to protect the personal safety of users of this website and SmartGuy.com, our Website or the public; (d) enforce our Website's Terms of Use located at [www.smartguy.com/index.asp?id=522&c=Terms-of-Use](http://www.smartguy.com/index.asp?id=522&c=Terms-of-Use)  or (e) operate or conduct maintenance and repair of our Services and or equipment, as authorized by law. Your Personally Identifiable Information is stored on secure servers that are not accessible by third parties. 
+We will keep your Personally Identifiable Information private, except as otherwise provided in this Privacy Policy, and will not share it with third parties, unless such disclosure is necessary to: (a) comply with legal process (such as a court order) or other legal requirements of any governmental authority; (b) protect our rights or property; (c) act under extreme circumstances to protect the personal safety of users of this website and SmartGuy.com, our Website or the public; (d) enforce our Website's Terms of Use located at [www.smartguy.com/index.asp?id=522&c=Terms-of-Use](http://www.smartguy.com/index.asp?id=522&c=Terms-of-Use) or (e) operate or conduct maintenance and repair of our Services and or equipment, as authorized by law. Your Personally Identifiable Information is stored on secure servers that are not accessible by third parties.
 
-We may use Personally Identifiable Information to send you information about SmartGuy.com and our Services, or promotional material from some of our business partners, or to contact you when necessary. 
+We may use Personally Identifiable Information to send you information about SmartGuy.com and our Services, or promotional material from some of our business partners, or to contact you when necessary.
 
-We may use Traffic Data to analyze trends, administer our Website, track the user's movement, and gather broad demographic information for aggregate use. 
+We may use Traffic Data to analyze trends, administer our Website, track the user's movement, and gather broad demographic information for aggregate use.
 
-We may provide Traffic Data and/or other aggregate non-personally identifying information to third parties, including our affiliates and business partners. 
+We may provide Traffic Data and/or other aggregate non-personally identifying information to third parties, including our affiliates and business partners.
 
 Notwithstanding the foregoing, we may transfer, sell or assign information concerning your use of our Website, including without limitation, Personally Identifiable Information, to third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of SmartGuy.com to a successor in interest.
 
 **Opt-Out Process**
 
-When SmartGuy.com asks you for information, you are given the opportunity to "opt-out" of having your information used for purposes not directly related to our Site. For example, our service request form has an opt-out mechanism so users who submit a service request, but do not want any marketing material, can keep their email address off of our marketing lists. 
+When SmartGuy.com asks you for information, you are given the opportunity to "opt-out" of having your information used for purposes not directly related to our Site. For example, our service request form has an opt-out mechanism so users who submit a service request, but do not want any marketing material, can keep their email address off of our marketing lists.
 
 Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to "unsubscribe" in the email or send an email to us at **customerservice@smartguy.com**.
 
@@ -59,7 +56,7 @@ Users who no longer wish to receive our newsletter and promotional communication
 
 Third-party websites may contain links to our Website. Please be aware that we are not responsible for the privacy practices or the content of such other sites.
 
-Our Website may contain links to third-party websites. Please be aware that we are not responsible for the privacy practices or the content of such other sites. 
+Our Website may contain links to third-party websites. Please be aware that we are not responsible for the privacy practices or the content of such other sites.
 
 We encourage our users to be aware when they leave our Website and to read the privacy policies or statements of third-party sites before proceeding. These other sites may send their own cookies to users, collect data, or solicit Personally Identifiable Information. This Privacy Policy applies solely to information collected at our Website.
 
@@ -79,7 +76,7 @@ We may change our Privacy Policy at any time by updating this posting. If at any
 
 **Children's Privacy**
 
-You must be at least 18 years old to use our Website. Our Website is not designed to attract children under the age of 18 and we will not knowingly collect, use or disclose Personally Identifiable Information about visitors under 18 years of age. If you are under 18 years of age, you can use the Services offered on our Website only in conjunction with your parents or guardians. 
+You must be at least 18 years old to use our Website. Our Website is not designed to attract children under the age of 18 and we will not knowingly collect, use or disclose Personally Identifiable Information about visitors under 18 years of age. If you are under 18 years of age, you can use the Services offered on our Website only in conjunction with your parents or guardians.
 
 **Acceptance of Privacy Policy**
 
@@ -87,7 +84,4 @@ By using our Website, you signify your assent to our Privacy Policy. If you do n
 
 **Contact Us**
 
-If you have any questions or concerns regarding our Privacy Policy or any questions about the security at our Website, please send an email to **[info@smartguy.com](mailto:info@smartguy.com) **or contact us in writing at Privacy Department, c/o SmartGuy.com, 9129 Hazen Drive, Beverly Hills, CA 90210. 
-
-5961514  
-092208
+If you have any questions or concerns regarding our Privacy Policy or any questions about the security at our Website, please send an email to **[info@smartguy.com](mailto:info@smartguy.com) **or contact us in writing at Privacy Department, c/o SmartGuy.com, 9129 Hazen Drive, Beverly Hills, CA 90210.
