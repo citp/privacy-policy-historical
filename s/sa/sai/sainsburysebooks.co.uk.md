@@ -1,97 +1,104 @@
-> *The following text is extracted and transformed from the sainsburysebooks.co.uk privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130153548id_/http%3A//www.sainsburysebooks.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysebooks.co.uk privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408011438id_/http%3A//www.sainsburysebooks.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy at eBooks by Sainsbury's
 
-This Privacy Policy relates to the website, [www.sainsburysebooks.co.uk ](http://www.sainsburysebooks.co.uk/)(the “Website”) as well as other pages, information, software, apps, services, products and content which may be operated, hosted or managed by Anobii Limited (together the “Services”) and forms part of the Terms and Conditions. The Services may also be governed by additional terms and conditions, therefore please read this Privacy Policy in conjunction with the terms & conditions of any particular Service or Services you are using.
+We value your privacy and the security of your data is extremely important to us. This policy sets out where and how we collect your personal information and how it will be used, as well as your rights over any personal information we hold about you.
 
-The Services are operated by Anobii Limited, a company registered in England (company registration no. 07282115) whose registered office is at 5 St John's Lane, London, EC1M 4BH, United Kingdom (“we”, “us”). Anobii Limited is a subsidiary of Sainsbury’s Supermarkets Ltd whose registered office is 33 Holborn, London, EC1N 2HT.
+Your use of this website is governed by our [terms and conditions](http://www.sainsburysebooks.co.uk/terms-and-conditions) . Please ensure you have read and understood them in addition to this policy.
 
-For the purposes of data protection law, Anobii Limited is the data controller of any information received from or in connection with the Services. We are registered with the Information Commissioner’s Office with number Z2651471.
+**Business Information**
 
-Your privacy is important to us. This Privacy Policy therefore sets out how and for what purposes we collect and use your personal information through your use of the Services. We recommend that you read this Privacy Policy carefully and print a copy for your future reference. Please note that by accessing or otherwise using the Services, we will assume that you consent to the uses of your personal information described in this Privacy Policy.
+[www.sainsburysebooks.co.uk](http://www.sainsburysebooks.co.uk/) is operated by Sainsbury’s Entertainment Ltd, a company registered in England (company registration no. 07282115) whose registered office is at 5 St John's Lane, London, EC1M 4BH, United Kingdom (“we”, “us”). Sainsbury’s Entertainment Ltd is a wholly owned subsidiary of Sainsbury’s Supermarkets Ltd whose registered office is 33 Holborn, London, EC1N 2HT. Sainsbury’s Entertainment Ltd is registered as a data controller under the terms of the Data Protection Act 1998. Details can be found at [ico.org.uk](http://ico.org.uk/) under number Z2651471.
 
-If you have any requests concerning our use of your personal information or any queries with regard to our privacy practices, then please contact us at [contact.us@sainsburysebooks.co.uk](mailto:contact.us@sainsburysebooks.co.uk?subject=Privacy%20Policy).
+**Our promise to you**
 
-## **Information that we collect**
+We respect, and are committed to protecting your privacy and will always process your personal information in accordance with the Data Protection Act and any other relevant legislation.  We will not sell any information that identifies you to any third party without your consent and any information you give to Sainsbury’s will be held with the utmost care and security.
 
-The information we collect about you when you access or otherwise use the Services falls into the following three categories:
+**What sorts of information do we collect**
 
-**Personal information you provide**
+  * Information that you provide to us such as your name, address, telephone number, email address and payment card details.   
 
-We collect personal information from users of the Services through the use of on-line forms (for example when you register to create an account in order to participate in our community and connect with like-minded people), upload a review or add books to your shelf, download or sign up to receive a Service and every time you e-mail us your details.
+  * Information about the products and services you purchase from us.
 
-The personal information you provide to us may include:
+  * Information such as your computer’s IP address and anonymous information collected from cookies when you are browsing our website.
 
-•    Your name, address and email address.   
-•    Demographic information such as age, gender and country of residence.   
-•    Your relationship status.   
-•    Your buddy icon, photograph or image.   
-•    Information on your reading habits and preferences, which may be used to better understand you and your lifestyle and preferences in order to serve you personalised adverts and content. •    Your payment information, if you purchase an ebook through the Services.   
-•    A record of any correspondence between you and us (such as customer enquiry e-mails). 
+  * Information from other sources like credit reference agencies, the DVLA, social media providers, marketing and research companies, as well as information that is publicly available.
 
-You may use the Services without creating an account and providing your personal information to us. However, if you choose not to create an account you may not be able to use the Services to their fullest extent. For example, you will be unable to create your own shelf or write a review. 
 
-**Information collected automatically from your computer or other device.**  
 
-•    When you use the Services, our web servers may automatically collect certain information from your computer or device that enables us to better understand you as a user of the Services (for example, the web browser you use and the pages that interest you) and to help us enhance your experience of the Services. Find out more about our use of cookies.  
-•    Your IP address, which is the unique address of your computer or device and which is automatically provided when your web browser or email application requests a web page or email. This enables us to deliver the Services you have requested. We may also use your IP address for the purpose of aggregate statistics reporting.   
-•    Data collected from “Web beacons” including information about your journey across the Internet and your browsing behaviour around various websites, including interactions with adverts, within our network.   
-•    Information about the type of web browser you are using (for example Firefox, Internet Explorer or Safari). This helps us to deliver the Services in a way that is most compatible with your particular software. 
 
-**Information provided by third parties**
+**How we will use the information**
 
-The Services may allow you to pull certain information from, and share certain information through, any third party social networking accounts you have, such as accounts with Facebook and Twitter (such as information about the books or authors that you like).
+The information we collect may be used to:
 
-In order to do so, we will require access to some of your personal information stored on these sites. However we will only access personal information you hold on third party social networking sites where you have instructed us to do so, and in accordance with the privacy permissions you have set with those third party sites to enable them to share your personal information.
+\-  Process your orders;
 
-If you instruct us to access personal information held with a third party social networking site, please note that your personal information held with that social networking site may become visible and accessible to other users of the Services. Similarly, depending on the privacy settings you have chosen with the third party social networking site, your use of the Services may be posted to, and become visible to other users of, that third party network site.
+\-  Allocate Nectar points if appropriate;
 
-Please note that it is your responsibility to set appropriate privacy settings with each third party social networking site that you instruct us to access, and we recommend that you check these before instructing us to access your personal information on any such third party social networking site.
+\-  Help us ensure that our customers are genuine and to prevent fraud;
 
-**Use of your personal information**
+\-  Conduct market research, either ourselves or by using reputable agencies;
 
-We process personal information collected via your use of the Services for the purposes of:  
-•    Providing, improving, promoting and personalising the Services;   
-•    Dealing with your inquiries and requests;   
-•    Administering your account, including maintaining your shelf and online preferences;   
-•    Processing and fulfilling orders for ebooks you have purchased;   
-•    Allocating you Nectar points if you’ve registered your Nectar card and make a purchase;  
-•    Contacting you by post, telephone, email or SMS with information and news about products, services, special offers and events that we think may interest you, provided that this in accordance with your expressed marketing preferences. You can manage your marketing preferences [here](http://www.sainsburysebooks.co.uk/settings); and   
-•    Allowing companies within the Sainsbury’s group of companies, of which Anobii Ltd is a part, to contact you by post, telephone, email or SMS with information and news about products, services, special offers and events that Sainsbury’s think may interest you, provided that this in accordance with your expressed marketing preferences. You can manage your marketing preferences [here](http://www.sainsburysebooks.co.uk/settings).
+\-  Conduct statistical analysis;
 
-We also use certain aggregate information about our visitors to the Website and/or users of the other Services (so that no individuals are identified) to measure the effectiveness of Website content the Services, to keep track of users’ browsing patterns, to build up a demographic profile of our users, and to gather statistical information about visitors to the Website for analytical and strategic development purposes.
+\-  Help us understand more about you as a customer and how you shop across Sainsbury’s companies, so we can serve you better;
 
-If you purchase ebooks through the Website, your payment information will only be used to check that it is a valid method of payment and to process your payment. No payment information is kept by us or our billing provider other than to facilitate the provision of the Services to you (for example, storing your credit or debit card number for quick payment). You will always be able to remove any such stored payment details.
+\-  Help us to develop this website to make your shopping easier in the future;
 
-## **Sharing your personal information**
+\-  Contact you about our products and services if you’ve consented;
 
-We may disclose your personal information to:
+\-  Help answer your questions and solve any issues you have raised.
 
-•    Other users. Your profile is visible to other eBooks by Sainsbury’s users and may also be accessible via search engine listings, such as Google;   
-•    Other companies within the Sainsbury’s group of companies of which Anobii Ltd is a part. A list of the companies can be obtained from contact.us@sainsburysebooks.co.uk;  
-•    We may share certain aggregate data relating to users’ purchases, purchasing habits and usage of the Services with our affiliate publishers (but no individual will be identifiable from such data);   
-•    To allocate Nectar points we will pass limited information to Loyalty Management UK Limited who operate the Nectar programme;  
-•    Successors in title to our business or as a result of a sale, merger, consolidation, change of control, transfer of assets or re-organisation of Anobii Ltd or any of its subsidiaries or affiliates;   
-•    Our billing provider for the purpose of processing payments and fulfilling ebook orders;   
-•    Suppliers and services providers we engage to process data on our behalf,; or   
-•    Where necessary for compliance with a legal or regulatory requirement to which we are subject or to protect or enforce our rights or the rights of any third party, to a competent court, government body, regulator, law enforcement agency or other applicable authority. 
+**Who might we share your information with**
 
-## **International transfers**
+\-  Our other _Sainsbury’s companies_ like Mobile By Sainsbury’s and Sainsbury’s Bank - so we can provide you with a high quality service across our brand.
 
-From time to time we may need to transfer your personal information to our group companies, suppliers or service providers based in territories outside of Europe for the purposes described in this Privacy Policy. If your personal information is transferred outside of Europe, your personal information will continue to be treated and protected in accordance with this Privacy Policy.
+\-  Reputable partners, suppliers or agencies so they can process your personal information on our behalf…but only where they meet our strict standards on the processing of data and security! 
 
-## **Linked websites**
+\-  To allocate Nectar points, we will pass limited information to Aimia Coalition Loyalty Limited who operates the Nectar programme.
 
-The Website and/or the Services may contain links to other websites which are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. You should always read the privacy policy of any website you visit carefully.
+\-  New Sainsbury’s companies that we may develop in the future, either on our own or with others.
 
-## **Your rights**
+**International transfers of your data**
 
-You have a right to access the personal information we hold about you (which may be subject to a fee specified by law). You also have the right to request that we update or delete any incorrect or out-of-date personal information we hold about you, and to opt out of any marketing communications we send to you (even if you previously consented to receive them).
+From time to time we may transfer your personal information to our companies, suppliers or service providers based outside of the UK for the purposes described in this privacy policy. If we do this your personal information will continue to be treated with the utmost care and protected in accordance with this privacy policy.
 
-If you wish to exercise any of these rights, please write to us at [contact.us@sainsburysebooks.co.uk](mailto:contact.us@sainsburysebooks.co.uk?subject=Privacy%20Policy).
+**Keeping you informed about Sainsbury’s products and services**
 
-## **Changes to this Privacy Policy**
+The information we communicate to you may be sent by email, SMS, social media, post or via telephone provided you have consented to us doing so.  If you wish to amend your marketing preferences you can do so by clicking on "my account" and following the directions or by calling our Customer Care Team on 0800 636262.
 
-From time to time we may update this Privacy Policy. When we do we will publish the revised Privacy Policy on the Website. If you do not agree to these changes, please do not continue to use the Website and/or the Services. If material changes are made to this Privacy Policy, we will notify registered users by e-mail and by placing a prominent notice on the Website.
+**Nectar**
 
-This Privacy Policy was last updated January 2014.
+We are a partner in the Nectar loyalty card scheme.  That means that if you use your Nectar card when shopping with us you will be awarded points for most things that you buy.  The points can be spent with us or with any other Nectar partner.  If you use your Nectar card we can also see what products you have bought from us.  That allows us to personalise the offers we send to you and understand a bit more about the kind of shopper you are. 
+
+**Your rights**
+
+In addition to our safeguards, your personal data is protected in the UK by the Data Protection Act.  This provides, among other things, that the data we hold about you should be processed lawfully and fairly.  It should be accurate, relevant and not excessive.  The information should, where necessary, be kept up to date and not retained for longer than is necessary.  It should be kept securely to prevent unauthorised access by other people.  You have the right to see what is held about you and correct any inaccuracies. Should you wish to see any of the information held about you, please write to The Data Protection Manager, Sainsbury’s Legal Services, 33 Holborn, London EC1N 2HT. 
+
+**Cookies**
+
+We use a feature of your internet browser called a 'cookie' on this website. A 'cookie' is a very small text file that your web browser places on your computer's hard drive which allows us to help you get the best out of your visit to the website and improve your user experience. A 'cookie' can be thought of as an identification card which tells a website when you have returned.  To read our Cookie Policy please _[click here](http://www.sainsburysebooks.co.uk/cookies)._
+
+**Links to other websites**
+
+Whilst we make every effort to provide you with links to other high quality, reputable websites, these websites are not under our day to day control.  Therefore we cannot accept responsibility for any issues arising in connection with their use of your information, the website content or the services offered to you by these websites.  We advise you to consult the privacy policy and terms and conditions on each website to see how each supplier may process your information.
+
+**Sharing your thoughts**
+
+When using our website, you may be able to share information through social networking accounts like Facebook and Twitter.  For example when you ‘like’, ‘share’ or review our products. When doing this your personal information may be visible to other users of those sites, Sainsbury's or this website. Please remember it is your responsibility to set appropriate privacy settings on your social network accounts so you are comfortable with how your information is used and shared.
+
+**Security**
+
+We treat all the information we hold securely and with the utmost care. 
+
+Your payment details are stored on our system in an encrypted format and can only be accessed when you place an order using your user name or email address and password.
+
+Please be aware that we will only ever contact customers requesting confirmation of account details if your card is declined at the point of payment (this is not the same as the automatic pre authorisation which happens when you order your products online), or in certain circumstances when a refund to your card is required as Customer Care Team do not have access to your payment card details.
+
+We advise you never to enter your account number or password into an email or after following a link from an email.
+
+In order to provide a safe, secure shopping environment for all customers and to ensure we only serve genuine customers, Sainsbury’s reserves the right to use reputable security devices and systems as necessary.
+
+**Policy change**
+
+This privacy policy was most recently updated in January 2015. Any changes will be posted on this website and will take effect immediately.
