@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the storybundle.com privacy policy that was archived on 2014-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141214122119id_/http%3A//storybundle.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the storybundle.com privacy policy that was archived on 2015-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407121740id_/http%3A//storybundle.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/Product"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,26 +11,55 @@
 <!-- Add the following three tags inside head -->
 <meta itemprop="name" content="StoryBundle">
 <meta itemprop="description" content="Pay what you like and get a bundle of awesome ebooks and more!">
-<meta itemprop="image" content="http://storybundle.com/assets/logo/logo_thumb-9389b70227eeea512813988a53eca555.png">
+<meta itemprop="image" content="http://storybundle.com/assets/logo/logo_thumb-9675c0728fff41ad571585573b4d83b9.png">
 <!-- Facebook Meta Tags -->
 <meta property="og:title" content="Privacy - StoryBundle">
 <meta property="og:url" content="http://storybundle.com">
 <meta property="og:type" content="website">
-<meta property="og:image" content="http://storybundle.com/assets/logo/logo_square-13ac27e6106b30c0120980d8f4820fa6.png">
+<meta property="og:image" content="http://storybundle.com/assets/logo/logo_square-1c9dd1156f9b248037a14d190f0d0b2d.png">
 <meta property="og:description" content="Pay what you like and get a bundle of awesome ebooks and more!">
 
 <title>Privacy - StoryBundle</title>
-<link rel="shortcut icon" href="http://storybundle.com/assets/favicon-b5d88bf02e6b9528e594e3e5bc50dedd.ico">
+<link rel="shortcut icon" href="http://storybundle.com/assets/favicon-65a8d41f301b3a919a5e8025ddcabd1e.ico">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911" type="text/css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Creepster" type="text/css">
 <link href="https://plus.google.com/110533946067652160891" rel="publisher">
 <link rel="stylesheet" href="https://f.fontdeck.com/s/css/ANxYhj9dllkYxm1NMwN3LihqgYU/storybundle.com/20096.css" type="text/css">
-<link href="/assets/application-46e43058f24fcb0eb6a397b4a1933416.css" media="screen" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;status=0"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/application-0e131450100ee3a62d3f737d0e7a0e62.js" type="text/javascript"></script>
+<link href="/assets/application-5db905f548a77ed52afb649614706b40.css" media="screen" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;status=0"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/application-597c61c64019780e724e1be79937f83c.js" type="text/javascript"></script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="Ad+W0wLS75CB51dO8pLTSuKLkyEy9MIL19ArjVlK1Gw=" name="csrf-token">
+<meta content="6OnL0hVh2wIYilswo517Ly4Rm8DDbnNMShHBuT0s0M8=" name="csrf-token">
 
 
+
+<script type="text/javascript">
+  //function getURLParameter(name, source) {
+  //    return decodeURIComponent((new RegExp('[?|&|#]' + name + '=' +
+  //       '([^&;]+?)(&|#|;|$)').exec(source) || [, ""])[1].replace(/\+/g, '%20')) || null;
+  // }
+  // var accessToken = getURLParameter("access_token", location.hash);
+  // if (typeof accessToken === 'string' && accessToken.match(/^Atza/)) {
+  //    document.cookie = "amazon_Login_accessToken=" + accessToken + ";secure";
+  // }
+  //window.onAmazonLoginReady = function() {
+  //  amazon.Login.setClientId('amzn1.application-oa2-client.2d4a6850272046cbb4def37fbe90168e');
+  //  amazon.Login.setUseCookie(true);
+  //};
+  window.onAmazonPaymentsReady = function() {
+    if($('form.new_payment').length > 0) {
+      StoryBundle.BookBundle.initAmazonButton();
+    }
+    if($('form#new_gift').length > 0) {
+      StoryBundle.Gift.initAmazonButton();
+    }
+    
+    if($('form#new_gift_card').length > 0) {
+      StoryBundle.GiftCard.initAmazonButton();
+    }
+  }
+</script>
+  <script async="" type="text/javascript" src="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js">
+  </script>
 
 <script type="text/javascript">
 
@@ -86,18 +115,18 @@ s.parentNode.insertBefore(ga, s);
   <div id="header_right">
     <ul class="inline">
       <li class="text"><a href="http://storybundle.com/faq">What is StoryBundle?</a></li>
-      <li class="text"><a href="http://storybundle.com/#connect_and_share">Newsletter Signup</a></li>
       <li class="text"><a href="http://storybundle.com/nano">Writing Tools Bundle</a></li>
+      <li class="text"><a href="http://storybundle.com/#connect_and_share">Newsletter Signup</a></li>
       <li class="text"><a href="http://storybundle.com/giftcard">Gift Card</a></li>
         <li class="text"><a href="http://storybundle.com/login">Log In</a></li>
     </ul>
   </div>
   <div id="header_inner">
-    <div class="header_logo"><a href="http://storybundle.com/"><img alt="Logo_head" src="/assets/logo/logo_head-6c25c65d8d4f155d6b329f16c7a7dcb0.png"></a></div>
+    <div class="header_logo"><a href="http://storybundle.com/"><img alt="Logo_head" src="/assets/logo/logo_head-42c15699724ef3a1719c21104cb35e5f.png"></a></div>
     <ul class="social_panel inline">
-      <li><a href="http://www.facebook.com/StoryBundle"><img alt="facebook" src="/assets/icons/icon-facebook-d2ecde2c53893ece154778502cc28ac6.gif"></a></li>
-      <li><a href="http://twitter.com/storybundle"><img alt="twitter" src="/assets/icons/icon-twitter-31ae9404a8adbbdcde41c782966221cd.gif"></a></li>
-      <li><a href="https://plus.google.com/110533946067652160891/posts"><img alt="googleplus" src="/assets/icons/icon-google-9b365d01bc1d3a72418416513392b1a9.gif"></a></li>
+      <li><a href="http://www.facebook.com/StoryBundle"><img alt="facebook" src="/assets/icons/icon-facebook-6c2728865ec3f304a488a4d6901f5c45.gif"></a></li>
+      <li><a href="http://twitter.com/storybundle"><img alt="twitter" src="/assets/icons/icon-twitter-7994e1dc429de77792c687cffda464f9.gif"></a></li>
+      <li><a href="https://plus.google.com/110533946067652160891/posts"><img alt="googleplus" src="/assets/icons/icon-google-98e106368ee8f320702f0e65fc438961.gif"></a></li>
     </ul>
   </div>
 </div>
@@ -105,9 +134,8 @@ s.parentNode.insertBefore(ga, s);
     <div class="section">
       <div class="content_wrapper">
         <div class="action_buttons">
-          <a href="http://storybundle.com/games" class="bundle_47_button long"></a>
-          <a href="http://storybundle.com/fiction" class="bundle_46_button"></a>
-          <a href="http://storybundle.com/holiday" class="bundle_45_button"></a>
+            <a href="http://storybundle.com/ya" class="bundle_57_button"></a>
+            <a href="http://storybundle.com/scifi" class="bundle_56_button"></a>
         </div>
         
 <div id="static_page_container">
@@ -217,4 +245,4 @@ s.parentNode.insertBefore(ga, s);
     
   
 
-</div></body></html>
+</div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
