@@ -1,63 +1,91 @@
-> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228062533id_/http%3A//www.affordablemobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408005522id_/http%3A//www.affordablemobiles.co.uk/about/privacy_policy) for the most accurate reproduction.*
 
-# Affordable Mobiles Privacy Policy
+# Privacy Policy - AffordableMobiles.co.uk
 
-|  | 
+Affordablemobiles.co.uk ("We") are committed to protecting and respecting your privacy. This policy and any other documents referred to in it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-|   
----  
-  
-Affordable Mobiles know that you care about how the information you provide us is used and shared, and we understand and appreciate the level of trust you instill in us when you provide such delicate information. This notice describes our privacy policy.   
+## 1. Information we may collect from you
 
+1.1 We may collect and process the following data about you:
 
-By visiting www.affordablemobiles.co.uk you are accepting and consenting to the practices described in this Privacy Notice.  
+1.1.1 Information that you provide by filling in forms on our site http://www.affordablemobiles.co.uk/ (our site) or when speaking to our customer service or sales staff. This includes information provided at the time of making purchases from our site or requesting further services.
 
+1.1.2 If you contact us, we may keep a record of that correspondence.
 
-All information provided to or gathered by affordablemobiles.co.uk is controlled primarily by Affordable Mobiles, Magellan House, Lamport Drive, Heartlands Business Park, Daventry, NN11 8YH.  
+1.1.3 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
+1.1.4 Details of transactions you carry out through our site and of the fulfilment of your orders.
 
-The information we learn from customers helps us to personalise and continually improve your shopping experience with us. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us. We also use this information to improve our store and platform, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.
+1.1.5 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-The information that is gathered from you allows us to process your orders, which in some cases will include the need for credit checks by us and other third party companies, to obtain a mobile airtime agreement. This information is then used by Affordable Mobiles and other third party companies to supply you with the products and services you have ordered. To assist us and the service providers to make a decision on your order, we may use our own records or the files of separate third party credit reference agencies.
+## 2.  **IP Addresses**
 
-From time to time we, our agents, sub-contractors or selected third party companies may contact you with reference to new promotions or services, which we believe will be of benefit to you. You may be contacted through various means such as post, e-mail, telephone, sms or any other messaging services. If you do not wish to receive any further information from us in relation to new promotions or services, then please send an e-mail to [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.co.uk) or write to the Privacy Manager, Affordable Mobiles, Logistics House, Sopwith Way, Drayton Fields Industrial Estate, Daventry, Northamptonshire, NN11 8PB.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise your browser.
+## **3.  ** **Cookies**
 
-The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. However, cookies allow you to take full advantage of some of our websites most innovative and useful features and we recommend that you leave them turned on. 
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
-We work to protect the security of your information during transmission by using the most up to date SSL software, which encrypts information you input, and offers the most advanced security software for online transactions.
+## **4.  ** **Where we store your personal data**
 
-We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may from time to time request proof of identity before we process an order for you.
+4.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-You can tell whether you have entered a secure location on our website by the small padlock which will appear at the bottom of the page on your browser.
+4.2 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-If any of the information that you provided changes, such as home addresses, names and e-mail addresses, then please contact us either by e-mail [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.co.uk) or write to our Privacy Manager, Affordable Mobiles, Magellan House, Lamport Drive, Heartlands Business Park, Daventry, NN11 8YH.  
+4.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
+## **5.** **Use made of the Information**
 
-If you choose to visit affordablemobiles.co.uk, your visit and any dispute over privacy is subject to this Privacy Notice and our [Terms & Conditions](https://web.archive.org/terms_and_conditions.html), including limitations on damages and application of the laws of England. If you have any concern about privacy, please e-mail a thorough description to [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.co.uk) or send it to:
+5.1 We use information held about you in the following ways:
 
-Affordable Mobiles,   
-Magellan House  
-Lamport Drive  
-Heartlands Business Park  
-Daventry   
-NN11 8YH
+5.1.1 To ensure that content from our site is presented in the most effective manner for you and for your computer;
 
-and we will try to resolve it.
+5.1.2 To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
 
-Our business changes constantly and our Privacy Notice and the [Terms & Conditions](https://web.archive.org/terms_and_conditions.html) will change also. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand by the promises we make however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of those prospectively affected customers.
+5.1.3 To carry out our obligations arising from any contracts entered into between you and us;
 
-If you have any comments regarding our website or our privacy policies, then please e-mail your views to [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.com) or send a letter to our Privacy Manager, Affordable Mobiles, Logistics House, Sopwith Way, Drayton Fields Industrial Estate, Daventry, Northamptonshire, NN11 8PB.   
-  
-[](https://web.archive.org/about/#/whychooseus) [](https://web.archive.org/about/#/freedelivery) [](https://web.archive.org/about/#/awards)
+5.1.4 To allow you to participate in interactive features of our service, when you choose to do so;
 
-[](https://web.archive.org/contract-mobile-phones/view-free-gifts.html) [](https://web.archive.org/contract-mobile-phones/view-all-3-network.html)
+5.1.5 To notify you about changes to our service;
 
-### Testimonials
+5.1.6 To carry out credit checks and checks to make sure you are who you say you are.
 
-#### A few words from our customers
+5.2 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these.
 
-“Fantastic customer services - thank you so much - well impressed.”
+5.3 If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-L. Conway, Coventry
+5.4 If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+
+5.5 If you do not want us to use your data in the manner described in conditions 5.2, 5.3 and 5.4, or to pass your details on to third parties for marketing purposes, please let us know by emailing us at [care@affordablemobiles.co.uk](mailto:care@affordablemobiles.co.uk).
+
+## **6.** **Disclosure of your Information**
+
+6.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+6.2 If, through us, you enter into a contract with a network provider in relation to your mobile phone we will disclose such of your personal information as is relevant to that contract to the network provider. The network provider may use this information to carry out credit checks and security checks as well as for other purposes. For details of how the network provider will use your personal information, please ask for details from your provider.
+
+6.3 We will disclose your personal information to licensed credit reference agencies so that they can carry out credit checks and security checks on our behalf.
+
+6.4 We may disclose your personal information to third parties:
+
+6.4.1 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+
+6.4.2 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply (both of which can be viewed on our site) and other agreements; or to protect the rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+## **7.  Your rights**
+
+7.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise the right at any time by contacting us at care@affordablemobiles.co.uk.
+
+7.2 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+## **8.  Access to Information**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+## **9\. Changes to our Privacy Policy**
+
+Any changes we may make to our privacy policy in the future will be posted on this page.
+
+## **Contact**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [care@affordablemobiles.co.uk](mailto:care@affordablemobiles.co.uk).
