@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadshirt.net privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705000702id_/http%3A//www.spreadshirt.net/privacy-policy-C3928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151914id_/http%3A//www.spreadshirt.net/privacy-policy-C3928) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
@@ -125,15 +125,15 @@ In order to get information on user behaviour, cookies are stored on your comput
 This data collection is used to carry our user-based advertising campaigns by Spreadshirt: 
 
   * Google, Inc. – Information on data protection with Google can be found on <http://www.google.com/intl/de/policies/privacy/>
-  * Criteo SA - Information on data protection with Criteo SA can be found on<http://www.criteo.com/de/datenschutzrichtlinie>
+  * Criteo SA - Information on data protection with Criteo SA can be found on<http://www.criteo.com/privacy/>
   * sociomantic labs GmbH - Information on data protection with sociomantic labs GmbH can be found on <https://www.sociomantic.com/privacy/de>
 
 
 
 If you do not wish to receive user-based advertising material, you can object to it through the following links. 
 
-  * <https://www.google.com/settings/ads/preferences/#optout>
-  * <http://www.criteo.com/de/datenschutzrichtlinie>
+  * [www.google.com/settings/ads/preferences](https://www.google.com/settings/ads/preferences/#optout)
+  * <http://www.criteo.com/privacy/>
   * <https://www.sociomantic.com/privacy/de>
 
 
@@ -167,13 +167,19 @@ You can find more information on user terms and conditions here: [ http://www.go
 
 We need to point out that the website Google Analytics has been extended by the code “gat._anonymizeIp();“ to make anonymous gathering of IP address data (so called IP masking) possible by means of Google analytics. 
 
-### further analytical tools
+### Kampyle
+
+This online offer is assisted by Kampyle, a web analysis tool by Kampyle Ltd. (“Kampyle“). The collection, processing or usage of your personal data is carried out by Kampyle. For the use of Kampyle, please refer to their separate terms of use and privacy policies that can currently be found here: [http://www.kampyle.com/privacy-policy](http://www.kampyle.com/enterprise/company/privacy-policy) and here: [http://www.kampyle.com/enterprise/company/terms-of-use](http://www.kampyle.com/terms-of-use).
+
+### Further analytical tools
 
 Our online offer uses analysis tools to collect and store data in order to create user profiles in a pseudonymised way. These user profiles serve the purpose of analysing user behaviour, and they are used to improve our offer so that we can meet the demands of our customers. Cookies may be used for this purpose. Pseudonymised user profiles are not associated with the actual person behind the pseudonym without prior consent of this person to explicitly agree with this circumstance. You can prevent the storage of cookies by adjusting the settings of your browser software; we need to point out that this may lead to an inhibition of the full functionality of our online offer. Spreadshirt uses the following analytic tools: 
 
 Omniture and AdLens, web analysis tools by Adobe Systems Software Ireland Limited, offers more information of data protection on [http://www.adobe.com/de/privacy](http://www.adobe.com/de/privacy.html) and [http://www.adobe.com/de/privacy/analytics](http://www.adobe.com/de/privacy/analytics.html). You can object to the collection, storage and usage of data for future activities by Adobe if you unsubscribe on[http://www.adobe.com/de/privacy/opt-out](http://www.adobe.com/de/privacy/opt-out.html). 
 
 Optimizeley is a web analysis tool by Optimizeley Inc. – please find more information on matters of data protection on <https://www.optimizely.com/privacy>. You can object to the collection, storage and usage of data for future activities by Optimizely if you unsubscribe on <https://www.optimizely.com/opt_out>. 
+
+Crazyegg is a web analysis tool by Crazyegg Inc. – please find more information on matters of data protection on <http://www.crazyegg.com/privacy>. You can object to the collection, storage and usage of data for future activities by Crazyegg if you unsubscribe on <http://www.crazyegg.com/opt-out>. 
 
 ## 10\. Does Spreadshirt use social plug-ins?
 
@@ -202,6 +208,12 @@ If you want to prevent this kind of data association and usage, you need to log 
 Our online offer also includes social plug-ins by Addthis, provided by Clearspring Technologies, Inc. Addthis is a bookmark provider, helping to set bookmarks and communicating websites (e.g. through Pinterest). On completion of the order with Spreadshirt, the plug-in enables the user to share what has just been purchased by means of social online networks or email. Addthis uses cookies. Data generated here (e.g. time of access or browser language) are submitted to the USA and processed by Clearspring Technologies, Inc. 
 
 Please find more information on data processing and data protection of Clearspring Technologies, Inc. on <http://www.addthis.com/privacy/privacy-policy>. This website contains information on the data type used for further processing as well as their intended use. We do not process these data. You can object to the collection, storage and usage of data for future activities by unsubscribing on <http://www.addthis.com/privacy/opt-out>. 
+
+###  ShareThis 
+
+Our Internet presence uses so-called Social Plugin ShareThis by the provider ShareThis, Inc. in order to communicate websites in a straightforward way (e.g. via email, Facebook, Pinterest, Twitter etc.). In combination with this service, ShareThis places cookies. Data generated here (e.g. time of access or browser language) are submitted to the USA and processed by ShareThis Inc. 
+
+You can find ShareThis Inc.’s privacy policy on [http://www.sharethis.com/legal/privacy/"](http://www.sharethis.com/legal/privacy/#sthash.qAtj3M1f.dpbs). This website contains information on the data type used for further processing as well as their intended use. We do not process these data. You can object to the collection, storage and usage of data for future activities by unsubscribing on [http://www.sharethis.com/legal/privacy/"](http://www.sharethis.com/legal/privacy/#sthash.qAtj3M1f.dpbs). 
 
 ## 11\. Is your data safe?
 
