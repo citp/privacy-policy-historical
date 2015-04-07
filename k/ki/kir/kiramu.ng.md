@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiramu.ng privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209051819id_/http%3A//www.ady.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiramu.ng privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073704id_/http%3A//www.ady.ng/privacy) for the most accurate reproduction.*
 
-# PrivacyAdy.ng is Nigerias Free Classified Ads Platform Online
+# Privacy Ady.ng is Nigerias Free Classified Ads Platform Online
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
