@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webeden.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701064244id_/http%3A//www.webeden.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webeden.co.uk privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072133id_/http%3A//www.webeden.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Web Design - Webeden
+# Privacy | WebEden
 
 At WebEden.co.uk we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. 
 
@@ -48,7 +48,7 @@ You mind find links to third party websites on our website. These websites shoul
 
 Access To Information
 
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of �10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
+The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
 Contacting Us
 
