@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the scholasticahq.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208114323id_/http%3A//www.scholasticahq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholasticahq.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407175630id_/http%3A//scholasticahq.com/privacy-policy) for the most accurate reproduction.*
 
 # Scholastica: Privacy Policy
 
 ## Overview
 
-We respect the privacy of our Account holders and the privacy of their client data. All user information contained within the forms you may use or build on the Scholasticahq.com Site are governed by our [Terms of Service](https://web.archive.org/web/20141208114323id_/http%3A//www.scholasticahq.com/terms-of-service). Although Scholastica, LLC owns the data storage, databases and the Scholasticahq.com Site, you retain all rights to your data. We will also not utilize your data in our databases to compete with you, market to your clients, advertise to, or contact them for any other means of profit.
+We respect the privacy of our Account holders and the privacy of their client data. All user information contained within the forms you may use or build on the Scholasticahq.com Site are governed by our [Terms of Service](https://web.archive.org/web/20150407175630id_/http%3A//scholasticahq.com/terms-of-service). Although Scholastica, LLC owns the data storage, databases and the Scholasticahq.com Site, you retain all rights to your data. We will also not utilize your data in our databases to compete with you, market to your clients, advertise to, or contact them for any other means of profit.
 
 ## What We Collect
 
-We collect the email addresses and certain personally identifiable information of those who communicate with us via email or register with us to open an “Account”. We also collect certain aggregate information regarding which pages users access or visit, and information volunteered by the users (such as any surveys Scholastica might conduct and/or site registrations).
+We collect the email addresses and certain personally identifiable information of those who communicate with us, e.g., when you request a free trial or demo, register for a webinar, contact us, subscribe to our email newsletter, download content (e.g. whitepapers), or register with us to open an “Account”. We also collect certain aggregate information regarding which pages users access or visit, and information volunteered by the users (such as any surveys Scholastica might conduct and/or site registrations).
 
 When you register on the Scholasticahq.com Site we ask for identifying information including your name, email address, institutional affiliation, department, specialties, personal image, publications, and other websites. Those who sign up for a journal account will enter additional information about the journal including journal contact email, editorial board, submission guidelines, and image.
 
@@ -20,13 +20,22 @@ Scholastica may also collect and analyze from visitors and users certain informa
 
 We may use personal information to provide the Services you’ve requested, including services that display customized forms. We may also use personal information for auditing, research and analysis to operate and improve the Scholasticahq.com Site. We may use third parties to assist us in processing your personal information, and we require that such third parties comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may use certain other information collected from you to help diagnose technical problems, administer the Scholasticahq.com Site, and improve the quality and types of services delivered. We may provide non-identifying and aggregate usage and volume statistical information derived from the actions of our visitors and Account holders to third parties in order to demonstrate the value we deliver to users.
 
+We may use personal information:
+
+  * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
+  * To send administrative information to you, for example, information regarding Scholastica and changes to our terms, conditions, and policies.
+  * To communicate with you and provide you with related customer service.
+  * To send you marketing communications, including via email, that we believe may be of interest to you.
+
+
+
 Information in your user account or journal account will be public on various parts of the site, so only enter information you want to be publicly available.
 
 If a user accepts a reviewer invitation or editor invitation, that user's email address may be shared with the editors of that journal.
 
 The information we collect is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
-  * if it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://web.archive.org/web/20141208114323id_/http%3A//www.scholasticahq.com/terms-of-service), or as otherwise required by law; or
+  * if it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://web.archive.org/web/20150407175630id_/http%3A//scholasticahq.com/terms-of-service), or as otherwise required by law; or
   * if Scholastica or Scholasticahq.com is acquired by or merged with another company. In this event, Scholastica will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 
