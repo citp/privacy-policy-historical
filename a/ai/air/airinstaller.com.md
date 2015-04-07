@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airinstaller.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101105832id_/http%3A//airinstaller.com/airinstaller/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airinstaller.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407164707id_/http%3A//airinstaller.com/airinstaller/privacy) for the most accurate reproduction.*
 
 # Privacy | Air Installer
 
@@ -72,11 +72,6 @@ We reserve the right, in our sole discretion, to change, modify, add and/or remo
 
 If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us:
 
-  * Air Installer
-  * #185 – 911 Yates St.
-  * Suite 327
-  * Victoria, BC V8V 4Y9
-  * Canada
   * [privacy@airinstaller.com](mailto:privacy@getwebbar.com)
 
 
