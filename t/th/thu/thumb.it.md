@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thumb.it privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013828id_/http%3A//thumb.it/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumb.it privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072049id_/http%3A//thumb.it/privacy) for the most accurate reproduction.*
 
 # Thumb - Privacy Policy
 
