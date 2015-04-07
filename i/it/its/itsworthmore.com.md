@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsworthmore.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114012451id_/http%3A//itsworthmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsworthmore.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082452id_/http%3A//www.itsworthmore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sell an iPhone, iPad, Samsung Galaxy for More Cash | ItsWorthMore.com
 
