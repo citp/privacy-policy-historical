@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randomenthusiasm.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120351id_/http%3A//randomenthusiasm.com/privacyandcontact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randomenthusiasm.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407143351id_/http%3A//randomenthusiasm.com/privacyandcontact) for the most accurate reproduction.*
 
 # Random Enthusiasm Privacy and Contact
 
@@ -17,8 +17,8 @@ If you have shared your email address with us, we will use it to send you notifi
 
 Content
 
-All of our content is uploaded by our users or comes from sites that allow the embedding of images into the webpage (eg. imgur) and is in accordance with the DMCA. If there is any content on the site that should be removed please contact us at business@lolspots.com. 
+All of our content is uploaded by our users or comes from sites that allow the embedding of images into the webpage (eg. imgur) and is in accordance with the DMCA. If there is any content on the site that should be removed please contact us at randomenthusiasm@gmail.com. 
 
 Contact
 
-If you have any further questions about this Privacy Policy, please email us at business@lolspots.com. 
+If you have any further questions about this Privacy Policy, please email us at randomenthusiasm@gmail.com. 
