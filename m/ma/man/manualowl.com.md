@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manualowl.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629205148id_/http%3A//www.manualowl.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manualowl.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408002942id_/http%3A//www.manualowl.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ManualOwl.com
 
@@ -24,6 +24,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 Quickly locate the product manual or automobile manual you are searching for. 
