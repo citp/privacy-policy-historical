@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenhouse.io privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017072901id_/http%3A//www.greenhouse.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhouse.io privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407224320id_/http%3A//www.greenhouse.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
