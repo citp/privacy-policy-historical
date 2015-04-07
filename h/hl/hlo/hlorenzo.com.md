@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hlorenzo.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809145501id_/http%3A//shop.hlorenzo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hlorenzo.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073739id_/https%3A//shop.hlorenzo.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - H. Lorenzo
 
@@ -28,7 +28,7 @@ Any of the information we collect from you may be used in one of the following w
   * To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 
-  * To send periodic emails. The email address you provide for order processing will only be used to send you information and updates from H. LORENZO. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+* To send periodic emails. The email address you provide for order processing will only be used to send you information and updates from H. LORENZO. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
 SAFEGUARDING YOUR PERSONAL INFORMATION
 
@@ -67,7 +67,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 H. LORENZO  
 8660 West Sunset Blvd.  
 Los Angeles, CA 90069  
-213 387 2206
-
-
+310 659 1434  
 
