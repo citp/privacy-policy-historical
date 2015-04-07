@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akstream.net privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221150022id_/http%3A//akstream.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akstream.net privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408014325id_/http%3A//akstream.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 
 ## Collection of personal information
 
-When you use our Products or Websites, you may be asked for personally identifiable information such as your name, address, date of birth, email address, telephone number. By giving us such information, you will need to consent to our using it in the manner described in this policy. You may withdraw your consent at any time by emailing us at info@akstream.net. We will return or destroy your personal information within five days of receipt of your withdrawal of consent. Cookie information, pages you have requested and your IP address may also be recorded by us and/or third parties from your browser as set out in this policy. 
+When you use our Products or Websites, you may be asked for personally identifiable information such as your name, address, date of birth, email address, telephone number. By giving us such information, you will need to consent to our using it in the manner described in this policy. You may withdraw your consent at any time by emailing us at support@akstream.net. We will return or destroy your personal information within five days of receipt of your withdrawal of consent. Cookie information, pages you have requested and your IP address may also be recorded by us and/or third parties from your browser as set out in this policy. 
 
 ## Newsletter
 
@@ -15,7 +15,7 @@ aKstream.net operates an email newsletter program, used to inform subscribers ab
 
 ## Use of personal information
 
-We use personal information to allow us to process your service requests, provide access to privileged areas of the Websites, send out newsletters, personalize your visit to our Websites, personalize your use of our Products, and enable us to improve the products and services we offer. We may occasionally carry out market research and send you details of services and offers that we think may be of interest to you. If you do not wish to receive such information, please e-mail info@akstream.net or, alternatively, when we send you an e-mail, it will contain a provision for you to opt out of receiving any further information from us. 
+We use personal information to allow us to process your service requests, provide access to privileged areas of the Websites, send out newsletters, personalize your visit to our Websites, personalize your use of our Products, and enable us to improve the products and services we offer. We may occasionally carry out market research and send you details of services and offers that we think may be of interest to you. If you do not wish to receive such information, please e-mail support@akstream.net or, alternatively, when we send you an e-mail, it will contain a provision for you to opt out of receiving any further information from us. 
 
 ## Disclosure of personal information
 
@@ -27,7 +27,7 @@ Cookies are small data files that a website you visit may save on your computer 
 
 ## Security
 
-All security on our Websites is treated seriously. Where applicable, we undertake security steps, including use of SSL technology, on our back-end systems that store customer account information and to protect data transmissions. However, this is not a guarantee that such data transmissions cannot be accessed, altered or deleted due to firewall or other security software failures. If you have any further concerns about security, please email our Customer Service team at info@akstream.net.
+All security on our Websites is treated seriously. Where applicable, we undertake security steps, including use of SSL technology, on our back-end systems that store customer account information and to protect data transmissions. However, this is not a guarantee that such data transmissions cannot be accessed, altered or deleted due to firewall or other security software failures. If you have any further concerns about security, please email our Customer Service team at support@akstream.net.
 
 ## Policy changes
 
