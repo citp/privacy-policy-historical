@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclassicporn.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724143412id_/http%3A//serious-partners.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclassicporn.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072557id_/http%3A//serious-partners.com/privacy.html) for the most accurate reproduction.*
 
 # CUSTODIAN OF RECORDS - U.S.C. TITLE 18, SECTION 2257 COMPLIANCE
 
