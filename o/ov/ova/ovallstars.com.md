@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ovallstars.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210013120id_/http%3A//www.ovallstars.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovallstars.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407141732id_/http%3A//www.ovallstars.com/page/privacy) for the most accurate reproduction.*
 
 # Ov AllStars | Policy Privacy
 
