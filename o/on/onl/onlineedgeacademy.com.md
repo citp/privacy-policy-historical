@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the onlineedgeacademy.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609110959id_/http%3A//www.onlineedgeacademy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineedgeacademy.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407181356id_/http%3A//www.onlineedgeacademy.com/privacypolicy) for the most accurate reproduction.*
 
 # 
 
 Our mailing address is:
 
-12782 Monarch Street  
-Garden Grove, CA 92841
+Legal Address: 1468 James Road, Gardnerville, NV 89460
 
-We can be reached via e-mail at Support@powerofpinning.com
+We can be reached via e-mail at Support@MelanieDuncan.com
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
