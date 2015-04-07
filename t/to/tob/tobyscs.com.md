@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tobyscs.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209135403id_/http%3A//www.tobyscs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobyscs.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407160737id_/http%3A//www.tobyscs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tobys Counter-Strike
 
