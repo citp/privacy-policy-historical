@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hackaday.io privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221012id_/http%3A//hackaday.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackaday.io privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407234356id_/http%3A//hackaday.io/privacy-policy) for the most accurate reproduction.*
 
-# Hackaday Privacy Policy • Hackaday Projects
+# Hackaday Privacy Policy • Hackaday.io
 
 ## **Version 1.0**
 
