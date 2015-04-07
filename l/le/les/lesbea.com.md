@@ -1,49 +1,58 @@
-> *The following text is extracted and transformed from the lesbea.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209114639id_/http%3A//www.lesbea.com/tour/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbea.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407115354id_/http%3A//www.lesbea.com/tour/privacy.html) for the most accurate reproduction.*
 
 # Lesbea.com
 
-* #### Applicable to Lesbea.com Services
+* **PRIVACY POLICY**
 
-Really Useful Ltd. operates services that are accessed through the Lesbea.com website. By using or visiting this site, You agree to the collection and use of information by us in accordance with the terms of this policy ('Privacy Policy'). If You do not agree with this Privacy Policy, please do not use the Lesbea.com site. We make every effort to avoid the need to ask for any personal information of our users because the security of your information is very important to us. We take all reasonably appropriate steps to limit the risk that your data may be lost, damaged or misused. Minors Not Eligible to Use Our Service The Site expressly and strictly limits membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community and country. All persons who do not meet this criteria are strictly forbidden from accessing or viewing the contents of Lesbea.com. We do not knowingly collect any personal information from minors and minors may not lawfully visit the Site or use any Lesbea.com services.
+  
+PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.  
+IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.  
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Lesbea.com network ("our", "we", "us", the "site") websites including but not limited to Lesbea.com. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
 
-#### When Do We Collect Information
+  
+**USE**  
+This is an adult site that expressly and strictly limits its membership to adults. This site does not knowingly seek or collect any personal information or data from persons under the age of 18. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents on this site without exception. If you are under the age of 18 and/or under the age of majority in the jurisdiction you reside and from which you access the website, then your account will be terminated without notice or delay.
 
-We may associate certain information about your use of the Lesbea.com with your IP address and/or session id. Such information may include the categories of videos that you view, the information about categorization that you provide to us, or your ratings of videos all in order to provide you with a better overall experience. This information will not include any Personally Identifiable Information as defined in this Policy.  
-Emails. If you contact us, we may keep a record of that correspondence. When you send us feedback email, we attach certain Non-PII to the email to help the Site troubleshoot your request.  
-Billing. Personal information required to process customer billing for Lesbea.com is collected by third party billing companies. For specific policies regarding billing privacy, please refer to the billing companies’ terms and conditions. Lesbea.com does not store banking account numbers, addresses, or any other information specific to billing.   
-Spam. Your email address and information will not be sold or transferred to third parties. We may market special offers from Lesbea.com to your email address. You may opt out at any time using our unsubscribe link.
+  
+**INFORMATION COLLECTED FROM SUBSCRIBERS**  
+Any customer that joins/signs up as a subscriber of the site will be required to provide personal information as well as demographic information which may include the subscriber's name, physical address, e-mail address, zip code, country, username, and password. The site collects any and all such information and includes it in its customer database. In addition, other information such as IP address (es), referring website information, browser information, and other related data may be collected.
 
-#### How Do We Collect Information?
+  
+**USE OF PERSONAL SUBSCRIBER INFORMATION**  
+If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database.  
+If a subscriber sends any personal communication or correspondence by any means, to the site, or any of its employees, agents or representatives, the site may collect the information regarding that communication and include that information in its customer database.  
+The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way.
 
-Cookies. A cookie is a message that is sent to your browser from a Web server and stored on your computers hard drive. We may use cookies to assist in (a) retrieving your encrypted password if you are one of our members, to help you stay logged on the Site (b) keeping track of videos that you view (based upon your IP address) so that we can recommend videos based on your preferences (c) keeping track of and associating your video ratings with your account if you are logged in. (d) providing video recommendations. These cookies are used only for the operation of Lesbea.com  
-IP Address. An IP address is a number that is assigned to your computer automatically when you use the Internet. We may collect IP addresses for the purposes of systems administration, server problem diagnosis and to compile aggregate information (such as how many visitors visited the Site and their approximate geographic locations). When you visit a particular Web page on the Site, our servers log your IP address. We analyze aggregated user traffic information to improve the quality of the user-experience
+  
+**DISCLAIMER**  
+By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administrative, research and development, customer administration, marketing, trading of personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.  
+By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties.  
+All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site.  
+The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. The site shall not be responsible for the privacy policy or the content of other such websites. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites.  
+Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.  
+All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals.  
+A subscriber's IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites.
 
-#### Types of Information
+  
+**SECURITY OF INFORMATION COLLECTED BY THE SITE**  
+The site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site.  
+While the website uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information, the transmission of information via the Internet is not completely secure. All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.  
+Unfortunately, the transmission of information via the Internet is not completely secure. The website uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information.
 
-Personally Identifiable Information (PII). PII is information that identifies you as an individual, such as your name, mailing address, phone number, email address, video materials that you submit, comments you make including such information, or other information that you submit voluntarily, including, but not limited to, when you contact us by email. Lesbea.com does not collect PII from users except for email addresses. In limited cases there are the following exceptions:  
-User submits feedback to the Sites  
-User sends the Sites a support-related email.  
-Lesbea.com absolutely does not distribute user email addresses to third party vendors unless necessary to solve a user-submitted support ticket.  
-Non-Personally Identifiable Information (Non-PII). Non-PII is information that does not identify you as an individual including but not limited to your browser type, language, Internet Protocol (IP) address, browser cookies, operating system, the date and time of your request, and the types of services you use.
+  
+**FINANCIAL INFORMATION**  
+All financial data will only be shared with the sites third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions.  
+Subscribers e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials.
 
-#### How Do We Use Your Information?
+  
+**"OPT-IN" & "OPT-OUT" PROVISIONS**  
+"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.  
+"OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
-PII: As stated above, the only PII collected in limited cases is your email address. We will not knowingly disclose your PII to third parties without your permission.   
-We may use your PII to administer and manage your account. In addition, we may disclose your PII when we believe in good faith that any applicable law or legal process requires it, or if we believe we need to disclose it to protect or enforce our rights or the rights of our members, users, or other third parties. Without limitation of the foregoing, we may disclose your information pursuant to the Lesbea.com Terms of Service to a third party that alleges you have infringed their intellectual property rights.   
-Non-PII: We may disclose Non-PII in connection with improving the services we offer. In addition, we may combine your Non-PII that relates to your use of the Lesbea.com site to improve our site and user experience. In addition, we may disclose your Non-PII when we believe in good faith that any applicable law or legal process requires it, or if we believe we need to disclose it to protect or enforce our rights or the rights of our members, users, or other third parties. 
+  
+**CHANGES/MODIFICATIONS TO PRIVACY POLICY**  
+This privacy policy may be changed, modified or edited at any time. It is the subscriber's responsibility to verify the Privacy Policy intermittently to see if there has been any change. All changes to the privacy policy shall be in effect thirty days after it is posted, unless the terms of the privacy policy indicate otherwise.
 
-Lesbea.com maintains and stores indefinitely logs of user visits to each webpage. Logs contain Non-PII including, but not limited to, access time, URL, ip address, referring URL, search terms, browser type, cookie contents, video player activity performance and other technical details related to performance/troubleshooting. These logs are stored on secure servers. Analytics. Google Analytics is a free service offered by Google that generates detailed statistics about the visitors to a website. There is no PII collected by Google or Lesbea.com in the use of these analytics. You may view the Google privacy policy at this link http://www.google.com/intl/en/analytics/privacyoverview.html
-
-#### Transfer of Information
-
-If we are sold to, in whole or part, or merge with another company, or declare bankruptcy, some or all of the information collected from You on Lesbea.com (including but not limited to your PII, search results and other content stored on the Lesbea.com server, IP addresses and timestamps) may be transferred or sold to a third party as a result of the transfer of disposition of assets, in whole or part.
-
-#### Warning About Online Disclosure of Information
-
-No Absolute Safeguards. Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control. Third Parties. We do not control the privacy policies of our advertisers or other third parties that have Websites linked to Lesbea.com. Your Role in Protecting Your Privacy Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any username and password you use to register, and you should always be careful and responsible whenever disclosing information online. Without limitation of the foregoing, please keep your username and password private and safe.
-
-#### Acceptance of Privacy Policy
-
-If you use the Lesbea.com website, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Lesbea.com website. We reserve the right to modify this Privacy Policy at any time. Your continued use of Lesbea.com after we either personally notify you or generally post such changes on the site will constitute your acceptance of those changes. If you have questions or concerns about this Privacy Policy, please email us at support (at) ruseful.com 
-
-Effective: December __ 2011
+  
+**TERMS AND CONDITIONS OF MEMBERSHIP**  
+Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
