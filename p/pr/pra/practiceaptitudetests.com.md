@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practiceaptitudetests.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712220156id_/http%3A//www.practiceaptitudetests.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practiceaptitudetests.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407141544id_/http%3A//www.practiceaptitudetests.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Practice Aptitude Tests | FREE Online Aptitude Tests | Practice Aptitude Tests | FREE Online Aptitude Tests
 
