@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidxden.to privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927234812id_/http%3A//www.vidxden.to/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidxden.to privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407074339id_/http%3A//www.vidxden.to/pages/privacy.html) for the most accurate reproduction.*
 
 # VidX Den - we take streaming seriously!
 
