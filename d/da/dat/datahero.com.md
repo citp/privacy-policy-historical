@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datahero.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029063623id_/https%3A//datahero.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datahero.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407070224id_/https%3A//datahero.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy | DataHero
+# DataHero: Chart Any Data, Anywhere
 
 #### Effective Date: September 2014
 
