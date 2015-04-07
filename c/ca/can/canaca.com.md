@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canaca.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702085339id_/http%3A//www.canaca.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canaca.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407184318id_/http%3A//www.canaca.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Canaca.com Privacy Policy
 
