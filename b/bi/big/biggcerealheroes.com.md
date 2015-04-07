@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the biggcerealheroes.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201062746id_/http%3A//generalmills.com/home/Privacy_Policy/kids_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggcerealheroes.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082704id_/http%3A//generalmills.com/home/Privacy_Policy/kids_privacy_policy.aspx) for the most accurate reproduction.*
 
 # General Mills: Privacy policy for child-directed sites
-
-Effective date: September 1, 2014 
 
 General Mills (“we,” “us,” “our”) is committed to providing a fun, entertaining, and safe online and mobile experience to people of all ages who use our websites and online services, and we take special care to protect the privacy of children under the age of 13.  This Privacy Policy (“Policy”) describes how information is collected, used, and disclosed through websites, mobile applications, and other online services that we create for children and that link to this Policy (collectively, the “Services”).  In addition to reading this Policy, we recommend that parents discuss online and mobile safety with their children and supervise their children’s activities to help ensure that children enjoy a safe online and mobile experience. 
 
@@ -59,3 +57,6 @@ Some web browsers may transmit “do-not-track” signals to the websites with w
 **General Mills reserves the right to change our practices and our Privacy Policy at any time. Any changes will be reflected on this page. Therefore we recommend that you visit our Privacy Policy often so that you are always fully informed. In addition, we will send a notice to any parent for whom we have contact information informing them of any material change in the collection, use, and/or disclosure practices to which that parent previously consented. 
 
  © 2014 General Mills, Inc. and its affiliates.  All Rights Reserved.
+
+  
+
