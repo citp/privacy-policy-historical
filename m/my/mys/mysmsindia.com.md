@@ -1,117 +1,16 @@
-> *The following text is extracted and transformed from the mysmsindia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101093028id_/http%3A//mysmsindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmsindia.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083952id_/http%3A//www.mysmsindia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy & Policy | FREE SMS | SEND FREE SMS TO INDIA | WAY2SMS | BULK SMS | SMS INDIA
+# Privacy Policy - MySmsIndia.com
 
-Privacy Policy
+As set forth in the General  Business Conditions, mysmsindia  provides services to persons who join mysmsindia  as non-paying Members or paying Users (“Members” or “Users” or “you”). As part of the registration process for the Services, you are asked to provide certain personal information. The policy of  mysmsindia  is to protect the privacy of mysmsindia  Members who are using any of the mysmsindia  Services.
 
-Micronet Infocom & logistics Private limited and its subsidiaries (www.mysmsindia.com) takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by MySmsIndia.com you agree to the collection and use of your data by MySmsIndia in the manner provided in this Privacy Policy.
+mysmsindia may send Users periodic emails containing information about mysmsindia, administrative notices about a User’s account (such as notices about pending activities), updates on new Service features, usage tips relating to the Services and user satisfaction questions. mysmsindia  may also access user information for the following administrative purposes:
 
-What this Privacy Policy Covers
+(a) to examine system accounting logs and other company records to resolve email and other system errors or problems and  
+(b) for billing purposes.
 
-* This Privacy Policy covers MySmsIndia.COM treatment of personally identifiable information that MySmsIndia collects when you are on the site, and when you use MySmsIndia services. This policy also covers MySmsIndia’s treatment of any personally identifiable information that MySmsIndia’s business partners share with MySmsIndia.
+mysmsindia provides you access to your Profile information for the purpose of reviewing and/or updating such information. In order to view or make any changes to your Profile, go to the mysmsindia home page, log into your mysmsindia  address and click on  mysmsindia  Profile to update your directory information.
 
-* This policy does not apply to the practices of companies that MySmsIndia does not own or control, or to people that MySmsIndia does not employ or manage.
+mysmsindia  is concerned about protecting User Information and therefore we work to protect this information by utilizing all appropriate technology to prevent unauthorized access to the information you provide mysmsindia  To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to protect the information we collect online.
 
-What information is or may be collected from you
-
-We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from “cookies,” sent to your browser from:
-
-* an IP address, assigned to the computer which you use  
-* the domain server through which you access our service  
-* the type of computer you’re using  
-* the type of web browser you’re using
-
-We may collect the following personally identifiable information about you:
-
-* name including first and last name  
-* alternate email address  
-* mobile phone number and contact details  
-* ZIP/Postal code  
-* demographic profile (like your age, gender, occupation, education, address and durables owned);  
-* preferences and interests (such as news, sports, travel and so on);  
-* financial information (like account or credit card numbers); and  
-* opinions of features on our websites.
-
-How is this information used
-
-We use your email address to send you:
-
-* Password reminder and registration confirmation  
-* Special offers  
-* News letters  
-* Changes in the service’s policy or terms of use  
-* Event based communications such as order information, renewal notices, invites, reminders etc.
-
-Note: We send users newsletters and updates upon registration. We send newsletters and/or promotional emails on behalf of our alliance partners.
-
-We use your Mobile number to send you:
-
-* Password reminder and Registration confirmation  
-* Special feature updates  
-* Event based services such as renewal notices, invites, email alerts , reminders etc.,  
-* Promotional SMSes on behalf of our alliance partners,clients & to promote various other units of Micronet Infocom & logistics Private limited
-
-We use your personal information to:
-
-* help us provide personalized features  
-* tailor our sites to your interest  
-* to get in touch with you in the case of password retrieval and policy changes  
-* to provide the services requested by you  
-* to preserve social history as governed by existing law or policy
-
-We use contact information internally to:
-
-* direct our efforts for product improvement  
-* contact you as a survey respondent  
-* notify you if you win any contest; and  
-* send you promotional materials from our contest sponsors or advertisers
-
-Generally, we use anonymous traffic information to:
-
-* remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective;  
-* recognize your access privileges to our Web sites  
-* track your entries in some of our promotions, sweepstakes and contests to indicate a player’s progress through the promotion and to track entries, submissions, and status in prize drawings  
-* make sure that you don’t see the same ad repeatedly  
-* help diagnose problems with our server  
-* administer our Web sites  
-* track your session so that we can understand better how people use our sites
-
-Information Sharing And disclosure
-
-We do not share or rent your email addresses or Mobile number with third parties except our alliance partners.
-
-MySmsIndia will send personally identifiable information about you to other companies or people when:
-
-* We have your consent to share the information;  
-* We need to share your information to provide the product or service you have requested;  
-* We need to share the information with certain service partners in order to respond to your comments or to resolve service issues.  
-* We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;  
-* We reserve the right to disclose your personally identifiable and email address information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
-
-We share your information with advertisers on an aggregate basis only.
-
-Security
-
-We follow generally accepted industry standards to protect the personal information and email address, Mobile Number submitted to us, both during transmission and once we receive it. Youe MySmsIndia Account is password protected.No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address and Mobile Number, we cannot guarantee its absolute security.
-
-if you have any questions about security on our Web site, you can send email us at  
-info@MySmsIndia.com
-
-Your Preferences to Edit and Delete Your Account Information
-
-MySmsIndia gives you the ability to edit your MySmsIndia account information and preferences at any time, including whether you want MySmsIndia to contact you about specials and new products. MySmsIndia is not responsible and will not be liable for the accuracy, completeness, veracity and reliability of any information including any customized information which may be accessed by or provided to you, which could vary depending on your MySmsIndia Account Information and preferences including your browser preferences. Also, you can always opt out from receiving emails by choosing unsubscribe link from email you received. We generally, remove your mail id from our mailing list in 2 business days.
-
-You may request us to delete your account by emailing to support@MySmsIndia.com. We send you a 4 digit unique number to your Mobile number, using this you can unsubscribe/delete your account.
-
-Policy Updates
-
-We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our homepage.
-
-If you do not agree with any term than please do not register or do not use our services
-
-If you have questions or suggestions email us at info@MySmsIndia.com
-
-To explore website please visit [  
-SITEMAP](http://mysmsindia.com/sitemap.html)
+Since offerings and technologies change, we reserve the right to change, modify, add or remove portions of our Privacy Policy or Conditions of Use at any time without prior notice. Please periodically review our Privacy Policy. YOU ARE RESPONSIBLE FOR REGULARLY REVIEWING THE mysmsindia WEBSITE TO OBTAIN TIMELY NOTICE OF SUCH MODIFICATIONS. YOU SHALL BE DEEMED TO HAVE ACCEPTED SUCH MODIFICATIONS BY CONTINUING TO USE THE SERVICES AFTER SUCH MODIFICATIONS HAVE BEEN POSTED OR INFORMATION REGARDING SUCH MODIFICATIONS HAS BEEN SENT TO YOU. If at any time you are uncomfortable with any change, amendment or modification to the Privacy Policy or Conditions of Use and wish to cancel your membership, please notify mysmsindia.
