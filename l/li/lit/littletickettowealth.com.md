@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the littletickettowealth.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612131952id_/http%3A//littletickettowealth.com/privacy.php%3Fid%3DNULL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littletickettowealth.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407071427id_/http%3A//www.littletickettowealth.com/privacy.php%3Fid%3DNULL) for the most accurate reproduction.*
 
-# Little Ticket To Wealth
+# Home
 
 > Privacy Notice 
 > 
