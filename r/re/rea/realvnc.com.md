@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the realvnc.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105205658id_/http%3A//www.realvnc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realvnc.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407124831id_/http%3A//www.realvnc.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy statement - RealVNC™
+# Privacy statement - RealVNC®
 
 ### Privacy
 
-RealVNC™ is committed to protecting the privacy of our users. We will use our best efforts to ensure that the information you give us remains private and is only used for the purposes set out in this policy.
+RealVNC® is committed to protecting the privacy of our users. We will use our best efforts to ensure that the information you give us remains private and is only used for the purposes set out in this policy.
 
 ### Use of cookies
 
@@ -28,4 +28,4 @@ Any personal information you submit to our website, for whatever purpose, is hel
 
 RealVNC is not responsible for the content or reliability of external websites and does not necessarily endorse the views expressed within them.
 
-Copyright © 2002-2014 RealVNC Limited. All rights reserved.
+Copyright © 2002-2015 RealVNC Limited. All rights reserved.
