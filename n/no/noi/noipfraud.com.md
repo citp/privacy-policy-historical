@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noipfraud.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227140942id_/http%3A//noipfraud.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noipfraud.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073733id_/http%3A//noipfraud.com/privacy-policy) for the most accurate reproduction.*
 
-# noIPfraud | Privacy Policy
+# NoIpFraud
 
 PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE ACCESSING ANY PART OF THE WEBSITE.
 
@@ -52,6 +52,6 @@ You are responsible for maintaining the confidentiality of your account informat
 
 If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please email support@NoIPFraud.com.
 
-Our address is 51 Sachem St Norwich, CT 06360,  Attention: NoIPFraud.com Counsel.
+Our address is 51 Sachem St Norwich, CT 06360, Attention: NoIPFraud.com Counsel.
 
-Top ^
+\- top -
