@@ -1,7 +1,6 @@
-> *The following text is extracted and transformed from the solidseovps.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025002933id_/https%3A//www.solidseovps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidseovps.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407193806id_/http%3A//www.solidseovps.com/privacy.php) for the most accurate reproduction.*
 
-# Solid Seo VPS - Your Solid Seo VPS - Privacy Policy
-
+# Privacy Policy - SolidSeoVPS
 
 In an effort to protect our clients' and site visitors privacy and rights, Solid has established a Privacy Policy which explains what information we gather on visitors & what we do with information that we gather.
 
@@ -19,4 +18,5 @@ SolidSeoVps.com collects personally identifiable information from Users through 
 
 SolidSeoVps.com may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by SolidSeoVps.com and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users' experience with SolidSeoVps.com and such affiliates, independent contractors and business partners. At no time will SolidSeoVps.com 's database of users ever be sold to any entity for the purpose of marketing or mailing lists. Personal information will not be sold or otherwise transferred to our business partners without your prior consent, except that we will disclose the information we collect to third parties when, in our good faith judgment, we are obligated to do so under applicable laws.
 
-Powered by [WHMCompleteSolution](http://www.whmcs.com/)
+  
+
