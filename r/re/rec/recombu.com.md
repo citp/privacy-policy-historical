@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recombu.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009055924id_/http%3A//recombu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recombu.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407050947id_/https%3A//recombu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Recombu
 
