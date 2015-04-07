@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myinstantlist.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227192811id_/http%3A//myinstantlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinstantlist.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073737id_/http%3A//myinstantlist.com/privacy.php) for the most accurate reproduction.*
 
 # Free Viral List Builder
 
-[](http://myinstantlist.com/banclick.php?code=a1ff59c9fcd256be3695bb06465e1011)
+[](http://myinstantlist.com/banclick.php?code=88c47a250dbd2212ac36d8513cd9ed80)
 
 My Instant List Privacy Policy
 
@@ -34,7 +34,7 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-Copyright (c) 2010-2014 My Instant List All Rights Reserved - Part of the [Trax Web](http://www.traxhelpdesk.com/sites/)
+Copyright (c) 2010-2015 My Instant List All Rights Reserved - Part of the [Trax Web](http://www.traxhelpdesk.com/sites/)
 
 [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Site Of The Day](http://myinstantlist.com/recommends.php)   
 
