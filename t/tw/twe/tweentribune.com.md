@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweentribune.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018023638id_/http%3A//tweentribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweentribune.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084419id_/http%3A//www.tweentribune.com/privacy) for the most accurate reproduction.*
 
 # SmithsonianTweenTribune | Articles for kids, middle school, teens from Smithsonian | Privacy | tweentribune.com
 
