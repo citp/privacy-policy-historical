@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113233832id_/http%3A//www.simpledns.com/policy.aspx%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072527id_/http%3A//www.simpledns.com/policy.aspx%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ We do not store credit card numbers on any computers connected directly or indir
 **CONTACT US**  
 If you have any additional questions or concerns about our privacy policy, please contact us at [support@jhsoft.com](mailto:support@jhsoft.com)
 
-For more information, please see [Terms of Use](https://web.archive.org/web/20141113233832id_/http%3A//www.simpledns.com/policy.aspx?terms)
+For more information, please see [Terms of Use](https://web.archive.org/web/20150407072527id_/http%3A//www.simpledns.com/policy.aspx?terms)
 
   
 
