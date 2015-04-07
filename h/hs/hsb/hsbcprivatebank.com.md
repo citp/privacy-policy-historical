@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701080010id_/http%3A//www.hsbcprivatebank.com/utilities/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407092851id_/http%3A//www.hsbcprivatebank.com/utilities/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | HSBC Private Bank
 
 This privacy statement sets out the privacy policy of www.hsbcprivatebank.com.
 
-www.hsbcprivatebank.com provides a portal, or gateway, to the financial services offered by members of the HSBC Group. The Site is owned by HSBC Private Bank (UK) Limited. HSBC Private Bank (UK) Limited (‘we’, ‘us’ and ‘our’) is a public limited company registered in England and Wales under Company Register Number 499482 and with its registered office at 78 St James’s Street, London SW1A 1EJ.
+www.hsbcprivatebank.com provides a portal, or gateway, to the financial services offered by members of the HSBC Group. The Site is owned by HSBC Private Bank (UK) Limited. HSBC Private Bank (UK) Limited (‘we’, ‘us’ and ‘our’) is a public limited company registered in England and Wales under Company Register Number 499482 and with its registered office at 8 Canada Square, London, E14 5HQ, UK.
 
 We are committed to protecting and respecting your privacy. This policy (together with the Terms and Conditions and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 **(‘Act’)** , the data controller is HSBC Private Bank (UK) Limited of 78 St James’s Street, London SW1A 1EJ.
+For the purpose of the Data Protection Act 1998 **(‘Act’)** , the data controller is HSBC Private Bank (UK) Limited of 8 Canada Square, London, E14 5HQ, UK.
 
 ## 1\. Privacy
 
