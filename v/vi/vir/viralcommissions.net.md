@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralcommissions.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231092318id_/http%3A//viralcommissions.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralcommissions.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072609id_/http%3A//viralcommissions.net/privacy.php) for the most accurate reproduction.*
 
 # Viral Commissions! Free Traffic Exchange | Free Advertising Free Web Traffic
 
