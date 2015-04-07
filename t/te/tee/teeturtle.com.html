@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the teeturtle.com privacy policy that was archived on 2014-08-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140802202130id_/http%3A//www.teeturtle.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teeturtle.com privacy policy that was archived on 2015-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407152114id_/http%3A//www.teeturtle.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+    
     <meta charset="utf-8">
     <meta http-equiv="cleartype" content="on">
     <meta name="robots" content="index,follow">
-	<meta name="google-site-verification" content="qtFeLMJBPpiV8Z4sWuaSfFigSmxFaI8FmFoIbfkbkjQ">
     <title>
       
         Privacy Policy
@@ -14,8 +14,14 @@
         | TeeTurtle
       
     </title>
+    <!-- jQuery and jQuery fallback -->
+    <script type="text/javascript" async="" src="//cdn.socialannex.com/partner/9914561/universal.js"></script><script type="text/javascript" async="" src="https://d3v38rkot6noc.cloudfront.net/js/pixel.php?org=ztl5mpvnqhkzsj9vsb8iba&amp;platform=4&amp;shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="http://beacon.riskified.com?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="//cdn.shopify.com/fb-commerce/conversion_pixels/6019714160058.js?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="//cdn.shopify.com/fb-commerce/tracking_pixels/773859112652747.js?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="//restock.microapps.com/notifications/script.js?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script type="text/javascript" async="" src="https://2db0b49582fe91fd47b4-d2737ba3a6a70ade1684dad064b2228d.ssl.cf2.rackcdn.com/gascript.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script>
+      //if (!window.jQuery)
+      //document.write("<script src='//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/jquery-1.8.3.min.js?67141231141440893'>\x3C/script>");
+    </script>
     <!-- Qubit Universal Variable start -->
-<script type="text/javascript" async="" src="//cdn.socialannex.com/partner/9914561/universal.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://2db0b49582fe91fd47b4-d2737ba3a6a70ade1684dad064b2228d.ssl.cf2.rackcdn.com/gascript.js"></script><script>
+<script>
 (function () {
 
   var uv = window.universal_variable = window.universal_variable || {};
@@ -33,7 +39,7 @@
 
     // http://docs.shopify.com/api/product
     var product = null;
-
+ 
     // http://docs.shopify.com/themes/liquid-variables/customer
     var user = {
       name: "",
@@ -95,11 +101,10 @@
     // Take a `product` (http://docs.shopify.com/api/product) Shopify 
     // object and return a mapped uv product object
     var getUvProduct = function (product) {
-
       var uvProduct = {
 
         id: String(product.id),
-
+        image_url: product.images[0],
         // path is not attached to the shopify product, pass back as the pathname
         url: window.location.pathname,
 
@@ -132,9 +137,9 @@
         // size: "M"
 
         // TODO: add custom variable for images
+        
 
       }
-
       return uvProduct;
     };
 
@@ -167,6 +172,7 @@
 
     if (product) {
       uv.product = getUvProduct(product);
+      window.__productCategoryObject = product;
     };
 
 
@@ -209,14 +215,13 @@
   /*
    * Basket
    */
-
     uv.basket =  {
       id: basket.token,
 
       // TODO
-      // currency: GBP,
+      // currency: USD,
 
-      subtotal: basket.total_price,
+      subtotal: (basket.total_price/100).toFixed(2),
 
       // TODO
       // subtotal_include_tax: true,
@@ -228,7 +233,7 @@
 
       // TODO: Check if this should be identical to subtotal
       // ideally we'll add shipping and tax
-      total: basket.total_price,
+      total: (basket.total_price/100).toFixed(2),
 
       // The items purcahased
       line_items: []
@@ -248,7 +253,6 @@
       var uvProduct = getUvProduct(product);
       uvProduct.sku_code = item.sku;
       uvProduct.url = item.url;
-
       uv.basket.line_items.push({
         product: uvProduct,
         quantity: item.quantity,
@@ -284,12 +288,14 @@
 <!-- Qubit Universal Variable end -->
 
 <!-- Opentag container REPLACE XXXX-XXXX with your own id -->
-<script src="//d3c3cq33003psk.cloudfront.net/opentag-89513-962211.js" async="" defer=""></script>
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-89513-962211.js"></script>
 <!-- Opentag container end -->
 	<meta name="viewport" content="initial-scale=1">
 
     
       <meta name="description" content="1. Your personal information is safe here. We will not release or sell any of the data you submit to the site.&nbsp;We receive and store any information you enter on">
+    
+    
     
 
     
@@ -300,7 +306,7 @@
 
     
       
-        <meta property="og:image" content="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/logo.png?19611">
+        <meta property="og:image" content="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/logo.png?67141231141440893">
       
       <meta property="og:url" content="http://www.teeturtle.com/pages/privacy">
       <meta property="og:title" content="Privacy Policy">
@@ -317,21 +323,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
 
     <!-- Stylesheets -->
-    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/styles.css?19611" rel="stylesheet" type="text/css" media="all">
+    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/styles.css?67141231141440893" rel="stylesheet" type="text/css" media="all">
     <!--[if lte IE 8]>
-      <link href="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/ie.css?19611" rel="stylesheet" type="text/css"  media="all"  />
+      <link href="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/ie.css?67141231141440893" rel="stylesheet" type="text/css"  media="all"  />
     <![endif]-->
 
       
       
     <!-- Icons -->
-    <link rel="shortcut icon" type="image/x-icon" href="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/favicon.png?19611">
+    <link rel="shortcut icon" type="image/x-icon" href="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/favicon.png?67141231141440893">
     <link rel="canonical" href="http://www.teeturtle.com/pages/privacy">
 
     <!-- Custom Fonts -->
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=.|Dosis:light,normal,bold|Dosis:light,normal,bold|Dosis:light,normal,bold|" rel="stylesheet" type="text/css">
-    
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css">
   <script type="text/javascript">
     var _roiq=[];var _gaq={push:function(){var a;for(a=0;a<arguments.length;a++){_roiq.push(arguments[a])}}};
     (function () {
@@ -344,17 +350,12 @@
 
     
       
-    <!-- jQuery and jQuery fallback -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-    <script>
-      //if (!window.jQuery)
-      //document.write("<script src='//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/jquery-1.8.3.min.js?19611'>\x3C/script>");
-    </script>
+    
 
     
-    <script src="//cdn.shopify.com/s/shopify/option_selection.js?77ddb86d10a751788d32a1388f3c804462466a84" type="text/javascript"></script> 
-    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/site.js?19611" type="text/javascript"></script>       
-    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/microapps-notify-me.js?19611" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/shopify/option_selection.js?e94502653bdb949d2dc6b5f3d3421bfa83400254" type="text/javascript"></script> 
+    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/site.js?67141231141440893" type="text/javascript"></script>       
+    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/microapps-notify-me.js?67141231141440893" type="text/javascript"></script>
     
     <script type="text/javascript">
       function doNothing(){
@@ -365,16 +366,17 @@
 //<![CDATA[
       var Shopify = Shopify || {};
       Shopify.shop = "teeturtle-2.myshopify.com";
-      Shopify.theme = {"name":"TeeTurtle (BoldApps - June 23)","id":8266165,"theme_store_id":null,"role":"main"};
+      Shopify.theme = {"name":"TeeTurtle (Bold Webmasters - February 3)","id":9842532,"theme_store_id":null,"role":"main"};
 
 //]]>
 </script>
+
 
 <script>
 //<![CDATA[
     (function() {
       function asyncLoad() {
-        var urls = ["//restock.microapps.com/notifications/script.js?shop=teeturtle-2.myshopify.com","//secure.apps.shappify.com/apps/bundle/generate_bundle.php?shop=teeturtle-2.myshopify.com"];
+        var urls = ["\/\/restock.microapps.com\/notifications\/script.js?shop=teeturtle-2.myshopify.com","\/\/cdn.shopify.com\/fb-commerce\/tracking_pixels\/773859112652747.js?shop=teeturtle-2.myshopify.com","\/\/cdn.shopify.com\/fb-commerce\/conversion_pixels\/6019714160058.js?shop=teeturtle-2.myshopify.com","http:\/\/beacon.riskified.com?shop=teeturtle-2.myshopify.com","https:\/\/d3v38rkot6noc.cloudfront.net\/js\/pixel.php?org=ztl5mpvnqhkzsj9vsb8iba\u0026platform=4\u0026shop=teeturtle-2.myshopify.com"];
         for (var i = 0; i < urls.length; i++) {
           var s = document.createElement('script');
           s.type = 'text/javascript';
@@ -384,58 +386,83 @@
           x.parentNode.insertBefore(s, x);
         }
       }
-      window.attachEvent ? window.attachEvent('onload', doNothing) : window.addEventListener('load', doNothing, false);
+      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
     })();
 
 //]]>
 </script>
 <script id="__st">
 //<![CDATA[
-var __st={"a":2674223,"offset":-14400,"u":"e9ececd35f00","s":"pages-11724134"};
+var __st={"a":2674223,"offset":-14400,"reqid":"a67c23b9-5a74-446c-9c40-aa5d1a5df70f","pageurl":"www.teeturtle.com\/pages\/privacy","s":"pages-11724134","u":"a2df1cc1d48d","p":"page","rtyp":"page","rid":11724134};
 //]]>
 </script>
 <script>
 //<![CDATA[
-    (function() {
-      function asyncLoad() {
-        var urls = ["//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"];
-        for (var i = 0; i < urls.length; i++) {
-          var s = document.createElement('script');
-          s.type = 'text/javascript';
-          s.async = true;
-          s.src = urls[i];
-          var x = document.getElementsByTagName('script')[0];
-          x.parentNode.insertBefore(s, x);
-        }
-      }
-      window.attachEvent ? window.attachEvent('onload', doNothing) : window.addEventListener('load', doNothing, false);
-    })();
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
 
 //]]>
 </script>
-<script type="text/javascript">var _gaq = _gaq || [];_gaq.push(["_setAccount","UA-30862721-1"]);_gaq.push(["_addDevId","o5cUG"]);_gaq.push(["_setAllowLinker",true]);_gaq.push(["_setDomainName","none"]);_gaq.push(["_trackPageview"]);
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = 'http://stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script><script type="text/javascript" src="//cdn.shopify.com/s/global/ga_urchin_forms.js?77ddb86d10a751788d32a1388f3c804462466a84"></script>
+<script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-30862721-1', 'auto', {'allowLinker': true});try{ga('require', 'displayfeatures');}catch(e){};ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+    </script><script type="text/javascript" src="//cdn.shopify.com/s/global/ga_urchin_forms.js?e94502653bdb949d2dc6b5f3d3421bfa83400254"></script>
 
     
     <!--<script>
 //<![CDATA[
       var Shopify = Shopify || {};
       Shopify.shop = "teeturtle-2.myshopify.com";
-      Shopify.theme = {"name":"TeeTurtle (BoldApps - June 23)","id":8266165,"theme_store_id":null,"role":"main"};
+      Shopify.theme = {"name":"TeeTurtle (Bold Webmasters - February 3)","id":9842532,"theme_store_id":null,"role":"main"};
 
 //]]>
 </script>
+
 
 <script>
 //<![CDATA[
     (function() {
       function asyncLoad() {
-        var urls = ["//restock.microapps.com/notifications/script.js?shop=teeturtle-2.myshopify.com","//secure.apps.shappify.com/apps/bundle/generate_bundle.php?shop=teeturtle-2.myshopify.com"];
+        var urls = ["\/\/restock.microapps.com\/notifications\/script.js?shop=teeturtle-2.myshopify.com","\/\/cdn.shopify.com\/fb-commerce\/tracking_pixels\/773859112652747.js?shop=teeturtle-2.myshopify.com","\/\/cdn.shopify.com\/fb-commerce\/conversion_pixels\/6019714160058.js?shop=teeturtle-2.myshopify.com","http:\/\/beacon.riskified.com?shop=teeturtle-2.myshopify.com","https:\/\/d3v38rkot6noc.cloudfront.net\/js\/pixel.php?org=ztl5mpvnqhkzsj9vsb8iba\u0026platform=4\u0026shop=teeturtle-2.myshopify.com"];
         for (var i = 0; i < urls.length; i++) {
           var s = document.createElement('script');
           s.type = 'text/javascript';
@@ -452,49 +479,101 @@ var __st={"a":2674223,"offset":-14400,"u":"e9ececd35f00","s":"pages-11724134"};
 </script>
 <script id="__st">
 //<![CDATA[
-var __st={"a":2674223,"offset":-14400,"u":"e9ececd35f00","s":"pages-11724134"};
+var __st={"a":2674223,"offset":-14400,"reqid":"a67c23b9-5a74-446c-9c40-aa5d1a5df70f","pageurl":"www.teeturtle.com\/pages\/privacy","s":"pages-11724134","u":"a2df1cc1d48d","p":"page","rtyp":"page","rid":11724134};
 //]]>
 </script>
 <script>
 //<![CDATA[
-    (function() {
-      function asyncLoad() {
-        var urls = ["//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"];
-        for (var i = 0; i < urls.length; i++) {
-          var s = document.createElement('script');
-          s.type = 'text/javascript';
-          s.async = true;
-          s.src = urls[i];
-          var x = document.getElementsByTagName('script')[0];
-          x.parentNode.insertBefore(s, x);
-        }
-      }
-      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
-    })();
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
 
 //]]>
 </script>
-<script type="text/javascript">var _gaq = _gaq || [];_gaq.push(["_setAccount","UA-30862721-1"]);_gaq.push(["_addDevId","o5cUG"]);_gaq.push(["_setAllowLinker",true]);_gaq.push(["_setDomainName","none"]);_gaq.push(["_trackPageview"]);
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = 'http://stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script><script type="text/javascript" src="//cdn.shopify.com/s/global/ga_urchin_forms.js?77ddb86d10a751788d32a1388f3c804462466a84"></script>-->
+<script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-30862721-1', 'auto', {'allowLinker': true});try{ga('require', 'displayfeatures');}catch(e){};ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+    </script><script type="text/javascript" src="//cdn.shopify.com/s/global/ga_urchin_forms.js?e94502653bdb949d2dc6b5f3d3421bfa83400254"></script>-->
     
     <script>
       var page_template = 'page';
       var shop_url = "teeturtle-2.myshopify.com";
-      console.log(shop_url);
     </script>
 
-    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/owl.carousel.min.js?19611" type="text/javascript"></script>
-    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/owl.carousel.css?19611" rel="stylesheet" type="text/css" media="all">
-    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/owl.transitions.css?19611" rel="stylesheet" type="text/css" media="all">
-    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/jquery.cookie.js?19611" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/owl.carousel.min.js?67141231141440893" type="text/javascript"></script>
+    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/owl.carousel.css?67141231141440893" rel="stylesheet" type="text/css" media="all">
+    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/owl.transitions.css?67141231141440893" rel="stylesheet" type="text/css" media="all">
+    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/jquery.cookie.js?67141231141440893" type="text/javascript"></script>
   
     <link href="https://plus.google.com/101969870859833977674" rel="publisher">
 
+ 
+    <!-- Trustpilot code -->
+    
+    <script async="" type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
+    
+  
+    
+    <!-- Facebook Tracking code -->
+    
+    <script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '751466521585265']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=751466521585265&amp;ev=PixelInitialized" /></noscript>
+    
+    
+    
+    
   <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
   <body>
     <div class="topbar">
@@ -546,7 +625,7 @@ var __st={"a":2674223,"offset":-14400,"u":"e9ececd35f00","s":"pages-11724134"};
           <div class="one-third column logo alpha">
             <a href="http://www.teeturtle.com" title="TeeTurtle">
               
-                <img src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/logo.png?19611" alt="TeeTurtle">
+                <img src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/logo.png?67141231141440893" alt="TeeTurtle">
               
             </a>
           </div>
@@ -570,15 +649,7 @@ var __st={"a":2674223,"offset":-14400,"u":"e9ececd35f00","s":"pages-11724134"};
                         
                       
                         
-                          <li><a href="/blogs/contests" title="Contests">Contests</a></li>
-                        
-                      
-                        
                           <li><a href="/pages/sizing-guide" title="Sizing Guide">Sizing Guide</a></li>
-                        
-                      
-                        
-                          <li><a href="/pages/raf" title="Refer a Friend">Refer a Friend</a></li>
                         
                       
                         
@@ -617,11 +688,15 @@ var __st={"a":2674223,"offset":-14400,"u":"e9ececd35f00","s":"pages-11724134"};
           </li>
           
             
-              <li><a href="/collections/top-sellers">Shop    |</a></li>
+              <li><a href="/collections/top-sellers">Shop</a></li>
             
           
             
-              <li><a href="/pages/about-us">Play</a></li>
+              <li><a href="/pages/sizing-guide">Sizing Guide</a></li>
+            
+          
+            
+              <li><a href="/pages/contact-us">Contact Us</a></li>
             
           
         </ul>
@@ -629,7 +704,7 @@ var __st={"a":2674223,"offset":-14400,"u":"e9ececd35f00","s":"pages-11724134"};
     </div>
     
         
-          <div id="promo-banner"><div class="container"> Get an extra $10 OFF $50+ with coupon code "MORE!"</div></div>
+          
           
           <div class="container main content">
         
@@ -664,6 +739,8 @@ sa_uni.push(['sa_pg', '1']);
 (function () { function sa_async_load() { var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true; sa.src = '//cdn.socialannex.com/partner/9914561/universal.js'; var sax = document.getElementsByTagName('script')[0]; sax.parentNode.insertBefore(sa, sax); } if (window.attachEvent) { window.attachEvent('onload', sa_async_load); } else { window.addEventListener('load', sa_async_load, false); } })();
 </script>
 
+<script type="text/javascript" src="//tags.mediaforge.com/js/3564"></script>
+
     
       </div>
     
@@ -690,8 +767,6 @@ sa_uni.push(['sa_pg', '1']);
             
               <li><a href="/pages/about-us">About Us</a></li>
             
-              <li><a href="/blogs/news">Blog</a></li>
-            
               <li><a href="/pages/faqs">FAQs</a></li>
             
               <li><a href="/pages/contact-us">Contact Us</a></li>
@@ -701,11 +776,11 @@ sa_uni.push(['sa_pg', '1']);
         <div class="footer-column">
           <ul>
             
-              <li><a href="/pages/raf">Refer a Friend</a></li>
-            
               <li><a href="/collections/archive">Design Archive</a></li>
             
               <li><a href="/pages/suggestion-box">Suggestion Box</a></li>
+            
+              <li><a href="/blogs/news">Blog</a></li>
             
           </ul>
         </div>
@@ -764,20 +839,20 @@ sa_uni.push(['sa_pg', '1']);
       <div class="container">
           <div class="six columns">
           <p class="credits">
-            © 2014 TeeTurtle
+            © 2015 TeeTurtle
           </p>
         </div>
 
         <div class="ten columns credits_right">
           <div class="payment_methods">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/cc-paypal.gif?19611" alt="PayPal">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/cc-visa.gif?19611" alt="Visa">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/cc-visaelectron.gif?19611" alt="Visa Electron">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/cc-mastercard.gif?19611" alt="Mastercard">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/cc-amex.gif?19611" alt="American Express">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/cc-cirrus.gif?19611" alt="Cirrus">
+            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/cc-paypal.gif?67141231141440893" alt="PayPal">
+            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/cc-visa.gif?67141231141440893" alt="Visa">
+            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/cc-visaelectron.gif?67141231141440893" alt="Visa Electron">
+            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/cc-mastercard.gif?67141231141440893" alt="Mastercard">
+            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/cc-amex.gif?67141231141440893" alt="American Express">
+            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/cc-cirrus.gif?67141231141440893" alt="Cirrus">
             
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/8/assets/cc-discover.gif?19611" alt="Discover">
+            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/cc-discover.gif?67141231141440893" alt="Discover">
             
           </div>
         </div>
@@ -809,7 +884,7 @@ sa_uni.push(['sa_pg', '1']);
   <div id="cart-overlay"></div>
   <div id="cart-preview">
     <div class="cart-inner">
-      <p class="shipping-note">Extra $10 OFF $50+ with coupon code "MORE!"</p>
+      <p class="shipping-note"></p>
       <div class="preview-wrapper">
         <div class="cart-wrapper"></div>
           <a href="" class="continue-shopping cart-btn">&lt;Continue Shopping</a>
@@ -827,157 +902,301 @@ sa_uni.push(['sa_pg', '1']);
             
             
             
-              related_products.push(new Array("Pocket ...", "/products/pocket-full-of-monsters","//cdn.shopify.com/s/files/1/0267/4223/products/pocketfullofmonsters_1_medium.jpg?v=1399583806", "$7.00", "370944827"));
+              related_products.push(new Array("#007", "/products/007","//cdn.shopify.com/s/files/1/0267/4223/products/007_1_medium.jpg?v=1422898871", "$10.00", "648140161"));
             
             
             
             
             
-              related_products.push(new Array("Pocket ...", "/products/pocket-monster-yellow","//cdn.shopify.com/s/files/1/0267/4223/products/pocketmonsteryellow_1_medium.jpg?v=1399584137", "$7.00", "363809671"));
+              related_products.push(new Array("An Hone...", "/products/an-honest-mistake","//cdn.shopify.com/s/files/1/0267/4223/products/an-honest-mistake-clean_medium.jpg?v=1425076261", "$10.00", "362687171"));
             
             
             
             
             
-              related_products.push(new Array("Pocket ...", "/products/pocket-monster-red","//cdn.shopify.com/s/files/1/0267/4223/products/pocketmonsterred_1_medium.jpg?v=1399584052", "$7.00", "362719675"));
+              related_products.push(new Array("Attack ...", "/products/attack-on-titans","//cdn.shopify.com/s/files/1/0267/4223/products/Attack-On_Titans-Clean_4f8bd3f9-934c-4a6e-95b8-a70e3572542e_medium.jpg?v=1426265112", "$10.00", "1113908868"));
             
             
             
             
             
-              related_products.push(new Array("Evoluti...", "/products/evolutionary-spectrum","//cdn.shopify.com/s/files/1/0267/4223/products/eeveeprism_1_medium.jpg?v=1399580799", "$7.00", "362714889"));
+              related_products.push(new Array("Batcat", "/products/batcat","//cdn.shopify.com/s/files/1/0267/4223/products/batcat-clean_medium.jpg?v=1427470091", "$20.00", "1246261676"));
             
             
             
             
             
-              related_products.push(new Array("Waiting...", "/products/waiting-for-the-bus","//cdn.shopify.com/s/files/1/0267/4223/products/waitingforbus_1_medium.jpg?v=1399585180", "$7.00", "362713067"));
+              related_products.push(new Array("Baylax", "/products/baylax","//cdn.shopify.com/s/files/1/0267/4223/products/Baylax_Site-Comp-Clean_medium.jpg?v=1425580827", "$10.00", "1018316032"));
             
             
             
             
             
-              related_products.push(new Array("Fire Mage", "/products/fire-mage","//cdn.shopify.com/s/files/1/0267/4223/products/firemage_1_medium.jpg?v=1399581379", "$7.00", "473835809"));
+              related_products.push(new Array("Big Dreams", "/products/big-dreams","//cdn.shopify.com/s/files/1/0267/4223/products/BigDreams-Clean_medium.jpg?v=1426220060", "$20.00", "1207114112"));
             
             
             
             
             
-              related_products.push(new Array("Mewsion", "/products/mewsion","//cdn.shopify.com/s/files/1/0267/4223/products/mewsion_1_42070be7-63f9-4137-b403-bd46d7dd45b2_medium.jpg?v=1399582462", "$7.00", "472356817"));
+              related_products.push(new Array("Brother?", "/products/brother","//cdn.shopify.com/s/files/1/0267/4223/products/brother-banner_medium.jpg?v=1428134933", "$15.00", "1277153684"));
             
             
             
             
             
-              related_products.push(new Array("Saiyan ...", "/products/saiyan-evolution","//cdn.shopify.com/s/files/1/0267/4223/products/saiyanevolution_1_medium.jpg?v=1399582144", "$7.00", "367364823"));
+              related_products.push(new Array("Captain...", "/products/captain-murica","//cdn.shopify.com/s/files/1/0267/4223/products/Captain-Murica_medium.jpg?v=1426003594", "$10.00", "628490493"));
             
             
             
             
             
-              related_products.push(new Array("Time Tr...", "/products/time-traveler","//cdn.shopify.com/s/files/1/0267/4223/products/timetraveller_1_medium.jpg?v=1399584226", "$7.00", "370909977"));
+              related_products.push(new Array("Celesti...", "/products/celestial-goddess","//cdn.shopify.com/s/files/1/0267/4223/products/Celestial_Goddess-sitecomp-clean_medium.jpg?v=1425757770", "$20.00", "1189965308"));
             
             
             
             
             
-              related_products.push(new Array("Princess", "/products/princess","//cdn.shopify.com/s/files/1/0267/4223/products/princess_1_medium.jpg?v=1399584778", "$7.00", "371783923"));
+              related_products.push(new Array("Colossal", "/products/colossal","//cdn.shopify.com/s/files/1/0267/4223/products/Colossal-sitecomp-clean_medium.jpg?v=1425757919", "$20.00", "1189965408"));
             
             
             
             
             
-              related_products.push(new Array("The Las...", "/products/the-last-planeteer","//cdn.shopify.com/s/files/1/0267/4223/products/thelastplaneteer_1_medium.jpg?v=1399583870", "$7.00", "362703991"));
+              related_products.push(new Array("Emperor...", "/products/emperor-palpachu","//cdn.shopify.com/s/files/1/0267/4223/products/Emperor-Palpachu_medium.jpg?v=1412170812", "$10.00", "786308701"));
             
             
             
             
             
-              related_products.push(new Array("Captain...", "/products/captain-murica","//cdn.shopify.com/s/files/1/0267/4223/products/captainmurica_1_d328a73e-2a13-4c11-892b-a73ae856815f_medium.jpg?v=1399576241", "$7.00", "628490493"));
+              related_products.push(new Array("Fire Mage", "/products/fire-mage","//cdn.shopify.com/s/files/1/0267/4223/products/Fire-Mage_medium.jpg?v=1425590486", "$10.00", "473835809"));
             
             
             
             
             
-              related_products.push(new Array("Luckysaur", "/products/luckysaur","//cdn.shopify.com/s/files/1/0267/4223/products/luckysaur_1_medium.jpg?v=1399693676", "$7.00", "567052485"));
+              related_products.push(new Array("Fired Up", "/products/fired-up","//cdn.shopify.com/s/files/1/0267/4223/products/Fired-Up_Site-Comp-Clean_medium.jpg?v=1426193697", "$10.00", "1011320076"));
             
             
             
             
             
-              related_products.push(new Array("An Hone...", "/products/an-honest-mistake","//cdn.shopify.com/s/files/1/0267/4223/products/honestmistake_1_medium.jpg?v=1399575052", "$7.00", "362687171"));
+              related_products.push(new Array("Food Fight", "/products/food-fight","//cdn.shopify.com/s/files/1/0267/4223/products/food-fight---clean_medium.jpg?v=1427861306", "$20.00", "1261329756"));
             
             
             
             
             
-              related_products.push(new Array("Getting...", "/products/getting-buzzed","//cdn.shopify.com/s/files/1/0267/4223/products/gettingbuzzed_1_medium.jpg?v=1399582597", "$7.00", "362671695"));
+              related_products.push(new Array("Gift Card", "/products/gift-card","//cdn.shopify.com/s/files/1/0267/4223/products/CARD_medium.jpg?v=1423242847", "$10.00", "404890985"));
             
             
             
             
             
-              related_products.push(new Array("#007", "/products/007","//cdn.shopify.com/s/files/1/0267/4223/products/007_1_medium.jpg?v=1399573623", "$7.00", "648140161"));
+              related_products.push(new Array("Kindred...", "/products/kindred-spirits","//cdn.shopify.com/s/files/1/0267/4223/products/kindred-spirits-banner_medium.jpg?v=1428028338", "$15.00", "1277152992"));
             
             
             
             
             
-              related_products.push(new Array("Slender...", "/products/slender-jack","//cdn.shopify.com/s/files/1/0267/4223/products/slenderjack_1_medium.jpg?v=1399582904", "$7.00", "363851923"));
+              related_products.push(new Array("Legenda...", "/products/legendary-pocket","//cdn.shopify.com/s/files/1/0267/4223/products/Legendary-Pocket_Site-Comp_medium.jpg?v=1425592913", "$10.00", "1018316680"));
             
             
             
             
             
-              related_products.push(new Array("Wolf", "/products/wolf","//cdn.shopify.com/s/files/1/0267/4223/products/wolf_1_medium.jpg?v=1399585389", "$7.00", "363093689"));
+              related_products.push(new Array("Melting...", "/products/melting-dreams","//cdn.shopify.com/s/files/1/0267/4223/products/Melting_Dreams_-_SiteComp---Clean_medium.jpg?v=1425580991", "$10.00", "1093291224"));
             
             
             
             
             
-              related_products.push(new Array("HEY!!", "/products/hey","//cdn.shopify.com/s/files/1/0267/4223/products/hey_1_medium.jpg?v=1399583605", "$7.00", "470398469"));
+              related_products.push(new Array("Mewsion", "/products/mewsion","//cdn.shopify.com/s/files/1/0267/4223/products/Mewsion_Site-Comp-Clean_medium.jpg?v=1425592466", "$10.00", "472356817"));
             
             
             
             
             
-              related_products.push(new Array("Falling...", "/products/falling-snowflakes","//cdn.shopify.com/s/files/1/0267/4223/products/fallingsnowflakes_1_b1942152-efa7-4420-a1cf-569bdaf69b04_medium.jpg?v=1399581277", "$7.00", "643763321"));
+              related_products.push(new Array("Mid-Aft...", "/products/mid-afternoon-nap","//cdn.shopify.com/s/files/1/0267/4223/products/mid-afternoon-Nap-CLEAN_medium.jpg?v=1428354085", "$20.00", "1267726444"));
             
             
             
             
             
-              related_products.push(new Array("Time Fi...", "/products/time-fiction","//cdn.shopify.com/s/files/1/0267/4223/products/timefiction_1_medium.jpg?v=1399584179", "$7.00", "409574077"));
+              related_products.push(new Array("Movie M...", "/products/movie-magic","//cdn.shopify.com/s/files/1/0267/4223/products/mm01_medium.gif?v=1427479366", "$10.00", "1018316580"));
             
             
             
             
             
-              related_products.push(new Array("Soldier...", "/products/soldiers-mark","//cdn.shopify.com/s/files/1/0267/4223/products/soldiersmark_1_medium.jpg?v=1399583214", "$7.00", "677407097"));
+              related_products.push(new Array("My Otte...", "/products/my-otter-half","//cdn.shopify.com/s/files/1/0267/4223/products/otter_medium.jpg?v=1425578452", "$20.00", "1105563392"));
             
             
             
             
             
-              related_products.push(new Array("Ultimat...", "/products/ultimate-assassin","//cdn.shopify.com/s/files/1/0267/4223/products/ultimateassassin_1_medium.jpg?v=1399584951", "$7.00", "363861001"));
+              related_products.push(new Array("Need Mo...", "/products/need-more-coffee","//cdn.shopify.com/s/files/1/0267/4223/products/Need-More-Coffee_Site-Comp-Clean_medium.jpg?v=1424716281", "$10.00", "362518159"));
             
             
             
             
             
-              related_products.push(new Array("Dawn of...", "/products/dawn-of-gaming","//cdn.shopify.com/s/files/1/0267/4223/products/dawnofgaming_1_5cebf206-5012-4a8b-a800-a28e7d7cc8a3_medium.jpg?v=1399577982", "$7.00", "569053981"));
+              related_products.push(new Array("Nerdgasm", "/products/nerdgasm","//cdn.shopify.com/s/files/1/0267/4223/products/NERDGASM_-SiteComp-CLEAN_medium.jpg?v=1426014045", "$20.00", "1089738152"));
             
             
             
             
             
-              related_products.push(new Array("Tenth o...", "/products/tenth-of-hearts","//cdn.shopify.com/s/files/1/0267/4223/products/tenthofhearts_1_medium.jpg?v=1399583658", "$7.00", "367276159"));
+              related_products.push(new Array("Nine Tails", "/products/nine-tails","//cdn.shopify.com/s/files/1/0267/4223/products/Nine-Tales_Site-Comp-Clean_medium.jpg?v=1426194400", "$10.00", "978627576"));
             
             
             
             
             
-              related_products.push(new Array("Compani...", "/products/companion-red","//cdn.shopify.com/s/files/1/0267/4223/products/companionred_1_medium.jpg?v=1400016277", "$7.00", "743204641"));
+              related_products.push(new Array("No Spla...", "/products/no-splashing","//cdn.shopify.com/s/files/1/0267/4223/products/No-Splashing-SiteComp-Clean_medium.jpg?v=1425874958", "$20.00", "1193381472"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Penguin...", "/products/penguin-plushie","//cdn.shopify.com/s/files/1/0267/4223/products/Penguin-Plushie_Site-Comp_medium.jpg?v=1417644408", "$20.00", "1022182268"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Pillow ...", "/products/pillow-fight","//cdn.shopify.com/s/files/1/0267/4223/products/Pillow-Fight_Site-Comp-Clean_medium.jpg?v=1426001747", "$10.00", "973896304"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Pocket ...", "/products/pocket-full-of-fire","//cdn.shopify.com/s/files/1/0267/4223/products/pocket-full-of-fire-banner_medium.jpg?v=1427835684", "$15.00", "1277057772"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Pocket ...", "/products/pocket-full-of-monsters","//cdn.shopify.com/s/files/1/0267/4223/products/Pocket-Full-of-Monsters_medium.jpg?v=1415634555", "$10.00", "370944827"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Pocket ...", "/products/pocket-monster-green","//cdn.shopify.com/s/files/1/0267/4223/products/Pocket-Monster-Green_Site-Comp-Clean_medium.jpg?v=1427899505", "$10.00", "362722795"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Pocket ...", "/products/pocket-monster-red","//cdn.shopify.com/s/files/1/0267/4223/products/Pocket-Monster-Red_Site-Comp-Clean_medium.jpg?v=1424985107", "$10.00", "362719675"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Pocket ...", "/products/pocket-monster-yellow","//cdn.shopify.com/s/files/1/0267/4223/products/Pocket-Monster-Yellow_Site-Comp-Clean_medium.jpg?v=1424985358", "$10.00", "363809671"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Prickly...", "/products/prickly-on-the-inside","//cdn.shopify.com/s/files/1/0267/4223/products/Prickly-on-the-Inside_site-comp-clean_medium.jpg?v=1426093155", "$10.00", "989738092"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Princess", "/products/princess","//cdn.shopify.com/s/files/1/0267/4223/products/Princess_medium.jpg?v=1412174734", "$10.00", "371783923"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Ready f...", "/products/ready-for-battle","//cdn.shopify.com/s/files/1/0267/4223/products/rady-for-battle-lastchance_medium.jpg?v=1426795274", "$5.00", "548322161"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Rebel P...", "/products/rebel-princess","//cdn.shopify.com/s/files/1/0267/4223/products/Rebel-Princess---Clean_medium.jpg?v=1426700376", "$20.00", "1215359708"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Rebels ...", "/products/rebels-of-the-galaxy","//cdn.shopify.com/s/files/1/0267/4223/products/Rebels-of-the-Galaxy_Site-Comp_medium.png?v=1424713485", "$10.00", "934577117"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Red Pan...", "/products/red-panda-express","//cdn.shopify.com/s/files/1/0267/4223/products/Red-Panda-Express_Site-Comp_medium.jpg?v=1426525802", "$10.00", "1018316728"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Red Pan...", "/products/red-panda-plushie","//cdn.shopify.com/s/files/1/0267/4223/products/Red-Panda-Plushie_Site-Comp_medium.jpg?v=1417642799", "$20.00", "1022182264"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Saiyan ...", "/products/saiyan-evolution","//cdn.shopify.com/s/files/1/0267/4223/products/Saiyan-Evolution_medium.jpg?v=1426087831", "$10.00", "367364823"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Seven D...", "/products/seven-deadly-sins","//cdn.shopify.com/s/files/1/0267/4223/products/SevenDeadlySins-Clean_medium.jpg?v=1427303904", "$20.00", "1245772168"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Shark S...", "/products/shark-storm","//cdn.shopify.com/s/files/1/0267/4223/products/Sharkstorm---Clean_medium.jpg?v=1426863920", "$20.00", "1227118820"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Snow Angel", "/products/snow-angel","//cdn.shopify.com/s/files/1/0267/4223/products/Snow-Angel_medium.jpg?v=1426524887", "$10.00", "362635539"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Snowmance", "/products/snowmance","//cdn.shopify.com/s/files/1/0267/4223/products/Snowmance-LastChance_medium.jpg?v=1425580033", "$5.00", "966268648"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Spirits...", "/products/spirits-in-wonderland","//cdn.shopify.com/s/files/1/0267/4223/products/SPIRITS_IN_WONDERLAND_-_Clean_medium.jpg?v=1426522853", "$20.00", "1154273464"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Stabby ...", "/products/stabby-the-unicorn","//cdn.shopify.com/s/files/1/0267/4223/products/Stabby-the-Unicorn---Clean_medium.jpg?v=1427216965", "$20.00", "1227005248"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("Star Kart", "/products/star-kart","//cdn.shopify.com/s/files/1/0267/4223/products/Star-Kart-SiteComp-CLEAN_medium.jpg?v=1423238883", "$20.00", "1113910708"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("T.O.R.T...", "/products/tortis","//cdn.shopify.com/s/files/1/0267/4223/products/TORTIS-SiteComp-Clean_medium.jpg?v=1426529918", "$20.00", "1113909752"));
+            
+            
+            
+            
+            
+              related_products.push(new Array("The Bir...", "/products/the-birth-of-phoenix","//cdn.shopify.com/s/files/1/0267/4223/products/birth-of-phoenix-lastchance_medium.jpg?v=1427838342", "$5.00", "1018316160"));
             
             
 
@@ -1018,6 +1237,18 @@ window.onload = function(){
 }());
 </script>
 
+ <script src="//cdn.shopify.com/s/files/1/0267/4223/t/11/assets/app.js?67141231141440893" type="text/javascript"></script>
+    
+
+    
+        <!-- SteelHouse tracking pixel -->
+
+<script type="text/javascript" src="https://dx.steelhousemedia.com/spx?dxver=4.0.0&amp;shaid=10451&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150407152114id_%2Fhttp%253A%2F%2Fwww.teeturtle.com%2Fpages%2Fprivacy&amp;cb=72063437845939140"></script><script type="text/javascript">
+(function(){"use strict";var e=null,b="4.0.0",
+n="10451",
+additional="",
+t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
+</script>
 
 
 </body></html>
