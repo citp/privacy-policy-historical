@@ -1,80 +1,135 @@
-> *The following text is extracted and transformed from the fetcharate.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021060526id_/http%3A//fetcharate.com/lag/mortgage/lt/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetcharate.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072350id_/http%3A//fetcharate.com/privacy) for the most accurate reproduction.*
 
 # 
 
-Last Updated: 6/7/2012
+**We Respect Your Privacy**
 
-This page is owned and operated by Tree.com, Inc. or a Tree.com, Inc. subsidiary, division or line of business ("Tree"). For a list of Tree subsidiaries, divisions, lines of business and websites (collectively, "Tree Businesses") please see "Tree Businesses" below. We want you to understand what information we gather about you, how we use it and the safeguards we have in place to protect it. This Privacy Policy applies to information collected through this website and otherwise.Your use of this website and our services, and any disputes arising from it, is subject to this Privacy Policy as well as the website's [Terms of Use](https://web.archive.org/lap-class/mortgage/lt/terms_use.php) and all of its dispute resolution provisions, including arbitration, limitation on damages and choice of law.
+At FetchARate.com, your security is a top priority and we are committed to protecting your privacy online. This pledge outlines the steps we've taken to ensure that you have a great experience at FetchARate.com, and also provides details on how we treat any personal information you may submit to us.
 
-This website is a general audience site and we do not knowingly collect personal information from children under the age of 13.
+**Disclosures & Licenses**
 
-  1. **Information We Collect**. We collect personally identifiable information that can identify you such as your name, address, telephone number, mobile number, e-mail address and Social Security Number ("Personally Identifiable Information" or "PII"). We also collect information such as demographic data and data about your online activity on our website that does not identify you ("Non-Personally Identifiable Information" or "Non-PII"). PII and Non-PII are known together as "Information". We may also collect and store Information that you provide to us about other people (such as co-borrowers), including their name, address, telephone number, mobile devices, email addressand Social Security Number.
-  2. **How We Collect and Use Information.**
-    1. How We Collect Information You Provide. 
-      1. From You. We collect Information you provide to us: (a) in connection with inquiring about or obtaining our services; and (b) in connection with a job application. The Information we collect from you will vary depending on the product or service requested.
-      2. Other Sources. We may obtain Information about you from third parties such as: credit reports, information about your home and demographic information. We do not pull a credit bureau report on customers without their permission. 
-      3. Automatic Collection, Cookies and Other Internet Technologies. We use cookies, web beacons and other standard internet technologies to collect information from your computer and about your activities on our website. We automatically collect Non-PII from your browser when you visit our website. This information includes, but is not necessarily limited to,your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us and the referring website address. 
-        1. Cookies. A cookie is a small text file that is stored on a user's computer for record keeping purposes. 
-          1. When you visit our website, we may assign your computer one or more cookies to facilitate access to our website, personalize your online experience and record information about your visit. Through the use of a cookie, we also may automatically collect information about your online activity on our website, such as the web pages you visit, the links or advertisements you click on and other actions you take while on our website. The cookies do not store any PII about you. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that some of the features and services of our website may not function properly.
-          2. We may allow third-parties, advertising companies and ad networks ("Advertisers") to display advertisements on our website. Advertisers may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any PII to these Advertisers, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they delivered, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect directly from you. The collection and use of that personal information is subject to the particular Advertiser's privacy policy. Some of these Advertisers may be members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. For a list of Advertisers we typically use, click the link above.
-        2. Other Technologies. We may use web beacons and other standard Internet technologies to track your use on our websites. Web beacons (also known as clear gifs, pixel tags, targeting and re-targeting pixels, third party pixels or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. We also may include web beacons in e-mail messages or newsletters to determine whether messages have been opened and acted upon. 
-    2. How We Use Information. 
-      1. In General. We may use Information to: 
-        * Deliver the products and services you requested;
-        * Manage your customer relationship and provide you with customer support;
-        * Research and analyze your use of, or interest in, our products, services and content and the products, services and content offered by others;
-        * Communicate with you via e-mail, telephone, postal mail and/or mobile devices about products or services that may be of interest to you;
-        * Develop and display content and services tailored to your interests on our website and other websites;
-        * Develop and deliver targeted advertisements;
-        * Measure the overall effectiveness of our online advertising, content, programming and other activities;
-        * Verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes;
-        * Manage our business; and
-        * Perform functions as described to you at the time of collection.
-      2. Financial Information. Depending on the service requested, we may use financial information to: match you with real estate agents, real estate brokers,or lenders, provide you with lenders' conditional loan offers, verify your identity, protect against or identify possible fraudulent transactions, or otherwise as needed to manage our business.
-      3. Job Applicants. If your PII is submitted when applying for a position with us, the information will be used solely in connection with considering and acting upon your application. We may retain your PII for a period of time, but only for the purpose of considering your application for current or future available positions or as required by law.
-  3. **With Whom do we Share Your Information**
-    1. Tree Businesses. We may share your Information with Tree Businesses. All Tree Businesses adhere to this Privacy Policy. Except as described in this policy, we will not disclose your PII to others outside of the Tree Businesses.
-    2. Lenders or Investors. In submitting a request for a loan product or service offered through this website, when you clickon any button indicating an acceptance or agreement to terms, a continuance of processing or submission, you signify your agreement to proceed you are consenting, acknowledging and agreeing to the disclosure of your PII with lenders in our network ("Lenders") with whom you are or may be matched. Please note that no credit check will be performed by us unless you authorize us to do so by submitting a completed loan request. However, even if you do not provide your Social Security number, we may access your credit file to assist in the prevention of identity theft and to verify your request is accurate and complete.  
-Be aware that the Lenders with whom you are matched may retain or use your Information whether or not you use their services and you should contact these Lenders directly concerning their privacy and information sharing practices which may differ from ours.
-    3. Real Estate Agents, Brokers and Real Estate Companies. If you submit a request to be matched with a real estate agent, broker or company, we may share your information with real estate agents, brokers or real estate companies on our network. Be aware that the real estate agents, brokers or real estate companies with whom we share your Information may retain or use your Information whether or not you use their services and you should contact these parties directly concerning their privacy and information sharing practices which may differ from ours.
-    4. Referrals for your Non-Mortgage Business. When you express interest in other products, services, promotions that we offer (by, for example, completing a request for such services), we will share your request or expression of interest with the businesses with which we partner to offer you those products, services and promotions, and, as applicable, with their affiliates and third party finder or marketing companies (collectively, "Business Providers"). When you choose to participate in a particular offer or program, you authorize us to provide PII to those Business Providers. Be aware the Business Providers with whom we share your Information may retain or use your Information whether or not you use their services and you should contact these parties directly concerning their privacy and information sharing practices which may differ from ours.
-    5. Services Providers. We may share your personal information with our authorized service providers that perform certain services on our behalf including, but not limited toservice providers that perform services on our behalf in connection with your request for a loan or the funding, sale and/or servicing of your loan. These third parties include, without limitation credit bureaus, title companies, flood or other insurance companies, appraisal companies, escrow companies, closing agents, marketing and customer services firms, credit card, or entities that provide business analysis or website support. These third parties may have access to PII needed to perform their functions.
-    6. Other Situations. We also may disclose your information at our sole discretion: 
-      * In response to a subpoena or similar investigative demand, a court order or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as we reasonably believe is required by law. In such cases, we may raise or waive any legal objection or right available to us.
-      * When we believe disclosure is appropriate in connection with efforts to investigate, prevent or take other action regarding actual or suspected illegal activity or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees or others; or to enforce our websites' terms and conditions or other agreements or policies.
-      * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, asset sale or in the unlikely event of bankruptcy.
-    7. Subscriptions/Unsubscribe. When you "submit" information, register for a service, or create an accountthrough LendingTree, LLC and its Companies website or otherwise, LendingTree, LLC and/orits' companiesmay send your information to its lenders and associated third parties as provided in the [Terms of Use](https://web.archive.org/lap-class/mortgage/lt/terms_use.php). If at any time you do not wish to continue to receive communications from LendingTree, LLC and/or its' companies, lenders or its associated third parties' communications, you may modify your preferences by visitng https://www.lendingtree.com/publications. In addition, you agree to notify LendingTree Customer Care at 1-800-555-8733 or by emailing [privacy@tree.com](mailto:privacy@tree.com) directly if you no longer want to receive other forms of communications from us. However, you will need to speak directly to those lenders with whom you have been matched as well as associated third parties to ensure proper removal and adherence to their individual Privacy Policy's.
-  4. **Tree.com Considerations.** For certain products and services available through www.tree.com, we will not share your email address or phone number with the Business Provider or Lender with whom you are matched. Where this feature is available for a product or service, it will be noted on the web page for that product or service. Nevertheless these Business Providers and Lender will still receive other PII about you and they may retain or use your PII whether or not you use their services and you should contact these Providers or Lenders directly concerning their privacy and information sharing practices, which may differ from ours. If you provide your information on any other website besides www.tree.com, this Section 4 will not apply. 
-  5. **Non-Personally Identifiable Information.** We may share Non-PII with third parties in our discretion.
-  6. **Third Party Links and Policies.** Our website contains links to other websites owned and operated by third parties. These third parties and their servers may be located in the United States or in other countries. We do not control, and are not responsible for, the privacy and security practices of these third parties. We recommend that you review the privacy and security policies of these third parties to determine how they handle Information they may collect about you.
-  7. **Special Notice to California Residents.** If you are a resident of California, in addition to the rights set forth in this Privacy Policy: 
-    1. We will not share any personal information about you with other Tree Businesses to the extent prohibited by applicable California law or to the extent your prior consent to share is required by applicable California law; and
-    2. You have the right to request information from us regarding the manner in which we share certain categories of information with third parties for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information: 
-      1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year 
-      2. the names and addresses of the third parties that received that information; and
-      3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed. 
+**Information Collection and Use**
 
-We may provide this information in a standardized format that is not specific to you. The designated e-mail address for these requests is [privacy@tree.com](mailto:privacy@tree.com).
+We will collect and use personal information about you to respond to your request for products and services offered through this website. We will also collect information in order to notify you about products, services, and other opportunities we think will be of interest to you. Although personal information we collect from you may be considered publicly available through government records or available through widely distributed media, we will treat all personal information submitted by you as nonpublic personal information. The information we collect may be from the following sources:
 
-  8. **Special Notice to Vermont Residents.** We will not share any personal information about you with other Businesses to the extent prohibited by applicable Vermont law or to the extent your prior consent to share is required by applicable Vermont law. For purposes of compliance with the Vermont Consumer Protection Act, if you are a resident of the State of Vermont and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please contact us at [privacy@lendingtree.com](mailto:privacy@lendingtree.com).
-  9. **Updating and Accessing Your Information.** The appropriate method(s) for accessing your Information, if any, will depend on which sites or services you have used. Depending on the respective service, you may have the ability to view or edit some of your information online. If you have submitted a loan request with us, you can update your personal information by contacting our Customer Care Department at [customercare@lendingtree.com](mailto:customercare@lendingtree.com). Our address is 11115 Rushmore Drive, Charlotte, NC 28277. 
-  10. **Choices about Collection and Use of Your Information.**
-    1. You can choose not to provide us with certain information, but that may result in the inability to use certain features of our websites or receive certain products or services. Public forums are not intended for the disclosure of PII. To the extent you provide PII in any public forum, it is at your own risk.
-    2. Federal and state regulations require that we store completed loan requests for various periods of time. In order to comply with these requirements, we may be unable to delete your information from our database until the expiration of the applicable period.
-  11. **How we Protect your PII.** We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your PII from unauthorized access and disclosure. In addition to the restrictions outlined above, we require employees to comply with information security safeguards, we use encryption in the transmission of your PII between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your PII.   
-No system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your PII, searches or other communications will always remain secure. Users should also take care with how they handle and disclose their PII. Please refer to the Federal Trade Commission's website for information about how to protect yourself against identity theft.
-  12. **Changes to this Privacy Policy.** We may update or modify this Privacy Policy to reflect changes to how we will collect, use and/or share Information. Our Privacy Policy will reflect the date it was last updated. If we make material changes to this Privacy Policy, we will notify you either by prominently posting a notice of such changes before implementing them or by sending you electronic notification of the changes. Please check this Privacy Policy each time you use our websites to ensure you are aware of any changes in our practices. Your continued use of our websites will signify your acceptance of the changes to the Privacy Policy.
-  13. **Visiting our Websites From Outside the United States.** This Privacy Policy is intended to cover collection of information on our websites from residents of the United States. If you are visiting our websites from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
-  14. **No Rights of Third Parties**. This Privacy Policy does not create rights enforceable by third parties or require disclosure of any PII relating to users of our websites.
-  15. **How to Contact Us.** If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:  
-Privacy Officer  
-Tree.com, Inc.  
-11115 Rushmore Drive  
-Charlotte, North Carolina 28277 
+  * Information provided by you in connection with obtaining financial products or services such as mortgage loans (such as full name, telephone number, self-assessed property value, and social security number).
+  * Information you provide us when you register to receive communications from us (such as your email address).
+  * Information you provide us when you enter promotions or sweepstakes offered by FetchARate.com (such as your full name, physical address and email address).
+  * Information you provide us through surveys, feedback, or other forms hosted on our website or the pages of a FetchARate.com partner.
+  * Information you provide us when you apply for a job with FetchARate.com.
 
-or  
-[privacy@tree.com](mailto:privacy@lendingtree.com)
 
-  16. **Tree Businesses.** Tree Businesses include, without limitation: DegreeTree®, Done Right!®, GetSmart®, HealthTree, InsuranceTree®, LendingTree Autos, LendingTree Holdings Corp., LendingTree, LLC, LendingTree Inc., LendingTree, LLC d/b/a LT Technologies, LendingTree, LLC d/b/a LT Technologies, LLC, LT Real Estate, Inc., Degree Tree, Inc., Tree Home Services, Inc., ServiceTree, www.servicetree.com, www.doneright.com, www.careerdegreesource.com, www.careereducationsource.com, www.degreetree.com, www.educationdegreesource.com, www.getsmart.com, www.justthrive.com, www.healthtree.com, www.homeloancenter.com, www.insurancetree.com, www.investinyoureducation.com, www.lendingtree.com, and www.tree.com.
-We may change, remove or add a Tree Business in our discretion without notice to you. 
 
+We also collect demographic information. Demographic information is all other information such as gender, zip code, or any information that is not tied to your personal information. In addition, we might receive information about you from other sources (such as service providers) for tracking purposes. We may add the information we receive about you to your existing account. Like other websites, we also automatically receive and record certain types of information every time you visit us. We use "cookies" and the other information to enhance your experience and present you with personalized offers. Likewise, we sometimes use third-party advertising companies to serve and track advertisements appearing on our website. These companies may employ cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+
+**Information Sharing and Disclosure**
+
+We do not share personal information about you with other people or nonaffiliated companies except to provide product or services you have requested or under the following circumstances:
+
+**Loan Products or Service Requests**
+
+If you submit a request for a loan product or service offered through this website we will share the personal information contained in your request form, such as your full name, physical address, telephone number, property location and self-assessed value, and social security number, with lenders in our provider network strictly to process and fulfill your request. All lenders in our provider network, which include banks, mortgage lenders and brokers, have entered into marketing agreements with FetchARate.com and are required to comply with federal and state privacy regulations. The lenders may contact you by telephone, email, or mail based on the information you provided to us in order to process and fulfill your request, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of an internal company. If one of the lenders contacts you by telephone and you wish not to be contacted again by that lender with respect to your inquiry, then you should specifically make a request to that lender not to contact you again. If the lender disregards your request and contacts you again, please let us know immediately by sending an email to FetchARate.com Customer Care. Please note that the lenders may maintain the information you provided whether you elect to use their services or not.
+
+**Other Products or Service Requests**
+
+If you submit a request for a product or service other than a loan such Internet access, automobile insurance or long distance telephone service, we will share the personal information contained in your request form such as your full name, telephone number and email address with our business partners to process and fulfill your request. Our business partners may contact you by telephone, email, or mail based on the information you provided to us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of an internal company. If one of our partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again.
+
+**Vendors**
+
+We sometimes disclose the information we collect to companies that host certain services for us such as marketing distribution services on our behalf. These vendors only have access to personal information needed to perform their functions, and may not share it with others or use it for any other purpose. These companies are subject to confidentiality agreements with us and other legal restrictions that prohibit them from using the information except to market the specified FetchARate.com products or services.
+
+**As Permitted by Law**
+
+We may be required to share your personal information with law enforcement or government agencies in response to subpoenas, court orders, federal/state audits or similar circumstances. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of FetchARate.com's Terms of Use, or as otherwise required by law.
+
+**Business Transfer**
+
+As with any other business, it is possible that FetchARate, Inc. in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by FetchARate.com, including customer account information, but would continue to be bound by this privacy pledge unless you consent otherwise.
+
+**Advertisements & Pop Up Windows**
+
+On occasion, you may receive advertisements for FetchARate.com from third parties. For instance, when visiting a third party website, you may receive a "pop up" window advertising FetchARate.com. Please note that such advertisements are served by the third party website that you have visited and are not controlled by FetchARate.com. In addition, such advertisements may be placed by third party ad servers or ad networks. We maintain relationships with a number of the third party ad networks currently operating. You may find more information at the website of either the individual ad network or the Network Advertising Initiative.
+
+**Anti-Spam Policy**
+
+You will not receive FetchARate.com email communications unless you submit your email address to us and register to receive them. Additionally, you may also receive emails that advertise FetchARate.com's services from third party publishers. We have established firm ground rules for dealing with any third party email services to ensure that advertisements for FetchARate.com are not sent out through a "Spam" mailing -- ensuring that our offers are sent only to those individuals who have given their permission to the third party email service to receive email communications. If any third party email publisher refuses to abide by FetchARate.com's anti-Spam policy, we will not use that publisher's services. If you want to stop receiving emails from a third party, you should follow the opt-out instructions included in the third party email so that you will not be included in any future mailings. An "unsubscribe" link should appear within or at the top or bottom of the email you received. However if for any reason it does not work, please bring that to our attention by emailing us at FetchARate.com Customer Care.
+
+**Cookies and IP Addresses**
+
+To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Website to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used FetchARate.com. Cookies are not tied to your personal information. Additionally, we may capture click-stream data on some of our partner's websites, limited to the activity involved with the completion of offers listed on our website. This information is used to monitor the performance of our partners.
+
+We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
+
+**Third Party Cookies**
+
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.fetcharate.com only and does not cover the use of cookies by any advertisers.
+
+**Clear Gifs**
+
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users' personally identifiable information. We also use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section within any email you receive from us or unsubscribe from our homepage by clicking here.
+
+**Confidentiality and Security**
+
+The security of your personal information is very important at FetchARate.com and we take a number of steps to safeguard it. For example:
+
+  * We limit access to personal information to those employees or agents who assist us in providing requested products and services to you. Employees are required to comply with our strict policies and procedures regarding the handling of your personal information. Employees who violate these policies are subject to our normal disciplinary process.
+  * We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard personal information about you.
+  * We use industry standard data encryption technologies when transferring and receiving consumer data on the FetchARate.com website.
+  * We have partnered with VeriSign to protect against the loss, misuse or alteration of information that we collect from you.
+
+
+
+**Changes to Your Personal Information**
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at info@FetchARate.com or by contacting us by telephone or postal mail at the contact information listed below.
+
+**Opting-Out**
+
+You may register to receive communications from us directly on our website or through a third party. Upon registering, we will periodically send you newsletters and other e-mails featuring special and exclusive offers, promotions and other members-only benefits. If you no longer wish to receive these communications, please let us know by sending an email to FetchARate.com Customer Care (You may also opt-out by clicking on the unsubscribe link in our emails). Our email database is updated continually. However, you may continue to receive email communications from us up to ten business days from the time we receive your unsubscribe request. Please note that FetchARate.com can only control its own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their email communications. Also, please note that if you enter into a transaction through our website, we may send you a thank you notice, ask for a satisfaction rating, request a testimonial and give you periodic product reminders as part of your service.
+
+**Third Party Links**
+
+This Privacy Pledge applies to all information that you provide to FetchARate.com. However, when you visit websites to which FetchARate.com provides a link, keep in mind you will be interacting with a third party that operates under its own privacy and security policy. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's privacy policy. A third party site will also have its own policy regarding the use of cookies and clear gifs. We encourage you to review the privacy policies of any other service provider from whom you request services.
+
+If FetchARate.com receives personal information from a third party that is not in conjunction with a service offered on our site, the use and disclosure of such information is governed by the agreement (if any) between FetchARate.com and such third party.
+
+**Third Party Cookies**
+
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.fetcharate.com only and does not cover the use of cookies by any advertisers.
+
+**Framing**
+
+In some cases, we may use third party vendors to operate portions of the FetchARate.com website. Although the particular section of the website may have a similar appearance as the FetchARate.com site, information submitted through these outside third parties are subject to this Privacy Pledge unless otherwise stated. For example, personal information submitted through our Affiliate Program is subject to the Commission Junction privacy policy.
+
+**A Special Note about Children's Privacy**
+
+You must be at least 18 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you can use the services offered on our website only in conjunction with your parents or guardians. Please see our Terms of Use for more information.
+
+**Changes to this Privacy Pledge**
+
+FetchARate.com may update or modify this Privacy Pledge from time to time. If there are material changes to this Privacy Pledge or in how FetchARate.com will use your personal information, we will post such changes here. You will be notified if any of the material changes that affect the use of your personal information and asked to opt-in to the new use of your personal information. If you do not agree with the changes to how your information will be used, please do not continue to use this website.
+
+By using this site, you signify your assent to the FetchARate.com Privacy Pledge. If you do not agree to this policy, please do not use any of the FetchARate.com site. When you request rate quotes or other information through FetchARate.com, you are authorizing us to share information with a lender or one of our business partners, who will contact you by phone, email, or mail. If you do not want further communication from them, please notify the partner directly. We reserve the right to make changes in this policy at any time. Please check the policy each time you use our website to ensure you are aware of any changes in our privacy practices. Our Privacy Pledge will indicate the date it was last updated. Your continued use of our site will signify your acceptance of the changes to our Privacy Pledge.
+
+**Our Referral Service**
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friendâ€™s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. FetchARate.com does not store this information.
+
+**Supplemental Information Form Outside Sources**
+
+In order to provide certain services [specify] to you, we may on occasion supplement the personal information you submitted to us with information from third party sources.
+
+*Address Verification - We use TargusInfo to verify your identity, address, for quality data validation only. *Enhancement of Profile Information - We purchase marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers in which we think you would be interested. To enrich our Profiles of individual customers, we tie this information to the personally identifiable information they have provided to us.
+
+FetchARate, Inc.   
+9692 Melinda Circle  
+Huntington Beach, CA 92646  
+info@fetcharate.com
+
+* * *
+
+**THINK CAREFULLY BEFORE SECURING OTHER DEBTS AGAINST YOUR HOME. YOUR HOME MAY BE REPOSSESSED IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR ANY OTHER DEBT SECURED ON IT.**
+
+FetchARate.com is not a banker or lender ('Service Provider') and does not do mortgage loans. Indepedant mortgage advisors & independant lenders participate in our matching engine who may have loan products available matching the criteria you submit in this interest profile. The information collected is not an application for credit or a mortgage loan, nor is it used to pre-qualify you with any Service Provider. There is no cost to submit a loan request, get matched with lenders and receive loan offers. You may review the loan offers and talk to the lenders at no cost. Of course, the lender you choose may require a fee to continue processing your loan request, but until you agree to pay the lender a fee, you may stop at no cost. FetchARate.com does not charge you, the consumer, a fee for its services. Who pays our bills? The lender. The lender pays FetchARate an introduction fee which varies depending on supply & demand of mortgage consumers in the marketplace and on the deatils of the mortgage loan request. Of course, you will be responsible for paying any loan processing, closing costs or other fees to the lender with whom you close. Fetcharate.com does not receive any money in connection with the transaction the consumer will enter with any lender as a result of the introduction.
