@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemake.net privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107042729id_/http%3A//www.freemake.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemake.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407184717id_/http%3A//freemake.net/privacy_policy) for the most accurate reproduction.*
 
 # Freemake.net privacy policy
 
