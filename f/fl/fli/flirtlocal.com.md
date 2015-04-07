@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirtlocal.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703000150id_/http%3A//www.flirtlocal.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtlocal.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407235009id_/http%3A//www.flirtlocal.com/site/privacy) for the most accurate reproduction.*
 
 # Flirtlocal - Find people, socialize, hookup and chat.
 
@@ -98,9 +98,9 @@ You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom
 #### Our address:
 
 HK International Limited  
-Island House  
-Grande Rue  
-GY4 6RU  
-St Martins  
-Guernsey, Channel Islands  
+PO Box 440  
+Envoy House, La Vrangue  
+GY1 3ZN  
+St Peter Port  
+Guernsey  
 +1 661-705-7087 
