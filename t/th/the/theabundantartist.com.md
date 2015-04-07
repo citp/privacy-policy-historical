@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theabundantartist.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108023206id_/http%3A//theabundantartist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theabundantartist.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083038id_/http%3A//theabundantartist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Abundant Artist
 
