@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reconsideration.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230184528id_/http%3A//reconsideration.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reconsideration.org privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407121800id_/http%3A//reconsideration.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - reconsideration.org
 
