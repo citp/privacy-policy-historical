@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenudge.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227092559id_/http%3A//thenudge.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenudge.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084358id_/http%3A//thenudge.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Nudge
 
@@ -86,7 +86,7 @@ The following are links to the main third party advertising and analytics platfo
 
 **8.1** We may disclose your personal information if we are approached by a potential buyer of our business, if we required to do so by law or in good-faith believing such action is necessary to comply with the law.
 
-**8.2** We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf, ie our email service provider - [www.mailchimp.com](https://web.archive.org/web/20141227092559id_/http%3A//thenudge.com/www.mailchimp.com).
+**8.2** We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf, ie our email service provider - [www.mailchimp.com](https://web.archive.org/web/20150407084358id_/http%3A//thenudge.com/www.mailchimp.com).
 
 **8.3** We never sell personal information, or pass it to third parties for marketing purposes without your express permission.
 
