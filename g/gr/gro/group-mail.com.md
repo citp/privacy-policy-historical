@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114123913id_/http%3A//group-mail.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084310id_/http%3A//group-mail.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal - GroupMail Website
 
