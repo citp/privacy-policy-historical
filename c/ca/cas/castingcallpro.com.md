@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castingcallpro.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722123123id_/http%3A//www.castingcallpro.com/uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingcallpro.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408010126id_/http%3A//www.castingcallpro.com/uk/privacy.php) for the most accurate reproduction.*
 
 # Casting Call Pro - for acting jobs, agents and auditions.
 
@@ -121,7 +121,7 @@ We may however retain certain your aspects of your profile and other personal de
 
 ## 11\. Access to your details
 
-If you would like to access a copy of any personal data which we hold about you, please send a request in writing by post to the address in paragraph 12 below. A fee of £10 will be charged.
+If you would like to access a copy of any personal data which we hold about you, please send a request in writing by post to the address in paragraph 12 below. A fee of 10GBP will be charged.
 
 You have the right, in certain circumstances, to object to us processing your personal data or to request that your personal data is corrected or deleted. Please contact us to discuss this as required.
 
