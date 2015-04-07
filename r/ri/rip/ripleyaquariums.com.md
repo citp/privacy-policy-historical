@@ -1,21 +1,62 @@
-> *The following text is extracted and transformed from the ripleyaquariums.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613164305id_/http%3A//mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripleyaquariums.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407124439id_/http%3A//www.ripleyentertainment.com/privacy-policy) for the most accurate reproduction.*
 
-# (mt) Media Temple - Company - Legal - Privacy Policy
+# Privacy Policy - Ripley Entertainment Inc
 
-(mt) Media Temple, Inc. respects the privacy of every individual who visits our websites. This privacy statement provides notice of the standards and terms under which (mt) Media Temple protects the privacy of information supplied by visitors to sites on the World Wide Web that are owned and operated by (mt) Media Temple, including mediatemple.net, and ac.mediatemple.net. This privacy statement provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, so please check back periodically to review this information.
+**Ripley Entertainment, Inc.,** together with its parent, subsidiary and affiliated companies (collectively, “Ripley”) owns and operates this website and/or mobile application (the “Site”). We recognize that you may be concerned about our treatment of the personally identifiable information (“Information”) that you provide to us on this Site.
 
-**A. Personally-Identifiable Information:**
+Accordingly, this privacy policy (this “Policy”) addresses those concerns and both describes the Information that we may collect and explains how we will use your Information.
 
-(mt) Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to (mt) Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want (mt) Media Temple to use this information for additional purposes. You may also request that (mt) Media Temple not use your information by sending an e-mail to contact@mediatemple.net, however, (mt) Media Temple reserves the right, in its discretion, to send you bulletins and other important information about your (mt) Media Temple services. Absent any instructions from you, (mt) Media Temple may use information you provide to inform you about additional services and products offered by the (mt) Media Temple family of companies, (mt) Media Temple venture companies, (mt) Media Temple authorized agents, and other goods and services providers with whom (mt) Media Temple has relationships and whose offerings might be of interest to you. (mt) Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. On those (mt) Media Temple sites where you may provide (mt) Media Temple with credit card or other ordering information via the web, (mt) Media Temple protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, (mt) Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this privacy statement, Media Temple assumes no obligation to protect such information from disclosure.
+You should note that when you leave this Site, whether via a link provided by Ripley or otherwise, you may enter a site owned and controlled by a third party (“Third Party Sites”). Accordingly, this policy does not apply to any information that you share on Third Party Sites. Before disclosing Information, you should verify that you know the identity of the party to whom you are making a disclosure and the privacy policy that applies to the treatment of your Information.
 
-**B. Non Personally-Identifiable (Generic) Information:**
+### Information Collection and Use
 
-In general, (mt) Media Temple gathers some generic information automatically. Generic information does not reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the (mt) Media Temple sites visited. (mt) Media Temple gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including "cookies" (a technology that can be used to provide the visitor with tailored information about (mt) Media Temple services). (mt) Media Temple does not combine information collected in this way with any personally-identifiable information. You can set your browser to notify you when you receive a cookie and you can refuse it; this may however reduce functionality of certain website features such as the order system and the AccountCenter. 
+Ripley collects Information (such as, first and last name, e-mail address, your city, state or county of residence and your credit card information), when you use certain Ripley products or services (such as, on-line ticket purchasing, on-line posting of videos/photos, submitting a question to ask the vault, or playing games), and when you enter promotions or sweepstakes. We may also receive your Information from our business partners.
 
-**C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
+Ripley will use your Information (i) to enhance and personalize your experience on this Site; (ii) to generate statistics and information about traffic to and on this Site; (iii) to fulfill your requests for certain products and services; and (iv) for other business purposes.
 
-Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website (mt) Media Temple may host for you as part of your (mt) Media Temple services, is available to anyone else who visits that space. (mt) Media Temple cannot safeguard any information you disclose in these locations. Additionally, (mt) Media Temple websites contain links to sites that belong to third parties unrelated to (mt) Media Temple. (mt) Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit. 
+This Site collects your IP address to help diagnose problems with our server, to determine the frequency with which our visitors look at various parts of this Site, and to administer this Site. The IP address is also used to gather broad demographic information such as geographic distribution of our visitors and may be used to allow us to provide goods and services appropriate to your place of residence.
 
-**D. Exceptions and Limitations:**
+### Information Sharing and Disclosure
 
-Notwithstanding the foregoing and in compliance with applicable laws, (mt) Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to (mt) Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, (mt) Media Temple may be required to disclose personally identifiable information. In addition, (mt) Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate (mt) Media Temple; or (iii) to protect the rights or property of (mt) Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, (mt) Media Temple reserves the right to sell or transfer your information (including , but not limited to name, address information, and other information you provided to (mt) Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be (mt) Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by (mt) Media Temple; and (iii) agrees to the obligations of this policy statement.
+Ripley may share your Information with third parties when:
+
+  1. We have your consent to share your Information. We require opt-in consent for the sharing of any sensitive personal information.
+  2. We need to share your Information to provide the product or service you have requested.
+
+
+
+Ripley may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. Ripley provides its service providers with the information needed for them to perform these services. Ripley also asks its service providers to confirm that their privacy practices are consistent with Ripley’s.
+
+Although unlikely, in certain instances Ripley may disclose your contact information when there is reason to believe that it is necessary to identify, contact or bring legal action against persons or entities that may be causing injury to you, to Ripley or to others. Ripley may also disclose your Information when it believes the law or legal process requires it.
+
+In addition, if Ripley merges into any other entity or is otherwise involved in any business combination in which it is not the surviving company, Ripley will share your personal information with the surviving entity only if the surviving entity has agreed to comply with the terms of this policy.
+
+### Security
+
+Ripley has security measures in place to protect the loss, misuse or alteration of your Information under our control. Ripley uses Secure Sockets Layer (SSL) technology to encrypt Information that you transmit through us over the Internet. Once we receive your transmission, we will store all Information on secure servers behind a firewall. The Ripley management team and its engineers regularly review and update the integrity of this Site and the security of your Information. Ripley cannot, however, safeguard any data stored on your own personal computer or any public computer upon which you might elect to access this Site.
+
+### Your California Privacy Rights
+
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [legal@ripleys.com](mailto:legal@ripleys.com) or write us:
+
+Ripley Entertainment Inc.  
+7576 Kingspointe Parkway, Suite 188  
+Orlando, Florida 32819  
+Attention: Webmaster
+
+### Children Under the Age of 13
+
+Our Site is not intended for children under the age of 13 years of age. No one under age 13 may provide any personal information to or on the Site. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Site or on or through any of its features, register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to Ripley, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If Ripley’s learns that it has collected or received personal information from a child under 13 without verification of parental consent, Ripley will delete that information. If you believe Ripley might have any information from or about a child under 13, please contact us by e-mail to [legal@ripleys.com](mailto:legal@ripleys.com) or write us:
+
+ **Ripley Entertainment Inc.**  
+7576 Kingspointe Parkway, Suite 188  
+Orlando, Florida 32819  
+Attention: Webmaster
+
+### Contact Us
+
+If you have any questions about the information that we collect on this Site, your privacy or our security measures, please contact us at [legal@ripleys.com](mailto:legal@ripleys.com). You may also write to us at the address provided above.
+
+### Changes to this Privacy Policy
+
+Ripley may at any time revise this Policy by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Policy to which you are bound.
