@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treato.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209063228id_/http%3A//corp.treato.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treato.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084204id_/http%3A//corp.treato.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Treato - Privacy Policy
 
