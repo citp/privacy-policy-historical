@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the whatnumberis.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201003254id_/http%3A//whatnumberis.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatnumberis.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407032152id_/http%3A//whatnumberis.com/privacy.html) for the most accurate reproduction.*
 
 # whatnumberis.com Privacy Policy
 
   
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contactus@whatnumberis.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at whatnumberis@gmail.com. 
 
 At whatnumberis.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by whatnumberis.com and how it is used. 
 
