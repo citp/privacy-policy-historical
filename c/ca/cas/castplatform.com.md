@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castplatform.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901223935id_/http%3A//castplatform.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castplatform.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084224id_/http%3A//castplatform.com/privacy.html) for the most accurate reproduction.*
 
 # c.a.s.t | Native Advertising
 
