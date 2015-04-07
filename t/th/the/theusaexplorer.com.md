@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theusaexplorer.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703141726id_/http%3A//www.theusaexplorer.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theusaexplorer.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083039id_/http%3A//www.theusaexplorer.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
