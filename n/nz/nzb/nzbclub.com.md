@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzbclub.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515084812id_/http%3A//www.nzbclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzbclub.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407120654id_/http%3A//www.nzbclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy -- NZBClub.com - NZB Search Engine for Usenet
 
@@ -23,3 +23,27 @@ NZBClub.com has no access to or control over these cookies, once we have given p
 You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. NZBClub.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
+| 
+
+**Free Trial**
+
+300 GB+ Free Usenet with no string attached, cancel any time. Free Usenet Software with free search engine. 
+
+  * [**300 GB+ Usenet Trial**](http://www.usenetbest.com/external.aspx?providerid=3)
+
+
+
+**Unlimited Usenet**
+
+Best Usenet services with unlimited access, unlimited speed, 1830+ days binary retention and Paypal accepted. No Free Trial but best discounted price ever. 
+
+**€ Pay What You Need**
+
+Unlimited Usenet **Pay What You Need** no monthly contract with € Payment Options (Paypal, iDeal, giroPay, paysafecard, ukash, SMS, Bank Transfer) 
+
+  * [**Eweka.nl**](http://www.usenetbest.com/external.aspx?providerid=24)
+
+
+
+2005 - 2013 NZBClub.com. - [DMCA](https://web.archive.org/dmca.aspx) \- [ Privacy Policy](https://web.archive.org/PrivacyPolicy.aspx) \- [Disclaimer](https://web.archive.org/disclaimer.aspx) \-  admin {} nzbclub.com - NZB Search AddOn - [ RSS Feed](https://web.archive.org/RSS.aspx) \- [ SSL NZBClub.com](https://www.nzbclub.com/) \- [ Server Status](http://www.nzbclub.info/) \- [NZB](http://nzb.cm/) \- [ Help / FAQ](https://web.archive.org/faq.aspx)
