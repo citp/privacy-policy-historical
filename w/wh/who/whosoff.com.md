@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whosoff.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050146id_/http%3A//www.whosoff.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosoff.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407184742id_/http%3A//www.whosoff.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | WhosOff and the WhosOff.com Service
 
@@ -130,7 +130,7 @@ Thank you for visiting our site.
 
 **Not sure whether WhosOff is right for your company?**  
 From carpet fitters to blue chip household names, with over 65,000 members why not let our users tell you all about it.  
-[](https://web.archive.org/web/20141120050146id_/http://www.whosoff.com/case_studies/)
+[](https://web.archive.org/web/20150407184742id_/http://www.whosoff.com/case_studies/)
 
 **Stay in touch**  
 Stay up to date with our latest features and more.  
