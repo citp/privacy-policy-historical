@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wpdeveloper.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233425id_/http%3A//wpdeveloper.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdeveloper.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407165110id_/http%3A//wpdeveloper.net/privacy-policy) for the most accurate reproduction.*
 
 # WPDeveloper.net » Privacy Policy
+
+##    [Privacy Policy](http://wpdeveloper.net/privacy-policy/ "Permanent Link to Privacy Policy")  
 
 The privacy of **WPDeveloper.net** users is important to us.  
 As a WordPress marketplace, WPDeveloper.net is committed to the security of your information and pledges to follow the terms set out in this **privacy policy** (“Privacy Policy”).
