@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futurederm.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916010046id_/http%3A//www.futurederm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurederm.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407200121id_/https%3A//www.futurederm.com/privacy) for the most accurate reproduction.*
 
-# Privacy - FutureDerm
+# Privacy Policy - FutureDerm
 
 ### SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -10,31 +10,29 @@ When you browse our store, we also automatically receive your computer’s inter
 
 Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-SECTION 2 – CONSENT
+### SECTION 2 – CONSENT
 
- _How do you get my consent?_
+ ** _How do you get my consent?_**
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
- _How do I withdraw my consent?_
+ ** _How do I withdraw my consent?_**
 
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by [contacting us](mailto:support@futurederm.com) or mailing:
+If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by [contacting us](https://www.futurederm.com/contact-us/) or mailing:
 
-FutureDerm, Inc.  
-2325 E. Carson St., Ground Floor  
-Pittsburgh, PA 15203 USA
+FutureDerm, Inc. 700 River Avenue Suite 212 Pittsburgh PA 15212
 
-SECTION 3 – DISCLOSURE
+### SECTION 3 – DISCLOSURE
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service](https://www.futurederm.com/terms-of-service/ "Terms of Service").
 
-SECTION 4 – STRIPE
+### SECTION 4 – STRIPE
 
 Our store is hosted on Stripe. They provide us with the online e-commerce platform that allows us to sell our products and services to you. Please review Stripe’s [privacy policy](https://stripe.com/us/privacy) and [terms of use](https://stripe.com/us/terms).
 
-SECTION 5 – THIRD-PARTY SERVICES
+### SECTION 5 – THIRD-PARTY SERVICES
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
@@ -46,23 +44,23 @@ In particular, remember that certain providers may be located in or have facilit
 
 As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s [Terms of Service](https://www.futurederm.com/terms-of-service/ "Terms of Service").
 
-SECTION 5.1 – LINKS
+#### SECTION 5.1 – LINKS
 
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-SECTION 5.2 – GOOGLE ANALYTICS
+#### SECTION 5.2 – GOOGLE ANALYTICS
 
 Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at.
 
-SECTION 6 – SECURITY
+### SECTION 6 – SECURITY
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption.  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-SECTION 7 – COOKIES
+### SECTION 7 – COOKIES
 
 Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
 
@@ -73,28 +71,18 @@ Here is a list of cookies that we use. We’ve listed them here so you that you 
 
 
 
-SECTION 8 – AGE OF CONSENT
+### SECTION 8 – AGE OF CONSENT
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-SECTION 9 – CHANGES TO THIS PRIVACY POLICY
+### SECTION 9 – CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
 If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-QUESTIONS AND CONTACT INFORMATION
+### SECTION 10 – QUESTIONS AND CONTACT INFORMATION
 
-If you would like to access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information, please [e-mail our Privacy Compliance Officer](mailto:support@futurederm.com) or write to us at
+If you would like to access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information, please [e-mail our Privacy Compliance Officer](https://www.futurederm.com/contact-us/) or write to us at:
 
-FutureDerm, Inc.  
-Attn.: Privacy Compliance Officer  
-2325 E. Carson St., Ground Floor  
-Pittsburgh, PA 15203 USA
-
-## Related Posts
-
-  * OVERVIEW This website is operated by FutureDerm. Throughout the site, the terms “we”, “us” and “our” refer to FutureDerm. FutureDerm offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here. By visiting our site and/…
-
-
-
+FutureDerm, Inc. ATTN: PRIVACY COMPLIANCE OFFICER 700 River Avenue Suite 212 Pittsburgh PA 15212
