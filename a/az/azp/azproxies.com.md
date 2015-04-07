@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the azproxies.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209083950id_/http%3A//www.azproxies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azproxies.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407184603id_/http%3A//azproxies.com/privacy-policy) for the most accurate reproduction.*
 
 # A-Z Proxies Privacy Policy
 
 ##### Abridgment
 
-This privacy statement applies specifically to the services offered by A-Z Proxies (hereafter referred to by _this web site_ ). Questions regarding this statement should be directed to us via the [contact us](https://web.archive.org/contact-us.html) form.
+This privacy statement applies specifically to the services offered by A-Z Proxies (hereafter referred to by _this web site_ ). Questions regarding this statement should be directed to us via the [contact us](https://web.archive.org/contact-us) form.
 
 ##### Mannerism
 
