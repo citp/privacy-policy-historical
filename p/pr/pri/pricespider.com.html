@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pricespider.com privacy policy that was archived on 2014-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140905070615id_/http%3A//www.pricespider.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pricespider.com privacy policy that was archived on 2015-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407163215id_/http%3A//www.pricespider.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>PriceSpider</title>
@@ -30,7 +30,9 @@ _gaq.push(['_trackPageview']);
 <header class="container">
 	<div class="row">
 		<div class="pull-right shopping-site-link">
-			Looking for the <a href="http://shop.pricespider.com/">shopping site</a>?
+			<!-- Looking for the <a href="http://shop.pricespider.com/">shopping site</a>? -->
+            
+            <a href="http://shop.pricespider.com/" target="_blank">Shopping Site</a><a href="https://affiliates.pricespider.com/index.aspx" target="_blank">Sign In</a>
 		</div>
 	</div>
 
@@ -168,7 +170,7 @@ _gaq.push(['_trackPageview']);
 
 			<section class="span6 copyright">
 				<img src="/Content/images/logo_white.png">
-				<p>© 2014 PriceSpider.com. All rights reserved.</p>
+				<p>© 2015 PriceSpider.com. All rights reserved.</p>
 			</section>
 
 		</div>
@@ -200,6 +202,74 @@ _gaq.push(['_trackPageview']);
 		    contactSource.val("Contact Us");
 		});
 	});
+
+
+    //(selector).animate({styles},speed,easing,callback)
+	var video_mode = 0;
+	var playing = 0;
+	$(window).on('resize', function () {
+	    if( video_mode == 1) {
+	        var video_height = $('.video video').height();
+	        $('.video_banner').css('height', video_height);
+    }
+	});
+
+	$(document).on('click', '.video_button', function () {
+	    function video_button() {
+	        var video_height = $('.video video').height();
+	        $('.video').animate({ 'height': video_height }, 0);
+	        $('.video').animate({ 'opacity': 1 }, 0);
+	        $('.video_poster').animate({ 'opacity': 0 }, 0);
+	        $('.video_poster').css('display', 'none');
+	    }
+	  
+	    video_display = window.setTimeout(video_button, 0);
+	    $('#movie_close').css('display', 'inline');
+	    video_mode = 1;
+	    $(".video video")[0].play();
+	    playing = 1;
+	});
+
+	$(document).on('click', '#movie_close', function () {
+	    function video_button2() {
+	        $('.video').animate({ 'opacity': 0 }, 0);
+	        $('.video').animate({ 'height': 0 }, 0);
+	    }
+	    function video_button3() {
+	        $('.video_poster').css('display', 'block');
+	        $('.video_poster').animate({ 'opacity': 1 }, 0);
+	    }
+
+	    video_display3 = window.setTimeout(video_button3, 800);
+	    video_display2 = window.setTimeout(video_button2, 0);
+
+	    $('.video_banner').css('height', 'inherit');
+	    $('#movie_close').css('display', 'none');
+	    video_mode = 0;
+	    $(".video video")[0].pause();
+	    playing = 0;
+	    $(".video video")[0].currentTime = 0;
+	});
+
+	var video = $(".video video")[0];
+	
+	video.addEventListener('timeupdate',function () {
+	    if (video.currentTime >= 105.5) {
+	        video.pause();
+	    }
+	},false);
+
+	$(document).on('click', '.video', function () {
+	    if (playing == 1) {
+	        $(".video video")[0].pause();
+	        playing = 0;
+	    }
+	    else {
+	        $(".video video")[0].play();
+	        playing = 1;
+	    }
+	});
+
 </script>
 
 
