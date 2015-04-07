@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upload69.net privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205225513id_/http%3A//server6.upload69.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upload69.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407141618id_/http%3A//server6.upload69.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Upload69.Net Free Images Hosting - Server6.upload69.net » More Information » Privacy Policy
 
