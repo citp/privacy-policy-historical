@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevertech.biz privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731155356id_/http%3A//info.clevertech.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevertech.biz privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408003038id_/http%3A//info.clevertech.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ Your acceptance of these terms
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-As you browse [www.clevertech.biz](http://www.clevertech%2Cbiz/), advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with [www.clevertech.biz](http://www.clevertech%2Cbiz/). The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page ([http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)) to opt out of AdRoll and their partners’ targeted advertising.
+As you browse [www.clevertech.biz](http://www.clevertech.biz/), advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with [www.clevertech.biz](http://www.clevertech.biz/). The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page ([http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)) to opt out of AdRoll and their partners’ targeted advertising.
 
 Contacting us
 
