@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altitudemarketing.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208224601id_/http%3A//altitudemarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altitudemarketing.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407200441id_/http%3A//altitudemarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Altitude Marketing
 
@@ -62,3 +62,7 @@ Emmaus PA 18049
 info@altitudemarketing.com
 
 _This document was last updated on May 24, 2012._
+
+### NEWSLETTER SIGNUP
+
+Enter your email and sign up to receive helpful tips and tricks for B2B marketing, branding, SEO and more – plus the latest Altitude news – every month.
