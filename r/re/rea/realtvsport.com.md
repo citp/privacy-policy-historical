@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realtvsport.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223070659id_/http%3A//www.realtvsport.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtvsport.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407080029id_/http%3A//www.realtvsport.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Schedule - Live Sports | Football, Basketball, Hockey, Baseball, Rugby, Tennis
+# Schedule Wiziwig.TV - Live Sports | Football, Basketball, Hockey, Wiziwig.EU
 
 Real-TV-Sport.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
