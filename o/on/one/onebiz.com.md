@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onebiz.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731012517id_/http%3A//www.onebiz.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebiz.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151555id_/http%3A//www.onebiz.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | OneBiz.com
 
@@ -67,7 +67,7 @@ Upon request, we will inform you within appropriate deadlines about the way of s
 
 ## Internet trade:
 
-The online shop at [www.OneBiz.com](https://web.archive.org/web/20140731012517id_/http%3A//www.onebiz.com/en/www.onebiz.com) contains various options for the processing of your credit card data, your names, your addresses and your email addresses as well as other data supplied by you. OneBiz.com AG will strictly surveil the secure storage of all customer data on our website. We utilize the industry standard SSL security certificate. This standard is available through your browser (for security purposes, more information about these security measures may be found on OneBiz.com’s shop website). If you do not wish to share your credit card data during your online transaction you also may process this transaction without giving such information, and one of our employees will then follow up with you. Alternatively you may reach out to one of our sales representatives via phone. Generally we always try to help our customers with their order problems or to contact them within the framework of our company communication guidelines during orders.
+The online shop at [www.OneBiz.com](https://web.archive.org/web/20150407151555id_/http%3A//www.onebiz.com/en/www.onebiz.com) contains various options for the processing of your credit card data, your names, your addresses and your email addresses as well as other data supplied by you. OneBiz.com AG will strictly surveil the secure storage of all customer data on our website. We utilize the industry standard SSL security certificate. This standard is available through your browser (for security purposes, more information about these security measures may be found on OneBiz.com’s shop website). If you do not wish to share your credit card data during your online transaction you also may process this transaction without giving such information, and one of our employees will then follow up with you. Alternatively you may reach out to one of our sales representatives via phone. Generally we always try to help our customers with their order problems or to contact them within the framework of our company communication guidelines during orders.
 
 ## Individual adjustment:
 
