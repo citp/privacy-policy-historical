@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ost.im privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704155125id_/http%3A//p.ost.im/about/privacy%3Futm_campaign%3Dhome_2013%26utm_medium%3Dwebsite%26utm_source%3Dhome%26utm_content%3DHome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ost.im privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407101330id_/http%3A//p.ost.im/about/privacy%3Futm_campaign%3Dhome_2013%26utm_medium%3Dwebsite%26utm_source%3Dhome%26utm_content%3DHome) for the most accurate reproduction.*
 
 # Privacy Policy - LinksAlpha
 
