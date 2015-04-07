@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themetrail.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130094642id_/http%3A//themetrail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themetrail.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407130855id_/http%3A//themetrail.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ThemeTrail
 
-ThemeTrail.com (“Website”) collects and manages user data according to the privacy policy (“Policy”) as outlined below. This Policy is part of ThemeTrail’s [Terms of Service](https://web.archive.org/web/20141130094642id_/http://themetrail.com/terms/). By using this Website you represent that you have the legal capacity to enter into a binding agreement, that you agree to the terms of this Policy and the Terms of Service.
+ThemeTrail.com (“Website”) collects and manages user data according to the privacy policy (“Policy”) as outlined below. This Policy is part of ThemeTrail’s [Terms of Service](https://web.archive.org/web/20150407130855id_/http://themetrail.com/terms/). By using this Website you represent that you have the legal capacity to enter into a binding agreement, that you agree to the terms of this Policy and the Terms of Service.
 
 ### Data Collection
 
