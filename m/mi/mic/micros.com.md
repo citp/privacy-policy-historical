@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micros.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217233508id_/http%3A//www.micros.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micros.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407163245id_/http%3A//www.micros.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Oracle | MICROS | Privacy Policy
 
