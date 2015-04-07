@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omegle.me privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023015757id_/http%3A//omegle.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omegle.me privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084252id_/http%3A//omegle.me/privacy) for the most accurate reproduction.*
 
 # Omegle.me Privacy Policy
 
