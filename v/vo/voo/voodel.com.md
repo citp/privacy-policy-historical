@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voodel.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115548id_/http%3A//www.voodel.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voodel.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407122918id_/http%3A//www.voodel.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy
 
