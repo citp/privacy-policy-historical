@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qgenda.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194528id_/http%3A//www.qgenda.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qgenda.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407112953id_/http%3A//www.qgenda.com/public/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
