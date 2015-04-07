@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ip-report.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106152948id_/http%3A//www.ip-report.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip-report.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082248id_/http%3A//www.ip-report.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ip-report.com
 
@@ -50,4 +50,4 @@ If you have any questions regarding this Policy, or your dealings with our web s
 
 **txman08[@]gmail.com**
 
-[Home](https://web.archive.org/web/20141106152948id_/http%3A//www.ip-report.com/index.php)
+[Home](https://web.archive.org/web/20150407082248id_/http%3A//www.ip-report.com/index.php)
