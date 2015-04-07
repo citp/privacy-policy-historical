@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the logoyes.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625052454id_/http%3A//logoyes.com/site/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the logoyes.com privacy policy that was archived on 2015-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407180212id_/http%3A//logoyes.com/site/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
@@ -12,8 +12,9 @@
 	<link rel="shortcut icon" href="http://logoyes.com/favicon.ico" type="image/x-icon">
 
 	<link rel="stylesheet" type="text/css" href="assets/style.css">
+ <link rel="stylesheet" type="text/css" href="../css/dialoag.css">
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="assets/ga.js" async="" type="text/javascript"></script>
-	<script type="text/javascript" src="js/jquery.tools.min.js"></script>
+	 <script type="text/javascript" src="js/jquery.tools.min.js"></script>
 	<script type="text/javascript" src="js/scrollable.js"></script>
 
         <script type="text/javascript" src="assets/jquery_002.js"></script>
@@ -78,53 +79,175 @@
 		<span class="clear"></span>
 	</div>
 </div>
-<div id="login_container">
-	<a class="close">X</a>
-	<div class="login_container"><h2>Sign In</h2><script type="text/javascript" src="assets/jquery.js"></script>
-<script src="assets/logoyes_scripts.js" type="text/javascript"></script>
-<form method="post" id="loginForm" action="/index.php" class="login_form">
-    <input type="hidden" name="ACTION_URL" value="/account/logon">
-    <input type="hidden" name="logging_on" value="1">
-    <input type="hidden" name="return_to" value="">
 
-	<div class="login_controls">
-		<div class="form_row">
-			<label for="username">E-mail Address</label>
-			<div class="input"><input name="logon_email" id="logon_email" type="text"></div>
-		</div>
-		<div class="form_row">
-			<label for="password">Password</label>
-			<div class="input"><input name="logon_password" id="logon_password" type="password"></div>
-		</div>
-		<div class="form_row">
-			<a href="/site/page/forgot" class="forgot">Forgot Your Password?</a>
-		</div>
-		<div class="form_row buttonrow">
-			<input name="butnLogin" alt="Login" class="button" height="39" type="submit" width="76">
-		</div>
-	</div>
-</form>
+<div id="login_container">
+ 
+  <div class="login_container">
+   <a class="close"></a>
+  <h2>Sign In</h2>
+   <script type="text/javascript" src="assets/jquery.js"></script> 
+    <script src="assets/logoyes_scripts.js" type="text/javascript"></script>
+    <form method="post" id="loginForm" action="/index.php" class="login_form">
+      <input type="hidden" name="ACTION_URL" value="/account/logon">
+      <input type="hidden" name="logging_on" value="1">
+       <input type="hidden" name="format" value="ajax">
+      <input type="hidden" name="return_to" value="/">
+
+      <div class="login_controls">
+    <div class="form_row error">
+      <label class="error bottom"> Login Failed.</label>
+    </div>
+  <div class="form_row">
+    <label class="inputlabel" for="username">E-mail Address</label>
+    <div class="inputWrapper"><input name="logon_email" id="logon_email" class="inputInner" type="input" onkeypress="$('.form_row.error').hide()"></div>
+  </div>
+  <div class="form_row">
+    <label class="inputlabel" for="password">Password</label>
+    <div class="inputWrapper"><input name="logon_password" id="logon_password" class="inputInner" type="password" onkeypress="$('.form_row.error').hide()"></div>
+  </div>
+  <div class="form_row">
+    <span class="forgot" rel="#fgt_pswd_container">Forgot Your Password?</span>
+  </div>
+  <div class="form_row buttonrow">
+    <a name="butnLogin" alt="Login" onclick="$('#loginForm').submit()" class="button primary"> Login</a>
+  </div>
+      </div>
+    </form>
+    <script type="text/javascript">
+    
+    
+    function old_login(rs) {
+        if (rs[0] == 0) {
+            $('#login_container .form_row.error').show();
+            $('label.error.bottom').show();
+        } else {
+                window.location.href ="" + '/' + rs[1];
+        }
+}
+      $(function() {
+          $("#loginForm").validate({
+          rules: {
+              logon_email: { required: true},
+              logon_password: { required: true}
+          },
+          messages: {
+              logon_email: "Required.",
+              logon_password: "Required."
+          }});
+          $("#loginForm").submit(function() {
+            if ( $("#loginForm").valid()) {
+            $.post('/index.php', $(this).serialize(), function(data) {
+              if (data =="failed"){
+                var url = "" + "/loginapi.php?username=" + encodeURIComponent($("#logon_email").val()) + "&password=" + encodeURIComponent( $("#logon_password").val()) + "&callback=old_login";
+                var el = document.createElement("script");
+                el.setAttribute("src", url);
+                document.body.appendChild(el);
+                     
+             }else {
+                window.location.href = data;
+              }
+            });
+            }
+            return false;
+          });
+         
+      });
+    </script>
+  </div>
+</div>
+
+<div id="fgt_pswd_container">
+ 
+  <div class="inner_container">
+   <a class="close"></a>
+  <h2>Forgot Password</h2>
+    <form method="post" id="getPasswordForm" action="/index.php" class="login_form">
+      <input type="hidden" name="ACTION_URL" value="/account/forgotPassword">
+      <input type="hidden" name="logging_on" value="1">
+       <input type="hidden" name="format" value="ajax">
+      <input type="hidden" name="return_to" value="/">
+
+      <div class="login_controls">
+  <div class="form_row">
+    <label class="inputlabel" for="username">E-mail Address</label>
+    <div class="inputWrapper"><input name="logon_email" id="logon_email" class="inputInner" type="input" onkeypress="$('.form_row.error').hide()"></div>
+  </div>
+   <div class="form_row error">
+    <label class="error bottom"> Invalid email address.</label>
+    </div>
+ 
+  <div class="form_row buttonrow">
+    <a name="butnGetPasswd" alt="Get Password" onclick="$('#getPasswordForm').submit()" class="button primary"> Get Password</a>
+  </div>
+      </div>
+    </form>
+    <script type="text/javascript">
+      $(function() {
+          $("#getPasswordForm").validate({
+          rules: {
+              logon_email: { required: true, 
+                email: true}
+          },
+          messages: {
+              logon_email: "Required."
+          }});
+          $("#getPasswordForm").submit(function() {
+            if ($("#getPasswordForm").valid()) {
+            $.post('/index.php', $(this).serialize(), function(data) {
+                if (data == "DONE") {
+                  $("#message_container").overlay().load();
+                  
+                } else if (data=="NO EMAIL EXIST") {
+                  $('.form_row.error').show();
+                  $('label.error.bottom').show();
+                } 
+            });
+            }
+            return false;
+          });
+         
+      });
+    </script>
+  </div>
+</div>
+
+<div id="message_container">
+ 
+  <div class="inner_container">
+   <a class="close"></a>
+  <h2>Password Sent</h2>
+
+  <div class="content">     
+  <div class="form_row">
+    <label class="inputlabel" for="username">A password has been sent to your email box.</label>
+  </div>
+  <div class="form_row buttonrow">
+    <a name="GoBackSignIn" alt="Go Back To Sign In" onclick="$('#login_container').overlay().load()" class="button primary">&lt; Back to Sign In</a>
+  </div>
+ </div>
+  </div>
+</div>
+
 <script type="text/javascript">
 $(function() {
-	$("#loginForm").validate({
-		rules: {
-			logon_email: { required: true},
-			logon_password: { required: true}
-		},
-		messages: {
-			logon_email: "Required.",
-			logon_password: "Required."
-		}
-	});
+  $("#message_container").overlay({
+    mask: '#000000',
+    closeOnClick: false,
+    load: false
+  });
 });
 </script>
-</div>
-</div>
 <script type="text/javascript">
 $(function() {
-	$(".login a[rel]").overlay({
+	$(".menu a[rel]").overlay({
 		mask: '#000000'
 	});
+  $("#fgt_pswd_container").overlay({ mask: '#000000', closeOnClick: false});
+  $("span.forgot").click(function() {
+    var mask = document.getElementById("exposeMask");
+    if(mask) { mask.parentNode.removeChild(mask); }
+    $("#fgt_pswd_container").data("overlay").load();
+  });
 });
 </script>
  <script type="text/javascript">
@@ -524,7 +647,7 @@ document.write('<div id="dtmdiv" style="display:none;">' +
 
 function timeOutDotomi() { document.getElementById("dtmdiv").innerHTML = "";}
 //-->
-</script><div id="dtmdiv" style="display:none;"></div><div id="dtmdiv" style="display:none;"></div>
+</script><div id="dtmdiv" style="display:none;"><iframe name="response_frame" src="https://login.dotomi.com/ucm/UCMController?dtm_com=28&amp;dtm_fid=101&amp;dtm_cid=2378&amp;dtm_cmagic=3837a4&amp;dtm_format=5&amp;cli_promo_id=21&amp;dtmc_ref=&amp;dtmc_loc=https%3A//web.archive.org/web/20150407180212id_/http%253A//logoyes.com/site/page/privacy-policy"></iframe></div><div id="dtmdiv" style="display:none;"></div>
 <!-- End Dotomi Tag -->
 <img src="assets/Track.htm" style="display: none;" height="1" width="1">
 <!-- SiteCatalyst code version: H.23.3.
