@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214171808id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407051802id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Central Desktop
 
@@ -43,6 +43,6 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, Central Deskto
 Central Desktop has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Central Desktop, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
 Further Questions  
-If you have further questions about our Privacy Policy, email us at [privacy@centraldesktop.com](mailto:privacy@centraldesktop.com) or via mail at Central Desktop, Inc., 129 N Hill Ave #202, Pasadena, CA 91106 USA.
+If you have further questions about our Privacy Policy, email us at [privacy@centraldesktop.com](mailto:privacy@centraldesktop.com) or via mail at Central Desktop, Inc., 87 N Raymond Ave, Floor 6, Pasadena, CA 91103 USA.
 
 Last Updated: Nov 27, 2012
