@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the davey.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206033135id_/http%3A//www.davey.com/corporate-information/corporate-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davey.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407201634id_/http%3A//www.davey.com/corporate-information/corporate-policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Davey Tree
 
 ## Statement of Commitment
 
