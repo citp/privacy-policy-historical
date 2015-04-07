@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victory100.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205043335id_/http%3A//www.victory100.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victory100.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083912id_/http%3A//www.victory100.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Victory100
 
@@ -124,6 +124,6 @@ or 5 days a week by calling our live support team:
 972.548.0023 p   
 972.421-1523 f 
 
-© 2014 Victory100 Partners, LP | All rights reserved. 
+© 2015 Victory100 Partners, LP | All rights reserved. 
 
 6029 N. McDonald | Melissa, TX 75454 | 972.548.0023 
