@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellynagari.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806062047id_/http%3A//www.tellynagari.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellynagari.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407234132id_/http%3A//www.tellynagari.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy » Complete Indian Television Portal – TellyNagari
 
