@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the visitbit.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045128id_/http%3A//visitbit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitbit.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407122618id_/http%3A//visitbit.com/privacy-policy) for the most accurate reproduction.*
 
 # VisitBit | Free bitcoin! Instant payments! | Bitcoin PTC Advertising | Privacy Policy
 
-This Privacy Policy governs the manner in which VisitBit collects, uses, maintains and discloses information collected from users (each, a "User") of the [visitbit.com](https://web.archive.org/web/20141120045128id_/http%3A//visitbit.com/visitbit.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by VisitBit.
+This Privacy Policy governs the manner in which VisitBit collects, uses, maintains and discloses information collected from users (each, a "User") of the [visitbit.com](https://web.archive.org/web/20150407122618id_/http%3A//visitbit.com/visitbit.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by VisitBit.
 
 **Personal identification information**
 
