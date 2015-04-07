@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225195009id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407145031id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
 
 # Security and Privacy Guarantee | TaxAudit.com
 
@@ -79,7 +79,7 @@ The following defined terms are used throughout this Privacy Policy:
 
   **Employee** – means an employee, former employee or pensioner of TaxResources, Inc., and for the purposes of this Privacy Policy, includes the directors, shareholders and security holders of TaxResources, Inc.
 
-  **Personal information or data** – means information about an identifiable individual recorded in any form and includes, but is not limited to, such things as race, ethnic origin, nationality, age, gender, marital status, religion, education, medical information, criminal information, performance reviews, trade union membership, employment and financial history, income, address and telephone number, e–mail address, numerical identifiers such as Social Insurance or Social Security Number, and views and personal opinions. Personal information also includes information about a customer’s product and service subscriptions and usage, credit information, billing records, service and any recorded complaints. Publicly available information, such as a public directory listing of names, addresses, telephone numbers and electronic addresses, however, is not considered personal information.
+  **Personal information or data** – means information about an identifiable individual recorded in any form and includes, but is not limited to, such things as race, ethnic origin, nationality, age, gender, marital status, religion, education, medical information, criminal information, performance reviews, trade union membership, employment and financial history, income, address and telephone number, e–mail address, numerical identifiers such as Social Insurance or Social Security Number, and views and personal opinions. Personal information also includes information about a customer’s product and service subscriptions and usage, credit information, billing records such as credit card number, service and any recorded complaints. Publicly available information, such as a public directory listing of names, addresses, telephone numbers and electronic addresses, however, is not considered personal information.
 
   **Privacy legislation** – means domestic and international laws and regulations that seek to protect the privacy rights of individuals, including The Protection of Personal Information and Electronic Documents Act (PIPEDA) enacted by the Canadian Standards Association, legislation enacted by the United States government, the Circular 230 regulations issued by the United States Treasury Department, and substantially similar state and provincial legislation. Third party – means an individual, partnership, corporation, public authority, government agency, or any other entity other than the customer or his or her agent or TaxResources, Inc.
 
@@ -126,7 +126,7 @@ _TaxResources, Inc. will identify the purpose for which personal information is 
 **2.6**  The purposes for which the personal information of customers is collected may include, but is not limited to:  
 
 
-  * processing commercial transactions;
+  * processing commercial transactions such as to fulfill your order;
   * communicating with customers;
   * establishing and maintaining commercial relations;
   * developing, marketing or providing products and services;
@@ -137,7 +137,11 @@ _TaxResources, Inc. will identify the purpose for which personal information is 
   * facilitating transactional due diligence reviews;
   * complying with legal and regulatory obligations.
 
-**2.7**  Anonymous or “non–personal” information gathered by TaxResources, Inc. through its website may be used for technical, research and analytical purposes. Information collected through surveys, existing files and public archives may be used by TaxResources, Inc. to analyze its markets and to develop or enhance service offerings. 
+
+
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [privacy@taxaudit.com](mailto:privacy@taxaudit.com).
+
+**2.7**  Anonymous or “non–personal” information gathered by TaxResources, Inc. through its website may be used for technical, research and analytical purposes. Information collected through surveys, existing files and public archives may be used by TaxResources, Inc. to analyze its markets and to develop or enhance service offerings.
 
 ## PRINCIPLE 3 — CONSENT
 
@@ -181,25 +185,27 @@ TaxResources, Inc. shall limit the collection of personal information to that wh
 
 **4.1**  TaxResources, Inc. will not collect personal information indiscriminately. Both the amount and the type of information collected shall be limited to that which is necessary to fulfill the purposes identified. TaxResources, Inc. shall specify the type of information collected as part of its information handling policies and practices, in accordance with the Openness requirement (See Principle 8). 
 
-**4.2**  The requirement that personal information be collected by fair and lawful means is intended to prevent TaxResources, Inc. from collecting information by misleading or deceiving individuals about the purpose for which information is being collected. Consent to the collection of personal information must not be obtained through deception. 
+**4.2**  The requirement that personal information be collected by fair and lawful means is intended to prevent TaxResources, Inc. from collecting information by misleading or deceiving individuals about the purpose for which information is being collected. Consent to the collection of personal information must not be obtained through deception.
 
 ## 5 — LIMITING USE, DISCLOSURE AND RETENTION 
 
-_Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of the purposes for which it was collected._
+_Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of the purposes for which it was collected. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at[privacy@taxaudit.com](mailto:privacy@taxaudit.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements._
 
-**5.1**  Where TaxResources, Inc. intends to use personal information for a purpose not previously identified, TaxResources, Inc. shall document the new purpose and shall obtain the consent of the individual prior to using the information for a new purpose. 
+**5.1**  Where TaxResources, Inc. intends to use personal information for a purpose not previously identified, TaxResources, Inc. shall document the new purpose and shall obtain the consent of the individual prior to using the information for a new purpose.
 
-**5.2**  TaxResources, Inc. has a long–standing policy of not providing personal information to any third parties. Unlike many other websites, it is not necessary to expressly request that TaxResources, Inc. not allow access by third parties to your personal information. TaxResources, Inc. will not sell, rent, trade or give away our members’ personal information to other companies. 
+**5.2**  TaxResources, Inc. has a long–standing policy of not providing personal information to any third parties. Unlike many other websites, it is not necessary to expressly request that TaxResources, Inc. not allow access by third parties to your personal information. TaxResources, Inc. will not sell, rent, trade or give away our members’ personal information to other companies. We will share your personal information with third parties only in the ways that are described in this privacy policy.
 
 TaxResources, Inc. may disclose the personal information of its customers:  
 
 
   * to third party service providers, including shipping and mailing companies; 
   * to internal or external legal counsel and auditors;
-  * to an agent retained by TaxResources, Inc. in connection with the collection of the customer’s account; 
+  * to an agent retained by TaxResources, Inc. in connection with the collection of the customer’s account;
   * to a third party or parties, where the customer consents to such disclosure;
   * to prospective parties in the context of a transactional due diligence review; and
-  * where disclosure is required by law.
+  * where disclosure is required by law, such as to comply with a subpoena, or similar legal process.
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if TaxResources, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 
 
@@ -211,21 +217,23 @@ TaxResources, Inc. may disclose the personal information of its customers:
 
 **5.6**  Our Site includes links to other Web sites whose privacy practices may differ from those of TaxResources Inc. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
-**5.7**  A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personal information you submit while on our site. We use session ID cookies. A session ID cookie expires when you close your browser. This cookie allows us to manage your session while you are visiting and during the purchase process. [Learn more about Cookies.](http://en.wikipedia.org/wiki/HTTP_cookie)
+**5.7**  Testimonials. We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@taxaudit.com](mailto:privacy@taxaudit.com).
 
-If you reject cookies, you may still use our site, but your ability to purchase products or create an account will be restricted.
+**5.8**  Technologies such as: cookies, beacons, tags and scripts are used by TaxResources, Inc. and our marketing partners, affiliates, or analytics providers such as Google. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
- **5.8**  As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information.
+We use cookies for authentication and to manage user sessions. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
- **5.9**  The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and service providers use session ID cookies to help us better understand the pattern of usage by visitors to our site. No IP addresses are collected and no personal information is collected or stored with these cookies.
+**5.9**  As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information.
 
- **5.10**  Our Web site includes Social Media Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+**5.10**  We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
 
-**5.11**  Our site has implemented Google Analytics features in order for us to facilitate our online advertising and remarketing efforts. The Google Analytics features we have implemented are Google Analytics Demographics and Interest Reporting; Google Display Network Impression Reporting; Remarketing with Google Analytics; and Google AdWords Advertising. Visitors to our site can opt-out of the Google Analytics features we use through by visiting Google’s Advertising and Privacy page: [http://www.google.com/privacy_ads.html](http://www.google.com/policies/technologies/ads/)
+Various browsers may offer their own management tools for removing HTML5 LSOs.
 
-Our site uses Google AdWords for remarketing, demographic and location targeting, interest category advertising, similar audience advertising, and other types of interest-based advertising. Visitors to our site can opt-out of Google’s use of cookies related to Google AdWords by visiting Google’s Advertising and Privacy page: [http://www.google.com/privacy_ads.html ](http://www.google.com/policies/technologies/ads/)
+**5.11**  Our Web site includes Social Media Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+**5.12**  We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+**5.13**  Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at[privacy@taxaudit.com](mailto:privacy@taxaudit.com)._ In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## 6 — ACCURACY
 
@@ -251,7 +259,9 @@ _Personal information shall be protected by security safeguards appropriate to t
 
 **7.4**  The use of cookies, web bugs, images, and other techniques to covertly gather information about individuals who use the Internet is incompatible with this policy. Whenever TaxResources, Inc. gathers information about individuals, these same subjects must have agreed upon the collection effort in advance. For this same reason, TaxResources, Inc. does not deposit cookie files on individual hard drives and does not perform any other covert recording of the Internet activity in which individuals have engaged.
 
-**7.5**  TaxResources, Inc. streamlines and expedites all of its computerized business interactions with individuals, but at the same time is to be forthright and clear about its privacy policies. To support these objectives and to encourage individuals to use Internet commerce sites and other computerized business systems, TaxResources, Inc. adopts and supports all generally–accepted standards for web content rating, web site privacy protection, and Internet commerce security, including third–party seals of approval.
+**7.5**  TaxResources, Inc. streamlines and expedites all of its computerized business interactions with individuals, but at the same time is to be forthright and clear about its privacy policies. To support these objectives and to encourage individuals to use Internet commerce sites and other computerized business systems, TaxResources, Inc. adopts and supports all generally–accepted standards for web content rating, web site privacy protection, and Internet commerce security, including third–party seals of approval. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [security@taxaudit.com](mailto:security@taxaudit.com).
 
 **7.6**  TaxResources, Inc. does not use externally–meaningful identifiers as its own internal individual account numbers. For example, to prevent identity theft, TaxResources, Inc. customer account numbers must never be equivalent to social security numbers, driver’s license numbers, or any other identifier that might be used in an unauthorized fashion by a third party.
 
@@ -314,6 +324,6 @@ _An individual customer shall be able to address a challenge concerning complian
 
 ### CHANGES TO THE PRIVACY POLICY
 
-This policy is effective as of September 30th, 2014. TaxResources, Inc. reserves the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy we will notify you on our homepage and other places we deem appropriate prior to the change becoming effective so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+This policy is effective as of March 20th, 2015. TaxResources, Inc. reserves the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy we will notify you on our homepage and other places we deem appropriate prior to the change becoming effective so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 Back to the TOP
