@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top10prospectingtricks.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222171328id_/http%3A//top10prospectingtricks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10prospectingtricks.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072757id_/http%3A//www.top10prospectingtricks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MyLeadSystemPRO Training
+# Privacy Policy | MyLeadSystemPRO
 
 This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for the website that linked you here. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our current practices, as they may change in the future.
 
