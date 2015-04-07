@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818131047id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072029id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
 
 # Winster - Games, Friends, Prizes
 
@@ -36,7 +36,7 @@ We also like to obey the law, so we may release your personal information as app
 
 Other than the above, we will tell you when we intend to share information about you with third parties, and you will have an opportunity to tell us not to do it. 
 
-Special message for California Residents: Effective January 1, 2005, companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties (SB 27). We have elected the second option, and you may request that your information not be shared with third parties by sending or hand delivering your request, including your full name, email address and postal address to: Reloaded Games Inc., | 17011 Beach Blvd, Suite 330 | Huntington Beach, CA 92647. 
+Special message for California Residents: Effective January 1, 2005, companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties (SB 27). We have elected the second option, and you may request that your information not be shared with third parties by sending or hand delivering your request, including your full name, email address and postal address to: Reloaded Games Inc., | 16787 Beach Blvd. #465 | Huntington Beach, CA 92647. 
 
 #### What do we do to protect your information? 
 
