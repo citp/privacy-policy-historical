@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirtyonegifts.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228145518id_/http%3A//www.thirtyonegifts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirtyonegifts.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072129id_/http%3A//www.thirtyonegifts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Thirty-One Gifts
 
@@ -40,7 +40,7 @@ We may ask you to provide personal information through our Marketing Channels. F
   * complete a request to host a party event;
   * participate in a survey; 
   * enter contests or sweepstakes; 
-  * place an order with us online; 
+  * place an order with us online through one of our independent Thirty-One Gifts Consultants; 
   * fill out an application to become an independent Thirty-One Gifts Consultant; 
   * fill out a request for support of a non-profit organization through Thirty-One Gives; or 
   * contact us for other information. 
@@ -86,7 +86,7 @@ This privacy policy does not cover personal information about Consultants submit
 
 ### What information do we share with third parties?
 
-We will share your personal information with our affiliates. In addition, we will share your personal information with the independent Thirty-One Gifts Consultants(s) with whom you indicate you have a relationship. If you do not have a relationship with one of our independent Thirty-One Gifts Consultants, we will select one near you and provide your contact information to that independent Thirty-One Gifts Consultant so you may be contacted about your inquiry.
+We will share your personal information with our affiliates. In addition, we will share your personal information with the independent Thirty-One Gifts Consultants(s) with whom you indicate you have a relationship. If you do not have a relationship with one of our independent Thirty-One Gifts Consultants, we will select one who is located near you and provide your contact information to that independent Thirty-One Gifts Consultant so you may be contacted about your inquiry.
 
 We may share your personal information with third party service providers that assist us in such things as: developing and administering our Websites; conducting surveys, sweepstakes or contests; sending and administering emails or text messages; performing marketing services; or other similar services. 
 
