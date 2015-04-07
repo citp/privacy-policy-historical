@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the university-liverpool-online.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104820id_/http%3A//www.university-liverpool-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the university-liverpool-online.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407124802id_/http%3A//www.university-liverpool-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University of Liverpool Online Degrees
 
@@ -23,7 +23,7 @@ For these purposes, you further expressly permit Laureate Online Education to tr
 
 ### Personal information modification
 
-You are hereby informed that you have a right to access and correct any of your personal data held by Laureate Online Education at any time, by contacting Laureate Online Education at Haarlerbergpark River Building 2nd Floor, Haarlerbergweg 23C, 1101 CH Amsterdam Z.O The Netherlands or at [contact@ohecampus.com](mailto:contact@ohecampus.com). 
+You are hereby informed that you have a right to access and correct any of your personal data held by Laureate Online Education at any time, by contacting Laureate Online Education at Haarlerbergpark River Building 2nd Floor, Haarlerbergweg 23C, 1101 CH Amsterdam Z.O The Netherlands or at [webmaster@liverpool-online.com](mailto:webmaster@liverpool-online.com). 
 
 ### Security of personal information
 
