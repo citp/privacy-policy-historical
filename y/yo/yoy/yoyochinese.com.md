@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoyochinese.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083240id_/http%3A//yoyochinese.com/content/Yoyo-Chinese-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoyochinese.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082426id_/https%3A//www.yoyochinese.com/content/Yoyo-Chinese-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
