@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116134006id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084201id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
 
 # Loginto.org Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/contact/). At loginto.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by loginto.org and how it is used.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.loginto.org/contact/). At loginto.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by loginto.org and how it is used.
 
 ### Log Files
 
@@ -29,15 +29,15 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ## Latest Login Searches
 
-  * [seniormatch.com Login](https://web.archive.org/seniormatch.com-login)
-  * [fifththirdlogin.com Login](https://web.archive.org/fifththirdlogin.com-login)
-  * [chi-login.com Login](https://web.archive.org/chi-login.com-login)
-  * [chase-online-login.com Login](https://web.archive.org/chase-online-login.com-login)
-  * [staplesrewards.com Login](https://web.archive.org/staplesrewards.com-login)
-  * [daskapital.nl Login](https://web.archive.org/daskapital.nl-login)
-  * [appleuser.com Login](https://web.archive.org/appleuser.com-login)
-  * [scpo.cn Login](https://web.archive.org/scpo.cn-login)
-  * [domain Login](https://web.archive.org/domain-login)
-  * [tvyo.com Login](https://web.archive.org/tvyo.com-login)
+  * [blairwilliams.com Login](http://www.loginto.org/blairwilliams.com-login)
+  * [logincities.com Login](http://www.loginto.org/logincities.com-login)
+  * [login.ee Login](http://www.loginto.org/login.ee-login)
+  * [unsw.edu.au Login](http://www.loginto.org/unsw.edu.au-login)
+  * [pantagraph.com Login](http://www.loginto.org/pantagraph.com-login)
+  * [modthesims.info Login](http://www.loginto.org/modthesims.info-login)
+  * [121xia.com Login](http://www.loginto.org/121xia.com-login)
+  * [pilot.co.jp Login](http://www.loginto.org/pilot.co.jp-login)
+  * [shgjj.com Login](http://www.loginto.org/shgjj.com-login)
+  * [notebook-driver.com Login](http://www.loginto.org/notebook-driver.com-login)
 
 
