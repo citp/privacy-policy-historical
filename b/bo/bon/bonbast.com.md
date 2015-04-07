@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonbast.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703161423id_/http%3A//www.bonbast.com/p/privacy-policy-for-bonbastcom.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonbast.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407164241id_/http%3A//www.bonbast.com/p/privacy-policy-for-bonbastcom.html) for the most accurate reproduction.*
 
 # BonBast.com: Privacy Policy
 
