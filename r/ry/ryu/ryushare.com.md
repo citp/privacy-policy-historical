@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryushare.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044007id_/http%3A//ryushare.com/%3Fop%3Dpage%26tmpl%3Dpiracy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryushare.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407115431id_/http%3A//ryushare.com/%3Fop%3Dpage%26tmpl%3Dpiracy) for the most accurate reproduction.*
 
 # RyuShare.com - Free Online Storage
 
