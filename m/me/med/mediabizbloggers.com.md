@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediabizbloggers.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123150834id_/http%3A//www.mediabizbloggers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabizbloggers.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407215233id_/http%3A//www.mediabizbloggers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jack Myers
 
