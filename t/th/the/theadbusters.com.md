@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadbusters.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701043815id_/http%3A//www.theadbusters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadbusters.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407084148id_/http%3A//www.theadbusters.com/privacy.php) for the most accurate reproduction.*
 
 # The Ad Busters : Advertise For Free : Free Advertising
 
@@ -32,8 +32,8 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-[](http://www.theadbusters.com/banclick.php?code=5ddfed3d0746748d8c4add3547a80ac5)   
-Copyright (c) 2009 - 2014 The Ad Busters All Rights Reserved - Part of the [_Trax Web_](http://www.traxhelpdesk.com/sites/)
+[](http://www.theadbusters.com/banclick.php?code=a4d3af69a34ee0822adcbfc50bf1ded5)   
+Copyright (c) 2009 - 2015 The Ad Busters All Rights Reserved - Part of the [_Trax Web_](http://www.traxhelpdesk.com/sites/)
 
 [Member Login](https://web.archive.org/memberlogin.php) | [How It Works](https://web.archive.org/members/how.php) | [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php)   
 
