@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limboland.net privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114124252id_/http%3A//www.limboland.net/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limboland.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407235138id_/http%3A//limboland.net/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
