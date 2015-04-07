@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zukul.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103141344id_/http%3A//zukul.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zukul.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073455id_/http%3A//zukul.com/index/privacy) for the most accurate reproduction.*
 
 # ZUKUL
 
