@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onlinethreatalerts.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129171314id_/http%3A//www.onlinethreatalerts.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinethreatalerts.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407075928id_/http%3A//www.onlinethreatalerts.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Online Threat Alerts
 
-This document details important information regarding the use and disclosure of User Data collected on this website. 
+This document details important information regarding the use and disclosure of User Data collected on this website.
 
 The security of your Data is very important to this website and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
@@ -44,9 +44,18 @@ YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info(at) this website.
 
-Google, as a third party vendor, uses cookies to serve ads on this site. .:: Google’s use of the DART cookie enables it to serve ads to you based on your visit to this sites and other sites on the Internet. .:: You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to you based on your visit to this sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ……. Google AdSense Commission Junction Clickbank TextLinkAds Amazon InfoLinks 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ……. 
+
+  * Google AdSense
+  * Commission Junction
+  * Clickbank
+  * TextLinkAds
+  * Amazon
+  * InfoLinks
+
+
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on this website send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
