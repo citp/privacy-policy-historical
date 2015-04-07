@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115012415id_/http%3A//midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082218id_/http%3A//www.midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,12 +47,6 @@ Occasionally, subscribers to Midwifery Today e-mail newsletters may receive spec
 Your postal mailing address may be rented to companies that Midwifery Today believes offer a product or service of interest to you. If you do not want your postal address sold to third parties, please let us know at the time you place your order. Otherwise, you may request to have your name put on our do-not-share list by contacting us by e-mail, phone or letter. We will remove your name from the list we share with other organizations.
 
 **Phone Number**    We may use your phone number to contact you about orders you have placed. We also may phone you to let you know about a new product or service we are offering, to let you know about special offers, or to remind you that it’s time to renew. If you do not wish to receive such phone calls, please let us know by contacting us by e-mail, phone or letter. Please provide us with your name and phone number. We will not sell or rent your phone number to third parties under any circumstances.
-
-## Our Use of Cookies
-
-When you log in to our discussion forums at
-
-for the first time, a cookie is placed on the hard drive of your local computer. This cookie stores your username and password so that you do not need to log in again the next time you use the forums. This cookie also stores the date of your last visit as well as any preferences you have set for the configuration of the forums on your computer. Your username and password are deleted from the cookie each time you log out of the forums. Cookies are not used to track your movement or perform any function other than to enhance your use of the forums. Cookies must be enabled in your browser if you want to post a message to the forums, but you may disable cookies in your browser and still read the messages.
 
 ## Conclusion
 
