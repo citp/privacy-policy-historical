@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasterschoice.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827141418id_/http%3A//www.tasterschoice.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasterschoice.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083038id_/http%3A//www.tasterschoice.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice - NESCAFÉ® Taster's Choice®
 
@@ -408,6 +408,6 @@ Office of Consumer Services
 800 N. Brand Blvd.  
 Glendale, CA 91203  
 [Contact us via email](mailto:nestleconsumerservice@casupport.com)  
-1-800-225-22701-800-225-2270
+1-800-225-2270
 
 Back to top
