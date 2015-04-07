@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeclue.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727184633id_/http%3A//www.themeclue.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeclue.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151350id_/http%3A//themeclue.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Themeclue
 
