@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registerblast.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231121815id_/http%3A//www.registerblast.com/www/Home/Page/4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registerblast.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407080151id_/http%3A//registerblast.com/www/Home/Page/4) for the most accurate reproduction.*
 
 # Security & Priovacy
 
