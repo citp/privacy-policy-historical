@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xlibris.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220050056id_/http%3A//www.xlibris.com/legal-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xlibris.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407115214id_/http%3A//www.xlibris.com/legal-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Self Publishing and Print on Demand Company | Xlibris Book Publishers
 
@@ -54,7 +54,7 @@ If you feel more comfortable doing so, you may place an order for products or se
 
 When you visit a Web site, information may be stored in a file known as a "cookie." This file is stored on your computer and is used for future reference. If you revisit a Web site, the cookie allows that Web site to identify you as a returning guest and tailor your shopping experience to you.
 
-We use cookies in two places. The first is when a user places an order. We use cookies to fill in their name and e-mail address in the form where appropriate (this is known as "auto-fill.") The second is when a customer uses the [Contact Us](https://web.archive.org/web/20141220050056id_/http%3A//www.xlibris.com/contact-us.aspx "Contact Us") page. Again, we use cookies for auto-filling the form.
+We use cookies in two places. The first is when a user places an order. We use cookies to fill in their name and e-mail address in the form where appropriate (this is known as "auto-fill.") The second is when a customer uses the [Contact Us](https://web.archive.org/web/20150407115214id_/http%3A//www.xlibris.com/contact-us.aspx "Contact Us") page. Again, we use cookies for auto-filling the form.
 
 Most Web browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. Please refer to your Web browser's help file to learn more about these functions.
 
