@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622185809id_/http%3A//www.4checks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407233640id_/http%3A//www.4checks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
 
 # 4checks - Personal Checks, Address Labels, Personal Cards, Checkbook Covers and Check Accessories
 
@@ -81,6 +81,6 @@ Dept. OPT, P.O. Box 35350
 
 Colorado Springs, CO 80935-9850
 
-1-866-923-0451
+1-800-995-9925
 
 [Direct Checks Unlimited Sales, Inc. is a BBB accredited business] and complies with BBBOnLine standards. [[Click to verify our BBB accreditation and to see a current BBB report](https://www.bbb.org/minnesota/business-reviews/checks-printing/direct-to-consumer-in-shoreview-mn-96353108 "Click to verify BBB accreditation and to see a BBB report").]
