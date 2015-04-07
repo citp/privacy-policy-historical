@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradelink.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702145558id_/http%3A//www.gradelink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradelink.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082213id_/http%3A//www.gradelink.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Gradelink
 
