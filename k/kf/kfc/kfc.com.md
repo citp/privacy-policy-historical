@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfc.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917104422id_/http%3A//www.kfc.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407135548id_/http%3A//www.kfc.com/about/privacy.asp) for the most accurate reproduction.*
 
 # KFC.com Privacy information | KFC.com
 
@@ -65,7 +65,7 @@ This Policy describes how we treat personal information both online and offline.
 
   * **You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, send a request to [webmaster@kfc.com](mailto:webmaster@kfc.com?subject=KFC%20Site%20Contact) or follow the instructions in any promotional message you get from us. It may take about ten (10) days to process your request. Don’t worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
   * **You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, please [click here](http://www.aboutads.info/choices/).
-  * **You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, [click here](https://web.archive.org/web/20140917104422id_/http%3A//www.kfc.com/about/tracking.asp). 
+  * **You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, [click here](https://web.archive.org/web/20150407135548id_/http%3A//www.kfc.com/about/tracking.asp). 
 
 
 
