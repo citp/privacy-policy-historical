@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062937id_/http%3A//projectbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083004id_/http%3A//projectbubble.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy: Project Bubble
 
 **This policy is effective from 15th May 2012.**
 
