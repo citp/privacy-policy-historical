@@ -1,149 +1,133 @@
-> *The following text is extracted and transformed from the smartnews.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartnews.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072640id_/https%3A//www.smartnews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SmartNews Privacy Policy
 
-#### Find Answers To Your Questions:
+## Last Updated: October 1, 2014
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Any information that we collect is subject to the privacy policy in effect at the time that Information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or other notification, and we’ll indicate when those changes will become effective. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
 
-### Privacy Policy
+## How do we collect and use information?
 
-**Why A Privacy Policy?**  
+Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services, and to enable you to enjoy and easily navigate our Services.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+**Information Provided by You or Collected with Your Permission.** If you want to use certain features of the Services, we’ll collect certain information that can be used to identify you ( **“PII”** ) and/or other non-identifying information, including your use of certain social networking services ( **“SNS”** ) and information available on your SNS accounts. For example, if you let us know that you want to see what news stories the people you follow on Twitter are sharing, the links to these news stories will be sent to you via our Services. Please refer to the privacy policy for the SNS you use for more information on how your information will be shared by the SNS.
 
- **This Privacy Policy protects your privacy by:**
+**Information Related to Your Use of the Services.** Our servers automatically record certain information about how you use our Services, such as the pages or features of our Services you browse and the time you spend on those pages or features, the links (including ads) on our Services that you click on, and other statistics. We use this information to administer the Services. We also analyze (and may engage third parties to analyze) this information to improve and enhance our Services by expanding their features and functionality and tailoring them to our users’ needs and preferences.
 
- **Informing you about:**
+**Information Sent by Your Mobile Device.** We collect certain information that your mobile device sends when you use our Services, like user settings and the operating system. 
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+**Location Information.** We will collect information about your location and/or use various technologies to determine your location, such as sensor data from your device that provides information on nearby Wi-Fi access points and cell towers, if you enable this feature on the Services. You can enable or disable location services when you use our Services through your mobile device settings. We may use location information to improve and personalize our Services for you.
 
+## What Information Do We Share With Third Parties?
 
+We will not share any PII that we have collected from you except as described below:
 
-**Empowering you to choose:**
+**Information Shared with Our Services Providers.** We may engage third party service providers to work with us to administer and provide the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf. For example, we use Google Analytics, in addition to our own analytics technology, and other third-party analytics packages to collect, monitor and analyze the information we collect in order to increase SmartNews’s functionality and user-friendliness, to better tailor the Services to our users’ needs, and to understand and analyze how you are using our Services. We also share your information with Google as necessary to receive the Google Analytics service. For more information please see Google’s privacy policy (<http://www.google.com/policies/privacy/>) addressing the information that is collected to provide the Google Analytics service and how Google uses such information.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+**Information Shared with Third Parties.** We may share aggregated information and non-identifying information with third parties for industry research and analysis, demographic profiling and other similar purposes.
 
+**Information Disclosed in Connection with Business Transactions.** Information that we collect from our users, including PII, is considered to be a business asset. As a result, if we go out of business or enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition or asset sale, your PII may be disclosed or transferred to the third-party acquirer in connection with the transaction.
 
+**Information Disclosed for Our Protection and the Protection of Others.** We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.
 
-**Assuring you that Network Solutions:**
+**Information We Disclose With Your Consent or at Your Request.** We will share your PII with third-party sites or platforms, such as social networking sites, if you have expressly requested that we do so.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+## The Security of Your Information
 
+We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
 
+## Links to Other Sites
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we’re not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
 
-  
-**Third Party Advertising and Cookies**
+## Modifying Your Information
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+If you want us to delete your PII, please contact us at privary@smartnews.com with your request. We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+## International Transfer
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. 
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+## Our Policy Toward Children
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+## Questions?
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+Please contact us at privacy@smartnews.com if you have any questions about our Privacy Policy.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+スマートニュース株式会社（以下「当社」）は、高度情報通信社会における個人情報保護の重要性を認識し、当社が提供する各種サービス（以下「本サービス」）において、以下の通りプライバシーポリシー（以下「本ポリシー」）を定め、徹底をはかります。 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+## 個人情報の定義
 
- **Getting to Know Our Customers**
+本ポリシーにおいて「個人情報」とは、生存する個人に関する情報であって、当該情報に含まれる氏名、生年月日その他の記述等により特定の個人を識別することができるもの（他の情報と容易に照合することができ、それにより特定の個人を識別することができることとなるものも含む）を指します。
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+## 個人情報の取得
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+当社は、適法かつ公正な手段によって個人情報を取得します。
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+## 個人情報の利用
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+当社は、個人情報を、以下に示す目的の範囲内で、業務の遂行上必要な限りにおいて利用します。
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+  * 本サービスのユーザ個人に対して最適化された情報を配信するため
+  * 統計的分析により本サービスの品質向上に役立てるため
+  * 本サービスに対するお問い合わせへの対応のため
+  * 本サービスに関するアンケートを実施するため
+  * 当社の実施するキャンペーンや新製品等に関するご案内をお送りするため
+  * その他、上記の利用目的に付随する目的
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+## クッキーについて
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+当社は、本サービスサイトにおいて、クッキーを利用します。また、広告システムの一部においても、クッキーを利用することがあります。クッキーとは、ブラウザとサーバとの間で送受信した利用履歴等を、利用者の端末にファイルとして保存する技術です。利用者が、当社がクッキーを利用することを望まないときは、ご自分のブラウザにおいて、クッキーを拒否するよう設定することができます。ただし、クッキーを拒否した場合、ウェブサイトにおける本サービスの利用に際し、影響が生じる可能性があります。
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+## 行動ターゲティング広告の無効化について
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+本サービスは「行動ターゲティング広告」を提供しています。行動ターゲティング広告とは、利用者の行動履歴情報等を取得、利用し、利用者の興味・嗜好・属性を分析してインターネット広告を出し分けるサービスです。行動履歴情報等には、特定の個人を識別できる情報は含まれませんが、自社サービス内において取得する、もしくは、外部サービスより提供される性別・年齢・所在地等の情報を含むことがあります。もし、行動ターゲティング広告の配信をご希望されない場合は、[こちら](http://smartnews-ads.com/optout/)をクリックし、その手続きにしたがって無効化（以下、「オプトアウト」）をしてください。オプトアウトした後は、原則として、利用者への行動ターゲティング広告の配信はされなくなります。ただし、これらは行動履歴関連広告を停止するものであり、広告表示を完全に停止するものではありません。また、ブラウザの変更、クッキーの削除および新しい端末への変更、その他の事情により当社のオプトアウトがなされず、再度のオプトアウトが必要となることがありますのでご了承ください。
 
-b. Click “Edit User Info” in the left menu;
+## 個人情報の第三者提供
 
-c. Scroll to the bottom of the page;
+当社は、法令に定める場合を除き、個人情報を事前に本人の同意を得ることなく第三者に提供しません。
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+なお、当社は、次の場合には、個人情報にアクセスし、これを第三者に開示することがあります。
 
-e. Click “SAVE.”
+  * 利用者本人の同意がある場合
+  * 法令または裁判所、行政機関等の法令に基づく判決、決定、命令等により開示を求められた場合
+  * 当社の権利または財産を保護および防御するための措置に合理的に必要な場合
+  * 当社やお客様、またはその他一般の人々の生命、身体または財産を保護するために必要な場合であって、利用者の同意を得ることが困難であるとき
+  * 公衆衛生の向上または児童の健全な育成の推進のために特に必要な場合であって、利用者の同意を得ることが困難であるとき
+  * 国の機関もしくは地方公共団体またはその委託を受けた者が法令の定める事務を遂行することに対して協力する必要がある場合であって、利用者の同意を得ることにより当該事務の遂行に支障を及ぼすおそれがあるとき
+  * 統計的データなど利用者本人を識別することができない状態で開示・提供する場合
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+## 個人情報の管理
 
-b. Click “Edit User Info” in the left menu;
+  * 当社は、個人情報の正確性を保ち、これを安全に管理します。
+  * 当社は、個人情報の紛失、破壊、改ざんまたは漏えい等を防止するため、適正な情報セキュリティ対策を講じます。
+  * 当社は、運営体制の整備や社員の教育等を通じて、個人情報を適切に管理し、個人情報の紛失、破壊、改ざんまたは漏えい等に対する予防措置を講じます。 
 
-c. Scroll to the bottom of the page;
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
 
-e. Click “SAVE.” 
+## 個人情報の利用目的の通知、開示、訂正、利用停止等の求め
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+当社は、個人情報について、開示、訂正・追加・削除、利用停止・消去、第三者提供の停止または利用目的の通知にかかるお客様ご本人からの申出があった場合には、申出をいただいた方が本人であることを確認の上、個人情報保護法の定めにしたがい、誠実かつ速やかに対応します。 
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+なお、申出が個人情報保護法の定める要件をみたさない場合、または、個人情報保護法その他の法令により、開示等を拒絶することが認められる事由がある場合には、申出に沿えないことがあります。 
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+また、開示等の求めに対してお客様から当社に支払っていただく手数料等はありません。ただし、お客様から当社宛の通信費、交通費および上記に定める本人確認の際にお客様側で資料等の準備を行っていただく際に発生する費用等については、お客様の負担とさせていただきます。 
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+## プライバシーポリシーの改定
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+当社は、個人情報の取り扱いに関する運用状況を適宜見直し、継続的な改善に努めるものとし、必要に応じて、本ポリシーを変更することがあります。変更後のプライバシーポリシーは、本サイト上で随時公表するものとします。 
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+## お問い合わせ先
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+当社の個人情報の取り扱いに関するお問い合わせは、privacy@smartnews.com 宛にお願いいたします。
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+2012年12月1日制定  
+2014年10月8日改定  
+2015年2月13日改定  
+スマートニュース株式会社（旧社名・株式会社ゴクロ） 
