@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asmclk.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223100005id_/http%3A//adscendmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmclk.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407035429id_/http%3A//adscendmedia.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,4 +119,4 @@ If any provision of this Privacy Policy is found to be illegal, void, or unenfor
 
 This page was lasted updated on April 17, 2012. 
 
-[Contact Us](https://web.archive.org/web/20141223100005id_/http%3A//adscendmedia.com/contact.php)
+[Contact Us](https://web.archive.org/web/20150407035429id_/http%3A//adscendmedia.com/contact.php)
