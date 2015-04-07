@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theredpin.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923155747id_/http%3A//www.theredpin.com/company-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredpin.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407020539id_/http%3A//www.theredpin.com/company-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
