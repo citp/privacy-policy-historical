@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menswearhouse.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095627id_/http%3A//www.menswearhouse.com/webapp/wcs/stores/servlet/ContentAttachmentView%3FcontentName%3DMW4ABTprivacySecurity.html%26catalogId%3D12004%26top%3D%26parent_category_rn%3D%26categoryId%3D%26langId%3D-1%26storeId%3D12751) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menswearhouse.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409000630id_/http%3A//www.menswearhouse.com/ContentAttachmentView%3FcontentName%3DMW4ABTprivacySecurity.html%26catalogId%3D12004%26top%3D%26parent_category_rn%3D%26categoryId%3D%26langId%3D-1%26storeId%3D12751) for the most accurate reproduction.*
 
 # Privacy and Security Policy| Men's Wearhouse
 
