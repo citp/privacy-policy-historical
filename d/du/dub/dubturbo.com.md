@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the dubturbo.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022132541id_/http%3A//www.dubturbo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubturbo.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408072321id_/http%3A//www.dubturbo.com/dt-support/dt-support/privacy-policy) for the most accurate reproduction.*
 
-# DUBturbo - Make Beats Online - Privacy Policy
+# DubTurbo - Privacy Policy
 
-_Privacy Policy:_
-
-  
 **Privacy Policy**  
 This Web site is owned and controlled by DubTurbo.com . 
 
