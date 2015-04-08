@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple2leverage.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229050428id_/http%3A//simple2leverage.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple2leverage.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408063200id_/http%3A//simple2leverage.com/legal/privacy.php) for the most accurate reproduction.*
 
 # 
 
