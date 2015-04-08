@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realore.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231175146id_/http%3A//realore.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realore.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408032407id_/http%3A//realore.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy polycy
 
 We at Realore (“Realore”) have created this Privacy Policy to demonstrate our commitment to your privacy. The following discloses our information gathering and dissemination practices. **By  visiting Realore, you are accepting the practices described in this Privacy Policy.**
 
@@ -9,6 +9,7 @@ We at Realore (“Realore”) have created this Privacy Policy to demonstrate
 #### Personally Identifiable Information:
 
 We may collect the following information when you sign up for a service: 
+
   * First name, last name, e-mail address, mailing address, phone number.
   * Credit or debit card information, depending on your form of payment. We do not store any credit card information after your transaction is complete.
 
@@ -58,25 +59,25 @@ Apart from what is described above, you will receive notice when information ab
 
 ### E-MAIL/OPT-OUT
 
-When you create a customer account with Realore, you are automatically registered to receive one or more of our newsletters, even if you previously opted out of receiving newsletters at the time you downloaded any game for free trial play. At any time, you may opt-out of receiving these newsletters by selecting the “unsubscribe” link at the bottom of any newsletter. Realore treats each of its consumer offerings individually, so if you are receiving mailings from more than one area of our website, if you want to unsubscribe you must do so with respect to each such area individually.
+When you create a customer account with Realore, you are automatically registered to receive one or more of our newsletters, even if you previously opted out of receiving newsletters at the time you downloaded any game for free trial play. At any time, you may opt-out of receiving these newsletters by selecting the “unsubscribe” link at the bottom of any newsletter. Realore treats each of its consumer offerings inpidually, so if you are receiving mailings from more than one area of our website, if you want to unsubscribe you must do so with respect to each such area inpidually.
 
 ### LINKS TO THIRD-PARTY SITES
 
-Web sites that link to or from Realore Web site may collect personal information about you. This Realore Privacy Policy does not apply to, and cannot control the activities of other Web sites.
+Web sites that link to or from a Realore Web site may collect personal information about you. This Realore Privacy Policy does not apply to, and cannot control the activities of, other Web sites.
 
 ### CHAT & MESSAGING
 
-Realore Web sites may operate message boards and/or chat areas where users can exchange ideas and communicate with each another. When posting to a message board or chat area, the information is being made publicly available in an online environment. Any information posted is the sole responsibility of the individual user.
+Realore Web sites may operate message boards and/or chat areas where users can exchange ideas and communicate with each another. When posting to a message board or chat area, the information is being made publicly available in an online environment. Any information posted is the sole responsibility of the inpidual user.
 
 ### CHILDREN
 
 We at Realore do not offer products for purchase by children, and we do not knowingly collect personal information from children. If you are under 13, you may use and access the Realore Web sites only with the involvement of a parent or guardian.
 
-Realore respects the privacy of parents and children and is committed to complying with the __Children’s Online Privacy Protection Act__. If a parent believes that his or her child has submitted personal information to Realore, he or she can contact us via e-mail at support@realore.com. We will promptly delete the information upon learning that it relates to a child under the age of 13\. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children’s use of online activities regularly.
+Realore respects the privacy of parents and children and is committed to complying with the Children’s Online Privacy Protection Act. If a parent believes that his or her child has submitted personal information to Realore, he or she can contact us via e-mail at support@realore.com. We will promptly delete the information upon learning that it relates to a child under the age of 13\. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children’s use of online activities regularly.
 
 ### CONTACT US
 
-To review, modify or remove the information you have provided to us, or to contact us with any questions or complaints, please e-mail at support@realore.com.
+To review, modify or remove the information you have provided to us, or to contact us with any questions or complaints, please e-mail us at [support@realore.com](mailto:support@realore.com).
 
 ### AGREEMENT WITH REALORE POLICIES
 
