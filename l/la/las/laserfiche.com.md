@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laserfiche.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223000139id_/http%3A//www.laserfiche.com/en-us/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserfiche.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408182810id_/http%3A//www.laserfiche.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Laserfiche
 
 ### Privacy Statement for Consumer Transactions
 
@@ -9,8 +9,7 @@ This is the Website of the Compulink Management Center, Inc., Laserfiche divisio
 Our postal address is:  
 **3545 Long Beach Blvd.  
 Long Beach, California 90807  
-USA**  
-
+USA**
 
 We can be reached via e-mail at info@laserfiche.com.
 
