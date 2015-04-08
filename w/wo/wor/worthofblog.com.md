@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worthofblog.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121213803id_/http%3A//www.worthofblog.com/privacy-policy-of-worthofblog) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthofblog.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408101432id_/http%3A//www.worthofblog.com/privacy-policy-of-worthofblog) for the most accurate reproduction.*
 
-# privacy policy | Worth of Blog
+# privacy policy | Worth of BLog
 
 At [**worthofblogdotcom**](http://www.worthofblog.com/ "Home"), the privacy of our readers is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by worthofblogdotcom and how we make use of it.
 
