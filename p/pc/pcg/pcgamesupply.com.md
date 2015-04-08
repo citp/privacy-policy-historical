@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcgamesupply.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171253id_/http%3A//www.pcgamesupply.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgamesupply.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408150948id_/http%3A//www.pcgamesupply.com/privacypolicy.php) for the most accurate reproduction.*
 
 # PCGameSupply.com - Privacy Policy
 
