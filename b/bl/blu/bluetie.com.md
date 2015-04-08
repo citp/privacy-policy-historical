@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224220938id_/http%3A//bluetie.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408082606id_/http%3A//www.bluetie.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | BlueTie
 
 ## 1\. General
 
-BlueTie respects the privacy of every individual who visits [www.bluetie.com ](https://web.archive.org/web/20141224220938id_/http%3A//bluetie.com/front)(the "Web Site" or "Site"). This Privacy Policy outlines the information we will collect and how we will use and share that information. This Policy will also tell you what to do if you do not want your personal information collected or shared. If you have any questions about our policy, you may [contact us](http://support.bluetie.com/node/829) by email.
+BlueTie respects the privacy of every individual who visits [www.bluetie.com ](https://web.archive.org/web/20150408082606id_/http%3A//www.bluetie.com/front)(the "Web Site" or "Site"). This Privacy Policy outlines the information we will collect and how we will use and share that information. This Policy will also tell you what to do if you do not want your personal information collected or shared. If you have any questions about our policy, you may [contact us](http://support.bluetie.com/node/829) by email.
 
 ## 2\. Your Acceptance of These Terms
 
