@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freaksofboobs.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007063601id_/http%3A//freaksofboobs.com/tour_01/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freaksofboobs.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408230857id_/http%3A//www.freaksofboobs.com/tour_01/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
