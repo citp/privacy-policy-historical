@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explosion.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618000944id_/http%3A//www.explosion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explosion.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408224522id_/http%3A//www.explosion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Explosion.com
 
