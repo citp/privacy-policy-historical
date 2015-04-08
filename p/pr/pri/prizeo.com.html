@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prizeo.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221141227id_/http%3A//www.prizeo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prizeo.com privacy policy that was archived on 2015-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408022209id_/http%3A//www.prizeo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js"><!--<![endif]--><head>
     
@@ -19,16 +19,20 @@
     
     
     
-<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script>
     analytics = undefined;
+
+    var nP = navigator.platform;
+
     var cfg = {
             page : "",
             url : {
                 assets : "//d1oc2d5bw2auvq.cloudfront.net/assets/",
-                assetsVersion : "?v=4209ab",
+                assetsVersion : "?v=434038",
                 subscribe : "/subscribe",
                 signIn : "https://www.prizeo.com/sign-in",
-                signOut : "/sign-out?originUrl=%2Fprivacy-policy"
+                signOut : "/sign-out?originUrl=%2Fprivacy-policy",
+                timelineTail: "/prizes/tail"
             },
             app : {
                 analytics : {
@@ -39,71 +43,135 @@
             facebook : {
                 channel : "Result(200, Map(Content-Type -&gt; text/html; charset=utf-8))",
                 appId : "353853941354487",
-                scope : "email,user_birthday,publish_actions,user_friends",
-                authenticateUrl : "https://www.prizeo.com/facebook/sign-in?originUrl=%2Fprivacy-policy"
+                perm_basic : "email",
+                perm_paf : "user_friends,publish_actions",
+
+                authenticateUrl : "https://www.prizeo.com/facebook/auth?originUrl=%2Fprivacy-policy",
+                callbackAuthenticateUrl : "https://www.prizeo.com/facebook/callback-auth?originUrl=%2Fprivacy-policy",
+
+                linkUrl : "https://www.prizeo.com/facebook/connect?originUrl=%2Fprivacy-policy",
+                callbackLinkUrl : "https://www.prizeo.com/facebook/callback-connect?originUrl=%2Fprivacy-policy",
+                facebookTokenInBackend:  null 
             },
-            flash: {}
+            flash: {},
+            mobile: false,
+            safariMobile: nP == "iPad" || nP == "iPhone" || nP == "iPod" || nP == "iPhone Simulator" || nP == "iPad Simulator"
+            //these devices have the "amazing" wheel handling select - it ignores the "disabled" property, because why not
+            //we have no choice but to remove them - http://stackoverflow.com/questions/6109085/disable-select-option-in-ios-safari
     };
 
     document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
 
+    //Some browsers do not support window.matchMedia
+    var isOperaMini = (navigator.userAgent.indexOf('Opera Mini') > -1);
+    if(!isOperaMini) {
+        if (window.matchMedia('all and (max-width: 640px)')) {
+            cfg.mobile = true;
+        }
+    } else {
+        cfg.mobile = false; 
+    }
+
     if( window.outerWidth < 641 ) {
+
+
         var viewPortTag=document.getElementById('viewport');
         viewPortTag.content = "width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;";
     }
 </script>
 
-<script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-33270838-1']);
-    _gaq.push(['_setDomainName', 'prizeo.com']);
-    _gaq.push(['_trackPageview']);
+<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="7dcf2ac1413e2d3925d50ee1b3d61328" data-appversion="2.0-5e5273eae485b0337b698046b1c212fc3bcc7045-1428434038"></script>
 
-    (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-</script>
+<script>Bugsnag.releaseStage = "production";</script>
 
 
 
 
-<script type="text/javascript">
-var fb_param = {};
-fb_param.pixel_id = '6010090424214';
-fb_param.value = '0.00';
-fb_param.currency = 'USD';
-(function(){
-var fpw = document.createElement('script');
-fpw.async = true;
-fpw.src = '//connect.facebook.net/en_US/fp.js';
-var ref = document.getElementsByTagName('script')[0];
-ref.parentNode.insertBefore(fpw, ref);
-})();
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6010090424214&amp;value=0&amp;currency=USD" /></noscript>
+
+<script>(function(b){SplitOptimizer=window.SplitOptimizer||[];if(!SplitOptimizer.alreadyExecuted){SplitOptimizer.alreadyExecuted=!0;SplitOptimizer.track=function(){SplitOptimizer.push(Array.prototype.slice.call(arguments))};var a=document.createElement("script");a.async=!0;a.src=b;document.getElementsByTagName("head").item(0).appendChild(a)}})("https://www.splitoptimizer.com/client/1478.js");</script><script async="" src="https://www.splitoptimizer.com/client/1478.js"></script>
 
 
 
+
+
+
+
+<!-- start Mixpanel -->
+<script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("7bc518a635d1b1d1b5bcca288f995962");</script>
+<!-- end Mixpanel -->
+
+
+<script type="application/javascript" src="//s.uadx.com/0ec85640-9c29-11e4-858b-22000afe405e.js"></script>
 
 <script type="text/javascript">
-    (function() {
-    var _fbq = window._fbq || (window._fbq = []);
-    if (!_fbq.loaded) {
-        var fbds = document.createElement('script');
-        fbds.async = true;
-        fbds.src = '//connect.facebook.net/en_US/fbds.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(fbds, s);
-        _fbq.loaded = true;
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-33270838-1', {
+        'cookieDomain': 'prizeo.com'
+        });
+
+    
+    
+
+    
+    
+
+    ga('send', 'pageview'); 
+
+    
+    
+        mixpanel.track("Page view", { 'page': document.title, 'url': window.location.pathname});
+    
+
+    
+    if(window.location.search.indexOf("reminder_email") != -1) {
+        mixpanel.track("Reminder email", { action: 'arrived' });
     }
-    _fbq.push(['addPixelId', '563584970408685']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
+
+    
+    if(window.location.search.indexOf("transaction_email") != -1) {
+        mixpanel.track("Transaction email", { action: 'arrived' });
+    }
+
+    
+
+    
+    
+
+
+
 </script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=563584970408685&amp;ev=PixelInitialized" /></noscript>
+
+<script type="text/javascript">
+    (function() {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+        _fbq.push(['addPixelId', '412494925583107']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+
+    
+    
+
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=412494925583107&amp;ev=PixelInitialized" /></noscript>
+
+
+
+
 
 
 
@@ -113,8 +181,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
     
     
     
-<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/polyglot.js?v=4209ab"></script>
-<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/messages.en.js?v=4209ab" type="text/javascript"></script>
+<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/polyglot.js?v=434038"></script>
+<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/messages.en.js?v=434038" type="text/javascript"></script>
 
     
     
@@ -123,21 +191,21 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 
 <script>
     require = {
-        urlArgs: 'v=4209ab',
+        urlArgs: 'v=434038',
         waitSeconds: 180
     };
 </script>
 
-<script data-main="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/main.js" src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/require.js?v=4209ab" type="text/javascript"></script>
+<script data-main="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/main.js" src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/require.js?v=434038" type="text/javascript"></script>
 
 
     
     
     
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/plugins/ladda.css?v=4209ab">
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/normalize.css?v=4209ab">
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/bootstrap/bootstrap.css?v=4209ab">
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/main.min.css?v=4209ab">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/plugins/ladda.css?v=434038">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/normalize.css?v=434038">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/bootstrap/bootstrap.css?v=434038">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/main.min.css?v=434038">
 
     
     
@@ -159,8 +227,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
     
     
     
-<link rel="shortcut icon" type="image/png" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/favicon.png?v=4209ab">
-<link rel="apple-touch-icon" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/apple-touch-icon.png?v=4209ab">
+<link rel="shortcut icon" type="image/png" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/favicon.png?v=434038">
+<link rel="apple-touch-icon" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/apple-touch-icon.png?v=434038">
 
 
     <title>
@@ -189,8 +257,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
         <div class="row-main">
             <p id="logo">
                 <a href="/">
-                    <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-symbol.png?v=4209ab" alt="" width="71" height="79">
-                    <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-prizeo.png?v=4209ab" alt="Prizeo.com" width="105" height="50" class="logo x2">
+                    <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-symbol.png?v=434038" alt="" width="71" height="79">
+                    <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-prizeo.png?v=434038" alt="Prizeo.com" width="105" height="50" class="logo x2">
                 </a>
             </p>
 
@@ -239,18 +307,28 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 
 <div id="footer">
     <div class="row row-main">
-        <div class="col col-7 grid-5 mobile-hide">
-            <h5 class="h3 uppercase">
+        <div class="col col-5 grid-4 mobile-hide">
+            <h5 class="h3 uppercase ml15">
                 Share
             </h5>
             <p class="share">
                 <a href="#" id="fb-share" title="Share on Facebook"><span class="ico-fb"></span></a>
-                <a href="https://twitter.com/intent/tweet?text=Check%20out%20prizeo.com%2C%20you%20can%20win%20awesome%20experiences%20with%20celebrities%20and%20support%20some%20great%20causes!%20%40Prizeo" title="Share on Twitter"><span class="ico-tw"></span></a>
-                <a href="mailto:?subject=Awesome%20new%20site&amp;body=Hey!%20%20%0A%0AI%20found%20a%20really%20cool%20website%20called%20Prizeo%20that%20I%20thought%20you'd%20like.%20You%20basically%20pay%20%C2%A31%20for%20a%20chance%20to%20win%20once-in-a-lifetime%20prizes%20with%20top%20celebrities%20and%20the%20proceeds%20go%20to%20an%20amazing%20cause.%20You%20should%20definitely%20check%20it%20out%20www.prizeo.com.%20" target="_blank" title="Send by E-mail"><span class="ico-msg"></span></a>
-                <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.prizeo.com&amp;media=http%3A%2F%2Fcdn.prizeo.com%2Fpinterest%2Fpint.png&amp;description=Prizeo%20is%20brand%20new%20way%20to%20win%20amazing%20money-can't-buy%20prize%20experiences%20from%20your%20favourite%20celebrities%2C%20in%20aid%20of%20some%20of%20the%20best%20causes.%20It%E2%80%99s%20just%20%C2%A31%20to%20enter%20a%20prize%20draw%2C%20and%20you%20can%20enter%20as%20many%20times%20as%20you%20like!%20Taking%20part%20couldn%E2%80%99t%20be%20easier%2C%20and%20you%20can%20choose%20which%20friends%20you%E2%80%99ll%20bring%20with%20you%20to%20the%20prize%20experience%20if%20you%20win%2C%20and%20share%20this%20with%20them%20on%20social%20media.%20Prizeo%20is%20shaking%20up%20the%20world%20of%20fundraising!" target="_blank" title="Pin on Pinterest"><span class="ico-pint"></span></a>
+                <a href="https://twitter.com/intent/tweet?text=Check%20out%20prizeo.com,%20you%20can%20win%20awesome%20experiences%20with%20celebrities%20and%20support%20some%20great%20causes!%20@Prizeo" title="Share on Twitter"><span class="ico-tw"></span></a>
+                <a href="mailto:?subject=Awesome%20Fundraising%20Site!&amp;body=Hello!%0A%0AI%20found%20a%20really%20cool%20website%20called%20Prizeo%20that%20I%20thought%20you'd%20like.%20You%20basically%20pay%20$5%20for%20a%20chance%20to%20win%20once-in-a-lifetime%20prizes%20with%20top%20celebrities%20and%20the%20proceeds%20go%20to%20an%20amazing%20cause.%20You%20should%20definitely%20check%20it%20out%20www.prizeo.com" target="_blank" title="Send by E-mail"><span class="ico-msg"></span></a>
+                <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.prizeo.com&amp;media=http%3A%2F%2Fcdn.prizeo.com%2Fpinterest%2Fpint.png&amp;description=Prizeo%20is%20brand%20new%20way%20to%20win%20amazing%20money-cant-buy%20prize%20experiences%20from%20your%20favourite%20celebrities,%20in%20aid%20of%20some%20of%20the%20best%20causes.%20It%E2%80%99s%20just%20$5%20to%20enter%20a%20prize%20draw,%20and%20you%20can%20enter%20as%20many%20times%20as%20you%20like!%20Taking%20part%20couldn%E2%80%99t%20be%20easier,%20and%20you%20can%20choose%20which%20friends%20you%E2%80%99ll%20bring%20with%20you%20to%20the%20prize%20experience%20if%20you%20win,%20and%20share%20this%20with%20them%20on%20social%20media.%20Prizeo%20is%20shaking%20up%20the%20world%20of%20fundraising!" target="_blank" title="Pin on Pinterest"><span class="ico-pint"></span></a>
             </p>
         </div>
-        <div class="col col-1 grid-5 footer-about-prizeo">
+        <div class="col col-10 grid-3 footer-subscribe mobile-hide">
+            <h5 class="h3 uppercase">
+                Subscribe
+            </h5>
+            <form id="subscription-form" method="POST" action="/subscribe">
+                <input type="email" name="email" class="inp-text" placeholder="your.email@here" required="">
+                <input type="url" id="subscription-form-location" name="originUrl" hidden="">
+                <ul class="reset"><li><a href="javascript: submitSubscription()">Subscribe</a> to the newsletter</li></ul>
+            </form>
+        </div>
+        <div class="col col-1 grid-4 footer-about-prizeo">
             <h5 class="h3 uppercase">
                 About Prizeo
             </h5>
@@ -272,6 +350,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
         powered by <a href="https://mixpanel.com/f/partner" target="_blank"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a>
     </div>
 </div>
+
 
 
 
