@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sandro-paris.com privacy policy that was archived on 2014-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141130122052id_/http%3A//us.sandro-paris.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sandro-paris.com privacy policy that was archived on 2015-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150409005723id_/http%3A//us.sandro-paris.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -235,6 +235,12 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 							<li>
 							<a href="http://us.sandro-paris.com/women-1/new-arrivals.html">NEW ARRIVALS</a>
 						</li>
+	<li>
+							<a href="http://us.sandro-paris.com/women-1/chic-cool.html">MARINE CHIC</a>
+						</li>
+						<li>
+							<a href="http://us.sandro-paris.com/women-1/SPRING-COLLECTION-2015.html">PRE-COLLECTION 2015</a>
+						</li>
 						<li>
 							<a href="http://us.sandro-paris.com/women-1/evening-collection.html">EVENING CAPSULE COLLECTION</a>
 						</li>
@@ -249,6 +255,9 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 					<div class="col">
 					<h5>LOOKBOOKS</h5>
 						<ul><li>
+							<a href="http://us.sandro-paris.com/lookbook/index/index/id/20/view/Sandro-Women-Spring-Summer-2015/">WOMENS SPRING-SUMMER 2015</a>
+						</li>
+<li>
 							<a href="http://us.sandro-paris.com/lookbook/index/index/id/17/view/Sandro-Women-Fall-Winter-2014/">WOMENS FALL-WINTER 2014</a>
 						</li>
 							<li>
@@ -310,14 +319,15 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 						<li>
 							<a href="http://us.sandro-paris.com/mens/new-arrivals.html">NEW ARRIVALS</a>
 						</li>
+
+						<li>
+							<a href="http://us.sandro-paris.com/mens/spring-collection-2015.html">PRE-COLLECTION 2015</a>
+						</li>
 						<li>
 							<a href="http://us.sandro-paris.com/mens/fall-winter-2014.html">FALL-WINTER 2014</a>
 						</li>
 						<li>
 							<a href="http://us.sandro-paris.com/mens-workshop">THE SANDRO HOMME WORKSHOP</a>
-						</li>
-<li>
-							<a href="http://us.sandro-paris.com/mens/sandro-x-sonic-youth.html">SANDRO x SONIC YOUTH</a>
 						</li>
 					</ul>
 					<div class="cl">	 
@@ -326,6 +336,9 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 					<div class="col">
 					<h5>LOOKBOOKS</h5>
 						<ul><li>
+							<a href="http://us.sandro-paris.com/lookbook/index/index/id/21/view/Sandro-Men-Spring-Summer-2015/">MENS SPRING-SUMMER 2015</a>
+						</li>
+<li>
 							<a href="http://us.sandro-paris.com/lookbook/index/index/id/18/view/Sandro-Men-Fall-Winter-2014">MENS FALL-WINTER 2014</a>
 						</li>
 							<li>
@@ -476,49 +489,45 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <!-- / subscribe-box -->
 
 <script type="text/javascript">
-    //<![CDATA[
+//<![CDATA[
+var newsletterSubscribeForm = new VarienForm('newsletter-subscribe-form');
+$j('#newsletter-subscribe-form').submit(function(e){
+    e.preventDefault();
+    if(newsletterSubscribeForm.validator.validate()){
+        $j.ajax({
+            type: 'POST',
+            url: $j('#newsletter-subscribe-form').attr('action'),
+            data: $j('#newsletter-subscribe-form').serialize()
+        }).done(function(data){
+            var ret = $j.parseJSON(data);
+            if(ret.success){
+                $j('#newsletter-subscribe-form .cols').removeClass('hasError');
+                $j('.subscribe-box').addClass('submit');
+                $j('.subscribe-box .cnt').hide();
+                $j('.subscribe-box .thank-you').fadeIn();
 
-    var newsletterSubscribeForm = new VarienForm('newsletter-subscribe-form');
-    $j('#newsletter-subscribe-form').submit(function(e){
-        e.preventDefault();
-        if(newsletterSubscribeForm.validator.validate()){
-            $j.ajax({
-                type: 'POST',
-                url: $j('#newsletter-subscribe-form').attr('action'),
-                data: $j('#newsletter-subscribe-form').serialize()
-            }).done(function(data){
-                    var ret = $j.parseJSON(data);
-                    if(ret.success){
-                        $j('#newsletter-subscribe-form .cols').removeClass('hasError');
-                        $j('.subscribe-box').addClass('submit');
-                        $j('.subscribe-box .cnt').hide();
-                        $j('.subscribe-box .thank-you').fadeIn();
+                setTimeout(function() {
+                    $j('.subscribe-box').animate({
+                        height: 0,
+                        opacity: 0
+                    });
+                }, 4000);
 
-                        setTimeout(function() {
-                            $j('.subscribe-box').animate({
-                                height: 0,
-                                opacity: 0
-                            });
-                        }, 4000);
+                setTimeout(function() {
+                    $j('.subscribe-box .subscribe-inner').fadeOut();
+                }, 3000);
 
-                        setTimeout(function() {
-                            $j('.subscribe-box .subscribe-inner').fadeOut();
-                        }, 3000);
-
-                    }  else {
-                        $j('#newsletter-subscribe-form .cols').addClass('hasError');
-                        $j('#newsletter-subscribe-form .error-msg').html('<h5>'+ret.message+'</h5>');
-
-                    }
-
-
-                });
-        } else {
-            $j('#newsletter-subscribe-form .cols').addClass('hasError');
-        }
-        return false;
-    });
-    //]]>
+            }  else {
+                $j('#newsletter-subscribe-form .cols').addClass('hasError');
+                $j('#newsletter-subscribe-form .error-msg').html('<h5>'+ret.message+'</h5>');
+            }
+        });
+    } else {
+        $j('#newsletter-subscribe-form .cols').addClass('hasError');
+    }
+    return false;
+});
+//]]>
 </script></div>
 <!-- / header -->                
         <div id="container">
