@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfdownload.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704151940id_/http%3A//www.pdfdownload.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfdownload.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408093712id_/http%3A//www.pdfdownload.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy PDF Download and Nitro PDF Software
 
@@ -8,7 +8,7 @@ At Nitro PDF Software we are committed to ensuring the privacy of your personal 
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.pdfdownload.org/seal_m "Validate TRUSTe privacy certification")
 
-Nitro PDF Pty. Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](mailto:privacy@nitropdf.com). If you are not satisfied with our response you can contact[ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). This Privacy Policy governs all sites that link to this policy. 
+Nitro PDF Pty. Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](mailto:privacy@gonitro.com). If you are not satisfied with our response you can contact[ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). This Privacy Policy governs all sites that link to this policy. 
 
 Nitro PDF Pty. Ltd. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. NitroPDF has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NitroPDF's certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
 
@@ -39,11 +39,11 @@ If you purchase a product or service from us, we request certain personally iden
 
 ###  Bulletin boards/chat rooms/blogs/forums 
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us](mailto:privacy@nitropdf.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us](mailto:privacy@gonitro.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ###  Customer testimonials/comments/reviews 
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you would like to have us remove any of your comments, please [contact us](mailto:privacy@nitropdf.com).
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you would like to have us remove any of your comments, please [contact us](mailto:privacy@gonitro.com).
 
 ##  Communications from the site
 
@@ -59,7 +59,7 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
 We will send you strictly product/service-related announcements on rare occasions when it is necessary to do so. For instance, to assist you with product usage or notification of product and service maintenance, we might send you an email. 
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you can [contact us](mailto:privacy@nitropdf.com). 
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you can [contact us](mailto:privacy@gonitro.com). 
 
 ###  Customer Service 
 
@@ -69,7 +69,7 @@ Based upon the personally identifiable information you provide us, we will send 
 
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [ unsubscribe@nitropdf.com](mailto:unsubscribe@nitropdf.com). 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [ unsubscribe@gonitro.com](mailto:unsubscribe@gonitro.com). 
 
 ###  Sharing and disclosure 
 
@@ -89,7 +89,7 @@ In the event Nitro PDF goes through a business transition, such as a merger, acq
 
 ##  Access
 
-You may request that we provide you with access to the personal information we hold about you at any time. We will respond to your request for access within 30 days. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/remove or deactivate it by making the change in your account or by [emailing us ](mailto:privacy@nitropdf.com) or by contacting us by postal mail at the contact information listed below. Generally we will be able to provide you with such access. However, where: 
+You may request that we provide you with access to the personal information we hold about you at any time. We will respond to your request for access within 30 days. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/remove or deactivate it by making the change in your account or by [emailing us ](mailto:privacy@gonitro.com) or by contacting us by postal mail at the contact information listed below. Generally we will be able to provide you with such access. However, where: 
 
   * the access impacts on the privacy of others; 
   * the request for access is frivolous or vexatious; 
@@ -105,7 +105,7 @@ We may not be able to provide you with access to such information. If we deny yo
 
 We will take all reasonable precautions to protect your personal information from loss, misuse or alteration. This includes both physical and technological security measures. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](mailto:privacy@nitropdf.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](mailto:privacy@gonitro.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ##  Website 
 
@@ -137,7 +137,7 @@ This Privacy Policy was last amended March 18, 2011.
 
 ###  Contact us 
 
-If you require more detailed information about our information handling practices or if you have any concerns about our handling of your personal information, please let us know by [emailing us ](mailto:privacy@nitropdf.com) or by contacting us by postal mail at the contact information listed below.
+If you require more detailed information about our information handling practices or if you have any concerns about our handling of your personal information, please let us know by [emailing us ](mailto:privacy@gonitro.com) or by contacting us by postal mail at the contact information listed below.
 
 Nitro PDF Software  
 717 Market Street, Suite 600  
