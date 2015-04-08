@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goingviralposts.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226015910id_/http%3A//goingviralposts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingviralposts.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408114454id_/http%3A//goingviralposts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GoingViralPosts
+# Privacy Policy
 
-This privacy policy sets out how GoingvViralPosts uses and protects any information that you give us when you use this website. GoingvViralPosts  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. GoingvViralPosts may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 18, 2013. **What we collect** We may ask to collect the following information:
+This privacy policy sets out how GoingvViralPosts uses and protects any information that you give us when you use this website. GoingvViralPosts  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. GoingvViralPosts may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 18, 2013.  **What we collect  **We may ask to collect the following information: 
 
-  * e-mail address (for use to send you the daily Myrecipemagic newsletter, which you can unsubscribe from at any time)
+  * e-mail address (for use to send you the dailyGoingvViralPosts newsletter, which you can unsubscribe from at any time)
 
 
 
