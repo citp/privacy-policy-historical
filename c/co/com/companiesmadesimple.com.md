@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companiesmadesimple.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010034651id_/http%3A//www.companiesmadesimple.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesmadesimple.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408052205id_/http%3A//www.companiesmadesimple.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Companies Made Simple
 
