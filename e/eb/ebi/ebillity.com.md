@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebillity.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121090225id_/http%3A//www.ebillity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebillity.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408101040id_/http%3A//www.ebillity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Time Tracking Software by eBillity
 
@@ -16,9 +16,13 @@ _24 hrs a day 7 days a week_
 
 1-800-851-0992
 
-_Mon-Thurs: 9:30 am - 6:00 pm, EST_
+_Mon-Thurs: 9:00 am - 6:00 pm, EST_
 
-_Friday: 9:30 am - 4:30 pm, EST_
+_Friday: 9:00 am - 4:30 pm, EST_
+
+  * Attend a [live training webinar](https://web.archive.org/get-help)
+
+view our webinar schedule [here](https://web.archive.org/get-help)
 
   * Visit the [Online Help Center](http://support.ebillity.com/home)
 
@@ -29,6 +33,10 @@ _Always open. The internet never sleeps._
   * Chat live with us now
 
 _Monday - Friday: 24 hours a day_
+
+  * [Book](https://ebillity.youcanbook.me/) a free concierge
+
+Schedule a free private training session [here](https://ebillity.youcanbook.me/)
 
 
 
@@ -109,4 +117,4 @@ You may instruct us to stop sending you certain promotional materials (e.g., e-m
 
 It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at [privacy@eBillity.com](mailto:privacy@ebillity.com).
 
-© 2009-2014 eBillity. All Rights Reserved.
+© 2009-2015 eBillity. All Rights Reserved.
