@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftnote.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205152158id_/http%3A//www.shiftnote.com/%3Fp%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftnote.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408115023id_/http%3A//www.shiftnote.com/%3Fp%3D19) for the most accurate reproduction.*
 
 # Privacy Policy | ShiftNote
 
