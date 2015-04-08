@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evtv1.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720010207id_/http%3A//www.evtv1.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evtv1.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408033024id_/http%3A//www.evtv1.com/Privacy.aspx) for the most accurate reproduction.*
 
 # EVTV1.com > Privacy Policy
 
