@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balenciaga.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126210033id_/http%3A//www.balenciaga.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balenciaga.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408082425id_/http%3A//www.balenciaga.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ Your personal data are collected and processed by Balenciaga S.A. and the compan
 
 Your Personal Data will be processed to provide the services you subscribed to or reserved for registered users, to facilitate your navigation of and shopping from the website and to keep you informed of Kering Group news and offers. 
 
-Balenciaga S.A. and the companies of Kering Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **Commercial Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 597,048.40 fully paid up. 
+Balenciaga S.A. and the companies of Kering Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **Commercial Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 619,640.32 fully paid up. 
 
 The management of the sale of the products and the transactions performed on www.balenciaga.com, within the United States of America are operated, under license, by YOOX S.p.A.’ s subsidiary YOOX Corporation, a Delaware corporation having an address at 148 Lafayette Street, 10th Floor, New York, New York 10013 ("YOOX USA", YOOX S.p.A. and YOOX USA also jointly referred to as YOOX). 
 
