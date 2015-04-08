@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leadsquared.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121214016id_/http%3A//www.leadsquared.com/Company/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leadsquared.com privacy policy that was archived on 2015-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408083844id_/http%3A//www.leadsquared.com/Company/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     <meta charset="utf-8">
@@ -290,9 +290,9 @@ We may use mobile analytics software to allow us to better understand the functi
 
                      <section class="col-lg-2 col-md-2 col-xs-12 col-sm-3 footer-one">
                         <h3><a href="/company/resources">Resources</a></h3>
-                         <a href="http://blog.leadsquared.com/marketing-blog">Blog</a><br>
-                         <a href="http://blog.leadsquared.com/marketing-e-books/">E-Books</a><br>
-                         <a href="http://blog.leadsquared.com/previous-webinars/">Webinars</a><br>
+                         <a href="http://blog.leadsquared.com/">Blog</a><br>
+                         <a href="http://blog.leadsquared.com/marketing-ebooks/">E-Books</a><br>
+                         <a href="http://blog.leadsquared.com/category/previous-marketing-webinars/">Webinars</a><br>
                      </section>
 
 
@@ -303,7 +303,7 @@ We may use mobile analytics software to allow us to better understand the functi
                         <ul class="contact-us">
                            <li>
                               <span class="icon-phone"></span>
-                                 <span><strong>North America:</strong> (+1) 848-248-4002</span>
+                                 <span><strong>North America:</strong> (+1) 732-375-1161</span>
                             </li>
                             <li>
                                <span class="icon-phone"></span>
@@ -325,7 +325,7 @@ We may use mobile analytics software to allow us to better understand the functi
             <div class="footer-bottom">
                <div class="container">
                   <div class="row">
-                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 "> © Copyright 2014 by MarketXpander Services Pvt. Ltd. All Rights Reserved. </div>
+                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 "> © Copyright 2015 by MarketXpander Services Pvt. Ltd. All Rights Reserved. </div>
                      <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6 ">
                          <a href="/Company/TermsOfService">Terms of Service</a><span style="margin-left:5px;margin-right:5px;">&nbsp;</span>
                          <a href="/Company/PrivacyPolicy">Privacy Policy</a>
@@ -353,7 +353,7 @@ We may use mobile analytics software to allow us to better understand the functi
       <script src="https://dgrukx644avoi.cloudfront.net/Content/lsqtheme/js/imagesloaded.pkgd.min.js"></script>
       <script src="https://dgrukx644avoi.cloudfront.net/Content/lsqtheme/js/waypoints.min.js"></script>
     <script src="https://dgrukx644avoi.cloudfront.net/Content/lsqtheme/js/jquery.nivo.slider.pack.js"></script>
-      <script src="https://dgrukx644avoi.cloudfront.net/Content/lsqtheme/js/custom.js"></script>
+      <script src="https://leadsquared-website.s3.amazonaws.com/Content/lsqtheme/js/custom.js"></script>
     
 
     <!--LeadSquared Tracking Code Start-->
@@ -461,6 +461,16 @@ We may use mobile analytics software to allow us to better understand the functi
         });
             /* custom configuration goes here (www.olark.com/documentation) */
             olark.identify('7466-436-10-8741');/*]]>*/</script><noscript><a href="https://www.olark.com/site/7466-436-10-8741/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+		<script type="text/javascript">
+			$(document).ready (function(){
+				setTimeout("UpdateProspectIDInOlark()", 3000);
+			});
+			function UpdateProspectIDInOlark ()
+			{
+				console.log(MXCProspectId);
+				olark('api.visitor.updateCustomFields', {LSQProspectId: MXCProspectId});
+			}
+		</script>
         <!-- end olark code -->
 		<script type="text/javascript" src="//s3.amazonaws.com/scripts.hellobar.com/26941207ebe684758b0611f5edea161fb3245f2d.js"></script>
 
