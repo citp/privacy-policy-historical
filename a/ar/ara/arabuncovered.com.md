@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the arabuncovered.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231195338id_/http%3A//www.arabuncovered.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabuncovered.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408063131id_/http%3A//www.arabuncovered.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-YellowPlum Ltd.  
-Stasikratous, 16,   
-1065, Nicosia  
-Cyprus
 
 We can be reached via e-mail at [ support@247mg.com](mailto:support@247mg.com)
 
