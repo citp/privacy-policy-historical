@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the safecharge.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060458id_/http%3A//safecharge.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecharge.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408052642id_/http%3A//www.safecharge.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - SafeCharge
 
-**[](http://safecharge.com/)**
+**[](http://www.safecharge.com/)**
 
-You are here: [Home](http://safecharge.com/ "SafeCharge") / Privacy and Cookies Policy
+You are here: [Home](http://www.safecharge.com/ "SafeCharge") / Privacy and Cookies Policy
 
 ## Privacy and Cookies Policy
 
