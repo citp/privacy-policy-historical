@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the libib.com privacy policy that was archived on 2014-09-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140927222433id_/http%3A//www.libib.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the libib.com privacy policy that was archived on 2015-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408072449id_/http%3A//www.libib.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy policy - Libib.com</title>
@@ -12,9 +12,9 @@
 <meta name="twitter:image:src" content="https://www.libib.com/images/twitter_card.png">
 
 <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic,300italic,100,100italic,700italic" rel="stylesheet" type="text/css">
 <link href="/css/sub.css" rel="stylesheet" type="text/css">
 <link href="/css/chosen.css" rel="stylesheet" type="text/css">
-<link href="/css/library.css" rel="stylesheet" type="text/css">
 <link href="/css/mobile.css" rel="stylesheet" type="text/css">
 <link href="/css/jkal.css" rel="stylesheet" type="text/css">
 
@@ -22,7 +22,7 @@
 	<script src="/js/dist/html5shiv.js"></script>
 <![endif]-->
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript"></script>
 <script src="/js/jquery.placeholder.min.js" type="text/javascript"></script>
 <script src="/js/sendy.js" type="text/javascript"></script>
 
@@ -35,6 +35,11 @@
         } else {
             $('#viewport').attr('content', 'width=device-width, initial-scale=1.0, user-scalable=no');
         }
+
+        $('#mobile-menu-button').on('touchend', function() {
+            $('nav').slideToggle(300);
+            return false;
+        });
 	});
 </script>
 
@@ -45,19 +50,20 @@
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-22030678-4', 'libib.com');
+  ga('require', 'displayfeatures');
   ga('send', 'pageview');
 
 </script></head>
 
-<body>
-	
-<header>
+<body class="privacy-policy-body">
+	<header>
 	<div class="wrapper">
 		<h1 class="page_header"><a href="/">libib</a></h1>
-		<nav>
+		<a href="#" id="mobile-menu-button" class="mobile">Menu</a>
+		<nav class="hide-mobile">
 			<ul>
 				<li><a href="/about">about</a></li>
-				<li><a href="/register">register</a></li>
+				<li><a href="https://www.libib.com/register">register</a></li>
 				<li><a href="/contact">contact</a></li>
 				<li><a href="/login">login</a></li>
 			</ul>
@@ -65,7 +71,6 @@
 		</nav>
 	</div>
 </header>
-
 	<article>
 		<div class="wrapper">
 		<div class="left_container">
@@ -151,7 +156,7 @@
 	
 	<footer>
 	<div class="wrapper">
-		Don't have a libib account? <a href="/register">Sign up today.</a>
+		Don't have a libib account? <a href="/register">It's FREE! Sign up today.</a>
 	</div>
 </footer>
 	
