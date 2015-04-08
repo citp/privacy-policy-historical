@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the blablacar.co.uk privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223012352id_/http%3A//www.blablacar.com/blog/privacy-and-data-protection-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blablacar.co.uk privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408051642id_/http%3A//www.blablacar.co.uk/blog/privacy-and-data-protection-policy) for the most accurate reproduction.*
 
-# Privacy and Data Protection Policy | BlaBlaCar.com
+# Privacy and Data Protection Policy | BlaBlaCar.co.uk
 
-##  1\. General
+## 1\. General
 
-1.1 Comuto SA (“we” or “us”) take the privacy of your information very seriously. Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via the [www.blablacar.com](http://www.blablacar.com/) website and other associated partner websites, microsites and sub-sites (the “Site”).
+1.1 Comuto SA (“we” or “us”) take the privacy of your information very seriously. Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via the [www.blablacar.com](https://www.blablacar.com/) website and other associated partner websites, microsites and sub-sites (the “Site”).
 
 1.2 By using this Site or any services we offer, you are consenting to the collection, use, and disclosure of that information about you in accordance with, and are agreeing to be bound by, this Privacy Policy.
 
-1.3 [Comuto SA is registered under the Data Protection Act 1998 (the “Act”). The Act sets out a number of important principles that organisations must apply when processing personal data. For more information see <http://www.ico.gov.uk/>.]
+1.3 [Comuto SA is registered under the Data Protection Act 1998 (the “Act”). The Act sets out a number of important principles that organisations must apply when processing personal data. For more information see [//ico.org.uk/](https://ico.org.uk/).]
 
-##  2\. Ways that we collect information
+## 2\. Ways that we collect information
 
 2.1 We may collect and process the following personal information or data (information that can be uniquely identified with you) about you:
 
@@ -40,7 +40,7 @@
 
 2.5 We use your IP address to diagnose problems with our server, report aggregate information, and determine the fastest route for your computer to use in connecting to our site, and to administer and improve the site.
 
-##  3\. Use
+## 3\. Use
 
 3.1 We may use this information to:
 
@@ -60,7 +60,7 @@
 
 3.2 We will not resell your information to any third party nor use it for any third party marketing.
 
-##  4\. Sharing your information
+## 4\. Sharing your information
 
 4.1 If we charge you any fees or collect any money from you in relation to any services on the Site, including any sponsorship money, credit or debit card payments will be collected by our payment processor. 
 
@@ -82,7 +82,7 @@
 
 4.4 Other than as set out above, we shall not disclose any of your personal information unless you give us permission to do so.
 
-##  5\. Cookies
+## 5\. Cookies
 
 5.1 A cookie is a piece of data stored locally on your computer and contains information about your activities on the Internet. The information in a cookie does not contain any personally identifiable information you submit to our site.
 
@@ -94,7 +94,7 @@
 
 5.5 If you choose not to accept the cookies, this will not affect your access to the majority of information available on the Site. However, you will not be able to make full use of our online services.
 
-##  6\. Access to and correction of personal information
+## 6\. Access to and correction of personal information
 
 6.1 We will take all reasonable steps in accordance with our legal obligations to update or correct personally identifiable information in our possession that you submit via this Site.
 
@@ -104,7 +104,7 @@
 
 6.4 Where you use passwords, usernames, or other special access features on this site, you also have a responsibility to take reasonable steps to safeguard them.
 
-##  7\. Other websites
+## 7\. Other websites
 
 7.1 This Site contains links and references to other websites. Please be aware that this Privacy Policy does not apply to those websites.
 
@@ -112,7 +112,7 @@
 
 7.3 In addition, if you came to this Site via a third party site, we cannot be responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.
 
-##  8\. Transferring your information outside of Europe
+## 8\. Transferring your information outside of Europe
 
 8.1 As part of the services offered to you through the Site, the information you provide to us may be transferred to, and stored at, countries outside of the European Union (“EU”). By way of example, this may happen if any of our servers are from time to time located in a country outside of the EU or one of our service providers is located in a country outside of the EU. We may also share information with other equivalent national bodies, which may be located in countries worldwide. These countries may not have similar data protection laws to the UK. If we transfer your information outside of the EU in this way, we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this privacy policy.
 
@@ -120,11 +120,11 @@
 
 8.3 By submitting your personal information to us you agree to the transfer, storing or processing of your information outside the EU in the manner described above.
 
-##  9\. Notification of changes to our Privacy Policy
+## 9\. Notification of changes to our Privacy Policy
 
 We will post details of any changes to our Privacy Policy on the Site to help ensure you are always aware of the information we collect, how we use it, and in what circumstances, if any, we share it with other parties.
 
-##  10\. Contact us
+## 10\. Contact us
 
 If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by way of our contact page.  
  
