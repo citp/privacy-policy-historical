@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the yakimaherald.com privacy policy that was archived on 2014-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141104203309id_/http%3A//www.yakimaherald.com/support/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yakimaherald.com privacy policy that was archived on 2015-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408234005id_/http%3A//www.yakimaherald.com/support/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch rgba cssanimations csstransforms csstransforms3d csstransitions localstorage inlinesvg" lang="en" style=""><!--<![endif]--><!-- fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/headfiles/head.csp --><head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <title>Yakima Herald Republic | PrivacyPolicy</title>
 
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1.0,user-scalable=0">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,user-scalable=1">
 <meta name="twitterLsite" content="@yakima_herald">
 <meta name="msvalidate.01" content="7B476EA885D42FF20DBA853E65CD9A7C">
 
@@ -18,6 +18,7 @@
 <meta property="og:title" content="Yakima Herald Republic | PrivacyPolicy">
 <meta property="og:url" content="">
 <meta property="og:image" content="">
+<meta property="og:type" content="article">
 
 <!-- CSS -->
 <link rel="stylesheet" href="/csp/mediapool/sites/YakimaHeraldRepublic/assets/css/style.css?v=20130408001">
@@ -26,6 +27,7 @@
 
 <!-- JS -->
 <script type="text/javascript" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=011806213790989368500:c0geh8ldcog"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/csp/mediapool/sites/YakimaHeraldRepublic/assets/js/libs/modernizr.js"></script>
+
 
 <script>
   var _gaq = _gaq || [];
@@ -54,9 +56,6 @@
       w.attachEvent("onload", gs);
   })(window);
 	
-	  
-	var OAS_PAGENAME = "www.yakimaherald.com/support/privacypolicy/index";
-	var OAS_positions = ['Top', 'Position1', 'Middle', 'Middle1', 'Right', 'Bottom', 'Frame1', 'Frame2', 'x05', 'x06'];
 	
 	</script>
 	
@@ -82,6 +81,8 @@ googletag.defineSlot('/81279359/www.yakimaherald.com/Support/PrivacyPolicy/index
 googletag.defineSlot('/81279359/www.yakimaherald.com/Support/PrivacyPolicy/index', [[300, 100]], 'tile').addService(googletag.pubads()).setTargeting("pos", ["tile"]);
 googletag.defineSlot('/81279359/www.yakimaherald.com/Support/PrivacyPolicy/index', [[246, 90]], 'bottom-tile').addService(googletag.pubads()).setTargeting("pos", ["bottom-tile"]);
 googletag.defineSlot('/81279359/www.yakimaherald.com/Support/PrivacyPolicy/index', [[1, 1]], 'wallpaper').addService(googletag.pubads()).setTargeting("pos", ["wallpaper"]);
+googletag.defineSlot('/81279359/www.yakimaherald.com/Support/PrivacyPolicy/index', [[300, 250]], 'promo').addService(googletag.pubads()).setTargeting("pos", ["promo"]);
+googletag.defineSlot('/81279359/www.yakimaherald.com/Support/PrivacyPolicy/index', [[1000, 300]], 'expanding-billboard').addService(googletag.pubads()).setTargeting("pos", ["expanding-billboard"]);
 googletag.defineOutOfPageSlot('/81279359/www.yakimaherald.com/Support/PrivacyPolicy/index', 'note').addService(googletag.pubads()).setTargeting("pos", ["note"]);
 googletag.pubads().enableSyncRendering();
 googletag.pubads().enableSingleRequest();
@@ -91,191 +92,53 @@ googletag.enableServices();
 	<!-- Google DFP Ad Code END -->
 	
 	
-
-
- <script src="/csp/mediapool/sites/YakimaHeraldRepublic/assets/js/yhrmjx.js"></script><script language="JavaScript1.1" src="https://web.archive.org/web/20140929231025/http://oascentral.yakimaherald.com/RealMedia/ads/adstream_mjx.ads/www.yakimaherald.com/support/privacypolicy/index/1063870329@Top,Position1,Middle,Middle1,Right,Bottom,Frame1,Frame2,x05,x06?"></script>
-
+<!--<script src="#(gPublication.getPublicationPath())#/assets/js/yhrmjx.js"></script>--->
 
 
 
-<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/headfiles/head.csp, e:.000547 -->
+
+
+
+
+<script src="http://www.yakimaherald.com/csp/mediapool/sites/YakimaHeraldRepublic/assets/js/libs/jquery/jquery.js"></script>
+
+<script src="http://special.yakimaherald.com/apps/services/v1/widget/standings.js" type="text/javascript"></script>
+	
+	
+<script>
+  $(document).ready(function(){
+    if($(".local-videos").outerWidth() < 620){
+      $(".local-videos .photo-video").after('<div class="tout-sdk tout-right-rail-embed" data-tout-feed-uid="72ccee"></div>');
+    } else {
+      $(".local-videos .photo-video").after('<div class="tout-sdk tout-below-article" data-tout-feed-uid="72ccee"></div>');
+    }
+  });
+</script>
+
+<script>
+  window.TOUT = {
+    propertyUid: "eee12f",
+    topArticleLoaded: function(attrs){
+      if(attrs.matchExists){
+        $(function() {
+            // remove the top article photo
+            $(".full-story .img.module").hide();
+        });
+      }
+    }
+  };
+</script>
+<script src="http://platform.tout.com/sdk.js" async=""></script>
+<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/headfiles/head.csp, e:.000576 -->
 
 	<title>PrivacyPolicy</title>
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main.min" src="/csp/mediapool/sites/YakimaHeraldRepublic/assets/js/main.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20130208174206/http://fby.s3.amazonaws.com/fby.js?100" src="//web.archive.org/web/20130208174206/http://fby.s3.amazonaws.com/fby.js?100"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20130208174206/http://connect.facebook.net/en_US/all.js" src="//web.archive.org/web/20130208174206/http://connect.facebook.net/en_US/all.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="slider" src="/csp/mediapool/sites/YakimaHeraldRepublic/assets/js/libs/jquery/plugins/reSlider.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="scrollbar" src="/csp/mediapool/sites/YakimaHeraldRepublic/assets/js/libs/jquery/plugins/tinyscroll.js"></script><style type="text/css">html{_background:url(https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/foo) fixed;}.fby-on select {visibility:hidden!important;}.fby-on .fby-hide-iframe {visibility:hidden!important;}.fby-hide-embed embed {visibility:hidden!important;}.fby-hide-object object {visibility:hidden!important;}#feedbackify *:before{content:none!important;}#feedbackify *:after{content:none!important;}#feedbackify ,#feedbackify div,#feedbackify span,#feedbackify textarea,#feedbackify input,#feedbackify table,#feedbackify tbody,#feedbackify tr,#feedbackify td,#feedbackify img,#feedbackify p,#feedbackify a{border:0!important;outline:none!important;width:auto;height:auto;text-align:left!important;text-indent:0!important;float:none!important;padding:0!important;margin:0!important;font:12px arial,helvetica,sans-serif!important;overflow:visible!important;color:#000!important;line-height:1.2!important;background:0 none!important;position:static!important;vertical-align:baseline!important;}#feedbackify table{border-collapse:collapse!important;border-spacing:0!important;max-width:inherit!important;}#feedbackify {z-index:2147483646!important;position:absolute!important;top:0;left:0;}#feedbackify .fby-screen{position:fixed!important;top:0;left:0;width:0;height:100%;_position:absolute!important;_top:expression(eval(document.body.scrollTop||document.documentElement.scrollTop))!important;_left:expression(eval(document.body.scrollLeft||document.documentElement.scrollLeft))!important;_width:0!important;_height:expression(document.documentElement.clientHeight||document.body.clientHeight+"px")!important;}#feedbackify .fby-mask{display:none!important;position:fixed!important;top:0;left:0;width:100%;height:100%;background-color:#000!important;opacity:0.2;filter:alpha(opacity=20);_position:absolute!important;_width:expression(document.documentElement.clientWidth||document.body.clientWidth+"px")!important;_height:expression(this.parentNode.style.height)!important;}#feedbackify .fby-show{display:block!important;visibility:visible!important;}#feedbackify .fby-hide{display:none!important;visibility:hidden!important;}</style><style type="text/css">#feedbackify .fby-tab{position:fixed!important;width:36px;height:100px;overflow:hidden!important;_position:absolute!important;}#feedbackify .fby-tab a{display:block!important;position:absolute!important;width:36px;height:100px;background-color:#000000!important;cursor:pointer!important;background:url(https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/tab.png)!important;_background:none!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/tab.png)!important;}#feedbackify .fby-tab-l{top:50%;left:0;margin-top:-50px!important;_top:expression((parseInt(this.parentNode.style.height)-this.clientHeight)/2+"px")!important;_margin-top:0!important;}#feedbackify .fby-tab-l a{margin-left:-5px!important;}#feedbackify .fby-tab-l a:hover{margin-left:-2px!important;}#feedbackify .fby-tab-r{top:50%;right:0px!important;margin-top:-50px!important;_top:expression((parseInt(this.parentNode.style.height)-this.clientHeight)/2+"px")!important;_left:expression((document.documentElement.clientWidth||document.body.clientWidth)-this.clientWidth+"px")!important;_margin-top:0!important;}#feedbackify .fby-tab-r a{margin-left:5px!important;}#feedbackify .fby-tab-r a:hover{margin-left:2px!important;}#feedbackify .fby-tab-t{top:0;margin-top:0px!important;}#feedbackify .fby-tab-b{top:auto;bottom:0!important;_top:expression(parseInt(this.parentNode.style.height)-this.clientHeight+"px")!important;}</style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}
-.fb_invisible{display:none}
-.fb_reset{background:none;border-spacing:0;border:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}
-.fb_link img{border:none}
-.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}
-.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}
-.fb_dialog_content{background:#fff;color:#333}
-.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yA/x/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/y6/x/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px;top:8px\9;right:7px\9}
-.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}
-.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}
-.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yA/x/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/y6/x/s816eWC-2sl.gif)}
-.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yA/x/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/y6/x/s816eWC-2sl.gif)}
-.fb_dialog_loader{background-color:#f2f2f2;border:1px solid #606060;font-size:24px;padding:20px}
-.fb_dialog_top_left,
-.fb_dialog_top_right,
-.fb_dialog_bottom_left,
-.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}
-/* @noflip */
-.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yR/x/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}
-/* @noflip */
-.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yR/x/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}
-/* @noflip */
-.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yR/x/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}
-/* @noflip */
-.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yR/x/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}
-.fb_dialog_vert_left,
-.fb_dialog_vert_right,
-.fb_dialog_horiz_top,
-.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}
-.fb_dialog_vert_left,
-.fb_dialog_vert_right{width:10px;height:100%}
-.fb_dialog_vert_left{margin-left:-10px}
-.fb_dialog_vert_right{right:0;margin-right:-10px}
-.fb_dialog_horiz_top,
-.fb_dialog_horiz_bottom{width:100%;height:10px}
-.fb_dialog_horiz_top{margin-top:-10px}
-.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}
-.fb_dialog_iframe{line-height:0}
-.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3b5998;color:#fff;font-size:14px;font-weight:bold;margin:0}
-.fb_dialog_content .dialog_title > span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yD/x/Cou7n-nqK52.gif)
-no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}
-body.fb_hidden{-webkit-transform:none;height:100%;margin:0;left:-10000px;overflow:visible;position:absolute;top:-10000px;width:100%
-}
-.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yc/x/3rhSv5V8j3o.gif)
-white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}
-.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}
-#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}
-#fb-root #fb_dialog_ipad_overlay.hidden{display:none}
-.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}
-.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0 0, 0 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}
-.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%
-}
-.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px
-}
-.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px
-}
-.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0 0, 0 100%, from(#4966A6),
-color-stop(0.5, #355492), to(#2A4887));border:1px solid #29447e;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset,
-rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}
-.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}
-.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}
-.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yJ/x/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}
-.fb_dialog_content .dialog_footer{background:#f2f2f2;border:1px solid #555;border-top-color:#ccc;height:40px}
-#fb_dialog_loader_close{float:left}
-.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}
-.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
-.fb_iframe_widget{position:relative;display:-moz-inline-block;display:inline-block}
-.fb_iframe_widget iframe{position:absolute}
-.fb_iframe_widget_lift{z-index:1}
-.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify;vertical-align:text-bottom}
-.fb_hide_iframes iframe{position:relative;left:-10000px}
-.fb_iframe_widget_loader{position:relative;display:inline-block}
-.fb_iframe_widget_fluid{display:inline}
-.fb_iframe_widget_fluid span{width:100%}
-.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}
-.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yJ/x/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
-.fb_button_simple,
-.fb_button_simple_rtl{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yH/x/eIpbnVKI9lR.png);background-repeat:no-repeat;cursor:pointer;outline:none;text-decoration:none}
-.fb_button_simple_rtl{background-position:right 0}
-.fb_button_simple .fb_button_text{margin:0 0 0 20px;padding-bottom:1px}
-.fb_button_simple_rtl .fb_button_text{margin:0 10px 0 0}
-a.fb_button_simple:hover .fb_button_text,
-a.fb_button_simple_rtl:hover .fb_button_text,
-.fb_button_simple:hover .fb_button_text,
-.fb_button_simple_rtl:hover .fb_button_text{text-decoration:underline}
-.fb_button,
-.fb_button_rtl{background:#29447e url(http://static.ak.fbcdn.net/rsrc.php/v2/yl/x/FGFbc80dUKj.png);background-repeat:no-repeat;cursor:pointer;display:inline-block;padding:0 0 0 1px;text-decoration:none;outline:none}
-.fb_button .fb_button_text,
-.fb_button_rtl .fb_button_text{background:#5f78ab url(http://static.ak.fbcdn.net/rsrc.php/v2/yl/x/FGFbc80dUKj.png);border-top:solid 1px #879ac0;border-bottom:solid 1px #1a356e;color:#fff;display:block;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-weight:bold;padding:2px 6px 3px 6px;margin:1px 1px 0 21px;text-shadow:none}
-a.fb_button,
-a.fb_button_rtl,
-.fb_button,
-.fb_button_rtl{text-decoration:none}
-a.fb_button:active .fb_button_text,
-a.fb_button_rtl:active .fb_button_text,
-.fb_button:active .fb_button_text,
-.fb_button_rtl:active .fb_button_text{border-bottom:solid 1px #29447e;border-top:solid 1px #45619d;background:#4f6aa3;text-shadow:none}
-.fb_button_xlarge,
-.fb_button_xlarge_rtl{background-position:left -60px;font-size:24px;line-height:30px}
-.fb_button_xlarge .fb_button_text{padding:3px 8px 3px 12px;margin-left:38px}
-a.fb_button_xlarge:active{background-position:left -99px}
-.fb_button_xlarge_rtl{background-position:right -268px}
-.fb_button_xlarge_rtl .fb_button_text{padding:3px 8px 3px 12px;margin-right:39px}
-a.fb_button_xlarge_rtl:active{background-position:right -307px}
-.fb_button_large,
-.fb_button_large_rtl{background-position:left -138px;font-size:13px;line-height:16px}
-.fb_button_large .fb_button_text{margin-left:24px;padding:2px 6px 4px 6px}
-a.fb_button_large:active{background-position:left -163px}
-.fb_button_large_rtl{background-position:right -346px}
-.fb_button_large_rtl .fb_button_text{margin-right:25px}
-a.fb_button_large_rtl:active{background-position:right -371px}
-.fb_button_medium,
-.fb_button_medium_rtl{background-position:left -188px;font-size:11px;line-height:14px}
-a.fb_button_medium:active{background-position:left -210px}
-.fb_button_medium_rtl{background-position:right -396px}
-.fb_button_text_rtl,
-.fb_button_medium_rtl .fb_button_text{padding:2px 6px 3px 6px;margin-right:22px}
-a.fb_button_medium_rtl:active{background-position:right -418px}
-.fb_button_small,
-.fb_button_small_rtl{background-position:left -232px;font-size:10px;line-height:10px}
-.fb_button_small .fb_button_text{padding:2px 6px 3px;margin-left:17px}
-a.fb_button_small:active,
-.fb_button_small:active{background-position:left -250px}
-.fb_button_small_rtl{background-position:right -440px}
-.fb_button_small_rtl .fb_button_text{padding:2px 6px;margin-right:18px}
-a.fb_button_small_rtl:active{background-position:right -458px}
-.fb_share_count_wrapper{position:relative;float:left}
-.fb_share_count{background:#b0b9ec none repeat scroll 0 0;color:#333;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;text-align:center}
-.fb_share_count_inner{background:#e8ebf2;display:block}
-.fb_share_count_right{margin-left:-1px;display:inline-block}
-.fb_share_count_right .fb_share_count_inner{border-top:solid 1px #e8ebf2;border-bottom:solid 1px #b0b9ec;margin:1px 1px 0 1px;font-size:10px;line-height:10px;padding:2px 6px 3px;font-weight:bold}
-.fb_share_count_top{display:block;letter-spacing:-1px;line-height:34px;margin-bottom:7px;font-size:22px;border:solid 1px #b0b9ec}
-.fb_share_count_nub_top{border:none;display:block;position:absolute;left:7px;top:35px;margin:0;padding:0;width:6px;height:7px;background-repeat:no-repeat;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yP/x/bSOHtKbCGYI.png)}
-.fb_share_count_nub_right{border:none;display:inline-block;padding:0;width:5px;height:10px;background-repeat:no-repeat;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/x/i_oIVTKMYsL.png);vertical-align:top;background-position:right 5px;z-index:10;left:2px;margin:0 2px 0 0;position:relative}
-.fb_share_no_count{display:none}
-.fb_share_size_Small .fb_share_count_right .fb_share_count_inner{font-size:10px}
-.fb_share_size_Medium .fb_share_count_right .fb_share_count_inner{font-size:11px;padding:2px 6px 3px;letter-spacing:-1px;line-height:14px}
-.fb_share_size_Large .fb_share_count_right .fb_share_count_inner{font-size:13px;line-height:16px;padding:2px 6px 4px;font-weight:normal;letter-spacing:-1px}
-.fb_share_count_hidden .fb_share_count_nub_top,
-.fb_share_count_hidden .fb_share_count_top,
-.fb_share_count_hidden .fb_share_count_nub_right,
-.fb_share_count_hidden .fb_share_count_right{visibility:hidden}
-.fb_connect_bar_container div,
-.fb_connect_bar_container span,
-.fb_connect_bar_container a,
-.fb_connect_bar_container img,
-.fb_connect_bar_container strong{background:none;border-spacing:0;border:0;direction:ltr;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal;vertical-align:baseline}
-.fb_connect_bar_container{position:fixed;left:0 !important;right:0 !important;height:42px !important;padding:0 25px !important;margin:0 !important;vertical-align:middle !important;border-bottom:1px solid #333 !important;background:#3b5998 !important;z-index:99999999 !important;overflow:hidden !important}
-.fb_connect_bar_container_ie6{position:absolute;top:expression(document.compatMode=="CSS1Compat"? document.documentElement.scrollTop+"px":body.scrollTop+"px")}
-.fb_connect_bar{position:relative;margin:auto;height:100%;width:100%;padding:6px 0 0 0 !important;background:none;color:#fff !important;font-family:"lucida grande", tahoma, verdana, arial, sans-serif !important;font-size:13px !important;font-style:normal !important;font-variant:normal !important;font-weight:normal !important;letter-spacing:normal !important;line-height:1 !important;text-decoration:none !important;text-indent:0 !important;text-shadow:none !important;text-transform:none !important;white-space:normal !important;word-spacing:normal !important}
-.fb_connect_bar a:hover{color:#fff}
-.fb_connect_bar .fb_profile img{height:30px;width:30px;vertical-align:middle;margin:0 6px 5px 0}
-.fb_connect_bar div a,
-.fb_connect_bar span,
-.fb_connect_bar span a{color:#bac6da;font-size:11px;text-decoration:none}
-.fb_connect_bar .fb_buttons{float:right;margin-top:7px}
-.fb_edge_widget_with_comment{position:relative;*z-index:1000}
-.fb_edge_widget_with_comment span.fb_edge_comment_widget{position:absolute}
-.fb_edge_widget_with_comment span.fb_send_button_form_widget{z-index:1}
-.fb_edge_widget_with_comment span.fb_send_button_form_widget .FB_Loader{left:0;top:1px;margin-top:6px;margin-left:0;background-position:50% 50%;background-color:#fff;height:150px;width:394px;border:1px #666 solid;border-bottom:2px solid #283e6c;z-index:1}
-.fb_edge_widget_with_comment span.fb_send_button_form_widget.dark .FB_Loader{background-color:#000;border-bottom:2px solid #ccc}
-.fb_edge_widget_with_comment span.fb_send_button_form_widget.siderender
-.FB_Loader{margin-top:0}
-.fbpluginrecommendationsbarleft,
-.fbpluginrecommendationsbarright{position:fixed !important;bottom:0;z-index:999}
-/* @noflip */
-.fbpluginrecommendationsbarleft{left:10px}
-/* @noflip */
-.fbpluginrecommendationsbarright{right:10px}</style><style type="text/css">#feedbackify #fby-form{width:618px;position:absolute!important;}#feedbackify .fby-d-main{width:600px;height:50px;vertical-align:top!important;background-color:#FFFFFF!important;position:relative!important;}#feedbackify .fby-d{background:url(https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_sprite.png)!important;_background:none!important;}#feedbackify .fby-d-h{height:9px;background:url(https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_sprite_h.png)!important;_background:none!important;}#feedbackify .fby-d-h2{height:9px;background-color:#FFFFFF!important;}#feedbackify .fby-d-tl{background-position:-18px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_tl.png)!important;}#feedbackify .fby-d-t{_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_t.png,sizingMethod=scale)!important;}#feedbackify .fby-d-tr{background-position:-36px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_tr.png)!important;}#feedbackify .fby-d-l{_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_l.png,sizingMethod=scale)!important;}#feedbackify .fby-d-r{background-position:-9px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_r.png,sizingMethod=scale)!important;}#feedbackify .fby-d-bl{background-position:-54px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_bl.png)!important;}#feedbackify .fby-d-br{background-position:-72px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_br.png)!important;}#feedbackify .fby-d-b{background-position:0px -9px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_b.png,sizingMethod=scale)!important;}#feedbackify .fby-d-load{position:relative!important;}#feedbackify .fby-d-load img{position:absolute!important;left:8px;}#feedbackify .fby-d-load div{position:absolute!important;padding:4px 18px!important;font-size:16px!important;font-weight:bold!important;color:#333!important;}</style></head>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main.min" src="/csp/mediapool/sites/YakimaHeraldRepublic/assets/js/main.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//web.archive.org/web/20130208174206/http://fby.s3.amazonaws.com/fby.js?100" src="//web.archive.org/web/20130208174206/http://fby.s3.amazonaws.com/fby.js?100"></script><style type="text/css">html{_background:url(https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/foo) fixed;}.fby-on select {visibility:hidden!important;}.fby-on .fby-hide-iframe {visibility:hidden!important;}.fby-hide-embed embed {visibility:hidden!important;}.fby-hide-object object {visibility:hidden!important;}#feedbackify *:before{content:none!important;}#feedbackify *:after{content:none!important;}#feedbackify ,#feedbackify div,#feedbackify span,#feedbackify textarea,#feedbackify input,#feedbackify table,#feedbackify tbody,#feedbackify tr,#feedbackify td,#feedbackify img,#feedbackify p,#feedbackify a{border:0!important;outline:none!important;width:auto;height:auto;text-align:left!important;text-indent:0!important;float:none!important;padding:0!important;margin:0!important;font:12px arial,helvetica,sans-serif!important;overflow:visible!important;color:#000!important;line-height:1.2!important;background:0 none!important;position:static!important;vertical-align:baseline!important;}#feedbackify table{border-collapse:collapse!important;border-spacing:0!important;max-width:inherit!important;}#feedbackify {z-index:2147483646!important;position:absolute!important;top:0;left:0;}#feedbackify .fby-screen{position:fixed!important;top:0;left:0;width:0;height:100%;_position:absolute!important;_top:expression(eval(document.body.scrollTop||document.documentElement.scrollTop))!important;_left:expression(eval(document.body.scrollLeft||document.documentElement.scrollLeft))!important;_width:0!important;_height:expression(document.documentElement.clientHeight||document.body.clientHeight+"px")!important;}#feedbackify .fby-mask{display:none!important;position:fixed!important;top:0;left:0;width:100%;height:100%;background-color:#000!important;opacity:0.2;filter:alpha(opacity=20);_position:absolute!important;_width:expression(document.documentElement.clientWidth||document.body.clientWidth+"px")!important;_height:expression(this.parentNode.style.height)!important;}#feedbackify .fby-show{display:block!important;visibility:visible!important;}#feedbackify .fby-hide{display:none!important;visibility:hidden!important;}</style><style type="text/css">#feedbackify .fby-tab{position:fixed!important;width:36px;height:100px;overflow:hidden!important;_position:absolute!important;}#feedbackify .fby-tab a{display:block!important;position:absolute!important;width:36px;height:100px;background-color:#000000!important;cursor:pointer!important;background:url(https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/tab.png)!important;_background:none!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/tab.png)!important;}#feedbackify .fby-tab-l{top:50%;left:0;margin-top:-50px!important;_top:expression((parseInt(this.parentNode.style.height)-this.clientHeight)/2+"px")!important;_margin-top:0!important;}#feedbackify .fby-tab-l a{margin-left:-5px!important;}#feedbackify .fby-tab-l a:hover{margin-left:-2px!important;}#feedbackify .fby-tab-r{top:50%;right:0px!important;margin-top:-50px!important;_top:expression((parseInt(this.parentNode.style.height)-this.clientHeight)/2+"px")!important;_left:expression((document.documentElement.clientWidth||document.body.clientWidth)-this.clientWidth+"px")!important;_margin-top:0!important;}#feedbackify .fby-tab-r a{margin-left:5px!important;}#feedbackify .fby-tab-r a:hover{margin-left:2px!important;}#feedbackify .fby-tab-t{top:0;margin-top:0px!important;}#feedbackify .fby-tab-b{top:auto;bottom:0!important;_top:expression(parseInt(this.parentNode.style.height)-this.clientHeight+"px")!important;}</style><style type="text/css">#feedbackify #fby-form{width:618px;position:absolute!important;}#feedbackify .fby-d-main{width:600px;height:50px;vertical-align:top!important;background-color:#FFFFFF!important;position:relative!important;}#feedbackify .fby-d{background:url(https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_sprite.png)!important;_background:none!important;}#feedbackify .fby-d-h{height:9px;background:url(https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_sprite_h.png)!important;_background:none!important;}#feedbackify .fby-d-h2{height:9px;background-color:#FFFFFF!important;}#feedbackify .fby-d-tl{background-position:-18px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_tl.png)!important;}#feedbackify .fby-d-t{_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_t.png,sizingMethod=scale)!important;}#feedbackify .fby-d-tr{background-position:-36px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_tr.png)!important;}#feedbackify .fby-d-l{_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_l.png,sizingMethod=scale)!important;}#feedbackify .fby-d-r{background-position:-9px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_r.png,sizingMethod=scale)!important;}#feedbackify .fby-d-bl{background-position:-54px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_bl.png)!important;}#feedbackify .fby-d-br{background-position:-72px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_br.png)!important;}#feedbackify .fby-d-b{background-position:0px -9px!important;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://web.archive.org/web/20130208184253/http://fby-img.s3.amazonaws.com/dialog/dlg_shad_b.png,sizingMethod=scale)!important;}#feedbackify .fby-d-load{position:relative!important;}#feedbackify .fby-d-load img{position:absolute!important;left:8px;}#feedbackify .fby-d-load div{position:absolute!important;padding:4px 18px!important;font-size:16px!important;font-weight:bold!important;color:#333!important;}</style></head>
 <!-- section template -->
 
 <body class="type-home">
 	
 <!-- fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/siteHeader.csp -->
-<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f284a1957e3573" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.facebook.com/dialog/oauth?client_id=143125485767389&amp;response_type=token%2Csigned_request%2Ccode&amp;display=none&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D18%23cb%3Df3180b27ef058ac%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ffa9ab8535aeb24%26domain%3Dweb.archive.org%26relation%3Dparent&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=18#channel=fa9ab8535aeb24&amp;origin=https%3A%2F%2Fweb.archive.org&amp;channel_path=%2Fweb%2F20141104203309id_%2Fhttp%3A%2F%2Fwww.yakimaherald.com%2Fsupport%2Fprivacypolicy%2F%3Ffb_xd_fragment%23xd_sig%3Dff8ef712ba3c64%26" style="border: none;"></iframe></div></div></div>
+<div id="fb-root"></div>
 
 
 <!-- Google Search Script -->
@@ -294,9 +157,21 @@ a.fb_button_small_rtl:active{background-position:right -458px}
 
 
 <div class="ad-sticky-note">
-<div data-adname="x03" data-adname-complete="true"><script src="https://web.archive.org/web/20130208174206/http://oascentral.yakimaherald.com/RealMedia/ads/adstream_jx.ads/www.yakimaherald.com/support/privacypolicy/index/11582526971718@Top,Position1,Position3,Position4,Middle,Middle1,Middle2,Middle3,Right,Bottom,Frame1,Frame2,x01,x02,x03,x04,x05,x06!x03" async=""></script></div>
+<script type="text/javascript">
+googletag.display('wallpaper');
+</script>
+<script type="text/javascript">
+googletag.display('note');
+</script>
+<script type="text/javascript">
+googletag.display('promo');
+</script>
+
 </div>
 <header>
+
+<meta http-equiv="refresh" content="900">
+
 
 	<section class="top-bar">
 	
@@ -306,7 +181,7 @@ a.fb_button_small_rtl:active{background-position:right -458px}
 			
 				<div class="welcome">
 					
-					<p>Hello, it's 12:32PM November 4, 2014</p>
+					<p>Hello, it's 04:38PM April 8, 2015</p>
 					
 				
 				<!-- Google Search Form -->
@@ -331,7 +206,7 @@ a.fb_button_small_rtl:active{background-position:right -458px}
 					
 						<li><a href="http://special.yakimaherald.com/submit/" class="btn blue small">Submit your Content</a></li>
 					
-					<li><a href="http://special.yakimaherald.com/circulation/subscriptions/renew.html"><i class="icon-ok"> </i>Subscribe</a></li>
+					<li><a href="http://special.yakimaherald.com/circ_form.html"><i class="icon-ok"> </i>Subscribe</a></li>
 					<li><a href="http://www.yakimaherald.com/support/contact/"><i class="icon-envelope"> </i>Contact</a></li>
 				  </ul>
 				  <ul>
@@ -354,23 +229,23 @@ a.fb_button_small_rtl:active{background-position:right -458px}
 
 	<div class="weather" style="background: url(/csp/mediapool/sites/YakimaHeraldRepublic/assets/img/weather/7.png) center right no-repeat">
 		<div class="ad-120x60">
-			<div data-adname="Position1" data-adname-complete="true">
+			<div data-adname="Position1">
 <script type="text/javascript">
 googletag.display('weather-tile');
 </script>			
-			<script src="https://web.archive.org/web/20130208174206/http://oascentral.yakimaherald.com/RealMedia/ads/adstream_jx.ads/www.yakimaherald.com/support/privacypolicy/index/11582526971718@Top,Position1,Position3,Position4,Middle,Middle1,Middle2,Middle3,Right,Bottom,Frame1,Frame2,x01,x02,x03,x04,x05,x06!Position1" async=""></script></div>
+			</div>
 			</div>
 			<div class="weather-text">
 				<a href="http://www.yakimaherald.com/news/weather/" title="Weather">
 					<span class="weather-text-title">Cloudy</span>
-					<span class="weather-text-temp">66°</span>
-					<span class="weather-text-hi-low">High 65 | Low 38</span>
+					<span class="weather-text-temp">63°</span>
+					<span class="weather-text-hi-low">High 66 | Low 35</span>
 				</a>
 			</div>
 		</div>
 	</div>
 
-<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/siteHeaderWeather.csp, e:.001459 -->
+<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/siteHeaderWeather.csp, e:.001409 -->
 
 			
 			</div>
@@ -392,8 +267,12 @@ googletag.display('weather-tile');
               <div class="ad-728x90  hidden-phone">
 				
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/includes/adTop.csp -->
-<div data-adname="Top"></div>
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/adTop.csp, e:.00011 -->
+<div data-adname="Top">
+		<script type="text/javascript">
+googletag.display('top');
+</script>
+</div>
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/adTop.csp, e:.00013 -->
 
               </div>
             </div>
@@ -422,7 +301,7 @@ googletag.display('weather-tile');
               <li><a href="http://www.yakimaherald.com/home/" class="fly" title="Home" rel="home">Home</a></li>
               <li><a href="http://www.yakimaherald.com/news/" class="fly" title="News" rel="news">News</a></li>
 			  <li><a href="http://www.yakimaherald.com/photosandvideos/" class="fly" title="Photos" rel="photos">Photos</a></li>
-			                <li><a href="http://www.yakimaherald.com/photosandvideos/videos/" title="Videos" class="fly" rel="">Videos</a></li>
+			  <li><a href="http://player.tout.com/yakimaherald" title="Videos" class="fly" rel="">Videos</a></li>
               <li><a href="http://www.yakimaherald.com/sports/" class="fly" title="Sports" rel="sports">Sports</a></li>
               <li><a href="http://www.yakimaherald.com/entertainment/" class="fly" title="Entertainment" rel="entertainment">Entertainment</a></li>
               <li><a href="http://www.yakimaherald.com/valleylife/" class="fly" title="Valley Life" rel="valleylife">Valley Life</a></li>
@@ -442,8 +321,7 @@ googletag.display('weather-tile');
 <!-- fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/dataMobileMenuItems.csp -->
 <!-- Home Menu -->
           <option value="/Home/">Home</option>
-          <option value="http://special.yakimaherald.com/circulation/subscriptions/order">&nbsp;&nbsp;Order a Subscription</option>
-          <option value="http://special.yakimaherald.com/circulation/subscriptions/renew">&nbsp;&nbsp;Pay Your Bill</option>
+          <option value="http://special.yakimaherald.com/circ_form.html">&nbsp;&nbsp;Order a Subscription</option>
           <option value="http://special.yakimaherald.com/circulation/subscriptions/delivery_issue">&nbsp;&nbsp;Delivery Issues</option>
           <option value="http://special.yakimaherald.com/submit" class="red">&nbsp;&nbsp;Send Us Feedback</option>
           <option value="http://special.yakimaherald.com/circulation/subscriptions/temporary_stop">&nbsp;&nbsp;Vacation Start/Stop</option>
@@ -564,12 +442,11 @@ googletag.display('weather-tile');
           <option value="https://adservices.yakimaherald.com/webadsdotnet/login.aspx">&nbsp;&nbsp;Sell your Home</option>
           <option value="http://www.yakhomes.com/">&nbsp;&nbsp;Mortgage Calculator</option>
 <!-- Autos Menu -->
-          <option value="http://wheels.yakimaherald.com/">Search Local Cars</option>
-          <option value="http://yakima.motors.adicio.com/motors/research">&nbsp;&nbsp;Research Cars</option>
+          <option value="http://www.509autos.com/">Search Local Cars</option>
           <option value="https://adservices.yakimaherald.com/webadsdotnet/login.aspx">&nbsp;&nbsp;Sell Your Car</option>
           <option value="http://www.kbb.com/car-values/">&nbsp;&nbsp;Find Your Car Value</option>
 
-<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/dataMobileMenuItems.csp, e:.00029 -->
+<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/dataMobileMenuItems.csp, e:.000247 -->
 
 			</select>
 
@@ -582,11 +459,11 @@ googletag.display('weather-tile');
    </div>
 
 </section><!-- / -->
-<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/siteNav.csp, e:.01069 -->
+<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/siteNav.csp, e:.011487 -->
 
 
 	</header>
-<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/siteHeader.csp, e:.01582 -->
+<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/siteHeader.csp, e:.016478 -->
 
 	
 	<div class="row">
@@ -704,9 +581,7 @@ googletag.display('weather-tile');
               <ul>
                 <li><a href="http://www.yakimaherald.com/support/contact/"><i class="icon-envelope"> </i>Contact</a></li>
                 <li class="hidden-phone">|</li>
-                <li><a href="http://special.yakimaherald.com/circulation/subscriptions/renew.html" title="Subscribe">Subscribe</a></li>
-                <li class="hidden-phone">|</li>
-                <li><a href="http://special.yakimaherald.com/circulation/subscriptions/renew.html" title="Pay Your Bill">Pay Your Bill</a></li>
+                <li><a href="http://special.yakimaherald.com/circ_form.html" title="Subscribe">Subscribe</a></li>
                 <li class="hidden-phone">|</li>
                 <li><a href="http://special.yakimaherald.com/submit/circ-stop.html" title="Vaction Start/Stop">Vacation Start/Stop</a></li>
                 <li class="hidden-phone">|</li>
@@ -762,11 +637,9 @@ googletag.display('weather-tile');
     </div><!-- /.row -->
 
   </footer>
- <!-- Site JS --> 
-<script src="/csp/mediapool/sites/YakimaHeraldRepublic/assets/js/libs/jquery/jquery.js"></script>
+
 <script data-main="/csp/mediapool/sites/YakimaHeraldRepublic/assets/js/main.min" src="/csp/mediapool/sites/YakimaHeraldRepublic/assets/js/libs/require/require.js"></script>
-<script src="http://special.yakimaherald.com/apps/services/v1/widget/standings.js" type="text/javascript"></script>
-<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/siteFooter.csp, e:.012838 -->
+<!--/fi:/csp/mediapool/sites/YakimaHeraldRepublic/assets/csp/sectionfiles/siteFooter.csp, e:.012901 -->
 
 
 
