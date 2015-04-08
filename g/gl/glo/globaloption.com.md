@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaloption.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209203316id_/http%3A//www.globaloption.com/en/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaloption.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409015157id_/http%3A//www.globaloption.com/en/about-us/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | GlobalOption
 
