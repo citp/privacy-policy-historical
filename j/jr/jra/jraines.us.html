@@ -1,0 +1,355 @@
+<!--The following is the downloaded HTML source of the jraines.us privacy policy that was archived on 2015-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408070152id_/http%3A//jraines.us/%3Fs%3D/Company/privacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>J RAINES GROUP-Privacy Policy</title>
+    <link type="text/css" href="/Public/new/en/front/css/css.css" rel="stylesheet">
+    <script type="text/javascript" src="/Public/new/en/front/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="/Public/new/en/front/js/jquery.SuperSlide.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#Currency').hover(function () {
+                $(".sub-menu").css("display", "block");
+            }, function () {
+                $(".sub-menu").css("display", "none");
+            });
+
+        })
+    </script>
+    <script type="text/javascript" src="/Public/new/en/front/js/index.js"></script>
+    <script language="javascript">
+    function settime()
+    {
+        var myyear,mymonth,myweek,myday,mytime,mymin,myhour,mysec;
+        function initArray(){
+            this.length=initArray.arguments.length;
+            for(var i=0;i<this.length;i++){
+                this[i+1]=initArray.arguments[i];
+            }
+        }
+        var d=new initArray(" Sunday"," Monday"," Tuesday"," Wednesday"," Thursday"," Friday"," Saturday");
+        var mydate=new Date();
+        myyear=mydate.getFullYear();
+        mymonth=mydate.getMonth()+1;
+        myday=mydate.getDate();
+        myhour=checkTime(Math.abs(mydate.getHours()-13)); //美国时间
+        mymin=checkTime(mydate.getMinutes());
+        mysec=checkTime(mydate.getSeconds());
+        //mytime =   myyear+"年"+mymonth+"月"+myday+"日" + " " + d[mydate.getDay()+1] + " "+myhour+":"+mymin+":"+mysec;
+        mytime =  myhour+":"+mymin+":"+mysec;
+        
+        //document.getElementById("nihao").innerHTML =  "&nbsp;" + "&nbsp;" + "" + mytime;
+        document.getElementById("nihao").innerHTML =  mytime;
+        setTimeout('settime()',1000);
+    }
+    function checkTime(i)
+    {
+        if (i<10) {i="0" + i}
+        return i
+    }
+
+    function calltel2(){
+        var tel=document.getElementById('tel');
+        tel.innerHTML='<img src="/Public/new/en/front/images/index_05.jpg" width="14" height="13" /><img src="/Public/new/cn/front/images/hk.jpg" width="15" height="15" /><span>HongKong</span><p>00852-35951179</p>';
+        setTimeout('calltel()',5000);
+    }
+
+    function calltel(){
+        var tel=document.getElementById('tel');
+        tel.innerHTML='<img src="/Public/new/en/front/images/index_05.jpg" width="14" height="13" /><img src="/Public/new/en/front/images/index_07.jpg" width="18" height="12" /><span>ENGLISH</span><p>0044-207-3997708</p>';
+        setTimeout('calltel2()',5000)
+    }
+
+    window.onload=function(){
+        settime();
+        calltel();
+    }
+</script>
+</head>
+<body>
+    <!---- top ---->
+    <div class="top">
+        <div class="gongyong" style="position: relative; z-index: 1;">
+            <div class="time" id="nihao">08:22:41</div>
+            <div class="topright">
+                <div class="yuyan" id="box">
+                    <a href="javascript:void()" onmouseover="mopen('m1')" onmouseout="mclosetime()">
+                        <img src="/Public/new/en/front/images/index_07.jpg" width="18" height="12">English</a>
+                    <div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+						<a href="#../cn_index.php"><img src="/Public/new/en/front/images/gq1.jpg" width="18" height="12">Deutsch</a>
+						<a href="#../cn_index.php"><img src="/Public/new/en/front/images/gq2.jpg">France</a>
+						<a href="#../cn_index.php"><img src="/Public/new/en/front/images/gq3.jpg" width="18" height="12">República</a>
+						<a href="#../cn_index.php"><img src="/Public/new/en/front/images/gq4.jpg" width="18" height="12">العربية</a>
+                        <!--<a href="#../cn_index.php"><img src="/Public/new/en/front/images/cn_img.png" width="18" height="12" />Chinese</a>-->
+                    </div>
+                </div>
+                <div class="tel">
+                    <div id="tel"><img src="/Public/new/en/front/images/index_05.jpg" width="14" height="13"><img src="/Public/new/en/front/images/index_07.jpg" width="18" height="12"><span>ENGLISH</span><p>0044-207-3997708</p></div>
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!--- top end ---->
+    <div class="logo">
+        <div class="gongyong">
+            <a href="index.php">
+                <img src="/Public/new/en/front/images/logo_03.png" width="443" height="73"></a>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!--- logo end ---->
+    <div class="menu">
+        <div class="gongyong">
+            <ul>
+				<li><a href="?s=/Index">Home</a></li>
+                <li><a href="?s=/Company/index">Company</a></li>
+                <li><a href="?s=/Company/sof">SOF</a></li>
+                <!--<li><a href="?s=/Company/team">Our team</a></li>-->
+                <!--<li><a href="?s=/Company/news">News</a></li>-->
+                <li id="Currency"><a href="?s=/Company/banking">Banking</a>
+                <!--
+                    <ul class="sub-menu">
+                        <li><a href="?s=/Company/bank" style="width: 75.5%;">future of banking</a></li>
+                    </ul>
+                -->
+                </li>
+                <li><a href="?s=/Company/service">Service Term</a></li>
+                <li><a href="?s=/Company/contact">Contact US</a></li>
+                <li><a href="?s=/Company/privacyPolicy">Privacy Policy</a></li>
+				<li><a href="?s=/Company/download">Download</a></li>
+                <li><a href="?s=/Company/faq">FAQ</a></li>
+            </ul>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!--- menu end ---->
+    <div class="gongyong">
+        <div class="gundong">
+            <div class="gundongleft">
+                REUTERS</div>
+            <div class="gundongright">
+                <div class="gundongright1">
+                    <div class="tempWrap" style="overflow:hidden; position:relative; width:930px"><div class="gundongright2" style="width: 2790px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -941px;"><p style="float: left; width: 930px;">
+                            <img src="/Public/new/en/front/images/indexbg_08.jpg" width="5" height="7"> The J Raines headquarters issued a notice that, in view of the strengthened regulations of the People’s Bank of China on virtual currencies and control over the bank payment and receipt business at the end of the year and traditional Chinese New Year would cause inconvenience to a third party’s payment and receipt, in order not to affect the market development, the business division hereby makes the following adjustments:
+1. Raines China will shuts down China UnionPay payment and receipt business temporarily and use free dealer trading, i.e., to open EP trades. The business division will reopen policy in the right environment according to the changes of the central bank policy.
+2. Dealers can also choose Perfect Money trading. Given that Perfect Money belong to foreign countries, in order to allow dealers to withdraw cash safely in time, PM withdrawal per deal should not exceed $800. The same Perfect Money account and IP should not be submitted repeatedly. The withdrawal cycle is 7 to 15 days. 
+3. As to the entrusting problem of Lei Gold Coins suggested by dealers, the Chinese business division will adjust accordingly! In order to make the market sustain for a long term, the business division will perfect and adjust the problem according to the market changes in a timely manner, to ensure J Raines undertakings develop stably and sustainably.
+4. Conference that directors should open incentive accounts, the business division will implement this incentive within 2 working days. 
+5. After reopening top-up and withdrawal business, in order to strengthen the supervision of market, the company will close direct top-up of dealers and top-up orders should be reported by regional directors. 
+6. After the Lantern Festival, mainland directors will set up a director committee. The business division will fund and establish a committee office.
+7. The first batch of the Second-generation Wormhole Yuan is expected to market in the best season in Chinese mainland— spring and realize docking with the Second-generation Lei Gold Coin mall.
+All regional directors and deals are supposed to cooperate with the business division and copy the above notice terms carefully! Please accept our apology if there is any inconvenience!
+                        </p>
+                        <p style="float: left; width: 930px;">
+                            <img src="/Public/new/en/front/images/indexbg_08.jpg" width="5" height="7"> The J Raines headquarters issued a notice that, in view of the strengthened regulations of the People’s Bank of China on virtual currencies and control over the bank payment and receipt business at the end of the year and traditional Chinese New Year would cause inconvenience to a third party’s payment and receipt, in order not to affect the market development, the business division hereby makes the following adjustments:
+1. Raines China will shuts down China UnionPay payment and receipt business temporarily and use free dealer trading, i.e., to open EP trades. The business division will reopen policy in the right environment according to the changes of the central bank policy.
+2. Dealers can also choose Perfect Money trading. Given that Perfect Money belong to foreign countries, in order to allow dealers to withdraw cash safely in time, PM withdrawal per deal should not exceed $800. The same Perfect Money account and IP should not be submitted repeatedly. The withdrawal cycle is 7 to 15 days. 
+3. As to the entrusting problem of Lei Gold Coins suggested by dealers, the Chinese business division will adjust accordingly! In order to make the market sustain for a long term, the business division will perfect and adjust the problem according to the market changes in a timely manner, to ensure J Raines undertakings develop stably and sustainably.
+4. Conference that directors should open incentive accounts, the business division will implement this incentive within 2 working days. 
+5. After reopening top-up and withdrawal business, in order to strengthen the supervision of market, the company will close direct top-up of dealers and top-up orders should be reported by regional directors. 
+6. After the Lantern Festival, mainland directors will set up a director committee. The business division will fund and establish a committee office.
+7. The first batch of the Second-generation Wormhole Yuan is expected to market in the best season in Chinese mainland— spring and realize docking with the Second-generation Lei Gold Coin mall.
+All regional directors and deals are supposed to cooperate with the business division and copy the above notice terms carefully! Please accept our apology if there is any inconvenience!
+                        </p>
+                    <p style="float: left; width: 930px;">
+                            <img src="/Public/new/en/front/images/indexbg_08.jpg" width="5" height="7"> The J Raines headquarters issued a notice that, in view of the strengthened regulations of the People’s Bank of China on virtual currencies and control over the bank payment and receipt business at the end of the year and traditional Chinese New Year would cause inconvenience to a third party’s payment and receipt, in order not to affect the market development, the business division hereby makes the following adjustments:
+1. Raines China will shuts down China UnionPay payment and receipt business temporarily and use free dealer trading, i.e., to open EP trades. The business division will reopen policy in the right environment according to the changes of the central bank policy.
+2. Dealers can also choose Perfect Money trading. Given that Perfect Money belong to foreign countries, in order to allow dealers to withdraw cash safely in time, PM withdrawal per deal should not exceed $800. The same Perfect Money account and IP should not be submitted repeatedly. The withdrawal cycle is 7 to 15 days. 
+3. As to the entrusting problem of Lei Gold Coins suggested by dealers, the Chinese business division will adjust accordingly! In order to make the market sustain for a long term, the business division will perfect and adjust the problem according to the market changes in a timely manner, to ensure J Raines undertakings develop stably and sustainably.
+4. Conference that directors should open incentive accounts, the business division will implement this incentive within 2 working days. 
+5. After reopening top-up and withdrawal business, in order to strengthen the supervision of market, the company will close direct top-up of dealers and top-up orders should be reported by regional directors. 
+6. After the Lantern Festival, mainland directors will set up a director committee. The business division will fund and establish a committee office.
+7. The first batch of the Second-generation Wormhole Yuan is expected to market in the best season in Chinese mainland— spring and realize docking with the Second-generation Lei Gold Coin mall.
+All regional directors and deals are supposed to cooperate with the business division and copy the above notice terms carefully! Please accept our apology if there is any inconvenience!
+                        </p></div></div>
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!--- gundong end ---->
+        
+    
+    <div class="gongyong">
+        <div class="icontent">
+            <div class="icontentleft" style="width:1030px;">
+<div class="title"><span>Privacy Policy</span></div>
+<div class="titlnr">
+<p>jraines.com (the “Service”), a service provided by J -RAINES (“the Company”, “we”), is an open platform for people to work both independently or collaboratively to create and share information, knowledge, or expertise for both the greater good and personal gain.</p><br>
+<p>Please take a moment to read this privacy policy, which discloses the privacy practices of the Service. Specifically, the policy outlines the types of information that may be gathered when you use the service, Enroll to use the Service, or are Logged-In using the service and the ways in which that information may be used.</p><br>
+<p>Please take a moment to read this privacy policy, which discloses the privacy practices of the Service. Specifically, the policy outlines the types of information that may be gathered when you use the service or Enroll to use the Service, and the ways in which that information may be used.</p><br>
+<p>Information We Collect From All Users</p>
+<p>information We Collect Using Technology</p>
+<p>Device Information. We may collect information about the browser, computer, phone or other device you use to access the Service to measure the effectiveness of those Service and to tailor the experience appropriately to your device.</p>
+<p>Cookies and Similar Technology. As further explained below, we may use cookies, pixel trackers, server logs, and other Internet technology for purposes such as measuring the effectiveness of the Service and any advertising campaigns, as well as to target meaningful content and ads. Sometimes, we may facilitate the use by third party platforms of these anonymous cookies, or similar technology, to help those third parties better target ads to you based on other websites you may have visited. To learn more about how third parties may collect and use information online, and how you can exercise opt-out choices regarding that information, see the below Section titled "Information Collected by Third-Parties and Your Ad Choices."</p>
+<p>IP Addresses. We log Internet Protocol (IP) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use this information in an aggregate fashion to track access to our Service, and may also use it to infer your location, as also discussed in the below section titled "Geolocation Data."</p><br>
+<p>Geolocation Data. For our mobile application, we may (or may enable a third party, including an advertiser to) request your geolocation information in order to provide you with ads, offers, search or other functionality. If you agree to such collection, we (or the third party) may maintain information regarding your precise geolocation including over time and may use it to help enable that functionality, or other functionality we describe to you in connection with the mobile application or website.</p><br>
+<p>In addition, we may (or may enable a third party, such as an advertiser to) capture geo-location information (such as based on IP address data) when you access our Service, and may use that geo-location information to targets ads or offers to you.</p>
+<p>Analytics. We may use third parties to provide us information, reports and analysis about the usage and browsing patterns of users of the Service. These reports contain aggregated or anonymous data only, and do not identify individual users to jraines.com .</p>
+<p>Log Files. We may also automatically log certain information about your use of the Service. This information includes a reading history of the pages you view and a record of the sites from which you clicked on a link to visit ours.</p>
+<p>Cookies, Web Beacons, and Similar Technologies</p><br>
+<p>Like many websites, and web and mobile services, we may use (or work with third party partners who use) a variety of technologies to learn more about how people interact with our Service. This section provides more information about some of those technologies and how they work.</p><br>
+<p>Cookies. Cookies are small files that websites and other online services use to store information about users on the users' own computers. Cookies can be used to store sign-in credentials so that you don't have to enter them each time you return to a website, or to store other information to make web viewing more customized or efficient upon future visits. Cookies also may store a unique identifier tied to your computer so that web services and advertising networks can recognize you across visits to different websites. You can configure your Internet browser to warn you each time a cookie is being sent or to refuse all or certain cookies completely. </p><br>
+<p>We (or our partners) may use or support cookies for purposes including the following:</p><br>
+<p>To collect information about your browsing activities in order to deliver customized or relevant services, advertising or content to you, when you browse our Website or other websites;</p><br>
+<p>To relate the information collected by cookies to information we obtain from you directly or from commercially available sources;</p>
+<p>To work with third parties that serve advertisements (through our Service or across the Internet) or provide other services to us, such as providing users the ability to comment on content, allowing users to share content, or tracking website usage statistics. We do not control these third party technologies and their use is governed by the privacy policies of the third parties using such technologies. For more information about third party ad networks and services that use these technologies, see www.aboutads.info, and to learn about or exercise your opt-out options, go to http://aboutads.info/choices. To learn more about how third parties may collect and use information online, and how you can exercise opt-out choices regarding that information, see the below Section titled "Information Collected by Third-Parties and Your Ad Choices."</p><br>
+<p>Other Local Storage. We (or our partners) may use other kinds of local storage, such as Local Shared Objects (also referred to as "Flash cookies") and HTML5 local storage, in connection with the Service. These technologies are similar to the cookies discussed above in that they are stored on your computer and can be used to store certain information about your activities and preferences. However, these objects are stored in different parts of your computer from ordinary browser cookies. Your browser may allow you to disable its HTML5 local storage or delete information contained in its HTML5 local storage. For information about deleting information contained in Local Shared Objects or adjusting related preferences, please click here.</p>
+<p>Web Beacons. We (or our partners) may use technologies called web beacons that communicate information from your Internet browser to a web server. Web beacons can be embedded in web pages, videos, or emails, and can allow a web server to read certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the web beacon, the IP address of your computer, and the URL of the web page from which the web beacon was viewed. These web beacons may be used for a variety of purposes, including to analyze the use of the Service and in conjunction with cookies to provide content and ads that are more relevant to you.</p><br>
+<p>Information You Provide During Enrollment</p>
+<p>To fully enable you to contribute to and enjoy the features of the Service, we collect certain types of information, including personally identifiable information, during various stages of Enrollment. The following information may be collected:</p><br>
+<p>Email Address. This is used as the id to log-in to your jraines.com account. We will use this Email address for general communicating with you as well as to verify account information, reset passwords, and other account administration.</p><br>
+<p>First Name, Last Name. We use this to identify who you are as a writer and contributor to other users reading your content. This will be displayed to other users.</p><br>
+<p>General Locality. The Service offers you opportunities to engage in public activities on that are purposely designed to be visible to other users and the public at large. When other users view your work on the Service they will be able to see the high level locality, or general locality, that you provide or that we estimate based on your IP address. That locality may consist of City, State, and Country but will not include your street address.</p>
+<p>Date-of-Birth. We ask for this during enrollment for two reasons. The first reason is for legal compliance. Secondly, under certain circumstances, we may use this information during account administration to further verify your identity.</p>
+<p>Profile Information: The Service provides you opportunities to have public profile pages. These pages may allow you to describe yourself, your experiences, and your credentials as well as provide links to any other of your profiles or sites on the web. You may even decide to provide information so that other users can contact you. All this information will be exposed to other users and may be crawled and indexed by others. Providing this information is voluntary and completely your choice.</p>
+<p>How We May Use and Share the Information We Collect</p>
+<p>Providing the Services You Request</p><br>
+<p>We use the information we gather about you to enable your use of the Service, fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in and renew paid services, polls, contests, and message boards. When you post or modify content on the Service, we may publicly identify you as being associated with such activity. We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. In addition, if you request that we send your information to a third party service, we may do so, and use of that information by the third party is subject to their privacy policy.</p><br>
+<p>Statistical Analysis</p>
+<p>We use the information, including analytics and statistical information, to analyze the use of the Service so that we may improve them. We also use this information to generally inform advertisers about the nature of our user base.</p><br>
+<p>Customizing Your Experience</p>
+<p>We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most pertinent. We may also use this information to customize certain features of the Service to provide you with an enhanced experience based on information such as the type of device you are using to access the Service, your activities on the Service, or your location or geo-location. We may also use this information to provide you with services you have requested.</p><br>
+<p>Service Providers</p>
+<p>We may contract with other companies that provide services to us, including credit-card and billing processors, survey administrators, technical or customer support, shipping, e-mail distribution, email service providers, data enhancement and information or analytics providers, list processing and promotions management. Sometimes, we may provide to these service providers aggregate or anonymized information about how users interact with our Service (or other information provided to us by users), which may help them enhance their own products, data or analytics.</p><br>
+<p>Information Collected by Third-Parties and Your Ad Choices</p>
+<p>Third parties may collect information about you through the Service, including through use of the technologies described above. We may not have access to, nor control over, these third parties' data collection practices and we do not assume any liability related to their collection or use. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Websites. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.</p><br>
+<p>For instance, in addition to our own systems, we may use DoubleClick, Google, Google AdMob, PubMatic, 24/7 Connect and other third-party Ad Servers, analytics platforms and data management platforms to serve and display Advertisements, or to collect information about you and your use of the Service for other analytics purposes. They may use cookies, pixel trackers, web beacons or other internet or mobile technology to collect non-personal and/or anonymous information about your use of the Service (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) and precise geolocation and user device identification (if you have provided your consent for such collection) during and about your visits to this Service and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. In certain cases, you have options and choices about the collection and use of information by third parties on our Service:</p><br>
+<p>For more information about these third-party Ad Networks and opting out of tracking, see: http://www.networkadvertising.org/managing/opt_out.asp.</p>
+<p>For more information about interest-based advertising and opting out, see: http://www.aboutads.info/choices/</p>
+<p>For more information about disabling and controlling third-party cookies in your browser, see: http://www.aboutcookies.org/Default.aspx?page=1</p>
+<p>For more information on nRelate and opting out of browser history tracking, see: http://nrelate.com/privacy-policy/</p>
+<p>In addition to the above, we have implemented on the Service certain "Google Analytics" features that support Display Advertising, including re-targeting. Users of the Service may opt out of Google Analytics, customize the Google Display Network ads by using the Google Ad Preferences Manager and learn more about how Google serves ads by viewing its Customer Ads Help Center. If you do not wish to participate in Google Analytics, you may also download the Google Analytics opt-out browser add-on.</p><br>
+<p>Do Not Track Browser Disclosure</p>
+<p>Do Not Track ("DNT") is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.</p><br>
+<p>We are committed to providing you with meaningful choices about the information collected on our Websites for third party purposes, and that is why we provide the NAI "Consumer Opt-out" link and the DAA opt-out link above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.</p><br>
+<p>Interacting with Other Users</p>
+<p>The jraines.com  service is designed to allow people to collaborate. As such during your interactions with other users when you are Logged-In may expose you to opportunities to exchange information that is both personally identifiable and possibly intended to initiate contact beyond the scope of the Service. You should use reasonable and prudent caution with what you disclose publicly and to individuals.</p><br>
+<p>First, you should be aware that any personally identifiable information you submit publicly might be read, collected, or used by other users of the service, and could be used to send you unsolicited messages, mine your data, communicate with or market to you in other ways. We are not responsible for personally identifiable information you choose to disclose publicly and the Company has no responsibility to publish, take down, remove or edit any of your activities or any of your submissions that are a result of your public activities. For more information, see the jraines.com  Service Agreement.</p><br>
+<p>Second, the Service features content provided by independent users that are not vetted by the Company nor are they employed by the Company. If you contact another user, or another user contacts you, directly or indirectly via explicit or inferred information exposed by your use of the Service or other services, then that communication is independent of the Service, and thus not subject to this Privacy Policy. The Company is not responsible for what users may say, or how they may use information provided to them.</p><br>
+<p>Other Privacy Considerations</p>
+<p>We may transfer your information to a third party if we or any of our affiliates are involved in a transfer or all or part of our business or assets (e.g., a sale, merger, dissolution, liquidation or reorganization) or are taking steps in anticipation of such a transaction (e.g., participating in due diligence).</p><br>
+<p>Information from Users Outside of the United States</p>
+<p>If you are visiting the Service from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using our Service, you consent to our collection and use of your data as described in this privacy policy, and acknowledge that data protection laws in the U.S. may be different or less restrictive than in some other countries.</p><br>
+<p>Your California Privacy Rights</p>
+<p>Under the California "Shine The Light" law, California residents may opt-out of the disclosure of personal information to third parties for direct marketing purposes (as those concepts are defined in that law). However, we do not currently engage in the type of sharing covered by that law.</p><br>
+<p>Compliance With Legal Process</p>
+<p>We may disclose personal information (1) if we believe such sharing is appropriate to comply with the law or with legal process; (2) to protect and defend our rights, services or property; (3) to protect against misuse or unauthorized use of the Service; or (4) to protect the safety or property of our users or any member of the public (among other things, this means that if we believe you have provided false information or attempted to pose as someone else, information about you may be disclosed as part of any investigation into your actions).</p><br>
+<p>Contact Information</p>
+<p>If you have any questions about this Privacy Policy or our privacy practices, please visit us at: </p>
+<p><a href="http://www.jraines.com">http://www.jraines.com</a></p>
+</div>
+</div>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <div class="foot">
+        <div class="gongyong">
+            <div class="ilie">
+                <div class="ilieleft">
+                    <ul>
+                        <li><a href="http://www.caterpillar.com/" target="_blank">Caterpillar</a></li>
+                        <li><a href="http://www.caterpillar.com/" target="_blank">OneChicago</a></li>
+                        <li><a href="http://www.nsx.com/" target="_blank">Nsx</a></li>
+                        <li><a href="http://www.nyse.com/" target="_blank">Nyse</a></li>
+                        <li><a href="http://www.heb.com/ ">H-E-B</a></li>
+                        <li><a href="http://www.vrtx.com/" target="_blank">Vertex Pharmaceutica</a></li>
+                        <li><a href="http://www.vrtx.com/" target="_blank">Verisk Analytics</a></li>
+                        <li><a href="http://www.symantec.com/ ">Symantec</a></li>
+                        <li><a href="http://www.ashford.com/" target="_blank">Ashford</a></li>
+                    </ul>
+                </div>
+                <div class="ilieleft">
+                    <ul>
+                        <li><a href="http://www.mylan.com/" target="_blank">Mylan</a></li>
+                        <li><a href="http://www.libertymedia.com/" target="_blank">Libertymedia</a></li>
+                        <li><a href=" http://www.expeditors.com/ ">Expeditors</a></li>
+                        <li><a href="http://www.citrix.com/" target="_blank">Citrix</a></li>
+                        <li><a href="http://www.21cf.com/" target="_blank">21cf</a></li>
+                        <li><a href="http://www.ashford.com/ ">Ashford</a></li>
+                        <li><a href="http://www.amway.com/ ">Amway</a></li>
+                        <li><a href="http://www.africa.com/" target="_blank">Africa</a></li>
+                        <li><a href="http://www.sproose.com/" target="_blank">Sproose</a></li>
+                    </ul>
+                </div>
+                <div class="ilieleft">
+                    <ul>
+                        <li><a href="http://www.yebol.com/" target="_blank">Yebol</a></li>
+                        <li><a href="http://www.realtor.org/" target="_blank">Realtor</a></li>
+                        <li><a href="http://www.mamma.com/" target="_blank">Mamma</a></li>
+                        <li><a href="http://www.google.com/" target="_blank">Google</a></li>
+                        <li><a href="http://www.firstrade.com/" target="_blank">Firstrade</a></li>
+                        <li><a href="http://www.dccomics.com/" target="_blank">Dccomics</a></li>
+                        <li><a href="http://www.maplecore.com/" target="_blank">Maplecore</a></li>
+                        <li><a href="http://www.neb.gc.ca/" target="_blank">Neb</a></li>
+                        <li><a href="http://www.banobras.gob.mx/" target="_blank">Banobras</a></li>
+                    </ul>
+                </div>
+                <div class="ilieleft">
+                    <ul>
+                        <li><a href="http://www.banregio.com/" target="_blank">Banregio</a></li>
+                        <li><a href="http://www.hsbc.com.mx/" target="_blank">Hsbc</a></li>
+                        <li><a href="http://www.pemex.com/" target="_blank">Pemex</a></li>
+                        <li><a href="http://www.ogilvy.com/" target="_blank">Ogilvy</a></li>
+                        <li><a href="http://www.modularcouncil.org/mc/" target="_blank">Modularcouncil</a></li>
+                        <li><a href="http://www.embassyrow.com/" target="_blank">Embassyrow</a></li>
+                        <li><a href="http://www.sonypicturesworldwideacquisitions.com/" target="_blank">Sonypicturesworldwideacquisitions</a></li>
+                        <li><a href="http://www.bnymellon.com/" target="_blank">Bnymellon</a></li>
+                        <li><a href="http://www.jpmorganchase.com/" target="_blank">Jpmorganchase</a></li>
+                    </ul>
+                </div>
+                <div class="ilieleft">
+                    <ul>
+                        <li><a href="?s=/Company/privacyPolicy">Privacy Policy</a></li>
+                        <li><a href="?s=/Company/baogao">Reporting Copyright Violations</a></li>
+                        <li><a href="?s=/Company/faq">FAQ</a></li>
+                        <li><a href="?s=/Company/service">Terms of Service</a></li>
+                    </ul>
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+           <div class="footimg">
+                <div class="footimgleft">
+                    <img src="/Public/new/cn/front/images/banking1.png" width="560" height="44">
+                    <img src="/Public/new/cn/front/images/banking2.png" width="546" height="42">
+                </div>
+                <div class="footimgleft1">
+                    <img src="/Public/new/cn/front/images/moneyback.png" width="58" height="78"><img src="/Public/new/cn/front/images/satisfaction.png" width="59" height="78"><img src="/Public/new/cn/front/images/trusted.png" width="82" height="78"><img src="/Public/new/cn/front/images/topbroker.png" width="58" height="78"><img src="/Public/new/cn/front/images/genuine.png" width="82" height="78">
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+            <div class="foot1">
+                <p>
+                    What is Lei Gold Coin? Lei Gold is the first set of virtual coins that Lei Family
+                    Group set for its “Global Eagle Plan.” Members can obtain it through subscription.
+                    In order to avoid the market panic caused by sudden rise and drop, the Group thus
+                    decided to adopt an operation model which keeps rising without dropping to stabilize
+                    members’ benefits. Besides, when the subscription amount reaches certain number,
+                    the second operation plan will be implemented. However, to enter the credit-based
+                    virtualized exchange through the members’ original issue stock calls for guaranteed
+                    expenditure. However, what the Group did in the previous stage can guarantee its
+                    credibility. There is no problem with the Group’s number of members, capital and
+                    strength. At the same time, the virtualization exchange is jointly established through
+                    the family business and other relevant departments, so members can remain assured
+                    to gain earnings.</p>
+                <div class="foot12">
+                    <p>
+                        Copyright 1997 - 2020 Raines. All Rights Reserved</p>
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <!--- foot end ---->
+
+</body></html>
