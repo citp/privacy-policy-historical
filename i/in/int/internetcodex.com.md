@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetcodex.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104054026id_/http%3A//internetcodex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetcodex.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409013511id_/http%3A//internetcodex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Internet Codex
 
@@ -81,10 +81,6 @@ This policy was last modified on October 9, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-**Codex Media Company**  
-333 Las Olas Way  
-Commercial Unit #4  
-Fort Lauderdale 33301  
-United States
+**Codex Media Company**
 
 legal@internetcodex.com
