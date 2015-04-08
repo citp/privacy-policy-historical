@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omax.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217111249id_/http%3A//www.omax.com/waterjets/omax-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omax.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408045314id_/http%3A//www.omax.com/waterjets/omax-privacy-policy) for the most accurate reproduction.*
 
 # OMAX Privacy Policy | OMAX
 
