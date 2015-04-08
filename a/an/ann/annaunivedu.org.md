@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the annaunivedu.org privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130002042id_/http%3A//www.annaunivedu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annaunivedu.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408082341id_/http%3A//www.annaunivedu.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Anna University Results 2014
+# Privacy Policy - Anna University Results 2015 - 8th, 2nd, 4th, 6th Sem May/June 2015 Result | Syallbus
 
 This Privacy Policy governs the manner in which Education Portal collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.annaunivedu.org](http://www.annaunivedu.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Education Portal.
 
