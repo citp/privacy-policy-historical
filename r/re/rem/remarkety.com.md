@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the remarkety.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921201252id_/http%3A//www.remarkety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remarkety.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408112527id_/http%3A//www.remarkety.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Remarkety
 
 ### Interamind Remarkety Privacy Policy
 
@@ -12,11 +12,11 @@ Interamind will have access to Identifying Information of your Customers, such a
 
 In addition, Interamind may gather information regarding the system and browsing activity of Merchants that access the Service, such as the operating system and browser of such users or how a user interacted with the Service.
 
-**How we Protect Information**
+**How We Protect Information**
 
 We follow generally accepted industry standards to protect the Identifying Information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Identifying Information, we cannot guarantee its absolute security.
 
-**How we Use Information**
+**How We Use Information**
 
 Except as expressly set forth herein, we will not share Identifying Information with third parties without the express permission of the individual identified in such information. We may use Identifying Information internally – for example, to help diagnose problems with our servers, to make Interamind more useful, to customize Interamind and personalize its content.
 
@@ -24,7 +24,7 @@ In addition, by analyzing all information we receive, including all information 
 
 **Cookies**
 
-A cookie is a small piece of text that is sent to a visitor's browser. The browser provides this piece of text to the device of the originating visitor when this visitor returns. Interamind uses cookies to help personalize your Interamind experience. A “persistent” cookie may be used to help save your settings and customizations across site visits. Also, if you log in to Interamind, such a cookie will be used to recognize you as a valid user so you will not need to log in each time you use Interamind. Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. Please note that some features of Interamind may not function properly when cookies are disabled or removed.
+A cookie is a small piece of text that is sent to a visitor’s browser. The browser provides this piece of text to the device of the originating visitor when this visitor returns. Interamind uses cookies to help personalize your Interamind experience. A “persistent” cookie may be used to help save your settings and customizations across site visits. Also, if you log in to Interamind, such a cookie will be used to recognize you as a valid user so you will not need to log in each time you use Interamind. Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. Please note that some features of Interamind may not function properly when cookies are disabled or removed.
 
 **Third Parties**
 
@@ -32,14 +32,14 @@ Please be aware that this Privacy Policy only describes the policies of Interami
 
 **Other Uses or Transfer of Your Information**
 
-We will fully cooperate with any law enforcement authorities, regulatory or government bodies, or court order requesting or directing us to disclose any information, including any names and IP addresses of Merchants or any Identifying Information of Customers. We may use subcontractors that are located in countries other than your own, and send them information we receive. For example, we may send your information to any countries outside the United States or the European Economic Area. All our subcontractors will be subject to non-disclosure and non-use obligations. Nevertheless, some countries may have levels of protection of personal and other information which are not as high as in your country of residence or business. We may transfer our databases containing your Identifying Information if we sell our business or part of it. 
+We will fully cooperate with any law enforcement authorities, regulatory or government bodies, or court order requesting or directing us to disclose any information, including any names and IP addresses of Merchants or any Identifying Information of Customers. We may use subcontractors that are located in countries other than your own, and send them information we receive. For example, we may send your information to any countries outside the United States or the European Economic Area. All our subcontractors will be subject to non-disclosure and non-use obligations. Nevertheless, some countries may have levels of protection of personal and other information which are not as high as in your country of residence or business. We may transfer our databases containing your Identifying Information if we sell our business or part of it.
 
 **Changes**
 
-Interamind may update this Privacy Policy from time to time - we encourage you to review it periodically.
+Interamind may update this Privacy Policy from time to time – we encourage you to review it periodically.
 
 **Comments and Questions**
 
-If you have any comments or questions about our privacy policy, please contact us at: [This email address is being protected from spambots. You need JavaScript enabled to view it..">[info@remarkety.com](mailto:info@remarkety.com).](mailto:%3Cspan%20id=)
+If you have any comments or questions about our privacy policy, please contact us at support@remarkety.com
 
-_Last updated: January 2013_
+_Last updated: March 2015_
