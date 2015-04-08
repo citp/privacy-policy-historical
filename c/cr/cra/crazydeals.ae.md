@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the crazydeals.ae privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220040918id_/http%3A//crazydeals.ae/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazydeals.ae privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409000644id_/http%3A//crazydeals.ae/privacy_policy) for the most accurate reproduction.*
 
-# Best shopping in Dubai, UAE, Online Electronics Store Crazydeals.ae
-
-Special Offers 
-
-### Find Us On Facebook
+# Best shopping in Dubai, UAE, Online Electronics Store Crazydeals.com
 
 ##  Privacy Policy
 
