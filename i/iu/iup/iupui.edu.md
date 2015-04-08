@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iupui.edu privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115005650id_/http%3A//www.iupui.edu/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iupui.edu privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409011925id_/http%3A//www.iupui.edu/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Notice: Indiana University-Purdue University Indianapolis
 
-Effective: 2014-08-01
+Effective: 2014-11-18
 
 ### Applicability
 
@@ -88,6 +88,10 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 Users can opt out of Google Analytics for Display Advertising and customize Google Display Network ads by using [Google Ads Settings](https://www.google.com/settings/ads).
 
 For more information, please visit [Google’s Privacy Policy](http://www.google.com/policies/privacy).
+
+##### Additional Information Related to the Use of Third Party Services
+
+This website utilizes advertising services provided by [Spongecell](http://www.spongecell.com/), an advertising technology company, contracted by Indiana University. For more information, please visit [Spongecell’s Privacy Policy](http://www.spongecell.com/privacy).
 
 ### Disclosure of Information
 
