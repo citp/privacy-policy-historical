@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decluttr.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222165742id_/http%3A//www.decluttr.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decluttr.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408030226id_/http%3A//www.decluttr.com/privacy.asp) for the most accurate reproduction.*
 
 # Selling your music CDs DVDs and games? Sell for cash the best prices paid
 
