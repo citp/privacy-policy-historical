@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the motilo.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714111744id_/http%3A//www.motilo.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motilo.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408020310id_/http%3A//www.motilo.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Motilo
-
-Last updated: 19-02-2014
+# Privacy Policy | Motilo
 
 Motilo Limited is committed to ensuring that your personal information is used properly and is kept securely. This Privacy and Cookies Policy explains how we will collect and use your personal information. When you submit personal information on the website you will see a 'Data Protection Notice' that will provide additional information about how your personal information will be used by Motilo Limited.
 
@@ -16,7 +14,7 @@ Motilo Limited is registered as a data controller with the Information Commissio
 
 Motilo Limited is a company registered in England and Wales with company number 06629594. Our registered office is at 7 Howick Place, London SW1P 1BB.
 
-If you have any queries about the information we hold about you, please contact our Data Protection Officer, Andre Paterlini Oliveira Vieira, [andre@motilo.com](mailto:andre@motilo.com), whom you may write to at the address above.
+If you have any queries about the information we hold about you, please contact our Data Protection Officer, Snjezana Maclean, [data@motilo.com](mailto:data@motilo.com), whom you may write to at the address above.
 
 ## Collection of your personal information
 
