@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travels.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121233942id_/http%3A//www.travels.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travels.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408023746id_/http%3A//www.travels.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Travels.com
 
