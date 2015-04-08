@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestoffersforu.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121022012id_/http%3A//www.bestoffersforu.com/policy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestoffersforu.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408073402id_/http%3A//www.bestoffersforu.com/policy%3Flocale%3Den) for the most accurate reproduction.*
 
 # Bestoffersforu.com - Find the best offers around on just about everything. From gadgets to clothes, from holidays to finance.
 
@@ -36,8 +36,8 @@ Your Consent
 
 By using our site, you consent to our Privacy Policy.
 
-Bestoffersforu.com  
-17 Marble Street  
-Manchester, M2 3AW  
-United Kingdom  
+Best Offers For U  
+Corporate Commons  
+6200 Stoneridge Mall Road  
+3rd Floor , Pleasanton  
 Email: offers@bestoffersforu.com
