@@ -1,2194 +1,503 @@
-<!--The following is the downloaded HTML source of the wheels.ca privacy policy that was archived on 2014-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141015220953id_/http%3A//www.thestar.com/privacy) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="js"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-    <script type="text/javascript" async="" src="//o2.eyereturn.com/?site=4166&amp;page=generic"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://my.thestar.com/assets/mystar.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="http://player.mediabong.net/se/26.js?url=http%3A%2F%2Fwww.thestar.com%2Fabout%2Fprivacy.html" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=ILWkRCxy"></script><script>var _sf_startpt = (new Date()).getTime();</script>
-
-    
-    <script>
-        function getCookie(cookiename) {
-          var cookiestring = RegExp('' + cookiename + '[^;]+').exec(document.cookie);
-          return unescape(!!cookiestring ? cookiestring.toString().replace(/^[^=]+/, '').replace('=', '') : '');
-        }
-    </script>
-    
-    <link href="http://plus.google.com/100439561628058502277/" rel="publisher">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    
-    <title>Privacy Code | Toronto Star</title>
-
-    <meta name="keywords" content="">
-    <meta name="news_keyword" content="">
-    <meta name="p:domain_verify" content="81d199f7387bc50974c9e161d71512bb">
-    <meta name="description" content="">
-    <meta name="baseDomain" content="http://www.thestar.com/">
-    <meta name="pagetype" content="article">
-    
-    <meta name="storyId" content="b882c71c-d9b9-4432-a216-36748b1cd534">
-
-
-    
-
-    <script type="text/javascript">document.liveUrl="http://www.thestar.com/about/privacy.html";</script>
-
-    
-    
-    <meta name="__sync_contentCategory" content="thestar">
-    <meta name="__star_contentCategory" content="article_Free">
-
-    
-    <script>
-        var currentState = "DISABLED";
-    </script>
-    
-
-    
-    <script>
-        document.domain = "thestar.com";
-    </script>
-    
-    
-    
-
-
-
-
-    
-    <script>
-    
-        var mystar_domain = 'http://my.thestar.com';
-        var mystar_secure_domain = 'https://my.thestar.com';
-        var mobile_domain = 'm.thestar.com';
-        var tablet_domain = 't.thestar.com';
-        
-            var localprefix = "";
-        
-    
-    </script>
-
-    
-    
-
-    
-
-    <script src="/etc/designs/thestar/mainlib/js/libs/redirection-mobile.js"></script>
-
-    <script type="text/javascript" src="//service.maxymiser.net/cdn/torontostar/js/mmcore.js"></script>  
-
-    <script>
-
-      function getURLParameter(name) {
-        return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null
-      }
-
-    
-    var queryString = window.location.search;
-    var stopMobileRedirect = false;
-
-    //if the cookie exists set too true
-    if (getCookie('deskTop')) {
-    	stopMobileRedirect = true
-    }
-
-     
-     
-        
-
-        //Do not redirect if we have the cookie to not redirect or if the query parameter was passed in
-        if (queryString.indexOf("app=noRedirect") == -1 && stopMobileRedirect == false) {
-
-        var urlhash = window.location.hash;                                                  // Store for multiple accesses
-        var redirect_url = mobile_domain;                                                    // Mobile url
-        var t_redirect_url = tablet_domain;                                                  // Tablet url
-        var queryParameter = "";
-        if (urlhash.lastIndexOf('?') > 0) {
-        	queryParameter = urlhash.substring(urlhash.lastIndexOf('?'));                    // Get first parameter after a hash
-        }
-        var currentPathName = window.location.pathname;                                      // Store for multiple accersses
-        var currentHref = window.location.href;                                              // Current url with parameters
-        var sponsoredStoryParam = "";
-        if (currentHref.indexOf('?') > 0) {
-        	sponsoredStoryParam = currentHref.substring(currentHref.lastIndexOf('?'));  // Store all url params
-        }
-
-        if (urlhash.indexOf("#mystars/") >= 0) {
-            if (urlhash.indexOf("password")>=0) {
-                hash_path = "password";
-            }
-            else if (urlhash.indexOf("confirm")>=0) {
-                hash_path = "confirm";
-            }
-            redirect_url = mobile_domain + '/#/' + hash_path + queryParameter;
-            t_redirect_url = tablet_domain + '/#/' + hash_path + queryParameter;
-        }
-        else if (getURLParameter('confirmation_token') || getURLParameter('reset_password_token')) {
-            redirect_url =  mobile_domain + "/#/settings";
-            t_redirect_url =  tablet_domain + "/#/settings";
-        }
-        else if (currentPathName === "/" || currentPathName === "/content/thestar" || currentPathName === "/index.html") {
-            redirect_url =  mobile_domain;
-            t_redirect_url =  tablet_domain;
-        }
-        //if on an authors page go here
-        else if (currentPathName.indexOf('authors.') !== -1 ) {
-
-             var newpath = '';
-             //remove content thestar if exists
-             newPath = currentPathName.replace( /content\/thestar/,'');
-             //change from /authors.cohn_martin_regg.html to http://mobile.smgdigitaldev.com/#/author/cohn_martin_regg.html
-             newPath = newPath.replace( /\/authors./,'#/author/');
-
-             redirect_url= mobile_domain + newPath + sponsoredStoryParam;
-             t_redirect_url= tablet_domain + newPath + sponsoredStoryParam ;
-        }
-        else  {
-            var path = window.location.pathname;
-             redirect_url= mobile_domain + '/#/article' + path + sponsoredStoryParam ;
-             t_redirect_url= tablet_domain + '/#/article' + path + sponsoredStoryParam ;
-        }
-        SA.redirection_mobile ({
-            mobile_url: redirect_url,
-            tablet_url: t_redirect_url
-        });
-         }
-        
-    
-    
-    </script>
-
-
-    
-    <script>
-        document.documentElement.className = (document.documentElement.className).replace('no-js', 'js');
-    </script>
-
-    
-    <!--[if lt IE 9]>
-    <script>
-        var e = ('abbr,article,aside,audio,canvas,datalist,details,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video').split(',');
-        for (var i = 0; i < e.length; i++) document.createElement(e[i]);
-    </script>
-    <![endif]-->
-
-    <link rel="canonical" href="http://www.thestar.com/about/privacy.html">
-    <meta name="viewport" content="width=1260">
-
-    
-
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="/etc/designs/thestar/images/apple-touch.png">
-
-    
-    
-        <link rel="alternate" type="application/rss+xml" title="TORONTO STAR | ABOUT | PRIVACY" href="http://www.thestar.com/feeds.articles.about.privacy.rss">
-    
-
-    <meta name="application-name" content="TheStar.com">
-    <meta name="msapplication-starturl" content="http://www.thestar.com/about/privacy.html">
-    <meta name="msapplication-navbutton-color" content="#0066a4">
-    <meta name="msapplication-window" content="width=1024;height=768">
-    <meta name="msapplication-tooltip" content="TheStar.com">
-    
-
-    <meta property="article:publisher" content="https://www.facebook.com/torontostar">
-    <meta property="og:title" content="Privacy Code | Toronto Star">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="http://www.thestar.com/about/privacy.html">
-    <meta property="og:site_name" content="thestar.com">
-    <meta property="og:description" content="">
-
-    
-    <meta property="og:image" content="http://www.thestar.com/etc/designs/thestar/images/apple-touch.png">
-
-    
-
-    <link rel="stylesheet" href="/etc/designs/thestar/mainlib.css?v=19">
-
-    <!--[if gte IE 9]>
-    <link rel="stylesheet" href="/etc/designs/thestar/mainlib/css/ie/pinable.css"/>
-    <![endif]-->
-
-    <!--[if IE 7]>
-    <link rel="stylesheet" href="/etc/designs/thestar/mainlib/css/ie/hacks-ie7.css"/>
-    <![endif]-->
-
-    <!--[if IE 8]>
-    <link rel="stylesheet" href="/etc/designs/thestar/mainlib/css/ie/hacks-ie8.css"/>
-    <![endif]-->
-
-    <!--[if IE 9]>
-    <link rel="stylesheet" href="/etc/designs/thestar/mainlib/css/ie/hacks-ie9.css"/>
-    <![endif]-->
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-
-    
-    
-    <script>
-        var kvaam = getCookie('aam_adt');
-        var kvuid = getCookie('aam_uuid');
-        var curDateTime = new Date();
-        var offset = -(curDateTime.getTimezoneOffset());
-        if (offset > 0)
-            offset = "+" + offset;
-        if (window.adgroupid == undefined)
-            window.adgroupid = Math.round(Math.random() * 1000);
-    </script>
-
-    
-    
-
-    
-    
-    <script class="kxct" data-id="ILWkRCxy" data-timing="async" data-version="1.9" type="text/javascript">
-        window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
-        (function(){
-            var k=document.createElement('script');k.type='text/javascript';k.async=true;
-            var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
-            k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" : (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=ILWkRCxy";
-            var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
-        }());
-    </script>
-
-    
-    <script src="//platform.linkedin.com/in.js"></script>
-
-    
-    <!-- TODO: additional header content go here -->
-
-</head>
-
-
-<body class="articlepage type-story level1-about">
-<!--
-Begin render at 2014/10/14 12:17:12  Server: publish6
--->
-
-<script>var paymeterEndpoint="https://www.syncaccess.net/po/tstar/api/svcs/meter/standard?format=json";</script>
-
-
-
-
-
-
-    <script>
-        document.cookie="s_tagEnv=; path=/";
-    </script>
-
-    <script src="/etc/designs/sitecatalyst/atm_code.js"></script><div id="mboxScriptContainer" style="display:none;visibility:hidden;"></div><style>.mboxDefault{visibility:hidden;}</style><script language="JavaScript" type="text/javascript" src="https://www.adobetag.com/d2/thestar/live/CQ5.js"></script>
-
-<!-- SiteCatalyst code version: H.20.3.
-Copyright 1997-2009 Omniture, Inc. More info available at
-http://www.omniture.com -->
-
-<script>
-if (typeof s=='object'){
-s.pageName = 'About|privacy';
-s.prop4 = '';
-s.prop7 = s.eVar7 = 'Story';
-s.prop8 = s.eVar8 = 'Privacy Code';
-s.prop9 = s.eVar9 = '|content|thestar|about|privacy';
-s.prop10 = '';
-s.prop11 = '';
-s.prop12 = 'Thursday March 27, 2014';
-s.prop14 = s.eVar14 = '';
-s.prop15 = '';
-s.prop17 = '';
-s.prop18 = '';
-s.prop33 = s.eVar33 = '';
-s.prop37 = s.eVar37 = '';
-s.prop50 = '';
-}
-
-var SiteCatalyst = {};
-s_account = SiteCatalyst.reportSuite = 'thestartsprod';
-
-SiteCatalyst.registerEvent = function(eventDetails){
-    //in case the s_code library was not included
-    if (typeof s_gi != 'function' || !s_account) return;
-    s=s_gi(s_account);
-    var linkTrackVars = [];
-    if (eventDetails.events !== undefined && eventDetails.events.length > 0)
-    {
-        s.linkTrackEvents = eventDetails.events;
-        s.events = eventDetails.events;
-        linkTrackVars.push("events");
-    }
-    if (eventDetails.eVariables !== undefined && eventDetails.eVariables.length > 0)
-    {
-        var evars = eventDetails.eVariables.split(",");
-    	for (var count = 0; count < evars.length; count++) {
-        	linkTrackVars.push(evars[count]);
-        	// if eVal is defined use it to populate the properties to be sent along with the custom link
-        	if (eventDetails.eValues !== undefined && eventDetails.eValues.length > 0) {
-        		s[evars[count]] = eventDetails.eValues[count];
-        	}
-        	else {
-        		s[evars[count]] = eventDetails.title;
-        	}			
-    	}
-    }
-    s.linkTrackVars = linkTrackVars.join();
-    s.tl(this,'o',eventDetails.title);
-	// clear variables to not have the event recorded again [along with l_e(xit)]
-	s.linkTrackVars="None";
-	s.linkTrackEvents="None";
-	s.events='';
-    return;
-};
-
-if (typeof s!='object' || !s.t) s={t:function(){return false;}};
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code = s.t();
-if (s_code) document.write(s_code);
-if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');
-</script>
-<noscript>
-    <a href="http://www.omniture.com" title="Web Analytics"><img src="http://n.thestar.com/b/ss/thestartsprod/1/H.20.3--NS/0" height="1" width="1" alt="Web Analytics Image"/></a>
-</noscript>
-
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.20.3. -->
-
-<div class="header-ads float-clear">
-  <div class="leaderboard"><div class="parsys iparsys headerLargeAd"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys headerLargeAd"><div class="section"><div class="adtech">
-
-
-
-                <script>
-document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
-</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329611;aduho=0;rdclick="></script><noscript>
-<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;key=;width=728;height=90" alt=""></a>
-</noscript>
-
-	
-</div>
-</div></div>
-</div></div>
-</div>
-  <div class="superbutton"><div class="parsys headerSmallAd iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys headerSmallAd iparsys"><div class="section"><div class="adtech">
-
-
-
-                <script>
-document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
-</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329612;aduho=0;rdclick="></script><noscript>
-<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;key=;width=237;height=90" alt=""></a>
-</noscript>
-
-	
-</div>
-</div></div>
-</div></div>
-</div>
-</div>
-
-<div class="wrapper">
-
-  
-
-
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYDVVRXGwIDVFRWBAM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-
-
-
-
-
-
-
-
-
-
-
-
-<header id="global-header" class="float-clear" role="banner">
-
-  <div class="masthead float-clear">
-    <div class="date-time">
-      <p class="globalDate">Tuesday, October 14, 2014</p>
-      <p class="globalTime">12:17 PM EDT</p>
-      <ul class="social-links float-clear">
-
-        <li id="fb-top-wrap"><iframe id="fb-top-frame" data-omni-source="FBLikeButton" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ftorontostar&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" allowtransparency="true" frameborder="0" scrolling="no"></iframe><div class="mask"></div></li>
-      </ul>
-    </div>
-
-    <div class="logo homepage">
-
-      
-        <strong class="logo"><a href="http://www.thestar.com/">the star.com</a></strong>
-      
-
-      
-
-    </div>
-
-    <div class="mystar">
-
-      <form class="search float-clear" role="search" action="http://www.thestar.com/search.html">
-        <div class="float-clear">
-          <input class="search-input-text" name="q" type="text" placeholder="Search The Star" title="Search The Star">
-          <input class="search-input-submit" type="submit" title="this will open in a new window" value="submit search">
-        </div>
-        <div class="archives float-clear"><a href="http://pqasb.pqarchiver.com/thestar/search.html">Search the archives</a></div>
-      </form>
-
-      <div class="sign-in-link"></div>
-
-    </div>
-  </div>
-
-</header>
-
-
-
-<div class="parbase digitalaccessbanner">
-
-
-</div>
-
-
-
-
-  <div id="global-content" class="float-clear">
-    
-
-
-
-
-
-
-<div class="parsys iparsys pushdown"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys pushdown"></div>
-</div></div>
-
-<div class="parsys iparsys brandingimage"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys brandingimage"></div>
-</div></div>
-
-
-<div class="articleSlideShowServlet" data-path="/about/privacy/_jcr_content.ArticleSlideshowServlet.image"></div>
-
-<div class="article-body float-clear">
-
-  
-	<div class="left-nav">
-	  
-
-
-
-<nav id="main-nav" class="main-nav">
-	<ul>
-	<li class="list collapsed empty" data-omni-url="http://www.thestar.com/"><span><a href="http://www.thestar.com/">Home</a></span></li>
-	
-
-		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/news.html">
-			<span><a href="http://www.thestar.com/news.html">News</a></span>
-
-			
-				<ul>
-
-					
-						<li class="list " data-omni-url="http://www.thestar.com/news/gta.html"><a href="http://www.thestar.com/news/gta.html">GTA</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/news/queenspark.html"><a href="http://www.thestar.com/news/queenspark.html">Queen's Park</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/news/canada.html"><a href="http://www.thestar.com/news/canada.html">Canada</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/news/world.html"><a href="http://www.thestar.com/news/world.html">World</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/news/investigations.html"><a href="http://www.thestar.com/news/investigations.html">Investigations</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/news/crime.html"><a href="http://www.thestar.com/news/crime.html">Crime</a></li>
-					
-
-					
-
-				</ul>
-			
-
-		</li>
-
-	
-
-		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/yourtoronto.html">
-			<span><a href="http://www.thestar.com/yourtoronto.html">Your Toronto</a></span>
-
-			
-				<ul>
-
-					
-						<li class="list " data-omni-url="http://www.thestar.com/yourtoronto/citynights.html"><a href="http://www.thestar.com/yourtoronto/citynights.html">City Nights</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/yourtoronto/education.html"><a href="http://www.thestar.com/yourtoronto/education.html">Schools</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/yourtoronto/the_fixer.html"><a href="http://www.thestar.com/yourtoronto/the_fixer.html">The Fixer</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/yourtoronto/reviews.html"><a href="http://www.thestar.com/yourtoronto/reviews.html">Reviews</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/yourtoronto/traffic.html"><a href="http://www.thestar.com/yourtoronto/traffic.html">Traffic</a></li>
-					
-
-					
-
-				</ul>
-			
-
-		</li>
-
-	
-
-		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/opinion.html">
-			<span><a href="http://www.thestar.com/opinion.html">Opinion</a></span>
-
-			
-				<ul>
-
-					
-						<li class="list " data-omni-url="http://www.thestar.com/opinion/editorials.html"><a href="http://www.thestar.com/opinion/editorials.html">Editorials</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/opinion/commentary.html"><a href="http://www.thestar.com/opinion/commentary.html">Commentary</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/opinion/letters_to_the_editors.html"><a href="http://www.thestar.com/opinion/letters_to_the_editors.html">Readers' Letters</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/opinion/public_editor.html"><a href="http://www.thestar.com/opinion/public_editor.html">Public Editor</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/opinion/corrections.html"><a href="http://www.thestar.com/opinion/corrections.html">Corrections</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/opinion/editorial_cartoon.html"><a href="http://www.thestar.com/opinion/editorial_cartoon.html">Editorial Cartoon</a></li>
-					
-
-					
-
-				</ul>
-			
-
-		</li>
-
-	
-
-		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/sports.html">
-			<span><a href="http://www.thestar.com/sports.html">Sports</a></span>
-
-			
-				<ul>
-
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/hockey.html"><a href="http://www.thestar.com/sports/hockey.html">Hockey</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/baseball.html"><a href="http://www.thestar.com/sports/baseball.html">Baseball</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/basketball.html"><a href="http://www.thestar.com/sports/basketball.html">Basketball</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/football.html"><a href="http://www.thestar.com/sports/football.html">Football</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/soccer.html"><a href="http://www.thestar.com/sports/soccer.html">Soccer</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/amateur.html"><a href="http://www.thestar.com/sports/amateur.html">Amateur</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/tennis.html"><a href="http://www.thestar.com/sports/tennis.html">Tennis</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/golf.html"><a href="http://www.thestar.com/sports/golf.html">Golf</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/skating.html"><a href="http://www.thestar.com/sports/skating.html">Figure Skating</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/curling.html"><a href="http://www.thestar.com/sports/curling.html">Curling</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/sports/lacrosse.html"><a href="http://www.thestar.com/sports/lacrosse.html">Lacrosse</a></li>
-					
-
-					
-
-				</ul>
-			
-
-		</li>
-
-	
-
-		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/business.html">
-			<span><a href="http://www.thestar.com/business.html">Business</a></span>
-
-			
-				<ul>
-
-					
-						<li class="list " data-omni-url="http://www.thestar.com/business/economy.html"><a href="http://www.thestar.com/business/economy.html">Economy</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/business/personal_finance.html"><a href="http://www.thestar.com/business/personal_finance.html">Personal Finance</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/business/tech_news.html"><a href="http://www.thestar.com/business/tech_news.html">Tech News</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/business/real_estate.html"><a href="http://www.thestar.com/business/real_estate.html">Real Estate</a></li>
-					
-
-					
-
-				</ul>
-			
-
-		</li>
-
-	
-
-		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/entertainment.html">
-			<span><a href="http://www.thestar.com/entertainment.html">Entertainment</a></span>
-
-			
-				<ul>
-
-					
-						<li class="list " data-omni-url="http://www.thestar.com/entertainment/television.html"><a href="http://www.thestar.com/entertainment/television.html">Television</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/entertainment/movies.html"><a href="http://www.thestar.com/entertainment/movies.html">Movies</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/entertainment/stage.html"><a href="http://www.thestar.com/entertainment/stage.html">Stage</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/entertainment/music.html"><a href="http://www.thestar.com/entertainment/music.html">Music</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/entertainment/books.html"><a href="http://www.thestar.com/entertainment/books.html">Books</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/entertainment/visualarts.html"><a href="http://www.thestar.com/entertainment/visualarts.html">Visual Arts</a></li>
-					
-
-					
-
-				</ul>
-			
-
-		</li>
-
-	
-
-		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/life.html">
-			<span><a href="http://www.thestar.com/life.html">Life</a></span>
-
-			
-				<ul>
-
-					
-						<li class="list " data-omni-url="http://www.thestar.com/life/technology.html"><a href="http://www.thestar.com/life/technology.html">Technology</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/life/food_wine.html"><a href="http://www.thestar.com/life/food_wine.html">Food &amp; Wine</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/life/travel.html"><a href="http://www.thestar.com/life/travel.html">Travel</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/life/fashion_style.html"><a href="http://www.thestar.com/life/fashion_style.html">Fashion &amp; Style</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/life/homes.html"><a href="http://www.thestar.com/life/homes.html">Homes</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/life/health_wellness.html"><a href="http://www.thestar.com/life/health_wellness.html">Health &amp; Wellness</a></li>
-					
-						<li class="list " data-omni-url="http://www.thestar.com/life/parent.html"><a href="http://www.thestar.com/life/parent.html">Parent</a></li>
-					
-
-					
-
-				</ul>
-			
-
-		</li>
-
-	
-
-		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/autos.html">
-			<span><a href="http://www.thestar.com/autos.html">Autos</a></span>
-
-			
-
-		</li>
-
-	
-
-		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/photos.html">
-			<span><a href="http://www.thestar.com/photos.html">Photos</a></span>
-
-			
-
-		</li>
-
-	
-
-		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/diversions.html">
-			<span><a href="http://www.thestar.com/diversions.html">Diversions</a></span>
-
-			
-
-		</li>
-
-	
-
+<!--The following is the downloaded HTML source of the wheels.ca privacy policy that was archived on 2015-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408041831id_/http%3A//www.wheels.ca/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+			<title>Privacy Policy - WHEELS.ca</title>
 		
-		<li class="collapsed"><span><a href="http://www.thestar.com/classifieds" target="_blank">Classifieds</a></span></li>
-		<li class="collapsed"><span><a href="http://www.legacy.com/obituaries/thestar/" target="_blank">Obituaries</a></span></li>
-
-	</ul>
-</nav>
-	  
-	  <div class="parsys insidethestar iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys insidethestar iparsys"></div>
-</div></div>
-
-	  
-		<div class="insidethestar">
-
-
-
-
-
-
-
-
-
-	
-	
-
-	<div class="inside-thestar" data-comp-path="insidethestar">
-	  <h2 class="heading">Inside the Star</h2>
-	  <ul>
+			
 		
-						<li>
-							
-		              				<a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/the_smell_test_did_doug_ford_really_win_an_award_for_outstanding_community_service.html" class="thumbnail icon-overlay">
-		              					
-										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/news/city_hall/toronto2014election/2014/10/14/the_smell_test_did_doug_ford_really_win_an_award_for_outstanding_community_service/doug_ford.jpg.size.xsmall.promo.jpg" alt="Did Doug Ford really win an award for outstanding community service?">
-									</a>
-							 
-							<p class="headline"><a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/the_smell_test_did_doug_ford_really_win_an_award_for_outstanding_community_service.html">Did Doug Ford really win an award for outstanding community service?</a></p>
-						</li>
-					
-						<li>
-							
-		              				<a href="http://www.thestar.com/life/health_wellness/2014/10/14/canada_paying_more_than_double_for_common_generic_drugs_study_says.html" class="thumbnail icon-overlay">
-		              					
-										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/life/health_wellness/2014/10/14/canada_paying_more_than_double_for_common_generic_drugs_study_says/generic_drugs.jpg.size.xsmall.promo.jpg" alt="Canada paying more than double for common generic drugs, study says">
-									</a>
-							 
-							<p class="headline"><a href="http://www.thestar.com/life/health_wellness/2014/10/14/canada_paying_more_than_double_for_common_generic_drugs_study_says.html">Canada paying more than double for common generic drugs, study says</a></p>
-						</li>
-					
-						<li>
-							
-		              				<a href="http://www.thestar.com/news/gta/2014/10/14/bigtruck_licensing_mills_put_public_at_risk.html" class="thumbnail icon-overlay">
-		              					<span class="icon icon-type-video-small icon-style-overlay">Video</span>
-										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/news/2014/10/09/lax_rules_allow_big_rig_drivers_to_get_licence_without_highway_testing/3830864390001_videoStillImage.jpg.size.xsmall.promo.jpg" alt="Big-truck ‘licensing mills’ put public at risk">
-									</a>
-							 
-							<p class="headline"><span class="icon icon-type-unlock"></span><a href="http://www.thestar.com/news/gta/2014/10/14/bigtruck_licensing_mills_put_public_at_risk.html">Big-truck ‘licensing mills’ put public at risk</a></p>
-						</li>
-					
-		</ul>
-	</div>
-
-</div>
-
-	  
-
-	</div>
-  
-  
-  <div class="feature">
+	<link rel="shortcut icon" href="http://www.wheels.ca/wp-content/themes/wheels/favicon.jpg">
+	<link rel="pingback" href="http://www.wheels.ca/xmlrpc.php">
+	<!--[if lt IE 9]>
+	  <script src="http://www.wheels.ca/wp-content/themes/wheels/js/vendor/html5shiv.js"></script>
+	<![endif]-->
+	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="//cdn.feedbackify.com/f.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WTKVBL"></script><script type="text/javascript" src="http://aka-cdn-ns.adtechus.com/dt/common/DAC.js"></script>
 	
-
-	
-	 	<div class="article-breadcrumbs"> 
-  		
-		<a href="http://www.thestar.com/about.html">About</a> 
-  		 
-  		
-	 	</div>
-	
-
-	<div class="article-headline">
-   		
-	  <h1>Privacy Code</h1>
-	  
-	</div>
-
-	  
-
-	<div class="article-artwork">
-	  <div class="parsys mainart"></div>
-
-	</div>
-
-	<div id="mb_container">
 	<script type="text/javascript">
-	(function(){
-		var sc = document.createElement('script');
-		sc.src = 'http://player.mediabong.net/se/26.js?url='+encodeURIComponent(document.liveUrl);
-		sc.type = 'text/javascript';
-		sc.async = true;
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
-	})();
+		var siteUrl = 'http://www.wheels.ca';
 	</script>
-	</div>
-
-		<div class="article-authors" role="contentinfo">
-		
-		
-	  
-	  <span class="published-date"> Published on Thu Mar 27 2014</span>
-	  
-
-   	</div>
-
-	<div class="article-story float-clear">
-	<div id="policard-modal">
-		<iframe id="policard" frameborder="0" height="0" src=""></iframe>
-	</div>
-
-<div class="policard-wrap">
-			<div class="policard-gallery">
-			</div>
-
-			<div class="policard-nav clearfix">
-				<div id="policard-next">
-					<img src="/etc/designs/thestar/images/policard/next.png">
-				</div>
-				<div id="policard-back">
-					<img src="/etc/designs/thestar/images/policard/back.png">
-				</div>
-			</div>
-</div>
 	
-	  
-	  
-
-	  <div class="article-story-body">
-		<div class="body parsys"><div class="articlerelatedphotogallery section">
-
-
-
-	
-</div>
-<div class="articlerelatedvideogallery section">
-
-
-</div>
-<div class="text combinedtext parbase section"><h2>
-  Our commitment to privacy:
-</h2>
-</div>
-<div class="text combinedtext parbase section"><p>
-  Toronto Star Newspapers Limited (the "Star") knows that protecting the privacy and confidentiality of your personal information is important to you.  This Privacy Code governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by the Star and its affiliates.  The collection, use and disclosure of your personal information is governed by the
-  <i>
-    Personal Information Protection and Electronic Documents Act
-  </i>
-  (the "Act"), and any applicable provincial legislation. This Privacy Code explains what personal information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-  This Privacy Code applies only to personal information collected by the Star and its affiliates. Be aware that our websites may contain links to other websites that are maintained by third parties who are not required to comply with this Privacy Code nd for which the Star has no responsibility. Please review the privacy policies on any external websites to determine their information handling practices.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-  This Privacy Code is available to the public through our websites, and in paper form from the Star. If you have any additional concerns or questions, we encourage you to contact us and we will address your concerns to the best of our ability.
-  <b>
-    Please read this Privacy Code carefully, and check back periodically as we may update it from time to time. By submitting your personal information to the Star, you signify your agreement to the terms and conditions of this Privacy Code.
-  </b>
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><h2>
-  What is personal information?
-</h2>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><p>
-  Personal information is any information about an identifiable individual.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-  The Star is responsible for personal information under its control. The Star has implemented policies and practices to give effect to this Privacy Code, including training and communicating with our employees about the importance of privacy and implementing security procedures that reasonably protect the personal information you provide to us. In addition, Torstar Corporation, the Star's parent company, has appointed a Chief Privacy Officer to oversee personal information-handling practices of the Star and its affiliates.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><h2>
-  What is excluded from privacy protection?
-</h2>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><p>
-  This Privacy Code does not impose restrictions on:  business contact information, including the name, title, business address or telephone number of an employee of an organization; information collected, used or disclosed solely for journalistic, literary or artistic purposes; publicly available information, such as an individual's name, telephone number and address when listed in a directory or made available through directory assistance; or information that is aggregated and not associated with a specific individual, including demographic information and statistics.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-  <b>
-    Children:
-  </b>
-  If you are under the age of 18, be sure to obtain your parent or guardian's permission before you send any personal information to us, or anyone else. We encourage parents to get involved with their children's online usage and to be aware of the activities in which they are participating.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><h2>
-  What personal information do we collect, and why?
-</h2>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><ul>
-  <li>
-    We collect personal contact information (such as your name, address, email address and telephone numbers) if you: sign up for a newsletter; subscribe to a newspaper; register on an online forum or website, or to attend a paid event; purchase any product or service from the Star; are a classified advertiser or auction participant; or provide it to us when you attend a trade or consumer show. This information is used to fulfill your request for information, products or services, to provide targeted advertising, and to respond to your inquiries. From time to time this information may be used to provide reward points or apply credit, as applicable in the circumstances.
-  </li>
-  <li>
-    We collect personal contact information (such as your name, address, email address and telephone numbers) when you make a charitable donation to the Star's sponsored charities, including the Star Fresh Air Fund and the Star Santa Claus Fund for the purpose of processing your donation and to issue you an income tax receipt.
-  </li>
-  <li>
-    We will retain your subscriber ID and passwords so that upon request by you we may remind you of them.
-  </li>
-  <li>
-    If you enter a contest or other promotion, we use your personal contact information to administer the contest or promotion including contacting, announcing and promoting prizewinners.   In addition, sometimes our contest rules provide that we may contact contest entrants with promotions and product information.  Those rules will also include a way for you to indicate to us that you do not want to be contacted for this purpose.  Some contests may also involve co-sponsors, who have their own privacy practices.  In these cases, the contest rules and/or entry forms will indicate that your personal information is being shared with these co-sponsors and will provide you with the ability to opt-out from receiving promotions and product information from them.
-  </li>
-  <li>
-    We collect demographic information, as well as purchase history and a list of promotions offered to you, in order to gain a better understanding of your interests so that we may develop better products and services, and to determine your eligibility for other products and services.
-  </li>
-  <li>
-    We may also use demographic, personal contact and history information to contact you about changes, enhancements or other notices related to products or services you requested from us and which the Star provides. In addition, we may use this information to send you offers or information from us, our affiliates and from selected sponsors or advertisers ("Marketing Offers"). If you do not wish to receive Marketing Offers, you may opt-out at any time by following the opt-out procedure below.
-  </li>
-  <li>
-    We keep notes and special instructions for classified advertisers and subscribers to help us fulfill your request and provide customer service. We may tape or monitor your telephone calls with our customer service representatives for quality assurance purposes.
-  </li>
-  <li>
-    We collect your credit card information if you: subscribe to a newspaper; register on a paid website; enter a paid contest; register to attend a paid event; purchase any product from the Star or through one of our websites; are a classified advertiser or an auction participant. This credit card information is used for the purpose of fulfilling your order.
-  </li>
-  <li>
-    If you choose to opt-out of any use of your personal information in accordance with our opt-out policy, we will keep your contact information on a list so that your request can be honoured. If you provide a complaint to any of our departments, we will collect your contact information and the nature of your complaint, for the purpose of investigating your concerns and responding to you.
-  </li>
-  <li>
-    If you provide freelance or other services to us, we may collect your social insurance number for tax reporting purposes and your contact information in order to pay you.
-  </li>
-  <li>
-    We may also use or collect additional information from freelancers, other service providers and from advertisers, such as financial information (for example, banking details and credit history) to assess credit risk, sales data to prepare royalty reports and other relevant information to help us evaluate the quality of your services.
-  </li>
-  <li>
-    We use IP (internet protocol) addresses, to gather demographic and statistical information about our users, for systems administration and to diagnose problems with our servers, and to administer our websites.  We may also use IP addresses to display or allow our third party advertising providers to display more targeted advertising and content.
-  </li>
-  <li>
-    We may, from time to time, track and analyze anonymous usage and browsing patterns of visitors to our websites to provide our advertisers with more targeted advertising opportunities and to help users see advertising that is most likely to interest them.
-  </li>
-  <li>
-    We generally use your personal information for the purposes of : managing, administering, collecting or otherwise enforcing your accounts; maintaining business records for reasonable periods of time and generally managing and administering our business; and meeting all relevant Canadian and international regulatory, legal, insurance, audit, security and processing requirements.
-  </li>
-  <li>
-    Occasionally, we ask our customers to complete market research surveys. If you choose to participate in these surveys and provide your personal information for that purpose, your information will be aggregated as part of the survey results and shared with our advertisers, sponsors and affiliates in a manner that does not identify you.
-  </li>
-  <li>
-    Other than as permitted or required by law, if we wish to collect, use or disclose your personal information for purposes that are not contemplated in this Privacy Code, we will identify those purposes at the time of collection. You will be given a reasonable opportunity to opt-out of any such additional purposes.
-  </li>
-</ul>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><h2>
-  Behavioural Targeting
-</h2>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><ul>
-  <li>
-    If you use any of our websites, we may assign an internet cookie. An internet cookie is a small text file that a website stores on your internet browser and that can collect and store information. We use cookies to better understand how you use our websites, to make sure our ads and dynamic content are served correctly and to improve the performance of our websites. For example, a cookie may recall a set of preferences you have set for our website and record items that you have registered for. Storing cookies on your web browser allows us to present you with web pages and other content that are attuned with your preferences. These activities are invisible to you, and are generally intended to improve your internet surfing convenience. Unless you have set your preferences so that you will be alerted when a cookie is being stored on your computer, you won't know about it.
-  </li>
-  <li>
-    If you are concerned about cookies, it is possible to turn them off in your web browser preferences. The following link has useful information about how to opt out of cookies that are placed by companies who are members of the Network Advertising Initiative:
-    <a href="http://www.networkadvertising.org/choices/" target="_blank" title="this link will open in a new window">
-      NAI (Network Advertising Initiative) Opt-Out
-    </a>
-    .   However, please be aware that by disabling cookies, you may not be able to use all portions of our websites, particularly pages requiring registration.
-  </li>
-  <li>
-    We may place advertising or other links on our websites that originate from outside advertisers and other third parties.  If you view these ads, the advertisers may assign a cookie.  The Star does not control these cookies, nor is it responsible for any marketing or other use of your information by these advertisers or other third parties.
-  </li>
-  <li>
-    Our websites may use gifs or other technologies to better tailor and manage advertising on our sites.  These technologies may be in use on a number of pages across web sites.  When you access these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers.  These gifs usually work in conjunction with cookies.  If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies.  If you turn off cookies, gifs and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded.
-  </li>
-  <li>
-    Many of our websites use third-party advertising companies to serve ads when you visit the site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you.  Some ads appearing on our websites are delivered to you by AdTech, which is a web advertising company.  These third parties may, from time to time, use information that they collect about your visits to this site, such as the number of times you have viewed an ad (but not your name, address or other personal contact information) to serve additional ads about goods and services that may be of interest to you.  If you do not wish to have your information used in this way, please click on the following link:
-    <a href="http://www.adtechus.com/cookie_opt-out/" target="_blank" title="this link will open in a new window">
-      AdTech Opt-Out
-    </a>
-  </li>
-</ul>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><h2>
-  To whom does the Star disclose personal information, and why?
-</h2>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><p>
-  The Star may disclose your personal information under the following circumstances:
-</p>
-</div>
-<div class="text combinedtext parbase section"><ul>
-  <li>
-    To provide you with Marketing Offers, the Star may disclose your personal contact information to affiliates and selected sponsors and advertisers. If you do not wish to receive Marketing Offers, you may opt-out at any time by following the opt-out procedure below.
-  </li>
-  <li>
-    The Star may transfer your personal information to third party service providers in order to fulfill your order or perform processing and other specialized services (such as credit card processing, prize fulfillment of our contests, collection of overdue accounts, management of customer service requests, and product delivery).
-  </li>
-  <li>
-    The Star may provide your name and credit card information on a confidential basis to a third party (which party may be outside of Canada) for the purpose of updating your credit card information to ensure that your ongoing subscription to the Star products and services is not interrupted.
-  </li>
-  <li>
-    Your personal information may be processed and stored outside of the province in which you reside and/or outside of Canada by us, an affiliate or a third party service provider for the purposes set out in this Privacy Code and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.
-  </li>
-  <li>
-    The Star may disclose your personal information to our affiliates for internal audit, management, billing or administrative purposes.
-  </li>
-  <li>
-    The Star may disclose your contact information on a confidential basis to our advertisers for the sole purpose of newspaper delivery verification.
-  </li>
-  <li>
-    The Star may disclose your personal information to third parties if you have violated our terms of service or conditions of purchase, or if we need to comply with applicable laws and lawful governmental requests, other legal and regulatory authorities and for other legal reasons.
-  </li>
-  <li>
-    The Star may disclose your personal information on a confidential basis to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties.
-  </li>
-</ul>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><h2>
-  Consent and opt-out policy.
-</h2>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><p>
-  In general, the Star seeks consent to use your personal information in accordance with our opt-out policy. Except as set out in this section, the Star obtains your express opt-in consent to use or disclose sensitive personal information.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-  If you do not wish to receive Marketing Offers, you may opt-out at any time by doing any of the following:
-</p>
-</div>
-<div class="text combinedtext parbase section"><ul>
-  <li>
-    follow the instructions at the bottom of any email Marketing Offer you receive.
-  </li>
-  <li>
-    inform your telemarketer at the time you are called with a Marketing Offer.
-  </li>
-  <li>
-    call Customer Service at 1-800-279-0181 and request that your personal information not be used for Marketing Offers.
-  </li>
-  <li>
-    email Customer Service at privacy@thestar.ca  and request that your personal information not be used for Marketing Offers.
-  </li>
-</ul>
-</div>
-<div class="text combinedtext parbase section"><p>
-  It may take 2-4 weeks to fully process your opt-out request.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-  Generally, when you provide us with your personal information, we will assume that you consent to our collection, use and disclosure of such information for the purposes identified or described in this Privacy Code, if applicable, or otherwise at the time of collection. We reserve the right to use and disclose your personal information without your consent where required or permitted by law, for example, if we have reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law, in order to protect or defend our legal interests, or to comply with applicable laws and lawful governmental requests.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><h2>
-  Safeguards.
-</h2>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><p>
-  The Star has technical, contractual, administrative and physical security measures to protect your personal information in a manner that is reasonable and appropriate to the nature of the personal information you provide to the Star. For example, when you provide credit card information to us, we work to help protect the security of your credit card information by using industry standard secure sockets layer (SSL) encryption technology.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-  Please be aware that email is not a secure medium, and any personal information you send to us by email could be intercepted. If your communication is very sensitive, or includes information such as your credit card number, you should not send it electronically unless the email is encrypted or your browser indicates that the access to our website is secure. Materials posted to online forums such as bulletin boards or comment sites are public, not secure and may be viewed by anyone. Any personal information you post may be collected and used by anyone and may result in unsolicited messages from other internet users.  The Star is not responsible for personal information you choose to post or submit in any online forum on any of its websites.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><h2>
-  How to access and correct your personal information.
-</h2>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><p>
-  Some of our websites provide you with the means to access, update, edit or delete certain subscriber or registration information by going to the appropriate page on the website and changing or deleting such information as desired.  Alternatively, or for other information, you may call Customer Service at 1-800-279-0181 and we will make the changes upon receipt of appropriate evidence.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-  We will give you access to the information we retain about you within a reasonable time, upon written request, satisfactory identification and proof of entitlement. In some cases, we may not provide access to personal information in our possession or control. If we deny your request, we will advise you in writing of the reason for the refusal and you may challenge our decision.
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><h2>
-  How to address concerns regarding your privacy.
-</h2>
-</div>
-<div class="text combinedtext parbase section"><p>
-</p></div>
-<div class="text combinedtext parbase section"><p>
-  The Star encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Code. If you have a question concerning the Star's Privacy Code, would like a copy, or if you have any concerns, please contact Customer Service at: 1-800-279-0181, or email us at
-  <a href="mailto:privacy@thestar.ca">
-    privacy@thestar.ca.
-  </a>
-</p>
-</div>
-<div class="text combinedtext parbase section"><p>
-  Customer Service can successfully deal with many issues. If you prefer, or if after contacting Customer Service your concerns or questions have not been resolved to your satisfaction, you can contact Torstar Corporation's Chief Privacy Officer in writing as follows:
-</p>
-</div>
-<div class="text combinedtext parbase section"><dl>
-  <dt>
-    <b>
-      Chief Privacy Officer
-    </b>
-  </dt>
-  <dd>
-    Torstar Corporation
-  </dd>
-  <dd>
-    One Yonge Street, 6th floor
-  </dd>
-  <dd>
-    Toronto ON
-  </dd>
-  <dd>
-    M5E 1E6
-  </dd>
-  <dd>
-    Fax: (416) 869-4183
-  </dd>
-</dl>
-</div>
-<div class="text combinedtext parbase section"><p>
-  This Privacy Code was last updated on
-  <b>
-    July 11, 2012
-  </b>
-</p>
-</div>
-</div>
-
-	  </div>
-
-<noscript class="splitbox" src="http://static.freeskreen.com/publisher/52/freeskreen.min.js"></noscript>
-
-
-
-<!-- EXCEPTION, SIR! -->
-
-
-		<div class="story-footer float-clear">
-		
-		  
-			
-		<div class="articlekeywords">
-
-
-</div>
-
-		
-		<div class="articleaamfooter">
-
-
-
-
-
-
-
-
-
-
-	<div id="articleaamfoot" class="article-aam-footer float-clear" data-comp-path="articleaamfooter" data-aam-segments="467082,433719,433575,433734,467072,467059,467081,467077,405692,405683,467064,467083,467066,467022,433721,467076,405691,433716,405685,467083,467040,467044,467028,467080,433714,467070,467085,467066,467065,467025,467023" data-aam-count="1" data-aam-path="/jcr:content/articleaamfooter">
-
-		
-
-	</div>
-
-	</div>
-
-
-		
-
-		
-
-
-		</div>
-
-	</div>
-
-  </div>
-
-  
-	  <div class="right-rail">
-	  <div class="rightrailtop1 parsys iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="rightrailtop1 parsys iparsys"></div>
-</div></div>
-
-	  <div class="rightrailtop2 parsys iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="rightrailtop2 parsys iparsys"></div>
-</div></div>
-
-	  <div class="parsys iparsys rightrailtop3"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop3"></div>
-</div></div>
-
-	  <div class="parsys iparsys rightrailtop4"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop4"></div>
-</div></div>
-
-	  <div class="parsys iparsys rightrailtop5"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop5"></div>
-</div></div>
-
-	  <div class="parsys iparsys rightrailtop6"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop6"></div>
-</div></div>
-
-	  <div class="parsys iparsys rightrailtop7"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop7"></div>
-</div></div>
-
-	  <div class="parsys iparsys rightrailtop8"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop8"></div>
-</div></div>
-
-	  <div class="parsys iparsys rightrailtop9"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop9"></div>
-</div></div>
-
-
-	  <div class="parsys iparsys toprightrail"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys toprightrail"><div class="section"><div class="adtech">
-
-
-
-                <script>
-document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
-</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329722;aduho=0;rdclick="></script><noscript>
-<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;key=;width=300;height=250" alt=""></a>
-</noscript>
-
-	
-</div>
-</div><div class="section"><div class="fromthehomepage">
-
-
-
-
-	<div class="from-the-homepage star-box float-clear" data-comp-path="about/toprightrail/fromthehomepage">
-		<div class="star-box-heading float-clear">
-			<h2 class="heading">Top News</h2>
-		</div>
-		
-		<div class="container float-clear">
-			<ul>
-			
-						<li>
-							<a href="http://www.thestar.com/news/world/2014/10/14/ebolas_spread_raises_fears_for_global_security.html">
-								
-								<span>NEW</span>
-								Ebola’s spread raises fears for global security</a>
-						</li>
-				  
-						<li>
-							<a href="http://www.thestar.com/life/health_wellness/2014/10/14/toronto_hospital_implants_canadas_first_prosthetic_eye.html" class="with-comment-icon">
-								
-								<span>NEW</span>
-								Toronto hospital implants Canada's first prosthetic eye</a><span class="comment-icon"><a href="http://www.thestar.com/life/health_wellness/2014/10/14/toronto_hospital_implants_canadas_first_prosthetic_eye.html">comments</a></span>
-						</li>
-				  
-						<li>
-							<a href="http://www.thestar.com/news/queenspark/2014/10/14/liberal_mpps_block_public_release_of_mars_details.html" class="with-comment-icon">
-								
-								<span>NEW</span>
-								Liberal MPPs block public release of MaRS details</a><span class="comment-icon"><a href="http://www.thestar.com/news/queenspark/2014/10/14/liberal_mpps_block_public_release_of_mars_details.html">comments</a></span>
-						</li>
-				  
-						<li>
-							<a href="http://www.thestar.com/life/health_wellness/2014/10/14/canada_paying_more_than_double_for_common_generic_drugs_study_says.html" class="with-comment-icon">
-								
-								
-								Canada 'stupidity' means we're paying double for generic drugs</a><span class="comment-icon"><a href="http://www.thestar.com/life/health_wellness/2014/10/14/canada_paying_more_than_double_for_common_generic_drugs_study_says.html">comments</a></span>
-						</li>
-				  
-						<li>
-							<a href="http://www.thestar.com/news/canada/2014/10/14/ndp_proposes_15aday_national_childcare_program.html" class="with-comment-icon">
-								
-								<span>NEW</span>
-								NDP proposes $15 a day national child care program </a><span class="comment-icon"><a href="http://www.thestar.com/news/canada/2014/10/14/ndp_proposes_15aday_national_childcare_program.html">comments</a></span>
-						</li>
-				  
-						<li>
-							<a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/the_smell_test_did_doug_ford_really_win_an_award_for_outstanding_community_service.html" class="with-comment-icon">
-								
-								
-								Did Doug Ford really win award for community service?</a><span class="comment-icon"><a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/the_smell_test_did_doug_ford_really_win_an_award_for_outstanding_community_service.html">comments</a></span>
-						</li>
-				  
-						<li>
-							<a href="http://www.thestar.com/news/canada/2014/10/14/senator_brazeau_arrested_again.html">
-								
-								<span>Updated</span>
-								Senator Brazeau arrested again</a>
-						</li>
-				  
-						<li>
-							<a href="http://www.thestar.com/entertainment/2014/10/14/former_dragons_den_star_w_brett_wilson_tweets_that_his_cancer_is_back.html" class="with-comment-icon">
-								
-								
-								Ex-Dragon’s Den star tweets that his cancer is back</a><span class="comment-icon"><a href="http://www.thestar.com/entertainment/2014/10/14/former_dragons_den_star_w_brett_wilson_tweets_that_his_cancer_is_back.html">comments</a></span>
-						</li>
-				  
-			</ul>
-		</div>
-		
-	</div>
-
-</div>
-</div><div class="section"><div class="parbase reference"><div style="display:inline;" class="cq-dd-paragraph"><div class="scheduledcommercialp scheduledcommercialpromo">
-
-
-
-
-
-
-
-
-
-
-
-
-	<div class="promo commercial-promo" data-comp-path="RightRailPromos" data-aam-segments="467082,433719,433575,433734,467072,467059,467081,467077,405692,405683,467064,467083,467066,467022,433721,467076,405691,433716,405685,467083,467040,467044,467028,467080,433714,467070,467085,467066,467065,467025,467023" data-aam-count="2" data-aam-path="/news/jcr:content/toprightrail/scheduledcommercialp">
-    <h2 class="com-promo">commercial promo</h2>
-		<ul class="float-clear">
-
-		
-
-		</ul>
-	</div>
-
-</div>
-</div>
-</div>
-</div><div class="section"><div class="parbase reference"><div style="display:inline;" class="cq-dd-paragraph"><div class="scheduledcommercialp_2 scheduledcommercialpromo">
-
-
-
-
-
-
-
-
-
-
-
-
-	<div class="promo commercial-promo" data-comp-path="RightRailPromos" data-aam-segments="467082,433719,433575,433734,467072,467059,467081,467077,405692,405683,467064,467083,467066,467022,433721,467076,405691,433716,405685,467083,467040,467044,467028,467080,433714,467070,467085,467066,467065,467025,467023" data-aam-count="2" data-aam-path="/news/jcr:content/toprightrail/scheduledcommercialp_2">
-    <h2 class="com-promo">commercial promo</h2>
-		<ul class="float-clear">
-
-		
-
-			<li class="top-story">
-				<a href="http://www.thestar.com/partner_content/roomswithaview/2014/09/05/beyond-the-bricks-and-mortar.html" class="icon-overlay">
-					<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/sponsoredsections/roomswithaview/bricks_localart.jpg.size.large.promo.jpg" alt="Beyond the bricks and mortar">
-					<!--<p class="caption"><span>Partner Content</span>Beyond the bricks and mortar</p>-->
-					<div class="bottom"><p class="label"><span>Partner Content</span></p><p class="caption"><span class="icon icon-type-unlock"></span>Beyond the bricks and mortar</p></div>
-				</a>
-			</li>
-
-			
-			<li>
-				<a href="http://www.thestar.com/partner_content/starbusinessclub/2014/09/30/doubling-down-on-the-digital-office.html" class="twin icon-overlay">
-					<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/uploads/2014/9/29/1412009722606.jpg.size.medium2.promo.jpg" alt="Doubling down on the digital office">
-					<!--<p class="caption">Doubling down on the digital office</p>-->
-					<div class="bottom"><p class="label"><span>Partner Content</span></p><p class="caption"><span class="icon icon-type-unlock"></span>Doubling down on the digital office</p></div>
-				</a>
-			</li>
-
-			
-			<li class="last">
-				<a href="http://www.thestar.com/life/food_wine/2014/10/02/fresh_bites_butternut_squash_brownies_are_a_revelation.html" class="twin icon-overlay">
-					<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/life/food_wine/2014/10/02/fresh_bites_butternut_squash_brownies_are_a_revelation/squash_brownies.jpg.size.medium2.promo.jpg" alt="Fresh bites: Butternut squash brownies are a revelation">
-					<!--<p class="caption">Fresh bites: Butternut squash brownies are a revelation</p>-->
-					<div class="bottom"><p class="caption">Fresh bites: Butternut squash brownies are a revelation</p></div>
-				</a>
-			</li>
-
-			
-			<li>
-				<a href="http://www.thestar.com/life/further_education/2014/10/02/further_education_brimming_with_opportunity.html" class="twin icon-overlay">
-					<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/life/further_education/2014/10/02/further_education_brimming_with_opportunity/humber1jpg.jpg.size.medium2.promo.jpg" alt="Further education brimming with opportunity">
-					<!--<p class="caption">Further education brimming with opportunity</p>-->
-					<div class="bottom"><p class="caption"><span class="icon icon-type-unlock"></span>Further education brimming with opportunity</p></div>
-				</a>
-			</li>
-
-			
-			<li class="last">
-				<a href="http://www.toronto.com/things-to-do/articles/toronto-attractions-to-visit-this-fall/" class="twin icon-overlay">
-					<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/torontodotcom/necropolis-16.jpg.size.medium2.promo.jpg" alt="Toronto.com: Fall Attractions">
-					<!--<p class="caption">Toronto.com: Fall Attractions</p>-->
-					<div class="bottom"><p class="caption">Toronto.com: Fall Attractions</p></div>
-				</a>
-			</li>
-
-			
-
-		</ul>
-	</div>
-
-</div>
-</div>
-</div>
-</div><div class="section"><div class="adtech">
-
-
-
-                <script>
-document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
-</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329728;aduho=0;rdclick="></script><noscript>
-<a href="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;key=;width=300;height=250" alt=""></a>
-</noscript>
-
-	
-</div>
-</div><div class="section"><div class="mostpopular">
-
-
-
-
-
-
-
-
-	<div class="most-popular star-box float-clear">
-
-		<div class="star-box-heading float-clear">
-			<h2 class="heading">Most Popular</h2>
-		</div>
-
-		<div class="container float-clear">
-
-			<ul>
-
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.wheels.ca/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - WHEELS.ca">
+<meta property="og:description" content="Privacy Code Published on Weds Feb 11 2015 Our commitment to privacy: Digital Auto Ventures, a partnership existing under the laws of Ontario DAV(“DAV”) knows that protecting the privacy and confidentiality of your personal information is important to you. This Privacy Code governs the collection, use and disclosure of your personal information in any form, …">
+<meta property="og:url" content="http://www.wheels.ca/privacy-policy/">
+<meta property="og:site_name" content="WHEELS.ca">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="stylesheet" id="admin-inventory-css-css" href="http://www.wheels.ca/wp-content/plugins/inventory/css/inventory.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox.css-css" href="http://www.wheels.ca/wp-includes/js/thickbox/thickbox.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="wheels-structure-style-css" href="https://wheelsca.s3.amazonaws.com/static.wheels.ca/css/structure.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="wheels-screen-style-css" href="https://wheelsca.s3.amazonaws.com/static.wheels.ca/css/screen.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="wheel-common-css" href="https://wheelsca.s3.amazonaws.com/static.wheels.ca/css/common.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="wheels-bootstrapcdn-style-css" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=4.0" type="text/css" media="all">
+<script type="text/javascript" src="http://www.wheels.ca/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="http://www.wheels.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;ver=4.0"></script>
+<script type="text/javascript" src="//google-maps-utility-library-v3.googlecode.com/svn/trunk/infobox/src/infobox.js?ver=4.0"></script>
+<script type="text/javascript" src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/js/session-var.js?ver=4.0"></script>
+<script type="text/javascript" src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/js/bootstrap.js?ver=4.0"></script>
+<script type="text/javascript" src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/js/function.js?ver=4.0"></script>
+<script type="text/javascript" src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/js/wheels.js?ver=4.0"></script>
+<script type="text/javascript" src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/js/vendor/jquery.dotdotdot.js?ver=4.0"></script>
+<script type="text/javascript" src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/js/scroll-library.js?ver=4.0"></script>
+<script type="text/javascript" src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/js/device.js?ver=4.0"></script>
+<script type="text/javascript" src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/js/s_code.js?ver=4.0"></script>
+<meta name="generator" content="WordPress 4.0">
+</head>
+<body class="page page-id-83034 page-template-default" data-target=".navbar-fixed-top">
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WTKVBL"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WTKVBL');</script>
+	<!-- End Google Tag Manager -->
+		<!--navigation-->
+	<nav class="nav navbar-fixed-top">
 				
+		<div class="top-nav-ad-mobile">
+					</div>
+				<!--mobile nav-->
+		<div class="mobile-nav">
+			<div class="container relative">
+			  <div class="menu">
+				<span class="hamburger"></span>
+				<span class="hamburger-two"></span>
+				<span class="hamburger-three"></span>
+			  </div>
+			  <div class="side-menu">
+				<div class="side-menu-logo">
+					<a href="http://www.wheels.ca"><img src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/images/w-logo.png"></a>
+				</div>
+								<div class="site-width">
+					<ul class="side-menu-main">
+					
+						<li class="news-m">
+							<a href="http://www.wheels.ca/news/" alt="News" title="News" class="">News</a>
+						</li>
+						<li class="reviews-m">
+							<a href="http://www.wheels.ca/car-reviews/" alt="Reviews" title="Reviews" class="">Reviews</a>
+						</li>
+						<li class="roadtrips-m">
+							<a href="http://www.wheels.ca/road-trips/" alt="Road Trips" title="Road Trips" class="">Road Trips</a>
+						</li>
+						<li class="bestof-m">
+							<a href="http://www.wheels.ca/top-ten/" alt="Best of" title="Best of" class="">Best of</a>
+						</li>
+						<li class="howto-m">
+							<a href="http://www.wheels.ca/guides/" alt="How to" title="How to" class="">How to</a>
+						</li>
+													<li class="promos-m">
+								<a href="http://www.wheels.ca/features/2015-canadian-international-autoshow/" alt="Features" title="Features" class=" feature_autoshow">Autoshow</a>
+							</li>
+												<li class="carsforsale-m">
+							<a href="http://www.wheels.ca/cars-for-sale/" alt="Cars for sale" title="Cars for sale" class="">
+								Cars for sale 
+								<span>
+									77,273								</span>
+							</a>
+						</li>
+						<li class="carspecs-m" alt="Car Research" title="Car Research"><a href="http://www.wheels.ca/new-cars/" class="">Car Research</a></li>
+					</ul>
+					<ul id="menu-footer-left-menu" class="side-menu-sub"><li id="menu-item-83037" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83034 current_page_item menu-item-83037"><a title="Corporate Privacy Policy" target="_blank" rel="nofollow" href="http://www.wheels.ca/privacy-policy/">Corporate Privacy Policy</a></li>
+<li id="menu-item-81667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81667"><a title="Terms and Conditions" target="_blank" rel="nofollow" href="http://www.wheels.ca/terms-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-81668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81668"><a title="Accessible Customer Service Policy &amp; Procedure" target="_blank" rel="nofollow" href="http://media.metroland.com/pdf/Metroland-Accessible-Customer-Service-Policy-Procedure.pdf">Accessible Customer Service Policy &amp; Procedure</a></li>
+<li id="menu-item-81669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81669"><a title="Commitment to Accessibility" target="_blank" rel="nofollow" href="http://media.metroland.com/pdf/StatementofCommitment.pdf">Commitment to Accessibility</a></li>
+</ul><ul id="menu-footer-right-section" class="side-menu-sub"><li id="menu-item-81665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81665"><a title="Commenting Guidelines" target="_blank" rel="nofollow" href="http://www.guelphtribune.ca/commenting-guidelines/">Commenting Guidelines</a></li>
+<li id="menu-item-81664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81664"><a target="_blank" href="http://www.wheels.ca/about-us/">About Us</a></li>
+<li id="menu-item-81663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81663"><a target="_blank" href="http://www.wheels.ca/contact-us/">Contact Us</a></li>
+<li id="menu-item-81673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81673"><a title="Sitemap" target="_blank" rel="nofollow" href="http://www.wheels.ca/sitemap/">Site Map</a></li>
+</ul>					<div class="side-menu-bg"></div>
+				</div>
+			</div>
 
-				<li class="float-clear">
-					<p class="headline">
-						<a href="http://www.thestar.com/news/canada/2014/10/14/suspect_in_bc_shootout_is_dead_rcmp_say.html" class="with-comment-icon"> Suspect in B.C. shootout is dead, RCMP say</a><span class="comment-icon"><a href="http://www.thestar.com/news/canada/2014/10/14/suspect_in_bc_shootout_is_dead_rcmp_say.html">comments</a></span>
-					</p>
+			  <div class="logo">
+				<a href="http://www.wheels.ca"><img src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/images/logo.png" class="full-mobile-nav"></a>
+				<a href="http://www.wheels.ca"><img src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/images/mobile-logo.png" class="mobile-nav-logo"></a>
+			  </div>
+			  <div class="search-mobile"><i class="fa fa-search"></i></div>
+			</div>
+			<div class="disabled-search"><i class="fa fa-search"></i></div>
+			<div class="search-container">
+			  <form class="navbar-form navbar-left" role="search">
+		            <div class="form-group">
+		                <input type="text" data-role="tagsinput" class="form-control search-input" placeholder="Type in your search">
+		                <!-- <input type="text" class="form-control search-input" placeholder="Type in your search"> -->
+		            </div>
+			  </form>
+			</div>
+		</div>
+	  
+		<!--desktop nav-->
+				<div class="top-nav-ad">
+			<!--div class = 'blockbuster-ad adtech-top-ad'>
+				<!-- Pictela ad: Metroland - Blockbuster(110046) - Flight: Metroland - Blockbuster Test-(6523905) -->
+				<script type="text/javascript">
+				/*
+				document.write('<scr'+'ipt type="text/javascript" charset="utf-8" src="http://ads-us.pictela.net/addyn/3.0/5431/2846079/0/0/ADTECH;AdId=6523905;BnId=-1;loc=100;target=_blank;misc=' + new Date().getTime() + ';rdclick="></scri'+'pt>');*/
+				</script>
+			<!--</div>-->
+					</div>
+				
+		<div class="top">
+			<div class="nav-container">
+				<div class="top-links">
+					<ul>
+					  <!--<li><a href="< ?php echo site_url().'/new-cars/'; ?>" title="Lifestyle">Lifestyle</a></li>-->
+					  						<li><a href="http://www.wheels.ca/lifestyle" title="Lifestyle">Lifestyle</a></li>
+						<li class="compare_link_con">
+							<a href="javascript:void(0)" onclick="javascript:compareDropOmniture('','','','','http://www.wheels.ca/privacy-policy/','CompareDropdownView');" title="Compare" class="compare-vehicles">Compare (<font class="car_count">0</font>/5)</a>
+						</li>
+					  <!--<li><a href="javascript:void(0)" title="Sign up/Login">Sign up/Login</a></li>-->
+					</ul>
+					<!-- signup/login -->
+				</div>
+				<div class="nav-arrow">
+					<i class="fa fa-chevron-right"></i>
+				</div>
+								<div class="featured-header">
+					<strong>FEATURE</strong>
+											<div class="ticker">
+															<a href="http://www.wheels.ca/news/europeans-host-several-world-debuts-at-new-york-auto-show/">Europeans host several world debuts at New York Auto Show</a>
+															<a href="http://www.wheels.ca/news/the-2016-nissan-maxima-unveiled-in-new-york-along-with-2016-infiniti-qx50-and-qx30-conept/">The 2016 Nissan Maxima unveiled in New York along with 2016 Infiniti QX50 and QX30 concept</a>
+															<a href="http://www.wheels.ca/guides/buying-first-used-car-tips-save-money-get-value/">Buying Your First Used Car? Tips to Save Money and Get the Most Value</a>
+													</div>
+									</div>
+			</div>
+		</div>
+		
+		
+		<div class="top-compare-content">
+			<div class="container">
+				<div class="row compare_cars_con">
+															<div class="col-sm-3">	
+												<span id="car-selected" style="display:none;"><a href="http://www.wheels.ca/compare/" class="compare-link">COMPARE VEHICLES</a></span>
+						<span id="no-cars" style="">No Cars Added in compare List. Go to <a href="http://www.wheels.ca/new-cars/">Car Research</a> to add some cars.</span>
+												<div class="sponsor">SPONSORED BY <!--a href="#" title="Sponsored by "><img src="" alt="..."></a-->
+						<!-- Async Tag // Tag for network 5240: Metroland    // Website: Wheels // Page: car-research // Placement: wheels_car-research_logo_310x40 (3506625) // created at: Jan 12, 2015 2:09:43 PM --><div id="3506625" class=""><noscript><a href="http://adserver.adtechus.com/adlink|3.0|5240.1|3506625|0|753|ADTECH;loc=300;key=key1+key2+key3+key4;alias=wheels_car-research_logo_310x40" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5240.1|3506625|0|753|ADTECH;loc=300;key=key1+key2+key3+key4;alias=wheels_car-research_logo_310x40" border="0" width="310" height="40"></a></noscript></div><script>ADTECH.config.placements[3506625]={sizeid:753,params:{alias:"wheels_car-research_logo_310x40",target:"_blank"}};
+				ADTECH.loadAd(3506625);
+				</script>						</div>
+											</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		<div class="menu-container">
+			<div class="container relative">
+				<div class="disabled-search"><i class="fa fa-search"></i></div>
+		        <div class="search-container">
+		            <form class="navbar-form navbar-left" role="search">
+		                <div class="form-group">
+		                    <input type="text" data-role="tagsinput" class="form-control search-input" placeholder="Type in your search">
+		                    <!-- <input type="text" class="form-control search-input" placeholder="Type in your search"> -->
+		                </div>
+		            </form>
+		        </div>
+			  <div class="menu">
+				<span class="hamburger"></span>
+				<span class="hamburger-two"></span>
+				<span class="hamburger-three"></span>
+			  </div>
+			  <div class="side-menu">
+				<div class="side-menu-logo">
+				  <a href="http://www.wheels.ca"><img src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/images/w-logo.png"></a>
+				</div>
+				<ul class="side-menu-main">
+					<li class="news-m"><a href="http://www.wheels.ca/news/" alt="News" title="News" class="">News</a></li>
+					<li class="reviews-m"><a href="http://www.wheels.ca/car-reviews/" alt="Reviews" title="Reviews" class="">Reviews</a></li>
+					<li class="roadtrips-m"><a href="http://www.wheels.ca/road-trips/" alt="Road Trips" title="Road Trips" class="">Road Trips</a></li>
+					<li class="bestof-m"><a href="http://www.wheels.ca/top-ten/" alt="Best of" title="Best of" class="">Best of</a></li>
+					<li class="howto-m"><a href="http://www.wheels.ca/guides/" alt="How to" title="How to" class="">How to</a></li>
+											<li class="promos-m">
+							<a href="http://www.wheels.ca/features/2015-canadian-international-autoshow/" alt="Features" title="Features" class=" feature_autoshow">Autoshow</a>
+						</li>
+										<li class="carsforsale-m"><a href="http://www.wheels.ca/cars-for-sale/" alt="Cars for sale" title="Cars for sale" class="">Cars for sale <span>77,273</span></a></li>
+					<li class="carspecs-m" alt="Car Research" title="Car Research"><a href="http://www.wheels.ca/new-cars/">Car Research</a></li>
+				</ul>
+				<ul id="menu-footer-left-menu-1" class="side-menu-sub"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83034 current_page_item menu-item-83037"><a title="Corporate Privacy Policy" target="_blank" rel="nofollow" href="http://www.wheels.ca/privacy-policy/">Corporate Privacy Policy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81667"><a title="Terms and Conditions" target="_blank" rel="nofollow" href="http://www.wheels.ca/terms-conditions/">Terms and Conditions</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81668"><a title="Accessible Customer Service Policy &amp; Procedure" target="_blank" rel="nofollow" href="http://media.metroland.com/pdf/Metroland-Accessible-Customer-Service-Policy-Procedure.pdf">Accessible Customer Service Policy &amp; Procedure</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81669"><a title="Commitment to Accessibility" target="_blank" rel="nofollow" href="http://media.metroland.com/pdf/StatementofCommitment.pdf">Commitment to Accessibility</a></li>
+</ul><ul id="menu-footer-right-section-1" class="side-menu-sub no_margin"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81665"><a title="Commenting Guidelines" target="_blank" rel="nofollow" href="http://www.guelphtribune.ca/commenting-guidelines/">Commenting Guidelines</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81664"><a target="_blank" href="http://www.wheels.ca/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81663"><a target="_blank" href="http://www.wheels.ca/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81673"><a title="Sitemap" target="_blank" rel="nofollow" href="http://www.wheels.ca/sitemap/">Site Map</a></li>
+</ul>				<div class="side-menu-bg"></div>
+			  </div>
+			  <div class="logo">
+				<a href="http://www.wheels.ca"><img src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/images/logo.png"></a>
+			  </div>
+			  <div class="featured-article">
+				<div class="featured-heading"><a href="http://www.wheels.ca/features/2015-canadian-international-autoshow/" class="autoshow-feature-link"><span>FEATURE 2015</span> Canadian International Autoshow</a></div>
+				<!--Cookie marzipan applicake. Jujubes sweet dessert apple pie donut cotton candy. Wafer chocolate jelly beans.-->
+			  </div>
+			  <ul class="main-menu">
+				<li class="news-m"><a href="http://www.wheels.ca/news/" alt="News" title="News" class="">News</a></li>
+				<li class="reviews-m"><a href="http://www.wheels.ca/car-reviews/" alt="Reviews" title="Reviews" class="">Reviews</a></li>
+				<li class="roadtrips-m"><a href="http://www.wheels.ca/road-trips/" alt="Road Trips" title="Road Trips" class="">Road Trips</a></li>
+				<li class="bestof-m"><a href="http://www.wheels.ca/top-ten/" alt="Best of" title="Best of" class="">Best of</a></li>
+				<li class="howto-m"><a href="http://www.wheels.ca/guides/" alt="How to" title="How to" class="">How to</a></li>
+								<li class="promos-m">
+					<a href="http://www.wheels.ca/features/2015-canadian-international-autoshow/" alt="Features" title="Features" class=" feature_autoshow">Autoshow</a>
 				</li>
+								<li class="carsforsale-m"><a href="http://www.wheels.ca/cars-for-sale/" alt="Cars for sale" title="Cars for sale" class="">Cars for sale <span>77,273</span></a></li>
+				<li class="carspecs-m" alt="Car Research" title="Car Research"><a href="http://www.wheels.ca/new-cars/" class="">Car Research</a></li>
+			  </ul>
+			</div>
+		</div>
+	</nav>
 
-
-
-				<li class="float-clear">
-					<p class="headline">
-						<a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/toronto_mayoral_campaign_intensity_only_grows_in_last_two_weeks.html" class="with-comment-icon"> Toronto mayoral campaign intensity only grows in last two weeks</a><span class="comment-icon"><a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/toronto_mayoral_campaign_intensity_only_grows_in_last_two_weeks.html">comments</a></span>
-					</p>
-				</li>
-
-
-
-				<li class="float-clear">
-					<p class="headline">
-						<a href="http://www.thestar.com/news/world/2014/10/14/ebola_exposure_70_hospital_staff_cared_for_first_dallas_patient.html" class="with-comment-icon"><span class="icon icon-style-text icon-type-unlock"></span><span class="icon icon-type-video-xsmall icon-style-text">Video</span> Ebola exposure: 70 hospital staff cared for first Dallas patient</a><span class="comment-icon"><a href="http://www.thestar.com/news/world/2014/10/14/ebola_exposure_70_hospital_staff_cared_for_first_dallas_patient.html">comments</a></span>
-					</p>
-				</li>
-
-
-
-				<li class="float-clear">
-					<p class="headline">
-						<a href="http://www.thestar.com/news/world/2014/10/13/kim_jong_un_reappears_with_cane.html"><span class="icon icon-style-text icon-type-unlock"></span><span class="icon icon-type-video-xsmall icon-style-text">Video</span> Kim Jong Un reappears with cane</a>
-					</p>
-				</li>
-
-
-
-				<li class="float-clear">
-					<p class="headline">
-						<a href="http://www.thestar.com/entertainment/2014/10/14/former_dragons_den_star_w_brett_wilson_tweets_that_his_cancer_is_back.html" class="with-comment-icon"> Former Dragon’s Den star W. Brett Wilson tweets that his cancer is back</a><span class="comment-icon"><a href="http://www.thestar.com/entertainment/2014/10/14/former_dragons_den_star_w_brett_wilson_tweets_that_his_cancer_is_back.html">comments</a></span>
-					</p>
-				</li>
-
-
-
-				<li class="float-clear">
-					<p class="headline">
-						<a href="http://www.thestar.com/news/gta/2014/10/13/youth_pastor_dies_hours_after_writing_his_life_goals.html" class="with-comment-icon"> Youth pastor dies hours after writing his life goals</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/10/13/youth_pastor_dies_hours_after_writing_his_life_goals.html">comments</a></span>
-					</p>
-				</li>
-
-
-
-				<li class="float-clear">
-					<p class="headline">
-						<a href="http://www.thestar.com/news/canada/2014/10/14/senator_brazeau_arrested_again.html"> Senator Brazeau arrested again</a>
-					</p>
-				</li>
-
-
-
-				<li class="float-clear">
-					<p class="headline">
-						<a href="http://www.thestar.com/news/world/2014/10/13/dallas_nurse_with_ebola_received_plasma_from_doctor_who_survived_disease.html"> Dallas nurse with Ebola received plasma from doctor who survived disease</a>
-					</p>
-				</li>
-
-
-
-				<li class="float-clear">
-					<p class="headline">
-						<a href="http://www.thestar.com/business/personal_finance/2014/10/14/for_some_its_still_a_good_time_to_buy_a_house_in_the_gta.html" class="with-comment-icon"> For some, it’s still a good time to buy a house in the GTA</a><span class="comment-icon"><a href="http://www.thestar.com/business/personal_finance/2014/10/14/for_some_its_still_a_good_time_to_buy_a_house_in_the_gta.html">comments</a></span>
-					</p>
-				</li>
-
-
-
-				<li class="float-clear">
-					<p class="headline">
-						<a href="http://www.thestar.com/life/health_wellness/2014/10/14/reality_check_are_fruit_and_vegetable_juices_a_healthy_alternative_to_the_real_thing.html" class="with-comment-icon"> Reality check: Are fruit and vegetable juices a healthy alternative to the real thing? </a><span class="comment-icon"><a href="http://www.thestar.com/life/health_wellness/2014/10/14/reality_check_are_fruit_and_vegetable_juices_a_healthy_alternative_to_the_real_thing.html">comments</a></span>
-					</p>
-				</li>
-
-
-
-			</ul>
-
+<div class="section-header no-carousel"><!-- begin #topads-->
+	<div class="container"><!-- begin #topads-->
+		<div class="col-md-12 widget-articles">
+			<h2>Privacy Policy</h2>
+			<p><strong>Privacy Code</strong></p>
+<p>Published on Weds Feb 11 2015</p>
+<p><strong>Our commitment to privacy: </strong></p>
+<p>Digital Auto Ventures, a partnership existing under the laws of Ontario DAV(“DAV”) knows that protecting the privacy and confidentiality of your personal information is important to you. This Privacy Code governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by DAV. The collection, use and disclosure of your personal information is governed by the <em>Personal Information Protection and Electronic Documents Act </em>(the “Act”), and any applicable provincial legislation. This Privacy Code explains what personal information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices.</p>
+<p>This Privacy Code applies only to personal information collected by DAV. Be aware that our websites may contain links to other websites that are maintained by third parties who are not required to comply with this Privacy Code and for which DAV has no responsibility. Please review the privacy policies on any external websites to determine their information handling practices.</p>
+<p>This Privacy Code is available to the public through our websites, and in paper form from DAV. If you have any additional concerns or questions, we encourage you to contact us and we will address your concerns to the best of our ability. <strong>Please read this Privacy Code carefully, and check back periodically as we may update it from time to time. By submitting your personal information to DAV, you signify your agreement to the terms and conditions of this Privacy Code. </strong></p>
+<p><strong>What is personal information? </strong></p>
+<p>Personal information is any information about an identifiable individual.</p>
+<p>DAV is responsible for personal information under its control. DAV has implemented policies and practices to give effect to this Privacy Code, including training and communicating with our employees about the importance of privacy and implementing security procedures that reasonably protect the personal information you provide to us. In addition, Torstar Corporation, DAV’s ultimate parent company, has appointed a Chief Privacy Officer to oversee personal information-handling practices of DAV.</p>
+<p><strong>What is excluded from privacy protection? </strong></p>
+<p>This Privacy Code does not impose restrictions on: business contact information, including the name, title, business address or telephone number of an employee of an organization; information collected, used or disclosed solely for journalistic, literary or artistic purposes; publicly available information, such as an individual’s name, telephone number and address when listed in a directory or made available through directory assistance; or information that is aggregated and not associated with a specific individual, including demographic information and statistics.</p>
+<p><strong>Children: </strong>If you are under the age of 18, be sure to obtain your parent or guardian’s permission before you send any personal information to us, or anyone else. We encourage parents to get involved with their children’s online usage and to be aware of the activities in which they are participating.</p>
+<p><strong>What personal information do we collect, and why? </strong></p>
+<ul>
+<li>We collect personal contact information (such as your name, address, email address and telephone numbers) if you: sign up for a newsletter; subscribe to a newspaper; register on an online forum or website, or to attend a paid event; purchase any product or service from DAV; are a classified advertiser or auction participant; or provide it to us when you attend a trade or consumer show. This information is used to fulfill your request for information, products or services, to provide targeted advertising, and to respond to your inquiries. From time to time this information may be used to provide reward points or apply credit, as applicable in the circumstances.</li>
+<li>We will retain your subscriber ID and passwords so that upon request by you we may remind you of them.</li>
+<li>If you enter a contest or other promotion, we use your personal contact information to administer the contest or promotion including contacting, announcing and promoting prizewinners. In addition, sometimes our contest rules provide that we may contact contest entrants with promotions and product information. Those rules will also include a way for you to indicate to us that you do not want to be contacted for this purpose. Some contests may also involve co-sponsors, who have their own privacy practices. In these cases, the contest rules and/or entry forms will indicate that your personal information is being shared with these co-sponsors and will provide you with the ability to opt-out from receiving promotions and product information from them.</li>
+<li>We collect demographic information, as well as purchase history and a list of promotions offered to you, in order to gain a better understanding of your interests so that we may develop better products and services, and to determine your eligibility for other products and services.</li>
+<li>We may also use demographic, personal contact and history information to contact you about changes, enhancements or other notices related to products or services you requested from us and which DAV provides. In addition, we may use this information to send you offers or information from us, our affiliates and from selected sponsors or advertisers (“Marketing Offers”). If you do not wish to receive Marketing Offers, you may opt-out at any time by following the opt-out procedure below.</li>
+<li>We keep notes and special instructions for classified advertisers and subscribers to help us fulfill your request and provide customer service. We may tape or monitor your telephone calls with our customer service representatives for quality assurance purposes.</li>
+<li>We collect your credit card information if you: subscribe to a newspaper; register on a paid website; enter a paid contest; register to attend a paid event; purchase any product from DAV or through one of our websites; are a classified advertiser or an auction participant. This credit card information is used for the purpose of fulfilling your order.</li>
+<li>If you choose to opt-out of any use of your personal information in accordance with our opt-out policy, we will keep your contact information on a list so that your request can be honoured. If you provide a complaint to any of our departments, we will collect your contact information and the nature of your complaint, for the purpose of investigating your concerns and responding to you.</li>
+<li>If you provide freelance or other services to us, we may collect your social insurance number for tax reporting purposes and your contact information in order to pay you.</li>
+<li>We may also use or collect additional information from freelancers, other service providers and from advertisers, such as financial information (for example, banking details and credit history) to assess credit risk, sales data to prepare royalty reports and other relevant information to help us evaluate the quality of your services.</li>
+<li>We use IP (internet protocol) addresses, to gather demographic and statistical information about our users, for systems administration and to diagnose problems with our servers, and to administer our websites. We may also use IP addresses to display or allow our third party advertising providers to display more targeted advertising and content.</li>
+<li>We may, from time to time, track and analyze anonymous usage and browsing patterns of visitors to our websites to provide our advertisers with more targeted advertising opportunities and to help users see advertising that is most likely to interest them.</li>
+<li>We generally use your personal information for the purposes of : managing, administering, collecting or otherwise enforcing your accounts; maintaining business records for reasonable periods of time and generally managing and administering our business; and meeting all relevant Canadian and international regulatory, legal, insurance, audit, security and processing requirements.</li>
+<li>Occasionally, we ask our customers to complete market research surveys. If you choose to participate in these surveys and provide your personal information for that purpose, your information will be aggregated as part of the survey results and shared with our advertisers, sponsors and affiliates in a manner that does not identify you.</li>
+<li>Other than as permitted or required by law, if we wish to collect, use or disclose your personal information for purposes that are not contemplated in this Privacy Code, we will identify those purposes at the time of collection. You will be given a reasonable opportunity to opt-out of any such additional purposes.</li>
+</ul>
+<p><strong>Behavioural Targeting </strong></p>
+<ul>
+<li>If you use any of our websites, we may assign an internet cookie. An internet cookie is a small text file that a website stores on your internet browser and that can collect and store information. We use cookies to better understand how you use our websites, to make sure our ads and dynamic content are served correctly and to improve the performance of our websites. For example, a cookie may recall a set of preferences you have set for our website and record items that you have registered for. Storing cookies on your web browser allows us to present you with web pages and other content that are attuned with your preferences. These activities are invisible to you, and are generally intended to improve your internet surfing convenience. Unless you have set your preferences so that you will be alerted when a cookie is being stored on your computer, you won’t know about it.</li>
+<li>If you are concerned about cookies, it is possible to turn them off in your web browser preferences. The following link has useful information about how to opt out of cookies that are placed by companies who are members of the Network Advertising Initiative: NAI (Network Advertising Initiative) Opt-Out . However, please be aware that by disabling cookies, you may not be able to use all portions of our websites, particularly pages requiring registration.</li>
+<li>We may place advertising or other links on our websites that originate from outside advertisers and other third parties. If you view these ads, the advertisers may assign a cookie. DAV does not control these cookies, nor is it responsible for any marketing or other use of your information by these advertisers or other third parties.</li>
+<li>Our websites may use gifs or other technologies to better tailor and manage advertising on our sites. These technologies may be in use on a number of pages across web sites. When you access these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These gifs usually work in conjunction with cookies. If you don’t want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies. If you turn off cookies, gifs and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded.</li>
+<li>Many of our websites use third-party advertising companies to serve ads when you visit the site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. Some ads appearing on our websites are delivered to you by DoubleClick, which is a web advertising company. These third parties may, from time to time, use information that they collect about your visits to this site, such as the number of times you have viewed an ad (but not your name, address or other personal contact information) to serve additional ads about goods and services that may be of interest to you. If you do not wish to have your information used in this way, please click on the following link: <a href="https://www.google.com/settings/ads?hl=en-GB&amp;sig=ACi0TCi4XqwZ4VnP7lXxds5zSFqr2jm8ctxkjn1ICHHyd3-VvakqCJ4rSmkor3lEpApCpqA-5Ms6K55RzpNpVUte3IYpvOdWbXcC50X-Gm_ThSrztfPu2jgpj49O-z30_3aGG23N93QwKrn74OLCgutosQgwRPNJP84pIvWVJ-SbLt29efM5E8AP4D4wptVqis3tGMj9bQUW">DoubleClick</a></li>
+</ul>
+<p><strong>To whom does DAV disclose personal information, and why? </strong></p>
+<p>DAV may disclose your personal information under the following circumstances:</p>
+<ul>
+<li>To provide you with Marketing Offers, DAV may disclose your personal contact information to affiliates and selected sponsors and advertisers. If you do not wish to receive Marketing Offers, you may opt-out at any time by following the opt-out procedure below.</li>
+<li>DAV may transfer your personal information to third party service providers in order to fulfill your order or perform processing and other specialized services (such as credit card processing, prize fulfillment of our contests, collection of overdue accounts, management of customer service requests, and product delivery).</li>
+<li>DAV may provide your name and credit card information on a confidential basis to a third party (which party may be outside of Canada) for the purpose of updating your credit card information to ensure that your ongoing subscription to DAV products and services is not interrupted.</li>
+<li>Your personal information may be processed and stored outside of the province in which you reside and/or outside of Canada by us, an affiliate or a third party service provider for the purposes set out in this Privacy Code and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.</li>
+<li>DAV may disclose your personal information to our affiliates for internal audit, management, billing or administrative purposes.</li>
+<li>DAV may disclose your contact information on a confidential basis to our advertisers for the sole purpose of newspaper delivery verification.</li>
+<li>DAV may disclose your personal information to third parties if you have violated our terms of service or conditions of purchase, or if we need to comply with applicable laws and lawful governmental requests, other legal and regulatory authorities and for other legal reasons.</li>
+<li>DAV may disclose your personal information on a confidential basis to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties.</li>
+</ul>
+<p><strong>Consent and opt-out policy. </strong></p>
+<p>In general, DAV seeks consent to use your personal information in accordance with our opt-out policy. Except as set out in this section, DAV obtains your express opt-in consent to use or disclose sensitive personal information.</p>
+<p>If you do not wish to receive Marketing Offers, you may opt-out at any time by doing any of the following:</p>
+<ul>
+<li>follow the instructions at the bottom of any email Marketing Offer you receive.</li>
+<li>inform your telemarketer at the time you are called with a Marketing Offer.</li>
+<li>call Customer Service at 1-877-307-2043 and request that your personal information not be used for Marketing Offers.</li>
+<li>email Customer Service at privacy@wheels.ca and request that your personal information not be used for Marketing Offers.</li>
+</ul>
+<p>It may take 2-4 weeks to fully process your opt-out request.</p>
+<p>Generally, when you provide us with your personal information, we will assume that you consent to our collection, use and disclosure of such information for the purposes identified or described in this Privacy Code, if applicable, or otherwise at the time of collection. We reserve the right to use and disclose your personal information without your consent where required or permitted by law, for example, if we have reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law, in order to protect or defend our legal interests, or to comply with applicable laws and lawful governmental requests.</p>
+<p><strong>Safeguards. </strong></p>
+<p>DAV has technical, contractual, administrative and physical security measures to protect your personal information in a manner that is reasonable and appropriate to the nature of the personal information you provide to DAV. For example, when you provide credit card information to us, we work to help protect the security of your credit card information by using industry standard secure sockets layer (SSL) encryption technology.</p>
+<p>Please be aware that email is not a secure medium, and any personal information you send to us by email could be intercepted. If your communication is very sensitive, or includes information such as your credit card number, you should not send it electronically unless the email is encrypted or your browser indicates that the access to our website is secure. Materials posted to online forums such as bulletin boards or comment sites are public, not secure and may be viewed by anyone. Any personal information you post may be collected and used by anyone and may result in unsolicited messages from other internet users. DAV is not responsible for personal information you choose to post or submit in any online forum on any of its websites.</p>
+<p><strong>How to access and correct your personal information. </strong></p>
+<p>Some of our websites provide you with the means to access, update, edit or delete certain subscriber or registration information by going to the appropriate page on the website and changing or deleting such information as desired. Alternatively, or for other information, you may call Customer Service at 1-800-279-0181 and we will make the changes upon receipt of appropriate evidence.</p>
+<p>We will give you access to the information we retain about you within a reasonable time, upon written request, satisfactory identification and proof of entitlement. In some cases, we may not provide access to personal information in our possession or control. If we deny your request, we will advise you in writing of the reason for the refusal and you may challenge our decision.</p>
+<p><strong>How to address concerns regarding your privacy. </strong></p>
+<p>DAV encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Code. If you have a question concerning DAV’s Privacy Code, would like a copy, or if you have any concerns, please contact Customer Service at: 1-877-307-2043, or email us at privacy@wheels.ca.</p>
+<p>Customer Service can successfully deal with many issues. If you prefer, or if after contacting Customer Service your concerns or questions have not been resolved to your satisfaction, you can contact Torstar Corporation’s Chief Privacy Officer in writing as follows:</p>
+<p><strong>Chief Privacy Officer </strong></p>
+<p>Torstar Corporation</p>
+<p>One Yonge Street, 6th floor</p>
+<p>Toronto ON</p>
+<p>M5E 1E6</p>
+<p>Fax: (416) 869-4183</p>
+<p>This Privacy Code was last updated on <strong>February 10, 2015 </strong></p>
+<p>&nbsp;</p>
+		</div>
+		<div class="col-md-12">
+			<!-- Async Tag // Tag for network 5240: Metroland    // Website: Wheels // Page: other // Placement: wheels_other_728x90_2 (3462207) // created at: Jan 12, 2015 2:09:43 PM --><div id="3462207" class="mid-ad"><noscript><a href="http://adserver.adtechus.com/adlink|3.0|5240.1|3462207|0|225|ADTECH;loc=300;key=key1+key2+key3+key4;alias=wheels_other_728x90_2" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5240.1|3462207|0|225|ADTECH;loc=300;key=key1+key2+key3+key4;alias=wheels_other_728x90_2" border="0" width="728" height="90"></a></noscript></div><script>ADTECH.config.placements[3462207]={sizeid:225,params:{alias:"wheels_other_728x90_2",target:"_blank"}};
+				ADTECH.loadAd(3462207);
+				</script>		</div>
+    </div>
+</div>
+<!-- end #main-->
+<div class="container no-background">
+		<img class="star-logo" src="http://www.wheels.ca/wp-content/themes/wheels/images/thestar.com_logo.png">
+</div>
+<footer>
+	<div class="container no-background">
+		<div class="row">
+			<div class="col-md-6">
+				<a href="http://www.wheels.ca"><img src="https://wheelsca.s3.amazonaws.com/static.wheels.ca/images/footer-logo.png" alt="Wheels.ca" title="Wheels.ca"></a>
+				<ul class="footer-social">
+					<li class="facebook"><a target="_blank" onclick="javascript:socialOmniture('Facebook');" href="https://www.facebook.com/Wheels.ca" title="Facebook"><i class="fa fa-facebook-square"></i></a></li>
+					<li class="twitter"><a target="_blank" onclick="javascript:socialOmniture('Twitter');" href="https://twitter.com/Wheelsca" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+					<li class="instagram"><a target="_blank" onclick="javascript:socialOmniture('Instagram');" href="http://instagram.com/wheelsca" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+				</ul>
+			</div>
+			<div class="col-md-4">
+				<ul id="menu-footer-left-menu-2" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83034 current_page_item menu-item-83037"><a title="Corporate Privacy Policy" target="_blank" rel="nofollow" href="http://www.wheels.ca/privacy-policy/">Corporate Privacy Policy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81667"><a title="Terms and Conditions" target="_blank" rel="nofollow" href="http://www.wheels.ca/terms-conditions/">Terms and Conditions</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81668"><a title="Accessible Customer Service Policy &amp; Procedure" target="_blank" rel="nofollow" href="http://media.metroland.com/pdf/Metroland-Accessible-Customer-Service-Policy-Procedure.pdf">Accessible Customer Service Policy &amp; Procedure</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81669"><a title="Commitment to Accessibility" target="_blank" rel="nofollow" href="http://media.metroland.com/pdf/StatementofCommitment.pdf">Commitment to Accessibility</a></li>
+</ul>			</div>
+			<div class="col-md-3">
+				<ul id="menu-footer-right-section-2" class=""><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81665"><a title="Commenting Guidelines" target="_blank" rel="nofollow" href="http://www.guelphtribune.ca/commenting-guidelines/">Commenting Guidelines</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81664"><a target="_blank" href="http://www.wheels.ca/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81663"><a target="_blank" href="http://www.wheels.ca/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81673"><a title="Sitemap" target="_blank" rel="nofollow" href="http://www.wheels.ca/sitemap/">Site Map</a></li>
+</ul>			</div>
 		</div>
 	</div>
-
-	
-
-</div>
-</div><div class="section"><div class="facebookActivities">
-
-
-
-
-
-<div class="facebook-activity">
-	
-	<div class="star-box-heading float-clear">
-		<h2 class="heading">Facebook Activity</h2>
-	</div>
-
-	<div class="fb-activity" data-site="thestar.com" data-width="306" data-height="250" data-border-color="#cccccc" data-header="false" data-recommendations="false"></div>
-	
-		
-	
-	<div class="footer">
-		<a href="http://www.facebook.com/torontostar">The Star on Facebook</a> 
-	</div>
-
-</div></div>
-</div><div class="section"><div class="HTML5">
-
-
-
-
-	
-
-		<div class="html5-container">
-             <script type="text/javascript"><!--
-google_ad_client = "ca-pub-6986100390200519";
-/* StarCQ5-300x250 */
-google_ad_slot = "2261158586";
-google_ad_width = 300;
-google_ad_height = 250;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-        </div>
-        
-        
-
-	
-
-</div>
-</div></div>
-</div></div>
-
-	  <div class="parsys ofinterestrightrail iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys ofinterestrightrail iparsys"><div class="section"><div class="HTML5">
-
-
-
-
-	
-
-		<div class="html5-container">
-             <div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="SB_1" data-ob-template="TorontoStar"></div>
-<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script> 
-        </div>
-        
-        
-
-	
-
-</div>
-</div></div>
-</div></div>
-
-	  <div class="parsys iparsys bottomrightrail"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys bottomrightrail"></div>
-</div></div>
-
-	  </div>
-  
-
-</div>
-
-<div class="footer-ads float-clear">
-  <div class="leaderboard"><div class="parsys iparsys footerLargeAd"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys footerLargeAd"></div>
-</div></div>
-</div>
-</div>
-
-
-
-  </div>
-
-  
-
-
-
-
-
-<footer>
-    <div id="returntomobile" style="display: none">Back to Mobile</div>
-
-  
-  
-    <div class="sponsoredlisting sponsoredlistings">
-
-<div class="sponsored-listings float-clear">
-
-  <strong class="heading"> </strong>
-  <div class="listing">
-    <div class="parsys sponsoredAd1"><div class="section adtech">
-
-
-
-                <script>
-document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
-</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329733;aduho=0;rdclick="></script><noscript>
-<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
-</noscript>
-
-	
-</div>
-</div>
-
-  </div>
-  <div class="listing">
-    <div class="parsys sponsoredAd2"><div class="section adtech">
-
-
-
-                <script>
-document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
-</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329733;aduho=0;rdclick="></script><noscript>
-<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
-</noscript>
-
-	
-</div>
-</div>
-
-  </div>
-  <div class="listing">
-    <div class="parsys sponsoredAd3"><div class="section adtech">
-
-
-
-                <script>
-document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
-</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329734;aduho=0;rdclick="></script><noscript>
-<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
-</noscript>
-
-	
-</div>
-</div>
-
-  </div>
-  <div class="listing">
-    <div class="parsys sponsoredAd4"><div class="section adtech">
-
-
-
-                <script>
-document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
-</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329736;aduho=0;rdclick="></script><noscript>
-<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
-</noscript>
-
-	
-</div>
-</div>
-
-  </div>
-  <div class="listing">
-    <div class="parsys sponsoredAd5"><div class="section adtech">
-
-
-
-                <script>
-document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
-</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329738;aduho=0;rdclick="></script><noscript>
-<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
-</noscript>
-
-	
-</div>
-</div>
-
-  </div>
-  <div class="listing">
-    <div class="parsys sponsoredAd6"><div class="section adtech">
-
-
-
-                <script>
-document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
-</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329739;aduho=0;rdclick="></script><noscript>
-<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
-</noscript>
-
-	
-</div>
-</div>
-
-  </div>
-
-</div>
-</div>
-
-  
-
-
-
-  
-
-  
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="global-footer">
-	<nav class="float-clear">
-
-  <div>
-    <strong class="heading">thestar.com</strong>
-    <ul>
-    
-    <li><a href="http://www.thestar.com/news.html">News</a></li>
-    
-    <li><a href="http://www.thestar.com/yourtoronto.html">Your Toronto</a></li>
-    
-    <li><a href="http://www.thestar.com/opinion.html">Opinion</a></li>
-    
-    <li><a href="http://www.thestar.com/sports.html">Sports</a></li>
-    
-    <li><a href="http://www.thestar.com/business.html">Business</a></li>
-    
-    <li><a href="http://www.thestar.com/entertainment.html">Entertainment</a></li>
-    
-    <li><a href="http://www.thestar.com/life.html">Life</a></li>
-    
-    <li><a href="http://www.thestar.com/diversions.html">Diversions</a></li>
-    
-    <li><a href="http://star.torontostarclassifieds.com/classifieds">Classifieds</a></li>
-    
-    <li><a href="http://www.thestar.com/about/sitemap.html">Site Map</a></li>
-    
-    </ul>
-  </div>
-
-  <hr>
-
-  <div>
-    <strong class="heading">&nbsp;</strong>
-    <ul>
-    
-    <li><a href="http://wheels.ca">Wheels.ca</a></li>
-    
-    <li><a href="http://www.insurancehotline.com">Insurance Hotline</a></li>
-    
-    <li><a href="http://www.newinhomes.com">New in Homes</a></li>
-    
-    <li><a href="http://starstore.ca">Star Store</a></li>
-    
-    <li><a href="http://www.thestar.com/blogs.html">Blogs</a></li>
-    
-    <li><a href="http://www.thestar.com/contests.html">Contests</a></li>
-    
-    <li><a href="http://www3.thestar.com/static/Third_Party/lotto/on_lottery.html">Lottery Results</a></li>
-    
-    <li><a href="http://www.legacy.com/obituaries/thestar">Obituaries</a></li>
-    
-    <li><a href="http://www.thestar.com/opinion/corrections.html">Corrections</a></li>
-    
-    <li><a href="http://www.thestar.com/opinion/public_editor.html">Public Editor</a></li>
-    
-    <li><a href="http://www.thestar.com/about/privacy.html#btarget">Behavioural Targeting</a></li>
-    
-    <li><a href="http://www.thestar.com/todaysnews.html">Today's News</a></li>
-    
-    </ul>
-  </div>
-
-  <hr>
-
-  <div>
-    <strong class="heading">Toronto Star Newspapers Ltd.</strong>
-    <ul>
-    
-    <li><a href="http://www.thestar.com/about/aboutus.html">About</a></li>
-    
-    <li><a href="http://www.thestar.com/about/atkinson.html">Atkinson Principles</a></li>
-    
-    <li><a href="http://www.thestar.com/about/statementofprinciples.html">Statement of Principles</a></li>
-    
-    <li><a href="http://www.thestar.com/about/subscribe.html">Get Home Delivery</a></li>
-    
-    <li><a href="https://secure.thestar.com/CSSApp/login.jsp">My Subscription</a></li>
-    
-    <li><a href="http://www.thestar.com/about/contactus.html">Contact Us</a></li>
-    
-    <li><a href="http://www.thestar.com/about/contactwebmaster.html">Contact Webmaster</a></li>
-    
-    <li><a href="http://www.thestar.com/about/faq.html">FAQ</a></li>
-    
-    <li><a href="http://www.thestar.com/about/newsreleases.html">News Releases</a></li>
-    
-    <li><a href="http://www.thestar.com/about/starinternships.html">Star Internships</a></li>
-    
-    <li><a href="http://www.workopolis.com/jobsearch/jobs-at-star-media-group-/930880">Careers @ the Star</a></li>
-    
-    </ul>
-  </div>
-
-  <hr>
-
-  <div>
-    <strong class="heading">Advertise with us</strong>
-    <ul>
-    
-    
-        	<li class="list" data-enable-track-click="false" data-source="Advertising Terms" data-url="/content/thestar/about/termsandconditions"><a href="/content/thestar/about/termsandconditions">Advertising Terms</a></li>
-        
-        	<li class="list" data-enable-track-click="true" data-source="Mediakit" data-url="http://mediakit.thestar.ca"><a href="http://mediakit.thestar.ca">Mediakit</a></li>
-        
-        	<li class="list" data-enable-track-click="false" data-source="Online Advertising" data-url="http://mediakit.thestar.ca/online.html"><a href="http://mediakit.thestar.ca/online.html">Online Advertising</a></li>
-        
-        	<li class="list" data-enable-track-click="false" data-source="Print Advertising" data-url="http://mediakit.thestar.ca/print.html"><a href="http://mediakit.thestar.ca/print.html">Print Advertising</a></li>
-        
-        	<li class="list" data-enable-track-click="false" data-source="Special Features" data-url="/special_features.html"><a href="/special_features.html">Special Features</a></li>
-        
-    </ul>
-  </div>
-
-  <hr>
-
-  <div>
-    <strong class="heading">Initiatives</strong>
-    <ul>
-    
-    <li><a href="http://www.thestar.com/initiatives/santa_claus_fund.html">Santa Claus Fund</a></li>
-    
-    <li><a href="http://www.thestar.com/initiatives/fresh_air_fund.html">Fresh Air Fund</a></li>
-    
-    <li><a href="http://www.thestar.com/initiatives/speakersbureau.html">Speakers Bureau</a></li>
-    
-    <li><a href="http://www.classroomconnection.ca">Classroom Connection</a></li>
-    
-    <li><a href="http://pagesofthepast.ca">Pages of the Past</a></li>
-    
-    <li><a href="http://www.thestar.com/initiatives/2013_report_on_community_giving.html">Report on Community Giving</a></li>
-    
-    </ul>
-  </div>
-
-  <hr>
-
-  <div class="last">
-    <strong class="heading">Connect with Us</strong>
-    <ul>
-    
-    <li><a href="http://www.thestar.com/about/rssfeeds.html">RSS feeds</a></li>
-    
-    <li><a href="http://www.thestar.com/about/twitter.html">Twitter Updates</a></li>
-    
-    <li><a href="http://www.thestar.com/about/newsalerts.html">News Alerts</a></li>
-    
-    <li><a href="http://www3.thestar.com/static/newsletter/email_registration.html">Newsletters</a></li>
-    
-    <li><a href="http://www.thestar.com/getmobile.html">Mobile Devices</a></li>
-    
-    </ul>
-  </div>
-
-	</nav>
-</div>
-
- 
-  
-
-  <div class="copyright">
-    <p>© Copyright Toronto Star Newspapers Ltd. 1996-2014</p>
-    <ul class="legal">
-      <li><a href="http://www.thestar.com/about/terms.html">Terms and Conditions</a></li>
-      <li class="last"><a href="http://www.thestar.com/about/privacy.html">Privacy Policy</a></li>
-    </ul>
-  </div>
-
 </footer>
-
-
-
-<div id="mystar-sidebar-container">
-  <div class="mystar">
-	 <div class="sidebar"></div>
-  </div>
+<div class="sub-footer">
+	<div class="container no-background">
+		<div class="row">
+			<div class="col-md-12">© Copyright 2015 Toronto Star Newspapers Limited and Metroland Media Group Ltd. All Rights Reserved | Wheels Automotive Network</div>
+		</div>
+	</div>
 </div>
-
-
-
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"1305432","applicationTime":344,"beacon":"beacon-6.newrelic.com","queueTime":0,"licenseKey":"9faa45284b","transactionName":"ZlNVbEcHC0AHBUcMW18ZZV1EEwBAEidHEUZYVEJMUEk1UgEDZxxEVBYaGGYSCkEf","agent":"js-agent.newrelic.com\/nr-476.min.js","errorBeacon":"bam.nr-data.net"}</script>
-
-
-  <div class="adsettings">
-
+<div class="scroll-to-top-arrow">
+  <i class="fa fa-chevron-up"></i>
 </div>
-
-  
-</div>
-
-
-
-
-
-
-
-
-<script src="//www.google-analytics.com/cx/api.js?experiment=Eyv5i1bZTCii9Dx039pVyw"></script>
-
-<script src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
-<script src="http://admin.brightcove.com/js/APIModules_all.js"> </script>
-
-<script src="/etc/designs/thestar/mainlib.js" type="text/javascript" charset="UTF-8"></script>
-
-
-<script>
-function exec_star_component_init(wait) {
-	var timeout = typeof wait === 'number' ? wait : 0;
-	setTimeout(function() { $(document).trigger('star_component_init'); }, timeout);
-}
-$(document).ready(exec_star_component_init);
-</script>
-
-
 <script type="text/javascript">
-(function(w,d) {
-    function l(){
-        var site='4166', page='generic', s, er=d.createElement('script');
-        er.type='text/javascript'; er.async=true;
-        er.src='//o2.eyereturn.com/?site='+site+'&page='+page;
-        s=d.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(er, s);
-    }
-    if (w.addEventListener) {w.addEventListener("load", l, false);}
-    else if (w.attachEvent) {w.attachEvent("onload",l);}
-})(window,document);
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.wheels.ca\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.wheels.ca\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
 </script>
+<script type="text/javascript" src="http://www.wheels.ca/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105"></script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="fb-root"></div>
-<script>
-if ($('html.lt-ie8').length==0){
-  window.fbAsyncInit = function() {
-    if (typeof FB!='object') return;
-    FB.init({
-      appId: '448801065136087',
-      status: true,
-      cookie: true,
-      logging: false,
-      xfbml: true,
-      channelUrl: 'http://www.thestar.com/etc/designs/thestar/fb-channel.html'
-    });
-    FB.Event.subscribe('edge.create', function() {
-      FB.XFBML.parse();
-      facebookLike();
-    });
-  };
-  (function(d) {
-    var js, id = 'facebook-jssdk',
-        ref = d.getElementsByTagName('script')[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement('script');
-    js.id = id;
-    js.async = true;
-    js.src = "//connect.facebook.net/en_US/all.js";
-    ref.parentNode.insertBefore(js, ref);
-  }(document));
-}
-</script>
-
-
-<script>
-window.twttr = (function(d, s, id) {
-  var t, js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s);
-  js.id = id;
-  js.src = "//platform.twitter.com/widgets.js";
-  fjs.parentNode.insertBefore(js, fjs);
-  return window.twttr || (t = {
-    _e: [],
-    ready: function(f) {
-      t._e.push(f)
-    }
-  });
-}(document, "script", "twitter-wjs"));
-</script>
-
-
-<script>
-  (function() {
-    var ms = document.createElement('script'); ms.type = 'text/javascript'; ms.async = true;
-    ms.src = mystar_secure_domain + '/assets/mystar.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ms, s);
-  })();
-</script>
-
-
-<script>
-(function() {
-  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-  po.src = 'https://apis.google.com/js/plusone.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-})();
-</script>
-
-<script src="http://b.scorecardresearch.com/beacon.js"></script>
-<script>
-$(function(){
-	if (typeof COMSCORE=='object' && typeof COMSCORE.beacon=='function'){
-	COMSCORE.beacon({
-		c1: 2,
-		c2: '3005674',
-		c3: '',
-		c4: 'http://www.thestar.com',
-		c5: '',
-		c6: '',
-		c15: ''
-	});
-	}
-});
-</script>
-
-
-<script>
-var _sf_async_config = { uid: '16909', domain: 'thestar.com' };
-</script>
-
-<!--[if gte IE 9]>
-<script src="/etc/designs/thestar/mainlib/js/libs/jquery.pinable.js"></script>
-<script>
-$(function() { if ('pinable' in $.fn) $('body').pinable(); });
-</script>
-<![endif]-->
-
-<script>
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-3420772-1']);
-_gaq.push(['_trackPageview']);
+<!-- Begin feedbackify Code -->
+<script type="text/javascript">
+var fby = fby || [];
+fby.push(['showTab', {id: '8477', position: 'right', color: '#FF1F3A'}]);
 (function () {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
+    f.src = '//cdn.feedbackify.com/f.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
 })();
-function trackAssetEvent(action, uid) { _gaq.push(['_trackEvent', 'asset', action, '' + uid, 1, true]); }
+</script>
+<!-- END feedbackify Code -->
+
+<!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "16433047" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
 </script>
 
-<!--Visual Revenue Reader Response Tracking Script (v6) -->
-<script type="text/javascript">
-var _vrq = _vrq || [];
-_vrq.push(['id', 400]);
-_vrq.push(['automate', (document.body.className.indexOf('homepage')>=0)]);// true for home page
-_vrq.push(['track', function(){}]); (function(d, a){
-var s = d.createElement(a),
-x = d.getElementsByTagName(a)[0];
-s.async = true;
-s.src = 'http://a.visualrevenue.com/vrs.js'; x.parentNode.insertBefore(s, x);
-})(document, 'script');
-</script>
-<!-- End of VR RR Tracking Script - All rights reserved -->
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=16433047&amp;cv=2.0&amp;cj=1" alt="" /></noscript>
+<!-- End comScore Tag -->
+<!-- SiteCatalyst code version: H.27.4.
+Copyright 1996-2015 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
 
-<script type="text/javascript">
-    try {
-        if ($('div.article-story-body a[data-councillor]').length > 0) {
-            $('div.article-story-body a[data-councillor]').each(function () {
-                var linkContent = $(this).text();
-                var res = linkContent.replace("poilcard", "policard");
-                $(this).text(function (n) {
-                    return res;
-                });
-            });
-        }
-    }catch(err){
-        console.log("policard" + err);
-    }
-</script>
+<script language="JavaScript" type="text/javascript">
+if(Session.get("previousPage") == undefined){
+	Session.set("previousPage","")
+}
+var previousPage = Session.get("previousPage");
+<!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server=""
+s.channel=""
+s.prop1 = s.eVar1 = "1.0"
+s.prop2 = s.eVar2 = ""
+s.prop3 = s.eVar3 = ""
+s.prop4 = s.eVar4 = ""
+s.prop5 = s.eVar5 = ""
+s.prop6 = s.eVar6 = ""
+s.prop7 = s.eVar7 = ""
+s.prop8 = s.eVar8 = ""
+s.prop9 = s.eVar9 = ""
+s.prop12 = s.eVar12 = "sections"
+s.prop22 = s.eVar22 = "Logged Out"
+s.prop27 = s.eVar27 = "12:18AM"
+s.prop28 = s.eVar28 = "Wednesday"
+s.prop30 = s.eVar30 = previousPage
+Session.set("previousPage","");
+s.prop32 = s.eVar32 = "http://www.wheels.ca/privacy-policy/"
+s.prop34 = s.eVar34 = ""
+s.hier1 = ""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://thestar.122.2o7.net/b/ss/thestarwheelsdevenviro/1/H.27.4--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.27.4. -->
+<input type="hidden" id="hdnAnalytics" value="{&quot;pageName&quot;:&quot;&quot;,&quot;channel&quot;:&quot;&quot;,&quot;postType&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;slug&quot;:&quot;&quot;,&quot;tags&quot;:&quot;&quot;,&quot;publishDate&quot;:&quot;&quot;,&quot;cname&quot;:&quot;sections&quot;,&quot;author&quot;:&quot;&quot;,&quot;subPage&quot;:&quot;&quot;,&quot;subPage2&quot;:&quot;&quot;,&quot;subPage3&quot;:&quot;&quot;,&quot;time&quot;:&quot;12:18AM&quot;,&quot;day&quot;:&quot;Wednesday&quot;}">
+		<!--<a class="thickbox blockbusterLink" target="_blank" href="?TB_iframe=true&width=1080&height=788" rel="Blockbuster" style = 'display:none;'>View</a>-->
+		
+		<script type="text/javascript">
+			// jQuery(document).ready(function(){
+				
+				// function setCookie(cname, cvalue, exdays) {
+					// var d = new Date();
+					// d.setTime(d.getTime() + (exdays*24*60*60*1000));
+					// var expires = "expires="+d.toUTCString();
+					// document.cookie = cname + "=" + cvalue + "; " + expires;
+				// }
+				
+				// function getCookie(cname) {
+					// var name = cname + "=";
+					// var ca = document.cookie.split(';');
+					// for(var i=0; i<ca.length; i++) {
+						// var c = ca[i];
+						// while (c.charAt(0)==' ') c = c.substring(1);
+						// if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+					// }
+					// return "";
+				// }
+				
+				// function checkCookie(cname) {
+					// var user = getCookie(cname);
+					// if (user != "") {
+						// return true;
+					// } else {
+						// return false;
+					// }
+				// }
+			
+				// if(!checkCookie('blockbuster')){
+					// jQuery('a.blockbusterLink').trigger('click');
+					// setCookie('blockbuster', 1, 1);
+				// }
+			// });
+		</script>
+	
 
-
-<script src="https://www.syncaccess.net/po/tstar/api/scripts/syncwall"></script>
-
-
-
-
-
-
-
-
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+	
+</body></html>
