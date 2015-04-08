@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crainsdetroit.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128182114id_/http%3A//www.crainsdetroit.com/article/99999999/STATIC/50915004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainsdetroit.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408154602id_/http%3A//www.crainsdetroit.com/article/99999999/STATIC/50915004) for the most accurate reproduction.*
 
-# Crain's Detroit Business Privacy Statement | Crain's Detroit Business
+# Crain's Detroit Business Privacy Statement - Crain's Detroit Business
 
 CrainsDetroit.com is the Web site of _Crain's Detroit Business_ , a publication of Crain Communications Inc. **Our postal address is 1155 Gratiot Avenue, Detroit, MI 48207**. We can be reached ******by telephone at 313-446-0416**. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
 
