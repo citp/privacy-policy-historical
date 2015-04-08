@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missguided.eu privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701195657id_/http%3A//www.missguided.eu/terms%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missguided.eu privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408043637id_/http%3A//www.missguided.eu/terms%23privacypolicy) for the most accurate reproduction.*
 
 # Terms & Conditions EU | Ireland
 
@@ -61,8 +61,9 @@ All prices are inclusive of VAT. Delivery costs will be charged in addition; suc
 
 **5.7** PAYMENT \- Upon receiving your order we carry out a standard pre-authorisation check on your payment card to ensure there are sufficient funds to fulfil the transaction. Goods will not be dispatched until this pre-authorisation check has been completed. Your card will be debited once the order has been accepted.
 
-**5.8** DISCOUNT CODES \- Discount codes may from time to time be offered to account holders; such codes may only be applied to purchases made through the account in respect of which the discount code was offered and registered.   
-Promotional discount codes - We may from time to time offer promotional discount codes which may apply in respect of any, or certain specified, purchases made though this Website.   
-The conditions of use relating to any discount code will be specified at the time of issue. All discount codes apply to full price items only.
+**5.8** DISCOUNT CODES \- Discount codes may from time to time be offered to account holders. Discount codes of any kind may only be applied to purchases made through the account in respect of which the discount code was offered and registered. Discount codes are not transferable and must not be sold or transferred to anyone else for use in any way. Discount codes have no monetary value.  
+Promotional discount codes - We may from time to time offer promotional discount codes which may apply in respect of any, or certain specified, purchases made though this Website. Promotional codes may be subject to certain restrictions, including dates when the promotional discount codes apply.  
+Discount codes or promotional discount codes may include additional conditions of use which may be specified at the time of issue. All discount codes apply to full price items only and cannot be used in conjunction with any other offers.  
+Any breach of this clause 5.8 or the specific terms of the discount code may result in an order being rejected or an order being void.
 
 **5.9** EXCHANGE RATES  \- Prices of products featured on the site are subject to exchange rate fluctuations.
