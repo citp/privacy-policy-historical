@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the economicandfinance.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121125251id_/http%3A//www.economicandfinance.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the economicandfinance.com privacy policy that was archived on 2015-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408053750id_/http%3A//www.economicandfinance.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
     <title>Privacy Policy | Economics and Finance</title>
@@ -13,9 +13,7 @@
 <link rel="alternate" type="application/rss+xml" title="Economics and Finance » Comments Feed" href="http://www.economicandfinance.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Economics and Finance » Privacy Policy Comments Feed" href="http://www.economicandfinance.com/privacy-policy/feed/">
 <link rel="stylesheet" id="contact-form-7-css" href="http://www.economicandfinance.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="rs-settings-css" href="http://www.economicandfinance.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.1.4&amp;ver=3.8.5" type="text/css" media="all">
-<link rel="stylesheet" id="rs-captions-css" href="http://www.economicandfinance.com/wp-content/plugins/revslider/rs-plugin/css/dynamic-captions.css?rev=4.1.4&amp;ver=3.8.5" type="text/css" media="all">
-<link rel="stylesheet" id="rs-plugin-static-css" href="http://www.economicandfinance.com/wp-content/plugins/revslider/rs-plugin/css/static-captions.css?rev=4.1.4&amp;ver=3.8.5" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://www.economicandfinance.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.5" type="text/css" media="all">
 <link rel="stylesheet" id="google-font-opensans-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&amp;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&amp;ver=3.8.5" type="text/css" media="all">
 <link rel="stylesheet" id="google-font-ubuntu-css" href="http://fonts.googleapis.com/css?family=Ubuntu%3A300%2C400%2C500%2C700%2C300italic%2C400italic%2C500italic%2C700italic&amp;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Clatin-ext%2Ccyrillic&amp;ver=3.8.5" type="text/css" media="all">
 <link rel="stylesheet" id="google-font-pt-sans-css" href="http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic&amp;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic&amp;ver=3.8.5" type="text/css" media="all">
@@ -25,8 +23,8 @@
 <link rel="stylesheet" id="td-theme-css" href="http://www.economicandfinance.com/wp-content/themes/Newspaper-child/style.css?ver=3.1.1" type="text/css" media="all">
 <script type="text/javascript" src="http://www.economicandfinance.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
 <script type="text/javascript" src="http://www.economicandfinance.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.economicandfinance.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.1.4&amp;ver=3.8.5"></script>
-<script type="text/javascript" src="http://www.economicandfinance.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.1.4&amp;ver=3.8.5"></script>
+<script type="text/javascript" src="http://www.economicandfinance.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5"></script>
+<script type="text/javascript" src="http://www.economicandfinance.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.5"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.economicandfinance.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.economicandfinance.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 3.8.5">
@@ -49,7 +47,68 @@
 					padding:5px;
 				} 
 			</style>
-            <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+            		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '5d32191340';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://www.economicandfinance.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     
 <!-- JS generated by theme -->
 
@@ -142,7 +201,7 @@ var td_responsive="";
                     <meta itemprop="name" content="Economics and Finance">
                                 </div>
             <div class="span8">
-                <div class="td-a-rec td-a-rec-id-header "><a target="_blank" href="http://track.linkoffers.net/a.aspx?foid=23014355&amp;fot=9999&amp;foc=2&amp;foc2=598463" rel="nofollow" alt="Pink ACE Elite™ Visa<sup>®</sup> Prepaid Card" title="Pink ACE Elite™ Visa<sup>®</sup> Prepaid Card"><img border="0" src="http://content.linkoffers.net/SharedImages/Products/219957/598463.png"></a></div>            </div>
+                            </div>
         </div>
     </div>
 </div>
