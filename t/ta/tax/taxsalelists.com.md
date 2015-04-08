@@ -1,51 +1,35 @@
-> *The following text is extracted and transformed from the taxsalelists.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118074254id_/http%3A//taxsalelists.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxsalelists.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408110542id_/http%3A//www.taxsalelists.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TaxSaleLists.com - Lists and Manuals for Tax Lien and Tax Deed Sales Nationwide
+# - TaxSaleLists.com - Lists and Manuals for Tax Lien and Tax Deed Sales Nationwide
 
-**TaxSaleLists.com** has always been committed to maintaining the accuracy, confidentiality, and security of your personal and corporate information. We have established Privacy Principles to govern our use of customer information. 
+#####  Our Commitment To Privacy 
 
-TaxSaleLists.com does not sell, share or distribute Customer Information to any third party organization with the exception of CSP and fast cash students where we will refer their name to those offering further training prospects. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
-### Accountability 
+#####  The Information We Collect 
 
-**TaxSaleLists.com** is responsible for maintaining and protecting customer information under its control. 
+This notice applies to all information collected or submitted on the TaxSaleLists.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-### Identifying Purposes
+> Name  
+>  Address  
+>  Email address  
+>  Phone number  
+>  Credit Card Information 
 
-The purposes for which customer information is collected shall be identified before or at the time the information is collected. 
+#####  The Way We Use Information 
 
-### Consent
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-The knowledge and consent of the customer are required for the collection, use or disclosure of customer information except where required or permitted by law. CSP and FAST CASH students acknowledge they have given this permission. 
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-### Limiting Collection 
+You can register with our website if you would like to receive updates on our newly list tax sale lists. Information you submit on our website will not be used for this purpose unless you fill out the online registration form. 
 
-The customer information collected must be limited to those details necessary for the purposes identified by **TaxSaleLists.com** Information must be collected by fair and lawful means. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-### Limiting Use, Disclosure and Retention
+#####  Our Commitment To Data Security 
 
-Customer information may only be used or disclosed for the purpose for which it was collected unless the customer has otherwise consented, or when it is required or permitted by law. Customer information may only be retained for the period of time required to fulfill the purpose for which it was collected. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-### Accuracy
+#####  How To Contact Us 
 
-Customer information must be maintained in as accurate, complete and up-to-date form as is necessary to fulfill the purposes for which it is to be used. 
-
-### Safeguarding Customer Information 
-
-Customer information must be protected by security safeguards that are appropriate to the sensitivity level of the information. 
-
-### Openness
-
-**TaxSaleLists.com** is required to make information available to customers concerning the policies and practices that apply to the management of their information. 
-
-### Customer Access 
-
-Upon request, a customer shall be informed of the existence, use and disclosure of their information, and shall be given access to it. Customers may verify the accuracy and completeness of their information, and may request that it be amended, if appropriate. 
-
-### Handling Customer Complaints and Suggestions 
-
-Customers may direct any questions or inquiries with respect to the privacy principles outlined above or about our practices by contacting the designated person(s) accountable for privacy at **TaxSaleLists.com**. 
-
-### Future Communications
-
-To opt out of future communications, please send email to [support@ **taxsalelists.com**](mailto:support@%3Cb%3Etaxsalelists.com%3C/b%3E) or call us at 303-379-8010. 
+Should you have other questions or concerns about these privacy policies, please send us an email at [support@taxsalelists.com](mailto:support@taxsalelists.com). 
