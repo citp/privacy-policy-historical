@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whiteraverrafting.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007071545id_/http%3A//whiteraverrafting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteraverrafting.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409002502id_/http%3A//whiteraverrafting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | WhiteRaverRafting
 
 **Privacy Policy for www.whiteraverrafting.com**
 
