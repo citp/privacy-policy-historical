@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latex-tutorial.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217135437id_/http%3A//www.latex-tutorial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latex-tutorial.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408111607id_/http%3A//www.latex-tutorial.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
