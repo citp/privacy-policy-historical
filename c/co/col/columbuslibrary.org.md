@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbuslibrary.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207175424id_/http%3A//www.columbuslibrary.org/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbuslibrary.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408051240id_/http%3A//www.columbuslibrary.org/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Columbus Metropolitan Library
 
