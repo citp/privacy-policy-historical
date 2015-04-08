@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207224832id_/http%3A//www.hclibrary.org/index.php%3Fpage%3D550) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409001509id_/http%3A//www.hclibrary.org/index.php%3Fpage%3D550) for the most accurate reproduction.*
 
 # Howard County Library System - Privacy Statement
 
