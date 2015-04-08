@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcornhour.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117150911id_/http%3A//www.cloudmedia.com/aboutus/legal-info/38-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcornhour.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408044807id_/http%3A//www.cloudmedia.com/aboutus/legal-info/38-privacy-policy) for the most accurate reproduction.*
 
 # Cloud Media - Privacy Policy
 
