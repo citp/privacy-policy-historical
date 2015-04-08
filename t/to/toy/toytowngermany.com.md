@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toytowngermany.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702233003id_/http%3A//www.toytowngermany.com/xtra/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toytowngermany.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408142501id_/http%3A//www.toytowngermany.com/xtra/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
