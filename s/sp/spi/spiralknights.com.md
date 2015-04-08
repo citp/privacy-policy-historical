@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiralknights.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628102520id_/http%3A//www.spiralknights.com/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiralknights.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409001918id_/http%3A//www.spiralknights.com/privacy.xhtml) for the most accurate reproduction.*
 
 # Spiral Knights - Privacy Policy
 
