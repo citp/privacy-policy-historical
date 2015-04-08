@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourhugelist.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010705id_/http%3A//yourhugelist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhugelist.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408101628id_/http%3A//yourhugelist.com/privacy.php) for the most accurate reproduction.*
 
 # Best List Builder | Quality ListBuilder | Email Advertising | YourHugeList.com
 
-[](http://yourhugelist.com/bannerclick.php?id=4956)  
+[](http://yourhugelist.com/bannerclick.php?id=5237)  
 
 
 YourHugeList Privacy Policy
