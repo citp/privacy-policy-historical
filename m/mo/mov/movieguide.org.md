@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movieguide.org privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008183558id_/http%3A//www.movieguide.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieguide.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408082032id_/http%3A//www.movieguide.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Movieguide | The Family Guide to Movie Reviews
+# Privacy Policy | Movieguide | Movie Reviews for Christians
 
 **Email Privacy Policy**
 
