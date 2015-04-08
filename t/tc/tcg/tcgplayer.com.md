@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010143130id_/http%3A//magic.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408233953id_/http%3A//magic.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
 # Magic The Gathering Strategy, News, Decks, Price Guide and an Online Card Store
 
