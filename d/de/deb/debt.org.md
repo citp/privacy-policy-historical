@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debt.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221052141id_/http%3A//www.debt.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debt.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408030623id_/http%3A//www.debt.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Will Not Share Your Information
 
