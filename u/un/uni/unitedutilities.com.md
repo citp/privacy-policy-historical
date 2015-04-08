@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144630id_/http%3A//www.unitedutilities.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408112042id_/http%3A//www.unitedutilities.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | United Utilities
 
@@ -50,7 +50,7 @@ When one of our customer advisors/employees needs to contact you to discuss your
   * When we are under a legal duty to do so, because of a court order or statutory obligation. 
   * Where we believe that you may be interested in the services offered by other organisations. 
   * To the protection and detection of crime. 
-  * For research purposes.
+  * For research purposes. 
 
 
 
@@ -83,9 +83,7 @@ In the course of undertaking the activities specified in this privacy policy we 
 
   * [Recruitment privacy policy](http://corporate.unitedutilities.com/recruitment-privacy-policy.aspx "Recruitment privacy policy")
 
-  * [Household consumers 2013 – 2014](https://web.archive.org/documents/Charges_scheme_2013-2014.pdf "Household consumers 2013 – 2014")
-
-  * [Charges scheme summary - Household consumers 2013/2014](https://web.archive.org/documents/Household_charges_2013-2014_-_at_a_glance.pdf "Charges scheme summary - Household consumers 2013/2014 \(PDF\)")
+  * [Household customers charging scheme](https://web.archive.org/documents/UUW_Limited_-_Household_charges_scheme_2015-2016.pdf "Household customers charging scheme ")
 
 
 
