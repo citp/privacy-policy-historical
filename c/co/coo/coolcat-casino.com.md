@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolcat-casino.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701065018id_/http%3A//www.coolcat-casino.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolcat-casino.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408030614id_/http%3A//www.coolcat-casino.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy and Terms of Use - CoolCat Casino
 
