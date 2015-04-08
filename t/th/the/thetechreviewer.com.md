@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechreviewer.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203185751id_/http%3A//thetechreviewer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechreviewer.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408062922id_/http%3A//thetechreviewer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
