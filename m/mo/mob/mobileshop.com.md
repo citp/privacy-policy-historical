@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileshop.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211114116id_/http%3A//www.mobileshop.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileshop.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408022719id_/http%3A//www.mobileshop.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobileshop.com
 
