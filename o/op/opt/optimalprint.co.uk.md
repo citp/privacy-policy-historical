@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optimalprint.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818092227id_/http%3A//www.optimalprint.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalprint.co.uk privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408090753id_/http%3A//www.optimalprint.co.uk/privacy) for the most accurate reproduction.*
 
-# Cookies & Privacy
+# Privacy Policy
 
 Back
 
@@ -72,6 +72,8 @@ If you do not wish to receive cookies, or want to be notified of when they are p
 Some of our business partners whose content is linked to or from this site may also use cookies. However, we have no access to or control over these cookies. 
 
 By using and browsing the Optimalprint website, you consent to cookies being used in accordance with our policy. If you do not consent, you must disable cookies or refrain from using the site. 
+
+Third parties we partner with may place anonymous cookies on your browser and may send their own cookies to your cookie file. 
 
 ## Spam
 
