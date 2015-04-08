@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leons.ca privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228033209id_/http%3A//www.leons.ca/shared/customerservice/policy.aspx%3FPG%3D67%26RetailerId%3D16%2367) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leons.ca privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408042205id_/http%3A//www.leons.ca/shared/customerservice/policy.aspx%3FPG%3D67%26RetailerId%3D16%2367) for the most accurate reproduction.*
 
 # Our Policies - Leon's
 
@@ -14,7 +14,7 @@ At Leon's, you can always feel comfortable with your purchase and proud of your 
   
 Integrity Pricing means:
 
-• Our everyday prices are the lowest and we guarantee them for 30 days. And when we do have a sale, you can be sure it really is a genuine sale.
+• Our everyday prices are the lowest and we guarantee them for 60 days. And when we do have a sale, you can be sure it really is a genuine sale.
 
 • Our prices include local delivery and placement of most items at no extra charge.
 
@@ -146,7 +146,7 @@ To ensure smooth pick-up of your furniture, please review the following pick-up 
 Purchases, Cancellations  
 Cancellation before Delivery  
   
-If you have NOT received your merchandise, you may cancel all or part of your order within 48 hours of placing your order without a charge or fee by contacting us.
+If you have NOT received your merchandise, you may cancel all or part of your order within 48 hours of placing your order without a charge or fee by contacting us. Does not apply to special orders.
   
 back to top  
 Returns after Delivery  
@@ -307,7 +307,7 @@ Security at Leon's
   
 back to top  
   
-**[Please read our FAQ](https://web.archive.org/web/20141228033209id_/http%3A//www.leons.ca/shared/customerservice/frequentlyaskedquestions.aspx)** for additional information and answers to common questions.
+**[Please read our FAQ](https://web.archive.org/web/20150408042205id_/http%3A//www.leons.ca/shared/customerservice/frequentlyaskedquestions.aspx)** for additional information and answers to common questions.
   
 Accessibility Policy  
 Accessibility  
@@ -327,38 +327,64 @@ The environmental fee ranges in price (see below), and will be placed on each pr
 
 
   
+Canadian Environmental Handling Fees as of March 2nd, 2015  
   
 _Alberta_  
-Television (18" and smaller, including combo units):$4.00  
-Television (19"-29", including combo units): $4.00  
-Television (30"-45", including combo units): $10.00  
-Television (46" and higher, including combo units): $10.00 _Ontario_  
-Camcorders/Cameras/Portable DVD Players/Mini Systems: $0.75  
-Home Theatre Systems: $7.10  
-Audio Components/Speakers/DVD Players: $7.10  
+Television (29" and smaller, including combo units): $4.00  
+Television (30" and higher, including combo units): $10.00 _Manitoba_  
+Portable Electronics (Camcorders, Cameras, Portable DVD Players, Mini Systems): $0.40  
+Portable Computers (Notebooks, Tablets): $2.10  
+Home Theatre Systems: $6.00  
+Home A/V Systems (Speakers, DVD/Blu-Ray Players, Cable Boxes, PVRs, Satellite Systems): $3.50  
+Television (29" and smaller, including combo units): $9.25  
+Television (30”-45”, including combo units): $23.25  
+Television (46" and higher, including combo units): $39.50  
+Microwaves (less than 1 cu. ft.): $7.50  
+Microwaves (1 cu. ft. or more): $10.00 _Newfoundland & Labrador_  
+Portable Electronics (Camcorders, Cameras, Portable DVD Players, Mini Systems): $0.45  
+Portable Computers (Notebooks, Tablets): $2.50  
+Home Theatre Systems: $7.20  
+Home A/V Systems (Speakers, DVD/Blu-ray Players, Cable Boxes, PVRs, Satellite Systems): $4.00  
 Television (29" and smaller, including combo units): $12.25  
-Television (30" and higher, including combo units): $39.50 _Nova Scotia_  
-Camcorders/Cameras/Portable DVD Players/Mini Systems: $0.40  
+Television (30”-45”, including combo units): $24.50  
+Television (46" and higher, including combo units): $43.50 _Nova Scotia_  
+Portable Electronics (Camcorders, Cameras, Portable DVD Players, Mini Systems): $0.40  
+Portable Computers (Notebooks, Tablets): $2.10  
 Home Theatre Systems: $6.00  
-Audio Components/Speakers/DVD Players/Cable Boxes/PVRs/Satellite Systems: $3.50  
+Home A/V Systems (Speakers, DVD/Blu-ray Players, Cable Boxes, PVRs, Satellite Systems): $3.50  
 Television (29" and smaller, including combo units): $11.50  
-Television (30" and higher, including combo units): $40.00 _Saskatchewan_  
-Camcorders/Cameras/Portable DVD Players/Mini Systems: $0.40  
+Television (30”-45”, including combo units): $24.50  
+Television (46" and higher, including combo units): $43.50 _Ontario_  
+Portable Electronics (Camcorders, Cameras, Portable DVD Players, Mini Systems): $0.75  
+Portable Computers (Notebooks, Tablets): $1.30  
+Home Theatre Systems: $5.00  
+Home A/V Systems (Speakers, DVD/Blu-ray Players, Cable Boxes, PVRs, Satellite Systems): $5.00  
+Television (29" and smaller, including combo units): $12.25  
+Television (30" and higher, including combo units): $39.50 _Prince Edward Island_  
+Portable Electronics (Camcorders, Cameras, Portable DVD Players, Mini Systems): $0.40  
+Portable Computers (Notebooks, Tablets): $2.10  
 Home Theatre Systems: $6.00  
-Audio Components/Speakers/DVD Players/Cable Boxes/PVRs/Satellite Systems: $3.50  
-Television (29" and smaller, including combo units): $9.25  
-Television (30" and higher, including combo units): $23.25 _Manitoba_  
-Camcorders/Cameras/Portable DVD Players/Mini Systems: $0.40  
+Home A/V Systems (Speakers, DVD/Blu-ray Players, Cable Boxes, PVRs, Satellite Systems): $3.50  
+Television (29" and smaller, including combo units): $11.50  
+Television (30”-45”, including combo units): $24.50  
+Television (46" and higher, including combo units): $43.50
+  
+  
+_Quebec_  
+Portable Electronics (Camcorders, Cameras, Portable DVD Players, Mini Systems): $0.40  
+Portable Computers (Notebooks, Tablets): $1.20  
 Home Theatre Systems: $6.00  
-Audio Components/Speakers/DVD Players/Cable Boxes/PVRs/Satellite Systems: $3.50  
+Home A/V Systems (Speakers, DVD/Blu-ray Players, Cable Boxes, PVRs, Satellite Systems): $3.50  
+Television (29" and smaller, including combo units): $11.50  
+Television (30”-45”, including combo units): $2  
+Television (46" and higher, including combo units): $39.50 _Saskatchewan_  
+Portable Electronics (Camcorders, Cameras, Portable DVD Players, Mini Systems): $0.40  
+Portable Computers (Notebooks, Tablets): $3.00  
+Home Theatre Systems: $6.00  
+Home A/V Systems (Speakers, DVD/Blu-ray Players, Cable Boxes, PVRs, Satellite Systems): $3.50  
 Television (29" and smaller, including combo units): $9.25  
-Television (30" and higher, including combo units): $23.25  
-Microwaves (less than 1 cu. Ft.): $7.50  
-Microwaves (more than 1 cu. Ft.): $10.00 _Quebec_  
-Television (18" and smaller, including combo units):$12.25  
-Television (19"-29", including combo units): $12.25  
-Television (30"-45", including combo units): $42.50  
-Television (46" and higher, including combo units): $42.50  
+Television (30”-45”, including combo units): $23.25  
+Television (46" and higher, including combo units): $39.50  
 
   
 ENERGY STAR qualification  
