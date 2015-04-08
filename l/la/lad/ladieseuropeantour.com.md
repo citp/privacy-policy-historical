@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the ladieseuropeantour.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227031134id_/http%3A//ladieseuropeantour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladieseuropeantour.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408112016id_/http%3A//ladieseuropeantour.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ladies European Tour
 
 ## Ladies European Tour
 
-The Ladies European Tour is committed to respecting the privacy of its users. However, we do collect and use various bits of information about you through your use of this Website, and this policy sets out the basis on which your personal data will be collected, stored and processed. The Data Collector for this Website is Ladies European Tour, with its registered office at Denham Court Drive, Denham, Buckinghamshire UB9 5PG, England.  Please note that this policy only addresses our activities, and other sites to which this Website links may have their own privacy policies and practices, which we do not control.
+The Ladies European Tour is committed to respecting the privacy of its users. However, we do collect and use various bits of information about you through your use of this Website, and this policy sets out the basis on which your personal data will be collected, stored and processed. The Data Collector for this Website is Ladies European Tour, with its registered office at Denham Court Drive, Denham, Buckinghamshire UB9 5PG, England.  Please note that this policy only addresses our activities, and other sites to which this Website links may have their own privacy policies and practices, which we do not control. 
 
 ## Information collected
 
 ### We collect certain personal information about you, including but not necessarily limited to:
 
-Information that you provided by filling in forms on the Website. This includes but is not limited to the information provided at the time of registration or of posting material or of participating in surveys, or of entering competitions, or of requesting further services.  This includes but is not limited to your name, address, e-mail address, telephone code, telephone number and other information about your interests that enable us to provide you with a more tailored Website experience, by personalising the Website to match your interests.
-
-Information about your internet usage, and your usage of this Website, that may be obtained using a cookie file that is stored on the hard drive of your computer. You are able to disable these cookies by changing your browser settings, but this may slow down or prohibit access to certain parts of the Website.
-
-Information about your computer including where available your browser type, your operating system and your IP address.
+Information that you provided by filling in forms on the Website. This includes but is not limited to the information provided at the time of registration or of posting material or of participating in surveys, or of entering competitions, or of requesting further services.  This includes but is not limited to your name, address, e-mail address, telephone code, telephone number and other information about your interests that enable us to provide you with a more tailored Website experience, by personalising the Website to match your interests. Information about your internet usage, and your usage of this Website, that may be obtained using a cookie file that is stored on the hard drive of your computer. You are able to disable these cookies by changing your browser settings, but this may slow down or prohibit access to certain parts of the Website. Information about your computer including where available your browser type, your operating system and your IP address. 
 
 ### Uses made of Information collected
 
-We use the information held about you in the following ways:
+We use the information held about you in the following ways: 
 
   * To provide you with a personalised service to enhance your enjoyment of the Website
   * To ensure that content is presented in the most effective manner for your computer
@@ -29,6 +25,4 @@ We use the information held about you in the following ways:
 
 
 
-You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to access and disclose individually identifiable information concerning your activities whilst using our web site, we shall do so. We also reserve the right to disclose individually identifiable information to third parties where a complaint arises concerning your use of our web site, and that use is deemed by us inconsistent with these conditions.
-
-In addition to the uses made of information collected outlined above, all of the information LET collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by LET and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.
+You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to access and disclose individually identifiable information concerning your activities whilst using our web site, we shall do so. We also reserve the right to disclose individually identifiable information to third parties where a complaint arises concerning your use of our web site, and that use is deemed by us inconsistent with these conditions. In addition to the uses made of information collected outlined above, all of the information LET collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by LET and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.
