@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiki-toki.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060652id_/http%3A//www.tiki-toki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiki-toki.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408084918id_/http%3A//www.tiki-toki.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -12,13 +12,17 @@ This Privacy and Cookie Policy explains how Webalon Ltd (the owner of www.tiki-t
 
 1.3 Our site also uses cookies to track whether the user is logged in and to support our core timeline creation service (see below).
 
+1.4 We also record the IP Address of premium account users in order to confirm their country location. We need to do this to comply with EU VAT regulations.
+
 ### 2 We may use this information to:
 
 (i) Check whether you are logged in.
 
 (ii) Send you an email with a reset password if you request it or your account is compomised in anyway.
 
-(iii) Email you updates about our products. 
+(iii) Email you updates about our products.
+
+(iv) Identify the country location of premium account users in compliance with EU VAT regulations
 
 ### 3 Cookies
 
