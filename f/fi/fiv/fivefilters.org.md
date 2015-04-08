@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivefilters.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122912id_/http%3A//fivefilters.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivefilters.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408104555id_/http%3A//fivefilters.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | fivefilters.org
 
