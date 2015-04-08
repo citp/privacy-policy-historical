@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appgecet.org privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921042949id_/http%3A//www.appgecet.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appgecet.org privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409004858id_/http%3A//appgecet.org/privacy.aspx) for the most accurate reproduction.*
 
-# PGECET-2014
+# AP PGECET- 2015
 
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and applicant information privacy. Please read the following statement to learn about our information gathering and dissemination practices. 
 
@@ -10,21 +10,21 @@ Note: Our privacy policy is subject to change at any time without notice. To mak
 
 Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
-**PGECET 2014** website ensures that every transaction that takes between you and our PGECET website through online is in a safe and secure environment. This can be achieved, as PGECET 2014 website is protected by Secured Socket Layer (SSL) technology.
+**AP PGECET 2015** website ensures that every transaction that takes between you and our PGECET website through online is in a safe and secure environment. This can be achieved, as AP PGECET 2015 website is protected by Secured Socket Layer (SSL) technology.
 
 **2\. COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION**
 
-We collect personally identifiable information (Email Id., Name, Contact number, etc.) from you when you apply for the PGECET 2014 examination. Any one can browse some sections of our site without being an applicant for PGECET 2014. Certain activities (such as applying for the PGECET 2014 Examination, Application Status, Complaint Status, etc) do require Registration. We do use your contact information to send you information.
+We collect personally identifiable information (Email Id., Name, Contact number, etc.) from you when you apply for the AP PGECET 2015 examination. Any one can browse some sections of our site without being an applicant for AP PGECET 2015. Certain activities (such as applying for the AP PGECET 2015 Examination, Application Status, Complaint Status, etc) do require Registration. We do use your contact information to send you information.
 
 **3\. USE OF DEMOGRAPHIC AND PROFILE DATA**
 
-We use Personal Information for smooth conduct of PGECET. We use your personal information to check your eligibility to appear for the PGECET 2014 examination as per G.O.’s issued by AP state government from time to time. We use your personal information to resolve disputes, troubleshoot problems, help promote a safe service, collect fees owed, detect and protect us against error, fraud and other criminal activity, enforce our terms and conditions, and as otherwise described to you at the time of collection.
+We use Personal Information for smooth conduct of AP PGECET. We use your personal information to check your eligibility to appear for the AP PGECET 2015 examination as per G.O.’s issued by AP state government from time to time. We use your personal information to resolve disputes, troubleshoot problems, help promote a safe service, collect fees owed, detect and protect us against error, fraud and other criminal activity, enforce our terms and conditions, and as otherwise described to you at the time of collection.
 
 In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website. We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.
 
 **4\. COOKIES**
 
-A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. PGECET 2014 places both permanent and temporary cookies in your computer's hard drive. PGECET 2014 cookies do not contain any of your Personally Identifiable Information.
+A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. AP PGECET 2015 places both permanent and temporary cookies in your computer's hard drive. AP PGECET 2015 cookies do not contain any of your Personally Identifiable Information.
 
 **5\. SHARING OF PERSONAL INFORMATION**
 
@@ -34,15 +34,15 @@ We may disclose personal information, if required to do so by law or in the good
 
 **6\. PROHIBITION AGAINST UNLAWFUL USE**
 
-As a condition for the use of the PGECET Website, the User warrants that they will not use the Website for any purpose that is unlawful or illegal under any law for the time being in force within or outside India or prohibited by this Agreement. In addition, the PGECET Website shall not be used in any manner, which could damage, disable, overburden or impair it or interfere with any other party's use of the Website. The User shall refrain from obtaining or attempting to obtain any materials or information through any means not intentionally made available or provided for or through the Website..
+As a condition for the use of the AP PGECET Website, the User warrants that they will not use the Website for any purpose that is unlawful or illegal under any law for the time being in force within or outside India or prohibited by this Agreement. In addition, the AP PGECET Website shall not be used in any manner, which could damage, disable, overburden or impair it or interfere with any other party's use of the Website. The User shall refrain from obtaining or attempting to obtain any materials or information through any means not intentionally made available or provided for or through the Website..
 
 **7\. LINKS TO OTHER SITES**
 
-Our site links to other websites that may collect Personally Identifiable Information about you. PGECET 2014 COMMITTEE is not responsible for the privacy practices or the content of those linked websites.
+Our site links to other websites that may collect Personally Identifiable Information about you. AP PGECET 2015 COMMITTEE is not responsible for the privacy practices or the content of those linked websites.
 
 **8\. USE OF COMMUNICATION SERVICES**
 
-centers, and/or other message (hereinafter collectively referred to as "Communication Services"). The User agrees and undertakes to use the Communication Services only to post, send and receive messages and material that are proper and related to the PGECET. By way of example, and not as a limitation, the User agrees and undertakes that when using a Communication Service, the User will not: 
+centers, and/or other message (hereinafter collectively referred to as "Communication Services"). The User agrees and undertakes to use the Communication Services only to post, send and receive messages and material that are proper and related to the AP PGECET. By way of example, and not as a limitation, the User agrees and undertakes that when using a Communication Service, the User will not: 
 
 defame, abuse, harass, stalk, threaten or otherwise violate the legal rights of others   
   
@@ -50,7 +50,7 @@ defame, abuse, harass, stalk, threaten or otherwise violate the legal rights of 
   
 upload files that contain software or other material protected by intellectual property laws unless the User owns or controls the rights thereto or have received all necessary consents   
   
-upload or distribute files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of the PGECET Website or another's computer,  
+upload or distribute files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of the AP PGECET Website or another's computer,  
   
 conduct or forward surveys, contests, pyramid schemes or chain letters;  
   
@@ -64,16 +64,16 @@ violate any applicable laws or regulations for the time being in force in or out
   
 violate any of the terms and conditions of this Agreement or any other terms and conditions for the use of the Website contained elsewhere herein  
   
-**PGECET** reserves the right at all times to disclose any information as is necessary to satisfy or comply with any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in PGECET sole discretion
+**AP PGECET** reserves the right at all times to disclose any information as is necessary to satisfy or comply with any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in AP PGECET sole discretion
 
-**PGECET** does not control or endorse the content, messages or information found in any communication service and, therefore, PGECET specifically disclaims any liability or responsibility whatsoever with regard to the communication services and any actions resulting from the user's participation in any communication service
+**AP PGECET** does not control or endorse the content, messages or information found in any communication service and, therefore, AP PGECET specifically disclaims any liability or responsibility whatsoever with regard to the communication services and any actions resulting from the user's participation in any communication service
 
 Materials uploaded to a Communication Service may be subject to posted limitations on usage, reproduction and/or dissemination. User is responsible for keeping himself updated of and adhering to such limitations if they download the materials
 
 **9\. TERMINATION/ACCESS RESTRICTION**
 
-PGECET reserves the right, in its sole discretion, to terminate the access to the website and the related services or any portion thereof at any time, without notice.
+AP PGECET reserves the right, in its sole discretion, to terminate the access to the website and the related services or any portion thereof at any time, without notice.
 
 **10\. QUESTIONS?**
 
-Questions regarding this statement should be directed to the following address: [ info@appgecet.org](mailto:info@appgecet.org).
+Questions regarding this statement should be directed to the following address: [ appgecet2015@gmail.com](mailto:appgecet2015@gmail.com).
