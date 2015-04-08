@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamseer.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219031234id_/http%3A//www.teamseer.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamseer.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409014819id_/http%3A//www.teamseer.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # TeamSeer - Award-Winning Holiday & Absence Management
 
