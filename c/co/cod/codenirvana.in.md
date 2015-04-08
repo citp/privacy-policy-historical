@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codenirvana.in privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026042106id_/http%3A//www.codenirvana.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codenirvana.in privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408060810id_/http%3A//www.codenirvana.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Code Nirvana
 
