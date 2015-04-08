@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballpundits.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073719id_/http%3A//fantasyfootballpundits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballpundits.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408093752id_/http%3A//fantasyfootballpundits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fantasy Football Tips, Advice & News from Fantasy Football Pundits
 
