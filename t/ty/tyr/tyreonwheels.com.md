@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyreonwheels.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132631id_/http%3A//www.tyreonwheels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyreonwheels.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408101751id_/http%3A//www.tyreonwheels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TyreOnWheels.Com :: Buy Car & Motorcycle Tyres Online
 
