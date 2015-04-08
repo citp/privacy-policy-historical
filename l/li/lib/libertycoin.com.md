@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertycoin.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122201242id_/http%3A//www.libertycoin.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertycoin.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408094208id_/http%3A//www.libertycoin.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Liberty Coin | Terms: Privacy
 
