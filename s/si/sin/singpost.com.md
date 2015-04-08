@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the singpost.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205035837id_/http%3A//www.singpost.com/group-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singpost.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408063301id_/http%3A//www.singpost.com/group-privacy-policy.html) for the most accurate reproduction.*
 
-# Singpost - Group Privacy Policy
+# SingPost - Group Privacy Policy
 
 This is the Privacy Policy (" **Policy** ") of Singapore Post Limited (" **SingPost** ") and its subsidiaries (collectively the " **SingPost Group** ").
 
