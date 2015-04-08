@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heidi.ie privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013095954id_/http%3A//heidi.ie/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heidi.ie privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408035034id_/http%3A//www.heidi.ie/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Heidi - Internet Security and Privacy
 
