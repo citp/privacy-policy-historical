@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooleygo.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124181409id_/http%3A//www.cooleygo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooleygo.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408073636id_/http%3A//www.cooleygo.com/privacy-policy) for the most accurate reproduction.*
 
 # Cooley GO Privacy Policy | Cooley GO
 
