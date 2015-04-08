@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givemefreeart.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083239id_/http%3A//givemefreeart.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemefreeart.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408030637id_/http%3A//givemefreeart.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | "Givemefreeart.com"
 
