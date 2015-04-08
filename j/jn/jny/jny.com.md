@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jny.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204717id_/http%3A//www.jny.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jny.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408124310id_/http%3A//www.jny.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Jones New York: Privacy Policy
 
@@ -61,5 +61,5 @@ While you are using this website, you may be linked or directed to other third p
 We welcome your comments regarding this privacy policy. Please send any concerns to: 
 
 Jones New York Customer Relations Privacy Policy   
-1129 Westchester Avenue   
-White Plains, NY 10604 
+1411 Broadway   
+New York, NY 10018 
