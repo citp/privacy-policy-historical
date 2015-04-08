@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the nootheme.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812221321id_/http%3A//www.nootheme.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nootheme.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408042210id_/http%3A//www.nootheme.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-×
-
-The content is for members only, please subscribe a membership plan first.
-
-The content is for members only, please subscribe a membership plan first.
-
-The content is for members only, please subscribe a membership plan first.
-
-The content is for members only, please subscribe a membership plan first.
-
 At **NOOTheme** , we recognize that privacy of customer's information is very important and we commit to protect your privacy. This policy describes the ways we collect, store, use and protect your personal information. We assume that you accepted our policy when you sign up and use our services.
 
-  * ## **  Information Collected**
+  * ##  **  Information Collected**
 
 
 
@@ -28,14 +18,14 @@ When you visit **NOOTheme.com** , we collect your IP address and web browser inf
 
 Our main purpose to collect your information is to provide you secure, smooth and efficient conditions when you browse our site. We use this information to process and deliver your order, for billing purposes, for providing a more pleasant and personalized shopping experience, and for communicating with you about orders and promotion updates. You can control, review and edit your personal information at any time by logging in your account and go to My Account section.
 
-  * ## **How we use cookies**
+  * ##  **How we use cookies**
 
 
 
 
 When you access our website, we may place small data files called "cookies" on your computer. This data contains information about you and it helps us to identify you if you visit multiple pages on our site during the same session so that we do not need to ask you for your password on each page. Once you log out your account or close your browser, this cookie expires and no longer has any effect. If you disable cookies for our site, you may still use our site, but certain benefits of your shopping experience with us may be impacted.
 
-  * ## **How we protect and store personal information**
+  * ##  **How we protect and store personal information**
 
 
 
@@ -44,7 +34,7 @@ We commit to protect personal information. We store your information on our secu
 
 You can always trust our site services when doing business with NOOTheme. We always try our best to protect our customers’ privacy.
 
-  * ## **Changes to this privacy policy**
+  * ##  **Changes to this privacy policy**
 
 
 
