@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glocktalk.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083423id_/http%3A//www.glocktalk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glocktalk.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408232840id_/http%3A//www.glocktalk.com/privacy.php) for the most accurate reproduction.*
 
 # Glock Pistols - Glock Pistol | Glock Talk - Privacy Policy
 
@@ -80,9 +80,9 @@ Bingham Farms, MI 48025
 |  [](http://www.glocktalk.com/forums/)   
   
 [Homepage](http://www.glocktalk.com/index.php)  
-[FAQ](http://www.glocktalk.com/forums/faq.php?s=c58e181254a9e6a202f3d586523a2d16)  
+[FAQ](http://www.glocktalk.com/forums/faq.php?s=08124dcd6affdbccae7b952a8b462503)  
 [Forums](http://www.glocktalk.com/forums)  
-[Calendar](http://www.glocktalk.com/forums/calendar.php?s=c58e181254a9e6a202f3d586523a2d16)  
+[Calendar](http://www.glocktalk.com/forums/calendar.php?s=08124dcd6affdbccae7b952a8b462503)  
 [Advertise](http://www.glocktalk.com/advertising.php)  
 [Gallery](http://www.glocktalk.com/gallery/index.php)  
 [GT Wiki](http://www.glocktalk.com/wiki)  
@@ -93,20 +93,20 @@ Bingham Farms, MI 48025
   
 
 
-**Members:** 200,056 
+**Members:** 203,122 
 
-**Threads:** 847,039 
+**Threads:** 854,641 
 
-**Posts:** 12,502,452 
+**Posts:** 12,662,306 
 
 **Welcome our newest member:  
-Glock94565 **
+45dog **
 
-**Users Currently Online:** 613  
-124 Members  
-489 Guests
+**Users Currently Online:** 1,255  
+355 Members  
+900 Guests
 
-**Most users ever online:** 2,672   
-Aug 11, 2014 at 2:31   
+**Most users ever online:** 4,535   
+Mar 26, 2015 at 13:43   
   
-All times are GMT -6. The time now is 02:34.
+All times are GMT -6. The time now is 17:28.
