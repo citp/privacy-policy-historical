@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207093620id_/http%3A//www.bugsplatsoftware.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408111551id_/https%3A//www.bugsplatsoftware.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BugSplat Software
-
-## Privacy Policy
 
 BugSplat takes your privacy seriously. Our customers store valuable personal and commercial information on our site, and we protect the confidentiality of that information. Please read the following to learn more about our privacy policy.
 
@@ -31,7 +29,7 @@ BugSplat does not rent, sell, or share information about you or your products wi
 
 
 
-### Your Ability to Edit and Delete Your Account Information and Preferences
+## Your Ability to Edit and Delete Your Account Information and Preferences
 
 ### General
 
@@ -51,4 +49,4 @@ BugSplat may update this policy. We will notify you about significant changes in
 
 ### Questions and Suggestions
 
-If you have questions or suggestions, please contact us by email at[support@bugsplatsoftware.com](mailto:support@bugsplatsoftware.com)
+If you have questions or suggestions, please contact us by email at [support@bugsplatsoftware.com](mailto:support@bugsplatsoftware.com)
