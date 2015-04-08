@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch-true-blood.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823211833id_/http%3A//www.watch-true-blood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-true-blood.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408170637id_/http%3A//www.watch-true-blood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch True Blood Episodes Streamed Online for Free
 
