@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arvato.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707112525id_/http%3A//www.arvato.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvato.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408055516id_/http%3A//www.arvato.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ This statement on privacy protection applies to the www.bertelsmann.com homepage
 
 If you have questions concerning our privacy protection policy or how your personal data is processed, please feel free to contact our Privacy Protection representative.
 
-Bertelsmann SE & Co. KGaA / arvato AG  
+Bertelsmann SE & Co. KGaA  
 Data Protection Department  
 Carl-Bertelsmann-Str. 270  
 D-33311 Gütersloh  
