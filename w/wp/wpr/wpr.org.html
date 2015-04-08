@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the wpr.org privacy policy that was archived on 2014-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141111053724id_/http%3A//www.wpr.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wpr.org privacy policy that was archived on 2015-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408142320id_/http%3A//www.wpr.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr"><head>
-  <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0276.js?439018" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DDZBR"></script><script type="text/javascript" async="" src="http://www.wpr.org/sites/default/files/googleanalytics/ga.js?neu2tg"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw4AU1BVGwIJU1ZaBwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=4, minimum-scale=1, user-scalable=yes">
+  <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0276.js?439018" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DDZBR"></script><script type="text/javascript" async="" src="http://www.wpr.org/sites/default/files/googleanalytics/ga.js?nmgmm1"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw4AU1BVGwIJU1ZaBwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="http://www.wpr.org/sites/default/files/favicon_0_0.ico" type="image/vnd.microsoft.icon">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=4, minimum-scale=1, user-scalable=yes">
 <meta name="description" content="Privacy Policy Protecting the privacy of our Web site visitors is very important us. Because we gather certain types of information about our visitors, we want to make sure you are informed of the ways in which we may and may not use the information you transmit to us when you visit us. This statement discloses the privacy practices for all WPR Web sites including the Wisconsin Public Radio Association member support site.">
 <meta name="keywords" content="Wisconsin Public Radio, WPR, News, Entertainment, Arts, Culture, Music, Politics, Weather, Community Information">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
@@ -16,18 +16,19 @@
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" content="Privacy Policy Protecting the privacy of our Web site visitors is very important us. Because we gather certain types of information about our visitors, we want to make sure you are informed of the ways in which we may and may not use the information you transmit to us when you visit us. This statement discloses the privacy practices for all WPR Web sites including the Wisconsin Public Radio Association member support site.">
 <meta property="og:updated_time" content="2013-06-11T16:30:02-05:00">
+<meta property="og:image" content="http://www.wpr.org/sites/default/files/Wisconsin_Public_Radio_Logo.png">
 <meta property="article:published_time" content="2013-06-11T16:30:02-05:00">
 <meta property="article:modified_time" content="2013-06-11T16:30:02-05:00">
   <title>Privacy Policy | Wisconsin Public Radio</title>  
-  <link type="text/css" rel="stylesheet" href="http://www.wpr.org/sites/default/files/advagg_css/css__sAgTMdsxdnP2P7OVfuPWO16-awOGiQbAgLd72lAg8V4__p9iYaFUzDSSAdaj3drxl08LEE42dQ6tOs9gSaiptEVQ__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.wpr.org/sites/default/files/advagg_css/css__0s8dfiDxCiehJIlQtV0e-vZGRG0rP5dR5PDcIcDbU4E__1s5hzSNUPtTZi7HdSmQpQtBvGJJAiOvPsXAfGDjpzoU__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.css" media="all">
+  <link type="text/css" rel="stylesheet" href="http://www.wpr.org/sites/default/files/advagg_css/css__9scH3lSycTqh062YYNHVyC6AMxvLjoIvZwJM9aLH0cU__VG8QWeS8MdYcgISsP3vHk_CSexZcDbIimNlGiR4AbUU__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.wpr.org/sites/default/files/advagg_css/css__s29GQpsSdWQipfYDSjMIRgD9zrYbjvkFz242LfvGnAo__0IzUDwuDOq_Ri0n2wSEHrf8t--1ZVmbHF2S017W6o0Q__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.css" media="all">
 
 <!--[if (lt IE 9)&(!IEMobile)]>
-<link type="text/css" rel="stylesheet" href="http://www.wpr.org/sites/default/files/advagg_css/css__gowW_CegML5gqJaj6KG63cLOD9QD0Ihy5YIGdH184ZM__gIzEWB-sdN2oe-ieplwKPr5okU7JNsNTIKUmuIYGF6U__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.wpr.org/sites/default/files/advagg_css/css__gowW_CegML5gqJaj6KG63cLOD9QD0Ihy5YIGdH184ZM__shthpCkzJ6wDJhD6YOa3eKVozlqLAhj8r6QfWMrjGM8__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.css" media="all" />
 <![endif]-->
 
 <!--[if gte IE 9]><!-->
-<link type="text/css" rel="stylesheet" href="http://www.wpr.org/sites/default/files/advagg_css/css__J1l8OtQcTON16aeojY9jqvL0YtRcQr7Pn4o6F4wZxiM__YXBHwElIvuojyTJe4rW0PfrdiZ8DCMpS-gWvzukpL5s__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.wpr.org/sites/default/files/advagg_css/css__vUUv_t1wcR0dxJvIgabht2MZ9nMOAbkBzIl2f2Dvkww__65rHtWRDoK02Z6AaZu2w01Ho5kQBv_17KI570oJAAvc__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.css" media="all">
 <!--<![endif]-->
   <script type="text/javascript" src="http://www.wpr.org/sites/default/files/advagg_js/js__dWB41HViTcqoYHrbrlBHs8x9iwtFdMHpl7ME-vPjr-A__mFmqeu4Lqch3W3OJYGsHdh2A2HhU2bi9cwep9u9h1E0__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.js"></script>
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
@@ -46,16 +47,14 @@ node.parentNode.insertBefore(gads, node);})();
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-googletag.cmd.push(function() {googletag.defineSlot('/1006475/WPR_ORG_Search_Box', [88, 31], 'div-gpt-ad-1411400219633-0').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();googletag.enableServices();});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-GA_googleAddSlot("ca-pub-9322673369767370", "WPR_ORG_300x250A");
-				GA_googleAddSlot("ca-pub-9322673369767370", "WPR_ORG_300x250B");
-				GA_googleAddSlot("ca-pub-9322673369767370", "WPR_ARCHIVEPLAYER");
-        GA_googleAddSlot("ca-pub-9322673369767370", "WPR_LIVEPLAYER");
+googletag.cmd.push(function() {
+    googletag.defineSlot('/1006475/WPR_ORG_300x250A', [300, 250], 'div-gpt-ad-1415374161653-0').addService(googletag.pubads());
+	googletag.defineSlot('/1006475/WPR_ORG_Search_Box', [88, 31], 'div-gpt-ad-1411400219633-0').addService(googletag.pubads());
+	googletag.defineSlot('/1006475/WPR_ORG_300x250B', [300, 250], 'div-gpt-ad-1415374464388-0').addService(googletag.pubads());
+	googletag.defineSlot('/1006475/WPR_ORG_Search_180x63', [234, 60], 'div-gpt-ad-1415984171221-0').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();googletag.enableServices();});
+	GA_googleAddSlot('ca-pub-9322673369767370', 'WPR_ARCHIVEPLAYER');
+        GA_googleAddSlot('ca-pub-9322673369767370', 'WPR_LIVEPLAYER');
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -63,17 +62,17 @@ GA_googleAddSlot("ca-pub-9322673369767370", "WPR_ORG_300x250A");
 GA_googleFetchAds();
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.wpr.org/sites/default/files/advagg_js/js__OOASV2cvTvKytIeaoqkM-7zogvv8JUj2bu5q-S_LBX8__blebXyGdqKHPl6BjXs-dhhz16fDCHb11Nq31uuerOpM__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.js"></script>
+<script type="text/javascript" src="http://www.wpr.org/sites/default/files/advagg_js/js__1VI2XGO4GVbUK9Cl5W6mQDz7WYuF27OUe5NLGf1MBqY__kD4rnsQlYen8yRL6t7_M2GIls5_9KWexTkg5vgy8wFY__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.js"></script>
 <script type="text/javascript" src="http://www.wpr.org/sites/default/files/advagg_js/js__H4bSQvSV9Jp0dpNoxHzwARZAP1GGXtCvsmSfzj_ju08__Yvd3SxdZCZ8_A6DLv1Bdu4ubrTbAAc5MhpjTQ2VPlaE__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-9516785-1"]);_gaq.push(['_setCustomVar', 1, "Node Type", "Basic page", 3]);_gaq.push(['_setCustomVar', 4, "nid", "21141", 3]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "http://www.wpr.org/sites/default/files/googleanalytics/ga.js?neu2tg";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-9516785-1"]);_gaq.push(['_setCustomVar', 1, "Node Type", "Basic page", 3]);_gaq.push(['_setCustomVar', 4, "nid", "21141", 3]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "http://www.wpr.org/sites/default/files/googleanalytics/ga.js?nmgmm1";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
 //--><!]]>
 </script>
 <script type="text/javascript" src="http://www.wpr.org/sites/default/files/advagg_js/js__aHsBQ2Hz6ZhxIKNeJJkqvhm9H87xj8Am87TB9scc9p0__TJB5fecHCqVYyxx8RqjSkrEMQ-7ysOLdGDnESC6-0RU__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"wprtheme","theme_token":"9Plnwr9BylRamKyC1nhHcPbGXHKe1-H25P6OXf802ZY","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/amazon\/amazon.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/content_type_extras\/css\/content_type_extras.css":1,"sites\/all\/themes\/wprtheme\/css\/print.css":1,"sites\/all\/themes\/wprtheme\/jplayer\/jplayer.css":1,"sites\/all\/libraries\/sidr\/stylesheets\/jquery.sidr.dark.css":1,"sites\/wpr.org\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/wpr.org\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/wpr.org\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/omega-visuals.css":1,"public:\/\/fontyourface\/local_fonts\/Proxima_Nova-italic-bold\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Proxima_Nova-italic-normal\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Proxima_Nova-normal-bold\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Proxima_Nova-normal-normal\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Sina_Nova-italic-bold\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Sina_Nova-italic-normal\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Sina_Nova-normal-normal\/stylesheet.css":1,"sites\/all\/themes\/wprtheme\/css\/global.css":1,"ie::normal::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default.css":1,"ie::normal::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default-normal.css":1,"ie::normal::sites\/wpr.org\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default.css":1,"narrow::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default-narrow.css":1,"sites\/wpr.org\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default.css":1,"normal::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default-normal.css":1,"sites\/wpr.org\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1},"js":{"sites\/all\/modules\/picture\/picturefill\/matchmedia.js":1,"sites\/all\/modules\/picture\/picturefill\/picturefill.js":1,"sites\/all\/modules\/picture\/picture.js":1,"sites\/all\/libraries\/jplayer\/jquery.jplayer.min.js":1,"sites\/all\/libraries\/sidr\/jquery.sidr.min.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"http:\/\/partner.googleadservices.com\/gampad\/google_service.js":1,"sites\/all\/libraries\/jquery.maphilight\/jquery.maphilight.min.js":1,"sites\/all\/themes\/wprtheme\/js\/wpr.js":1,"sites\/all\/modules\/ga_push\/modules\/browser\/ga_push_browser.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/jq_maphilight\/jq_maphilight.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"sites\/wpr.org\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/wpr.org\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ga_push_browser":[{"selector":"a.listen-link","push":["Link","Clicked","Archive Player Listen","0"],"bind":"click"},{"selector":"a.download-link","push":["Link","Clicked","Archive Player Download","0"],"bind":"click"},{"selector":"[id^=listen-] a","push":["Link","Clicked","Listen Live Player","0"],"bind":"click"},{"selector":".view-popularity a","push":["Link","Clicked","Most Popular Item","0"],"bind":"click"},{"selector":"a.support-block-link","push":["Link","Clicked","Donate Button","0"],"bind":"click"},{"selector":"#block-views-regional-views-block a, #block-views-front-page-sections-block a, #block-views-front-page-sections-block-1 a, #block-views-front-page-sections-block-2 a","push":["Link","Clicked","Front Page News Section (Regional, Arts, Politics, Music)","0"],"bind":"click"},{"selector":"#block-views-front-page-sections-block-3 a","push":["Link","Clicked","WPT Show News Entry","0"],"bind":"click"},{"selector":"#block-views-calendar-block-3 a","push":["Link","Clicked","Front Page Event List Item","0"],"bind":"click"},{"selector":"a.support-block-link","push":["Link","Clicked","Donate Button","0"],"bind":"click"},{"selector":"#block-views-top-feature-block-1 a","push":["Link","Clicked","Top Story Click","0"],"bind":"click"},{"selector":"#block-views-top-feature-block-2 a","push":["Link","Clicked","Secondary Top Stories List Clicks","0"],"bind":"click"},{"selector":".front-page-features.content-section a","push":["Link","Clicked","Features Bar","0"],"bind":"click"},{"selector":".amazon_form #search #aznbtn, .amazon_form #search a","push":["Link","Clicked","Amazon HP Search Box","0"],"bind":"click"},{"selector":"a.radio-store","push":["Link","Clicked","Radio Store","0"],"bind":"click"},{"selector":"#block-disqus-disqus-popular-threads a","push":["Link","Clicked","Disqus Most-Popular Link","0"],"bind":"click"},{"selector":"#dsq-popthreads a","push":["Link","Clicked","Popular Threads Item","0"],"bind":"click"},{"selector":".pledge-banner.standard a","push":["Pledge Banner","Click","Pledge Banner - Standard","0"],"bind":"click"},{"selector":".pledge-banner.ipad-banner a","push":["Pledge Banner","Click","Pledge Banner - iPad","0"],"bind":"click"},{"selector":".pledge-banner.after-first a","push":["Pledge Banner","Click","Pledge Banner - After - Goal Reached","0"],"bind":"click"},{"selector":".pledge-banner.after-second a","push":["Pledge Banner","Click","Pledge Banner - After - Goal Not Reached","0"],"bind":"click"},{"selector":".view-top-feature .feature-links a","push":["Link","Clicked","Top Feature Blurb Link","0"],"bind":"click"},{"selector":".block-pushdown a, .pushdown-menu a","push":["Link","Clicked","Nav Menu Click","0"],"bind":"click"}],"jq_maphilight":{"fill":"true","fillColor":"000000","fillOpacity":0.2,"stroke":"true","strokeColor":"ff0000","strokeOpacity":1,"strokeWidth":"2","fade":"true","alwaysOn":"false","neverOn":"false","groupBy":"false","allMapsEnabled":"true"},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackCrossDomains":["www.wpr.org"]},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"wprtheme","theme_token":"Ofb0LTGZMpqtRGefEAjz9M-ITc46M3JUo1btP8Llt8U","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/amazon\/amazon.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/content_type_extras\/css\/content_type_extras.css":1,"sites\/all\/themes\/wprtheme\/css\/print.css":1,"sites\/all\/themes\/wprtheme\/jplayer\/jplayer.css":1,"sites\/all\/libraries\/sidr\/stylesheets\/jquery.sidr.dark.css":1,"sites\/wpr.org\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/wpr.org\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/wpr.org\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/wpr.org\/themes\/omega\/omega\/css\/omega-visuals.css":1,"public:\/\/fontyourface\/local_fonts\/Proxima_Nova-italic-bold\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Proxima_Nova-italic-normal\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Proxima_Nova-normal-bold\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Proxima_Nova-normal-normal\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Sina_Nova-italic-bold\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Sina_Nova-italic-normal\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/Sina_Nova-normal-normal\/stylesheet.css":1,"sites\/all\/themes\/wprtheme\/css\/global.css":1,"ie::normal::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default.css":1,"ie::normal::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default-normal.css":1,"ie::normal::sites\/wpr.org\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default.css":1,"narrow::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default-narrow.css":1,"sites\/wpr.org\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default.css":1,"normal::sites\/all\/themes\/wprtheme\/css\/wprtheme-alpha-default-normal.css":1,"sites\/wpr.org\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1},"js":{"sites\/all\/modules\/picture\/picturefill\/matchmedia.js":1,"sites\/all\/modules\/picture\/picturefill\/picturefill.js":1,"sites\/all\/modules\/picture\/picture.js":1,"sites\/all\/libraries\/jplayer\/jquery.jplayer.min.js":1,"sites\/all\/libraries\/sidr\/jquery.sidr.min.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"http:\/\/partner.googleadservices.com\/gampad\/google_service.js":1,"sites\/all\/libraries\/jquery.maphilight\/jquery.maphilight.min.js":1,"sites\/all\/themes\/wprtheme\/js\/wpr.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/jq_maphilight\/jq_maphilight.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"sites\/wpr.org\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/wpr.org\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jq_maphilight":{"fill":"true","fillColor":"000000","fillOpacity":0.2,"stroke":"true","strokeColor":"ff0000","strokeOpacity":1,"strokeWidth":"2","fade":"true","alwaysOn":"false","neverOn":"false","groupBy":"false","allMapsEnabled":"true"},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackCrossDomains":["www.wpr.org"]},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
 //--><!]]>
 </script>
   <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -120,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-yWEJ05XQjK62XdL-b0x1ncdeBcn4Aaewvo8HBscsxTQ">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-RyK94xZIEnRnr5VOeL0kHeZ4_mOkhFsXjHuW-ibp2TY">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>    </div>
@@ -129,7 +128,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <div><a class="support-block-link" href="/donate">Donate</a></div>
+      <div><a class="support-block-link red" href="/donate">Donate</a></div>
 <div class="follow-links"><a class="facebook-follow" href="https://www.facebook.com/wisconsinpublicradio"><img src="/sites/all/modules/service_links/images/facebook.png"></a> <a class="twitter-follow" href="http://twitter.com/WPR"><img src="/sites/all/modules/service_links/images/twitter.png"></a></div>
     </div>
   </div>
@@ -137,11 +136,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <!-- WPR_ORG_Search_Box --><div class="search-sponsor" id="div-gpt-ad-1411400219633-0" style="width:88px; height:31px; position: relative; left: 40px; top: -10px;">
+      <!-- WPR_ORG_Search_234x60 --><div id="div-gpt-ad-1415984171221-0" style="width:234px; height:60px;">
 <script type="text/javascript">
 <!--//--><![CDATA[// ><!--
 
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411400219633-0'); });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415984171221-0'); });
 
 //--><!]]>
 </script></div>
@@ -206,39 +205,31 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411400219633-0');
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <ul class="menu">
-	<li class="first leaf"><a href="/arts-and-culture">Arts &amp; Culture</a></li>
-	<li class="leaf"><a href="/music">Music</a></li>
-	<li class="leaf"><a href="/topics/film">Film</a></li>
-</ul>
-
-<ul class="menu">
-	<li class="last leaf"><a href="/topics/books">Books</a></li>
-	<li class="last leaf"><a href="/topics/food">Food</a></li>
-	<li class="leaf"><a href="/topics/art">Art</a></li>
-</ul>
-
-<ul class="menu">
-	<li class="first leaf"><a href="/topics/digital-media">Digital Media</a></li>
-	<li class="first leaf"><a href="/topics/games-and-humor">Games &amp; Humor</a></li>
-	<li class="last leaf"><a class="more-content" href="/arts-and-culture">More</a></li>
-</ul>
-    </div>
+      <ul class="menu nav-menu"><li class="first leaf"><a href="/arts-and-culture">Arts &amp; Culture</a></li>
+<li class="leaf"><a href="/music">Music</a></li>
+<li class="leaf"><a href="/topics/film">Film</a></li>
+</ul><ul class="menu nav-menu"><li class="last leaf"><a href="/topics/books">Books</a></li>
+<li class="last leaf"><a href="/topics/food">Food</a></li>
+<li class="leaf"><a href="/topics/art">Art</a></li>
+</ul><ul class="menu nav-menu"><li class="first leaf"><a href="/topics/digital-media">Digital Media</a></li>
+<li class="first leaf"><a href="/topics/games-and-humor">Games &amp; Humor</a></li>
+<li class="last leaf"><a class="more-content" href="/arts-and-culture">More</a></li>
+</ul>    </div>
   </div>
 </div><div class="block block-block block-pushdown pushdown-music block-36 block-block-36 odd block-without-title" id="block-block-36">
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
       <div class="content">
-<ul class="menu"><li><a href="/topics/classical-music">Classical Music</a></li>
+<ul class="menu nav-menu"><li><a href="/topics/classical-music">Classical Music</a></li>
 <li><a href="/topics/folk">Folk</a></li>
 <li><a href="/topics/jazz">Jazz</a></li>
-</ul><ul class="menu"><li><a href="/topics/pop-music">Pop Music</a></li>
+</ul><ul class="menu nav-menu"><li><a href="/topics/pop-music">Pop Music</a></li>
 <li><a href="/topics/world-music">World Music</a></li>
-</ul><ul class="menu"><li><strong>Music Request Forms</strong></li>
+</ul><ul class="menu nav-menu"><li><strong>Music Request Forms</strong></li>
 <li><a href="/classics-request">Classics by Request</a></li>
 <li><a href="/simply-folk-request">Simply Folk</a></li>
-</ul><ul class="menu"><li><a href="/classical-music-lists">Classical Music Playlist</a></li>
+</ul><ul class="menu nav-menu"><li><a href="/classical-music-lists">Classical Music Playlist</a></li>
 <li class="more-content"><a href="/music">More</a></li>
 </ul></div>
     </div>
@@ -247,14 +238,28 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411400219633-0');
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <div class="content" style="padding-left: 6px !important">
-<ul class="menu"><li class="program-section" style="font-size: 1.2em;">About Us</li>
+      <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.block-pushdown.pushdown-about ul.menu {
+    margin-right: 6% !important;
+
+/*--><!]]>*/
+</style><div class="content" style="padding-left: 6px !important">
+<ul class="menu nav-menu"><li class="program-section" style="font-size: 1.2em;">About Us</li>
 <li><a href="/about-wpr">Who Are We?</a></li>
-<li><a href="/wpr-reports">Newsletters &amp; Reports</a></li>
 <li><a href="/job-opportunities">Career Opportunities</a></li>
 <li><a href="/support/volunteer">Volunteering</a></li>
-<li><a href="/travel">Travel with WPR!</a></li>
-</ul><ul class="menu"><li class="program-section" style="font-size: 1.2em;">Stations, Schedules &amp; Content</li>
+<li><a href="/travel">Travel With WPR!</a></li>
+</ul><ul class="menu nav-menu"><li class="program-section" style="font-size: 1.2em;">Contact Us</li>
+<li><a href="/contact-us">Listener Questions/Feedback</a></li>
+<li><a href="/news-tip">Sending News Tips</a></li>
+<li><a href="http://www.wpr.org/support/wpr-membership-faq#gen1">Member/Donation Questions</a></li>
+<li><a href="/regional-offices">Regional Offices</a></li>
+<li><a href="/staff">Staff Directory</a></li>
+<li><a href="/online-community">Online Community</a></li>
+<li><a href="/related-links">Related Links</a></li>
+<li><a href="/radio-store">The Radio Store</a></li>
+</ul><ul class="menu nav-menu"><li class="program-section" style="font-size: 1.2em;">Stations, Schedules &amp; Content</li>
 <li><a href="/regions">Stations &amp; Schedules</a></li>
 <li><a href="/network-coverage-maps">Network Station Maps</a></li>
 <li><a href="/regions">Regional Studios</a></li>
@@ -262,21 +267,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411400219633-0');
 <li><a href="/streams">Live Online Streams</a></li>
 <li><a href="/audio-archives">Archives &amp; Podcasts</a></li>
 <li><a href="/mobile">Mobile Apps</a></li>
-</ul><ul class="menu"><li class="program-section" style="font-size: 1.2em;">Policies &amp; Reports</li>
+</ul><ul class="menu nav-menu"><li class="program-section" style="font-size: 1.2em;">Policies &amp; Reports</li>
+<li><a href="/wpr-reports">Newsletters &amp; Reports</a></li>
 <li><a href="/wpr-statement-ethics">WPR Ethics</a></li>
 <li><a href="/social-media-guidelines">Social Media Guidelines</a></li>
-<li><a href="/caller-guidelines">Call-in Guidelines</a></li>
+<li><a href="/caller-guidelines">Call-In Guidelines</a></li>
 <li><a href="/open-meetings-information">Open Meetings</a></li>
 <li><a href="/legal-filings">Content &amp; EEO Reports</a></li>
 <li><a href="/wisconsin-public-radio-financial-statement">Financial Statements</a></li>
-</ul><ul class="menu"><li class="program-section" style="font-size: 1.2em;">Contact Us</li>
-<li><a href="/contact-us">Our Feedback Form</a></li>
-<li><a href="/regional-offices">Regional Offices</a></li>
-<li><a href="/staff">Contact Staff</a></li>
-<li><a href="/online-community">Our Online Community</a></li>
-<li><a href="/related-links">Related Links</a></li>
-<li><a href="/news-tip">Sending News Tips</a></li>
-<li><a href="/radio-store">The Radio Store</a></li>
 </ul></div>
     </div>
   </div>
@@ -284,26 +282,29 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411400219633-0');
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="http://wpr.org/donate">Donate Now</a></li>
-<li class="leaf"><a href="/support/corporate">Business Sponsorship</a></li>
+      <div class="content nav-support-menu">
+<ul class="menu nav-menu"><li class="leaf"><a href="/support/corporate">Business Sponsorship</a></li>
 <li class="last leaf"><a href="/support/day-sponsor">Day Sponsor</a></li>
-</ul><ul class="menu"><li class="first leaf"><a href="/support/stock">Gifts of Stock</a></li>
+<li class="first leaf"><a href="/support/stock">Gifts Of Stock</a></li>
 <li class="leaf"><a href="/support/major-gifts">Leadership Gifts</a></li>
 <li class="last leaf"><a href="/support/matching-gifts-information">Matching Gifts</a></li>
-</ul><ul class="menu"><li class="first leaf"><a href="http://www.wpr.org/support/wpr-sustainer">Sustaining Gifts</a></li>
+</ul><ul class="menu nav-menu"><li class="first leaf"><a href="http://www.wpr.org/support/wpr-sustainer">Sustaining Gifts</a></li>
 <li class="leaf"><a href="/support/car-donation">Vehicle Donation</a></li>
 <li class="last leaf"><a href="/support/volunteer">Volunteer</a></li>
-</ul><ul class="menu"><li class="first leaf"><a href="http://legacy.wpr.org/">Wills and Bequests</a></li>
-<li class="leaf"><a href="/support/wpr-membership-faq">FAQ</a></li>
+<li class="first leaf"><a href="http://legacy.wpr.org/">Wills &amp; Bequests</a></li>
+</ul><ul class="menu nav-menu"><li class="leaf"><a href="/support/wpr-membership-faq">FAQ</a></li>
 <li class="last leaf"><a href="/support/wpr-funding-information">Funding Information</a></li>
-</ul>    </div>
+<li class="leaf"><a href="http://www.wpr.org/support/wpr-membership-faq#gen1">Member/Donation Questions</a></li>
+</ul><ul class="menu nav-menu"><li class="first leaf"><a href="http://wpr.org/donate">Donate Now</a></li>
+</ul></div>
+    </div>
   </div>
 </div><div class="block block-block block-pushdown pushdown-program block-37 block-block-37 even block-without-title" id="block-block-37">
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
       <div class="content">
-<ul class="menu"><li class="program-section">Programs</li>
+<ul class="menu nav-menu"><li class="program-section">Programs</li>
 <li><a href="/programs/joy-cardin-show">The Joy Cardin Show</a></li>
 <li><a href="/programs/kathleen-dunn-show">The Kathleen Dunn Show</a></li>
 <li><a href="/programs/larry-meiller-show">The Larry Meiller Show</a></li>
@@ -315,7 +316,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411400219633-0');
 <li><a href="/programs/chapter-day">Chapter A Day</a></li>
 <li><a href="/programs/university-air">University of the Air</a></li>
 <li><a href="/programs/special-programming">Special Event Programs</a></li>
-</ul><ul class="menu"><li><a href="/programs/morning-edition">Morning Edition</a></li>
+</ul><ul class="menu nav-menu"><li><a href="/programs/morning-edition">Morning Edition</a></li>
 <li><a href="/programs/all-things-considered">All Things Considered</a></li>
 <li><a href="/programs/fresh-air">Fresh Air</a></li>
 <li><a href="/programs/prairie-home-companion">A Prairie Home Companion</a></li>
@@ -327,10 +328,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411400219633-0');
 	Music</li>
 <li><a href="/programs/midday">The Midday</a></li>
 <li><a href="/programs/classics-request">Classics by Request</a></li>
-</ul><ul class="menu"><li><a href="/programs/higher-ground">Higher Ground with Jonathan Overby</a></li>
+</ul><ul class="menu nav-menu"><li><a href="/programs/higher-ground">Higher Ground with Jonathan Overby</a></li>
 <li><a href="/programs/simply-folk">Simply Folk</a></li>
-<li><a href="/programs/sunday-afternoon-live-chazen">Sunday Afternoon Live from the Chazen</a></li>
 <li><a href="/programs/classical-music">Classical Music</a></li>
+<li><a href="/programs/wisconsin-classical">Wisconsin Classical</a></li>
 <li><a href="/programs/sunday-brunch">Sunday Brunch</a></li>
 <li class="program-section">Regional</li>
 <li><a href="/programs/route-51">Route 51</a></li>
@@ -347,19 +348,19 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411400219633-0');
                 
     <div class="content clearfix">
       <div class="content clearfix">
-<ul class="menu"><li class="first leaf"><a href="/news">All WPR News</a></li>
-</ul><ul class="menu"><li class="leaf"><a href="/topics/agriculture">Agriculture</a></li>
+<ul class="menu nav-menu"><li class="first leaf"><a href="/news">All WPR News</a></li>
+</ul><ul class="menu nav-menu"><li class="leaf"><a href="/topics/agriculture">Agriculture</a></li>
 <li class="leaf"><a href="/arts-and-culture">Arts &amp; Culture</a></li>
 <li class="leaf"><a href="/topics/criminal-justice">Criminal Justice</a></li>
 <li class="leaf"><a href="/topics/education">Education</a></li>
-</ul><ul class="menu"><li class="leaf"><a href="/topics/environment">Environment</a></li>
+</ul><ul class="menu nav-menu"><li class="leaf"><a href="/topics/environment">Environment</a></li>
 <li class="leaf"><a href="/topics/health">Health</a></li>
 <li class="leaf"><a href="/topics/money">Money</a></li>
 <li class="leaf"><a href="/topics/politics">Politics</a></li>
-</ul><ul class="menu"><li class="leaf"><a href="/topics/science-and-technology">Science &amp; Technology</a></li>
+</ul><ul class="menu nav-menu"><li class="leaf"><a href="/topics/science-and-technology">Science &amp; Technology</a></li>
 <li class="leaf"><a href="/topics/social-issues">Social Issues</a></li>
 <li class="leaf"><a href="/topics/sports">Sports</a></li>
-</ul><ul class="menu"><li class="first leaf"><a href="/news-podcasts">News Podcasts</a></li>
+</ul><ul class="menu nav-menu"><li class="first leaf"><a href="/news-podcasts">News Podcasts</a></li>
 </ul></div>
     </div>
   </div>
@@ -374,32 +375,63 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411400219633-0');
     <a id="main-content"></a>
                         <div class="block block-block listen-live block-6 block-block-6 odd block-without-title" id="block-block-6">
   <div class="block-inner clearfix">
-                <h2 class="block-title"><a class="popup-player" href="/listen-live">Listen Live</a></h2>
+                <h2 class="block-title"><a class="live-player popup-player" href="/listen-live">Listen Live</a></h2>
     
     <div class="content clearfix">
 
 	<div id="listen-ideas" class="listen-section network">
-		<a href="/listen-live?network=ideas" class="popup-player"><div class="play-button"></div><h4>Ideas</h4></a>
+		<a href="/listen-live?network=ideas" class="live-player popup-player"><div class="play-button"></div><h4>Ideas</h4></a>
 		<a class="network-schedule" href="/ideas-network/weekly"><h4>Program Schedule</h4></a>
 		<a class="program-notes" href="/program-notes"><h4>Program Notes</h4></a>
 	</div>
 	
 	<div class="listen-section network" id="listen-news">
-		<a href="/listen-live?network=news" class="popup-player"><div class="play-button"></div><h4>NPR News and Classical</h4></a>
+		<a href="/listen-live?network=news" class="live-player popup-player"><div class="play-button"></div><h4>NPR News and Classical</h4></a>
 		<a class="network-schedule" href="/news-classical-network/weekly"><h4>Program Schedule</h4></a>
 		<a class="classical-playlist" href="/classical-music-lists"><h4>Classical Playlist</h4></a>
 	</div>
 
 	<div class="listen-section network" id="listen-classical">
-		<a href="/listen-live?network=classical" class="popup-player"><div class="play-button"></div><h4>All Classical</h4></a>
+		<a href="/listen-live?network=classical" class="live-player popup-player"><div class="play-button"></div><h4>All Classical</h4></a>
 		<a class="network-schedule" href="/all-classical-network/weekly"><h4>Program Schedule</h4></a>
 	</div>
 	  
-	      </div>
+    </div>
   </div>
-</div>		<aside class="grid-6 region region-content-top" id="region-content-top">
+</div>
+		<aside class="grid-6 region region-content-top" id="region-content-top">
 		  <div class="region-inner region-content-top-inner">
-			<div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+			<div class="block block-views pledge-banner block-banners-block block-views-banners-block odd block-without-title" id="block-views-banners-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-banners view-id-banners view-display-id-block view-dom-id-4b00e3b8e2a2f6d2d67758050428d5a2">
+        
+  
+  
+      <div class="view-content">
+        <div class="banner">
+      
+          <div class="-budget-update-april-2015"><table class="pledge-banner june standard" style="background: #3D3D3D"><tbody><tr><!--<td class="logo"><a href="http://www.wpr.org/budget-update-wisconsin-public-broadcasting-needs-your-help"><img alt="WPR" src="/sites/default/files/media/WPRlogo_crop.png" style="width: 189px; height: 100px;" /></a></td>--><td>
+<div class="banner-contents logo">
+<div class="header"><a href="http://www.wpr.org/budget-update-wisconsin-public-broadcasting-needs-your-help"><span style="color: #f6a120;">BUDGET UPDATE:</span></a>
+<div class="header"><a href="http://www.wpr.org/budget-update-wisconsin-public-broadcasting-needs-your-help"><span style="font-size:20px; color: #ffffff;">Wisconsin Public Broadcasting Needs Your Help</span></a> 
+<!--<div class="text" style="color: #f6a120;"><a href="http://www.wpr.org/budget-update-wisconsin-public-broadcasting-needs-your-help">You Can Help!</a></div>--></div>
+</div>
+</div>
+</td>
+<td class="donate-circle"><a href="/budget-update-wisconsin-public-broadcasting-needs-your-help"><img alt="Support WPR" src="/sites/default/files/SupportWPR80.png" style="width: 80px; height: 80px;"></a></td>
+</tr></tbody></table></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div><div class="block block-system block-main block-system-main even block-without-title" id="block-system-main">
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
@@ -462,20 +494,23 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411400219633-0');
                 
     <div class="content clearfix">
       <p style="text-align: center">Sponsored by:</p>
+<!-- WPR_ORG_300x250A -->
+<div id="div-gpt-ad-1415374161653-0" style="">
 <script type="text/javascript">
 <!--//--><![CDATA[// ><!--
 
-GA_googleFillSlot("WPR_ORG_300x250A");
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415374161653-0'); });
 
 //--><!]]>
-</script><p class="sponsor-link"><a href="/support/corporate">Become a WPR Sponsor</a></p>
+</script></div>
+<p class="sponsor-link"><a href="/support/corporate">Become a WPR Sponsor</a></p>
     </div>
   </div>
 </div><div class="block block-views news-wisconsin headline-list content-section block-headline-list-block-1 block-views-headline-list-block-1 even block-without-title" id="block-views-headline-list-block-1">
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <div class="view view-headline-list view-id-headline_list view-display-id-block_1 headline-list view-dom-id-2c3a4f03256ecc162ad249c5bc5373de">
+      <div class="view view-headline-list view-id-headline_list view-display-id-block_1 headline-list view-dom-id-10b2952d796ff8cdb23bd102683b64b1">
             <div class="view-header">
       <h3><a href="/news/wpr">WPR News</a></h3>
     </div>
@@ -485,19 +520,19 @@ GA_googleFillSlot("WPR_ORG_300x250A");
       <div class="view-content">
         <div class="views-row-odd views-row-first headline">
       
-          <a href="/nea-chairwoman-says-shes-not-concerned-power-shift-congress">NEA Chairwoman Says She's Not Concerned By Power Shift In Congress</a>    </div>
+          <a href="/former-walker-aide-moves-one-step-closer-joining-wisconsins-utility-regulation-agency">Former Walker Aide Moves One Step Closer To Joining Wisconsin's Utility Regulation Agency</a>    </div>
   <div class="views-row-even headline">
       
-          <a href="/there-have-been-100-gun-homicide-victims-wisconsin-year">There Have Been 100 Gun Homicide Victims In Wisconsin This Year</a>    </div>
+          <a href="/state-conduct-3-year-study-bullying">State To Conduct 3-Year Study On Bullying</a>    </div>
   <div class="views-row-odd headline">
       
-          <a href="/rate-children-health-insurance-under-chip-wisconsin-slipping">Rate Of Children With Health Insurance Under CHIP In Wisconsin Is Slipping</a>    </div>
+          <a href="/pocan-hopes-senate-approves-funding-childrens-health-insurance-program">Pocan Hopes Senate Approves Funding For Children's Health Insurance Program</a>    </div>
   <div class="views-row-even headline">
       
-          <a href="/waukesha-school-re-named-one-its-former-students-legendary-guitarist-les-paul">Waukesha School Re-Named For One Of Its Former Students: Legendary Guitarist Les Paul</a>    </div>
+          <a href="/brokaw-bankruptcy-solution-opposed-lawmakers">Brokaw Bankruptcy Solution Opposed by Lawmakers</a>    </div>
   <div class="views-row-odd views-row-last headline">
       
-          <a href="/madison-biotech-company-comes-closer-developing-new-diagnosis-autism">Madison Biotech Company Comes Closer To Developing New Diagnosis For Autism</a>    </div>
+          <a href="/badgers-fans-wrestle-outcome-championship-game">Badgers Fans Wrestle With Outcome Of Championship Game</a>    </div>
     </div>
   
   
@@ -515,13 +550,50 @@ GA_googleFillSlot("WPR_ORG_300x250A");
                 
     <div class="content clearfix">
       <p style="text-align: center">Sponsored by:</p>
-<!-- WPR_ORG_300x250B --><script type="text/javascript">
+<!-- WPR_ORG_300x250B -->
+<div id="div-gpt-ad-1415374464388-0" style="">
+<script type="text/javascript">
 <!--//--><![CDATA[// ><!--
 
-GA_googleFillSlot("WPR_ORG_300x250B");
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415374464388-0'); });
 
 //--><!]]>
-</script><p class="sponsor-link"><a href="/support/corporate">Become a WPR Sponsor</a></p>
+</script></div>
+<p class="sponsor-link"><a href="/support/corporate">Become a WPR Sponsor</a></p>
+    </div>
+  </div>
+</div><div class="block block-block content-section block-66 block-block-66 even block-without-title" id="block-block-66">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p>​</p>
+<div style="width: 290px !important; text-align: left;">
+<table align="center" style="background-color: #cccccc !important; outline: #aaaaaa solid thin;"><tbody><tr><th align="center" style="text-align: center;">
+<p style="height: 28px; margin: 2px 0px 2px 0px; text-align: center; font-size: 26px; font-weight: bold; color: #000000; text-height: 26px;"><a href="http://www.amazon.com/?&amp;tag=wiscpublradi-20&amp;linkCode=160">Support WPR!</a></p>
+<p style="height: 20px; margin: 6px 0px 16px 0px; text-align: center; font-size: 18x; color: #666666; line-height: 16px;"><a href="http://www.amazon.com/?&amp;tag=wiscpublradi-20&amp;linkCode=160">Every purchase starting with this search<br>
+			helps support Wisconsin Public Radio</a></p>
+</th>
+</tr><tr><th>
+<script charset="utf-8" type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+amzn_assoc_ad_type = "responsive_search_widget";
+amzn_assoc_tracking_id = "wiscpublradi-20";
+amzn_assoc_link_id = "MBLATAUR3KSQP674";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_placement = "";
+amzn_assoc_search_type = "search_widget";
+amzn_assoc_width = 278;
+amzn_assoc_height = 250;
+amzn_assoc_default_search_category = "";
+amzn_assoc_default_search_key = "";
+amzn_assoc_theme = "light";
+amzn_assoc_bg_color = "999999";
+
+//--><!]]>
+</script><script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;Operation=GetScript&amp;ID=OneJS&amp;WS=1&amp;MarketPlace=US"></script></th>
+</tr></tbody></table></div>
     </div>
   </div>
 </div>  </div>
@@ -552,7 +624,7 @@ GA_googleFillSlot("WPR_ORG_300x250B");
 </div>
 <p>&nbsp;</p>
 <p style="text-align: center;">For questions or comments about our programming, contact WPR’s Audience Services at 1-800-747-7444, email at <a href="mailto:listener@wpr.org">listener@wpr.org</a> or use our <a href="/contact-us">feedback form</a>.<br>
-View our <a href="/privacy-policy">Privacy Policy</a>. For comments about WPR’s website or other digital media products, contact <a href="mailto:webmaster@wpr.org">webmaster@wpr.org</a>.<br><a href="/support">Find out how to support WPR in this section</a>.</p>
+View our <a href="/privacy-policy">privacy policy</a>. For comments about WPR’s website or other digital media products, contact <a href="mailto:webmaster@wpr.org">webmaster@wpr.org</a>.<br><a href="/support">Find out how to support WPR in this section</a>.</p>
 <p style="text-align: center; font-size: 12px;">© 2014&nbsp;by Wisconsin Public Radio, a service of the <a href="http://www.ecb.org/">Wisconsin Educational Communications Board</a> and the <a href="http://www1.uwex.edu/">University of Wisconsin-Extension</a>.<br><a href="http://www.ecb.org/"><img alt="Wisconsin Educational Communications Board" src="/sites/default/files/media/logos/ECB.png" style="width: 109px; height: 84px;"></a> <a href="http://www1.uwex.edu/"><img alt="University of Wisconsin-Extension" src="/sites/default/files/media/logos/UWEX.png" style="width: 109px; height: 84px;"></a></p>
 <script type="text/javascript">
 <!--//--><![CDATA[// ><!--
@@ -571,7 +643,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
   <div class="region-inner region-page-bottom-inner">
       </div>
 </div><script type="text/javascript" src="http://www.wpr.org/sites/default/files/advagg_js/js__6pKtxAsuiEwzLqzoBMwLb9k53D1ylTZ0_Wo0K-Slycc__Ky2df3wq1Kg5t4AiKT8NXdi1PQSbQhTS-R_jpqayKkU__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.js"></script>
-<script type="text/javascript" src="http://www.wpr.org/sites/default/files/advagg_js/js__Pll2GppHXn4zraG9HOWN_GcP2JiNLZL124MUdKS_rd0__3eS_0xi6O9ec6ShV_cGm-jZHhTB_fRp3WCmeEQPs9ic__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.js"></script>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"8d7a4982ef","applicationID":"1977808","transactionName":"ZFxUZhECVkpVBhAPX10Wd1EXCldXGwsLAlVsSVdVBjxOUFES","queueTime":0,"applicationTime":700,"ttGuid":"","agentToken":"","atts":"SBtXEFkYRUQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript" src="http://www.wpr.org/sites/default/files/advagg_js/js__Pll2GppHXn4zraG9HOWN_GcP2JiNLZL124MUdKS_rd0__QLTbZ6A7hBGHxtsZGi0uNrwV2Mp4866JffdaMEZ5CDI__LHoZLrpTDzESQB70LPozHp0ZLeDXyqsacOdhEW4t0OY.js"></script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"8d7a4982ef","applicationID":"1977808","transactionName":"ZFxUZhECVkpVBhAPX10Wd1EXCldXGwsLAlVsSVdVBjxOUFES","queueTime":0,"applicationTime":660,"ttGuid":"","agentToken":"","atts":"SBtXEFkYRUQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-515.min.js"></script></body></html>
