@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakivo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133545id_/http%3A//nakivo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakivo.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408182939id_/http%3A//www.nakivo.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy | NAKIVO Backup & Replication | NAKIVO.com
 
