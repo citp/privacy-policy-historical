@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tv-toolbar.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123002049id_/http%3A//www.toolbar.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv-toolbar.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408082140id_/http%3A//www.toolbar.tv/privacy) for the most accurate reproduction.*
 
-# Privacy | Toolbar TV
+# Privacy | Free Live TV | Free Live TV
 
 Toolbar.tv is committed to maintaining the following privacy practices:  
 ---  
@@ -23,5 +23,5 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 10. | **Your Consent**  
 By using our site, you consent to our privacy policy.  
 11. | **Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below.http://www.tv-toolbar.com  
+If there are any questions regarding this privacy policy you may [contact us](http://www.toolbar.tv/contact-us/) using the information below.http://www.tv-toolbar.com  
 info@tv-toolbar.com
