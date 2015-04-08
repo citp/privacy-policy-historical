@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiocasino.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112181224id_/http%3A//www.indiocasino.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiocasino.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408064809id_/http%3A//www.indiocasino.com/privacy.php) for the most accurate reproduction.*
 
-# Indio Casino – Privacy Statement
+# Security and Privacy - Indio Casino
 
-**Indio Casino** and its subsidiaries are committed to respecting and protecting your privacy. The following statement discloses the information gathered by the Indio Casino.
+## SECURITY AND PRIVACY
 
 Web Site Information
 
@@ -10,7 +10,8 @@ As part of the web site's operation and for our own statistical analysis of web-
 
 Advertising System
 
-Our Advertising system logs IP addresses to supply more accurate advertising features, such as language specific banners. It does NOT log any E-mail Addresses.
+Our Advertising system logs IP addresses to supply more accurate advertising features, such as language specific banners. It does NOT log any E-mail Addresses.   
+
 
 Account Creation Information
 
@@ -20,8 +21,7 @@ This information includes customer E-mail Addresses and other personal informati
 
 E-mail Addresses are NOT shared with any other organization for commercial or noncommercial purposes. E-mail Addresses will only be used to provide our customers with information regarding new software updates, promotional material, and miscellaneous casino operations, such as deposits and withdrawals. 
 
-We collect E-mail Addresses of those who communicate with us via E-mail.   
-If you do not want to receive any E-mail from us, please send us a blank E-mail with the text " **remove** " in the subject to [support@indiocasino.com](mailto:support@indiocasino.com)
+We collect E-mail Addresses of those who communicate with us via E-mail. If you do not want to receive any E-mail from us, please send us a blank E-mail with the text "remove" in the subject to [support@indiocasino.com](mailto:support@indiocasino.com)
 
 Winnings
 
