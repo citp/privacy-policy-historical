@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersenergy.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228161340id_/http%3A//www.consumersenergy.com/Content.aspx%3Fid%3D1121) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersenergy.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408040011id_/http%3A//www.consumersenergy.com/Content.aspx%3Fid%3D1121) for the most accurate reproduction.*
 
 # Privacy | Consumers Energy
 
