@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maavaishnodevi.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093835id_/https%3A//www.maavaishnodevi.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maavaishnodevi.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408141416id_/https%3A//www.maavaishnodevi.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Shri Mata Vaishno Devi Shrine Board :: Privacy Policy
 
