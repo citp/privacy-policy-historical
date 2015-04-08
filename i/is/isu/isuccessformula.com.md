@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isuccessformula.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130021125id_/http%3A//isuccessformula.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isuccessformula.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409000856id_/http%3A//isuccessformula.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -58,4 +58,5 @@ COPYRIGHT WARNING: The legal notices and administrative pages on this website, i
 
 QUESTIONS/COMMENTS/CONCERNS: If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
 
-###### PROSPERITY TEAM, LLC 16805-B HAZELHURST DR. #12506 HOUSTON, TX 77043 USA 1+ (330) 757-6619
+###### Prosperity Team, LLC 1320 West Lake St. Suite 214 Minneapolis, MN 55408 USA  
+iPAS Team Limited, Office 3 Unit R1, Penfold Trading Estate, Imperial Way, Watford, Hertfordshire, WD24 4YY 
