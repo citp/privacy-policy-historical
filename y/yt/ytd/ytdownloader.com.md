@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytdownloader.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205032624id_/http%3A//www.ytdownloader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytdownloader.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408114826id_/http%3A//www.ytdownloader.com/privacy-policy) for the most accurate reproduction.*
 
 # YTDownloader - Privacy Policy
 
@@ -25,7 +25,5 @@ Should the Site include a search feature, the search feature will send a request
 **Security**
 
 We have security measures in place to prevent unauthorized access to and protect the loss, misuse and alteration of the information under our control. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access, and we make no warranty, express, implied or otherwise, that we will prevent such access.
-
-Data collection information on web-search services is found at <http://info.trovi.com/Privacy>
 
 Privacy Policy Last Version Date: July 28, 2014
