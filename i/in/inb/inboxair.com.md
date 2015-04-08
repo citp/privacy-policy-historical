@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxair.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122043015id_/http%3A//inboxair.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxair.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408065944id_/http%3A//inboxair.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and permission policy
 
