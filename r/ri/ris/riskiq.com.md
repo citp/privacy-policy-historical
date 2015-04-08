@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riskiq.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205010712id_/http%3A//www.riskiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riskiq.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408191457id_/http%3A//www.riskiq.com/privacy-policy) for the most accurate reproduction.*
 
 # RiskIQ Privacy Policy | RiskIQ.com
 
@@ -70,8 +70,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 **RiskIQ, Inc.**  
-123 10th Street  
-San Francisco, California 94103  
-U.S.A.  
+22 Battery St. 10th Floor  
+San Francisco, California 94111  
 [support@riskiq.com](mailto:support@riskiq.com)  
 [http://www.riskiq.com](http://www.riskiq.com/)
