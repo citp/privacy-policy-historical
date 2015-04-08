@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9bitz.eu privacy policy that was archived on 2014-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140725192037id_/http%3A//9bitz.eu/PRIVACY-POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9bitz.eu privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408074632id_/http%3A//9bitz.eu/PRIVACY-POLICY.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY 9BITZ.EU
 
@@ -22,4 +22,4 @@ Information collected during the registration process may include your bitcoin w
 
 * * *
 
-[](https://web.archive.org/web/20140725192037id_/http%3A//9bitz.eu/index.html "Best Free Bitcoin Websites")
+[](https://web.archive.org/web/20150408074632id_/http%3A//9bitz.eu/index.html "Best Free Bitcoin Websites")
