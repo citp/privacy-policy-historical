@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scouts.org.uk privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107013626id_/http%3A//scouts.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouts.org.uk privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408030533id_/http%3A//scouts.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy statement | Scouts
 
-www.scouts.org.uk and The Scout Association take the issue of privacy very seriously and we are committed to protecting and respecting our users' privacy. This Privacy Statement sets out our current data processing practices and should be read in conjunction with our terms and conditions. If you have any queries or concerns regarding these practices, you should contact our at [info.centre@scout.org.uk](mailto:info.centre@scout.org.uk)
+The Scout Association and www.scouts.org.uk take the issue of privacy very seriously and we are committed to protecting and respecting our users' privacy. This Privacy Statement sets out our current data processing practices and should be read in conjunction with our terms and conditions. If you have any queries or concerns regarding these practices, you should contact us at [info.centre@scout.org.uk](mailto:info.centre@scout.org.uk).
 
 **1\. The information we collect**
 
@@ -14,7 +14,7 @@ When you register with www.scouts.org.uk, we ask for your name, email address an
 
 **3\. Sharing of data**
 
-We may share data supplied by you (or collected about you) with other parts of The Scout Association eg Scout Shops Ltd.
+We may share data supplied by you (or collected about you) with other parts of The Scout Association eg Scout Shops Ltd. Donating to The Scout Association - We do not store credit card details nor do we share customer details with any third parties with regard to any donation you make to The Scout Association.
 
 **4\. Advertising**
 
@@ -166,9 +166,9 @@ Visitors to this website who have javascript enabled are tracked using [**Google
 
 
 
-**This data is only used to optimize our website for our visitors.**  
+**This data is only used to optimise our website for our visitors.**  
  **  
-** **This data DOES NOT include any personalized identification information such as** : 
+** **This data DOES NOT include any personalised identification information such as** : 
 
   * Names
   * Phone numbers
