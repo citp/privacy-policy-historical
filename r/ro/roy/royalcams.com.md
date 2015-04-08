@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalcams.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930004628id_/http%3A//royalcams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcams.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408123852id_/http%3A//royalcams.com/privacy) for the most accurate reproduction.*
 
 # Live Sex Cams: XXX Adult Sex Shows, Live Porn Chat - Royalcams
 
