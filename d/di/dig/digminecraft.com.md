@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digminecraft.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208002610id_/http%3A//www.digminecraft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digminecraft.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408074921id_/http%3A//digminecraft.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
