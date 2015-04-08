@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the shotbow.net privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127002229id_/http%3A//shotbow.net/forum/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shotbow.net privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408031952id_/http%3A//shotbow.net/forum/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Shotbow Network
-
-Advertising appears to be blocked by your browser. Disabling your Adblock software is an easy way to help support Shotbow.   
-If you find the ads intrusive or inappropriate you can always re-enable your ad blocking software.   
-Thank you in advance for your support of Shotbow! - Shotbow Development Team
 
 This Privacy Policy governs the manner in which HcGaming LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://shotbow.net](http://shotbow.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by HcGaming LLC.
 
