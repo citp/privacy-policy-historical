@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the roehampton-online.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006215947id_/http%3A//www.roehampton-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roehampton-online.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408093850id_/http%3A//www.roehampton-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Statement of Privacy
 
-View our Privacy Policy below or read our complete [Terms & Conditions](https://web.archive.org/web/20141006215947id_/http%3A//www.roehampton-online.com/~/media/Files/UOR/Diverse_pdfs/Roehampton_Terms_and_Conditions_2013.ashx).
+View our Privacy Policy below or read our complete [Terms & Conditions](https://web.archive.org/~/media/Files/UOR/Diverse_pdfs/Roehampton_Terms_and_Conditions_2013.pdf).
 
 For additional information on our academic policies, please review our [Academic Policies](https://web.archive.org/~/media/Files/UOR/Diverse_pdfs/Roehampton_Academic_Policies_2013.pdf).
 
@@ -38,7 +38,7 @@ This Statement of Privacy is governed by the laws of the Netherlands, without ef
 
 Laureate Online Education may provide you with links to other sites. Please be aware that Laureate Online Education is not responsible for the privacy practices of these sites. Laureate Online Education does not endorse them or make any representations about them or any information, services, products or materials found on them. If you decide to access any of the third party sites through links, we strongly encourage you to read their privacy statements.
 
-If you did not find what you were looking for read our complete [Terms & Conditions](https://web.archive.org/web/20141006215947id_/http%3A//www.roehampton-online.com/~/media/Files/UOR/Diverse_pdfs/Roehampton_Terms_and_Conditions_2013.ashx) or contact us.
+If you did not find what you were looking for read our complete [Terms & Conditions](https://web.archive.org/~/media/Files/UOR/Diverse_pdfs/Roehampton_Terms_and_Conditions_2013.pdf) or contact us.
 
 ## Cookies
 
