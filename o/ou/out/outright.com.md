@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094620id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3D8830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408110928id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3D8830) for the most accurate reproduction.*
 
 # Legal Agreement
 
-Go Daddy Respects your privacy
+**Last Revised: September 19, 2013**
+
+GoDaddy Respects your privacy
 
 This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Site.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.
 
@@ -14,7 +16,7 @@ Our Site and mobile application use forms in which you give us contact informati
 
 We receive and store any information you enter on our Site, mobile application, or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given.
 
-We use your information to contact you regarding functionality changes to our products, our Site and mobile application, new Go Daddy services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We use your information to contact you regarding functionality changes to our products, our Site and mobile application, new GoDaddy services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
 We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
@@ -22,11 +24,11 @@ We use information gathered about you from our Site or mobile application statis
 
 Our Site and mobile application use cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't need to log in each time you visit our Site or mobile application. The cookies are linked to your customer number, which is associated with the information in your account.
 
-Within our mobile application we use tracking technologies such as:  CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added).  Our mobile application automatically collects the device's operating system, phone model, app version, and device ID, and the user's customer number.  We report this data back to our Go Daddy web services.  These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major users so that we may optimize our application for those user types.
+Within our mobile application we use tracking technologies such as:  CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added).  Our mobile application automatically collects the device's operating system, phone model, app version, and device ID, and the user's customer number.  We report this data back to our GoDaddy web services.  These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major users so that we may optimize our application for those user types.
 
 We do not ask you for, access, or track any location-based information from your mobile device at any time while downloading our mobile application or services.  We do not tie any personally identifiable information you submit within our mobile application to any of the tracking technologies that we use.
 
-This Site and our mobile application contain links to other websites. Unfortunately, Go Daddy is not responsible for the privacy practices or the content of such sites.
+This Site and our mobile application contain links to other websites. Unfortunately, GoDaddy is not responsible for the privacy practices or the content of such sites.
 
 **Security**
 
@@ -68,15 +70,15 @@ We may use a third party service provider to conduct these surveys or contests. 
 
 **Targeted Advertisements**
 
-Go Daddy may display targeted offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
+GoDaddy may display targeted offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What Happens to my Personally Identifiable Information if I Terminate my Go Daddy Account?**
+**What Happens to my Personally Identifiable Information if I Terminate my GoDaddy Account?**
 
-When your Go Daddy account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant Go Daddy databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+When your GoDaddy account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant GoDaddy databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
 **Updating Your Information**
 
@@ -84,7 +86,7 @@ You may alter, update or deactivate your account information or opt out of recei
 
   1. You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
   2. You may visit your online [Account Manager](https://www.godaddy.com/gdshop/shopper_lookup.asp?isc=)
-  3. You may send mail to Go Daddy at the following postal address: 14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  3. You may send mail to GoDaddy at the following postal address: 14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
   4. You may call us at: (480) 505-8800
   5. You may fax us at: (480) 505-8844
 
@@ -112,4 +114,4 @@ If we make material changes to this Policy, we will notify you here, by email, o
 
 If you have any questions about our Privacy Policy, our privacy practices, or your dealings with this Site or our mobile application, please contact us at:
 
-Go Daddy ATTN: Web Team 14455 North Hayden Rd. Suite 219 Scottsdale, AZ, 85260, U.S.A.
+GoDaddy ATTN: Web Team 14455 North Hayden Rd. Suite 219 Scottsdale, AZ, 85260, U.S.A.
