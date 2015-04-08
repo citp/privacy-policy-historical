@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthdiscovery3d.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227071218id_/http%3A//newwealthdiscovery.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthdiscovery3d.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408093945id_/http%3A//newwealthdiscovery.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Wealth Discovery
 
