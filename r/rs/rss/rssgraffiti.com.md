@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rssgraffiti.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005645id_/http%3A//www.rssgraffiti.com/%3Fpage_id%3D2081364812) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssgraffiti.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408080452id_/http%3A//www.rssgraffiti.com/%3Fpage_id%3D2081364812) for the most accurate reproduction.*
 
 # Privacy Policy | RSS Graffiti | Easy Facebook Automation
 
