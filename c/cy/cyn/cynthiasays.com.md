@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175201id_/http%3A//www.hisoftware.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408070022id_/http%3A//www.hisoftware.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # HiSoftware: Privacy Statement
 
