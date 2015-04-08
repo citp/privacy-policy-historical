@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogspree.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123094018id_/http%3A//catalogspree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogspree.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408172040id_/http%3A//catalogspree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Catalog Spree
 
