@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiedigitallibrary.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229084933id_/http%3A//spiedigitallibrary.org/ss/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiedigitallibrary.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408034053id_/http%3A//spiedigitallibrary.org/ss/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SPIE | Privacy Policy
 
