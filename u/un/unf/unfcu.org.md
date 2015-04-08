@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105204id_/http%3A//www.unfcu.org/WorkArea/linkit.aspx%3FLinkIdentifier%3DID%26ItemID%3D596) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408060846id_/https%3A//www.unfcu.org/WorkArea/linkit.aspx%3FLinkIdentifier%3DID%26ItemID%3D596) for the most accurate reproduction.*
 
 # UNFCU :: About UNFCU :: Disclosures :: Privacy Policy
 
@@ -22,4 +22,4 @@ UNFCU will make full disclosure online when information is being collected for t
 
 Personal information contained in email sent by members and non-members may be used by UNFCU staff and volunteers to answer questions, to follow up on suggestions or complaints, or to improve the level of service UNFCU provides. We may use information you have given us to provide a service, ensure proper billing, measure consumer interest in our various services, and inform you about products and services.
 
-[View Privacy Notice](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=2244 "Privacy Notice") 
+[View Privacy Notice](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=71901 "Privacy Notice") 
