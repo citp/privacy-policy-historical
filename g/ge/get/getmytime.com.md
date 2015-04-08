@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011020849id_/http%3A//wwwdev.getmytime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408101028id_/http%3A//www.getmytime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Get My Time
+# Privacy Policy - Get My Time
 
 As an Internet user, you no doubt recognize the usefulness of this amazing medium. A medium of such great promise in one-to-one and one-to-many communications does not come without its concerns. Many members of the on-line community are rightfully concerned about maintaining a comfortable level of privacy. As active members of the on-line community,
 
