@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagein.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagein.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408054834id_/http%3A//www.gagein.com/privacy) for the most accurate reproduction.*
 
 # Gagein | The New Standard for B2B Prospecting
 
@@ -8,7 +8,7 @@ We reserve the right to change this privacy at any time, so please review it fre
 
 ###### Personal Information Collection
 
-The purpose of the Gagein website is to allow Gagein users (“Users”) to voluntarily provide information about themselves and their businesses for the purposes of building, maintaining and enhancing a business network to discover business opportunities and achieve business goals. You willingly provide us certain personal and business information, which we collect in order to allow you to benefit from the Gagein website. If you have any hesitation about providing such information to us and/or having such information displayed on the Gagein website or otherwise used in any manner permitted in this Privacy Policy and the [User Agreement](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/terms/), you should not become a member of the Gagein community.
+The purpose of the Gagein website is to allow Gagein users (“Users”) to voluntarily provide information about themselves and their businesses for the purposes of building, maintaining and enhancing a business network to discover business opportunities and achieve business goals. You willingly provide us certain personal and business information, which we collect in order to allow you to benefit from the Gagein website. If you have any hesitation about providing such information to us and/or having such information displayed on the Gagein website or otherwise used in any manner permitted in this Privacy Policy and the [User Agreement](https://web.archive.org/web/20150408054834id_/http%3A//www.gagein.com/terms/), you should not become a member of the Gagein community.
 
 We collect your personal and business information in the following ways:
 
@@ -36,7 +36,7 @@ We automatically receive certain types of information whenever you interact with
 
 ###### Consent to Gagein Processing Information About You
 
-Please be aware that in providing information to Gagein for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and Gagein’s [User Agreement](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/terms/). The supplying of all such information by you to Gagein, including all information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the [User Agreement](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/terms/), but please note that your withdrawal of consent will not be retroactive.
+Please be aware that in providing information to Gagein for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and Gagein’s [User Agreement](https://web.archive.org/web/20150408054834id_/http%3A//www.gagein.com/terms/). The supplying of all such information by you to Gagein, including all information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the [User Agreement](https://web.archive.org/web/20150408054834id_/http%3A//www.gagein.com/terms/), but please note that your withdrawal of consent will not be retroactive.
 
 ###### Cookies
 
@@ -117,7 +117,7 @@ You can also close your account through the Gagein website. If you close your Ga
 
 As a User, you have certain obligations toward the other Users with whom you will be communicating. Certain of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly communities like Gagein:
 
-    * You must, at all times, respect the terms and conditions of the then-current [Privacy Policy](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/privacy/) and the [User Agreement](https://web.archive.org/web/20141216182335id_/http%3A//www.gagein.com/terms/).                                                
+    * You must, at all times, respect the terms and conditions of the then-current [Privacy Policy](https://web.archive.org/web/20150408054834id_/http%3A//www.gagein.com/privacy/) and the [User Agreement](https://web.archive.org/web/20150408054834id_/http%3A//www.gagein.com/terms/).                                                
 
     * You must not download or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of Gagein and its community of Users.
 
