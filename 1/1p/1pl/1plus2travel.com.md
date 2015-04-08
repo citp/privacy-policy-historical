@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 1plus2travel.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703205145id_/http%3A//1plus2travel.com/_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1plus2travel.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408093014id_/http%3A//1plus2travel.com/_privacy-policy) for the most accurate reproduction.*
 
 # 1 Plus 2 -Privacy Policy
 
 **What our Privacy Policy Covers**
 
-The Privacy Policy covers our treatment of personally identifiable information that we collect when you are on our website, [www.1plus2travel.com](http://www.1plus2travel.com/) , which is operated and owned by One Plus Two Travel Ltd (Registration No. 08639227) (“One Plus Two Travel”, “our”, “us” or “we”) with a registered office address at 145-157 St. John Street, London EC1V 4PW, and when you use our services.
+The Privacy Policy covers our treatment of personally identifiable information that we collect when you are on our website, [www.1plus2travel.com](http://www.1plus2travel.com/) , which is operated and owned by One Plus Two Travel Ltd (Registration No. 08639227) (“One Plus Two Travel”, “our”, “us” or “we”) with a registered office address at Suite 110, Axis Building, Maingate, Team Valley, Gateshead, NE11 0NQ, and when you use our services.
 
 We take our responsibilities for managing your personal data seriously and we operate in accordance with the Data Protection Act 1998 and related legislation.
 
