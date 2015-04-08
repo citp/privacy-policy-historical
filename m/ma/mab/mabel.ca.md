@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mabel.ca privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228221855id_/http%3A//www.mabelslabels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mabel.ca privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408041409id_/http%3A//www.mabelslabels.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
