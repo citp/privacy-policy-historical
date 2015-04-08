@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gurushots.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120210618id_/http%3A//gurushots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurushots.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408150006id_/http%3A//gurushots.com/privacy) for the most accurate reproduction.*
 
-# GuruShots.com | Live Photo Challenges
+# GuruShots | Live Photo Challenges
 
 The use of GuruShots' websites, services, products and software (collectively, the "Website") is subject to the provisions of this Privacy Policy, including any updates or amendments hereto. By using the Website, you agree to the terms of this Privacy Policy and take it upon yourself to consult this Privacy Policy regularly for changes, which may be made by GuruShots without notice and at any time. 
 
