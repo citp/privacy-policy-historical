@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 365login.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007134956id_/http%3A//www.365login.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365login.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408021844id_/http%3A//www.365login.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Login to Office 365
+# 365 login
 
-Thank you for visiting our web site. This website is administered by EverydayICT B.V., address: De Run 4308, 5503 LN, Veldhoven, The Netherlands. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
+Thank you for visiting our web site. This website is administered by Run IT Remote B.V., address: De Run 4308, 5503 LN, Veldhoven, The Netherlands. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
 **Collection of Information**
 
@@ -26,7 +26,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
-By e-mail: info@everydayict.com  
-By mail: Everyday ICT B.V., De Run 4308, 5503 LN, Veldhoven, The Netherlands.  
+By e-mail: info@runitremote.nl  
+By mail: Run IT Remote B.V., De Run 4308, 5503 LN, Veldhoven, The Netherlands.  
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.  
 
