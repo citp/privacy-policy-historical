@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engrade.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709100437id_/http%3A//wikis.engrade.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engrade.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408182726id_/http%3A//wikis.engrade.com/help/privacy) for the most accurate reproduction.*
 
 # Engrade Free Gradebook Help - Privacy Policy
 
