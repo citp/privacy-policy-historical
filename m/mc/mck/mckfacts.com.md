@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckfacts.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129152238id_/http%3A//www.mckfacts.com/privacy-policy-adsense) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckfacts.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408021834id_/http%3A//www.mckfacts.com/privacy-policy-adsense) for the most accurate reproduction.*
 
 # AdSense Privacy Policy - MckFacts
 
