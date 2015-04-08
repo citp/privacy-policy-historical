@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the butterbin.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115004026id_/http%3A//www.butterbin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butterbin.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408091625id_/http%3A//www.butterbin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Butterbin
 
