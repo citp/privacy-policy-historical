@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalmarijuanainc.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201021648id_/http%3A//www.medicalmarijuanainc.com/index.php/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalmarijuanainc.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408050912id_/http%3A//www.medicalmarijuanainc.com/index.php/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
