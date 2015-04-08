@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportclips.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122173016id_/http%3A//www.sportclips.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportclips.com privacy policy that was archived on 2015-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408094339id_/http%3A//www.sportclips.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy</title>
@@ -82,7 +82,8 @@ $j("body").css("background-image", "url("+pics[index]+")");
 </div>
 </div>
 <!--END MAIN NAV--></div>
-</div> <!--SUBPAGE CONTENT AREA-->
+</div>
+ 	 <!--SUBPAGE CONTENT AREA-->
 <div id="subpage-content">
 <div id="middletop">
 <div id="subnav">
@@ -149,6 +150,19 @@ $j("body").css("background-image", "url("+pics[index]+")");
 <li><a href="http://www.SportClipsjobs.com" target="blank">Apply Now</a></li>
 </ul>
 </div>
+<script>
+      $j.ajax({
+            url: '/features/ResolveCountry/getCountry.php',
+           success: function (data) {
+                
+                   if (data["country_code"] == 'CA') 
+                        location = "http://www.sportclips.ca";
+                       
+               
+           },
+           dataType: 'json'
+      });
+</script> 
 <!-- Pingdom GUID: 56C38894-46FD-4DCB-AA60-CDE390FC923B --></div>
 <div class="footerlinks"><a href="http://www.twitter.com/SportClips" target="_blank"><img alt="Follow Sport Clips on Twitter" border="0" class="twitter" height="32" longdesc="#" src="http://www.sportclips.com/Library/images/twitter_icon.png" title="Follow Sport Clips on Twitter" width="131"></a> <a href="http://www.facebook.com/SportClipsHaircuts" target="_blank"><img alt="Connect with Sport Clips on Facebook" border="0" class="facebook" height="32" longdesc="#" src="http://www.sportclips.com/Library/images/facebook_icon.png" title="Connect with Sport Clips on Facebook" width="207"></a> <a href="http://www.youtube.com/user/SportClipsOfficial/videos" target="_blank"><img alt="Sport Clips YouTube page" border="0" class="youtube" height="32" longdesc="#" src="http://www.sportclips.com/Library/images/youtube_icon.png" title="Sport Clips YouTube page" width="195"></a> <a href="/Home.html"><img alt="Sport Clips" border="0" height="33" longdesc="#" src="http://www.sportclips.com/Library/images/logo_footer.png" title="Sport Clips" width="139"></a></div>
 <div class="footerelementslink">© Copyright 2014 Sport Clips, Inc. All Rights Reserved - <a href="http://www.sportclips.com/privacy.html" title="Privacy Policy" target="_blank">Privacy Policy</a> - <a href="http://elementslocal.com/cm/Home.html?utm_source=SportClipsWebsite&amp;utm_medium=BugLink&amp;utm_campaign=Referrals" title="Online Franchise Marketing Software" target="_blank">ElementsLocal Franchise Marketing Software</a></div></div>
