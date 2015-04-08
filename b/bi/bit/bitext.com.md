@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitext.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225110917id_/http%3A//www.bitext.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitext.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408122248id_/http%3A//www.bitext.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Bitext - Text Analytics Solutions for Big Data
 
