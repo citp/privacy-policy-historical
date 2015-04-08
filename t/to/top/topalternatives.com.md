@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topalternatives.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809000851id_/http%3A//topalternatives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topalternatives.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408205851id_/http%3A//topalternatives.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TopAlternatives
+# Privacy Policy | TopAlternatives
 
-_This Agreement was last modified on September 03, 2013._
+_This Agreement was last modified on October 21, 2014._
 
 #### The information we collect
 
@@ -24,7 +24,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our website, you can email us by using our [email contact form](http://topalternatives.com/contact "Contact Form").
+If you have any questions about security on our website, you can email us by using our [email contact form](http://topalternatives.com/contact/ "Contact Form").
 
 #### Cookies
 
