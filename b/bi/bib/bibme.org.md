@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bibme.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701063513id_/http%3A//www.bibme.org/bibliography/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bibme.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408041713id_/http%3A//www.bibme.org/privacy_policy) for the most accurate reproduction.*
 
-# BibMe: Fast & Easy Bibliography Maker - MLA, APA, Chicago, Turabian - Free
+# BibMe: Citation and Bibliography Maker - APA, MLA, & Chicago
 
 ## Privacy Policy
 
