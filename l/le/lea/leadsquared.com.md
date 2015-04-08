@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadsquared.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121214016id_/http%3A//www.leadsquared.com/Company/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsquared.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408083844id_/http%3A//www.leadsquared.com/Company/PrivacyPolicy) for the most accurate reproduction.*
 
 # LeadSquared Marketing Software Privacy Policy
 
