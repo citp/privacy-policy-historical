@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howto301redirect.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010430id_/http%3A//www.howto301redirect.com/statement-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howto301redirect.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408221155id_/http%3A//www.howto301redirect.com/statement-privacy) for the most accurate reproduction.*
 
-# Statement of Privacy - How To 301 Redirect
+# Statement of Privacy
 
-This post last updated: Wednesday, October 9, 2013
+This post last updated: Monday, April 6, 2015
 
 Privacy is important to me. I value my own privacy therefore I will respect yours.
 
