@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gliq.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004131224id_/http%3A//gliq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gliq.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409001851id_/http%3A//gliq.com/privacy.php) for the most accurate reproduction.*
 
 # Email Marketing Solutions from Global Intellisystems
 
