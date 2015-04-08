@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gag-n-gape.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209142914id_/http%3A//gag-n-gape.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gag-n-gape.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408223232id_/http%3A//gag-n-gape.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
