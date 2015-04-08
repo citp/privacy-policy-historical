@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawstory.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203220234id_/http%3A//www.rawstory.com/rs/about-us/raw-story-medias-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawstory.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408052801id_/http%3A//www.rawstory.com/rs/about-us/raw-story-medias-privacy-policy) for the most accurate reproduction.*
 
 # Raw Story Media’s Privacy Policy
 
