@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebrewtalk.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224053115id_/http%3A//www.homebrewtalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebrewtalk.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408122046id_/http%3A//www.homebrewtalk.com/privacy) for the most accurate reproduction.*
 
 # 
 
