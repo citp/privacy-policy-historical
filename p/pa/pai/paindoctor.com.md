@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paindoctor.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125144102id_/http%3A//paindoctor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paindoctor.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408044226id_/http%3A//paindoctor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pain Doctor
 
