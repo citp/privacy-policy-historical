@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the looxy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065424id_/http%3A//looxy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looxy.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408112011id_/http%3A//looxy.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Online Dating | Looxy.com
 
 ZDates S.A. is committed to protecting and respecting your privacy.
 
@@ -93,6 +93,10 @@ We can collect location data from your computer and/or mobile device. When acces
 ### 4.6. Information we collect about your Contacts
 
 Some features of the Services allow you to share your user experience with people you know (“your Contacts”), or to invite them to join the Services. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address. If you give us your password to upload these Contacts through a web based email provider we shall not store your password after you have uploaded your Contacts’ addresses. You may also choose to invite friends through your connected social networks. You assume all responsibility for ensuring that when you select a friend to be invited by email, application or SMS that the person wants to receive that invite from you.
+
+### 4.7. Information we collect when you activate premium account
+
+When you take advantage of Looxy’s premium features, we collect financial information necessary to process your payments as per your chosen payment method. Please note that we do not store any credit card or other payment card details. However, our payment service providers do (and are approved to do so by all applicable regulatory bodies).
 
 ## 5\. HOW WE USE YOUR INFORMATION
 
