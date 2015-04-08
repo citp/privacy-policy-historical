@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qtac.edu.au privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023112739id_/http%3A//www.qtac.edu.au/InfoSheets/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtac.edu.au privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408080120id_/http%3A//www.qtac.edu.au/InfoSheets/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy_Policy
 
@@ -25,7 +25,7 @@ By visiting the QTAC website, applying for a tertiary place via QTAC or using an
   * revision of our Privacy Policy
   * how to contact us 
   * documents and forms
-  * [make a privacy enquiry](https://web.archive.org/web/20141023112739id_/http%3A//www.qtac.edu.au/AboutQTAC/QTAC-PrivacyEnquiry.html)
+  * [make a privacy enquiry](https://web.archive.org/web/20150408080120id_/http%3A//www.qtac.edu.au/AboutQTAC/QTAC-PrivacyEnquiry.html)
 
 
 
@@ -127,7 +127,7 @@ We will only use your sensitive information for the purposes for which it was in
 
 ## How we disclose your information
 
-Where appropriate we may disclose your personal information to third parties as required to process your QTAC application or to provide you with other services. The way in which these third parties use your personal information is governed by QTAC's [Privacy Policy - Corporate. ](https://web.archive.org/web/20141023112739id_/http%3A//www.qtac.edu.au/InfoSheets/PrivacyPolicy-Corporate.html)
+Where appropriate we may disclose your personal information to third parties as required to process your QTAC application or to provide you with other services. The way in which these third parties use your personal information is governed by QTAC's [Privacy Policy - Corporate. ](https://web.archive.org/web/20150408080120id_/http%3A//www.qtac.edu.au/InfoSheets/PrivacyPolicy-Corporate.html)
 
 In addition, by providing the details of an authorised person to QTAC, you are consenting to the disclosure of your personal information to your authorised person. 
 
@@ -213,8 +213,8 @@ If you have any questions or concerns about this Privacy Policy or its implement
 
 **Documents and Forms**
 
-  * [Personal Information Access Request Form](https://web.archive.org/web/20141023112739id_/http%3A//www.qtac.edu.au/InfoSheets/documents/PersonalInformationAccessRequestForm2014.pdf)
-  * [Personal Information Breach of Privacy Form](https://web.archive.org/web/20141023112739id_/http%3A//www.qtac.edu.au/InfoSheets/documents/PersonalInformationBreachofPrivacyForm2014.pdf)
+  * [Personal Information Access Request Form](https://web.archive.org/web/20150408080120id_/http%3A//www.qtac.edu.au/InfoSheets/documents/PersonalInformationAccessRequestForm180215.pdf)
+  * [Personal Information Breach of Privacy Form](https://web.archive.org/web/20150408080120id_/http%3A//www.qtac.edu.au/InfoSheets/documents/PersonalInformationBreachofPrivacyForm180215.pdf)
 
 
 
