@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sandro-paris.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130122052id_/http%3A//us.sandro-paris.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandro-paris.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409005723id_/http%3A//us.sandro-paris.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy
 
 ### INTRODUCTION
 
-Thank you for visiting www.us.sandro-paris.com, including any related web pages, content, functionality and services offered thereon (the "Website"), which is operated by SMCP USA Inc. ( "Company ", "SMCP ", "Sandro ", "us ", "our " or "we "). This privacy policy (the "Privacy Policy ") should be read together with, and is incorporated by reference into, the Website\u2019s **[terms of use](https://web.archive.org/web/20141130122052id_/http://us.sandro-paris.com/privacy-policy/terms-conditions)** (the "Terms of Use ").
+Thank you for visiting www.us.sandro-paris.com, including any related web pages, content, functionality and services offered thereon (the "Website"), which is operated by SMCP USA Inc. ( "Company ", "SMCP ", "Sandro ", "us ", "our " or "we "). This privacy policy (the "Privacy Policy ") should be read together with, and is incorporated by reference into, the Website\u2019s **[terms of use](https://web.archive.org/web/20150409005723id_/http://us.sandro-paris.com/privacy-policy/terms-conditions)** (the "Terms of Use ").
 
 Sandro respects the privacy of our customers and the users of our Website and has instituted the policies and practices described in this Privacy Policy to ensure that your personal information is handled in a responsible manner. This Privacy Policy describes the types of personal information we may collect from you when you visit our Website or our stores, how we use and protect this information, and when we share it with third parties or affiliates, among other things. This Privacy Policy does not apply to information collected on any other website or application, such as those operated by a third party or, except as otherwise disclosed herein, any affiliate or subsidiary of the Company, that may link to, or be accessible from, the Website. See "Links to Other Websites " below.
 
