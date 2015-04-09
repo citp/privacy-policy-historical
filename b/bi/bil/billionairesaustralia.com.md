@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billionairesaustralia.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224033456id_/http%3A//www.billionairesaustralia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billionairesaustralia.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410004156id_/http%3A//www.billionairesaustralia.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Billionaires Australia
 
