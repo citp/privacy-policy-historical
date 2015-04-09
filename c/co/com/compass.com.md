@@ -1,395 +1,63 @@
-> *The following text is extracted and transformed from the compass.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025051342id_/http%3A//compass.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compass.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409034305id_/https%3A//www.compass.com/privacy/policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Compass
 
-**Introduction**
+This Privacy Policy describes the policies and procedures of Urban Compass, Inc. ("we", "our" or "us") on the collection, use and disclosure of your information on www.compass.com (the "Site") and the services, features, content or applications we offer (collectively with the Site, the "Services"). When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
-|  | 
+##### What Does This Privacy Policy Cover?
 
-This statement includes: 
+This Privacy Policy covers the treatment of personally identifiable information ("Personal Information") gathered when you use or access the Services. This Privacy Policy also covers our treatment of any Personal Information which landlords, tenants or our business partners share with us, or that we share with our business partners.
 
-  * our _collection statement_ , explaining aspects of our collection and use of personal information 
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any landlords, renters, third party websites, services and applications (“Third Party Services”) that you elect to access through the Services or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy or that you request through your use of the Services, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
-  * our _privacy policy_ , further explaining how we manage personal information. 
+##### What About International Users?
 
+YOUR INFORMATION MAY BE MAINTAINED ON AND TRANSFERRED TO COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION. IF YOU ARE LOCATED OUTSIDE THE UNITED STATES AND CHOOSE TO PROVIDE INFORMATION TO US, WE TRANSFER PERSONAL INFORMATION TO THE UNITED STATES AND PROCESSES IT THERE. YOUR USE OF THE SERVICES AND YOUR SUBMISSION OF SUCH INFORMATION EACH REPRESENTS YOUR AGREEMENT TO THAT TRANSFER.
 
-  
-|  |   
-|  | 
+##### What Information Do We Collect?
 
-**COLLECTION STATEMENT**  
-  
-|  |   
-  
-**Who we are**
+YOUR INFORMATION MAY BE MAINTAINED ON AND TRANSFERRED TO COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION. IF YOU ARE LOCATED OUTSIDE THE UNITED STATES AND CHOOSE TO PROVIDE INFORMATION TO US, WE TRANSFER PERSONAL INFORMATION TO THE UNITED STATES AND PROCESSES IT THERE. YOUR USE OF THE SERVICES AND YOUR SUBMISSION OF SUCH INFORMATION EACH REPRESENTS YOUR AGREEMENT TO THAT TRANSFER.
 
-|  | 
+The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request and collect some of your Personal Information. We collect the following types of information from our users.
 
-Dark Blue Sea Pty Ltd ABN 47 091 509 796 
+**Information You Provide Us:** You may choose to provide us with certain information that could include, without limitation, Personal Information, such as your name, email address, employment information, social security number, demographic information, rental listing information, credit card or other payment information, background check information, rental application information, information contained in any lease you are negotiating or entering into, photo identification, reference letters, bank statements, income tax returns, or address of a listing you intend to rent, or other information we request from you that is required by law. You acknowledge that this information may be personal to you, and by providing this information to us, we may store such information and contact you to send you information about the Services. Information Collected Automatically: We also receive and store certain types of information whenever you interact with the Services. We automatically receive and record information in our server logs from your browser, including your IP address, search queries, cookie information, and the listings and pages you request. We also record the details of your activity on the Services.
 
-Fabulous.com Pty Ltd ABN 64 094 218 443 
+**Information Collected Using Cookies:** Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet. Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties, including our partners. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer. Ads appearing on the Services may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Compass and does not cover the use of cookies by any third parties, including advertisers or partners.
 
-Fabulous Parking Pty Ltd ABN 16 094 225 091 
+**Aggregate Information:** We collect statistical information about how both users, collectively, use the Services ("Aggregate Information"). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you or your web browser. This type of aggregate data enables us to figure out how often users use parts of the Services so that we can make the Services appealing to as many users as possible, and improve the Services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and the Services, so that they, too, may provide you with an optimal online experience. Again, we never disclose aggregate information to a partner in a manner that would identify you personally.
 
-Fabulous.com.au Pty Ltd ABN 34 139 626 994 
+We use conversion tracking from third-party advertising platforms, including Google and Facebook. These advertising programs use cookies to help determine aggregate, anonymous actions people took on our website after clicking an ad. 
 
-Roar.com Pty Ltd ABN 99 094 225 064 
+##### Is Personal Information About Me Secure?
 
-Pageseeker.com Pty Ltd ABN 45 090 513 849 
+You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. We endeavor to protect account information to ensure that it is kept private; however, we cannot guarantee the security of any account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. We otherwise store all of our information, including your IP address information, using industry-standard security techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you we store, Personal Information or otherwise.
 
-Darkblue.com Pty Ltd ABN 14 094 225 082 
+##### How, And With Whom, Is My Information Shared?
 
-Yexa.com Pty Ltd ABN 12 094 225 073 
+**Third Party Services:** At times, you may be able to access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services' privacy policies. This Privacy Policy only governs information collected on the Services.
 
-Drop.com.au Pty Ltd ABN 79 135 424 878 
+**Email Communications with Us and Other Users:** As part of the Services, you may occasionally receive email and other communications from us, such as communications relating to promotions we are offering through the Services. You acknowledge and agree that by posting information on or through the Services, or requesting that we do so on your behalf, we and our agents, the landlords or tenants relevant to your request for Services, and others may send you e-mail, contact you or engage in other communications that they determine in their sole discretion relate to your profile or use of the Services. You may opt-out of receiving such communications by following the instructions included with such emails, or emailing us at [opt-out@compass.com](mailto:opt-out@compass.com), but then you may not have access to certain features of the Services. In addition, we and others you interact with through the Services may wish to send you a house-warming gift or other expression of appreciation, and you acknowledge and agree that we may share your Personal Information with such persons, or use your Personal Information for such purposes.
 
-Yexa.com.au Pty Ltd ABN 84 137 606 172 
+**Information Shared with Our Agents:** We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our "Agents"). We may need to share Personal Information with our Agents in order to provide Services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
 
-Whois Privacy Services Pty Ltd ABN 65 133 058 741 
+**Information Disclosed Pursuant to Business Transfers:** In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
 
-('the DBS Group', 'we' or 'our')   
-  
-|  |   
-  
-**Our contact details**
+**Information Disclosed for Our Protection and the Protection of Others:** We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms of Service or this Privacy Policy, including investigation of potential violations thereof or hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
 
-|  | 
+**Information We Share in Connection with the Services Performed for You:** The information you provide, including, without limitation, your profile information, search criteria, user name, email, address, and co-habitant information, may be used to facilitate and provide the services for you and transactions within the Services. This may include, without limitation, sharing your Personal Information with potential landlords, agents, brokers, co-brokers, as applicable to your request for Services; and if you are landlord, we may also share your Personal Information (such as name, listing address, etc.) to potential tenants in connection with the Services.
 
-  * Phone: 07 3007 0070 
+**Information We Share with Your Consent:** Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
-  * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
+##### What Information Can I Access?
 
+We may allow you to access certain information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Services change. When you update information, however, we often maintain a copy of the unrevised information in our records. You may request deletion of your account by sending an e-mail to our webmaster at [opt-out@compass.com](mailto:opt-out@compass.com). Please note that some information may remain in our records after deletion of your account.
 
-  
-|  |   
-  
-**Collection from third party sources**
+##### What Happens When There Are Changes To This Privacy Policy?
 
-|  | 
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
 
-We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from: 
+##### What If I Have Questions Or Concerns?
 
-  * publicly available sources like phone books 
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [notices@compass.com](mialto:notices@compass.com). We will make every effort to resolve your concerns.
 
-  * other companies in our group that you may have dealt with 
-
-  * third parties like our business partners, your authorised representative/s 
-
-  * information brokers 
-
-  * fraud checking agencies 
-
-  * our affiliates, resellers, contractors and other representatives that you may deal with 
-
-  * our websites and how you use them (through the use of cookies) 
-
-  * various parties listed under _Disclosing personal information_ in our Privacy Policy. 
-
-
-  
-|  |   
-  
-**Collection under law**
-
-|  | 
-
-We may be required to collect personal information in order to comply with the law.   
-  
-|  |   
-  
-**Why we collect and hold personal information**
-
-|  | 
-
-We collect and hold personal information because: 
-
-  * we may need to use it to operate our business 
-
-  * we may need to provide it to other parties in connection with our business. 
-
-
-
-
-The uses and disclosures we may make of personal information are detailed in our Privacy Policy.   
-  
-|  |   
-  
-**Unavailability of personal information**
-
-|  | 
-
-If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
-  
-|  |   
-  
-**Disclosing personal information**
-
-|  | 
-
-We may disclose personal information as reasonably required to contractors and suppliers whose goods and services that we use to operate our business and provide products and support to you, to comply with our contractual obligations with regulatory authorities including publishing personal information in Whois records for domain names, and to other parties detailed in our Privacy Policy. 
-
-Some of these parties may be based overseas eg America.  
-  
-|  |   
-  
-**Access and correction**
-
-|  | 
-
-Our privacy policy contains information about how the you can access and seek correction of the personal information about you that we hold.   
-  
-|  |   
-  
-**Complaints**
-
-|  | 
-
-Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.   
-  
-|  |   
-|  | 
-
-**PRIVACY POLICY**  
-  
-|  |   
-  
-**Personal information**
-
-|  | 
-
-This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form.   
-  
-|  |   
-  
-**Kinds of personal information we collect and hold**
-
-|  | 
-
-Broadly, we may collect and hold: 
-
-  * _personal details_ like name, date of birth, gender, and occupation 
-
-  * _contact details_ like physical, postal, work and email addresses and phone numbers 
-
-  * _financial details_ like credit card numbers and your billing and payment history with us 
-
-  * _service-related details_ like your user name, encrypted password and service usage history, support incidents, data from cookies, enquiries and complaints 
-
-  * _other details_ relating to special situations. 
-
-
-
-
-In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
-  
-|  |   
-  
-**Collecting personal information**
-
-|  | 
-
-Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for domain names or services on our website). 
-
-In other cases, we may collect personal information about you from: 
-
-  * publicly available sources like phone books 
-
-  * other companies in our group that you may have dealt with 
-
-  * third parties like our business partners, your authorised representative/s 
-
-  * information brokers 
-
-  * fraud checking agencies 
-
-  * our affiliates, resellers, contractors and other representatives that you may deal with 
-
-  * our websites and how you use them (through the use of cookies) 
-
-  * various parties listed under _Disclosing personal information_ below. 
-
-
-  
-|  |   
-  
-**Holding personal information**
-
-|  | 
-
-We hold personal information in hard and/or soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration.   
-  
-|  |   
-  
-**Why we collect and hold personal information**
-
-|  | 
-
-We collect and hold personal information because: 
-
-  * we may need to use it to operate our business 
-
-  * we may need to provide it to other parties in connection with our business. 
-
-
-  
-|  |   
-  
-**Using personal information**
-
-|  | 
-
-We may use personal information: 
-
-  * to identify you 
-
-  * for credit checks 
-
-  * to prevent fraud 
-
-  * to supply products (including goods and/or services) to you 
-
-  * to give you information about us and our products, and product offers 
-
-  * for direct marketing â€“ see _Direct marketing_ for details 
-
-  * to improve our products, our marketing and our website 
-
-  * to answer your enquiries 
-
-  * to give you customer support and service 
-
-  * to better understand your needs and respond to them 
-
-  * to manage and plan our products and business 
-
-  * to charge and bill you for products you use 
-
-  * to collect payment from you or make payment to you 
-
-  * to monitor, manage, test and improve our network and facilities 
-
-  * to comply with various laws or contractual obligations that apply to us 
-
-  * for other purposes related to the operation of our business. 
-
-
-  
-|  |   
-  
-**Disclosing personal information**
-
-|  | 
-
-We may disclose personal information as reasonably required: 
-
-  * to contractors and suppliers who supply or support us in: 
-
-    * market research, sales and marketing 
-
-    * direct marketing â€“ see _Direct marketing_ for details 
-
-    * identity and fraud checking 
-
-    * credit management 
-
-    * service provisioning 
-
-    * installation, maintenance and repairs 
-
-    * helpdesk and enquiries 
-
-    * support and complaint management 
-
-    * communications and mailing 
-
-    * billing, debt recovery and credit management 
-
-    * network and product design and maintenance 
-
-    * corporate strategy 
-
-    * legal and regulatory advice and compliance 
-
-    * accounting and financial planning 
-
-    * risk management 
-
-    * otherwise providing goods and services that we use to operate our business and provide products and support to you 
-
-  * to your authorised representative/s 
-
-  * to identify you as a registrant of a domain name in publicly available Whois record 
-
-  * if you ask us to do so 
-
-  * to our agents, resellers, affiliates and members of our corporate group 
-
-  * to our business partners and wholesale suppliers 
-
-  * to organisations that provide credit or finance to us 
-
-  * to persons who invest in or acquire all or part of our business or company, or are considering doing so. 
-
-
-
-
-Some of these parties may be based overseas eg America.  
-  
-|  |   
-  
-**Direct marketing**
-
-|  | 
-
-We may use and disclose personal information to direct market to you products offered by us, our agents, resellers, affiliates and members of our corporate group (including each member of the DBS Group), and our business partners, where we think the offers will be of interest to you, using: 
-
-  * post 
-
-  * email 
-
-  * electronic messaging 
-
-  * social media 
-
-  * targeted web content 
-
-  * other direct marketing channels. 
-
-
-
-
-Direct marketing may continue until you opt-out by calling the number in _Contacting us_ even if you are no longer our customer.   
-  
-|  |   
-  
-**Accessing and correcting personal information**
-
-|  | 
-
-Please contact us for these purposes using the details in _Contacting us_ below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.   
-  
-|  |   
-  
-**Complaints**
-
-|  | 
-
-If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in _Contacting us_ below. We shall: 
-
-  * acknowledge your complaint within a reasonable time 
-
-  * give you an estimated first response time 
-
-  * allocate your complaint to a suitably senior staff member 
-
-  * process and respond to your complaint as soon as we reasonably can. 
-
-
-  
-|  |   
-  
-**Contacting us**
-
-|  | 
-
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by telephone on 07 3007 0070 or email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, P.O. Box 757, Fortitude Valley, QLD 4006. 
+Effective Date: April 10th, 2013
