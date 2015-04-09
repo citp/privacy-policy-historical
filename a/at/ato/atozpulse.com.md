@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the atozpulse.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101122454id_/http%3A//www.atozpulse.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atozpulse.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409063727id_/http%3A//www.atozpulse.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AtoZpulse | Film news | Movie Reviews | Celebrity gossips
+# Privacy Policy - AtoZpulse | Film news | Movie Reviews | Celebrity gossips - AtoZpulse | Film news | Movie Reviews | Celebrity gossips
 
-This Privacy Policy governs the manner in which Crazy Circle collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.atozpulse.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Crazy Circle.
+This Privacy Policy governs the manner in which Crazy Circle collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.atozpulse.net/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Crazy Circle.
 
 Personal identification information
 
@@ -72,5 +72,3 @@ Hauzkhas, New Delhi
 care@atozpulse.com
 
 This document was last updated on August 13, 2013
-
-Don't be shellfish...0000000
