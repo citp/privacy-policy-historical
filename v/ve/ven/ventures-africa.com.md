@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the ventures-africa.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128155656id_/http%3A//www.ventures-africa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventures-africa.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409204624id_/http%3A//www.ventures-africa.com/privacy-policy) for the most accurate reproduction.*
 
 # Ventures Africa | Privacy Policy
 
 ****_As of January 22, 2014_
 
-Ventures Publishing International (“Ventures” or “we”) is committed to protecting your privacy. We have adopted this privacy policy to help you understand how we collect, use, protect and disclose information that is collected from visitors of our website [www.ventures-africa.com](http://www.ventures-africa.com/) and/or our mobile application (collectively, the “Site”).
+Ventures Publishing International (“Ventures” or “we”) is committed to protecting your privacy.  We have adopted this privacy policy to help you understand how we collect, use, protect and disclose information that is collected from visitors of our website [www.ventures-africa.com](http://www.ventures-africa.com/) and/or our mobile application (collectively, the “Site”).
 
-By using the Site, you agree to the terms and conditions of this privacy policy (the “ **Policy** ”). We reserve the right to change this Policy at any time, for any reason and without prior notice. Further, you choose to access the Site at your own initiative and are responsible for complying with all local laws, rules and regulations that may apply to you.
+By using the Site, you agree to the terms and conditions of this privacy policy (the “ **Policy** ”).  We reserve the right to change this Policy at any time, for any reason and without prior notice.  Further, you choose to access the Site at your own initiative and are responsible for complying with all local laws, rules and regulations that may apply to you.
 
 **Please be aware that any information that you provide and we collect through the Site shall be transferred to, processed and stored in the United States and might be transferred to other countries that might not provide the same level of data protection as your home country. By using the Site, you consent to such collection, processing, transfer and storage of information to the United States and such other countries.**
 
-**Note Regarding the Use of This Site by Children:** The Site is not intended for individuals under the age of thirteen (13), and such individuals should not provide Personally Identifiable Information through the Site.
+**Note Regarding the Use of This Site by Children:**  The Site is not intended for individuals under the age of thirteen (13), and such individuals should not provide Personally Identifiable Information through the Site.
 
 **Collecting Information**
 
-Optional Information. The Site collects information you provide directly to us when you use certain Site functions. When you view the Site, you are not required to provide information directly, however when you use certain functions, such as registering for specific services or content, you may have the option of providing the following:
+Optional Information.  The Site collects information you provide directly to us when you use certain Site functions.  When you view the Site, you are not required to provide information directly, however when you use certain functions, such as registering for specific services or content, you may have the option of providing the following:
 
   * contact information, such as your name, email address, postal address, phone number, gender, year of birth
   * profile information, username, password and password reminder questions;
@@ -24,17 +24,27 @@ Optional Information. The Site collects information you provide directly to us w
 
 
 
-Automatic Information. When you visit the Site, certain information is collected automatically using widely available technology. Such information may include your:
+Automatic Information.  When you visit the Site, certain information is collected automatically using widely available technology.  Such information may include your:
 
   * computer’s Internet Protocol (IP) address;
   * browser type and operating system;
   * bandwidth speed and information about the software programs that are installed on your computer;
   * activities such as: the web pages you visit (and any immediately prior to and after you came to the Site), participation in community discussions on the Site, links and advertisements that you view and click on within the Site; and
-  * aggregated data about email click-through rates and user video viewing, standard server log information, and information collected through HTML cookies, Flash cookies, web beacons, and similar _technologies_. Location information may also be collected if you use the GPS feature on your mobile device, however you have the opportunity to disable this function when you first use the Site on your mobile device. If you disable this function you may not have access to certain Site features that require geographic location.
+  * aggregated data about email click-through rates and user video viewing, standard server log information, and information collected through HTML cookies, Flash cookies, web beacons, and similar _technologies_.  Location information may also be collected if you use the GPS feature on your mobile device, however you have the opportunity to disable this function when you first use the Site on your mobile device.  If you disable this function you may not have access to certain Site features that require geographic location.
 
 
 
-Information from Third Parties. We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including:
+**Advertising**
+
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+
+Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+
+**Information from Third Parties.  **
+
+We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including:
 
   * via third-party social networking services (such as Facebook Connect or Twitter) that you choose to access through the Site, and your username, _profile picture, birthday, email address and connection lists_ for those services;
   * demographic data, such as age range, gender, and interests;
@@ -43,7 +53,7 @@ Information from Third Parties. We may access information about you from third-p
 
 
 
-The Site may also combine the information that we collect with information we obtain from third-party sources. Please remember that we do not control the privacy policies of third-party services that you may be connected to (such as Facebook and Twitter); we encourage you to read their privacy policies as well.
+The Site may also combine the information that we collect with information we obtain from third-party sources.  Please remember that we do not control the privacy policies of third-party services that you may be connected to (such as Facebook and Twitter); we encourage you to read their privacy policies as well.
 
 **Use of Information**
 
@@ -60,7 +70,7 @@ Ventures may use your information in the following ways:
 
 
 
-Ventures values your privacy and shares information only under certain circumstances. Information you provide through the Site may be may be made available to other companies, applications or people in the following situations:
+Ventures values your privacy and shares information only under certain circumstances.  Information you provide through the Site may be may be made available to other companies, applications or people in the following situations:
 
   * with authorized service providers for the purpose of helping us provide services on the Site or perform business functions for us, such as sending emails or hosting web services (but these service providers are not permitted to use personally identifiable information that we provide for any purpose other than to provide service to us);
   * with our corporate affiliates, licensees, and contractors;
@@ -76,3 +86,5 @@ Ventures values your privacy and shares information only under certain circumsta
 **Questions or Comments**
 
 If you have any questions or concerns about this Policy, you may contact us at: editor@ventures-africa.com
+
+Total Views: 3642 , 
