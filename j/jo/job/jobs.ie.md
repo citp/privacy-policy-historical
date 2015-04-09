@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209180946id_/http%3A//www.jobs.ie/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409050115id_/http%3A//www.jobs.ie/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs.ie - Jobs in Ireland. Irish Jobs.
 
   * [Jobs by email](https://web.archive.org/JobsByEmail.aspx) 
-  * [CV Centre](https://web.archive.org/JobSeeker/CVCentre.aspx) 
+  * [Upload your CV](https://web.archive.org/JobSeeker/UploadCV)  
   * [Create a profile ](https://web.archive.org/Register)  
 
 
