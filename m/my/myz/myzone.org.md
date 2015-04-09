@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myzone.org privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908050513id_/http%3A//www.beta.myzonemoves.com/legal/%3Fpage%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzone.org privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409064922id_/http%3A//www.beta.myzonemoves.com/legal/%3Fpage%3D3) for the most accurate reproduction.*
 
 # MYZONE 2.0
 
@@ -151,9 +151,9 @@ Other Applicable Terms
 
 The following additional terms also apply to your use of this Site or App:
 
-  * Our [Terms of Use](https://web.archive.org/web/20140908050513id_/http%3A//www.beta.myzonemoves.com/legal/?page=4), which set out the terms and conditions on which you may make use of this Site or the App.
-  * Our [Acceptable Use Policy](https://web.archive.org/web/20140908050513id_/http%3A//www.beta.myzonemoves.com/legal/?page=7), which sets out the permitted and prohibited uses of this Site or the App. When using our Site or the App, you must comply with this Acceptable Use Policy.
-  * Our [Important Information](https://web.archive.org/web/20140908050513id_/http%3A//www.beta.myzonemoves.com/legal/?page=6), which sets out the terms to which you must consent when registering a MYZONE® physical activity belt.
+  * Our [Terms of Use](https://web.archive.org/web/20150409064922id_/http%3A//www.beta.myzonemoves.com/legal/?page=4), which set out the terms and conditions on which you may make use of this Site or the App.
+  * Our [Acceptable Use Policy](https://web.archive.org/web/20150409064922id_/http%3A//www.beta.myzonemoves.com/legal/?page=7), which sets out the permitted and prohibited uses of this Site or the App. When using our Site or the App, you must comply with this Acceptable Use Policy.
+  * Our [Important Information](https://web.archive.org/web/20150409064922id_/http%3A//www.beta.myzonemoves.com/legal/?page=6), which sets out the terms to which you must consent when registering a MYZONE® physical activity belt.
 
 
 
