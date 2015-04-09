@@ -1,93 +1,36 @@
-> *The following text is extracted and transformed from the openweb.co.za privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604022343id_/http%3A//openweb.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openweb.co.za privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409035121id_/http%3A//openweb.co.za/privacy) for the most accurate reproduction.*
 
-# OpenWeb! We're loving IT!
+# Privacy Policy - Open Web
 
-PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY 
+**Privacy policy for all visitors**
 
-This site is owned and operated by OpenWeb. Your privacy on the Internet is of the utmost importance to us. At OpenWeb, we want to make your experience online satisfying and safe. 
+Information Collected and Stored Automatically:
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
+When you visit the OpenWeb (Open ISP cc) website to read pages or download information, OpenWeb automatically collects and stores the following non-identifying information:
 
-INFORMATION OPENWEB GATHERS AND TRACKS 
+  * The Internet Protocol (IP) address from which you access the OpenWeb web site (An IP address is a unique number that is automatically assigned to the computer you are using whenever you are surfing the web)
+  * The type of browser, such as Netscape or Internet Explorer, and operating system, such as Windows 98 or Linux, used to access the OpenWeb site
+  * The date and time when the OpenWeb site is accessed, for the purpose of monitoring demand
+  * The pages visited, for the purpose of improving the usefulness of the OpenWeb web site by providing helpful links and removing pages that are not read.
 
-OpenWeb gathers two types of information about users: 
 
-* Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys: 
 
-* Information OpenWeb gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because OpenWeb derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does OpenWeb divulge any information about an individual user to a third party. 
+This information does not identify you personally. OpenWeb maintains the above information in system logs and uses this information to make the site more useful to visitors by learning the number of visitors to our site, the number of pages served, and the level of demand for specific pages. We do not track or record information about identifiable individuals and their visits.
 
-OpenWeb Gathers User Information In The Following Processes: 
+**Information Collected from E-mail:**
 
-Optional Voluntary Information 
+When you send OpenWeb personally-identifying information in an e-mail, OpenWeb use the information you provide to assist in gathering data concerning the type of information you, and other persons might request. In an effort to respond to your request, information you submit may be viewed by various people within OpenWeb.
 
-We offer the following free services, which require some type of voluntary submission of personal information by users: Privacy Policy Sample 
+Once received, the information to your e-mail is protected in accordance with South African law, including the Promotion of Access to Information Act, the Regulation of Interception and Provision of Communication-related Information Act, and the Electronic Communications and Transactions Act, (“the Legislation”).
 
-The following is a list of different policies which can be edited to remove the parts of the policy that are not needed. You should also add anything to this policy template that you may have on your site. 
+**Security, Intrusion, and Detection:**
 
-1\. Electronic newsletters policy (Dispatches) 
+For site security purposes and to ensure that this service remains available to all users, the OpenWeb computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-We will offer a free electronic newsletter to users. OpenWeb gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration. 
+**Privacy Policy for Subscribers:**
 
-2\. Message boards/forums policy 
+The following additional policies apply to subscribers of our services:
 
-Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address. 
+To register for services with OpenWeb, and in terms of the provisions of the Legislation, any customer shall in future be required to furnish OpenWeb with personally-identifiable information, including but not being limited to memoranda and articles of association (where the customer is a company), and/or identity documents and proof of address, to enable OpenWeb to provide you with services. The information provided to OpenWeb in this regard will be entered into the OpenWeb customer database.
 
-3\. "E-mail this to a friend" policy 
-
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. 
-
-4\. Polling 
-
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. OpenWeb may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
-
-5\. Surveys 
-
-OpenWeb may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. Privacy Policy Template changes 
-
-The policy clause about children below is becoming more important as it is nearly impossible to tell the age of any visitor. We recommend adding this sample line to all your forms that request information. 
-
-Children 
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. 
-
-Usage tracking 
-
-OpenWeb tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. OpenWeb does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). 
-
-OpenWeb sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
-
-Cookies 
-
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. OpenWeb uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. 
-
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys. Privacy Policy Use 
-
-How the information you gather is used if relevent. 
-
-USE OF INFORMATION 
-
-OpenWeb uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
-
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. OpenWeb never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners. 
-
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters. 
-
-OpenWeb creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
-
-SHARING OF THE INFORMATION 
-
-OpenWeb uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
-
-SECURITY 
-
-OpenWeb operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. 
-
-OPT-OUT POLICY 
-
-We give users options wherever necessary and practical. Such choices include:   
-* Opting not to register to receive our electronic newsletters.   
-* Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
-
-YOUR CONSENT 
-
-By using this site, you consent to the collection and use of this information by OpenWeb. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+If you register as a subscriber, OpenWeb does not make your personally-identifiable information available to any party, unless required by law to do so.
