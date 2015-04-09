@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordflood.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922135327id_/http%3A//www.wordflood.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordflood.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409115551id_/http%3A//www.wordflood.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # WordFlood 2.0
 
