@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ba-bamail.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022132026id_/http%3A//www.ba-bamail.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ba-bamail.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409205306id_/http%3A//www.ba-bamail.com/support/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
