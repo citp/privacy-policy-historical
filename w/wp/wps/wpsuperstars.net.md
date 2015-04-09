@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsuperstars.net privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202035631id_/http%3A//www.wpsuperstars.net/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsuperstars.net privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410001307id_/http%3A//www.wpsuperstars.net/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - WP Superstars
 
@@ -12,13 +12,13 @@ Cookies can be used for a variety of purposes that include; saving information y
 
 We don’t use persistent cookies or cookies that can harm your computer and our reason for using cookies is to enhance your experience on this website and to allow us to continue providing this website into the future.
 
-The use of cookies on this website may employ the following cookies (but is not limited to) -
+The use of cookies on this website may employ the following cookies (but is not limited to) –
 
 **(1)**  Social Sharing – these allow us to give you the ability to share content from this website on popular social networks, including but not limited to – Facebook, Twitter, Google Plus, Pinterest and Digg.
 
 **(2)**  Commenting – at some point on our site you may see the option to leave comments, at times we may use tools that enables us to enhance the user experience, a good example is Disqus which is a commenting system that enables social interactions and other useful functions.
 
-**(3)**  Advertisements – we provide a variety of advertisements which may or may not use cookies to display related targeted ads based on the content within a page on our site, an example of this is Google Adsense and the DoubleClick DART Cookie, for more detailed information in regards to this particular method of advertising please see the privacy section further on in this document.
+**(3)**  Advertisements – we may provide a variety of advertisements which may or may not use cookies to display related targeted ads based on the content within a page on our site, an example of this is Google Adsense and the DoubleClick DART Cookie, for more detailed information in regards to this particular method of advertising please see the privacy section further on in this document.
 
 **(4)**  Analytics – to help provide us with valuable information on how visitors use our website, we employ the use of analytics software which relies on the use of cookies, this includes (but is not limited to) services such as Google Analytics, Piwik Analytics and Quantcast analytics. We believe the use of such services is in the best interest of not only us but also you as a visitor to our site as they enable to collect valuable usage data that allow us to make significant future improvements to the service we offer and therefore will help provide you with more value as a visitor to our website.
 
@@ -35,7 +35,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url - <http://www.google.com/privacy_ads.html>.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url – <http://www.google.com/privacy_ads.html>.
 
 Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
