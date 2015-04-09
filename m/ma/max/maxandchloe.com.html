@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maxandchloe.com privacy policy that was archived on 2014-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141027201234id_/http%3A//www.maxandchloe.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maxandchloe.com privacy policy that was archived on 2015-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150409032108id_/http%3A//www.maxandchloe.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -65,23 +65,23 @@ span.name
         urlShared = document.URL;
         var search = window.location.search.replace(/^\?/, '').replace(/\+/g, ' ');
         console.log("search: " + search);
-        var values = [];
-        if (search.length) {
-            var part, parts = search.split('&');
-            for (var i = 0, iLen = parts.length; i < iLen; i++) {
-                part = parts[i].split('=');
-                if (part[1] == "m") {
-                    document.cookie = "skipmobile=m";
-                    window.location.assign("http://" + "m.maxandchloe.com")
-                } else if (part[1] == "f") {
-                    document.cookie = "skipmobile=f";
-                }
-            }
-        }
-        var user = getCookie("skipmobile");
-        if (user == "na" || user == "m") {
-            window.location.assign("http://" + "m.maxandchloe.com")
-        }
+        //var values = [];
+        //if (search.length) {
+        //    var part, parts = search.split('&');
+        //    for (var i = 0, iLen = parts.length; i < iLen; i++) {
+        //        part = parts[i].split('=');
+        //        if (part[1] == "m") {
+        //            document.cookie = "skipmobile=m";
+        //            window.location.assign("http://" + "m.maxandchloe.com")
+        //        } else if (part[1] == "f") {
+        //            document.cookie = "skipmobile=f";
+        //        }
+        //    }
+        //}
+        //var user = getCookie("skipmobile");
+        //if (user == "na" || user == "m") {
+        //    window.location.assign("http://" + "m.maxandchloe.com")
+        //}
     }
 </script>
 <script type="text/javascript" src="https://www.upsellit.com/custom/maxandchloe.jsp"></script></head>
@@ -95,7 +95,7 @@ span.name
 <script src="/WebResource.axd?d=iAA0ymayUKG64q1383TsxvgQ3_p1HVdCtXSDq9QR-XSTNOGYSJzcWLy0GJqF73YCGxk7egxBmLMa2lLHQwuxoutJI_6VyzRTQRqglz5mZ_EBryvx0&amp;t=635127730657653159" type="text/javascript"></script>
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAc7Sqn0e7+Rn+4wEp6l93dEc6W5hsrjJ+wIFsEtWLHwcL9muhgkLDsV5sBzkoMYTUoizAO37AYgwRzBAgsiHV21TTPsO0Rg/5FiO4JPNFM96helgyW7KfHU7QPsMjAzZaXM/4xe0L1TilecDs5G2N1xZXwxD9jKmnaQ1QUkRV3mbFicSyk=">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAg7Sqn0e7+Rn+4wEp6l93dEc6W5hsrjJ+wIFsEtWLHwcL9muhgkLDsV5sBzkoMYTUooK8sHnLDQxmNlVBH9q0Q5IswDt+wGIMEcwQILIh1dtU0z7DtEYP+RYjuCTzRTPeoXpYMluynx1O0D7DIwM2WlzP+MXtC9U4pXnA7ORtjdcSo+QwxZpRkcsccfh5RS0z9gX8r8">
 </div>
 <script type="text/javascript">
     $(document).ready(function () {
@@ -193,7 +193,7 @@ span.name
                 </div>
             </div>            
             <div class="search" style="float: right; width: 100%">
-                <input name="ctl00$MaxHeader$tbSearch" type="text" id="MaxHeader_tbSearch" style="height: 18px; width: 220px">
+                <input name="ctl00$MaxHeader$tbSearch" type="text" id="MaxHeader_tbSearch" class="headerTxtbox" style="height: 18px; width: 220px">
                 <input type="submit" name="ctl00$MaxHeader$ctl00" value="GO" onclick="javascript:return CheckEmptySearch();" class="btn" style="height:22px;">
             </div>
                           
@@ -260,125 +260,6 @@ span.name
 <div id="chooseCountry" style="display: none;" class="chooseCountry">
 </div>
 <script type="text/javascript" src="/scripts/autoComplete/jquery.autocomplete.js"></script>
-<script language="javascript" type="text/javascript">
-
-    var countryLinkId = "#";
-    var listCurrensyId = "#";
-
-    $(function () {
-        $('input:text#MaxHeader_tbSearch').autocomplete('/HandlerGetProductList.ashx', { matchContains: true });
-        
-    });
-
-    function openCountryChoice() {
-        $("#countrySelect").hide();
-        $("#chooseCountry").show("slow");
-        $("#chooseCountry").load('/Modules/Themes/MaxChloe/ChooseCountry_s.aspx', '', function() {
-            $('#world').mapster({
-		        singleSelect: true,
-                fillColor: 'b8006c',
-                fillOpacity: 0.5,
-		        strokeColor: 'b8006c',
-		        strokeWidth: 1,
-		        strokeOpacity: 1,
-		        stroke: true,
-		        mapKey: 'data-name',
-                listKey: 'data-name',
-		        onClick: function(data) { 
-			        $("#" + data.key).css("opacity", "0.9");
-			        $("#" + areas[currentArea]).css("opacity", "0.4");
-			        currentArea = areas.indexOf(data.key);
-		        }
-            });  
-	
-	        $("#southamerica").hover(
-		        function () { HoverArea(0); },
-		        function () { UnHoverArea(0); }
-	        ).click(function(){ SelectArea(0); });
-	
-	        $("#southamerica_label").hover(
-		        function () { HoverArea(0); },
-		        function () { UnHoverArea(0); }
-	        );
-	
-	        $("#northamerica").hover(
-		        function () { HoverArea(3); },
-		        function () { UnHoverArea(3); }
-	        ).click(function(){ SelectArea(3); });
-	
-	        $("#northamerica_label").hover(
-		        function () { HoverArea(3); },
-		        function () { UnHoverArea(3); }
-	        );
-	
-	        $("#asia").hover(
-		        function () { HoverArea(5); },
-		        function () { UnHoverArea(5); }
-	        ).click(function(){ SelectArea(5); });
-	
-	        $("#asia_label").hover(
-		        function () { HoverArea(5); },
-		        function () { UnHoverArea(5); }
-	        );
-	
-	        $("#europe").hover(
-		        function () { HoverArea(4); },
-		        function () { UnHoverArea(4); }
-	        ).click(function(){ SelectArea(4); });
-	
-	        $("#europe_label").hover(
-		        function () { HoverArea(4); },
-		        function () { UnHoverArea(4); }
-	        );
-	
-	        $("#africa").hover(
-		        function () { HoverArea(2); },
-		        function () { UnHoverArea(2); }
-	        ).click(function(){ SelectArea(2); });
-	
-	        $("#africa_label").hover(
-		        function () { HoverArea(2); },
-		        function () { UnHoverArea(2); }
-	        );
-	
-	        $("#australia").hover(
-		        function () { HoverArea(1); },
-		        function () { UnHoverArea(1); }
-	        ).click(function(){ SelectArea(1); });
-	
-	        $("#australia_label").hover(
-		        function () { HoverArea(1); },
-		        function () { UnHoverArea(1); }
-	        );
-        });
-        
-    }
-    
-    function refresh() {
-        window.location = "http://www.maxandchloe.com/privacy_policy";
-    }
-
-    function openCartDiv() {
-        var data = { ID: 1 };
-        var top = $(window).scrollTop() - 30 + 'px';
-        $("#shoppingCart").css({top:top});
-        $("#shoppingCart").show();
-        $("#shoppingCart").load('/ViewCart', data);
-        //$("#shoppingCart").fadeOut(7000);
-    }
-    function closePopup() {
-        $("#shoppingCart").hide("slow");
-    }
-    function CheckEmptySearch() {
-        if ($('input:text#MaxHeader_tbSearch').val() != null && $('input:text#MaxHeader_tbSearch').val() != "") {
-            var keyword = $('input:text#MaxHeader_tbSearch').val();
-            
-            return true;
-        }
-        return false;
-    }
-</script>
-
                 <!-- Header End -->
                 <!-- middle part -->
                 
@@ -404,6 +285,8 @@ span.name
       <li><a style="padding-left: 10px" href="/customer-reviews">Customer Reviews</a></li>
     
       <li><a style="padding-left: 10px" href="/faq">FAQs</a></li>
+    
+      <li><a style="padding-left: 10px" href="/group-orders">Group Orders</a></li>
     
       <li><a style="padding-left: 10px" href="/privacy_policy">Privacy Policy</a></li>
     
@@ -544,9 +427,130 @@ customerservice@maxandchloe.com</a>.
                 <!-- Footer End -->
             </div>
         </div>
-        <div style="clear:both;">
+        <div style="clear:both;"></div>
         <div id="footerwrapper">
                 
+<script language="javascript" type="text/javascript">
+
+    var countryLinkId = "#";
+    var listCurrensyId = "#";
+    var tbSearchID = $('.headerTxtbox').attr('id');
+
+    $(function () {
+        tbSearchID = $('.headerTxtbox').attr('id');
+        $("input:text#MaxHeader_tbSearch").autocomplete('/HandlerGetProductList.ashx', { matchContains: true });
+
+    });
+
+    function openCountryChoice() {
+        $("#countrySelect").hide();
+        $("#chooseCountry").show("slow");
+        $("#chooseCountry").load('/Modules/Themes/MaxChloe/ChooseCountry_s.aspx', '', function () {
+            $('#world').mapster({
+                singleSelect: true,
+                fillColor: 'b8006c',
+                fillOpacity: 0.5,
+                strokeColor: 'b8006c',
+                strokeWidth: 1,
+                strokeOpacity: 1,
+                stroke: true,
+                mapKey: 'data-name',
+                listKey: 'data-name',
+                onClick: function (data) {
+                    $("#" + data.key).css("opacity", "0.9");
+                    $("#" + areas[currentArea]).css("opacity", "0.4");
+                    currentArea = areas.indexOf(data.key);
+                }
+            });
+
+            $("#southamerica").hover(
+		        function () { HoverArea(0); },
+		        function () { UnHoverArea(0); }
+	        ).click(function () { SelectArea(0); });
+
+            $("#southamerica_label").hover(
+		        function () { HoverArea(0); },
+		        function () { UnHoverArea(0); }
+	        );
+
+            $("#northamerica").hover(
+		        function () { HoverArea(3); },
+		        function () { UnHoverArea(3); }
+	        ).click(function () { SelectArea(3); });
+
+            $("#northamerica_label").hover(
+		        function () { HoverArea(3); },
+		        function () { UnHoverArea(3); }
+	        );
+
+            $("#asia").hover(
+		        function () { HoverArea(5); },
+		        function () { UnHoverArea(5); }
+	        ).click(function () { SelectArea(5); });
+
+            $("#asia_label").hover(
+		        function () { HoverArea(5); },
+		        function () { UnHoverArea(5); }
+	        );
+
+            $("#europe").hover(
+		        function () { HoverArea(4); },
+		        function () { UnHoverArea(4); }
+	        ).click(function () { SelectArea(4); });
+
+            $("#europe_label").hover(
+		        function () { HoverArea(4); },
+		        function () { UnHoverArea(4); }
+	        );
+
+            $("#africa").hover(
+		        function () { HoverArea(2); },
+		        function () { UnHoverArea(2); }
+	        ).click(function () { SelectArea(2); });
+
+            $("#africa_label").hover(
+		        function () { HoverArea(2); },
+		        function () { UnHoverArea(2); }
+	        );
+
+            $("#australia").hover(
+		        function () { HoverArea(1); },
+		        function () { UnHoverArea(1); }
+	        ).click(function () { SelectArea(1); });
+
+            $("#australia_label").hover(
+		        function () { HoverArea(1); },
+		        function () { UnHoverArea(1); }
+	        );
+        });
+
+    }
+
+    function refresh() {
+        window.location = "http://www.maxandchloe.com/privacy_policy";
+    }
+
+    function openCartDiv() {
+        var data = { ID: 1 };
+        var top = $(window).scrollTop() - 30 + 'px';
+        $("#shoppingCart").css({ top: top });
+        $("#shoppingCart").show();
+        $("#shoppingCart").load('/ViewCart', data);
+        //$("#shoppingCart").fadeOut(7000);
+    }
+    function closePopup() {
+        $("#shoppingCart").hide("slow");
+    }
+    function CheckEmptySearch() {
+        if ($('input:text#' + tbSearchID + '').val().replace("/", "").replace(/[/\\*]/g, "") != null && $('input:text#MaxHeader_tbSearch').val().replace("/", "").replace(/[/\\*]/g, "") != "") {
+            var keyword = $('input:text#MaxHeader_tbSearch').val().replace("/", "").replace(/[/\\*]/g, "");
+
+            return true;
+        }
+        return false;
+    }
+</script>
+
 <script type="text/javascript">
 
     function SpecialSignUp() {
@@ -676,74 +680,63 @@ customerservice@maxandchloe.com</a>.
 
 </script>
 <div class="footer">
+    <input type="hidden" name="ctl00$MaxFooter$hdnt" id="MaxFooter_hdnt">
     <div class="footer-links" style="padding-top:10px;">
         <div style="float:left;padding-bottom:15px;">
             <div class="tab1">
+                
+
+                
+
+                
                 <p style="letter-spacing: 0px; font-family: 'Century Gothic' , Arial, Helvetica, sans-serif;">
-                    customer service</p>
+                    COMPANY</p>
 
-
-                <a href="http://www.maxandchloe.com/affiliates">Affiliates</a><br>
-                
-                <a href="http://www.maxandchloe.com/requestcatalog">Request Catalog</a><br>
-                
-                <a href="http://www.maxandchloe.com/faqs">FAQs</a><br>
-                
-                <a href="http://www.maxandchloe.com/returns">Returns</a><br>
-                
-                <a href="http://www.maxandchloe.com/shipping">Shipping</a><br>
-
-                
 
                 <a href="http://www.maxandchloe.com/about_us">About Us</a><br>
+                <a href="http://www.maxandchloe.com/myaccount/loyaltypointprogram.aspx">Loyalty Points</a><br>
                 
+                <a href="http://www.maxandchloe.com/group-orders">Group Orders</a><br>
+                
+                <a href="http://www.maxandchloe.com/affiliates">Affiliates</a><br>
             </div>
             <div class="tab1">
+                
                 <p style="letter-spacing: 0px; font-family: 'Century Gothic' , Arial, Helvetica, sans-serif;">
-                    shop categories</p>
+                    SHOP CATEGORIES</p>
                 <a href="http://www.maxandchloe.com/fashion-jewelry">Fashion Jewelry</a><br>
                 
-                <a href="http://www.maxandchloe.com/fine-jewelry">Fine Jewelry</a><br>
+                <a href="http://www.maxandchloe.com/fine-jewelry">Fine Jewelry and Diamonds</a><br>
                 
                 <a href="http://www.maxandchloe.com/personalized-jewelry">Personalized Jewelry</a><br>
                 
                 <a href="http://www.maxandchloe.com/bridal-jewelry">Bridal Jewelry</a><br>
-                
-                <a href="http://www.maxandchloe.com/silver-jewelry">Silver Jewelry</a><br>
-                
-                <a href="http://www.maxandchloe.com/pearl-jewelry">Pearl Jewelry</a><br>
             </div>
             <div class="tab1">
                 <p style="letter-spacing: 0px; font-family: 'Century Gothic' , Arial, Helvetica, sans-serif;">
-                    shop featured</p>
-                <a href="http://www.maxandchloe.com/newitems">New Items</a><br>
-                <a href="http://www.maxandchloe.com/topsellers">Top Sellers</a><br>
-                <a href="http://www.maxandchloe.com/sale">Sale Items</a><br>
-                <a href="http://www.maxandchloe.com/trends">Trends</a><br>
-                <a href="http://www.maxandchloe.com/press">Press</a><br>
+                    ASSISTANCE</p>
                 <a href="http://www.maxandchloe.com/giftcertificates">Gift Certificates</a><br>
+                <a href="http://www.maxandchloe.com/trackorder">Track My Order</a><br>                
+                <a href="http://www.maxandchloe.com/requestcatalog">Request a Catalog</a><br>
+                <a href="http://www.maxandchloe.com/resources">Resources</a><br>
             </div>
-            <div class="tab1" style="width: 148px">
+            <div class="tab1" style="width: 135px">
                 <p style="letter-spacing: 0px; font-family: 'Century Gothic' , Arial, Helvetica, sans-serif;">
-                    Top Searches</p>
-                <a href="http://www.maxandchloe.com/fashion-jewelry/cubic-zirconia-jewelry">CZ Jewelry</a><br>
-                <a href="http://www.maxandchloe.com/fine-jewelry/diamond-necklaces">
-                    Diamond Necklaces</a><br>
-                <a href="http://www.maxandchloe.com/personalized-jewelry/initial-pendant">
-                    Initial Pendants</a><br>
-                <a href="http://www.maxandchloe.com/fashion-jewelry/cocktail-rings">
-                    Cocktail Rings</a><br>
-                <a href="http://www.maxandchloe.com/14k-gold-jewelry">14K Gold
-                    Jewelry</a><br>
-                <a href="http://www.maxandchloe.com/peace-jewelry">Peace
-                    Jewelry</a><br>
+                    CUSTOMER SERVICE</p>
+                <a href="http://www.maxandchloe.com/faqs">FAQs</a><br>
+                <a href="http://www.maxandchloe.com/shipping">
+                    Shipping</a><br>
+                <a href="http://www.maxandchloe.com/returns">
+                    Returns</a><br>
+                <a href="http://www.maxandchloe.com/contactpage">
+                    Contact Us</a><br>
             </div>
         </div>
         <div class="tab1" style="float:right;padding-top:10px;width:245px;">
             <div id="MaxFooter_pnlSignUp">
 	
             <div style="padding-bottom: 5px; color: #343434; font-weight: bold;font-family:'century gothic', Arial;">SIGN UP FOR SPECIAL OFFERS</div>
-            <div style="float:left;padding-right:5px;"><input name="ctl00$MaxFooter$txtSpecialSIgnUp" type="text" id="MaxFooter_txtSpecialSIgnUp" class="txt2" style="width:210px;"></div>
+            <div style="float:left;padding-right:5px;"><input name="ctl00$MaxFooter$txtSpecialSIgnUp" type="text" id="MaxFooter_txtSpecialSIgnUp" class="txt2 signupEmail" placeholder="Enter email address" onfocus="this.placeholder = ''" blur="if(value=='') value = 'Enter email address'" style="width:210px;"></div>
             <div style="float:left;padding-top:1px;"><input type="image" name="ctl00$MaxFooter$btnGo" id="MaxFooter_btnGo" src="images/homepage30/go.jpg" onclick="return SpecialSignUp();"></div>
             <br><br>
             <img border="0" src="/images/footer_signuptoday.png">
@@ -752,19 +745,16 @@ customerservice@maxandchloe.com</a>.
         
         <div style="float: left; width: 600px; text-align: left; color: #000000;padding-top:10px;font-weight:bold;">
             <span style="padding-right: 5px;">Toll Free 888-MAX-CHLOE (629-2456)</span><span style="padding-right: 5px">|</span>
-            <a style="padding-right: 5px; color: #000000" href="http://www.maxandchloe.com/contactpage">Contact Us</a><span style="padding-right: 5px">|</span>
-            <a style="padding-right: 5px; color: #000000" href="http://www.maxandchloe.com/trackorder">Track My Order</a><span style="padding-right: 5px">|</span>
+            
             <a style="padding-right: 5px; color: #000000" href="javascript:Popup.showModal('divFeedBack');">Feedback</a><span style="padding-right: 5px">|</span>
             <a style="padding-right: 5px; color: #000000" href="http://www.maxandchloe.com/sitemap">Sitemap</a><span style="padding-right: 5px">|</span>
             <a style="padding-right: 5px; color: #000000" href="http://www.maxandchloe.com/privacy_policy">Privacy Policy</a>
             <br>
         
         </div>
-        <div style="float: left; width: 600px; text-align: left; padding-top: 5px; color: #7c7c7c; font-size: 9px">
-            <span>Max &amp; Chloe is an online shopping destination offering the latest fashion jewelry and fine jewelry from top designer brands.</span><br>
-            Copyright 2014, Max &amp; Chloe. All rights reserved.
-        </div>
-    </div>
+        <div style="float: left; width: 550px; text-align: left; padding-top: 5px; color: #7c7c7c; font-size: 9px">
+            <span>Max &amp; Chloe is an online shopping destination offering the latest fashion jewelry and fine jewelry from top designer brands. Copyright 2015, Max &amp; Chloe. All rights reserved</span><brcopyrigcopyright 2015,="" max="" &="" chloe.="" all="" rights="" reserved.="" <="" div="">
+    </brcopyrigcopyright></div>
     
     <div id="divFeedBack" style="display: none; width: 522px; height: 600px; background-color: white"> 
         <div id="header" style="height: 43px; background-image: url('/images/feedback/feedback-header.jpg')">
@@ -878,7 +868,7 @@ customerservice@maxandchloe.com</a>.
         </div>
         <div id="footer" style="float: left; height: 46px; width: 100%;background-color: #e3edf6">
             <div style="padding-top: 14px; padding-left: 43px; font-size: 9px; color: #909090; float: left">
-                Copyright 2014, Max &amp; Chloe. All rights reserved.
+                Copyright 2015, Max &amp; Chloe. All rights reserved.
             </div>
             <div style="float: right; padding-top: 8px; padding-right: 45px">
                 <a onclick="javascript:SaveFeedback();">
@@ -927,26 +917,11 @@ customerservice@maxandchloe.com</a>.
         </div>
         <div id="Div2" style="float: left; height: 46px; width: 100%;background-color: #e3edf6">
             <div style="padding-top: 14px; padding-left: 43px; font-size: 9px; color: #909090; float: left">
-                Copyright 2014, Max &amp; Chloe. All rights reserved.
+                Copyright 2015, Max &amp; Chloe. All rights reserved.
             </div>                        
         </div>
     </div>
-    <div id="divFinePrint" style="width: 300px; display: none; background-color: white">
-        <div style="height: 43px; background-color: #931b55 ">
-            <div style="float: left; padding-top: 7px; padding-left: 20px; color: white; font-family: 'Century Gothic' , Arial, Helvetica, sans-serif;">
-                <p style="font-size: 16px; font-weight: bold">FREE GIFT</p>
-                <p style="font-size: 8px">WITH PURCHASE OVER $200</p>
-            </div>
-            <div style="float: right; padding-top: 10px; padding-right: 13px">
-                <a href="javascript:Popup.hide('divFinePrint');">
-                    <img src="/images/feedback/close_icon.gif" alt="Close Feedback" title="Close Feedback">
-                </a>    
-            </div>
-        </div>
-        <div style="padding: 20px">
-            Add qualifying merchandise totaling $200 or more to your shopping bag. Free gift will be automatically added to your shopping cart. Valid through 11:59pm EST on July 7, 2012. Limited time offer. WHILE SUPPLIES LAST. Shipping, handling and taxes do not qualify for offer. Offer subject to adjustment due to returns, cancellations and exchanges. Not valid on previous purchase, with shipping offers or any other offers that provide discounts on your entire order. Offer may be modified or discontinued at any time without notice.
-        </div>
-    </div>
+  
 
 <div id="divJoinMailingList" style="display: none; width: 534px;height:367px;">
     <div>
@@ -997,10 +972,21 @@ customerservice@maxandchloe.com</a>.
         });
     }
 
+    
     // Usage:
 
     $(document).ready(function () {
-
+        $(".signupEmail")
+          .focus(function () {
+              if (this.value ==="Enter email address") {
+                  this.value = '';
+              }
+          })
+          .blur(function () {
+              if (this.value ==='') {
+                  this.value = "Enter email address";
+              }
+          });
         $("#divJoinMailingList2").css("top", "140px");
         $("#divJoinMailingList2").css("z-index", "1000");
         $("#divJoinMailingList2").css("position", "fixed");
@@ -1127,9 +1113,9 @@ customerservice@maxandchloe.com</a>.
     }
 </script>
 
+            </div>
         </div>
-        
-    
+    </form>
     <script type="text/javascript">
         anylinkcssmenu.init("anchorclass");       ////Pass in the CSS class of anchor links (that contain a sub menu)
         $(document).ready(function () {
@@ -1191,11 +1177,25 @@ customerservice@maxandchloe.com</a>.
                 }, 1);
             </script>
             <!--END Crazy Egg-->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1068483905;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068483905/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
         
         
 
 
-</div></form><div id="1" class="anylinkcsscols" style="width: 565px;height:auto;">
+<div id="1" class="anylinkcsscols" style="width: 565px;height:auto;">
             <div class="column">
                 <span>SHOP BY TYPE</span>
                 <ul>
