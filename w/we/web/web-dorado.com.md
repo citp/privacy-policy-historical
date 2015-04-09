@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the web-dorado.com privacy policy that was archived on 2014-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140902024224id_/http%3A//web-dorado.com/web-dorado-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-dorado.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409023621id_/http%3A//web-dorado.com/web-dorado-privacy-statement.html) for the most accurate reproduction.*
 
 # Web-Dorado Privacy Statement
-
-### Web-Dorado Privacy statement
 
 We highly appreciate our customers’ cooperation with us and want to make sure their rights are protected here. We want our customers to understand how, when and in what circumstances we use the information you share with us.  
 You may be required to give us personal (name, phone number, address, bank account numbers etc.), non-identifying personal (personal data that cannot be used for identification) and prospect information (personal data about someone else), business contact (business phone number, address, etc) or aggregated information.
