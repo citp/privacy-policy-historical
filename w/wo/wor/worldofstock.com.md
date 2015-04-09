@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofstock.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124233229id_/http%3A//www.worldofstock.com/help/info_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofstock.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409021445id_/http%3A//www.worldofstock.com/help/info_privacy.htm) for the most accurate reproduction.*
 
 # World of Stock Photos - Info Center - Security and Privacy
 
@@ -14,7 +14,7 @@ _In this section..._
 
 _Related sections and links..._
 
-  * [Lightbox](https://web.archive.org/web/20141124233229id_/http%3A//www.worldofstock.com/help/info_album.htm)
+  * [Lightbox](https://web.archive.org/web/20150409021445id_/http%3A//www.worldofstock.com/help/info_album.htm)
   * [FTC's guide to safe surfing](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm)
 
 
