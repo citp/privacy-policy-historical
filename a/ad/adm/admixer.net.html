@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the admixer.net privacy policy that was archived on 2014-09-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140929072529id_/http%3A//www.admixer.net/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the admixer.net privacy policy that was archived on 2015-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150409131238id_/http%3A//www.admixer.net/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -27,10 +27,10 @@
     <script async="" type="text/javascript" src="http://cdn.admixer.net/scriptlib/asm2.js?v=3"></script><script src="/Content/js/core/jquery.js"></script>
     <script src="/Content/js/bootstrap/bootstrap.js"></script>
     <script src="/Content/js/bootstrap/modal.js"></script>
-
     <script src="/Content/js/realperson/jquery.realperson.min.js"></script>
     <script src="/Content/js/jquery.validate.js"></script>
     <script src="/Content/js/custom.js"></script>
+    <script src="/Content/js/jstz.js"></script>
 
 
     <!--[if lt IE 9]>
@@ -238,22 +238,56 @@
     <!--*********************************SIGN UP***********************************-->
 <div id="signUpModal" class="modal" tabindex="-1" role="dialog">
     <div style="position: relative; z-index:1">
-        <form class="clientForm2" id="advForm" novalidate="novalidate">
+        
+<form class="clientForm2" id="advForm" novalidate="novalidate">
 
     <section class="panel panel-default">
-        <header class="panel-heading font-bold">SIGN up:</header>
+        <header class="panel-heading font-bold">SIGN up</header>
         <div class="panel-body">
-            <div class="row" style="padding-top: 5px">
+            <div class="row" style="padding-top: 5px; margin-bottom:10px">
                 <div class="col-md-6">
                     <div class="form-group">
                         <label class="invis">Web Site</label>
-                        <input class="form-control" name="website" type="url" placeholder="Web Site" required="">
+                        <input class="form-control" name="website" type="text" placeholder="Web Site" required="">
                     </div>
+                    <div class="form-group">
+                        <label class="invis">The average daily number of visitors</label>
+                        <input class="form-control" name="visamount" type="text" placeholder="The average daily number of visitors" required="">
+                    </div>
+                    <div class="form-group">
+                        <label class="invis">The main region of visitors (list of countries)</label>
+                        <input class="form-control" name="vis-region" type="text" placeholder="The main region of visitors (list of countries)" required="">
+                    </div>
+                    
+
+                    <div class="clearfix row" style="margin:-7px -15px 15px">
+                        <div class="col-md-6">
+                            <label class="nowrap" style="margin-left:10px;">
+                                <input type="radio" checked="checked" name="org-type" class="org-type" data-model="1" data-value="Organization">
+                                Company/Organization
+                            </label>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="nowrap">
+                                <input type="radio" name="org-type" class="org-type" data-model="2" data-value="IndividualPerson">
+                                Individual
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="form-group">
                         <label class="invis">Your name</label>
                         <input class="form-control" name="name" type="text" placeholder="Your name" required="">
                     </div>
-                    
+
+                    <div class="form-group org-fields">
+                        <label class="invis">Company name</label>
+                        <input class="form-control" name="company" type="text" placeholder="Company name">
+                    </div>
+                    <div class="form-group org-fields">
+                        <label class="invis">Job title</label>
+                        <input class="form-control" name="job-title" type="text" placeholder="Job title">
+                    </div>
                     <div class="form-group">
                         <label class="invis">Enter email</label>
                         <input class="form-control" name="email" type="email" placeholder="Enter email" required="">
@@ -262,41 +296,28 @@
                         <label class="invis">Contact number</label>
                         <input class="form-control" name="phone" type="text" placeholder="Contact number" required="" autocomplete="off">
                     </div>
-                    <div class="form-group">
-                        <label class="invis">Password</label>
-                        <input class="form-control" name="password" type="password" placeholder="Password" required="" autocomplete="off">
-                    </div>
-                    <div class="form-group">
-                        <label class="invis">Confirm password</label>
-                        <input class="form-control" name="password2" type="password" placeholder="Confirm password" required="" autocomplete="off">
-                    </div>
+
 
                     <div class="title" style="padding-top: 18px;">Select your pricing model</div>
                     <div class="">
-                        <div class="col-md-3" style="padding-left: 0; padding-right: 0">
+                        <div class="col-md-4" style="padding-left: 0; padding-right: 0">
                             <label>
-                                <input type="radio" name="pricing_model" class="pricing_model" data-model="1" data-value="Free">
+                                <input type="radio" name="pricing_model" class="pricing_model" data-model="AD7B7A96-2E43-4A18-A28D-8FFC88B1E45E" checked="" data-value="Free">
                                 Free
                             </label>
                         </div>
-                        <div class="col-md-3" style="padding-left: 0; padding-right: 0">
+                        <div class="col-md-4" style="padding-left: 0; padding-right: 0">
 
                             <label>
-                                <input type="radio" name="pricing_model" class="pricing_model" data-model="2" data-value="Small">
-                                Small
+                                <input type="radio" name="pricing_model" class="pricing_model" data-model="11F86C63-1D4E-4CB6-B2F1-B77DA8EAD0ED" data-value="Pro">
+                                Pro
                             </label>
                         </div>
-                        <div class="col-md-3" style="padding-left: 0; padding-right: 0">
+                      
+                        <div class="col-md-4" style="padding-left: 0; padding-right: 0">
 
                             <label>
-                                <input type="radio" name="pricing_model" class="pricing_model" data-model="3" checked="" data-value="Medium">
-                                Medium
-                            </label>
-                        </div>
-                        <div class="col-md-3" style="padding-left: 0; padding-right: 0">
-
-                            <label>
-                                <input type="radio" name="pricing_model" class="pricing_model" data-model="4" data-value="Enterprise">
+                                <input type="radio" name="pricing_model" class="pricing_model" data-model="6C1A3CC5-48E2-40AE-809D-242215D2194F" data-value="Enterprise">
                                 Enterprise
                             </label>
                         </div>
@@ -304,11 +325,11 @@
                     <p>&nbsp;</p>
 
                     <input type="hidden" name="view" value="EmailForm">
-                    <div id="loading" class="loading"></div>
-                    <input type="submit" id="butRegister" class="btn black_button" value="Register">
+
                 </div>
                 <div class="col-md-6">
-                    <div class="modal_info" id="modal_info1">
+                    <div class="modal_info" id="modal_infoAD7B7A96-2E43-4A18-A28D-8FFC88B1E45E" style="display: block">
+                        <!--FREE-->
                         <div class="title">
                             Join us today to start<br>
                             earning more<br>
@@ -321,150 +342,138 @@
                                 <td style="width: 80px">
                                     <div class="modal_icon  modal_icon_1"></div>
                                 </td>
-                                <td>&lt;5 sites </td>
+                                <td>up to 5 sites </td>
                             </tr>
                             <tr>
                                 <td>
                                     <div class="modal_icon  modal_icon_2"></div>
                                 </td>
                                 <td>
-                                    &lt;10 mln ad impressions 
+                                    up to 1 million ads impression
                                     <br>
-                                    monthly 
+                                    monthly
                                 </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="modal_icon  modal_icon_14"></div>
+                                </td>
+                                <td>1 user account </td>
                             </tr>
                             <tr>
                                 <td>
                                     <div class="modal_icon  modal_icon_3"></div>
                                 </td>
-                                <td>&lt;5 sites sections </td>
+                                <td>
+                                    unlimited sections
+                                </td>
                             </tr>
                             <tr>
                                 <td>
                                     <div class="modal_icon  modal_icon_4"></div>
                                 </td>
                                 <td>
-                                    &lt;5 re-targeting and
-                                    <br>
-                                    referral groups 
+                                    re-targeting and 
+referral groups - not available
                                 </td>
                             </tr>
-
+                            <tr>
+                                <td>
+                                    <div class="modal_icon  modal_icon_7"></div>
+                                </td>
+                                <td>
+                                    limited ad formats
+                                </td>
+                            </tr>
                         </tbody></table>
                     </div>
-                    <div class="modal_info" id="modal_info2">
+                    <div class="modal_info" id="modal_info11F86C63-1D4E-4CB6-B2F1-B77DA8EAD0ED">
+                        <!--Pro-->
                         <div class="title">
                             <strong>Growing fast?</strong>
                             <br>
-                            Combine earnings to increase 
-                           
-                            your revenue and your business. 
+                            Combine earnings to increase
+
+                            your revenue and your business.
                         </div>
                         <table class="invisible_border">
                             <tbody><tr>
                                 <td style="width: 80px">
                                     <div class="modal_icon  modal_icon_1"></div>
                                 </td>
-                                <td>&lt;10 sites</td>
+                                <td>unlimited </td>
                             </tr>
                             <tr>
                                 <td>
                                     <div class="modal_icon  modal_icon_2"></div>
                                 </td>
                                 <td>
-                                    &lt;50 mln   ad impressions 
+                                    up to 10 million ads impressions
                                     <br>
-                                   monthly 
+                                    monthly
                                 </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="modal_icon  modal_icon_14"></div>
+                                </td>
+                                <td>user accounts - <br>unlimited </td>
                             </tr>
                             <tr>
                                 <td>
                                     <div class="modal_icon  modal_icon_3"></div>
                                 </td>
-                                <td>&lt;10 sites sections</td>
+                                <td>
+                                    unlimited sections
+                                </td>
                             </tr>
                             <tr>
                                 <td>
                                     <div class="modal_icon  modal_icon_4"></div>
                                 </td>
                                 <td>
-                                    &lt;10 re-targeting and
-                                    <br>
-                                    referral groups
-                                    
+                                    re-targeting and referral groups  
                                 </td>
                             </tr>
                             <tr>
                                 <td>
                                     <div class="modal_icon  modal_icon_5"></div>
                                 </td>
-                                <td>Behavior data</td>
+                                <td style="text-transform:lowercase">
+                                   Behavior data
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="modal_icon  modal_icon_7"></div>
+                                </td>
+                                <td>
+                                    limited ad formats
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="modal_icon  modal_icon_13"></div>
+                                </td>
+                                <td>
+                                    no video ads formats available
+                                </td>
                             </tr>
                             <tr>
                                 <td>
                                     <div class="modal_icon  modal_icon_6"></div>
                                 </td>
-                                <td>24/7 support</td>
+                                <td>
+                                    24/7 technical support
+                                </td>
                             </tr>
                         </tbody></table>
                     </div>
 
-                    <div class="modal_info" id="modal_info3" style="display: block">
-                        <div class="title">
-                            Use Admixer.Publisher to power
-                            your web traffic monetization
-<br>
-                            <strong>a pro. </strong>
-                        </div>
-                        <table class="invisible_border">
-                            <tbody><tr>
-                                <td style="width: 80px">
-                                    <div class="modal_icon  modal_icon_1"></div>
-                                </td>
-                                <td>&lt;20 sites</td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="modal_icon  modal_icon_2"></div>
-                                </td>
-                                <td>
-                                    &lt;100 mln ad impressions 
-                                    <br>
-                                    monthly 
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="modal_icon  modal_icon_3"></div>
-                                </td>
-                                <td>&lt;20 sites sections</td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="modal_icon  modal_icon_4"></div>
-                                </td>
-                                <td>
-                                    &lt;20 re-targeting and
-                                    <br>
-                                    referral groups
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="modal_icon  modal_icon_5"></div>
-                                </td>
-                                <td>Behavior data</td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="modal_icon  modal_icon_6"></div>
-                                </td>
-                                <td>24/7 support</td>
-                            </tr>
-                        </tbody></table>
-                    </div>
+                    
 
-                    <div class="modal_info" id="modal_info4">
+                    <div class="modal_info" id="modal_info6C1A3CC5-48E2-40AE-809D-242215D2194F">
+                        <!--Enterprise-->
                         <div class="title">
                             Some strong points
                             to upgrade to
@@ -477,8 +486,8 @@
                                     <div class="modal_icon  modal_icon_7"></div>
                                 </td>
                                 <td>
-                                   Non-standard and exclusive<br>
-                                    ad formats support  
+                                    Non-standard and exclusive<br>
+                                    ad formats support
                                 </td>
                             </tr>
                             <tr>
@@ -487,7 +496,7 @@
                                 </td>
                                 <td>
                                     Customer-specific reports<br>
-                                    may be easily added 
+                                    may be easily added
                                 </td>
                             </tr>
                             <tr>
@@ -504,7 +513,7 @@
                                     <div class="modal_icon  modal_icon_10"></div>
                                 </td>
                                 <td> Custom SLA option available </td>
-                  </tr>
+                            </tr>
                             <tr>
                                 <td>
                                     <div class="modal_icon  modal_icon_11"></div>
@@ -513,7 +522,7 @@
                                     Dedicated tenant deployment<br>
                                     option for customers having even<br>
                                     stronger security requirements
-                                    
+
                                 </td>
                             </tr>
                             <tr>
@@ -524,11 +533,42 @@
                                     Adjustments to billing<br>
                                     and invoicing  routines<br>
                                     to suit specific customer needs.
-                                    
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="modal_icon  modal_icon_13"></div>
+                                </td>
+                                <td>
+                                    Video ad formats support &amp; hosting
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="modal_icon  modal_icon_14"></div>
+                                </td>
+                                <td>
+                                    Dedicated account manager and 24/7 technical support
+
                                 </td>
                             </tr>
                         </tbody></table>
                     </div>
+                </div>
+            </div>
+            <div class="row h">
+                <div class="col-md-6">
+                    <div class="captch clearfix" style="padding: 0 0 5px;">
+                        <div class="realperson-challenge"><div class="realperson-text">*******&nbsp;&nbsp;******&nbsp;&nbsp;&nbsp;*******&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;<br>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;<br>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;<br>****&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;<br>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;***&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*&nbsp;*&nbsp;&nbsp;<br>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;<br>*******&nbsp;&nbsp;******&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;****&nbsp;*&nbsp;&nbsp;<br></div><div class="realperson-regen">refresh</div></div><input type="hidden" class="realperson-hash" name="cptchaHash" value="-1378832195"><input type="text" id="captchaValue" class="form-control required hasRealPerson" name="cptcha" required="">
+                        <div id="captchaError" class="captcha error">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div id="loading" class="loading"></div>
+                    <input type="submit" id="butRegister" class="btn black_button" value="Register">
                 </div>
             </div>
         </div>
@@ -537,9 +577,9 @@
 </form>
 <section id="form_thanks" class="panel panel-default">
     <div class="panel panel-default">
-        <header class="panel-heading font-bold"><strong>Thanks for registration! </strong></header>
+        <header class="panel-heading font-bold"><strong>Your request successfully sent! </strong></header>
         <div class="panel-body">
-            <p>Your account would be activated soon</p>
+            <p>We've sent you a message: please check up your e-mail to confirm it.</p>
 
             <p>If you have any further questions, you can contact us by phone:  </p>
 
@@ -555,8 +595,20 @@
         <div class="phone">+38 044 390 7846</div>
     </div>
 </section>
+
 <script>
+
     $('document').ready(function () {
+
+        $('.realperson-regen').trigger("click");
+
+        var RecaptchaOptions = {
+            theme: 'clean'
+        };
+
+        $('#captchaValue').realperson();
+
+        $('.realperson-regen')[0].innerHTML = "refresh";
 
         $('.pricing_model').change(function () {
             var parent = $(this).closest('.modal');
@@ -565,6 +617,15 @@
             parent.find('#modal_info' + pricing_model).slideDown();
         })
 
+        $('.org-type').click(function orgSelect() {
+            var orgType = $(this).attr('data-model');
+            if (orgType == 1) {
+                $('.org-fields').show();
+            }
+            else {
+                $('.org-fields').hide();
+            }
+        });
 
         jQuery.validator.addMethod('phoneUK', function (phone_number, element) {
             phone_number = phone_number.replace(/\s+/g, '');
@@ -574,8 +635,12 @@
         $("#advForm").validate({
             rules: {
                 website: {
+                    required: true
+                    //url: true
+                },
+                visamount: {
                     required: true,
-                    url: true
+                    number: true
                 },
                 name: {
                     required: true
@@ -603,100 +668,75 @@
                 password2: "Required field",
                 phone: { required: "Required field", phoneUK: "Invalid phone number" },
                 email: { required: "Required field", email: "Please enter a valid e-mail" },
-                website: { required: "Required field", url: "Invalid website" }
-                //cptcha: { required: "Неверный код" }
+                website: { required: "Required field", url: "Invalid website" },
+                cptcha: { required: "Wrong captcha" }
             }
         });
 
         $('#advForm').bind('submit', function (e) {
             e.preventDefault();
-     
+
             if ($("#advForm").valid()) {
                 console.log('SUBMIT!');
                 $('#butRegister').prop('disabled', true);
                 $('#loading').show();
                 var obj = new Object();
-                obj.CompanyName = $('[name="company"]').val();
+                obj.Company = $('[name="company"]').val();
                 //obj.UserName = $('[name="fname"]').val();
-                obj.UserSurname = $('[name="name"]').val();
+                obj.Name = $('[name="name"]').val();
+                obj.WebSite = $('[name="website"]').val();
                 obj.Email = $('[name="email"]').val();
                 obj.Phone = $('[name="phone"]').val();
-                obj.Password = $('[name="password"]').val();
                 obj.Subject = 'Заявка на регистрацию в publisher';
                 obj.ViewForm = $('[name="view"]').val();
-                obj.PricingModel = $('.pricing_model:checked').data('value');
-                if (obj.Password != $('[name="password2"]').val()) {
-                    alert("Confirmed password is incorrect!");
-                    return;
-                }
-                //obj.Product = $('[name="prod"]').val();
-                //obj.Subject = $('[name="subject"]').val();
-                //obj.ViewForm = $('[name="view"]').val();
-                //obj.Url = $('[name="url"]').val();
-                //obj.Budget = $('[name="budget"]').val();
-                //obj.ViewsCount = $('[name="views"]').val();
-                //obj.DateFrom = $('[name="df"]').val();
-                //obj.DateTo = $('[name="dt"]').val();
-                //obj.RealPersonHash = $('[name="cptchaHash"]').val();
-                //obj.RealPersonName = $('#captchaValue').val();
-                //obj.Formats = [];
-                //$('#frmts :selected').each(function (i, selected) {
-                //    obj.Formats[i] = $(selected).text();
-                //});
-
-                //obj.Details = $('[name="addInfo"]').val();
-                //obj.CaptchaChalenge = $('#recaptcha_challenge_field').val();
-                //obj.CaptchaResponse = $('#recaptcha_response_field').val();
-
-
-
+                obj.PricingModel = $('.pricing_model:checked').data('model');
+                obj.VisitorsAmount = $('[name="visamount"]').val();
+                obj.VisitorsCountries = $('[name="vis-region"]').val();
+                obj.JobTitle = $('[name="job-title"]').val();
+                obj.Tenant = 'B6FD2C11-9807-4A36-AB0E-69BA0D339776';
+                obj.OrganizationType = $('.org-type:checked').data('model');
+                obj.Screen = screen.width + 'x' + screen.height;
+                obj.RealPersonHash = $('[name="cptchaHash"]').val();
+                obj.RealPersonName = $('#captchaValue').val();
+                obj.PackageOId = $('.pricing_model:checked').data('model');
+                obj.PackageName = $('.pricing_model:checked').data('value');
+                var timezone = jstz.determine();
+                var tzOffset = new Date().getTimezoneOffset()
+                obj.TimeZone = 'TimeZone: ' + timezone.name() + '.  TimeZoneOffset(minutes): ' + tzOffset + '.  TimeZoneOffset(hours): ' + tzOffset / 60;
 
                 $(".resultMessage").show();
                 $('#captchaError').html("");
                 object = JSON.stringify(obj);
                 var formData = new FormData();
 
-                //$.each($("#load_file")[0].files, function (i, file) {
-                //    formData.append('file-' + i, file);
-                //});
-
-                var trueObject = {
-                    SiteUrl: $('[name="website"]').val(),
-                    Name: $('[name="name"]').val(),
-                    Email: $('[name="email"]').val(),
-                    ContactNumber: $('[name="phone"]').val(),
-                    Password: $('[name="password"]').val(),
-                    Company: $('[name="company"]').val(),
-                    BillingPack :$('.pricing_model:checked').data('value')
-                }
 
                 formData.append('json', object);
-              //  console.log(trueObject)
+                //  console.log(trueObject)
                 $.ajax({
-                    crossDomain:true,
+                    crossDomain: true,
                     method: "POST",
                     //url: "http://publisher.admixer.net/Account/SignUp",
-                    url:'/ajax/SignUp',
-                    data: "json=" + JSON.stringify(trueObject),
+                    url: '/ajax/SignUp',
+                    data: "json=" + JSON.stringify(obj),
                     headers: { "Content-Type": "application/x-www-form-urlencoded" },
                     success: function (data) {
-                        //if (data.Message == "wrong captcha") {
-                        //    $('#captchaError').html("Неверный код");
-                        //    $('.realperson-regen').trigger("click");
+                        if (data.Message == "wrong captcha") {
+                            $('#captchaError').html("Неверный код");
+                            $('.realperson-regen').trigger("click");
 
-                        //    $(".resultMessage").hide();
-                        //}
-                        //else if (data.Message == "empty captcha") {
-                        //    $('#captchaError').html("Заполните поле проверки");
+                            $(".resultMessage").hide();
+                        }
+                        else if (data.Message == "empty captcha") {
+                            $('#captchaError').html("Заполните поле проверки");
 
-                        //    $(".resultMessage").hide();
-                        //}
+                            $(".resultMessage").hide();
+                        }
                         //else {
-                    //    console.log(data)
+                        //    console.log(data)
 
                         if (data.IsOk) {
                             $('#advForm')[0].reset();
-                            //$('#captchaError').html("");
+                            $('#captchaError').html("");
                             //$(".resultMessage").hide();
                             //_gaq.push(['sales._trackEvent', "Форма запроса на консультацию", "Подтверждение запроса"]);
                             //   $('[data-dismiss="modal"]').trigger("click");
@@ -718,7 +758,7 @@
                     },
                     withCredentials: true
                 });
-             
+
             }
         });//submit()
 
