@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itechtics.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505012806id_/http%3A//www.itechtics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itechtics.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410014556id_/http%3A//www.itechtics.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : iTechtics.com
+# Privacy Policy - iTechtics
 
 If you have any questions about our privacy policy, you can [contact us](http://www.itechtics.com/contact/ "Contact us") from our website or email directly to itechtics@gmail.com.
 
@@ -32,4 +32,6 @@ Specifically, we may use Google Adsense for advertising on our site, here is an 
 
 > Google uses the [ DoubleClick cookie](http://support.google.com/adsense/bin/answer.py?answer=2839090) on publisher websites displaying AdSense for content ads. Subject to any applicable laws, rules and regulations, you will have the sole and exclusive right to use all data derived from your use of the DoubleClick cookie for any purpose related to your business, provided that Google may use and disclose this data subject to the terms of [Google’s advertising privacy policies](http://www.google.com/intl/en/privacy/ads/privacy-policy.html) and any applicable laws, rules and regulations.
 
-This Privacy Policy was last revised on July 21, 2013.
+Apart from display ads, we may also use affiliate links using third party services like VigLink. The links inserted by VigLink or other affiliate link tools may earn us revenue but the reviews or content we provide is not affected by any affiliates.
+
+This Privacy Policy was last revised on February 10th, 2015.
