@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wers.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218201143id_/http%3A//www.wers.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wers.net privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409020647id_/http%3A//www.wers.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Australian Window Association
 
