@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the video.tt privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818002334id_/http%3A//www.video.tt/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the video.tt privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409184712id_/http%3A//www.video.tt/privacy.php) for the most accurate reproduction.*
 
-# 
+# video.tt - Privacy Policy
 
 Thank you for visiting the video.tt website located at www.video.tt (the "Site"). The Site is an Internet property of Extra Will Ltd. and its affiliated companies ("video.tt," "we" or "us"). This video.tt Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a Member (as defined in the video.tt Website Terms and Conditions ("Terms and Conditions")); and/or (c) use the Services (as defined in the Terms and Conditions). It is important that visitors are fully informed about the use of their Personal Information (as defined below). We believe in 100% permission-based marketing.
 
