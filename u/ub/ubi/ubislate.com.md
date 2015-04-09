@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubislate.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922121248id_/http%3A//ubislate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubislate.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409032840id_/http%3A//ubislate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ We are committed to protecting your privacy. We will only use the information th
 
 We collect information about you for two reasons: firstly, to process your order and second, to provide you with the best possible service. 
 
-We will not e-mail you in the future unless there is any matter related to you for your earlier relationship with Datawind Innovations Pvt. Ltd or you have given us your consent. 
+We will not e-mail you in the future unless there is any matter related to you for your earlier relationship with Tablets Investment India Pvt. Ltd. or you have given us your consent. 
 
 The type of information we will collect about you is available in the booking forms.
 
