@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradablebits.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214234656id_/http%3A//tradablebits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradablebits.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410012428id_/https%3A//tradablebits.com/privacy) for the most accurate reproduction.*
 
 # 
 
