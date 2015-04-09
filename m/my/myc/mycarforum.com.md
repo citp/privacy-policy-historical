@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycarforum.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716214057id_/http%3A//www.mycarforum.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycarforum.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409152903id_/http%3A//www.mycarforum.com/privacypolicy) for the most accurate reproduction.*
 
 # MCF Terms Of Service - Official Announcements - MyCarForum.com
 
@@ -74,7 +74,7 @@ We are posting this Policy to be a good web citizen. This site operates in good 
 
  **Contacting us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can reach us at [MyCarForum](mailto:support%3Ca%20hovercard-ref= "View Profile").com">support[MyCarForum](http://www.mycarforum.com/user/141230-mycarforum/ "View Profile").com .
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can reach us at [support@mycarforum.com](mailto:support@mycarforum.com "External link") .
 
  **Right to Change Policy**
 
