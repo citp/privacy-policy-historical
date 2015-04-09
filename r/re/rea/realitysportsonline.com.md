@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitysportsonline.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524021559id_/http%3A//realitysportsonline.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitysportsonline.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409022751id_/http%3A//www.realitysportsonline.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the RealitySportsOnline.com website (the “RSO Web Site”). On some pages, you can enter information in order to sign up to become a registered user of the RSO Web Site (a “Registered User”) and/or register a league or a team for the Reality Spots Online Fantasy Platform (the “RSO Fantasy Platform”), and the types of personal information collected at these pages include: 
+This notice applies to all information collected or submitted on the RealitySportsOnline.com website (the “RSO Web Site”). On some pages, you can enter information in order to sign up to become a registered user of the RSO Web Site (a “Registered User”) and/or register a league or a team for the Reality Spots Online Fantasy Platform (the “RSO Fantasy Platform”), and the types of personal information collected at these pages include:
 
   1. Name
   2. Address
@@ -18,7 +18,7 @@ This notice applies to all information collected or submitted on the RealitySpor
 
 
 
- On your league page, you may voluntarily enter contact information that makes it easier for league members to contact you, including:
+On your league page, you may voluntarily enter contact information that makes it easier for league members to contact you, including:
 
   1. Name
   2. Email address
@@ -32,19 +32,19 @@ This notice applies to all information collected or submitted on the RealitySpor
 
 **The Way We Use Information:**
 
-We use the information you provide about yourself when signing up to become a Registered User or for registering for the RSO Fantasy Platform only to successfully make you a Registered User or register you for the RSO Fantasy Platform, as the case may be. We do not share this information with outside parties except to the extent necessary to complete the applicable process. 
+We use the information you provide about yourself when signing up to become a Registered User or for registering for the RSO Fantasy Platform only to successfully make you a Registered User or register you for the RSO Fantasy Platform, as the case may be. We do not share this information with outside parties except to the extent necessary to complete the applicable process.
 
 We do not, in any manner, use the information voluntarily entered on your league page. It is important to realize that anyone (not just your league members) may view your personal (non-RSO) web site if defined, but the contact information you enter on your league page is only seen by league members while they are logged in.
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 **Our Commitment To Data Security:**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-**Our Commitment To Children's Privacy:**
+**Our Commitment To Children’s Privacy:**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
@@ -54,4 +54,4 @@ You can correct factual errors in your personally identifiable information by se
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please email us at [inquiries@realitysportsonline.com](mailto:inquiries@realitysportsonline.com).
+Should you have other questions or concerns about these privacy policies, please email us at [inquiries@realitysportsonline.com](mailto:inquiries@realitysportsonline.com).
