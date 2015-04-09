@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shaadisaga.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122075947id_/http%3A//www.shaadisaga.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shaadisaga.com privacy policy that was archived on 2015-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150409021056id_/http%3A//www.shaadisaga.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -34,7 +34,110 @@
 
 <div id="fb-root"></div><script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script><script type="text/javascript">FB.init({oauth : true, appId: '567322899952405', status:true, cookie:true, xfbml:true});</script>
 <link href="/css/bootstrap_new/newModal.css" rel="stylesheet">
+<link href="/css/validation/validationEngine.jquery.css" rel="stylesheet">
+<style type="text/css">
+.partitionSpan{
+    color: #fff;
+    padding: 5px;
+    font-family: 'misolight', sans-serif;
+    font-size:22px;
+}
+.top-bar .navbar-collapse .search-area .search-icon {
+    top: 18px;
+}
+.top-bar .navbar-collapse .header-img {
+    display: none;
+    float: right;
+}
+.top-bar .top-action-container {
+    padding-top: 20px !important;
+    padding-right: 50px !important;
+    float: right;
+}
+@media only screen and (min-width: 768px) and (max-width:1125px) {
+    .top-bar {
+        margin-top: 35px;
+    }
+    .top-bar .navbar-collapse .search-area {
+        clear: left;
+        float: left;
+        margin-top: 0px;
+        margin-left: 110px;
+        padding-top: 0px;
+    }
+    .top-bar .navbar-collapse .search-area .search-icon {
+        top: 8px !important;
+    }
+    .top-bar .top-action-container {
+        padding-top: 11px !important;
+        float: left !important;
+        padding-top: 0px !important;
+    }
+    .top-bar .logo-area {
+        padding-bottom: 0px !important;
+    }
+}
+@media (max-width:767px) {
+    .login-user-menu-small {
+        display: block !important;
+        float: right;
+        text-align: right;
+    }
+    .login-user-menu-large {
+        display: none;
+    }
+    .top-bar .top-action-container {
+        padding-top: 15px !important;
+    }
+    .top-bar .navbar-collapse {
+        border-top: 1px solid #ccc !important;
+    }
+    .top-bar .navbar-collapse .header-img {
+        display: block;
+        margin-right: 38px;
+        height: 120px;
+        margin-top: 15px;
+    }
+    .top-bar .navbar-collapse .search-area .search-icon {
+        left: 10px;
+    }
+    .top-bar .navbar-collapse .search-area {
+        clear: left;
+        padding-left: 0;
+        margin-top: 5px !important;
+    }
+}
+@media (max-width:471px) {
+    .top-bar .navbar-collapse .header-img {
+        margin-right: 12px;
+        height: 105px;
+    }
+    .top-bar .top-action-container {
+        float: left !important;
+        padding-top: 0px !important;
+        padding-right: 0px !important;
+        clear: left;
+    }
+}
+@media (max-width:285px) {
+    .top-bar .navbar-collapse .header-img {
+        display: none !important;
+    }
+}
+@media (max-width:241px) {
+    .login-user-menu-small {
+        float: left;
+        text-align: left;
+        clear: left;
+    }
+}
 
+
+.login-user-menu-small {
+    display: none;
+}
+
+</style>
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -44,16 +147,44 @@
     ga('create', 'UA-44630698-1', 'shaadisaga.com');
     ga('send', 'pageview');
 
-    function searchCouple(){
-        var searchText = $("#searchText").val();
-        if(searchText){
-            $( "#searchCoupleForm" ).submit();
-        } else{
+    function makeActionForBlankText(element) {
+        var searchText = element.val();
+        if(searchText == null || searchText  == undefined || $.trim(searchText) == "") {
             alert('Enter Text To Search');
+        } else{
+            element.val($.trim(searchText));
+            $( "#searchCoupleForm" ).submit();
         }
-
     }
-
+    function searchCouple(e) {
+        if(e != null && e != undefined) {
+            if((e.type == "keydown" || e.type == "keypress") && e.keyCode == 13) {
+                e.preventDefault();
+                makeActionForBlankText($("#searchText"));
+            }
+        } else {
+            makeActionForBlankText($("#searchText"));
+        }
+    }
+    function openAuthModal(pageType) {
+        $('#signUpFailMessage').hide()
+        $('#loginFailMessage').hide();
+        if(pageType == 'login') {
+            $("#login-header").show();
+            $("#signup-header").hide();
+            $("#login-in-form-content").show();
+            $("#sign-up-form-content").hide();
+            $("#login-page-header").show();
+            $("#signup-page-header").hide();
+        } else if(pageType == 'signup') {
+            $("#signup-header").show();
+            $("#login-header").hide();
+            $("#sign-up-form-content").show();
+            $("#login-in-form-content").hide();
+            $("#signup-page-header").show();
+            $("#login-page-header").hide();
+        }
+    }
 
 </script>
 <script src="/js/validation/jqBootstrapValidation.js" type="text/javascript"></script>
@@ -61,15 +192,21 @@
 <script type="text/javascript">
     $(document).ready(function() {
         var loginError = "";
-        if(loginError == 'true'){
+        var authenticationNeeded = "";
+        if(loginError == 'true') {
+            openAuthModal('login');
             $('#myModal').modal();
-            $('#loginFailMessage').css('display','block');
-        }else if(loginError=='exist'){
+            $('#loginFailMessage').show();
+        } else if(authenticationNeeded == 'true') {
+            openAuthModal('login');
             $('#myModal').modal();
-            $('#signUpFailMessage').css('display','block');
-        }else{
-            $('#loginFailMessage').css('display','none');
-            $('#signUpFailMessage').css('display','none');
+        } else if(loginError=='exist') {
+            openAuthModal('signup');
+            $('#myModal').modal();
+            $('#signUpFailMessage').show();
+        } else {
+            $('#loginFailMessage').hide();
+            $('#signUpFailMessage').hide();
         }
     });
 </script>
@@ -86,28 +223,32 @@
             <span class="icon-bar"></span>
         </button>
         <div class="navbar-collapse collapse">
+            
             <ul class="main-nav">
                 <li><a href="/create-wedding-website" id="createWebsiteHeader">Wedding Website</a></li>
                 <li><a href="/wedding-planning">Wedding Planning</a></li>
+                
                 <li><a href="http://www.shaadisaga.com/blog">Blog</a></li>
+            
+                
+                    <li> <a href="/vendorRegistration/index">List Your Business</a></li>
+                
                 
             </ul>
-
             
-                <ul class="main-nav">
-                    <li> <a href="/vendorRegistration/index">List Your Business</a></li>
-                </ul>
-            
+                <img src="/images/home/logo-landing.png" class="header-img">
             
             <div class="search-area">
-                <form action="/gifter/searchCoupleHeader" id="searchCoupleForm">
-                    <input type="text" class="form-control" name="searchText" id="searchText" placeholder="Search Couple">
+                <form action="/search/search" id="searchCoupleForm">
+                    <input type="text" class="form-control" name="searchText" id="searchText" placeholder="Search" onkeypress="searchCouple(event);">
                     <a href="javascript:void(0);" class="search-icon" onclick="searchCouple();"><span class="glyphicon glyphicon-search">&nbsp;</span></a>
                 </form>
             </div>
-            <div class="pull-right" style="padding-right: 50px;padding-top:15px;">
+            <div class="top-action-container">
                 
-                    <a href="javascript:void(0);" class="btn btn-n" data-toggle="modal" data-target="#myModal">Login / Sign Up</a>
+                    <a href="javascript:void(0);" onclick="openAuthModal('login')" class="btn btn-login" data-toggle="modal" data-target="#myModal">Login</a>
+                    <span class="partitionSpan">OR</span>
+                    <a href="javascript:void(0);" onclick="openAuthModal('signup')" class="btn btn-signup" data-toggle="modal" data-target="#myModal">Sign Up</a>
                 
                 
             </div>
@@ -127,20 +268,34 @@
 <input type="hidden" id="facebookAuthenticationUrl" name="facebookAuthenticationUrl" value="/facebookAuthentication/facebookLogin">
 <input type="hidden" id="googleAuthenticationUrl" name="googleAuthenticationUrl" value="/googleAuthentication/googleLogin">
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
+    <div class="modal-dialog login-modal">
         <div class="modal-content">
             <div class="modal-area">
                 <div class="modal-cont">
+                    <div class="modal-header">
+                        <div id="signup-header" style="display: none;">
+                            Already have an account?&nbsp;<a href="javascript:;" onclick="openAuthModal('login');">Login</a> <br>
+                            Are you a service provider?&nbsp;<a href="/vendorRegistration/index">Sign Up</a>
+                        </div>
+                        <div id="login-header" style="display: none;">
+                            New to ShaadiSaga?&nbsp;<a href="javascript:;" onclick="openAuthModal('signup');">Sign Up</a> <br>
+                            Are you a service provider?&nbsp;<a href="/vendorRegistration/login">Login</a>
+                        </div>
+                    </div>
                     <div class="modal-body">
-                        <h2>SignUp/LogIn</h2>
+                        
+                        <div class="content-header">
+                            <div id="login-page-header" style="display: none;">Login to your account</div>
+                            <div id="signup-page-header" style="display: none;">Create a new account</div>
+                        </div>
                         <div class="row">
-                            <div class="col-md-12">
-                                <div class="col-md-6 text-center">
+                            <div class="col-md-5" style="padding: 0px;">
+                                <div class="m-bottom10">
                                     <fb:login-button scope="email,publish_stream,manage_pages" onlogin="facebookLogin();" size="large">
-                                        FB CONNECT
+                                        Connect With Facebook
                                     </fb:login-button>
                                 </div>
-                                <div class="col-md-6 text-center">
+                                <div class="m-bottom10">
                                     
                                         <span id="signinButton">
                                             <span class="g-signin" data-callback="signinCallback" data-clientid="306447388886.apps.googleusercontent.com" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schemas.google.com/AddActivity" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profile.emails.read">
@@ -148,54 +303,21 @@
                                         </span>
                                     
                                 </div>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                                <div class="col-md-6">
-                                    <form class="form-horizontal" action="/home/signUp" method="POST" role="form">
-                                        <div class="form-group">
-                                            <h4 class="header-font">Sign Up</h4>
-                                        </div>
-                                        <div class="form-group">
-                                            <input type="text" id="signUpEmail" class="form-control" placeholder="Enter Email" name="email" onblur="$('#signUpFailMessage').hide()" data-validation-ajax-ajax="/home/checkEmailAvailability" required="">
-                                        </div>
-                                        <div class="form-group">
-                                            <input type="password" minlength="6" id="signUpPassword" class="form-control" placeholder="Password" name="password" required="">
-                                            <p class="help-block"></p>
-                                        </div>
-                                        <div class="form-group">
-                                            <input type="text" minlength="10" id="signUpMobile" class="form-control" placeholder="Phone" name="mobileNumber" required="">
-                                            <p class="help-block"></p>
-                                        </div>
-                                        <div class="form-group">
-                                            <select id="category" name="category" onchange="showUserType(this.value)" class="form-control" required="">
-                                                <option value="">What you want to do?</option>
-                                                <option value="Couple" id="couple">Create Wedding Website</option>
-                                                <option value="Invitation" id="invitation">Send Invitation</option>
-                                            </select>
-                                        </div>
-
-                                        <div id="userType" class="form-group">
-                                            <label for="purpose" class="col-md-4 control-label">You are</label>
-                                            <div class="col-md-8">
-                                                <select name="userType" id="purpose" class="form-control">
-                                                    <option value="BRIDE">Bride</option>
-                                                    <option value="GROOM">Groom</option>
-                                                </select>
-                                            </div>
-
-                                        </div>
-                                        <div class="form-group">
-                                            <button class="btn btn-large btn-primary" type="submit">Sign Up</button>
-                                        </div>
-                                    </form>
+                                <div class="social-status">
+                                    <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fshaadisaga&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId=623391031080231" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowtransparency="true"></iframe>
                                 </div>
-                                <div class="col-md-5 col-md-offset-1">
+                            </div>
+                            <div class="col-md-2" style="text-align: center;">
+                                <div class="section-separator" style="height: 315px;">
+                                    <div class="separation-text">OR</div>
+                                </div>
+                            </div>
+                            <div class="col-md-5">
+                                <div id="login-in-form-content" style="display: none;position: relative">
+                                    <div id="loginFailMessage" class="formError" style="display: none;opacity: 0.87; position: absolute; top: -30px; left: -15px; margin-top: 0px;">
+                                        <div class="formErrorContent">* Invalid Credentials.<br></div>
+                                    </div>
                                     <form class="form-horizontal" action="/j_spring_security_check" method="POST" role="form">
-                                        <div class="form-group">
-                                            <h4 class="header-font">Sign In</h4>
-                                        </div>
                                         <div class="form-group">
                                             <input type="email" class="form-control" id="logInEmail" placeholder="Enter Email" name="j_username" required="">
                                         </div>
@@ -216,16 +338,118 @@
                                         </div>
                                     </form>
                                 </div>
+                                <div id="sign-up-form-content" style="display: none;">
+                                    <form class="form-horizontal" action="/home/signUp" method="POST" role="form">
+                                        <div class="form-group" style="position: relative;">
+                                            <input type="text" id="signUpEmail" class="form-control" placeholder="Enter Email" name="email" onblur="$('#signUpFailMessage').hide()" data-validation-ajax-ajax="/home/checkEmailAvailability" required="">
+                                            <div id="signUpFailMessage" class="formError" style="display: none;opacity: 0.87; position: absolute; top: 25px; left: 0px; margin-top: 0px;">
+                                                <div class="formErrorArrow formErrorArrowBottom"><div class="line1"><!-- --></div><div class="line2"><!-- --></div><div class="line3"><!-- --></div><div class="line4"><!-- --></div><div class="line5"><!-- --></div><div class="line6"><!-- --></div><div class="line7"><!-- --></div><div class="line8"><!-- --></div><div class="line9"><!-- --></div><div class="line10"><!-- --></div></div>
+                                                <div class="formErrorContent">* User with same email already exist.<br></div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="password" minlength="6" id="signUpPassword" class="form-control" placeholder="Password" name="password" required="">
+                                            <p class="help-block"></p>
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="text" minlength="10" id="signUpMobile" class="form-control" placeholder="Phone" name="mobileNumber" required="">
+                                            <p class="help-block"></p>
+                                        </div>
+                                        <div class="form-group">
+                                            <select id="category" name="category" onchangei="showUserType(this.value)" onkeyupi="showUserType(this.value)" class="form-control" required="">
+                                                <option value="">What you want to do?</option>
+                                                <option value="Couple" id="couple">Create Wedding Website</option>
+                                                <option value="Invitation" id="invitation">Send Invitation</option>
+                                                
+                                            </select>
+                                        </div>
 
+                                        <div id="userType" class="form-group">
+                                            <select name="userType" id="purpose" class="form-control">
+                                                <option value="BRIDE">You are Bride</option>
+                                                <option value="GROOM">You are Groom</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group">
+                                            <button class="btn btn-large btn-primary" type="submit">Sign Up</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
                         </div>
-
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
 </div>
+
+
+<div class="modal fade" id="myModalNew" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog login-modal">
+        <div class="modal-content">
+            <div class="modal-area">
+                <div class="modal-cont">
+                    <div class="modal-header">
+                        You need to Login <span class="login-required-text"></span>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-md-5" style="padding: 0px;">
+                                <div class="m-bottom10">
+                                    <fb:login-button scope="email,publish_stream,manage_pages" onlogin="facebookLogin();" size="large">
+                                        Connect With Facebook
+                                    </fb:login-button>
+                                </div>
+                                <div class="m-bottom10">
+                                    
+                                        <span id="signinButton">
+                                            <span class="g-signin" data-callback="signinCallback" data-clientid="306447388886.apps.googleusercontent.com" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schemas.google.com/AddActivity" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profile.emails.read">
+                                            </span>
+                                        </span>
+                                    
+                                </div>
+                                <div class="social-status">
+                                    <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fshaadisaga&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId=623391031080231" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowtransparency="true"></iframe>
+                                </div>
+                            </div>
+                            <div class="col-md-2" style="text-align: center;">
+                                <div class="section-separator" style="height: 315px;">
+                                    <div class="separation-text">OR</div>
+                                </div>
+                            </div>
+                            <div class="col-md-5">
+                                <form class="form-horizontal" action="/j_spring_security_check" method="POST" role="form">
+                                    <div class="form-group">
+                                        <input type="hidden" value="" class="samePageLogin" name="redirectUrl">
+                                        <input type="email" class="form-control" id="logInEmail" placeholder="Enter Email" name="j_username" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" id="logInPassword" class="form-control" placeholder="Password" name="j_password" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>
+                                            <input type="checkbox" value="remember-me" name="_spring_security_remember_me"> Remember me
+                                        </label>
+                                    </div>
+                                    <div class="form-group">
+                                        <button class="btn btn-large btn-primary" type="submit">Sign In</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function setPageRedirectUrl(url, text) {
+        $(".samePageLogin").val(url);
+        $(".login-required-text").html(text);
+    }
+</script>
 <div class="container-fluid">
     <div class="row banner-area">
         <div class="col-sm-4 banner-logo"></div>
