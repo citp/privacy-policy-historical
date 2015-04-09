@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgaah.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226193455id_/http%3A//imgaah.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgaah.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409071954id_/http%3A//imgaah.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # imgaah.com » More Information » Privacy Policy
 
