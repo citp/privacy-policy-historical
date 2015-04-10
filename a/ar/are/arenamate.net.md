@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the arenamate.net privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116022758id_/http%3A//www.arenamate.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenamate.net privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410104530id_/http%3A//www.arenamate.net/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy // arenamate.net - Your WoW MoP S15 PvP Hub
-
-Last Update: **Oct 14, 2014 4:00:00 PM (PST)**
+# Privacy Policy // arenamate.net - Your WoW WoD S1 PvP Hub
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit arenamate.net, and how we safeguard your information. We never sell your personal information to third parties.
 
