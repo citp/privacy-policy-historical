@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualrecipes.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207125108id_/http%3A//visualrecipes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualrecipes.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410085332id_/http%3A//visualrecipes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Visual Recipes
 
