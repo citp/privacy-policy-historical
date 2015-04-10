@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ask-angels.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206090026id_/http%3A//www.ask-angels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask-angels.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410213325id_/http%3A//www.ask-angels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ask-Angels.com
 
-Ask-Angels is committed to protecting your privacy. This Privacy Policy applies to the Ask-Angels.com website and governs data collection and usage. This Privacy Policy, together with our [Terms of Use](http://www.ask-angels.com/terms-of-use/ "Terms of Use"), provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. By using the Ask-Angels.com website, you consent to the data practices described in this policy.
+Ask-Angels is committed to protecting your privacy. This Privacy Policy applies to the Ask-Angels.com website and governs data collection and usage. This Privacy Policy, together with our [Terms of Use](http://www.ask-angels.com/terms-of-use/), provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. By using the Ask-Angels.com website, you consent to the data practices described in this policy.
 
- **COLLECTION OF YOUR PERSONAL INFORMATION**
+**COLLECTION OF YOUR PERSONAL INFORMATION**
 
 Ask-Angels.com website collects personally identifiable information, such as your e-mail address, name, user name, home or work address or telephone number when you sign up for our website and access it. Ask-Angels.com also collects anonymous demographic information, which is not unique to you, such as your ZIP code and country.
 
@@ -14,7 +14,7 @@ Please remember that if you directly disclose personally identifiable informatio
 
 Protecting the privacy of young children is especially important. For that reason, Ask-Angels.com does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Website from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If Ask-Angels.com learns that personally identifiable information of persons below 13 years of age has been collected on the Website without verified parental consent, then Ask-Angels.com will take appropriate steps to delete this information.
 
- **USE OF YOUR PERSONAL INFORMATION**
+**USE OF YOUR PERSONAL INFORMATION**
 
 Ask-Angels.com collects and uses your personal information to operate the Ask-Angels.com website. We also use your personally identifiable information to inform you of other products or services available from Ask-Angels.com and its affiliates. We may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
@@ -24,15 +24,15 @@ Ask-Angels.com does not use or disclose sensitive personal information, such as 
 
 Ask-Angels.com keeps track of the websites and pages our customers visit within Ask-Angels.com, in order to determine what Ask-Angels.com services are the most popular. This data may be used to deliver customized content and advertising within Ask-Angels.com to customers whose behavior indicates that they are interested in a particular subject area.
 
- **DISCLOSING YOUR INFORMATION**
+**DISCLOSING YOUR INFORMATION**
 
 Ask-Angels.com website will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Ask-Angels.com or the site; (b) protect and defend the rights or property of Ask-Angels.com; and, (c) act under exigent circumstances to protect the personal safety of users of Ask-Angels.com, or the public.
 
- **THIRD PARTY LINKS**
+**THIRD PARTY LINKS**
 
 Ask-Angels.com may provide links to third-party websites for your convenience and information.We use third party APIs on Ask-Angels.com and share some information with those third party API provider for improved functionality of the website. These third party sites have their own privacy policies. We encourage you to review the privacy policies of websites you choose to link to from Ask-Angels.com so that you can understand how those websites collect, use and share your information. Ask-Angels.com is not responsible for the privacy policies or other content on websites outside of the Ask-Angels.com.
 
- **USE OF COOKIES**
+**USE OF COOKIES**
 
 Ask-Angels.com website may gather information about your general internet use by using cookies. Where used, these cookies are downloaded to your computer automatically. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. Ask-Angels.com website uses “cookies” to help you personalize your online experience.
 
@@ -44,7 +44,7 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 Third party links provided on our website may also use cookies, over which Ask-Angels.com has no control. Such cookies (if used) would be downloaded once you click on their advertisement banners on our website or visit their sites.
 
- **SECURITY OF YOUR PERSONAL INFORMATION**
+**SECURITY OF YOUR PERSONAL INFORMATION**
 
 Ask-Angels.com may transfer your personal information and submitted content that Ask-Angels.com collects from you to our main server for processing and storing. By submitting your personal data, you agree to this transfer, storing or processing. Ask-Angels.com will take all reasonable steps to make sure that your data is treated securely without any loss, misuse or alteration of information and in agreement with this Privacy Policy. Ask-Angels.com secures the information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.
 
@@ -60,6 +60,6 @@ Ask-Angels.com will occasionally update this Privacy Policy to reflect company a
 
 YOU MAY CHOOSE TO “OPT-OUT”/STOP RECEIVING OUR NEWSLETTER OR MARKETING EMAILS BY FOLLOWING THE UNSUBSCRIBE LINK INCLUDED IN THESE EMAILS OR BY SENDING AN E-MAIL TO [support@ask-angels.com](mailto:support@ask-angels.com).
 
- **CONTACT INFORMATION**
+**CONTACT INFORMATION**
 
 Ask-Angels.com welcomes your comments regarding this Privacy Policy. If you believe that Ask-Angels.com has not adhered to this Policy, please contact Ask-Angels.com at [support@ask-angels.com](mailto:support@ask-angels.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
