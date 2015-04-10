@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendin.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120034659id_/http%3A//www.trendin.com/content/privacy-policy-13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendin.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410125407id_/http%3A//www.trendin.com/content/privacy-policy-13) for the most accurate reproduction.*
 
 # Privacy Policy - Trendin
 
