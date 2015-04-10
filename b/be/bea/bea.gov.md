@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009014012id_/http%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410184840id_/http%3A//bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # BEA : Web Privacy Policy
 
@@ -12,9 +12,7 @@ Our Web server automatically collects default information logged by most servers
 
 The logs may be preserved indefinitely, and they may be used to prevent security breaches and to ensure the integrity of the data on our servers. 
 
-BEA uses "persistent cookies" on our Web site to gather information on Web site usage. BEA uses the Webtrends OnDemand service for trending our users’ activities online. This service does not collect any personally identifiable information, though it may use IP addresses to track what sites and search queries refer visitors to www.bea.gov. Traffic statistics are reported to us _anonymously and in the aggregate_ , and no information provided by Webtrends is traceable to any specific individual. 
-
-To opt-out of this tracking you can visit the [opt-out page](http://www.bea.gov/cookieOptOut.htm) which provides instruction and a link which disables our online Web trending software from tracking your online activity while visiting any www.bea.gov Web page. 
+BEA uses “persistent cookies” on our Web site to gather information on Web site usage. BEA uses the Google Analytics service for trending our users’ activities online. This service does not collect any personally identifiable information, though it may use IP addresses to track what sites and search queries refer visitors to [www.bea.gov](http://www.bea.gov/). Traffic statistics are reported to us  _anonymously and in the aggregate_ , and no information provided by Webtrends is traceable to any specific individual.
 
 BEA also uses “session cookies” for some interactive features on our site (for example, the [balance of payments](http://www.bea.gov/international/bp_web/) interactive feature and the ongoing ACSI surveys) that identify the visitor for the duration of a browsing session. Session cookies are deleted from our Web servers when your session ends. The survey uses a session cookie to track how many pages a particular visitor has clicked on. This ensures that a visitor has sufficiently browsed the site in order to adequately answer the survey and to prevent an individual from getting a survey multiple times in a single session. 
 
@@ -46,3 +44,9 @@ You have rights under the Privacy Act and the Freedom of Information Act. The Le
 
 
 Questions concerning our privacy policy may be addressed to [webmaster@bea.gov](mailto:webmaster@bea.gov). If you believe this site has not adhered to these principles, please notify us by e-mail at [webmaster@bea.gov](mailto:webmaster@bea.gov). 
+
+| 
+
+[Sign up](https://web.archive.org/_subscribe/ "This link will take you to another Web site.") for e-mail notifications.
+
+[Download](https://web.archive.org/exit_site.asp?link=/exit_site.asp?link=http://get.adobe.com/reader/ "This link will take you to another Web site.") the Acrobat Reader.
