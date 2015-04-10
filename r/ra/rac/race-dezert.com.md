@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the race-dezert.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111220158id_/https%3A//www.race-dezert.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the race-dezert.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410131526id_/https%3A//www.race-dezert.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | race-deZert.com
+# Privacy Policy - race-deZert.com
 
 race-dezert.com (RDC) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the RDC websites, you are accepting the practices outlined in this Privacy Policy.
 
