@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ssctet.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070441id_/http%3A//ssctet.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssctet.in privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410185214id_/http%3A//examzene.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SSCTET
+# Privacy Policy | Exam Zene
 
-This Privacy Policy governs the manner in which SSC TET collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://ssctet.in](http://ssctet.in/) website (“Site”). This privacy policy applies to the Site and all products and services offered by SSC TET.
+This Privacy Policy governs the manner in which SSC TET collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://examzene.net](http://examzene.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by SSC TET.
 
 **Personal identification information**
 
@@ -52,8 +52,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[SSC TET](http://ssctet.in/)  
-[http://ssctet.in](http://ssctet.in/)  
+[SSC TET](http://examzene.net/)  
+[http://examzene.net](http://examzene.net/)  
 428, East Patel Nagar,  
 +91 8930022200  
 nsgoyat(@)gmail(dot)com
