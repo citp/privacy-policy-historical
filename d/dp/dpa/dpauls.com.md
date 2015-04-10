@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpauls.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930205456id_/http%3A//dpauls.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpauls.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410073804id_/http%3A//dpauls.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | D.Pauls Travel & Tours
 
@@ -10,6 +10,8 @@ This statement describes and explains how we may collect and use information per
 3\. When you take part in surveys or provide us with feedback. 
 
 All data we collect about you will be held under Indian law. When you provide information through the site you will be providing it to us as a whole, and should be aware that it may be accessed from countries whose laws provide various levels of protection for personal data, not always equivalent to the level of protection that may be provided in your own country. We use your Internet Protocol [IP] address to help diagnose problems with our server and/or to administer our Web site. We will not pass on any information about you to any third parties. We will restrict access to any Confidential Information provided by you to our employees, consultants, representatives, advisors and agents who need to know such information for the purposes of approving, evaluating or otherwise participating in the process of providing services and ensure that such employees, consultants, representatives, advisors and agents are fully aware of and agree to be bound by the terms of this statement in writing, prior to disclosure of such information to them. Anyone who is on either our mailing or e-mailing lists may elect at any time not to receive any future promotional information from us, or to have their details suppressed from our mailing lists. 
+
+**D.Pauls Travel & Tours & its representatives can Call , SMS & Email with reference to your Travel enquiry. This consent will override any registration for DNC / NDNC.**
 
 ### Security
 
