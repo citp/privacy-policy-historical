@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whova.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018005316id_/http%3A//www.whova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whova.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410105352id_/http%3A//whova.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
