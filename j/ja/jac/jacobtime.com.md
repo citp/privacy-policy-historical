@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151152id_/http%3A//www.jacobtime.com/osc/privacy.php%3FosCsid%3D593a39a3d8c3f18dc16e6982d57c5499) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410041133id_/https%3A//www.jacobtime.com/osc/privacy.php) for the most accurate reproduction.*
 
 # Luxury Watches for Men and Women | JacobTime
+
+  * ## Your Privacy is important to us!
 
 **Our Commitment To Privacy**
 
@@ -10,13 +12,11 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This notice applies to all information collected or submitted on the JacobTime.com website. On some pages, you can order products, make requests, and register to receive materials. The type of personal information collected on these pages are: 
 
-  * Name 
-  * Address 
-  * Email address 
-  * Phone number 
-  * (etc.) 
-
-
+    * Name 
+    * Address 
+    * Email address 
+    * Phone number 
+    * (etc.) 
 
 **The Way We Use Information**
 
@@ -54,3 +54,6 @@ To protect your privacy and security, we will also take reasonable steps to veri
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@JacobTime.com](mailto:privacy@JacobTime.com) . 
+
+
+
