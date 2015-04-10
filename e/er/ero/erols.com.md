@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the erols.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218195912id_/http%3A//www.rcn.com/boston/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erols.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410053537id_/http%3A//www.rcn.com/dc-metro/privacy-policy) for the most accurate reproduction.*
 
-# RCN Boston | Policies & Disclaimers | Privacy Policy
+# RCN D.C. Metro | Policies & Disclaimers | Privacy Policy
 
 ### RCN Privacy Policy 
 
