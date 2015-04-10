@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the africanmanagers.org privacy policy that was archived on 2014-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141111001819id_/http%3A//www.africanmanagers.org/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the africanmanagers.org privacy policy that was archived on 2015-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150410075000id_/http%3A//www.africanmanagers.org/pages/privacy) for the most accurate reproduction.-->
 
-<html><head>
+<html ng-app="ami"><head>
 <title>African Management Initiative</title>
-<link href="images/favicon.ico" rel="shortcut icon">
-<link href="images/animated_favicon1.gif" rel="icon" type="image/gif">
-<link data-turbolinks-track="true" href="/assets/application-0ed87ce9139576d5479f3765bc2c9e17.css" media="all" rel="stylesheet">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script data-turbolinks-track="true" src="/assets/application-059e803998e45f7a6a79081c3f7437d5.js"></script>
+<link href="/favicon.png" rel="shortcut icon" type="image/png">
+<link href="/favicon.png" rel="icon" type="image/png">
+<link data-turbolinks-track="true" href="/assets/application-95c3f6333091a3ab7970a145d8d4be85.css" media="all" rel="stylesheet">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script data-turbolinks-track="true" src="/assets/application-de3dcea7e6bc73df8f38747f56803655.js"></script>
+<script src="http://www.africanmanagers.org:9292/faye/client.js"></script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="O0euiYhM13af+5/omZW+S8FMg4S6yBmjNU931u7MprY=" name="csrf-token">
+<meta content="vCgjVnu/q8vP0wMOpRiXNNi0TWI3v+9hI3OZZL6ZHmE=" name="csrf-token">
 <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 <script src="//cdn.sublimevideo.net/js/5so36itg.js"></script>
 <script>
@@ -47,7 +48,7 @@
 <nav class="navbar navbar-default navbar-fixed-top">
 <div class="container">
 <div class="navbar-header">
-<a class="navbar-brand beta" href="../">AMI</a>
+<a class="navbar-brand beta" href="/">AMI</a>
 <button class="navbar-toggle" data-target="#navbar-main" data-toggle="collapse" type="button">
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
@@ -56,14 +57,14 @@
 </div>
 <div class="navbar-collapse collapse" id="navbar-main">
 <ul class="nav navbar-nav navbar-right">
-<li>
+<li class="login-button">
 <div class="btn-group">
 <a class="dropdown-toggle" data-toggle="dropdown" type="button">Login</a>
 <ul class="dropdown-menu">
 <li><a href="/users/login">AMI</a></li>
-<li><a href="/users/auth/facebook">Facebook</a></li>
-<li><a href="/users/auth/linkedin">Linkedin</a></li>
-<li><a href="/users/auth/google_oauth2">Google+</a></li>
+<li><a href="/users/auth/facebook?type=log-in">Facebook</a></li>
+<li><a href="/users/auth/linkedin?type=log-in">Linkedin</a></li>
+<li><a href="/users/auth/google_oauth2?type=log-in">Google+</a></li>
 </ul>
 </div>
 </li>
@@ -75,14 +76,12 @@
 <li><a href="/all/courses">Courses</a></li>
 <li><a href="/pages/products">Products</a></li>
 <li><a href="/pages/features">Features</a></li>
-<li><a href="/pages/search">Search</a></li>
-<!-- %li= link_to "Resources", pages_resources_path -->
 </ul>
 </div>
 </div>
 </nav>
 
-<div ng-app="courseApp">
+<div id="content">
 <div class="container" id="privacyPage">
 <h1>Privacy Policy</h1>
 <h2>Introduction</h2>
@@ -160,6 +159,7 @@ July 7, 2014
 </div>
 
 </div>
+<div class="container-fluid" id="footer">
 <div class="container-fluid empowerBottom">
 <p>
 Empower Yourself.
@@ -167,18 +167,18 @@ Empower Yourself.
 <!-- = link_to "Sign Up Now", new_user_registration_path -->
 </p>
 </div>
-<div class="container-fluid" id="footer">
 <div class="container">
 <nav class="navbar navbar-default">
 <ul class="nav nav-justified">
 <!-- %li= link_to "Press", pages_press_path -->
 <!-- %li= link_to "Contact", new_contact_path -->
 <li><a href="/pages/about">About</a></li>
+<li><a href="/pages/products">Products</a></li>
 <li><a href="/pages/press">Press</a></li>
 <li><a href="/pages/privacy">Privacy</a></li>
 <li><a href="/pages/terms">Terms</a></li>
 <li><a href="/pages/faqs">FAQ</a></li>
-<!-- %li= link_to "Support", pages_support_path -->
+<li><a href="/contact/new">Support</a></li>
 <li><a href="/contact/new">Contact</a></li>
 </ul>
 <ul class="socialIcons">
