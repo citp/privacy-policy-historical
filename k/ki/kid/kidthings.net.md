@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidthings.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115343id_/http%3A//kidthings.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidthings.net privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410114404id_/http%3A//kidthings.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kid Things
 
