@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216142542id_/http%3A//www.investmentnews.com/article/20010101/STATIC/101010738) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410052715id_/http%3A//www.investmentnews.com/article/20010101/STATIC/101010738) for the most accurate reproduction.*
 
 # Privacy Policy
 
