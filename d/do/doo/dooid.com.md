@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dooid.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123183104id_/http%3A//pixelhub.me/home/html/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dooid.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410105429id_/http%3A//pixelhub.me/home/html/legal.htm) for the most accurate reproduction.*
 
 # Build a beautiful Social Media Website.
 
-[ ](https://web.archive.org/web/20141123183104id_/http%3A//pixelhub.me/home/index.php)
+[ ](https://web.archive.org/web/20150410105429id_/http%3A//pixelhub.me/home/index.php)
 
 In order to use the website services provided by pixelhub.me, you must first agree to the Terms of use. 
 
@@ -110,4 +110,4 @@ Calle el Cano 3, p2, 2ºb
 Spain  
 [contact](mailto:higuys@dooid.com)
 
-[back](https://web.archive.org/web/20141123183104id_/http%3A//pixelhub.me/home/index.php) | © 2014 | made by DooID in Europe | [contact](mailto:higuys@pixelhub.me)
+[back](https://web.archive.org/web/20150410105429id_/http%3A//pixelhub.me/home/index.php) | © 2014 | made by DooID in Europe | [contact](mailto:higuys@pixelhub.me)
