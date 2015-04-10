@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationallgbtmuseum.org privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210103947id_/http%3A//nationallgbtmuseum.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationallgbtmuseum.org privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411010733id_/http%3A//nationallgbtmuseum.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
