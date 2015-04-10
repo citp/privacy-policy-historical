@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ordervenue.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126025937id_/http%3A//ordervenue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordervenue.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410070213id_/http%3A//ordervenue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,3 +22,5 @@ Any of the information we collect from you may be used in one of the following w
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
 ; To process transactions
+
+**You authorise OrderVenue.com to transfer information regarding your orders and promotions through SMS by accepting these Term's & Conditions.**
