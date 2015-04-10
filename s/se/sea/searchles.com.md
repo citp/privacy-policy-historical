@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchles.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228215602id_/http%3A//twicsy.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchles.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410123644id_/http%3A//twicsy.com/s/privacy.html) for the most accurate reproduction.*
 
 # Twicsy Privacy Policy | Twicsy - Twitter Picture Discovery
 
