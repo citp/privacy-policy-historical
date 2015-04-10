@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anime4fun.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217034043id_/http%3A//www.anime4fun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime4fun.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411005544id_/http%3A//www.anime4fun.com/privacy) for the most accurate reproduction.*
 
 # None
 
