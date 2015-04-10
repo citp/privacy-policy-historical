@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africanmanagers.org privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111001819id_/http%3A//www.africanmanagers.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanmanagers.org privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410075000id_/http%3A//www.africanmanagers.org/pages/privacy) for the most accurate reproduction.*
 
 # African Management Initiative
 
@@ -72,5 +72,3 @@ This Policy was last updated on 28th June, 2014. AMI will inform you of updates 
 If you have any questions about our Privacy Policy, please contact us by e-mailing us at [support@africanmanagers.org](mailto:support@africanmanagers.org) or writing to: AMI – African Management Initiative, 24 Dr. Joseph Rivere Street, Port Louis, Mauritius. 
 
 **Effective Date:** July 7, 2014 
-
-Empower Yourself. 
