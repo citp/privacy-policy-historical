@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonescoop.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022080432id_/http%3A//www.phonescoop.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonescoop.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410030510id_/http%3A//www.phonescoop.com/site/privacy.php) for the most accurate reproduction.*
 
 # Phone Scoop Privacy Policy (Phone Scoop)
 
