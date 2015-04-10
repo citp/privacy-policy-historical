@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unionbankng.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072652id_/http%3A//www.unionbankng.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionbankng.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410033732id_/http%3A//www.unionbankng.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D207%26Itemid%3D427) for the most accurate reproduction.*
 
 # Privacy Policy
 
