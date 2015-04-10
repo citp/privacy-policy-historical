@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3naija.com.ng privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101035305id_/http%3A//www.mp3naija.com.ng/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3naija.com.ng privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410125146id_/http%3A//www.mp3naija.com.ng/welcome/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
