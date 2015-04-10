@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakthroughbasketball.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909005810id_/https%3A//www.breakthroughbasketball.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakthroughbasketball.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410213417id_/https%3A//www.breakthroughbasketball.com/privacypolicy.html) for the most accurate reproduction.*
 
 # BreakthroughBasketball.com Privacy Policy
 
@@ -75,7 +75,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information:**
 
-You can access all your personally identifiable information that we collect online and maintain by using [this form to contact us](http://www.breakthroughbasketball.com/contact-us.asp). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+You can access all your personally identifiable information that we collect online and maintain by using [this form to contact us](https://web.archive.org/contact-us.asp). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **Changes to Privacy Statement:**
 
@@ -83,6 +83,6 @@ If we decide to change our privacy statement, we will post those changes here so
 
 **How to Contact Us:**
 
-If at any time, you have questions or concerns about the BreakthroughBasketball.com's privacy statement, please feel free to contact us by visiting this [page](http://www.breakthroughbasketball.com/contact-us.asp).
+If at any time, you have questions or concerns about the BreakthroughBasketball.com's privacy statement, please feel free to contact us by visiting this [page](https://web.archive.org/contact-us.asp).
 
 _**Effective June 20, 2007**_
