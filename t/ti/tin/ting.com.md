@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ting.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221032251id_/http%3A//privacy.truste.com/privacy-policy/Ting-Inc./certified/fd3a9997-c077-4f62-bf40-1f242107dd58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ting.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410125356id_/http%3A//privacy.truste.com/privacy-policy/Ting-Inc./certified/fd3a9997-c077-4f62-bf40-1f242107dd58) for the most accurate reproduction.*
 
 # Welcome to ting.com
 
