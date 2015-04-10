@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minoritynurse.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205132738id_/http%3A//www.minoritynurse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minoritynurse.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410063103id_/http%3A//minoritynurse.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Minority Nurse
+# Privacy Policy -
 
 **What information do we collect?**
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, place an order, s
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
 **What do we use your information for?**
 
@@ -39,7 +39,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 **California Online Privacy Protection Act Compliance**
 
@@ -73,7 +73,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 11 West 42nd Street, 15th Floor C/o Springer Publishing  
 New York, New York 10036  
 United Stated  
-[admin@minoritynurse.com](mailto:admin@minoritynurse.com)
+[support@minoritynurse.com](mailto:support@minoritynurse.com)
 
 **Privacy Policy Customer Pledge**
 
