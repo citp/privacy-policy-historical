@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the target.ca privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704060030id_/http%3A//www.target.ca/en/privacy%3Flnk%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.ca privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411184313id_/http%3A//www.target.ca/en/privacy%3Flnk%3Dfnav) for the most accurate reproduction.*
 
-# Target.ca | privacy policy
+# privacy policy | Target Canada
 
 ## Introduction
 
@@ -42,7 +42,7 @@ Types of personal information we collect may include:
 
 ## Information Automatically Collected Online
 
-Target uses cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with Target through your computer or mobile device. For example, the information may include the pages you visit on our site, which web address you came from, and the type of browser you are using. Target also uses web beacons or similar technologies to collect certain information when you receive and open e-mail communications from us. For example, the information may include the date/time you first opened our e-mail to you, the number of times it was opened, the number of click-throughs on any links in our e-mail to you. This information helps us customize your website experience and make our marketing messages more relevant and effective. We also use this information for internal reporting and analysis purposes, such as how you are using our website and performance of our marketing efforts. 
+Target uses cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with Target through your computer or mobile device. For example, the information may include the pages you visit on our site, which web address you came from, and the type of browser you are using. Target uses service providers to assist with collecting and analyzing this type of information, including Google Analytics (see [ www.google.com/policies/privacy/partners/ ](http://www.google.com/policies/privacy/partners/) for more information). Target also uses web beacons or similar technologies to collect certain information when you receive and open e-mail communications from us. For example, the information may include the date/time you first opened our e-mail to you, the number of times it was opened, the number of click-throughs on any links in our e-mail to you. This information helps us customize your website experience and make our marketing messages more relevant and effective. We also use this information for internal reporting and analysis purposes, such as how you are using our website and performance of our marketing efforts. 
 
 Target allows service providers and third-party companies to collect certain information when you visit our websites and to use that information to serve ads for Target products or services or other companies' products or services when you visit target.ca or other websites. The information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) is used during your visits to Target's websites and other websites to provide advertisements about products and services that also may be of interest to you. These parties typically use a cookie or a web beacon to collect this information. To learn more about this behavioural advertising practice or to manage your choices (for example, opt in or opt out) for this type of advertising, you can visit the [ Digital Advertising Alliance of Canada  ](http://youradchoices.ca/ "open in a new window") website. 
 
@@ -199,4 +199,4 @@ Our website may offer links to other sites which have their own privacy policies
 
 We may change or add to this Privacy Policy from time to time, so we encourage you to review it periodically. Revisions may reflect changes in how we collect, use, share and protect your personal information, as well as changes in our legal or regulatory obligations. The Privacy Policy posted on [ target.ca ](http://www.target.ca/) is the one currently in effect. To help you keep track, we include the date of our most recent updates. 
 
-Last Updated: July 1, 2014
+Last Updated: July 24, 2014
