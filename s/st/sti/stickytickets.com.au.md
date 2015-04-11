@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickytickets.com.au privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702151738id_/https%3A//www.stickytickets.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickytickets.com.au privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411144822id_/https%3A//www.stickytickets.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Sticky Tickets
 
@@ -31,7 +31,7 @@ We will not disclose any of your personal information to a third party, unless:
   * we are required to do so by a Court of competent jurisdiction or government regulation;
   * our terms and conditions state that we will;
   * disclosure is necessary to prevent or lessen a serious threat to the health or safety of an individual or the public, as ascertained by Sticky Tickets; or
-  * it is necessary for Sticky Tickets to disclose information for the purposes of investigating or reporting to relevant authorities a reasonably suspected unlawful activity that has been, is being, or may be committed.
+  * it is necessary for Sticky Tickets to disclose information for the purposes of investigating or reporting to relevant authorities a reasonably suspected unlawful activity that has been, is being, or may be committed. 
 
 
 
