@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istoreindia.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801142834id_/http%3A//www.ril.com/downloads/pdf/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istoreindia.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412003849id_/http%3A//www.ril.com/downloads/pdf/privacypolicy.pdf) for the most accurate reproduction.*
 
 # 
 
