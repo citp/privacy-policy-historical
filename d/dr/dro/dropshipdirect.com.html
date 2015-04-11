@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the dropshipdirect.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121035730id_/http%3A//dropshipdirect.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dropshipdirect.com privacy policy that was archived on 2015-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150411070809id_/http%3A//dropshipdirect.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" prefix="og: http://ogp.me/ns#" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36"><head>
 		
 
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAAUFZVGwcCUFZRDgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 	<title>
 	Your Privacy - Dropship Direct : Wholesale Distribution &amp; Dropship Inventory Data	</title>
@@ -23,7 +23,7 @@
 	
 	
 	<style type="text/css" media="screen">.mymail-form{margin-bottom:20px;}.mymail-form .input, .mymail-form .mymail-form-info{width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}.mymail-form label{line-height:1.6em;}.mymail-form li{list-style:none !important;margin-left:0;}.mymail-form label .required{color:#f33;}.mymail-form input.required{color:inherit;}.mymail-form .mymail-email{}.mymail-form .mymail-firstname{}.mymail-form .mymail-lastname{}.mymail-form .mymail-lists-wrapper ul{list-style:none;margin-left:0;}.mymail-form .mymail-lists-wrapper ul li{margin-left:0;}.mymail-form .mymail-list-description{color:inherit;display:block;margin-left:25px;font-size:0.8em;}.mymail-form .mymail-form-info{display:none;border-radius:2px;padding:5px;margin-bottom:4px;color:#fff;}.mymail-form .error input{border:1px solid #f33;}.mymail-form .mymail-form-info.error{background:#f33;}.mymail-form .mymail-form-info ul li{color:inherit;margin-left:0;}.mymail-form .mymail-form-info.success{background-color: #24890D;}.mymail-form .mymail-form-info p{margin-bottom:0;}.mymail-form .mymail-form-info ul{list-style-type:circle;margin-left:0;margin-bottom:0;}.mymail-form .submit-button{margin:6px 0 0;}.mymail-form .submit-button:active{margin:7px 1px 1px;}.mymail-form .mymail-loader{display: none;width:16px;height:16px;margin:4px;vertical-align: middle;background-image:url('http://dropshipdirect.com/wp-content/plugins/myMail/assets/img/loading.gif');background-repeat:no-repeat;background-position:center center;}.mymail-form .mymail-loader.loading{display: inline-block;}@media only screen and (-webkit-min-device-pixel-ratio: 2),only screen and (min--moz-device-pixel-ratio: 2),only screen and (-o-min-device-pixel-ratio: 2/1),only screen and (min-device-pixel-ratio: 2),only screen and ( min-resolution: 192dpi),only screen and ( min-resolution: 2dppx){ .mymail-form .mymail-loader{background-image:url('http://dropshipdirect.com/wp-content/plugins/myMail/assets/img/loading_2x.gif');background-size:100%;}}</style>
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://dropshipdirect.com/about/privacy">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -33,15 +33,27 @@
 <meta property="og:site_name" content="Dropship Direct : Wholesale Distribution &amp; Dropship Inventory Data">
 <!-- / Yoast WordPress SEO plugin. -->
 
-<meta property="og:title" content="Your Privacy"><meta property="og:type" content="article"><meta property="og:url" content="http://dropshipdirect.com/about/privacy"><meta property="og:site_name" content="Dropship Direct : Wholesale Distribution &amp; Dropship Inventory Data"><meta property="og:image" content="http://dropshipdirect.com/wp-content/uploads/2014/09/dropshipdirect-logostd.png"><link rel="stylesheet" id="fp_webfont_Lobster-css" href="http://fonts.googleapis.com/css?family=Lobster" type="text/css" media="all">
+<meta property="og:title" content="Your Privacy"><meta property="og:type" content="article"><meta property="og:url" content="http://dropshipdirect.com/about/privacy"><meta property="og:site_name" content="Dropship Direct : Wholesale Distribution &amp; Dropship Inventory Data"><meta property="og:description" content="Last Updated: 05/09/13
+
+Your credit card and company information is always safe with DropShipDirect.com - we guarantee it. DSDI INC respects and protects your privacy.
+
+
+
+
+
+
+
+Use of Your Personal and/or Company Information
+We do not sell or rent our customer information to any outside party under any circumstances. We do not reveal your e-mail address or other personal"><meta property="og:image" content="http://dropshipdirect.com/wp-content/uploads/2014/09/dropshipdirect-logostd.png"><link rel="stylesheet" id="fp_webfont_Lobster-css" href="http://fonts.googleapis.com/css?family=Lobster" type="text/css" media="all">
 <link rel="stylesheet" id="fp_frontend_css-css" href="http://dropshipdirect.com/wp-content/plugins/fontpress/custom_files/frontend.css" type="text/css" media="all">
 <link rel="stylesheet" id="otw_sbm.css-css" href="http://dropshipdirect.com/wp-content/plugins/otw_sbm/css/otw_sbm.css" type="text/css" media="all">
-<link rel="stylesheet" id="layerslider-css" href="http://dropshipdirect.com/wp-content/plugins/LayerSlider/static/css/layerslider.css" type="text/css" media="all">
-<link rel="stylesheet" id="ls-google-fonts-css" href="http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&amp;subset=latin" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox2-css" href="http://dropshipdirect.com/wp-content/plugins/arscode-ninja-popups/fancybox2/jquery.fancybox.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="snp_styles_reset-css" href="http://dropshipdirect.com/wp-content/plugins/arscode-ninja-popups/themes/reset.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="snp_styles_newtheme6-css" href="http://dropshipdirect.com/wp-content/plugins/arscode-ninja-popups/themes/newtheme6/css/newtheme6.css" type="text/css" media="all">
 <link rel="stylesheet" id="fcbk_stylesheet-css" href="http://dropshipdirect.com/wp-content/plugins/facebook-button-plugin/css/style.css" type="text/css" media="all">
 <link rel="stylesheet" id="jcountdown-css" href="http://dropshipdirect.com/wp-content/plugins/jcountdown_mega_package_for_wordpress/script/jcountdown/jcountdown.css" type="text/css" media="all">
-<link rel="stylesheet" id="rs-plugin-settings-css" href="http://dropshipdirect.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.6.0" type="text/css" media="all">
-<style type="text/css">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://dropshipdirect.com/wp-content/plugins/revslider/rs-plugin/css/settings.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
 .avada_huge_white_text{position:absolute; color:#ffffff; font-size:130px; line-height:45px; font-family:museoslab500regular;   text-shadow:0px 2px 5px rgba(0,0,0,1)}.avada_huge_black_text{position:absolute; color:#000000; font-size:130px; line-height:45px; font-family:museoslab500regular}.avada_big_black_text{position:absolute; color:#333333; font-size:42px; line-height:45px; font-family:museoslab500regular}.avada_big_white_text{position:absolute; color:#fff; font-size:42px; line-height:45px; font-family:museoslab500regular}.avada_big_black_text_center{position:absolute; color:#333333; font-size:38px; line-height:45px; font-family:museoslab500regular;   text-align:center}.avada_med_green_text{position:absolute; color:#A0CE4E; font-size:24px; line-height:24px; font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_small_gray_text{position:absolute; color:#747474; font-size:13px; line-height:20px; font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_small_white_text{position:absolute; color:#fff; font-size:13px; line-height:20px; font-family:PTSansRegular,Arial,Helvetica,sans-serif;  text-shadow:0px 2px 5px rgba(0,0,0,0.5); font-weight:700}.avada_block_black{position:absolute; color:#A0CE4E; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#000;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_green{position:absolute; color:#000; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#A0CE4E;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_white{position:absolute; color:#fff; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#000;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_white_trans{position:absolute; color:#fff; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:rgba(0,0,0,0.6);  font-family:PTSansRegular,Arial,Helvetica,sans-serif}.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}.avada_huge_white_text{position:absolute; color:#ffffff; font-size:130px; line-height:45px; font-family:museoslab500regular;   text-shadow:0px 2px 5px rgba(0,0,0,1)}.avada_huge_black_text{position:absolute; color:#000000; font-size:130px; line-height:45px; font-family:museoslab500regular}.avada_big_black_text{position:absolute; color:#333333; font-size:42px; line-height:45px; font-family:museoslab500regular}.avada_big_white_text{position:absolute; color:#fff; font-size:42px; line-height:45px; font-family:museoslab500regular}.avada_big_black_text_center{position:absolute; color:#333333; font-size:38px; line-height:45px; font-family:museoslab500regular;   text-align:center}.avada_med_green_text{position:absolute; color:#A0CE4E; font-size:24px; line-height:24px; font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_small_gray_text{position:absolute; color:#747474; font-size:13px; line-height:20px; font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_small_white_text{position:absolute; color:#fff; font-size:13px; line-height:20px; font-family:PTSansRegular,Arial,Helvetica,sans-serif;  text-shadow:0px 2px 5px rgba(0,0,0,0.5); font-weight:700}.avada_block_black{position:absolute; color:#A0CE4E; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#000;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_green{position:absolute; color:#000; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#A0CE4E;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_white{position:absolute; color:#fff; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#000;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_white_trans{position:absolute; color:#fff; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:rgba(0,0,0,0.6);  font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_huge_white_text{position:absolute; color:#ffffff; font-size:130px; line-height:45px; font-family:museoslab500regular;   text-shadow:0px 2px 5px rgba(0,0,0,1)}.avada_huge_black_text{position:absolute; color:#000000; font-size:130px; line-height:45px; font-family:museoslab500regular}.avada_big_black_text{position:absolute; color:#333333; font-size:42px; line-height:45px; font-family:museoslab500regular}.avada_big_white_text{position:absolute; color:#fff; font-size:42px; line-height:45px; font-family:museoslab500regular}.avada_big_black_text_center{position:absolute; color:#333333; font-size:38px; line-height:45px; font-family:museoslab500regular;   text-align:center}.avada_med_green_text{position:absolute; color:#A0CE4E; font-size:24px; line-height:24px; font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_small_gray_text{position:absolute; color:#747474; font-size:13px; line-height:20px; font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_small_white_text{position:absolute; color:#fff; font-size:13px; line-height:20px; font-family:PTSansRegular,Arial,Helvetica,sans-serif;  text-shadow:0px 2px 5px rgba(0,0,0,0.5); font-weight:700}.avada_block_black{position:absolute; color:#A0CE4E; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#000;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_green{position:absolute; color:#000; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#A0CE4E;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_white{position:absolute; color:#fff; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#000;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_white_trans{position:absolute; color:#fff; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:rgba(0,0,0,0.6);  font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_huge_white_text{position:absolute; color:#ffffff; font-size:130px; line-height:45px; font-family:museoslab500regular;   text-shadow:0px 2px 5px rgba(0,0,0,1)}.avada_huge_black_text{position:absolute; color:#000000; font-size:130px; line-height:45px; font-family:museoslab500regular}.avada_big_black_text{position:absolute; color:#333333; font-size:42px; line-height:45px; font-family:museoslab500regular}.avada_big_white_text{position:absolute; color:#fff; font-size:42px; line-height:45px; font-family:museoslab500regular}.avada_big_black_text_center{position:absolute; color:#333333; font-size:38px; line-height:45px; font-family:museoslab500regular;   text-align:center}.avada_med_green_text{position:absolute; color:#A0CE4E; font-size:24px; line-height:24px; font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_small_gray_text{position:absolute; color:#747474; font-size:13px; line-height:20px; font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_small_white_text{position:absolute; color:#fff; font-size:13px; line-height:20px; font-family:PTSansRegular,Arial,Helvetica,sans-serif;  text-shadow:0px 2px 5px rgba(0,0,0,0.5); font-weight:700}.avada_block_black{position:absolute; color:#A0CE4E; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#000;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_green{position:absolute; color:#000; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#A0CE4E;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_white{position:absolute; color:#fff; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:#000;font-family:PTSansRegular,Arial,Helvetica,sans-serif}.avada_block_white_trans{position:absolute; color:#fff; text-shadow:none; font-size:22px; line-height:34px; padding:0px 10px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:rgba(0,0,0,0.6);  font-family:PTSansRegular,Arial,Helvetica,sans-serif}@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,700,600);.tp-caption.medium_bg_red a{color:#fff;  text-decoration:none}.tp-caption.medium_bg_red a:hover{color:#fff;  text-decoration:underline}.tp-caption.roundedimage img{-webkit-border-radius:300px;  -moz-border-radius:300px;  border-radius:300px}.tp-bullets.simplebullets.navbar{height:35px;  padding:0px 0px}.tp-bullets.simplebullets .bullet{cursor:pointer;  position:relative !important;  background:rgba(0,0,0,0.5) !important;  -webkit-border-radius:10px;  border-radius:10px;  -webkit-box-shadow:none;  -moz-box-shadow:none;  box-shadow:none;  width:6px !important;  height:6px !important;  border:5px solid rgba(0,0,0,0) !important;  display:inline-block;  margin-right:2px !important;  margin-bottom:14px !important;  -webkit-transition:background-color 0.2s,border-color 0.2s;  -moz-transition:background-color 0.2s,border-color 0.2s;  -o-transition:background-color 0.2s,border-color 0.2s;  -ms-transition:background-color 0.2s,border-color 0.2s;  transition:background-color 0.2s,border-color 0.2s;  float:none !important}.tp-bullets.simplebullets .bullet.last{margin-right:0px}.tp-bullets.simplebullets .bullet:hover,.tp-bullets.simplebullets .bullet.selected{-webkit-box-shadow:none;  -moz-box-shadow:none;  box-shadow:none;background:rgba(255,255,255,1) !important;width:6px !important;  height:6px !important;  border:5px solid rgba(0,0,0,1) !important}.tparrows:before{font-family:'revicons';color:#fff;  font-style:normal;  font-weight:normal;  speak:none;  display:inline-block;  text-decoration:inherit;  margin-right:0;  margin-top:9px;  text-align:center;  width:40px;  font-size:20px}.tparrows{cursor:pointer;  background:rgba(0,0,0,0.5) !important;  -webkit-border-radius:5px;  border-radius:5px;  width:40px !important;  height:40px !important}.tparrows:hover{color:#fff}.tp-leftarrow:before{content:'\e824'}.tp-rightarrow:before{content:'\e825'}.tparrows.tp-rightarrow:before{margin-left:1px}.tparrows:hover{background:rgba(0,0,0,1) !important}
 </style>
 <link rel="stylesheet" id="rotatingtweets-css" href="http://dropshipdirect.com/wp-content/plugins/rotatingtweets/css/style.css" type="text/css" media="all">
@@ -50,13 +62,14 @@
 <link rel="stylesheet" id="ubermenu-basic-css" href="http://dropshipdirect.com/wp-content/plugins/ubermenu/standard/styles/basic.css" type="text/css" media="all">
 <link rel="stylesheet" id="ubermenu-flat-tomato-bar-dark-css" href="http://dropshipdirect.com/wp-content/plugins/ubermenu-skins-flat/skins/tomato-bar-dark.css" type="text/css" media="all">
 <link rel="stylesheet" id="mailchimp-for-wp-checkbox-css" href="http://dropshipdirect.com/wp-content/plugins/mailchimp-for-wp/assets/css/checkbox.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="mailchimp-for-wp-form-theme-dark-css" href="http://dropshipdirect.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-theme-dark.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="avada-stylesheet-css" href="http://dropshipdirect.com/wp-content/themes/Avada/style.css" type="text/css" media="all">
 <!--[if lte IE 9]>
 <link rel='stylesheet' id='avada-shortcodes-css'  href='http://dropshipdirect.com/wp-content/themes/Avada/shortcodes.css' type='text/css' media='all' />
 <![endif]-->
 <link rel="stylesheet" id="fontawesome-css" href="http://dropshipdirect.com/wp-content/themes/Avada/fonts/fontawesome/font-awesome.css" type="text/css" media="all">
-<link rel="stylesheet" id="avada-IE-fontawesome-css" href="http://dropshipdirect.com/wp-content/themes/Avada/fonts/fontawesome/font-awesome.css" type="text/css" media="all">
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='avada-IE-fontawesome-css'  href='http://dropshipdirect.com/wp-content/themes/Avada/fonts/fontawesome/font-awesome.css' type='text/css' media='all' />
+<![endif]-->
 <link rel="stylesheet" id="avada-animations-css" href="http://dropshipdirect.com/wp-content/themes/Avada/css/animations.css" type="text/css" media="all">
 <!--[if lte IE 8]>
 <link rel='stylesheet' id='avada-IE8-css'  href='http://dropshipdirect.com/wp-content/themes/Avada/css/ie8.css' type='text/css' media='all' />
@@ -65,18 +78,77 @@
 <link rel='stylesheet' id='avada-IE-css'  href='http://dropshipdirect.com/wp-content/themes/Avada/css/ie.css' type='text/css' media='all' />
 <![endif]-->
 <link rel="stylesheet" id="avada-media-css" href="http://dropshipdirect.com/wp-content/themes/Avada/css/media.css" type="text/css" media="all">
-<script type="text/javascript" src="http://dropshipdirect.com/wp-includes/js/jquery/jquery.js"></script>
+<link rel="stylesheet" id="mailchimp-for-wp-form-theme-dark-css" href="http://dropshipdirect.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-theme-dark.min.css" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://dropshipdirect.com/wp-includes/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
-<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js"></script>
-<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/LayerSlider/static/js/greensock.js"></script>
-<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js"></script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/facebook-button-plugin/js/script.js"></script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/jcountdown_mega_package_for_wordpress/script/jcountdown/jquery.jcountdown.min.js"></script>
-<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?rev=4.6.0"></script>
-<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.6.0"></script>
+<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
 <meta property="og:title" content="Your Privacy">
-<meta property="og:site_name" content="Dropship Direct : Wholesale Distribution &amp; Dropship Inventory Data">
+<meta property="og:site_name" content="Dropship Direct : Wholesale Distribution &amp; Dropship Inventory Data">		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = 'e77718e336';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://dropshipdirect.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<style type="text/css">.mc4wp-form input[name="_mc4wp_required_but_not_really"] { display: none !important; }</style>
 <!-- UberMenu CSS - Controlled through UberMenu Options Panel 
 ================================================================ -->
 <style type="text/css" id="ubermenu-style-generator-css">
@@ -153,7 +225,7 @@
 	
 	// Combine inline styles for body tag
 	jQuery('body').each( function() {	
-		var combined_styles = '<style>';
+		var combined_styles = '<style type="text/css">';
 
 		jQuery( this ).find( 'style' ).each( function() {
 			combined_styles += jQuery(this).html();
@@ -172,7 +244,7 @@
 	<script type="text/javascript">
 	/*@cc_on
 		@if (@_jscript_version == 10)
-			document.write('<style type="text/css">.search input,#searchform input {padding-left:10px;} .avada-select-parent .select-arrow,.select-arrow{height:33px;background-color:#ffffff;}.search input{padding-left:5px;}header .tagline{margin-top:3px;}.star-rating span:before {letter-spacing: 0;}.avada-select-parent .select-arrow,.gravity-select-parent .select-arrow,.wpcf7-select-parent .select-arrow,.select-arrow{background: #fff;}.star-rating{width: 5.2em;}.star-rating span:before {letter-spacing: 0.1em;}</style>');
+			document.write('<style type="text/css">.search input,.searchform input {padding-left:10px;} .avada-select-parent .select-arrow,.select-arrow{height:33px;background-color:#ffffff;}.search input{padding-left:5px;}header .tagline{margin-top:3px;}.star-rating span:before {letter-spacing: 0;}.avada-select-parent .select-arrow,.gravity-select-parent .select-arrow,.wpcf7-select-parent .select-arrow,.select-arrow{background: #fff;}.star-rating{width: 5.2em;}.star-rating span:before {letter-spacing: 0.1em;}</style>');
 		@end
 	@*/
 
@@ -181,81 +253,147 @@
 	</script>
 
 		<style type="text/css">
-		Avada_3.6.2{color:green;}
+		Avada_3.7.4{color:green;}
 	
 	
 		html, body { background-color:#ffffff; }
 		
 	
+	
+	.header-wrapper .header-social, .sticky-header .sticky-shadow, .tfs-slider .slide-content, #header, .header-v4 #small-nav, .header-v5 #small-nav, #footer, .footer-area, #slidingbar, .page-title-container{ padding-left: 30px; padding-right: 30px; }		
+	#main { padding-left: 30px; padding-right: 30px; }
+	.width-100 .fullwidth-box, .width-100 .fusion-section-separator {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.width-100 .fullwidth-box, .width-100 .fusion-section-separator {
+		margin-left: -30px;
+		margin-right: -30px;
+	}
+	/* for full width container with 100% interior checked */
+	.width-100 .hundred-percent-fullwidth {
+		padding-left: 0px !important; padding-right: 0px !important;
+	}
+
+	.mobile-menu-design-modern #mobile-nav li a, .mobile-header-search { padding-left: 30px; padding-right: 30px; }
+	
+	.mobile-menu-design-modern #mobile-nav li.mobile-nav-item .open-submenu { padding-right: 35px; }			
+	.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li a { padding-left: 42px; }
+	.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li a { padding-left: 55px; }
+	.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li a { padding-left: 68px; }
+	.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li li a { padding-left: 81px; }		
+
+	.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item .open-submenu { padding-left: 30px; padding-right: 15px; }
+	.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li a { padding-left: 0; padding-right: 42px; }
+	.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li a { padding-left: 0; padding-right: 55px;	}
+	.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li a { padding-left: 0; padding-right: 68px; }
+	.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li li a { padding-left: 0; padding-left: 81px; }
+
+		@media only screen and (max-width: 800px) {
+		.mobile-menu-design-modern .header-social { padding-left: 0 !important; padding-right: 0 !important; }
+		#side-header{width:auto;}
+	}
 		@media only screen and (max-width: 940px) {
-		.header-social, #header, #small-nav, #footer, .footer-area, #slidingbar, .page-title{ padding-left: 20px !important; padding-right: 20px !important; }		
-		#main { padding-left: 20px !important; padding-right: 20px !important; }
+		.width-100#main { padding-left: 30px !important; padding-right: 30px !important; }
 		.width-100 .fullwidth-box, .width-100 .fusion-section-separator {
-			padding-left: 20px !important;
-			padding-right: 20px !important;
+			padding-left: 30px !important;
+			padding-right: 30px !important;
 		}
 		.width-100 .fullwidth-box, .width-100 .fusion-section-separator {
-			margin-left: -20px !important;
-			margin-right: -20px !important;
+			margin-left: -30px !important;
+			margin-right: -30px !important;
 		}
+		/* for full width container with 100% interior checked */
+		.width-100 .hundred-percent-fullwidth {
+			padding-left: 0px !important; padding-right: 0px !important;
+		}
+	}
 		
-		.mobile-menu-design-modern #mobile-nav li a { padding-left: 20px; padding-right: 20px; }
-		
-		.mobile-menu-design-modern #mobile-nav li.mobile-nav-item .open-submenu { padding-right: 25px; }			
-		.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li a { padding-left: 32px; }
-		.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li a { padding-left: 45px; }
-		.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li a { padding-left: 58px; }
-		.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li li a { padding-left: 71px; }		
+				
+		@media only screen and (min-width: 850px) and (max-width: 930px) {
+			.grid-layout-6 .post,
+			.portfolio-six .portfolio-item {
+				width: 20% !important;
+			}
+
+			.grid-layout-5 .post,
+			.portfolio-five .portfolio-item {
+				width: 25% !important;
+			}
+		}
+
+		@media only screen and (min-width: 800px) and (max-width: 850px) {
+			.grid-layout-6 .post,
+			.portfolio-six .portfolio-item {
+				width: 25% !important;
+			}
+
+			.grid-layout-5 .post,
+			.portfolio-five .portfolio-item {
+				width: 33.3333333333% !important;
+			}
+
+			.grid-layout-4 .post,
+			.portfolio-four .portfolio-item {
+				width: 33.3333333333% !important;
+			}
+		}
+
+		@media only screen and (min-width: 700px) and (max-width: 800px) {
+			.grid-layout-6 .post,
+			.portfolio-six .portfolio-item {
+				width: 33.3333333333% !important;
+			}
+
+			.grid-layout-5 .post,
+			.grid-layout-4 .post,
+			.grid-layout-3 .post,
+			.portfolio-five .portfolio-item,
+			.portfolio-four .portfolio-item,
+			.portfolio-three .portfolio-item,
+			.portfolio-masonry .portfolio-item {
+				width: 50% !important;
+			}
+		}
+
+		@media only screen and (min-width: 640px) and (max-width: 700px) {
+			.grid-layout-6 .post,
+			.grid-layout-5 .post,
+			.grid-layout-4 .post,
+			.grid-layout-3 .post,
+			.portfolio-six .portfolio-item,
+			.portfolio-five .portfolio-item,
+			.portfolio-four .portfolio-item,
+			.portfolio-three .portfolio-item,
+			.portfolio-masonry .portfolio-item {
+				width: 50% !important;
+			}
+		}
+
+		@media only screen and (max-width: 640px) {
+			.grid-layout .post,
+			.portfolio-item {
+				width: 100% !important;
+			}			
+		}
+		@media only screen and (min-device-width: 768px) and (max-device-width: 1366px) and (orientation: portrait) {
+			.grid-layout-6 .post,
+			.portfolio-six .portfolio-item {
+				width: 33.3333333333% !important;
+			}
+
+			.grid-layout-5 .post,
+			.grid-layout-4 .post,
+			.grid-layout-3 .post,
+			.portfolio-five .portfolio-item,
+			.portfolio-four .portfolio-item,
+			.portfolio-three .portfolio-item,
+			.portfolio-masonry .portfolio-item {
+				width: 50% !important;
+			}
+		}
 	
-		.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item .open-submenu { padding-left: 20px; padding-right: 15px; }
-		.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li a { padding-left: 0; padding-right: 32px; }
-		.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li a { padding-left: 0; padding-right: 45px;	}
-		.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li a { padding-left: 0; padding-right: 58px; }
-		.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li li a { padding-left: 0; padding-left: 71px; }
-	}
-	@media only screen and (max-width: 800px) {
-		.mobile-menu-design-modern .header-social { padding-left: 0 !important; padding-right: 0 !important; }
-	}
-	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
-		.header-social, #header, #small-nav, #footer, .footer-area, .mobile-menu-design-modern .header-social { padding-left: 20px !important; padding-right: 20px !important; }
-		#main { padding-left: 20px !important; padding-right: 20px !important; }
-		.width-100 .fullwidth-box, .width-100 .fusion-section-separator {
-			padding-left: 20px !important;
-			padding-right: 20px !important;
-		}
-		.width-100 .fullwidth-box, .width-100 .fusion-section-separator {
-			margin-left: -20px !important;
-			margin-right: -20px !important;
-		}
-	}
-	@media only screen and (max-width: 600px) {
-		.mobile-menu-design-classic .header-social, #header, #small-nav, #footer, .footer-area, #slidingbar, .page-title { padding-left: 10px !important; padding-right: 10px !important; }
-		.mobile-menu-design-modern .header-social { padding-left: 0 !important; padding-right: 0 !important; }
-		#main { padding-left: 10px !important; padding-right: 10px !important; }
-		.width-100 .fullwidth-box, .width-100 .fusion-section-separator {
-			padding-left: 10px !important;
-			padding-right: 10px !important;
-		}
-		.width-100 .fullwidth-box, .width-100 .fusion-section-separator {
-			margin-left: -10px !important;
-			margin-right: -10px !important;
-		}
-		
-		.mobile-menu-design-modern #mobile-nav li a { padding-left: 10px; padding-right: 10px; }
-		
-		.mobile-menu-design-modern #mobile-nav li.mobile-nav-item .open-submenu { padding-right: 12px; }			
-		.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li a { padding-left: 22px; }
-		.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li a { padding-left: 35px; }
-		.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li a { padding-left: 48px; }
-		.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li li a { padding-left: 61px; }		
-	
-		.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item .open-submenu { padding-left: 10px; padding-right: 15px; }
-		.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li a { padding-left: 0; padding-right: 22px; }
-		.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li a { padding-left: 0; padding-right: 35px;	}
-		.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li a { padding-left: 0; padding-right: 48px; }
-		.rtl.mobile-menu-design-modern #mobile-nav li.mobile-nav-item li li li li a { padding-left: 0; padding-left: 61px; }		
-	}
-	
+
 	
 	/*IE11 hack */
 	@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
@@ -267,15 +405,16 @@
 		#wrapper .gf_browser_ie.gform_wrapper .gform_footer input.button{ padding: 0 20px; }
 	}
 
-	a:hover, .tooltip-shortcode, #mobile-nav li.mobile-nav-item .open-submenu:hover,
-#mobile-nav li.mobile-current-nav-item > .open-submenu {
+	a:hover, .tooltip-shortcode, #mobile-nav li.mobile-nav-item .open-submenu:hover {
 	color:#e9a825;
 }
 #nav ul .current_page_item > a, #nav ul .current-menu-item > a, #nav ul > .current-menu-parent > a,
 #sticky-nav ul .current_page_item > a, #sticky-nav ul .current-menu-item > a, #sticky-nav ul > .current-menu-parent > a,
 .footer-area ul li a:hover,
 .footer-area .fusion-tabs-widget .tab-holder .news-list li .post-holder a:hover,
+.footer-area .fusion-accordian .panel-title a:hover,
 #slidingbar-area ul li a:hover,
+#slidingbar-area .fusion-accordian .panel-title a:hover,
 .portfolio-tabs li.active a, .faq-tabs li.active a,
 .project-content .project-info .project-info-box a:hover,
 #main .post h2 a:hover,
@@ -284,9 +423,11 @@ span.dropcap,.footer-area a:hover,#slidingbar-area a:hover,.copyright a:hover,
 .sidebar .widget_categories li a:hover,
 .sidebar .widget li a:hover,
 #nav ul li > a:hover, #sticky-nav ul li > a:hover,
+#nav .cart-contents .cart-link a:hover, #nav .cart-contents .checkout-link a:hover, #nav .cart-contents .cart-link a:hover:before, #nav .cart-contents .checkout-link a:hover:before,
 .date-and-formats .format-box i,
 h5.toggle:hover a,
 .tooltip-shortcode,.content-box-percentage,
+.fusion-popover,
 .woocommerce .address .edit:hover:after,
 .my_account_orders .order-actions a:hover:after,
 .more a:hover:after,.read-more:hover:after,.entry-read-more a:hover:after,.pagination-prev:hover:before,.pagination-next:hover:after,.bbp-topic-pagination .prev:hover:before,.bbp-topic-pagination .next:hover:after,
@@ -295,16 +436,16 @@ h5.toggle:hover a,
 .sidebar .widget .recentcomments:hover:before,.sidebar .widget_recent_entries li a:hover:before,
 .sidebar .widget_archive li a:hover:before,.sidebar .widget_pages li a:hover:before,
 .sidebar .widget_links li a:hover:before,.side-nav .arrow:hover:after,.woocommerce-tabs .tabs a:hover .arrow:after,
-#wrapper #jtwt .jtwt_tweet a:hover,
+#wrapper .jtwt .jtwt_tweet a:hover,
 .star-rating:before,.star-rating span:before,.price ins .amount, .avada-order-details .shop_table.order_details tfoot tr:last-child .amount,
 .price > .amount,.woocommerce-pagination .prev:hover,.woocommerce-pagination .next:hover,.woocommerce-pagination .prev:hover:before,.woocommerce-pagination .next:hover:after,
 .woocommerce-tabs .tabs li.active a,.woocommerce-tabs .tabs li.active a .arrow:after,
-#wrapper .cart-checkout a:hover,#wrapper .cart-checkout a:hover:before,#wrapper .header-social .top-menu .cart-checkout a:hover,
+#wrapper .cart-checkout a:hover,#wrapper .cart-checkout a:hover:before,
 .widget_shopping_cart_content .total .amount,.widget_layered_nav li a:hover:before,
 .widget_product_categories li a:hover:before,#header-sticky .my-account-link-active:after,#header .my-account-link-active:after,.woocommerce-side-nav li.active a,.woocommerce-side-nav li.active a:after,.my_account_orders .order-number a,.shop_table .product-subtotal .amount,
 .cart_totals .order-total .amount,form.checkout .shop_table tfoot .order-total .amount,#final-order-details .mini-order-details tr:last-child .amount,.rtl .more a:hover:before,.rtl .read-more:hover:before,.rtl .entry-read-more a:hover:before,#header-sticky .my-cart-link-active:after,.header-wrapper .my-cart-link-active:after,#wrapper .sidebar .current_page_item > a,#wrapper .sidebar .current-menu-item > a,#wrapper .sidebar .current_page_item > a:before,#wrapper .sidebar .current-menu-item > a:before,#wrapper .footer-area .current_page_item > a,#wrapper .footer-area .current-menu-item > a,#wrapper .footer-area .current_page_item > a:before,#wrapper .footer-area .current-menu-item > a:before,#wrapper #slidingbar-area .current_page_item > a,#wrapper #slidingbar-area .current-menu-item > a,#wrapper #slidingbar-area .current_page_item > a:before,#wrapper #slidingbar-area .current-menu-item > a:before,.side-nav ul > li.current_page_item > a,.side-nav li.current_page_ancestor > a,
 .gform_wrapper span.ginput_total,.gform_wrapper span.ginput_product_price,.ginput_shipping_price,
-.bbp-topics-front ul.super-sticky a:hover, .bbp-topics ul.super-sticky a:hover, .bbp-topics ul.sticky a:hover, .bbp-forum-content ul.sticky a:hover, .fusion-accordian .panel-title a:hover{
+.bbp-topics-front ul.super-sticky a:hover, .bbp-topics ul.super-sticky a:hover, .bbp-topics ul.sticky a:hover, .bbp-forum-content ul.sticky a:hover, .fusion-accordian .panel-title a:hover, #nav .cart-contents .cart-link a:hover:before, #nav .cart-contents .checkout-link a:hover:before{
 	color:#e9a825;
 }
 .fusion-content-boxes .heading-link:hover h2 {
@@ -326,7 +467,7 @@ h5.toggle:hover a,
 .reading-box,
 .portfolio-tabs li.active a, .faq-tabs li.active a,
 #wrapper .fusion-tabs-widget .tab-holder .tabs li.active a,
-.post-content blockquote,
+#wrapper .post-content blockquote,
 .progress-bar-content,
 .pagination .current,
 .bbp-topic-pagination .current,
@@ -337,11 +478,9 @@ h5.toggle:hover a,
 #nav ul li > a:hover,#sticky-nav ul li > a:hover,.woocommerce-pagination .current,
 .tagcloud a:hover,#header-sticky .my-account-link:hover:after,#header .my-account-link:hover:after,body #header-sticky .my-account-link-active:after,body #header .my-account-link-active:after,
 #bbpress-forums div.bbp-topic-tags a:hover,
-#wrapper .fusion-tabs .nav-tabs > .active > .tab-link:hover, #wrapper .fusion-tabs .nav-tabs > .active > .tab-link:focus, #wrapper .fusion-tabs .nav-tabs > .active > .tab-link,#wrapper .fusion-tabs.vertical-tabs .nav-tabs > li.active > .tab-link{
+#wrapper .fusion-tabs.classic .nav-tabs > .active > .tab-link:hover, #wrapper .fusion-tabs.classic .nav-tabs > .active > .tab-link:focus, #wrapper .fusion-tabs.classic .nav-tabs > .active > .tab-link,#wrapper .fusion-tabs.vertical-tabs.classic .nav-tabs > li.active > .tab-link{
 	border-color:#e9a825;
 }
-#wrapper .main-nav-search a:hover {border-top: 3px solid transparent;}
-#wrapper .header-v4 .main-nav-search a:hover, #wrapper .header-v5 .main-nav-search a:hover {border-top: 0;}
 #nav ul .current-menu-ancestor > a,.navigation li.current-menu-ancestor > a, #sticky-nav li.current-menu-ancestor > a {
 	color: #e9a825;
 }
@@ -370,7 +509,8 @@ ul.circle-yes li:before,
 #wrapper .search-table .search-button input[type="submit"]:hover,
 ul.arrow li:before,
 p.demo_store,
-.avada-myaccount-data .digital-downloads li:before, .avada-thank-you .order_details li:before{
+.avada-myaccount-data .digital-downloads li:before, .avada-thank-you .order_details li:before,
+.sidebar .widget_layered_nav li.chosen, .sidebar .widget_layered_nav_filters li.chosen {
 	background-color:#e9a825;
 }
 .woocommerce .social-share li a:hover i {
@@ -382,13 +522,17 @@ p.demo_store,
 }
 
 
+
+
 .mobile-nav-holder .mobile-selector, 
 .mobile-topnav-holder .mobile-selector, 
 #mobile-nav {
 	background-color: #f9f9f9}
-.mobile-nav-holder .mobile-selector, .mobile-topnav-holder .mobile-selector, #mobile-nav, #mobile-nav li a, #mobile-nav li a:hover, .mobile-nav-holder .mobile-selector .selector-down, .mobile-menu-design-modern .header-wrapper #mobile-nav { border-color: #dadada; }
-.mobile-nav-holder .mobile-selector .selector-down:before, .mobile-menu-icons a, .mobile-menu-icons a:before{color:#dadada;}
-#mobile-nav li a:hover {
+.mobile-nav-holder .mobile-selector, .mobile-topnav-holder .mobile-selector, #mobile-nav, #mobile-nav li a, #mobile-nav li a:hover, .mobile-nav-holder .mobile-selector .selector-down, .mobile-menu-design-modern .header-wrapper #mobile-nav, .sh-mobile-nav-holder.mobile-nav-holder-modern #mobile-nav,
+#mobile-nav li.mobile-current-nav-item > a, .mobile-topnav-holder .mobile-selector .selector-down{ border-color: #dadada; }
+.mobile-nav-holder .mobile-selector .selector-down:before, .mobile-menu-icons a, .mobile-menu-icons a:before, .mobile-topnav-holder .mobile-selector .selector-down:before{color:#dadada;}
+#mobile-nav li > a:hover,
+#mobile-nav li.mobile-current-nav-item > a {
 	background-color: #f6f6f6}
 .sticky-header #sticky-nav > ul > li { padding-right: 35px; }
 
@@ -396,8 +540,9 @@ p.demo_store,
 body #header-sticky.sticky-header .sticky-shadow{background:rgba(255, 255, 255, 0.97);}
 .no-rgba #header-sticky.sticky-header .sticky-shadow{background:#ffffff; filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=97); opacity: 0.97;}
 
-#header,#small-nav{
+#header,#small-nav,#side-header{
 	background-color:#ffffff;
+	background-color:rgba(255,255,255,1);
 }
 
 #main,#wrapper,
@@ -431,18 +576,18 @@ body #header-sticky.sticky-header .sticky-shadow{background:rgba(255, 255, 255, 
 	color:#c68d34;
 }
 .image .image-extras{
-	background-image: linear-gradient(top, rgba(232,203,144,1) 0%, rgba(214,173,90,1) 100%);
-	background-image: -o-linear-gradient(top, rgba(232,203,144,1) 0%, rgba(214,173,90,1) 100%);
-	background-image: -moz-linear-gradient(top, rgba(232,203,144,1) 0%, rgba(214,173,90,1) 100%);
-	background-image: -webkit-linear-gradient(top, rgba(232,203,144,1) 0%, rgba(214,173,90,1) 100%);
-	background-image: -ms-linear-gradient(top, rgba(232,203,144,1) 0%, rgba(214,173,90,1) 100%);
+	background-image: linear-gradient(top, rgba(232,203,144,0.8) 0%, rgba(214,173,90,0.8) 100%);
+	background-image: -o-linear-gradient(top, rgba(232,203,144,0.8) 0%, rgba(214,173,90,0.8) 100%);
+	background-image: -moz-linear-gradient(top, rgba(232,203,144,0.8) 0%, rgba(214,173,90,0.8) 100%);
+	background-image: -webkit-linear-gradient(top, rgba(232,203,144,0.8) 0%, rgba(214,173,90,0.8) 100%);
+	background-image: -ms-linear-gradient(top, rgba(232,203,144,0.8) 0%, rgba(214,173,90,0.8) 100%);
 
 	background-image: -webkit-gradient(
 		linear,
 		left top,
 		left bottom,
-		color-stop(0, rgba(232,203,144,1)),
-		color-stop(1, rgba(214,173,90,1))
+		color-stop(0, rgba(232,203,144,0.8)),
+		color-stop(1, rgba(214,173,90,0.8))
 	);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e8cb90', endColorstr='#d6ad5a')
 			progid: DXImageTransform.Microsoft.Alpha(Opacity=0);
@@ -473,7 +618,10 @@ body #header-sticky.sticky-header .sticky-shadow{background:rgba(255, 255, 255, 
 .woocommerce .register .button,
 .woocommerce .avada-order-details .order-again .button,
 .woocommerce .avada-order-details .order-again .button,
-.woocommerce .lost_reset_password input[type=submit]{
+.woocommerce .lost_reset_password input[type=submit],
+#bbp_user_edit_submit,
+.ticket-selector-submit-btn[type=submit],
+.gform_page_footer input[type=button]{
 	background: #e8cb90;
 	color: #785510;
 	
@@ -511,7 +659,10 @@ body #header-sticky.sticky-header .sticky-shadow{background:rgba(255, 255, 255, 
 .no-cssgradients .woocommerce .login .button,
 .no-cssgradients .woocommerce .register .button,
 .no-cssgradients .woocommerce .avada-order-details .order-again .button
-.no-css-gradients .woocommerce .lost_reset_password input[type=submit]{
+.no-cssgradients .woocommerce .lost_reset_password input[type=submit],
+.no-cssgradients #bbp_user_edit_submit,
+.no-cssgradients .ticket-selector-submit-btn[type=submit],
+.no-cssgradients .gform_page_footer input[type=button]{
 	background:#e8cb90;
 }
 .portfolio-one .button:hover,
@@ -531,7 +682,10 @@ body #header-sticky.sticky-header .sticky-shadow{background:rgba(255, 255, 255, 
 .woocommerce .login .button:hover,
 .woocommerce .register .button:hover,
 .woocommerce .avada-order-details .order-again .button:hover,
-.woocommerce .lost_reset_password input[type=submit]:hover{
+.woocommerce .lost_reset_password input[type=submit]:hover,
+#bbp_user_edit_submit:hover,
+.ticket-selector-submit-btn[type=submit]:hover,
+.gform_page_footer input[type=button]:hover{
 	background: #d6ad5a;
 	color: #785510;
 	
@@ -562,7 +716,10 @@ body #header-sticky.sticky-header .sticky-shadow{background:rgba(255, 255, 255, 
 .no-cssgradients .woocommerce .login .button:hover,
 .no-cssgradients .woocommerce .register .button:hover,
 .no-cssgradients .woocommerce .avada-order-details .order-again .button:hover,
-.no-cssgradients .woocommerce .lost_reset_password input[type=submit]{
+.no-cssgradients .woocommerce .lost_reset_password input[type=submit]:hover,
+.no-cssgradients #bbp_user_edit_submit:hover,
+.no-cssgradients .ticket-selector-submit-btn[type=submit]:hover,
+.no-cssgradients .gform_page_footer input[type=button]:hover{
 	background:#d6ad5a;
 }
 
@@ -577,6 +734,13 @@ body #header-sticky.sticky-header .sticky-shadow{background:rgba(255, 255, 255, 
 	
 		padding-bottom: 40px;
 	}
+.footer-area > .avada-row, #footer > .avada-row {
+		padding-left: 0px;
+	
+		padding-right: 0px;
+	}
+
+
 
 #footer{
 		padding-top: 18px;
@@ -653,7 +817,10 @@ body, #nav ul li ul li a, #sticky-nav ul li ul li a,
 .image .image-extras .image-extras-content .cats,
 .image .image-extras .image-extras-content .cats a,
 .image .image-extras .image-extras-content .price,
-#wrapper #nav ul li ul li > a, #wrapper #sticky-nav ul li ul li > a {
+#wrapper #nav ul li ul li > a, #wrapper #sticky-nav ul li ul li > a,
+#bbp_user_edit_submit,
+.ticket-selector-submit-btn[type=submit],
+.gform_page_footer input[type=button]{
 	font-family:"Droid Sans", Arial, Helvetica, sans-serif;
 }
 
@@ -673,7 +840,10 @@ body, #nav ul li ul li a, #sticky-nav ul li ul li a,
 .woocommerce .avada-order-details .order-again .button,
 .comment-form input[type="submit"],
 .wpcf7-form input[type="submit"],
-.gform_wrapper .gform_button{
+.gform_wrapper .gform_button,
+#bbp_user_edit_submit,
+.ticket-selector-submit-btn[type=submit],
+.gform_page_footer input[type=button]{
 	font-weight:bold;
 }
 .meta .date,
@@ -703,6 +873,7 @@ body, #nav ul li ul li a, #sticky-nav ul li ul li a,
 .fusion-person .person-desc .person-author .person-author-wrapper,
 .fusion-accordian .panel-title,
 .fusion-accordian .panel-heading a,
+.fusion-tabs .nav-tabs  li .tab-link,
 .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6,
 .ei-title h2, #header-sticky,#header .tagline,
 table th,.project-content .project-info h4,
@@ -720,7 +891,7 @@ table th,.project-content .project-info h4,
 }
 
 body,.sidebar .slide-excerpt h2, .footer-area .slide-excerpt h2,#slidingbar-area .slide-excerpt h2,
-#jtwt .jtwt_tweet, .sidebar #jtwt .jtwt_tweet {
+.jtwt .jtwt_tweet, .sidebar .jtwt .jtwt_tweet {
 	font-size:13px;
 		line-height:20px;
 }
@@ -736,17 +907,19 @@ body,.sidebar .slide-excerpt h2, .footer-area .slide-excerpt h2,#slidingbar-area
 body,.sidebar .slide-excerpt h2, .footer-area .slide-excerpt h2,#slidingbar-area .slide-excerpt h2,.post-content blockquote, .review blockquote q{
 	line-height:20px;
 }
-.project-content .project-info h4,.fusion-accordian .panel-body{
+.project-content .project-info h4,.fusion-accordian .panel-body, #side-header .header-social .header-info, #side-header .header-social .top-menu {
 	line-height:20px;
 }
 
-#nav,#sticky-nav,.navigation,a.search-link{font-size:14px;}
+#nav,#sticky-nav,.navigation{font-size:14px;}
+
+#small-nav .cart, #small-nav .search-link{font-size:13px;}
 
 #wrapper #nav ul li ul li > a, #wrapper #sticky-nav ul li ul li > a{font-size:12px;}
 
 .header-social *{font-size:12px;}
 
-.page-title ul li,page-title ul li a{font-size:10px;}
+.page-title ul,.page-title ul li,page-title ul li a{font-size:10px;}
 
 .side-nav li a{font-size:14px;}
 
@@ -760,29 +933,6 @@ body,.sidebar .slide-excerpt h2, .footer-area .slide-excerpt h2,#slidingbar-area
 
 #wrapper .fusion-megamenu-wrapper .fusion-megamenu-title{font-size:12px;}
 
-/*
-#wrapper .fusion-megamenu-wrapper {
-	width:940px;
-}
-
-@media (min-width: 800px ) {
-	#wrapper .fusion-megamenu-wrapper.col-span-2 {
-		width: 156.666666667px;
-	}
-	#wrapper .fusion-megamenu-wrapper.col-span-4 {
-		width: 313.333333333px;
-	}
-	#wrapper .fusion-megamenu-wrapper.col-span-6 {
-		width: 470px;
-	}
-	#wrapper .fusion-megamenu-wrapper.col-span-8 {
-		width: 626.666666667px;
-	}	
-	#wrapper .fusion-megamenu-wrapper.col-span-10 {
-		width: 783.333333333px;
-	}
-}
-*/
 
 #header-sticky .avada-row,#header .avada-row, #main .avada-row, .footer-area .avada-row,#slidingbar-area .avada-row, #footer .avada-row, .page-title, .header-social .avada-row, #small-nav .avada-row, .tfs-slider .slide-content-container .slide-content{ max-width:940px; }
 
@@ -805,13 +955,13 @@ body,.sidebar .slide-excerpt h2, .footer-area .slide-excerpt h2,#slidingbar-area
 	line-height:27px;
 }
 
-.post-content h3,.project-content h3,#header .tagline,.product-title{
+.post-content h3,.project-content h3,#header .tagline,.product-title,#side-header .tagline{
 	font-size:16px;
 		line-height:24px;
 }
 p.demo_store,.fusion-modal .modal-title { font-size:16px; }
 
-.post-content h3,.project-content h3,#header .tagline,.product-title{
+.post-content h3,.project-content h3,#header .tagline,.product-title,#side-header .tagline{
 	line-height:24px;
 }
 
@@ -825,7 +975,9 @@ p.demo_store,.fusion-modal .modal-title { font-size:16px; }
 .popover .popover-title,.fusion-flip-box .flip-box-heading-back{
 	font-size:13px;
 }
-.fusion-accordian .panel-title a,.fusion-sharing-box h4{font-size:13px;}
+.fusion-accordian .panel-title a,.fusion-sharing-box h4,
+.fusion-tabs .nav-tabs > li .tab-link
+{font-size:13px;}
 
 .post-content h4, #reviews #comments > h2,
 .fusion-sharing-box h4,
@@ -874,7 +1026,14 @@ p.demo_store,.fusion-modal .modal-title { font-size:16px; }
 
 .pagination, .page-links, .woocommerce-pagination, .pagination .pagination-next, .woocommerce-pagination .next, .pagination .pagination-prev, .woocommerce-pagination .prev { font-size:12px; }
 
-body,.post .post-content,.post-content blockquote,#wrapper .fusion-tabs-widget .tab-holder .news-list li .post-holder .meta,.sidebar #jtwt,#wrapper .meta,.review blockquote div,.search input,.project-content .project-info h4,.title-row,.simple-products-slider .price .amount,
+.header-social .menu > li {
+	line-height:44px;
+}
+.header-wrapper .header-social .menu > li {
+	height:44px;
+}
+
+body,.post .post-content,.post-content blockquote,#wrapper .fusion-tabs-widget .tab-holder .news-list li .post-holder .meta,.sidebar .jtwt,#wrapper .meta,.review blockquote div,.search input,.project-content .project-info h4,.title-row,.simple-products-slider .price .amount,
 .quantity .qty,.quantity .minus,.quantity .plus,.timeline-layout h3.timeline-title, .blog-timeline-layout h3.timeline-title, #reviews #comments > h2,
 .sidebar .widget_nav_menu li, .sidebar .widget_categories li, .sidebar .widget_product_categories li, .sidebar .widget_meta li, .sidebar .widget .recentcomments, .sidebar .widget_recent_entries li, .sidebar .widget_archive li, .sidebar .widget_pages li, .sidebar .widget_links li, .sidebar .widget_layered_nav li, .sidebar .widget_product_categories li
 {color:#747474;}
@@ -887,11 +1046,13 @@ body,.post .post-content,.post-content blockquote,#wrapper .fusion-tabs-widget .
 	color:#333333;
 }
 
-.post-content h3,.sidebar .widget h3,.project-content h3,.fusion-title h3,.title h3,#header .tagline,.person-author-wrapper span,.product-title{
+.post-content h3,.sidebar .widget h3,.project-content h3,.fusion-title h3,.title h3,#header .tagline,.person-author-wrapper span,.product-title,#side-header .tagline{
 	color:#333333;
 }
 
-.post-content h4,.project-content .project-info h4,.share-box h4,.fusion-title h4,.title h4,#wrapper .fusion-tabs-widget .tab-holder .tabs li a, .fusion-accordian .panel-title a{
+.post-content h4,.project-content .project-info h4,.share-box h4,.fusion-title h4,.title h4,#wrapper .fusion-tabs-widget .tab-holder .tabs li a, .fusion-accordian .panel-title a,
+.fusion-tabs .nav-tabs > li .tab-link
+{
 	color:#333333;
 }
 
@@ -903,9 +1064,9 @@ body,.post .post-content,.post-content blockquote,#wrapper .fusion-tabs-widget .
 	color:#333333;
 }
 
-.page-title h1{
-	color:#333333;
-}
+.page-title h1, .page-title h3{
+		color:#333333;
+	}
 
 .sep-boxed-pricing .panel-heading h3{
 	color:#ffffff;
@@ -922,41 +1083,41 @@ body a:after,
 .single-navigation a[rel="next"]:after
 {color:#333333;}
 .project-content .project-info .project-info-box a,.sidebar .widget li a, .sidebar .widget .recentcomments, .sidebar .widget_categories li, #main .post h2 a, .about-author .title a,
-.shop_attributes tr th,.image-extras a,.products-slider .price .amount,z.my_account_orders thead tr th,.shop_table thead tr th,.cart_totals table th,form.checkout .shop_table tfoot th,form.checkout .payment_methods label,#final-order-details .mini-order-details th,#main .product .product_title,.shop_table.order_details tr th
+.shop_attributes tr th,.image-extras a,.products-slider .price .amount,z.my_account_orders thead tr th,.shop_table thead tr th,.cart_totals table th,form.checkout .shop_table tfoot th,form.checkout .payment_methods label,#final-order-details .mini-order-details th,#main .product .product_title,.shop_table.order_details tr th,
+.sidebar .widget_layered_nav li.chosen a, .sidebar .widget_layered_nav li.chosen a:before,.sidebar .widget_layered_nav_filters li.chosen a, .sidebar .widget_layered_nav_filters li.chosen a:before,
+.order-dropdown li a:hover, .catalog-ordering .order li a:hover
 {color:#333333;}
 
 body #toTop:before {color:#fff;}
 
-.page-title ul li,.page-title ul li a{color:#333333;}
+.page-title ul,.page-title ul li,.page-title ul li a{color:#333333;}
 
 #slidingbar-area h3{color:#DDDDDD;}
 
-#slidingbar-area,#slidingbar-area article.col,#slidingbar-area #jtwt,#slidingbar-area #jtwt .jtwt_tweet{color:#8C8989;}
+#slidingbar-area,#slidingbar-area article.col,#slidingbar-area .jtwt,#slidingbar-area .jtwt .jtwt_tweet{color:#8C8989;}
 
-#slidingbar-area a, #slidingbar-area #jtwt .jtwt_tweet a, #wrapper #slidingbar-area .fusion-tabs-widget .tab-holder .tabs li a{color:#BFBFBF;}
+#slidingbar-area a, #slidingbar-area .jtwt .jtwt_tweet a, #wrapper #slidingbar-area .fusion-tabs-widget .tab-holder .tabs li a, #slidingbar-area .fusion-accordian .panel-title a{color:#BFBFBF;}
 
 .sidebar .widget h3, .sidebar .widget .heading h3{color:#333333;}
 
 .footer-area h3{color:#DDDDDD;}
 
-.footer-area,.footer-area article.col,.footer-area #jtwt,.footer-area #jtwt .jtwt_tweet,.copyright{color:#8C8989;}
+.footer-area,.footer-area article.col,.footer-area .jtwt,.footer-area .jtwt .jtwt_tweet,.copyright{color:#8C8989;}
 
-.footer-area a,.footer-area #jtwt .jtwt_tweet a,#wrapper .footer-area .fusion-tabs-widget .tab-holder .tabs li a,.footer-area .fusion-tabs-widget .tab-holder .news-list li .post-holder a,.copyright a{color:#BFBFBF;}
+.footer-area a,.footer-area .jtwt .jtwt_tweet a,#wrapper .footer-area .fusion-tabs-widget .tab-holder .tabs li a,.footer-area .fusion-tabs-widget .tab-holder .news-list li .post-holder a,.copyright a,
+.footer-area .fusion-accordian .panel-title a{color:#BFBFBF;}
 
-#nav ul li > a,#sticky-nav ul li > a,.side-nav li a,#header-sticky .cart-content a,#header-sticky .cart-content a:hover,#header .cart-content a,#header .cart-content a:hover,#small-nav .cart-content a,
-#small-nav .cart-content a:hover,#wrapper .header-social .top-menu .cart > a,#wrapper .header-social .top-menu .cart > a > .amount,
-#wrapper .header-social .top-menu .cart-checkout a, #wrapper .fusion-megamenu-wrapper .fusion-megamenu-title,#wrapper .fusion-megamenu-wrapper .fusion-megamenu-title a,.my-cart-link:after,a.search-link:after
+#nav ul li > a,#sticky-nav ul li > a,.side-nav li a,#header-sticky .cart-content a,#header-sticky .cart-content a:hover,#header .cart-content a,#header .cart-content a:hover, #side-header .cart-content a:hover,#small-nav .cart-content a,
+#small-nav .cart-content a:hover,#wrapper .header-social .top-menu .cart > a,#wrapper .header-social .top-menu .cart > a > .amount, #wrapper .fusion-megamenu-wrapper .fusion-megamenu-title,#wrapper .fusion-megamenu-wrapper .fusion-megamenu-title a,.my-cart-link:after,a.search-link:after, .top-menu .cart > a:before, .top-menu .cart > a:after
 {color:#333333;}
-#header-sticky .my-account-link:after, #header .my-account-link:after{border-color:#333333;}
+#header-sticky .my-account-link:after, #header .my-account-link:after, #side-header .my-account-link:after{border-color:#333333;}
 
 #nav ul .current-menu-ancestor > a, .navigation li.current-menu-ancestor > a, #sticky-nav li.current-menu-ancestor > a,#nav ul .current_page_item > a, #nav ul .current-menu-item > a, #nav ul > .current-menu-parent > a, #nav ul ul,#wrapper .fusion-megamenu-wrapper .fusion-megamenu-holder,.navigation li.current-menu-ancestor > a,#nav ul li > a:hover,
 #sticky-nav ul .current_page_item > a, #sticky-nav ul .current-menu-item > a, #sticky-nav ul > .current-menu-parent > a, #sticky-nav ul ul,#sticky-nav li.current-menu-ancestor > a,.navigation li.current-menu-ancestor > a,#sticky-nav ul li > a:hover,
-#header-sticky .my-cart-link-active:after, .header-wrapper .my-cart-link-active:after
+#header-sticky .my-cart-link-active:after, .header-wrapper .my-cart-link-active:after, #side-header .my-cart-link-active:after
 {color:#e9a825;border-color:#e9a825;}
 
 #nav ul ul,#sticky-nav ul ul{border-color:#e9a825;}
-
-#wrapper .main-nav-search .search-link:hover {border-top: 3px solid transparent;}
 #wrapper .main-nav-search .search-link:hover:after, #wrapper .main-nav-search.search-box-open .search-link:after, #wrapper .my-cart-link:hover:after {color:#e9a825;}
 
 #nav ul ul,#sticky-nav ul ul,
@@ -967,7 +1128,7 @@ body #toTop:before {color:#fff;}
 #main-nav-search-form, #sticky-nav-search-form
 {background-color:#edebeb;}
 
-#wrapper #nav ul li ul li > a,#wrapper #sticky-nav ul li ul li > a,.side-nav li li a,.side-nav li.current_page_item li a
+#wrapper #nav ul li ul li > a,#wrapper #sticky-nav ul li ul li > a,.side-nav li li a,.side-nav li.current_page_item li a, #nav .cart-contents a, #nav .cart-contents .cart-link a:before, #nav .cart-contents .checkout-link a:before, #nav .cart-contents a:hover
 {color:#333333;}
 #wrapper .fusion-megamenu-wrapper .fusion-megamenu-bullet, .fusion-megamenu-bullet{border-left-color:#333333;}
 
@@ -984,35 +1145,39 @@ body #toTop:before {color:#fff;}
 .header-social .menu .sub-menu {width:100px;}
 
 
-
 .sep-single,.sep-double,.sep-dashed,.sep-dotted,.search-page-search-form{border-color:#e0dede;}
 .ls-avada, .avada-skin-rev,.es-carousel-wrapper.fusion-carousel-small .es-carousel ul li img,.fusion-accordian .fusion-panel,.progress-bar,
 #small-nav,.portfolio-tabs,.faq-tabs,.single-navigation,.project-content .project-info .project-info-box,
 .fusion-blog-medium-alternate .post, .fusion-blog-large-alternate .post,
-.post .meta-info,.grid-layout .post,.grid-layout .post .content-sep, 
+.post .meta-info,.grid-layout .post .post-wrapper,.grid-layout .post .content-sep, 
 .portfolio .portfolio-boxed .portfolio-item-wrapper, .portfolio .portfolio-boxed .content-sep, .portfolio-one .portfolio-item.portfolio-boxed .portfolio-item-wrapper,
 .grid-layout .post .flexslider,.timeline-layout .post,.timeline-layout .post .content-sep,
 .timeline-layout .post .flexslider,h3.timeline-title,.timeline-arrow,
 .fusion-counters-box .fusion-counter-box .counter-box-border, tr td,
 .table, .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td,
-.table-1 table,.table-1 table th,.table-1 tr td,
+.table-1 table,.table-1 table th,.table-1 tr td,.tkt-slctr-tbl-wrap-dv table,.tkt-slctr-tbl-wrap-dv tr td
 .table-2 table thead,.table-2 tr td,
 .sidebar .widget li a,.sidebar .widget .recentcomments,.sidebar .widget_categories li,
 #wrapper .fusion-tabs-widget .tab-holder,.commentlist .the-comment,
 .side-nav,#wrapper .side-nav li a,.rtl .side-nav,h5.toggle.active + .toggle-content,
 #wrapper .side-nav li.current_page_item li a,.tabs-vertical .tabset,
-.tabs-vertical .tabs-container .tab_content,.pagination a.inactive, .page-links a,.woocommerce-pagination .page-numbers,.bbp-topic-pagination .page-numbers,.rtl .woocommerce .social-share li,.author .author_social, .fusion-blog-medium .entry-meta, .fusion-blog-large .entry-meta,
+.tabs-vertical .tabs-container .tab_content,
+.fusion-tabs.vertical-tabs.clean .nav-tabs li .tab-link,
+.pagination a.inactive, .page-links a,.woocommerce-pagination .page-numbers,.bbp-topic-pagination .page-numbers,.rtl .woocommerce .social-share li,.author .author_social, .fusion-blog-medium .entry-meta, .fusion-blog-large .entry-meta,
 .side-nav li a,.sidebar .product_list_widget li,.sidebar .widget_layered_nav li,.price_slider_wrapper,.tagcloud a,
 .sidebar .widget_nav_menu li, .sidebar .widget_categories li, .sidebar .widget_product_categories li, .sidebar .widget_meta li, .sidebar .widget .recentcomments, .sidebar .widget_recent_entries li, .sidebar .widget_archive li, .sidebar .widget_pages li, .sidebar .widget_links li, .sidebar .widget_layered_nav li, .sidebar .widget_product_categories li,
 #customer_login_box,.avada_myaccount_user,#wrapper .myaccount_user_container span,
 .woocommerce-side-nav li a,.woocommerce-content-box,.woocommerce-content-box h2,.my_account_orders tr,.woocommerce .address h4,.shop_table tr,.cart_totals .total,.chzn-container-single .chzn-single,.chzn-container-single .chzn-single div,.chzn-drop,form.checkout .shop_table tfoot,.input-radio,p.order-info,.cart-content a img,.panel.entry-content,
 .woocommerce-tabs .tabs li a,.woocommerce .social-share,.woocommerce .social-share li,.quantity,.quantity .minus, .quantity .qty,.shop_attributes tr,.woocommerce-success-message,#reviews li .comment-text,
 .cart-totals-buttons,.cart_totals, .shipping_calculator, .coupon, .woocommerce .cross-sells, #customer_login .col-1, #customer_login .col-2, .woocommerce-message, .woocommerce form.checkout #customer_details .col-1, .woocommerce form.checkout #customer_details .col-2,
-.cart_totals h2, .shipping_calculator h2, .coupon h2, .woocommerce .checkout h3, #customer_login h2, .woocommerce .cross-sells h2, .order-total, .woocommerce .addresses .title, #main .cart-empty, #main .return-to-shop, .side-nav-left .side-nav
+.cart_totals h2, .shipping_calculator h2, .coupon h2, .woocommerce .checkout h3, #customer_login h2, .woocommerce .cross-sells h2, .order-total, .woocommerce .addresses .title, #main .cart-empty, #main .return-to-shop, .side-nav-left .side-nav,
+.avada-order-details .shop_table.order_details tfoot
 {border-color:#e0dede;}
 #final-order-details .mini-order-details tr:last-child
 {border-color:#e0dede;}
-.price_slider_wrapper .ui-widget-content{background-color:#e0dede;}
+
+.price_slider_wrapper .ui-widget-content
+{background-color:#e0dede;}
 .gform_wrapper .gsection{border-bottom:1px dotted #e0dede;}
 
 .quantity .minus,.quantity .plus{background-color:#fbfaf9;}
@@ -1022,29 +1187,35 @@ body #toTop:before {color:#fff;}
 #slidingbar-area .widget_categories li a, #slidingbar-area li.recentcomments, #slidingbar-area ul li a, #slidingbar-area .product_list_widget li, #slidingbar-area .widget_recent_entries ul li {border-bottom: 1px solid #282A2B;}
 #slidingbar-area .tagcloud a, 
 #wrapper #slidingbar-area .fusion-tabs-widget .tab-holder, 
-#wrapper #slidingbar-area .fusion-tabs-widget .tab-holder .news-list li 
+#wrapper #slidingbar-area .fusion-tabs-widget .tab-holder .news-list li,
+#slidingbar-area .fusion-accordian .fusion-panel
 {border-color: #282A2B;}
 
 .footer-area .widget_categories li a, .footer-area li.recentcomments, .footer-area ul li a, .footer-area .product_list_widget li, .footer-area .tagcloud a,
 #wrapper .footer-area .fusion-tabs-widget .tab-holder, 
 #wrapper .footer-area .fusion-tabs-widget .tab-holder .news-list li, 
-.footer-area .widget_recent_entries li 
+.footer-area .widget_recent_entries li,
+.footer-area .fusion-accordian .fusion-panel
 {border-color: #505152;}
 
-input#s,#comment-input input,#comment-textarea textarea,.comment-form-comment textarea,.input-text, .post-password-form .password,
+.input-text, input[type="text"], textarea,
+input.s,#comment-input input,#comment-textarea textarea,.comment-form-comment textarea, .post-password-form .password,
 .wpcf7-form .wpcf7-text,.wpcf7-form .wpcf7-quiz,.wpcf7-form .wpcf7-number,.wpcf7-form textarea,.wpcf7-form .wpcf7-select,.wpcf7-captchar,.wpcf7-form .wpcf7-date,
 .gform_wrapper .gfield input[type=text],.gform_wrapper .gfield input[type=email],.gform_wrapper .gfield textarea,.gform_wrapper .gfield select,
 #bbpress-forums .bbp-search-form #bbp_search,.bbp-reply-form input#bbp_topic_tags,.bbp-topic-form input#bbp_topic_title, .bbp-topic-form input#bbp_topic_tags, .bbp-topic-form select#bbp_stick_topic_select, .bbp-topic-form select#bbp_topic_status_select,#bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content,.bbp-login-form input,
 .main-nav-search-form input,.search-page-search-form input,.chzn-container-single .chzn-single,.chzn-container .chzn-drop,
 .avada-select-parent select,.avada-select-parent .select-arrow, #wrapper .select-arrow,
+select,
 #lang_sel_click a.lang_sel_sel,
 #lang_sel_click ul ul a, #lang_sel_click ul ul a:visited,
 #lang_sel_click a, #lang_sel_click a:visited,#wrapper .search-table .search-field input{
 background-color:#ffffff;}
 
-input#s,input#s .placeholder,#comment-input input,#comment-textarea textarea,#comment-input .placeholder,#comment-textarea .placeholder,.comment-form-comment textarea,.input-text, .post-password-form .password,
+.input-text, input[type="text"], textarea,
+input.s,input.s .placeholder,#comment-input input,#comment-textarea textarea,#comment-input .placeholder,#comment-textarea .placeholder,.comment-form-comment textarea, .post-password-form .password,
 .wpcf7-form .wpcf7-text,.wpcf7-form .wpcf7-quiz,.wpcf7-form .wpcf7-number,.wpcf7-form textarea,.wpcf7-form .wpcf7-select,.wpcf7-select-parent .select-arrow,.wpcf7-captchar,.wpcf7-form .wpcf7-date,
 .gform_wrapper .gfield input[type=text],.gform_wrapper .gfield input[type=email],.gform_wrapper .gfield textarea,.gform_wrapper .gfield select,
+select,
 #bbpress-forums .bbp-search-form #bbp_search,.bbp-reply-form input#bbp_topic_tags,.bbp-topic-form input#bbp_topic_title, .bbp-topic-form input#bbp_topic_tags, .bbp-topic-form select#bbp_stick_topic_select, .bbp-topic-form select#bbp_topic_status_select,#bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content,.bbp-login-form input,
 .main-nav-search-form input,.search-page-search-form input,.chzn-container-single .chzn-single,.chzn-container .chzn-drop,.avada-select-parent select, #wrapper .search-table .search-field input
 {color:#aaa9a9;}
@@ -1053,21 +1224,24 @@ input#s:-moz-placeholder,#comment-input input:-moz-placeholder,.post-password-fo
 input#s:-ms-input-placeholder,#comment-input input:-ms-input-placeholder,.post-password-form .password::-ms-input-placeholder,#comment-textarea textarea:-moz-placeholder,.comment-form-comment textarea:-ms-input-placeholder,.input-text:-ms-input-placeholder
 {color:#aaa9a9;}
 
-input#s,#comment-input input,#comment-textarea textarea,.comment-form-comment textarea,.input-text, .post-password-form .password,
+.input-text, input[type="text"], textarea,
+input.s,#comment-input input,#comment-textarea textarea,.comment-form-comment textarea, .post-password-form .password,
 .wpcf7-form .wpcf7-text,.wpcf7-form .wpcf7-quiz,.wpcf7-form .wpcf7-number,.wpcf7-form textarea,.wpcf7-form .wpcf7-select,.wpcf7-select-parent .select-arrow,.wpcf7-captchar,.wpcf7-form .wpcf7-date,
 .gform_wrapper .gfield input[type=text],.gform_wrapper .gfield input[type=email],.gform_wrapper .gfield textarea,.gform_wrapper .gfield_select[multiple=multiple],.gform_wrapper .gfield select,.gravity-select-parent .select-arrow,.select-arrow,
 #bbpress-forums .quicktags-toolbar,#bbpress-forums .bbp-search-form #bbp_search,.bbp-reply-form input#bbp_topic_tags,.bbp-topic-form input#bbp_topic_title, .bbp-topic-form input#bbp_topic_tags, .bbp-topic-form select#bbp_stick_topic_select, .bbp-topic-form select#bbp_topic_status_select,#bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content,#wp-bbp_topic_content-editor-container,#wp-bbp_reply_content-editor-container,.bbp-login-form input,
 .main-nav-search-form input,.search-page-search-form input,.chzn-container-single .chzn-single,.chzn-container .chzn-drop,
 .avada-select-parent select,.avada-select-parent .select-arrow,
+select,
 #lang_sel_click a.lang_sel_sel,
 #lang_sel_click ul ul a, #lang_sel_click ul ul a:visited,
 #lang_sel_click a, #lang_sel_click a:visited,
-#wrapper .search-table .search-field input
+#wrapper .search-table .search-field input,
+.avada-select .select2-container .select2-choice, .woocommerce-checkout .select2-drop-active
 {border-color:#d2d2d2;}
 
+
 #wrapper #nav ul li ul li > a,#wrapper #sticky-nav ul li ul li > a,
-#header-sticky .cart-content a,#header .cart-content a,#small-nav .cart-content a,
-#main-nav-search-form, #sticky-nav-search-form
+#header-sticky .cart-content a,#header .cart-content a,#small-nav .cart-content a
 {border-bottom:1px solid #dcdadb;}
 
 #wrapper .fusion-megamenu-wrapper .fusion-megamenu-submenu,
@@ -1075,44 +1249,48 @@ input#s,#comment-input input,#comment-textarea textarea,.comment-form-comment te
 #nav .fusion-navbar-nav .fusion-megamenu-wrapper ul ul, #sticky-nav .fusion-navbar-nav .fusion-megamenu-wrapper ul ul,
 #wrapper #nav .fusion-navbar-nav .fusion-megamenu-wrapper ul ul li, #wrapper #sticky-nav .fusion-navbar-nav .fusion-megamenu-wrapper ul ul li,
 #header-sticky .cart-content a,#header-sticky .cart-content a:hover,#header-sticky .login-box,#header-sticky .cart-contents,
-#header .cart-content a,#header .cart-content a:hover,#header .login-box,#header .cart-contents,#small-nav .login-box,#small-nav .cart-contents,#small-nav .cart-content a,#small-nav .cart-content a:hover
+#header .cart-content a, #side-header .cart-content a, #header .cart-content a:hover,#side-header .cart-content a:hover,#header .login-box,#header .cart-contents, #side-header .cart-contents,#small-nav .login-box,#small-nav .cart-contents,#small-nav .cart-content a,#small-nav .cart-content a:hover,
+#main-nav-search-form, #sticky-nav-search-form
 {border-color:#dcdadb;}
 
 #wrapper #nav ul li ul li > a:hover, #wrapper #nav ul li ul li.current-menu-item > a,
 #wrapper .fusion-navbar-nav > li .sub-menu .current-menu-ancestor,
 #wrapper #sticky-nav ul li ul li > a:hover, #wrapper #sticky-nav ul li ul li.current-menu-item > a,
-#header-sticky .cart-content a:hover,#header .cart-content a:hover,#small-nav .cart-content a:hover,
+#header-sticky .cart-content a:hover,#header .cart-content a:hover,#side-header .cart-content a:hover,#small-nav .cart-content a:hover,
 #lang_sel_click a.lang_sel_sel:hover,
 #lang_sel_click ul ul a:hover,
 #lang_sel_click a:hover
 {background-color:#f5f4f4;}
 
-#header .tagline{
+#header .tagline,#side-header .tagline{
 	color:#747474;
 }
 
-#header .tagline{
+#header .tagline,#side-header .tagline{
 	font-size:16px;
 	line-height:30px;
 }
 
 #wrapper .page-title h1{
-	font-size:18px;
-	line-height:normal;
+		font-size:18px;
+		line-height:normal;
 }
 
 #wrapper .page-title h3{
-	font-size:14px;
-	line-height: 26px;
+		font-size:14px;
+		line-height: 26px;
 }
 
 .header-social,.header-v2 #header,.header-v3 #header,.header-v4 #header, .header-v5 #header, #header,.header-v4 #small-nav,.header-v5 #small-nav, .header-social .alignleft{
 	border-bottom-color:#e5e5e5;
 }
+#side-header{border-color:#e5e5e5;}
+#side-header #nav.nav-holder .navigation > li > a{border-top-color:#e5e5e5;border-bottom-color:#e5e5e5;}
 
 #nav ul ul,#sticky-nav ul ul{
 	width:50px;
 }
+
 #nav ul ul li ul,#sticky-nav ul ul li ul{
 	left:50px;
 }
@@ -1132,6 +1310,12 @@ ul.navigation > li:last-child ul ul{
 .rtl #wrapper #header-sticky #nav .fusion-megamenu-wrapper ul{
 	left:auto;
 	right:auto;
+}
+body.side-header-left #side-header #nav ul .sub-menu li ul {
+	left:50px;
+}
+body.side-header-right #side-header #nav > ul .sub-menu {
+	left:-50px;
 }
 
 #main .sidebar{
@@ -1174,15 +1358,15 @@ ul.navigation > li:last-child ul ul{
 	background-color:#ffffff;
 }
 
-#wrapper .header-social .menu .sub-menu li, #wrapper .header-social .menu .sub-menu li a,#wrapper .header-social .login-box .forgetmenot,#wrapper .header-social .cart-contents *{
+#wrapper .header-social .menu .sub-menu li, #wrapper .header-social .menu .sub-menu li a,#wrapper .header-social .login-box .forgetmenot, #wrapper .top-menu .cart-contents a, .top-menu .cart-contents .cart-link a:before, .top-menu .cart-contents .checkout-link a:before{
 	color:#747474;
 }
 
-#wrapper .header-social .menu .sub-menu li a:hover,.top-menu .cart-content a:hover{
+#wrapper .header-social .menu .sub-menu li a:hover,.top-menu .cart-content a:hover {
 	background-color:#fafafa;
 }
 
-#wrapper .header-social .menu .sub-menu li a:hover{
+#wrapper .header-social .menu .sub-menu li a:hover, #wrapper .top-menu .cart-contents a:hover, #wrapper .top-menu .cart-contents .cart-link a:hover:before, #wrapper .top-menu .cart-contents .checkout-link a:hover:before{
 	color:#333333;
 }
 
@@ -1209,19 +1393,21 @@ ul.navigation > li:last-child ul ul{
 
 .content-boxes .col{background-color:transparent;}
 
-#wrapper .sidebar .fusion-tabs-widget .tab-holder,.sidebar .fusion-tabs-widget .tab-holder .news-list li{border-color:#ebeaea;}
 #wrapper .sidebar .fusion-tabs-widget .tabs-container{background-color:#ffffff;}
 body .sidebar .fusion-tabs-widget .tab-hold .tabs li{border-right:1px solid #ffffff;}
+body.rtl #wrapper .sidebar .fusion-tabs-widget .tab-hold .tabset li{border-left-color:#ffffff;}
 body .sidebar .fusion-tabs-widget .tab-holder .tabs li a, .sidebar .fusion-tabs-widget .tab-holder .tabs li a{background:#ebeaea;border-bottom:0;color:#747474;}
 body .sidebar .fusion-tabs-widget .tab-hold .tabs li a:hover{background:#ffffff;border-bottom:0;}
 body .sidebar .fusion-tabs-widget .tab-hold .tabs li.active a, body .sidebar .fusion-tabs-widget .tab-holder .tabs li.active a{background:#ffffff;border-bottom:0;}
 body .sidebar .fusion-tabs-widget .tab-hold .tabs li.active a, body .sidebar .fusion-tabs-widget .tab-holder .tabs li.active a{border-top-color:#e9a825;}
 
+#wrapper .sidebar .fusion-tabs-widget .tab-holder,.sidebar .fusion-tabs-widget .tab-holder .news-list li{border-color:#ebeaea;}
+
 .fusion-sharing-box{background-color:#f6f6f6;}
 
-.grid-layout .post,.timeline-layout .post,.blog-timeline-layout .post, .portfolio .portfolio-boxed .portfolio-item-wrapper{background-color:transparent;}
+.grid-layout .post .post-wrapper,.timeline-layout .post,.blog-timeline-layout .post, .portfolio .portfolio-boxed .portfolio-item-wrapper{background-color:transparent;}
 
-.grid-layout .post .flexslider,.grid-layout .post,.grid-layout .post .content-sep,.products li,.product-details-container,.product-buttons,.product-buttons-container, .product .product-buttons,.blog-timeline-layout .post,.blog-timeline-layout .post .content-sep,
+.grid-layout .post .flexslider,.grid-layout .post .post-wrapper,.grid-layout .post .content-sep,.products li,.product-details-container,.product-buttons,.product-buttons-container, .product .product-buttons,.blog-timeline-layout .post,.blog-timeline-layout .post .content-sep,
 .blog-timeline-layout .post .flexslider,.timeline-layout .post,.timeline-layout .post .content-sep,
 .portfolio .portfolio-boxed .portfolio-item-wrapper, .portfolio .portfolio-boxed .content-sep,
 .timeline-layout .post .flexslider,.timeline-layout h3.timeline-title, .fusion-blog-timeline .timeline-title{border-color:#ebeaea;}
@@ -1239,6 +1425,13 @@ body .sidebar .fusion-tabs-widget .tab-hold .tabs li.active a, body .sidebar .fu
 	#bbpress-forums div.bbp-topic-tags a,#bbpress-forums #bbp-single-user-details,div.bbp-template-notice, div.indicator-hint,
 	.bbp-arrow{ border-color:#ebeaea; }
 
+
+#posts-container.grid-layout {
+	margin: 0 -20px;
+}
+#posts-container.grid-layout .post {
+	padding: 20px;
+}
 
 .quicktags-toolbar input {
 	background: linear-gradient(to top, #ffffff, #ffffff ) #3E3E3E;
@@ -1276,24 +1469,37 @@ body .sidebar .fusion-tabs-widget .tab-hold .tabs li.active a, body .sidebar .fu
 
 
 
+
 #nav.nav-holder .navigation > li > a{height:83px;line-height:83px;}
 
 #nav ul li, #sticky-nav ul li { padding-right: 16px; }
 .rtl #nav > .fusion-navbar-nav > li, .rtl #small-nav > .fusion-navbar-nav > li, .rtl #sticky-nav > .fusion-navbar-nav > li { padding-left: 16px; }
+
+#nav ul li > a, #sticky-nav ul li > a, .navigation li.current-menu-ancestor > a,
+#nav ul li > a, #sticky-nav ul li > a, .navigation li.current-menu-ancestor > a
+{ border-top-width: 3px;}
+
+.side-header-left #side-header #nav.nav-holder .navigation li.current-menu-ancestor > a,
+.side-header-left #side-header #nav.nav-holder .navigation li.current-menu-item > a
+{ border-right-width: 3px;}
+
+.side-header-right #side-header #nav.nav-holder .navigation li.current-menu-ancestor > a,
+.side-header-right #side-header #nav.nav-holder .navigation li.current-menu-item > a 
+{ border-left-width: 3px;}
 
 .ei-slider{width:100%;}
 
 .ei-slider{height:400px;}
 
 .button.default,.gform_wrapper .gform_button,#comment-submit,.woocommerce form.checkout #place_order,.woocommerce .single_add_to_cart_button, .woocommerce button.button,#reviews input#submit,.woocommerce .login .button,.woocommerce .register .button,
-.bbp-submit-wrapper button,.wpcf7-form input[type="submit"], .wpcf7-submit, .bbp-submit-wrapper .button
+.bbp-submit-wrapper button,.wpcf7-form input[type="submit"], .wpcf7-submit, .bbp-submit-wrapper .button,#bbp_user_edit_submit, .ticket-selector-submit-btn[type=submit], .gform_page_footer input[type=button]
 {border-color:#785510;}
 .button.default:hover,.gform_wrapper .gform_button:hover,#comment-submit:hover,.woocommerce form.checkout #place_order:hover.woocommerce .single_add_to_cart_button:hover, .woocommerce button.button:hover,#reviews input#submit:hover,.woocommerce .login .button:hover,.woocommerce .register .button:hover,
-.bbp-submit-wrapper button:hover,.wpcf7-form input[type="submit"]:hover, .wpcf7-submit:hover, .bbp-submit-wrapper .button:hover
+.bbp-submit-wrapper button:hover,.wpcf7-form input[type="submit"]:hover, .wpcf7-submit:hover, .bbp-submit-wrapper .button:hover,#bbp_user_edit_submit:hover, .ticket-selector-submit-btn[type=submit]:hover, .gform_page_footer input[type=button];hover
 {border-color:#785510;}
 
 
-.button.default.button-3d.button-small, .fusion-button.button-small.button-3d
+.button.default.button-3d.button-small, .fusion-button.button-small.button-3d, .ticket-selector-submit-btn[type=submit]
 {
 	-webkit-box-shadow: inset 0px 1px 0px #fff, 0px 2px 0px #785510, 1px 4px 4px 2px rgba(0,0,0,0.3);
 	-moz-box-shadow: 	inset 0px 1px 0px #fff, 0px 2px 0px #785510, 1px 4px 4px 2px rgba(0,0,0,0.3);
@@ -1337,24 +1543,29 @@ body .sidebar .fusion-tabs-widget .tab-hold .tabs li.active a, body .sidebar .fu
 }		
 .button.default.button-3d.button-xlarge:active, .fusion-button.button-xlarge.button-3d:active
 {
-	-webkit-box-shadow: inset 0px 1px 0px #fff, 0px 2px 0px #785510, 1px 7px 7px 3px rgba(0,0,0,0.3);
+	-webkit-box-shadow: inset 0px 1px 0px #fff, 0px 2px 0px #785510, 1px 7px 7px 3px rgba(0,0,0,0f.3);
 	-moz-box-shadow: 	inset 0px 1px 0px #fff, 0px 2px 0px #785510, 1px 7px 7px 3px rgba(0,0,0,0.3);
 	box-shadow: 		inset 0px 1px 0px #fff, 0px 2px 0px #785510, 1px 7px 7px 3px rgba(0,0,0,0.3);					
 }
 
 .woocommerce form.checkout #place_order,
-.woocommerce .single_add_to_cart_button, .woocommerce button.button { border-width: 1px; border-style: solid;}
+.woocommerce .single_add_to_cart_button, .woocommerce button.button, #bbp_user_edit_submit, .ticket-selector-submit-btn[type=submit], .gform_page_footer input[type=button] { border-width: 1px; border-style: solid;}
 
 
-.button.default,#comment-submit,.woocommerce form.checkout #place_order,.woocommerce .single_add_to_cart_button, .woocommerce button.button,#reviews input#submit,.woocommerce .avada-shipping-calculator-form .button,.woocommerce .login .button,.woocommerce .register .button,
-.bbp-submit-wrapper .button,.wpcf7-form input[type="submit"], .wpcf7-submit
+.button.default,.button-default,#comment-submit,.woocommerce form.checkout #place_order,.woocommerce .single_add_to_cart_button, .woocommerce button.button,#reviews input#submit,.woocommerce .avada-shipping-calculator-form .button,.woocommerce .login .button,.woocommerce .register .button,
+.bbp-submit-wrapper .button,.wpcf7-form input[type="submit"], .wpcf7-submit, #bbp_user_edit_submit, .ticket-selector-submit-btn[type=submit], .gform_page_footer input[type=button], .gform_wrapper .gform_button
 {border-radius: 2px;}
 
 
 
 .image .image-extras .image-extras-content h3,
 .image .image-extras .image-extras-content h4,
-.image .image-extras .image-extras-content a {
+.image .image-extras .image-extras-content a,
+.image .image-extras .image-extras-content h4,
+.image .image-extras .image-extras-content .cats,
+.image .image-extras .image-extras-content .cats a,
+.image .image-extras .image-extras-content .price,
+.image .image-extras .image-extras-content * {
 	text-shadow:none;
 }
 
@@ -1371,138 +1582,18 @@ body .sidebar .fusion-tabs-widget .tab-hold .tabs li.active a, body .sidebar .fu
 
 
 
+#side-header .logo,.rtl #side-header .logo{float:none;text-align:center;}
 
 .header-v5 #header .logo{float:left;}
 
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 13/10), only screen and (min-resolution: 120dpi) {
-	#header-sticky .normal_logo,#header .normal_logo{display:none;}
-	#header-sticky .retina_logo,#header .retina_logo{display:inline;}
+	#header-sticky .normal_logo,#header .normal_logo, #side-header .normal_logo{display:none;}
+	#header-sticky .retina_logo,#header .retina_logo, #side-header .retina_logo{display:inline;}
 }
 
 .bbp_reply_admin_links .admin_links_sep, .bbp-admin-links .admin_links_sep{
 	display: none;
-}
-
-.rev_slider_wrapper{
-	position:relative
-}
-
-.rev_slider_wrapper .shadow-left{
-	position:absolute;
-	pointer-events:none;
-	background-image:url(http://dropshipdirect.com/wp-content/themes/Avada/images/shadow-top.png);
-	background-repeat:no-repeat;
-	background-position:top center;
-	height:42px;
-	width:100%;
-	top:0;
-	z-index:99;
-}
-
-.rev_slider_wrapper .shadow-left{top:-1px;}
-
-.rev_slider_wrapper .shadow-right{
-	position:absolute;
-	pointer-events:none;
-	background-image:url(http://dropshipdirect.com/wp-content/themes/Avada/images/shadow-bottom.png);
-	background-repeat:no-repeat;
-	background-position:bottom center;
-	height:32px;
-	width:100%;
-	bottom:0;
-	z-index:99;
-}
-
-.avada-skin-rev{
-	border-top: 1px solid #d2d3d4;
-	border-bottom: 1px solid #d2d3d4;
-	-moz-box-sizing: content-box;
-	box-sizing: content-box;
-}
-
-.tparrows{border-radius:0;}
-
-.rev_slider_wrapper .tp-leftarrow, .rev_slider_wrapper .tp-rightarrow{
-	opacity:0.8;
-	position: absolute;
-	top: 50% !important;
-	margin-top:-31px !important;	
-	width: 63px !important;
-	height: 63px !important;
-	background:none;
-	background-color: rgba(0, 0, 0, 0.5) ;	
-	color:#fff;
-}
-
-.rev_slider_wrapper .tp-leftarrow:before{
-	content:"\e61e";
-	-webkit-font-smoothing: antialiased;
-}
-
-.rev_slider_wrapper .tp-rightarrow:before{
-	content:"\e620";
-	-webkit-font-smoothing: antialiased;
-}
-
-.rev_slider_wrapper .tp-leftarrow:before, .rev_slider_wrapper .tp-rightarrow:before{
-	position: absolute;
-	padding:0;
-	width: 100%;
-	line-height: 63px;
-	text-align: center;
-	font-size: 25px;
-	font-family: IcoMoon;
-
-}
-
-.rev_slider_wrapper .tp-leftarrow:before{
-	margin-left: -2px;
-}
-
-.rev_slider_wrapper .tp-rightarrow:before{
-	margin-left: -1px;
-}
-
-.rev_slider_wrapper .tp-rightarrow{
-	left:auto;
-	right:0;
-}
-
-.no-rgba .rev_slider_wrapper .tp-leftarrow, .no-rgba .rev_slider_wrapper .tp-rightarrow{
-	background-color:#ccc ;
-}
-
-.rev_slider_wrapper:hover .tp-leftarrow,.rev_slider_wrapper:hover .tp-rightarrow{
-	display:block;
-	opacity:0.8;
-}
-
-.rev_slider_wrapper .tp-leftarrow:hover, .rev_slider_wrapper .tp-rightarrow:hover{
-	opacity:1;
-}
-
-.rev_slider_wrapper .tp-leftarrow{
-	background-position: 19px 19px ;
-	left: 0;
-	margin-left:0;
-	z-index:100;
-}
-
-.rev_slider_wrapper .tp-rightarrow{
-	background-position: 29px 19px ;
-	right: 0;
-	margin-left:0;
-	z-index:100;
-}
-
-.rev_slider_wrapper .tp-leftarrow.hidearrows,
-.rev_slider_wrapper .tp-rightarrow.hidearrows {
-	opacity: 0;
-}
-
-.tp-bullets .bullet.last{
-	clear:none;
 }
 
 
@@ -1511,22 +1602,90 @@ body .sidebar .fusion-tabs-widget .tab-hold .tabs li.active a, body .sidebar .fu
 }
 
 
-.imageframe-glow img{
-		-moz-box-shadow: 0 0 3px rgba(0,0,0,.3);
-		-webkit-box-shadow: 0 0 3px rgba(0,0,0,.3);
-		box-shadow: 0 0 3px rgba(0,0,0,.3);
-	}.imageframe-dropshadow img{
-		-moz-box-shadow: 2px 3px 7px rgba(0,0,0,.3);
-		-webkit-box-shadow: 2px 3px 7px rgba(0,0,0,.3);
-		box-shadow: 2px 3px 7px rgba(0,0,0,.3);
-	}
+
+
+#side-header .side-header-content, #side-header #nav.nav-holder .navigation > li > a, .header-wrapper .header-social .avada-row, .header-wrapper #header .avada-row, #header-sticky .avada-row, .header-wrapper .header-v4 #small-nav .avada-row, .header-wrapper .header-v5 #small-nav .avada-row { padding-left: 0px; }
+
+#side-header .side-header-content, #side-header #nav.nav-holder .navigation > li > a, .header-wrapper .header-social .avada-row, .header-wrapper #header .avada-row, #header-sticky .avada-row, .header-wrapper .header-v4 #small-nav .avada-row, .header-wrapper .header-v5 #small-nav .avada-row { padding-right: 0px; }
+
+body.side-header-left #side-header.header-shadow:after {
+    content: "";
+    z-index: 99996;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+	-webkit-box-shadow: 10px 0px 50px -2px rgba(0, 0, 0, 0.14);
+	-moz-box-shadow: 10px 0px 50px -2px rgba(0, 0, 0, 0.14);
+	box-shadow: 10px 0px 50px -2px rgba(0, 0, 0, 0.14);
+}
+body.side-header-right #side-header.header-shadow:after {
+    content: "";
+    z-index: 99996;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+	-webkit-box-shadow: -10px 0px 50px -2px rgba(0, 0, 0, 0.14);
+	-moz-box-shadow: -10px 0px 50px -2px rgba(0, 0, 0, 0.14);
+	box-shadow: -10px 0px 50px -2px rgba(0, 0, 0, 0.14);
+}
+.header-wrapper.header-shadow:after {
+    content: "";
+    z-index: 99996;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+	-webkit-box-shadow: 0px 10px 50px -2px rgba(0, 0, 0, 0.14);
+	-moz-box-shadow: 0px 10px 50px -2px rgba(0, 0, 0, 0.14);
+	box-shadow: 0px 10px 50px -2px rgba(0, 0, 0, 0.14);
+}
+
+#side-header{width:280px;}
+body.side-header-left #wrapper{margin-left:280px;}
+body.side-header-right #wrapper{margin-right:280px;}
+body.side-header-left #side-header #nav > ul > li > ul, body.side-header-left #side-header #nav .login-box, body.side-header-left #side-header #nav .cart-contents, body.side-header-left #side-header #nav .main-nav-search-form{left:279px;}
+body.rtl #boxed-wrapper{ position: relative; }
+body.rtl.layout-boxed-mode.side-header-left #side-header{ position: absolute; left: 0; top: 0; margin-left:0px; }
+body.rtl.side-header-left #side-header .side-header-wrapper{ position: fixed; width:280px;}
+
+body.side-header-left #slidingbar .avada-row,
+body.side-header-right #slidingbar .avada-row{max-width: none;}
+
+
+#wrapper .header-wrapper .fusion-megamenu-wrapper .fusion-megamenu {
+  -webkit-box-shadow: 0 2px 2px #999;
+  -moz-box-shadow: 0 2px 2px #999;
+  box-shadow: 0 2px 2px #999;
+}
+#wrapper #side-header .fusion-megamenu-wrapper .fusion-megamenu {
+	-webkit-box-shadow: 0px 10px 50px -2px rgba(0, 0, 0, 0.14);
+	-moz-box-shadow: 0px 10px 50px -2px rgba(0, 0, 0, 0.14);
+	box-shadow: 0px 10px 50px -2px rgba(0, 0, 0, 0.14);
+}
+#nav ul ul,
+#sticky-nav ul ul {
+	-moz-box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.06);
+	-webkit-box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.06);
+	box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.06);
+}
+
+
+
+
 
 		
 		#wrapper{
 		width:100%;
 		max-width: none;
 	}
-	//.wrapper_blank { display: block; }
 	@media only screen and (min-width: 801px) and (max-width: 1014px){
 		#wrapper{
 			width:auto;
@@ -1557,11 +1716,141 @@ body .sidebar .fusion-tabs-widget .tab-hold .tabs li.active a, body .sidebar .fu
 		background-color:#F6F6F6;
 	}
 	
-	#header{
+	#header, #side-header{
 			}
 
-	#header{
-					}
+	#header, #side-header {
+			}
+	
+	#header, #side-header{	
+			}
+	
+
+		
+	
+	
+	.rev_slider_wrapper{
+		position:relative
+	}
+
+		.rev_slider_wrapper .shadow-left{
+		position:absolute;
+		pointer-events:none;
+		background-image:url(http://dropshipdirect.com/wp-content/themes/Avada/images/shadow-top.png);
+		background-repeat:no-repeat;
+		background-position:top center;
+		height:42px;
+		width:100%;
+		top:0;
+		z-index:99;
+	}
+
+	.rev_slider_wrapper .shadow-left{top:-1px;}
+	
+	
+	.rev_slider_wrapper .shadow-right{
+		position:absolute;
+		pointer-events:none;
+		background-image:url(http://dropshipdirect.com/wp-content/themes/Avada/images/shadow-bottom.png);
+		background-repeat:no-repeat;
+		background-position:bottom center;
+		height:32px;
+		width:100%;
+		bottom:0;
+		z-index:99;
+	}
+
+	.avada-skin-rev{
+		border-top: 1px solid #d2d3d4;
+		border-bottom: 1px solid #d2d3d4;
+		-moz-box-sizing: content-box;
+		box-sizing: content-box;
+	}
+
+	.tparrows{border-radius:0;}
+
+	.rev_slider_wrapper .tp-leftarrow, .rev_slider_wrapper .tp-rightarrow{
+		opacity:0.8;
+		position: absolute;
+		top: 50% !important;
+		margin-top:-31px !important;	
+		width: 63px !important;
+		height: 63px !important;
+		background:none;
+		background-color: rgba(0, 0, 0, 0.5) ;	
+		color:#fff;
+	}
+
+	.rev_slider_wrapper .tp-leftarrow:before{
+		content:"\e61e";
+		-webkit-font-smoothing: antialiased;
+	}
+
+	.rev_slider_wrapper .tp-rightarrow:before{
+		content:"\e620";
+		-webkit-font-smoothing: antialiased;
+	}
+
+	.rev_slider_wrapper .tp-leftarrow:before, .rev_slider_wrapper .tp-rightarrow:before{
+		position: absolute;
+		padding:0;
+		width: 100%;
+		line-height: 63px;
+		text-align: center;
+		font-size: 25px;
+		font-family: IcoMoon;
+
+	}
+
+	.rev_slider_wrapper .tp-leftarrow:before{
+		margin-left: -2px;
+	}
+
+	.rev_slider_wrapper .tp-rightarrow:before{
+		margin-left: -1px;
+	}
+
+	.rev_slider_wrapper .tp-rightarrow{
+		left:auto;
+		right:0;
+	}
+
+	.no-rgba .rev_slider_wrapper .tp-leftarrow, .no-rgba .rev_slider_wrapper .tp-rightarrow{
+		background-color:#ccc ;
+	}
+
+	.rev_slider_wrapper:hover .tp-leftarrow,.rev_slider_wrapper:hover .tp-rightarrow{
+		display:block;
+		opacity:0.8;
+	}
+
+	.rev_slider_wrapper .tp-leftarrow:hover, .rev_slider_wrapper .tp-rightarrow:hover{
+		opacity:1;
+	}
+
+	.rev_slider_wrapper .tp-leftarrow{
+		background-position: 19px 19px ;
+		left: 0;
+		margin-left:0;
+		z-index:100;
+	}
+
+	.rev_slider_wrapper .tp-rightarrow{
+		background-position: 29px 19px ;
+		right: 0;
+		margin-left:0;
+		z-index:100;
+	}
+
+	.rev_slider_wrapper .tp-leftarrow.hidearrows,
+	.rev_slider_wrapper .tp-rightarrow.hidearrows {
+		opacity: 0;
+	}
+
+	.tp-bullets .bullet.last{
+		clear:none;
+	}
+		
 
 	
 	#main{
@@ -1583,15 +1872,15 @@ body .sidebar .fusion-tabs-widget .tab-hold .tabs li.active a, body .sidebar .fu
 		
 		
 		
-		
-	}
-
+			}
+	
 		.page-title-container{
 		height:87px;
 	}
 	
 	
-	
+		
+
 	
 		.width-100 .fullwidth-box, .width-100 .fusion-section-separator {
 		margin-left: -20px; margin-right: -20px;
@@ -1609,12 +1898,14 @@ max-width: 100% !important;
 padding-left: 0 !important;
 padding-right: 0 !important;
 }
-	
 	.woocommerce-invalid:after { content: 'Please enter correct details for this required field.'; display: inline-block; margin-top: 7px; color: red; }
 
+		
+		
+
 	
-	
-		</style>
+		
+	</style>
 
 			
 	
@@ -1634,10 +1925,10 @@ padding-right: 0 !important;
   })();
 
 </script>
-	</head>
-<body class="page page-id-4960 page-child parent-pageid-4521 page-template-default no-tablet-sticky-header no-mobile-sticky-header no-mobile-totop mobile-menu-design-classic" data-spy="scroll">
-	<div id="wrapper" class="">
-					<div class="header-wrapper">
+	<script async="" type="text/javascript" src="//dropshipdirect.disqus.com/count.js"></script></head>
+<body class="page page-id-4960 page-child parent-pageid-4521 page-template-default no-tablet-sticky-header no-mobile-sticky-header no-mobile-totop layout-wide-mode has-sidebar fusion-ubermenu-active mobile-menu-design-classic" data-spy="scroll">
+			<div id="wrapper" class="">
+					<div class="header-wrapper header-shadow">
 				<div class="header-v2">
 		<div class="header-social">
 		<div class="avada-row">
@@ -1646,7 +1937,7 @@ padding-right: 0 !important;
 			</div>
 			<div class="alignright">
 				<div class="fusion-social-links-header">
-<div class="fusion-social-networks"><a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusionicon-facebook" style="color:#555555;" target="_blank" href="http://www.facebook.com/wholesalesupplies" data-placement="bottom" data-title="Facebook" data-toggle="tooltip" title="Facebook"></a><a class="fusion-social-network-icon fusion-tooltip fusion-flickr fusionicon-flickr" style="color:#555555;" target="_blank" href="https://www.flickr.com/photos/dropship_direct" data-placement="bottom" data-title="Flickr" data-toggle="tooltip" title="Flickr"></a><a class="fusion-social-network-icon fusion-tooltip fusion-rss fusionicon-rss" style="color:#555555;" target="_blank" href="http://dropshipdirect.com/feed/rss" data-placement="bottom" data-title="Rss" data-toggle="tooltip" title="Rss"></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusionicon-twitter" style="color:#555555;" target="_blank" href="https://twitter.com/dropship_direct" data-placement="bottom" data-title="Twitter" data-toggle="tooltip" title="Twitter"></a><a class="fusion-social-network-icon fusion-tooltip fusion-vimeo fusionicon-vimeo" style="color:#555555;" target="_blank" href="https://vimeo.com/groups/dropshipdirect" data-placement="bottom" data-title="Vimeo" data-toggle="tooltip" title="Vimeo"></a><a class="fusion-social-network-icon fusion-tooltip fusion-youtube fusionicon-youtube" style="color:#555555;" target="_blank" href="http://www.youtube.com/user/dropshipdirect" data-placement="bottom" data-title="Youtube" data-toggle="tooltip" title="Youtube"></a><a class="fusion-social-network-icon fusion-tooltip fusion-pinterest fusionicon-pinterest" style="color:#555555;" target="_blank" href="http://www.pinterest.com/dropshipdirect" data-placement="bottom" data-title="Pinterest" data-toggle="tooltip" title="Pinterest"></a><a class="fusion-social-network-icon fusion-tooltip fusion-googleplus fusionicon-googleplus" style="color:#555555;" target="_blank" href="https://plus.google.com/+dropshipdirectcom" data-placement="bottom" data-title="Google+" data-toggle="tooltip" title="Google+"></a><a class="fusion-social-network-icon fusion-tooltip fusion-linkedin fusionicon-linkedin" style="color:#555555;" target="_blank" href="https://www.linkedin.com/company/dsdi" data-placement="bottom" data-title="Linkedin" data-toggle="tooltip" title="Linkedin"></a><a class="fusion-social-network-icon fusion-tooltip fusion-dropbox fusionicon-dropbox" style="color:#555555;" target="_blank" href="https://www.dropbox.com/sh/nb8wcgy6sufjnjs/AACFgdBPdu5gs2WFu5ThhlZZa?dl=0" data-placement="bottom" data-title="Dropbox" data-toggle="tooltip" title="Dropbox"></a><a class="fusion-social-network-icon fusion-tooltip fusion-mail fusionicon-mail" style="color:#555555;" target="_self" href="mailto:help@dropshipdirect.com" data-placement="bottom" data-title="Mail" data-toggle="tooltip" title="Mail"></a></div></div>
+<div class="fusion-social-networks"><a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusionicon-facebook" style="color:#000000;" target="_blank" href="http://www.facebook.com/wholesalesupplies" data-placement="bottom" data-title="Facebook" data-toggle="tooltip" title="Facebook"></a><a class="fusion-social-network-icon fusion-tooltip fusion-flickr fusionicon-flickr" style="color:#000000;" target="_blank" href="https://www.flickr.com/photos/dropship_direct" data-placement="bottom" data-title="Flickr" data-toggle="tooltip" title="Flickr"></a><a class="fusion-social-network-icon fusion-tooltip fusion-rss fusionicon-rss" style="color:#000000;" target="_blank" href="http://dropshipdirect.com/feed/rss" data-placement="bottom" data-title="Rss" data-toggle="tooltip" title="Rss"></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusionicon-twitter" style="color:#000000;" target="_blank" href="https://twitter.com/dropship_direct" data-placement="bottom" data-title="Twitter" data-toggle="tooltip" title="Twitter"></a><a class="fusion-social-network-icon fusion-tooltip fusion-vimeo fusionicon-vimeo" style="color:#000000;" target="_blank" href="https://vimeo.com/groups/dropshipdirect" data-placement="bottom" data-title="Vimeo" data-toggle="tooltip" title="Vimeo"></a><a class="fusion-social-network-icon fusion-tooltip fusion-youtube fusionicon-youtube" style="color:#000000;" target="_blank" href="http://www.youtube.com/user/dropshipdirect" data-placement="bottom" data-title="Youtube" data-toggle="tooltip" title="Youtube"></a><a class="fusion-social-network-icon fusion-tooltip fusion-pinterest fusionicon-pinterest" style="color:#000000;" target="_blank" href="http://www.pinterest.com/dropshipdirect" data-placement="bottom" data-title="Pinterest" data-toggle="tooltip" title="Pinterest"></a><a class="fusion-social-network-icon fusion-tooltip fusion-googleplus fusionicon-googleplus" style="color:#000000;" target="_blank" href="https://plus.google.com/+dropshipdirectcom" data-placement="bottom" data-title="Google+" data-toggle="tooltip" title="Google+"></a><a class="fusion-social-network-icon fusion-tooltip fusion-linkedin fusionicon-linkedin" style="color:#000000;" target="_blank" href="https://www.linkedin.com/company/dsdi" data-placement="bottom" data-title="Linkedin" data-toggle="tooltip" title="Linkedin"></a><a class="fusion-social-network-icon fusion-tooltip fusion-mail fusionicon-mail" style="color:#000000;" target="_self" href="mailto:help@dropshipdirect.com" data-placement="bottom" data-title="Mail" data-toggle="tooltip" title="Mail"></a><a class="custom fusion-social-network-icon fusion-tooltip fusion-disqus fusionicon-disqus" style="color:#000000;" target="_blank" href="https://disqus.com/dropshipdirect" data-placement="bottom" data-title="Disqus" data-toggle="tooltip" title="Disqus"><img src="http://dropshipdirect.com/wp-content/uploads/2014/11/disqus-icon.png" alt="Disqus"></a></div></div>
 			</div>
 		</div>
 	</div>
@@ -1709,9 +2000,9 @@ padding-right: 0 !important;
 </li><li id="menu-item-4699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children ss-nav-menu-item-depth-1 ss-nav-menu-with-icon"><a href="http://dropshipdirect.com/warehouse/fast_shopping_cart.php"><span class="wpmega-link-title"><i class="fa fa-shopping-cart"></i> Shopping Cart</span></a>
 	<ul class="sub-menu sub-menu-2">
 <li id="menu-item-4700" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="http://dropshipdirect.com/warehouse/shopping_cart.php"><span class="wpmega-link-title">Cart Contents</span></a></li><li id="menu-item-4701" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="http://dropshipdirect.com/warehouse/fast_shopping_cart.php"><span class="wpmega-link-title">Fast Checkout!</span></a></li>	</ul>
-</li><li id="menu-item-4702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children ss-nav-menu-item-depth-1 ss-nav-menu-with-icon"><a href="https://dropshipdirect.com/warehouse/vendor_export_speedup.php"><span class="wpmega-link-title"><i class="fa fa-cloud-download"></i> Product DataFeeds</span></a>
+</li><li id="menu-item-4702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children ss-nav-menu-item-depth-1 ss-nav-menu-with-icon"><a href="https://dropshipdirect.com/pushlist"><span class="wpmega-link-title"><i class="fa fa-cloud-download"></i> Product DataFeeds</span></a>
 	<ul class="sub-menu sub-menu-2">
-<li id="menu-item-4703" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="https://dropshipdirect.com/warehouse/vendor_export_speedup.php"><span class="wpmega-link-title">Data Export Tool</span></a></li><li id="menu-item-4704" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="http://dropshipdirect.com/warehouse/categories_images_subscribtion.php"><span class="wpmega-link-title">Mass Image Downloads</span></a></li><li id="menu-item-4705" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="http://dropshipdirect.com/pushlist-dropship-data-feed-technology"><span class="wpmega-link-title">Marketplace Data</span></a></li>	</ul>
+<li id="menu-item-4703" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="https://dropshipdirect.com/pushlist"><span class="wpmega-link-title">PushList: Data Feed Tool</span></a></li><li id="menu-item-4704" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="https://dropshipdirect.com/pushlist"><span class="wpmega-link-title">Mass Image Downloads</span></a></li><li id="menu-item-4705" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><a href="https://dropshipdirect.com/pushlist"><span class="wpmega-link-title">Marketplaces: eBay/Amazon/etc</span></a></li>	</ul>
 </li></ul>
 </li><li id="menu-item-4746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-with-sub ss-nav-menu-item-3 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-mega-alignCenter"><a href="https://dropshipdirect.com/warehouse/account.php"><span class="wpmega-link-title">ACCOUNT</span></a>
 <ul class="sub-menu sub-menu-1">
@@ -1736,12 +2027,12 @@ padding-right: 0 !important;
 			
 	<div id="sliders-container">
 		</div>
-			<div class="page-title-container">
+			<div class="page-title-container page-title-container-breadcrumbs page-title-left">
 		<div class="page-title">
 			<div class="page-title-wrapper">
 				<div class="page-title-captions">
 											<h1 class="entry-title">Your Privacy</h1>
-															</div>
+																				</div>
 				<ul class="breadcrumbs"><li> <a href="http://dropshipdirect.com">Home</a></li><li><a href="http://dropshipdirect.com/about" title="About Dropship Direct : DSDI INC">About Dropship Direct : DSDI INC</a></li><li>Your Privacy</li></ul>			</div>
 		</div>
 	</div>
@@ -1751,14 +2042,14 @@ padding-right: 0 !important;
 			<span class="entry-title" style="display: none;">Your Privacy</span><span class="vcard" style="display: none;"><span class="fn"><a href="http://dropshipdirect.com/author/h3adh0nch0" title="Posts by DSDI Administrator" rel="author">DSDI Administrator</a></span></span><span class="updated" style="display:none;">2014-04-30T01:25:55+00:00</span>																		<div class="post-content">
 				<p><em>Last Updated: 05/09/13</em></p>
 <p>Your credit card and company information is always safe with DropShipDirect.com – we guarantee it. DSDI INC respects and protects your privacy.</p>
-<div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-content-boxes-1 content-boxes-icon-boxed row">
-<div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12"><div class="col content-wrapper-background content-wrapper-boxed" style="background-color:#f6f6f6;"><div class="heading heading-with-icon"><div class="icon"><i style="border-color:#333333;background-color:#ffffff;color:#333333;" class="fa fontawesome-icon medium fa-lock circle-yes"></i></div><h2 class="content-box-heading"><strong>Guarantee</strong></h2></div><div class="content-container">Your browser and the DropShipDirect.com secure server encrypt confidential information during transmission, ensuring that transactions stay private and protected. DropShipDirect.com guarantees the safety of your credit card information in the following manner: if any unauthorized use of your credit card occurs as a result of your credit card purchase from DropShipDirect.com, simply notify your credit card provider in accordance with its reporting rules and procedures. If, through no fault of your own, your credit card company finds credit card fraud but does not waive your entire liability for unauthorized charges, DropShipDirect.com will reimburse you for the remaining liability, up to a maximum of fifty dollars U.S. ($50.00) per card. This guarantee applies to purchases made using any relevant DropshipDirect.com secure server (https: protocol) via PayPal.com, Google.com, or another applicable gateway.</div></div></div><div class="fusion-clearfix"></div>
+<div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-content-boxes-1 content-boxes-icon-boxed row content-">
+<div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12"><div class="col content-wrapper-background content-wrapper-boxed" style="background-color:#f6f6f6;"><div class="heading heading-with-icon icon-large"><div class="icon"><i style="border-color:#333333;background-color:#ffffff;color:#333333;" class="fa fontawesome-icon fa-lock circle-yes large"></i></div><h2 class="content-box-heading"><strong>Guarantee</strong></h2></div><div class="fusion-clearfix"></div><div class="content-container icon-large">Your browser and the DropShipDirect.com secure server encrypt confidential information during transmission, ensuring that transactions stay private and protected. DropShipDirect.com guarantees the safety of your credit card information in the following manner: if any unauthorized use of your credit card occurs as a result of your credit card purchase from DropShipDirect.com, simply notify your credit card provider in accordance with its reporting rules and procedures. If, through no fault of your own, your credit card company finds credit card fraud but does not waive your entire liability for unauthorized charges, DropShipDirect.com will reimburse you for the remaining liability, up to a maximum of fifty dollars U.S. ($50.00) per card. This guarantee applies to purchases made using any relevant DropshipDirect.com secure server (https: protocol) via PayPal.com, Google.com, or another applicable gateway.</div></div></div><div class="fusion-clearfix"></div>
 <div class="fusion-clearfix"></div></div>
-<style type="text/css">.reading-box-container-1 .element-bottomshadow:before,.reading-box-container-1 .element-bottomshadow:after{opacity:0.7;}</style><div class="fusion-reading-box-container reading-box-container-1"><section class="reading-box" style="background-color:#f6f6f6;border-width:0px;border-color:#f6f6f6;border-bottom-width:3px;border-bottom-color:#e9a825;border-style:solid;"><h2><strong>Secure Browser</strong></h2><p>Your browser and various DropShipDirect.com secure servers encrypt confidential information during transmission, ensuring that all superstore and clearance transactions stay private and protected. If participating on our Auction site, you will be given the option to place online transactions over a secure server. On a secure server, your credit card information is encrypted during its transmission, ensuring that your data remains confidential. We recommend all transactions be placed via a secure server, as we are not responsible for any information placed over an unsecured server.</p></section></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#e0dede;margin-top:5px;margin-bottom:5px;"></div><style type="text/css">.reading-box-container-2 .element-bottomshadow:before,.reading-box-container-2 .element-bottomshadow:after{opacity:0.7;}</style><div class="fusion-reading-box-container reading-box-container-2"><section class="reading-box" style="background-color:#f6f6f6;border-width:0px;border-color:#f6f6f6;border-bottom-width:3px;border-bottom-color:#e9a825;border-style:solid;"><h2><strong>Credit Card Security</strong></h2><p>DropShipDirect.com reserves the right to monitor order activity to ensure a fair process. DropShipDirect.com also reserves the right to reject any order deemed to be made in bad faith, or that may be in violation of local laws, taxes or restrictions. We strongly advise not to test the web site with false orders, as it will result in substantial, personal legal risk. It is a violation of the law to make bids or orders under a false name or with an invalid credit card.<br>
+<style type="text/css">.reading-box-container-1 .element-bottomshadow:before,.reading-box-container-1 .element-bottomshadow:after{opacity:0.7;}</style><div class="fusion-reading-box-container reading-box-container-1"><div class="reading-box" style="background-color:#f6f6f6;border-width:0px;border-color:#f6f6f6;border-bottom-width:3px;border-bottom-color:#e9a825;border-style:solid;"><h2><strong>Secure Browser</strong></h2><div class="reading-box-description">Your browser and various DropShipDirect.com secure servers encrypt confidential information during transmission, ensuring that all superstore and clearance transactions stay private and protected. If participating on our Auction site, you will be given the option to place online transactions over a secure server. On a secure server, your credit card information is encrypted during its transmission, ensuring that your data remains confidential. We recommend all transactions be placed via a secure server, as we are not responsible for any information placed over an unsecured server.</div></div></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#e0dede;margin-top:5px;margin-bottom:5px;"></div><style type="text/css">.reading-box-container-2 .element-bottomshadow:before,.reading-box-container-2 .element-bottomshadow:after{opacity:0.7;}</style><div class="fusion-reading-box-container reading-box-container-2"><div class="reading-box" style="background-color:#f6f6f6;border-width:0px;border-color:#f6f6f6;border-bottom-width:3px;border-bottom-color:#e9a825;border-style:solid;"><h2><strong>Credit Card Security</strong></h2><div class="reading-box-description">DropShipDirect.com reserves the right to monitor order activity to ensure a fair process. DropShipDirect.com also reserves the right to reject any order deemed to be made in bad faith, or that may be in violation of local laws, taxes or restrictions. We strongly advise not to test the web site with false orders, as it will result in substantial, personal legal risk. It is a violation of the law to make bids or orders under a false name or with an invalid credit card.<br>
 DropShipDirect.com has a sophisticated Fraud Control system that screens for orders, which are subject to investigation and possible cancellation.<br>
 For your protection, credit card orders may be delayed while screening takes place.<br>
-Persons who commit fraudulent activity will be prosecuted to the fullest extent of the law. Web browsers transmit a unique address that can be used by law enforcement officials to identify fraudulent activity. Both the FBI and the US Secret Service are responsible for investigating Internet fraud cases. Fraudulent information will be provided to the issuing bank, shipping carriers, and networked with our business partners.</p></section></div>
-<style type="text/css">.reading-box-container-3 .element-bottomshadow:before,.reading-box-container-3 .element-bottomshadow:after{opacity:0.7;}</style><div class="fusion-reading-box-container reading-box-container-3"><section class="reading-box" style="background-color:#f6f6f6;border-width:0px;border-color:#f6f6f6;border-bottom-width:3px;border-bottom-color:#e9a825;border-style:solid;"><h2><strong>Cookies</strong></h2><p>DropShipDirect.com uses software tags called - cookies - to identify customers when they visit our site. They help us understand your buying preferences and customize our service to your needs. By understanding which areas of the site you visit, cookies allow us to present information, products and specials that are of personal interest to you. Our goal is to save you time and make your shopping experience unique. The information we collect with cookies is not sold, rented or shared with any outside parties.</p></section></div>
+Persons who commit fraudulent activity will be prosecuted to the fullest extent of the law. Web browsers transmit a unique address that can be used by law enforcement officials to identify fraudulent activity. Both the FBI and the US Secret Service are responsible for investigating Internet fraud cases. Fraudulent information will be provided to the issuing bank, shipping carriers, and networked with our business partners.</div></div></div>
+<style type="text/css">.reading-box-container-3 .element-bottomshadow:before,.reading-box-container-3 .element-bottomshadow:after{opacity:0.7;}</style><div class="fusion-reading-box-container reading-box-container-3"><div class="reading-box" style="background-color:#f6f6f6;border-width:0px;border-color:#f6f6f6;border-bottom-width:3px;border-bottom-color:#e9a825;border-style:solid;"><h2><strong>Cookies</strong></h2><div class="reading-box-description">DropShipDirect.com uses software tags called - cookies - to identify customers when they visit our site. They help us understand your buying preferences and customize our service to your needs. By understanding which areas of the site you visit, cookies allow us to present information, products and specials that are of personal interest to you. Our goal is to save you time and make your shopping experience unique. The information we collect with cookies is not sold, rented or shared with any outside parties.</div></div></div>
 <p><strong>Use of Your Personal and/or Company Information</strong><br>
 We do not sell or rent our customer information to any outside party under any circumstances. We do not reveal your e-mail address or other personal information, except to complete transactions with our third-party vendor partners. In such cases, we provide only the information required to complete the transaction. By contract, the third party is not permitted to sell, rent or share this information.<br>
 During the DropShipDirect.com registration process, we ask you to provide us with contact information, such as name, billing address, shipping address, e-mail address, telephone number and a valid credit card number. We use this information to verify your account when you place an order.</p>
@@ -1770,60 +2061,60 @@ You may occasionally see contests, surveys, and other features of our web site t
 																	</div>
 			</div>
 			<div id="sidebar" class="sidebar" style="float:right;">
-		<div id="pyre_tabs-widget-6" class="widget fusion-tabs-widget pyre_tabs">		<div class="tab-holder tabs-widget">
-			<div class="tab-hold tabs-wrapper">
-				<ul id="tabs" class="tabset tabs">
-															<li><a href="#tab-recent">Recent</a></li>
-														</ul>
-				<div class="tab-box tabs-container">
-															<div id="tab-recent" class="tab tab_content" style="display: none;">
-												<ul class="news-list">
-														<li>
-																<div class="image">
-									<a href="http://dropshipdirect.com/buy-numbers-pushlist-numerical-love-story">
-										<img width="52" height="50" src="http://dropshipdirect.com/wp-content/uploads/2014/11/pushlist-buythenumbers-52x50.jpg" class="attachment-tabs-img wp-post-image" alt="PushList : Buy the Numbers">									</a>
-								</div>
-																<div class="post-holder">
-									<a href="http://dropshipdirect.com/buy-numbers-pushlist-numerical-love-story">Buy the Numbers:  Pushlist a Numerical Love Story</a>
-									<div class="meta">
-										November 13th, 2014									</div>
-								</div>
-							</li>
-														<li>
-																<div class="image">
-									<a href="http://dropshipdirect.com/how-to-dropship">
-										<img width="52" height="50" src="http://dropshipdirect.com/wp-content/uploads/2014/09/howtodropship-52x50.gif" class="attachment-tabs-img wp-post-image" alt="How to Drop Ship">									</a>
-								</div>
-																<div class="post-holder">
-									<a href="http://dropshipdirect.com/how-to-dropship">How to Dropship with DSDI</a>
-									<div class="meta">
-										September 29th, 2014									</div>
-								</div>
-							</li>
-														<li>
-																<div class="image">
-									<a href="http://dropshipdirect.com/pushlist-dropship-data-feed-technology">
-										<img width="52" height="50" src="http://dropshipdirect.com/wp-content/uploads/2014/09/pushlist-trans-52x50.png" class="attachment-tabs-img wp-post-image" alt="PushList Wholesale Dropship Data Feeds">									</a>
-								</div>
-																<div class="post-holder">
-									<a href="http://dropshipdirect.com/pushlist-dropship-data-feed-technology">Upcoming PushList Dropship Data Feed Technology</a>
-									<div class="meta">
-										September 25th, 2014									</div>
-								</div>
-							</li>
-													</ul>
-											</div>
-														</div>
+		<div id="pyre_tabs-widget-6" class="widget fusion-tabs-widget pyre_tabs">			<div class="tab-holder tabs-widget">
+				<div class="tab-hold tabs-wrapper">
+					<ul id="tabs" class="tabset tabs">
+																		<li><a href="#tab-recent">Recent</a></li>
+																	</ul>
+					<div class="tab-box tabs-container">
+																		<div id="tab-recent" class="tab tab_content" style="display: none;">
+														<ul class="news-list">
+																<li>
+																		<div class="image">
+										<a href="http://dropshipdirect.com/buy-numbers-pushlist-numerical-love-story">
+											<img width="52" height="50" src="http://dropshipdirect.com/wp-content/uploads/2014/11/pushlist-buythenumbers-52x50.jpg" class="attachment-tabs-img wp-post-image" alt="PushList : Buy the Numbers">										</a>
+									</div>
+																		<div class="post-holder">
+										<a href="http://dropshipdirect.com/buy-numbers-pushlist-numerical-love-story">Buy the Numbers:  Pushlist a Numerical Love Story</a>
+										<div class="meta">
+											November 13th, 2014										</div>
+									</div>
+								</li>
+																<li>
+																		<div class="image">
+										<a href="http://dropshipdirect.com/how-to-dropship">
+											<img width="52" height="50" src="http://dropshipdirect.com/wp-content/uploads/2014/09/howtodropship-52x50.gif" class="attachment-tabs-img wp-post-image" alt="How to Drop Ship">										</a>
+									</div>
+																		<div class="post-holder">
+										<a href="http://dropshipdirect.com/how-to-dropship">How to Dropship with DSDI</a>
+										<div class="meta">
+											September 29th, 2014										</div>
+									</div>
+								</li>
+																<li>
+																		<div class="image">
+										<a href="http://dropshipdirect.com/pushlist-dropship-data-feed-technology">
+											<img width="52" height="50" src="http://dropshipdirect.com/wp-content/uploads/2014/09/pushlist-trans-52x50.png" class="attachment-tabs-img wp-post-image" alt="PushList Wholesale Dropship Data Feeds">										</a>
+									</div>
+																		<div class="post-holder">
+										<a href="http://dropshipdirect.com/pushlist-dropship-data-feed-technology">PUSHLIST IS NOW LIVE!</a>
+										<div class="meta">
+											September 25th, 2014										</div>
+									</div>
+								</li>
+																															</ul>
+						</div>
+																	</div>
+				</div>
 			</div>
-		</div>
-		</div><div id="product-generator" class="widget widget_oscommerce_product_display"><div class="heading"><h3>FEATURED DROPSHIP INVENTORY:</h3></div><p class="oscommerce-product-display-p"><a class="oscommerce-product-display-a" href="http://dropshipdirect.com/warehouse/product_info.php?products_id=128433">Ramses II Made King 12x18 Giclee on canvas</a><img src="http://dropshipdirect.com/warehouse/imagesimages_products/arts/fine_art/prints/history/1225-0587150114.jpg" alt="" class="oscommerce-product-display-img"></p><p class="oscommerce-product-display-p"><a class="oscommerce-product-display-a" href="http://dropshipdirect.com/warehouse/product_info.php?products_id=125213">School For Scandal: Library Scene 12x18 Giclee on canvas</a><img src="http://dropshipdirect.com/warehouse/imagesimages_products/arts/fine_art/prints/entertainment/1205-0587089458.jpg" alt="" class="oscommerce-product-display-img"></p><p class="oscommerce-product-display-p"><a class="oscommerce-product-display-a" href="http://dropshipdirect.com/warehouse/product_info.php?products_id=183511">Homeolab USA Kids Relief Nighttime Cough and Cold - 100 ml</a><img src="http://dropshipdirect.com/warehouse/imagesimages_products/at_home/baby_&amp;_children/childrens_homeopathic/1332-575363.jpg" alt="" class="oscommerce-product-display-img"></p><p class="oscommerce-product-display-p"><a class="oscommerce-product-display-a" href="http://dropshipdirect.com/warehouse/product_info.php?products_id=109533">King Cole 24x36 Giclee</a><img src="http://dropshipdirect.com/warehouse/imagesimages_products/arts/fine_art/prints/children/1202-0587042915.jpg" alt="" class="oscommerce-product-display-img"></p><p class="oscommerce-product-display-p"><a class="oscommerce-product-display-a" href="http://dropshipdirect.com/warehouse/product_info.php?products_id=115626">Are You 100% American? Prove It! 28x42 Giclee on Canvas</a><img src="http://dropshipdirect.com/warehouse/imagesimages_products/arts/fine_art/prints/military/1213-0587088370.jpg" alt="" class="oscommerce-product-display-img"></p></div>	</div>
+			</div><div id="product-generator" class="widget widget_oscommerce_product_display"><div class="heading"><h3>FEATURED DROPSHIP INVENTORY:</h3></div><p class="oscommerce-product-display-p"><a class="oscommerce-product-display-a" href="http://dropshipdirect.com/warehouse/product_info.php?products_id=129792">Alice in Wonderland: The King of Hearts 12x18 Giclee on canvas</a><img src="http://dropshipdirect.com/warehouse/imagesimages_products/arts/fine_art/prints/children/1202-0587172401.jpg" alt="" class="oscommerce-product-display-img"></p><p class="oscommerce-product-display-p"><a class="oscommerce-product-display-a" href="http://dropshipdirect.com/warehouse/product_info.php?products_id=169168">2005 - 2009 Kia Spectra Light Side Window Deflector Rear Pair</a><img src="http://dropshipdirect.com/warehouse/imagesimages_products/automotive/covers/window_deflectors/side_deflectors/641-fullsetlighttruck_1.jpg" alt="" class="oscommerce-product-display-img"></p><p class="oscommerce-product-display-p"><a class="oscommerce-product-display-a" href="http://dropshipdirect.com/warehouse/product_info.php?products_id=116928">Philadelphia and Sothern Mail Steamship Company 28x42 Giclee on Canvas</a><img src="http://dropshipdirect.com/warehouse/imagesimages_products/arts/fine_art/prints/business/1215-0587175605.jpg" alt="" class="oscommerce-product-display-img"></p><p class="oscommerce-product-display-p"><a class="oscommerce-product-display-a" href="http://dropshipdirect.com/warehouse/product_info.php?products_id=191583">Boiron Arnica Gel - 1.5 oz</a><img src="http://dropshipdirect.com/warehouse/imagesimages_products/at_home/health_&amp;_beauty/health_supplements/pain_relief/1395-583435.jpg" alt="" class="oscommerce-product-display-img"></p><p class="oscommerce-product-display-p"><a class="oscommerce-product-display-a" href="http://dropshipdirect.com/warehouse/product_info.php?products_id=132065">Stay on Track 12x18 Giclee on canvas</a><img src="http://dropshipdirect.com/warehouse/imagesimages_products/arts/fine_art/prints/literary/1211-0587223049.jpg" alt="" class="oscommerce-product-display-img"></p></div>	</div>
 				</div>
 	</div>
 					<footer class="footer-area">
 		<div class="avada-row">
-			<section class="fusion-columns row fusion-columns-4 columns columns-4">
+			<div class="fusion-columns row fusion-columns-4 columns columns-4">
 							
-								<article class="fusion-column col col-lg-3 col-md-3 col-sm-3 ">
+								<div class="fusion-column col col-lg-3 col-md-3 col-sm-3 ">
 						<div id="recent-posts-5" class="footer-widget-col widget_recent_entries">		<h3>Latest Articles</h3>		<ul>
 					<li>
 				<a href="http://dropshipdirect.com/buy-numbers-pushlist-numerical-love-story">Buy the Numbers:  Pushlist a Numerical Love Story</a>
@@ -1834,52 +2125,52 @@ You may occasionally see contests, surveys, and other features of our web site t
 							<span class="post-date">September 29, 2014</span>
 						</li>
 					<li>
-				<a href="http://dropshipdirect.com/pushlist-dropship-data-feed-technology">Upcoming PushList Dropship Data Feed Technology</a>
+				<a href="http://dropshipdirect.com/pushlist-dropship-data-feed-technology">PUSHLIST IS NOW LIVE!</a>
 							<span class="post-date">September 25, 2014</span>
 						</li>
 				</ul>
-		<div style="clear:both;"></div></div>				</article>
+		<div style="clear:both;"></div></div>				</div>
 								
-								<article class="fusion-column col col-lg-3 col-md-3 col-sm-3">
-				<div id="tweets-widget-3" class="footer-widget-col tweets"><h3>What’s Tweeting?</h3>		<div class="twitter-box">
-			<div class="twitter-holder">
-				<div class="b">
-					<div class="tweets-container" id="tweets_tweets-widget-3">
-						<ul id="jtwt">
-														<li class="jtwt_tweet">
-								<p class="jtwt_tweet_text">
-								Our newest #wholesale #dropship line for the season:  Flybar #pogosticks. &nbsp;<a href="http://t.co/OBMgqQK1of" target="_blank">http://t.co/OBMgqQK1of</a>&nbsp; Hot for holiday sales!  #happyselling								</p>
-																<a href="http://twitter.com/dropship_direct/statuses/535529552907206656" class="jtwt_date">8 hours ago</a>
-							</li>
-														<li class="jtwt_tweet">
-								<p class="jtwt_tweet_text">
-								Due to hazardous winter conditions, please note some shipments may experience delays at this time.  Thanks for your patience! #happyselling								</p>
-																<a href="http://twitter.com/dropship_direct/statuses/535141189226205184" class="jtwt_date">1 day ago</a>
-							</li>
-													</ul>
+								<div class="fusion-column col col-lg-3 col-md-3 col-sm-3">
+				<div id="tweets-widget-3" class="footer-widget-col tweets"><h3>What’s Tweeting?</h3>			<div class="twitter-box">
+				<div class="twitter-holder">
+					<div class="b">
+						<div class="tweets-container" id="tweets_tweets-widget-3">
+							<ul class="jtwt">
+																<li class="jtwt_tweet">
+									<p class="jtwt_tweet_text">
+									For 2015:  Aggressive new #wholesale dropship pricing for our First Aid Only #firstaid and #emergency inventory:  &nbsp;<a href="http://t.co/yarVrcp455" target="_blank">http://t.co/yarVrcp455</a>&nbsp;									</p>
+																		<a href="http://twitter.com/dropship_direct/statuses/585727427789385728" class="jtwt_date">3 days ago</a>
+								</li>
+																<li class="jtwt_tweet">
+									<p class="jtwt_tweet_text">
+									Happy Easter!  #HeIsRisen									</p>
+																		<a href="http://twitter.com/dropship_direct/statuses/584817038163443713" class="jtwt_date">5 days ago</a>
+								</li>
+															</ul>
+						</div>
 					</div>
 				</div>
+				<span class="arrow"></span>
 			</div>
-			<span class="arrow"></span>
-		</div>
-		<div style="clear:both;"></div></div>				</article>
+			<div style="clear:both;"></div></div>				</div>
 								
-								<article class="fusion-column col col-lg-3 col-md-3 col-sm-3">
-				<div id="contact_info-widget-4" class="footer-widget-col contact_info"><h3>Contact DSDI</h3>		<div class="contact-info-container">
-				<p class="address">2150 SE Highway 101 #382  |  Lincoln City, OR  97367</p>
-		
-				<p class="phone">Phone: 800.996.DSDI or 541.996.2270</p>
-		
-		
-				<p class="fax">Fax: 888.748.6623</p>
-		
-		
-				<p class="web">Web: <a href="http://help.dropshipdirect.com">Dropshipper HelpDesk</a></p>
-				</div>
-		<div style="clear:both;"></div></div>				</article>
+								<div class="fusion-column col col-lg-3 col-md-3 col-sm-3">
+				<div id="contact_info-widget-4" class="footer-widget-col contact_info"><h3>Contact DSDI</h3>			<div class="contact-info-container">
+						<p class="address">2150 SE Highway 101 #382  |  Lincoln City, OR  97367</p>
+			
+						<p class="phone">Phone: 800.996.DSDI or 541.996.2270</p>
+			
+			
+						<p class="fax">Fax: 888.748.6623</p>
+			
+			
+						<p class="web">Web: <a href="http://help.dropshipdirect.com">Dropshipper HelpDesk</a></p>
+						</div>
+			<div style="clear:both;"></div></div>				</div>
 								
-								<article class="fusion-column col last col-lg-3 col-md-3 col-sm-3">
-				<div id="mc4wp_widget-6" class="footer-widget-col widget_mc4wp_widget"><h3>Wholesale Buzz Newsletter</h3><!-- Form by MailChimp for WordPress plugin v2.1.6 - https://mc4wp.com/ --><form method="post" action="http://dropshipdirect.com/about/privacy" id="mc4wp-form-1" class="form mc4wp-form"><p>
+								<div class="fusion-column col last col-lg-3 col-md-3 col-sm-3">
+				<div id="mc4wp_widget-6" class="footer-widget-col widget_mc4wp_widget"><h3>Wholesale Buzz Newsletter</h3><!-- Form by MailChimp for WordPress plugin v2.2.8 - https://mc4wp.com/ --><div id="mc4wp-form-1" class="form mc4wp-form"><form method="post"><p>
     <label><strong>Email Address*:</strong></label>
     <input required="required" placeholder="Your email address" name="EMAIL" type="email">
 </p><p>
@@ -1890,50 +2181,178 @@ You may occasionally see contests, surveys, and other features of our web site t
     <input placeholder="Your last name" name="LNAME" type="text">
 </p><p>
     <input value="Add Me to Invite List" type="submit">
-</p><textarea name="_mc4wp_required_but_not_really" style="display: none !important;"></textarea><input type="hidden" name="_mc4wp_form_submit" value="1"><input type="hidden" name="_mc4wp_form_instance" value="1"><input type="hidden" name="_mc4wp_form_nonce" value="ed0c2cdf57"></form><!-- / MailChimp for WP Plugin --><div style="clear:both;"></div></div>				</article>
+</p><input type="hidden" name="_mc4wp_required_but_not_really" value="" style="display: none;"><input type="hidden" name="_mc4wp_timestamp" value="1428736085"><input type="hidden" name="_mc4wp_form_submit" value="1"><input type="hidden" name="_mc4wp_form_instance" value="1"><input type="hidden" name="_mc4wp_form_nonce" value="363fa7eb67"></form></div><!-- / MailChimp for WP Plugin --><div style="clear:both;"></div></div>				</div>
 				
 				
 								<div class="fusion-clearfix"></div>
-			</section>
+			</div>
 		</div>
 	</footer>
 			<footer id="footer">
 		<div class="avada-row">
 			<div class="copyright-area-content">
 				<div class="copyright">
-					<div>Copyright 2004-2014 DSDI, INC | All Rights Reserved</div>
+					<div>Copyright 2004-2015 DSDI, INC | All Rights Reserved</div>
 				</div>
 								
 				<div class="fusion-social-links-footer">
-					<div class="fusion-social-networks"><a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusionicon-facebook" style="color:#ffffff;" target="_blank" href="http://www.facebook.com/wholesalesupplies" data-placement="top" data-title="Facebook" data-toggle="tooltip" title="Facebook"></a><a class="fusion-social-network-icon fusion-tooltip fusion-flickr fusionicon-flickr" style="color:#ffffff;" target="_blank" href="https://www.flickr.com/photos/dropship_direct" data-placement="top" data-title="Flickr" data-toggle="tooltip" title="Flickr"></a><a class="fusion-social-network-icon fusion-tooltip fusion-rss fusionicon-rss" style="color:#ffffff;" target="_blank" href="http://dropshipdirect.com/feed/rss" data-placement="top" data-title="Rss" data-toggle="tooltip" title="Rss"></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusionicon-twitter" style="color:#ffffff;" target="_blank" href="https://twitter.com/dropship_direct" data-placement="top" data-title="Twitter" data-toggle="tooltip" title="Twitter"></a><a class="fusion-social-network-icon fusion-tooltip fusion-vimeo fusionicon-vimeo" style="color:#ffffff;" target="_blank" href="https://vimeo.com/groups/dropshipdirect" data-placement="top" data-title="Vimeo" data-toggle="tooltip" title="Vimeo"></a><a class="fusion-social-network-icon fusion-tooltip fusion-youtube fusionicon-youtube" style="color:#ffffff;" target="_blank" href="http://www.youtube.com/user/dropshipdirect" data-placement="top" data-title="Youtube" data-toggle="tooltip" title="Youtube"></a><a class="fusion-social-network-icon fusion-tooltip fusion-pinterest fusionicon-pinterest" style="color:#ffffff;" target="_blank" href="http://www.pinterest.com/dropshipdirect" data-placement="top" data-title="Pinterest" data-toggle="tooltip" title="Pinterest"></a><a class="fusion-social-network-icon fusion-tooltip fusion-googleplus fusionicon-googleplus" style="color:#ffffff;" target="_blank" href="https://plus.google.com/+dropshipdirectcom" data-placement="top" data-title="Google+" data-toggle="tooltip" title="Google+"></a><a class="fusion-social-network-icon fusion-tooltip fusion-linkedin fusionicon-linkedin" style="color:#ffffff;" target="_blank" href="https://www.linkedin.com/company/dsdi" data-placement="top" data-title="Linkedin" data-toggle="tooltip" title="Linkedin"></a><a class="fusion-social-network-icon fusion-tooltip fusion-dropbox fusionicon-dropbox" style="color:#ffffff;" target="_blank" href="https://www.dropbox.com/sh/nb8wcgy6sufjnjs/AACFgdBPdu5gs2WFu5ThhlZZa?dl=0" data-placement="top" data-title="Dropbox" data-toggle="tooltip" title="Dropbox"></a><a class="fusion-social-network-icon fusion-tooltip fusion-mail fusionicon-mail" style="color:#ffffff;" target="_self" href="mailto:help@dropshipdirect.com" data-placement="top" data-title="Mail" data-toggle="tooltip" title="Mail"></a></div>				</div>
+					<div class="fusion-social-networks"><a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusionicon-facebook" style="color:#ffffff;" target="_blank" href="http://www.facebook.com/wholesalesupplies" data-placement="top" data-title="Facebook" data-toggle="tooltip" title="Facebook"></a><a class="fusion-social-network-icon fusion-tooltip fusion-flickr fusionicon-flickr" style="color:#ffffff;" target="_blank" href="https://www.flickr.com/photos/dropship_direct" data-placement="top" data-title="Flickr" data-toggle="tooltip" title="Flickr"></a><a class="fusion-social-network-icon fusion-tooltip fusion-rss fusionicon-rss" style="color:#ffffff;" target="_blank" href="http://dropshipdirect.com/feed/rss" data-placement="top" data-title="Rss" data-toggle="tooltip" title="Rss"></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusionicon-twitter" style="color:#ffffff;" target="_blank" href="https://twitter.com/dropship_direct" data-placement="top" data-title="Twitter" data-toggle="tooltip" title="Twitter"></a><a class="fusion-social-network-icon fusion-tooltip fusion-vimeo fusionicon-vimeo" style="color:#ffffff;" target="_blank" href="https://vimeo.com/groups/dropshipdirect" data-placement="top" data-title="Vimeo" data-toggle="tooltip" title="Vimeo"></a><a class="fusion-social-network-icon fusion-tooltip fusion-youtube fusionicon-youtube" style="color:#ffffff;" target="_blank" href="http://www.youtube.com/user/dropshipdirect" data-placement="top" data-title="Youtube" data-toggle="tooltip" title="Youtube"></a><a class="fusion-social-network-icon fusion-tooltip fusion-pinterest fusionicon-pinterest" style="color:#ffffff;" target="_blank" href="http://www.pinterest.com/dropshipdirect" data-placement="top" data-title="Pinterest" data-toggle="tooltip" title="Pinterest"></a><a class="fusion-social-network-icon fusion-tooltip fusion-googleplus fusionicon-googleplus" style="color:#ffffff;" target="_blank" href="https://plus.google.com/+dropshipdirectcom" data-placement="top" data-title="Google+" data-toggle="tooltip" title="Google+"></a><a class="fusion-social-network-icon fusion-tooltip fusion-linkedin fusionicon-linkedin" style="color:#ffffff;" target="_blank" href="https://www.linkedin.com/company/dsdi" data-placement="top" data-title="Linkedin" data-toggle="tooltip" title="Linkedin"></a><a class="fusion-social-network-icon fusion-tooltip fusion-mail fusionicon-mail" style="color:#ffffff;" target="_self" href="mailto:help@dropshipdirect.com" data-placement="top" data-title="Mail" data-toggle="tooltip" title="Mail"></a><a class="custom fusion-social-network-icon fusion-tooltip fusion-disqus fusionicon-disqus" style="color:#ffffff;" target="_blank" href="https://disqus.com/dropshipdirect" data-placement="top" data-title="Disqus" data-toggle="tooltip" title="Disqus"><img src="http://dropshipdirect.com/wp-content/uploads/2014/11/disqus-icon.png" alt="Disqus"></a></div>				</div>
 							</div>
 		</div>
 	</footer>
 			</div><!-- wrapper -->
+	
+		
 
 		
 	<!-- W3TC-include-js-head -->
 
-	<script type="text/javascript">
-				jQuery('.mc4wp-form').find('[type="submit"]').click(function () {
-					jQuery(this).parents('.mc4wp-form').addClass('mc4wp-form-submitted');
+	    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'dropshipdirect';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1]
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+		<script>
+		    var snp_f = [];
+		</script>
+		<div class="snp-root">
+			<input type="hidden" id="snp_popup" value="">
+			<input type="hidden" id="snp_popup_id" value="">
+			<input type="hidden" id="snp_popup_theme" value="">
+			<input type="hidden" id="snp_exithref" value="">
+			<input type="hidden" id="snp_exittarget" value="">
+				<div id="snppopup-exit" class="snp-pop-5423 snppopup"><input type="hidden" class="snp_open" value="load"><input type="hidden" class="snp_open_after" value="7"><input type="hidden" class="snp_open_inactivity" value="5"><input type="hidden" class="snp_open_scroll" value="1"><input type="hidden" class="snp_optin_redirect_url" value=""><input type="hidden" class="snp_show_cb_button" value="yes"><input type="hidden" class="snp_popup_id" value="5423"><input type="hidden" class="snp_popup_theme" value="newtheme6"><input type="hidden" class="snp_overlay" value="default"><input type="hidden" class="snp_cookie_conversion" value="30"><input type="hidden" class="snp_cookie_close" value="5"><div class="snp-fb snp-newtheme6">
+    <div class="snp-steps snp-step-1 snp-step-show">
+	<div class="snp-h3 snp-beta">Want to use our Marketplace Tool for eBay, Amazon, Yahoo, Shopify, Magento, and Your Own Storefront?</div><div class="snp-h1 snp-alpha  snp-uppercase  snp-color--primary">Yep, I'd love to know more.  Tell me about PushList™.</div><p class="snp-islet"><img src="http://dropshipdirect.com/wp-content/uploads/2014/09/pushlist-200.png" alt=""></p>	<div class="snp-theme__choice">
+	    <a href="https://help.dropshipdirect.com/support/discussions/topics/5000023539" data-nextstep="2" class=" snp-btn snp-btn--primary">Yes!</a><span class="snp-theme__choice-or">OR</span><a href="#" data-nextstep="2" class="snp_nothanks snp-btn snp-btn--secondary">No Thanks</a>	</div>
+	<footer class="snp-theme__footer">
+	    <a class="snp_nothanks" href="#">Close this popup</a>	</footer>
+    </div>
+    <div class="snp-steps snp-step-2">
+        	<form action="#" method="post" class="snp-push--ends snp-subscribeform snp_subscribeform">
+	            <ul class="snp-fields-list">
+		<li><input type="text" name="email" id="snp_email" placeholder="Your Email..." class="snp-field snp-field-email"></li><li><input type="text" name="name" id="snp-name" placeholder="Your Name..." class="snp-field snp-field-name"></li>            </ul>
+	    <button class="snp-subscribe-button snp-submit snp-btn  snp-btn--primary  snp-btn--large" data-nextstep="3" data-loading="" data-success="" type="submit"></button>
+        </form>
+        <footer class="snp-theme__footer  snp-flush--top">
+            <a class="snp_nothanks" href="#">Close this popup</a>        </footer>
+    </div>
+    <div class="snp-steps snp-step-3">
+	<a href="#" class="snp_nothanks snp-btn snp-btn--secondary">Close</a>        <footer class="snp-theme__footer">
+        </footer>
+    </div>
+	</div>
+<style>.snp-pop-5423 .snp-newtheme6 { width: 890px;}
+.snp-pop-5423 .snp-newtheme6 { background: #363839;}
+.snp-pop-5423 .snp-newtheme6 {color: #c68d34;}.snp-pop-5423 .snp-newtheme6 .snp-step-1 .snp-h3 {font-size: 32px; color: #c68d34;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-1 .snp-h1{ font-size: 16px; color: #ecd0a5;}
+.snp-pop-5423 .snp-newtheme6 .snp-color--primary { color: #ecd0a5;}
+.snp-pop-5423 .snp-newtheme6 {color: #666a6c;}.snp-pop-5423 .snp-newtheme6 .snp-step-2 .snp-h3 {font-size: 43px; color: #666a6c;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-1 .snp-btn--primary { background: #739138;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-1 .snp-btn--primary { color: #ffffff;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-1 .snp-btn--secondary { background: #8a3d3d;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-1 .snp-btn--secondary { color: #ffffff;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-2 .snp-btn--primary { background: #c68d34;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-2 .snp-btn--primary { color: #ffffff;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-3 .snp-btn--secondary { background: #858787;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-3 .snp-btn--secondary { color: #ffffff;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-3 .snp-h2 {font-size: 32px; color: #c68d34;}
+.snp-pop-5423 .snp-newtheme6 .snp-step-3 .snp-h1 { font-size: 16px; color: #ffffff;}
+</style></div>		</div>
+		<script>
+			var snp_timer;
+			var snp_timer_o;
+			var snp_ajax_url= 'http://dropshipdirect.com/wp-admin/admin-ajax.php';
+			var snp_ignore_cookies = false;
+			var snp_is_interal_link;
+			var snp_enable_analytics_events = true;var snp_enable_mobile = true;			jQuery(document).ready(function(){
+				jQuery('[placeholder]').placeholder();				jQuery(".snp_nothanks, .snp_closelink, .snp-close-link").click(function(){
+					snp_close();
+					return false;
 				});
-			</script><script type="text/javascript" src="http://dropshipdirect.com/wp-includes/js/hoverIntent.min.js"></script>
+				jQuery(".snp_subscribeform").submit(function(){
+					return snp_onsubmit(jQuery(this));
+				});
+							});	
+							var snp_hostname = new RegExp(location.host);
+				var snp_http = new RegExp("^(http|https)://", "i");
+				var snp_excluded_urls = [];
+								    var snp_op_exit=false;
+				    jQuery(document).ready(function(){
+					   jQuery(document).bind('mouseleave',function(e){
+					      if(snp_op_exit == false){
+					        snp_open_popup(jQuery(this).attr('href'),jQuery(this).attr('target'),'snppopup-exit','exit');
+						snp_op_exit = true;
+					    }
+					});
+				    });	
+				    		</script>
+		<script type="text/javascript">
+			(function() {
+
+				function addSubmittedClass() {
+					var className = 'mc4wp-form-submitted';
+					(this.classList) ? this.classList.add(className) : this.className += ' ' + className;
+				}
+
+				var forms = document.querySelectorAll('.mc4wp-form');
+				for (var i = 0; i < forms.length; i++) {
+					(function(f) {
+
+						// hide honeypot
+						var honeypot = f.querySelector('input[name="_mc4wp_required_but_not_really"]');
+						honeypot.style.display = 'none';
+						honeypot.setAttribute('type','hidden');
+
+						// add class on submit
+						var b = f.querySelector('[type="submit"]');
+						if(b.addEventListener) {
+							b.addEventListener( 'click', addSubmittedClass.bind(f));
+						} else {
+							b.attachEvent( 'onclick', addSubmittedClass.bind(f));
+						}
+
+					})(forms[i]);
+				}
+			})();
+
+					</script><script type="text/javascript" src="http://dropshipdirect.com/wp-includes/js/hoverIntent.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var uberMenuSettings = {"speed":"500","trigger":"hoverIntent","orientation":"horizontal","transition":"fade","hoverInterval":"20","hoverTimeout":"400","removeConflicts":"on","autoAlign":"off","noconflict":"on","fullWidthSubs":"off","androidClick":"off","windowsClick":"on","iOScloseButton":"on","loadGoogleMaps":"off","repositionOnLoad":"off"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/ubermenu/core/js/ubermenu.min.js"></script>
+<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/arscode-ninja-popups/js/jquery.ck.min.js"></script>
+<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/arscode-ninja-popups/fancybox2/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/arscode-ninja-popups/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="http://dropshipdirect.com/wp-content/plugins/arscode-ninja-popups/js/ninjapopups.min.js"></script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-includes/js/comment-reply.min.js"></script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-content/themes/Avada/js/modernizr-min.js"></script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-content/themes/Avada/js/jquery.carouFredSel-6.2.1-min.js"></script>
+<script type="text/javascript" src="http://dropshipdirect.com/wp-content/themes/Avada/js/jquery.cycle.js"></script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-content/themes/Avada/js/jquery.prettyPhoto-min.js"></script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-content/themes/Avada/js/jquery.flexslider-min.js"></script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-content/themes/Avada/js/jquery.fitvids-min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var js_local_vars = {"protocol":"","theme_url":"http:\/\/dropshipdirect.com\/wp-content\/themes\/Avada","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","page_smoothHeight":"false","flex_smoothHeight":"false","language_flag":"","infinite_blog_finished_msg":"<em>All posts displayed<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","portfolio_loading_text":"<em>Loading Portfolio Items...<\/em>","faqs_loading_text":"<em>Loading FAQ Items...<\/em>","order_actions":"Details","avada_rev_styles":"0","blog_pagination_type":"Pagination","custom_icon_image_retina":"","disable_mobile_animate_css":"1","portfolio_pagination_type":"Pagination","header_sticky":"0","ipad_potrait":"1","is_responsive":"1","layout_mode":"wide","lightbox_animation_speed":"Fast","lightbox_autoplay":"0","lightbox_desc":"1","lightbox_deeplinking":"1","lightbox_gallery":"1","lightbox_opacity":"0.8","lightbox_post_images":"0","lightbox_slideshow_speed":"5000","lightbox_social":"1","lightbox_title":"1","logo_alignment":"Center","megamenu_max_width":"1100px","pagination_video_slide":"0","retina_icon_height":"","retina_icon_width":"","submenu_slideout":"1","sidenav_behavior":"Hover","site_width":"940px","slideshow_autoplay":"1","slideshow_speed":"7000","status_lightbox_mobile":"1","status_totop_mobile":"0","status_vimeo":"0","status_yt":"0","testimonials_speed":"4000","tfes_animation":"sides","tfes_autoplay":"1","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150","woocommerce_shop_page_columns":"4","mobile_menu_design":"classic","isotope_type":"masonry"};
+var js_local_vars = {"protocol":"","theme_url":"http:\/\/dropshipdirect.com\/wp-content\/themes\/Avada","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","page_smoothHeight":"false","flex_smoothHeight":"false","language_flag":"","infinite_blog_finished_msg":"<em>All posts displayed.<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","portfolio_loading_text":"<em>Loading Portfolio Items...<\/em>","faqs_loading_text":"<em>Loading FAQ Items...<\/em>","order_actions":"Details","avada_rev_styles":"1","avada_styles_dropdowns":"0","blog_grid_column_spacing":"40","blog_pagination_type":"Pagination","custom_icon_image_retina":"http:\/\/dropshipdirect.com\/wp-content\/uploads\/2014\/11\/disqus-icon-retina.png","disable_mobile_animate_css":"1","portfolio_pagination_type":"Pagination","header_position":"Top","header_sticky":"0","ipad_potrait":"1","is_responsive":"1","layout_mode":"wide","lightbox_animation_speed":"Fast","lightbox_autoplay":"0","lightbox_desc":"1","lightbox_deeplinking":"1","lightbox_gallery":"1","lightbox_opacity":"0.8","lightbox_post_images":"0","lightbox_slideshow_speed":"5000","lightbox_social":"1","lightbox_title":"1","logo_alignment":"Center","megamenu_max_width":"1100px","pagination_video_slide":"0","retina_icon_height":"16x","retina_icon_width":"16x","submenu_slideout":"1","sidenav_behavior":"Hover","site_width":"940px","slideshow_autoplay":"1","slideshow_speed":"7000","status_lightbox_mobile":"1","status_totop_mobile":"0","status_vimeo":"0","status_yt":"0","testimonials_speed":"4000","tfes_animation":"sides","tfes_autoplay":"1","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150","woocommerce_shop_page_columns":"4","mobile_menu_design":"classic","isotope_type":"masonry","page_title_fading":"0"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://dropshipdirect.com/wp-content/themes/Avada/js/main.js"></script>
@@ -1948,5 +2367,5 @@ var uberMenuStickySettings = {"expand_menu_bar":"1","offset":"0","mobile":"","sc
 	<!--[if lte IE 8]>
 	<script type="text/javascript" src="http://dropshipdirect.com/wp-content/themes/Avada/js/respond.js"></script>
 	<![endif]-->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"943f5db7f1","applicationID":"4247391","transactionName":"M11XZEsHXUcAAUNRVwoXdFNND1xaThJWX10=","queueTime":0,"applicationTime":3055,"atts":"HxpUEgMdTkk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+
+</body></html>
