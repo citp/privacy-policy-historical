@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209020329id_/http%3A//www.1automationwiz.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411063840id_/http%3A//www.1automationwiz.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # 1AutomationWiz.com Privacy Statement
 
 1AutomationWiz™ respects the privacy of the visitors of its websites.
 
-The purpose of this Privacy Statement is to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website.  
+The purpose of this Privacy Statement is to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website.
+
 We define “Personal Information” as any information about you that is personally identifiable to you like your name, address, email address, or phone number, as well as other non-public information that is associated with the previously listed items.
 
 We pay strict attention to how the Personal Information of our visitors is handled and shared, and we use Personal Information responsibly.We act as a service provider to our customers and may process and store on behalf of our customers Personal Information that our customers collect under the privacy policy they have posted on their web sites from the users of those websites. We do not own this Personal Information.
