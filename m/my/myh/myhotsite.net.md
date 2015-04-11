@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhotsite.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044921id_/http%3A//www.myhotsite.net/static/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhotsite.net privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411072304id_/http%3A//www.myhotsite.net/static/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Free Download || Myhotsite.Net
 
