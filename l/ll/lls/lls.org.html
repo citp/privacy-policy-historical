@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lls.org privacy policy that was archived on 2013-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131117102443id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lls.org privacy policy that was archived on 2015-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150411091149id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <link rel="icon" type="image/gif" href="/assets/images/icons/favicon.ico">
@@ -31,7 +31,7 @@
             <link href="/assets/css/ie/ielt7.css" rel="STYLESHEET" type="text/css" />
             <![endif]-->
 <!-- Google Analytics Tracking Code -->
-<script async="" src="//s.btstatic.com/tag.js">{'site':'ug0c3kp'}</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script async="" src="//s.btstatic.com/tag.js">{'site':'ug0c3kp'}</script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PC52XK"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	var _gadomain = "lls.org"
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-225158-16']);
@@ -55,6 +55,116 @@
   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
+</script>
+<link rel="stylesheet" href="/static/lls_colorbox/colorbox.css">
+<script>
+	var expiration = '';
+	var urlParams = document.URL.split('?')[1]; //window.parent.location.search.replace('?', '');
+	var urlParams_cookie_name= "URL_Params";
+	manageCookieForURLParams = function() {
+		function getCookie(name) {
+			var value = "; " + document.cookie;
+			var parts = value.split("; " + name + "=");
+			if (parts.length == 2)
+				return parts.pop().split(";").shift();
+		}
+		function setCookieObj(name, value, days) {        
+			var cookie = decodeURIComponent(getCookie(urlParams_cookie_name));             
+			if((cookie == undefined) || (cookie == null) || (cookie == '') || (cookie == 'undefined')){			
+				cookie = setCookie(name, value, days);
+			}else{			
+				var map = cookieDataMap(cookie);			
+				var newValue = populateNewCookieValue(value, map);															
+				cookie = setCookie(name,  newValue, days);						
+			}
+	        return cookie;
+	    }
+		function setCookie(name, value, days) {		
+			var host = window.location.hostname.split('.');
+			host.shift();
+			var currentdomain = host.join('.');		
+			if ((days === undefined) || (days === null) || (days === '')) {
+				//var cookieValue = name + '=' +  '{"data": "'+ doformat(value) +'"}; path=/';
+				var cookieValue = name + '=' +  doformat(value) +'; domain='+currentdomain+'; path=/';
+				document.cookie=cookieValue;
+			}else{
+				// day based expiration
+				var now = (new Date()).getTime();
+				var exp = new Date(now + parseInt(days) * (24 * 60 * 60 * 1000));
+				exp = exp.toGMTString();						
+				//var cookieValue = name + '=' +  '{"data": "'+ doformat(value) +'","date":' + now + ',"days":' + days + '}; expires=' + exp + "; path=/";
+				var cookieValue = name + '=' +  doformat(value) +'; expires=' + exp + '; domain='+currentdomain +'; path=/';
+				//alert('setCookieObj:cookieValue:'+cookieValue);
+				document.cookie=cookieValue;			
+			} 		
+			return decodeURIComponent(getCookie(name));		
+		}	
+		function cookieDataMap(obj){
+			var data = obj.split('&');
+			var map = {}; 
+			var hash = [];
+			for(var i = 0; i < data.length; i++){
+				hash = data[i].split('=');
+				map[hash[0].toUpperCase()] = hash[1];				
+			}
+			return map;
+		}   
+		function populateNewCookieValue(value, map){
+			var vals = value.split('&');
+			var hash = [];
+			var newMap = map;
+			for(var i = 0; i < vals.length; i++){	
+				hash = vals[i].split('=');
+				var key = hash[0].toUpperCase();
+				var val = hash[1];
+				if((map[key] === undefined) || (map[key] === null) || (map[key] === '')){
+					//new param
+					newMap[key] = hash[1];					
+				}else {
+					//existing param with new value
+					if(map[key] !== hash[1]){
+						newMap[key] = hash[1];								
+					}else{
+						newMap[key] = map[key];
+					}
+				}							
+			}
+			var newValue; 
+			for (key in newMap) {
+				if(newValue === undefined || newValue === null || newValue === ""){
+					newValue = key + '=' + newMap[key];
+				}else{
+					newValue = newValue + '&' + key + '=' + newMap[key];
+				}
+			}
+			return newValue;
+		}
+		function doformat(obj){					
+			var data = obj.split('&');
+			var hash = [];
+			var newValue;
+			var first = true;
+			for(var i = 0; i < data.length; i++){
+				hash = data[i].split('=');
+				if(first){
+					newValue = hash[0].toUpperCase() + '=' + hash[1];
+					first = false;
+				}else{
+					newValue = newValue + '&' + hash[0].toUpperCase() + '=' + hash[1];
+				}
+			}
+			return escape(newValue);
+		}
+		if (urlParams !== undefined && urlParams !== '') {
+			if (!(expiration != undefined && expiration != null && expiration != '')) {
+				expiration = 30;
+			} 
+			setCookieObj(urlParams_cookie_name, urlParams, expiration);	
+		}
+	};
+</script>
+<script>	
+	window.onload =	manageCookieForURLParams();
 </script>
     <script type="text/javascript" src="/js/jquery/jquery-1.4.2.js"></script>
 <script type="text/javascript" src="/js/jquery/jqueryslidemenu.js"></script>
@@ -290,6 +400,7 @@ isWindowBeyondRoot = function() {
     return false;
 };
 loadLeftMenuBody = function(htmlData) {
+	//pageLoadingUnBlock();
     if (!aborted) {
         jQuery('#page').show();
         //jQuery('#page').html(htmlData);
@@ -542,12 +653,21 @@ errorReturnClick = function(shouldAbort) {
 </script>
 </head> 
             <body>
+	<!-- Google Tag Manager --> 
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PC52XK" 
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); 
+	})(window,document,'script','dataLayer','GTM-PC52XK');</script> 
+	<!-- End Google Tag Manager --> 
             <div id="container">
                 <!-- Header -->
 <div id="header">
     <div id="headerLeft">
         <a href="/">
-            <img src="/assets/images/logo_lls_sit.png" width="435" height="89">
+            <img src="/assets/images/logo_lls_sit.png" width="452" height="57">
         </a>
     </div>
     <div id="headerRight">
@@ -562,7 +682,7 @@ errorReturnClick = function(shouldAbort) {
         <div id="headerRightMiddle">
 			<ul id="headerRightMiddleList">
 	      	 		<li>
-					<a href="/waystohelp/donate/">Donate</a>
+					<a href="/donatells">Donate</a>
 					</li>
 	      	 		<li>
 					<a href="/resourcecenter/">Resource Center</a>
@@ -576,7 +696,7 @@ errorReturnClick = function(shouldAbort) {
                     <input type="hidden" name="action" value="search">
                     <input name="query" onfocus="if(this.value=='Search...')this.value='';" type="text" value="Search..." id="globalSearchQueryInput" class="searchField" onkeypress="if(event.keyCode == 13) return false;">
                     <a href="#">
-                        <img src="/assets/images/bttnSearch.gif" alt="search" id="globalImageSearchButton">
+                        <img src="/assets/images/btn_box_arrow_grey.gif" alt="search" id="globalImageSearchButton">
                     </a>
                 </form>
                 <script type="text/javascript">
@@ -691,17 +811,12 @@ errorReturnClick = function(shouldAbort) {
                                                 </li>
                                                 <li>
 <a href="/aboutlls/news/">
-	News
+	News Room
 </a>
                                                 </li>
                                                 <li>
-<a href="http://community.lls.org/blogs/lls">
+<a href="http://community.lls.org/blog/1-the-lls-blog/">
 	LLS Blog
-</a>
-                                                </li>
-                                                <li>
-<a href="/aboutlls/partners/">
-	Our Partners
 </a>
                                                 </li>
                                                 <li>
@@ -712,11 +827,6 @@ errorReturnClick = function(shouldAbort) {
                                                 <li>
 <a href="/aboutlls/careers/">
 	Careers at LLS
-</a>
-                                                </li>
-                                                <li>
-<a href="/aboutlls/awards/">
-	National Recognition &amp; Awards
 </a>
                                                 </li>
                                                 <li>
@@ -792,7 +902,7 @@ errorReturnClick = function(shouldAbort) {
                                         <!-- Fetch the secondary level navigation -->
                                                 <li>
 <a href="/waystohelp/donate/">
-	Donate
+	Ways to Donate
 </a>
                                                 </li>
                                                 <li>
@@ -807,7 +917,7 @@ errorReturnClick = function(shouldAbort) {
                                                 </li>
                                                 <li>
 <a href="/waystohelp/plannedgift/">
-	Leave a Legacy of Hope
+	Wills, Annuities, Planned Gifts
 </a>
                                                 </li>
                                                 <li>
@@ -821,18 +931,13 @@ errorReturnClick = function(shouldAbort) {
 </a>
                                                 </li>
                                                 <li>
-<a href="/waystohelp/sponsorpartner/">
-	Become a Sponsor or Partner
+<a href="/waystohelp/corporatepartnership/">
+	Corporate Partnership Opportunities
 </a>
                                                 </li>
                                                 <li>
 <a href="/waystohelp/shop/">
 	Shop
-</a>
-                                                </li>
-                                                <li>
-<a href="/waystohelp/specialoffers/">
-	Special Offers From LLS Partners
 </a>
                                                 </li>
                                                 <li>
@@ -905,7 +1010,7 @@ errorReturnClick = function(shouldAbort) {
 	                    <input type="hidden" name="zipNotFoundUrl" id="zipNotFoundUrl" value="/aboutlls/chapters/">
 	                    <label>Find Your Chapter</label>
 	                    <input name="postalCode" type="text" class="formField" id="postalForm" value="Enter Your Zip" size="12" maxlength="10" onfocus="if(this.value=='Enter Your Zip')this.value='';" onkeypress="if(event.keyCode == 13) return false;"> 
-	                    <input id="zipSubmitButton" type="image" class="image" src="/assets/images/topnav/bttnGo.gif">
+	                    <input id="zipSubmitButton" type="image" class="image" src="/assets/images/btn_box_arrow_black.gif">
 	                </fieldset>
 	            </form>
 	        </div>
@@ -938,56 +1043,56 @@ Footer Items (not in left nav)
 <!-- Transformed Layout -->
 <div id="cell_6453" class="ps_cell " style="float: left; line-height: normal; word-wrap: break-word;width: 100%;"><div id="field_3889" class="ps_field ps_cell_item" style="line-height: normal;background: none; float: left; width: 100%;">
 <h2>Scope</h2>
-<p>This statement applies to all websites operated by or on behalf of The Leukemia &amp; Lymphoma Society (LLS). </p>
+<p>This statement applies to all websites operated by or on behalf of The Leukemia &amp; Lymphoma Society (LLS).</p>
 <h3>Information Use</h3>
-<p>LLS collects information from users through several points on the web such as making a donation, ordering free&nbsp;materials,&nbsp;signing up for the lls.org discussion boards&nbsp;and online event fundraising. The primary reason for LLS&nbsp;to collect personal users' information is to provide&nbsp;personalization options for our web visitors, and to facilitate website features that require user input, whether this information is submitted directly by the site user, or collected by use of technologies such as cookies, as discussed below.</p>
+<p>LLS collects information from users through several points on the web such as making a donation, ordering free materials, signing up for the lls.org discussion boards and online event fundraising. The primary reason for LLS to collect personal users' information is to provide personalization options for our web visitors, and to facilitate website features that require user input, whether this information is submitted directly by the site user, or collected by use of technologies such as cookies, as discussed below.</p>
 <p>Personal financial information in the form of a credit card number and expiration date are only collected if a site user wishes to make an online donation through LLS online. This information is not maintained by LLS when entered online. All online transactions are securely transmitted using SSL encryption.</p>
-<p>User information submitted through LLS websites&nbsp;is only used for the purposes for which it was collected.</p>
+<p>User information submitted through LLS websites is only used for the purposes for which it was collected.</p>
 <h3>Advertising Policy</h3>
 <p>LLS does not host any form of advertising from our websites or email communications.</p>
 <h3>Cookies</h3>
 <p>A cookie is a piece of data stored on the user's computer tied to information about that user. LLS uses both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.</p>
-<p>The primary function of cookies for LLS&nbsp;is to facilitate use of our websites by our users, and to enrich your online experience with us.</p>
-<p>Persistent cookies are used to store the user's registration identification&nbsp;information from their basic registration, to facilitate their logging in to their personalized view of LLS websites. Persistent cookies enable us to track and target the interests of our users to enhance their experience on our sites. See the Profile section.</p>
+<p>The primary function of cookies for LLS is to facilitate use of our websites by our users, and to enrich your online experience with us.</p>
+<p>Persistent cookies are used to store the user's registration identification information from their basic registration, to facilitate their logging in to their personalized view of LLS websites. Persistent cookies enable us to track and target the interests of our users to enhance their experience on our sites. See the Profile section.</p>
 <p>Session cookies remember what chapter you are registered into or visiting online and who you are if you go from one LLS website to another in a session. This way we are able to cut down on the number of logins required when you visit various LLS websites during any given session.</p>
 <p>If users reject cookies, they may still use our sites, and all the informational resources provided through them. Their registration-based personalization options and the capacity of their browser to keep track of what chapter they are visiting online as they go from one of our sites to another, is lost if the user rejects cookies.</p>
-<p>LLS&nbsp;uses a tracking utility provided by a 3rd party vendor to track usage of specific web pages and other resources provided through our website. The vendor sets cookies as a method for compiling site usage information but these cookies are only used to compile demographic models of site usage and are not tied to the user's personal information.</p>
+<p>LLS uses a tracking utility provided by a 3rd party vendor to track usage of specific web pages and other resources provided through our website. The vendor sets cookies as a method for compiling site usage information but these cookies are only used to compile demographic models of site usage and are not tied to the user's personal information.</p>
 <h2>Communications from the Site</h2>
 <h3>Newsletter</h3>
 <p>If a user wishes to opt-in subscribe to our e-newsletter, we ask for contact information required for basic registration to the site, consisting of a working email address, a zip code and a password.</p>
 <h2>Sharing</h2>
 <h3>Legal Disclaimer</h3>
 <p>Though LLS makes every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.</p>
-<p>LLS may need to share personal information with third parties in other limited circumstances. For example, we may release personal information to third parties to perform services on our behalf such as: advising you of our upcoming events, products, partnership offers, volunteer opportunities, and health-related information or processing credit card payments. LLS may also make your name and postal address available to other nonprofit organizations whose services or activities may be of interest to you. However, third parties retained by LLS to provide such services are obligated to maintain the confidentiality of this information and are not authorized to use this information for any purpose other than providing those services. If you would like to opt-out of having LLS share your name and postal address with third party organizations, please email <a title="Email LLS" href="mailto:admin@lls.org">admin@lls.org</a> and type 'do not share' in the subject line of your email. </p>
+<p>LLS may need to share personal information with third parties in other limited circumstances. For example, we may release personal information to third parties to perform services on our behalf such as: advising you of our upcoming events, products, partnership offers, volunteer opportunities, and health-related information or processing credit card payments. LLS may also make your name and postal address available to other nonprofit organizations whose services or activities may be of interest to you. However, third parties retained by LLS to provide such services are obligated to maintain the confidentiality of this information and are not authorized to use this information for any purpose other than providing those services. If you would like to opt-out of having LLS share your name and postal address with third party organizations, please email <a title="Email LLS" href="mailto:admin@lls.org">admin@lls.org</a> and type 'do not share' in the subject line of your email.</p>
 <h3>Third Party Intermediaries</h3>
-<p>LLS uses various 3rd party transaction services to process online donations. </p>
-<p>LLS provides the option of receiving certain of its online booklets, brochures, and fact sheets by mail through request forms on our websites. These materials are shipped by the US Postal Service. </p>
+<p>LLS uses various 3rd party transaction services to process online donations.</p>
+<p>LLS provides the option of receiving certain of its online booklets, brochures, and fact sheets by mail through request forms on our websites. These materials are shipped by the US Postal Service.</p>
 <p>Additional services for Light The Night Incentives, ordering from the LLS e-store also utilize 3rd party vendors for ordering, fulfillment and customer service.</p>
 <p>We will only provide these companies the information they need to deliver the service and prohibit them from using that information for any other purpose. These companies/organizations do not share or use personally identifiable information that may be obtained from these transactions for any secondary purposes.</p>
 <h3>Open Forums</h3>
-<p>Message boards and chat rooms may be available to visitors of the Site. The forums will identify visitors as requested by the visitor. Please remember that any information you disclose in these areas becomes public information. Accordingly, you should always exercise caution when deciding to disclose personal information. </p>
+<p>Message boards and chat rooms may be available to visitors of the Site. The forums will identify visitors as requested by the visitor. Please remember that any information you disclose in these areas becomes public information. Accordingly, you should always exercise caution when deciding to disclose personal information.</p>
 <h3>Notification of Changes</h3>
-<p>If LLS changes its privacy policy, changes to this privacy statement will be posted, with prominent links to the new policy positioned on the LLS homepage (<a title="Home Page" href="http://www.lls.org/">http://www.lls.org</a>), and other places we deem appropriate, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.&nbsp;LLS will use information in accordance with the privacy policy under which the information was collected.</p>
+<p>If LLS changes its privacy policy, changes to this privacy statement will be posted, with prominent links to the new policy positioned on the LLS homepage (<a title="Home Page" href="http://www.lls.org/">http://www.lls.org</a>), and other places we deem appropriate, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. LLS will use information in accordance with the privacy policy under which the information was collected.</p>
 <h3>Our Commitment to Children's Privacy</h3>
-<p>Protecting the privacy of the very young is especially important.&nbsp;For that reason, we never collect or maintain information on our website from those we actually know are under the age of 13.&nbsp;</p>
-<p>The Children's Online Privacy Protection Act (COPPA, see: <a title="Children's Online Privacy Protection Act (COPPA)" href="http://www.coppa.org" target="_blank">www.coppa.org</a>) protects the personal information of children under the age of 13. This applies to individually identifiable information about a child that is collected online, such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact the child. The Act and Rule also cover other types of information--for example, hobbies, interests and information collected through cookies or other types of tracking mechanisms--when they are tied to individually identifiable information. It is important for you to understand this law; we encourage you to read more about COPPA. </p>
+<p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information on our website from those we actually know are under the age of 13. </p>
+<p>The Children's Online Privacy Protection Act (COPPA, see: <a title="Children's Online Privacy Protection Act (COPPA)" href="http://www.coppa.org" target="_blank">www.coppa.org</a>) protects the personal information of children under the age of 13. This applies to individually identifiable information about a child that is collected online, such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact the child. The Act and Rule also cover other types of information--for example, hobbies, interests and information collected through cookies or other types of tracking mechanisms--when they are tied to individually identifiable information. It is important for you to understand this law; we encourage you to read more about COPPA.</p>
 <h3>Note to Parents on Our Privacy Policy</h3>
-<p>LLS is committed to providing a safe, secure, and fun online experience for children who visit our network of sites. We are dedicated to safeguarding any personal information collected online and to helping parents and children have positive experiences on the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. A parent or guardian may revoke their consent and ask that information about their child be deleted from the site by contacting our offices via mail (see: address below) or email <a title="Email LLS" href="mailto:admin@lls.org">admin@lls.org</a>. To do this or to review personal information collected from children, we must verify the identity of the requesting parent. When a parent or guardian revokes consent, we will stop collecting, using, or disclosing information from that child. To respect the privacy of parents, information collected and used for the sole purpose of obtaining verifiable parental consent or providing notice is not maintained in retrievable form by the site if parental consent is not obtained after a reasonable time. </p>
+<p>LLS is committed to providing a safe, secure, and fun online experience for children who visit our network of sites. We are dedicated to safeguarding any personal information collected online and to helping parents and children have positive experiences on the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. A parent or guardian may revoke their consent and ask that information about their child be deleted from the site by contacting our offices via mail (see: address below) or email <a title="Email LLS" href="mailto:admin@lls.org">admin@lls.org</a>. To do this or to review personal information collected from children, we must verify the identity of the requesting parent. When a parent or guardian revokes consent, we will stop collecting, using, or disclosing information from that child. To respect the privacy of parents, information collected and used for the sole purpose of obtaining verifiable parental consent or providing notice is not maintained in retrievable form by the site if parental consent is not obtained after a reasonable time.</p>
 <h3>Contacting Us</h3>
-<p>Effective management of our email list to honor the interests of our contacts is a founding principle of our email communications program. Whether you would like to be removed from a specific campaign or eNewsletter offering, all of our communications include an 'unsubscribe' option. </p>
-<p>To be removed from our direct mail or telemarketing lists, fill out our <a title="Contact Us" href="http://www.lls.org/aboutlls/contactus/">Contact Us</a> form and include your request in the 'How can we assist you' field. </p>
+<p>Effective management of our email list to honor the interests of our contacts is a founding principle of our email communications program. Whether you would like to be removed from a specific campaign or eNewsletter offering, all of our communications include an 'unsubscribe' option.</p>
+<p>To be removed from our direct mail or telemarketing lists, fill out our <a title="Contact Us" href="http://www.lls.org/aboutlls/contactus/">Contact Us</a> form and include your request in the 'How can we assist you' field.</p>
 <p>If users have questions or concerns regarding this statement, they should first contact us by email at <a title="Email LLS" href="mailto:admin@lls.org">admin@lls.org</a> or by postal mail at:</p>
-<p>Lisa Stockmon<br>Chief Marketing and Revenue Officer <br>The Leukemia &amp; Lymphoma Society <br>1311 Mamaroneck Ave. <br>White Plains, NY 10605<br></p>
+<p>Nancy Hallberg<br>Chief Marketing Officer<br>The Leukemia &amp; Lymphoma Society <br>1311 Mamaroneck Ave. <br>White Plains, NY 10605<br></p>
 <h3>Additional Information</h3>
 <p>This privacy policy is personal between you and us, and no one else shall be deemed a third party beneficiary of this policy.</p>
 <p>USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND THIS PRIVACY POLICY.</p>
 <p>LLS reserves the right to change this policy at any time. Since any changes will be posted on this page, we encourage you to check this page regularly. Your continued use of the Site will constitute your acceptance of such changes. If you have any further questions regarding this privacy policy or the use of your personal information under this privacy policy, you can contact us at the following postal address:</p>
-<p>Lisa Stockmon<br>Chief Marketing and Revenue Officer <br>The Leukemia &amp; Lymphoma Society <br>1311 Mamaroneck Ave. <br>White Plains, NY 10605<br></p></div>
+<p>Nancy Hallberg<br>Chief Marketing Officer <br>The Leukemia &amp; Lymphoma Society <br>1311 Mamaroneck Ave. <br>White Plains, NY 10605<br></p></div>
 </div>
 </div> <!-- End Page Studio Area -->
         <div id="llsForm">
     <!-- Form360 Builder URL? http://forms.lls.org/FormBuilder/ -->
-    <!-- Form360 Renderer URL? http://forms.lls.org/FormRenderer/FormServlet -->
+    <!-- Form360 Renderer URL? http://www.lls.org/FormRenderer/FormServlet -->
     <!--
     Version =           8
     Item key =          3204995
@@ -1000,7 +1105,7 @@ Footer Items (not in left nav)
             <div class="clearfloat"></div>
 <div id="updateDate">
     last updated on
-    Friday, June 07, 2013
+    Thursday, March 12, 2015
 </div>
         </div>
     </div>	
@@ -1028,6 +1133,8 @@ Footer Items (not in left nav)
 								<a href="/footer/refund/">Refund Policy</a>
 				      	 		&nbsp;|&nbsp;	
 								<a href="/footer/publicdisclosure/">Public Disclosure</a>
+				      	 		&nbsp;|&nbsp;	
+								<a href="/footer/subscription_center/">Subscription Center</a>
 				</div>
 			</div>
 			<div id="footerRight">
@@ -1092,17 +1199,12 @@ Footer Items (not in left nav)
 						    		</li>
 					    	 		<li>
 <a href="/aboutlls/news/">
-	News
+	News Room
 </a>
 						    		</li>
 					    	 		<li>
-<a href="http://community.lls.org/blogs/lls">
+<a href="http://community.lls.org/blog/1-the-lls-blog/">
 	LLS Blog
-</a>
-						    		</li>
-					    	 		<li>
-<a href="/aboutlls/partners/">
-	Our Partners
 </a>
 						    		</li>
 					    	 		<li>
@@ -1113,11 +1215,6 @@ Footer Items (not in left nav)
 					    	 		<li>
 <a href="/aboutlls/careers/">
 	Careers at LLS
-</a>
-						    		</li>
-					    	 		<li>
-<a href="/aboutlls/awards/">
-	National Recognition &amp; Awards
 </a>
 						    		</li>
 					    	 		<li>
@@ -1195,7 +1292,7 @@ Footer Items (not in left nav)
 				   		<ul>
 					    	 		<li>
 <a href="/waystohelp/donate/">
-	Donate
+	Ways to Donate
 </a>
 						    		</li>
 					    	 		<li>
@@ -1210,7 +1307,7 @@ Footer Items (not in left nav)
 						    		</li>
 					    	 		<li>
 <a href="/waystohelp/plannedgift/">
-	Leave a Legacy of Hope
+	Wills, Annuities, Planned Gifts
 </a>
 						    		</li>
 					    	 		<li>
@@ -1224,18 +1321,13 @@ Footer Items (not in left nav)
 </a>
 						    		</li>
 					    	 		<li>
-<a href="/waystohelp/sponsorpartner/">
-	Become a Sponsor or Partner
+<a href="/waystohelp/corporatepartnership/">
+	Corporate Partnership Opportunities
 </a>
 						    		</li>
 					    	 		<li>
 <a href="/waystohelp/shop/">
 	Shop
-</a>
-						    		</li>
-					    	 		<li>
-<a href="/waystohelp/specialoffers/">
-	Special Offers From LLS Partners
 </a>
 						    		</li>
 					    	 		<li>
