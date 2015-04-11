@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705155801id_/https%3A//www.crust.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411164530id_/https%3A//www.crust.com.au/privacypolicy) for the most accurate reproduction.*
 
-# Crust Gourmet Pizzas
+# Privacy Policy - Our Terms & Conditions - Crust.com.au
 
 Crust recognises the importance of your privacy and treats personal information provided to us with respect and integrity. We comply with the National Privacy Principles contained in the Privacy Act 1988.
 
