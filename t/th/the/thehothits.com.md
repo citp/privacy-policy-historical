@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123033648id_/http%3A//www.thehothits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412015543id_/http%3A//www.thehothits.com/privacy) for the most accurate reproduction.*
 
 # New Music - Music Videos | Music Charts | Countdown the Hottest Songs - The Hot Hits
 
