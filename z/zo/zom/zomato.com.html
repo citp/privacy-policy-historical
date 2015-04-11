@@ -1,16 +1,25 @@
-<!--The following is the downloaded HTML source of the zomato.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627231852id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zomato.com privacy policy that was archived on 2015-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150412004337id_/https%3A//www.zomato.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="pt"><head>
+<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#"><head>
     <meta charset="utf-8">
-            <link rel="dns-prefetch" href="d2z9qv80fklwtv.cloudfront.net">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+        <link rel="dns-prefetch" href="d2h6m9ihko7kz3.cloudfront.net">
     
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="http://track.zomato.com/php/tracking.php?regime=-1&amp;category=0&amp;fbtrack=2343415a66b72ea61fa717322e0cce1d&amp;userid=0&amp;city_id=1&amp;page=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140627231855id_%2Fhttp%3A%2F%2Fwww.zomato.com%2Fpt%2Fprivacy&amp;type=pageview&amp;" async=""></script><script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js?onload=grender"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcDUF5SGwEDV1RWAgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-            <link rel="alternate" hreflang="en" href="http://www.zomato.com/privacy">
-        <link rel="alternate" hreflang="tr-tr" href="http://www.zomato.com/tr/privacy">
-        <link rel="alternate" hreflang="id-id" href="http://www.zomato.com/id/privacy">
-        <link rel="alternate" hreflang="pt" href="http://www.zomato.com/pt/privacy">
-    
+    <link rel="alternate" hreflang="en" href="https://www.zomato.com/privacy">
+	<link rel="alternate" hreflang="tr" href="https://www.zomato.com/tr/privacy">
+	<link rel="alternate" hreflang="es" href="https://www.zomato.com/es/privacy">
+	<link rel="alternate" hreflang="pt" href="https://www.zomato.com/pt/privacy">
+	<link rel="alternate" hreflang="id" href="https://www.zomato.com/id/privacy">
+	<link rel="alternate" hreflang="cs" href="https://www.zomato.com/cs/privacy">
+	<link rel="alternate" hreflang="sk" href="https://www.zomato.com/sk/privacy">
+	<link rel="alternate" hreflang="pl" href="https://www.zomato.com/pl/privacy">
+	<link rel="alternate" hreflang="it" href="https://www.zomato.com/it/privacy">
+	<link rel="alternate" hreflang="x-default" href="https://www.zomato.com/privacy">
+	 
     <title>Privacy Policy | Zomato</title>
     <meta name="description" content="Privacy Policy at Zomato">
     <meta name="keywords" content="Privacy Policy at Zomato">
@@ -20,62 +29,96 @@
     
     
     
-    <link rel="icon" type="image/png" href="http://www.zomato.com/images/zomato_favicon.png">
-    <link rel="apple-touch-icon-precomposed" href="http://www.zomato.com/images/zomato_favicon.png">
-
-        
-        <meta name="msApplication-ID" content="App">
-    <meta name="msApplication-PackageFamilyName" content="Zomato.Zomato_fdfx5p10ep81m">
+        <link rel="icon" type="image/png" href="https://www.zomato.com/images/logo/zomato_favicon3.png">
+    <link rel="apple-touch-icon-precomposed" href="https://www.zomato.com/images/logo/zomato_favicon3.png">
 
         
 
     
-    <link rel="stylesheet" type="text/css" href="http://www.zomato.com/tmp/tmp/901a49339f1e1e2e6c9771d31ede21ef.css">
+        <meta name="twitter:card" content="app">
+    <meta name="twitter:description" content="Zomato is the best way to discover great places to eat in your city. Our easy-to-use app shows you all the restaurants and nightlife options in your city, along with menus, pictures, and reviews. Share your food journey with the world, Checkin at Restaurants, Bars &amp; Cafes and follow other foodies for personalized recommendations.">
+    <meta name="twitter:app:id:iphone" content="434613896">
+    <meta name="twitter:app:url:iphone" content="zomato://">
+    <meta name="twitter:app:id:ipad" content="434613896">
+    <meta name="twitter:app:url:ipad" content="zomato://">
+    <meta name="twitter:app:id:googleplay" content="com.application.zomato">
+    <meta name="twitter:app:country" content="in">
+    <meta name="twitter:app:url:googleplay" content="http://zoma.to/">
+                <meta property="og:title" content="Privacy Policy | Zomato">
+            <meta property="og:type" content="website">
+            <meta property="og:url" content="https://www.zomato.com/privacy">
+            <meta property="og:site_name" content="Zomato">
+            <meta property="og:description" content="Privacy Policy at Zomato">
+            <meta property="og:image" content="https://www.zomato.com/images/logo/zomato_favicon3.png">
+            <link href="android-app://com.application.zomato/http/zoma.to/home" rel="alternate">
 
-    <!--[if lt IE 9]>
-<script type="text/javascript">
-// html5shiv MIT @rem remysharp.com/html5-enabling-script
-// iepp v1.6.2 MIT @jon_neal iecss.com/print-protector
-/*@cc_on(function(m,c){var z="abbr|article|aside|audio|canvas|details|figcaption|figure|footer|header|hgroup|mark|meter|nav|output|progress|section|summary|time|video";function n(d){for(var a=-1;++a<o;)d.createElement(i[a])}function p(d,a){for(var e=-1,b=d.length,j,q=[];++e<b;){j=d[e];if((a=j.media||a)!="screen")q.push(p(j.imports,a),j.cssText)}return q.join("")}var g=c.createElement("div");g.innerHTML="<z>i</z>";if(g.childNodes.length!==1){var i=z.split("|"),o=i.length,s=RegExp("(^|\\s)("+z+")",
-"gi"),t=RegExp("<(/*)("+z+")","gi"),u=RegExp("(^|[^\\n]*?\\s)("+z+")([^\\n]*)({[\\n\\w\\W]*?})","gi"),r=c.createDocumentFragment(),k=c.documentElement;g=k.firstChild;var h=c.createElement("body"),l=c.createElement("style"),f;n(c);n(r);g.insertBefore(l,
-g.firstChild);l.media="print";m.attachEvent("onbeforeprint",function(){var d=-1,a=p(c.styleSheets,"all"),e=[],b;for(f=f||c.body;(b=u.exec(a))!=null;)e.push((b[1]+b[2]+b[3]).replace(s,"$1.iepp_$2")+b[4]);for(l.styleSheet.cssText=e.join("\n");++d<o;){a=c.getElementsByTagName(i[d]);e=a.length;for(b=-1;++b<e;)if(a[b].className.indexOf("iepp_")<0)a[b].className+=" iepp_"+i[d]}r.appendChild(f);k.appendChild(h);h.className=f.className;h.innerHTML=f.innerHTML.replace(t,"<$1font")});m.attachEvent("onafterprint",
-function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText=""})}})(this,document);@*/
-</script>
-<![endif]-->
+
+
+    <link rel="stylesheet" type="text/css" href="https://d2h6m9ihko7kz3.cloudfront.net/gencss/srv-server4/t-d03ea1d061312fdb4b730fef2efa2e68/l-H4sIAAAAAAAAA8vLL8pNzMmsStVLLi7WqcrPTUosKYawDQ3i0_LzoLzcxMw8EAMAqqMGUzAAAAA/h-fff3d2c6e311c4b2d06065825f412658">
+    <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript"></script><script type="text/javascript">
+    var _gaq = _gaq || [];
+    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+
+
+        _gaq.push(['_setAccount', 'UA-19617341-2']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+    
+    _gaq.push(['t3._setAccount', 'UA-19617341-21']);
+    _gaq.push(['t3._require', 'inpage_linkid', pluginUrl]);
+    _gaq.push(['t3._trackPageview']);
+    _gaq.push(['t3._trackPageLoadTime']);
+    _gaq.push(['t3._addIgnoredOrganic', 'zomato']);
+    _gaq.push(['t3._addIgnoredOrganic', 'zomato.com']);
+
+    _gaq.push(['t3._setCustomVar', /* slot = */ 1, 'Logged in', 'false', /* level = session*/ 2            ]); 
+
+            _gaq.push(['t4._setAccount', 'UA-19617341-30']);
+        _gaq.push(['t4._trackPageview']);
+        _gaq.push(['t4._trackPageLoadTime']);
     
     
-    <script type="text/javascript">
+
+    
+        
+        
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    // ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+</script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script>
+
+        
+    <script src="https://track.zomato.com/php/tracking.php?regime=-1&amp;category=0&amp;fbtrack=24d4f020b17b952ed36e9e8c14feb864&amp;userid=0&amp;city_id=1&amp;page=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150412004337id_%2Fhttps%253A%2F%2Fwww.zomato.com%2Fprivacy&amp;type=pageview&amp;" async=""></script><script type="text/javascript">
         window.___gcfg = {
             isSignedOut: true,
             parsetags: 'explicit',
-            lang: 'pt'
+            lang: 'en'
         };
-        
+
         
         var zomato = zomato || {};
-        HOST = "http://www.zomato.com/";
-        CDN = "http://d2z9qv80fklwtv.cloudfront.net/";
-        HOST_TRACK = "http://track.zomato.com/";
+        HOST = "https://www.zomato.com/";
+        CDN = "https://www.zomato.com/";
         CITY_ID = "1";
         USER_ID = "";
         COOKIE_DOMAIN = "zomato.com";
         //  ADREF = "";
-        SECTION = "restaurants";
         CITY_URL = "ncr/";
-        LANG = "pt";
+        LANG = "en";
 
         window.howdy = {
             'm': ""
         }
-
-
 
         window.fbst = {
             APP_ID: '288523881080',
             SOURCE_FB: false,
             SOURCE_FB_CODE: false,
             IS_FB_CONNECTED: false,
-            CONNECTED_FB_ID: false      }
+            CONNECTED_FB_ID: false        }
 
         window.gplus = {
             CLIENT_ID: '442739719837.apps.googleusercontent.com',
@@ -86,741 +129,626 @@ function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText
         zomato.documentReady = zomato.documentReady || function() {};
         zomato.UnitSystem = "METRIC";
         zomato.distanceUnit = "km";
-        zomato.csrft = "d4a3281261a14a259cb6d36721ac84df";
+        zomato.csrft = "ce58a22fefa3b949a9e9b031d45efffd";
 
-        var FLOADING_IMG_SRC = 'http://d2z9qv80fklwtv.cloudfront.net/images/floading.gif';
+        var FLOADING_IMG_SRC = 'https://d2h6m9ihko7kz3.cloudfront.net/images/floading.gif';
+
+        var IS_BOT = '1';
     </script>
 
-        <script>var IS_BOT = "1"</script>    <script type="text/javascript"></script><script type="text/javascript">
-    var _gaq = _gaq || [];
-    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-
-
     
-        _gaq.push(['_setAccount', 'UA-19617341-2']);
-        _gaq.push(['_trackPageview']);
-        _gaq.push(['_trackPageLoadTime']);
-
-        _gaq.push(['t3._setAccount', 'UA-19617341-21']);
-        _gaq.push(['t3._require', 'inpage_linkid', pluginUrl]);
-        _gaq.push(['t3._trackPageview']);
-        _gaq.push(['t3._trackPageLoadTime']);
-        _gaq.push(['t3._addIgnoredOrganic', 'zomato']);
-        _gaq.push(['t3._addIgnoredOrganic', 'zomato.com']);
-
-        _gaq.push(['t3._setCustomVar', /* slot = */ 1, 'Logged in', 'false', /* level = session*/ 2            ]); 
-
-                    _gaq.push(['t4._setAccount', 'UA-19617341-30']);
-            _gaq.push(['t4._trackPageview']);
-            _gaq.push(['t4._trackPageLoadTime']);
-        
-        
-    
-        
-    (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    // ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-    })();
-</script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script>
-
-<!-- Begin comScore Tag -->
-<script>
-    var _comscore = _comscore || [];
-    _comscore.push({ c1: "2", c2: "18166971" });
-    (function() {
-        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-        el.parentNode.insertBefore(s, el);
-    })();
-</script>
-<!-- End comScore Tag -->
-
-        <meta name="twitter:card" content="app">
-    <meta name="twitter:description" content="O Zomato é a melhor maneira de descobrires sítios para comer em 41 cidades. A nossa app é fácil de utilizar e mostra-te todas as opções de restaurantes e vida noturna na tua cidade, juntamente com ementas, fotos e opiniões. Partilha o teu roteiro gastronómico com o mundo, e segue outros foodies para receberes recomendações personalizadas.">
-    <meta name="twitter:app:id:iphone" content="434613896">
-    <meta name="twitter:app:url:iphone" content="zomato://">
-    <meta name="twitter:app:id:ipad" content="434613896">
-    <meta name="twitter:app:url:ipad" content="zomato://">
-    <meta name="twitter:app:id:googleplay" content="com.application.zomato">
-    <meta name="twitter:app:country" content="in">
-    <meta name="twitter:app:url:googleplay" content="http://zoma.to/">
-                <meta property="og:title" content="Privacy Policy | Zomato">
-            <meta property="og:type" content="website">
-            <meta property="og:url" content="http://www.zomato.com/pt/privacy">
-            <meta property="fb:admins" content="deepigoyal, gunjan.patidar">
-            <meta property="fb:app_id" content="288523881080">
-            <meta property="og:site_name" content="Zomato">
-            <meta property="og:description" content="Privacy Policy at Zomato">
-            <meta property="og:image" content="http://www.zomato.com/images/zomato_favicon.png">
-
-
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="even">
+    <!--[if IE 8]>
+    <script type="text/javascript" src="https://d2h6m9ihko7kz3.cloudfront.net/application/javascript/respond.min.js"></script>
+    <script type="text/javascript" src="https://d2h6m9ihko7kz3.cloudfront.net/application/javascript/pie.js"></script>
+    <![endif]-->
+</head>
+<body class="even en">
     <div class="ghboxcontainer" style="visibility: hidden; display: none;"><div id="ghbox"></div></div>
 
     <div class="screen-block hidden"></div>
-                        <div class="imagery2" style="background: #000000 url(&quot;http://d2z9qv80fklwtv.cloudfront.net/images/hero-bg/bg-hero-privacy.jpg&quot;) bottom center no-repeat;">
-    <header class="header" id="header">
+        
+    <!-- Acquistion Banner messages-->
 
-  <div class="container">
-    <div class="grid_16 column clearfix">
 
-      <a class="logo" href="http://www.zomato.com/pt" title="Zomato Delhi NCR - Procura de Restaurantes, Visualização de Menus, Fotos, Opiniões, Moradas e Números de Telefone para Restaurantes em Delhi NCR">
-          <img src="http://d2z9qv80fklwtv.cloudfront.net/images/zomatologo.png" alt="Zomato - Restaurant Directory and Food Guide for Delhi NCR, Restaurant Reviews, Menus">
+    
+    
+                        <div class="imagery2" style="background: #000000 url(&quot;https://d2h6m9ihko7kz3.cloudfront.net/images/hero-bg/bg-hero-privacy.jpg&quot;) bottom center no-repeat;">
+<header class="header   " id="header">
+
+  <div class="wrapper">
+
+          <div class="">
+      <div class="col-s-16">
+    
+    <a class="logo logo--header" href="https://www.zomato.com" title="Restaurants in India, United Kingdom, UAE, South Africa, Philippines, New Zealand, Qatar &amp; Sri Lanka. Delhi Restaurants, Mumbai Restaurants, Gurgaon Restaurants, London Restaurants, Dubai Restaurants, Bangalore Restaurants, Pune, Abu Dhabi, Colombo, Hyderabad, Kolkata, Chennai, Sharjah, Manila, Auckland, Wellington, Cape Town, Johannesburg Restaurants">
+          <img src="https://d2h6m9ihko7kz3.cloudfront.net/images/logo/zlogo.png" alt="Restaurants in India, United Kingdom, UAE, South Africa, Philippines, New Zealand, Qatar &amp; Sri Lanka. Delhi Restaurants, Mumbai Restaurants, Gurgaon Restaurants, London Restaurants, Dubai Restaurants, Bangalore Restaurants, Pune, Abu Dhabi, Colombo, Hyderabad, Kolkata, Chennai, Sharjah, Manila, Auckland, Wellington, Cape Town, Johannesburg Restaurants">
       </a>
-      
-                  <div class="citySelect hom" id="citySelect">
-              <div class="citySelect_box" style="background-image: url('http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/in.png');">
-                <span class="citySelect_arrow" data-iconr="•"></span>
-                Delhi NCR
 
-                <div class="citySelect_dropdown">
 
-                  <div class="citySelect_search">
-                    <input type="text" class="city-search-inp" placeholder="Search City">
-                  </div>
-
-                  <div class="citySelect_cityList">
-                    <ul class="city-list">
-                                                <li class="item-country country-1" data-country-id="1">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/in.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Índia</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/kolkata" class="list-country_city-name">Kolkata</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/lucknow" class="list-country_city-name">Lucknow</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/ludhiana" class="list-country_city-name">Ludhiana</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/pune" class="list-country_city-name">Pune</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/mumbai" class="list-country_city-name">Mumbai</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/jaipur" class="list-country_city-name">Jaipur</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/hyderabad" class="list-country_city-name">Hyderabad</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/bangalore" class="list-country_city-name">Bangalore</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/ahmedabad" class="list-country_city-name">Ahmedabad</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/indore" class="list-country_city-name">Indore</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/chandigarh" class="list-country_city-name">Chandigarh</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/guwahati" class="list-country_city-name">Guwahati</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/chennai" class="list-country_city-name">Chennai</a></li>
-                                                        <li class="item-city city-of-1" data-city-of="1"><a href="http://www.zomato.com/ncr" class="list-country_city-name">Delhi NCR</a></li>
-                                                                         <li class="item-country country-30" data-country-id="30">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/br.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Brasil</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-30" data-city-of="30"><a href="http://www.zomato.com/sao-paulo-sp" class="list-country_city-name">São Paulo</a></li>
-                                                        <li class="item-city city-of-30" data-city-of="30"><a href="http://www.zomato.com/salvador" class="list-country_city-name">Salvador</a></li>
-                                                        <li class="item-city city-of-30" data-city-of="30"><a href="http://www.zomato.com/rio" class="list-country_city-name">Rio de Janeiro</a></li>
-                                                        <li class="item-city city-of-30" data-city-of="30"><a href="http://www.zomato.com/portoalegre" class="list-country_city-name">Porto Alegre</a></li>
-                                                        <li class="item-city city-of-30" data-city-of="30"><a href="http://www.zomato.com/brasilia" class="list-country_city-name">Brasilia</a></li>
-                                                                         <li class="item-country country-37" data-country-id="37">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/ca.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Canadá</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-37" data-city-of="37"><a href="http://www.zomato.com/toronto" class="list-country_city-name">Toronto</a></li>
-                                                                         <li class="item-country country-42" data-country-id="42">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/cl.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Chile</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-42" data-city-of="42"><a href="http://www.zomato.com/santiago" class="list-country_city-name">Santiago</a></li>
-                                                                         <li class="item-country country-94" data-country-id="94">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/id.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Indonésia</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-94" data-city-of="94"><a href="http://www.zomato.com/jakarta" class="list-country_city-name">Jakarta</a></li>
-                                                                         <li class="item-country country-112" data-country-id="112">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/lb.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Líbano</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-112" data-city-of="112"><a href="http://www.zomato.com/beirut" class="list-country_city-name">Beirute</a></li>
-                                                                         <li class="item-country country-148" data-country-id="148">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/nz.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Nova Zelândia</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-148" data-city-of="148"><a href="http://www.zomato.com/hamilton" class="list-country_city-name">Hamilton</a></li>
-                                                        <li class="item-city city-of-148" data-city-of="148"><a href="http://www.zomato.com/auckland" class="list-country_city-name">Auckland</a></li>
-                                                        <li class="item-city city-of-148" data-city-of="148"><a href="http://www.zomato.com/wellington" class="list-country_city-name">Wellington</a></li>
-                                                                         <li class="item-country country-162" data-country-id="162">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/ph.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Filipinas</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-162" data-city-of="162"><a href="http://www.zomato.com/manila" class="list-country_city-name">Metro Manila</a></li>
-                                                                         <li class="item-country country-164" data-country-id="164">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/pt.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Portugal</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-164" data-city-of="164"><a href="http://www.zomato.com/lisboa" class="list-country_city-name">Lisboa</a></li>
-                                                                         <li class="item-country country-166" data-country-id="166">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/qa.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Qatar</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-166" data-city-of="166"><a href="http://www.zomato.com/doha" class="list-country_city-name">Doha</a></li>
-                                                                         <li class="item-country country-189" data-country-id="189">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/za.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Africa do Sul</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-189" data-city-of="189"><a href="http://www.zomato.com/pretoria" class="list-country_city-name">Pretoria</a></li>
-                                                        <li class="item-city city-of-189" data-city-of="189"><a href="http://www.zomato.com/johannesburg" class="list-country_city-name">Joanesburgo</a></li>
-                                                        <li class="item-city city-of-189" data-city-of="189"><a href="http://www.zomato.com/capetown" class="list-country_city-name">Cidade do Cabo</a></li>
-                                                        <li class="item-city city-of-189" data-city-of="189"><a href="http://www.zomato.com/durban" class="list-country_city-name">Durban</a></li>
-                                                                         <li class="item-country country-191" data-country-id="191">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/lk.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Sri Lanka</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-191" data-city-of="191"><a href="http://www.zomato.com/colombo" class="list-country_city-name">Colombo</a></li>
-                                                                         <li class="item-country country-208" data-country-id="208">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/tr.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Turquia</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-208" data-city-of="208"><a href="http://www.zomato.com/istanbul" class="list-country_city-name">Istambul</a></li>
-                                                        <li class="item-city city-of-208" data-city-of="208"><a href="http://www.zomato.com/ankara" class="list-country_city-name">Ankara</a></li>
-                                                                         <li class="item-country country-214" data-country-id="214">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/ae.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>UAE</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-214" data-city-of="214"><a href="http://www.zomato.com/abudhabi" class="list-country_city-name">Abu Dhabi</a></li>
-                                                        <li class="item-city city-of-214" data-city-of="214"><a href="http://www.zomato.com/sharjah" class="list-country_city-name">Sharjah</a></li>
-                                                        <li class="item-city city-of-214" data-city-of="214"><a href="http://www.zomato.com/dubai" class="list-country_city-name">Dubai</a></li>
-                                                                         <li class="item-country country-215" data-country-id="215">
-                                <span class="list-country">
-                                    <div class="list-country_flag">
-                                        <img src="http://www.zomato.com/images/photoback.png" class="too-lazy-flag-image trigger" data-original="http://d2z9qv80fklwtv.cloudfront.net/ap-4/flags_z10/gb.png" alt="">
-                                    </div>
-                                    <div class="list-country_name">
-                                        <p>Reino Unido</p>
-                                    </div>
-                                </span>
-                            </li>
-                                                        <li class="item-city city-of-215" data-city-of="215"><a href="http://www.zomato.com/birmingham" class="list-country_city-name">Birmingham</a></li>
-                                                        <li class="item-city city-of-215" data-city-of="215"><a href="http://www.zomato.com/manchester" class="list-country_city-name">Manchester</a></li>
-                                                        <li class="item-city city-of-215" data-city-of="215"><a href="http://www.zomato.com/glasgow" class="list-country_city-name">Glasgow</a></li>
-                                                        <li class="item-city city-of-215" data-city-of="215"><a href="http://www.zomato.com/london" class="list-country_city-name">Londres</a></li>
-                                                        <li class="item-city city-of-215" data-city-of="215"><a href="http://www.zomato.com/edinburgh" class="list-country_city-name">Edimburgo</a></li>
-                                                                     </ul>
-                  </div>
-                  <!-- end citySelect_cityList -->
-                </div>
-                <!-- end citySelect_dropdown -->
-            </div>
-            <!-- end citySelect_box -->
-        </div>
-           
-             <section class="header__search-bar">
+        
             
-                            <div id="search-box-area" class="left p-relative search-box-area">
-    <div class="search-box">
-        <form id="search-keyword" method="GET" action="http://www.zomato.com/index.php">
-            <div class="explore-keywords-container">
-                <div tabindex="0" class="selected-cat" data-icon="">
+            
+                     <section class="header__search-bar">
+                
+                                    
+<div id="search_main_container">
+        <div id="search_bar_wrapper">
+                <div id="location_contianer" class="left">
+                    <div id="location_pretext" class="left">
+                    <div class="l-pre-1"><!--<span class="location_placeholder">I am near</span>--><span class="location_placeholder" data-icon="L"></span> <span class="location_input_sp">Sainik Farms</span><a href="#" class="right change_placeholder">select location</a></div>
+                        <div class="l-pre-2 hidden"><span class="location_placeholder" data-icon="L"><input id="location_input" placeholder="Please type a location"></span></div>
+                    </div>
+                    <!-- Location dro down starts   -->
+                     <div id="explore-location-suggest" class="suggest-box">
+                            <div class="header-search-eg-location">tip: search by city name, location or landmark</div>
+                            <div id="location-all" class="item" data-entity_type="city" data-entity_id="1">All of Delhi NCR</div>
+                            <div id="location-auto" class="item">
+                                <div class="left">Detect current location</div>
+                                <div class="right" style="width:24px;" data-iconr="8"></div>
+                            </div>
+                            <ul id="location-recent">
+                            <li class="label ttupper">Recent Locations</li>
+                            </ul>
+                            <ul id="location-popular">
+                            <li class="label ttupper">Popular Locations</li>
+                                <li class="item" data-entity_type="subzone" data-entity_id="38">Khan Market, New Delhi</li><li class="item" data-entity_type="subzone" data-entity_id="74">Saket, New Delhi</li><li class="item" data-entity_type="subzone" data-entity_id="297">DLF Phase 1, Gurgaon</li>                            </ul>
+                            <ul id="location-suggestion-container"></ul>
+                        </div>
+
+                    <!-- Location dro down ends   -->
                 </div>
-                <div class="explore-keywords-wrapper">
-                    <input class="" type="text" name="q" id="explore-keywords" autocorrect="off" placeholder="Pesquisar..." autocomplete="off">
+                <div class="left" id="spacer_bar">  <div id="spacer_filler"> </div> </div>
+                <div id="keywords_container" class="left">
+                    <div id="keywords_pretext" class="left">
+                        <div class="k-pre-1 hidden" style="height: 100%; overflow:hidden;"><div class="keyword_placeholder"><span class="mr5 search-bar-icon1" data-icon="s"></span><div class="keyword_div">restaurant, cuisine or dish...</div></div></div>
+                        <div class="k-pre-2  w100"><span class="search-bar-icon mr5" data-icon="s"></span><input id="keywords_input" placeholder="restaurant, cuisine or dish..."><!--<div class="ib change_placeholder_container"><a href="#" class="change_placeholder">change</a></div>--></div>
+                    </div>
+                    <!-- keywords dro down starts   -->
+                    <div id="explore-keywords-dropdown">
+                        <div id="keywords-dd">
+                            <ul id="keywords-by">
+                            </ul>
+                        </div>
+                        <div class="start-steps clearfix">
+                            <ul id="explore-by" class="clearfix">
+                                <li class="label ttupper">Suggested Searches</li>
+                                                                                                
+
+                                                                                                                                                <li data-cities="[&quot;1&quot;,&quot;61&quot;,&quot;63&quot;,&quot;65&quot;,&quot;68&quot;,&quot;69&quot;,&quot;21&quot;,&quot;71&quot;,&quot;75&quot;,&quot;74&quot;,&quot;76&quot;,&quot;77&quot;,&quot;73&quot;,&quot;79&quot;,&quot;82&quot;,&quot;83&quot;,&quot;95&quot;,&quot;98&quot;,&quot;100&quot;,&quot;103&quot;,&quot;90&quot;,&quot;22&quot;,&quot;23&quot;,&quot;24&quot;,&quot;25&quot;,&quot;26&quot;,&quot;27&quot;,&quot;28&quot;,&quot;29&quot;,&quot;30&quot;,&quot;120&quot;,&quot;121&quot;,&quot;122&quot;,&quot;123&quot;,&quot;124&quot;,&quot;125&quot;,&quot;126&quot;,&quot;127&quot;,&quot;128&quot;,&quot;129&quot;,&quot;130&quot;,&quot;131&quot;,&quot;132&quot;,&quot;133&quot;,&quot;134&quot;,&quot;135&quot;,&quot;136&quot;,&quot;137&quot;,&quot;138&quot;,&quot;139&quot;,&quot;140&quot;,&quot;141&quot;,&quot;142&quot;,&quot;143&quot;,&quot;144&quot;,&quot;145&quot;,&quot;146&quot;,&quot;147&quot;,&quot;148&quot;,&quot;149&quot;,&quot;150&quot;,&quot;151&quot;,&quot;152&quot;,&quot;153&quot;,&quot;154&quot;,&quot;155&quot;,&quot;156&quot;,&quot;157&quot;,&quot;158&quot;,&quot;159&quot;,&quot;160&quot;,&quot;161&quot;,&quot;162&quot;,&quot;163&quot;,&quot;164&quot;,&quot;165&quot;,&quot;166&quot;,&quot;167&quot;,&quot;168&quot;,&quot;169&quot;,&quot;170&quot;,&quot;89&quot;,&quot;86&quot;,&quot;91&quot;,&quot;92&quot;,&quot;172&quot;,&quot;255&quot;,&quot;109&quot;,&quot;254&quot;,&quot;253&quot;,&quot;261&quot;,&quot;262&quot;,&quot;263&quot;,&quot;264&quot;,&quot;265&quot;,&quot;266&quot;,&quot;267&quot;,&quot;268&quot;,&quot;269&quot;,&quot;270&quot;,&quot;271&quot;,&quot;272&quot;,&quot;273&quot;,&quot;293&quot;,&quot;171&quot;,&quot;256&quot;,&quot;70&quot;,&quot;259&quot;,&quot;260&quot;,&quot;297&quot;,&quot;298&quot;,&quot;296&quot;,&quot;312&quot;,&quot;313&quot;,&quot;314&quot;,&quot;315&quot;,&quot;316&quot;,&quot;317&quot;,&quot;318&quot;,&quot;319&quot;,&quot;300&quot;,&quot;294&quot;,&quot;295&quot;,&quot;337&quot;,&quot;343&quot;,&quot;334&quot;,&quot;352&quot;,&quot;355&quot;,&quot;361&quot;,&quot;370&quot;,&quot;364&quot;,&quot;367&quot;,&quot;340&quot;,&quot;346&quot;,&quot;349&quot;,&quot;373&quot;,&quot;358&quot;,&quot;320&quot;,&quot;321&quot;,&quot;322&quot;,&quot;323&quot;,&quot;324&quot;,&quot;325&quot;,&quot;326&quot;,&quot;327&quot;,&quot;328&quot;,&quot;329&quot;,&quot;330&quot;,&quot;331&quot;,&quot;332&quot;,&quot;258&quot;,&quot;257&quot;,&quot;376&quot;,&quot;403&quot;,&quot;406&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;,&quot;5&quot;,&quot;6&quot;,&quot;7&quot;,&quot;8&quot;,&quot;9&quot;,&quot;10&quot;,&quot;11&quot;,&quot;12&quot;,&quot;13&quot;,&quot;14&quot;,&quot;15&quot;,&quot;16&quot;,&quot;17&quot;,&quot;18&quot;,&quot;19&quot;,&quot;20&quot;,&quot;51&quot;,&quot;52&quot;,&quot;53&quot;,&quot;54&quot;,&quot;55&quot;,&quot;56&quot;,&quot;57&quot;,&quot;58&quot;,&quot;59&quot;,&quot;60&quot;,&quot;62&quot;,&quot;64&quot;,&quot;66&quot;,&quot;67&quot;,&quot;78&quot;,&quot;80&quot;,&quot;81&quot;,&quot;32&quot;,&quot;34&quot;,&quot;33&quot;,&quot;36&quot;,&quot;38&quot;,&quot;31&quot;,&quot;37&quot;,&quot;40&quot;,&quot;35&quot;,&quot;39&quot;,&quot;84&quot;,&quot;93&quot;,&quot;111&quot;,&quot;391&quot;,&quot;379&quot;,&quot;394&quot;,&quot;397&quot;,&quot;388&quot;,&quot;400&quot;,&quot;310&quot;,&quot;173&quot;,&quot;174&quot;,&quot;175&quot;,&quot;176&quot;,&quot;177&quot;,&quot;178&quot;,&quot;179&quot;,&quot;180&quot;,&quot;181&quot;,&quot;182&quot;,&quot;183&quot;,&quot;184&quot;,&quot;185&quot;,&quot;186&quot;,&quot;187&quot;,&quot;188&quot;,&quot;189&quot;,&quot;190&quot;,&quot;191&quot;,&quot;192&quot;,&quot;193&quot;,&quot;194&quot;,&quot;195&quot;,&quot;196&quot;,&quot;197&quot;,&quot;198&quot;,&quot;199&quot;,&quot;200&quot;,&quot;201&quot;,&quot;202&quot;,&quot;203&quot;,&quot;204&quot;,&quot;205&quot;,&quot;206&quot;,&quot;207&quot;,&quot;208&quot;,&quot;209&quot;,&quot;210&quot;,&quot;211&quot;,&quot;212&quot;,&quot;213&quot;,&quot;214&quot;,&quot;215&quot;,&quot;216&quot;,&quot;217&quot;,&quot;218&quot;,&quot;219&quot;,&quot;220&quot;,&quot;221&quot;,&quot;222&quot;,&quot;223&quot;,&quot;224&quot;,&quot;225&quot;,&quot;226&quot;,&quot;227&quot;,&quot;228&quot;,&quot;229&quot;,&quot;230&quot;,&quot;231&quot;,&quot;232&quot;,&quot;233&quot;,&quot;234&quot;,&quot;235&quot;,&quot;236&quot;,&quot;237&quot;,&quot;238&quot;,&quot;239&quot;,&quot;240&quot;,&quot;241&quot;,&quot;242&quot;,&quot;243&quot;,&quot;244&quot;,&quot;245&quot;,&quot;246&quot;,&quot;247&quot;,&quot;248&quot;,&quot;249&quot;,&quot;250&quot;,&quot;251&quot;,&quot;252&quot;]" class="item " data-item_type="cat" data-item_id="2">
+                                            <div data-icon="D" class="start-step-label">
+                                                Dine-Out Restaurants                                            </div>
+                                        </li>
+                                                                                                                                                                                    <li data-cities="[&quot;1&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;,&quot;5&quot;,&quot;6&quot;,&quot;7&quot;,&quot;8&quot;,&quot;9&quot;,&quot;10&quot;,&quot;11&quot;,&quot;12&quot;,&quot;13&quot;,&quot;14&quot;,&quot;15&quot;,&quot;16&quot;,&quot;17&quot;,&quot;18&quot;,&quot;19&quot;,&quot;20&quot;,&quot;51&quot;,&quot;52&quot;,&quot;53&quot;,&quot;54&quot;,&quot;55&quot;,&quot;56&quot;,&quot;58&quot;,&quot;59&quot;,&quot;60&quot;,&quot;62&quot;,&quot;66&quot;,&quot;67&quot;,&quot;80&quot;,&quot;81&quot;,&quot;57&quot;,&quot;32&quot;,&quot;34&quot;,&quot;33&quot;,&quot;36&quot;,&quot;38&quot;,&quot;31&quot;,&quot;37&quot;,&quot;40&quot;,&quot;35&quot;,&quot;39&quot;,&quot;391&quot;,&quot;379&quot;,&quot;394&quot;,&quot;397&quot;,&quot;388&quot;,&quot;400&quot;,&quot;310&quot;,&quot;63&quot;,&quot;68&quot;,&quot;69&quot;,&quot;21&quot;,&quot;74&quot;,&quot;73&quot;,&quot;83&quot;,&quot;95&quot;,&quot;98&quot;,&quot;100&quot;,&quot;103&quot;,&quot;90&quot;,&quot;22&quot;,&quot;23&quot;,&quot;24&quot;,&quot;25&quot;,&quot;26&quot;,&quot;27&quot;,&quot;28&quot;,&quot;29&quot;,&quot;30&quot;,&quot;120&quot;,&quot;121&quot;,&quot;122&quot;,&quot;124&quot;,&quot;125&quot;,&quot;126&quot;,&quot;127&quot;,&quot;128&quot;,&quot;129&quot;,&quot;130&quot;,&quot;131&quot;,&quot;132&quot;,&quot;133&quot;,&quot;134&quot;,&quot;135&quot;,&quot;136&quot;,&quot;137&quot;,&quot;138&quot;,&quot;139&quot;,&quot;140&quot;,&quot;141&quot;,&quot;142&quot;,&quot;143&quot;,&quot;144&quot;,&quot;146&quot;,&quot;147&quot;,&quot;148&quot;,&quot;149&quot;,&quot;150&quot;,&quot;151&quot;,&quot;152&quot;,&quot;153&quot;,&quot;154&quot;,&quot;155&quot;,&quot;156&quot;,&quot;157&quot;,&quot;158&quot;,&quot;159&quot;,&quot;160&quot;,&quot;161&quot;,&quot;162&quot;,&quot;163&quot;,&quot;164&quot;,&quot;165&quot;,&quot;166&quot;,&quot;167&quot;,&quot;168&quot;,&quot;169&quot;,&quot;89&quot;,&quot;86&quot;,&quot;173&quot;,&quot;174&quot;,&quot;175&quot;,&quot;176&quot;,&quot;177&quot;,&quot;178&quot;,&quot;179&quot;,&quot;180&quot;,&quot;181&quot;,&quot;182&quot;,&quot;183&quot;,&quot;184&quot;,&quot;185&quot;,&quot;186&quot;,&quot;187&quot;,&quot;188&quot;,&quot;189&quot;,&quot;190&quot;,&quot;191&quot;,&quot;192&quot;,&quot;193&quot;,&quot;194&quot;,&quot;195&quot;,&quot;196&quot;,&quot;197&quot;,&quot;198&quot;,&quot;199&quot;,&quot;200&quot;,&quot;201&quot;,&quot;202&quot;,&quot;203&quot;,&quot;204&quot;,&quot;205&quot;,&quot;206&quot;,&quot;207&quot;,&quot;208&quot;,&quot;209&quot;,&quot;210&quot;,&quot;211&quot;,&quot;212&quot;,&quot;213&quot;,&quot;214&quot;,&quot;215&quot;,&quot;216&quot;,&quot;217&quot;,&quot;218&quot;,&quot;219&quot;,&quot;220&quot;,&quot;221&quot;,&quot;222&quot;,&quot;223&quot;,&quot;224&quot;,&quot;225&quot;,&quot;226&quot;,&quot;227&quot;,&quot;228&quot;,&quot;229&quot;,&quot;230&quot;,&quot;231&quot;,&quot;232&quot;,&quot;233&quot;,&quot;234&quot;,&quot;235&quot;,&quot;236&quot;,&quot;237&quot;,&quot;238&quot;,&quot;239&quot;,&quot;240&quot;,&quot;241&quot;,&quot;242&quot;,&quot;243&quot;,&quot;244&quot;,&quot;245&quot;,&quot;246&quot;,&quot;247&quot;,&quot;248&quot;,&quot;249&quot;,&quot;250&quot;,&quot;251&quot;,&quot;252&quot;,&quot;254&quot;,&quot;253&quot;,&quot;261&quot;,&quot;262&quot;,&quot;263&quot;,&quot;264&quot;,&quot;265&quot;,&quot;266&quot;,&quot;267&quot;,&quot;268&quot;,&quot;269&quot;,&quot;270&quot;,&quot;271&quot;,&quot;272&quot;,&quot;273&quot;,&quot;293&quot;,&quot;256&quot;,&quot;259&quot;,&quot;376&quot;,&quot;403&quot;,&quot;406&quot;,&quot;123&quot;,&quot;260&quot;,&quot;297&quot;,&quot;298&quot;,&quot;296&quot;,&quot;312&quot;,&quot;313&quot;,&quot;314&quot;,&quot;315&quot;,&quot;316&quot;,&quot;317&quot;,&quot;318&quot;,&quot;319&quot;,&quot;300&quot;,&quot;294&quot;,&quot;295&quot;,&quot;337&quot;,&quot;343&quot;,&quot;334&quot;,&quot;352&quot;,&quot;355&quot;,&quot;361&quot;,&quot;370&quot;,&quot;364&quot;,&quot;367&quot;,&quot;340&quot;,&quot;346&quot;,&quot;349&quot;,&quot;373&quot;,&quot;358&quot;,&quot;320&quot;,&quot;321&quot;,&quot;322&quot;,&quot;323&quot;,&quot;324&quot;,&quot;325&quot;,&quot;326&quot;,&quot;327&quot;,&quot;328&quot;,&quot;329&quot;,&quot;330&quot;,&quot;331&quot;,&quot;332&quot;,&quot;258&quot;,&quot;170&quot;,&quot;84&quot;,&quot;91&quot;,&quot;172&quot;,&quot;92&quot;,&quot;109&quot;,&quot;255&quot;,&quot;65&quot;,&quot;64&quot;,&quot;93&quot;,&quot;111&quot;,&quot;75&quot;]" class="item " data-item_type="cat" data-item_id="1">
+                                            <div data-icon="d" class="start-step-label">
+                                                Delivery Restaurants                                            </div>
+                                        </li>
+                                                                                                                                                                                    <li data-cities="[&quot;1&quot;,&quot;123&quot;,&quot;65&quot;,&quot;82&quot;,&quot;170&quot;,&quot;172&quot;,&quot;171&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;,&quot;5&quot;,&quot;6&quot;,&quot;7&quot;,&quot;12&quot;,&quot;51&quot;,&quot;52&quot;,&quot;53&quot;,&quot;57&quot;,&quot;61&quot;,&quot;63&quot;,&quot;64&quot;,&quot;71&quot;,&quot;74&quot;,&quot;76&quot;,&quot;77&quot;,&quot;59&quot;,&quot;60&quot;,&quot;60&quot;,&quot;66&quot;,&quot;145&quot;,&quot;89&quot;,&quot;86&quot;,&quot;84&quot;,&quot;93&quot;,&quot;111&quot;,&quot;91&quot;,&quot;13&quot;,&quot;255&quot;,&quot;109&quot;,&quot;58&quot;,&quot;256&quot;,&quot;70&quot;,&quot;259&quot;,&quot;257&quot;,&quot;310&quot;,&quot;67&quot;,&quot;73&quot;,&quot;83&quot;,&quot;90&quot;,&quot;75&quot;,&quot;293&quot;,&quot;258&quot;]" class="item " data-item_type="cat" data-item_id="3">
+                                            <div data-icon="b" class="start-step-label">
+                                                Drinks and Nightlife                                            </div>
+                                        </li>
+                                                                                                                                                                                    <li data-cities="[&quot;1&quot;,&quot;95&quot;,&quot;98&quot;,&quot;100&quot;,&quot;103&quot;,&quot;120&quot;,&quot;121&quot;,&quot;122&quot;,&quot;124&quot;,&quot;125&quot;,&quot;126&quot;,&quot;127&quot;,&quot;128&quot;,&quot;129&quot;,&quot;130&quot;,&quot;131&quot;,&quot;132&quot;,&quot;133&quot;,&quot;134&quot;,&quot;135&quot;,&quot;136&quot;,&quot;137&quot;,&quot;138&quot;,&quot;139&quot;,&quot;140&quot;,&quot;141&quot;,&quot;142&quot;,&quot;143&quot;,&quot;144&quot;,&quot;145&quot;,&quot;146&quot;,&quot;147&quot;,&quot;148&quot;,&quot;149&quot;,&quot;150&quot;,&quot;151&quot;,&quot;152&quot;,&quot;153&quot;,&quot;154&quot;,&quot;155&quot;,&quot;156&quot;,&quot;157&quot;,&quot;158&quot;,&quot;159&quot;,&quot;160&quot;,&quot;161&quot;,&quot;162&quot;,&quot;163&quot;,&quot;164&quot;,&quot;165&quot;,&quot;166&quot;,&quot;167&quot;,&quot;168&quot;,&quot;169&quot;,&quot;61&quot;,&quot;70&quot;,&quot;71&quot;,&quot;76&quot;,&quot;77&quot;,&quot;79&quot;,&quot;123&quot;,&quot;255&quot;,&quot;109&quot;,&quot;258&quot;,&quot;65&quot;,&quot;10&quot;,&quot;67&quot;,&quot;78&quot;,&quot;73&quot;,&quot;11&quot;,&quot;80&quot;,&quot;81&quot;,&quot;14&quot;,&quot;83&quot;,&quot;90&quot;,&quot;170&quot;,&quot;75&quot;,&quot;172&quot;,&quot;293&quot;,&quot;171&quot;,&quot;391&quot;,&quot;376&quot;,&quot;379&quot;,&quot;394&quot;,&quot;397&quot;,&quot;388&quot;,&quot;400&quot;,&quot;403&quot;,&quot;406&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;,&quot;5&quot;,&quot;6&quot;,&quot;7&quot;,&quot;12&quot;,&quot;64&quot;,&quot;51&quot;,&quot;59&quot;,&quot;74&quot;,&quot;63&quot;,&quot;60&quot;,&quot;66&quot;,&quot;82&quot;,&quot;57&quot;,&quot;89&quot;,&quot;86&quot;,&quot;93&quot;,&quot;111&quot;,&quot;69&quot;,&quot;68&quot;,&quot;13&quot;,&quot;256&quot;,&quot;259&quot;,&quot;257&quot;,&quot;310&quot;,&quot;84&quot;,&quot;91&quot;]" class="item " data-item_type="cat" data-item_id="6">
+                                            <div data-icon="É" class="start-step-label">
+                                                Cafés and Delis                                            </div>
+                                        </li>
+                                                                                                                                                                                                                                                                                    
+                                
+                                                                                                                                            <li class="item " data-cities="[&quot;1&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;,&quot;5&quot;,&quot;6&quot;,&quot;7&quot;,&quot;10&quot;,&quot;11&quot;,&quot;12&quot;,&quot;51&quot;,&quot;58&quot;,&quot;59&quot;,&quot;64&quot;,&quot;66&quot;,&quot;67&quot;,&quot;73&quot;,&quot;74&quot;,&quot;77&quot;,&quot;78&quot;,&quot;80&quot;,&quot;83&quot;,&quot;84&quot;,&quot;89&quot;,&quot;93&quot;,&quot;111&quot;,&quot;170&quot;,&quot;257&quot;,&quot;258&quot;,&quot;61&quot;,&quot;65&quot;,&quot;70&quot;,&quot;71&quot;,&quot;76&quot;,&quot;82&quot;,&quot;86&quot;,&quot;91&quot;,&quot;57&quot;,&quot;63&quot;]" data-item_type="specials" data-item_id="23">
+                                        <div data-icon="Ï" class="start-step-label">
+                                            Luxury Dining                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item " data-cities="[&quot;63&quot;,&quot;1&quot;,&quot;2&quot;,&quot;3&quot;,&quot;5&quot;,&quot;7&quot;,&quot;12&quot;,&quot;4&quot;,&quot;6&quot;]" data-item_type="specials" data-item_id="31">
+                                        <div data-icon="Ð" class="start-step-label">
+                                            Chinese Restaurants                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item " data-cities="[&quot;1&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;,&quot;5&quot;,&quot;12&quot;]" data-item_type="specials" data-item_id="13">
+                                        <div data-icon="„" class="start-step-label">
+                                            North Indian Restaurants                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item " data-cities="[&quot;10&quot;,&quot;64&quot;,&quot;74&quot;,&quot;75&quot;,&quot;11&quot;,&quot;51&quot;,&quot;63&quot;,&quot;65&quot;,&quot;89&quot;,&quot;1&quot;,&quot;2&quot;,&quot;3&quot;,&quot;5&quot;,&quot;7&quot;,&quot;86&quot;,&quot;4&quot;,&quot;6&quot;]" data-item_type="specials" data-item_id="10">
+                                        <div data-icon="›" class="start-step-label">
+                                            Desserts &amp; Bakes                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item " data-cities="[&quot;6&quot;,&quot;7&quot;,&quot;66&quot;,&quot;67&quot;,&quot;73&quot;,&quot;74&quot;,&quot;80&quot;,&quot;63&quot;,&quot;1&quot;,&quot;2&quot;,&quot;3&quot;,&quot;5&quot;,&quot;4&quot;,&quot;12&quot;]" data-item_type="specials" data-item_id="14">
+                                        <div data-icon="G" class="start-step-label">
+                                            Buffet Places                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;13&quot;]" data-item_type="specials" data-item_id="42">
+                                        <div data-icon="¸" class="start-step-label">
+                                            Shacks                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;57&quot;,&quot;51&quot;]" data-item_type="specials" data-item_id="16">
+                                        <div data-icon="N" class="start-step-label">
+                                            Friday Brunches                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;61&quot;,&quot;91&quot;]" data-item_type="specials" data-item_id="18">
+                                        <div data-icon="N" class="start-step-label">
+                                            Weekend Brunches                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;65&quot;,&quot;70&quot;,&quot;71&quot;,&quot;75&quot;,&quot;76&quot;,&quot;77&quot;,&quot;82&quot;,&quot;171&quot;,&quot;11&quot;,&quot;66&quot;,&quot;67&quot;,&quot;73&quot;,&quot;80&quot;,&quot;89&quot;,&quot;10&quot;,&quot;59&quot;,&quot;64&quot;,&quot;86&quot;,&quot;91&quot;,&quot;12&quot;]" data-item_type="specials" data-item_id="12">
+                                        <div data-icon="ĭ" class="start-step-label">
+                                            Breakfast Places                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;77&quot;,&quot;65&quot;]" data-item_type="specials" data-item_id="22">
+                                        <div data-icon="’" class="start-step-label">
+                                            Sports Bars                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;91&quot;]" data-item_type="specials" data-item_id="41">
+                                        <div data-icon="ų" class="start-step-label">
+                                            Early Bird Menus                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;92&quot;]" data-item_type="specials" data-item_id="46">
+                                        <div data-icon="_" class="start-step-label">
+                                            Shisha Cafes                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;6&quot;]" data-item_type="specials" data-item_id="7">
+                                        <div data-icon="N" class="start-step-label">
+                                            Sunday Brunches                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;59&quot;]" data-item_type="specials" data-item_id="29">
+                                        <div data-icon="¸" class="start-step-label">
+                                            Seaside Restaurants                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;63&quot;]" data-item_type="specials" data-item_id="45">
+                                        <div data-icon="į" class="start-step-label">
+                                            Japanese Restaurants                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;257&quot;]" data-item_type="specials" data-item_id="52">
+                                        <div data-icon="Ɯ" class="start-step-label">
+                                            Ice Cream Shops                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;61&quot;,&quot;76&quot;]" data-item_type="specials" data-item_id="20">
+                                        <div data-icon="…" class="start-step-label">
+                                            Afternoon Tea                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;70&quot;,&quot;91&quot;]" data-item_type="specials" data-item_id="26">
+                                        <div data-icon="$" class="start-step-label">
+                                            Cheap Eats                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;71&quot;]" data-item_type="specials" data-item_id="24">
+                                        <div data-icon="d" class="start-step-label">
+                                            Home/Office Delivery                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;64&quot;]" data-item_type="specials" data-item_id="27">
+                                        <div data-icon="b" class="start-step-label">
+                                            Vineyard Restaurants                                        </div>
+                                    </li>
+                                                                                                                                            <li class="item hidden" data-cities="[&quot;51&quot;]" data-item_type="specials" data-item_id="43">
+                                        <div data-icon="„" class="start-step-label">
+                                            Indian Restaurants                                        </div>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- keywords dro down ends   -->
                 </div>
-            </div>
-            <input type="text" name="qloc" id="explore-location" placeholder="Todos de Delhi NCR" value="" autocomplete="off" autocorrect="off">
+                <div id="search_button" class="left ttupper btn">
+                    Search                </div>
+                <div class="hidden search-button-loading left">
+                    <img width="20" src="https://www.zomato.com/images/loading-transparent.gif">
+                </div>
+
+                <div class="clear"> </div>
+        </div>
+
+        <form id="search-keyword" method="GET" action="https://www.zomato.com/index.php">
             <input type="hidden" name="category" id="category" value="0">
             <input type="hidden" name="tokens" id="selected-tokens" value="">
             <input type="hidden" name="special" id="special" value="0">
             <input type="hidden" name="cuisine" id="cuisine" value="0">
             <input type="hidden" name="city" id="city" value="1">
-            <input type="hidden" name="subzone" id="subzone" value="">
+            <input type="hidden" name="subzone" id="subzone" value="73">
             <input type="hidden" name="zone" id="zone" value="">
             <input type="hidden" name="landmark" id="landmark" value="">
+            <input type="hidden" name="near-me" id="near_me" value="">
             <input type="hidden" name="zipcode" id="zipcode" value="">
             <input type="hidden" name="group" id="group" value="">
+            <input type="hidden" name="metro" id="metro" value="">
+            <input type="hidden" name="entity_type" id="form_entity_type" value="subzone">
+            <input type="hidden" name="entity_id" id="form_entity_id" value="73">
+            <input type="hidden" name="q" id="keywords_query" value="">
 
             <script type="text/javascript">
-                var js_type_location_name_text = "Escreve o nome da localização...";
+                var js_type_location_name_text = "Type location name...";
             </script>
         </form>
-        <button class="header-search-btn btn-red" id="explore-button" type="submit" data-icon="s"></button>
-        <div class="hidden explore-button-loading">
-            <img width="20" src="http://www.zomato.com/images/loading-transparent-red.gif">
-        </div>
-        <div id="explore-keywords-dropdown">
-            <div id="keywords-dd">
-                <ul id="keywords-by">
-                </ul>
-            </div>
-            <div class="start-steps clearfix">
-                <ul id="explore-by" class="clearfix">
-                    <li class="header-search-eg">tipo: Procurar por nome de restaurante, localidade, tipo de cozinha ou nome do prato</li>
-                    <li class="label">Pesquisas Sugeridas</li>
-                                                                                                                                                                <li class="item" data-item_type="cat" data-item_id="2">
-                                <div data-icon="D" class="start-step-label">
-                                    Comer Fora                                </div>
-                            </li>
-                                                                                                                                                <li class="item" data-item_type="cat" data-item_id="1">
-                                <div data-icon="d" class="start-step-label">
-                                    Entrega ao Domicílio                                </div>
-                            </li>
-                                                                                                                                                <li class="item" data-item_type="cat" data-item_id="3">
-                                <div data-icon="b" class="start-step-label">
-                                    Beber um Copo                                </div>
-                            </li>
-                                                                                                                                                <li class="item" data-item_type="cat" data-item_id="6">
-                                <div data-icon="É" class="start-step-label">
-                                    Visitar café ou pastelaria                                </div>
-                            </li>
-                                                                                                                <li class="item" data-item_type="specials" data-item_id="31">
-                            <div data-icon="Ð" class="start-step-label">
-                                Restaurantes Chineses                            </div>
-                        </li>
-                    
-                                                                                            <li class="item" data-item_type="specials" data-item_id="6">
-                            <div data-icon="Ï" class="start-step-label">
-                                Jantar de Luxo                            </div>
-                        </li>
-                                                                                            <li class="item" data-item_type="specials" data-item_id="10">
-                            <div data-icon="›" class="start-step-label">
-                                Sobremesas e Pastelaria                            </div>
-                        </li>
-                                                            </ul>
-            </div>
-        </div>
-        <div id="explore-location-suggest" class="suggest-box">
-            <div id="location-all" class="item" data-entity_type="city" data-entity_id="1">Todos de Delhi NCR</div>
-            <div id="location-auto" class="item">
-                <div class="left">Detectar localização actual.</div>
-                <div class="right" style="width:24px;" data-iconr="8"></div>
-            </div>
-            <ul id="location-recent">
-            <li class="label">Locais Recentes</li>
-            </ul>
-            <ul id="location-popular">
-            <li class="label">Locais Populares</li>
-                <li class="item" data-entity_type="subzone" data-entity_id="38">Khan Market, Delhi</li><li class="item" data-entity_type="subzone" data-entity_id="74">Saket, Delhi</li><li class="item" data-entity_type="subzone" data-entity_id="297">DLF Phase 1, Gurgaon</li>            </ul>
-            <ul id="location-suggestion-container"></ul>
-        </div>
-    </div>
 
 </div>
 
-                    </section>
-     
-        <section class="header-navigation" id="header-navigation">
 
-          <section class="login-navigation" id="login-navigation">
-                <span class="header-link">
-      <a href="#" class="facebook-login header-login-button" data-reload="true">Entrar com o Facebook</a>
-    </span>
+
+                            </section>
+                                     <section class="header-navigation" id="header-navigation">
+                          
+              <section class="login-navigation" id="login-navigation">
+                    <div class="header-link">
+      <a class="header-hiring-btn" href="https://www.zomato.com/careers" target="_blank">We're Hiring!</a>
+    </div>
 
     <span class="header-link">
-      <a href="#" id="signin-link">Iniciar Sessão</a>
+      <a href="#" class="facebook-login header-login-button" data-reload="true">Log in with Facebook</a>
+    </span>
+
+    <span class="header-link mr0">
+      <a href="#" id="signin-link">Log in</a>
     </span>
     
 
-          </section>
 
-          
-                      <div class="header-icon header-icon-search" id="search-mobile-btn" data-icon="s"></div>
+              </section>
+
+              
+                              <div class="header-icon header-icon-search ib" id="search-mobile-btn" data-icon="s"></div>
+                                       <a href="" class="in-app" data-store-link="http://bit.ly/1fvL5J3">?</a>
                     
-        </section>
-       <!-- end header-navigation -->
-       
-       
-      </div>
-      <!-- end grid-s-16 -->
-  </div>
-  <!-- end container -->
-</header>
 
+                   
+                   
+            </section>
+           <!-- end header-navigation -->
+        
+                </div>
+          <!-- end col-s-16 -->
+        </div>
+        <!-- end row -->
+      
+  </div>
+    <!-- end wrapping class -->
+</header>
 
 <div class="fix-position"></div>
 
+<div id="resp-search-container" class="search-box-area"></div>
 
-
-
-<div id="resp-search-container" class="search-box-area"> </div>
-
-<div class="hero">
-
+<div class="hero ptop2">
     <div class="hero_overlay"></div>
-
-    <div class="container">
-
-        <div class="grid_16 column">
-
-            <h1 class="hero_title">
-                Privacy Policy            </h1>
-
+    <div class="wrapper">
+        <div class="row">
+            <div class="col-s-16">
+                <div class="collections_holder">
+                    <h1 class="hero_title collections_title">
+                        Privacy Policy                    </h1>
+                </div>
+            </div>
         </div>
-
-        <div class="clear"></div>
-
     </div>
-
 </div>
 <!-- /hero-about -->
-
     </div>
 
-
-<section class="section small" id="privacy">
-	<div class="container mtop2 mbot2">
-	    <article class="grid_16 column">
+<section class="wrapper mtop2 mbot2" id="privacy">
+	<div>
+	    <article class="col-l-16">
+            
         <p>This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our websites, emails, and mobile applications (<strong>"Service"</strong>). The terms <strong>"we"</strong>, <strong>"us"</strong>, <strong>"our"</strong>, and <strong>"Zomato"</strong> refer to Zomato Media Private Limited, incorporated in India. When you use the Service, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.</p>
         <p>We may change this Privacy Policy at any time by posting a revised Privacy Policy on this page; such changes will be effective upon posting.</p>
         <p>The Service may provide links to third party websites. This Privacy Policy does not apply to any information you may provide while on such third party websites. We encourage you to carefully read the privacy policies on those third party websites before providing any of your information on such sites.</p>
         <p>In every respect, by using Zomato, you agree to be bound by terms of this Privacy Policy.</p>
-
         <h3>Information we collect and how we use it</h3>
         <p>When you visit or use our Service, we collect and store information about you, your computer or mobile device and your activities. This information may include, but is not limited to:</p>
         <p></p><ul style="margin-left:20px;list-style-type:disc !important"><li><span>Your computer’s IP address; technical information about your computer or mobile device (such as type of device, web browser or operating system).</span></li><br><li><span>Your mobile device’s unique ID number (when available); your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically).</span></li><br><li><span>Your account information: your provided full name, email address, zip code and other information you may provide with your account, such as your gender and birth date. Your profile picture that will be publicly displayed as part of your account profile. You may optionally provide us with this information through third party sign-in services such as Facebook Connect and Google Plus. In such cases, we fetch and store whatever information is made available to us by you through these sign-in services.</span></li><br><li><span>We also store your preferences and settings (time zone, language, etc.), on our servers and locally on your device (mobile/computer) to provide you a consistent experience over repeat visits to the Service.</span></li><br><li><span>Your content: The information that you post to the Service, including your reviews, photos, comments, likes, lists, followers, the users you follow, and your account profile.</span></li><br><li><span>The URL of the last web page you visited before visiting our Service</span></li><br><li><span>The search terms you have looked up and results you selected; how long you visited our Service and which features you used</span></li><br><li><span>Communications between you and other users or merchants through our Service; the ads you clicked on.</span></li><br><li><span>Your transactional Information: If you make reservations or purchases through the Service, we may collect and store some information about you to process your requests and automatically complete forms for future transactions. These may include data including (but not limited to) your phone number, address, email, and credit card information. This information may be shared with third parties who help process and fulfil your requests. When you submit credit card numbers, we encrypt the information using industry standard technologies . If you write reviews about businesses with which you transact through the Service, we may publicly display the fact that you transacted with those businesses.</span></li></ul><p></p>
         <p>We use the information to improve the Service's functionality, quality and also personalize your experience. We also use this information to display relevant advertising, provide support, message you, and comply with legal obligations.</p>
         <p>Please note that some of this information is automatically collected without you voluntarily choosing to provide this information to us.</p>
-
         <h3>Cookies &amp; Mobile Device IDs</h3>
         <p><b>Cookies:</b> When you visit our Service, we may place “cookies” on your computer to recognize you. We do this to store your preferences, collect statistical data and track your use of our Service. Ad companies (including but not limited to Google and Facebook) may also place cookies on your computer to track your activities across various sites so that they can display targeted ads.</p>
         <p>Cookies are widely used, and most web browsers are configured initially to accept cookies automatically. If you prefer not to accept cookies, you may adjust and configure your browser settings accordingly. However, if you turn off cookies, or refuse to accept a request to place a cookie, some features and services on the Service may not function properly.</p>
         <p></p>
         <p><b>Mobile Device IDs:</b> If you’re using our Service on mobile, we may use mobile device IDs (the unique identifier assigned to a device by the manufacturer), instead of cookies, to recognize you. We may do this to store your preferences and track your use of the Applications. Unlike cookies, device IDs cannot be deleted. Ad companies may use device IDs to track your use of the Applications, track the number of ads displayed, measure ad performance and display ads that are more relevant to you. Analytics companies may use device IDs to track information about usage of the Applications.</p>
-
         <h3>Third Parties</h3>
         <p>We may also share your information with other companies for various reasons. What information we make available to other companies depends on the nature of our relationships with them. We generally require these other companies to keep our users' information confidential.</p>
-
         <h3>Legal Matters</h3>
         <p>We may use or disclose user information: in response to a legal request, such as a subpoena, court order, or government demand; to comply with the law; in connection with a threat of litigation; to investigate or report illegal activity; to protect our legal rights, our customers, our Service or users of our Service; or to enforce our rights or defend claims. We may also transfer your information to another company in connection with a corporate restructuring, such as a sale or merger.</p>
         <p>Zomato may need to contact you to comply or cooperate with a legal request. For this purpose, we will use the email address provided to us by you. All communications sent by Zomato at such email address shall be deemed to have been communicated to you. </p>
 
-
         <h3>Children</h3>
         <p>Our Service is not intended for use by children under the age of thirteen (13). We do not knowingly allow children under the age of thirteen (13) to register for any service, and we do not knowingly collect any personally identifiable information from children under the age of thirteen (13). If you become aware that a child has provided us with personal information without parental consent, please contact us at <a href="mailto:privacy@zomato.com">privacy@zomato.com</a>. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.</p>
-
         <h3>Job Applicants</h3>
         <p>If your information is submitted to us through our Service when applying for a position with our company, the information will be used to consider your application. We may retain your information for any period of time. This information may be shared with other companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.</p>
-
         <h3>Security</h3>
         <p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
-
         <h3>Data Retention and Account Termination</h3>
         <p>You can close your account by visiting your profile settings page on our website. We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations.</p>
-
-        <h3>Dispute Resolution</h3>
-        <p>If you believe that Zomato has not adhered to this Privacy Policy you may contact us online by emailing <a href="mailto:privacy@zomato.com">privacy@zomato.com</a> or write to us at the following address:</p>
-        <p>Zomato Media Private Limited<br>GF12A, 94 Meghdoot, Nehru Place,<br>New Delhi, India 110056</p>
-
+        <h3>Privacy Policy Concerns and Grievance Redressal Mechanism</h3>
+        <p>If you have any grievance relating to the processing/usage of information provided by you or Zomato’s Privacy Policy, you may email our Grievance Officer at <a href="mailto:privacy@zomato.com">privacy@zomato.com</a> or write at the following address:</p>
+        <p>Mr. Mridul Anand<br>Grievance Redressal Officer<br> Zomato Media Private Limited<br>139-P, Sector 44, Gurgaon (HR) -122002<br>Phone: 0124-4246198</p>
         <h3>Jurisdiction</h3>
         <p>The information we obtain from or about you may be processed and stored in India and our other various servers located across the globe. Each location may provide for different data protection rules than the country in which you reside. If you have any questions relating to your personal data, please write to us on <a href="mailto:privacy@zomato.com">privacy@zomato.com</a></p>
-        <br>
-	   <div class="clear"></div>
-
-	    </article>
-	    <div class="clear"></div>
+       	    </article>
 	</div>
 </section>
 
-
 <div class="clear ieclear"></div>
 <div class="clear footer-top2"></div>
-<footer id="footer" class="clear">
-    <div class="footer-bg">
+<footer id="footer" class="footer-bg">
 
-        <div class="container">
-            <div class="row">
+    <div class="wrapper">
 
-                <div class="grid-sm-11 grid_11 column">
+            <div class="col-l-11">
 
-                    <div class="footer-logo-cont">
-                        <a href="http://www.zomato.com" class="footer-logo"><img src="http://d2z9qv80fklwtv.cloudfront.net/images/zomatologo.png" alt="Zomato.com - Discover more places to eat around you"></a>
-                    </div>
-                    <!-- footer-logo-cont -->
+                <div class="footer-logo-cont">
+                    <a href="https://www.zomato.com" class="footer-logo"><img src="https://d2h6m9ihko7kz3.cloudfront.net/images/logo/icon_128x128.png" alt="Zomato.com - Discover more places to eat around you"></a>
+                </div>
+                <!-- footer-logo-cont -->
 
-                    <div class="footer-byline-cont">
-                        <p>
-                            Descobre sítios fantásticos para comer à tua volta
-                        </p>
-                        <p>
-                            232,900 restaurantes listados em 12 países
-                        </p>
-                    </div>
+                <div class="footer-byline-cont">
+                    <p>
+                        Discover great places to eat around you
+                    </p>
+                    <p>
+                        384,000 listed restaurants in 20 countries
+                    </p>
+                </div>
+
+                <div class="clear"></div>
+
+            </div>
+            <!-- end grid_8 -->
+
+            <div class="clear"></div>
+
+    </div>
+    <!-- end container -->
+
+
+    <div class="footer-links-container">
+
+        <div class="wrapper">
+
+                <div class="col-m-9">
+
+                    <ul class="footer-links--big">
+                        <li class="hiring-big-footer-link">
+                            <a href="https://www.zomato.com/careers">
+                                We're Hiring!
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.zomato.com/about">
+                                About
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://blog.zomato.com">
+                                Blog
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.zomato.com/business">
+                                Businesses
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.zomato.com/business/advertise">
+                                Advertise
+                            </a>
+                        </li>
+                        <li class="contact-big-footer-link">
+                            <a href="https://www.zomato.com/contact">
+                                Contact
+                            </a>
+                        </li>
+                    </ul>
+                    <!-- end footer-link-big -->
 
                     <div class="clear"></div>
+
 
                 </div>
                 <!-- end grid_8 -->
 
-                <div class="grid-sm-5 grid_5 column">
 
-                    <div class="os-icons-cont">
+                <div class="col-m-7">
 
-                        <p>
-                            Faz Download da aplicação móvel
-                        </p>
+                                          <div class="langbox langbox--footer" id="langbox">
+  <div class="langbox__btn">
+    <div class="langbox__btn-name">
+      <p data-icon="g">EN</p>
+    </div>
+    <div class="langbox__btn-arrow">
+      <p data-icon="z"></p>
+    </div>
+  </div>
+  <!-- langbox__btn -->
 
-                        <ul class="os-icons-list">
-                            <li>
-                                <a href="http://www.windowsphone.com/en-in/store/app/zomato/a00f4816-19b0-4bd8-a554-8f0172151cb3">
-                                    ‚
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://itunes.apple.com/in/app/zomato/id434613896?mt=8">
-                                    °
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://play.google.com/store/apps/details?id=com.application.zomato">
-                                    ±
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://appworld.blackberry.com/webstore/content/22065018/?countrycode=IN&amp;lang=en">
-                                    ·
-                                </a>
-                            </li>
-                        </ul>
+  <ul class="langbox__dropdown">
+                <li class="langbox__dropdown-item">
+          <a href="https://www.zomato.com/privacy?lang=en&amp;user_lang_change=1">English</a>
+          </li>
+                <li class="langbox__dropdown-item">
+          <a href="https://www.zomato.com/privacy?lang=tr&amp;user_lang_change=1">Türkçe</a>
+          </li>
+                <li class="langbox__dropdown-item">
+          <a href="https://www.zomato.com/privacy?lang=id&amp;user_lang_change=1">Indonesian</a>
+          </li>
+                <li class="langbox__dropdown-item">
+          <a href="https://www.zomato.com/privacy?lang=pt&amp;user_lang_change=1">Português</a>
+          </li>
+                <li class="langbox__dropdown-item">
+          <a href="https://www.zomato.com/privacy?lang=es&amp;user_lang_change=1">Español</a>
+          </li>
+                <li class="langbox__dropdown-item">
+          <a href="https://www.zomato.com/privacy?lang=cs&amp;user_lang_change=1">Čeština</a>
+          </li>
+                <li class="langbox__dropdown-item">
+          <a href="https://www.zomato.com/privacy?lang=sk&amp;user_lang_change=1">Slovenčina</a>
+          </li>
+                <li class="langbox__dropdown-item">
+          <a href="https://www.zomato.com/privacy?lang=pl&amp;user_lang_change=1">Polish</a>
+          </li>
+                <li class="langbox__dropdown-item">
+          <a href="https://www.zomato.com/privacy?lang=it&amp;user_lang_change=1">Italian</a>
+          </li>
+        </ul>
 
-                    </div>
+</div>
+<!-- end langbox -->
 
-                    <div class="clear"></div>
+                    
+                    <ul class="footer-links--small">
+                                                                        <li>
+                            <a href="https://www.zomato.com/mobile">
+                                Mobile
+                            </a>
+                        </li>
+                                                <li>
+                            <a href="https://www.zomato.com/privacy">
+                                Privacy
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.zomato.com/conditions">
+                                Terms
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.zomato.com/directory">
+                                Sitemap
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.zomato.com/policies">
+                                Policies
+                            </a>
+                        </li>
+                        <li class="contact-small-footer-link">
+                            <a href="https://www.zomato.com/contact">
+                                Contact
+                            </a>
+                        </li>
+                    </ul>
 
                 </div>
-                <!-- end gird_8 -->
+                <!-- end grid_8 -->
 
                 <div class="clear"></div>
-
-            </div>
-            <div class="clear"></div>
-            <!-- end row -->
         </div>
         <!-- end container -->
 
-
-        <div class="footer-links-container">
-
-            <div class="container">
-                <div class="row">
-                    <div class="grid-sm-8 grid_9 column">
-
-                        <ul class="footer-links--big ttcapitalize">
-                            <li class="were-hiring-footer">
-                                <a href="http://www.zomato.com/pt/careers">
-                                    Estamos a Contratar!
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://www.zomato.com/pt/about">
-                                    Sobre
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://www.zomato.com/pt/journal">
-                                    Blog
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://www.zomato.com/pt/business/add">
-                                    Negócios
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://www.zomato.com/pt/business/advertise">
-                                    Anuncie connosco
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://www.zomato.com/pt/contact">
-                                    Contacto
-                                </a>
-                            </li>
-                        </ul>
-                        <!-- end footer-link-big -->
-
-                        <div class="clear"></div>
-
-                    </div>
-                    <!-- end grid_8 -->
-
-
-
-
-                    <div class="grid-sm-8 grid_7 column">
-                        <div class="lang-dd-header lang-dd-footer">
-                                                    
-        <div class="lang-box-header box-sizing-content left">
-            <div class="left lang-code" data-icon="g">
-                pt            </div>
-            <div class="lang-dd uparrow-icon" data-icon="•"></div>
-        </div>
-        <div class="user-lang-header-list box-sizing-content">
-            <div class="lang-list-sec ">
-                            <a href="http://www.zomato.com/privacy?lang=en&amp;user_lang_change=1" rel="nofollow" class="header-lang-list-val nhu">English</a>
-                            <div class="clear"></div>
-                            </div><div class="lang-list-sec ">
-                            <a href="http://www.zomato.com/privacy?lang=tr&amp;user_lang_change=1" rel="nofollow" class="header-lang-list-val nhu">Türkçe</a>
-                            <div class="clear"></div>
-                            </div><div class="lang-list-sec ">
-                            <a href="http://www.zomato.com/privacy?lang=id&amp;user_lang_change=1" rel="nofollow" class="header-lang-list-val nhu">Indonesian</a>
-                            <div class="clear"></div>
-                            </div><div class="lang-list-sec last">
-                            <a href="http://www.zomato.com/privacy?lang=pt&amp;user_lang_change=1" rel="nofollow" class="header-lang-list-val nhu">Português</a>
-                            <div class="clear"></div>
-                            </div>        </div>
-    
-                                                </div>
-
-                        <ul class="footer-links--small">
-                                                        <li>
-                                <a href="http://www.zomato.com/pt/mobile">
-                                    Móvel
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://www.zomato.com/pt/privacy">
-                                    Privacidade
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://www.zomato.com/pt/directory">
-                                    Mapa do Site
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://www.zomato.com/pt/policies">
-                                    Políticas
-                                </a>
-                            </li>
-                        </ul>
-
-                    </div>
-                    <!-- end grid_8 -->
-
-
-                <div class="clear"></div>
-                </div>
-                <!-- end row -->
-
-            <div class="clear"></div>
-            </div>
-            <!-- end container -->
-
-        <div class="clear"></div>
-        </div>
-        <!-- end footer-links-container -->
-
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="grid_16 column">
-                    <div class="fineprint">
-                        Ao continuar para esta página, concorda com os <a href="http://www.zomato.com/conditions" rel="nofollow">Termos de Utilização</a>. Todas as marcas registadas são propriedades dos respectivos proprietários. © 2008-2014 - <a href="http://www.zomato.com">Zomato</a>™ Media Pvt Ltd.Todos os direitos reservados.
-                    </div>
-                    <div class="clear"></div>
-                </div>
-                <div class="clear"></div>
-            </div>
-        </div>
-
-        <a href="https://plus.google.com/104017429609258707097" rel="publisher" class="hidden"></a>
-        <div class="clear"></div>
+    <div class="clear"></div>
     </div>
+    <!-- end footer-links-container -->
+
+    <div class="footer-bottom">
+        <div class="wrapper">
+
+            <div class="col-s-16">
+
+                <div class="footer-msg">
+                    By continuing past this page, you agree to <a href="http://www.zomato.com/conditions" rel="nofollow">Terms of Service</a>. All trademarks are properties of their respective owners. © 2008-2015 - <a href="http://www.zomato.com">Zomato</a>™ Media Pvt Ltd. All rights reserved.
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+
+        </div>
+        <!-- end wrapping_class -->
+    </div>
+    <!-- end footer-bottom -->
+
+    <a href="https://plus.google.com/104017429609258707097" rel="publisher" class="hidden"></a>
     <div class="clear"></div>
 </footer>
 <div class="clear" id="fb-root"></div>
-<script type="text/javascript" src="http://www.zomato.com/tmp/tmp/6a23fbfa774ab541cd7a47160a59b738.js"></script>
-<script type="text/javascript"> var isSearchMobile = false; </script> <script type="text/javascript"> if(typeof console != "undefined"){ console.log("Zomato - For the love of food!");console.log("If looking under the hood is what you like, we'd love to chat. www.zomato.com/careers");}</script> 
+
 <script type="text/javascript">
-    
-window._B = window._B || {}; window._B.ismobile = false;if(typeof Auth != "undefined"){ Auth.facebook && Auth.facebook.loadSDK(); }(function() {
-    var po = document.createElement('script');
-    po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/client:plusone.js?onload=grender';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(po, s);
-})();    if(typeof Auth != 'undefined'){
-        if( window.howdy.m == 'facebook' || window.fbst.IS_FB_CONNECTED == true ){
-            Auth.facebook.loggedin = true;
-        }    
-        if ( window.howdy.m == "google" || window.gplus.IS_GPLUS_CONNECTED == true ){
-            Auth.google.loggedin = true;
-        }
-        if(!window._B.ismobile ){
-            Auth.doFirstLogin();
-        }
-    }    
+if (typeof console != "undefined") {
+    console.log("Zomato - For the love of food!");
+    console.log("If looking under the hood is what you like, we\'d love to chat. www.zomato.com/careers");
+}
 </script>
+
+<script>
+(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1483535998554247']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1483535998554247&amp;ev=PixelInitialized" /></noscript>
+
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 994744731;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994744731/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+
+
+<script type="text/javascript">
+    var zomato = zomato || {};
+    zomato.device = zomato.device || {};
+    zomato.device.isMobile = Boolean();
+    zomato.device.isTablet = Boolean();
+    window.isSearchMobile = false;
+    function loadJSnew(path, func) {
+        var s = document.createElement("script");
+        s.src = path;
+        if (typeof func != 'undefined') {
+            s.onload = func;
+        }
+        document.body.appendChild(s);
+    }
+    function loadScripts() {
+        var jscripts = ["https:\/\/d2h6m9ihko7kz3.cloudfront.net\/genjs\/srv-server4\/t-7bb439dd8d7225472f46cc68b79c914d\/l-H4sIAAAAAAAAA22SS3aDMAxFN9SSxbSjTjjCVkBBWK4tkprV1wSSiJ7OrKvvk6UUc2kmCs0lvy0ygUrDEPoZejQIAnBRcnllTqZJwkmh7yn0JirhlfCWDckDpHudSfzMmE8DcsS0Ek_A0ltfNbc5XsHgt-DL94ypNMuHuJpmSIAg2SVh3gIjz7VIPu1uhqWwgDcZrjjGh-IzZHVMbjS6_tPq1gZOScKRykhoCV4x6AH8aAJjn8FhV9MMeqncAYUrKRpwX0ybqQ9zNDgOomKbRZZyJmbLEub3WekPe_7TYyxE30IVWDsXwzNCcoMFzw84gDag3iSN-z08LkTaDluPjIre8hupHiTP-WjWgY3ZgRvb-o6g1PFhM_upVm_Qumvj-vpMNW0ru1Cg1fcLz8f98-4CAAA\/cl-en\/h-9c0be0322e02c0767507f4ebf2208905","https:\/\/d2h6m9ihko7kz3.cloudfront.net\/genjs\/srv-server4\/t-9e7a45ad1f839e299c65ef14625a2c69\/l-H4sIAAAAAAAAA0vOz83Nz9PLKtapyszLLAEyACAiZEASAAAA\/cl-en\/h-9c0be0322e02c0767507f4ebf2208905",2]; 
+        zomato._loadedScripts = 0; 
+        zomato._totalScripts = jscripts[jscripts.length-1];
+        loadRest(jscripts);
+    }
+    function loadRest(jscripts) {
+        for (i = 0; i < jscripts.length - 1; i++) {
+            loadJSnew(jscripts[i]);
+        }
+
+        window._B = window._B || {};
+        $(document).on('zreadyPageScripts', function() {
+                  });
+
+        $(document).on('zready', function() {
+            window._B.ismobile = false;            if(typeof Auth != 'undefined') {
+                if( window.howdy.m == 'facebook' || window.fbst.IS_FB_CONNECTED == true ){
+                    Auth.facebook.loggedin = true;
+                }
+                if ( window.howdy.m == "google" || window.gplus.IS_GPLUS_CONNECTED == true ){
+                    Auth.google.loggedin = true;
+                }
+                if(!window._B.ismobile ){
+                    Auth.doFirstLogin();
+                }
+            }
+        });
+    }
+    function loadjQuery() {
+        loadJSnew("https://d2h6m9ihko7kz3.cloudfront.net/application/javascript/jquery.min.js", loadScripts);
+    }
+        var jscripts = ["https:\/\/d2h6m9ihko7kz3.cloudfront.net\/genjs\/srv-server4\/t-7bb439dd8d7225472f46cc68b79c914d\/l-H4sIAAAAAAAAA22SS3aDMAxFN9SSxbSjTjjCVkBBWK4tkprV1wSSiJ7OrKvvk6UUc2kmCs0lvy0ygUrDEPoZejQIAnBRcnllTqZJwkmh7yn0JirhlfCWDckDpHudSfzMmE8DcsS0Ek_A0ltfNbc5XsHgt-DL94ypNMuHuJpmSIAg2SVh3gIjz7VIPu1uhqWwgDcZrjjGh-IzZHVMbjS6_tPq1gZOScKRykhoCV4x6AH8aAJjn8FhV9MMeqncAYUrKRpwX0ybqQ9zNDgOomKbRZZyJmbLEub3WekPe_7TYyxE30IVWDsXwzNCcoMFzw84gDag3iSN-z08LkTaDluPjIre8hupHiTP-WjWgY3ZgRvb-o6g1PFhM_upVm_Qumvj-vpMNW0ru1Cg1fcLz8f98-4CAAA\/cl-en\/h-9c0be0322e02c0767507f4ebf2208905","https:\/\/d2h6m9ihko7kz3.cloudfront.net\/genjs\/srv-server4\/t-9e7a45ad1f839e299c65ef14625a2c69\/l-H4sIAAAAAAAAA0vOz83Nz9PLKtapyszLLAEyACAiZEASAAAA\/cl-en\/h-9c0be0322e02c0767507f4ebf2208905",2];
+        var zomato = zomato || {}; 
+        zomato._loadedScripts = 0; 
+        zomato._totalScripts = jscripts[jscripts.length-1];
+ 
+    if (window.addEventListener)
+        window.addEventListener("load", loadjQuery, false);
+    else if (window.attachEvent)
+        window.attachEvent("onload", loadjQuery);
+    else window.onload = loadjQuery;
+</script>
+
 
 
 
@@ -828,7 +756,7 @@ window._B = window._B || {}; window._B.ismobile = false;if(typeof Auth != "undef
 
     <script type="text/javascript">
             var tdata = tdata || {};tdata["regime"] = "-1";tdata["category"] = "0";tdata["adref"] = "";
-        tdata["fbtrack"] = "2343415a66b72ea61fa717322e0cce1d";
+        tdata["fbtrack"] = "24d4f020b17b952ed36e9e8c14feb864";
         tdata["userid"] = "0";
         tdata["city_id"] = "1";
         tdata["res_id"] = "";
@@ -848,59 +776,32 @@ window._B = window._B || {}; window._B.ismobile = false;if(typeof Auth != "undef
             for(i in data) {
                 if(data[i] != "")
                     get += encodeURIComponent(i)+"="+encodeURIComponent(data[i])+"&";
-    }
+            }
+            (function(d, s) {
+                var len = document.querySelectorAll("head > script").length;
+                len = (len > 0) ? len - 1 : 0;
+                var js, fjs = d.getElementsByTagName(s)[len];
+                js = d.createElement(s);
+                js.src = "https://track.zomato.com/php/tracking.php?"+get;
+                js.async = "true";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, "script"));
 
-    (function(d, s) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        js = d.createElement(s);
-        js.src = "http://track.zomato.com/php/tracking.php?"+get;
-        js.async = "true";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, "script"));
+        }
 
-    }
+        function getQueryVariable(variable, query) {
+            var query = query.substring(query.indexOf("?") + 1);
+            var vars = query.split("&");
+            for (var i = 0; i < vars.length; i++) {
+                var pair = vars[i].split("=");
+                if (decodeURIComponent(pair[0]) == variable) {
+                    return decodeURIComponent(pair[1]);
+                }
+            }
+            return -1;
+        }
 
-    function getQueryVariable(variable, query) {
-        var query = query.substring(query.indexOf("?") + 1);
-        var vars = query.split("&");
-        for (var i = 0; i < vars.length; i++) {
-            var pair = vars[i].split("=");
-            if (decodeURIComponent(pair[0]) == variable) {
-                return decodeURIComponent(pair[1]);
-    }
-    }
-    return -1;
-    }
+        trackUserAction(tdata, userActionType);
+    </script>    
 
-
-    trackUserAction(tdata, userActionType);
-    </script>    <!--[if lt IE 9]>
-<script type="text/javascript">
-// html5shiv MIT @rem remysharp.com/html5-enabling-script
-// iepp v1.6.2 MIT @jon_neal iecss.com/print-protector
-/*@cc_on(function(m,c){var z="abbr|article|aside|audio|canvas|details|figcaption|figure|footer|header|hgroup|mark|meter|nav|output|progress|section|summary|time|video";function n(d){for(var a=-1;++a<o;)d.createElement(i[a])}function p(d,a){for(var e=-1,b=d.length,j,q=[];++e<b;){j=d[e];if((a=j.media||a)!="screen")q.push(p(j.imports,a),j.cssText)}return q.join("")}var g=c.createElement("div");g.innerHTML="<z>i</z>";if(g.childNodes.length!==1){var i=z.split("|"),o=i.length,s=RegExp("(^|\\s)("+z+")",
-"gi"),t=RegExp("<(/*)("+z+")","gi"),u=RegExp("(^|[^\\n]*?\\s)("+z+")([^\\n]*)({[\\n\\w\\W]*?})","gi"),r=c.createDocumentFragment(),k=c.documentElement;g=k.firstChild;var h=c.createElement("body"),l=c.createElement("style"),f;n(c);n(r);g.insertBefore(l,
-g.firstChild);l.media="print";m.attachEvent("onbeforeprint",function(){var d=-1,a=p(c.styleSheets,"all"),e=[],b;for(f=f||c.body;(b=u.exec(a))!=null;)e.push((b[1]+b[2]+b[3]).replace(s,"$1.iepp_$2")+b[4]);for(l.styleSheet.cssText=e.join("\n");++d<o;){a=c.getElementsByTagName(i[d]);e=a.length;for(b=-1;++b<e;)if(a[b].className.indexOf("iepp_")<0)a[b].className+=" iepp_"+i[d]}r.appendChild(f);k.appendChild(h);h.className=f.className;h.innerHTML=f.innerHTML.replace(t,"<$1font")});m.attachEvent("onafterprint",
-function(){h.innerHTML="";k.removeChild(h);k.appendChild(f);l.styleSheet.cssText=""})}})(this,document);@*/
-</script>
-<![endif]-->
-        <script type="text/javascript">
-        adroll_adv_id = "UN3UB44UKJGYTJVVXU7KOX";
-        adroll_pix_id = "RHAO5C4KXREILNGKFR2PPJ";
-        (function () {
-         var oldonload = window.onload;
-         window.onload = function(){
-         __adroll_loaded=true;
-         var scr = document.createElement("script");
-         var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-         scr.setAttribute('async', 'true');
-         scr.type = "text/javascript";
-         scr.src = host + "/j/roundtrip.js";
-         ((document.getElementsByTagName('head') || [null])[0] ||
-          document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-         if(oldonload){oldonload()}};
-        }());
-    </script>
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"700b8cfba9","applicationID":"2335459","transactionName":"blFbNhZQWkVWUxVaXFcbbBANHlVGR1wIUFJNXVYMS0FGX0FRAkodSVxJ","queueTime":0,"applicationTime":58,"ttGuid":"","agentToken":"","atts":"QhZYQF5KSUs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://d2h6m9ihko7kz3.cloudfront.net/application/javascript/jquery.min.js"></script></body></html>
