@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the yousign.org privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806033523id_/http%3A//www.yousign.org/en/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yousign.org privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411090137id_/http%3A//www.yousign.org/en/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | YouSign.org
 
-  * This Privacy Policy governs the manner in which YouSign.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.yousign.org](http://www.yousign.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by YouSign.org.
+## Privacy Policy
+
+This Privacy Policy governs the manner in which YouSign.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.yousign.org](http://www.yousign.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by YouSign.org.
 
 **Personal identification information**
 
@@ -20,16 +22,19 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 YouSign.org may collect and use Users personal information for the following purposes:
 
-    * _\- To improve customer service_  
+  * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-    * _\- To personalize user experience_  
+  * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-    * _\- To improve our Site_  
+  * _\- To improve our Site_  
 We may use feedback you provide to improve our products and services.
-    * _\- To run a promotion, contest, survey or other Site feature_  
+  * _\- To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-    * _\- To send periodic emails_  
+  * _\- To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
+
+
 **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
@@ -67,6 +72,3 @@ str. Aviator Badescu, nr. 26, Cluj-Napoca, Cluj, Romania, Zip Code: 400196
 +40729592903
 
 This document was last updated on November 16, 2012
-
-
-
