@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the paypal-activate.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044418id_/https%3A//www.paypal.com/us/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal-activate.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411124508id_/https%3A//www.paypal.com/ca/webapps/mpp/ua/privacy-full%3Flocale.x%3Den_CA) for the most accurate reproduction.*
 
 # PayPal
 
->> [View all legal agreements](https://www.paypal.com/us/webapps/mpp/ua/legalhub-full "Legal Agreements")
+>> [View all legal agreements](https://www.paypal.com/ca/webapps/mpp/ua/legalhub-full "Legal Agreements")
 
 Last Update: May 15, 2014  
 
 
-**Your Privacy Rights**
+### Your Privacy Rights
 
-This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the PayPal website and all related sites, applications, services and tools regardless of how you access or use them. More detailed information about our privacy practices, along with our contact information, is available at the [eBay Privacy Center.](http://www.ebayprivacycenter.com/)
+This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the PayPal website and all related sites, applications, services and tools regardless of how you access or use them. More detailed information about our privacy practices, along with our contact information, is available at the [**eBay Privacy Cente** r.](http://www.ebayprivacycenter.com/)
 
 The PayPal website is a licensee of the TRUSTe Web Privacy Program. If this policy or our customer support team cannot answer your privacy-related questions, please use the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request).
 
@@ -40,7 +40,7 @@ Back to top
 
 ### Binding Corporate Rules
 
-In addition to the privacy practices set out in this Privacy Policy, our parent company eBay Inc. has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by a number of European Union privacy regulators. These Corporate Rules are a commitment by eBay Inc. to protect your personal information regardless of where the data resides. Depending upon where you live, the Binding Corporate Rules may provide additional privacy rights through your local privacy regulator or government. For more information about our Binding Corporate Rules, including information on how to contact us with any questions, visit our [eBay Privacy Center](http://www.ebayprivacycenter.com/).
+In addition to the privacy practices set out in this Privacy Policy, our parent company eBay Inc. has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by a number of European Union privacy regulators. These Corporate Rules are a commitment by eBay Inc. to protect your personal information regardless of where the data resides. Depending upon where you live, the Binding Corporate Rules may provide additional privacy rights through your local privacy regulator or government. For more information about our Binding Corporate Rules, including information on how to contact us with any questions, visit our [eBay Privacy Center](https://www.ebayprivacycenter.com/).
 
 Back to top
 
