@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the savingmorethanme.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207202638id_/http%3A//savingmorethanme.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingmorethanme.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411030814id_/http%3A//savingmorethanme.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Disclosure Policy - Saving More Than Me
 
-[](http://savingmorethanme.com/wp-content/uploads/2011/07/blog-disclosure-policy-pic.jpg)
+  
+
+
+[](http://i1.wp.com/savingmorethanme.com/wp-content/uploads/2011/07/blog-disclosure-policy-pic.jpg)
 
 **This policy is valid from 23 May 2013**
 
@@ -28,10 +31,18 @@ Your privacy is very important to us and we are committed to protecting it. We a
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-This site contains ads from Google Ads and other third party vendors. These ads use cookies to serve ads based on a user’s prior visits to a website. You can opt out of the use of cookies by visiting the [advertising section](https://www.google.com/settings/ads?hl=en) in your Google profile. To read Google’s updated Privacy Policy (March 31, 2014), please [click here](http://www.google.com/intl/en/policies/privacy/).
+This site contains ads from Google Ads and other third party vendors. These ads use cookies to serve ads based on a user’s prior visits to a website. You can opt out of the use of cookies by visiting the [advertising section](https://www.google.com/settings/ads?hl=en) in your Google profile. To read Google’s updated Privacy Policy (December 19, 2014), please [click here](http://www.google.com/intl/en/policies/privacy/).
 
 To opt out of other Third Party Vendors use of cookies, visit [Network Advertising Initiative opt-out website](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 You will find links to third party websites on this site. We are not responsible for their privacy policies so please check with the individual site’s own privacy policy should you have a concern.
 
 ———————————————————————————————————
+
+  
+[AdChoices](https://quantcast.com/adchoices-pub?pub=ekUdnoC3_6PEPHnUPZLcgQ)  
+
+
+  
+  
+
