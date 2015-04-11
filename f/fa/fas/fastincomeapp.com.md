@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastincomeapp.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801105509id_/http%3A//www.fastincomeapp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastincomeapp.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411084829id_/http%3A//www.fastincomeapp.com/policy) for the most accurate reproduction.*
 
 # 
 
