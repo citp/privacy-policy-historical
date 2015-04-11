@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zomato.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627231852id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zomato.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412004337id_/https%3A//www.zomato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zomato
 
@@ -80,17 +80,16 @@ We follow generally accepted industry standards to protect the personal informat
 
 You can close your account by visiting your profile settings page on our website. We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations.
 
-### Dispute Resolution
+### Privacy Policy Concerns and Grievance Redressal Mechanism
 
-If you believe that Zomato has not adhered to this Privacy Policy you may contact us online by emailing [privacy@zomato.com](mailto:privacy@zomato.com) or write to us at the following address:
+If you have any grievance relating to the processing/usage of information provided by you or Zomato’s Privacy Policy, you may email our Grievance Officer at [privacy@zomato.com](mailto:privacy@zomato.com) or write at the following address:
 
+Mr. Mridul Anand  
+Grievance Redressal Officer  
 Zomato Media Private Limited  
-GF12A, 94 Meghdoot, Nehru Place,  
-New Delhi, India 110056
+139-P, Sector 44, Gurgaon (HR) -122002  
+Phone: 0124-4246198
 
 ### Jurisdiction
 
 The information we obtain from or about you may be processed and stored in India and our other various servers located across the globe. Each location may provide for different data protection rules than the country in which you reside. If you have any questions relating to your personal data, please write to us on [privacy@zomato.com](mailto:privacy@zomato.com)
-
-  
-
