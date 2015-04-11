@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thezoereport.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092326id_/http%3A//thezoereport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezoereport.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411205343id_/http%3A//thezoereport.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Zoe Report
 
@@ -35,6 +35,10 @@ Not to be confused with the chocolate chip variety (which we LOVE), an internet 
 **Third Party Cookies**
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+**Payment Card Information**
+
+To use certain aspects of our e-commerce Services, such as subscribing to our membership services, we may require credit or debit card account information. By submitting your credit or debit card account information through the Services, you expressly consent to the sharing of your information with third party merchants, subscription and billing processors, and payment processors. Currently WooCommerce collects your credit or debit card account information and shares it with Stripe who processes such payments with our financial institutions. These third parties may store your credit or debit card account information so you can use our Services in the future. We do not have your complete credit or debit card account information, store your credit or debit card account information, or have direct control over or responsibility for your credit or debit card account information. While we require that WooCommerce and Stripe use reasonable procedures to help protect your credit or debit card information, we cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third-party service providers. We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control.
 
 **Security**
 
