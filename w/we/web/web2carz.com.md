@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019160333id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411080057id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Web2Carz
 
