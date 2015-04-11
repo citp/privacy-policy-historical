@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rekhta.org privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015041853id_/http%3A//rekhta.org/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rekhta.org privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411114039id_/https%3A//rekhta.org/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Rekhta Foundation is a public charitable trust established with the objective of
 
 **Information That We Collect**
 
-Our web server might automatically recognize your domain name, IP address and other ascertainable electronic information. We also collect any personal information, including any sensitive personal information, as volunteered by you as per the [**Terms of Service**](http://rekhta.org/cms/disclaimer).
+Our web server might automatically recognize your domain name, IP address and other ascertainable electronic information. We also collect any personal information, including any sensitive personal information, as volunteered by you as per the [**Terms of Service**](https://rekhta.org/cms/disclaimer).
 
  **Use of This Information**
 
