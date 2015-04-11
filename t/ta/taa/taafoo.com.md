@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the taafoo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105417id_/http%3A//taafoo.com/info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taafoo.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412011645id_/http%3A//taafoo.com/info/Privacy) for the most accurate reproduction.*
 
 # Privacy -taafoo.com - Online Shopping | Buy Clothes, Shoes, Watches, Accessories n More
-
-SHOP FASHION at WHOLESALE PRICES.
-
-Just sign up below for a FREE & EXCLUSIVE MEMBERSHIP and access our close-to Wholesale prices available to **our exclusive members.** It's a great way to look Good and Save Money at the same time.
-
-|   
----|---  
-  
-Please add "Newsletters@taafoo.com" to your contacts list to ensure delivery.
 
 Privacy Policy
 
