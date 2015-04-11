@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timberland.co.uk privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118073612id_/http%3A//www.timberland.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timberland.co.uk privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411083705id_/http%3A//timberland.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Timberland
 
@@ -105,13 +105,13 @@ We provide the following options for changing and updating information you have 
 
 You can email us at [info@timberland.co.uk](mailto:info@timberland.co.uk)
 
-You can send mail to the postal address in the "[Contact us](https://web.archive.org/web/20141118073612id_/http%3A//www.timberland.co.uk/contact-us.aspx)" section of our website.
+You can send mail to the postal address in the "[Contact us](https://web.archive.org/web/20150411083705id_/http%3A//timberland.co.uk/contact-us.aspx)" section of our website.
 
 Change and removal requests will be made within 10 working days of their receipt.
 
 ###### 7\. Contacting us
 
-You can use the postal address in the "[Contact us](https://web.archive.org/web/20141118073612id_/http%3A//www.timberland.co.uk/contact-us.aspx)" section of our website if you wish to request from us a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information.
+You can use the postal address in the "[Contact us](https://web.archive.org/web/20150411083705id_/http%3A//timberland.co.uk/contact-us.aspx)" section of our website if you wish to request from us a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information.
 
 ###### 8\. Retention of your data
 
