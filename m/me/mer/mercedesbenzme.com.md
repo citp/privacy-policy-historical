@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedesbenzme.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205015739id_/http%3A//mercedesbenzme.com/en/footer/sub-footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedesbenzme.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411074208id_/http%3A//mercedesbenzme.com/en/footer/sub-footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercedes-Benz Middle East and Levant - Luxury Passenger Cars
 
@@ -51,6 +51,6 @@ Germany
 
 Find Out More ](http://mercedesbenzme.com/en/sedans-coupes/a-class/) [
 
-##  Experience Mercedes-Benz 
+##  Enough said. Time to drive it. 
 
 Book a Test Drive ](http://mercedesbenzme.com/en/footer/contact-sales/book-a-test-drive/)
