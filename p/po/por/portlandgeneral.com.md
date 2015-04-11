@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701174007id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411033855id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Portland General Electric: Privacy Policy and Security | PGE
 
