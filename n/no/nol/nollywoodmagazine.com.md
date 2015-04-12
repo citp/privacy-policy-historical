@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nollywoodmagazine.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715164650id_/http%3A//www.nollywoodmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nollywoodmagazine.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412020638id_/http%3A//www.nollywoodmagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Nollywood Magazine | Nollywood Magazine
+# Privacy | Nollywood Magazine
 
 At _Nollywood Magazine_ , the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _Nollywood Magazine_ and how it is used.
 
