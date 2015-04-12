@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923205559id_/http%3A//www.marks.com/shop/en/marks-marksdefaultsalescatalog/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413012210id_/http%3A//www.marks.com/shop/en/marks-marksdefaultsalescatalog/Privacy) for the most accurate reproduction.*
 
 # Mark's - Smart Clothes, Everyday Living
 
-Mark's Work Wearhouse (Mark's) abides by the Canadian Tire Corporation, Limited Privacy Charter.
+Mark's abides by the Canadian Tire Corporation, Limited Privacy Charter.
 
-Canadian Tire Corporation, Limited and its family of companies including Canadian Tire Financial Services Limited, Canadian Tire Bank, Canadian Tire Real Estate Limited, Mark's, The Forzani Group Ltd., Canadian Tire Petroleum and PartSource, are committed to protecting the privacy and security of your personal information obtained by reason of your doing business with us.
+Canadian Tire Corporation, Limited and its family of companies including Canadian Tire Financial Services Limited, Canadian Tire Bank, Canadian Tire Real Estate Limited, Mark's, FGL Sports Ltd., Canadian Tire Petroleum and PartSource, are committed to protecting the privacy and security of your personal information obtained by reason of your doing business with us.
 
 Certain Mark's stores are owned and operated by independent dealers or franchisees. As independent businesses, these dealers and franchisees are responsible for adopting their own privacy policies to protect your personal information in a manner consistent with this Privacy Charter.
 
@@ -15,14 +15,14 @@ Each member of the Canadian Tire family of companies collects information necess
 ## Privacy Charter
 
 The Privacy Charter is our commitment to you. It is our organization wide policy on how all companies in the Canadian Tire family protect your personal information.  
-[View Statement](https://web.archive.org/wcsstore/MarksStorefrontAssetStore/wcm/documents/ctcPrivacyCharter.pdf)
+[View Charter](https://web.archive.org/wcsstore/MarksStorefrontAssetStore/wcm/documents/ctcPrivacyCharter.pdf)
 
 ## Privacy Statement
 
-Our privacy statement provides a quick reference to the key privacy points of the Privacy Charter.It also provides you information on your choices and important contact information.  
+Our privacy statement provides a quick reference to the key privacy points of the Privacy Charter. It also provides you information on your choices and important contact information.  
 [View Statement](https://web.archive.org/wcsstore/MarksStorefrontAssetStore/wcm/documents/ctcPrivacyStatement.pdf)
 
 ## Privacy Frequently Asked Questions (FAQs)
 
-Our FAQs provide answers to important questions you may have regarding your information andyour privacy. The FAQs provide additional detail on what information is collected by eachcompany. The information may vary according to company. If there are further questions youwould like answered, feel free to contact us anytime.  
+Our FAQs provide answers to important questions you may have regarding your information and your privacy. The FAQs provide additional detail on what information is collected by each company. The information may vary according to company. If there are further questions you would like answered, feel free to contact us anytime.  
 [View FAQs](https://web.archive.org/wcsstore/MarksStorefrontAssetStore/wcm/documents/CT-FAQ.pdf)
