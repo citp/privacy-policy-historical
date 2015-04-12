@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102213253id_/http%3A//workingperson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412232628id_/http%3A//workingperson.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -170,8 +170,8 @@ Why Choose Working Person? Let Our Customers Explain!
 
 > “
 > 
-> Not many companies are so customer oriented. I will put in a good word of mouth to my friends.  
+> I am writing to let you know just how pleased I was with your handling of my recent return/exchange experience. I returned a pair of boots for a factory flaw and your customer service representative Brandon made the entire process easy and most satisfactory. I appreciated the fact that there were no costs involved in returning my purchase to you and the fact that I received my replacement boots in a very short time without further effort from me. I am extremely pleased with the way that my return was handled and just wanted to thank the Working Person's Store for providing such excellent, prompt and most courteous customer service. I will be recommending your company highly to others and just wanted to say thank you again for such a satisfactory and hassle-free customer service experience!  
 >   
-> Terri T. from Tucson, Arizona
+> Larry G. from Red Bluff, CA
 > 
 > ”
