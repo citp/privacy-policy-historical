@@ -1,17 +1,19 @@
-<!--The following is the downloaded HTML source of the superdrug.com privacy policy that was archived on 2014-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216151613id_/http%3A//www.superdrug.com/acc/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superdrug.com privacy policy that was archived on 2015-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150412040501id_/http%3A//www.superdrug.com/acc/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <!--START Rubikloud Technologies, Inc. Script â All Rights Reserved --> 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLNS63"></script><script>
-sLT= (new Date()).getTime();
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLNS63"></script><script type="text/javascript">
+	sLT= (new Date()).getTime();
 </script>
 <!--End Rubikloud Code -->
+<!--Begin Optimizely Code -->
+<script src="//cdn.optimizely.com/js/2703590643.js"></script>
+<!--End Optimizely Code -->
 <base target="_parent">
 <title>Privacy Policy | Superdrug</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta charset="utf-8">
-
 <link rel="shortcut icon" type="image/x-icon" href="/_ui/desktop/theme-superdrug/images/favicon.ico">
 <link rel="canonical" href="/acc/privacypolicy">
 
@@ -26,17 +28,18 @@ sLT= (new Date()).getTime();
 <meta name="viewport" content="user-scalable = yes">
 
 
-<link rel="stylesheet" href="/combined.css?id=c36d7bfa14a52e1" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/combined.css?id=c36d7bfa14ca3fa_0" type="text/css" media="screen, projection">
 
 
-<link rel="stylesheet" type="text/css" media="screen" href="/combined.css?id=21639b8814a52e1">
+<link rel="stylesheet" type="text/css" media="screen" href="/combined.css?id=21639b8814ca3fa_0">
 
 
 
 
 
-<link rel="stylesheet" href="/combined.css?id=8f0aaa2514a52e1">
-<link rel="stylesheet" href="/combined.css?id=a1f040dd14a52e1" type="text/css" media="print">
+
+<link rel="stylesheet" href="/combined.css?id=e4e84f7714ca3fa_0">
+<link rel="stylesheet" href="/combined.css?id=a1f040dd14ca3fa_0" type="text/css" media="print">
 <!-- <style type="text/css" media="print"> 
  	@IMPORT url("/_ui/desktop/common/blueprint/print.css");
 </style> -->
@@ -67,12 +70,7 @@ sLT= (new Date()).getTime();
 
 
 
-
-
-
-
-
-<script src="/combined.js?id=75d60d9614a52e1"></script>
+<script src="/combined.js?id=5fa6974014ca3fa_0"></script>
 <script type="text/javascript">
 	/*<![CDATA[*/
 	ACC.common.displayPopupCartInMillisec = "3000";
@@ -88,7 +86,7 @@ sLT= (new Date()).getTime();
 	/*]]>*/
 </script>
 
-<script src="/combined.js?id=ca627d6814a52e1"></script>	
+<script src="/combined.js?id=ca627d6814ca3fa_0"></script>	
 
 
 
@@ -161,9 +159,17 @@ var homepagecarouselwidth = '940';
 						     	</a>
 						    </div>
 	                   <div class="nonpaymentbasket right">
-		                 <script type="text/javascript">
-/*<![CDATA[*/
-function refreshMiniCart() {	
+		                 <style>
+.ui-tooltip, .ui-tooltip .arrow:after {background: #EB008B;}
+.ui-tooltip {color: #fff;font-weight:normal;border-radius: 5px;box-shadow: 0 2px 4px rgba(0,0,0,0.5);}
+.ui-tooltip .arrow {width: 70px;height: 16px;overflow: hidden;position: absolute;left: 50%;margin-left: -35px;top: -16px;}
+.ui-tooltip .arrow.top {top: -15px;bottom: auto;}
+.ui-tooltip .arrow.left {left: 20%;}
+.ui-tooltip .arrow:after {content: "";position: absolute;left: 20px;top: 10px;width: 25px;height: 25px;box-shadow: 6px 5px 9px -9px black;-webkit-transform: rotate(45deg);-ms-transform: rotate(45deg);transform: rotate(45deg);}
+.ui-tooltip .arrow.top:after {bottom: -20px;top: auto;}
+</style>
+<script type="text/javascript">
+function refreshMiniCart(){	
 	$.ajax({
 		url: '/cart/miniCart/SUBTOTAL',
         type: 'GET',
@@ -173,10 +179,32 @@ function refreshMiniCart() {
 		}
 	});
 }
-
-function refreshMiniBasket() {
-	$('#basket_menu').html("<updating cart>"); 
+$("#wishlist_link").click(function(){
+	$(this).html("<wishlist options>"); 
 	 $.ajax({
+		url: '/cart/rollover/C-MiniCart',
+        type: 'GET',
+        cache: false,
+        success: function (data){
+       		$('#wishlist_menu').html(data);
+			$('#wishlist_menu').fadeIn();
+			wishlistRefresh();
+		}
+	});
+});
+function wishlistRefresh(){	
+	$.ajax({
+		url: '/cart/miniCart/SUBTOTAL',
+        type: 'GET',
+        cache: false,
+        success: function (response){
+        	$('#wishlist_link').html(response);
+		}
+	});		
+}
+function refreshMiniBasket(){
+	$('#basket_menu').html("<updating cart>"); 
+	$.ajax({
 		url: '/cart/rollover/C-MiniCart',
         type: 'GET',
         cache: false,
@@ -186,19 +214,12 @@ function refreshMiniBasket() {
 			refreshMiniCart();
 		}
 	});
-}
-
-$(document).ready(function() {	
-		var removeLastProductForm = $('.remove_last_product_form');
-		removeLastProductForm.ajaxForm({success: removeLastProductFormSuccess});
-});
-				
+}	
 function removeLastProduct(entryNumber, productCode){
 	document.getElementById("removeEntryNumberId").value=entryNumber;
 	document.getElementById("removeProductCodeId").value=productCode;	
 	$('#removeLastProductFormId').submit();
 }
-
 function removeLastProductFormSuccess(cartResult, statusText, xhr, formElement){
 	if (typeof timeoutId != 'undefined') {
 			clearTimeout(timeoutId);
@@ -209,34 +230,119 @@ function removeLastProductFormSuccess(cartResult, statusText, xhr, formElement){
 	
 	$('#basket_menu').html(cartResult.cartPopupHtml);
 	refreshMiniCart();
-}				
-/*]]>*/
+}
+
+$(function(){ 
+	var removeLastProductForm = $('.remove_last_product_form');
+	removeLastProductForm.ajaxForm({success: removeLastProductFormSuccess});
+	
+	// Error Scenarios
+	
+	timeoutId = setTimeout(function() {$('#error_msg').fadeOut();}, 5000);
+
+	// Create Wl
+	$('.createWl a').on('click', function() {
+		$(this).siblings('.pop').slideToggle(100);
+		$('#createWishlist').focus();
+    	return false;
+	}),
+	$('.close').on('click', function() {
+		$(this).parents('.pop').slideUp(100);
+	}),
+
+	/* Wishlist CREATE */
+	$('#wishlist_menu .createWl').on('click', function() {
+	    $(this).siblings('.pop').slideToggle(100);
+	    $('#minicartWishlist').focus();
+	    return false;
+	}),
+
+	// Created Wishlist Submit Validation
+	$('ul li .pop .newWishlistName, #updatedWishlistName').on("focus",function(){
+		$(this).tooltip({
+			disabled: false,
+	    	show: { duration: 100 },
+	      	position: {
+	        my: "center top",
+	        at: "center bottom",
+	        using: function(position, feedback) {
+	          		$(this).css( position );
+	          		$("<div>").addClass("arrow",feedback.vertical,feedback.horizontal).appendTo(this);
+	        	}
+	      	}
+	    });
+	}).on("mouseout blur focusout",function(){
+		var _value = $(this).val(),
+	    	alpha = /^[a-zA-Z0-9, ']+(\s[a-zA-Z0-9, ])*$/;
+		if(!_value.match(alpha) || _value === null || _value.trim().length === 0 || _value.length > 30 ){
+			$(this).siblings('#wishlist_submit').prop("disabled", true);
+			$(this).attr("title","Invalid Wishlist. Please try again!").tooltip({disabled:false});
+			//console.log("Incorrect");
+			return false;
+		}else{
+			$(this).siblings('#wishlist_submit').prop("disabled", false);
+			$(this).tooltip({disabled:true});
+			return true;
+		}
+	});
+
+	$('#minicartWishlist').live("keypress",function(event){
+		var code= event.keyCode ? event.keyCode : event.which;
+		if (code == 13){
+			var _value = $(this).val();
+	    	var alpha = /^[a-zA-Z0-9, ']+(\s[a-zA-Z0-9, ])*$/;
+			if(!_value.match(alpha) || _value === null || _value.trim().length === 0 || _value.length > 30 ){
+				return false;
+			}
+			$('#wishlist_form_create_minicart').siblings('#wishlist_submit').prop("disabled", false);
+			$('#wishlist_form_create_minicart').attr("title","Invalid Wishlist. Please try again!").tooltip({disabled:false});
+			$("#wishlist_form_create_minicart").submit();
+		}
+	});
+});
 </script>
 
-<div class="checkout-container right">
+<div class="wl-menu-container left">
+	<div class="checkout-container left">
+	<a class="wishlist" href="#">
+		<span class="icon left notext">Wish List</span>
+		<span class="text left">Wishlist </span>
+    </a>
+	<fieldset id="wishlist_menu" class="pop-menu clearfix" style="display: none;">
+            <div class="pointer notext">^</div>
+     		<a class="account" href="/login">
+				<span class="icon left notext">Account</span>
+              Login to your Wishlists 
+              </a>
+    	</fieldset>
+		<div class="close notext">x</div>
+    <div id="error_msg" class="pop-menu pop bottom-grad">
+		<div class="pointer notext">^</div>
+		<div class="title bold"></div>
+		<div class="close notext" href="/">x</div>
+	</div>
+ </div>
+</div>
+
+<div class="basket-container left" id="miniBasket">
+	<a id="basket_link" class="basket" href="#">
+				<span class="icon left notext">Basket</span><span class="txt left">My Basket<span> (0) </span> | 
+		£0.00</span>
+			</a>
+
+	<div id="basket_menu" class="pop-menu clearfix">
+		</div>
+</div>
+
+<div class="checkout-container left">
 	<a class="checkout" href="/cart"><span class="txt left">Checkout</span><span class="arrow notext left">-&gt;</span></a>
 	</div>
 
-
-<div class="basket-container right" id="miniBasket">
-	
-	<a id="basket_link" class="basket" href="#"><span class="icon left notext">Basket</span><span class="txt left">My Basket<span> (0) </span> | 
-		£0.00</span>
-	</a>
-	
-	<div id="basket_menu" class="pop-menu clearfix">
-		
-		</div>
-	
-</div>
-
-
-<!--  <div id="rollover_cart_popup" class="cart_popup"></div>--><form id="removeLastProductFormId" action="/cart/updateaj" method="post" class="remove_last_product_form hidden">								
+<!--  <div id="rollover_cart_popup" class="cart_popup"></div>--><form id="removeLastProductFormId" action="/cart/updateaj" method="post" class="remove_last_product_form hidden">
 	<input type="hidden" id="removeEntryNumberId" name="entryNumber" value="jsFill">
 	<input type="hidden" id="removeProductCodeId" name="productCode" value="jsFill">
 	<input type="hidden" name="quantity" value="0">
 </form>
-	
 </div>
             	</div>
         </div></div><section class="header-wrap">
@@ -321,6 +427,7 @@ $(".search-block form.main").submit(function() {
 	});
 </script><script>
 $(document).ready(function(){
+<!--$(".main-nav ul.mega-menu li a[title='Sale']").css({'background' : 'url(/medias/custom-content/img/nav-bgtile-sale2.png) repeat-x', 'color' : '#ec008c'});-->
 $(".weekday_openings_times").each(function() {
 if($(this).html().trim() == "12:00 AM - 12:00 AM") {
     $(this).html("Closed");
@@ -363,68 +470,105 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<nav class="main-nav">
             <ul class="mega-menu nobullet nopad">
                 <li>
-	<a href="/xmas/christmas-shop" class="" title="Christmas Shop">
-	<span>Christmas Shop</span>
+	<a href="/c/new" class="" title="New">
+	<span>New</span>
+
+	</a></li><li>
+	<a href="/brandshop/holidayshop" class="" title="Holiday Shop">
+	<span>Holiday Shop</span>
 
 	</a><ul>
 			<li>
 					<p class="colname">CATEGORIES</p>
                     <ul>
 							<li>
-										<a href="/gift-finder/christmas" class="" title="Christmas Gift Finder">
-	<span>Christmas Gift Finder</span>
+										<a href="/microsite/sun-cream" class="" title="Aftersun &amp; Sprays">
+	<span>Aftersun &amp; Sprays</span>
 
 	</a></li>
 								<li>
-										<a href="/xmas/christmas-shop/gifts-for-her" class="" title="Gifts for Her">
-	<span>Gifts for Her</span>
+										<a href="/bronzing" class="" title="Fake Tan">
+	<span>Fake Tan</span>
 
 	</a></li>
 								<li>
-										<a href="/xmas/christmas-shop/gifts-for-him" class="" title="Gifts for Him">
-	<span>Gifts for Him</span>
+										<a href="https://onlinedoctor.superdrug.com/travel/" class="" title="Online Doctor (Travel Vaccinations and Malaria Tablets)" target="_new">
+	<span>Online Doctor (Travel Vaccinations and Malaria Tablets)</span>
 
 	</a></li>
 								<li>
-										<a href="/c/christmas-gifts-for-kids" class="" title="Gifts for Kids">
-	<span>Gifts for Kids</span>
+										<a href="/c/newbeautyforsummer" class="" title="Summer Beauty">
+	<span>Summer Beauty</span>
 
 	</a></li>
 								<li>
-										<a href="/c/electricals" class="" title="Electricals">
-	<span>Electricals</span>
+										<a href="/c/travelhealthessentials" class="" title="Summer Health &amp; Wellbeing">
+	<span>Summer Health &amp; Wellbeing</span>
 
 	</a></li>
 								<li>
-										<a href="/xmas/christmas-shop/confectionery" class="" title="Confectionery">
-	<span>Confectionery</span>
+										<a href="/microsite/sun-cream" class="" title="Suncream">
+	<span>Suncream</span>
 
 	</a></li>
 								<li>
-										<a href="/xmas/christmas-shop/web-exclusives" class="" title="Web Exclusives">
-	<span>Web Exclusives</span>
+										<a href="/c/pt_more_sunglasses" class="" title="Sunglasses">
+	<span>Sunglasses</span>
 
 	</a></li>
 								<li>
-										<a href="/microsite/xmas-gifts-for-her" class="" title="Our Top Picks for Her">
-	<span>Our Top Picks for Her</span>
-
-	</a></li>
-								<li>
-										<a href="/microsite/xmas-gifts-for-him" class="" title="Our Top Picks for Him">
-	<span>Our Top Picks for Him</span>
-
-	</a></li>
-								<li>
-										<a href="/microsite/supergift" class="" title="Super Gift of the Week">
-	<span>Super Gift of the Week</span>
+										<a href="/search?text=Travel+size" class="" title="Travel Size">
+	<span>Travel Size</span>
 
 	</a></li>
 								</ul>
-					<ul>
+					</li>
+			<li>
+					<p class="colname">BRANDS</p>
+                    <ul>
 							<li>
-										<a href="http://www.superdrug.com/bundles" class="" title="Web Exclusive Bundles &amp; Hampers">
-	<span>Web Exclusive Bundles &amp; Hampers</span>
+										<a href="/b/Garnier%20Ambre%20Solaire" class="" title="Ambre Solaire">
+	<span>Ambre Solaire</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/durex" class="" title="Durex">
+	<span>Durex</span>
+
+	</a></li>
+								<li>
+										<a href="/b/Jungle%20Formula" class="" title="Jungle Formula">
+	<span>Jungle Formula</span>
+
+	</a></li>
+								<li>
+										<a href="/b/Hawaiian%20Tropic" class="" title="Hawaiian Tropic">
+	<span>Hawaiian Tropic</span>
+
+	</a></li>
+								<li>
+										<a href="/p/537450" class="" title="Magicool">
+	<span>Magicool</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/nivea" class="" title="Nivea">
+	<span>Nivea</span>
+
+	</a></li>
+								<li>
+										<a href="/b/Piz%20Buin" class="" title="Piz Buin">
+	<span>Piz Buin</span>
+
+	</a></li>
+								<li>
+										<a href="/p/638451" class="" title="Scholl">
+	<span>Scholl</span>
+
+	</a></li>
+								<li>
+										<a href="/b/Solait" class="" title="Solait">
+	<span>Solait</span>
 
 	</a></li>
 								</ul>
@@ -439,13 +583,18 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">CATEGORIES</p>
                     <ul>
 							<li>
-										<a href="/c/pt_make_up_foundation" class="" title="Foundation">
-	<span>Foundation</span>
+										<a href="/lp/face" class="" title="Face">
+	<span>Face</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/Make-Up/Face/c/makeup-face?q=%3Aname-asc%3Acategory%3Apt_make_up_cc_creams%3Acategory%3Apt_make_up_bb_creams&amp;text=&amp;minSel=0.0&amp;maxSel=35.0&amp;minSlider=0.0&amp;maxSlider=35.0&amp;resultsForPage=20&amp;categorypt_make_up_bb_creams=on" class="" title="CC &amp; BB Cream ">
-	<span>CC &amp; BB Cream </span>
+										<a href="/lp/eye" class="" title="Eyes">
+	<span>Eyes</span>
+
+	</a></li>
+								<li>
+										<a href="/c/pt_make_up_foundation" class="" title="Foundation">
+	<span>Foundation</span>
 
 	</a></li>
 								<li>
@@ -454,17 +603,17 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/c/makeup-eyes" class="" title="Eyes">
-	<span>Eyes</span>
-
-	</a></li>
-								<li>
-										<a href="/c/makeup-lips" class="" title="Lips">
+										<a href="/lp/lips" class="" title="Lips">
 	<span>Lips</span>
 
 	</a></li>
 								<li>
-										<a href="/c/makeup-nails" class="" title="Nails">
+										<a href="/c/pt_make_up_mascara" class="" title="Mascara">
+	<span>Mascara</span>
+
+	</a></li>
+								<li>
+										<a href="/nails" class="" title="Nails">
 	<span>Nails</span>
 
 	</a></li>
@@ -479,13 +628,15 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/c/pt_make_up_make_up_brushes" class="" title="Make Up Brushes &amp; Accessories">
+										<a href="/lp/makeup-accessories" class="" title="Make Up Brushes &amp; Accessories">
 	<span>Make Up Brushes &amp; Accessories</span>
 
 	</a></li>
-								<li>
-										<a href="/c/pt_make_up_false_eyelashes" class="" title="False Lashes">
-	<span>False Lashes</span>
+								</ul>
+					<ul>
+							<li>
+										<a href="/c/pt_make_up_false_eyelashes" class="" title="False Eyelashes">
+	<span>False Eyelashes</span>
 
 	</a></li>
 								</ul>
@@ -499,8 +650,8 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/b/Maybelline" class="" title="Maybelline Cometics">
-	<span>Maybelline Cometics</span>
+										<a href="/b/Maybelline" class="" title="Maybelline Cosmetics">
+	<span>Maybelline Cosmetics</span>
 
 	</a></li>
 								<li>
@@ -509,18 +660,28 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/brandshop/maxfactor" class="" title="Max Factor">
-	<span>Max Factor</span>
-
-	</a></li>
-								<li>
 										<a href="/brandshop/sleek" class="" title="Sleek MakeUP">
 	<span>Sleek MakeUP</span>
 
 	</a></li>
 								<li>
-										<a href="/brandshop/barryM" class="" title="Barry M">
-	<span>Barry M</span>
+										<a href="/brandshop/loreal-makeup" class="" title="L'Oreal Makeup">
+	<span>L'Oreal Makeup</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/gosh" class="" title="GOSH">
+	<span>GOSH</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/maxfactor" class="" title="Max Factor">
+	<span>Max Factor</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/makeup-revolution" class="" title="Makeup Revolution">
+	<span>Makeup Revolution</span>
 
 	</a></li>
 								<li>
@@ -529,8 +690,30 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/brandshop/makeup-revolution" class="" title="Makeup Revolution">
-	<span>Makeup Revolution</span>
+										<a href="/brandshop/barryM" class="" title="Barry M">
+	<span>Barry M</span>
+
+	</a></li>
+								</ul>
+					<ul>
+							<li>
+										<a href="/microsite/thebalm" class="" title="theBalm">
+	<span>theBalm</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/mua" class="" title="MUA">
+	<span>MUA</span>
+
+	</a></li>
+								<li>
+										<a href="/b/Lottie%20London" class="" title="Lottie London">
+	<span>Lottie London</span>
+
+	</a></li>
+								<li>
+										<a href="http://www.superdrug.com/brandshop/real-techniques" class="" title="Real Techniques">
+	<span>Real Techniques</span>
 
 	</a></li>
 								</ul>
@@ -539,6 +722,11 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">QUICK FIND</p>
                     <ul>
 							<li>
+										<a href="/lp/exclusives" class="" title="Exclusive to Superdrug!">
+	<span>Exclusive to Superdrug!</span>
+
+	</a></li>
+								<li>
 										<a href="http://www.superdrug.com/ourpicks/picks?top5=foundations" class="" title="Top 5 Foundation">
 	<span>Top 5 Foundation</span>
 
@@ -574,18 +762,20 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/treatyourselfie" class="" title="#TreatYourSelfie">
-	<span>#TreatYourSelfie</span>
-
-	</a></li>
-								<li>
-										<a href="http://www.superdrug.com/Skin/Tanning-%26-Bronzing/c/skin-tanningbronzing" class="" title="Fake Tan &amp; Bronzing">
+										<a href="/bronzing" class="" title="Fake Tan &amp; Bronzing">
 	<span>Fake Tan &amp; Bronzing</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/microsite/guide-to-bronzing" class="" title="">
-	<span></span>
+										<a href="http://www.superdrug.com/microsite/zoella-beauty-range" class="" title="Zoella">
+	<span>Zoella</span>
+
+	</a></li>
+								</ul>
+					<ul>
+							<li>
+										<a href="http://www.superdrug.com/treatyourselfie" class="" title="#TreatYourSelfie">
+	<span>#TreatYourSelfie</span>
 
 	</a></li>
 								</ul>
@@ -594,21 +784,48 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname pink">PROMOTIONS</p>
                     <ul>
 							<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a3+for+2+on+selected+Max+Factor" class="" title="3 for 2 on selected Max Factor">
-	<span>3 for 2 on selected Max Factor</span>
+										<a href="/starbuys" class="" title="Star Buys - Superdrug.com picks of the week!">
+	<span>Star Buys - Superdrug.com picks of the week!</span>
 
 	</a></li>
 								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a3+for+2+on+selected+Maybelline" class="" title="3 for 2 on selected Maybelline">
-	<span>3 for 2 on selected Maybelline</span>
+										<a href="http://www.superdrug.com/bundles" class="" title="Web Exclusive Bundles &amp; Hampers">
+	<span>Web Exclusive Bundles &amp; Hampers</span>
 
 	</a></li>
 								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+up+to+1%2f2+price+on+selected+B." class="" title="Save up to 1/2 price on selected B.">
-	<span>Save up to 1/2 price on selected B.</span>
+										<a href="/microsite/makeup-3for2" class="" title="3 FOR 2 ON ALL MAKEUP!!!!">
+	<span>3 FOR 2 ON ALL MAKEUP!!!!</span>
+
+	</a></li>
+								<li>
+										<a href="http://www.superdrug.com/brandshop/rimmel" class="" title="3 for 2 on Rimmel">
+	<span>3 for 2 on Rimmel</span>
+
+	</a></li>
+								<li>
+										<a href="http://www.superdrug.com/b/Maybelline" class="" title="3 for 2 on Maybelline">
+	<span>3 for 2 on Maybelline</span>
+
+	</a></li>
+								<li>
+										<a href="http://www.superdrug.com/brandshop/mua" class="" title="3 for 2 on MUA">
+	<span>3 for 2 on MUA</span>
+
+	</a></li>
+								<li>
+										<a href="http://www.superdrug.com/brandshop/makeup-revolution" class="" title="3 for 2 on Makeup Revolution">
+	<span>3 for 2 on Makeup Revolution</span>
+
+	</a></li>
+								<li>
+										<a href="http://www.superdrug.com/brandshop/loreal-makeup" class="" title="3 for 2 on L'Oreal">
+	<span>3 for 2 on L'Oreal</span>
 
 	</a></li>
 								</ul>
+					<ul>
+							</ul>
 					</li>
 			<li>
 					</li>
@@ -622,7 +839,12 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">CATEGORIES</p>
                     <ul>
 							<li>
-										<a href="/c/premiumskin" class="" title="Premium Skincare">
+										<a href="/microsite/niveasuncream" class="" title="Suncare ">
+	<span>Suncare </span>
+
+	</a></li>
+								<li>
+										<a href="/microsite/premiumskin" class="" title="Premium Skincare">
 	<span>Premium Skincare</span>
 
 	</a></li>
@@ -632,17 +854,17 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/Clear-Skin/c/clearskin" class="" title="Clear Skin &amp; Acne Treatments">
+										<a href="/microsite/clear-skin" class="" title="Clear Skin &amp; Acne Treatments">
 	<span>Clear Skin &amp; Acne Treatments</span>
 
 	</a></li>
 								<li>
-										<a href="/search?text=Eye+Creams" class="" title="Eye Creams">
+										<a href="/moisturiser/eyes" class="" title="Eye Creams">
 	<span>Eye Creams</span>
 
 	</a></li>
 								<li>
-										<a href="" class="" title="Exfoliator &amp; Body Scrubs">
+										<a href="/search?resultsForPage=60&amp;q=%3Aname-asc%3Acategory%3Apt_skin_facial_exfoliating_cleansers%3Acategory%3Apt_skin_body_scrub%3Acategory%3Apt_skin_facial_cleansing_scrubs&amp;minSel=0.0&amp;maxSel=230.0&amp;minSlider=0.0&amp;maxSlider=230.0&amp;resultsForPage=20&amp;text=" class="" title="Exfoliator &amp; Body Scrubs">
 	<span>Exfoliator &amp; Body Scrubs</span>
 
 	</a></li>
@@ -657,7 +879,7 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="Lip-Care/c/lipcare" class="" title="Lip Care">
+										<a href="/search?q=lip+care%3aNew%3acategory%3apt_skin_lip_sun_protection%3acategory%3apt_make_up_lip_balm%3acategory%3apt_more_gifts_for_her%3acategory%3apt_skin_lip_balms%3acategory%3apt_health_sore_mouth_reflief#.VNjNVyxgraU" class="" title="Lip Care">
 	<span>Lip Care</span>
 
 	</a></li>
@@ -666,9 +888,16 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<span>Moisturisers</span>
 
 	</a></li>
-								<li>
-										<a href="/c/skin-tanningbronzing" class="" title="Fake Tanning &amp; Bronzing">
+								</ul>
+					<ul>
+							<li>
+										<a href="/bronzing" class="" title="Fake Tanning &amp; Bronzing">
 	<span>Fake Tanning &amp; Bronzing</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/holidayshop" class="" title="Holiday Shop">
+	<span>Holiday Shop</span>
 
 	</a></li>
 								</ul>
@@ -684,6 +913,11 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 								<li>
 										<a href="/b/Garnier" class="" title="Garnier">
 	<span>Garnier</span>
+
+	</a></li>
+								<li>
+										<a href="/b/L'Oreal Paris" class="" title="L'Oreal Skin">
+	<span>L'Oreal Skin</span>
 
 	</a></li>
 								<li>
@@ -722,23 +956,35 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								</ul>
+					<ul>
+							<li>
+										<a href="/b/NKD SKN by Vita Liberata" class="" title="NKD SKN by Vita Liberata">
+	<span>NKD SKN by Vita Liberata</span>
+
+	</a></li>
+								</ul>
 					</li>
 			<li>
 					<p class="colname">QUICK FIND</p>
                     <ul>
 							<li>
+										<a href="/lp/exclusives" class="" title="Exclusive to Superdrug!">
+	<span>Exclusive to Superdrug!</span>
+
+	</a></li>
+								<li>
 										<a href="/microsite/bodycare" class="" title="Bodycare">
 	<span>Bodycare</span>
 
 	</a></li>
 								<li>
-										<a href="/Skin/Tanning-%26-Bronzing/c/skin-tanningbronzing" class="" title="Fake Tan &amp; Bronzing">
-	<span>Fake Tan &amp; Bronzing</span>
+										<a href="/c/premiumskin" class="" title="Premium Skin">
+	<span>Premium Skin</span>
 
 	</a></li>
 								<li>
-										<a href="/microsite/guide-to-bronzing" class="" title="Guide to Bronzing">
-	<span>Guide to Bronzing</span>
+										<a href="/Skin/Tanning-%26-Bronzing/c/skin-tanningbronzing" class="" title="Fake Tan &amp; Bronzing">
+	<span>Fake Tan &amp; Bronzing</span>
 
 	</a></li>
 								<li>
@@ -752,8 +998,30 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
+										<a href="/brandshop/patisserie-de-bain" class="" title="New &amp; Exclusive: Patisserie de Bain">
+	<span>New &amp; Exclusive: Patisserie de Bain</span>
+
+	</a></li>
+								<li>
+										<a href="/microsite/nivea-2015" class="" title="Bring on the New You with NIVEA!">
+	<span>Bring on the New You with NIVEA!</span>
+
+	</a></li>
+								<li>
+										<a href="/microsite/niveasuncream" class="" title="Suncare">
+	<span>Suncare</span>
+
+	</a></li>
+								<li>
 										<a href="/treatyourselfie" class="" title="#TreatYourSelfie Gallery">
 	<span>#TreatYourSelfie Gallery</span>
+
+	</a></li>
+								</ul>
+					<ul>
+							<li>
+										<a href="/c/gift" class="" title="Gifts">
+	<span>Gifts</span>
 
 	</a></li>
 								</ul>
@@ -762,23 +1030,38 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname pink">PROMOTIONS</p>
                     <ul>
 							<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+1%2f3+on+selected+Nip+%2b+Fab" class="" title="Save 1/3 on selected Nip+Fab Gift Sets">
-	<span>Save 1/3 on selected Nip+Fab Gift Sets</span>
+										<a href="/starbuys" class="" title="Star Buys - Superdrug.com picks of the week!">
+	<span>Star Buys - Superdrug.com picks of the week!</span>
 
 	</a></li>
 								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+price+on+selected+B+Skincare" class="" title="Better than 1/2 price on B.Skincare">
-	<span>Better than 1/2 price on B.Skincare</span>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+price+on+selected+Piz+Buin" class="" title="Better than 1/2 price on selected Piz Buin">
+	<span>Better than 1/2 price on selected Piz Buin</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+1%2f3+on+selected+Garnier" class="" title="Save 1/3 on selected Garnier">
+	<span>Save 1/3 on selected Garnier</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+price+on+selected+Olay" class="" title="Better than 1/2 price on selected Olay">
+	<span>Better than 1/2 price on selected Olay</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+price+on+selected+B." class="" title="Better than 1/2 price on selected B. Skincare">
+	<span>Better than 1/2 price on selected B. Skincare</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a1%2f2+price+on+selected+Nip+Fab" class="" title="Better than 1/2 price on selected Nip+Fab ">
+	<span>Better than 1/2 price on selected Nip+Fab </span>
 
 	</a></li>
 								<li>
 										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+1%2f3+on+selected+Aveeno" class="" title="Save 1/3 on selected Aveeno">
 	<span>Save 1/3 on selected Aveeno</span>
-
-	</a></li>
-								<li>
-										<a href="/bundles" class="" title="Web Exclusive Web Bundles &amp; Hampers">
-	<span>Web Exclusive Web Bundles &amp; Hampers</span>
 
 	</a></li>
 								</ul>
@@ -820,8 +1103,18 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/c/pt_gwp" class="" title="Free Gift With Purchase">
-	<span>Free Gift With Purchase</span>
+										<a href="/c/pt_fragrance_celebrity_fragrance_for_her" class="" title="Celebrity Fragrance For Her">
+	<span>Celebrity Fragrance For Her</span>
+
+	</a></li>
+								<li>
+										<a href="/c/pt_fragrance_celebrity_fragrance_for_him" class="" title="Celebrity Fragrance For Him">
+	<span>Celebrity Fragrance For Him</span>
+
+	</a></li>
+								<li>
+										<a href="/c/new-fragrances" class="" title="New! Fragrance">
+	<span>New! Fragrance</span>
 
 	</a></li>
 								</ul>
@@ -830,7 +1123,7 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">BRANDS</p>
                     <ul>
 							<li>
-										<a href="/b/Emporio Armani" class="" title="Armani">
+										<a href="/b/Armani" class="" title="Armani">
 	<span>Armani</span>
 
 	</a></li>
@@ -840,8 +1133,13 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/brandshop/ghost" class="" title="Ghost">
-	<span>Ghost</span>
+										<a href="/b/Lacoste" class="" title="Lacoste">
+	<span>Lacoste</span>
+
+	</a></li>
+								<li>
+										<a href="/b/Hugo Boss" class="" title="Hugo Boss">
+	<span>Hugo Boss</span>
 
 	</a></li>
 								<li>
@@ -855,28 +1153,23 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/brandshop/jimmy-choo" class="" title="Jimmy Choo">
-	<span>Jimmy Choo</span>
+										<a href="/brandshop/ghost" class="" title="Ghost">
+	<span>Ghost</span>
 
 	</a></li>
 								<li>
-										<a href="/Lacoste/c/Lacoste" class="" title="Lacoste">
-	<span>Lacoste</span>
+										<a href="/microsite/david-beckham" class="" title="Beckham">
+	<span>Beckham</span>
 
 	</a></li>
 								<li>
-										<a href="/Joop%21/c/Joop!" class="" title="Joop">
-	<span>Joop</span>
+										<a href="/microsite/taylor-swift-incredible-things" class="" title="Taylor Swift">
+	<span>Taylor Swift</span>
 
 	</a></li>
 								<li>
-										<a href="/brandshop/dkny" class="" title="Donna Karan">
-	<span>Donna Karan</span>
-
-	</a></li>
-								<li>
-										<a href="/brandshop/diesel" class="" title="Diesel">
-	<span>Diesel</span>
+										<a href="/b/Rihanna" class="" title="Rhianna">
+	<span>Rhianna</span>
 
 	</a></li>
 								</ul>
@@ -885,13 +1178,28 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">QUICK FIND</p>
                     <ul>
 							<li>
-										<a href="" class="" title="1 Million">
-	<span>1 Million</span>
+										<a href="http://www.superdrug.com/microsite/police-icon" class="" title="NEW &amp; EXCLUSIVE! Police Icon for him">
+	<span>NEW &amp; EXCLUSIVE! Police Icon for him</span>
 
 	</a></li>
 								<li>
-										<a href="/search?text=Ted+baker+purse+sprays" class="" title="Ted Baker Purse Sprays">
-	<span>Ted Baker Purse Sprays</span>
+										<a href="http://www.superdrug.com/search?text=dkny+summer+" class="" title="NEW! DKNY Summer 2015">
+	<span>NEW! DKNY Summer 2015</span>
+
+	</a></li>
+								<li>
+										<a href="/p/450104" class="" title="NEW! Jimmy Choo Exotic 60ml">
+	<span>NEW! Jimmy Choo Exotic 60ml</span>
+
+	</a></li>
+								<li>
+										<a href="/c/new-lacoste-50ml" class="" title="NEW! Lacoste L1212 50ml">
+	<span>NEW! Lacoste L1212 50ml</span>
+
+	</a></li>
+								<li>
+										<a href="http://www.superdrug.com/search?text=Versace+Eros+Pour+Femme" class="" title="NEW! Versace Femme">
+	<span>NEW! Versace Femme</span>
 
 	</a></li>
 								<li>
@@ -905,13 +1213,18 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/microsite/ck-reveal" class="" title="New! Calvin Klien Reveal">
-	<span>New! Calvin Klien Reveal</span>
+										<a href="http://www.superdrug.com/More-/Candles/c/more-candles" class="" title="Candles &amp; Home Fragrance">
+	<span>Candles &amp; Home Fragrance</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/More-/Candles/c/more-candles" class="" title="Candles &amp; Home Fragrance">
-	<span>Candles &amp; Home Fragrance</span>
+										<a href="http://www.superdrug.com/Fragrance/Fragrance-For-Her/c/fragranceforher?q=%3Aname-asc%3AigcFragranceStyle%3APremium&amp;text=&amp;minSel=5.0&amp;maxSel=90.0&amp;minSlider=5.0&amp;maxSlider=90.0&amp;resultsForPage=20&amp;igcFragranceStylePremium=on" class="" title="Premium Fragrance For Her">
+	<span>Premium Fragrance For Her</span>
+
+	</a></li>
+								<li>
+										<a href="http://www.superdrug.com/Fragrance/Fragrance-For-Him/c/fragranceforhim?q=%3Aname-asc%3AigcFragranceStyle%3APremium&amp;text=&amp;minSel=4.0&amp;maxSel=80.0&amp;minSlider=4.0&amp;maxSlider=80.0&amp;resultsForPage=20&amp;igcFragranceStylePremium=on" class="" title="Premium Fragrance For Him">
+	<span>Premium Fragrance For Him</span>
 
 	</a></li>
 								</ul>
@@ -920,23 +1233,33 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname pink">PROMOTIONS</p>
                     <ul>
 							<li>
+										<a href="/starbuys" class="" title="Star Buys - Superdrug.com picks of the week!">
+	<span>Star Buys - Superdrug.com picks of the week!</span>
+
+	</a></li>
+								<li>
 										<a href="http://www.superdrug.com/bundles" class="" title="Web Exclusive Bundles &amp; Hampers">
 	<span>Web Exclusive Bundles &amp; Hampers</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/Star-Buys!-1-2-Price-Fragrance---Must-end-Tuesday!/c/starbuys-fragrance" class="" title="Star Buys - Must end Tuesday!">
-	<span>Star Buys - Must end Tuesday!</span>
+										<a href="/c/fragrance-halfprice-her" class="" title="1/2 Price Fragrance For Her">
+	<span>1/2 Price Fragrance For Her</span>
 
 	</a></li>
 								<li>
-										<a href="/c/fragrance-saveupto" class="" title="Save up to 50%">
-	<span>Save up to 50%</span>
+										<a href="/c/save-on-fragrance-for-him" class="" title="1/2 Price Fragrance For Him">
+	<span>1/2 Price Fragrance For Him</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+£10+Online+Only+on+selected+Fragrance" class="" title="Web exclusive perfume deals">
-	<span>Web exclusive perfume deals</span>
+										<a href="/c/fragrance-for-less" class="" title="Fragrance under £20">
+	<span>Fragrance under £20</span>
+
+	</a></li>
+								<li>
+										<a href="/c/save-on-big-bottle-fragrance" class="" title="Save on big bottles 100ml and over!">
+	<span>Save on big bottles 100ml and over!</span>
 
 	</a></li>
 								</ul>
@@ -953,6 +1276,16 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">CATEGORIES</p>
                     <ul>
 							<li>
+										<a href="/afro-hair-care" class="" title="Black Hair Care">
+	<span>Black Hair Care</span>
+
+	</a></li>
+								<li>
+										<a href="/asian-hair-care" class="" title="Asian Hair Care">
+	<span>Asian Hair Care</span>
+
+	</a></li>
+								<li>
 										<a href="/microsite/hair-styling" class="" title="Hair Styling">
 	<span>Hair Styling</span>
 
@@ -992,7 +1325,9 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<span>Intensive Treatments &amp; Oils</span>
 
 	</a></li>
-								<li>
+								</ul>
+					<ul>
+							<li>
 										<a href="/c/mens-hair" class="" title="Mens Shampoo &amp; Styling">
 	<span>Mens Shampoo &amp; Styling</span>
 
@@ -1002,9 +1337,7 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<span>Hairdryers &amp; Electrical Styling Tools</span>
 
 	</a></li>
-								</ul>
-					<ul>
-							<li>
+								<li>
 										<a href="/ourpicks/picks?top5=styling" class="" title="Top 5 Hair Styling">
 	<span>Top 5 Hair Styling</span>
 
@@ -1020,7 +1353,7 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/search?text=Aussie" class="" title="Aussie">
+										<a href="/brandshop/aussie" class="" title="Aussie">
 	<span>Aussie</span>
 
 	</a></li>
@@ -1032,6 +1365,11 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 								<li>
 										<a href="/search?text=Herbal+Essences" class="" title="Herbal Essences">
 	<span>Herbal Essences</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/johnfrieda" class="" title="John Frieda">
+	<span>John Frieda</span>
 
 	</a></li>
 								<li>
@@ -1050,25 +1388,25 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/brandshop/ogx-hair" class="" title="OGX Hair">
-	<span>OGX Hair</span>
-
-	</a></li>
-								<li>
 										<a href="/search?text=Pantene" class="" title="Pantene">
 	<span>Pantene</span>
 
 	</a></li>
 								<li>
-										<a href="/search?q=tresemm�%3Aname-asc%3Abrand%3A419005&amp;text=tresemm�&amp;minSel=1.0&amp;maxSel=45.0&amp;minSlider=1.0&amp;maxSlider=45.0&amp;resultsForPage=20&amp;brand419005=on" class="" title="Tresemme">
-	<span>Tresemme</span>
+										<a href="/brandshop/toniandguy" class="" title="Toni &amp; Guy">
+	<span>Toni &amp; Guy</span>
 
 	</a></li>
 								</ul>
 					<ul>
 							<li>
-										<a href="/brandshop/VO5" class="" title="VO5">
-	<span>VO5</span>
+										<a href="/brandshop/tresemme" class="" title="Tresemme">
+	<span>Tresemme</span>
+
+	</a></li>
+								<li>
+										<a href="/microsite/colour-freedom" class="" title="Colour Freedom">
+	<span>Colour Freedom</span>
 
 	</a></li>
 								</ul>
@@ -1077,13 +1415,28 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">QUICK FIND</p>
                     <ul>
 							<li>
+										<a href="/lp/exclusives" class="" title="Exclusive to Superdrug!">
+	<span>Exclusive to Superdrug!</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/toniandguy" class="" title="New to Superdrug: Toni &amp; Guy">
+	<span>New to Superdrug: Toni &amp; Guy</span>
+
+	</a></li>
+								<li>
+										<a href="/microsite/vidal-sassoon-colourants" class="" title="NEW: Vidal Sassoon Colourants">
+	<span>NEW: Vidal Sassoon Colourants</span>
+
+	</a></li>
+								<li>
 										<a href="/microsite/co-lab" class="" title="New &amp; Exclusive: COLAB by Ruth Crilly">
 	<span>New &amp; Exclusive: COLAB by Ruth Crilly</span>
 
 	</a></li>
 								<li>
-										<a href="/microsite/hair-rehab-lauren-pope" class="" title="Exclusive: Hair Rehab by Lauren Pope">
-	<span>Exclusive: Hair Rehab by Lauren Pope</span>
+										<a href="/microsite/colour-freedom" class="" title="New &amp; Exclusive: Colour Freedom">
+	<span>New &amp; Exclusive: Colour Freedom</span>
 
 	</a></li>
 								<li>
@@ -1112,38 +1465,55 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								</ul>
+					<ul>
+							<li>
+										<a href="/c/gift" class="" title="Gifts">
+	<span>Gifts</span>
+
+	</a></li>
+								</ul>
 					</li>
 			<li>
 					<p class="colname pink">PROMOTIONS</p>
                     <ul>
 							<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+1%2f3+on+selected+Colab#.VHWZY0ZFBFo" class="" title="Save 1/3 on COLAB">
-	<span>Save 1/3 on COLAB</span>
-
-	</a></li>
-								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+price+on+selected+Batiste#.VHWaHEZFBFo" class="" title="Better than 1/2 price on selected Batiste">
-	<span>Better than 1/2 price on selected Batiste</span>
-
-	</a></li>
-								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+price+on+selected+L'Oreal+Paris+Elvive#.VHWaZEZFBFo" class="" title="Better than 1/2 price on selected L'Oreal Elvive">
-	<span>Better than 1/2 price on selected L'Oreal Elvive</span>
-
-	</a></li>
-								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+price+on+selected+John+Frieda" class="" title="Better than 1/2 price on selected John Frieda Colourants">
-	<span>Better than 1/2 price on selected John Frieda Colourants</span>
-
-	</a></li>
-								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a2+for+%c2%a36+on+selected+Superdrug+Colourants" class="" title="2 for £6 on selected Superdrug Hair Colourants">
-	<span>2 for £6 on selected Superdrug Hair Colourants</span>
+										<a href="/starbuys" class="" title="Star Buys - Superdrug.com picks of the week!">
+	<span>Star Buys - Superdrug.com picks of the week!</span>
 
 	</a></li>
 								<li>
 										<a href="/bundles" class="" title="Web Exclusive Bundles &amp; Hampers">
 	<span>Web Exclusive Bundles &amp; Hampers</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a2+for+£11+on+selected+Garnier+Olia" class="" title="2 for £11 on selected Olia">
+	<span>2 for £11 on selected Olia</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+price+on+selected+Tresemme" class="" title="Better than 1/2 price on selected Tresemme">
+	<span>Better than 1/2 price on selected Tresemme</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+price+on+selected+Dove" class="" title="Better than 1/2 price on selected Dove">
+	<span>Better than 1/2 price on selected Dove</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a2+for+£10+on+selected+Aussie" class="" title="2 for £10 on selected Aussie">
+	<span>2 for £10 on selected Aussie</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a2+for+£6+on+selected+Herbal+Essences" class="" title="2 for £6 on selected Herbal Essences">
+	<span>2 for £6 on selected Herbal Essences</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a2+for+£9+on+selected+Garnier" class="" title="2 for £9 on selected Garnier Nutrisse">
+	<span>2 for £9 on selected Garnier Nutrisse</span>
 
 	</a></li>
 								</ul>
@@ -1160,7 +1530,7 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">CATEGORIES</p>
                     <ul>
 							<li>
-										<a href="/c/toil-dental" class="" title="Dental &amp; Oral Care">
+										<a href="/microsite/dental-care" class="" title="Dental &amp; Oral Care">
 	<span>Dental &amp; Oral Care</span>
 
 	</a></li>
@@ -1180,8 +1550,8 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/microsite/indulgent-bathing" class="" title="Indulgent Bathing">
-	<span>Indulgent Bathing</span>
+										<a href="/bath-sets/bodycare" class="" title="Pampering Bath &amp; Body Care">
+	<span>Pampering Bath &amp; Body Care</span>
 
 	</a></li>
 								<li>
@@ -1215,23 +1585,13 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">BRANDS</p>
                     <ul>
 							<li>
-										<a href="/brandshop/oral-b" class="" title="Oral B">
-	<span>Oral B</span>
-
-	</a></li>
-								<li>
 										<a href="http://www.superdrug.com/microsite/zoella-beauty-range" class="" title="Zoella">
 	<span>Zoella</span>
 
 	</a></li>
 								<li>
-										<a href="/b/Beverly%20Hills" class="" title="Beverly Hills">
-	<span>Beverly Hills</span>
-
-	</a></li>
-								<li>
-										<a href="/brandshop/colgate" class="" title="Colgate">
-	<span>Colgate</span>
+										<a href="/brandshop/oral-b" class="" title="Oral B">
+	<span>Oral B</span>
 
 	</a></li>
 								<li>
@@ -1245,18 +1605,28 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/b/Always" class="" title="Always">
+										<a href="/brandshop/colgate" class="" title="Colgate">
+	<span>Colgate</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/always" class="" title="Always">
 	<span>Always</span>
 
 	</a></li>
 								<li>
-										<a href="/Euthymol/Euthymol-Toothpaste-75ml/p/608836?singleResultSearchPage=true" class="" title="Euthymol">
-	<span>Euthymol</span>
+										<a href="/brandshop/gillette" class="" title="GIllette">
+	<span>GIllette</span>
 
 	</a></li>
 								<li>
-										<a href="/brandshop/sanex" class="" title="Sanex">
-	<span>Sanex</span>
+										<a href="/b/Tena" class="" title="Tena">
+	<span>Tena</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/veet" class="" title="Veet">
+	<span>Veet</span>
 
 	</a></li>
 								<li>
@@ -1270,13 +1640,8 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">QUICK FIND</p>
                     <ul>
 							<li>
-										<a href="/Skin/Tanning-%26-Bronzing/c/skin-tanningbronzing" class="" title="Fake Tan &amp; Bronzing">
-	<span>Fake Tan &amp; Bronzing</span>
-
-	</a></li>
-								<li>
-										<a href="/microsite/bodycare#.U_2UsKNgDsc" class="" title="Bodycare">
-	<span>Bodycare</span>
+										<a href="/lp/exclusives" class="" title="Exclusive to Superdrug!">
+	<span>Exclusive to Superdrug!</span>
 
 	</a></li>
 								<li>
@@ -1285,13 +1650,33 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/microsite/teeth-whitening" class="" title="Teeth Whitening">
-	<span>Teeth Whitening</span>
+										<a href="/microsite/bodycare#.U_2UsKNgDsc" class="" title="Bodycare">
+	<span>Bodycare</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/holidayshop" class="" title="Holiday Shop">
+	<span>Holiday Shop</span>
+
+	</a></li>
+								<li>
+										<a href="/search?text=Travel+size" class="" title="Travel Size">
+	<span>Travel Size</span>
 
 	</a></li>
 								<li>
 										<a href="http://www.superdrug.com/Toiletries/Dental/c/toil-dental?q=%3Aname-asc%3Acategory%3Apt_toiletries_toothbrushes_electrical&amp;text=&amp;minSel=0.0&amp;maxSel=230.0&amp;minSlider=0.0&amp;maxSlider=230.0&amp;resultsForPage=20&amp;categorypt_toiletries_toothbrushes_electrical=on#" class="" title="Electric Toothbrushes">
 	<span>Electric Toothbrushes</span>
+
+	</a></li>
+								<li>
+										<a href="/Toiletries/Washing-%26-Bathing/c/toil-washbath?q=%3aname-asc%3acategory%3apt_toiletries_shower_gels_%26_body_wash%3abrand%3a418065" class="" title="Superdrug Shower &amp; Bath">
+	<span>Superdrug Shower &amp; Bath</span>
+
+	</a></li>
+								<li>
+										<a href="/microsite/niveasuncream" class="" title="Suncare">
+	<span>Suncare</span>
 
 	</a></li>
 								</ul>
@@ -1300,23 +1685,45 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname pink">PROMOTIONS</p>
                     <ul>
 							<li>
+										<a href="/starbuys" class="" title="Star Buys - Superdrug.com picks of the week!">
+	<span>Star Buys - Superdrug.com picks of the week!</span>
+
+	</a></li>
+								<li>
 										<a href="http://www.superdrug.com/bundles" class="" title="Web Exclusive Bundles &amp; Hampers">
 	<span>Web Exclusive Bundles &amp; Hampers</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/Gillette/Gillette-Venus-Naked-Skin-IPL-System-designed-by-Braun/p/718057" class="" title="Save £50 on Gillette Venus Naked Skin IPL System">
-	<span>Save £50 on Gillette Venus Naked Skin IPL System</span>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+1%2f3+on+selected+Wilkinson+Sword" class="" title="Save 1/3 on Wilkinsons Sword">
+	<span>Save 1/3 on Wilkinsons Sword</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+price+on+selected+Oral+B+Refills#.VHWOqWdg7sc" class="" title="Better than 1/2 Price on Oral B Refills">
-	<span>Better than 1/2 Price on Oral B Refills</span>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+up+to+1%2f2+price+on+selected+Veet" class="" title="Save up to 1/2 price on selected Veet">
+	<span>Save up to 1/2 price on selected Veet</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/bundles/scholl" class="" title="Scholl Bundle - Save £13!">
-	<span>Scholl Bundle - Save £13!</span>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+Price+on+selected+Sure" class="" title="Better than 1/2 price on selected Sure">
+	<span>Better than 1/2 price on selected Sure</span>
+
+	</a></li>
+								</ul>
+					<ul>
+							<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+Price+on+selected+Beverly+Hills" class="" title="Better than 1/2 price on selected beverley Hills">
+	<span>Better than 1/2 price on selected beverley Hills</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+1%2f3+on+selected+Tampax" class="" title="Save 1/3 on selected Tampax">
+	<span>Save 1/3 on selected Tampax</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+Price+on+selected+Original+Source" class="" title="Better than 1/2 price on selected Original SOurce">
+	<span>Better than 1/2 price on selected Original SOurce</span>
 
 	</a></li>
 								</ul>
@@ -1333,6 +1740,11 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">CATEGORIES</p>
                     <ul>
 							<li>
+										<a href="/Mens/Shaving/c/mens-shaving?q=%3ANew%3Acategory%3Apt_mens_razor_blades%3Acategory%3Apt_mens_disposable_razors%3Acategory%3Apt_mens_razors&amp;text=&amp;minSel=0.0&amp;maxSel=60.0&amp;minSlider=0.0&amp;maxSlider=60.0&amp;resultsForPage=20&amp;categorypt_mens_razors=on#" class="" title="Razors &amp; Blades">
+	<span>Razors &amp; Blades</span>
+
+	</a></li>
+								<li>
 										<a href="/Mens/Shaving/c/mens-shaving?q=%3Aname-asc%3Acategory%3Apt_mens_shaving_foam_%26_creams%3Acategory%3Apt_mens_shaving_gel&amp;text=&amp;minSel=0.0&amp;maxSel=35.0&amp;minSlider=0.0&amp;maxSlider=35.0&amp;resultsForPage=20&amp;categorypt_mens_shaving_gel=on#" class="" title="Shaving Foams &amp; Prep">
 	<span>Shaving Foams &amp; Prep</span>
 
@@ -1358,18 +1770,18 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/search?text=hair+loss" class="" title="Hair Loss Treatments">
-	<span>Hair Loss Treatments</span>
+										<a href="http://www.superdrug.com/search?text=hair+loss" class="" title="Hair Loss Solutions">
+	<span>Hair Loss Solutions</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/search?text=hair+loss" class="" title="Aftershave &amp; Fragrance for Men">
+										<a href="/Fragrance/Fragrance-For-Him/c/fragranceforhim" class="" title="Aftershave &amp; Fragrance for Men">
 	<span>Aftershave &amp; Fragrance for Men</span>
 
 	</a></li>
 								<li>
-										<a href="/Mens/Shaving/c/mens-shaving?q=%3Aname-asc%3Acategory%3Apt_mens_razor_blades%3Acategory%3Apt_mens_disposable_razors%3Acategory%3Apt_mens_razors&amp;text=&amp;minSel=0.0&amp;maxSel=35.0&amp;minSlider=0.0&amp;maxSlider=35.0&amp;resultsForPage=20&amp;categorypt_mens_razors=on#" class="" title="Razors &amp; Blades">
-	<span>Razors &amp; Blades</span>
+										<a href="/Electricals/Male-Grooming/c/elec-grooming" class="" title="Electricals">
+	<span>Electricals</span>
 
 	</a></li>
 								</ul>
@@ -1408,8 +1820,8 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/b/Nip + Fab?q=%3Aname-asc%3Abrand%3A413023%3Acategory%3Apt_mens_mens_face_wash%3Acategory%3Apt_mens_mens_moisturisers&amp;text=&amp;minSel=2.0&amp;maxSel=16.0&amp;minSlider=2.0&amp;maxSlider=16.0&amp;resultsForPage=20&amp;categorypt_mens_mens_moisturisers=on#" class="" title="Nip + Man">
-	<span>Nip + Man</span>
+										<a href="/brandshop/lab-series" class="" title="Lab Series">
+	<span>Lab Series</span>
 
 	</a></li>
 								<li>
@@ -1433,8 +1845,8 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">QUICK FIND</p>
                     <ul>
 							<li>
-										<a href="/brandshop/labseries" class="" title="Lab Series">
-	<span>Lab Series</span>
+										<a href="/lp/exclusives" class="" title="Exclusive to Superdrug!">
+	<span>Exclusive to Superdrug!</span>
 
 	</a></li>
 								<li>
@@ -1473,13 +1885,20 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/Batteries/c/pt_more_batteries" class="" title="Batteries">
-	<span>Batteries</span>
+										<a href="/Sexual-Health/c/sexual-health?q=%3Aname-asc%3Acategory%3Apt_health_condoms%3Acategory%3Apt_health_lube_gel_jelly_%26_oils&amp;text=&amp;minSel=1.0&amp;maxSel=65.0&amp;minSlider=1.0&amp;maxSlider=65.0&amp;resultsForPage=20&amp;categorypt_health_lube_gel_jelly_%26_oils=on#" class="" title="Condoms and lubes">
+	<span>Condoms and lubes</span>
 
 	</a></li>
 								<li>
-										<a href="/Sexual-Health/c/sexual-health?q=%3Aname-asc%3Acategory%3Apt_health_condoms%3Acategory%3Apt_health_lube_gel_jelly_%26_oils&amp;text=&amp;minSel=1.0&amp;maxSel=65.0&amp;minSlider=1.0&amp;maxSlider=65.0&amp;resultsForPage=20&amp;categorypt_health_lube_gel_jelly_%26_oils=on#" class="" title="Condoms and lubes">
-	<span>Condoms and lubes</span>
+										<a href="/Hair/Hair-Treatments/c/hair-treatments?q=%3Aname-asc%3Acategory%3Apt_hair_hair_loss_treatments&amp;text=&amp;minSel=0.0&amp;maxSel=50.0&amp;minSlider=0.0&amp;maxSlider=50.0&amp;resultsForPage=20&amp;categorypt_hair_hair_loss_treatments=on" class="" title="Hair Loss">
+	<span>Hair Loss</span>
+
+	</a></li>
+								</ul>
+					<ul>
+							<li>
+										<a href="http://www.superdrug.com/Mens/Hair/Mens-Hair-Colourants/c/pt_mens_mens_hair_colourants" class="" title="Mens Hair Dye">
+	<span>Mens Hair Dye</span>
 
 	</a></li>
 								</ul>
@@ -1488,23 +1907,40 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname pink">PROMOTIONS</p>
                     <ul>
 							<li>
-										<a href="/Sexual-Health/c/sexual-health?q=%3Aname-asc%3Acategory%3Apt_health_condoms%3Acategory%3Apt_health_lube_gel_jelly_%26_oils&amp;text=&amp;minSel=1.0&amp;maxSel=65.0&amp;minSlider=1.0&amp;maxSlider=65.0&amp;resultsForPage=20&amp;categorypt_health_lube_gel_jelly_%26_oils=on#" class="" title="Web Exclusive Bundles &amp; Hampers">
+										<a href="/starbuys" class="" title="Star Buys - Superdrug.com picks of the week!">
+	<span>Star Buys - Superdrug.com picks of the week!</span>
+
+	</a></li>
+								<li>
+										<a href="/bundles" class="" title="Web Exclusive Bundles &amp; Hampers">
 	<span>Web Exclusive Bundles &amp; Hampers</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/search?q=%3Aname-asc%3AsuperdrugGeneralPromotionText%3ASave+up+to+1%2F2+Price+on+selected+Christmas+Gifts%3Acategory%3Apt_more_gifts_for_him&amp;text=&amp;minSel=1.0&amp;maxSel=20.0&amp;minSlider=1.0&amp;maxSlider=20.0&amp;resultsForPage=20#" class="" title="Save up to 1/2 price on Christmas Gifts">
-	<span>Save up to 1/2 price on Christmas Gifts</span>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+Price+on+selected+LOreal+Men+Expert" class="" title="Better than 1/2 price on selected L'Oreal Men Expert">
+	<span>Better than 1/2 price on selected L'Oreal Men Expert</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/Wahl/Wahl-Limited-Edition-London-Clipper-set/p/957765?singleResultSearchPage=true#.VHWsD2dg7sc" class="" title="1/2 price Wahl Clipper">
-	<span>1/2 price Wahl Clipper</span>
+										<a href="http://www.superdrug.com/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+Price+on+selected+Nip+%2b+Fab" class="" title="Better than 1/2 price on selected Nip + Fab for Men">
+	<span>Better than 1/2 price on selected Nip + Fab for Men</span>
+
+	</a></li>
+								</ul>
+					<ul>
+							<li>
+										<a href="http://www.superdrug.com/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a2+for+%C2%A35+on+selected+Lynx" class="" title="2 for £5 on selected Lynx">
+	<span>2 for £5 on selected Lynx</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/bundles/scholl" class="" title="Scholl Bundle Deal - Save £13">
-	<span>Scholl Bundle Deal - Save £13</span>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+Price+on+selected+Old+Spice" class="" title="Better than 1/2 price on selected Old Spice ">
+	<span>Better than 1/2 price on selected Old Spice </span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+1%2f3+on+selected+Gillette" class="" title="Save 1/3 on selected Gillette">
+	<span>Save 1/3 on selected Gillette</span>
 
 	</a></li>
 								</ul>
@@ -1576,13 +2012,13 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">BRANDS</p>
                     <ul>
 							<li>
-										<a href="/b/Cow%20&amp;%20Gate" class="" title="Cow &amp; Gate">
-	<span>Cow &amp; Gate</span>
+										<a href="http://www.superdrug.com/b/Aptamil" class="" title="Aptamil">
+	<span>Aptamil</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/b/Aptamil" class="" title="Aptamil">
-	<span>Aptamil</span>
+										<a href="/b/Cow%20&amp;%20Gate" class="" title="Cow &amp; Gate">
+	<span>Cow &amp; Gate</span>
 
 	</a></li>
 								<li>
@@ -1601,28 +2037,28 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/b/Huggies" class="" title="Huggies">
-	<span>Huggies</span>
-
-	</a></li>
-								<li>
-										<a href="http://www.superdrug.com/b/Sudocrem" class="" title="Sudocream">
-	<span>Sudocream</span>
-
-	</a></li>
-								<li>
 										<a href="http://www.superdrug.com/b/MAM" class="" title="MAM">
 	<span>MAM</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/b/WaterWipes" class="" title="Water Wipes">
-	<span>Water Wipes</span>
+										<a href="http://www.superdrug.com/b/HiPP%20Organic" class="" title="HIPP">
+	<span>HIPP</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/b/HiPP%20Organic" class="" title="HIPP">
-	<span>HIPP</span>
+										<a href="http://www.superdrug.com/b/Huggies" class="" title="Huggies">
+	<span>Huggies</span>
+
+	</a></li>
+								<li>
+										<a href="/b/Bepanthen" class="" title="Bepanthen">
+	<span>Bepanthen</span>
+
+	</a></li>
+								<li>
+										<a href="/b/Sudocrem" class="" title="Sudocrem">
+	<span>Sudocrem</span>
 
 	</a></li>
 								</ul>
@@ -1631,6 +2067,11 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">QUICK FIND</p>
                     <ul>
 							<li>
+										<a href="/lp/exclusives" class="" title="Exclusive to Superdrug!">
+	<span>Exclusive to Superdrug!</span>
+
+	</a></li>
+								<li>
 										<a href="/c/growing-up-milk" class="" title="Growing Up Milk">
 	<span>Growing Up Milk</span>
 
@@ -1646,8 +2087,8 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/b/Calpol" class="" title="Calpol">
-	<span>Calpol</span>
+										<a href="/Baby/Baby-Food/c/baby-food" class="" title="Baby Food">
+	<span>Baby Food</span>
 
 	</a></li>
 								<li>
@@ -1661,13 +2102,18 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/Health/Conception-Aids/c/health-conception" class="" title="Pregnancy Tests">
-	<span>Pregnancy Tests</span>
+										<a href="/Baby/Wipes/c/baby-wipes" class="" title="Baby Wipes">
+	<span>Baby Wipes</span>
 
 	</a></li>
 								<li>
-										<a href="/More-/Gifts-For-Kids/Toys/c/more-toys" class="" title="Toys">
-	<span>Toys</span>
+										<a href="/microsite/my-little-star" class="" title="My Little Star">
+	<span>My Little Star</span>
+
+	</a></li>
+								<li>
+										<a href="http://www.superdrug.com/search?text=pregnancy+tests" class="" title="Pregnancy tests ">
+	<span>Pregnancy tests </span>
 
 	</a></li>
 								</ul>
@@ -1676,18 +2122,33 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname pink">PROMOTIONS</p>
                     <ul>
 							<li>
-										<a href="http://www.superdrug.com/bundles" class="" title="Web Exclusive Bundles &amp; Hampers">
-	<span>Web Exclusive Bundles &amp; Hampers</span>
+										<a href="/starbuys" class="" title="Star Buys - Superdrug.com picks of the week!">
+	<span>Star Buys - Superdrug.com picks of the week!</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/b/Aptamil?q=%3Aname-asc%3Abrand%3A400033%3ApriceValue%3A[3+TO+10]&amp;text=&amp;minSel=3&amp;maxSel=10&amp;minSlider=0.0&amp;maxSlider=10.0&amp;resultsForPage=20#" class="" title="2 for £17 on selected Aptamil Growing Up Milk">
-	<span>2 for £17 on selected Aptamil Growing Up Milk</span>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a4+for+£2+on+selected+Cow+%26+Gate" class="" title="4 for £2 on selected Cow &amp; Gate">
+	<span>4 for £2 on selected Cow &amp; Gate</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/View-All-Christmas/Christmas-Gifts-for-Kids/c/christmas-gifts-for-kids" class="" title="Save up to 1/2 price on Christmas Gifts for Kids">
-	<span>Save up to 1/2 price on Christmas Gifts for Kids</span>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBuy+1+get+2nd+1%2f2+Price+on+selected+Superdrug+My+Little+Star" class="" title="Buy 1 get 2nd 1/2 price on selected My Little Star">
+	<span>Buy 1 get 2nd 1/2 price on selected My Little Star</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+on+selected+Milton" class="" title="Save on selected Milton Products">
+	<span>Save on selected Milton Products</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+1%2f3+on+selected+Huggies" class="" title="Save 1/3 on selected Huggies">
+	<span>Save 1/3 on selected Huggies</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aBetter+than+1%2f2+Price+on+selected+Johnson+%26+Johnson+Wipes" class="" title="Better than 1/2 price on selected Johnson &amp; Johnson ">
+	<span>Better than 1/2 price on selected Johnson &amp; Johnson </span>
 
 	</a></li>
 								</ul>
@@ -1754,6 +2215,13 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								</ul>
+					<ul>
+							<li>
+										<a href="/c/electrical-audio" class="" title="Audio">
+	<span>Audio</span>
+
+	</a></li>
+								</ul>
 					</li>
 			<li>
 					<p class="colname">BRANDS</p>
@@ -1769,8 +2237,8 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="" class="" title="Tresemme">
-	<span>Tresemme</span>
+										<a href="http://www.superdrug.com/Electricals/c/electricals/b/TRESemm%C3%A9" class="" title="Tresemmé">
+	<span>Tresemmé</span>
 
 	</a></li>
 								<li>
@@ -1803,12 +2271,29 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<span>Web Exclusive! Rio</span>
 
 	</a></li>
+								<li>
+										<a href="http://www.superdrug.com/b/Trevor%20Sorbie" class="" title="Trevor Sorbie">
+	<span>Trevor Sorbie</span>
+
+	</a></li>
+								</ul>
+					<ul>
+							<li>
+										<a href="/b/Toni%20&amp;%20Guy" class="" title="Toni &amp; Guy">
+	<span>Toni &amp; Guy</span>
+
+	</a></li>
 								</ul>
 					</li>
 			<li>
 					<p class="colname">QUICK FIND</p>
                     <ul>
 							<li>
+										<a href="/lp/exclusives" class="" title="Exclusive to Superdrug!">
+	<span>Exclusive to Superdrug!</span>
+
+	</a></li>
+								<li>
 										<a href="" class="" title="Brush Heads &amp; Refills">
 	<span>Brush Heads &amp; Refills</span>
 
@@ -1859,28 +2344,18 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname pink">PROMOTIONS</p>
                     <ul>
 							<li>
-										<a href="http://www.superdrug.com/bundles" class="" title="Web Exclusive Bundles &amp; Hampers">
-	<span>Web Exclusive Bundles &amp; Hampers</span>
+										<a href="/starbuys" class="" title="Star Buys - Superdrug.com picks of the week!">
+	<span>Star Buys - Superdrug.com picks of the week!</span>
 
 	</a></li>
 								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+up+to+1%2f2+Price+on+selected+Babyliss" class="" title="Save up to 1/2 Price on selected Babyliss">
-	<span>Save up to 1/2 Price on selected Babyliss</span>
+										<a href="/p/309600" class="" title="Save 20% on selected Remington">
+	<span>Save 20% on selected Remington</span>
 
 	</a></li>
 								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+up+to+1%2f2+price+on+selected+Braun" class="" title="Save up to 1/2 price on selected Braun">
-	<span>Save up to 1/2 price on selected Braun</span>
-
-	</a></li>
-								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a1%2f2+price+on+selected+Superdrug+hair+dryer+kits" class="" title="1/2 price on selected Superdrug Hair Dryer kits">
-	<span>1/2 price on selected Superdrug Hair Dryer kits</span>
-
-	</a></li>
-								<li>
-										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+up+to+1%2f2+price+on+selected+Nicky+Clarke" class="" title="Save up to 1/2 price on selected Nicky Clarke">
-	<span>Save up to 1/2 price on selected Nicky Clarke</span>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aSave+on+selected+Beauty+Electricals" class="" title="Save Up to 1/2 price on Selected Electricals">
+	<span>Save Up to 1/2 price on Selected Electricals</span>
 
 	</a></li>
 								</ul>
@@ -1917,7 +2392,7 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/c/health-vitamins" class="" title="Vitamins &amp; Supplements">
+										<a href="/brandshop/vitamins" class="" title="Vitamins &amp; Supplements">
 	<span>Vitamins &amp; Supplements</span>
 
 	</a></li>
@@ -1942,8 +2417,8 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/Health/Stomach-%26-Diarrhoea/c/health-stomach" class="" title="Stomach &amp; Diarrhoea">
-	<span>Stomach &amp; Diarrhoea</span>
+										<a href="http://www.superdrug.com/microsite/stomach-relief" class="" title="Stomach &amp; Digestive Health">
+	<span>Stomach &amp; Digestive Health</span>
 
 	</a></li>
 								</ul>
@@ -1952,7 +2427,7 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">BRANDS</p>
                     <ul>
 							<li>
-										<a href="/microsite/lighter-life" class="" title="Lighterlife Fast">
+										<a href="/brandshop/lighterlifefast" class="" title="Lighterlife Fast">
 	<span>Lighterlife Fast</span>
 
 	</a></li>
@@ -1962,8 +2437,8 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/c/ms-superdrughealth" class="" title="Superdrug Own Brand">
-	<span>Superdrug Own Brand</span>
+										<a href="/b/Absorb" class="" title="Web Exclusive! - Absorb Nutrition ">
+	<span>Web Exclusive! - Absorb Nutrition </span>
 
 	</a></li>
 								<li>
@@ -1987,7 +2462,7 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/c/health/b/Nicorette" class="" title="Nicorette">
+										<a href="/brandshop/nicorette" class="" title="Nicorette">
 	<span>Nicorette</span>
 
 	</a></li>
@@ -2007,6 +2482,16 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname">QUICK FIND</p>
                     <ul>
 							<li>
+										<a href="/lp/exclusives" class="" title="Exclusive to Superdrug!">
+	<span>Exclusive to Superdrug!</span>
+
+	</a></li>
+								<li>
+										<a href="/23andme" class="" title="New! 23 and Me DNA testing Kit">
+	<span>New! 23 and Me DNA testing Kit</span>
+
+	</a></li>
+								<li>
 										<a href="http://www.superdrug.com/Health/Women's-Health/c/health-womens" class="" title="Womens Health">
 	<span>Womens Health</span>
 
@@ -2037,18 +2522,20 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/Health/Conception-Aids/c/health-conception" class="" title="Conception Aids">
-	<span>Conception Aids</span>
+										<a href="/brandshop/holidayshop" class="" title="Holiday Shop">
+	<span>Holiday Shop</span>
 
 	</a></li>
 								<li>
-										<a href="/microsite/lighter-life" class="" title="Lighterlife Fast">
-	<span>Lighterlife Fast</span>
+										<a href="/LighterLife-Fast---Meal-Replacement-Bars/c/lighterlife-meal-bars" class="" title="New! LighterLife Meal Replacement Bars">
+	<span>New! LighterLife Meal Replacement Bars</span>
 
 	</a></li>
-								<li>
-										<a href="http://www.superdrug.com/microsite/sexual-health" class="" title="Sexual Wellness">
-	<span>Sexual Wellness</span>
+								</ul>
+					<ul>
+							<li>
+										<a href="/microsite/the-stork" class="" title="The Stork Conception Aid">
+	<span>The Stork Conception Aid</span>
 
 	</a></li>
 								</ul>
@@ -2057,21 +2544,43 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					<p class="colname pink">PROMOTIONS</p>
                     <ul>
 							<li>
+										<a href="/starbuys" class="" title="Star Buys - Superdrug.com picks of the week!">
+	<span>Star Buys - Superdrug.com picks of the week!</span>
+
+	</a></li>
+								<li>
 										<a href="http://www.superdrug.com/bundles" class="" title="Web Exclusive Bundles &amp; Hampers">
 	<span>Web Exclusive Bundles &amp; Hampers</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/Health/Cough%2C-Cold-%26-Flu/c/health-winter" class="" title="Buy 1 get 2nd 1/2 price on Cough &amp; Cold">
-	<span>Buy 1 get 2nd 1/2 price on Cough &amp; Cold</span>
+										<a href="/search?text=ahs" class="" title="3 for 2 on selected AHS Collagen">
+	<span>3 for 2 on selected AHS Collagen</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a2+for+%C2%A315+on+selected+Durex" class="" title="2 for £15 on selected Durex">
-	<span>2 for £15 on selected Durex</span>
+										<a href="/p/943072" class="" title="Save £30 on The Stork Conception Aid">
+	<span>Save £30 on The Stork Conception Aid</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3a2+for+£5+on+selected+LighterLife+Fast" class="" title="2 for £5 on selected LighterLife">
+	<span>2 for £5 on selected LighterLife</span>
+
+	</a></li>
+								<li>
+										<a href="/b/Slim%20Fast" class="" title="1/2 price Slim Fast!">
+	<span>1/2 price Slim Fast!</span>
+
+	</a></li>
+								<li>
+										<a href="/search?q=%3aname-asc%3asuperdrugGeneralPromotionText%3aWeb+Exclusive+-+Buy+3+and+Save+£50+on+selected+XLS-Medical" class="" title="XLS Medical - Save £50!">
+	<span>XLS Medical - Save £50!</span>
 
 	</a></li>
 								</ul>
+					<ul>
+							</ul>
 					</li>
 			<li>
 					</li>
@@ -2232,6 +2741,11 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
+										<a href="/lp/exclusives" class="" title="Exclusive to Superdrug!">
+	<span>Exclusive to Superdrug!</span>
+
+	</a></li>
+								<li>
 										<a href="/microsite/my-little-star" class="" title="My Little Star">
 	<span>My Little Star</span>
 
@@ -2262,8 +2776,13 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/EmporioArmani/c/EmporioArmaniBC" class="" title="Agent Provocateur">
+										<a href="/brandshop/agentProvocateur" class="" title="Agent Provocateur">
 	<span>Agent Provocateur</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/always" class="" title="Always">
+	<span>Always</span>
 
 	</a></li>
 								<li>
@@ -2274,6 +2793,11 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 								<li>
 										<a href="/microsite/anna-sui" class="" title="Anna Sui">
 	<span>Anna Sui</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/aptamil" class="" title="Aptamil">
+	<span>Aptamil</span>
 
 	</a></li>
 								<li>
@@ -2291,19 +2815,19 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<span>Beauty UK</span>
 
 	</a></li>
-								<li>
+								</ul>
+					<ul>
+							<li>
 										<a href="/brandshop/bic" class="" title="BIC">
 	<span>BIC</span>
 
 	</a></li>
 								<li>
-										<a href="http://www.superdrug.com/b/Beverly Hills" class="" title="Beverly Hills">
-	<span>Beverly Hills</span>
+										<a href="/brandshop/bodyform" class="" title="Bodyform">
+	<span>Bodyform</span>
 
 	</a></li>
-								</ul>
-					<ul>
-							<li>
+								<li>
 										<a href="/brandshop/bourjois" class="" title="Bourjois">
 	<span>Bourjois</span>
 
@@ -2324,20 +2848,11 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/microsite/e1313_Cheeky" class="" title="Cheeky">
-	<span>Cheeky</span>
-
-	</a></li>
-								<li>
 										<a href="/microsite/co-lab" class="" title="COLAB">
 	<span>COLAB</span>
 
 	</a></li>
-								</ul>
-					</li>
-			<li>
-					<ul>
-							<li>
+								<li>
 										<a href="/brandshop/colgate" class="" title="Colgate">
 	<span>Colgate</span>
 
@@ -2347,9 +2862,18 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<span>Collection</span>
 
 	</a></li>
-								<li>
+								</ul>
+					</li>
+			<li>
+					<ul>
+							<li>
 										<a href="/brandshop/hair-colour-remover" class="" title="Colour B4">
 	<span>Colour B4</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/cowandgate" class="" title="Cow &amp; Gate">
+	<span>Cow &amp; Gate</span>
 
 	</a></li>
 								<li>
@@ -2387,14 +2911,14 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<span>Garnier</span>
 
 	</a></li>
-								</ul>
-					<ul>
-							<li>
+								<li>
 										<a href="/brandshop/ghost" class="" title="GHOST">
 	<span>GHOST</span>
 
 	</a></li>
-								<li>
+								</ul>
+					<ul>
+							<li>
 										<a href="/brandshop/gosh" class="" title="GOSH">
 	<span>GOSH</span>
 
@@ -2420,6 +2944,11 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
+										<a href="/brandshop/johnfrieda" class="" title="John Frieda">
+	<span>John Frieda</span>
+
+	</a></li>
+								<li>
 										<a href="/brandshop/juicy_couture" class="" title="Juicy Couture">
 	<span>Juicy Couture</span>
 
@@ -2429,17 +2958,22 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<span>L'Oreal Hair</span>
 
 	</a></li>
+								<li>
+										<a href="/brandshop/loreal-makeup" class="" title="L'Oreal Makeup">
+	<span>L'Oreal Makeup</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/loreal-men-expert" class="" title="L'Oreal Men Expert">
+	<span>L'Oreal Men Expert</span>
+
+	</a></li>
 								</ul>
 					</li>
 			<li>
 					<ul>
 							<li>
-										<a href="/brandshop/loreal-men-expert" class="" title="L'Oreal Men Expert">
-	<span>L'Oreal Men Expert</span>
-
-	</a></li>
-								<li>
-										<a href="/brandshop/labseries" class="" title="Lab Series">
+										<a href="/brandshop/lab-series" class="" title="Lab Series">
 	<span>Lab Series</span>
 
 	</a></li>
@@ -2449,7 +2983,7 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 
 	</a></li>
 								<li>
-										<a href="/microsite/lighter-life" class="" title="Lighterlife Fast">
+										<a href="/brandshop/lighterlifefast" class="" title="Lighterlife Fast">
 	<span>Lighterlife Fast</span>
 
 	</a></li>
@@ -2476,6 +3010,11 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 								<li>
 										<a href="/brandshop/maxfactor" class="" title="Max Factor">
 	<span>Max Factor</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/maxinutrition" class="" title="Maxinutrition">
+	<span>Maxinutrition</span>
 
 	</a></li>
 								<li>
@@ -2525,16 +3064,21 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<span>Olay</span>
 
 	</a></li>
-								</ul>
-					</li>
-			<li>
-					<ul>
-							<li>
+								<li>
 										<a href="/brandshop/oral-b" class="" title="Oral B">
 	<span>Oral B</span>
 
 	</a></li>
 								<li>
+										<a href="/brandshop/pampers" class="" title="Pampers">
+	<span>Pampers</span>
+
+	</a></li>
+								</ul>
+					</li>
+			<li>
+					<ul>
+							<li>
 										<a href="/brandshop/paco-rabanne" class="" title="Paco Rabanne">
 	<span>Paco Rabanne</span>
 
@@ -2579,16 +3123,21 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 	<span>Sleek MakeUP</span>
 
 	</a></li>
-								</ul>
-					<ul>
-							<li>
+								<li>
 										<a href="/brandshop/so" class="" title="So...?">
 	<span>So...?</span>
 
 	</a></li>
-								<li>
+								</ul>
+					<ul>
+							<li>
 										<a href="/brandshop/st_tropez" class="" title="St Tropez">
 	<span>St Tropez</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/tampax" class="" title="Tampax">
+	<span>Tampax</span>
 
 	</a></li>
 								<li>
@@ -2599,6 +3148,16 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 								<li>
 										<a href="/brandshop/tena" class="" title="TENA">
 	<span>TENA</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/tresemme" class="" title="Tresemme">
+	<span>Tresemme</span>
+
+	</a></li>
+								<li>
+										<a href="/brandshop/veet" class="" title="Veet">
+	<span>Veet</span>
 
 	</a></li>
 								<li>
@@ -2625,148 +3184,7 @@ if($(this).html().trim() == "12:00 AM - 12:00 AM") {
 					</li>
 			</ul>
 	</li><li>
-	<a href="/offer" class="" title="Offers">
-	<span>Offers</span>
-
-	</a><ul>
-			<li>
-					<p class="colname">CATEGORIES</p>
-                    <ul>
-							<li>
-										<a href="/c/offers-accessories" class="" title="Accessories">
-	<span>Accessories</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-baby" class="" title="Baby">
-	<span>Baby</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-electrical" class="" title="Electrical ">
-	<span>Electrical </span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-hair" class="" title="Hair">
-	<span>Hair</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-health" class="" title="Health">
-	<span>Health</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-makeup" class="" title="Make Up ">
-	<span>Make Up </span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-mens" class="" title="Mens">
-	<span>Mens</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-skincare" class="" title="Skincare">
-	<span>Skincare</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-toiletries" class="" title="Toiletries">
-	<span>Toiletries</span>
-
-	</a></li>
-								</ul>
-					</li>
-			<li>
-					<p class="colname">BRANDS</p>
-                    <ul>
-							<li>
-										<a href="/brandshop/B/makeup" class="" title="B.">
-	<span>B.</span>
-
-	</a></li>
-								<li>
-										<a href="/Health-Offers/c/offers-health?q=%3Aname-asc%3Abrand%3A403029&amp;text=&amp;minSel=0.0&amp;maxSel=50.0&amp;minSlider=0.0&amp;maxSlider=50.0&amp;resultsForPage=20&amp;brand403029=on" class="" title="Durex">
-	<span>Durex</span>
-
-	</a></li>
-								<li>
-										<a href="/Hair-Offers/c/offers-hair?q=%3Aname-asc%3Abrand%3A406004%3Abrand%3A406010&amp;text=&amp;minSel=0.0&amp;maxSel=15.0&amp;minSlider=0.0&amp;maxSlider=15.0&amp;resultsForPage=20&amp;brand406010=on" class="" title="Garnier">
-	<span>Garnier</span>
-
-	</a></li>
-								<li>
-										<a href="/Hair-Offers/c/offers-hair?q=%3Aname-asc%3Abrand%3A411002%3Abrand%3A411007%3Abrand%3A411008%3Abrand%3A411009%3Abrand%3A411012&amp;text=&amp;minSel=0.0&amp;maxSel=15.0&amp;minSlider=0.0&amp;maxSlider=15.0&amp;resultsForPage=20&amp;brand411012=on" class="" title="L'Oreal">
-	<span>L'Oreal</span>
-
-	</a></li>
-								<li>
-										<a href="/Mens-Offers/c/offers-mens?q=%3Aname-asc%3Abrand%3A411056&amp;text=&amp;minSel=0.0&amp;maxSel=60.0&amp;minSlider=0.0&amp;maxSlider=60.0&amp;resultsForPage=20&amp;brand411056=on" class="" title="Lynx">
-	<span>Lynx</span>
-
-	</a></li>
-								<li>
-										<a href="/Skincare-Offers/c/offers-skincare?q=%3Aname-asc%3Abrand%3A414004&amp;text=&amp;minSel=0.0&amp;maxSel=70.0&amp;minSlider=0.0&amp;maxSlider=70.0&amp;resultsForPage=20&amp;brand414004=on" class="" title="Olay">
-	<span>Olay</span>
-
-	</a></li>
-								<li>
-										<a href="/Hair-Offers/c/offers-hair?q=%3Aname-asc%3Abrand%3A419005&amp;text=&amp;minSel=0.0&amp;maxSel=15.0&amp;minSlider=0.0&amp;maxSlider=15.0&amp;resultsForPage=20&amp;brand419005=on" class="" title="Tresemme">
-	<span>Tresemme</span>
-
-	</a></li>
-								</ul>
-					</li>
-			<li>
-					<p class="colname">QUICK FIND</p>
-                    <ul>
-							<li>
-										<a href="/c/offers-save-up-to-half-price" class="" title="Save Up To 1/2 Price">
-	<span>Save Up To 1/2 Price</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-better-than-half-price" class="" title="Better Than 1/2 Price">
-	<span>Better Than 1/2 Price</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-buy-one-get-one-free" class="" title="Buy 1 Get 1 Free">
-	<span>Buy 1 Get 1 Free</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-buy-one-get-second-half-price" class="" title="Buy 1 Get the 2nd 1/2 price">
-	<span>Buy 1 Get the 2nd 1/2 price</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-3-for-2" class="" title="3 For 2">
-	<span>3 For 2</span>
-
-	</a></li>
-								<li>
-										<a href="/c/offers-other-savings" class="" title="Other savings">
-	<span>Other savings</span>
-
-	</a></li>
-								<li>
-										<a href="/acc/bc_excl" class="" title="Beautycard Offers">
-	<span>Beautycard Offers</span>
-
-	</a></li>
-								<li>
-										<a href="http://www.superdrug.com/bundles" class="" title="Web Exclusive Bundles &amp; Hampers">
-	<span>Web Exclusive Bundles &amp; Hampers</span>
-
-	</a></li>
-								</ul>
-					</li>
-			</ul>
-	</li><li>
-	<a href="/discount/sale" class="" title="Sale">
+	<a href="/c/sale-view-all" class="" title="Sale">
 	<span>Sale</span>
 
 	</a></li></ul>
@@ -3403,21 +3821,60 @@ $('#body').live('pagebeforecreate',function(event){
         $(this).toggleClass('clicked').next().toggle();
     });
 });
-</script><footer>
-	<div id="footer-wrap" class="clearfix clr">
-
+</script><div><footer> <style type="text/css">
+#footer-wrap .social {margin:0;}
+footer .social p {
+    font-size: 16px;
+    color: #fff;
+    margin: 0 0 4px;
+}
+footer .social a {
+    background: url(/medias/custom-content/img/social_icons45.png) no-repeat 0 1px #666;
+    width: 38px;
+    height: 38px;
+    margin-right: 4px;
+    padding: 0;
+    display: block;
+    float: left;
+    border-radius: 21px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.25);
+}
+#footer-wrap ul.footer-list li.social a:hover {
+	text-decoration: none;
+	opacity: 0.67;
+}
+footer .social a.button_facebook {
+	background-position: -2px -226px;
+}
+footer .social a.button_twitter {
+	background-position: -2px -181px;
+}
+footer .social a.button_google {
+	background-position: -3px -92px;
+}
+footer .social a.button_youtube {
+	background-position: -3px -48px;
+}
+footer .social a.button_instagram {
+	background-position: -3px -3px;
+}
+footer .social a.button_pinterest {
+	background-position: -3px -138px;
+}
+</style>
+<div class="clearfix clr" id="footer-wrap">
 		<ul class="footer-list nobullet">
-			<li class="title"> HELP &amp; INFORMATION</li>
+			<li class="title">HELP &amp; INFORMATION</li>
 			<li><a href="/contact">Contact Us</a></li>
 			<li><a href="/delInfo">Delivery Information</a></li>
-			<li><a href="/returnPolicy">Returns Policy</a></li>
+			<li><a href="/returnPolicy">Returns Information</a></li>
 			<li><a href="/acc/faq">FAQs</a></li>
-			<li><a href="/new-website">All About The New Superdrug.com</a></li>
+			<li><a href="/new-website">All about the new superdrug.com</a></li>
 			<li><a href="/sitemap">Site Map</a></li>
 			<li><a href="/store-finder">Store Locator</a></li>
 			<li><a href="/competitions">Competitions</a></li>
 			<li><a href="/recycle">Electricals Recycling</a></li>
-		</ul>
+		  </ul>
 		<ul class="footer-list nobullet">
 			<li class="title">ABOUT US</li>
 			<li><a href="http://www.superdrug.jobs">Superdrug Careers</a></li>
@@ -3434,57 +3891,30 @@ $('#body').live('pagebeforecreate',function(event){
 			<li><a href="/terms">Terms &amp; Conditions</a></li>
 			<li><a href="/bcTerms">Beautycard Terms &amp; Conditions</a></li>
 			<li><a href="/acc/privacypolicy">Privacy &amp; Cookies</a></li>
+			<li><a href="/cnf_portal">CNF or Portal Enquiries</a></li>
 		</ul>
+		
 		<ul class="footer-list nobullet buttons_cont">
-			<li><a href="http://www.superdruglookatme.com" onclick="_gaq.push(['_link', 'http://www.superdruglookatme.com']);" class="icon lookatme"> </a></li>
-			<li><a class="icon dare" href="/dare"></a></li>
-		</ul>
-
-
-		<!-- ////////// AddThis Code \\\\\\\\\\ -->
-
-		<div class="addthis_toolbox addthis_32x32_style addthis_default_style social right clr">
-			<p class="nomargin pad10top pad10right left">Follow us</p>
-			<a class="addthis_button_facebook_follow" addthis:userid="superdrug"></a>
-			<a class="addthis_button_twitter_follow" addthis:userid="superdrug"></a>
-			<a class="addthis_button_google_follow" addthis:userid="+superdrug"></a>
-			<a class="addthis_button_youtube_follow" addthis:userid="superdrugloves"></a>
-			<a class="addthis_button_instagram_follow" addthis:userid="superdrugloves"></a>
-			<a class="addthis_button_pinterest_follow" addthis:userid="superdrugstores"></a>
-			
-			<script>
+	    <li><a class="icon lookatme" onclick="_gaq.push(['_link', 'http://www.superdruglookatme.com']);" href="http://www.superdruglookatme.com">&nbsp;</a></li>
+	    <li><a href="/dare" class="icon dare">&nbsp;</a></li>
+	    <li class="social clr"><script>
 				$(function(){
-					$('.addthis_button_facebook_follow').click(function(){
-						_gaq.push(['_trackSocial', 'Facebook', 'Share']);
-					});
-					$('.addthis_button_twitter_follow').click(function(){
-						_gaq.push(['_trackSocial', 'Twitter', 'Yes']);
-					});
-					$('.addthis_button_google_follow').click(function(){
-						_gaq.push(['_trackSocial', 'Google Plus', 'Google Plus']);
-					});
-					$('.addthis_button_pinterest_share').click(function(){
-						_gaq.push(['_trackSocial', 'Pinterest', 'Pin']);
-					});
-						$('.addthis_button_instagram_follow').click(function(){
-						_gaq.push(['_trackSocial', 'Instagram', 'Yes']);
-					});
-					$('.addthis_button_youtube_follow').click(function(){
-						_gaq.push(['_trackSocial', 'Youtube', 'Youtube']);
-					});
+					$('.button_facebook').click(function(){_gaq.push(['_trackSocial', 'Facebook', 'Share'])});
+					$('.button_twitter').click(function(){_gaq.push(['_trackSocial', 'Twitter', 'Yes'])});
+					$('.button_google').click(function(){_gaq.push(['_trackSocial', 'Google Plus', 'Google Plus'])});
+					$('.button_pinterest_share').click(function(){_gaq.push(['_trackSocial', 'Pinterest', 'Pin'])});
+					$('.button_instagram').click(function(){_gaq.push(['_trackSocial', 'Instagram', 'Yes'])});
+					$('.button_youtube').click(function(){_gaq.push(['_trackSocial', 'Youtube', 'Youtube'])});
 				});
 			</script>
-
-			<div class="atclear"></div>
-		</div>
-		
-		<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
-		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=superdrugcreative"></script>
-		
-		<!-- AddThis Button END -->
+	    <p class="clearfix left">Follow us</p>
+	    <div class="clr"><a target="_blank" href="http://www.facebook.com/Superdrug" addthis:userid="superdrug" class="button_facebook">&nbsp;</a> 			<a target="_blank" href="http://www.twitter.com/superdrug" addthis:userid="superdrug" class="button_twitter">&nbsp;</a> 			<a target="_blank" href="https://plus.google.com/+superdrug" addthis:userid="+superdrug" class="button_google">&nbsp;</a> 			<a target="_blank" href="http://www.youtube.com/user/superdrugloves?sub_confirmation=1" addthis:userid="superdrugloves" class="button_youtube">&nbsp;</a> 			<a target="_blank" href="http://instagram.com/superdrugloves" addthis:userid="superdrugloves" class="button_instagram">&nbsp;</a> 			<a target="_blank" href="http://www.pinterest.com/superdrugstores" addthis:userid="superdrugstores" class="button_pinterest nomargin">&nbsp;</a></div>
+	    </li>
+	</ul>
+			</div>
+		</footer>
 	</div>
-</footer>
-			<script src="/combined.js?id=52b2002e14a52e1"></script>
+			<script src="/combined.js?id=52b2002e14ca3fa"></script>
 		
 
 
@@ -3586,59 +4016,26 @@ $('#body').live('pagebeforecreate',function(event){
 	</div>
 
 <script>
-yepnope([	
-	{
-		test : jQuery("a.fancybox").hasClass("fancybox"),
-		yep  : ['/_ui/desktop/theme-superdrug/css/jquery.fancybox-1.3.4.css','/_ui/desktop/theme-superdrug/js/jquery.fancybox-1.3.4.pack.js','/_ui/desktop/theme-superdrug/js/jquery.mousewheel-3.0.4.pack.js'],
-			callback: function (url, result, key) {
-				if( /jquery\.fancybox-1\.3\.4\.pack\.js$/.test(url) ){
-					// Fancybox has loaded, it's safe to call it now on the featured product (and it's ancillary packshot) cousins
-					sdjs.uifx.imgSwapperWithZoomLB.init();
-
-					// Fancybox again on 'product tile' bar
-					sdjs.uifx.imgZoomLB.init();
-				}
-			}
-	},
-	{
-		test : jQuery(".zoom").length,
-		yep  : ['/_ui/desktop/theme-superdrug/css/jquery.fancybox-1.3.4.css','/_ui/desktop/theme-superdrug/js/jquery.fancybox-1.3.4.pack.js','/_ui/desktop/theme-superdrug/js/jquery.mousewheel-3.0.4.pack.js'],
+yepnope([{
+		test : $("a.lb_call").length || $(".zoom").length || $("a.fancybox").hasClass("fancybox") || $("a.qview").length,
+		yep  : ['/_ui/desktop/theme-superdrug/js/jquery.fancybox-1.3.4.pack.js'],
 		callback: function (url, result, key) {
 			if( /jquery\.fancybox-1\.3\.4\.pack\.js$/.test(url) ){
 				// Fancybox has loaded, it's safe to call it now on the product tiles = products side-by-side with zoom img in their corner.
-				sdjs.uifx.imgZoomLB.init();
-			}
-		}
-	},
-	{
-		test : jQuery("a.lb_call").length,
-		yep  : ['/_ui/desktop/theme-superdrug/css/jquery.fancybox-1.3.4.css','/_ui/desktop/theme-superdrug/js/jquery.fancybox-1.3.4.pack.js','/_ui/desktop/theme-superdrug/js/jquery.mousewheel-3.0.4.pack.js'],
-		callback: function (url, result, key) {
-			if( /jquery\.fancybox-1\.3\.4\.pack\.js$/.test(url) ){
-				// Fancybox has loaded, it's safe to call it now on the product tiles = products side-by-side with zoom img in their corner.
-				sdjs.uifx.defaultLB.init();
 				if (checkouterror == true){
 					showFancyBox();
 				}
 				if (showremoveditempopup == true){
 					ShowItemRemoveFancyBox();
 				}
+			    sdjs.uifx.imgSwapperWithZoomLB.init();
+			    sdjs.uifx.imgZoomLB.init();			
 			}
 		}
-	},
-	{
-		test : jQuery(".fancy-box-needed").length,
-		yep  : ['/_ui/desktop/theme-superdrug/css/jquery.fancybox-1.3.4.css','/_ui/desktop/theme-superdrug/js/jquery.fancybox-1.3.4.pack.js','/_ui/desktop/theme-superdrug/js/jquery.mousewheel-3.0.4.pack.js'],
-		callback: function (url, result, key) {
-			if( /jquery\.fancybox-1\.3\.4\.pack\.js$/.test(url) ){
-				// Fancybox has loaded, it's safe to call it now on the product tiles = products side-by-side with zoom img in their corner.
-			}
-		}
-	},
-	{
-		/* Cart - pop up when item is not available [SPDG-230] */
+	},{
+		/* Cart - pop up when item is not available */
 		test : jQuery("#cart_removed_items").length,
-		yep  : ['/_ui/desktop/theme-superdrug/css/jquery.fancybox-1.3.4.css','/_ui/desktop/theme-superdrug/js/jquery.fancybox-1.3.4.pack.js','/_ui/desktop/theme-superdrug/js/jquery.mousewheel-3.0.4.pack.js'],
+		yep  : ['/_ui/desktop/theme-superdrug/js/jquery.fancybox-1.3.4.pack.js'],
 		callback: function (url, result, key) {
 			
 			if( /jquery\.fancybox-1\.3\.4\.pack\.js$/.test(url) ){
@@ -3647,20 +4044,9 @@ yepnope([
 				});
 			} 
 		}
-	},
-	{
-		test : jQuery(".qview").length,
-		yep  : ['/_ui/desktop/theme-superdrug/css/jquery.fancybox-1.3.4.css','/_ui/desktop/theme-superdrug/js/jquery.fancybox-1.3.4.pack.js','/_ui/desktop/theme-superdrug/js/jquery.mousewheel-3.0.4.pack.js'],
-		callback: function (url, result, key) {
-			if( /jquery\.fancybox-1\.3\.4\.pack\.js$/.test(url) ){
-				// Fancybox again on 'product tile' bar
-				sdjs.uifx.quickViewLB.init();
-			}
-		}
-	},
-	{
+	},{
 		test : jQuery(".lightbox-auto-alert").length,
-		yep  : ['/_ui/desktop/theme-superdrug/css/jquery.fancybox-1.3.4.css','/_ui/desktop/theme-superdrug/js/jquery.fancybox-1.3.4.pack.js','/_ui/desktop/theme-superdrug/js/jquery.mousewheel-3.0.4.pack.js'],
+		yep  : ['/_ui/desktop/theme-superdrug/js/jquery.fancybox-1.3.4.pack.js'],
 		callback: function (url, result, key) {
 			if( /jquery\.fancybox-1\.3\.4\.pack\.js$/.test(url) ){
 				//sdjs.uifx.errorViewLB.init();
@@ -3680,92 +4066,44 @@ yepnope([
 				});
 			}
 		}
-	},
-	{
+	},{
 	    /* SCROLL BAR Store locator*/
-	    
-	      test : jQuery(".filterResultsBox .scroll-inner").length,
-	      yep  : ['/_ui/desktop/theme-superdrug/js/jquery.mCustomScrollbar.concat.min.js'],
-	      callback: function() {
-	        //Sets up the scroll bar
-			var scrollBox = $(".filterResultsBox .scroll-inner");
-			scrollBox.css('height', scrollBox.height()-($('.services ul li').length*22));
-			
-			$(".filterResultsBox .scroll-inner").mCustomScrollbar({
-	          scrollButtons:{
-	            enable:true
-	          }
-	        });
+	    test : $(".filterResultsBox .scroll-inner").length || $(".filterDetailsBox .scroll-inner").length || $(".findstorebtn a").length,
+	    yep  : ['/_ui/desktop/theme-superdrug/js/jquery.mCustomScrollbar.concat.min.js'],
+	    callback: function(){
+			var scrollBoxResult = $(".filterResultsBox .scroll-inner"),
+				scrollBoxDetail = $(".filterDetailsBox .scroll-inner");
 
-
-	      }  /* End callback func */
-	},
-	{
-		test : jQuery("#category-carousel").length,
-		yep  : ['/_ui/desktop/theme-superdrug/js/jquery.carouFredSel-6.2.0-packed.js'],
-		callback: function() {
-			//Sets up the main carousel on the category landing page. Note it expects a DIV ID'ed element of "#mainImgCarousel-pag" for the pagination
-		
-			$("#category-carousel").carouFredSel({
-				auto: {timeoutDuration: 3000},
-				width: 744,
-				height: 351,
-				prev: {
-				button: "#main-carousel-wrapper-fullWidth a.carousel-prev",
-				key: "left"
-				}
-				,
-				next: {
-				button: "#main-carousel-wrapper-fullWidth a.carousel-next",
-				key: "right"
-				}
-				,
-				pagination: "#mainImgCarousel-pag",
-				scroll: {fx:"crossfade"}
-			});
-		
-		}  /* End callback func */
-	},
-	{
-	/* SCROLL BAR on maps */
-	    
-		test : jQuery(".filterDetailsBox .scroll-inner").length,
-		yep  : ['/_ui/desktop/theme-superdrug/js/jquery.mCustomScrollbar.concat.min.js'],
-		callback: function() {
-			//Sets up the scroll bar
-			var scrollBox = $(".filterDetailsBox .scroll-inner");
-			scrollBox.css('height', scrollBox.height()-($('.services ul li').length*22));
-					
-			$(".filterDetailsBox .scroll-inner").mCustomScrollbar({
+			scrollBoxResult.css('height', scrollBoxResult.height()-($('.services ul li').length*22)).mCustomScrollbar({
+	          	scrollButtons:{
+	            	enable:true
+	          	}
+	        }),
+			scrollBoxDetail.css('height', scrollBoxDetail.height()-($('.services ul li').length*22)).mCustomScrollbar({
 				scrollButtons:{
 					enable:true
-				}
-			});
-		}  /* End callback func */
-	}
-]);
-</script>
-
-
-
-
-<script>
-	(function(){
-		$('.tile').mouseover(function(){
-			if ($(this).find('.overlay').length){
-				$(this).css('cursor','pointer');
-				$(this).find('.overlay').show();
-				$(this).mouseout(function(){
-					$(this).find('.overlay').hide();
-				});
-				
 			}
-		});
-	})();
-</script><!--
-	project.build.number: 116
-    project.build.svn_revision: 37597
-    project.build.id: 2014-11-07_16-16-28
-    project.build.job: Release build
+		})
+	}
+}]);
+
+(function(){
+	$('.tile').mouseover(function(){
+		if ($(this).find('.overlay').length){
+			$(this).css('cursor','pointer');
+			$(this).find('.overlay').show();
+			$(this).mouseout(function(){
+				$(this).find('.overlay').hide();
+			});
+			
+		}
+	});
+})();
+</script>
+<!--
+	project.build.number: 10
+    project.build.svn_revision: 38404
+    project.build.id: 2015-02-11_10-09-03
+    project.build.job: Hybris SD - 3 Superdrug CI Build to UAT Environment
 -->
 </body></html>
