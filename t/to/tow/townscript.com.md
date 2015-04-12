@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the townscript.com privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810035807id_/http%3A//www.townscript.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townscript.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412074315id_/http%3A//www.townscript.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | Townscript
 
