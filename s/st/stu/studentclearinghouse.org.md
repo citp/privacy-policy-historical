@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studentclearinghouse.org privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130082403id_/http%3A//www.studentclearinghouse.org/files/terms-privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentclearinghouse.org privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412225921id_/http%3A//www.studentclearinghouse.org/files/terms-privacy.pdf) for the most accurate reproduction.*
 
-# Terms and Conditions of Use
+# 
 
 Terms and Conditions of Use
 No reproduction, distribution, or transmission of the copyrighted materials on this site is permitted without the permission of the
@@ -10,25 +10,24 @@ the Clearinghouse. Clearinghouse trademarks, including but not limited to, Natio
 Loan Locator®, Meteor®, and The Nation’s Trusted Source for Degree and Enrollment Verification® and their related design elements may
 not be used without permission. The following software access through this site is Copyrighted ©2014 The National Student
 Clearinghouse:
-Financial Aid Services:                                                 StudentTracker:
-     •     Error Resolution                                                  •    StudentTrackerSM for High Schools
-                                                                                                  SM for Outreach
-     •     CORA and iCORA                                                    •    StudentTracker
-     •     School Submission Schedule                                        •    StudentTrackerSM for Colleges & Universities
-     •     Enrollment Ad Hocs
-     •     Gainful Employment                                           EAM:
-     •     Student Lookup                                                    •    Account Management
-     •     Student Reporting                                                 •    Student Self-Service
-Verification Services:                                                  Transcript Services:
-     •     EnrollmentVerify                                                  •    Transcript Ordering Center
-     •     DegreeVerify                                                      •    Transcript Download Center
-     •     GradVerify                                                        •    SIS Service Operations
-     •     TransitionVerify
-     •     EnrollmentVerify Plus
-     •     Dates of Attendance Verification
-     •     School Providing Degree Ad Hoc
-     •     School Responding to Degree Verifications
-     •     Professional Certification Verify
+Financial Aid Services:                                                  StudentTracker:
+          Error Resolution                                                        StudentTrackerSM for High Schools
+          CORA and iCORA                                                          StudentTrackerSM for Outreach
+          School Submission Schedule                                              StudentTrackerSM for Colleges & Universities
+          Enrollment Ad Hocs
+          Gainful Employment                                            EAM:
+          Student Lookup                                                          Account Management
+          Student Reporting                                                       Student Self‐Service
+Verification Services:                                                   Transcript Services:
+          EnrollmentVerify                                                        Transcript Ordering Center
+          DegreeVerify                                                            Transcript Download Center
+          GradVerify                                                              SIS Service Operations
+          TransitionVerify
+          EnrollmentVerify Plus
+          Dates of Attendance Verification
+          School Providing Degree Ad Hoc
+          School Responding to Degree Verifications
+          Professional Certification Verify
 Any links to external sites provided on this Web site are for convenience only and do not constitute an endorsement. The Clearinghouse
 is not responsible for the privacy policies of these sites.
 Privacy Policy
@@ -45,7 +44,7 @@ for that purpose.
 Information on Requestors of Degree or Enrollment Information
 By law, students are entitled to information concerning anyone who has received their education records. On request from a
 student, we must provide him or her with the information you supplied in the request.
-© National Student Clearinghouse. All rights reserved.                                                                          09/23/14
+© National Student Clearinghouse. All rights reserved.                                                                           01/15/15
 
 
 Use of Cookies
@@ -57,22 +56,22 @@ and you may not be able to access certain information on our sites.
 How Your Information Is Used
 We do not sell, rent, provide or otherwise share individual information generated from your use of our Web sites with any third
 parties except as provided below. The Clearinghouse may use information you have disclosed to us as follows:
-•     To send you information about our organization and our products and services
-•     To contact you, when necessary, regarding your correspondence with us or your requests
-•     To inform educational institutions or individuals concerning inquiries about their student records
-•     To help diagnose problems with our servers
-•     To administer our Web sites
-•     In aggregate and de-identified form, for research or marketing
+     To send you information about our organization and our products and services
+     To contact you, when necessary, regarding your correspondence with us or your requests
+     To inform educational institutions or individuals concerning inquiries about their student records
+     To help diagnose problems with our servers
+     To administer our Web sites
+     In aggregate and de‐identified form, for research or marketing
 Privacy of Student Information Accessible Through our Web Sites
 Student enrollment and degree information made available through this site is provided to us by individual participating educational
 institutions which designate the Clearinghouse as their authorized representative. The Clearinghouse relies on the accuracy of the
-information supplied by the educational institution and cannot edit, modify or delete any student degree or enrollment information. The
-institutions provide to us only what they determine to be Directory Information under their published institutional policies and the Family
-Educational Rights and privacy Act (FERPA). You can read more about FERPA at the Department of Education’s Web site
+information supplied by the educational institution and cannot edit, modify or delete any student degree or enrollment information.
+The Clearinghouse works with these educational intuitions to support mutual compliance with the Family Educational Rights and privacy
+Act (FERPA). You can read more about FERPA at the Department of Education’s Web site
 (http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html). Identifying information of individuals who requested degree or
 enrollment information about a student must be made available to that student.
 What if I do not want my information to be available?
-Individuals may opt-out of having even their limited individual Directory Information made available to others by contacting the registrar
+Individuals may opt‐out of having even their limited individual Directory Information made available to others by contacting the registrar
 at their educational institution and filing a “Directory Information Block” or “FERPA Block.” The institution will then notify the
 Clearinghouse to block the record.
 What if I feel my student information is incorrect?
@@ -83,23 +82,24 @@ records, if necessary.
 Compliance with Other Laws Regarding Information Privacy
 Security of the student data we house is a priority of the Clearinghouse. Although our systems are principally designed to comply with the
 federal Family Educational Rights and Privacy Act and accepted best practices, we believe that our practices comply with all applicable
-federal and state privacy laws. We reserve the right to change our privacy policies. Below are some of the highlights of our program.
-•     The Clearinghouse maintains a comprehensive information security program, including administrative, technical and physical
+federal and state privacy laws. We reserve the right to change our privacy policies to comply with changes in applicable law. Below are
+some of the highlights of our program.
+     The Clearinghouse maintains a comprehensive information security program, including administrative, technical and physical
       safeguards. This policy is regularly reviewed and updated as appropriate. Our staff includes a Manager of Information Security who
       is charged with maintaining and administering this plan.
-•     Our firewalls and other controls ensuring security from external threat are regularly tested by a third party.
-•     Our employees undergo mandatory security training.
-•     Our maintenance and use of data is limited and controlled by federal law.
-•     We maintain secure authentication protocols and access limitations for external and internal users.
+     Our firewalls and other controls ensuring security from external threat are regularly tested by a third party.
+     Our employees undergo mandatory security training.
+     Our maintenance and use of data is limited and controlled by federal law.
+     We maintain secure authentication protocols and access limitations for external and internal users.
 The Clearinghouse has in place an Identity Theft Prevention Program ("Program") pursuant to the Federal Trade Commission's (“FTC”)
 Red Flags Rule, which implements Section 114 of the Fair and Accurate Credit Transactions Act of 2003. The role of the Clearinghouse in
-© National Student Clearinghouse. All rights reserved.                                                                           09/23/14
+© National Student Clearinghouse. All rights reserved.                                                                             01/15/15
 
 
-facilitating the exchange of education information does not directly fall within the implementation of the above Act. However, because
-the parties which participate in the Clearinghouse may be involved in matters within the jurisdiction of the Act, the Clearinghouse adopts
-its revised policy effective July 11, 2011, to facilitate compliance by its participants. You may view the Identity Theft Prevention Program
-Policy.
+ facilitating the exchange of education information does not directly fall within the implementation of the above Act. However, because
+ the parties which participate in the Clearinghouse may be involved in matters within the jurisdiction of the Act, the Clearinghouse
+ adopts its revised policy effective July 11, 2011, to facilitate compliance by its participants. You may view the Identity Theft Prevention
+ Program Policy.
 Student information submitted by Clearinghouse participants to the Clearinghouse is proprietary data and may only be used in
 conformance with the terms and conditions stated on this Web site. Individuals requesting student information agree to our terms and
 conditions when making an inquiry. The Clearinghouse has instituted these terms and conditions and other reasonable controls to
@@ -107,7 +107,7 @@ ensure that the information we receive from participants will be used only in co
 applicable law. These controls and our information security program are designed to meet Federal Trade Commission Interagency
 Guidelines Establishing Standards for Safeguarding Customer Information.
 To the extent that a financial institution participant shares any of its customer information with the Clearinghouse, the Clearinghouse
-recognizes that it is subject to the reuse and redisclosure limitations of the Gramm-Leach-Bliley Act. To the extent such customer
+recognizes that it is subject to the reuse and redisclosure limitations of the Gramm‐Leach‐Bliley Act. To the extent such customer
 information duplicates student information or information from other sources, this prohibition against redisclosure shall not extend to
 such duplicate information.
-© National Student Clearinghouse. All rights reserved.                                                                            09/23/14
+© National Student Clearinghouse. All rights reserved.                                                                             01/15/15
