@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the action2cut.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231222107id_/http%3A//www.action2cut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the action2cut.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412234305id_/http%3A//www.action2cut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Action2cut
 
@@ -16,7 +16,7 @@
 
 **Aggregate Information**
 
-  * **Action2cut.com** uses a web statistics prog[ram](https://web.archive.org/web/20141231222107id_/http%3A//www.action2cut.com/action2cut.com) to track aggregate usage of this site. This prog[ram](https://web.archive.org/web/20141231222107id_/http%3A//www.action2cut.com/action2cut.com) is used to enable us to improve and expand the site. It does not allow us to personally identify individual users to the site.
+  * **Action2cut.com** uses a web statistics program to track aggregate usage of this site. This program is used to enable us to improve and expand the site. It does not allow us to personally identify individual users to the site.
   * **Action2cut.com** does not provide any aggregate information to third parties concerning visitors to this site.
 
 
