@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028043144id_/http%3A//www.ncu.edu/corporate-information/privacy-statement-and-consumer-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412203320id_/http%3A//www.ncu.edu/corporate-information/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement and Consumer Information | Northcentral University
-
-## Privacy Statement
+# Privacy Statement | Northcentral University
 
 Northcentral University is committed to protecting your privacy, developing technology that gives you a powerful and safe online experience. This Statement of Privacy applies to Northcentrals websites, and governs data collection and use at all Northcentral sites and services. Please read the complete Statement of Privacy to learn additional details about how some of these sites and services protect your personal information.
 
@@ -35,39 +33,3 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 **Changes to this Statement  
 ** Northcentral may occasionally update this Statement of Privacy, and encourages you to periodically review this Statement to remain informed of how Northcentral is protecting your information.
-
-## Consumer Information
-
-Northcentral makes every effort to comply with federal, state and local laws and regulations. Here is a summary of our policies and procedures relating to a number of issues of concern to Students, Faculty Mentors and Northcentral staff.
-
-Northcentral policies are subject to change. For additional information about our policies and procedures, see our current [Course Catalog](http://learners.ncu.edu/public_images/Northcentral%20University%20Catalog/Northcentral_University_Catalog.htm).
-
-**[Student Records](https://web.archive.org/northcentral-global/consumer-information/family-educational-rights-and-privacy-act)** The Family Educational Rights and Privacy Act (FERPA) protects the privacy of Student records.
-
-**Legal and Regulatory Information**
-
-  * [Student Grievance Contact Information](https://web.archive.org/corporate-information/privacy-statement-and-consumer-information/student-grievance-contact-information)
-
-
-
-**[Americans With Disabilities Act](https://web.archive.org/northcentral-global/consumer-information/Americans-with-disabilities)** In accordance with the Americans with Disabilities Act of 1990 (ADA), the Rehabilitation Act of 1973 and subsequent regulations, Northcentral provides reasonable accommodation to a qualified individual with an appropriately documented disability, provided that such accommodation does not create an undue hardship.
-
-**[Web Accessibility Statement](https://web.archive.org/northcentral-global/consumer-information/Web-accessibility)** The public Northcentral Web site is built to comply with Section 508 Accessibility Standards of the Rehabilitation Act of 1973, as amended in 1998.
-
-**Disclosure of Campus Crime Statistics (Jeanne Clery Act)** Northcentral is not obligated to report Clery Act statistics as all courses are conducted online.
-
-[**Alcohol and Drug Policy**](https://web.archive.org/northcentral-global/consumer-information/alcohol-and-drug-policy) Northcentral is concerned about the use of alcohol, illegal drugs and controlled substances as it affects faculty, staff and Students.
-
-[**Sexual Harassment Policy**](https://web.archive.org/northcentral-global/consumer-information/sexual-harassment-policy) Northcentral policy prohibits sexual harassment between and among all members, Students, Faculty Mentors and staff of the Northcentral community in all areas of Northcentrals work and educational environments.
-
-[**Technical Requirements**](https://web.archive.org/northcentral-global/consumer-information/technical-requirements) Students, Mentors and even visitors to Northcentral will get the maximum benefit of their experiences by using adequate and compatible hardware and software.
-
-[Student Right-to-Know Graduation Rate Disclosure ](https://web.archive.org/northcentral-global/consumer-information/graduation-rate) The Student Right to Know (SRTK) Act, passed by Congress in 1990, requires all institutions eligible for Title IV funding to disclose graduation rates of degree- or certificate-seeking Students to all Students and prospective Students.
-
-**[](https://web.archive.org/northcentral-global/consumer-information/higher-education-opportunity-act) [Textbooks](https://web.archive.org/northcentral-global/consumer-information/higher-education-opportunity-act)** Created in large part to help lower the prices students pay for textbooks, the Higher Education Opportunity Act (HEOA), went into effect July 1, 2010.
-
-**[Pledge of Public Accountability](https://web.archive.org/northcentral-global/pledge-of-public-accountability/learn-more)** The decision to attend an institution of higher education involves a significant financial commitment. At Northcentral University, we believe that any decision to do so should be supported by clear and accurate information.
-
-**[Refund Policy and Procedure](http://learners.ncu.edu/public_images/Northcentral%20University%20Catalog/03_-_FINANCIAL_INFORMATION/3H_-_Refund_Policy_and_Procedure.htm)** Northcentral University's refund policy and procedures can be found in our current [catalog](http://learners.ncu.edu/public_images/Northcentral%20University%20Catalog/03_-_FINANCIAL_INFORMATION/3H_-_Refund_Policy_and_Procedure.htm).
-
-[**Program Disclosures**](https://web.archive.org/program-disclosures) Northcentral University strives to enable students to make informed choices about their academic program selection by making disclosures to prospective Students in a clear, timely, and meaningful way.
