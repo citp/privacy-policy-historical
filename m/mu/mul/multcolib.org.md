@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703035057id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412225311id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
 
 # Statement on privacy and confidentiality of library records | Multnomah County Library
 
@@ -8,7 +8,7 @@ Last revised 08.29.2012
 
 Multnomah County Library protects the privacy and confidentiality of all library users, no matter their age.
 
-Oregon Revised Statute 192.502 (22) exempts from disclosure under open records law: The records of a library, including: (a) Circulation records, showing use of specific library material by a named person; (b) The name of a library patron together with the address or telephone number of the patron; and (c) The electronic mail address of a patron. Multnomah County Library's privacy and confidentiality policies are in compliance with applicable federal, state, and local laws.
+Oregon Revised Statute 192.502 (23) exempts from disclosure under open records law: The records of a library, including: (a) Circulation records, showing use of specific library material by a named person; (b) The name of a library patron together with the address or telephone number of the patron; and (c) The electronic mail address of a patron. Multnomah County Library's privacy and confidentiality policies are in compliance with applicable federal, state, and local laws.
 
 Our commitment to your privacy and confidentiality has deep roots not only in the law but also in the ethics and practices of librarianship. In accordance with the American Library Association's Code of Ethics: "We protect each library user's right to privacy and confidentiality with respect to information sought or received and resources consulted, borrowed, acquired, or transmitted."
 
