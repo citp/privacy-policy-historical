@@ -1,50 +1,395 @@
-> *The following text is extracted and transformed from the blognow.com.au privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527190934id_/http%3A//www.blognow.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blognow.com.au privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413001909id_/http%3A//blognow.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
 
-# Privacy | BlogNow
+# Privacy Policy
 
-BlogNow.com.au is committed to ensuring our customers’ privacy and security of all information collected. In accordance with the privacy legislation introduced on December 21, 2001, this Privacy Policy outlines the information collection practices utilised by BlogNow.com.au, how that information is used and the choices you can make about the way the information you provide to us is collected and used.
+**Introduction**
 
-  * The information we collect
-  * How we use the information
-  * How to access or correct your information
-  * Cookies
-  * How to contact us
+|  | 
 
+This statement includes: 
 
+  * our _collection statement_ , explaining aspects of our collection and use of personal information 
 
-### The information we collect
-
-When you create an account with BlogNow.com.au web site, we need to collect information about you. This information includes, but is not limited to, details such as your name, your email and your date of birth. When you submit a request via our email support forms, we also collect your name and email so that we may respond to your request or query as quickly as possible.  
+  * our _privacy policy_ , further explaining how we manage personal information. 
 
 
-### How we use the information
+  
+|  |   
+|  | 
 
-When you create an account with BlogNow.com.au, we use the collected information in several ways:
+**COLLECTION STATEMENT**  
+  
+|  |   
+  
+**Who we are**
 
-  * Personal identification and verification
-  * To allow us to contact you for customer service, if required
-  * To make improvements to the BlogNow.com.au web site
+|  | 
+
+Dark Blue Sea Pty Ltd ABN 47 091 509 796 
+
+Fabulous.com Pty Ltd ABN 64 094 218 443 
+
+Fabulous Parking Pty Ltd ABN 16 094 225 091 
+
+Fabulous.com.au Pty Ltd ABN 34 139 626 994 
+
+Roar.com Pty Ltd ABN 99 094 225 064 
+
+Pageseeker.com Pty Ltd ABN 45 090 513 849 
+
+Darkblue.com Pty Ltd ABN 14 094 225 082 
+
+Yexa.com Pty Ltd ABN 12 094 225 073 
+
+Drop.com.au Pty Ltd ABN 79 135 424 878 
+
+Yexa.com.au Pty Ltd ABN 84 137 606 172 
+
+Whois Privacy Services Pty Ltd ABN 65 133 058 741 
+
+('the DBS Group', 'we' or 'our')   
+  
+|  |   
+  
+**Our contact details**
+
+|  | 
+
+  * Phone: 07 3007 0070 
+
+  * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
+
+
+  
+|  |   
+  
+**Collection from third party sources**
+
+|  | 
+
+We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from: 
+
+  * publicly available sources like phone books 
+
+  * other companies in our group that you may have dealt with 
+
+  * third parties like our business partners, your authorised representative/s 
+
+  * information brokers 
+
+  * fraud checking agencies 
+
+  * our affiliates, resellers, contractors and other representatives that you may deal with 
+
+  * our websites and how you use them (through the use of cookies) 
+
+  * various parties listed under _Disclosing personal information_ in our Privacy Policy. 
+
+
+  
+|  |   
+  
+**Collection under law**
+
+|  | 
+
+We may be required to collect personal information in order to comply with the law.   
+  
+|  |   
+  
+**Why we collect and hold personal information**
+
+|  | 
+
+We collect and hold personal information because: 
+
+  * we may need to use it to operate our business 
+
+  * we may need to provide it to other parties in connection with our business. 
 
 
 
-We do not sell, rent or trade your personal information to third parties for marketing purposes.
 
-Unless otherwise prohibited by law or our contractual obligations, we may disclose personal information if required to do so by law, court order, or as requested by a governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable. Such situations may include: to perform, maintain or enforce contracts with our customers; to protect the rights or properties of AAA MARKETING WOLRD PTY LTD, our business affiliates, our customers, or others; or when we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be causing, or who may be threatening to cause, interference with or damage to our rights or properties, whether intentionally or otherwise; or when anyone else could be harmed by such activities.
+The uses and disclosures we may make of personal information are detailed in our Privacy Policy.   
+  
+|  |   
+  
+**Unavailability of personal information**
 
-Like most web sites, there is certain information we automatically track, including the URL that you just came from, the browser you are using and your IP address. This data is utilised to improve the services of BlogNow.com.au and does not include any personally identifying information.  
+|  | 
+
+If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
+  
+|  |   
+  
+**Disclosing personal information**
+
+|  | 
+
+We may disclose personal information as reasonably required to contractors and suppliers whose goods and services that we use to operate our business and provide products and support to you, to comply with our contractual obligations with regulatory authorities including publishing personal information in Whois records for domain names, and to other parties detailed in our Privacy Policy. 
+
+Some of these parties may be based overseas eg America.  
+  
+|  |   
+  
+**Access and correction**
+
+|  | 
+
+Our privacy policy contains information about how the you can access and seek correction of the personal information about you that we hold.   
+  
+|  |   
+  
+**Complaints**
+
+|  | 
+
+Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.   
+  
+|  |   
+|  | 
+
+**PRIVACY POLICY**  
+  
+|  |   
+  
+**Personal information**
+
+|  | 
+
+This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form.   
+  
+|  |   
+  
+**Kinds of personal information we collect and hold**
+
+|  | 
+
+Broadly, we may collect and hold: 
+
+  * _personal details_ like name, date of birth, gender, and occupation 
+
+  * _contact details_ like physical, postal, work and email addresses and phone numbers 
+
+  * _financial details_ like credit card numbers and your billing and payment history with us 
+
+  * _service-related details_ like your user name, encrypted password and service usage history, support incidents, data from cookies, enquiries and complaints 
+
+  * _other details_ relating to special situations. 
 
 
-### How to access or correct your information
-
-At any time, BlogNow.com.au members can view and/or update all the information in their member profile. To do so, login on your account and click on “Profile” to view and/or make the required changes.  
 
 
-### Cookies
+In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
+  
+|  |   
+  
+**Collecting personal information**
 
-We may, from time to time, use “cookies” to store your preferences, record session information and collect information on how you visit and access our Web pages. We collect information on the Web pages visited by our customers in order to help us to continue improving our services.
+|  | 
 
-“Cookies” are pieces of information that our Web page transfers to your computer’s hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard and many Web sites use them to provide useful features for you. Cookies in and of themselves do not personally identify you, only your computer.
+Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for domain names or services on our website). 
 
-### How to contact us
+In other cases, we may collect personal information about you from: 
 
-This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of BlogNow.com.au or would like more information, please [contact us](https://web.archive.org/contact-us). We will attempt to respond to all reasonable concerns or inquiries within three business days of receipt.
+  * publicly available sources like phone books 
+
+  * other companies in our group that you may have dealt with 
+
+  * third parties like our business partners, your authorised representative/s 
+
+  * information brokers 
+
+  * fraud checking agencies 
+
+  * our affiliates, resellers, contractors and other representatives that you may deal with 
+
+  * our websites and how you use them (through the use of cookies) 
+
+  * various parties listed under _Disclosing personal information_ below. 
+
+
+  
+|  |   
+  
+**Holding personal information**
+
+|  | 
+
+We hold personal information in hard and/or soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration.   
+  
+|  |   
+  
+**Why we collect and hold personal information**
+
+|  | 
+
+We collect and hold personal information because: 
+
+  * we may need to use it to operate our business 
+
+  * we may need to provide it to other parties in connection with our business. 
+
+
+  
+|  |   
+  
+**Using personal information**
+
+|  | 
+
+We may use personal information: 
+
+  * to identify you 
+
+  * for credit checks 
+
+  * to prevent fraud 
+
+  * to supply products (including goods and/or services) to you 
+
+  * to give you information about us and our products, and product offers 
+
+  * for direct marketing â€“ see _Direct marketing_ for details 
+
+  * to improve our products, our marketing and our website 
+
+  * to answer your enquiries 
+
+  * to give you customer support and service 
+
+  * to better understand your needs and respond to them 
+
+  * to manage and plan our products and business 
+
+  * to charge and bill you for products you use 
+
+  * to collect payment from you or make payment to you 
+
+  * to monitor, manage, test and improve our network and facilities 
+
+  * to comply with various laws or contractual obligations that apply to us 
+
+  * for other purposes related to the operation of our business. 
+
+
+  
+|  |   
+  
+**Disclosing personal information**
+
+|  | 
+
+We may disclose personal information as reasonably required: 
+
+  * to contractors and suppliers who supply or support us in: 
+
+    * market research, sales and marketing 
+
+    * direct marketing â€“ see _Direct marketing_ for details 
+
+    * identity and fraud checking 
+
+    * credit management 
+
+    * service provisioning 
+
+    * installation, maintenance and repairs 
+
+    * helpdesk and enquiries 
+
+    * support and complaint management 
+
+    * communications and mailing 
+
+    * billing, debt recovery and credit management 
+
+    * network and product design and maintenance 
+
+    * corporate strategy 
+
+    * legal and regulatory advice and compliance 
+
+    * accounting and financial planning 
+
+    * risk management 
+
+    * otherwise providing goods and services that we use to operate our business and provide products and support to you 
+
+  * to your authorised representative/s 
+
+  * to identify you as a registrant of a domain name in publicly available Whois record 
+
+  * if you ask us to do so 
+
+  * to our agents, resellers, affiliates and members of our corporate group 
+
+  * to our business partners and wholesale suppliers 
+
+  * to organisations that provide credit or finance to us 
+
+  * to persons who invest in or acquire all or part of our business or company, or are considering doing so. 
+
+
+
+
+Some of these parties may be based overseas eg America.  
+  
+|  |   
+  
+**Direct marketing**
+
+|  | 
+
+We may use and disclose personal information to direct market to you products offered by us, our agents, resellers, affiliates and members of our corporate group (including each member of the DBS Group), and our business partners, where we think the offers will be of interest to you, using: 
+
+  * post 
+
+  * email 
+
+  * electronic messaging 
+
+  * social media 
+
+  * targeted web content 
+
+  * other direct marketing channels. 
+
+
+
+
+Direct marketing may continue until you opt-out by calling the number in _Contacting us_ even if you are no longer our customer.   
+  
+|  |   
+  
+**Accessing and correcting personal information**
+
+|  | 
+
+Please contact us for these purposes using the details in _Contacting us_ below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.   
+  
+|  |   
+  
+**Complaints**
+
+|  | 
+
+If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in _Contacting us_ below. We shall: 
+
+  * acknowledge your complaint within a reasonable time 
+
+  * give you an estimated first response time 
+
+  * allocate your complaint to a suitably senior staff member 
+
+  * process and respond to your complaint as soon as we reasonably can. 
+
+
+  
+|  |   
+  
+**Contacting us**
+
+|  | 
+
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by telephone on 07 3007 0070 or email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, P.O. Box 757, Fortitude Valley, QLD 4006. 
