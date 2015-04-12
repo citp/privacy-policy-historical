@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpvmediatraffic.com privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831202547id_/http%3A//cpvmediatraffic.com/%3Fpage_id%3D35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpvmediatraffic.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413014930id_/http%3A//cpvmediatraffic.com/%3Fpage_id%3D35) for the most accurate reproduction.*
 
 # Privacy Policy
 
