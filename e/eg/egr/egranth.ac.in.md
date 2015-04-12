@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egranth.ac.in privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805124515id_/http%3A//www.egranth.ac.in/%3Fq%3Dnode/53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egranth.ac.in privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412152320id_/http%3A//www.egranth.ac.in/%3Fq%3Dnode/53) for the most accurate reproduction.*
 
 # Privicy Policy | e-Granth
 
