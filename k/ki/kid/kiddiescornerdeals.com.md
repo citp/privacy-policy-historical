@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiddiescornerdeals.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921012829id_/http%3A//kiddiescornerdeals.com/2010/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddiescornerdeals.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412053036id_/http%3A//kiddiescornerdeals.com/2010/01/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
