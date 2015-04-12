@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aarki.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731161324id_/http%3A//aarki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarki.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412054439id_/http%3A//corp.aarki.com/privacy) for the most accurate reproduction.*
 
-# Developers | Aarki
+# Privacy Policy | Aarki
 
 * _PERSONAL INFORMATION_. We will not sell, distribute or rent your Personal Information with any third parties without your consent, except to our trusted business partners for the purpose of providing you with, and operating and maintaining, the Site and Services, to comply with applicable law or as otherwise specified herein. We may use your Personal Information and/or share it with certain third parties to activate and maintain your account, verify your identity, check your qualifications, or follow up or resolve with transactions or queries initiated on the Site, including, but not limited to, processing your credit card payment or other payment, if applicable. We may also use your contact information to inform you of any changes to the Site or Services, respond to your questions, inquiries, comments and instructions, take good faith steps to enforce the terms of use with respect to the Site and Services, maintain the security and integrity of the Site and Services or our systems, or to send you additional information about Aarki.
 
@@ -12,9 +12,15 @@
 
 * _SALE OF INFORMATION_. In order to accommodate changes in our business, we may sell, buy or otherwise transfer portions of our company or other companies or assets, including the information collected through this Site. In the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or substantially all of the assets of Aarki, user information (including Personal Information) will be one of the assets transferred to the transferee.
 
-* _OPTING-OUT AND OPTING-IN_. If, at any time after registering for information or using our Services, you change your mind about receiving information from us or about the use of information volunteered by you, please enter your device id below. For iOS devices, connect to iTunes and click on the Serial Number to see your device id (UDID). For Android devices, go to settings, about phone, and status.  Your device id is listed as IMEI or MEID. 
+* _OPTING-OUT AND OPTING-IN_. Aarki may use non-Personal Information that we collect in mobile apps to tailor advertising to you in other mobile apps and sites. You can opt out of cross-app and cross-site use of non-Personal Information: 
+
+  * For iOS devices, you can opt out of cross-app advertising by updating to iOS 6.0 or higher and enabling "Limit Ad Tracking" setting. On iOS 6 this setting is located in Settings -> General -> About -> Advertising menu. On iOS 7, it is located in Settings -> Privacy -> Advertising menu. 
+  * For Android devices, please enter your device ID below. To find your device ID, go to Settings -> About Phone -> Status. Your device ID is listed as IMEI or MEID. 
+
+
 
 To opt-out of our mailing list, please click unsubscribe in the body of the email communication. You are able to opt-in at any time. 
+
 * _REMOVAL OF INFORMATION_. When you request us to delete your account for the Services, your data will be permanently expunged from our primary production servers and further access to your account will not be possible. However, portions of your data may remain on our production servers indefinitely. Your data may also remain on a backup server or media. Aarki keeps these backups to ensure our continued ability to provide the Services to you in the event of malfunction or damage to our primary production servers. We also reserve the right to use any aggregated or anonymous data derived from or incorporating your personal information.
 
 * _RETENTION OF INFORMATION_. Aarki will retain your Personal Information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purposes(s) remains valid after termination of Aarki’s relationship with you.
