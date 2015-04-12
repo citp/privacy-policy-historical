@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutmirchi.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120125850id_/http%3A//cutmirchi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutmirchi.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412091546id_/http%3A//cutmirchi.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome cutmirchi.com - Find latest happening information links
 
@@ -55,5 +55,17 @@ _**Third party links**_
   * If we decide to change our privacy policy, we will post those changes on this page.
 
   
+  
+| [SUBMIT YOUR LINK](https://web.archive.org/web/20150412091546id_/http%3A//cutmirchi.com/submit.php)  
+---  
+| MOST VIEWED  
+---  
+TOP PHOTOS  
+  
+Top photos will soon be displayed  
+  
+TOP VIDEOS  
+  
+Top Videos will soon be displayed  
   
  
