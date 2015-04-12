@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greetzap.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124161800id_/http%3A//www.greetzap.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greetzap.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412090528id_/http%3A//www.greetzap.com/policy.aspx) for the most accurate reproduction.*
 
 # GreetZAP
 
