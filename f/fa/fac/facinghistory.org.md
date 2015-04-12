@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012180837id_/https%3A//www.facinghistory.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412185144id_/https%3A//www.facinghistory.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Facing History and Ourselves
 
-### **Basics of This Privacy Policy**
+**Basics of This Privacy Policy**
 
-> **Facing History does not sell, rent or lease its customer lists to third parties. Facing History does not sell, trade, or share any donor's personal information with any other entity, nor does Facing History send donor mailings on behalf of other organizations.  **
+> **Facing History does not sell, rent, or lease its customer lists to third parties. Facing History does not sell, trade, or share any donor's personal information with any other entity, nor does Facing History send donor mailings on behalf of other organizations.  **
 
-### Full Privacy Policy
+Full Privacy Policy 
 
 Facing History is committed to protecting your privacy. Please read the Facing History Privacy Statement below for details about particular Facing History sites and services that you may use.
 
@@ -14,7 +14,7 @@ _Facing History and Ourselves National Foundation, Inc will herein be known as F
 
 Facing History is committed to protecting your privacy. Please read the Facing History Privacy Statement below for details about particular Facing History sites and services that you may use.
 
-Facing History is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Privacy Statement. This Statement contains a section with specific details regarding personal information collected from children (see below).
+Facing History is a general audience web site, intended for users of all ages. Personal information of all users is collected, used, and disclosed as described in this Privacy Statement. This Statement contains a section with specific details regarding personal information collected from children (see below).
 
 **Collection of your Personal Information**
 
@@ -28,13 +28,13 @@ Facing History also collects information about which pages our customers visit w
 
 In order to constantly improve our web site and better serve our customers online, Facing History may use software tools such as "cookies" to gather information about site visitors' browsing activities.
 
-**Use of your Personal Information**
+ **Use of your Personal Information**
 
 Facing History and its operational service partners collect and use your personal information. These services may include the display of customized content based upon the information Facing History has collected. Facing History does not use or disclose sensitive personal information without your explicit consent.
 
 Facing History may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Facing History does not sell, rent or lease its customer lists to third parties. Facing History does not sell, trade, or share any donor's personal information with any other entity, nor does Facing History send donor mailings on behalf of other organizations. 
+Facing History does not sell, rent, or lease its customer lists to third parties. Facing History does not sell, trade, or share any donor's personal information with any other entity, nor does Facing History send donor mailings on behalf of other organizations. 
 
 We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
 
@@ -44,17 +44,19 @@ Personal information collected on this site may be stored and processed in the U
 
 If you choose to send us an e-mail message, we may retain the content of the e-mail, your e-mail address, and our response in order to service your needs.
 
-You may be placed on our mailing list when you contact us. To remove your name from our mailing list, please send an email to [info@facing.org](https://mail.google.com/mail?view=cm&tf=0&ui=1&to=info@facing.org). If you opt out of broadcast emails, Facing History reserves the right to contact you in other ways.
+You may be placed on our mailing list when you contact us. To remove your name from our mailing list, please send an email to [info@facing.org](mailto:info@facing.org?subject=Please%20Remove%20My%20Name%20from%20Mailing%20List)
+
+If you opt out of broadcast emails, Facing History reserves the right to contact you in other ways.
 
 **Control of your Personal Information**
 
 When you contact us, or otherwise give us personal information, Facing History will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
 
-**Security of your Personal Information**
+ **Security of your Personal Information**
 
 Facing History is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-**Links to Third Party Sites**
+ **Links to Third Party Sites**
 
 Facing History is not responsible for the information practices employed by sites linked to or from our web site. In most cases, links to non-Facing History web sites are provided solely as pointers to information on topics that may be useful to the users of Facing History. Since third party web sites may have different privacy policies and/or security standards governing their sites, we advise you to review the privacy policies and terms and conditions of these sites prior to providing any personal information.
 
@@ -78,4 +80,4 @@ Brookline, MA 02445
 617-232-1595  
 800-856-9039
 
-Email: [info@facing.org](https://mail.google.com/mail?view=cm&tf=0&ui=1&to=info@facing.org).
+Email: [info@facing.org](mailto:info@facing.org?subject=Question%20about%20Privacy%20Policy)
