@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gemoney.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701153055id_/http%3A//www.gemoney.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemoney.com.au privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412235315id_/http%3A//www.gemoney.com.au/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | GE Money | GE Money Australia
+# Privacy Policy | GE Money Australia
 
 #### Credit Reporting Policy (including important information about how credit reporting affects you)
 
@@ -213,24 +213,6 @@ CareCredit
 | 
 
 1300 66 22 73  
-  
-Coles Group Card
-
-| 
-
-1300 366 625  
-  
-Coles MasterCard
-
-| 
-
-1300 306 397  
-  
-Coles MasterCard - Platinum
-
-| 
-
-1300 552 710  
   
 Creditline
 
@@ -570,7 +552,5 @@ Please note that for the Commercial Finance entities only Custom Fleet Pty Ltd A
  **
 
 One or more of the Commercial Finance entities may act as an agent (“Agent”). You can enquire as to the identity of the principal by contacting the Commercial Operations Compliance area as detailed in the Important Privacy Notice given to you by the Agent or your Relationship Manager.
-
-Published: 30/04/2014
 
 **
