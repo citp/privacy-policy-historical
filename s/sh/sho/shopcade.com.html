@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the shopcade.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231162943id_/http%3A//www.shopcade.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopcade.com privacy policy that was archived on 2015-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150412031024id_/http%3A//www.shopcade.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="shopcade" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# shopcade: http://ogp.me/ns/fb/shopcade#" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
+<!DOCTYPE html><html id="shopcade" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# shopcade: http://ogp.me/ns/fb/shopcade#" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <!-- Host: eu1.www.shopcade.com [10.0.1.11]-->
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Welcome to your personal shopping app! Discover new products, create lists of the things you want, and get exclusive deals.">
@@ -21,15 +22,15 @@
 <meta property="og:description" content="Welcome to your personal shopping app! Discover new products, create lists of the things you want, and get exclusive deals.">
 <meta name="apple-itunes-app" content="app-id=609724520">
 <meta name="google-play-app" content="app-id=com.shopcade.app"><title>Privacy - Shopcade: Your Personal Shopping App</title>    <link type="text/css" rel="stylesheet" href="//cloud.typography.com/6597292/777424/css/fonts.css">
-    <link type="text/css" rel="stylesheet" href="//www.shopcade.com/rd1a9386d2e2b7b337703e9fcaf6411d5bba0407d/assets/css/core.css">
-    <link type="text/css" rel="stylesheet" href="//www.shopcade.com/rd1a9386d2e2b7b337703e9fcaf6411d5bba0407d/assets/css/static.css">
-    <script type="text/javascript" src="//www.shopcade.com/rd1a9386d2e2b7b337703e9fcaf6411d5bba0407d/assets/js/lib/head.load.min.js"></script>    <!--[if lt IE 9]>
-    <script src="//www.shopcade.com/rd1a9386d2e2b7b337703e9fcaf6411d5bba0407d/assets/js/lib/html5shiv.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="//assets.static-shopcade.com/rb7a9ee543b201124f1f0690c6064d9cd4d003565/assets/css/core.css">
+    <link type="text/css" rel="stylesheet" href="//assets.static-shopcade.com/rb7a9ee543b201124f1f0690c6064d9cd4d003565/assets/css/static.css">
+        <!--[if lt IE 9]>
+    <script src="//assets.static-shopcade.com/rb7a9ee543b201124f1f0690c6064d9cd4d003565/assets/js/lib/html5shiv.min.js"></script>
     <![endif]-->
     <script>
         head.js(
             {"jquery": "//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"},
-            {"bootstrap": "//www.shopcade.com/rd1a9386d2e2b7b337703e9fcaf6411d5bba0407d/assets/js/lib/libs.min.js"}
+            {"bootstrap": "//assets.static-shopcade.com/rb7a9ee543b201124f1f0690c6064d9cd4d003565/assets/js/lib/libs.min.js"}
         );
         window['optimizely'] = window['optimizely'] || []; //Optimizely
         var full = window.location.host;
@@ -37,10 +38,17 @@
         SCUTILS = {};
 
         // Google Analytics
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
         ga('create', 'UA-21721565-2', {cookieDomain: full});ga('set', 'User Type', 'Non Member');ga('send', 'pageview');SCUTILS.trackAnalyticsEvent = function (elem, prop) {
     prop = (typeof prop === "undefined") ? "tracking" : prop;
     var tracking = $(elem).data(prop),
@@ -72,10 +80,12 @@
         }
         $(document).ready(function () {
             if (typeof gan !== "undefined") {
-                ga('send', gan);
+                //ga('send', gan);
+                SCGTM.customEvent(tracking.ga);
             }
             if (typeof gas !== "undefined") {
-                ga('send', gas);
+                //ga('send', gas);
+                SCGTM.customSocialEvent(tracking.gas);
             }
         });
     }
@@ -178,37 +188,37 @@ SCUTILS.searchWrite.elem.append(text);
 };
 };
     </script>
-            <script src="//cdn.optimizely.com/js/25062673.js"></script>
     </head>
 <body class="privacy">
-    <div class="main-wrapper">
-        <div class="navbar navbar-fixed-top">
-            <div class="header-wrapper header-top mobile-nav">
-                <a class="logo" href="/" title="Shopcade">
-                    <img src="/assets/images/shopcade-logo-1.png" alt="Shopcade Logo" title="Shopcade">
+<div class="main-wrapper">
+    <div class="navbar navbar-fixed-top">
+        <div class="header-wrapper header-top mobile-nav">
+            <a class="logo" href="/" title="Shopcade">
+                <img src="/assets/images/shopcade-logo-1.png" alt="Shopcade Logo" title="Shopcade">
+            </a>
+        </div>
+        <div class="header-wrapper header-top full-nav clearfix">
+            <div class="logo-wrapper" id="logo">
+                <a href="/" title="Shopcade">
+                    <img class="logo" src="/assets/images/shopcade-logo-1.png" alt="Shopcade Logo" title="Shopcade">
+
+                    <div id="logo-sprite" class="logo-sprite"></div>
                 </a>
             </div>
-            <div class="header-wrapper header-top full-nav clearfix">
-                <div class="logo-wrapper" id="logo">
-                    <a href="/" title="Shopcade">
-                        <img class="logo" src="/assets/images/shopcade-logo-1.png" alt="Shopcade Logo" title="Shopcade">
-                        <div id="logo-sprite" class="logo-sprite"></div>
-                    </a>
-                </div>
-                <nav class="static-nav">
-                    <a class="static-nav-link static-nav-what-is-shopcade" href="/what-is-shopcade">What is Shopcade</a>
-                    <a class="static-nav-link" href="/goodies">Mobile</a>
-                    <a class="static-nav-link static-nav-blog" href="/blog">Blog</a>
-                    <a class="static-nav-link static-nav-press" href="/press">Press</a>
-                    <a class="static-nav-link static-nav-partners" href="/partner-with-us">Partners</a>
-                    <a class="static-nav-link static-nav-team" href="/the-team">Team</a>
-                    <a class="static-nav-link static-nav-jobs" href="/jobs">Jobs</a>
-                    <a class="static-nav-link static-nav-contact" href="/contact-us">Contact us</a>
-                </nav>
-            </div>
+            <nav class="static-nav">
+                <a class="static-nav-link static-nav-what-is-shopcade" href="/what-is-shopcade">What is Shopcade</a>
+                <a class="static-nav-link" href="/goodies">Mobile</a>
+                <a class="static-nav-link static-nav-blog" href="/blog">Blog</a>
+                <a class="static-nav-link static-nav-press" href="/press">Press</a>
+                <a class="static-nav-link static-nav-partners" href="/partner-with-us">Partners</a>
+                <a class="static-nav-link static-nav-team" href="/the-team">Team</a>
+                <a class="static-nav-link static-nav-jobs" href="/jobs">Jobs</a>
+                <a class="static-nav-link static-nav-contact" href="/contact-us">Contact us</a>
+            </nav>
         </div>
-        <div id="content" class="content static-content">
-            <div class="sa-page-wrapper clearfix">
+    </div>
+    <div id="content" class="content static-content">
+        <div class="sa-page-wrapper clearfix">
     <div id="aside-panel">
         <h1 title="PRIVACY POLICY">Privacy policy</h1>
 
@@ -413,70 +423,70 @@ SCUTILS.searchWrite.elem.append(text);
         </section>
     </div>
 </div>
+    </div>
+</div>
+<div id="modal-wrapper" class="modal-wrapper">
+    <div id="scModal" class="modal hide fade" tabindex="-1">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            <h3></h3>
+        </div>
+        <div class="modal-body">
+        </div>
+        <div class="modal-footer">
         </div>
     </div>
-    <div id="modal-wrapper" class="modal-wrapper">
-        <div id="scModal" class="modal hide fade" tabindex="-1">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-              <h3></h3>
-            </div>
-            <div class="modal-body">
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
-    <!-- Host: eu1.www.shopcade.com [10.0.1.11]-->
-    <script type="text/javascript">
-        head.ready('jquery', function () {
-            SCUTILS._asynchronousStylesheets = {};
-            SCUTILS._asynchronousStylesheets.font = '//cloud.typography.com/6597292/777424/css/fonts.css';
-            SCUTILS.loadFontAsset();
+</div>
+<!-- Host: eu1.www.shopcade.com [10.0.1.11]-->
+<script type="text/javascript">
+    head.ready('jquery', function () {
+        SCUTILS._asynchronousStylesheets = {};
+        SCUTILS._asynchronousStylesheets.font = '//cloud.typography.com/6597292/777424/css/fonts.css';
+        SCUTILS.loadFontAsset();
 
-            $(document).ready(function() {
-                var videoModal = $('.static-page-video-wrapper');
+        $(document).ready(function () {
+            var videoModal = $('.static-page-video-wrapper');
 
-                if (videoModal.length) {
-                    var modal = $('.modal'),
-                        calculateModalVerticalPos = function(modal) {
-                            var winHeight = $(window).height(),
-                                modalHeight = function(){
-                                    return videoModal.height();
-                                },
-                                heightVal1 = modalHeight(),
-                                heightVal2;
+            if (videoModal.length) {
+                var modal = $('.modal'),
+                    calculateModalVerticalPos = function (modal) {
+                        var winHeight = $(window).height(),
+                            modalHeight = function () {
+                                return videoModal.height();
+                            },
+                            heightVal1 = modalHeight(),
+                            heightVal2;
 
-                            var detectHeightChange = setInterval(function() {
-                                    heightVal2 = modalHeight();
+                        var detectHeightChange = setInterval(function () {
+                            heightVal2 = modalHeight();
 
-                                if( heightVal1 === heightVal2){ // Iframe height has stabilized.
-                                    var modalMargin = (winHeight - heightVal1) / 2;
-                                    clearInterval(detectHeightChange);
-                                    videoModal.css('margin-top', modalMargin);
-                                } else {
-                                    heightVal1 = modalHeight();
-                                }
+                            if (heightVal1 === heightVal2) { // Iframe height has stabilized.
+                                var modalMargin = (winHeight - heightVal1) / 2;
+                                clearInterval(detectHeightChange);
+                                videoModal.css('margin-top', modalMargin);
+                            } else {
+                                heightVal1 = modalHeight();
+                            }
 
-                            },100);
-                        };
+                        }, 100);
+                    };
 
-                    modal.on('shown.bs.modal', function() {
-                        var that = $(this);
-                        calculateModalVerticalPos(that);
-                    }).on('hidden.bs.modal', function () { // reset video when Iframe is closed.
-                        $(this).find('iframe').attr("src", $(this).find('iframe').attr("src"));
-                    });
+                modal.on('shown.bs.modal', function () {
+                    var that = $(this);
+                    calculateModalVerticalPos(that);
+                }).on('hidden.bs.modal', function () { // reset video when Iframe is closed.
+                    $(this).find('iframe').attr("src", $(this).find('iframe').attr("src"));
+                });
 
-                    $(window).on('resize', function() {
-                       if (videoModal.is(':visible')) {
-                           calculateModalVerticalPos(modal);
-                       }
-                    });
-                }
-            });
+                $(window).on('resize', function () {
+                    if (videoModal.is(':visible')) {
+                        calculateModalVerticalPos(modal);
+                    }
+                });
+            }
         });
-    </script>
+    });
+</script>
 
 
 </body></html>
