@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliancesconnection.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216185512id_/http%3A//www.appliancesconnection.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesconnection.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413004925id_/http%3A//www.appliancesconnection.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AppliancesConnection
 
@@ -101,5 +101,5 @@ We may update this privacy policy to reflect changes to our information practice
 If you have a question that isn't answered here, please contact us and we'll be happy to answer it for you. You can e-mail us at [info@AppliancesConnection.com](mailto:info@AppliancesConnection.com), or call our Customer Service department at 1-800-299-9470. Additionally, you can mail us at the below address.
 
 AppliancesConnection.com  
-101-01 Foster Ave. Section A  
-Brooklyn, NY 11236
+1870 Bath Ave.  
+Brooklyn, NY 11214
