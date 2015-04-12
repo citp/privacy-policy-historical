@@ -1,100 +1,55 @@
-> *The following text is extracted and transformed from the coach.me privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042340id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coach.me privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412024720id_/https%3A//www.coach.me/help/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Privacy Policy 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Effective Date: December 31, 2014. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+INTRODUCTION 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+The Lift Worldwide, Inc. (“Coach.me”) websites (collectively, the “Website”), all other products and services, including mobile applications, owned, controlled or offered by Coach.me, and all content offered as part thereof, are collectively referred to herein as the “Services.” Subscribers, account holders, customers, users, and others who download, access, use, and/or subscribe to the Services (“you”) agree to the following privacy policy (the “Privacy Policy”). The Privacy Policy should serve as an accessible guide to the information we collect during your use of the Services. By using the Services, you agree to this Privacy Policy, and you represent that you are over 13 years of age. 
 
-**Information Collection and Use**
+COLLECTED INFORMATION PROVIDED BY YOU 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Coach.me requires certain pieces of personal information in order to operate as designed. Requested information for use of the Services may include, but is not limited to: e-mail address, name and self-selected habits. Some of this user-provided information is optional, but a name and an active email address are required to use any of the Services. User Content you voluntarily make public using the Services will be used as described in the section entitled “User-Submitted Content” in the Terms of Service. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+ADDITIONAL COLLECTED INFORMATION 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Coach.me will also collect non-personally identifiable information. This will typically include browser or platform type, IP address, referring site, and the date and time of each visitor request. Coach.me collects this data to best serve its users. This information will never be released to others on a personally identifiable basis, but may be released in a compiled manner. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Coach.me may also use cookies or web beacons on the Websites to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Additionally, Coach.me collects information from its mobile application users who have installed the Coach.me application in a similar manner to optimize the mobile experience. Any entries made on the mobile application will be used to optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. This information will never be released to others on a personally identifiable basis, but may be released in a compiled manner. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+USE OF COLLECTED INFORMATION 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Coach.me believes that the privacy of its users is paramount and strives to use their data only in ways outlined in this Privacy Policy. Most uses of data are for internal purposes only. Coach.me may occasionally inform users of new releases and features via any communication method you have provided to Coach.me. 
 
-**Security**
+**Third Parties:** Coach.me may engage certain service providers for additional features (i.e. hosting, etc.). Coach.me will thoroughly examine the privacy policies of partners to ensure that its users’ data is safe and taken care of responsibly. Third parties will not be able to use information in ways that are prohibited by the Coach.me Privacy Policy. However, Coach.me is not responsible for the privacy policies and/or practices of such third parties. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+**Partners:** Coach.me may partner with advertising or other partners to provide users with targeted and useful contextual advertisements or related services. These partners may set cookies which enable them to recognize your computer and compile information about you or others who use your computer. Ad networks often use this information to better target advertisements that they think will be of use to you. Coach.me’s Privacy Policy solely governs the use of information and cookies set by the Services and not by any third-party advertising partners. 
 
-**Updating Your Information**
+**Transfers:** Coach.me may share data internally with its affiliate companies and may disclose certain information in the event that it is merged, acquired, sold, or some of its assets are acquired. If, in Coach.me’s discretion, your information will be handled in a materially different manner than it was by Coach.me, you may have the opportunity to opt-out of having your information shared with any acquirer. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Law Enforcement:** Coach.me will cooperate with law enforcement and disclose any requested information if they believe, in good faith, that such disclosure is necessary to: (i) handle fraud, attacks against our systems, or security conflicts, (ii) remain in line with currently applicable state and federal laws or regulations, (iii) continue to abide by our Terms of Service, or (iv) protect the public or Coach.me from any attacks against intellectual or physical property rights. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+YOUR RESPONSIBILITY ONLINE 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Coach.me places a premium on protecting your information and uses reasonable measures including encrypted information to protect your information, but you should remain aware that any information you share online can be accessed by others. Coach.me is not responsible for the actions of those who obtain your content in this manner. Coach.me cannot guarantee your safety and security and you should be aware that submitting any information and using the Services is done at your own risk. 
 
-      iii.      You may call us at: (480) 505-8800
+MANAGING YOUR PRIVACY 
 
-       iv.      You may fax us at: (480) 505-8844
+You can correct or delete your account information on the Websites and Coach.me’s applications or by e-mail _privacy [at] coach [dot] me_ , which you may also access for further assistance and questions regarding the Privacy Policy or for a copy of your account data. If you cancel your account, Coach.me will take reasonable measures to make your account information inaccessible and will limit its access to personally identifiable data to perform what is requested by you. 
 
-**Sending Emails**
+JURISDICTION 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+All information passed through Coach.me is primarily handled in the United States but may from time to time be handled in any country in which Coach.me or its affiliate companies maintain facilities. By using the Services, you agree that the handling of your personal information and any communication through the Services, will be governed by the laws of the United States and any applicable state laws. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+CHANGES TO THE PRIVACY POLICY 
 
-**Compliance with Laws and Law Enforcement**
+Although most changes are likely to be minor, Coach.me may change its Privacy Policy from time to time, and in Coach.me’s sole discretion. Coach.me encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of the Services after any change in this Privacy Policy will constitute your acceptance of such change. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+© 2015 Lift Worldwide, Inc. 
 
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Loading...
