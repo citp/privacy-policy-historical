@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wowtrk.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726054550id_/http%3A//p.wowtrk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowtrk.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413032321id_/http%3A//p.wowtrk.com/privacy_policy) for the most accurate reproduction.*
 
 # WOW Trk Privacy Policy - WOW Trk
 
-####  Effective Date: 5th August 2012 
+####  Effective Date: 5th August 2012 | Updated: 2nd November 2014 
 
 Thank you for visiting the WOW Trk affiliate network website located at www.wowtrk.com, p.wowtrk.com and t.wowtrk.com (the "Site"). WOW Trk ("we", "us") is committed to protecting the privacy your personally identifiable information. We provide this privacy policy ("Privacy Policy") in order to explain our online information practices and the choices you can make about the way your information is used by us. You must agree to this Privacy Policy, in its entirety, including our use of cookies in order to: register an account ("Account") with the WOW Trk affiliate network ("Affiliate Network") and log-into your Account as member of the Affiliate Network. Your acceptance of both this Privacy Policy and our use of cookies on the Site shall be deemed a blanket acceptance of such Privacy Policy and cookie usage for all future attempts to log-in and access your Account. If you do not agree to this Privacy Policy in its entirety, you are not authorized to register for an Account on the Affiliate Network. 
 
@@ -98,7 +98,7 @@ For more information about cookies see the  Further Reading  link below.
 #####  We use performance cookies to...
 
   * Provide statistics on how our website is used 
-  * See how effective our adverts are (we don't use this information to target adverts to you when you visit other websites 
+  * See how effective our adverts are (we may use this for retargeting of ads on other websites) 
   * Provide feedback to partners that one of our visitors also visited their website. This can include details of any products bought. This lets our partners improve their website, but we don't allow our partners to reuse this information for further advertising 
   * Help us improve the website by measuring any errors that occur 
   * Test different designs of our website
@@ -135,10 +135,56 @@ In some cases, some of these cookies are managed for us by third parties, but we
 
 **Cookies provided by 3rd parties**
 
-  * WOW Trk does not currently employ any performance cookies provided by third parties 
+Cookie
 
+| 
 
+Host  
+  
+---|---  
+  
+AWSELB
 
+| 
+
+.prfct.co  
+  
+pa_fbx_ts
+
+| 
+
+.prfct.co  
+  
+pa_uid
+
+| 
+
+.prfct.co  
+  
+anj
+
+| 
+
+.adnxs.com  
+  
+icu
+
+| 
+
+.adnxs.com  
+  
+sess
+
+| 
+
+.adnxs.com  
+  
+uuid2
+
+| 
+
+.adnxs.com  
+  
 ####  _Functionality_
 
 'Functionality' cookies are used to provide services or to remember settings to improve your visit. 
@@ -171,5 +217,8 @@ Some of these cookies are managed for us by third parties - where this is the ca
   * swidth 
   * civicAllowCookies 
   * __cfduid 
+  * __zlcid 
+  * __zprivacy 
+  * disqus_unique 
 
 
