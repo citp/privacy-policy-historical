@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharelive.net privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103183452id_/http%3A//www.sharelive.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharelive.net privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413224753id_/http%3A//sharelive.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | iLivid.com
 
