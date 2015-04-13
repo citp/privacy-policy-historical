@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecloud.io privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206175645id_/http%3A//filecloud.io/misc-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecloud.io privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414014417id_/https%3A//filecloud.io/misc-privacy.html) for the most accurate reproduction.*
 
 # privacy policy - filecloud.io
 
