@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techguide.com.au privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204120530id_/http%3A//www.techguide.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techguide.com.au privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414012036id_/http%3A//www.techguide.com.au/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tech Guide
 
 This privacy policy sets out how Tech Guide uses and protects any information that you give Tech Guide when you use this website.
 
@@ -36,7 +36,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -53,12 +53,14 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@techguide.com.au](mailto:info@techguide.com.au).
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@techguide.com.au.
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy66551%20=%20'info'%20+%20'@';%20addy66551%20=%20addy66551%20+%20'techguide'%20+%20'.'%20+%20'com'%20+%20'.'%20+%20'au';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy66551%20+%20'\\'%3E'\);%20document.write\(addy66551\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[info@techguide.com.au](mailto:info@techguide.com.au).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at [info@techguide.com.au.](mailto:info@techguide.com.au.)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.{jacomment off}
+
+## You might also be interested in
