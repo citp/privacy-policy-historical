@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openinviter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082323id_/http%3A//openinviter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openinviter.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413032359id_/http%3A//openinviter.com/privacy.php) for the most accurate reproduction.*
 
-# OpenInviter - Free Contacts importer integration with CMS like Boonex Dolphin, Joomla1.0, joovili and many more
+# Open Inviter - Free Import contacts from social networking sites like Tagged, Vkontakte, Meinvz and many more
 
 |  |   
   
