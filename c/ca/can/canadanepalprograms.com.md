@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadanepalprograms.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011234522id_/http%3A//www.canadanepalprograms.com/2014/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadanepalprograms.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413034051id_/http%3A//www.canadanepalprograms.com/2014/02/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Video
 
