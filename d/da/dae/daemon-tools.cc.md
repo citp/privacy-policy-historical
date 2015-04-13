@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daemon-tools.cc privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204114434id_/http%3A//www.daemon-tools.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daemon-tools.cc privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413235655id_/http%3A//www.daemon-tools.cc/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - DAEMON-Tools.cc :: DAEMON-Tools.cc
+# Privacy Policy - DAEMON-Tools.cc - DAEMON-Tools.cc
 
 At Disc Soft, your security and privacy is of the utmost importance to us. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, and store your information. Please [let us know](https://web.archive.org/contacts) if you have any questions.
 
