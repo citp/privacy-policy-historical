@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertisingweek.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202020931id_/http%3A//www.advertisingweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertisingweek.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413043339id_/http%3A//www.advertisingweek.com/privacy) for the most accurate reproduction.*
 
 # Advertising Week 2014 - New York [ Sep 29 - Oct 3 ] / Privacy Policy
 
