@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the icanvas.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124152116id_/http%3A//www.icanvas.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanvas.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414014044id_/http%3A//www.icanvas.com/privacypolicy.html) for the most accurate reproduction.*
 
-# iCanvas Privacy Policy Information
+# icanvas.com
 
-iCanvas Inc.
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+
+iCanvasART Inc.
 
 Our Commitment To Your Privacy
 
@@ -18,7 +20,5 @@ How That Information Is Used:
 
 Information is used for the purchase transaction only and will not be given out to any other business. 
 
-[View our beautiful photograph pop art and reproduction art pieces by clicking this link](https://web.archive.org/web/20141124152116id_/http%3A//www.icanvas.com/allcanvasart.html)   
+[View our beautiful photograph pop art and reproduction art pieces by clicking this link](http://www.icanvasart.com/allcanvasart.html)   
  
-
-[](http://www.icanvas.com/)
