@@ -1,23 +1,29 @@
-> *The following text is extracted and transformed from the lintasblog.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420051210id_/http%3A//lintasblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lintasblog.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413042743id_/http%3A//www.lintasblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy « lintasblog.com
+# Privacy Policy
 
-lintasblog.com respect and protect the privacy of every individual who uses lintasblog.com. Individually identifiable information about you is not handed over to third parties without your permission first, as described in this privacy policy (“Privacy Policy”) is.
+Thank you for visiting our website. This privacy policy tells you how we use personal information collected at this website. Please read this privacy policy before using the website or submitting any personal information. By using the website, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to keep track of the policy changes and make sure that you understand how any personal information you provide will be used. 
 
-lintasblog.com and Cookies  
-In your visit to lintasblog.com, lintasblog.com sends a “cookie” to your computer. A cookie is a collection of data that identifies you as an individual user. lintasblog.com use cookies to improve the quality of our service and to better understand our user base. lintasblog.com does this by storing the user’s choice in a cookie and monitor user trends and search patterns. lintasblog.com will not disclose its cookies to third parties except when it is except if required in legal proceedings such as search warrant, subpoena, statute, or court order.
+Note: the privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy policies posted at those websites. 
 
-Most browsers have settings to accept cookies. You can change your browser to refuse all cookies or to indicate when a cookie is sent. Please note, some parts of the Service Locator lintasblog.com will not work properly if you refuse cookies.
+## Collection of Information
 
-What Information Do We Collect?  
-lintasblog.com not collect specific information on yourself (such as your name, e-mail address, etc..) Unless you, the knowledge and to your satisfaction, providing such information. lintasblog.com record and store information such as time, browser type, browser language, and IP address. That information is used to verify our records and to provide more relevant services to users.
+We collect personally identifiable information, like names, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill your specific request and to sign you up for our service mailing list, unless you give us permission to use it in other manners. 
 
-Identity Data Information Sharing  
-lintasblog.com may share personal data to other companies or individuals in the following limited circ-mstances:  
-If we have your permission to do that. The same information is owned by a company or entity believed the purpose of processing personally identifying information on our behalf. This is a subject that requires parties to process information only upon our request appropriate confidentiality. We will not disclose your account information to other people or are not members of the company, except in the limited circ-mstances described in this Policy or with your consent. If the legislation that we believe is well that such action is necessary to comply with current court, criminal checks, court orders, or legal process served on our Web site.
+## Cookie/Tracking Technology
 
-We may share personal information if we believe it is necessary to investigate, prevent, or taking action that sees illegal activities, suspected fraud, situations may require a threat to the physical safety of any person, violations of terms of use, or otherwise required by law legislation.
+This website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the website, and understanding how visitors use the website. Cookies can also help customize the website for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. 
 
-Third party service providers may require information about the ad serving and email on our behalf. These companies may use technologies to measure the effectiveness of ads and emails received shall be used to improve the service to the user. For this we will also provide information nameless for the sake of improved services.
+## Distribution of Information
 
-We may store and process personal information collected on our website or from other agents working on web maintenance services. We may share general information with partners or other parties without containing the personal data that could be used to contact or identify you personally. Rights of Common: We have the right to move any existing data to our designated company and we believe it to store information and assets lintasblog.com. We reserve the right to change it at all or revise this Privacy Policy at any time. 
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
+
+## Commitment to Data Security
+
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this website allow you to opt out of further mailings. 
+
+## Privacy Contact Information
+
+If you have any questions, concerns, or comments about our privacy policy you may contact us using means provided on this website. 
+
+We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
