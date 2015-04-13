@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the designshuffle.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108023148id_/http%3A//www.designshuffle.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designshuffle.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413233708id_/http%3A//www.designshuffle.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Design Shuffle Blog
+# Privacy Policy « Brandingly's blog
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.designshuffle.com%2Fblog%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
 
 Revision date: July 29, 2010
 
