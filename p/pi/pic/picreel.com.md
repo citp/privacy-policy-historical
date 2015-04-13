@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picreel.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131605id_/http%3A//www.picreel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picreel.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413025534id_/https%3A//www.picreel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Picreel.com
 
@@ -27,7 +27,7 @@ Because your security is our primary concern, personal information are not sold,
 
 Policy Toward Children
 
-In compliance with the Children Online Privacy Protection Act or COPPA any personal information from 13 years old individuals and below are not collected nor stored. We also proclaim that our products and/or services are for ages 13 years and above.
+In compliance with the Children Online Privacy Protection Act or COPPA any personal information from 13 years old individuals and below are not collected nor stored. We also proclaim that our products and/or services are for ages 13 years and above. 
 
 Refund Policy
 
@@ -39,7 +39,7 @@ Kindly visit our Terms and Conditions tab which establishes the use, disclaimers
 
 Agreement
 
-By using Picreel, you agreed to be covered by our privacy policy.
+By using Picreel, you agreed to be covered by our privacy policy. 
 
 Changes of Privacy Policy
 
