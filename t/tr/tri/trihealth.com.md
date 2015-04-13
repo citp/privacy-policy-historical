@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trihealth.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125011859id_/http%3A//www.trihealth.com/discover-trihealth/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trihealth.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413135339id_/http%3A//www.trihealth.com/discover-trihealth/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | TriHealth
 
