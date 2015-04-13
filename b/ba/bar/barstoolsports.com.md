@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barstoolsports.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215528id_/http%3A//boston.barstoolsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barstoolsports.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413094026id_/http%3A//www.barstoolsports.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy Barstool Sports: Boston
+# Barstool Sports
 
 The BarstoolSports Privacy Policy describes how BarstoolSports and its subsidiaries treat personal information when you use BarstoolSports services, including information provided when you use BarstoolSports.
 
