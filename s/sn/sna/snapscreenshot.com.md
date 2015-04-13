@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the snapscreenshot.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020062356id_/http%3A//snapscreenshot.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapscreenshot.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413072709id_/http%3A//www.snapscreenshot.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+© 2015 Erasmus, LTD.
 
 We may collect personal information that can identify you, such as your name and email address. This information is only collected on the contact us form of our site and will only be used for the purpose of responding to your inquiry.
 
