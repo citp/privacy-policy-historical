@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrume.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217061246id_/http%3A//myrume.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrume.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414014420id_/http%3A//myrume.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,16 +13,16 @@ Once you reach the buy page your computer will begin communicating with our serv
 
 
 
-Only browsers that use the 256-bit Secure Socket Layer protocol are able to order through the RuMe Bags website. If your browser does not support SSL, you can get an upgrade at Microsoft's or Netscape's home page.
+Only browsers that use the 256-bit Secure Socket Layer protocol are able to order through the RuMe website. If your browser does not support SSL, you can get an upgrade at Microsoft's or Netscape's home page.
 
 **INFORMATION COLLECTION & USE** ****
 
 **Registration**  
-MyRume.com has a guest checkout process, and doesn't require the completion of a registration form. Though you can register during checkout or at any time while shopping, we strongly encourage you to first complete the registration form [and/or create a user name and password]. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services and products on our site in which you have expressed interest.
+MyRuMe.com has a guest checkout process, and doesn't require the completion of a registration form. Though you can register during checkout or at any time while shopping, we strongly encourage you to first complete the registration form [and/or create a user name and password]. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services and products on our site in which you have expressed interest.
 
 If you request our newsletter during registration, you will receive an email asking to verify your request.
 
-RuMe Bags, Inc. is the sole owner of the information collected on myrume.myshopify.com. RuMe collects personally identifiable information from our users at several different points on our Web site.
+RuMe, Inc. is the sole owner of the information collected on MyRuMe.com. RuMe collects personally identifiable information from our users at several different points on our Web site.
 
 **Orders**  
 If you purchase a product from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We do not accept orders from persons less than 16 years of age.
@@ -62,7 +62,7 @@ We reserve the right to disclose your personally identifiable information as req
 **Choice/Opt-out**  
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@MyRume.com](mailto:info@rumebags.com). We offer an opportunity to opt-out of certain communications on our [](https://www.rumebags.com/account.php)[My Account](http://myrume.myshopify.com/account) pages, or you may [](http://www.rumebags.com/contact_us.php)[contact us](http://myrume.myshopify.com/pages/contact-us) at (303) 799-4256 or RuMe Bags Inc, 7022 S. Revere Parkway, Suite 240, Centennial, CO 80112 to opt-out.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@MyRume.com](mailto:info@rumebags.com). We offer an opportunity to opt-out of certain communications on our [My Account](http://myrume.myshopify.com/account) pages, or you may [contact us](http://myrume.myshopify.com/pages/contact-us) at 866-921-0475 or RuMe, Inc 7042 S. Revere Parkway, Suite 470, Centennial, CO 80112 to opt-out.
 
 **Log Files**  
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
@@ -78,12 +78,12 @@ We use both session ID cookies and persistent cookies. A session ID cookie expir
 
 We set a persistent cookie to link your shopping cart to you. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-If you reject cookies, you may still use our site, but you will not be able to place or review orders on the Site. Please [](http://www.rumebags.com/contact_us.php)[contact us](http://myrume.myshopify.com/pages/contact-us) at 303-799-4256 to place an order.
+If you reject cookies, you may still use our site, but you will not be able to place or review orders on the Site. Please [contact us](http://myrume.myshopify.com/pages/contact-us) at 866-921-0475 to place an order.
 
 This privacy statement covers the use of cookies by MyRume.com
 
 **Access to Personally Identifiable Information**  
-If your personally identifiable information changes, you may correct or update it by making the change on our [](https://www.rumebags.com/account.php)[My Account](http://myrume.myshopify.com/account) pages or by emailing our Customer Support at [support@MyRume.com](mailto:support@rumebags.com) or by [](http://www.rumebags.com/contact_us.php)[contacting us](http://myrume.myshopify.com/pages/contact-us) at (303) 799-4256 or RuMe Bags, Inc., Privacy Department, 7042 S. Revere Parkway, Suite 470, Centennial, CO 80112.
+If your personally identifiable information changes, you may correct or update it by making the change on our [My Account](http://myrume.myshopify.com/account) pages or by emailing our Customer Support at [info@MyRume.com](mailto:info@myrume.com) or by [contacting us](http://myrume.myshopify.com/pages/contact-us) at (303) 799-4256 or RuMe, Inc., Privacy Department, 7042 S. Revere Parkway, Suite 470, Centennial, CO 80112.
 
 **Security**  
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
@@ -91,7 +91,7 @@ The security of your personal information is important to us. When you enter sen
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 **Business Transitions**  
-In the event RuMe Bags goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. The buyer of RuMe’s assets will be obligated to use your personally identifiable information in accordance with this Privacy Policy, unless they receive consent from you to use it in a different way.  RuMe will not sell its customer information separately from a change of ownership or control of its business or a particular business unit to which the information relates.  You will be notified via email of any such change in ownership or control of your personal information.
+In the event RuMe, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. The buyer of RuMe’s assets will be obligated to use your personally identifiable information in accordance with this Privacy Policy, unless they receive consent from you to use it in a different way.  RuMe will not sell its customer information separately from a change of ownership or control of its business or a particular business unit to which the information relates.  You will be notified via email of any such change in ownership or control of your personal information.
 
 **Changes in this Privacy Statement**  
 By using our Web site or purchasing a product from us, you agree to the collection and use of information as set forth in this privacy policy. If we decide to change our privacy policy, we will post those changes to this privacy statement so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
@@ -99,4 +99,4 @@ By using our Web site or purchasing a product from us, you agree to the collecti
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 [](http://www.rumebags.com/contact_us.php)[Contact Us](http://myrume.myshopify.com/pages/contact-us)  
-If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@MyRume.com](mailto:info@rumebags.com) or by contacting us at (303) 799-4256 or RuMe Bags, Inc., Privacy Department, 7042 S. Revere Parkway, Suite 470, Centennial, CO 80112
+If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@MyRume.com](mailto:info@rumebags.com) or by contacting us at 866-921-0475 or RuMe, Inc., Privacy Department, 7042 S. Revere Parkway, Suite 470, Centennial, CO 80112
