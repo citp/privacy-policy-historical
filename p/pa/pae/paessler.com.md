@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027221145id_/http%3A//www3.paessler.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413042100id_/http%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Paessler AG's Privacy Policy
 
@@ -101,6 +101,10 @@ When ordering via invoice we reserve the right to a credit assessment to ensure 
 
 Should your payment be delayed we reserve the right to provide personal data to a debt collection company or, alternatively, a legal chancellery appointed by us. Your legally protected interests are accounted for according to any legal stipulations that may apply.
 
-### Mobile Apps
+### Software Updates
 
-We may collect statistics about the actual usage of our mobile apps. This can give us valuable information to constantly improve on our products. The collected information will be used in anonymized form only.
+Software products from Paessler AG connect periodically to Paessler AG servers, to automatically check for new versions and/or important security updates of the software.  As part of this connection, information about the PRTG installation (for example, the number of sensors in use) will be transferred to Paessler AG. This information is stored by Paessler AG, and is used to optimize the delivery of software updates, for example, as well as for statistical analysis.
+
+### Usage Statistics
+
+We may collect statistics about the actual usage of our software products and mobile apps. This can give us valuable information to constantly improve on our products. The collected information will be used in anonymized form only.
