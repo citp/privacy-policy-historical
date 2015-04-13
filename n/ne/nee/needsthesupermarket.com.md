@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the needsthesupermarket.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224105050id_/http%3A//www.needsthesupermarket.com/content/5-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needsthesupermarket.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413094043id_/http%3A//www.needsthesupermarket.com/content/5-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Needsforu
+# Privacy Policy
 
-Privacy Policy
+**Privacy Policy**
 
 At needsthesupermarket.com, we promise to secure your personal information you share with us in good faith. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information. By shopping at needsthesupermarket.com, you are accepting the practices described in this Privacy Policy. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. Your use of needsthesupermarket.com means that you accept the practices described in this Privacy and Security Policy as changed from time to time.
 
