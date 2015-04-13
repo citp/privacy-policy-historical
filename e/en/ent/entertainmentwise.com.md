@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110759id_/http%3A//www.entertainmentwise.com/info/69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413053624id_/http%3A//www.entertainmentwise.com/info/69) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,4 +41,4 @@ We reserve the right, at any time, to modify, alter, or update this Privacy Poli
 
 Any site that you may connect to from here is not covered by this Privacy Policy.
 
-[comments powered by ](http://disqus.com/)
+ 
