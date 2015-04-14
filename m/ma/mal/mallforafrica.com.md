@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mallforafrica.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330183551id_/https%3A//www.mallforafrica.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallforafrica.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414163555id_/https%3A//www.mallforafrica.com/privacy_policy) for the most accurate reproduction.*
 
-# Online Shopping Africa Nigeria,Fashion Clothes Shopping,Electronics,Computers,Buy Luxury Lifestyle Items Online
+# Privacy Policy
 
 Our privacy policy is very simple. All information you provide to us is not shared with anyone except our group of companies operated or partnered with TechMindSoft LLC. We do not give out any of your personal information or sell any of your personal information to anyone outside of our business operations. Your purchases, your balances, everything you provide us is secure and NEVER shared with anyone. So shop without concern that your information may be shared. Your privacy is our main goal and we take pride in our customer's privacy.
 
@@ -18,7 +18,7 @@ We do not knowingly collect personal information from anyone under the age of 18
 
 ### **Information Collected**
 
-  Visitors may view products offered for sale on MallForAfrica.com however, you must be 18 years of age or older and have a registered/activated MallForAfrica WebCard loaded with the appropriate funds, a FirstBank NetSafe Internet Credit Card or GT Bank Credit Card in order to make a purchase on the MallForAfrica website.
+Visitors may view products offered for sale on MallForAfrica.com however, you must be 18 years of age or older and have a registered/activated MallForAfrica WebCard loaded with the appropriate funds, a FirstBank NetSafe Internet Credit Card or GT Bank Credit Card in order to make a purchase on the MallForAfrica website.
 
 ### Making a Purchase
 
