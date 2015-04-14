@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the on.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121111723id_/http%3A//www.internode.on.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on.net privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414145554id_/http%3A//www.internode.on.net/privacy) for the most accurate reproduction.*
 
 # Internode :: About :: Legal :: Privacy Statement
 
@@ -12,7 +12,7 @@ If you don’t provide all or part of the personal information we require, we ma
 
 ### How we may collect your personal information
 
-Internode usually collects personal information about you directly. For example, we collect personal information when you provide information to us by phone or email, or when you enter your personal details on our websites.
+Internode usually collects personal information about you directly. For example, we collect personal information when you provide information to us by phone, email or social media, or when you enter your personal details on our websites.
 
 We may also collect information about you indirectly, including from:
 
@@ -60,7 +60,7 @@ We may need to share your personal information to organisations outside Internod
   * specialist contractors for the purposes of research and development;
   * other communication companies, for specific marketing campaigns;
   * our professional advisers, including our accountants, auditors and lawyers;
-  * other telecommunications and information service providers, for example, for billing purposes;
+  * other telecommunications and information service providers, for example, for billing purposes and telephone directories (unless you request a silent number);
   * your authorised representative or contact person in the manner you have agreed to;
   * your legal advisers, if requested by you to do so;
   * a duly authorised government, regulatory authority or other organisation such as the TIO, when we are required or specifically permitted by law to do so (for example, to the operator of the IPND, which supplies information for telephone directories) or to resolve customer complaints or disputes;
@@ -69,15 +69,26 @@ We may need to share your personal information to organisations outside Internod
 
 
 
-There are some circumstances where Internode may provide your personal information to an organisation located outside of Australia. These organisations work with us to provide professional services in software development, systems and technical support, data storage, marketing and product development. The countries these organisations are based in include: Singapore, the United Kingdom, the United States of America, China and Indonesia. We ensure that these companies take the security and confidentiality of your personal information as seriously as we do.
+There are some circumstances where Internode may provide your personal information to an organisation located outside of Australia. These organisations work with us to provide professional services in software development, systems and technical support, data storage, marketing and product development. The countries these organisations are based in include: Singapore, the United Kingdom, the United States of America, China, Indonesia, the Netherlands, and the Czech Republic. We ensure that these companies take the security and confidentiality of your personal information as seriously as we do.
 
 ### How we hold your personal information
 
 We keep customer information on controlled systems, which are secure against unauthorised access. Proof of identity is always required before personal information is disclosed to any person, including the specific customer. We take particular care with credit card details, which are not stored unencrypted in Internode systems.
 
-### Our websites
+### Our Websites, Cookies & Online Advertising
 
-We may also collect information about visits to our websites for marketing and statistical purposes to improve the way we interact with you. We may use cookies or other similar technology for these purposes. You can usually remove or block cookies (by using the settings in your browser), but it may affect your ability to use the website.
+We may also collect data about visits to our websites for marketing and statistical purposes to improve the way we interact with you. We may use cookies (small files that are stored in your web browser) or other similar technology for these purposes. Some examples of cookies that we use or collect are:
+
+  * Web Analytics Cookies - to understand anonymous and aggregated website behaviour such as how many visitors are using our websites, length of visit, where visitors are navigating, and what pages have been visited.
+  * Online Advertising Cookies - to ensure our online advertising is more relevant to you and keep you from repeatedly seeing the same advertising from us.
+
+
+
+The data collected from cookies (or similar technology) our Websites use is anonymous and is not matched to any identified individual. You can usually remove or block cookies and opt-out of interest based tracking by using the settings in your web browser application or mobile device, however it may affect your ability to use the website.
+
+Our Websites use Google Analytics Advertising Features (including Remarking and Impression Reporting). These features make use of cookies and similar technology. In addition to making the advertisements you see interest based, these features also allow our advertisements to be displayed to you when you are visiting other websites on the Google Display Network. Our use of these features does not result in Google or any other third party obtaining any of your personal information.
+
+The [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) can be used to make sure your data isn't being captured by Google Analytics, and you can also [opt-out from interest based advertising when using Google products](https://support.google.com/ads/answer/2662922?hl=en-AU). If you opt out you will still see advertising when using Google products but it will not be interest based advertising. ****
 
 ### How to access & correct your personal information
 
@@ -91,4 +102,4 @@ Please [contact us](https://web.archive.org/contact/) if you wish to access or c
 
 If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/contact/) by calling support on 13 66 33 or email [support@internode.com.au](mailto:support@internode.com.au). Any privacy complaints will be handled in accordance with our [complaint process](https://web.archive.org/about/legal/complaints_handling/).
 
-Date: 11 March 2014
+Date: 20 February 2015
