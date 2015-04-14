@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukflooringdirect.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021111id_/http%3A//www.ukflooringdirect.co.uk/info/privacy_and_cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukflooringdirect.co.uk privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414223119id_/http%3A//www.ukflooringdirect.co.uk/info/privacy_and_cookies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | UK Flooring Direct
 
