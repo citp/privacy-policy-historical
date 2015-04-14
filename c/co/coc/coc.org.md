@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coc.org privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723193239id_/https%3A//www.coc.org/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coc.org privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414053544id_/https%3A//www.coc.org/legal-privacy) for the most accurate reproduction.*
 
 # Legal and Privacy Policy | COC
 
