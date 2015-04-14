@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224215356id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414093608id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
 
 # Toyota Privacy Policy
 
@@ -183,7 +183,7 @@ Toyota Finance aims to provide our customers with the best possible products and
 
 We also want our customers to have confidence that in handling personal information and credit information, we afford the information an appropriate level of privacy, consistent with the Australian privacy laws.
 
-[TOYOTA FINANCE PRIVACY POLICY](https://web.archive.org/web/20141224215356id_/http%3A//www.toyota.com.au/static/pdfs/toyota-finance-privacy-policy.pdf)
+[TOYOTA FINANCE PRIVACY POLICY](https://web.archive.org/web/20150414093608id_/http%3A//www.toyota.com.au/static/pdfs/toyota-finance-privacy-policy.pdf)
 
 Back to the top
 
@@ -505,7 +505,7 @@ Back to the top
 
 Toyota Insurance was underwritten by Andia up until 31 December 2013. However, due to an internal re-organisation, Adica will be the new Australian operated and regulated insurer of all Toyota Insurance products from 1 January 2014. As both Andia and Adica collect, hold, use and disclose your personal information, this privacy policy relates to both of them.
 
-[Toyota Insurance Privacy Policy](https://web.archive.org/web/20141224215356id_/http%3A//www.toyota.com.au/static/pdfs/toyota-insurance-privacy-policy.pdf)
+[Toyota Insurance Privacy Policy](https://web.archive.org/web/20150414093608id_/http%3A//www.toyota.com.au/static/pdfs/toyota-insurance-privacy-policy.pdf)
 
 Back to the top
 
@@ -628,9 +628,9 @@ Back to the top
 
 ### Revision of this privacy policy
 
-This privacy policy is also available on our website at [toyotainsurance.com.au](https://web.archive.org/web/20141224215356id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
+This privacy policy is also available on our website at [toyotainsurance.com.au](https://web.archive.org/web/20150414093608id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
 
-We reserve the right to revise our privacy policy or any part of it from time to time. Please review this privacy policy periodically for changes. If we make material changes to our privacy policy, we will notify you in writing or by putting a notice on our website homepage [toyotainsurance.com.au](https://web.archive.org/web/20141224215356id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
+We reserve the right to revise our privacy policy or any part of it from time to time. Please review this privacy policy periodically for changes. If we make material changes to our privacy policy, we will notify you in writing or by putting a notice on our website homepage [toyotainsurance.com.au](https://web.archive.org/web/20150414093608id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
 
 Your continued use of our websites, products or services, requesting our assistance, applying for or renewal of any of our products and/or services or the providing of further personal or sensitive information to us after our privacy policy has been revised constitutes your acceptance of the revised privacy policy.
 
