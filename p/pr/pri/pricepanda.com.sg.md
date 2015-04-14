@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricepanda.com.sg privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225312id_/http%3A//www.pricepanda.com.sg/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricepanda.com.sg privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415002037id_/http%3A//www.pricepanda.com.sg/our-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
