@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mini--games.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205093723id_/http%3A//mini--games.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mini--games.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414080101id_/http%3A//mini--games.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy - mini Games
 
 ad-468x60.gif 
-
-## Privacy Policy
 
 We respect the privacy of of all internet users. 
 
