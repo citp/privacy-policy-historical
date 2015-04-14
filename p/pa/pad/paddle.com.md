@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paddle.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328025753id_/https%3A//www.paddle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddle.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414223815id_/https%3A//www.paddle.com/privacy) for the most accurate reproduction.*
 
 # Paddle - Privacy
 
@@ -8,7 +8,7 @@ Personal information is any information that can be used to identify or contact 
 
 You may be asked to provide your personal information anytime you are in contact with Paddle. Paddle may share this personal information internally and use it in consistency with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content and advertising.
 
- **Below, are some examples of when Paddle may collect personal information:**
+**Below, are some examples of when Paddle may collect personal information:**
 
   * Upon signup to the Paddle site.
   * During the checkout, payment or billing process.
@@ -16,7 +16,7 @@ You may be asked to provide your personal information anytime you are in contact
 
 
 
- **How we use your personal information:**
+**How we use your personal information:**
 
   * The information we collect allows us to keep you informed of on Paddle's latest product annoucements, updates and changes. It also helps us improve our overall service, content and advertising.
   * We also use personal information to help us develop, deliver and improve our products, services, content and advertising.
@@ -27,8 +27,7 @@ You may be asked to provide your personal information anytime you are in contact
 
 **Non-Personal Information**
 
-We also collect non-personal information. This is information that is not directly associated with any specific indevidual. We may collect, use, transfer, and disclose non-personal information for any purpose. We have included some examples of non-personal information below:  
-
+We also collect non-personal information. This is information that is not directly associated with any specific indevidual. We may collect, use, transfer, and disclose non-personal information for any purpose. We have included some examples of non-personal information below:
 
   * We may collection such information as language, postal code, local currency and time zone. This data is used so that we can better understand customer behaviour and improve our products, services and advertising.
   * We also may collect information, statistics and data about customer activites on our website, apps and services. This data is used to help us better understand which parts of our site are of most interest.
