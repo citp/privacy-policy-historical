@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geox.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214040417id_/http%3A//www.geox.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geox.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414035442id_/http%3A//www.geox.com/on/demandware.store/Sites-geox-Site/default/CustomerService-Show%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Customer Service | Privacy Policy | Geox
 
@@ -22,7 +22,7 @@ The above mentioned processors have been chosen by TLG and Geox because of their
 
 Aside from the companies appointed for personal data processing, your information will be made available also to third parties, autonomous controllers, for purposes related to supplying services requested by user (for example, for purchase transactions). For more information on the matter, see section 5 (To Whom Your Personal Data Will Be Disclosed).
 
-Please contact our [Customer Service](http://www.geox.com/on/demandware.store/Sites-Geox-EU-Site/default/CustomerService-Show) or send us an e-mail at [support@contact.geox.com](mailto:support@contact.geox.com), in order to receive a full list of data processors.
+Please contact our [Customer Service](http://www.geox.com/on/demandware.store/Sites-geox-Site/default/CustomerService-Show) or send us an e-mail at [support@contact.geox.com](mailto:support@contact.geox.com), in order to receive a full list of data processors.
 
 ### 3\. How We Use Personal Data and for What Purposes
 
