@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naijamayor.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125173432id_/http%3A//naijamayor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijamayor.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414052719id_/http%3A//www.nigeriaentertainment.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NIGERIA ENTERTAINMENT | Top Nigeria Entertainment Site
+# Privacy Policy | NIGERIA ENTERTAINMENT
 
 It is our policy to respect the privacy of the people who access and use our network of websites, including the site you linked from (the “Site”) and the services we provide to you on the Site (Naijamayor.com).  This Privacy Policy applies to information that you provide to us through the Site and our Services, and when you access, download or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site.
 
@@ -23,7 +23,7 @@ We may contract with third-party service providers to assist us in better unders
 
 **Childrens Online Privacy Protection**
 
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [mayorbosspromo@gmail.com](https://web.archive.org/web/20141125173432id_/http://naijamayor.com/privacy-policy/mayorbosspromo@gmail.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [mayorbosspromo@gmail.com](https://web.archive.org/web/20150414052719id_/http://www.nigeriaentertainment.io/privacy-policy/mayorbosspromo@gmail.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
 
