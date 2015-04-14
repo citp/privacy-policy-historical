@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928234553id_/http%3A//www.holidaycars.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414060739id_/http%3A//www.holidaycars.com/en/privacy-policy) for the most accurate reproduction.*
 
 # HolidayCars.com® Car Rental » Compare all rental cars
 
