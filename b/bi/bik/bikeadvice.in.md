@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeadvice.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000732id_/http%3A//bikeadvice.in/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeadvice.in privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415003057id_/http%3A//bikeadvice.in/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
