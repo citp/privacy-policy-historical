@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kreditor.se privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029172613id_/http%3A//cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kreditor.se privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414135313id_/http%3A//cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions
 
