@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the crumbel.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021732id_/http%3A//crumbel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crumbel.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414040407id_/http%3A//crumbel.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crumbel
 
 ## At Crumbel, we take privacy concerns very seriously.
 
-**NOTE: If you want a search result removed, use our[result removal page.](http://crumbel.com/remove)**
+**NOTE: If you want a search result removed, use our[result removal page.](http://crumbel.net/remove)**
 
-Your right to privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on the http://crumbel.com/ website, or it's affiliate websites. On some pages, you can request services and register to receive materials. The types of personal information collected at these pages are:
+Your right to privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on the http://crumbel.net/ website, or it's affiliate websites. On some pages, you can request services and register to receive materials. The types of personal information collected at these pages are:
 
   * Name
   * Address
@@ -30,4 +30,4 @@ Finally, we never use or share the personally identifiable information provided 
 
 Should you have other questions or concerns about these privacy policies, please send us an email at [info@crumbel.com](mailto:%20info@crumbel.com).
 
-**NOTE: If you want a search result removed, use our[result removal page.](http://crumbel.com/remove)**
+**NOTE: If you want a search result removed, use our[result removal page.](http://crumbel.net/remove)**
