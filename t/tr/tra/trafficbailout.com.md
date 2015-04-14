@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trafficbailout.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044755id_/http%3A//www.trafficbailout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficbailout.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414233152id_/http%3A//trafficbailout.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Bailout
 
-[](http://trafficbailout.com/banclick.php?code=82161242827b703e6acf9c726942a1e4)  
+[](http://trafficbailout.com/banclick.php?code=81930c54e08b6d26d9638dd2e4656dc1)  
 
 
 Traffic Bailout Privacy Policy
@@ -36,7 +36,7 @@ Links: This web site contains links to other web sites. Please note that when yo
 
   
   
-Copyright (c) 2014 Traffic Bailout All Rights Reserved - Part of the [Trax Web](http://www.traxhelpdesk.com/sites/)
+Copyright (c) 2015 Traffic Bailout All Rights Reserved - Part of the [Trax Web](http://www.traxhelpdesk.com/sites/)
 
 [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php)
 
