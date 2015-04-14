@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadxtreme.ph privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104347id_/http%3A//www.loadxtreme.ph/new/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadxtreme.ph privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414051627id_/http%3A//www.loadxtreme.ph/new/legal/privacy.html) for the most accurate reproduction.*
 
 # LoadXtreme - Privacy Policy
 
