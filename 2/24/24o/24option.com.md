@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24option.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816151745id_/https%3A//www.24option.com/privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24option.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414020242id_/https%3A//www.24option.com/privacyandsecurity) for the most accurate reproduction.*
 
 # Security and privacy measured taken seriously at 24option
 
