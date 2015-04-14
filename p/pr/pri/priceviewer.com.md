@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceviewer.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701085053id_/http%3A//www.priceviewer.com/privacy/page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceviewer.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415002653id_/http%3A//www.priceviewer.com/privacy/page) for the most accurate reproduction.*
 
 # PriceViewer
 
@@ -20,10 +20,12 @@ When visiting PriceViewer.com, the IP address used to access the site will be lo
 
 ## Links to third party Websites
 
+CERTAIN CONTENT THAT APPEARS IN THIS SITE COMES FROM AMAZON SERVICES LLC, COMMISSION JUNCTION INC., LINKSHARE CORPORATION AND EBAY PARTNER NETWORK. THIS CONTENT IS PROVIDED 'AS IS' AND IS SUBJECT TO CHANGE OR REMOVAL AT ANY TIME. PriceViewer.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com and myhabit.com.
+
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
 ## Changes to this Privacy Statement
 
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of PriceViewer.com then you may contact us at support@priceviewer.com 
+If you have any questions regarding the privacy policy of PriceViewer.com then you may contact us at support@priceviewer.com
