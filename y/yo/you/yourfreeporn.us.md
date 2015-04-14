@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yourfreeporn.us privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629192734id_/http%3A//www.yourfreeporn.us/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfreeporn.us privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414022631id_/http%3A//www.yourfreeporn.tv/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - yourfreeporn.us
-
-**PLEASE NOTE TO REPORT A VIDEO YOU MUST USE THE FEEDBACK PAGE OR THE DIRECTIONS ON THE DCMA PAGE. NO OTHER MEANS ARE ACCEPTED.**
+# Privacy Policy - yourfreeporn.tv
 
 This website recognizes that its customers, visitors, users, and others who use our website value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on this website. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
