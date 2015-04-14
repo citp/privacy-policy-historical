@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caryaudio.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128073053id_/http%3A//aebycary.com/caryaudio/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caryaudio.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414193011id_/http%3A//www.caryaudio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cary Audio
 
@@ -8,7 +8,12 @@ Cary Audio is committed to protecting your privacy. The following privacy statem
 
 **Contact Information**
 
-All requests for further information or for permission to reproduce any portions of the materials should be directed to: Cary Audio, 1020 Goodworth Drive, Apex, North Carolina 27539, (919) 355-0010 (phone), (919) 355-0013 (fax).
+All requests for further information or for permission to reproduce any portions of the materials should be directed to:
+
+Cary Audio  
+6301 Chapel Hill Road  
+Raleigh, North Carolina 27607  
+(919) 355-0010 phone
 
 **Collection**
 
@@ -40,4 +45,4 @@ We take reasonable and appropriate steps to protect your personal information fr
 
 **Enforcement of this Privacy Statement**
 
-If you have comments or questions with respect to this statement, please [contact us](http://aebycary.com/caryaudio/contact-us/ "Contact Us").
+If you have comments or questions with respect to this statement, please [contact us](http://caryaudio.com/contact-us/ "Contact Us").
