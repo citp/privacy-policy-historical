@@ -1,100 +1,67 @@
-> *The following text is extracted and transformed from the vibranthealthnetwork.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibranthealthnetwork.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414032629id_/http%3A//vibranthealthnetwork.com/more-information/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Effective Date: February, 2015
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The following Privacy Policy governs the online information collection practices of PRIMAL HEALTH, LP ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the Primal Health, LP website (the "Site"), and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### How We Collect and Use Information
 
-**Information Collection and Use**
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). Primal Health only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging or have purchased one of our products. Primal Health collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features; advertising that appear on the Site; and, making other offers available to you via email, direct mail or otherwise. We also may provide your information to third parties, such as service providers and contractors. We may also email you regarding offers and information from companies offering collaborative or complimentary products and services. We will not sell your information to third-parties. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online - for example on message boards, web logs, through email, or in chat areas - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Third-party collaborative advertisers also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party's privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers may be different from ours. If you have any concerns about a third party's use of cookies or web beacons or use of your information, you should visit that party's website and review its privacy policy.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The Site also could include links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We may also make some content, products and services available through our Site or by emailing messages to you through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.
 
-**Security**
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### Google Analytics
 
-**Updating Your Information**
+We also use Google Analytics Advertiser Features to optimize our business. Advertiser features include:
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * DoubleClick Platform integrations
+  * Google Analytics Demographics and Interest Reporting
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
+By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site. Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order. The “Remarketing” feature allows us to reach people who previously visited our Site, and match the right audience with the right advertising message.
 
-       iv.      You may fax us at: (480) 505-8844
+You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.
 
-**Sending Emails**
+### Children's Privacy Statement
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties. 
+  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site. 
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site's online activities on providing personally identifiable information.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
+### How do we store your information?
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Your information is stored at the list server that delivers our content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive our material.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+All of the messaging or emails that are sent to you by us include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.
 
-**Supplementation of Information**
+### Disclaimer
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Although it is highly unlikely, This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
 
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions or concerns regarding our privacy policy please direct them to : tickets@bloodpressuresolution.com
