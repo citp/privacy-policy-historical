@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighospitality.co.uk privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921131337id_/http%3A//www.bighospitality.co.uk/Info/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighospitality.co.uk privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415001602id_/http%3A//www.bighospitality.co.uk/Publications/Info/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -211,10 +211,14 @@ __utmc
 
 __utmz  
  dnm_c  
+dnm_guestc  
  dnm_l  
- dnm_s
+ dnm_s  
+dnm_activepp
 
 dnm_r
+
+read_news_ids
 
 JobListing
 
