@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201053942id_/http%3A//www.mellanox.com/page/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414025208id_/http%3A//www.mellanox.com/page/legal_privacy) for the most accurate reproduction.*
 
 # Legal Privacy: Mellanox Technologies
 
@@ -97,4 +97,4 @@ _**
 
 If you have any questions about this Privacy Policy, please contact us at: [info@mellanox.com](mailto:info@mellanox.com)
 
-Copyright © 1999 - 2014 by Mellanox Technologies, Ltd.  All rights reserved.
+Copyright © 1999 - 2015 by Mellanox Technologies, Ltd.  All rights reserved.
