@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidblip.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065457id_/http%3A//www.androidblip.com/v/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidblip.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414024505id_/http%3A//www.androidblip.com/v/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
