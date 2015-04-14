@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixminutestosuccess.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202011757id_/http%3A//www.getresultsthatstick.com/pgi-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixminutestosuccess.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414054117id_/http%3A//www.getresultsthatstick.com/pgi-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get Results That Stick!
 
