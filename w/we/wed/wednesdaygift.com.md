@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wednesdaygift.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723021059id_/http%3A//www.wednesdaygift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wednesdaygift.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414064553id_/http%3A//www.wednesdaygift.com/privacy-policy) for the most accurate reproduction.*
 
 # WednesdayGift - Every Wednesday A New Gift
 
