@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1000-vouchers.com privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317081941id_/http%3A//www.1000-vouchers.com/wingame/datenschutz_43.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000-vouchers.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414051917id_/http%3A//www.1000-vouchers.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26wingame_pk%3D43%26ident%3Ddatenschutz) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
 **Will your personal information be passed on to any third parties?**  
 We may disclose any of your data for identification or convey it to third parties If you provide your consent to us sharing your information when you register or enter our online promotion. For example, with your consent, we may disclose certain personal information to our [prize sponsors](https://web.archive.org/files/web/sponsor/_sponsoren/sponsor_43.htm). 
