@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bravoteens.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227025237id_/http%3A//www.bravoteens.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravoteens.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414034236id_/http%3A//www.bravoteens.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### PRIVACY POLICY
 
 for [bravoteens.com](http://bravoteens.com/)  
-Effective Date: December 26, 2014  
+Effective Date: April 13, 2015  
 Last Modified: 16 April, 2013 
 
   * I. **General**
