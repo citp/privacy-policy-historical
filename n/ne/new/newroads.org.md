@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newroads.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216175721id_/http%3A//www.newroads.org/Page/Omni-Footer---Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newroads.org privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415064655id_/http%3A//www.newroads.org/Page/Omni-Footer---Privacy-Policy) for the most accurate reproduction.*
 
 # New Roads School Omni Footer - Privacy Policy
 
