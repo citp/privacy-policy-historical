@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216224043id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415022533id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
 
-# Hostelworld.com Security & Privacy Policy
+# Hostels Worldwide - Online Bookings, Ratings and Reviews
 
 _Hostelworld.com has been processing online hostel reservations since 1999 and we have always placed the security of our internet transactions and our customers credit card details as our top priority._
 
@@ -52,13 +52,25 @@ We use cookies and pixel tags on our website, mobile phone applications and in o
 
 You may disable the use of cookies through your browser’s settings. By accessing and using our website without changing your browser’s cookie settings, you are consenting to our use of such cookies 
 
-We want to make it easy for you to take advantage of the travel-related opportunities which we feature on our website. As such we may send you emails that contain information about your apparent travel-related interests. For example, if you search for a hostel in New York on our website and have not yet booked your travel, we may send you an email message to tell you about a special offer for New York hostels. Likewise, if you receive an email from us with information in it about Paris and then show an interest in Paris as a destination or Paris hostels by clicking on the link about Paris in the email, you may receive an email about Paris hostel offers or other French destinations. We believe these email messages will provide you with useful information about travel-related offers available through our site. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send. 
-
-We would not sell or rent your personal information to third parties for their marketing purposes without your prior consent. 
-
 In the event that you choose to participate in our Member-Get-Member program, we will only use information about your referred friends to invite them to subscribe to our email newsletters and email offers and, if they subscribe, for any other purpose notified to them at the time of subscription. 
 
 On occasions, we may supply statistics about our customers to third-parties such as hostels or other agents. These statistics never contain personally identifying information.
+
+We would not sell or rent your personal information to third parties for their marketing purposes without your prior consent. 
+
+### TARGETED ADVERTISING
+
+We want to make it easy for you to take advantage of the travel related opportunities which we feature on our website. We work with our advertising partners in order to try and ensure that when you see a Hostelworld advert it will be relevant to you and your interests. This applies to adverts that are displayed on Hostelworld’s own websites, in Hostelworld emails, and on websites owned by third parties. We do this by allowing our third party advertisers to collect non-personally identifiable information about your visit to our website, such as the pages you visit on our website and the locations you appear to be interested in. We also provide third party advertisers with non-personally identifiable information that we collect about you when you use our website in order to only show you relevant adverts. We may also use such information in order to avoid showing you adverts on third party websites like Facebook and Twitter if we don’t think you will be interested in them.
+
+When we share your information with third party advertisers we always ensure that we do so in compliance with our obligations under data protection law. We may use technologies such as “hashing” to ensure that we do not provide our third party service providers with your personal data. For more information on how our third party advertising service providers gather information about your use of this website, please refer to our cookies policy which is available [**here**](https://web.archive.org/cookiespolicy.php).
+
+Some of our third party advertising partners ask us to make you aware of their privacy policies. These policies are available by following the links below:
+
+[**Facebook**](https://www.facebook.com/about/basics)
+
+[**Twitter**](https://twitter.com/privacy)
+
+[**Criteo**](http://www.criteo.com/privacy/)
 
 ### MYWORLD SOCIAL NETWORK
 
