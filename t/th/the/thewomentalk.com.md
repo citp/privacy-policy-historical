@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewomentalk.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702222502id_/http%3A//www.thewomentalk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewomentalk.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416010743id_/http%3A//www.thewomentalk.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,4 +65,4 @@ If you have any questions regarding this Policy, or your dealings with our web s
 
 The Women Talk
 
-admin@thewomentalk.com
+thewomentalk@gmail.com
