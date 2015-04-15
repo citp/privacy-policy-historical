@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comsol.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210074641id_/http%3A//www.comsol.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsol.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415092241id_/http%3A//www.comsol.com/company/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
@@ -6,11 +6,11 @@ By accessing or using the www.comsol.com Web site, you agree to the terms of the
 
 ## Collection of Personal Information
 
-When you engage in certain activities on this site, such as ordering information, or signing up for courses and seminars, COMSOL AB may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you choose to engage in these activities, however, COMSOL AB may require that you provide us personal information, such as your name, mailing address, e-mail address, and other personal identifying information.
+When you engage in certain activities on this site, such as ordering information, or signing up for courses and seminars, COMSOL AB may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you choose to engage in these activities, however, COMSOL AB may require that you provide us personal information, such as your name, mailing address, e-mail address, and other personal identifying information. Information collected during registration for certain events that are wholly or partially conducted by our business partners may be shared by COMSOL AB with the respective business partner for that purpose.
 
 When you submit personal information to COMSOL AB, you understand and agree that COMSOL AB and its subsidiaries, affiliates and trusted vendors may transfer, store, and process your customer profile in any of the countries in which COMSOL AB and its affiliates maintain offices, including without limitation, the United States.
 
-CCOMSOL AB collects this information in order to record and support your participation in the activities you select. COMSOL AB also uses information that you provide as part of our effort to keep you informed about product upgrades, special offers, and other COMSOL AB products and services.
+COMSOL AB collects this information in order to record and support your participation in the activities you select. COMSOL AB also uses information that you provide as part of our effort to keep you informed about product upgrades, special offers, and other COMSOL AB products and services.
 
 COMSOL AB recognizes and appreciates the importance of responsible use of this information. If you do not want the information you provide to COMSOL AB to be used to inform you of other products and special offers from COMSOL AB, and you indicate this preference when you provide the information to COMSOL AB, COMSOL AB will honor your preference.
 
