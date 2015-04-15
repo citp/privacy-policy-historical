@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allxxxbabes.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229221407id_/http%3A//www.allxxxbabes.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allxxxbabes.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415123544id_/http%3A//www.allxxxbabes.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # All XXX Babes
 
