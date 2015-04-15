@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitebuildingcenter.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229173610id_/http%3A//sitebuildingcenter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitebuildingcenter.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415181813id_/http%3A//sitebuildingcenter.com/privacy.php) for the most accurate reproduction.*
 
 # Site Building Center | Privacy Policy
 
