@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopthiseasy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110749id_/http%3A//www.shopthiseasy.com/articles/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopthiseasy.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416005743id_/http%3A//www.shopthiseasy.com/articles/privacy-policy.html) for the most accurate reproduction.*
 
-# Online Fashion Store: Shop for Clothing, Accessories, Shoes, Bags - ShopThisEasy.com
+# Privacy Policy
 
 This Privacy Policy discloses the privacy practices for the ShopThisEasy website (collectively, the“Website” located at www.shopthiseasy.com). CRX Enterprises, the provider of the Website (referred to as “ShopThisEasy”, “ShopThisEasy.com”, “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us at support@ShopThisEasy.com. 
 
