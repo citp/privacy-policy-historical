@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217084245id_/http%3A//www.wabcradio.com/common/page.php%3Fpt%3DPrivacy%2BPolicy%26id%3D114%26is_corp%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416004235id_/http%3A//www.wabcradio.com/common/page.php%3Fpt%3DPrivacy%2BPolicy%26id%3D114%26is_corp%3D1) for the most accurate reproduction.*
 
 # 77 WABC Radio New York - Privacy Policy
 
