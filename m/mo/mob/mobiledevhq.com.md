@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mobiledevhq.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802083605id_/https%3A//tune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiledevhq.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415113449id_/https%3A//tune.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Your Privacy Rights | TUNE
+# TUNE | Privacy Policy and Your Privacy Rights
 
-## Effective Date: July 17, 2014
+#### **Effective Date: September 15, 2014**
 
-Tune, Inc. (“Tune”, “we”, “us”) is committed to protecting your privacy and the privacy of end users. This policy describes how we collect, use, and disclose information when you visit our websites, [http://www.tune.com](http://www.tune.com/ "Tune.com"), [http://www.hasoffers.com](http://www.hasoffers.com/ "HasOffers.com"), and [http://www.mobileapptracking.com](http://www.mobileapptracking.com/ "MobileAppTracking.com") (“Websites”). For information about how we collect information through our MobileAppTracking platform, please click [here](http://mobileapptracking.com/privacy-policy/ "MobileAppTracking Privacy Policy"), and for information about how we collect information through our HasOffers platform, please click [here](http://www.hasoffers.com/privacy-policy "HasOffers.com Privacy Policy"). If you are an end user and want to opt out of our mobile app analytics services, please visit [https://www.optoutmobile.com](https://optoutmobile.com/ "Opt Out Mobile")
+Tune, Inc. (“Tune”, “we”, “us”) is committed to protecting your privacy and the privacy of end users. This policy describes how we collect, use, and disclose information when you visit our websites, [http://www.tune.com](https://web.archive.org/ "Tune.com"), [http://www.hasoffers.com](http://www.hasoffers.com/ "HasOffers.com"), [http://www.mobileapptracking.com](http://www.mobileapptracking.com/ "MobileAppTracking.com"), and [http://www.mobiledevhq.com](http://mobiledevhq.com/ "MobileDevHQ.com") (“Websites”). For information about how we collect information through our MobileAppTracking platform, please click [here](http://mobileapptracking.com/privacy-policy/ "MobileAppTracking Privacy Policy"), for information about how we collect information through our HasOffers platform, please click [here](http://www.hasoffers.com/privacy-policy "HasOffers.com Privacy Policy"), for information about how we collect information through our MobileDevHQ platform, please click [here](http://www.mobiledevhq.com/privacy-policy "MobileDevHQ.com Privacy Policy"). If you are an end user and want to opt out of our mobile app analytics services, please visit [https://www.optoutmobile.com](https://optoutmobile.com/ "Opt Out Mobile")
 
-Tune has been awarded TRUSTe's Privacy and Children’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe's program requirements") and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ "TRUSTed Cloud Program Requirements") including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through our Websites and our MobileAppTracking and HasOffers Platforms. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy+mat@tune.com](mailto:privacy+mat@tune.com). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe here").
+Tune has been awarded TRUSTe's Privacy and Children’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe's program requirements") and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ "TRUSTed Cloud Program Requirements") including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through our Websites and our MobileAppTracking, HasOffers, and MobileDevHQ Platforms. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy+mat@tune.com](mailto:privacy+mat@tune.com). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe here").
 
 **_COLLECTION OF INFORMATION_**
 
@@ -43,11 +43,9 @@ We may occasionally allow other companies to offer our customers information abo
 
 **_YOUR CHOICES_**
 
-If you no longer wish to receive our newsletters, you may opt out by following the unsubscribe link located at the bottom of each communication or by emailing us at [privacy+mat@tune.com](mailto:privacy+mat@tune.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+If you no longer wish to receive our newsletters, you may opt out by following the unsubscribe link located at the bottom of each communication. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
-If you wish to correct or delete any personal information we have collected, please log into your account and change the information. You may also make a request to us by email at [legal@tune.com](mailto:legal@tune.com) or postal mail at 2220 Western Ave., Seattle, WA 98121.
-
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. 
+If you wish to correct or delete any personal information we have collected, please log into your account and change the information. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. 
 
 **_SECURITY OF YOUR PERSONAL INFORMATION_**
 
@@ -161,7 +159,13 @@ In some cases, some of these cookies are managed for us by third parties, but we
 
 **We use 'Functionality' cookies to...**
 
-Remember settings you've applied such as layout, text size, preferences and colours Remember if we've already asked you if you want to fill in a survey Provide proactive live chat sessions to offer you support or submit a trouble ticket Show you when you're logged in to the websites Share information with partners to provide a service on our websites. The information shared is only to be used to provide the service, product or function and not for any other purpose 
+  * Remember settings you've applied such as layout, text size, preferences and colours
+  * Remember if we've already asked you if you want to fill in a survey
+  * Provide proactive live chat sessions to offer you support or submit a trouble ticket
+  * Show you when you're logged in to the websites
+  * Share information with partners to provide a service on our websites. The information shared is only to be used to provide the service, product or function and not for any other purpose
+
+
 
 **Cookies defined as 'Functionality' will not be used to...**
 
