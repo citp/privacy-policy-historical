@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ramnode.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051851id_/https%3A//clientarea.ramnode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramnode.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415051935id_/https%3A//clientarea.ramnode.com/privacy.php) for the most accurate reproduction.*
 
-# Client Area - RamNode™
+# Client Area - RamNode
 
 RamNode LLC - Privacy Policy
 
@@ -36,7 +36,7 @@ We will use your personally identifiable information only as follows:
 
 We will not provide any personally identifiable information about you to any other person other than:
 
-  * a law enforcement or regulatory agency at their request;
+  * a law enforcement or regulatory agency as requested via subpoena;
   * a person or company who acquires our business;
   * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
   * as otherwise needed to protect or enforce the rights of others.
@@ -61,4 +61,4 @@ Children’s Privacy
 
 Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13.
 
-Last updated: March 24, 2014
+Last updated: August 1, 2014
