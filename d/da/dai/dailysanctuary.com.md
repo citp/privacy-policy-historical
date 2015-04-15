@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailysanctuary.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224053041id_/http%3A//dailysanctuary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysanctuary.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415222732id_/http%3A//dailysanctuary.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Daily Sanctuary
+# Privacy Policy
 
 **Privacy Policy**  
 This Privacy Policy describes the policies of Voyager Media, LLC, a Delaware limited liability company (“we”, “our” or “DailySanctuary”) on the collection, use and disclosure of your information on www.dailysanctuary.com (“Site”) and the services, features, content or applications we offer (collectively, “Services”). As a result of your visitation to the Site, we receive information about you either related to means of electronic identification, such as your IP address or cookies, as well as information that you voluntarily submit to the website (collectively “Submitted Information”). This information enables DailySanctuary to personalize, improve, and continue to operate the Services.  
