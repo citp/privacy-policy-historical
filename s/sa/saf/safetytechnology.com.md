@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safetytechnology.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928103509id_/http%3A//www.safetytechnology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetytechnology.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415030908id_/http%3A//www.safetytechnology.com/privacy.html) for the most accurate reproduction.*
 
 # Safety Technology's Privacy Policy
 
@@ -18,4 +18,4 @@ We always use industry-standard encryption technologies when transferring and re
 
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We do not collect or store credit card information. Our website is completely PCI compliant.
 
-If you feel that we are not following our stated privacy policy, you may contact us using the [contact form here](https://web.archive.org/web/20140928103509id_/http%3A//www.safetytechnology.com/contact.html).
+If you feel that we are not following our stated privacy policy, you may contact us using the [contact form here](https://web.archive.org/web/20150415030908id_/http%3A//www.safetytechnology.com/contact.html).
