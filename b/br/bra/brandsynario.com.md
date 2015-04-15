@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandsynario.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223031423id_/http%3A//www.brandsynario.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsynario.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416004459id_/http%3A//www.brandsynario.com/privacypolicy) for the most accurate reproduction.*
 
-# PrivacyPolicy - BrandSynario
+# PrivacyPolicy - Brandsynario
 
 This Privacy Policy governs the manner in which Brandsynario collects, uses, maintains and discloses information collected from users (each, a "User") of the http://brandsynario.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Brandsynario. 
 
@@ -51,7 +51,7 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 **Contacting us**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 **Brandsynario**  
-http://brandsynario.com  
+http://www.brandsynario.com  
 House # 69 - B, Sindhi Muslim Cooperative Housing Society, Off Shara-e-Faisal, Karachi-74400, Pakistan. Tel: +92-21-34551420, 34536278, 34556276-9 +92-21-34551420, 34536278, 34556276-9   
 support@brandsynario.com
 
