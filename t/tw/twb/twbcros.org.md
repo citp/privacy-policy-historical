@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twbcros.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207095131id_/http%3A//www.twbcros.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twbcros.org privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415091713id_/http%3A//twbcros.org/privacy_policy.php) for the most accurate reproduction.*
 
 # The West Bengal Council of Rabindra Open Schooling (Rabindra Mukta Vidyalaya)- Privacy Policy
 
