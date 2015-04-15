@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rashaentertainment.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221052111id_/http%3A//rashaentertainment.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rashaentertainment.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416000623id_/http%3A//rashaentertainment.com/private-policy) for the most accurate reproduction.*
 
 # PRIVATE POLICY » Rasha Entertainment Music Industry Blog
 
