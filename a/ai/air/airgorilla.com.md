@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airgorilla.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802053422id_/http%3A//www.airgorilla.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgorilla.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416000457id_/http%3A//www.airgorilla.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # AirGorilla Privacy Policy
 
@@ -67,7 +67,7 @@ On various pages of this site, we display third-party ads from Google, Yahoo, an
 
 This site has contracted with Travel Ad Network (publisher@traveladnetwork.com) and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by Travel Ad Network, please see Travel Ad Network's privacy policy at the first of two links below. Cookies are important devices for both serving more relevant ads to users and measuring advertising effectiveness. You may opt out of accepting cookies at any time by clicking these links:
 
-To opt out of TravelAdvertising.com, go to   
+To opt out of travelad.net, go to   
 http://www.traveladnetwork.com/content/view/56/79/  
 To opt out of Atlas (Microsoft Advertising), go to   
 http://www.atlassolutions.com/optout.aspx
