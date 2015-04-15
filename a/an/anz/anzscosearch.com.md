@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anzscosearch.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120090310id_/https%3A//www.anzscosearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anzscosearch.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416014850id_/https%3A//www.anzscosearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ANZSCOsearch
+# Privacy Policy | Anzscosearch
 
 ##### 1\. Introduction
 
@@ -34,7 +34,7 @@
 
 (i) _provide details of other personal information collected_.
 
-3.2 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with this policy.
+3.2 Before you disclose to us the personal information of another person, you must obtain that person's consent to both the disclosure and the processing of that personal information in accordance with this policy.
 
 ##### 4\. Using your personal information
 
@@ -58,9 +58,9 @@
 
 (h) send you email notifications that you have specifically requested;
 
-(i) send you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter);
+(i) send you our email newsletter;
 
-(j) send you marketing communications relating to our business which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
+(j) send you marketing communications relating to our business which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology;
 
 (k) provide third parties with statistical information about our users (but those third parties will not be able to identify any individual user from that information);
 
@@ -74,7 +74,7 @@
 
 4.4 Your privacy settings can be used to limit the publication of your information on our website, and can be adjusted using privacy controls on the website.
 
-4.5 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party’s direct marketing.
+4.5 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party's direct marketing.
 
 ##### 5\. Disclosing personal information
 
@@ -112,15 +112,17 @@
 
 ##### 8\. Security of your personal information
 
-8.1 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+8.1 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-8.2 We will store all the personal information you provide on our secure (password- and firewall-protected) servers.
+8.2 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-8.3 All electronic financial transactions entered into through our website will be protected by encryption technology.
+8.3 We will store all the personal information you provide on our secure (password- and firewall-protected) servers.
 
-8.4 You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+8.4 All electronic financial transactions entered into through our website will be protected by encryption technology.
 
-8.5 You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password (except when you log in to our website).
+8.5 You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+
+8.6 You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password (except when you log in to our website).
 
 ##### 9\. Amendments
 
@@ -154,7 +156,7 @@
 
 13.2 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
 
-13.3 Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+13.3 Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
 
 13.4 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
@@ -162,11 +164,11 @@
 
 13.6 Most browsers allow you to refuse to accept cookies; for example:
 
-(a) in Internet Explorer (version 10) you can block cookies using the cookie handling override settings available by clicking “Tools”, “Internet Options”, “Privacy” and then “Advanced”;
+(a) in Internet Explorer (version 10) you can block cookies using the cookie handling override settings available by clicking "Tools", "Internet Options", "Privacy" and then "Advanced";
 
-(b) in Firefox (version 24) you can block all cookies by clicking “Tools”, “Options”, “Privacy”, selecting “Use custom settings for history” from the drop-down menu, and unticking “Accept cookies from sites”; and
+(b) in Firefox (version 24) you can block all cookies by clicking "Tools", "Options", "Privacy", selecting "Use custom settings for history" from the drop-down menu, and unticking "Accept cookies from sites"; and
 
-(c) in Chrome (version 29), you can block all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Content settings”, and then selecting “Block sites from setting any data” under the “Cookies” heading.
+(c) in Chrome (version 29), you can block all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Content settings", and then selecting "Block sites from setting any data" under the "Cookies" heading.
 
 13.7 Blocking all cookies will have a negative impact upon the usability of many websites.
 
@@ -176,16 +178,12 @@
 
 (a) in Internet Explorer (version 10), you must manually delete cookie files (you can find instructions for doing so at http://support.microsoft.com/kb/278835);
 
-(b) in Firefox (version 24), you can delete cookies by clicking “Tools”, “Options” and “Privacy”, then selecting “Use custom settings for history”, clicking “Show Cookies”, and then clicking “Remove All Cookies”; and
+(b) in Firefox (version 24), you can delete cookies by clicking "Tools", "Options" and "Privacy", then selecting "Use custom settings for history", clicking "Show Cookies", and then clicking "Remove All Cookies"; and
 
-(c) in Chrome (version 29), you can delete all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Clear browsing data”, and then selecting “Delete cookies and other site and plug-in data” before clicking “Clear browsing data”.
+(c) in Chrome (version 29), you can delete all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Clear browsing data", and then selecting "Delete cookies and other site and plug-in data" before clicking "Clear browsing data".
 
 13.10 Deleting cookies will have a negative impact on the usability of many websites.
 
-##### 14\. Data protection registration
+##### 14\. Our details
 
-14.1 We are registered as a data controller with the UK Information Commissioner’s Office.
-
-##### 15\. Our details
-
-15.1 You can contact us by using our website contact form.
+14.1 You can contact us by using our website **[Contact Form](https://www.anzscosearch.com/contact-form/ "Contact")**.
