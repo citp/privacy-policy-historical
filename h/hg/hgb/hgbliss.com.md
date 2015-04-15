@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hgbliss.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207123253id_/http%3A//hgbliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hgbliss.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416012201id_/http%3A//hgbliss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home and Garden Bliss
 
