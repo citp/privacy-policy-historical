@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savedbythedress.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128195419id_/http%3A//savedbythedress.com/terms-of-use-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savedbythedress.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416004635id_/http%3A//savedbythedress.com/terms-of-use-privacy-policy) for the most accurate reproduction.*
 
 # Terms of use & privacy policy - Saved by the Dress
 
