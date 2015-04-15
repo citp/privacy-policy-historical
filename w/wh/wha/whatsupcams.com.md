@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsupcams.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060705id_/http%3A//www.whatsupcams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsupcams.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415094945id_/http%3A//www.whatsupcams.com/en/privacy-policy) for the most accurate reproduction.*
 
 # What's Up Cams - Privacy Policy
 
