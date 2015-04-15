@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the envision-sbs.com privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013191015id_/http%3A//www.biztree.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envision-sbs.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415034148id_/http%3A//www.biztree.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Business-in-a-Box™ | Privacy Policy
+# Business-in-a-Box | Privacy Policy
 
 Protecting your privacy is important to us
 
@@ -82,4 +82,4 @@ Biztree Inc.
 New York, NY 10001-7604   
 USA 
 
-Last updated March 15th, 2007
+Last updated July 21, 2011
