@@ -1,38 +1,97 @@
-> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624145419id_/http%3A//www.roguewave.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415231007id_/http%3A//legal.stingray.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | legal
 
-This Web site is an online information and communication service provided by Rogue Wave Software. Please read these Terms of Use carefully before using this site. By using this site, you signify your agreement with these Terms of Use. If you do not agree with any of the below Terms of Use, do not use this site. Rogue Wave Software reserves the right, in its sole discretion, to modify, alter or otherwise update these Terms of Use at any time.
+**STINGRAY PRIVACY POLICY**
 
-It is Rogue Wave's policy to never disclose registration information about any of our visitors to an outside entity for the purposes of marketing or solicitation without their permission. 
+Stingray Digital Group Inc. and its affiliated companies (collectively “Stingray”) are committed to protecting your privacy. Stingray's Privacy Policy is designed to help you understand how Stingray collects, holds, uses and divulges the personal information you provide and/or the electronic information collected when you use its products and services (collectively the “Information”). By using Stingray's products and services or signing up to receive Stingray's newsletters and updates, you are accepting the practices described in this Privacy Policy.
 
-### Information Gathering 
+WHY DOES STINGRAY COLLECT AND HOLD YOUR INFORMATION?
 
-Our web servers automatically recognize and collect the domain name and IP address of visitors to our Web sites. In addition, we collect aggregate information on which Web pages visitors access or visit. We collect addresses and demographic information about subscribers to our newsletters and publications, people who voluntarily register for our Web sites and who attend our events. The information we collect is used to improve the quality of our products and services, and to contact visitors about products and services as explained below. 
+Stingray generally collects and holds your Information:
 
-### Your Personal Information
-
-We collect your personal information for various purposes, such as processing your order, corresponding with you, providing you with a product support, or in connection with a job application. We may combine the information we collect from you with information obtained from other sources to help us improve its overall accuracy and completeness, and to help us better tailor our interactions with you. In addition, we may also collect information relating to your use of our Web sites through the use of various technologies, including cookies. 
-
-### How We Use your Information 
-
-  * To fulfill your requests by us or by others involved in fulfillment. 
-  * To contact you for customer satisfaction surveys, market research or in connection with certain transactions. 
-  * To support products or services you have obtained from us. 
-  * For Rogue Wave marketing purposes if you have permitted such use. 
-  * To personalize your experience while you are on our sites and make navigation easier. 
-  * For Web site usage statistics. 
+  * To improve its products and services, communicate with you and provide timely customer service when needed, customize advertising and other content you see, fulfill your requests for products and services, conduct research, establish usage statistics of its products and services, and provide anonymous reporting for internal and external clients; and
+  * If you have requested to receive such information, to provide you with electronic messages, news, free newsletters, updates, contests and special offers from Stingray and/or its partners (including its content providers or copyright holders)
 
 
 
-### Cookies 
+(collectively, the "Purpose").
 
-Our Web sites may use cookies to store your user name and password to make it more convenient for you to access our sites. It is not necessary for your browser to accept cookies for you to access our Web sites. 
+Stingray doesn't rent or sell any of your personally-identifiable information to third parties, and won't share it with third parties without your consent, unless it's necessary to do so by law or for the purposes of or as set forth in this Privacy Policy.
 
-### Opting Out 
+WHAT INFORMATION DOES STINGRAY COLLECT, HOLD, USE AND DIVULGE?
 
-From time to time, you may receive an e-mail regarding our products, events, offers, items of interest, and other notifications from Rogue Wave Software. With each e-mail use of your e-mail address, we provide a mechanism for opting out of receiving further e-mail from Rogue Wave Software.
+Stingray collects, holds, uses and divulges the Information that you knowingly choose to disclose and enter on any of its websites or otherwise give to Stingray, such as your name, your e-mail address and postal address, your age and your demographic information.
 
-### Security
+You can choose not to provide certain Information, but then you might not be able to take advantage of some of Stingray's products and services. You may contact Stingray as set forth in the Section "Contact Stingray about Privacy" to address any issue thereof.
 
-Rogue Wave Software takes your privacy seriously, and has security measures in place to protect against the loss, misuse or alteration of information that we have collected from you at our site. If you feel that this site is not following its stated information policy, you may contact us at [marketing@roguewave.com](mailto:marketing@roguewave.com?subject=Rogue%20Wave%20privacy%20policy). 
+Stingray also gathers and may allow third parties to collect certain electronic information, which is generated by your devices or computers when you interact with Stingray's websites, web players, mobile application or other applications and services, including location information and your IP address. See Sections "Use of Cookies and Authentication Tokens" and "Online Behavioral Advertising" for more information on this topic.
+
+HOW DOES STINGRAY USE YOUR INFORMATION?
+
+Stingray uses your Information to:
+
+  * Process payment for the products and services that you purchase from Stingray, when applicable;
+  * Communicate with you concerning your account;
+  * Track your location for the purpose of identifying the services and products that are currently available to you;
+  * Establish and report on usage statistics of its products and services;
+  * Respond to and perform your requests for products and/or services, including to deliver the products you have purchased;
+  * Offer you product upgrades, and other products and services;
+  * Authenticate the users of its products and services;
+  * Provide you with targeted advertising while using its websites, web players, mobile applications and/or other applications and services; and
+  * If you have requested to receive such information, provide you with electronic messages, news, free newsletters, updates, contests and special offers from Stingray and/or its partners (including its content providers or copyright holders).
+
+
+
+Some of the Information collected by Stingray is necessary to provide you with Stingray's products or services you choose. Stingray's software may include the opportunity to disable certain software features to increase your level of privacy. However, certain technical information (e.g., zip code) may be automatically transmitted between networked servers to authenticate access to products and services, enable their delivery, or optimize your media delivery experience.
+
+WHEN AND HOW DOES STINGRAY SHARE YOUR INFORMATION WITH THIRD PARTIES?
+
+Stingray may disclose information about its customers to its partners (including to its service or content providers, or to copyright holders) to the extent such disclosure is required for the Purpose. Specifically, Stingray may use third parties to facilitate its business, such as payment processors, to host the services or products at a co-location facility for servers, to send out e-mail updates about Stingray and its products and services, or to provide customer service. In connection with these business operations, Stingray's contractors and service providers may have access to your Information collected by Stingray for use for a limited time in connection with these business activities. Where Stingray utilizes third parties for the processing of any personal information, Stingray implements reasonable contractual and technical protections in order for such third parties to keep all personal information they process strictly confidential. Please note that these third parties may be located in other countries where the laws on processing personal information can differ from the laws of your country of residence.
+
+Stingray may also disclose your Information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform with the law; (b) comply with the order of a competent judicial authority in any jurisdiction; (c) comply with legal process served on Stingray; (d) protect and defend the rights or property of Stingray; (e) enforce or verify your compliance with any part of the agreements that you enter into with Stingray, if any; (f) prevent fraud or other illegal activity perpetrated through Stingray's services and/or products; or (g) act in urgent circumstances to protect the personal safety of users of Stingray's products or services or the public at large.
+
+LINKS
+
+Stingray's products and services, such as websites, web players, mobile applications and other applications and services, may contain links to other websites or otherwise process your transactions through other websites. Stingray is not responsible for the privacy practices of such third parties or the content of such websites. Please read the privacy policies of these third party websites that collect personally identifiable information in order to understand their privacy policies and data collection practices. This Privacy Policy applies solely to information collected by Stingray.
+
+ELECTRONIC MESSAGES FROM STINGRAY
+
+If you have requested to receive such information, Stingray may send electronic messages to you about its products and services, and/or about products and/or services of its partners (including its content providers or copyright holders). Separate Stingray services and lines of business may send separate newsletters and marketing electronic messages. You may opt-out of receiving Stingray's marketing electronic messages and/or newsletters for the relevant product or service as set forth in the Section "Contact Stingray about Privacy". However, Stingray may continue to send you electronic messages to inform you about available upgrades or critical technical service issues relating to a Stingray product or service that you requested or purchased, or provide you with important information on your account.
+
+SECURITY OF PERSONAL INFORMATION
+
+Stingray takes appropriate precautions to protect your information. Stingray uses physical, electronic, and procedural safeguards that comply with applicable regulations to protect your personal information.
+
+USE OF COOKIES AND AUTHENTICATION TOKENS
+
+Stingray stores certain information using "cookies" and/or authentication tokens. A cookie or an authentication token is a piece of data stored on the user's computer or other Internet-connected devices tied to information about the user. Stingray uses cookies to provide you with a tailored experience when visiting its websites and using its products and services. Stingray also uses cookies to understand traffic patterns on its websites, web players, mobile applications and other applications and services, and to authorize access to certain premium or trial content and product features. Stingray uses authentication tokens to automatically authenticate users of certain of its applications. Stingray treats any personal information that may be contained in cookies and authentication tokens with the same level of confidentiality as other personal information you provide to Stingray.
+
+ONLINE BEHAVIORAL ADVERTISING
+
+Stingray may collect and use and/or allow third parties to collect and use certain electronic information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) when you interact with Stingray's websites, web players, mobile applications and/or other applications and services in order to provide or allow such third parties to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice, please contact Stingray as set forth in the Section "Contact Stingray about Privacy".
+
+CHANGES TO STINGRAY'S PRIVACY POLICY
+
+Stingray frequently revises this Privacy Policy to keep it up to date with applicable legislation and Stingray's products and services. Updated notices may be used to alert users to recent changes and to the date of the last update, but the posting of the revised Privacy Policy on Stingray's websites, web players, mobile applications or other applications, products or services shall be considered sufficient notice to you. Unless stated otherwise, Stingray's current Privacy Policy applies to all information that Stingray has about you.
+
+FAILURE TO COMPLY
+
+Stingray will take prompt corrective action when it learns of any failure to comply with this Privacy Policy. Stingray shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy.
+
+STORAGE OF YOUR INFORMATION
+
+By using Stingray's websites, web players, mobile applications or other applications, products or services, you are consenting to have your Information transferred to and processed in Canada, the United States and/or the United Kingdom. Your Information will be held by Stingray in Canada, the United States and/or the United Kingdom.
+
+CONTACT STINGRAY ABOUT PRIVACY
+
+If you have questions about the privacy aspects of Stingray's products or services or would like to make a complaint, to request access to the personal information Stingray holds about you, to modify or correct such personal information or if you wish that Stingray discontinues the use of your personal information, please do so through the "[Contact Us](https://web.archive.org/contact-us)" section or link on Stingray's websites, web players, mobile applications, or other applications, when such link is available, or please contact Stingray at:
+
+  * If you are located in America: Customer Support, Stingray Digital Media Group, 730 Wellington Street, Montreal, Quebec, Canada H3C 1T4, tel: 1-514-664-1244, fax: 1-514-664-1143, e-mail: [privacy@stingray.com](mailto:privacy@stingray.com?subject=Stingray%20Privacy%20-%20America).
+  * If you are located in Europe: Customer Support, Stingray Digital International Limited, 83 Blackfriars Road, London, England, United Kingdom SE1 8HA, tel: +44 (0)20 3141 9130, fax: +44 (0)20 3141 9131, email: [privacy@stingray.com](mailto:privacy@stingray.com?subject=Stingray%20Privacy%20-%20Europe)
+
+
+
+Your request may be accepted or denied by Stingray based on the applicable laws.
+
+Last updated: February 24, 2015.
