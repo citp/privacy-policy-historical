@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motoring.co.uk privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106104730id_/http%3A//www.motoring.co.uk/privacy-policy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoring.co.uk privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415033322id_/http%3A//www.motoring.co.uk/privacy-policy.cgi) for the most accurate reproduction.*
 
 # Privacy Policy for motoring.co.uk
 
