@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creindia.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124174233id_/http%3A//creindia.com/PrivacyPolicy%2520.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creindia.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415031246id_/http%3A//www.creindia.com/PrivacyPolicy%2520.asp) for the most accurate reproduction.*
 
-# Commercial Property Finder
+# Commercial Property for Sale | Privacy Policy
 
 This Privacy policy is subject to the terms of the Site Policy (User agreement) of CreIndia. This policy is effective from the date and time a user registers with CreIndia by filling up the Registration form and accepting the terms and conditions laid out in the Site Policy.
 
