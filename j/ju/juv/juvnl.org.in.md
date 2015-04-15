@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the juvnl.org.in privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105130957id_/http%3A//www.juvnl.org.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juvnl.org.in privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415222852id_/http%3A//www.juvnl.org.in/privacy.html) for the most accurate reproduction.*
 
-# Official Website Jharkhand State Electriciy Board..
+# Official Website Jharkhand Urja Vikash Nigam Ltd..
 
 Copyright Policy
 
@@ -28,6 +28,6 @@ Your email address will only be recorded if you choose to send a message. It wil
 
 Terms & Condition
 
-"This website is designed, developed and maintained by Jharkhand State Electricity Board, a Public Sector Undertaking of the Govt. of Jharkhand. These terms and conditions shall be governed by and construed in accordance with the Indian Laws. Any dispute arising under these terms and conditions shall be subject to the jurisdiction of the courts of India. Ther information posted on this website could include hypertext links of pointers to information created and maintained by non-Government/Private Organisations. JSEB is providiing these links and pointers solely for you information and convenience. When you select a link to an outside website, you are leaving the JUVNL website and are subject to the privacy and security policies of the owners/sponsors of the outside website." This requires to be displayed whenever Terms & Condition button is clicked. 
+"This website is designed, developed and maintained by Jharkhand Urja Vikash Nigam Ltd., a Public Sector Undertaking of the Govt. of Jharkhand. These terms and conditions shall be governed by and construed in accordance with the Indian Laws. Any dispute arising under these terms and conditions shall be subject to the jurisdiction of the courts of India. Ther information posted on this website could include hypertext links of pointers to information created and maintained by non-Government/Private Organisations. JSEB is providiing these links and pointers solely for you information and convenience. When you select a link to an outside website, you are leaving the JUVNL website and are subject to the privacy and security policies of the owners/sponsors of the outside website." This requires to be displayed whenever Terms & Condition button is clicked. 
 
-© Copyright Jharkhand State Electriciy Board 2013. This site belongs to JSEB **Last Updated : 23/01/2014**
+© Copyright Jharkhand Urja Vikash Nigam Ltd. 2015. This site belongs to JUVNL **Last Updated : 23/01/2014**
