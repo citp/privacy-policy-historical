@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpmlm.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205030249id_/http%3A//wpmlm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmlm.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416025628id_/http%3A//wpmlm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WP-MLM
 
@@ -43,7 +43,7 @@ Click here to view our [Terms of Service](https://web.archive.org/tos)
 
 ## Contact
 
-Email: [support@wpmlm.com](mailto:support@wpmlm.com)
+Email: support@wpmlm.com
 
 **Mail:**
 
