@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnaplan.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031192036id_/http%3A//apnaplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnaplan.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416032023id_/http%3A//apnaplan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for ApnaPlan | ApnaPlan – Personal Financial Planning and Investing Blog
 
@@ -37,3 +37,21 @@ By using our site, you consent to our web site [privacy policy](http://apnaplan.
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using our [Contact Us Page](http://apnaplan.com/contact-us/)
+
+  * __About the Author
+  *  __Latest Posts
+
+
+
+  * [What is the Maximum Income Tax You can Save for FY 2015-16?](http://apnaplan.com/max-income-tax-saving-fy2015/) \- April 16, 2015
+  * [How good is Credit card against Fixed Deposit?](http://apnaplan.com/credit-card-against-fixed-deposit/) \- April 15, 2015
+  * [Highest Interest Rate on Recurring Deposits (RD)](http://apnaplan.com/highest-interest-rate-on-recurring-deposits-rd/) \- April 9, 2015
+  * [Tax Planning Guide for FY 2015-16](http://apnaplan.com/tax-guide-fy201516/) \- April 8, 2015
+  * [Pepsi IPL 2015 Match Schedule](http://apnaplan.com/pepsi-ipl-2015-match-schedule/) \- April 7, 2015
+  * [10.25% SREI Equipment Finance NCD – April 2015 – Should you Invest?](http://apnaplan.com/10-25-srei-equipment-finance-ncd-april-2015-should-you-invest/) \- April 7, 2015
+  * [Making Sense of Tax Benefit on Health Insurance u/s 80D](http://apnaplan.com/tax-benefit-health-insurance-sec80d/) \- April 6, 2015
+  * [Sukanya Samriddhi interest raised to 9.2% while PPF remains at 8.7% for FY 2015-16](http://apnaplan.com/sukanya-samriddhi-interest-rate-ppf-fy16/) \- April 1, 2015
+  * [PPF Calculator for Maturity, Loan and Partial Withdrawal](http://apnaplan.com/ppf-calculator-excel/) \- March 27, 2015
+  * [10.8% Muthoot Finance NCD – March/April 2015 – Should you Invest?](http://apnaplan.com/10-8-muthoot-finance-ncd-marchapril-2015-should-you-invest/) \- March 25, 2015
+
+
