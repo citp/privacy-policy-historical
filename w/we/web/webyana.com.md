@@ -1,54 +1,66 @@
-> *The following text is extracted and transformed from the webyana.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003195256id_/http%3A//www.webyana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyana.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416112134id_/http%3A//www.webyana.com/support/privacy.php) for the most accurate reproduction.*
 
-# Get your free website in matter of minutes - Webyana.com
+# Privacy Policy
 
-This policy covers how Webyana Technologies Private Ltd, a private limited company incorporated under the Indian Companies Act 1956, treats personal information that it collects and receives on www.webyana.com 
+At Webyana Technologies Pvt Ltd we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
 
-#### INFORMATION GATHERED BY WEBYANA
+#### Collection of Information
 
-Webyana collects personal information when you register with us or use our products or services or post content on a website powered by webyana. This information is limited to your email address, username, and any information you post on your site. Your password is stored securely using a one way hash function. 
+We collect various information when you register with Company, during your usage of our products and services, when you visit pages of our partners. We may combine information about you that we have with information we obtain from other partners or other companies in order to provide you a better experience or to improve the quality of our services. When you sign in to our services, you are not anonymous to us. We automatically receive and record information from your computer and browser, including your IP address, our cookie information, software and hardware attributes, the page you request and other standard browser parameters.
 
-Webyana may also collect personal information if you enter into promotions or sweepstakes.
+When you use our services, we send one or more cookies - a small file containing a string of characters - to your device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing you with a better experience. We may set one or more cookies in your browser when you use our services or one of our partner's services. When you send messages, publish content, post material, transmit information or email through our services, we may retain the same in order to process your inquiries, respond to your requests and improve our services.
 
-Webyana may automatically receive and record information on our server logs from your browser, including your IP address, cookies, and the pages you request. We also may collect other use information as part of our analytics services, in order to improve the service. However, we do not link such information to any personally identifiable information you submit while on our site. Webyana makes it mandatory for you to fill the billing related information on the “My Account” page if you are signing up for any of our paid services, which include your name, address, telephone number, and other information that is necessary in order to process the transaction. Our payment gateway partners may collect details of your credit card, debit card or Internet banking accounts in order to process payments and complete billing process at Webyana. Information's collected by them would be subject to privacy policy that they have on their site. Under no circumstance do Webyana store any of your sensitive billing details like credit card, debit card or about your Internet banking.
+Our infrastructure consists of servers deployed at multiple datacenters that are owned and operated by us or our partners. All information collected within our services resides on this network of servers.
 
-When signing up for the affiliate program, Webyana may collect additional details in order to process payments and comply with tax law, which may include your PAN No, and or other information as appropriate.
+#### Use of Information
 
-Webyana may use the information for the following general purposes: products and services provision, identification and authentication, services improvement, support, contact, research, and anonymous reporting.
+We only use and process personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
 
-Webyana may use the information for the following general purposes: products and services provision, identification and authentication, services improvement, support, contact, research, and anonymous reporting.
+  * Communicating with you
+  * Making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information
+  * Providing our services
+  * Auditing, research and analysis in order to maintain, protect and improve our services
+  * Ensuring the technical functioning of our network
+  * Protecting our rights or property and that of our users
+  * Developing new services
+  * As described in the respective terms of service of each of our services and in the Webyana Technologies Pvt Ltd Customer Master Agreement
 
-Webyana may use the information for the following general purposes: products and services provision, identification and authentication, services improvement, support, contact, research, and anonymous reporting.
 
-**IP Address:** Webyana may occasionally obtain IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be used for various purposes, including to:
 
-* Diagnose and prevent service or technology problems
+#### No-Spam Policy
 
-* Analytical purpose 
+We have a strict No-Spam Policy prohibiting the use of any data collected to send spam. We will not sell any contact information to third parties.
 
-* Determine User Permissions
+#### Choices for Personal Information
 
-* Monitor and prevent fraud and abuse.
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose defined herein and in the terms of the services offered then we will ask for your consent prior to such use. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our features and services may not function properly if your cookies are disabled. You can decline to submit personal information to any of our services, in which case we may not be able to provide those services to you.
 
-**Cookies:** A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. If you reject all cookies, you may not be able to use Webyana services or products that require you to "sign in" and you may not be able to take full advantage of all offerings. You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. Webyana uses its own cookies for a number of purposes including to invalidate a session after time-out or keep track of your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We use this information only for statistical analysis purposes post which the data is removed from the system. 
+#### Information Sharing
 
-Users under the age of **18 Years** of age are prohibited from using this site
+We only share personal information with other companies or individuals in the following limited circumstances:
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee would be payable. If you would like a copy of the information held on you please write to
+  * We have your consent
+  * Sharing the information with our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to:  
+(a) satisfy any applicable law, regulation, legal process or enforceable governmental request,  
+(b) enforce applicable Terms of Service, including investigation of potential violations thereof,  
+(c) detect, prevent, or otherwise address fraud, security or technical issues, or  
+(d) protect against harm to rights, property or safety, of our users, us or the public as required or permitted by law.
+  * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users by demographic. Such information does not identify you individually.
+  * As permitted and described in the respective terms of service of each of our services and in the Webyana Technologies Pvt Ltd Customer Master Agreement
 
-|  **
 
-Webyana Technologies Private Ltd 
 
-GINSERV, JSS Institutions
+#### Information Security
 
-Behind Leela Palace Hotel, Kodihalli
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-Bangalore - 560008
+We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-**  
----|---  
-  
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly rectify any information found to be incorrect. 
+#### Accessing and Updating Personal Information
 
-If there are any questions regarding this privacy policy you may write to **legal@webyana.com**
+When you use our services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate.
+
+#### Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time.
