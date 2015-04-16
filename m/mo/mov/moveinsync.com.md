@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the moveinsync.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812043530id_/http%3A//www.moveinsync.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveinsync.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416023755id_/http%3A//www.moveinsync.com/privacy.htm) for the most accurate reproduction.*
 
 # MoveInSync
-
-[Home](https://web.archive.org/web/20140812043530id_/http%3A//www.moveinsync.com/index.htm) » Privacy Policy
-
-Privacy Policy
 
 MoveInSync Technology Solutions Private Limited (MIS) is committed to highest standards of customer information privacy. Please read the following statement to learn about MIS information gathering and dissemination practices.
 
