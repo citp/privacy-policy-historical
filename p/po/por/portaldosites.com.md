@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portaldosites.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231161859id_/http%3A//portaldosites.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portaldosites.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417011701id_/http%3A//www.portaldosites.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
