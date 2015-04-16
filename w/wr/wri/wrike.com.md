@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925144855id_/https%3A//www.wrike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416093001id_/https%3A//www.wrike.com/privacy) for the most accurate reproduction.*
 
 # Wrike Privacy Policy
 
@@ -34,14 +34,15 @@ One or more of the organizations working with us to develop or provide our servi
 
 ### Browser add-in for task tracking
 
-In order to help track tasks youcreate on websites and enable you to share those tasks with others as you choose, and to check whether anyone else has shared any tasks with you, we may analyze information about the sites you have visited to determine if any relevant tasks are associated with them. To do this, Wrike’s browser extension will check the sites you visit to see if any tasks are associated with them in Wrike accounts you are part of. If so, the browser extension then submits information about only those domain names which have tasks associated with them to Wrike’s servers, using an encrypted format, so that the servers can search for indexed tasks belonging to (or shared with) your existing account. If there are any such tasks associated with the domain and URL you have visited, the Wrike server will return names of tasks relevant for the visited domain and URL back to your browser extension. The browser extension performs the initial screening of the domains you have visited to identify those for which tasks have been created and only sends information about those domains and URLs on to the Wrike servers. **The information sent to the Wrike servers to perform this check is not stored on the Wrike servers.**
+In order to help track tasks you create on websites and enable you to share those tasks with others as you choose, and to check whether anyone else has shared any tasks with you, we may analyze information about the sites you have visited to determine if any relevant tasks are associated with them. To do this, Wrike’s browser extension will check the sites you visit to see if any tasks are associated with them in Wrike accounts you are part of. If so, the browser extension then submits information about only those domain names which have tasks associated with them to Wrike’s servers, using an encrypted format, so that the servers can search for indexed tasks belonging to (or shared with) your existing account. If there are any such tasks associated with the domain and URL you have visited, the Wrike server will return names of tasks relevant for the visited domain and URL back to your browser extension. The browser extension performs the initial screening of the domains you have visited to identify those for which tasks have been created and only sends information about those domains and URLs on to the Wrike servers. **The information sent to the Wrike servers to perform this check is not stored on the Wrike servers.**
 
 ### Sharing of Information
 
   * **Aggregated information.** We and our agents may share aggregated demographic information with our users, our affiliated organizations, and other organizations with which we do, or contemplate doing, business. Such information is aggregated and is not linked to any information that can identify individual users.
-  * **Shipping/Service providers.** We may use outside shipping or other service providers to process and ship orders or perform other functions. We use commercially reasonable diligence to restrict the purposes for which these service providers may use your personally identifiable information. The requirements or requests that we impose on such service providers vary with the sensitivity of the information and can, but do not necessarily, include requirements that these outsourcing providers not retain, share, store, or use personally identifiable information for any secondary purposes, except for backup and recovery operations. Although we use good faith efforts to impose, and/or ensure compliance by our outsourcing providers, we cannot, and will not, be responsible to users for misuse of personally identifiable information by such service providers. This section is meant as a general description of our practices. It does not impose any duty upon us and it does not constitute a representation or warranty by us upon which you may rely.
-  * **Specific services.** Although we generally host our own sites, we may have agreements with other parties to provide you with specific additional services, including, without limitation, third-party hosted collaboration tools and other hosted services. When you use such services, we may share personally identifiable information with such parties. In such cases, we will use good faith efforts to restrict the information provided to the information necessary for the provision of such services.
-  * **General use.** We may share personally identifiable information with various vendors, suppliers, and partners. While we use good faith efforts to verify that such vendors, suppliers, and partners provide products and services of interest to site users, we cannot, and do not, endorse such vendors, suppliers, advertisers, products or services unless we expressly state otherwise. If you wish us to refrain from providing your personally identifiable information in this manner, please see the opt-out information and contact information provided below.
+  * **Shipping/Service providers.** We may use outside shipping or other service providers to process and ship orders or perform other functions including, without limitation, customer service and inquiry responses. Personally identifiable information may be provided to such service providers in order to allow them to provide shipping, services and/or other such functions. The requirements or requests that we impose on such service providers vary with the sensitivity of the information and can, but do not necessarily, include requirements that these outsourcing providers not retain, share, store, or use personally identifiable information for any secondary purposes, except for backup and recovery operations. Although we use commercially reasonable efforts to impose, and/or ensure compliance by our outsourcing providers, we cannot, and will not, be responsible to users for misuse of personally identifiable information by such service providers. This section is meant as a general description of our practices. It does not impose any duty upon us and it does not constitute a representation or warranty by us upon which you may rely.
+  * **Specific services.** Although we generally host our own sites, we may have agreements with other parties to provide you with specific additional services, including, without limitation, third-party hosted collaboration tools and other hosted services. When you use such services, we may share personally identifiable information with such parties. In such cases, we will use commercially reasonable efforts to restrict the information provided to the information necessary for the provision of such services.
+  * **General use.** Notwithstanding any other provision of this Privacy Policy, we may share personally identifiable information with various vendors, suppliers, and partners. While we use commercially-reasonable effortss to verify that such vendors, suppliers, and partners provide products and services of interest to site users, we cannot, and do not, endorse such vendors, suppliers, advertisers, products or services unless we expressly state otherwise. If you wish us to refrain from providing your personally identifiable information in this manner, please see the opt-out information and contact information provided below.
+  * **Aggregate and Anonymous Data.** Wrike (including our vendors, suppliers and partners) shall have a worldwide, perpetual, irrevocable, royalty-free right to use aggregated and/or anonymous data in connection with our and our vendor’s, supplier’s and partner’s business operations including, without limitation, combining such data with other similar data from you and other users.
   * **Assignment for Sale or Merger.** In addition, as we develop our business, we might sell or otherwise transfer all or parts of our businesses or assets. We may also disclose your personal information (including user information, billing information and user content) to a third party as part of a sale of assets of Wrike, merger, reorganization, dissolution or similar event, or as the result of a change in control of the company or one of its affiliates, or in preparation for any of these events. Any third party to which we transfer or sell our assets will have the right to continue to use the personal and other information that you provide to us in the manner set out in this Policy and then in accordance with the terms of their privacy policy, subject to the terms of the section below entitled "Changes to the Privacy Policy."
 
 
@@ -83,11 +84,11 @@ If you have any questions about your privacy rights, or how to opt-out of having
 In most cases, it is impractical for us to stop any other third party to whom we have supplied your information pursuant to the terms of this Policy from continuing to use such information after you have opted out. In other words, opting out will usually not stop other third parties to whom we have provided your information from continuing to use it.
 
 Privacy Officer  
-Wrike, Inc.  
-200 W. Evelyn Avenue  
-Suite 110  
-Mountain View, CA 94041  
-Telephone: 1-877-77-WRIKE
+Wrike, Inc.
+
+100 W Evelyn Ave  
+Ste 220  
+Mountain View, CA, 94041 Telephone: 1-877-77-WRIKE
 
 [support at team.wrike.com](mailto:support@team.wrike.com)
 
@@ -111,14 +112,14 @@ European Union and Swiss citizens should direct any questions or concerns regard
 
 Privacy Officer  
 Wrike, Inc.  
-200 W. Evelyn Avenue  
-Suite 110  
-Mountain View, CA 94041  
+100 W Evelyn Ave  
+Ste 220  
+Mountain View, CA, 94041  
 Telephone: 1-877-77-WRIKE
 
 [support at team.wrike.com](mailto:support@team.wrike.com)
 
-Wrike will attempt to answer your questions and satisfy your concerns in a timely and complete manner as soon as possible. If, after discussing the matter with Wrike, your issue or complaint is not resolved, Wrike has agreed to participate in an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If your issue or complaint is not satisfactorily resolved by Wrike, you may visit the BBB EU SAFE HARBOR web site at [http://www.bbb.org/us/safe- harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for further information. PLEASE CONTACT WRIKE FIRST.
+Wrike will attempt to answer your questions and satisfy your concerns in a timely and complete manner as soon as possible. If, after discussing the matter with Wrike, your issue or complaint is not resolved, Wrike has agreed to participate in an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If your issue or complaint is not satisfactorily resolved by Wrike, you may visit the BBB EU SAFE HARBOR web site at [http://www.bbb.org/us/safe- harbor-complaints](http://www.bbb.org/us/safe-%20%20%20%20%20%20%20%20%20%20%20%20harbor-complaints) for further information. PLEASE CONTACT WRIKE FIRST.
 
 ### General Contact Information
 
@@ -126,9 +127,9 @@ If you feel that we are not abiding by this Policy or if you have questions rega
 
 Privacy Officer  
 Wrike, Inc.  
-200 W. Evelyn Avenue  
-Suite 110  
-Mountain View, CA 94041  
+100 W Evelyn Ave  
+Ste 220  
+Mountain View, CA, 94041  
 Telephone: 1-877-77-WRIKE
 
 [support at team.wrike.com](mailto:support@team.wrike.com)
