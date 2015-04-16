@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053326id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416044436id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.*
 
-# National Kidney Foundation: Local Offices
+# NKF Web Site Privacy Policy - The National Kidney Foundation
 
 ## **Privacy**
 
@@ -8,7 +8,7 @@ Data relating to visitors browsing this Web site is not collected. The confident
 
 ## E-mail
 
-The National Kidney Foundation will not send you unsolicited e-mail (Spam), will not sell, trade or share your personal information with anyone else, nor will we send e-mailings on behalf of other organizations. E-mail communication from the National Kidney Foundation adheres to the [CAN-SPAM Act](http://www.ftc.gov/bcp/conline/pubs/buspubs/canspam.shtm) and contains an opt-out link. If you have any questions or concerns about your privacy on this site, please [contact us](http://www.kidney.org/about/contact.cfm).
+The National Kidney Foundation will not send you unsolicited e-mail (Spam), will not sell, trade or share your personal information with anyone else, nor will we send e-mailings on behalf of other organizations. E-mail communication from the National Kidney Foundation adheres to the [CAN-SPAM Act](http://www.ftc.gov/bcp/conline/pubs/buspubs/canspam.shtm) and contains an opt-out link. If you have any questions or concerns about your privacy on this site, please [contact us](https://web.archive.org/about/contact).
 
 ## Information Collected Online and Elsewhere
 
@@ -24,12 +24,12 @@ A cookie is a small amount of data which often includes an anonymous unique iden
 
 ## How NKF Uses Cookies
 
-The National Kidney Foundation uses cookies to remember visitor preferences. For example, when a visitor changes the text style on our Web site using our [style changer](http://www.kidney.org/about/stylechange.cfm), the selection is stored in a cookie so that it will be applied upon each visit. We also provide the ability to store login information for certain areas of our site including our forums. NKF does not use cookies to store or transmit personal information.
+NKF does not use cookies to store or transmit personal information.
 
 ## Advertising
 
 This Web site does not accept advertising.
 
-[Policy on Discontinuing Contact](https://web.archive.org/about/pdf/PolicyDiscontinuingContact.pdf)
+[Policy on Discontinuing Contact](https://web.archive.org/sites/default/files/docs/policydiscontinuingcontact.pdf)
 
 Revised 8/18/08
