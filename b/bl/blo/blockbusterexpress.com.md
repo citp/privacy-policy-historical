@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockbusterexpress.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224050324id_/http%3A//www.blockbuster.com/privacyPolicySnippet.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbusterexpress.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416034644id_/http%3A//www.blockbuster.com/privacyPolicySnippet.html) for the most accurate reproduction.*
 
 # Terms and Conditions
 
