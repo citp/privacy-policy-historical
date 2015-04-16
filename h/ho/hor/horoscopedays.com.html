@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the horoscopedays.com privacy policy that was archived on 2014-07-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704200319id_/http%3A//www.horoscopedays.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the horoscopedays.com privacy policy that was archived on 2015-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150416045333id_/http%3A//www.horoscopedays.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -30,7 +30,7 @@
         }
     });
     </script>
-<script type="text/javascript" src="//d2sj2omw0azr1m.cloudfront.net/blocker.min.js"></script></head>
+</head>
 
 <body>
     <script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
@@ -47,6 +47,22 @@
     ga('send', 'pageview');
 </script>
 <script>
+	function is_dupdl(obj) {
+		var i;
+		for (i=0; i<$jq._data(obj,'events').click.length; i++) {
+			if($jq._data(obj,'events').click[i].handler.toString().indexOf("LPDOWNLOADBUTTON")>0) return true;
+			if($jq._data(obj,'events').click[i].handler.toString().indexOf("keyEvBtnClick")>0) return true;
+		}
+		return false;
+	}
+	function is_dup_analytics(obj) {
+		var i;
+		for (i=0; i<$jq._data(obj,'events').click.length; i++) {
+			if($jq._data(obj,'events').click[i].handler.toString().indexOf("ga('send'")>0) return true;
+		}
+		return false;
+	}
+
     $jq(function() {
             });
 </script>
@@ -156,23 +172,23 @@ This Privacy Policy is applicable to any personal information, which is given by
                 if (this._isOverAd) {
 
                     /*$jq('<iframe />', {
-                        src: 'http://pixel.ibario.com/adclick/?adtype=' + this._adType + '&privacy=',
+                        src: 'http://pixel.ibario.com/adclick/?adtype=' + this._adType + '&lang=deleted&norjs=1&cid=deleted&privacy=',
                         style: 'visibility: hidden; width: 1px; height: 1px;'
                     }).appendTo('body');*/
 
                     $jq('<iframe />', {
-                        src: 'http://api.ibario.com/events/adclick?adtype=' + this._adType + '&privacy=',
+                        src: 'http://www.tironim.com/events/adclick?adtype=' + this._adType + '&lang=deleted&norjs=1&cid=deleted&privacy=',
                         style: 'visibility: hidden; width: 1px; height: 1px;'
                     }).appendTo('body');
 
                     $jq('<iframe />', {
-                        src: '/pixel.php?type=adclick&cid=',
+                        src: '/pixel.php?type=adclick&cid=deleted',
                         style: 'visibility: hidden; width: 1px; height: 1px;'
                     }).appendTo('body');
 
 
 
-                    ga('send', 'event', 'Ad', 'Click');
+                    ga('send', 'event', 'Ad', 'Click', 'deleted');
 
                     window['optimizely'].push(["trackEvent", "dfpclick"]);
 
