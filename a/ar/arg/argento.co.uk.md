@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argento.co.uk privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208210841id_/http%3A//www.argento.co.uk/Information.aspx%3FTranslationLargeID%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argento.co.uk privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416041858id_/http%3A//www.argento.co.uk/Information.aspx%3FTranslationLargeID%3D22) for the most accurate reproduction.*
 
 # Security
 
