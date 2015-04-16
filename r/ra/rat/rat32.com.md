@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rat32.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115050219id_/http%3A//rat32.com/rat32/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rat32.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417002058id_/http%3A//rat32.com/rat32/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
