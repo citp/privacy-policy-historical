@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the 24hgold.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123001318id_/http%3A//www.24hgold.com/english/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hgold.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417013937id_/http%3A//www.24hgold.com/english/privacy.aspx) for the most accurate reproduction.*
 
 # 24hGold - Privacy Policy
 
+24HGOLD PRIVACY POLICY   
+---  
 **Email Privacy Policy**  
 We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
