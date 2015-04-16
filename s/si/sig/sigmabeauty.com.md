@@ -1,77 +1,111 @@
-> *The following text is extracted and transformed from the sigmabeauty.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022051831id_/http%3A//www.sigmabeauty.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmabeauty.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416031351id_/http%3A//www.sigmabeauty.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms: Privacy
+# Sigma Beauty
 
-### PRIVACY POLICY
+## What Information Do We Collect? 
 
-  
- **What information do we collect?**
+## 
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. 
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
-
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature .
+  *  When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * We also collect information about gift recipients so that we can fulﬁll the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites.Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.   
 
 
-How do we use your information?
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-  * To allow us to better service you in responding to your customer service requests. 
-  * To quickly process your transactions. 
+## How Do We Use Your Information?
+
+## 
+
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
+
+  * To allow us to better service you in responding to your customer service requests.   
+
+  * To quickly process your transactions.  
+
   * To administer a contest, promotion, survey or other site feature.
-  * You have the ability to opt-in to receive our e-mail newsletters once you are accepted into the Affiliate, Pro Partners or Wholesale Program, or after making a purchase on sigmabeauty.com. If you would no longer like to receive promotional e-mails from us, simply click the unsubscribe button at the bottom of all promotional emails or refer to the "How can you opt-out, remove or modify information you have provided to us?" section below.
+  * You have the ability to opt-in to receive our e-mail newsletters once you are accepted into the Affiliate, Pro Partners or Wholesale Program, or after making a purchase on sigmabeauty.com. If you would no longer like to receive promotional e-mails from us, simply click the unsubscribe button at the bottom of all promotional emails or refer to the "How can you opt-out, remove or modify information you have provided to us?" section below.
 
 
 
-How do we protect visitor information?
+## How Do We Protect Visitor Information?
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+## 
 
- **Do we use "cookies"?**
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained-quired to keep the information conﬁdential. When you place orders or access your personal information, we o er the use of a secure server.All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+## Do We Use "Cookies"?
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+## 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+Yes. Cookies are small ﬁles that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance,we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
- **Do we disclose the information we collect to outside parties?**
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Sigma Enterprises LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.  
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
- **How can you opt-out, remove or modify information you have provided to us?**
+## Do We Disclose The Information We Collect To Outside Parties?
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "Customize Your Emails" [page](http://www.sigmabeauty.com/Articles.asp?ID=251). Please note that due to email production schedules you may receive any emails already in production.
+## 
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+We do not sell, trade, or otherwise transfer to outside parties your personally identiﬁable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Sigma Enterprises LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information conﬁdential. We may also release your information when we believe release is appropriate to comply with the law,en-force our site policies, or protect ours or others' rights, property, or safety.
 
- **Third party links**
+However, Non-Personally Identiﬁable Visitor Information May Be Provided To Other Parties For Marketing, Advertising, Or Other Uses.  
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
- **Changes to our policy**
+## 
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on June 30, 2014.
+How can you opt-out, remove or modify information you have provided to us? To modify your e-mail subscriptions, please let us know by modifying your preferences in the "Customize Your Emails" page. Please note that due to email production schedules you may receive any emails already in production
 
-**Questions and feedback**
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping   
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
- **Online Policy Only**
+addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in   
+order to service that transaction and for record keeping
+
+Third Party Links  
+
+
+## 
+
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independ-ent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a speciﬁc link does not work).
+
+Changes To Our Policy  
+
+
+## 
+
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected   
+after the date of the change. This policy was last modiﬁed on June 30, 2014.
+
+Questions And Feedback  
+
+
+## 
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy,   
+or any other issue.
+
+## Online Policy Only
+
+## 
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
- **Terms and Conditions**
+## Terms And Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20141022051831id_/http%3A//www.sigmabeauty.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+## 
 
-Your consent
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+## Your Consent
+
+## 
 
 By using our site, you consent to our privacy policy.
 
-Â© 2014 Sigma Enterprises, LLC
+© 2015 Sigma Enterprises, LLC.
