@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codetounlock.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206142625id_/http%3A//www.codetounlock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codetounlock.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417014125id_/http%3A//www.codetounlock.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CodeToUnlock
+# Privacy Policy - CodeToUnlock
 
 This Privacy Policy governs the manner in which **CodetoUnlock**  collects, uses, maintains and discloses information collected from users (each, a “User”) of the **CodetoUnlock**  website (“Site”). This privacy policy applies to the Site and all products and services offered by **CodetoUnlock**.
 
