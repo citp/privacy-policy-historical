@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipebliss.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222145021id_/http%3A//recipebliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipebliss.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416084936id_/http%3A//recipebliss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Recipe Bliss
 
