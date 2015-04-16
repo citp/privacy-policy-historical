@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elrte.org privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201124454id_/http%3A//elrte.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elrte.org privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416121326id_/http%3A//elrte.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
