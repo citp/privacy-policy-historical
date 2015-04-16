@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halocigs.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107000656id_/https%3A//www.halocigs.com/customer-support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halocigs.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416225505id_/http%3A//www.halocigs.com/customer-support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Halo Cigs
 
