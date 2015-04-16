@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the columnpk.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006054751id_/http%3A//www.columnpk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columnpk.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417004748id_/http%3A//www.columnpk.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Columnpk.net | Urdu Columns on Latest Current Political & Social Issues
-
-      __March 4, 2014 [Privacy](http://columnpk.net/privacy-policy/)2014-06-22T17:53:32+00:00     
+# Privacy » ColumnPK - Daily Latest Urdu Columns - Pakistani Columnists
 
 The protection of your personal data, information and privacy is our prime concern. We are devoted to provide you the best service and for this purpose we need some of your personal information to use the service. You can also use the service without providing any personal information but if you want to take advantage of some of our special services you need to provide some of your personal information so we may better serve you in every possible way. **www.columnpk.net** is directly controlled by **columnpk.net** owner and team.  
 **Information:**  
@@ -35,4 +33,3 @@ Our user’s security, protection and privacy are our prime concern and we are c
 **Columnpk.net** holds and is the sole owner of the content available on the service like design, logo and images etc. Besides, the data that is widely provided by writers, columnists who hold the intellectual property rights and share their data with our network through an email exchange so you will not share, reproduce or sold the data without prior written consent of intellectual property owner.  
 **Contact:**  
 If you have any issue/issues or suggestions regarding this privacy policy please feel free to contact us at our network **webmaster@columnpk.net.** We will admire and honor your participation.
-  *[March 4, 2014]: 2014-03-04T20:49:31+00:00
