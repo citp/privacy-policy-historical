@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qtmsoft.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529140930id_/http%3A//www.qtmsoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtmsoft.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416132236id_/http%3A//www.qtmsoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Qualiteam Privacy Policy
 
@@ -28,7 +28,7 @@ Consultation on small modifications of the software: possible if the required ch
 
 Consultation on medium modifications of the software: possible if the required changes take about an hour to describe
 
-Application of a patch fixing a bug in X-Cart/LiteCommerce store (patches themselves are [provided for free](https://web.archive.org/web/20140529140930id_/http%3A//www.qtmsoft.com/support/bug-fixing-policy.html))
+Application of a patch fixing a bug in X-Cart/LiteCommerce store (patches themselves are [provided for free](https://web.archive.org/web/20150416132236id_/http%3A//www.qtmsoft.com/support/bug-fixing-policy.html))
 
 Additional services costing more than the other tasks or not included into original tech support duties
 
