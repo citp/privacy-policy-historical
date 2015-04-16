@@ -1,107 +1,135 @@
-> *The following text is extracted and transformed from the poetryamerica.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307152815id_/http%3A//poetryamerica.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetryamerica.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416102603id_/http%3A//www.poetryamerica.com/privacy.html) for the most accurate reproduction.*
 
-# None
+# poetryamerica.com | Privacy Policy
 
-**_ PoetryAmerica.com_**
+**What information do we collect?**
 
-** PRIVACY STATEMENT**
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-Your privacy is important to Poetryamerica.com.  This privacy statement provides information about the personal information that Poetryamerica.com collects, and the ways in which Poetryamerica.com uses that personal information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-** Personal information collection**
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-Poetryamerica.com may collect and use the following kinds of personal information: 
+ **DoubleClick DART Cookie**
 
-l  Providing you with a better user experience, and targeted advertising.
+.:: Google, as a third party vendor, uses cookies to serve ads on poetryamerica.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to poetryamerica.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-l  information that you provide using for the purpose of registering with the website
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-l  information about transactions carried out over this website
 
-l  information that you provide for the purpose of subscribing to the website services
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on poetryamerica.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-l  any other information that you send to Poetryamerica.com.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-** Using personal information**
+poetryamerica.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-Poetryamerica.com may use your personal information to: 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. poetryamerica.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-l  administer this website;
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-l  personalize the website for you;
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-l  enable your access to and use of the website services;
+**What do we use your information for?**
 
-l  publish information about you on the website; with your permission only
+Any of the information we collect from you may be used in one of the following ways: 
 
-l  send to you products that you purchase;
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-l  supply to you services that you purchase;
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-l  send you statements and invoices;
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-l  collect payments from you; and
+\- To process transactions
 
-l  send you marketing communications.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-Where Poetryamerica.com discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. 
+\- To administer a contest, promotion, survey or other site feature
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Poetryamerica.com may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
 
-** Securing your data**
+\- To send periodic emails
 
-Poetryamerica.com will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
 
-Poetryamerica.com will store all the personal information you provide on its secure servers. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-[Information relating to electronic transactions entered into via this website will be  protected by encryption technology.]
+ **How do we protect your information?**
 
-** Cross-border data transfers**
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
 
-Information that Poetryamerica.com collects may be stored and processed in and transferred between any of the countries in which Poetryamerica.com operates to enable the use of the information in accordance with this privacy policy.
+**Do we use cookies?**
 
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-You agree to such cross-border transfers of personal information.
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-** Updating this statement**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-Poetryamerica.com may update this privacy policy by posting a new version on this website. 
+ **Do we disclose any information to outside parties?**
 
-You should check this page occasionally to ensure you are familiar with any changes. 
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-** Other websites**
+**Third party links**
 
-This website contains links to other websites. 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Poetryamerica.com is not responsible for the privacy policies or practices of any third party.
+ **California Online Privacy Protection Act Compliance**
 
-** Contact Poetryamerica.com**
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-If you have any questions about this privacy policy or Poetryamerica.com treatment of your personal information, please write to:
+ **Childrens Online Privacy Protection Act Compliance**
 
-l  by email to poetryamericaads@yahoo.com
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-l  by post to 300 Reisterstown Rd, Pikesville MD 21208
+ **Online Privacy Policy Only**
 
-** This privacy statement**
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-This privacy statement is based on a precedent created by  [ employmentlawcontracts.co.uk](http://www.employmentlawcontracts.co.uk/) and published by  [ freenetlaw.com.](http://www.freenetlaw.com/)
+**Your Consent**
 
-The NAI Opt-out Tool was developed in conjunction with our members for the express purpose of allowing consumers to "opt out" of the behavioral advertising delivered by our member companies. 
+By using our site, you consent to our web site privacy policy. 
 
-Using the Tool below, you can examine your computer to identify those member companies that have placed an advertising cookie file on your computer. 
+**Changes to our Privacy Policy**
 
-To opt out of an NAI member's behavioral advertising program, simply check the box that corresponds to the company from which you wish to opt out. Alternatively, you can check the box labeled "Select All" and each member's opt-out box will be checked for you. Next click the "Submit" button. The Tool will automatically replace the specified advertising cookie(s) and verify your opt-out status. 
+If we decide to change our privacy policy, we will post those changes on this page. 
 
-**Opting out of a network does not mean you will no longer receive online advertising.** It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. 
+**Contacting Us**
 
-If you have any questions, please visit our [FAQ section](http://www.networkadvertising.org/managing/faqs.asp). 
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
 
-http://www.networkadvertising.org/managing/opt_out.asp
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
 
-We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement “click-throughs,” and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile statistics about our website visitors. For more information about how information is collected and used by ValueClick, please see ValueClick’s privacy policy at http://shell1.la.valueclick.com:8985/www.valueclickmedia.com.2006/privacy.shtml
+poetryamerica.com 
 
-We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement “click-throughs,” and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile statistics about our website visitors. For more information about how information is collected and used by ValueClick, please see ValueClick’s privacy policy at http://shell1.la.valueclick.com:8985/www.valueclickmedia.com.2006/privacy.shtml 
+Email:  
+contact@poetryamerica.com  
 
-Being part of the NAI is an important step in helping protect online privacy. With our involvement in this organization we are going to need your help, moving forward the NAI has asked that all Publisher that are part of Burst Media add the following text to their privacy policy: We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
