@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the nafex.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128062713id_/http%3A//inside.nafex.com/LandingPages/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafex.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417011037id_/http%3A//www.nafex.com/privacy_policy) for the most accurate reproduction.*
 
-# NAFEX
+# Nafex.com | Online Currency Exchange | Best Forex Rates | Dollar Exchange Dealers
+
+Need the status of your enquiry?
+
+TRACK
+
+PRIVACY POLICY
 
 We at NAFEX.com understand the importance of your privacy. We will never willfully disclose individually identifiable information about our customers to any third party without first receiving your permission. You can be rest-assured that your information is safe with us. Your visit to this Site is subject to this "Privacy Policy" and our Terms of Use, as may be amended from time to time.
 
