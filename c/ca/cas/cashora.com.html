@@ -1,0 +1,615 @@
+<!--The following is the downloaded HTML source of the cashora.com privacy policy that was archived on 2015-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150416192155id_/http%3A//cashora.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" ng-app="progressApp"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<title>Privacy Policy | Cashora.com</title>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="google-site-verification" content="A8xWbtxe2n_0seYaxJZv1IXUs97VjKJPr6ucdaSLckA">
+	<link rel="publisher" href="https://plus.google.com/117466666082391260983">
+	 <script type="text/javascript" src="https://server.connecto.io/javascripts/connect.prod.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5T9X3F"></script><script async="" charset="utf-8" src="//v2.zopim.com/?2voL7iK08zYRUkCocB6MGRRPfJFS8Hl7" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-61714338-1', 'auto');
+ ga('send', 'pageview');
+
+</script>
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700" rel="stylesheet" type="text/css">
+  <!-- Bootstrap -->
+ 
+   <link rel="stylesheet" href="css/animate.min.css">
+    <link href="css/bootstrap.css" rel="stylesheet">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->	
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/typehead.js"></script>
+	<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){
+z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?2voL7iK08zYRUkCocB6MGRRPfJFS8Hl7';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+	<script>
+	/*
+         Hide/show component content in responsive mode
+         */
+		  $(document).ready(function () {
+        $(".component").on("click", ".responsive-component-title a", function (e) {
+            e.preventDefault();
+            if ($(this).closest(".sub-component").length) {
+                var pivot_point = $(this).closest(".sub-component");
+            } else {
+                var pivot_point = $(this).closest(".component");
+            }
+            if ($(this).hasClass("open")) {
+                if (pivot_point.find(".responsive-component-body").hasClass("hidden-xs-tmp")) {
+                    pivot_point.find(".responsive-component-body").addClass("hidden-xs");
+                    pivot_point.find(".responsive-component-body").removeClass("hidden-xs-tmp");
+                }
+                if (pivot_point.find(".responsive-component-body").hasClass("hidden-sm-tmp")) {
+                    pivot_point.find(".responsive-component-body").addClass("hidden-sm");
+                    pivot_point.find(".responsive-component-body").removeClass("hidden-sm-tmp");
+                }
+                $(this).removeClass("open");
+                $(this).addClass("closed");
+            } else {
+                if (pivot_point.find(".responsive-component-body").hasClass("hidden-xs")) {
+                    pivot_point.find(".responsive-component-body").addClass("hidden-xs-tmp");
+                    pivot_point.find(".responsive-component-body").removeClass("hidden-xs");
+                }
+                if (pivot_point.find(".responsive-component-body").hasClass("hidden-sm")) {
+                    pivot_point.find(".responsive-component-body").addClass("hidden-sm-tmp");
+                    pivot_point.find(".responsive-component-body").removeClass("hidden-sm");
+                }
+                $(this).removeClass("closed");
+                $(this).addClass("open");
+            }
+        });
+    });
+	 $(document).ready(function() {	
+  $('.menu').click(function() {
+  if($(this).hasClass("collapsed")){ 
+     $(this).html('<img src="images/login_hover.png" style="margin-right:5px;"/><img src="images/dropdown-icon-hover.png"/>');  
+  $(this).removeClass("collapsed");
+   $(this).removeClass("closed");
+    var navPosition = $(this).attr('data-position');
+    $('.settingmenu.' + navPosition + '').addClass('open');
+    $('body').addClass('menu-open');
+    return false;
+  }
+  else
+  {
+  $(this).html('<img src="images/login.png" style="margin-right:5px;"/><img src="images/dropdown-icon.png"/>');
+$('body').removeClass('menu-open');
+  $(this).addClass("collapsed");
+  $('.settingmenu').removeClass('open');
+    return false;
+  }
+  });
+ 
+});
+
+
+
+;(function( $, window, document, undefined )
+{
+	$.fn.doubleTapToGo = function( params )
+	{
+	
+		if( !( 'ontouchstart' in window ) &&
+			!navigator.msMaxTouchPoints &&
+			!navigator.userAgent.toLowerCase().match( /windows phone os 7/i ) ) return false;
+
+		this.each( function()
+		{
+			var curItem = false;
+
+			$( this ).on( 'click', function( e )
+			{
+				var item = $( this );
+				if( item[ 0 ] != curItem[ 0 ] )
+				{
+					e.preventDefault();
+					curItem = item;
+				}
+			});
+
+			$( document ).on( 'click touchstart MSPointerDown', function( e )
+			{
+				var resetItem = true,
+					parents	  = $( e.target ).parents();
+					$('btn-yellow').css('box-shadow','0px 0px 8px #222222;');
+
+				for( var i = 0; i < parents.length; i++ )
+					if( parents[ i ] == curItem[ 0 ] )
+						resetItem = false;
+
+				if( resetItem )
+					curItem = false;
+					$('btn-yellow').css('box-shadow','0px 0px 0px #222222;');
+			});
+		});
+		return this;
+	};
+})( jQuery, window, document );
+$( function()
+	{
+		$( '#navbar li.btn-yellow:has(ul)' ).doubleTapToGo();
+	});
+
+ $(document).ready(function() {
+	$(".i_memu").click(function () {
+if($('body').hasClass('show_menu')) {
+ $("body").removeClass('show_menu');
+  $("#header").animate({left: '-241px'});
+}
+else {
+  $("body").addClass('show_menu');
+  $("#header").animate({left: '0px'});
+  // $('#header').css('left', '0px');
+}
+    // Set the effect type
+    var effect = 'slide';
+
+    // Set the options for the effect type chosen
+    var options = { direction:'left' };
+	
+
+    // Set the duration (default: 400 milliseconds)
+    var duration = 500;
+
+  //  $('#header').toggle(effect, options, duration);
+});
+
+});
+ $(document).ready(function() {
+$('.show_menu').click(function() {
+$("#header").animate({left: '-241px'});
+//Hide the menus if visible
+});
+});
+	 $(document).ready(function() {
+$(".form-control").focus(function(){
+$(".navbar-form button").html('<img src="images/search_hover.png"/>');
+$(".navbar-form").removeClass("border")}).blur(function(){
+$(".navbar-form button").html('<img src="images/search.png"/>');
+})
+});
+
+function favpage(){
+$('.favchange').html('<img src="img/favourite-internal_hover.png">');
+window.location="myaccount.php?myfav=1";
+
+}
+ 	</script>
+	
+	   <script src="js/bootstrap-hover-dropdown.js"></script>
+	    <script src="http://demo.codeforgeek.com/ajaxbox/typeahead.min.js"></script>
+	   
+	 <script>
+	$(function() {
+$(window).scroll(function() {
+if($(this).scrollTop() > 100)
+{ $(".navbar-fixed-top").css('box-shadow','0px 3px 9px rgb(96, 96, 96)');
+ }
+ else{
+ $(".navbar-fixed-top").css('box-shadow','0px 0px 0px #222222');
+ }
+})
+});
+ $(document).ready(function(){
+    $('input.searchtext').typeahead({
+        name: 'searchtext',      
+		 remote:'autocomplete.php?q=%QUERY',
+        limit : 10
+    }).on('typeahead:selected', function(e, data) {
+  $('form.navbar-form').submit();
+});
+});
+	 $(document).ready(function(){
+    $('input#search-query').typeahead({
+        name: 'searchtext',      
+		 remote:'autocomplete.php?q=%QUERY',
+        limit : 10
+    }).on('typeahead:selected', function(e, data) {
+  $('form#searchfrm').submit();
+});
+});	
+		
+		
+		
+	 </script>
+	  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.1/angular.min.js"></script>
+	 <script src="js/ngProgress.js"></script>
+<script>
+    var app = angular.module('progressApp', ['ngProgress']);
+
+    app.config(function(ngProgressProvider){
+        // Default color is firebrick
+        ngProgressProvider.setColor('#f2eb09');
+        // Default height is 2px
+        ngProgressProvider.setHeight('3px');
+    });
+
+    var MainCtrl = function($scope, $timeout, ngProgress) {
+        $scope.name = 'Lars';
+        $scope.show = false;
+
+        $scope.color = ngProgress.color();
+        $scope.height = ngProgress.height();
+
+        ngProgress.start();
+        $timeout(function(){
+            ngProgress.complete();
+            $scope.show = true;
+        }, 2000);
+
+        $scope.setWidth = function(new_width, $event) {
+            ngProgress.set(new_width);
+            $event.preventDefault();
+        }
+
+        $scope.startProgress = function($event) {
+            $event.preventDefault();
+            ngProgress.start();
+        }
+
+        $scope.count = function($event) {
+            $event.preventDefault();
+            ngProgress.set(ngProgress.status() + 9);
+        }
+
+        $scope.new_color = function(color, $event) {
+            $event.preventDefault();
+            ngProgress.color(color);
+        }
+
+        $scope.new_height = function(new_height, $event) {
+            $event.preventDefault();
+            ngProgress.height(new_height);
+        }
+
+        $scope.completeProgress = function($event) {
+            $event.preventDefault();
+            ngProgress.complete();
+        }
+
+        $scope.stopProgress = function($event) {
+            $event.preventDefault();
+            ngProgress.stop();
+        }
+
+        $scope.resetProgress = function($event) {
+            ngProgress.reset();
+            $event.preventDefault();
+        }
+    }
+</script>
+		<link rel="shortcut icon" href="http://cashora.com/favicon.ico">
+	<link rel="icon" type="image/ico" href="http://cashora.com/favicon.ico">
+	<style>.ng-scope{padding-top:0px;}#ngProgress{margin-top:0px !important;padding-top:0px !important;}body{padding-bottom:0px !important;}</style>
+</head>
+ <body style="background:#f5f5f5;overflow:inherit !important;padding-right:0px !important;height:auto !important" ng-controller="MainCtrl" class="  pace-done"><div class="pace  pace-inactive"><div class="pace-progress" data-progress-text="100%" data-progress="99" style="transform: translate3d(100%, 0px, 0px);">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+
+ <!-- Google Code for Cashora - Registration Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1031072110;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "rU4sCLC7h1sQ7tLT6wM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1031072110/?label=rU4sCLC7h1sQ7tLT6wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+ <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5T9X3F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5T9X3F');</script>
+<!-- End Google Tag Manager -->
+ <div ng-show="show">
+<div id="header">  
+   <div class="search_wrapper">
+    <ul>
+		<li><a href="/retailers.php">Stores</a></li>
+		<li><a href="/coupons.php">Coupons</a></li>
+		<li><a href="/featured.php">Featured Offers</a></li>
+		<li><a href="/myaccount.php" rel="nofollow">My Account</a></li>
+		<li><a href="/howitworks.php">How It Works</a></li>		
+   </ul>
+          <div class="box">
+			<div class="top">Top Categories</div>
+			<div class="middle">
+				<ul id="categories">
+					<li><a href="/retailers.php" style="font-size: 16px;">All Stores</a></li>
+					<li><a href="/retailers.php?cat=18" style="font-size: 16px;">Accessories</a></li>
+					<li><a href="/retailers.php?cat=1" style="font-size: 16px;">Automotive</a></li>
+					<li><a href="/retailers.php?cat=2" style="font-size: 16px;">Baby &amp; Kids</a></li>
+					<li><a href="/retailers.php?cat=3" style="font-size: 16px;">Clothes</a></li>
+					<li><a href="/retailers.php?cat=4" style="font-size: 16px;">Computer Shops</a></li>
+					<li><a href="/retailers.php?cat=5" style="font-size: 16px;">Dating Sites</a></li>
+					<li><a href="/retailers.php?cat=6" style="font-size: 16px;">Education</a></li>
+					<li><a href="/retailers.php?cat=7" style="font-size: 16px;">Electronics</a></li>
+					<li><a href="/retailers.php?cat=8" style="font-size: 16px;">Food &amp; Drink</a></li>
+					<li><a href="/retailers.php?cat=20" style="font-size: 16px;">Footwear</a></li>
+					<li><a href="/retailers.php?cat=22" style="font-size: 16px;">Furniture,Home &amp; Living Marketplace</a></li>
+					<li><a href="/retailers.php?cat=9" style="font-size: 16px;">Gift Shops</a></li>
+					<li><a href="/retailers.php?cat=10" style="font-size: 16px;">Health &amp; Beauty</a></li>
+					<li><a href="/retailers.php?cat=11" style="font-size: 16px;">Music &amp; Movies</a></li>
+					<li><a href="/retailers.php?cat=21" style="font-size: 16px;">Online optical store</a></li>
+					<li><a href="/retailers.php?cat=23" style="font-size: 16px;">Online Flowers</a></li>
+					<li><a href="/retailers.php?cat=16" style="font-size: 16px;">Online Recharge</a></li>
+					<li><a href="/retailers.php?cat=17" style="font-size: 16px;">Mobile Recharge</a></li>
+					<li><a href="/retailers.php?cat=12" style="font-size: 16px;">Other</a></li>
+					<li><a href="/retailers.php?cat=24" style="font-size: 16px;">Pets Care</a></li>
+					<li><a href="/retailers.php?cat=13" style="font-size: 16px;">Sports &amp; Fitness</a></li>
+					<li><a href="/retailers.php?cat=14" style="font-size: 16px;">Toys &amp; Games</a></li>
+					<li><a href="/retailers.php?cat=15" style="font-size: 16px;">Travel</a></li>			
+			    </ul>
+			</div>			
+		</div>
+     </div>
+</div>
+<!-- Menu Start-->
+
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+	   <div class="container">
+		  <div class="navbar-header">
+						<div class="i_memu hidden-md hidden-lg" track="/common/header/navigation"><i></i></div>
+					 <a class="navbar-brand" href="http://cashora.com/">
+				<img alt="cashora" src="http://cashora.com/img/cashora-logo-header.png" style="float: left;" id="logodes" class="hidden-xs">
+				<img alt="cashora" src="http://cashora.com/img/cashora-mobile-logo.png" style="float: left;" id="logomobile" class="hidden-sm hidden-md hidden-lg">
+			 </a>
+		  </div>
+		  <div id="navbar" class="right vmenu">
+		   
+			 
+			 			 <a class="navbar-toggle collapsed pull-right hidden-lg hidden-sm hidden-md" href="signup.php">
+			 <img src="http://cashora.com/img/join-now-button.png" alt=""></a>		 
+		
+			  
+			 		 
+
+			 <ul class="nav navbar-nav sec">
+			 						<li class="btn btn-yellow navbar-right desklogin hidden-xs" style="background:transparent;">	
+ <a title="login" class=" login hidden-xs" href="signup.php" style="padding: 0px;border-right: 0px;">
+			 <img src="http://cashora.com/img/join-now-button.png" alt=""></a>						
+				</li>
+				
+			
+			<li class="nav-search1 submenu pull-right">
+			<a class="favchange " href="login.php" onclick="" rel="nofollow">
+				SIGN IN &nbsp;| 				</a></li>
+				<li class="nav-search submenu pull-right hidden-lg hidden-md" style="height: 54px;float:right !important">
+				  <img alt="" id="myimage" src="http://cashora.com/img/search-round.png" onmouseover="this.src='http://cashora.com/img/search-round.png'" onmouseout="this.src='http://cashora.com/img/search-round.png'" style="margin-top:1px; margin-left: -3px;">
+				   <div class="header-search">
+					  <form action="http://cashora.com/search.php" method="get" id="searchfrm" name="searchfrm" class="navbar-search navbar-form navbar-left">
+					  <div class="form-group">
+						 <input id="search-query" type="text" name="searchtext" class="searchtext search_textbox" placeholder="Search stores">
+					  </div>
+					  <input type="hidden" name="action" value="search">
+					  <button type="submit" class="btn searchbtn"><img alt="" src="http://cashora.com/images/search.png" onmouseover="this.src='http://cashora.com/img/search_white.png'" onmouseout="this.src='http://cashora.com/images/search.png'"></button>
+					  </form>				  
+				</div></li>
+				<li class="searchmenu pull-right hidden-sm hidden-xs">
+				   <form class="navbar-form navbar-left" action="http://cashora.com/search.php" method="get" name="searchfrm">
+					  <div class="form-group">
+						 <input name="searchtext" type="text" class="searchtext form-control" placeholder="Search stores" value="">
+					  </div>
+					   <input type="hidden" name="action" value="search">
+					  <button type="submit" class="btn searchbtn" style="padding: 0px 5px; border: 1px solid transparent;"><img alt="" src="http://cashora.com/images/search.png"></button>
+				   </form>
+				   
+				   
+				</li>
+				
+				
+					
+				
+			 </ul>
+					  </div>
+		  <div id="navbar" class="right ninty">
+			 <ul class="nav navbar-nav dealmenu" id="catlistt">
+				<!--<li class="reveal"><a href="<?php// echo SITE_URL; ?>"></a></li>-->
+				<li class="reveal ">	<a href="http://cashora.com/coupons.php">Coupons</a></li>
+				 <div class="btn-group" style="float: left;height: 70px;background: transparent;box-shadow:0px 0px 0px transparent;border-right: 1px solid #13468b;">
+          <button style="font-size: 16px;background:transparent;height: 70px;box-shadow:0px 0px 0px transparent;color:#ffffff" class="btn dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false">Category <span class="caret"></span></button>
+          <div class="dropdown-menu" style="left:auto;border-radius:0px;margin:3px 0 0;padding:15px;width:400px;">
+		 <div style="width:100%;float:left;margin-bottom:6px;"> <span style="float:left;border-bottom:2px solid #222222;">Top Category</span></div>
+		  <li><a href="http://cashora.com/retailers.php?cat=18">Accessories</a></li><li><a href="http://cashora.com/retailers.php?cat=1">Automotive</a></li><li><a href="http://cashora.com/retailers.php?cat=2">Baby &amp; Kids</a></li><li><a href="http://cashora.com/retailers.php?cat=3">Clothes</a></li><li><a href="http://cashora.com/retailers.php?cat=4">Computer Shops</a></li><li><a href="http://cashora.com/retailers.php?cat=5">Dating Sites</a></li><li><a href="http://cashora.com/retailers.php?cat=6">Education</a></li><li><a href="http://cashora.com/retailers.php?cat=7">Electronics</a></li><li><a href="http://cashora.com/retailers.php?cat=8">Food &amp; Drink</a></li><li><a href="http://cashora.com/retailers.php?cat=20">Footwear</a></li><li><a href="http://cashora.com/retailers.php?cat=9">Gift Shops</a></li><li><a href="http://cashora.com/retailers.php?cat=10">Health &amp; Beauty</a></li><li><a href="http://cashora.com/retailers.php?cat=22">Home Decor</a></li><li><a href="http://cashora.com/retailers.php?cat=11">Music &amp; Movies</a></li><li><a href="http://cashora.com/retailers.php?cat=21">Onlie optical store</a></li><li><a href="http://cashora.com/retailers.php?cat=23">Online Flowers</a></li><li><a href="http://cashora.com/retailers.php?cat=26">Online Jewellery</a></li><li><a href="http://cashora.com/retailers.php?cat=16">Online Recharge</a></li><li><a href="http://cashora.com/retailers.php?cat=17">Mobile Recharge</a></li><li><a href="http://cashora.com/retailers.php?cat=24">Pets Care</a></li><li><a href="http://cashora.com/retailers.php?cat=13">Sports &amp; Fitness</a></li><li><a href="http://cashora.com/retailers.php?cat=12">Technology</a></li><li><a href="http://cashora.com/retailers.php?cat=25">Digital Printiing</a></li><li><a href="http://cashora.com/retailers.php?cat=14">Toys &amp; Games</a></li><li><a href="http://cashora.com/retailers.php?cat=15">Travel</a></li>          </div>
+        </div>
+				<div class="btn-group reveal ">
+				<!--<a href="http://cashora.com/retailers.php">Stores</a>-->
+			 <button style="font-size: 16px;background:transparent;height: 70px;box-shadow:0px 0px 0px transparent;color:#ffffff" class="btn dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false">
+			 <a href="http://cashora.com/retailers.php" style="font-size: 16px;color:#ffffff;">Stores <span class="caret"></span></a></button>
+			<div class="dropdown-menu" style="left:auto;border-radius:0px;margin:3px 0 0;padding:15px;width:400px;">
+		 <div style="width:100%;float:left;margin-bottom:6px;"> <span style="float:left;border-bottom:2px solid #222222;">
+	Top Stores </span></div>
+		  <li><a href="yatra">Yatra.com</a></li>
+		  <li><a href="zivame">Zivame.com</a></li>
+		  <li><a href="snapdeal">Snapdeal.com</a></li>
+		  <li><a href="pepperfry">Pepperfry.com</a></li>
+		  <li><a href="amazon">Amazon.in</a></li>
+		  <li><a href="dominos">Dominos.co.in</a></li>
+		  <li><a href="ebay">Ebay.in</a></li>
+		  <li><a href="flipkart">Flipkart.com</a></li>
+		  <li><a href="freecharge">Freecharge.in</a></li>
+		  <li><a href="jabong">Jabong.com</a></li>
+		  <li><a href="lenskart">Lenskart.com</a></li>
+		  <li><a href="paytm">Paytm.com</a></li>	
+		  <div style="width:100%;float:left;">
+ <a href="http://cashora.com/retailers.php" style="font-size: 12px;color:#222222;font-weight:bold;text-decoration:none;display:block;width:100%;text-align:right;padding-right:10px;">view all stores <img style="padding-left:3px;" src="img/view-all-stores-icon.png"></a>		  
+          </div> </div>
+		  </div>
+			<!--	<li class="reveal "><a href="http://cashora.com/featured.php">Featured Offers</a></li>-->
+				
+			 
+			
+		</ul>
+		  </div>
+	   </div>
+	</nav>
+	<!-- Menu End -->
+<div id="container">
+
+	<div id="menu">
+		<!--<a href="http://cashora.com/">Home</a>
+		<a href="http://cashora.com/retailers.php">Stores</a>
+		<a href="http://cashora.com/coupons.php">Coupons</a>
+		<a href="http://cashora.com/featured.php">Featured Offers</a>
+		<a href="http://cashora.com/myaccount.php" rel="nofollow">My Account</a>
+		<a href="http://cashora.com/myfavorites.php" rel="nofollow">My Favorites</a>
+		<a href="http://cashora.com/howitworks.php">How It Works</a>
+		<a href="http://cashora.com/help.php">Help</a>-->
+			</div>
+</div>
+<style>@media (min-width: 900px){.containera {  width: 1170px;margin-top:80px;min-height:610px;}}.blog-header h1{color:#a7a7a7;border-bottom:5px solid #e4e4e4;padding-bottom: 10px;}.sidebar-module li a{color:#a7a7a7;}.sidebar-module li.active a{color:#222222;}.sidebar-module ul{list-style:none;width:100%;padding-left:0px;}.sidebar-module li{list-style:none;}.sidebar-module li a{width:100%;display:block;text-decoration:none;border-bottom:1px solid #e4e4e4;  padding: 8px;border-left:1px solid #ffffff;}.sidebar-module li a:hover,.sidebar-module li a.active{width:100%;display:block;text-decoration:none;border-bottom:1px solid #e4e4e4;padding: 8px;border-left:1px solid #f2eb07;  background-size: 5px 9px;  background: url(img/dropdown-about-us.png)no-repeat !important;  background-position: right center !important;}  #style-1::-webkit-scrollbar-track{	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);	border-radius: 10px;	background-color: #F5F5F5;}#style-1::-webkit-scrollbar{	width:5px;	background-color: #F5F5F5;}#style-1::-webkit-scrollbar-thumb{	border-radius: 10px;	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);	background-color: #555;}.scrollbar{	margin-left: 0px;	float: left;	height:420px;	width:100%;	background: #f5f5f5;	overflow-y: scroll;	margin-bottom: 25px;}.sidebar-module ul li:first-child a.active{border-top:1px solid #d5d5d5}
+.privacy p{color:#505050;font-size:12px;}</style><div class="container containera">      <div class="blog-header">   
+  <h1>Privacy Policy</h1>            </div>      <div class="row">        <div class="col-sm-2  blog-sidebar">              
+  <div class="hidden-lg hidden-sm hidden-md" data-target=".sidebar-nav-section" style="z-index:1;font-size: 24px;" data-toggle="collapse">Privacy Policy <img src="img/footers-links-arrow.png" style="margin-left:10px;"></div>	
+          <div class="sidebar-module sidebar-nav-section collapse" aria-expanded="false">                    
+<ul class="">          
+  <li><a href="aboutus.php">About us</a></li>
+			    <li><a href="howitworks.php">How it works</a></li>
+				  <li><a href="contact.php">Contact us</a></li>
+              <li><a href="faq.php">FAQs</a></li>
+              <li><a href="terms.php">Terms &amp; Conditions</a></li>
+              <li><a href="privacy.php" class="active">Privacy Policy</a></li>  
+ <li><a href="tips.php">Tips</a></li>  			  </ul>          </div>  
+			  </div><!-- /.blog-sidebar -->       
+<div class="col-sm-9 blog-main col-sm-offset-1 privacy"> 
+ <div class="scrollbar" id="style-1">      <div class="force-overflow"></div> 
+<p>At Cashora, we understand the value of your privacy and make every possible effort to ensure that all your personal information remains secure at all times.</p>     
+<p>We hold only a minimal amount of information on each registered member.</p> 
+<p>To register as a member, we only require an email address and a password. Prior to sending any payments, we will also require relevant account details in order to give you your money.</p> 
+<p>We only hold information in order to allow users to log into and run their accounts. We will also keep accounts updated with cashback levels. Registered users may update their account details online by following the relevant links from within their account page.</p> 
+<p>
+Member usernames and basic related statistics may occasionally be exposed. Examples of this include where a person has followed your referral link, they may see your name; and where a member who was referred to Cashora has a balance under the referral threshold amount, that balance may be visible to the referring member. If you were referred to Cashora this latter fact will be made clear in your account details page, from which you may opt-out of allowing the referrer from being able to see your account balance.</p> 
+	<h3>An Overview</h3>
+	<p>Cashora.com stores, processes and uses your personal details in order to provide you cashback, customer support and various other services.
+</p><p>
+In this document, "We" and "us" refers to Cashora.com. "Retailers" refer to online merchants, stores and businesses affiliated with us.</p>
+<h2>Information we collect</h2>
+<h3>Personal Information</h3>
+<p>When you signup with Cashora, we collect your name and email address. We also capture your IP address for security purposes. Your email address is critical for a seamless communication between you and Cashora.</p>
+<p>Your personal information helps us to know your better enabling us to serve you better too.</p>
+<h3>Sensitive Details</h3>
+<p>In order to process your request for a wire transfer, we collect your bank account details such as bank account number and the IFSC code of your bank branch. We also collect and store your mailing address in case you opt for cheque to redeem your cashback.</p>
+<h3>Site Usage Details</h3>
+<p>We also keep a log of your movement on Cashora.com. These details contribute to our research and analysis and help us to enhance our layout, design and user interface. In order, to keep your cashback balance updated, we also keep a track of your clicks to retailer pages. We do not store the details such as your credit/debit card number or any other information that you might provide while making a purchase on any of our affiliated retailer's website. It may also be possible we may want to use your personal information for special means or purpose, not stated in our privacy policy. In this case, we will seek your prior consent before using your personal details.</p>
+<h3>Information Sharing</h3>
+<p>We do not share any of your personal details with any third party unless you may specifically give us your consent to do so. However, we may share your details with retailers in order to validate or track your cashback earnings. We may also need to share your information with organizations that assist us in our various business processes.</p>
+<p>We may also be bound to share your information if we are forced to do so by the law, or receive a valid request by a law enforcement or government authority.</p>
+ </div>
+ </div><!-- /.blog-post -->               
+ </div><!-- /.blog-main -->      </div><!-- /.row -->    
+
+
+<div id="footer">
+<footer>
+  <div style="width:100%;border-top:1px dotted #3076d6;">
+   <div class="container mobilediv" style="padding-top:8px;">
+   <div class="ffright col-sm-4 col-xs-12 hidden-xs hidden-sm" style="float: left; display: block; color: #ffffff; font-size: 12px;text-align:left; padding-bottom: 10px;">
+	<img src="img/cashora-footer.png" style="margin-right:5px;float: left;" alt=""><span style="color: #ffffff;float: left;padding-top: 10px;">© 2015 Cashora.com. All rights reserved</span>
+	</div> 
+	<div class="pull-right fright col-sm-8 col-xs-12 hidden-xs hidden-sm" style="padding-top: 3px;">
+	<a class="bright" href="http://cashora.com/introduction.php">Getting started</a>  
+	<a class="bright" href="http://cashora.com/aboutus.php">About Us</a>  
+ <a class="bright" href="http://cashora.com/howitworks.php">How it Works</a> 
+<a class="bright" href="http://cashora.com/faq.php">FAQs</a>
+
+	<a class="bright" href="http://cashora.com/terms.php">Terms &amp; Conditions</a> 
+	<a class="bright" href="http://cashora.com/privacy.php">Privacy Policy</a>  
+	<a class="bright" href="http://cashora.com/contact.php">Contact Us</a> 
+	
+	<a href="https://www.facebook.com/pages/CasHora/466598313503913?ref=hl" target="_blank" title="Share on Facebook">
+				<img onmouseover="this.src='images/fb-refer-hover.png';" onmouseout="this.src='images/facebook_share.png';" src="images/facebook_share.png" alt="Share on Facebook"></a>
+				<a href="https://twitter.com/Cashora_India" target="_blank" title="Share on Twitter">
+				<img onmouseover="this.src='images/twitter-refer-hover.png';" onmouseout="this.src='images/twitter_share.png';" src="images/twitter_share.png" alt="Share on Twitter"></a>
+				<a href="https://plus.google.com/117466666082391260983" target="_blank" title="Share on Google+">
+				<img onmouseover="this.src='images/google-refer-hover.png';" onmouseout="this.src='images/google_share.png';" src="images/google_share.png" alt="Share on Google+">
+				</a>
+	 </div>
+	  <div class="hidden-md hidden-lg " style="margin-top: 0;width:100%;">
+	  <ul class="mobileul">
+		<li>	<a class="mobilelink" href="http://cashora.com/aboutus.php">About Us</a>  </li>
+
+	<li><a class="mobilelink" href="http://cashora.com/terms.php">Terms &amp; Conditions</a> </li>
+	<li><a class="mobilelink" href="http://cashora.com/privacy.php">Privacy Policy</a>  </li>
+	<li><a class="mobilelink" href="http://cashora.com/contact.php">Contact Us</a> </li> 
+		
+	  </ul>
+	  
+	  </div>
+	  <div class="ffright col-sm-4 col-xs-12 hidden-md hidden-lg" style="float: left; display: block; color: #ffffff; font-size: 12px;text-align:left; padding-bottom: 10px;">
+	  
+	  <a href="https://www.facebook.com/pages/CasHora/466598313503913?ref=hl" target="_blank" title="Share on Facebook" style="margin-right:10px;">
+				<img onmouseover="this.src='images/fb-refer-hover.png';" onmouseout="this.src='images/facebook_share.png';" src="images/facebook_share.png" alt="Share on Facebook"></a>
+				<a href="https://twitter.com/Cashora_India" target="_blank" title="Share on Twitter" style="margin-right:10px;">
+				<img onmouseover="this.src='images/twitter-refer-hover.png';" onmouseout="this.src='images/twitter_share.png';" src="images/twitter_share.png" alt="Share on Twitter"></a>
+				<a href="https://plus.google.com/117466666082391260983" target="_blank" title="Share on Google+">
+				<img onmouseover="this.src='images/google-refer-hover.png';" onmouseout="this.src='images/google_share.png';" src="images/google_share.png" alt="Share on Google+">
+				</a>
+	  </div>
+	   <div class="ffright col-sm-4 col-xs-12 hidden-md hidden-lg" style="float: left; display: block; color: #ffffff; font-size: 12px;text-align:left; padding-bottom: 10px;">
+	<img alt="" src="img/cashora-footer.png" style="margin-right:5px;float: left;"><span style="color: #ffffff;float: left;padding-top: 10px;">© 2015 Cashora.com. All rights reserved</span>
+	</div> 
+  </div>
+ 
+		
+	
+	<script>
+	jQuery(function($){$(window).scroll(function(){0==$(this).scrollTop()?$("#toTop").fadeOut():$("#toTop").fadeIn()}),$("#toTop").click(function(){$("body,html").animate({scrollTop:0},600)})});
+	</script>
+
+<div id="toTop"></div>
+	
+</div>
+ </footer>
+</div>
+
+</div>
+<!--Start of Connecto Script-->
+<script type="text/javascript">
+var _TConnecto = _TConnecto || {};
+_TConnecto.licenseKey = 'HZ9DVA2ARL2OFKML';
+
+(function() {
+  var con = document.createElement('script'); con.type = 'text/javascript';
+  var host = (document.location.protocol === 'http:') ? 'http://cdn' : 'https://server';
+  con.src = host + '.connecto.io/javascripts/connect.prod.min.js';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(con, s);
+})();
+</script>
+<!--End of Connecto Script-->
+
+</body></html>
