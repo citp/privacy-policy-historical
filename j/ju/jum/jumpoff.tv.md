@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpoff.tv privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222173255id_/http%3A//jumpoff.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpoff.tv privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417035616id_/http%3A//jumpoff.tv/privacy-policy) for the most accurate reproduction.*
 
 # JumpOff.TV
 
