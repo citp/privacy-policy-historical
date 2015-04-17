@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105221id_/http%3A//www.petsathome.com/shop/en/pets/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417184919id_/http%3A//www.petsathome.com/shop/en/pets/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pets At Home
 
@@ -72,6 +72,7 @@ We may disclose your personal information to any member of the Pets at Home Limi
 
 We may disclose your personal information to third parties: 
 
+  * To process your online orders, including sending order confirmation and delivery information by email;
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
   * If Pets at Home Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; or 
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/shop/en/pets/terms-of-business "Terms and Conditions") or agreements or contracts between us or to protect the rights, property, or safety of Pets at Home Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection, credit risk reduction and our interal investigations including customer complaints and claims.
