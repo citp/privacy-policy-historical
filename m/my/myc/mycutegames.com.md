@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycutegames.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202631id_/http%3A//mycutegames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycutegames.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417123916id_/http%3A//mycutegames.com/privacy.html) for the most accurate reproduction.*
 
 # PrivacyPolicy - My Cute Games
 
