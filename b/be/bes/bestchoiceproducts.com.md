@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestchoiceproducts.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217201724id_/http%3A//bestchoiceproducts.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestchoiceproducts.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418015623id_/http%3A//bestchoiceproducts.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BestChoiceProducts
 
