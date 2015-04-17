@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053528id_/http%3A//ncsasports.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417094324id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
 
-# NCSA Privacy Policy | NCSA Athletic Recruiting | NCSA
+# NCSA Privacy Policy | NCSA Athletic Recruiting | Play Sports in College
 
 ## INTRODUCTION
 
@@ -118,6 +118,6 @@ Attention: Website Privacy Policy
 Chicago, Illinois 60622  
 (888) 333-6846 
 
-[adiorio@ncsasports.org](mailto:adiorio@ncsasports.org)
+[rwells@ncsasports.org](mailto:adiorio@ncsasports.org)
 
 Last modified: May 4, 2012  
