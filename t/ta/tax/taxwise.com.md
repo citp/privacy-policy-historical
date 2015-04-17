@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxwise.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005085615id_/http%3A//www.taxwise.com/pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxwise.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417054738id_/http%3A//taxwise.com/pdf/privacy.pdf) for the most accurate reproduction.*
 
 # CCH Small Firm Services Privacy Statement
 
