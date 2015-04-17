@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tcmagazine.com privacy policy that was archived on 2014-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140109120225id_/http%3A//www.gameconnect.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcmagazine.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417074918id_/http%3A//www.gameconnect.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GameConnect | GameConnect
+# Privacy Policy - GameConnect
 
 GameConnect part of TechConnect understands and respects the need for the privacy of its users. To keep you informed of our privacy policies, we have provided this document disclosing GameConnect’ intent, purpose and use of possibly private information, and detailing the methods of gathering of such information.
 
