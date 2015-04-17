@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the spyonweb.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716115321id_/http%3A//www.spyonweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyonweb.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417031613id_/http%3A//spyonweb.com/privacy) for the most accurate reproduction.*
 
-# Privacy — SpyOnWeb.com Research Tool
+# Privacy Policy - SpyOnWeb.com Research Tool
+
+[Home](https://web.archive.org/)
+
+### Privacy Policy
 
 We at SpyOnWeb.com are committed to respecting your online privacy and recognise your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
