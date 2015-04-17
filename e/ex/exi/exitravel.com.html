@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the exitravel.com privacy policy that was archived on 2014-07-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140708165628id_/http%3A//www.exitnow.ca/about/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exitravel.com privacy policy that was archived on 2015-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150417051624id_/http%3A//www.exitnow.ca/about/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 				<meta name="robots" content="">
@@ -67,7 +67,7 @@
 										
 					</ul>
 					<h3 id="contact-number">1-877-744-3948</h3>
-										 <h4 id="calling-hours">9am to 11pm (ET)<!--<span id="calling-holiday-hours" style="cursor:pointer" class="tip"> View Holiday Hours </span> --> </h4> 
+										 <h4 id="calling-hours">9am to 9pm (ET)<!--<span id="calling-holiday-hours" style="cursor:pointer" class="tip"> View Holiday Hours </span> --> </h4> 
 					<img src="/style/images/header-rep.png" alt="Friendly customer service ready to assist you" id="rep-header">
 					<ul id="nav" class="adxm menu">
 						<li><a href="/">Home</a></li>
@@ -761,7 +761,7 @@
 												<ul>
 																									</ul>
 																							</li>
-											<li><a href="/sunquest-vacations.html">Sunquest vacations</a> 
+											<li><a href="/sunquest-vacations.html">Sunquest Vacations</a> 
 												<ul>
 																									</ul>
 																							</li>
@@ -848,88 +848,86 @@
         			<script src="/js/airportList-EN.js"></script>
 	<script src="/js/airportSelector.js"></script>  
 	<script type="text/javascript">
-		function getDropDown(gateway)
-			{
-				var optionList_EN = ["Choose Your Destination", "All Sun", "All Europe", "All USA", "All Canada"];
-				var optionList_FR = ["Choisissez votre destination", "Tout Sud", "Tout Euope", "Tout É.-U", "Tout Canada"];
-				var displayedAlready = [];
-				var prefill = "zone~SUN";
-				var selected = '';
-					$.ajax({ 
-						url: "/main/dropdown.php?departure=" + gateway + "&recordLanguage=EN",
-						type: "GET",
-						dataType:"html",
-						success: function(data)
-						{
-							var possibleLocations = $.parseJSON(data);
-							if (typeof possibleLocations.regions === 'undefined'){
-								
-								$('#destination').html("<option value='' selected='selected'>No Options Available</option>");
-							} else {
-							//console.log(prefill);
-								if (prefill == ''){selected = 'selected="selected"';}else {selected = '';}
-								var optionList = "<option value='' "+selected+">"+optionList_EN[0]+"</option>";
-								if (prefill == 'zone~SUN'){selected = 'selected="selected"';}else {selected = '';}
-								if(possibleLocations["regions"]["SUN"]){
-									optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~SUN'>"+optionList_EN[1]+"</option>";
-								}
-								if (prefill == 'zone~EUR'){selected = 'selected="selected"';}else {selected = '';}
-								if(possibleLocations["regions"]["EUR"]){
-									optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~EUR'>"+optionList_EN[2]+"</option>";
-								}
-								if (prefill == 'zone~USA'){selected = 'selected="selected"';}else {selected = '';}
-								if(possibleLocations["regions"]["USA"]){
-									optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~USA'>"+optionList_EN[3]+"</option>";
-								}
-								if (prefill == 'zone~CAN'){selected = 'selected="selected"';}else {selected = '';}
-								if(possibleLocations["regions"]["CAN"]){
-									optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~CAN'>"+optionList_EN[4]+"</option>";
-								}
-								
-								
-								for (var country in possibleLocations){
-									// Next Line avoids displaying a country as an option twice. (United Kingdom and United States were doing this.)
-									if ($.inArray(possibleLocations[country]["countryShort"], displayedAlready) > -1){continue;}else {displayedAlready.push(possibleLocations[country]["countryShort"]);}
-									if (country != "regions"){
-										thisCountry = "country~" + possibleLocations[country]["countryShort"];
-										if (prefill == thisCountry){selected = 'selected="selected"';}else {selected = '';}
-										if (possibleLocations[country]["countryName"] == null){continue;}
-										
-										if (possibleLocations[country]["countryShort"] == "KY" && 'EN' == 'FR'){possibleLocations[country]["countryName"] = "Îles Caïmans";}
-										
-										optionList += "<option "+selected+" style='background: Gainsboro' value='country~" + possibleLocations[country]["countryShort"] + "'>" + possibleLocations[country]["countryName"] + "</option>";
-										
-										if (possibleLocations[country]["cities"].length > 1){ // Avoid Displaying 1 city with country -- comment this to restore.
-											for (var city in possibleLocations[country]["cities"]){
-												if (typeof possibleLocations[country]["cities"][city] == 'function'){
-												}
-												else{
-													thisCity = "city~" + possibleLocations[country]["cities"][city]["cityID"];
-													if (prefill == thisCity){selected = 'selected="selected"';}else {selected = '';}
-													cityName = $("<div/>").html(possibleLocations[country]["cities"][city]["cityName"]).text();
-													optionList += "<option "+selected+" value='city~" + possibleLocations[country]["cities"][city]["cityID"] + "'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + cityName + "</option>";
-												}
+		function getDropDown(gateway) {
+			var optionList_EN = ["Choose Your Destination", "All Sun", "All Europe", "All USA", "All Canada"];
+			var optionList_FR = ["Choisissez votre destination", "Tout Sud", "Tout Euope", "Tout É.-U", "Tout Canada"];
+			var displayedAlready = [];
+			var prefill = "zone~SUN";
+			var selected = '';
+				$.ajax({
+					url: "/main/dropdown.php?departure=" + gateway + "&recordLanguage=EN",
+					type: "GET",
+					dataType:"html",
+					success: function(data)	{
+						var possibleLocations = $.parseJSON(data);
+						if (typeof possibleLocations.regions === 'undefined') {
+							
+							$('#destination').html("<option value='' selected='selected'>No Options Available</option>");
+						} else {
+						//console.log(prefill);
+							if (prefill == ''){selected = 'selected="selected"';}else {selected = '';}
+							var optionList = "<option value='' "+selected+">"+optionList_EN[0]+"</option>";
+							if (prefill == 'zone~SUN'){selected = 'selected="selected"';}else {selected = '';}
+							if(possibleLocations["regions"]["SUN"]){
+								optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~SUN'>"+optionList_EN[1]+"</option>";
+							}
+							if (prefill == 'zone~EUR'){selected = 'selected="selected"';}else {selected = '';}
+							if(possibleLocations["regions"]["EUR"]){
+								optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~EUR'>"+optionList_EN[2]+"</option>";
+							}
+							if (prefill == 'zone~USA'){selected = 'selected="selected"';}else {selected = '';}
+							if(possibleLocations["regions"]["USA"]){
+								optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~USA'>"+optionList_EN[3]+"</option>";
+							}
+							if (prefill == 'zone~CAN'){selected = 'selected="selected"';}else {selected = '';}
+							if(possibleLocations["regions"]["CAN"]){
+								optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~CAN'>"+optionList_EN[4]+"</option>";
+							}
+							
+							
+							for (var country in possibleLocations){
+								// Next Line avoids displaying a country as an option twice. (United Kingdom and United States were doing this.)
+								if ($.inArray(possibleLocations[country]["countryShort"], displayedAlready) > -1){continue;}else {displayedAlready.push(possibleLocations[country]["countryShort"]);}
+								if (country != "regions"){
+									thisCountry = "country~" + possibleLocations[country]["countryShort"];
+									if (prefill == thisCountry){selected = 'selected="selected"';}else {selected = '';}
+									if (possibleLocations[country]["countryName"] == null){continue;}
+									
+									if (possibleLocations[country]["countryShort"] == "KY" && 'EN' == 'FR'){possibleLocations[country]["countryName"] = "Îles Caïmans";}
+									
+									optionList += "<option "+selected+" style='background: Gainsboro' value='country~" + possibleLocations[country]["countryShort"] + "'>" + possibleLocations[country]["countryName"] + "</option>";
+									
+									if (possibleLocations[country]["cities"].length > 1){ // Avoid Displaying 1 city with country -- comment this to restore.
+										for (var city in possibleLocations[country]["cities"]){
+											if (typeof possibleLocations[country]["cities"][city] == 'function'){
+											}
+											else{
+												thisCity = "city~" + possibleLocations[country]["cities"][city]["cityID"];
+												if (prefill == thisCity){selected = 'selected="selected"';}else {selected = '';}
+												cityName = $("<div/>").html(possibleLocations[country]["cities"][city]["cityName"]).text();
+												optionList += "<option "+selected+" value='city~" + possibleLocations[country]["cities"][city]["cityID"] + "'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + cityName + "</option>";
 											}
 										}
-										
 									}
+									
 								}
-								
-								$('#destination').html(optionList);
 							}
-						},
-						// beforeSend:function(xhr) {
-							// xhr.overrideMimeType('text/html; charset=UTF-8');
-                        // },
-						error: function (XMLHttpRequest, textStatus, errorThrown)
-						{
 							
-						}});
-			};
+							$('#destination').html(optionList);
+						}
+					},
+					// beforeSend:function(xhr) {
+						// xhr.overrideMimeType('text/html; charset=UTF-8');
+					// },
+					error: function (XMLHttpRequest, textStatus, errorThrown) {
+						
+					}
+				});
+		};
 			
 
 		$(document).ready(function(){
-			var gateway = "YQM";
+			var gateway = "YLW";
 			makeEngDate();
 			getDropDown(gateway);
 			
@@ -981,13 +979,13 @@
 																<option value="YHZ">Halifax, NS, Canada (YHZ)</option>
 																<option value="YHM">Hamilton, ON, Canada (YHM)</option>
 																<option value="YKA">Kamloops, BC, Canada (YKA)</option>
-																<option value="YLW">Kelowna, BC, Canada (YLW)</option>
+																<option value="YLW" selected="">Kelowna, BC, Canada (YLW)</option>
 																<option value="YGK">Kingston, ON, Canada (YGK)</option>
 																<option value="YKF">Waterloo Regional, ON, Canada (YKF)</option>
 																<option value="YQL">Lethbridge, AB, Canada (YQL)</option>
 																<option value="YXU">London, ON, Canada (YXU)</option>
 																<option value="YXH">Medicine Hat, AB, Canada (YXH)</option>
-																<option value="YQM" selected="">Moncton, NB, Canada (YQM)</option>
+																<option value="YQM">Moncton, NB, Canada (YQM)</option>
 																<option value="YUL">Montreal - Trudeau, QC, Canada (YUL)</option>
 																<option value="YCD">Nanaimo BC (YCD), Canada</option>
 																<option value="YYB">North Bay, ON, Canada (YYB)</option>
@@ -1271,8 +1269,8 @@
                         	<ol style="z-index:8930;">
                             	<li style="z-index:8920;">
                                 	<label for="">Departing from:</label>
-                                       <input id="departSelector" name="departSelector" class="txt" autocomplete="OFF" onfocus="cityListOnFocus(this,event);" onkeyup="return cityListOnKeyUp(this,event,'up');" onkeydown="return cityListOnKeyUp(this,event,'down');" onblur="cityListOnBlur(this,event);" type="text" value="Moncton, NB, Canada (YQM)">
-					<input name="gatewayCode" id="gatewayCode" type="hidden" onblur="blurRestrictedCheck()" value="YQM">                        
+                                       <input id="departSelector" name="departSelector" class="txt" autocomplete="OFF" onfocus="cityListOnFocus(this,event);" onkeyup="return cityListOnKeyUp(this,event,'up');" onkeydown="return cityListOnKeyUp(this,event,'down');" onblur="cityListOnBlur(this,event);" type="text" value="Kelowna, BC, Canada (YLW)">
+					<input name="gatewayCode" id="gatewayCode" type="hidden" onblur="blurRestrictedCheck()" value="YLW">                        
                         		<div style="display:none;z-index:8910;" class="listbox" id="departAirList"></div> 
                    		 	<div id="departSearchDesc" class="prompt-box" style="display: none;z-index:8900;">
                            			 <h5><a class="float-right" href="#">Close</a>Enter the first 3 characters of:</h5>
@@ -1302,14 +1300,14 @@
 					
                                 	<label for="" class="block">Departure date:</label>
                                     <input class="date hasDatepicker" name="departureDateText" type="text" id="departureDateText" onfocus="this.select();" value="mm/dd"><img class="ui-datepicker-trigger" src="/style/images/hotels/calendar.png" alt="..." title="...">                                   
-					 <!--<em class="calendar" onClick="dateSelector('departure','2014','07');">mm/dd</em>
+					 <!--<em class="calendar" onClick="dateSelector('departure','2015','04');">mm/dd</em>
 					<input name="departureDate" type="hidden" id="departureDate" value=''/>-->
 					<div id="dateTable" class="date-box" style="display:none;z-index:8830;"></div>
                                 </li>				
                                 <li id="datePickFlightArival" class="calendar" style="z-index:8820;">
                                 	<label for="" class="block">Return date:</label>        
                                     <input class="date hasDatepicker" name="arrivalDateText" type="text" id="arrivalDateText" onfocus="this.select();" value="mm/dd"><img class="ui-datepicker-trigger" src="/style/images/hotels/calendar.png" alt="..." title="...">
-                                 	 <!--<em class="calendar" onClick="dateSelector('arrival','2014','07');" >mm/dd</em>
+                                 	 <!--<em class="calendar" onClick="dateSelector('arrival','2015','04');" >mm/dd</em>
  					<input name="ArrivalDate" type="hidden" id="ArrivalDate" value=''/>-->
                 			    <div id="dateArrivalTable" class="date-box" style="display:none;z-index:8810;"></div>
 					</li>                                             
@@ -1887,9 +1885,9 @@
 				});
 					
 					
-		var thisMonth='07';
-		var thisYear='2014';
-		var thisDay='08';
+		var thisMonth='04';
+		var thisYear='2015';
+		var thisDay='17';
 		var formError = {};
 		
 function validate(type){
