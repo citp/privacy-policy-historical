@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldpriceoz.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121090945id_/http%3A//www.goldpriceoz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldpriceoz.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418011603id_/http%3A//www.goldpriceoz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Gold Price OZ
 
