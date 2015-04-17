@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928210331id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417100544id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Graphics Unleashed
 
@@ -65,7 +65,7 @@ Cave Creek, AZ 85331
 
   
 Last Updated Tuesday March 17 2009.    
-Artwork, Brushes & Add-Ons |  Free Stuff |  Training |  Seamless Textures  
+Artwork, Brushes & Add-Ons |  Free Stuff |  Training |  Unleashed Sites  
 ---|---|---|---  
   
 [Bonus Content Packs](http://www.unleash.com/bonus-content-packs/)  
@@ -78,7 +78,7 @@ Artwork, Brushes & Add-Ons |  Free Stuff |  Training |  Seamless Textures
 
 | 
 
-[Vehicle Templates-1000s free](http://www.unleash.com/ddw/vehicle-templates/)  
+[Vehicle Templates-1000s free](http://vehicle-templates-unleashed.com/)  
 [Signs by Design](http://www.unleash.com/signsbydesign/)  
 [Clipart deSIGN](http://www.unleash.com/clipartdesign/)  
 [Design Base (free)](http://www.unleash.com/tomknight/design-base/)  
@@ -88,30 +88,28 @@ Artwork, Brushes & Add-Ons |  Free Stuff |  Training |  Seamless Textures
 
 | 
 
-[620+ Free Fonts](http://www.unleash.com/fonts-unleashed/)  
-[Cave Creek Geek  
-](http://www.unleash.com/cave-creek-geek/)[Graphics Unleashed Blog  
-](http://graphics-unleashed.unleash.com/)[Free Publications  
-](http://www.unleash.com/news/graphicsunleashedsubscription.aspx)[Resources Docker](http://www.unleash.com/resources/)  
+[680+ Free Fonts](http://www.unleash.com/fonts-unleashed/)  
+[Cave Creek Geek](http://www.unleash.com/cave-creek-geek/)  
+[Graphics Unleashed Blog](http://graphics-unleashed.com/)  
+[Free Publications](http://www.unleash.com/news/graphicsunleashedsubscription.aspx)  
+[Resources Docker](http://www.unleash.com/resources/)  
 
 
 | 
 
-[CorelDRAW X6 Training DVD](http://www.unleash.com/coreldraw-x6-unleashed/)  
-[X5 DVDs](http://www.unleash.com/coreldraw-x5-unleashed/) | [X4 DVDs](http://www.unleash.com/coreldrawx4unleashed/)  
+[CorelDRAW X6 Training DVD](http://coreldrawunleashed.com/store/coreldraw-x6-unleashed-multimedia-training-dvd/)  
+[X5 DVDs](http://coreldrawunleashed.com/store/coreldraw-x5-unleashed-multimedia-training-dvd/) | [X4 DVDs](http://www.unleash.com/coreldrawx4unleashed/)  
 [Jeff Harrison's FUNdaMENTALs](http://www.unleash.com/jeffh/)  
-[CorelDRAW Training](http://www.unleash.com/training/coreldrawbootcamp.asp) | [On-Site](http://www.unleash.com/training/corporate.html)  
-[Hire the Geek](http://www.unleash.com/training/hire-the-geek/)  
+[CorelDRAW Training](http://coreldrawunleashed.com/store/coreldraw-unleashed-training-session/) | [On-Site](http://coreldrawunleashed.com/home/coreldraw-training/onsite-training-sessions/)  
+[Hire the Geek](http://coreldrawunleashed.com/home/coreldraw-training/hire-the-geek/)  
 
 
 | 
 
-[1900+ Seamless Textures](http://www.unleash.com/textures/)  
-[Wood](http://www.unleash.com/textures/textures-unleashed-wood-board.aspx) | [Metal](http://www.unleash.com/textures/textures-unleashed-metal.aspx) | [Stone](http://www.unleash.com/textures/textures-unleashed-stone.aspx) | [Terrain](http://www.unleash.com/textures/textures-unleashed-terrain.aspx) | [Fire & Ice](http://www.unleash.com/textures/textures-unleashed-fire-ice.aspx)  
-[Ground & Plants](http://www.unleash.com/textures/textures-unleashed-ground-plants.aspx) | [Floor, Wall & Bricks](http://www.unleash.com/textures/textures-unleashed-floor-wall-bricks.aspx) | [Fiber](http://www.unleash.com/textures/textures-unleashed-cloth-fiber.aspx)  
-[Tile & Path](http://www.unleash.com/textures/textures-unleashed-tile-path.aspx) | [Marble](http://www.unleash.com/textures/textures-unleashed-marble-architecture-art.aspx) | [Crystals](http://www.unleash.com/textures/textures-unleashed-crystals.aspx) | [Tech](http://www.unleash.com/textures/textures-unleashed-technology.aspx)  
-[Metal II](http://www.unleash.com/textures/textures-unleashed-metal-ii.aspx) | [Diamond Plate](http://www.unleash.com/textures/textures-unleashed-diamond-plate.aspx) | [Circuits](http://www.unleash.com/textures/textures-unleashed-circuits.aspx)  
-  
+[CorelDRAW Unleashed](http://coreldrawunleashed.com/)  
+[Seamless Textures Unleashed](http://seamless-textures-unleashed.com/)  
+[Vehicle Templates Unleashed](http://vehicle-templates-unleashed.com/)  
+[Web Design Solutions Unleashed](http://web-design-solutions-unleashed.com/)  
   
 [](http://www.unleash.com/aboutupi/)  
   
