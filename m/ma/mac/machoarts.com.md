@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machoarts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050506id_/http%3A//machoarts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machoarts.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417125041id_/http%3A//machoarts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO | Social Media | Blogging | Design | Photographu
 
@@ -15,7 +15,7 @@ Machoarts.com does use cookies to store information about visitors preferences, 
 
   1. Google, as a third party vendor, uses cookies to serve ads on [ **Machoarts.com**](http://machoarts.com/).
   2. Google’s use of the DART cookie enables it to serve ads to users based on their visit to Machoarts.com and other sites on the Internet.
-  3. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+  3. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
 
 
