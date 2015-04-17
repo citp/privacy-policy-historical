@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zentut.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230163108id_/http%3A//www.zentut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zentut.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418011539id_/http%3A//www.zentut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,8 +20,8 @@ Users may opt out of the use of the DART cookie by visiting the zentut.com ad an
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  *  To personalize your experience - (your information helps us to better respond to your individual needs)
-  *  To improve our website - (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  *  To personalize your experience – (your information helps us to better respond to your individual needs)
+  *  To improve our website – (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   *  To administer a contest, promotion, survey or other site feature
   *  To send periodic emails
 
