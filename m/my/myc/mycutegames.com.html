@@ -1,7 +1,54 @@
-<!--The following is the downloaded HTML source of the mycutegames.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120202631id_/http%3A//mycutegames.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycutegames.com privacy policy that was archived on 2015-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150417123916id_/http%3A//mycutegames.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+	
+	<script type="text/javascript" src="https://ssl.google-analytics.com/ga.js"></script><script>
+		load('/_t.png', function(xhr) {
+		});
+ 
+		function load(url, callback) {
+			var xhr;
+
+			if(typeof XMLHttpRequest !== 'undefined') xhr = new XMLHttpRequest();
+			else {
+				var versions = ["MSXML2.XmlHttp.5.0", 
+								"MSXML2.XmlHttp.4.0",
+								"MSXML2.XmlHttp.3.0", 
+								"MSXML2.XmlHttp.2.0",
+								"Microsoft.XmlHttp"]
+
+				 for(var i = 0, len = versions.length; i < len; i++) {
+					try {
+						xhr = new ActiveXObject(versions[i]);
+						break;
+					}
+					catch(e){}
+				 } // end for
+			}
+
+			xhr.onreadystatechange = ensureReadiness;
+
+			function ensureReadiness() {
+				if(xhr.readyState < 4) {
+					return;
+				}
+
+				if(xhr.status !== 200) {
+					return;
+				}
+
+				// all is well  
+				if(xhr.readyState === 4) {
+					callback(xhr);
+				}           
+			}
+
+			xhr.open('GET', url, false);
+			xhr.send('');
+		}
+	</script>
+	
         <meta http-equiv="X-UA-Compatible" content="IT=edge,chrome=IE8">
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,10 +59,12 @@
         <link rel="stylesheet" href="http://mycutegames.com/templates/js/owl-carousel/owl.theme.css">
         <title>PrivacyPolicy - My Cute Games</title>
         <link href="http://mycutegames.com/templates/css/style.css" rel="stylesheet">
+		<link rel="stylesheet" href="http://mycutegames.com/templates/css/jquery.mCustomScrollbar.css">
         <!--[if IE]>
         <link rel="stylesheet" href="http://mycutegames.com/templates/css/ie.css" />
         <![endif]-->
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://mycutegames.com/templates/js/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript" src="http://mycutegames.com/templates/js/jquery-1.10.2.min.js"></script>
+		<script src="http://mycutegames.com/templates/js/jquery.mCustomScrollbar.concat.min.js"></script>
         <!--[if lt IE 9]>
           <script type="text/javascript" src="http://mycutegames.com/templates/js/PIE_IE678.js"></script>
         <![endif]-->
@@ -49,7 +98,7 @@
   _gaq.push(['_trackPageview']);
 
   (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = false;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
@@ -57,7 +106,7 @@
 </script>
 
         <div class="wrapper">
-            <div class="wrapper-inner">
+            <div class="wrapper-inner ">
 
                 <!-- .header-->
                 <header class="header">
@@ -92,6 +141,7 @@
 																	<li class=""><a href="/Games/Doctor">Doctor</a></li>
 																	<li class=""><a href="/Games/OtherGames">Other Games</a></li>
 																	<li class=""><a href="/Games/HairMakeup">Hair &amp; Makeup</a></li>
+																	<li class=""><a href="/Games/TomandAngela">Tom and Angela</a></li>
 												</ul>
 				</div>
 			</div>
@@ -162,13 +212,14 @@
 							</aside><!-- .right-sidebar -->
 					</div><!-- .middle-->
 				            </div>
-
+			<div class="clickarcade">
+				
+			</div>
             <!-- .footer -->
             <footer class="footer">
-	<span><a href="/submit/">Submit game</a> | <a href="/freegames/">Free games</a> | <a href="/privacy.html">PrivacyPolicy</a> | <a href="/contacts/">Contacts</a></span>
+	<span><a href="/submit/">Submit game</a> | <a href="/freegames/">Free games</a> | <a href="/privacy.html">PrivacyPolicy</a> | <a href="/contacts/">Contacts</a> | <a href="/sitemap/">Sitemap</a></span>
 </footer>            <!-- .footer -->
         </div><!-- .wrapper -->
-
     
-
+	
 </body></html>
