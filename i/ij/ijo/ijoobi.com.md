@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijoobi.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327063005id_/http%3A//www.joobi.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijoobi.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417145621id_/http%3A//www.joobi.co/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,4 @@ If you have any questions about this Policy or our web site, please feel free to
 Johnsonville, Wellington 6037  
 New Zealand
 
-We can be reached via email at [support@joobi.co](mailto:support@joobi.co).
+We can be reached via email at support (at) joobi.co.
