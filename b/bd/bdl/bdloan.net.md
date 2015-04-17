@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the bdloan.net privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224043444id_/http%3A//bdloan.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdloan.net privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417234626id_/http%3A//bdloan.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Bdloan.net
 
-by  on April 12, 2013. Updated July 21, 2014
+**Last Updated: 03 – January – 2015**
+
+**Personal Data collected for the following purposes and using the following services:**
 
 ## Analytics
 
   * Google Analytics  
 Personal Data: Cookie and Usage Data  
-Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.example.com, to prepare reports on its activities and share them with other Google services.  
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [bdloan.net](http://bdloan.net/ "BDLOAN.NET"), to prepare reports on its activities and share them with other Google services.  
 Google may use the data collected to contextualize and personalize the ads of its own advertising network.Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google’s [privacy](http://www.google.com/intl/en/policies/privacy/)[ policy here](http://www.google.com/intl/en/policies/privacy/).
   * You can opt out by clicking [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
 
@@ -16,7 +18,7 @@ Google may use the data collected to contextualize and personalize the ads of it
 
 ## Adsense
 
-  * Google AdSense is an advertising service provided by Google. [http://bdloan.net](http://bdloan.net/ "bdloan.net") uses the “Doubleclick” Cookie, which tracks the use of [http://bdloan.net](http://bdloan.net/ "bdloan.net") and user behavior concerning ads, products and the services we offer.  
+  * Google AdSense is an advertising service provided by Google. [http://bdloan.net](http://bdloan.net/ "bdloan.net") uses the “Doubleclick” Cookie, which tracks the use of [bdloan.net](http://bdloan.net/ "bdloan.net") and user behavior concerning ads, products and the services we offer.  
 Personal Data collected: Cookie and Usage Data. Place of processing: USA. You can find the AdSense [Privacy Policy](http://www.google.com/policies/privacy/ads/) here.
   * You may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout?hl=en](http://www.google.com/ads/preferences/html/blocked-cookies.html).
 
@@ -28,31 +30,50 @@ The Data concerning the User is collected to allow the Application to provide it
 
 _**We don’t sell your data, or modify it or use it by any other means.**_
 
-### Privacy
+**Do we use cookies?**
 
-**[http://bdloan.net](http://bdloan.net/ "bdloan.net") respects your privacy.**
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of [http://bdloan.net](http://bdloan.net/ "bdloan.net").
+We use cookies to keep track of advertisements and .
 
-**Credit card details**
+**Do we disclose any information to outside parties?**
 
-[http://bdloan.net](http://bdloan.net/ "bdloan.net") will never ask for Credit Card details and request that you do not enter it on any of the forms on [http://bdloan.net](http://bdloan.net/ "bdloan.net").
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**External Sites.**
+**Third party links**
 
-[http://bdloan.net](http://bdloan.net/ "bdloan.net") is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Cookies**
+**Childrens Online Privacy Protection Act Compliance**
 
-A “cookie” is a small data text file that is placed in your browser and allows [http://bdloan.net](http://bdloan.net/ "bdloan.net") to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and [http://bdloan.net](http://bdloan.net/ "bdloan.net") does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Remember The Risks Whenever You Use The Internet**
+**Online Privacy Policy Only**
 
-While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to [http://bdloan.net](http://bdloan.net/ "bdloan.net") and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through [http://bdloan.net](http://bdloan.net/ "bdloan.net") have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-Please contact those vendors and others directly if you have any questions about their privacy policies.
+**Terms and Conditions**
 
-For any other information email [webmaster](mailto:sjamal59@gmail.com)  
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [bdloan.net](http://bdloan.net/privacy-policy/)
 
-  *[April 12, 2013]: 2013-04-12
-  *[July 21, 2014]: 2014-07-21
+**Your Consent**
+
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. or you can contact us through [Contact Us](http://bdloan.net/contact-me "Contact Me") Page.
+
+[bdloan.net](http://bdloan.net/ "bdloan.net")
+
+Md. Golam Faruque
+
+Nakhalpara, Tejgaon, Dhaka -1215
+
+Bangladesh
+
+[faruque.golam[at]gmail.com](mailto:faruque.golam@gmail.com)
