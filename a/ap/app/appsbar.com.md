@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsbar.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223040734id_/http%3A//www.appsbar.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsbar.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417181128id_/http%3A//www.appsbar.com/Privacy.php) for the most accurate reproduction.*
 
 # Rated Best App Maker, The Easiest Way to Create an App - appsbar
 
