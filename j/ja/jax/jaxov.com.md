@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaxov.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104135419id_/http%3A//jaxov.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaxov.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417192602id_/http%3A//jaxov.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
