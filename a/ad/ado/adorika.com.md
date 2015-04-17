@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adorika.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227031746id_/http%3A//www.adorika.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adorika.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418012830id_/http%3A//www.adorika.com/privacy_policy) for the most accurate reproduction.*
 
 # Adorika - Privacy policy
 
