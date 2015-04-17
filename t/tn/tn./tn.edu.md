@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tn.edu privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216012040id_/http%3A//www.southwest.tn.edu/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tn.edu privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417132056id_/http%3A//www.southwest.tn.edu/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Southwest Tennessee Community College
 
@@ -52,7 +52,7 @@ Southwest will not share or sell your information to any third parties.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-Teresa Calloway,  
-Website Content Coordinator, Southwest Tennessee Community College  
-[webmaster@southwest.tn.edu](mailto:webmaster@southwest.tn.edu) or 901-333-4468
+Clint Norwood,  
+Webmaster, Southwest Tennessee Community College  
+[webmaster@southwest.tn.edu](mailto:webmaster@southwest.tn.edu) or 901-333-4095
   *[IP]: Internet Protocol
