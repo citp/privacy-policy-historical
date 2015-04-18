@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvtr3s.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013192941id_/http%3A//www.tr3s.com/gsp/tr3s-info-files/tr3s-privacy-policy-updated-march-2011.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvtr3s.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418034521id_/http%3A//www.tr3s.com/gsp/tr3s-info-files/tr3s-privacy-policy-updated-march-2011.pdf) for the most accurate reproduction.*
 
 # 
 
