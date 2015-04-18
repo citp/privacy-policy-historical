@@ -1,72 +1,55 @@
-> *The following text is extracted and transformed from the mara.gov.au privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328214716id_/https%3A//www.mara.gov.au/supporting/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mara.gov.au privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418023140id_/https%3A//www.mara.gov.au/supporting/privacy) for the most accurate reproduction.*
 
-# Privacy and Online Security - Office of the Migration Agents Registration Authority
+# Privacy Policy - Office of the Migration Agents Registration Authority
 
-## The Privacy Act 
+This privacy policy applies to personal information collected by the Office of the Migration Agents Registration Authority (the “Authority”). The Authority is bound by provisions relating to the collection, use and disclosure of personal information by various Commonwealth laws – particularly the Migration Act 1958 (Cth) (the “Migration Act”) and the Privacy Act 1988 (Cth) (the “Privacy Act”).
 
-The Privacy Act 1988 is the key law designed to prevent agencies in the Australian Government from misusing personal information they have collected.
+This privacy policy is an overview, and does not provide details about all of our personal information management practices, procedures and systems. Further information can be obtained from the Department of Immigration and Border Protection’s (the department) privacy policy at the department’s webpage.   
+[DIBP Privacy Policy](http://www.immi.gov.au/pub-res/Pages/policy/privacy-policy.aspx "DIBP Privacy Policy")
 
-The information privacy principles in the Act are strict safeguards. The Office of the Migration Agents Registration Authority must obey them when collecting, using and disclosing information about you.
+### Our role
 
-As a general rule, we do not collect personal information when you visit this website. You can visit this website without telling us who you are, unless you choose to provide such information.
+Our key objectives are to ensure that:
 
-## Security of information 
-
-The Privacy Act 1988 has provisions that prohibit anyone working for us, or any other government agency, from collecting, using or disclosing your personal information except when performing their duties and in situations permitted by law.
-
-We will not disclose your personal information unless you give us permission to do so or unless the law permits. While we provide a secure online environment, you need to be aware of the risks associated with sending information through the Internet.
-
-## Website visit data 
-
-We operate this website with technical assistance from an external company.
-
-When visiting this website, your visit is logged and information on your visit is recorded. We use these logs to analyse and monitor how this website is used. We also use the logs to learn what information is most and least used, so we can make the website better for users.
-
-We make no attempt to identify you personally or your browsing activities except when investigating improper use or where a law enforcement agency issues a warrant to inspect the logs.
-
-The information logged when you visit this website includes:
-
-  * your Internet Protocol address or your server's Internet Protocol address
-  * the date and time you visit the website
-  * the pages you accessed
-  * details on your operating system (for example,Windows XP, Windows 7, Mac OS X)
-  * details on your web browser version and type (for example, IE8, IE9, Chrome, Firefox, Safari)
-  * the time it took to transmit information to you
-  * the previous Internet address if you linked from it to this website.
+  * consumers understand their rights and agents understand their obligations under the regulatory framework;
+  * only suitable persons are registered as migration agents, and unsuitable persons are refused registration or re-registration:
+  * registered migration agents maintain appropriate knowledge and skills to enable them to provide accurate and timely advice to consumers:
+  * registered migration agents are monitored to ensure the integrity of their conduct and the quality of the immigration assistance provided to consumers; and
+  * consumers of the services of registered, or formerly registered, migration agents are provided with an efficient and effective complaints handling service.
 
 
 
-## Cookies 
+### Our obligations under the Privacy Act
 
-We use ‘cookies’ for maintaining contact with a user through a website session. A cookie is a small file supplied by us, and stored by the web browser software on your computer when you access our site. An explanation of what cookies are and how they work can be found on the website of the Office of the Australian Information Commissioner. Cookies allow us to recognise you as an individual web user, as you browse our website.  
-[Office of the Australian Information Commissioner  
-](http://www.privacy.gov.au/internet/internet_privacy/#2.1 "Office of the Australian Information Commissioner")
+This privacy policy sets out how we comply with our obligations under the Privacy Act 1988.  The Privacy Act sets out 13 Australian Privacy Principles (APPs) which regulate the collection, use, disclosure and storage of personal information and how individuals can access and correct personal information held about them.  We are legally bound by the APPs.
 
-Two cookie types may be used by this website:
+The Privacy Act defines ‘personal information’ as
 
-### Session cookies
+information or an opinion about an identified individual, or an individual who is reasonably identifiable:
 
-These exist only for the duration of a web browser session with a particular website/host. All cookies will be immediately lost when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you last used the system. This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record private information about you.
-
-### Persistent cookies
-
-These exist for a defined period of time (usually beyond the termination of the current session) before expiring.
-
-No personally identifiable information is stored within cookies used by this website. No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.
-
-## Online security 
-
-Before submitting your personal details on our website, it is good practice to check that your computer and Internet connection are as secure as possible.
-
-Steps you can take to help secure your computer are:
-
-  * set and protect  passwords
-  * set and update anti-virus and anti-spyware software
-  * install and use a firewall
-  * manage spam emails
-  * secure your Internet browser.
+  1. whether the information or opinion is true or not; and
+  2. whether the information or opinion is recorded in a material form or not.
 
 
 
-Practical tips on how to protect yourself against security scams and how to complete online transactions safely, is available from the Australian Government’s Stay Smart Online website.  
-[Stay Smart Online](http://www.staysmartonline.gov.au/)
+The Privacy Act also places a higher standard of protection on sensitive information which means:
+
+Information or an opinion about an individual's:
+
+  * racial or ethnic origin
+  * political opinions
+  * membership of a political association
+  * religious beliefs or affiliations
+  * philosophical beliefs
+  * membership of a professional or trade association
+  * membership of a trade union
+  * sexual orientation or practices
+  * criminal record
+  * health information about an individual
+  * genetic information about an individual that is not otherwise health information
+  * biometric information that is to be used for the purpose of automated biometric verification or biometric identification
+  * biometric templates
+
+
+
+Show All
