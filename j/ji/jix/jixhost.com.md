@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jixhost.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017093518id_/http%3A//www.jixhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jixhost.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418050749id_/http%3A//www.jixhost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | JixHost
 
