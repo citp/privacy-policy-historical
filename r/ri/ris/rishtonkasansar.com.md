@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rishtonkasansar.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709203450id_/http%3A//www.rishtonkasansar.com/terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rishtonkasansar.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418210804id_/http%3A//www.rishtonkasansar.com/terms.aspx) for the most accurate reproduction.*
 
 # Rishtonkasansar.com Matrimonial India, Matrimony Website, Indian Matrimonial Websites, Marriage, Shadi
 
