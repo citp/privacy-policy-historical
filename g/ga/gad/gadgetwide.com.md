@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the gadgetwide.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723051825id_/http%3A//www.gadgetwide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetwide.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418042811id_/http%3A//www.gadgetwide.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GadgetWide Solutions
+# Privacy Policy | GadgetWide Solutions
 
-### **Terms of Use**
+## Privacy Terms and Conditions
 
-GadgetWide (VBD S.P) is committed to keeping any and all personal information collected of those individuals using this website, our online facilities and all associated services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with of our commitment and realization of our obligation not only to meet but to **exceed** most existing **privacy** **standards**.
+GadgetWide (VBD S.P) is committed to keeping any and all personal information collected of those individuals using this website, our online facilities and all associated services accurate, confidential, secure and private.
+
+### **GadgetWide Terms of Use**
+
+Our privacy policy has been designed and created to ensure those affiliated with of our commitment and realization of our obligation not only to meet but to **exceed** most existing **privacy** **standards**.
 
 THEREFORE, this privacy policy shall apply to GadgetWide and all associated content, and thus it shall govern any and all data collection and usage thereof. **Through the use** of GadgetWide’s services **you are** herein **consenting** to the **following** data **procedures** expressed within this agreement.
 
@@ -27,9 +31,13 @@ GadgetWide may have the occasion to collect anonymous demographic information, s
 
 #### **Use of Information Collected**
 
-GadgetWide may collect and may make use of personal information to assist in the operation of our website/services and associated sites and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from GadgetWide’s website/services and associated sites. GadgetWide  **WILL NEVER** **contact you** with **regards** to completing **surveys** and/or **research** questionnaires related to your opinion of current or potential future services that may be offered by us or any other organization.
+GadgetWide may collect and may make use of personal information to assist in the operation of our website/services and associated sites and to ensure delivery of the services you need and request.
 
-  **GadgetWide does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties.**
+At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from GadgetWide’s website/services and associated sites.
+
+GadgetWide  **WILL NEVER** **contact you** with **regards** to completing **surveys** and/or **research** questionnaires related to your opinion of current or potential future services that may be offered by us or any other organization.
+
+**GadgetWide does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties.**
 
  GadgetWide may deem it necessary to follow registration statistics, websites and/or pages that our users may frequent only within the GadgetWide eco-system in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
 
@@ -59,9 +67,13 @@ Our website does contain links to affiliate and other websites. GadgetWide does 
 
 #### **Security**
 
+> YOU SHOULD KNOW THIS
+
+**When users leave comments on articles or  posts, unique network identifiers are collected and posted alongside each publicly posted comment. The information includes but is not limited to, IP address, MAC address, Operating System (OS), web browser, version indicators and more. This data is collected and re-posted in order to minimize SPAM and threatening articles of data. The collected information from user comments also serve as unique identifiers assisting us in targeting users, sorting through comments and more. The justification of these practices would likely be used in an example scenario such as, obtaining the name of a comments author (in order to identify a cingular user enrolled in a comment-based give-away or other similar situation). This type of data usage is the most commonly used form such as that stated within the last example.      **
+
 GadgetWide shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control.
 
- When a uses chooses to purchase products and/or services GadgetWide uses Secure Socket Layer (SSL) for billing and/or credit card information used for authentication and private communications in an effort to build users’ trust and confidence in GadgetWide by providing simple and secure access and communication of credit card and personal information.
+When a user chooses to purchase products and/or services GadgetWide uses Secure Socket Layer (SSL) for billing and/or credit card information used for authentication and private communications in an effort to build users’ trust and confidence in GadgetWide by providing simple and secure access and communication of credit card and personal information.
 
 #### **Changes to Privacy Policy Agreement**
 
@@ -75,20 +87,28 @@ Through the use of this website/service, you are hereby accepting the terms and 
 
 GadgetWide strongly believes in maintaining the privacy and rights of our users, with that we practice routine deletion of any content collected via our site and or services. We **prefer** to **keep** you, **OUR USERS** information **anonymous** unless otherwise specifically notified.
 
-#### **How to Contact Us**
+#### **Concerns  about your Privacy **
 
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website/services and associated sites, contact us at the following email, telephone number.
 
-**Email:**  support@gadgetwide.com  
-**Telephone Number:**  818-495-5758
+* * *
 
-#### **_Varastad B. DerBedrosian Sole Proprietorship_**
+## ****
+
+#### **GadgetWide Solutions**
+
+**Email:**  [support@gadgetwide.com](mailto:support@gadgetwide.com)  
+**Telephone Number:**  [818-495-5758](call:818-495-5758)
+
+* * *
+
+#### **_Varastad B. DerBedrosian Sole Proprietor_**
 
 GadgetWide is fully operated and a wholly owned subsidiary of  Varastad B. DerBedrosian Sole Proprietorship | VBD S.P |
 
 The brands or names Varastad, GadgetWide, VBD S.P and others are typically referenced and commonly used on this website\services utilizing aliases as identifiers to label the parent entity or founder of GadgetWide. Some of  the names used are Varo DerBedrosian, Varo, GW, Us, We, Our and others not specifically mentioned
 
-**Address:  **GadgetWide | VBD S.P | Glendale | California | United
+**Address:  **GadgetWide | VBD S.P | Glendale | California | United States
 
 **Web Address:  **http://www.gadgetwide.com
 
