@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicknupload.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910090033id_/http%3A//clicknupload.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicknupload.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418161211id_/http%3A//clicknupload.com/policy.html) for the most accurate reproduction.*
 
 # ClicknUpload - Easy way to share your files
 
@@ -50,6 +50,4 @@ As soon as you visit ClicknUpload, we might at any point send one of these cooki
 
 Please note that Privacy Policy may differ from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent; therefore we expect most such changes shall be minor. Regardless, we can post any Privacy Policy changes in this particular page and, if the changes are significant, now we will get a more prominent notice (including, for certain services, email notification of Privacy Policy changes). If you have all other questions or concerns regarding all kinds with this privacy policy, please do not hesitate for to email us using this website.
 
-[Contact Us](https://web.archive.org/web/20140910090033id_/http%3A//clicknupload.com/contact.html)
-
-© 2014 ClicknUpload, All Rights Reserved. 
+[Contact Us](https://web.archive.org/web/20150418161211id_/http%3A//clicknupload.com/contact.html)
