@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyink.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925233233id_/http%3A//www.simplyink.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyink.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418210651id_/http%3A//www.simplyink.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simplyink
 
@@ -45,8 +45,8 @@ We will retain your information for as long as your account is active or as need
   14. **Social Media Features and Widgets.** Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
   15. **Single Sign-On.** You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
   16. **Contacting Us.** If you have any questions about the Policy, contact us by sending an email to [email@simplyink.com](mailto:email@simplyink.com). You can also call us at (800) 871-9095 or write to us at:  Simplyink  
-3700 Cover St.  
-Long Beach, CA 90808 
+4067 Hardwick Street Suite #177  
+Lakewood, CA 90712 
 
 We may record the conversations that our agents or employees have with you. We do this from time to time to monitor the quality of service and accuracy of information our agents and employees give to you and to ensure that your instructions are followed. No agent or employee of the Company is authorized to waive any provisions of any of Simplyink’ policies or procedures. 
 
