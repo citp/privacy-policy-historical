@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the calcuttaweb.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225012747id_/http%3A//www.calcuttaweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcuttaweb.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418235717id_/http%3A//www.calcuttaweb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Use | Calcuttaweb
+# Calcuttaweb » Privacy Policy & Terms of Use
 
-This privacy policy sets out how Calcuttaweb.com uses and protects any information that you give Calcuttaweb.com when you use this website. Calcuttaweb.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Calcuttaweb.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from April, 2014.
-
-**What we collect**  
-
-We do not collect any information except when you order items in our online shopping pages. Please check the privacy policy in the Calcuttaweb online store for shopping related activities.
-
-**What we do with the information we gather**
-
-For e-commerce activities, we require this information to process the order and provide you with a better service, and in particular for the following reasons:
+This privacy policy sets out how Calcuttaweb.com uses and protects any information that you give Calcuttaweb.com when you use this website. Calcuttaweb.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Calcuttaweb.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from April, 2014. **What we collect**  We do not collect any information except when you order items in our online shopping pages. Please check the privacy policy in the Calcuttaweb online store for shopping related activities. **What we do with the information we gather** For e-commerce activities, we require this information to process the order and provide you with a better service, and in particular for the following reasons:
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
@@ -20,23 +12,4 @@ For e-commerce activities, we require this information to process the order and 
 
 
 
-**Security**    
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**How we use cookies**  
-
-On the Site, we may use “cookies” so you can conduct business more efficiently.  We are not extracting information other than what you are entering yourself; we are merely keeping track of it during your experience.  Calcuttaweb.com has no desire or intent to infringe on your privacy while using this Site.
-
-**Links to other websites**
-
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-The linked sites and services may not be under the control of Calcuttaweb.com and, with respect to those sites, Calcuttaweb.com is not responsible for the content, services, products, warranties, agreements, transactions, or any activity of linked sites or link contained in a linked site, or any changes/updates to such sites. 
-
-**Accuracy of the information in our web site**
-
-Our website contains data collected from different sources mostly related to Kolkata and West Bengal. Though we try to keep the data quality good, we can not assure the accuracy of the information displayed in our website. 
-
-**Limitation of Liabilities**
-
-Under no circumstance will Calcuttaweb.com be liable to any person or business entity for any direct, indirect, special, incidental, consequential, or other damages based on any use of this site or any other website which this site is linked, including, without limitation, any lost profits, business interruption, or loss of programs or information. 
+**Security**   We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. **How we use cookies**  On the Site, we may use “cookies” so you can conduct business more efficiently.  We are not extracting information other than what you are entering yourself; we are merely keeping track of it during your experience.  Calcuttaweb.com has no desire or intent to infringe on your privacy while using this Site. **Links to other websites** Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.The linked sites and services may not be under the control of Calcuttaweb.com and, with respect to those sites, Calcuttaweb.com is not responsible for the content, services, products, warranties, agreements, transactions, or any activity of linked sites or link contained in a linked site, or any changes/updates to such sites.  **Accuracy of the information in our web site** Our website contains data collected from different sources mostly related to Kolkata and West Bengal. Though we try to keep the data quality good, we can not assure the accuracy of the information displayed in our website.  **Limitation of Liabilities** Under no circumstance will Calcuttaweb.com be liable to any person or business entity for any direct, indirect, special, incidental, consequential, or other damages based on any use of this site or any other website which this site is linked, including, without limitation, any lost profits, business interruption, or loss of programs or information. 
