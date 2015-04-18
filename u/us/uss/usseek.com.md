@@ -1,13 +1,25 @@
-> *The following text is extracted and transformed from the usseek.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115658id_/http%3A//www.usseek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usseek.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419012327id_/http%3A//usseek.com/Privacy) for the most accurate reproduction.*
 
-# USseek.com - Privacy Policy
+# Privacy - usseek.com
 
-Whether you've come to USseek.com merely to search or as a business owner considering a listing in our directory, we want you to know that we take your privacy seriously. 
+## Privacy Policy
 
-USseek.com may ask you to supply basic information, such as your city, state, or zip code in order to provide local results, or for tracking purposes (so we can see where our visitors are coming from). With your permission, some of this data may be used to help us better provide the information or services you are seeking. However, we will _never_ sell, lease or trade your data to anyone at any time. 
+The privacy of our visitors is of high importance to us. This privacy policy document outlines the types of personal information is received and collected by this website and how it is used. 
 
-When submitting a listing to our directory, we will ask you for slightly more information, including your name, and a method of contacting you (usually an email address, sometimes an email address or phone number), but, again, this data will be used only to contact you about issues pertaining to your listing in USseek.com. As above, your contact information will never be sold, leased or traded. 
+**Log Files**
 
-From time to time you may click on one of the links in our directory, which will lead you to a third-party website. Some of these third-party sites may ask you for additional data in order to provide accurate information, or confirm that they offer the service you are seeking. While we make every effort to vet our partners, affiliates, and directory members to ensure that they are as diligent about protecting your privacy as we are, we cannot, and do not, take responsibility for what they may do with information you provide to them, and strongly suggest that you read their privacy policies before providing any sensitive information. 
+Like many other Web sites, this website makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-We understand that there is inherent risk in doing business over the internet, and we pledge to reduce that risk as much as possible where our own site is concerned. We appreciate your trust in us, and invite you to contact us if you have any questions or concerns. 
+**Cookies and Web Beacons**
+
+This website does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+
+Some of our advertising partners may use cookies and web beacons on our site. 
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on this website send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+This website has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Our privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
