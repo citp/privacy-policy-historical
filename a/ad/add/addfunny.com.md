@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addfunny.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720153919id_/http%3A//www.addfunny.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addfunny.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418092259id_/http%3A//addfunny.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy Add Funny
 
