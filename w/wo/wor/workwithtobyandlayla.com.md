@@ -1,28 +1,106 @@
-> *The following text is extracted and transformed from the workwithtobyandlayla.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625161243id_/http%3A//sevenfiguremastermindteam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workwithtobyandlayla.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418044248id_/http%3A//workwithtobyandlayla.com/privacy-policy) for the most accurate reproduction.*
 
-# MLM Millionaire Secrets | Mastermind Team
+# Privacy Policy
 
-This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
+**Privacy Policy**
 
-By using our services or submitting information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to provide our services. Similarly, we need you to provide accurate personal information so that you can be contacted and use our website and related services. You can opt-out and decide not to provide the requested personal information. However, by doing so, we will not be able to contact you and you will not be able to use our website and/or services.
+Welcome to www.WorkWithTobyandLayla.com We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.WorkWithTobyandLayla.com (collectively, “Services”) (“Authorized Customers”).
 
-The personal information we collect includes name, address, e-mail address, telephone number, user name, and password. Other personal information that you may submit is clearly labeled at the time you submit it. We use the information that we collect to provide our services, to contact you regarding our products and services, and to improve our site. We also share your name, address, telephone number, and other contact details with the member, if any, who referred you to our website. Once a third-party obtains your personal information, its subsequent use is controlled by their business practices, which is beyond our control. By providing us a telephone number and/or email address, you are expressly requesting that we and/or anyone to whom we subsequently share or transfer your personal information contact you at that number or email address. Note, however, that your payment information is used only for order processing purposes.
+“Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)  
+or demographic information not connected to an identified individual.
 
-We automatically collect certain information from visitors to, and members of, the site, such as Internet addresses, browser type, Internet Service Provider (ISP), referring and exit page, operating system, timestamps, and clickstream data. We also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers. This information is logged to help diagnose technical problems, and to administer our site so that we can constantly improve the quality of the services we provide.
+What Personally Identifiable Information is collected?
 
-When you pay for anything on our site using a credit or debit card—including your monthly membership fee—we collect the personal information needed to complete the transaction. This information includes your name, card number, and other necessary information, all of which is clearly labeled on the form you use to submit payment. We use an unaffiliated, credit card processing company to process your payment. We transfer your payment information—and you authorize us to do so—to this company solely for this purpose. The company does not retain, share, store, or use personally identifiable information for any other purposes.
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-Anything you send us, post on our site, or use with our service, such as emails or voice recordings, or if other users or third parties send us anything about your activities or postings, we will collect such information into a file specific to you. We use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems, and enforce our membership agreements.
+What organizations are collecting the information?
 
-  We take measures to prevent the loss, misuse, and alteration of your information. We carefully limit access to the database in which your personal information is stored. Additionally, we share and/or transfer your personal information only in the ways set forth in this privacy policy.
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
-We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. We may also (and you authorize us to) disclose personal information about you to credit agencies, collection agencies, and/or merchant database agencies, as we deem necessary
+How does the Site use Personally Identifiable Information?
 
-Contact us at the address below if you want us to change or delete any information that we have about you. We will respond to your request to access, update, or delete your information within ten (10) business days. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
-  This website is owned and operated by:  
-Upwards Enterprises, LLC  
-8605 Santa Monica Blvd #32665  
-Los Angeles, California 90069
+With whom may the information may be shared?
 
-This privacy policy is effective as of May 1, 2009.
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
+
+How is Personally Identifiable Information stored?
+
+Personally Identifiable Information collected by www.WorkWithTobyandLayla.com is securely stored and is not accessible to third parties or employees of www.WorkWithTobyandLayla.com except for use as indicated above.
+
+What choices are available to Visitors regarding collection, use and distribution of the information?
+
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us [here](mailto:myrockstarmarketing@gmail.com)
+
+Are Cookies Used on the Site?
+
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+
+How does www.WorkWithTobyandLayla.com use login information?
+
+www.WorkWithTobyandLayla.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+
+What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
+
+www.WorkWithTobyandLayla.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
+Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.
+
+Our privacy policy does not cover their collection or use of this information.
+
+Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+
+How does the Site keep Personally Identifiable Information secure?
+
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+
+How can Visitors correct any inaccuracies in Personally Identifiable Information?
+
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us [here](http://jonmroz.com/privacypolicy/JonMroz@gmail.com)
+
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
+
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting [here](http://jonmroz.com/privacypolicy/JonMroz@gmail.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+
+What happens if the Privacy Policy Changes?  
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+
+PLEASE NOTE:  
+This Site is not directed at children. Visitors and Authorized Customers are required to be eighteen years or older.
+
+Links:  
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+
+For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, name and address, telephone number, payment information (e.g.,credit card number and billing address).
+
+The information we collect is used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes and .
+
+With respect to cookies: We use cookies to and .
+
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
+
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
+
+Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address.
+
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations  
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+
+Upon request we provide site visitors with access to a description of  
+information that we maintain about them.
+
+Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them  
+With respect to security: When we transfer and receive certain types of  
+sensitive information such as financial or health information, we redirect  
+visitors to a secure server and will notify visitors through a pop-up screen on  
+our site.
+
+If you feel that this site is not following its stated information policy, you  
+may contact us at the above addresses or phone number.
+
+© Copywrite 2011 www.WorkWithTobyandLayla.com, All rights reserved.  
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
