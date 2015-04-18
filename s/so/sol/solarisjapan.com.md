@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarisjapan.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129165803id_/http%3A//solarisjapan.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarisjapan.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418203324id_/http%3A//solarisjapan.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Solaris Japan – Buy Japanese Imports straight from Japan
 
@@ -22,7 +22,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at shop@solarisjapan.com or mailing us at:
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at support@solarisjapan.com or mailing us at:
 
 Solaris Japan
 
@@ -102,7 +102,7 @@ If our store is acquired or merged with another company, your information may be
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at shop@solarisjapan.com or by mail at 
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@solarisjapan.com or by mail at 
 
 Solaris Japan
 
