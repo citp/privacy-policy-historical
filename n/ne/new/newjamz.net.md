@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newjamz.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133217id_/http%3A//www.newjams.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newjamz.net privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418051953id_/http%3A//www.newjamz.net/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - NewJams.net - New Music Every Day!
+# Privacy Statement - NewJamz.net - New Music Every Day!
 
 NewJams.net is committed to protecting your privacy online. We will not rent, sell or share your personal information with third parties, except when required by law.
 
