@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartradeexchange.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806033026id_/http%3A//www.cartradeexchange.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartradeexchange.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418144954id_/http%3A//www.cartradeexchange.com/privacy_policy) for the most accurate reproduction.*
 
 # CarTradeExchange - Leading online vehicle auction platform with 3000+ Dealers across India.
 
