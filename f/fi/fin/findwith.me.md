@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findwith.me privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925111953id_/http%3A//www.findwith.me%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findwith.me privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418065137id_/http%3A//www.findwith.me%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy :: Findwith.me :: Whatever you're looking for, wherever you are
 
