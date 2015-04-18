@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-clocks.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021033208id_/http%3A//top-clocks.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-clocks.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419002505id_/http%3A//top-clocks.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Top-clocks.com
 
@@ -8,7 +8,7 @@
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@top-clocks.com. 
 
-At [**Top-Clocks.com**](http://top-clocks.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by **Top-Clocks.com** and how it is used. 
+At [**Top-Clocks.com**](https://web.archive.org/web/20150419002505id_/http%3A//top-clocks.com/index.html), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by **Top-Clocks.com** and how it is used. 
 
 ### Log Files
 
@@ -25,7 +25,7 @@ Like many other Web sites, top-clocks.com makes use of log files. The informatio
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on **Top-Clocks.com** send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-[**Top-Clocks.com**](http://top-clocks.com/) has no access to or control over these cookies that are used by third-party advertisers.
+[**Top-Clocks.com**](https://web.archive.org/web/20150419002505id_/http%3A//top-clocks.com/index.html) has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Top-Clocks.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
