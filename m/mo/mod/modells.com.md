@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226230333id_/http%3A//www.modells.com/category/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418035502id_/http%3A//www.modells.com/category/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy-modells - Product Groups- Modells.com
 
