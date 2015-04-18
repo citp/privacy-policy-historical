@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the bushtorrent.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712212437id_/http%3A//www.fulldls.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bushtorrent.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418164016id_/http%3A//www.torrentreactor.net/privacy.php) for the most accurate reproduction.*
 
-# Fulldls.com - Privacy policy
+# Torrent Reactor
 
-  
+**Your Privacy**
 
+Torrentreactor.net is committed to protecting your privacy. Torrentreactor.net does not sell, trade or rent your personal information to other companies. Torrentreactor.net will not collect any personal information about you except when you specifically and knowingly provide such information.
 
-To protect the privacy of our visitors, we do not log IP adrresses or hostnames of our visitors. However, we may log some IP addresses of uploaders for administrational purposes (e.g., banning people who upload spam torrents several times). Remember that all torrent submissions are anonymous, no login is required for uploading. We will not distribute IP addresses or other information of visitors of this site to third parties.
+By using our Web site, you consent to the collection and use of this information by Torrentreactor.net. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Torrentreactor.net may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.cpxinteractive.com/privacy_policy.htm).
+**Third Party Advertising**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+We use MediaShakers and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+**Third Party Cookies**
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+**Modification of Privacy Policy**
+
+Torrentreactor.net reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates. 
