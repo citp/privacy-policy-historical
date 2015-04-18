@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the top-friv-games.com privacy policy that was archived on 2014-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229182320id_/http%3A//www.top-friv-games.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the top-friv-games.com privacy policy that was archived on 2015-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150418020307id_/http%3A//www.top-friv-games.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Policy - Top Friv Games</title>
@@ -117,7 +117,7 @@
 <center>
 <div class="footer" style="width:800px;">
 <br>
-Welcome to Top Friv Games .COM!<br>
+Welcome to Top Friv Games .COM!.<br>
 On our portal you can play games of all genres and categories at any time! All games are free and available online. Do not need to download, just click on and play! 
 We have selected the best games from around the web. Games are listed in categories: 
 <a href="/action/1" title="Action Games" class="footer">action games</a>, 
@@ -157,7 +157,8 @@ After playing our game, you get a lot of pleasure. Every day we add new games, r
 var isLoading = 0;
 var currentPage = 0;
 var totalPages = 20;
-var dataUrl="http://www.top-friv-games.com/getgames.php"
+var dataUrl="http://www.top-friv-games.com/getgames.php";
+var gotopregame=1;
 
 var catid=0;
 var perpage=48;
@@ -170,7 +171,7 @@ function loadGames(page)
 	if(isLoading == 0) 
 	{
 		isLoading=1;
-				$.get(dataUrl+"?perpage="+perpage+"&page="+page+"&catid=" + catid+"&startfrom=16", function(data) 
+				$.get(dataUrl+"?perpage="+perpage+"&page="+page+"&catid=" + catid+"&startfrom=16&gotopregame="+gotopregame, function(data)
 		{
 			if(data == "") return;
 			//$("#games_page").html(data);
@@ -190,30 +191,6 @@ function loadGames(page)
 	//$("#games_page").append("<br>page="+page);
 }
 
-$(document).ready(function() {
- 	$(window).scroll(function(){
-		var scrollTop = $(window).scrollTop();			
-		if (scrollTop>500)
-		{
-			$("#topbtn").show();
-		}
-		else
-		{
-			$("#topbtn").hide();
-		}
-		if  (scrollTop >= ($(document).height() - $(window).height() - 300)) 
-		{
-			if(isLoading == 0) {
-				//alert($(document).height()+" currentPage="+currentPage);
-				currentPage++;
-				if (currentPage<totalPages)
-				{
-					loadGames(currentPage);
-				}
-			}
-		}
-	}); 
-});
 
 this.tooltip = function(){	
 		if (this.t!=null)
