@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbypartz.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215154122id_/http%3A//www.hobbypartz.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbypartz.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418020014id_/http%3A//www.hobbypartz.com/privacypolicy.html) for the most accurate reproduction.*
 
 # HobbyPartz.com - Lowest Price for the Replacement Hobby Parts for Nitro RC Cars, Gas RC Buggies and Trucks - Brushless Electric & Nitro Gas Powered RC Airplane, RC Helicopter, Dynam, Airfield, WLToys, Syma, Double Horse, Aerosky, Esky, Walkera, EXI, Align, Servos, SolarServos, 3D Printer, ESC, Arduino, Robotic
 
