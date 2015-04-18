@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ybonline.co.uk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220043913id_/http%3A//www.ybonline.co.uk/legal-privacy/use-of-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybonline.co.uk privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418044452id_/http%3A//www.ybonline.co.uk/legal-privacy/use-of-cookies) for the most accurate reproduction.*
 
 # Use of Cookies | Yorkshire Bank
 
