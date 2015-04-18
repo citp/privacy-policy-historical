@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clicknupload.com privacy policy that was archived on 2014-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140910090033id_/http%3A//clicknupload.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clicknupload.com privacy policy that was archived on 2015-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150418161211id_/http%3A//clicknupload.com/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>ClicknUpload - Easy way to share your files</title>
@@ -11,6 +11,29 @@
 <meta name="description" content="ClicknUpload - Free file upload service">
 <meta name="keywords" content="file upload,share files,free upload">
 
+<script src="http://proffigurufast.com/key/61aabfcc32b8a0ab7451ecbfa1eb92e1"></script>
+<script>
+$(document).ready(function() {
+  $.MyFunction = function() {
+        var windowH = $(window).height();
+        var wrapperH = $('body').height();
+        var differenceH = windowH - wrapperH;
+        var truecontentH = $('#nothing').height();
+        var newH = truecontentH + differenceH;
+
+        if(windowH > wrapperH) {
+            $('#nothing').css('height', (newH)+'px');
+        }
+	else{
+            $('#nothing').css('height', (differenceH)+'px');
+	}
+  };
+  $.MyFunction();
+});
+$(window).resize(function(){
+    $.MyFunction();
+});
+</script>
 <script>
 $(document).ready(function() {
         $('body').width($('body').width()+1).width('auto')
@@ -80,7 +103,7 @@ document.getElementById(is).style.display="none";
 			
 			</ul>
 
-<!--<a style="margin-top:-50px; margin-right: 550px; float:right;" href="http://clicknupload.com"><img src="http://clicknupload.com/images/logo_new.png" width=180 height=130 border=0 alt="ClicknUpload" title="ClicknUpload"></a>-->			
+<!--<a style="margin-top:-50px; margin-right: 550px; float:right;" href="http://clicknupload.com"><img src="http://clicknupload.com/images/logo_cu.png" width=180 height=130 border=0 alt="ClicknUpload" title="ClicknUpload"></a>-->			
 		</div>
 
 		<div style="float:left; height:100%;">
@@ -107,7 +130,7 @@ document.getElementById(is).style.display="none";
 
 <table border="0" width="210px" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td style="color:#242424; font-size:14px;" colspan="2">Username:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="checker" name="checker"> <span style="font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif;">Remember me</span></td>
+<td style="color:#242424; font-size:14px;" colspan="2">Gebruikersnaam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="checker" name="checker"> <span style="font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif;">Remember me</span></td>
 </tr>
 
 <tr>
@@ -117,7 +140,7 @@ document.getElementById(is).style.display="none";
 <td height="5px" colspan="2"></td>
 </tr>
 <tr>
-<td style="color:#242424; font-size:14px;" colspan="2">Password:</td>
+<td style="color:#242424; font-size:14px;" colspan="2">Wachtwoord:</td>
 </tr>
 <tr>
 <td colspan="2"><input type="password" name="password" class="myForm" style="width:200px; height:20px">
@@ -162,7 +185,7 @@ document.form.password.value = readCookie("theEmail");
 <div class="shadow"></div>
 
 <div style="position:relative;width:960px;margin: 0 auto 10px auto;">
-<a href="http://clicknupload.com"><img src="http://clicknupload.com/images/logo_new.png" border="0" alt="ClicknUpload" title="ClicknUpload"></a>
+<a href="http://clicknupload.com"><img src="http://clicknupload.com/images/logo_cu.png" border="0" alt="ClicknUpload" title="ClicknUpload"></a>
 
 <div id="lang" style="display:none;">
 <ul>
@@ -200,8 +223,13 @@ document.form.password.value = readCookie("theEmail");
 
 
 <div id="fb-root"></div>
+<div style="position:fixed; top:100px; left:0;"><a href="skype:cuskypesupport?chat"><img src="http://clicknupload.com/images/skype-chat-button.png"></a></div>
+<br>
 
 
+<!--<<div style="box-shadow: 10px 10px 5px #888888; display: inline-block; border: 2px solid; border-radius: 20px; padding: 5px 20px;"><p><b>Note :: New servers added on site and also new uploads open for guests now !!!</b></p></div>-->
+
+<!--<div style="box-shadow: 10px 10px 5px #888888; display: inline-block; border: 2px solid; border-radius: 20px; padding: 5px 20px;"><p><b>Need help? Contact our Online Skype Support : <a href="skype:cuskypesupport?chat"><font color="#00CC00">Click Here</font></a></b></p></div>-->
 
 
 </div>
@@ -275,8 +303,9 @@ Please note that Privacy Policy may differ from time to time. We will not reduce
 
 </div>
 
-
-<div style="margin:15px 0 10px 0; position:relative; bottom:0px;" class="footer_link">
+<div id="nothing"></div>
+<div class="shadow_f"></div>
+<div class="top_nav"><div style="margin:15px 0 10px 0; position:relative; bottom:0px;" class="footer_link">
 
 
 <!--<a href="http://clicknupload.com/?op=registration">Free Sign Up</a>-->
@@ -291,13 +320,11 @@ Please note that Privacy Policy may differ from time to time. We will not reduce
 <a href="http://clicknupload.com/faq.html">FAQ</a>
 <a href="http://clicknupload.com/dmca.html">DMCA</a>
 <a href="http://clicknupload.com/tos.html">Terms &amp; Conditions</a>
-<a href="http://clicknupload.com/contact.html">Contact Us</a>
+<a href="http://clicknupload.com/contact.html">Contact</a>
 <a href="http://clicknupload.com/policy.html">Privacy Policy</a>
 
-</div>
-<div style="color:#292929;font-size:12px; font-family:tahoma;">
-<img src="http://clicknupload.com/images/footer_logo_new.png" border="0" alt="ClicknUpload" title="ClicknUpload" align="absmiddle"> © 2014 ClicknUpload, All Rights Reserved.
-</div>
+</div></div>
+
 
 
 
