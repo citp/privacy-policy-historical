@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704160030id_/http%3A//www.netlawman.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419005727id_/http%3A//www.netlawman.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Net Lawman UK
 
@@ -6,7 +6,7 @@ This is the privacy notice of Net Lawman. In this document, “we” or “us”
 
 We are company number 2657400 registered in UK
 
-Our registered office is at Astons Barn North Green Road, DISS, IP21 4YF United Kingdom
+Our registered office is at St Andrews Castle, 33 St Andrews Street South, Bury St Edmunds, IP33 3PH, United Kingdom
 
 This is a notice to tell you our policy about all information that we record about you. It covers both information that could identify you and information that could not.
 
