@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rentbyowner.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803092914id_/http%3A//rentbyowner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentbyowner.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418102028id_/http%3A//www.rentbyowner.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Rental Homes And Vacation Rental Properties | RentByOwner.com
+# Privacy Policy | Rental Homes And Vacation Rental Properties | Rent By Owner
 
 #### Our commitment to privacy
 
-At RentByOwner.comwe know that protecting the privacy and confidentiality of your personal information is important. This Privacy Policy governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by RentByOwner.com and its affiliates. The collection, use and disclosure of your personal information is governed by the Personal Information Protection and Electronic Documents Act (the "Act"), and any applicable provincial legislation. This Privacy Policy explains what personal information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices. 
+At RentByOwner.com we know that protecting the privacy and confidentiality of your personal information is important. This Privacy Policy governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by RentByOwner.com and its affiliates. The collection, use and disclosure of your personal information is governed by the Personal Information Protection and Electronic Documents Act (the "Act"), and any applicable provincial legislation. This Privacy Policy explains what personal information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices. 
 
 This Privacy Policy applies only to personal information collected by RentByOwner.com and its affiliates. Be aware that our website contains links to other websites that are maintained by third parties who are not required to comply with this Privacy Policy and for which RentByOwner.com has no responsibility. Please review the privacy policies on any external websites to determine their information handling practices. 
 
@@ -22,7 +22,7 @@ We collect demographic information, as well as interaction data in order to gain
 
 When you use our website, we may assign an internet cookie. An internet cookie is a small text file that a website stores on your internet browser and that can collect and store information. We use cookies to better understand how you use our websites, to make sure our ads and dynamic content are served correctly and to improve the performance of our websites. For example, a cookie may recall a set of preferences you have set for our website and record items that you have registered for. Storing cookies on your web browser allows us to present you with web pages and other content that are attuned with your preferences. These activities are invisible to you, and are generally intended to improve your internet surfing convenience. Unless you have set your preferences so that you will be alerted when a cookie is being stored on your computer, you won't know about it. 
 
-If you are concerned about cookies, it is possible to turn them off in your web browser preferences. The following link - https://www.networkadvertising.org/managing/opt_out.asp has useful information about how to opt out of cookies that are placed by companies who are members of the network NAI (Network Advertising Initiative) Opt-Out. However, please be aware that by disabling cookies, you may not be able to use all portions of our websites, particularly pages requiring registration. We may place advertising or other links on our websites that originate from outside advertisers. If you view these ads, the advertisers may assign a cookie. Rentbyowner.com does not control these cookies, nor is it responsible for any marketing or other use of your information by these advertisers. 
+If you are concerned about cookies, it is possible to turn them off in your web browser preferences. The following link - https://www.networkadvertising.org/managing/opt_out.asp has useful information about how to opt out of cookies that are placed by companies who are members of the network NAI (Network Advertising Initiative) Opt-Out. However, please be aware that by disabling cookies, you may not be able to use all portions of our websites, particularly pages requiring registration. We may place advertising or other links on our websites that originate from outside advertisers. If you view these ads, the advertisers may assign a cookie. RentByOwner.com does not control these cookies, nor is it responsible for any marketing or other use of your information by these advertisers. 
 
 Our websites may use Web beacon, gif, or other technologies to better tailor and manage advertising on those sites. These technologies may be in use on a number of pages across web sites. When you access these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies. If you turn off cookies, Web beacon and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded. 
 
@@ -32,30 +32,30 @@ We use IP (internet protocol) addresses, to gather demographic and statistical i
 
 We may, from time to time, track and analyze anonymous usage and browsing patterns of visitors to our websites to provide our advertisers with more targeted advertising opportunities and to help users see advertising that is most likely to interest them. 
 
-#### Who does Rentbyowner.com disclose personal information to, and why? 
+#### Who does RentByOwner.com disclose personal information to, and why? 
 
-Rentbyowner.com may disclose your personal information under the following circumstances:
+RentByOwner.com may disclose your personal information under the following circumstances:
 
-To provide you with Marketing Offers, Rentbyowner.com may disclose your personal contact information to affiliates and selected sponsors and advertisers. If you do not wish to receive Marketing Offers, you may opt-out at any time by following the opt-out procedure below.
+To provide you with Marketing Offers, RentByOwner.com may disclose your personal contact information to affiliates and selected sponsors and advertisers. If you do not wish to receive Marketing Offers, you may opt-out at any time by following the opt-out procedure below.
 
-Rentbyowner.com may transfer your personal information to third party service providers in order to fulfill your order or perform processing and other specialized services (such as credit card or payment processing, prize fulfillment of our contests, management of customer service requests, and product delivery).
-
-Your personal information may be processed and stored outside of the province in which you reside and/or outside of Canada by us, an affiliate or a third party service provider for the purposes set out in this Privacy Policy and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.
+RentByOwner.com may transfer your personal information to third party service providers in order to fulfill your order or perform processing and other specialized services (such as credit card or payment processing, prize fulfillment of our contests, management of customer service requests, and product delivery).
 
 Your personal information may be processed and stored outside of the province in which you reside and/or outside of Canada by us, an affiliate or a third party service provider for the purposes set out in this Privacy Policy and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.
 
-Rentbyowner.com may disclose your personal information to third parties if you have violated our terms of service or conditions of purchase, or if we need to comply with applicable laws and lawful governmental requests, other legal and regulatory authorities and for other legal reasons.
+Your personal information may be processed and stored outside of the province in which you reside and/or outside of Canada by us, an affiliate or a third party service provider for the purposes set out in this Privacy Policy and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.
 
-Rentbyowner.com may disclose your personal information on a confidential basis to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties.
+RentByOwner.com may disclose your personal information to third parties if you have violated our terms of service or conditions of purchase, or if we need to comply with applicable laws and lawful governmental requests, other legal and regulatory authorities and for other legal reasons.
+
+RentByOwner.com may disclose your personal information on a confidential basis to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties.
 
 #### Consent and opt-out policy 
 
-In general, Rentbyowner.com seeks consent to use your personal information in accordance with our opt-out policy. Except as set out in this section, Rentbyowner.com obtains your express opt-in consent to use or disclose sensitive personal information. 
+In general, RentByOwner.com seeks consent to use your personal information in accordance with our opt-out policy. Except as set out in this section, RentByOwner.com obtains your express opt-in consent to use or disclose sensitive personal information. 
 
 If you do not wish to receive Marketing Offers, you may opt-out at any time by doing either of the following:
 
   * Follow the instructions at the bottom of any email Marketing Offer you receive.
-  * Email Customer Service at [privacy@Rentbyowner.com](mailto:privacy@Rentbyowner.com) and request that your personal information not be used for Marketing Offers
+  * Email Customer Service at [privacy@rentbyowner.com](mailto:privacy@RentByOwner.com) and request that your personal information not be used for Marketing Offers
 
 
 
@@ -67,4 +67,4 @@ We will give you access to the information we retain about you within a reasonab
 
 #### How to address concerns regarding your privacy. 
 
-RentByOwner.com encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Policy. If you have a question concerning RentByOwner.com's Privacy Policy, or if you have any concerns, please contact Customer Service at: 604 477 5686 or [privacy@RentByOwner.com](mailto:privacy@Rentbyowner.com). You may also write to us at #6 – 21409 Lougheed Highway, Maple Ridge, BC, Canada, V2X 2R8. 
+RentByOwner.com encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Policy. If you have a question concerning RentByOwner.com's Privacy Policy, or if you have any concerns, please contact Customer Service at: 604 477 5686 or [privacy@rentbyowner.com](mailto:privacy@rentbyowner.com). You may also write to us at #6 – 21409 Lougheed Highway, Maple Ridge, BC, Canada, V2X 2R8. 
