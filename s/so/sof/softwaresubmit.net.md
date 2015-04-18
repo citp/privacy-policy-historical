@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaresubmit.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170747id_/http%3A//softwaresubmit.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaresubmit.net privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418160721id_/http%3A//www.softwaresubmit.net/privacy.htm) for the most accurate reproduction.*
 
 # » Privacy Policy for Software Submit.NET - Software Promotion - Website Submission
 
