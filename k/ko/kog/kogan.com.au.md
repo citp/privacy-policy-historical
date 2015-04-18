@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511104659id_/http%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418091254id_/https%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
 
-# Kogan Privacy Policy - Kogan Australia
+# Kogan Privacy Policy - Kogan.com
 
 ## 1\. Openness and transparency
 
-Kogan is committed to protecting your privacy and respects and upholds your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use, holding and disclosure of personal information by Kogan as set out in this policy.
+Kogan.com Pty Ltd (Kogan) is committed to protecting your privacy and respects and upholds your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use, holding and disclosure of personal information by Kogan as set out in this policy.
 
 ## 2\. Personal information
 
@@ -67,7 +67,7 @@ Kogan will take such steps as are reasonable in the circumstances to ensure that
 
 ## 9\. Contact information
 
-If you require further information regarding this policy or wish to make a complaint about a breach of the APPs by Kogan, please contact us at [unsubscribe@kogan.com.au](mailto:unsubscribe@kogan.com.au) or call us on 1300 304 292 or send mail to: Attn: Privacy Officer, Kogan, GPO Box 2579, Melbourne VIC 3001. Our office is located at 71/73 Thistlethwaite Street, South Melbourne 3205. A senior member of staff will review your complaint within 5 business days and respond to you in writing advising what action(s) Kogan will take as a result of your complaint.
+If you require further information regarding this policy or wish to make a complaint about a breach of the APPs by Kogan, please contact us at [unsubscribe@kogan.com.au](mailto:unsubscribe@kogan.com.au) or call us on 1300 304 292 or send mail to: Attn: Privacy Officer, Kogan, GPO Box 2579, Melbourne VIC 3001. Our office is located at 139 Gladstone Street, South Melbourne, VIC 3205. A senior member of staff will review your complaint within 5 business days and respond to you in writing advising what action(s) Kogan will take as a result of your complaint.
 
 ## 10\. Kogan website
 
