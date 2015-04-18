@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epubbooks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014914id_/http%3A//www.epubbooks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epubbooks.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418180822id_/https%3A//www.epubbooks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | epubBooks.com
+# Privacy Policy - epubBooks.com
 
 Your privacy is critically important to us. At epubBooks we have a few fundamental principles:
 
