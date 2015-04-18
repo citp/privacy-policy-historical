@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktop10.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230025642id_/http%3A//www.clicktop10.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktop10.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418092504id_/http%3A//www.clicktop10.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Click Top 10
 
