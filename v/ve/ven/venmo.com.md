@@ -1,68 +1,79 @@
-> *The following text is extracted and transformed from the venmo.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612151811id_/https%3A//venmo.com/info/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venmo.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418151104id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.*
 
-# Venmo | Legal - Privacy Policy
+# Privacy
 
-Our Commitment to Privacy
+### Privacy Policy
 
-Venmo Inc. ("Venmo") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Our primary goal is to provide you with exceptional service, and we understand that you may have questions or concerns regarding your personal information and how it will be used. With this in mind, we have developed this privacy policy. To make this privacy policy easy to find, we make it available from home page of our web site at [www.venmo.com](https://venmo.com/) (the "website") and through our mobile applications. You may also [email us](https://help.venmo.com/customer/portal/emails/new?email\[subject\]=Question+re:+Privacy+Policy&ticket\[custom_inquiry_type\]=legal_privacy) with any privacy-related questions you have.
+LAST UPDATED
 
-Applicability of Privacy Policy
+Updated November 6, 2014
 
-This privacy policy applies to all information we collect though our Web and mobile applications from Venmo users, including you. This policy does not apply to the practices of companies that Venmo does not own or control, or to individuals that Venmo does not employ or manage.
+OUR COMMITMENT TO PRIVACY
+
+Venmo, LLC ("Venmo") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Our primary goal is to provide you with exceptional service, and we understand that you may have questions or concerns regarding your personal information and how it will be used. To make this privacy policy easy to find, we make it available from home page of our website at [venmo.com](https://web.archive.org/web/20150418151104id_/https://venmo.com/legal/us-privacy-policy/venmo.com) (the "website") and through our mobile applications. You may also [email us](https://help.venmo.com/customer/portal/emails/new?email\[subject\]=Question+re:+Privacy+Policy&ticket\[custom_inquiry_type\]=legal_privacy) with any privacy-related questions you have.
+
+APPLICABILITY OF PRIVACY POLICY
+
+This privacy policy applies to all information we collect though our web and mobile applications from Venmo users, including you. This policy does not apply to the practices of companies that Venmo does not own or control, or to individuals that Venmo does not employ or manage.
 
 Throughout this policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user.
 
-The Information We Collect
+THE INFORMATION WE COLLECT
 
-When you visit the website or use one of our mobile applications, we collect your IP address, and standard web log information, such as your browser type and the pages you accessed on our website and we may collect certain geographic information.  
-If you open an account, we collect the following types of information from you:
+When you visit the website or use one of our mobile applications, we collect your IP address, and standard web log information, such as your browser type and the pages you accessed on our website. We also may collect certain geo-location information. If you do not agree to our collection of this information, you may not be able to use our Service.  
+If you open an account, we collect the following information from you:
 
-  * Account Information - your name, address, mobile phone number, email, device ID and other similar information.
-  * Social Web Information - including but limited to your Facebook connect credentials (and information that you authorize Facebook share with us though permissions like this http://developers.facebook.com/images/devsite/auth-dialog-example.png ) and email account information. If you authorize and provide it to us, we may also collect information concerning e-mail contacts and other social web information. To help you connect friends and contacts you may want to use our service with (as well as to improve or services and fight fraud), we also allow you to import data from other social web services, including but not limited to Twitter, FourSquare, and email service providers.
+  * Account Information - text-enabled cellular/wireless telephone number, machine or mobile device ID and other similar information.
+  * Identification Information - your name, street address, email address, date of birth, and SSN (or other governmental issued verification numbers).
+  * Device Information -
+  * We also may obtain information about you: (a) from your mobile device such as your device type, machine or mobile device identification number, geo-location, time zone, language setting, browser type, and IP address, and (b) from third parties for purposes of transaction processing, identity verification, fraud detection or prevention and other similar purposes. For fraud prevention purposes, we also may link your machine ID with the machines of others who use your same payment cards. 
+  * Social Web Information - including but not limited to your Facebook connect credentials (and information that you authorize Facebook share with us though permissions like this http://developers.facebook.com/images/devsite/auth-dialog-example.png ) and email account information. If you authorize Facebook Connect, the plug in allows us access to your friends' contact information. We also allow you to import data from other social web services, including but not limited to Twitter, FourSquare, and email service providers. Social and e-mail contact information helps you connect to friends and contacts for invitation and payment transmission purposes (as well as helping us improve our services and fight fraud). Additionally, another Venmo user may mention you in a transaction in which you are not a party to by “tagging” your username in a transaction note. When you are mentioned in a transaction, a link to your Venmo profile will appear in the transaction note and you will receive a notification about the mentions. You may shut off notifications about these mentions in the privacy controls section. 
   * Financial Information - bank account and routing numbers and credit cards linked to your Venmo account. Venmo does not share financial information with third party social networking services such as those listed in the prior bullet.
 
 
 
-We are committed to providing a safe, secure and all around great service. Therefore, before permitting you to use our service, we may require additional information we can use to verify your identity or address or manage risk, such as your date of birth, social security number, drivers license and/or credit cards (or a scan thereof) or other information. We may also obtain information about you from third parties such as credit bureaus and identity verification services.
+We are committed to providing a safe, secure and all around great service. Therefore, before permitting you to use our service, we may require additional information from you we can use to verify your identity, address or other information or to manage risk and compliance throughout our relationship. We may also obtain information about you from third parties such as identity verification, fraud prevention and similar services.
 
-When you are using our Service, we collect information about your account transactions and trust relationships and we may collect information about your computer or other access device for fraud prevention purposes.
+When you are using our Service, we collect information about your account transactions and trust relationships and we may collect information about your computer or other access device for fraud prevention and other similar purposes.
 
 Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey.
 
-Information From Children
+INFORMATION FROM CHILDREN
 
 We do not knowingly solicit or collect information from any individuals under the age of 13.
 
-How We Use Cookies
+HOW WE USE COOKIES 
 
 When you access our website, we, or companies we hire to track how our website is used, may place small data files called "cookies" on your computer.
 
-For example, we send a "session cookie" to your computer any time you log in to your Venmo account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page. Once you log out or close your browser, this cookie expires and no longer has any effect.
+For example, we send a "session cookie" to your computer any time you log in to your Venmo account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page.
 
 Users are free to decline our cookies if your browser permits, but doing so may interfere with your use of our website.
 
-How We Protect & Store Personal Information
+HOW WE PROTECT & STORE PERSONAL INFORMATION
 
-We store and process your personal information using third party servers located in secure data centers in the United States, This information is protected by physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We also use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our office and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. We make reasonable efforts to ensure security on our systems. Despite our efforts, we cannot guarantee that personal information may not be accessed, disclosed, altered or destroyed by breach of our administrative, managerial and technical safeguards. Therefore, we urge you to take adequate precautions to protect your personal data as well, including never sharing your Venmo password with anyone. For more information on on reporting an unauthorized transaction or more detail on how we secure your personal information click here.
+We store and process your personal information using third party servers located in secure data centers in the United States, This information is protected by physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We also use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our office and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
 
-If Venmo learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Venmo service, you agree that Venmo may communicate with you electronically. Venmo may post a notice on this Website if a security breach occurs. If this happens, you will need a web browser enabling you to view the Web Site. Venmo may also send you an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice of a security breach) you should [notify us.](https://help.venmo.com/customer/portal/emails/new?email\[subject\]=I+want+written+notices+of+security+breaches)
+We make reasonable efforts to ensure security on our systems. Despite our efforts, we cannot guarantee that personal information may not be accessed, disclosed, altered or destroyed by breach of our administrative, managerial and technical safeguards. Therefore, we urge you to take adequate precautions to protect your personal data as well, including never sharing your Venmo password with anyone.
 
-How We Use The Personal Information We Collect
+If Venmo learns of a systems security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Venmo service, you agree that Venmo may communicate with you electronically. Venmo may post a notice on the Website if a security breach occurs. Venmo may also send you an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice of a security breach) you should [notify us.](https://help.venmo.com/customer/portal/emails/new?email\[subject\]=I+want+written+notices+of+security+breaches)
+
+HOW WE USE THE PERSONAL INFORMATION WE COLLECT
 
 Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, fun and customized experience. We may use your personal information to:
 
   * provide the services and customer support you request;
   * process transactions and send notices about your transactions or your network activity;
   * resolve disputes, collect fees, and troubleshoot problems;
-  * prevent potentially prohibited or illegal activities, and enforce our User Agreement;
+  * prevent potentially fraudulent, prohibited or illegal activities, and enforce our User Agreement;
   * customize, personalize, measure, and improve our services and the content and layout of our website;
   * send you updates about new products and services that we are offering to customers
   * compare information for accuracy and verify it with third parties;
-  * as required by law.
+  * perform other duties as required by law.
 
 
 
-How We Share Personal Information with other Venmo Users
+HOW WE SHARE PERSONAL INFORMATION WITH OTHER VENMO USERS
 
 To process your payments on Venmo, we need to share some of your personal information with the person or company that you are paying or is paying you. Your contact information, date of sign-up, the number of payments you have received and other verification metrics like social graph activity may be provided to users who you transact with on or through Venmo.
 
@@ -70,32 +81,34 @@ We work with vendors to enable them to accept payments from you using Venmo. In 
 
 Regardless, we will not disclose your credit card number or bank account number to anyone you have paid or who has paid you through Venmo, except with your express permission or if we are required to do so to comply with a subpoena or other legal process.
 
-How We Share Personal Information with Other Parties
+HOW WE SHARE PERSONAL INFORMATION WITH OTHER PARTIES
 
 Venmo does not share your email address or phone number with third parties for promotional or marketing purposes
 
 We may share your personal information with:
 
-  * Your social web, should you designate your Venmo account transactions as "public" payments such that other Venmo users can view your payments or when you otherwise request Venmo payments be posted to your social web. You may access our privacy controls to designate that all of your payments are private as well. When you broadcast information to third party services, such information is no longer under the control of Venmo and is subject to the terms of use and privacy policies of such third parties.
-  * Venmo does not send your personal information to third party social networks unless you have specifically requested or authorized us to do so Ser ice providers under contract who help with parts of our business operations; (for example, fraud prevention payment processing, technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
-  * Companies that we plan to merge with or be acquired by or, in the event of any bankruptcy, a bankruptcy estate). Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice and, if applicable, the opportunity to communicate preferences you may have.
+  * Our parent company, Braintree Inc., but only for purposes allowed by this document.
+  * Companies that we plan to merge with or be acquired by or, in the event of any bankruptcy, a bankruptcy estate. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice and the opportunity to communicate preferences you may have, if applicable.
   * Law enforcement, government officials, or other third parties when we are compelled to do so by a subpoena, court order or similar legal procedure, when we need to do so to comply with law we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our User Agreement, or as otherwise required by law.
+  * Third party service providers who assist us in providing services to you or who provide fraud detection or similar services on our [or any vendor's] behalf.
+  * Your social web, should you designate your Venmo account transactions as "public" or “friends-only” payments such that other Venmo users can view your payments or when you otherwise request Venmo payments be posted to your social web. You may access our privacy controls to designate that all of your payments default to private as well. When you broadcast information to third-party services, such information is no longer under the control of Venmo and is subject to the terms of use and privacy policies of such third parties.
+  * Venmo does not send your personal information to third-party social networks unless you have specifically requested or authorized us to do so; Service providers under contract who help with parts of our business operations (for example, fraud prevention, payment processing, or technology services); Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
   * Other third parties with your consent or direction to do so.
 
 
 
-How you Can Access or Change Your Personal Information
+HOW YOU CAN ACCESS OR CHANGE YOUR PERSONAL INFORMATION
 
-You can review and edit your personal information at any time by logging in to your account and clicking the Account Settings tab or using one of our mobile applications.
+You can review and update your personal information at any time by logging in to your account and clicking the Account Settings tab or using one of our mobile applications.
 
-Links To Other Sites
+LINKS TO OTHER SITES
 
-The Web Site may contain links to other sites. Venmo does not control the information collection of sites that can be reached through links from the website. We encourage our users to be aware when they are leaving our site and to read the privacy statements of each Website that collects personally identifiable information.
+The Website may contain links to other sites. Venmo does not control the information collection of sites that can be reached through links from the website. We encourage our users to be aware when they are leaving our site and to read the privacy statements of each website that collects personally identifiable information.
 
-Changes to Our Privacy Policy
+CHANGES TO OUR PRIVACY POLICY
 
-Venmo is currently in private beta, and as our service evolves we may occasionally update this Privacy Policy. If we modify this privacy policy, we will post the revised privacy policy to the website and we will also revise the "last updated date" stated above If we make material changes in the way we use personal information, we will notify you by posting an announcement on our service or by sending you an e-mail. It is your responsibility to periodically review this privacy policy and users are bound by any changes to the privacy policy by using the service after such changes have been first posted.
+Venmo is always improving, and as our service evolves we may occasionally update this Privacy Policy. If we modify this privacy policy, we will post the revised privacy policy to the website, and we will also revise the "last updated date" stated above. If we make material changes in the way we use personal information, we will notify you by posting an announcement on our service or by sending you an e-mail. It is your responsibility to periodically review this privacy policy and users are bound by any changes to the privacy policy by using the service after such changes have been first posted.
 
-How to Contact Us
+HOW TO CONTACT US
 
-If you have questions or concerns regarding this policy, or any feedback that you would like us to consider, please email us at legal+privacy@venmo.com or [click here.](https://help.venmo.com/customer/portal/emails/new?email\[subject\]=Question+re:+Privacy+Policy&ticket\[custom_inquiry_type\]=legal_privacy) You may also write to us at Venmo, Attn: Privacy Department, 289 7th Ave., Floor 4, New York, NY 10001.
+If you have questions or concerns regarding this policy, or any feedback that you would like us to consider, please email us at privacy@venmo.com or [click here.](https://help.venmo.com/customer/portal/emails/new?email\[subject\]=Question+re:+Privacy+Policy&ticket\[custom_inquiry_type\]=legal_privacy) You may also write to us at Venmo, Attn: Privacy Department, 95 Morton Street, New York, NY 10014.
