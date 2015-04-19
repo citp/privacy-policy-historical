@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the ethioscoop.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816093641id_/http%3A//www.ethioscoop.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethioscoop.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419030235id_/http%3A//www.ethioscoop.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EthioScoop.com
+
+## Privacy Policy
+
+[Back to homepage __](http://www.ethioscoop.com/)
 
 ## Privacy Statement for EthioScoop
 
