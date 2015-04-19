@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalzeitgeist.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716171806id_/http%3A//frugalzeitgeist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalzeitgeist.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419132618id_/http%3A//frugalzeitgeist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frugal Zeitgeist
 
