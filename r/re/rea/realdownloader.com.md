@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realdownloader.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009203347id_/http%3A//www.realnetworks.com/about-us/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdownloader.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419074411id_/http%3A//www.realnetworks.com/about-us/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | RealNetworks
 
@@ -206,7 +206,7 @@ Add-on extensions have also have been created for the Firefox web browser, for e
 
 Except for essential cookies, all cookies will expire after [two] years.
 
-**For more information on our use of cookies, please see our[cookie policy](https://web.archive.org/web/20141017161704id_/http://www.realnetworks.com/privacy-policy/cookies.aspx)**
+**For more information on our use of cookies, please see our[cookie policy](https://web.archive.org/web/20150415122645id_/http://www.realnetworks.com/privacy-policy/cookies.aspx)**
 
 ## **CHILDREN’S ONLINE PRIVACY**
 
