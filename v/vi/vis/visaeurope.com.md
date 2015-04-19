@@ -1,26 +1,10 @@
-> *The following text is extracted and transformed from the visaeurope.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630040235id_/http%3A//www.visaeurope.com/en/site_services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visaeurope.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419172451id_/http%3A//www.visaeurope.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 We at VISA EUROPE want you to have the information you need to make your own decisions about your privacy. This Privacy Policy applies to visaeurope.com, visaeurope.at, visa.de, visa.gr, visaitalia.com, visa.nl, visa.no, visa.pl, visaeurope.es, visa.se, visaeurope.ch and visa.com.tr and affiliated websites owned and managed by VISA Europe (the “Sites”).
 
 This Privacy Policy describes the types of personal data we collect at the Sites, how we may use that information, and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of the information. We also explain how you can reach us to (i) access, rectify, or delete the data that you have provided, (ii) withdraw any consent that was given to process your personal data, (iii) tell us to refrain from providing you with information about our products and services (iv) answer any questions you may have about our online privacy practices.
-
-Click on one of the links below to jump to the listed section:
-
-  * Information we collect and how we use it
-    * Information or support requests
-    * Surveys
-    * Marketing
-    * Cookies and log files
-  * Information we share
-  * Transfers outside Europe
-  * Links to other sites
-  * Security
-  * Updates to this privacy notice
-  * How to contact us
-
-
 
 ## Information we collect and how we use it
 
@@ -84,8 +68,8 @@ If you have any questions about our information practices, please contact us by:
 
 Writing to us at:
 
-VISA EUROPE LIMITED  
-1 Sheldon Square  
-London W2 6WH  
-United Kingdom  
+VISA EUROPE LIMITED   
+1 Sheldon Square   
+London W2 6WH   
+United Kingdom   
 Attention: Data Protection Officer
