@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualedge.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728084207id_/https%3A//www1.virtualedge.com/login/index.cfm%3FFuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualedge.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419201131id_/https%3A//www1.virtualedge.com/login/index.cfm%3FFuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # ADP VirtualEdge :: Talent Lifecycle Solutions :: Get it!
 
