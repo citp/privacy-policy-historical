@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ping.com privacy policy that was archived on 2014-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226231345id_/http%3A//www.ping.com/legal/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ping.com privacy policy that was archived on 2015-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150419125102id_/http%3A//ping.com/legal/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head><title>
 	PING
@@ -10,16 +10,18 @@
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link rel="shortcut icon" href="http://mii.ping.com/favicon.ico">
+
+<link rel="shortcut icon" href="http://www.ping.com/favicon.ico">
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700">
 <link rel="stylesheet" type="text/css" href="/css/jquery.fancybox-1.3.4.css">
-<link rel="stylesheet" type="text/css" href="/css/site.css?v=22oct2014">
+<link rel="stylesheet" type="text/css" href="/css/site.css?v=4apr2015">
 <link rel="stylesheet" type="text/css" href="/css/i18n_1033.css">
 <!--[if IE 11]>
 	<link rel="stylesheet" type="text/css" href="/css/ie11.css" />
 <![endif]-->
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://mobile.ping.com/legal/privacy.aspx">
 	
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.6.2.js"></script>
@@ -30,7 +32,7 @@
 <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
 <script type="text/javascript" src="/js/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="/js/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<!--<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>-->
 <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 <script type="text/javascript" src="/js/jquery.mediaplayer.js?v=20nov2013"></script>
 <script type="text/javascript" src="/js/jquery.reel.js"></script>
@@ -46,8 +48,9 @@
 <script type="text/javascript" src="/js/jquery.ping.featureModule.js?v=29jul2014"></script>
 <script type="text/javascript" src="/js/jquery.ping.twitterTool.js"></script>
 <script type="text/javascript" src="/js/jquery.ping.paginate.js"></script>
-<script type="text/javascript" src="/js/jquery.ping.languageChooser.js?v=29jul2014"></script>
+<script type="text/javascript" src="/js/jquery.ping.languageChooser.js?v=1apr2015"></script>
 <script type="text/javascript" src="/js/jquery.ping.site.js?v=29jul2014"></script>
+
 
 <script type="text/javascript">
     languageCode = 1033; // !important
@@ -56,64 +59,49 @@
 
 <body class="">
     
-
 <script type="text/javascript">
     var googleAnalyticsAccount = 'UA-2669904-2';
     var _gaq = _gaq || [];
     var region = languageChooser.getCountryNameFromLanguageCode(1033);
+    var conversionTags = true;
+    var sizmek = false;
+    var quantcast = false;
+
+    _gaq.push(['_setAccount', googleAnalyticsAccount],
+    ['_setCustomVar', 1, 'region', region, 1],
+    ['_setDomainName', 'ping.com'],
+    ['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 </script>
 
-
-	<script type="text/javascript">
-        _gaq.push(['_setAccount', googleAnalyticsAccount],
-        ['_setCustomVar', 1, 'region', region, 1],
-        ['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-
-    <script type="text/javascript">
-        var appInsights = window.appInsights || function (config) {
-            function s(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, r = document, f = window, e = "script", o = r.createElement(e), i, u; for (o.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", r.getElementsByTagName(e)[0].parentNode.appendChild(o), t.cookie = r.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace"]; i.length;) s("track" + i.pop()); return config.disableExceptionTracking || (i = "onerror", s("_" + i), u = f[i], f[i] = function (config, r, f, e, o) { var s = u && u(config, r, f, e, o); return s !== !0 && t["_" + i](config, r, f, e, o), s }), t
-        }({
-            instrumentationKey: "d7e35974-75c1-4eb6-a8d4-35776480e4f6"
-        });
+<script type="text/javascript">
+    var appInsights = window.appInsights || function (config) {
+        function s(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, r = document, f = window, e = "script", o = r.createElement(e), i, u; for (o.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", r.getElementsByTagName(e)[0].parentNode.appendChild(o), t.cookie = r.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace"]; i.length;) s("track" + i.pop()); return config.disableExceptionTracking || (i = "onerror", s("_" + i), u = f[i], f[i] = function (config, r, f, e, o) { var s = u && u(config, r, f, e, o); return s !== !0 && t["_" + i](config, r, f, e, o), s }), t
+    }({
+        instrumentationKey: "d7e35974-75c1-4eb6-a8d4-35776480e4f6"
+    });
 
     window.appInsights = appInsights;
     appInsights.trackPageView();
-    </script>
+</script>
 
     <div id="site-wrapper">
         
 
 <header>
     <div id="logo">
-        <a href="/default.aspx">
-  <img src="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/page_content/navigation/header-logo.png" title="Take me to the home page">
-</a>
+        <a href="/default.aspx"><img src="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/page_content/navigation/header-logo.png" title=""></a>
     </div>
        
     
 	
 <nav id="header-utility-nav" class="secondaryNav">
-    <ul>
-  <li>
-    <a href="http://lockerroom.ping.com/" target="_blank">Register Clubs</a>
-  </li>
-  <li class="navigation-divider">|</li>
-  <li>
-    <a href="/dealerlocator/default.aspx">Find a Retailer or Demo Day</a>
-  </li>
-  <li class="navigation-divider">|</li>
-  <li>
-    <a href="/about/contactus.aspx">Customer Service</a>
-  </li>
-</ul>
-
+    <ul><li><a href="http://lockerroom.ping.com/" target="_blank">Register Clubs</a></li><li><a href="/dealerlocator/default.aspx" target="_self">Find a Retailer or Demo Day</a></li><li><a href="/about/contactus.aspx" target="_self">Customer Service</a></li><li><a href="http://www.gpg-putter.com" target="_blank" class="highlight">Ketsch Program</a></li></ul>
 </nav>
 
     
@@ -152,7 +140,7 @@
                   <p>High-Balance-Point Shaft</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/drivers/g30/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/drivers/g30/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -178,7 +166,33 @@
                   <p>5 Loft Settings (±1°)</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/drivers/g30/sftec_main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/drivers/g30/sftec_main_nav.jpg"></div>
+            </div>
+          </li>
+          <li>
+            <a href="/clubs/driversdetail.aspx?id=18340">G30 LS TEC</a>
+            <div class="nav-product-detail">
+              <div class="nav-product-name">
+                <a href="/clubs/driversdetail.aspx?id=18340">G30 LS TEC</a>
+              </div>
+              <div class="nav-product-cta">
+                <a href="/clubs/driversdetail.aspx?id=18340" class="cta-small-white">SEE DETAILS</a>
+              </div>
+              <ol>
+                <li>
+                  <p>Low, Stable Spin; Forgiving</p>
+                </li>
+                <li>
+                  <p>Turbulator Technology</p>
+                </li>
+                <li>
+                  <p>5 Loft Settings</p>
+                </li>
+                <li>
+                  <p>High-Balance-Point Shaft</p>
+                </li>
+              </ol>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/drivers/g30/lstec_main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -204,7 +218,7 @@
                   <p>High-Balance-Point Shaft</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/drivers/g25/g25_driver_main_navigation.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/drivers/g25/g25_driver_main_navigation.jpg"></div>
             </div>
           </li>
           <li>
@@ -230,59 +244,33 @@
                   <p>PWR Shaft Family</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/drivers/i25/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/drivers/i25/main_nav.jpg"></div>
             </div>
           </li>
           <li>
-            <a href="/clubs/driversdetail.aspx?id=9918">G20</a>
+            <a href="/clubs/driversdetail.aspx?id=18338">RHAPSODY</a>
             <div class="nav-product-detail">
               <div class="nav-product-name">
-                <a href="/clubs/driversdetail.aspx?id=9918">G20</a>
+                <a href="/clubs/driversdetail.aspx?id=18338">RHAPSODY</a>
               </div>
               <div class="nav-product-cta">
-                <a href="/clubs/driversdetail.aspx?id=9918" class="cta-small-white">SEE DETAILS</a>
+                <a href="/clubs/driversdetail.aspx?id=18338" class="cta-small-white">SEE DETAILS</a>
               </div>
               <ol>
                 <li>
-                  <p>Aerodynamic Head Design</p>
+                  <p>Lighter for Speed</p>
                 </li>
                 <li>
-                  <p>Large, Forgiving Face</p>
+                  <p>Launch Higher, Farther</p>
                 </li>
                 <li>
-                  <p>External Weight</p>
+                  <p>Extreme Forgiveness</p>
                 </li>
                 <li>
-                  <p>Ti 8-1-1 Construction</p>
+                  <p>5 Loft Settings (plus/minus 1°)</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/drivers/g20/g20_driver_main_navigation.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/driversdetail.aspx?id=14099">SERENE</a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/driversdetail.aspx?id=14099">SERENE</a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/driversdetail.aspx?id=14099" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>More Carry and Roll</p>
-                </li>
-                <li>
-                  <p>Large-Profile Head</p>
-                </li>
-                <li>
-                  <p>45-inch High-Balance-Point Shaft</p>
-                </li>
-                <li>
-                  <p>Forgiving Face</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/drivers/serene/serene_driver_main_navigation.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/drivers/rhapsody/2015/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -317,7 +305,7 @@
                   <p>Crown Turbulators</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/g30/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/g30/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -343,7 +331,7 @@
                   <p>Low-Back CG</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/g25/g25_fairway_main_navigation.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/g25/g25_fairway_main_navigation.jpg"></div>
             </div>
           </li>
           <li>
@@ -369,85 +357,33 @@
                   <p>PWR Shaft Family</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/i25/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/i25/main_nav.jpg"></div>
             </div>
           </li>
           <li>
-            <a href="/clubs/fairwaysdetail.aspx?id=16442">RAPTURE</a>
+            <a href="/clubs/fairwaysdetail.aspx?id=18342">RHAPSODY</a>
             <div class="nav-product-detail">
               <div class="nav-product-name">
-                <a href="/clubs/fairwaysdetail.aspx?id=16442">RAPTURE</a>
+                <a href="/clubs/fairwaysdetail.aspx?id=18342">RHAPSODY</a>
               </div>
               <div class="nav-product-cta">
-                <a href="/clubs/fairwaysdetail.aspx?id=16442" class="cta-small-white">SEE DETAILS</a>
+                <a href="/clubs/fairwaysdetail.aspx?id=18342" class="cta-small-white">SEE DETAILS</a>
               </div>
               <ol>
                 <li>
-                  <p>Tungsten Sole Plate</p>
+                  <p>Lighter System Mass</p>
                 </li>
                 <li>
-                  <p>13º Loft, Adjustable +-1/2º</p>
+                  <p>More Forgiving</p>
                 </li>
                 <li>
-                  <p>Long, Accurate</p>
+                  <p>Speed-Generating Face</p>
                 </li>
                 <li>
-                  <p>High-Balance-Point Shaft</p>
+                  <p>Launches Easily</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/rapture/141/main_nav.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/fairwaysdetail.aspx?id=9968">G20 </a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/fairwaysdetail.aspx?id=9968">G20 </a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/fairwaysdetail.aspx?id=9968" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>Larger Head Profile</p>
-                </li>
-                <li>
-                  <p>Optimized Face Height</p>
-                </li>
-                <li>
-                  <p>External Weight</p>
-                </li>
-                <li>
-                  <p>Large, Forgiving Face</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/g20/g20_fairway_main_nav_rollover.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/fairwaysdetail.aspx?id=14101">SERENE</a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/fairwaysdetail.aspx?id=14101">SERENE</a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/fairwaysdetail.aspx?id=14101" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>More Distance</p>
-                </li>
-                <li>
-                  <p>Easier Launch</p>
-                </li>
-                <li>
-                  <p>Greater Forgiveness</p>
-                </li>
-                <li>
-                  <p>High-Balance-Point Shaft</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/serene/serene_fairway_main_navigation.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/rhapsody/2015/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -482,7 +418,7 @@
                   <p>Progressive CG Locations</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/hybrids/g30/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/hybrids/g30/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -508,7 +444,7 @@
                   <p>Traditional Shape</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/hybrids/g25/g25_hybrid_main_navigation.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/hybrids/g25/g25_hybrid_main_navigation.jpg"></div>
             </div>
           </li>
           <li>
@@ -534,59 +470,7 @@
                   <p>Progressive CG Positions</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/hybrids/i25/main_nav.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/hybridsdetail.aspx?id=9969">G20 </a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/hybridsdetail.aspx?id=9969">G20 </a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/hybridsdetail.aspx?id=9969" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>Increased Bounce &amp; Camber</p>
-                </li>
-                <li>
-                  <p>Compact Head</p>
-                </li>
-                <li>
-                  <p>Large Internal Toe Weight</p>
-                </li>
-                <li>
-                  <p>Flatter Lie Angle</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/hybrids/g20/g20_hybrid_main_nav_rollover.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/hybridsdetail.aspx?id=16467">RAPTURE D.I.</a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/hybridsdetail.aspx?id=16467">RAPTURE D.I.</a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/hybridsdetail.aspx?id=16467" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>Tungsten Weighted for MOI</p>
-                </li>
-                <li>
-                  <p>Longer Shaft for Distance</p>
-                </li>
-                <li>
-                  <p>Faster Ball Speeds</p>
-                </li>
-                <li>
-                  <p>Low, Penetrating Trajectory</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/rapture/di/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/hybrids/i25/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -621,7 +505,7 @@
                   <p>Forgiving Sole Design</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/g30/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/irons/g30/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -647,7 +531,7 @@
                   <p>Progressive Lofts, Lengths</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/karsten/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/irons/karsten/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -673,7 +557,7 @@
                   <p>Optimized CTP Position</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/i25/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/irons/i25/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -699,7 +583,7 @@
                   <p>Distance With Control</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/g25/g25_iron_main_nav_rollover.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/irons/g25/g25_iron_main_nav_rollover.jpg"></div>
             </div>
           </li>
           <li>
@@ -725,111 +609,33 @@
                   <p>Higher Launching</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/s55/s55_iron_main_nav_rollover.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/irons/s55/s55_iron_main_nav_rollover.jpg"></div>
             </div>
           </li>
           <li>
-            <a href="/clubs/ironsdetail.aspx?id=13993">ANSER</a>
+            <a href="/clubs/ironsdetail.aspx?id=18346">RHAPSODY</a>
             <div class="nav-product-detail">
               <div class="nav-product-name">
-                <a href="/clubs/ironsdetail.aspx?id=13993">ANSER</a>
+                <a href="/clubs/ironsdetail.aspx?id=18346">RHAPSODY</a>
               </div>
               <div class="nav-product-cta">
-                <a href="/clubs/ironsdetail.aspx?id=13993" class="cta-small-white">SEE DETAILS</a>
+                <a href="/clubs/ironsdetail.aspx?id=18346" class="cta-small-white">SEE DETAILS</a>
               </div>
               <ol>
                 <li>
-                  <p>Stabilizing Bars</p>
+                  <p>Blended Iron/Hybrid Set</p>
                 </li>
                 <li>
-                  <p>Forged, Multi-Metal Technology</p>
+                  <p>Optimized Distance, Gapping</p>
                 </li>
                 <li>
-                  <p>Clean, Inspirational Shape</p>
+                  <p>Progressive Lengths, Lofts</p>
                 </li>
                 <li>
-                  <p>Progressive Set Design</p>
+                  <p>High Launch, Forgiving</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/anser/2012_anser/anser_iron_main_nav_rollover_jp.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/ironsdetail.aspx?id=16426">RAPTURE D.I.</a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/ironsdetail.aspx?id=16426">RAPTURE D.I.</a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/ironsdetail.aspx?id=16426" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>Tungsten Weighted for MOI</p>
-                </li>
-                <li>
-                  <p>Longer Shaft for Distance</p>
-                </li>
-                <li>
-                  <p>Faster Ball Speeds</p>
-                </li>
-                <li>
-                  <p>Low, Penetrating Trajectory</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/rapture/di/main_nav.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/ironsdetail.aspx?id=9970">G20 </a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/ironsdetail.aspx?id=9970">G20 </a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/ironsdetail.aspx?id=9970" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>Floating Custom Tuning Port</p>
-                </li>
-                <li>
-                  <p>Clean Appearance</p>
-                </li>
-                <li>
-                  <p>Perimeter Weighting</p>
-                </li>
-                <li>
-                  <p>Thin Face</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/g20/g20_iron_main_nav_rollover.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/ironsdetail.aspx?id=14105">SERENE</a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/ironsdetail.aspx?id=14105">SERENE</a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/ironsdetail.aspx?id=14105" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>Blended Irons/Hybrids</p>
-                </li>
-                <li>
-                  <p>Forgiving Irons</p>
-                </li>
-                <li>
-                  <p>Easy-to-Hit Hybrids</p>
-                </li>
-                <li>
-                  <p>Consistent Gapping</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/serene/serene_iron_main_nav_rollover_jp.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/irons/rhapsody/2015/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -844,6 +650,32 @@
         <a href="/clubs/wedges.aspx">
           <div id="wedgesIcon" class="navIcon"></div>WEDGES</a>
         <ul>
+          <li>
+            <a href="/clubs/wedgesdetail.aspx?id=18283">GLIDE</a>
+            <div class="nav-product-detail">
+              <div class="nav-product-name">
+                <a href="/clubs/wedgesdetail.aspx?id=18283">GLIDE</a>
+              </div>
+              <div class="nav-product-cta">
+                <a href="/clubs/wedgesdetail.aspx?id=18283" class="cta-small-white">SEE DETAILS</a>
+              </div>
+              <ol>
+                <li>
+                  <p>Engineered Grip to Sole</p>
+                </li>
+                <li>
+                  <p>Fitting by Sole</p>
+                </li>
+                <li>
+                  <p>Loft-Optimized Gorge Grooves</p>
+                </li>
+                <li>
+                  <p>Moisture-Repelling 431 Steel</p>
+                </li>
+              </ol>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/wedges/glide/main_nav.jpg"></div>
+            </div>
+          </li>
           <li>
             <a href="/clubs/wedgesdetail.aspx?id=14097">TOUR</a>
             <div class="nav-product-detail">
@@ -867,33 +699,7 @@
                   <p>Control, Consistency</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/wedges/tour_wedges/tour_wedges_gorge/gorge_wedge_main_navigation.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/wedgesdetail.aspx?id=9971">ANSER</a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/wedgesdetail.aspx?id=9971">ANSER</a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/wedgesdetail.aspx?id=9971" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>Tapered Sole</p>
-                </li>
-                <li>
-                  <p>Reinforced Back Cavity</p>
-                </li>
-                <li>
-                  <p>Machined Grooves</p>
-                </li>
-                <li>
-                  <p>Dense Tungsten Toe Weight</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/wedges/anser/anser_wedge_main_navigation.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/wedges/tour_wedges/tour_wedges_gorge/gorge_wedge_main_navigation.jpg"></div>
             </div>
           </li>
           <li>
@@ -919,7 +725,7 @@
                   <p>Nonglare Satin Finish</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/wedges/eye2_gorge/main_navigation.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/wedges/eye2_gorge/main_navigation.jpg"></div>
             </div>
           </li>
           <li>
@@ -934,6 +740,35 @@
         <a href="/clubs/putters.aspx">
           <div id="puttersIcon" class="navIcon"></div>PUTTERS</a>
         <ul>
+          <li>
+            <a href="/clubs/puttersdetail.aspx?id=18298">CADENCE TR</a>
+            <div class="nav-product-detail">
+              <div class="nav-product-name">
+                <a href="/clubs/puttersdetail.aspx?id=18298">CADENCE TR</a>
+              </div>
+              <div class="nav-product-cta">
+                <a href="/clubs/puttersdetail.aspx?id=18298" class="cta-small-white">SEE DETAILS</a>
+              </div>
+              <ol>
+                <li>
+                  <p>Fit for Tempo, Feel Preference </p>
+                </li>
+                <li>
+                  <p>Traditional, Heavy Models </p>
+                </li>
+                <li>
+                  <p>Next-Generation TR Grooves </p>
+                </li>
+                <li>
+                  <p>Accuracy, Consistency</p>
+                </li>
+                <li>
+                  <p>Adjustable-Length Shafts</p>
+                </li>
+              </ol>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/putters/cadence_tr/main_nav.jpg"></div>
+            </div>
+          </li>
           <li>
             <a href="/clubs/puttersdetail.aspx?id=15200">SCOTTSDALE TR</a>
             <div class="nav-product-detail">
@@ -960,7 +795,7 @@
                   <p>Fit for Stroke</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/putters/scottsdale_tr/static/scottsdale_tr_putter_main_navigation.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/putters/scottsdale_tr/static/scottsdale_tr_putter_main_navigation.jpg"></div>
             </div>
           </li>
           <li>
@@ -986,111 +821,33 @@
                   <p>Copper PVD Finish</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/putters/karsten_tr/static/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/putters/karsten_tr/static/main_nav.jpg"></div>
             </div>
           </li>
           <li>
-            <a href="/clubs/puttersdetail.aspx?id=16554">KETSCH</a>
+            <a href="/clubs/puttersdetail.aspx?id=18355">RHAPSODY</a>
             <div class="nav-product-detail">
               <div class="nav-product-name">
-                <a href="/clubs/puttersdetail.aspx?id=16554">KETSCH</a>
+                <a href="/clubs/puttersdetail.aspx?id=18355">RHAPSODY</a>
               </div>
               <div class="nav-product-cta">
-                <a href="/clubs/puttersdetail.aspx?id=16554" class="cta-small-white">SEE DETAILS</a>
+                <a href="/clubs/puttersdetail.aspx?id=18355" class="cta-small-white">SEE DETAILS</a>
               </div>
               <ol>
                 <li>
-                  <p>Accurate, Easy to Aim</p>
+                  <p>High-MOI Models</p>
                 </li>
                 <li>
-                  <p>Milled Grooves</p>
+                  <p>Unmatched Distance Control</p>
                 </li>
                 <li>
-                  <p>Adjustable-Length Shaft (Optional)</p>
+                  <p>Next-Generation TR Grooves</p>
                 </li>
                 <li>
-                  <p>Counter-Balanced Option</p>
+                  <p>Solid Feel, Responsiveness</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/putters/ketsch/main_nav.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/puttersdetail.aspx?id=15612">NOME TR</a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/puttersdetail.aspx?id=15612">NOME TR</a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/puttersdetail.aspx?id=15612" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>Variable-Depth Grooves</p>
-                </li>
-                <li>
-                  <p>Easy-Aiming Alignment Feature </p>
-                </li>
-                <li>
-                  <p>Highly Forgiving Head</p>
-                </li>
-                <li>
-                  <p>Fit for Stroke™</p>
-                </li>
-                <li>
-                  <p>Optional Adjustable Shaft </p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/putters/nome_tr/nome_tr_putter_main_navigation.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/puttersdetail.aspx?id=9938">ANSER MILLED</a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/puttersdetail.aspx?id=9938">ANSER MILLED</a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/puttersdetail.aspx?id=9938" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>Fit For Stroke™</p>
-                </li>
-                <li>
-                  <p>Precision Milled</p>
-                </li>
-                <li>
-                  <p>Design Details</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/putters/anser/anser_putter_main_nav_rollover.jpg"></div>
-            </div>
-          </li>
-          <li>
-            <a href="/clubs/puttersdetail.aspx?id=14107">SERENE</a>
-            <div class="nav-product-detail">
-              <div class="nav-product-name">
-                <a href="/clubs/puttersdetail.aspx?id=14107">SERENE</a>
-              </div>
-              <div class="nav-product-cta">
-                <a href="/clubs/puttersdetail.aspx?id=14107" class="cta-small-white">SEE DETAILS</a>
-              </div>
-              <ol>
-                <li>
-                  <p>Variable-depth Grooves</p>
-                </li>
-                <li>
-                  <p>Perimeter Weighting</p>
-                </li>
-                <li>
-                  <p>3 Classic Models</p>
-                </li>
-                <li>
-                  <p>Fit for Stroke</p>
-                </li>
-              </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/putters/serene/static/serene_putter_main_navigation.jpeg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/putters/rhapsody/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -1103,107 +860,107 @@
           <div id="ladiesIcon" class="navIcon"></div>LADIES</a>
         <ul>
           <li>
-            <a href="/clubs/driversdetail.aspx?id=14099">SERENE DRIVER</a>
+            <a href="/clubs/driversdetail.aspx?id=18338">RHAPSODY DRIVER</a>
             <div class="nav-product-detail">
               <div class="nav-product-name">
-                <a href="/clubs/driversdetail.aspx?id=14099">SERENE</a>
+                <a href="/clubs/driversdetail.aspx?id=18338">RHAPSODY</a>
               </div>
               <div class="nav-product-cta">
-                <a href="/clubs/driversdetail.aspx?id=14099" class="cta-small-white">SEE DETAILS</a>
+                <a href="/clubs/driversdetail.aspx?id=18338" class="cta-small-white">SEE DETAILS</a>
               </div>
               <ol>
                 <li>
-                  <p>More Carry and Roll</p>
+                  <p>Lighter for Speed</p>
                 </li>
                 <li>
-                  <p>Large-Profile Head</p>
+                  <p>Launch Higher, Farther</p>
                 </li>
                 <li>
-                  <p>45-inch High-Balance-Point Shaft</p>
+                  <p>Extreme Forgiveness</p>
                 </li>
                 <li>
-                  <p>Forgiving Face</p>
+                  <p>5 Loft Settings (plus/minus 1°)</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/drivers/serene/serene_driver_main_navigation.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/drivers/rhapsody/2015/main_nav.jpg"></div>
             </div>
           </li>
           <li>
-            <a href="/clubs/fairwaysdetail.aspx?id=14101">SERENE FAIRWAY WOOD</a>
+            <a href="/clubs/fairwaysdetail.aspx?id=18342">RHAPSODY FAIRWAYS</a>
             <div class="nav-product-detail">
               <div class="nav-product-name">
-                <a href="/clubs/fairwaysdetail.aspx?id=14101">SERENE</a>
+                <a href="/clubs/fairwaysdetail.aspx?id=18342">RHAPSODY</a>
               </div>
               <div class="nav-product-cta">
-                <a href="/clubs/fairwaysdetail.aspx?id=14101" class="cta-small-white">SEE DETAILS</a>
+                <a href="/clubs/fairwaysdetail.aspx?id=18342" class="cta-small-white">SEE DETAILS</a>
               </div>
               <ol>
                 <li>
-                  <p>More Distance</p>
+                  <p>Lighter System Mass</p>
                 </li>
                 <li>
-                  <p>Easier Launch</p>
+                  <p>More Forgiving</p>
                 </li>
                 <li>
-                  <p>Greater Forgiveness</p>
+                  <p>Speed-Generating Face</p>
                 </li>
                 <li>
-                  <p>High-Balance-Point Shaft</p>
+                  <p>Launches Easily</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/serene/serene_fairway_main_navigation.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/fairway_woods/rhapsody/2015/main_nav.jpg"></div>
             </div>
           </li>
           <li>
-            <a href="/clubs/ironsdetail.aspx?id=14105">SERENE IRONS</a>
+            <a href="/clubs/ironsdetail.aspx?id=18346">RHAPSODY IRONS</a>
             <div class="nav-product-detail">
               <div class="nav-product-name">
-                <a href="/clubs/ironsdetail.aspx?id=14105">SERENE</a>
+                <a href="/clubs/ironsdetail.aspx?id=18346">RHAPSODY</a>
               </div>
               <div class="nav-product-cta">
-                <a href="/clubs/ironsdetail.aspx?id=14105" class="cta-small-white">SEE DETAILS</a>
+                <a href="/clubs/ironsdetail.aspx?id=18346" class="cta-small-white">SEE DETAILS</a>
               </div>
               <ol>
                 <li>
-                  <p>Blended Irons/Hybrids</p>
+                  <p>Blended Iron/Hybrid Set</p>
                 </li>
                 <li>
-                  <p>Forgiving Irons</p>
+                  <p>Optimized Distance, Gapping</p>
                 </li>
                 <li>
-                  <p>Easy-to-Hit Hybrids</p>
+                  <p>Progressive Lengths, Lofts</p>
                 </li>
                 <li>
-                  <p>Consistent Gapping</p>
+                  <p>High Launch, Forgiving</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/irons/serene/serene_iron_main_nav_rollover_jp.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/irons/rhapsody/2015/main_nav.jpg"></div>
             </div>
           </li>
           <li>
-            <a href="/clubs/puttersdetail.aspx?id=14107">SERENE PUTTERS</a>
+            <a href="/clubs/puttersdetail.aspx?id=18355">RHAPSODY PUTTERS</a>
             <div class="nav-product-detail">
               <div class="nav-product-name">
-                <a href="/clubs/puttersdetail.aspx?id=14107">SERENE</a>
+                <a href="/clubs/puttersdetail.aspx?id=18355">RHAPSODY</a>
               </div>
               <div class="nav-product-cta">
-                <a href="/clubs/puttersdetail.aspx?id=14107" class="cta-small-white">SEE DETAILS</a>
+                <a href="/clubs/puttersdetail.aspx?id=18355" class="cta-small-white">SEE DETAILS</a>
               </div>
               <ol>
                 <li>
-                  <p>Variable-depth Grooves</p>
+                  <p>High-MOI Models</p>
                 </li>
                 <li>
-                  <p>Perimeter Weighting</p>
+                  <p>Unmatched Distance Control</p>
                 </li>
                 <li>
-                  <p>3 Classic Models</p>
+                  <p>Next-Generation TR Grooves</p>
                 </li>
                 <li>
-                  <p>Fit for Stroke</p>
+                  <p>Solid Feel, Responsiveness</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/putters/serene/static/serene_putter_main_navigation.jpeg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/putters/rhapsody/main_nav.jpg"></div>
             </div>
           </li>
         </ul>
@@ -1223,22 +980,22 @@
               </div>
               <ol>
                 <li>
-                  <p>460cc, High-MOI Driver</p>
+                  <p>10-Club Transition Set For Teens</p>
                 </li>
                 <li>
-                  <p>High-launching Fairway Wood</p>
+                  <p>Ages 13 to 14,<br>60" to 64"</p>
                 </li>
                 <li>
-                  <p>Easy-to-hit Hybrid</p>
+                  <p>460cc Titanium Driver</p>
                 </li>
                 <li>
-                  <p>Perimeter-Weighted Irons</p>
+                  <p>Fairway, Hybrid, Six Irons</p>
                 </li>
                 <li>
-                  <p>Forgiving Anser Putter</p>
+                  <p>Anser Putter, Lightweight Bag</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/juniors/thrive/main_nav.jpg"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/juniors/thrive/main_nav.jpg"></div>
             </div>
           </li>
           <li>
@@ -1270,7 +1027,7 @@
                   <p>Carry Bag with stand and dual straps</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/juniors/moxie/2011/moxie_i_main_navigation.png"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/juniors/moxie/2011/moxie_i_main_navigation.png"></div>
             </div>
           </li>
           <li>
@@ -1299,7 +1056,7 @@
                   <p>Carry Bag w/ Stand and Dual Straps</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/juniors/moxie/2011/moxie_g_main_navigation.png"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/juniors/moxie/2011/moxie_g_main_navigation.png"></div>
             </div>
           </li>
           <li>
@@ -1325,7 +1082,7 @@
                   <p>Carry Bag w/Stand<br>and Dual Straps</p>
                 </li>
               </ol>
-              <div class="nav-product-image" data-product-image="http://pinggolf-cdn.ping.com/pinggolf/uploadedimages/clubs/juniors/moxie/2011/moxie_k_main_navigation.png"></div>
+              <div class="nav-product-image" data-product-image="http://pinggolf-blob.ping.com/pinggolf/uploadedimages/clubs/juniors/moxie/2011/moxie_k_main_navigation.png"></div>
             </div>
           </li>
         </ul>
@@ -1352,10 +1109,6 @@
       <li>
         <a href="/video/videos.aspx?id=14360">
           <div id="noIcon"></div>FITTING</a>
-      </li>
-      <li>
-        <a href="/video/videos.aspx?id=14431">
-          <div id="noIcon"></div>COMMERCIALS</a>
       </li>
       <li>
         <a href="/video/videos.aspx?id=14810">
@@ -1396,8 +1149,8 @@
           <div id="noIcon"></div>FITTING VIDEOS</a>
       </li>
       <li>
-        <a href="/fitting/5steps.aspx">
-          <div id="noIcon"></div>PING's 5 STEPS</a>
+        <a href="/fitting/process.aspx">
+          <div id="noIcon"></div>FITTING PROCESS</a>
       </li>
       <li>
         <a href="/fitting/iping.aspx">
@@ -1609,7 +1362,7 @@
 	<div id="footer-content">
     	<div id="footer-left">
             <ul id="footer-social-icons">
-                <li><a href="http://www.facebook.com/PINGGolfFans" target="_blank"><img src="/images/facebook-icon.png" width="25" height="25" alt="Become a Facebook Fan" title="Become a Facebook Fan"></a></li><li><a href="http://www.twitter.com/pingtour" target="_blank"><img src="/images/twitter-icon.png" width="25" height="25" alt="Follow PINGTour on Twitter" title="Follow PINGTour on Twitter"></a></li><li><a href="http://www.youtube.com/PING" target="_blank"><img src="/images/youtube-icon.png" width="25" height="25" alt="Visit the PING YouTube Channel" title="Visit the PING YouTube Channel"></a></li><li><a href="http://pinterest.com/pinggolf/" target="_blank"><img src="/images/pinterest-icon.png" width="25" height="25" alt="Follow PINGGolf on Pinterest" title="Follow PINGGolf on Pinterest"></a></li><li><a href="http://instagram.com/pingtour" target="_blank"><img src="/images/instagram-icon.png" width="25" height="25" alt="Explore PINGTour on Instagram" title="Explore PINGTour on Instagram"></a></li>
+                <li><a href="http://www.facebook.com/PINGGolfFans" target="_blank" data-id="facebook"><img src="/images/facebook-icon.png" width="25" height="25" alt="Become a Facebook Fan" title="Become a Facebook Fan"></a></li><li><a href="http://www.twitter.com/pingtour" target="_blank" data-id="twitter"><img src="/images/twitter-icon.png" width="25" height="25" alt="Follow PINGTour on Twitter" title="Follow PINGTour on Twitter"></a></li><li><a href="http://www.youtube.com/PING" target="_blank" data-id="youtube"><img src="/images/youtube-icon.png" width="25" height="25" alt="Visit the PING YouTube Channel" title="Visit the PING YouTube Channel"></a></li><li><a href="http://pinterest.com/pinggolf/" target="_blank" data-id="pinterest"><img src="/images/pinterest-icon.png" width="25" height="25" alt="Follow PINGGolf on Pinterest" title="Follow PINGGolf on Pinterest"></a></li><li><a href="http://instagram.com/pingtour/" target="_blank" data-id="instagram"><img src="/images/instagram-icon.png" width="25" height="25" alt="Explore PINGTour on Instagram" title="Explore PINGTour on Instagram"></a></li>
 			</ul>
             <ul id="footer-utility-nav" class="secondaryNav">
                 <li><a href="/legal/privacy.aspx">PRIVACY</a></li><li class="navigation-divider">|</li><li><a href="/legal/legal.aspx">TERMS OF USE</a></li>
@@ -1627,35 +1380,7 @@
 </script>
 
 <div id="footer-country-selector" class="menu-selector">
-    <ul>
-  <li>
-    <a href="#" data-code="1033">NORTH AMERICA</a>
-  </li>
-  <li>
-    <a href="#" data-code="2057">UNITED KINGDOM</a>
-  </li>
-  <li>
-    <a href="#" data-code="1036">FRANCE</a>
-  </li>
-  <li>
-    <a href="#" data-code="1031">GERMANY</a>
-  </li>
-  <li>
-    <a href="#" data-code="1034">SPAIN</a>
-  </li>
-  <li>
-    <a href="#" data-code="1053">SWEDEN</a>
-  </li>
-  <li>
-    <a href="#" data-code="1041">JAPAN</a>
-  </li>
-  <li>
-    <a href="#" data-code="3081" data-redirect="1033">OCEANIA</a>
-  </li>
-  <li>
-    <a href="#" data-code="7177" data-redirect="2057">SOUTH AFRICA</a>
-  </li>
-</ul>
+    <ul><li><a href="#" data-code="1033">NORTH AMERICA</a></li><li><a href="#" data-code="2057">UNITED KINGDOM</a></li><li><a href="#" data-code="1036">FRANCE</a></li><li><a href="#" data-code="1031">GERMANY</a></li><li><a href="#" data-code="1034">SPAIN</a></li><li><a href="#" data-code="1053">SWEDEN</a></li><li><a href="#" data-code="1041">JAPAN</a></li><li><a href="#" data-code="3081" data-redirect="1033">OCEANIA</a></li><li><a href="#" data-code="7171" data-redirect="2057">SOUTH AFRICA</a></li></ul>
     <p>
         <a href="#" onclick="return(false);"></a>
     </p>
@@ -1667,5 +1392,17 @@
      </div>
 </footer>
 
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#footer-social-icons a").add("#twitter-feed-widget #header a").click(function () {
+            var category = 'Navigation';
+            var event = 'Outbound Click';
+            var label = $(this).data("id");
+            _gaq.push(['_setAccount', googleAnalyticsAccount],
+                    ['_trackEvent', category, event, label]);
+            console.log("Category:%s, Event:%s, Label:%s", category, event, label);
+        });
+    });
+</script>
 
 </body></html>
