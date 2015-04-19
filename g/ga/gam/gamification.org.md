@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamification.org privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206090453id_/http%3A//badgeville.com/wiki/Gamification_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamification.org privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419104914id_/http%3A//badgeville.com/wiki/Gamification_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Gamification Wiki:Privacy policy
 
