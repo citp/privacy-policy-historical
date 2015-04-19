@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attendify.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226114433id_/http%3A//attendify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attendify.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419022904id_/http%3A//attendify.com/privacy) for the most accurate reproduction.*
 
 # KitApps/Attendify Privacy Policy - Attendify
 
