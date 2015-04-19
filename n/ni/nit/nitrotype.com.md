@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nitrotype.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216190016id_/http%3A//www.nitrotype.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrotype.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419044801id_/http%3A//www.nitrotype.com/support/privacy) for the most accurate reproduction.*
 
 # Nitro Type | Competitive Typing Game | Race Your Friends
 
-**FTW Innovations, Inc.** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Nitro Type.
+**Teaching.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Nitro Type.
 
 First and foremost, we do not share any information submitted to our website without prior permission.
 
