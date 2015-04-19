@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentown.net privacy policy that was archived on 2014-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140119044814id_/http%3A//www.rentown.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentown.net privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419071440id_/http%3A//www.rentown.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - RentOwn.net
 
