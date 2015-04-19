@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114123605id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419054434id_/https%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
 
 # Run your Football, March Madness, Baseball, Golf, and other pools at RunYourPool.com
 
