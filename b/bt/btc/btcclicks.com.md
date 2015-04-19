@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the btcclicks.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031085834id_/http%3A//btcclicks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btcclicks.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420011458id_/http%3A//btcclicks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BTC Clicks | Earn Bitcoins - Bitcoin Advertising - Bitcoin PTC
 
-[Advertise now!](https://web.archive.org/advertise) Extremely competitive prices at **2.89 mBTC/1000 visitors**.  
+[Advertise now!](https://web.archive.org/advertise) Extremely competitive prices at **4.49 mBTC/1000 visitors**.  
 Longer ad view prices have been lowered. 20 second ads used to be 1.45x the price of 10 second ads, now they are only 1.3x the price.
 
 **BONUS: Withdraw to your Xapo wallet for the first time and receive 2 days worth of premium membership as a bonus.[Click here for more details.](https://web.archive.org/xapo)**
