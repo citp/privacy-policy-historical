@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vampirefreaks.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055153id_/http%3A//vampirefreaks.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vampirefreaks.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420000957id_/http%3A//vampirefreaks.com/site/privacy.php) for the most accurate reproduction.*
 
 # VampireFreaks.com - Privacy Policy
 
