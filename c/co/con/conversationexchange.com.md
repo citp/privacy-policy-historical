@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationexchange.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055839id_/http%3A//www.conversationexchange.com/sep_files/en/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationexchange.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420011503id_/http%3A//www.conversationexchange.com/sep_files/en/privacy.htm) for the most accurate reproduction.*
 
 # Conversation Exchange - Privacy
 
