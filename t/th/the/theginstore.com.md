@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theginstore.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231213240id_/http%3A//www.theginstore.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theginstore.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419135236id_/http%3A//www.theginstore.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The GIN Store
 
