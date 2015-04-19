@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingq.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222045700id_/http%3A//www.everythingwm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingq.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419230949id_/http%3A//www.everythingwm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
