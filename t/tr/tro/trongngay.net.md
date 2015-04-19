@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trongngay.net privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224070254id_/http%3A//trongngay.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trongngay.net privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419051955id_/http%3A//trongngay.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Y8, Y3 Games - Free Online Flash Games - Free Flash Games
 
