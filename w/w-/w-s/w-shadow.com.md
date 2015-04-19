@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the w-shadow.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711120137id_/http%3A//w-shadow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w-shadow.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419214849id_/http%3A//w-shadow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | W-Shadow.com
 
 ## Privacy
 
-**W-Shadow.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+**W-Shadow.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. 
 
 ### Routine Information Collection
 
@@ -18,7 +18,7 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 ### Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. 
 
 ### Special Note About Google Advertising
 
