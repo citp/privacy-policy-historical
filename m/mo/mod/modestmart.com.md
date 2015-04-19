@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modestmart.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702100352id_/http%3A//modestmart.com/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modestmart.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420014749id_/http%3A//www.modestmart.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ModestMart
 
