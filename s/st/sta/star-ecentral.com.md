@@ -1,33 +1,30 @@
-> *The following text is extracted and transformed from the star-ecentral.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202204842id_/http%3A//thestar.com.my/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star-ecentral.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419071123id_/http%3A//www.star-ecentral.com/Privacy.html) for the most accurate reproduction.*
 
-# The Star Online: Privacy Statement
+# PRIVACY POLICY
 
-### Privacy Statement for The Star Online
+##  1\. Acknowledgement and Acceptance of Terms.
 
-Star Publications (Malaysia) Berhad (co. no. 10894-D) has created this privacy statement to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, The Star Online. 
+DNBIZ Ltd., the affiliate of Hangzhou 365 Internet Ltd., is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-Our Web servers do not automatically recognise specific information about individual users on our site. In addition, our servers do not automatically record information regarding a user's e-mail address unless the user supplies it. 
+* * *
 
-We collect information about users during the registration process for certain parts of our site; through their participation in certain activities, including contests, forums, and polls; and through the use of cookies. When you request pages from our server, it automatically collects some information about your preferences, including your IP address. We use this to help diagnose problems with our server, and to administer our site. 
+##  2\. What Information Do We Collect? 
 
-We use cookies so that you do not have to enter your login information each time you visit our site. 
+DNBIZ may request that an entity applying for an account provides us with certain personal information (such as its name, email address, etc.) relevant to our provision of the various services offered on our site. We do not collect any personal information other than that which is specifically and knowingly provided to us. When we request information, we explain how it may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us. 
 
-The information collected is meant to identify the broad demographic profile of our users. This information does not contain anything that can identify users individually. We may combine demographic information supplied by a subscriber at registration with site usage data to provide profiles, in aggregate form, about our users and their preferences in the content of the site and advertising. You may receive periodic mailings from us with information on new products or services in our newspaper or on our site. 
+* * *
 
-The user-supplied information collected through the registration process, surveys, contest entry forms, polls or other similar vehicles is used to improve the content of our site, or used for Star Publications (Malaysia) Berhad's marketing purposes. It is not shared with other organisations for commercial purposes unless specifically stated. We may use such information for targeting appropriate editorial or advertising content to users but users will always be able to opt out of such mailings. 
+##  3\. With Whom Do We Share Information? 
 
-This site makes information sharing, feedback, forums, and/or message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We request that users treat each other with courtesy and mutual respect. 
+DNBIZ may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Such non-personally identifiable information may include your IP address, sites(s) you visited and keyword searches you conducted on our site(s). This information may allow such third parties to provide you customized advertising.   
+In addition, we may partner with other parties in connection with the various services offered on our site, such as credit card processors or email delivery services. In such instances, we may share limited personal information that is necessary for the third party to provide its services. These companies are prohibited from using this information for any other purpose.
 
-This site contains links to other sites. The Star Online is not responsible for the privacy practices or the content of such sites. The Star Online has also established relationships with partners but such relationships are generally technical in nature, or content collaborations. If any partner has access to any information entered by users in our database, this fact shall be disclosed to the user upon initiating the registration process. Users who feel they do not wish their information to be shared by anyone other than The Star Online may then opt out of completing the registration. 
+* * *
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. When a user is asked to provide his/her credit card information, we provide a secure environment through our partners' systems (using industry standard SSL or SET protocols) for this purpose. 
+##  4\. Cookies , web Beacons and Other Monitoring Technologies? 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you may contact: 
+Like most sites, for account management purposes, DNBIZ may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about site users. Cookies are data files stored on your computer that identify you as a unique user. In limited instances, we may allow third party business partners to monitor our sites for the purpose of reporting user traffic, statistics, advertisements, “click-throughs” and/or other activities and to set their cookies on your computer, subject to agreement between such business partner and us and subject to such business partner’s privacy policy. Cookies and related monitoring technologies enable us to track user trends, preferences and patterns. We may also receive and record information from your computer and browser, including your IP address, site(s) you visited and keyword searches you conducted on our site(s). The information helps us provide improved services, including customized advertising. You can visit our site without using cookies. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. 
 
-I.Star Division  
-Star Publications (Malaysia) Berhad  
-Level 7 Menara Star  
-15 Jln 16/11  
-46350 Petaling Jaya  
-MALAYSIA  
-[feedback@thestar.com.my](mailto:feedback@thestar.com.my)
+* * *
+
+This document was last updated on December 28, 2010.
