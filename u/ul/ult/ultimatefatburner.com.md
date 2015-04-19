@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatefatburner.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072807id_/http%3A//www.ultimatefatburner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatefatburner.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419161725id_/http%3A//www.ultimatefatburner.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 
 It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
 
-You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.doubleclick.com/privacy/dart_adserving.aspx](http://www.google.com/doubleclick/)
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
