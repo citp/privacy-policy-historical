@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanuk.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020215010id_/http%3A//www.sanuk.com/on/demandware.store/Sites-SANUK-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanuk.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419202050id_/http%3A//www.sanuk.com/on/demandware.store/Sites-SANUK-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
 
 # Sanuk® Official Site | Privacy Policy
 
