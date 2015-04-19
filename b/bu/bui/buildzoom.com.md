@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the buildzoom.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819134117id_/http%3A//www.buildzoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildzoom.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419092825id_/http%3A//www.buildzoom.com/privacy-policy) for the most accurate reproduction.*
 
-# BuildZoom helps property owners find great remodeling contractors, electricians, plumbers, roofers, and more.
+# Privacy Policy
+
+### Privacy Policy
 
 **What information do we collect?**
 
