@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sheridan.com.au privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228092428id_/http%3A//www.sheridan.com.au/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheridan.com.au privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419041318id_/http%3A//www.sheridan.com.au/privacy) for the most accurate reproduction.*
 
-# privacy & security
+# Privacy
 
-## **Sheridan's Privacy Policy**
+## **SHERIDAN'S PRIVACY POLICY**
 
 This website under the domain name sheridan.com.au (the "Website") is owned and operated by Sheridan, a division of Sheridan Australia Pty Ltd which is part of the Pacific Brands group of companies (collectively called "Sheridan", "we, "us" or "our" in this policy).
 
@@ -22,7 +22,7 @@ back to top
 
 The personal information we collect is generally supplied directly by you through our Website. For example, the details you provide us when you place an order, open an account, subscribe to our emails, join a mailing list, enter a competition, submit an enquiry, or provide feedback to us. There are also certain situations in which we may collect personal information about you from someone else. For example we may collect information from third parties including public sources, our related companies, your organisation, your representatives and information service providers.
 
-We also receive and store certain types of information through the use of 'Cookies', when you interact with Sheridan via the Internet. Cookies are alphanumeric identifiers that are placed on your computer's hard drive through your web browser. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable or to warn you when cookies are used. We recommend that you leave your cookies enabled as they allow our systems to recognise your browser and provide quicker and easier use of our Website. 
+We also receive and store certain types of information through the use of 'Cookies', when you interact with Sheridan via the Internet. Cookies are alphanumeric identifiers that are placed on your computer's hard drive through your web browser. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable or to warn you when cookies are used. We recommend that you leave your cookies enabled as they allow our systems to recognise your browser and provide quicker and easier use of our Website.
 
 back to top
 
