@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uglyhedgehog.com privacy policy that was archived on 2012-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120109023946id_/http%3A//www.uglyhedgehog.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uglyhedgehog.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419194628id_/http%3A//www.uglyhedgehog.com/privacy_policy.jsp) for the most accurate reproduction.*
 
-# UglyHedgehog.com Privacy Policy
+# Privacy Policy
 
 This Privacy Policy describes the terms of our commitment to your privacy.
 
@@ -84,22 +84,19 @@ By signing up for our newsletter (or registering on the message board and select
 
 This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
 
-**GOOGLE ADVERTISING COOKIE**
+**Cookies & 3rd Party Advertisements **
 
-Google, as a third party vendor, uses cookies to serve ads on this site.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
 
 You may direct questions, comments or reports to:  
 [info@uglyhedgehog.com](mailto:info@uglyhedgehog.com)  
-Vast Publishing  
-IDF Technologies, LLC  
-364 East Main Street, Suite 322,  
-Middletown, DE 19709  
+Ugly Hedgehog, Inc.  
+382 NE 191st St # 74906  
+Miami, FL 33179  
 USA  
 
 
@@ -127,7 +124,7 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 
 **JURISDICTION AND VENUE**
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. IDF Technologies, LLC, 364 East Main Street, Suite 322, Middletown, DE 19709, USA. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. Ugly Hedgehog, Inc., 382 NE 191st St # 74906, Miami, FL 33179, USA. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
 
 **APPLICABLE LAW**
 
