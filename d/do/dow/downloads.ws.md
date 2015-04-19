@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloads.ws privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703161209id_/http%3A//www.downloads.ws/android/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloads.ws privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419054640id_/http%3A//www.downloads.ws/android/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
