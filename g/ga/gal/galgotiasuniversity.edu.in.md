@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galgotiasuniversity.edu.in privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003144055id_/http%3A//www.galgotiasuniversity.edu.in/privacy.aspx%3Fmpgid%3D84%26pgid%3D84) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galgotiasuniversity.edu.in privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419061143id_/http%3A//galgotiasuniversity.edu.in/privacy.aspx%3Fmpgid%3D84%26pgid%3D84) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -9,11 +9,11 @@ If you do nothing during your visit but browse through the website, read pages, 
 **During your visit, our web operating system will record :**  
 
 
-  * The Internet domain for your Internet service, such as "xyz.com" or "xyz.net" if you use a private Internet access account, or "yourcollege.edu" if you connect from a college or university domain.
-  * The type of browser (such as "Netscape version X" or "Internet Explorer version X") that you are using.
-  * The type of operating system that you use (such as Macintosh, Unix, or Windows).
-  * The date and time you visit our site, and the web pages that you visit on our site.
-  * The address of the previous website you were visiting, if you linked to us from another website.
+  * The Internet domain for your Internet service, such as "xyz.com" or "xyz.net" if you use a private Internet access account, or "yourcollege.edu" if you connect from a college or university domain. 
+  * The type of browser (such as "Netscape version X" or "Internet Explorer version X") that you are using. 
+  * The type of operating system that you use (such as Macintosh, Unix, or Windows). 
+  * The date and time you visit our site, and the web pages that you visit on our site. 
+  * The address of the previous website you were visiting, if you linked to us from another website. 
 
 
 
