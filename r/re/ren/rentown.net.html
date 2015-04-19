@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the rentown.net privacy policy that was archived on 2014-01-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140119044814id_/http%3A//www.rentown.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rentown.net privacy policy that was archived on 2015-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150419071440id_/http%3A//www.rentown.net/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy - RentOwn.net</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="google-site-verification" content="zDPpub6d-38u18YBYQ-Jddlp-lvUHaRHqUkxBT_Iux8">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NBLQF9"></script><script src="/js/jquery-1.9.1.min.js"></script>
+<meta name="google-site-verification" content="JyKVCa65j6Y-RN9RYwMD7ErW5U7t5v8tTbz62Yj7U0I">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NBLQF9"></script><script src="/js/jquery-1.9.1.min.js"></script>
 <script src="/js/show_jump_btn.js"></script>
 <!--[if lt IE 9]>
 <script src="/js/html5shiv.js"></script>
@@ -39,7 +39,15 @@ jQuery(document).ready(function($){
 	});
 
 	$("#btnSearch").click(function(){
-		$("#formSearch").submit();
+		if ('' == $("#search_keyword").val())
+		{
+			$(".search-error-text").css({
+						"display":"inline"});
+		}
+		else
+		{
+			$("#formSearch").submit();
+		}
 	});
 })
 </script>
@@ -47,14 +55,6 @@ jQuery(document).ready(function($){
 
 <body>
 <script src="//cdn.optimizely.com/js/328892190.js"></script>
-<!-- Google Tag Manager -->
-<script>
-dataLayer = [{
-  'gtm-pageCategory': '',
-  'gtm-conversionValue': '0',
-  'gtm-valCurrency': 'USD'
-}];
-</script>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NBLQF9"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -68,17 +68,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div id="header" class="cityHeader">
     	<div id="headerNav">
       <div id="nav" class="pageWith">
-        <div id="logo"><a href="/"><img src="/images/rentown_logo.png" alt="Rent to own" title="Rent to own" width="193" height="63"></a></div>
+        <div id="logo"><a href="/"><img src="/images/rentown_logo.png" alt="rent to own homes" width="193" height="63"></a></div>
         <div id="navBar">
           <div class="socialLinks"> <a href="https://twitter.com/RentOwnDotNet"><span id="iconTwitter" class="socialIcon"></span></a> <a href="https://www.facebook.com/pages/Rentownnet/347613465366936"><span id="iconFacebook" class="socialIcon"></span></a> <a href="https://plus.google.com/115975415836149987976/posts"><span id="iconGplus" class="socialIcon"></span></a> </div>
           <ul class="navMenu">
             <li><a href="/">Home</a></li>
-            <li><a class="navLinks2 resultRow" href="javascript:;">Log in</a></li>
+            <li><a class="navLinks2 resultRow" href="javascript: return false;" data-url="formland" data-zip="">Log in</a></li>
             <li><a href="mailto:info@rentown.net">Contact</a></li>
           </ul>
         </div>
       </div>
     </div>
+
     <div id="searchContainer" class="pageWith">
       <form action="/index.php?cmd=bh,search" method="post" id="formSearch">
 	  <div id="citySearchBox">
@@ -198,91 +199,94 @@ privacy policy, please <a href="mailto:info@rentown.net">contact us</a>. </p>
 	  <br>
   </div>
   <div id="footerContainer">
-      <div id="footer" class="pageWith clearfix">
-        <dl id="popularStates">
-          <dt>Popular <span>States</span></dt>
-            <dd><a href="/california.html">California <span class="rto">RENT TO OWN</span></a></dd>
-            <dd><a href="/colorado.html">Colorado <span class="rto">RENT TO OWN</span></a></dd>
-            <dd><a href="/florida.html">Florida <span class="rto">RENT TO OWN</span></a></dd>
-            <dd><a href="/maryland.html">Maryland <span class="rto">RENT TO OWN</span></a></dd>
-            <dd><a href="/new-jersey.html">New Jersey <span class="rto">RENT TO OWN</span></a></dd>
-            <dd><a href="/new-york.html">New York <span class="rto">RENT TO OWN</span></a></dd>
-            <dd><a href="/ohio.html">Ohio <span class="rto">RENT TO OWN</span></a></dd>
-            <dd><a href="/texas.html">Texas <span class="rto">RENT TO OWN</span></a></dd>
-            <dd><a href="/virginia.html">Virginia <span class="rto">RENT TO OWN</span></a></dd>
-        </dl>
-        <dl id="popularCities">
-          <dt>Popular <span>Cities</span></dt>
+<div id="footer" class="pageWith clearfix">
+<dl id="popularStates">
+<dt>Popular <span>States</span></dt>
 
-			<dd><a href="/los-angeles-ca.html">LOS ANGELES <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/san-diego-ca.html">SAN DIEGO <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/san-francisco-ca.html">SAN FRANCISCO <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/denver-co.html">DENVER <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/miami-fl.html">MIAMI <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/atlanta-ga.html">ATLANTA <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/chicago-il.html">CHICAGO <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/boston-ma.html">BOSTON <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/las-vegas-nv.html">LAS VEGAS <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/philadelphia-pa.html">PHILADELPHIA <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/san-antonio-tx.html">SAN ANTONIO <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/houston-tx.html">HOUSTON <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/dallas-tx.html">DALLAS <span class="rto">RENT TO OWN</span></a></dd>
-			<dd><a href="/austin-tx.html">AUSTIN <span class="rto">RENT TO OWN</span></a></dd>
-        </dl>
-        <dl id="popularSearches">
-          <dt><span>Articles</span></dt>
-			<dd><a href="/what-is-rent-to-own.html">What Is <span class="rto">Rent To Own?</span></a></dd>
-			<dd><a href="/how-to-rent-to-own.html">How To <span class="rto">Rent To Own?</span></a></dd>
-			<dd><a href="/rent-to-own-pros-and-cons.html"><span class="rto">Rent To Own</span> Pros &amp; cons</a></dd>
-        </dl>
-     </div>
- 	  <div class="pageWith clearfix viewMore">
+  <dd><a href="/california.html">California</a></dd>
+  <dd><a href="/colorado.html">Colorado</a></dd>
+  <dd><a href="/maryland.html">Maryland</a></dd>
+  <dd><a href="/new-jersey.html">New Jersey</a></dd>
+  <dd><a href="/virginia.html">Virginia</a></dd>
+  <dd><a href="/texas.html">Texas</a></dd>
+  <dd><a href="/florida.html">Florida</a></dd>
+  <dd><a href="/new-york.html">New York</a></dd>
+  <dd><a href="/illinois.html">Illinois</a></dd>
+  <dd><a href="/pennsylvania.html">Pennsylvania</a></dd>
+  <dd><a href="/ohio.html">Ohio</a></dd>
+  <dd><a href="/georgia.html">Georgia</a></dd>
+  <dd><a href="/north-carolina.html">North Carolina</a></dd>
+  <dd><a href="/michigan.html">Michigan</a></dd>
+</dl>
+<dl id="popularCities">
+<dt>Popular <span>Cities</span></dt>
 
-		 <a href="/a-1.html" style="font-size:12px;padding-right:25px;">A</a>
-		 <a href="/b-1.html" style="font-size:12px;padding-right:25px;">B</a>
-		 <a href="/c-1.html" style="font-size:12px;padding-right:25px;">C</a>
-		 <a href="/d-1.html" style="font-size:12px;padding-right:25px;">D</a>
-		 <a href="/e-1.html" style="font-size:12px;padding-right:25px;">E</a>
-		 <a href="/f-1.html" style="font-size:12px;padding-right:25px;">F</a>
-		 <a href="/g-1.html" style="font-size:12px;padding-right:25px;">G</a>
-		 <a href="/h-1.html" style="font-size:12px;padding-right:25px;">H</a>
-		 <a href="/i-1.html" style="font-size:12px;padding-right:25px;">I</a>
-		 <a href="/j-1.html" style="font-size:12px;padding-right:25px;">J</a>
-		 <a href="/k-1.html" style="font-size:12px;padding-right:25px;">K</a>
-		 <a href="/l-1.html" style="font-size:12px;padding-right:25px;">L</a>
-		 <a href="/m-1.html" style="font-size:12px;padding-right:25px;">M</a>
-		 <a href="/n-1.html" style="font-size:12px;padding-right:25px;">N</a>
-		 <a href="/o-1.html" style="font-size:12px;padding-right:25px;">O</a>
-		 <a href="/p-1.html" style="font-size:12px;padding-right:25px;">P</a>
-		 <a href="/q-1.html" style="font-size:12px;padding-right:25px;">Q</a>
-		 <a href="/r-1.html" style="font-size:12px;padding-right:25px;">R</a>
-		 <a href="/s-1.html" style="font-size:12px;padding-right:25px;">S</a>
-		 <a href="/t-1.html" style="font-size:12px;padding-right:25px;">T</a>
-		 <a href="/u-1.html" style="font-size:12px;padding-right:25px;">U</a>
-		 <a href="/v-1.html" style="font-size:12px;padding-right:25px;">V</a>
-		 <a href="/w-1.html" style="font-size:12px;padding-right:25px;">W</a>
-		 <a href="/x-1.html" style="font-size:12px;padding-right:25px;">X</a>
-		 <a href="/y-1.html" style="font-size:12px;padding-right:25px;">Y</a>
-		 <a href="/z-1.html" style="font-size:12px;padding-right:25px;">Z</a>
-	  </div>
+  <dd><a href="/manhattan-ny.html">Manhattan, NY</a></dd>
+  <dd><a href="/los-angeles-ca.html">Los Angeles, CA</a></dd>
+  <dd><a href="/chicago-il.html">Chicago, IL</a></dd>
+  <dd><a href="/houston-tx.html">Houston, TX</a></dd>
+  <dd><a href="/philadelphia-pa.html">Philadelphia, PA</a></dd>
+  <dd><a href="/phoenix-az.html">Phoenix, AZ</a></dd>
+  <dd><a href="/san-diego-ca.html">San Diego, CA</a></dd>
+  <dd><a href="/dallas-tx.html">Dallas, TX</a></dd>
+  <dd><a href="/indianapolis-in.html">Indianapolis, IN</a></dd>
+  <dd><a href="/jacksonville-fl.html">Jacksonville, FL</a></dd>
+  <dd><a href="/san-francisco-ca.html">San Francisco, CA</a></dd>
+  <dd><a href="/columbus-oh.html">Columbus, OH</a></dd>
+  <dd><a href="/charlotte-nc.html">Charlotte, NC</a></dd>
+  <dd><a href="/detroit-mi.html">Detroit, MI</a></dd>
+  <dd><a href="/seattle-wa.html">Seattle, WA</a></dd>
+  <dd><a href="/denver-co.html">Denver, CO</a></dd>
+  <dd><a href="/boston-ma.html">Boston, MA</a></dd>
+  <dd><a href="/memphis-tn.html">Memphis, TN</a></dd>
+  <dd><a href="/atlanta-ga.html">Atlanta, GA</a></dd>
+  <dd><a href="/las-vegas-nv.html">Las Vegas, NV</a></dd>
+</dl>
+<dl id="popularSearches">
+<dt><span>Articles</span></dt>
+<dd><a href="/what-is-rent-to-own.html">What Is <span class="rto">Rent To Own?</span></a></dd>
+<dd><a href="/how-to-rent-to-own.html">How To <span class="rto">Rent To Own?</span></a></dd>
+<dd><a href="/rent-to-own-pros-and-cons.html"><span class="rto">Rent To Own</span> Pros &amp; cons</a></dd>
+</dl>
+</div>
+<div class="pageWith clearfix viewMore">
+
+<a href="/a-1.html" style="font-size:12px;padding-right:25px;">A</a>
+<a href="/b-1.html" style="font-size:12px;padding-right:25px;">B</a>
+<a href="/c-1.html" style="font-size:12px;padding-right:25px;">C</a>
+<a href="/d-1.html" style="font-size:12px;padding-right:25px;">D</a>
+<a href="/e-1.html" style="font-size:12px;padding-right:25px;">E</a>
+<a href="/f-1.html" style="font-size:12px;padding-right:25px;">F</a>
+<a href="/g-1.html" style="font-size:12px;padding-right:25px;">G</a>
+<a href="/h-1.html" style="font-size:12px;padding-right:25px;">H</a>
+<a href="/i-1.html" style="font-size:12px;padding-right:25px;">I</a>
+<a href="/j-1.html" style="font-size:12px;padding-right:25px;">J</a>
+<a href="/k-1.html" style="font-size:12px;padding-right:25px;">K</a>
+<a href="/l-1.html" style="font-size:12px;padding-right:25px;">L</a>
+<a href="/m-1.html" style="font-size:12px;padding-right:25px;">M</a>
+<a href="/n-1.html" style="font-size:12px;padding-right:25px;">N</a>
+<a href="/o-1.html" style="font-size:12px;padding-right:25px;">O</a>
+<a href="/p-1.html" style="font-size:12px;padding-right:25px;">P</a>
+<a href="/q-1.html" style="font-size:12px;padding-right:25px;">Q</a>
+<a href="/r-1.html" style="font-size:12px;padding-right:25px;">R</a>
+<a href="/s-1.html" style="font-size:12px;padding-right:25px;">S</a>
+<a href="/t-1.html" style="font-size:12px;padding-right:25px;">T</a>
+<a href="/u-1.html" style="font-size:12px;padding-right:25px;">U</a>
+<a href="/v-1.html" style="font-size:12px;padding-right:25px;">V</a>
+<a href="/w-1.html" style="font-size:12px;padding-right:25px;">W</a>
+<a href="/x-1.html" style="font-size:12px;padding-right:25px;">X</a>
+<a href="/y-1.html" style="font-size:12px;padding-right:25px;">Y</a>
+<a href="/z-1.html" style="font-size:12px;padding-right:25px;">Z</a>
+</div>
 <div id="bottom">
-      	<div class="pageWith">
-            <div id="bottomLeft"><img src="/images/rentown_bottom_logo.png" alt="Rent to own" width="116" height="31"> Copyright ©2013 Rent<span class="own">Own</span>.net. All Rights Reserved</div>
-            <div id="bottomRight"><a href="/about-us">ABOUT</a> /  <a href="/terms-of-use">TERMS OF USE</a> / <a href="/privacy-policy">PRIVACY POLICY</a> / <a href="mailto:info@rentown.net">CONTACT US</a></div>
-        </div>
-      </div><br>
-  </div>
-  <a id="btnJumpTop" href="#top"><img src="/images/btn_jump_top.png" alt="Jump to top" width="26" height="28"></a>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<div class="pageWith">
+<div id="bottomLeft"><img src="/images/rentown_bottom_logo.png" alt="Rent to own" width="116" height="31"> Copyright ©2015 Rent<span class="own">Own</span>.net. All Rights Reserved</div>
+<div id="bottomRight"><a href="/about-us.html">ABOUT</a> /  <a href="/terms-of-use.html">TERMS OF USE</a> / <a href="/privacy-policy.html">PRIVACY POLICY</a> / <a href="mailto:info@rentown.net">CONTACT US</a></div>
+</div>
+</div><br>
+</div>
+<a id="btnJumpTop" href="#top"><img src="/images/btn_jump_top.png" alt="Jump to top" width="26" height="28"></a>
 
-  ga('create', 'UA-12642680-9', 'rentown.net');
-  ga('send', 'pageview');
-
-</script>
 </div>
 
 <ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul></body></html>
