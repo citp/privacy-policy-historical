@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915055057id_/http%3A//www.kerio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419100840id_/http%3A//www.kerio.com/privacy-policy) for the most accurate reproduction.*
 
 # Kerio Privacy Policy | Kerio Technologies
 
@@ -64,6 +64,6 @@ If you have any questions about this Privacy Policy, please contact our General 
 
 ## Contact Us
 
-If you need to contact a Kerio Technologies Inc. representative in the U.S. for any reason, you can reach us by phone at: 1-408-496-4500, or by fax at: 1-408-496-6902. Our postal address is: Kerio Technologies, Inc., 111 North Market Street, 6th Floor, San Jose, CA 95113, USA. Our local representatives can be found on our Website at [http://www.kerio.com/company/locations](http://www.kerio.com/company).
+If you need to contact a Kerio Technologies Inc. representative in the U.S. for any reason, you can reach us by phone at: 1-408-496-4500, or by fax at: 1-408-496-6902. Our postal address is: Kerio Technologies, Inc., 111 North Market Street, 6th Floor, San Jose, CA 95113, USA. Our local representatives can be found on our Website at [http://www.kerio.com/company/locations](https://www.kerio.com/company).
 
 _This Privacy Policy was last updated December 15, 2012._
