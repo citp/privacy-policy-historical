@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4ultimate.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008091126id_/http%3A//www.cam4ultimate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4ultimate.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420003650id_/http%3A//www.cam4ultimate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Cam4Ultimate - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
