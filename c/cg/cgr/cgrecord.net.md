@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgrecord.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194523id_/http%3A//www.cgrecord.net/p/privacy-policy-for-www.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgrecord.net privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419192404id_/http%3A//www.cgrecord.net/p/privacy-policy-for-www.html) for the most accurate reproduction.*
 
 # CG Daily News: Privacy Policy
 
