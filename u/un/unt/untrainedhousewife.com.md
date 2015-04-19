@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924131734id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419020223id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -90,4 +90,4 @@ angela@untrainedhousewife.com
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
 
-[](http://www.amazon.com/gp/product/0692237534/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0692237534&linkCode=as2&tag=associatedc0e-20&linkId=T6US7SXLU3KASCRZ)
+[](https://wdf87122.isrefer.com/go/hgfs/AngEngland/ "Free online Home Grown Food summit! ")
