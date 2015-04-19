@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobilerule.org privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828204930id_/http%3A//www.mobilerule.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilerule.org privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419123412id_/http%3A//www.mobilerule.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MobileRule.Org
+# Privacy Policy - MobileRule.Org
 
 This Privacy Policy governs the manner in which MobileRule collects, uses, maintains and discloses information collected from users (each, a “User”) of the www. mobilerule.org website (“Site”). This privacy policy applies to the Site and all products and services offered by MobileRule.
 
@@ -16,9 +16,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 How we use collected information  
 MobileRule may collect and use Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 How we protect your information  
