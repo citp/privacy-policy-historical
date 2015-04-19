@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the courseindex.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016103601id_/http%3A//www.courseindex.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courseindex.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419050311id_/http%3A//www.courseindex.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Learn Something New Today!
+# CourseIndex.com - Learn Something New Today!
 
 ## WHAT INFORMATION DO WE COLLECT?
 
-Connected Shopping Ltd (we) collect information from you when you register on our site. 
+Connected Shopping Ltd (we) collect information from you when you register on our site.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, email address or mailing address. You may, however, visit our site anonymously. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, email address or mailing address. You may, however, visit our site anonymously.
 
-Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them. 
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
-Connected Shopping Ltd have met the requirements of the UK Data Protection Act 1998 (the Act) and are included in the national register. Registration Number: Z3264118. For the purposes of the the Act, the data controller is Richard Standen. 
+Connected Shopping Ltd have met the requirements of the UK Data Protection Act 1998 (the Act) and are included in the national register. Registration Number: Z3264118. For the purposes of the the Act, the data controller is Richard Standen.
 
 ## INFORMATION WE MAY COLLECT FROM YOU
 
