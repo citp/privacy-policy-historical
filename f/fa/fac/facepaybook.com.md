@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the facepaybook.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509075248id_/http%3A//www.facepaybook.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facepaybook.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419060828id_/http%3A//www.facepaybook.com/privacy_policy.php) for the most accurate reproduction.*
 
-# FacePayBook - Social Network That Pays!
+# FacePayBook - Social Network That Pays! :: Privacy Policy
 
 Learn more about cookies and similar technologies.
 
