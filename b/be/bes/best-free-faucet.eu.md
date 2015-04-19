@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-free-faucet.eu privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014620id_/http%3A//best-free-faucet.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-free-faucet.eu privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420010333id_/http%3A//best-free-faucet.eu/privacy.html) for the most accurate reproduction.*
 
 # None
 
