@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bearnecessities.org privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614112634id_/http%3A//www.bearnecessities.org/files/PrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearnecessities.org privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419092417id_/http%3A//www.bearnecessities.org/files/PrivacyStatement.pdf) for the most accurate reproduction.*
 
-# Bear Necessities Pediatric Cancer Foundation (“Bear Necessities”)
+# Privacy Policy
 
 Privacy Policy
-Last Revised: October 15, 2012
+Last Revised: December 8, 2014
 This Privacy Policy describes how Bear Necessities Pediatric Cancer Foundation (“Bear Necessities”) treats
 information that Bear Necessities collects and receives from you through www.bearnecessities.org (the
 “Site”) and through other aspects of Bear Necessities’ business, including offline. This Privacy Policy
@@ -30,18 +30,19 @@ Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome, Internet
 domain name of your internet service provider.
 3.        How We Collect Information
 We may collect personal information from you when you:
-     Sign up to receive announcements or newsletters;
-     Sign up to participate in or donate to runs, marathons, or other activities;
-     Make a donation or contribution to Bear Necessities;
-     Sign up or attend events;
-     Volunteer;
-     Purchase any goods on the Site;
-     Submit a grant or support service proposal or sign up to receive a grant or support services; and
-     Communicate with Bear Necessities via email or offline.
+•    Sign up to receive announcements or newsletters;
+•    Sign up to participate in or donate to runs, marathons, or other activities;
+•    Make a donation or contribution to Bear Necessities;
+•    Sign up or attend events;
+•    Volunteer;
+•    Purchase any goods on the Site;
+•    Submit a grant or support service proposal or sign up to receive a grant or support services; and
+•    Communicate with Bear Necessities via email or offline.
 Personal information collected by Bear Necessities may be stored and processed in the United States in
 accordance with the laws of the United States. By using the Site and submitting your personal information
 to Bear Necessities offline, you expressly consent to the storage and processing of your personal
 information in the United States or elsewhere in accordance with the laws of the United States.
+Revised 12/8/14
 
 
 Bear Necessities automatically receives and records non-personal information on our server logs from your
@@ -51,23 +52,23 @@ data stored on your computer. When you visit the Site, your web browser may stor
 computer, which will better enable you to navigate the Site upon return. You may use the Site even if you
 choose to reject or delete the cookies. Cookies also may be used by some of the other websites for which a
 link is placed on the Site.
-4.       How We Use Your Information
+4.        How We Use Your Information
 We may use the information we collect:
-     To process and respond to your requests and inquiries and provide services to you.
-     To alert you to new developments, special events, programs, runs, marathons, grants, support services,
+•    To process and respond to your requests and inquiries and provide services to you.
+•    To alert you to new developments, special events, programs, runs, marathons, grants, support services,
      products or services.
-     To send announcements and newsletters, and to provide you with personalized content in the
+•    To send announcements and newsletters, and to provide you with personalized content in the
      newsletters.
-     For the purposes for which you provided the information.
-     To monitor and analyze information regarding your browsing and viewing preferences and to diagnose
+•    For the purposes for which you provided the information.
+•    To monitor and analyze information regarding your browsing and viewing preferences and to diagnose
      problems of the Site.
-     To analyze our users’ demographics and interests.
-     For administration and improvement of the Site and to enhance the user experience.
-     For fraud prevention, internal operations, legal compliance, and other public purposes.
-     To enforce the Terms of Use.
+•    To analyze our users’ demographics and interests.
+•    For administration and improvement of the Site and to enhance the user experience.
+•    For fraud prevention, internal operations, legal compliance, and other public purposes.
+•    To enforce the Terms of Use.
 In the case of personal information about you provided to us by hospitals or medical providers, we may use
 such information in the ways we are informed by the hospital or medical provider you have permitted.
-5.       Communications with You: Choice / Opt-Out
+5.        Communications with You
 You authorize Bear Necessities to transmit email to you or telephone you to respond to your
 communications, and provide information to you about new developments, special events, programs, runs,
 marathons, grants, support services, products and services.
@@ -77,40 +78,40 @@ send an email to office@bearnecessities.org, mail to the postal address 55 West 
 Chicago, IL 60601, or call us at (312) 214-1200. Please note that unsubscribe requests may take up to ten
 (10) days to become effective. You may not opt out of receiving communications regarding your dealings
 with the Site or technical information about the Site.
-6.       Information Sharing with Third Parties: Choice / Opt-Out
-Bear Necessities does not share the information it collects from you with others for their direct marketing
-purposes.
-Bear Necessities may disclose the information it collects to others (i) for purposes of outsourcing to or
-receiving assistance for one or more of the functions described in the Terms or this Privacy Policy from
-third parties who work on behalf of or with Bear Necessities under confidentiality or similar agreements
-including service providers, agents, vendors, partners, advocates, researchers, consultants, volunteers, and
+6.        Information Sharing with Third Parties
+Except as provided below, Bear Necessities does not share the information it collects from you with others
+without your permission.
+We do not disclose or sell personal information of our donors with any third party.
+Revised 12/8/14
 
 
-affiliates; (ii) to confirm or update information provided by you, including by combining information you
-provide with information from other services such as public records; (iii) for any of Bear Necessities’
-research projects performed by it or a third party on its behalf or under its supervision; (iv) in the event of
-any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of
-Bear Necessities’ business or operations (including without limitation in connection with bankruptcy or
-any similar proceedings); (v) as otherwise authorized by you; or (vi) in the case of personal information
-about you provided to us by hospitals or medical providers, for the purposes we are informed by the
-hospital or medical provider you have permitted.
-We also may share your information in response to a subpoena, legal order or official request, when we
-believe you have acted in violation of the Terms, to investigate, prevent or take action regarding suspected
-illegal activities, fraud or potential threats, or exercise legal rights or defend against claims, when we
-believe that doing so may protect your safety or the safety of Bear Necessities or others, or as otherwise
-permitted or required by law.
-We also may use and share non-personally identifiable information with third parties. Additionally, we
-may take personally identifiable information and de-identify it and share it in a de-identified or aggregated
-form with third parties, advertisers and/or business partners in order to analyze Site usage, demographics,
-or interests, improve our products or services, improve our user experience, or for similar purposes. We
-will not re-identify such data and we will ask our contracting parties to agree to keep the data in its de-
-identified form.
-You may elect to have your personal information not shared with third parties. If you do not wish Bear
-Necessities to share your information with third parties, you may send an email to
-office@bearnecessities.org, mail to the postal address 55 West Wacker Drive, Suite 1100 Chicago, IL
-60601, or call us at (312) 214-1200. Bear Necessities will take reasonable steps to ensure your information
-is not further shared with third parties.
-7.        Children
+Bear Necessities may disclose the information it collects to others:
+     (i) for purposes of outsourcing to or receiving assistance for one or more of the functions described in
+     the Terms or this Privacy Policy from third parties who work on behalf of or with Bear Necessities
+     under confidentiality or similar agreements including service providers, agents, vendors, partners,
+     advocates, researchers, consultants, volunteers, and affiliates;
+     (ii) to confirm or update information provided by you, including by combining information you
+     provide with information from other services such as public records;
+     (iii) for any of Bear Necessities’ research projects performed by it or a third party on its behalf or under
+     its supervision;
+     (iv) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition
+     of all or any portion of Bear Necessities’ business or operations (including without limitation in
+     connection with bankruptcy or any similar proceedings);
+     (v) as otherwise authorized by you; or
+     (vi) in the case of personal information about you provided to us by hospitals or medical providers, for
+     the purposes we are informed by the hospital or medical provider you have permitted.
+We also may share your information in response to a subpoena or legal order, when we believe you have
+acted in violation of the Terms, to investigate, prevent or take action regarding suspected illegal activities,
+fraud or potential threats, or exercise legal rights or defend against claims, when we believe that doing so
+may protect your safety or the safety of Bear Necessities or others, or as otherwise permitted or required by
+law.
+We may share non-personally identifiable, anonymized or aggregate information with third parties.
+Additionally, we may take personally identifiable information and de-identify it and share it in a de-
+identified or aggregated form with third parties, advertisers and/or business partners in order to analyze
+Site usage, demographics, or interests, improve our products or services, improve our user experience, or
+for similar purposes. We will not re-identify such data and we will ask our contracting parties to agree to
+keep the data in its de-identified form.
+7.         Children
 Bear Necessities does not knowingly collect personal information from children under age 13. If you are
 under age 13, you are not permitted to use the Site or to submit any personal information to the Bear
 Necessities offline or on the Site. If you are between 13 and 17 years of age, you may visit the Site, but
@@ -123,6 +124,9 @@ In the case of personal information about you provided to us by hospitals or med
 information may be collected about children under the age of 17 with their parent or legal guardian’s
 consent, if we have received confirmation from the hospitals or medical providers that such information
 was collected with the parent or legal guardian’s consent.
+Revised 12/8/14
+
+
 8.        Protection of Personal Information
 Bear Necessities uses reasonable administrative, physical and electronic security measures to protect
 against the loss, misuse and alteration of personal information. No transmission of data over the internet is
@@ -130,14 +134,12 @@ guaranteed to be completely secure. It may be possible for third parties not und
 Necessities to intercept or access transmissions or private communications unlawfully. While we strive to
 protect personal information, neither Bear Necessities nor our service providers can ensure or warrant the
 security of any information you transmit to us over the internet. Any such transmission is at your own risk.
-
-
-9.       Updating Your Information
+9.        Updating Your Information
 You are responsible for keeping your information current. You may update your information by contacting
 us at office@bearnecessities.org. We will use reasonable efforts to process any change you make;
 provided, however, that requests to delete information are subject to Bear Necessities’ internal reporting,
 processing and retention policies and all applicable legal obligations.
-10.      Links
+10.       Links
 You may have the opportunity to follow links on the Site to other sites that may be of interest to you. Bear
 Necessities endeavors to only link to reputable organizations. Because other sites may not be hosted or
 controlled by Bear Necessities, we are not responsible for the privacy practices of those sites or the content
@@ -148,3 +150,4 @@ QUESTIONS? If you have any questions or concerns regarding this Privacy Policy, 
 office@bearnecessities.org. Please note that email communications may not be secure. Accordingly, you
 should not include personal or other sensitive information in your email correspondence to the Site or Bear
 Necessities.
+Revised 12/8/14
