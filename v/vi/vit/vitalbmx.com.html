@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the vitalbmx.com privacy policy that was archived on 2014-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140722025548id_/http%3A//www.vitalbmx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitalbmx.com privacy policy that was archived on 2015-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150419085948id_/http%3A//www.vitalbmx.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="bmx" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="sTXeeeK6krUM9fcy4c1ejVjD7AF7XYH6aqMiMbDys9k=" name="csrf-token">
 <!--[if lte IE 8]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -27,28 +29,86 @@
 
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://assets.vitalmedianet.com/javascripts/jquery-libs.vital.min.js"></script>
+<script src="/assets/isMobile-a9d504c8fd402a0031c3ba367e8fd85a.js" type="text/javascript"></script>
 
 <script type="text/javascript" charset="utf-8">
   var isDST = true;
   $j = jQuery.noConflict();
+  $j.vitalOptions = {
+    userCardAutoPopup: 'on'
+  }
 </script>
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0.beta2/handlebars.min.js"></script>
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.3.1/underscore-min.js"></script>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-<link href="/assets/fancybox/jquery.fancybox-1.3.1-0730929917424ce47260c3d2590c81a3.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/assets/fancybox/jquery.fancybox-patch-29e7355b800d2acb921339810662b704.css" media="screen" rel="stylesheet" type="text/css">
-<script src="/assets/fancybox/jquery.fancybox-1.3.1-9f5fad45402ae4e7706eadba094a4195.js" type="text/javascript"></script>
-<script src="/assets/vital.apps-174e0e7ddd15bfec0599f13898b0ca4a.js" type="text/javascript"></script>
-<script src="/assets/jquery_ujs-bd9dbadb1849af536c01981688e33894.js" type="text/javascript"></script>
-<script src="/assets/uk_site/jquery.cookie-f0e00bfc8651a710d5c49d775c15952b.js" type="text/javascript"></script>
+<link href="/assets/fancybox/jquery.fancybox-1.3.1-58be82c266c119dc0356d9b64608946a.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/fancybox/jquery.fancybox-patch-f4d36e69503b6525f0625dd6ee6225e5.css" media="screen" rel="stylesheet" type="text/css">
+<script src="/assets/fancybox/jquery.fancybox-1.3.1-cc81544a075252827bf11c842c46746c.js" type="text/javascript"></script>
+<script src="/assets/vital.apps-70c0ff63ae202de313b82a9c7247a5bf.js" type="text/javascript"></script>
+<script src="/assets/jquery_ujs-362562ee6d7362cf6c74aaac58df1cb1.js" type="text/javascript"></script>
+<script src="/assets/advertisement-47736c0909f6b8441f95e5ac266e2668.js" type="text/javascript"></script></head><body id="privacy_policy" class="small_scrn"><div id="tester" style="display:none;">an advertisement</div>
+
+<script type="text/javascript">
+//<![CDATA[
+
+$j(document).ajaxSend(function(e, xhr, options) {
+  var token = $j("meta[name='csrf-token']").attr("content");
+  xhr.setRequestHeader("X-CSRF-Token", token);
+});  
+
+//]]>
+</script>
+<script src="/assets/uk_site/jquery.cookie-c142fadac5480b978307692ed732365d.js" type="text/javascript"></script>
 <script type="text/javascript" charset="utf-8">
-  if (window.location.pathname == '/') {
+if (window.location.pathname == '/') {
     var float_ad = false;
-  }
+}
+
+function async_load(script_url){
+    var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+    var s = document.createElement('script'); s.src = protocol + script_url;
+    var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+}
+bm_website_code = '6E101C38512C4680';
+$j(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+$j(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+
+if (document.getElementById("tester") != undefined){
+  //alert('You are not blocking ads!');
+  $j(document).ready(function() {
+    _gaq.push(['_trackEvent', 'Adblock Test', 'Adblocker', 'off', true]);
+  });
+} else {
+  //alert('You are blocking ads!');
+  $j(document).ready(function() {
+    _gaq.push(['_trackEvent', 'Adblock Test', 'Adblocker', 'on', true]);
+  });
+}
+</script>
+
+<script type="text/javascript">
+window.fbAsyncInit = function() {
+	
+	FB.Event.subscribe('edge.create', function(targetUrl) {
+	  _gaq.push(['_setAccount', 'UA-561000-3'], ['_trackSocial', 'facebook', 'like', targetUrl]);
+	  _gaq.push(['_setAccount', 'UA-561000-10'], ['_trackSocial', 'facebook', 'like', targetUrl]);
+	});
+	FB.Event.subscribe('edge.remove', function(targetUrl) {
+	  _gaq.push(['_setAccount', 'UA-561000-3'], ['_trackSocial', 'facebook', 'unlike', targetUrl]);
+	  _gaq.push(['_setAccount', 'UA-561000-10'], ['_trackSocial', 'facebook', 'unlike', targetUrl]);
+	});
+	FB.Event.subscribe('message.send', function(targetUrl) {
+	  _gaq.push(['_setAccount', 'UA-561000-3'],['_trackSocial', 'facebook', 'share', targetUrl]);
+	  _gaq.push(['_setAccount', 'UA-561000-10'],['_trackSocial', 'facebook', 'share', targetUrl]);
+	});
+	
+}	
 </script>
 
 <script type="text/javascript" charset="utf-8">
+var $originalCommentParams = {"user_notification":null};
 (function(j$) {
 	$j.content = {"user_notification":null};
 	$j.user || ($j.user = {});
@@ -56,17 +116,16 @@
 })(jQuery);
 </script>
 
-<link href="/assets/120111_main.min-3a78153ef0199c1502c0bd88c53559b9.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/120111_main.min-63197cf36dfbb6b693f6fdba9333714f.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE]><link href="http://assets.vitalmedianet.com/stylesheets/ie.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-<link href="http://assets.vitalmedianet.com/stylesheets/120305_comments.min.css " media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/120305_comments.min-711bbb7452777a48b900e3a527717086.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css">
 
 
 
 
-
-
-
-<link href="http://assets.vitalmedianet.com/stylesheets/120103_bmx.css?1405997748" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets.vitalmedianet.com/stylesheets/120103_bmx.css?1429433988" media="screen" rel="stylesheet" type="text/css">
 
 
 <link href="https://plus.google.com/113723584621793382880" rel="publisher">
@@ -80,9 +139,13 @@ s.parentNode.insertBefore(po, s);
 })();</script>
 
 <meta property="fb:app_id" content="128366617182442">
-<meta property="og:site_name" content="Vital BMX"> 
-<meta property="og:image" content="http://assets.vitalmedianet.com/images/_bmx/logo_fb_1200.png"> 
-<meta property="og:type" content="article">
+<meta property="og:site_name" content="Vital BMX">
+
+<meta property="og:image" content="http://assets.vitalmedianet.com/images/_bmx/logo_fb_1200.png">
+
+
+  <meta property="og:type" content="article">
+
 
 
 
@@ -102,7 +165,7 @@ var addthis_config = {
 
 
 <!-- expanding ad JS -->
-<script src="/assets/vital.exp_ad-e0b19e7c232be1d4526d14298122656c.js" type="text/javascript"></script>
+<script src="/assets/vital.exp_ad-fc38e373b6377708490dd6db59e7ec55.js" type="text/javascript"></script>
 <script type="text/javascript"> 
 	var opt = { items: [], url_regex: /^\/photos\//gi, cookie_name: 'pitbits_14' };
 	
@@ -125,13 +188,14 @@ node.parentNode.insertBefore(gads, node);
 })();
 </script>
 
+
 <script type="text/javascript"> 
   googletag.cmd.push(function() {
       googletag.defineSlot("/1007152/BMX_desktop_homepage_top", [728, 90], "BMX_desktop_homepage_top").addService(googletag.pubads());
       googletag.defineSlot("/1007152/BMX_desktop_features_main_side", [[160, 600], [300, 250], [300, 600]], "BMX_desktop_features_main_side").addService(googletag.pubads());
       googletag.defineSlot("/1007152/BMX_desktop_homepage_bottom", [[300, 250], [336, 280], [728, 90], [728, 300]], "BMX_desktop_homepage_bottom").addService(googletag.pubads());
-    googletag.defineSlot("/1007152/BMX_wallpaper_left_ROS_600x1080", [600, 1080], "BMX_wallpaper_left_ROS_600x1080").addService(googletag.pubads());
-    googletag.defineSlot("/1007152/BMX_wallpaper_right_ROS_601x1080", [601, 1080], "BMX_wallpaper_right_ROS_601x1080").addService(googletag.pubads());
+    googletag.defineSlot("/1007152/BMX_desktop_wallpaper_left", [700, 1920], "BMX_desktop_wallpaper_left").addService(googletag.pubads());
+    googletag.defineSlot("/1007152/BMX_desktop_wallpaper_right", [700, 1921], "BMX_desktop_wallpaper_right").addService(googletag.pubads());
     if (exp_ad_adslots.tall !== undefined) {
       googletag.defineSlot("/1007152/" + exp_ad_adslots.tall, [1128, 250], exp_ad_adslots.tall).addService(googletag.pubads());
     }
@@ -235,12 +299,8 @@ node.parentNode.insertBefore(gads, node);
 
 <base href="http://www.vitalbmx.com/privacy-policy">
 
-<meta content="authenticity_token" name="csrf-param">
-<meta content="M/MP6cexaSLfUg5RCjlZwjQNy3tp/EmueWTWYdVHxRk=" name="csrf-token">
 
-</head>
 
-<body id="privacy_policy" class="small_scrn">
 <script type="text/javascript">if (navigator.userAgent && navigator.userAgent.match(/(iphone|ipad)/gi)) { document.body.style.backgroundImage = ''; document.body.style.background = '#000000'; }</script>
 <!-- Facebook SDK -->
 <div id="fb-root"></div>
@@ -307,30 +367,28 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         <a href="/videos/main">Videos</a>
         <ul>
         <li><a href="/videos/main">All Videos</a></li>
-        <li><a href="/videos/gameofbike2013">Game of BIKE 2013</a></li>
-        <li><a href="/interbike2013">Interbike 2013</a></li>
         <li><a href="/videos/main?scope=feature">Feature Videos</a></li>
-        <li><a href="/videos/commercials">Commercials</a></li>
-        <li><a href="/videos/bestof">Best Of</a></li>
-        <li><a href="/videos/powerhour">Power Hour</a></li>
-        <li><a href="/videos/danscompproteam">Dan's Comp Pro Team</a></li>
-        <li><a href="/videos/mirracomustsee">Mirraco</a></li>
-        <li><a href="/interbike2012">Interbike 2012</a></li>
-        <li><a href="/videos/techtips">Tech Tips</a></li>
-        <li><a href="/videos/gearguide">Gear Guide</a></li>
+        <li><a href="/videos/gameofbikepark">Game of BIKE 2014: Park</a></li>
+        <li><a href="/videos/gameofbikestreet">Game of BIKE 2014: Street</a></li>
+        <li><a href="/videos/gameofbike2013">Game of BIKE 2013</a></li>
         <li><a href="/videos/gameofbike2011">Game of BIKE 2011</a></li>
+        <li><a href="/videos/commercials">Commercials</a></li>
+        <li><a href="/videos/danscompproteam">Dan's Comp Pro Team</a></li>
+        <li><a href="/interbike2014">Interbike 2014</a></li>
+        <li><a href="/videos/powerhour">Power Hour</a></li>
+        <li><a href="/videos/techtips">Tech Tips</a></li>
         <li><a href="/videos/new">Add Videos</a></li>
         </ul>
       </li>
       <li id="main_nav_product">
         <a href="/product/main">Product</a>
         <ul>
+        <li><a href="/product/main">All BMX Parts</a></li>
+        <li class="is_indented"><a href="/product/category/Bikes,6">BMX Bikes</a></li>
+        <li class="is_indented"><a href="/product/category/Frames,7">Frames</a></li>
+        <li class="is_indented"><a href="/product/category/Cranks,10">Cranks</a></li>
         <li><a href="/product/reviews">Latest Reviews</a></li>
         <li><a href="/product/top_reviewers">Top Reviewers</a></li>
-        <li><a href="/product/main">All BMX Parts</a></li>
-        <li class="&quot;is_indented&quot;"><a href="/product/category/Bikes,6">BMX Bikes</a></li>
-        <li class="&quot;is_indented&quot;"><a href="/product/category/Frames,7">Frames</a></li>
-        <li class="&quot;is_indented&quot;"><a href="/product/category/Cranks,10">Cranks</a></li>
         </ul>
       </li>
       <li id="main_nav_features">
@@ -352,17 +410,17 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
 <div id="wpadWrapper"> 
   <div id="wpadContainer"> 
     <div class="wpadUnit" id="wpadUnitL">
-      <div id="BMX_wallpaper_left_ROS_600x1080">
+      <div id="BMX_desktop_wallpaper_left">
         <script type="text/javascript">
-          googletag.cmd.push(function() { googletag.display('BMX_wallpaper_left_ROS_600x1080'); });
+          googletag.cmd.push(function() { googletag.display('BMX_desktop_wallpaper_left'); });
         </script>
       </div>
     </div> 
     <div id="wpadCenter"></div> 
     <div class="wpadUnit" id="wpadUnitR">
-      <div id="BMX_wallpaper_right_ROS_601x1080">
+      <div id="BMX_desktop_wallpaper_right">
         <script type="text/javascript">
-          googletag.cmd.push(function() { googletag.display('BMX_wallpaper_right_ROS_601x1080'); });
+          googletag.cmd.push(function() { googletag.display('BMX_desktop_wallpaper_right'); });
         </script>
       </div>
     </div> 
@@ -390,7 +448,7 @@ else vitalPage.showWallpaperAd();
     <div class="css_dd_menu">
   <ul>
 	  <li class="right"><a href="/login">Sign in</a></li>
-	  <!--<li class="right"><a href="https://graph.facebook.com/oauth/authorize?client_id=128366617182442&amp;redirect_uri=http://www.vitalbmx.com/fb_connect&amp;scope=email,user_birthday,publish_stream" class="no_bg fb_connect"><img alt="Fb_connect_sm" height="20" src="http://assets.vitalmedianet.com/images/buttons/fb_connect_sm.gif" width="84" /></a></li>-->
+	  <!--<li class="right"><a href="https://graph.facebook.com/v2.0/oauth/authorize?client_id=128366617182442&amp;redirect_uri=http://www.vitalbmx.com/fb_connect&amp;scope=email,user_birthday,publish_stream,publish_actions" class="no_bg fb_connect"><img alt="Fb_connect_sm" height="20" src="http://assets.vitalmedianet.com/images/buttons/fb_connect_sm.gif" width="84" /></a></li>-->
          <li class="right"><strong>Not a Member?</strong> <a href="/join">Join Today</a></li>
   </ul>
 </div>
@@ -399,7 +457,7 @@ else vitalPage.showWallpaperAd();
   
 <div class="fb_share_info:hide_tmp" id="message_bar"> 
   <div class="inner"> 
-	<a href="https://graph.facebook.com/oauth/authorize?client_id=128366617182442&amp;redirect_uri=http://www.vitalbmx.com/fb_connect&amp;scope=email,user_birthday,publish_stream" class="no_bg fb_connect"><img alt="4li2k73z" height="21" src="http://assets.vitalmedianet.com/images/4li2k73z.gif" width="169"></a>   
+	<a href="https://graph.facebook.com/v2.0/oauth/authorize?client_id=128366617182442&amp;redirect_uri=http://www.vitalbmx.com/fb_connect&amp;scope=email,user_birthday,publish_stream,publish_actions" class="no_bg fb_connect"><img alt="4li2k73z" height="21" src="http://assets.vitalmedianet.com/images/4li2k73z.gif" width="169"></a>   
 	<span><strong>Share your Vital activity on Facebook</strong> (<a href="/fb_connect/faq">More info</a>)</span> 
 	<div class="post_txt"></div> 
 	<span class="close"> 
@@ -565,7 +623,7 @@ Irvine, CA 92612
     <span>Edition: <a href="http://www.vitalbmx.com?perm=1">Int'l</a> | <a href="http://uk.vitalbmx.com?perm=1">UK</a></span>
     <span>Version: <a href="http://www.vitalbmx.com/privacy-policy?mobile=false">Desktop</a> | <a href="http://m.vitalbmx.com/privacy-policy?mobile=true">Mobile</a></span>
   </label>
-  <label>© 2014 Vital Media Network, Inc.</label>
+  <label>© 2015 Vital Media Network, Inc.</label>
 </div>
 </div>
 <!-- // footer -->
