@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalbmx.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722025548id_/http%3A//www.vitalbmx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalbmx.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419085948id_/http%3A//www.vitalbmx.com/privacy-policy) for the most accurate reproduction.*
 
 # Vital BMX
 
