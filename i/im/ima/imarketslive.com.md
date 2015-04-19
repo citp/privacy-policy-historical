@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the imarketslive.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012062947id_/http%3A//imarketslive.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imarketslive.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419050951id_/http%3A//www.imarketslive.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
 
-# International Markets Live, Inc. - Privacy Policy - iMarketsLive
+# International Markets Live Inc. - Privacy Policy - iMarketsLive
 
 **1.** International Markets Live, Inc. is the only operator collecting or maintaining personal information through the www.imarketslive.com website.
 
  **2.** A member (any visitor or other person making use of the website) may contact www.imarketslive.com using the following information:
 
 International Markets Live, Inc.  
-560 West 43rd Street STE 24E  
-New York NY 10036  
+1271 Avenue of the Americas   
+Suite 4300  
+New York NY 10020  
 United States  
 Email: info@imarketslive.com  
-Telephone: 212-242-5084  
 Fax: 888-702-6441
 
  **3.** Please review the Terms & Conditions of Usage.
 
  **Collection of Information**  
- **1.** The website actively collects information from its members such as first and last name, age, city and state, email address, gender, birth date, and information through signup forms, applications, voluntary surveys, sweepstakes, contests, purchases, and participation in public forums such as bulletin boards.
+ **1.** The website actively collects information from  its members such as first and last name, age, city and state, email address, gender, birth date, and information through signup forms, applications, voluntary surveys, sweepstakes, contests, purchases, and participation in public forums such as bulletin boards.
 
  **2.** The site reserves the right to passively collect information related to site usage such as time spent on site, areas visited, and sites linked to and from. In the future, the site may collect additional information and may install cookies on members' hard drives.
 
@@ -33,8 +33,8 @@ Fax: 888-702-6441
 **2.** Personal information collected from members is not disclosed to third parties, except companies with which the web site is affiliated by common ownership. The site may retain third parties to review certain personal information to advise it on demographic and marketing related issues, typically on an aggregated basis, and only after such third parties have agreed to maintain the confidentiality, security, and integrity of any personal information obtained.  
  ****  
  **International Markets Live, Inc.**  
-560 West 43rd Street STE 24E  
-New York NY 10036  
+1271 Avenue of the Americas   
+Suite 4300  
+New York NY 10020  
 United States  
-Email: info@imarketslive.com  
-Phone: 212-242-5084
+Email: info@imarketslive.com
