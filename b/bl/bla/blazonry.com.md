@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blazonry.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231011338id_/http%3A//blazonry.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazonry.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419033654id_/http%3A//blazonry.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for blazonry.com - web.blazonry
 
