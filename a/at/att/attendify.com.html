@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the attendify.com privacy policy that was archived on 2014-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226114433id_/http%3A//attendify.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the attendify.com privacy policy that was archived on 2015-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150419022904id_/http%3A//attendify.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js flexbox"><head>
   <meta charset="utf-8">
@@ -7,6 +7,7 @@
   <!--SEO skeleton-->
   <link rel="icon" type="image/png" href="https://s3.amazonaws.com/attendify-assets/favicon.ico">
   <link rel="canonical" href="https://attendify.com/privacy/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="">
   <meta name="description" content="">
   <meta name="keywords" content="">
@@ -18,25 +19,53 @@
   <link href="//ajax.googleapis.com" rel="dns-prefetch">
   <!--CSS include-->
   <style type="text/css" media="all">
-      @import url(//assets.attendify.com/website/0.0.20-production/assets/css/attendify-site-styles.min.css);
+    
+      @import url(//assets.attendify.com/website/0.0.26-staging/assets/css/attendify-site-styles.min.css);
+    
+    
   </style>
   <!-- ************************************************************ -->
   <!-- ********************* optimizely *************************** -->
   <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DM4HL"></script><script src="//cdn.optimizely.com/js/930381633.js"></script>
   <!-- ************************************************************ -->
-  <script type="text/javascript" src="//assets.attendify.com/website/0.0.20-production/assets/js/modernizr.min.js"></script>
+  <script type="text/javascript" src="//assets.attendify.com/website/0.0.26-staging/assets/js/modernizr.min.js"></script>
 </head>
 
 <body>
 
 
 
-  <!--HEADER start-->
-  <header class="header  first-screen-state">
-    <div class="l-container  l-jLine--middle">
+  <!--HEADER (desktop) start-->
+  <header class="header  header--first-screen-styles">
+    <div class="header__pre-header__wrap">
+      <ul class="header__pre-header">
+        <li><a class="header__pre-header__link" href="/contact/">
+          <i class="header__pre-header__icon  icon-pre-header-contact"></i>
+          Contact
+        </a></li>
+        <li><a class="header__pre-header__link" href="/blog">
+          <i class="header__pre-header__icon  icon-pre-header-blog"></i>
+          Blog
+        </a></li>
+        <li><a class="header__pre-header__link" href="https://attendify.zendesk.com/">
+          <i class="header__pre-header__icon  icon-pre-header-support"></i>
+          Support
+        </a></li>
+        <li>
+          
+            <a href="https://hub.attendify.com/account/login/" class="header__pre-header__link">
+              <i class="header__pre-header__icon icon-pre-header-login"></i>
+              Login
+            </a>
+          
+        </li>
+      </ul>
+    </div>
+    <div class="l-container  l-jLine--middle  header--large">
       <!--logo-->
       <a class="header__logo" href="/">Attendify</a>
-      <!--navigation-->
+
+      <!--navigation (desktop version)-->
       <nav class="header__nav" role="navigation">
         <ul>
           <li class="header__nav__unit  header__nav__link-trigger  header__nav__dropdown-trigger">
@@ -47,19 +76,19 @@
                 <a href="/social_app/" class="header__nav__dropdown__link">Private Social Network</a>
               </li>
               <li class="header__nav__dropdown__unit">
-                <a href="/guide_app/" class="header__nav__dropdown__link">Event Guide</a>
+                <a href="/guide_app/" class="header__nav__dropdown__link">Digital Event Guide</a>
               </li>
-              <li class="header__nav__dropdown__unit">
+              <li class="header__nav__dropdown__unit" style="display: none">
                 <a href="/multi_event_app/" class="header__nav__dropdown__link">Multi-Event App</a>
               </li>
               <li class="header__nav__dropdown__unit">
-                <a href="/hub/" class="header__nav__dropdown__link">Management Dashboard</a>
+                <a href="/hub/" class="header__nav__dropdown__link">Simple Content Management</a>
               </li>
               <li class="header__nav__dropdown__unit">
-                <a href="/social_wall/" class="header__nav__dropdown__link">Social Wall</a>
+                <a href="/social_ads/" class="header__nav__dropdown__link">In-App Sponsor Platform</a>
               </li>
               <li class="header__nav__dropdown__unit">
-                <a href="/social_ads/" class="header__nav__dropdown__link">Monetization Platform</a>
+                <a href="/social_wall/" class="header__nav__dropdown__link">Social Media Wall</a>
               </li>
             </ul>
           </li>
@@ -67,23 +96,72 @@
             <a class="header__nav__link" href="/how_it_works/">How it Works</a>
           </li>
           <li class="header__nav__unit  header__nav__link-trigger  header__nav__dropdown-trigger">
-            <a class="header__nav__link" href="/pricing/">Pricing</a>
+            <a class="header__nav__link" href="/customers/">Customers</a>
           </li>
           <li class="header__nav__unit  header__nav__link-trigger  header__nav__dropdown-trigger">
-            <a class="header__nav__link" href="/contact/">Contact Us</a>
+            <a class="header__nav__link" href="/pricing/">Pricing</a>
           </li>
         </ul>
       </nav>
-      <!--user area-->
+
+      <!--if user is authentificated `signup` and `login` buttons link to dashboard -->
       <div class="header__user-auth">
         
-          <a href="https://hub.attendify.com/account/login/" class="header__user-auth__btn  header__user-auth__btn--login">Log In</a>
-          <a href="https://hub.attendify.com/account/signup/" class="header__user-auth__btn  header__user-auth__btn--signup">Try it Free</a>
+          <a href="https://hub.attendify.com/account/signup/" class="header__user-auth__btn  header__user-auth__btn--signup">Get Started</a>
         
       </div>
     </div>
+
+    <div class="header--small"></div>
   </header>
-  <!--HEADER end-->
+  <!--HEADER (desktop) end-->
+
+
+  <!--HEADER (mobile) start-->
+  <header class="header-mobile">
+    <!--logo-->
+    <a class="header-mobile__logo" href="/">Attendify</a>
+
+    <span class="header-mobile__nav__toggler  header-mobile__nav__toggler--open">
+      <span class="header-mobile__nav__toggler__unit"></span>
+      <span class="header-mobile__nav__toggler__unit"></span>
+      <span class="header-mobile__nav__toggler__unit"></span>
+    </span>
+    <!--navigation-->
+    <nav class="header-mobile__nav__shell" role="navigation">
+      <a class="header-mobile__logo" href="/">Attendify</a>
+
+      <ul class="header-mobile__nav">
+        <li class="js-accordion">
+          <span class="header-mobile__nav__unit  js-accordion__header">Features</span>
+          <ul class="header-mobile__nav  header-mobile__nav--sub  js-accordion__body">
+            <li><a href="/social_app/" class="header-mobile__nav__unit">Private Social Network</a></li>
+            <li><a href="/guide_app/" class="header-mobile__nav__unit">Digital Event Guide</a></li>
+            <li style="display: none"><a href="/multi_event_app/" class="header-mobile__nav__unit">Multi-Event App</a></li>
+            <li><a href="/hub/" class="header-mobile__nav__unit">Simple Content Management</a></li>
+            <li><a href="/social_ads/" class="header-mobile__nav__unit">In-App Sponsor Platform</a></li>
+            <li><a href="/social_wall/" class="header-mobile__nav__unit">Social Media Wall</a></li>
+          </ul>
+        </li>
+        <li><a href="/how_it_works/" class="header-mobile__nav__unit  no-dropdown">How it Works</a></li>
+        <li><a href="/customers/" class="header-mobile__nav__unit  no-dropdown">Customers</a></li>
+        <li><a href="/pricing/" class="header-mobile__nav__unit  no-dropdown">Pricing</a></li>
+        <li><a href="/contact/" class="header-mobile__nav__unit  no-dropdown">Contact</a></li>
+        <li><a href="https://attendify.com/blog" class="header-mobile__nav__unit  no-dropdown">Blog</a></li>
+        <li><a href="https://attendify.zendesk.com/" class="header-mobile__nav__unit  no-dropdown">Support</a></li>
+      </ul>
+
+      <!--user area-->
+      
+        <div class="header-mobile__user-auth">
+          <a href="https://hub.attendify.com/account/login/" class="header-mobile__user-auth__btn  header-mobile__user-auth__btn--login">Log In</a>
+          <a href="https://hub.attendify.com/account/signup/" class="header-mobile__user-auth__btn  header-mobile__user-auth__btn--signup">Get Started</a>
+        </div>
+      
+    </nav>
+
+  </header>
+  <!--HEADER (mobile) end-->
 
 
 
@@ -94,9 +172,9 @@
 
 
 <!--first screen-->
-<section class="first-screen  first-screen--short">
+<section class="page-article__first-screen  first-screen  first-screen--short">
   <header class="first-screen__content">
-    <h1 class="first-screen__title">KitApps/Attendify Privacy Policy</h1>
+    <h1 class="page-article__first-screen__title  first-screen__title">KitApps/Attendify Privacy Policy</h1>
     <p>Last Update on December 5, 2014</p>
   </header>
 </section>
@@ -112,7 +190,7 @@
     </p><p><a href="http://safeharbor.export.gov/list.aspx">We self-certify compliance with:</a></p>
     <p>
       <a class="img-container" href="http://www.export.gov/safeharbor">
-        <img title="Safe Harbor Privacy Policy" alt="Safe Harbor Privacy Policy" src="//assets.attendify.com/website/0.0.20-production/assets/img/content/safe-harbor-privacy.png">
+        <img title="Safe Harbor Privacy Policy" alt="Safe Harbor Privacy Policy" src="//assets.attendify.com/website/0.0.26-staging/assets/img/content/safe-harbor-privacy.png">
       </a>
     </p>
     <p>This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. 
@@ -199,38 +277,40 @@
   <!--start FOOTER-->
   <footer class="footer">
 
-    <div class="l-container">
+    <div class="l-container  footer--large">
       <nav class="footer__nav">
         <ul>
           <li class="footer__nav__column">
             <h4 class="footer__nav__column__title">Features</h4>
-            <ul>
+            <ul class="footer__nav__column  footer__nav__column--dropdown">
               <li><a class="footer__nav__link" href="/social_app/">Private Social Network</a></li>
-              <li><a class="footer__nav__link" href="/guide_app/">Event Guide</a></li>
-              <li><a class="footer__nav__link" href="/multi_event_app/">Multi-Event App</a></li>
-              <li><a class="footer__nav__link" href="/hub/">Management Dashboard</a></li>
-              <li><a class="footer__nav__link" href="/social_wall/">Social Wall</a></li>
-              <li><a class="footer__nav__link" href="/social_ads/">Monetization Platform</a></li>
+              <li><a class="footer__nav__link" href="/guide_app/">Digital Event Guide</a></li>
+              <li style="display: none"><a class="footer__nav__link" href="/multi_event_app/">Multi-Event App</a></li>
+              <li><a class="footer__nav__link" href="/hub/">Simple Content Management</a></li>
+              <li><a class="footer__nav__link" href="/social_ads/">In-App Sponsor Platform</a></li>
+              <li><a class="footer__nav__link" href="/social_wall/">Social Media Wall</a></li>
             </ul>
           </li>
           <li class="footer__nav__column">
             <h4 class="footer__nav__column__title">About</h4>
-            <ul>
-              <li><a class="footer__nav__link" href="/about/">About Attendify</a></li>
+            <ul class="footer__nav__column  footer__nav__column--dropdown">
+              <li><a class="footer__nav__link" href="/about/">Attendify</a></li>
               <li><a class="footer__nav__link" href="/how_it_works/">How it Works</a></li>
-              <li><a class="footer__nav__link" href="https://attendify.com/blog">Our Blog</a></li>
-              <li><a class="footer__nav__link" href="https://attendify.com/partnership">Partners</a></li>
+              <li><a class="footer__nav__link" href="/customers/">Customers</a></li>
+              <li><a class="footer__nav__link" href="http://attendify.com/blog">Blog</a></li>
+              <li><a class="footer__nav__link" href="/partnership/">Partners</a></li>
+              <li><a class="footer__nav__link" href="/careers/">Careers</a></li>
             </ul>
           </li>
           <li class="footer__nav__column">
             <h4 class="footer__nav__column__title">Support</h4>
-            <ul>
+            <ul class="footer__nav__column  footer__nav__column--dropdown">
               <li><a class="footer__nav__link" href="https://attendify.zendesk.com/">Support Center</a></li>
               <li><a class="footer__nav__link" href="/contact/">Contact Us</a></li>
             </ul>
           </li>
-          <li class="footer__nav__column">
-            <h4 class="footer__nav__column__title">Social</h4>
+          <li class="footer__nav__column  footer__nav__social">
+            <h4 class="footer__nav__column__title  show-lg">Social</h4>
             <ul class="social-networks">
               <li class="social-networks__unit">
                 <a class="social-networks__unit__icon  icon-facebook" title="Facebook" href="https://www.facebook.com/attendifyapp" target="_blank"></a>
@@ -257,7 +337,7 @@
 
       <div class="footer__layout-btm">
 
-        <small class="footer__nav__column  copyright">© 2014 Attendify.</small>
+        <small class="footer__nav__column  copyright">© 2015 Attendify. All Right Reserved</small>
 
         <div class="footer__nav__column"></div>
         <div class="footer__nav__column"></div>
@@ -269,7 +349,6 @@
 
       </div>
     </div>
-
   </footer>
   <!-- end FOOTER -->
 
@@ -278,10 +357,18 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script src="//assets.attendify.com/website/0.0.20-production/assets/js/attendify-site-plugins.min.js"></script>
-<script src="//assets.attendify.com/website/0.0.20-production/assets/js/attendify-site-components.js"></script>
-<script src="/hub_static/users/js/forms.js"></script>
 
+  <script src="//assets.attendify.com/website/0.0.26-staging/assets/js/attendify-site-plugins.min.js"></script>
+  <script src="//assets.attendify.com/website/0.0.26-staging/assets/js/attendify-site-components.min.js"></script>
+  <script src="//assets.attendify.com/website/0.0.26-staging/assets/js/forms.min.js"></script>
+
+
+
+<script>
+// Picture element HTML5 shiv
+document.createElement( "picture" );
+</script>
+<script src="//assets.attendify.com/website/0.0.26-staging/assets/js/picturefill.min.js" async=""></script>
 
 
   <script type="text/javascript">
@@ -289,9 +376,10 @@
       
         new SignupForm("/account/signup/", $(".footer_registration_form"));
         new SignupForm("/account/signup/", $(".how_ti_works_signup"));
-        new DemoRequest("/request_a_demo/", $(".footer_demo_request_form"));
-        new MessageForm("/contact/", $(".message_request_form"))
       
+      new DemoRequest("/request_a_demo/", $(".footer_demo_request_form"));
+      new MessageForm("/contact/", $(".message_request_form"));
+
     });
   </script>
 
