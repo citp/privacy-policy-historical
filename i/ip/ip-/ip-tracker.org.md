@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ip-tracker.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170539id_/http%3A//www.ip-tracker.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip-tracker.org privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419040410id_/http%3A//www.ip-tracker.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | IP-Tracker.org
 
 At IP-Tracker.org, we recognize that privacy of our visitors and your personal information is very important. Here is information on what types of personal information we receive and collect when you use and visit IP-Tracker.org, and how we safeguard your information. We never share your personal information with anyone and never sell your personal information to third parties. 
+
+Advertisements
 
 ## Website Visitors And Log Files, Cookies and Web Beacons
 
@@ -21,6 +23,8 @@ We use third party advertisement (only from Google Adsense) on IP-Tracker.org to
 
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have set your browser to refuse cookies, the next time you visit a website running the advertisements, a new cookie will be added. 
+
+Advertisements
 
 IP-Tracker.org reserve the right to make changes to its Privacy Policy at any time. So please review this page frequently for any changes in our Privacy Policy. If you have any questions about our website or our privacy policy, please feel free to [contact us](http://www.ip-tracker.org/contact.php). 
 
