@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220235917id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148674) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420192925id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148674) for the most accurate reproduction.*
 
-# Drugstore Products Online | drugstore.com
+# Drugstore | drugstore.com
 
 | 
 
