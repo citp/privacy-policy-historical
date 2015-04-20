@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acx.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110453id_/http%3A//www.acx.com/help/privacy-notice/200485460) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acx.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420072618id_/http%3A//www.acx.com/help/privacy-notice/200485460) for the most accurate reproduction.*
 
 # Privacy Notice
 
