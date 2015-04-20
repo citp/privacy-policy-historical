@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125020101id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420191554id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
 
 # LoopNet - Privacy Statement
 
-Last Updated: October 23, 2014
+Last Updated: December 18, 2014
 
 [](https://privacy.truste.com/privacy-seal/LoopNet-Inc-/validation?rid=5e302d41-88bc-4f2b-b4be-b791e857f835 "TRUSTe online privacy certification")
 
-LoopNet, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, [www.loopnet.com](http://www.loopnet.com/) does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information:
+LoopNet, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, [www.loopnet.com](http://www.loopnet.com/) does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information:
 
   * The personal information collected and which organization is collecting the information 
   * How the information is used and with whom the information may be shared 
@@ -22,7 +22,7 @@ If the web site has not responded to your inquiry or your inquiry has not been s
 
 **LoopNet's Privacy Statement**
 
-LoopNet Inc., is wholly owned subsidiary of CoStar Group (collectively “LoopNet’, “we”, “us” or “our) provide this Privacy Statement that This privacy statement covers the website [http://www.loopnet.com](http://www.loopnet.com/). By accessing, using or registering with LoopNet's web site, you accept and agree to LoopNet's Privacy Statement. LoopNet provides a variety of online services for commercial real estate professionals. LoopNet values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at LoopNet to provide the best quality service possible. The following privacy statement summarizes LoopNet's protection and use of any personal information provided by visitors to the LoopNet site.
+LoopNet Inc., a wholly owned subsidiary of CoStar Group (collectively “LoopNet’, “we”, “us” or “our) provide this Privacy Statement that covers the website [http://www.loopnet.com](http://www.loopnet.com/). By accessing, using or registering with LoopNet's web site, you accept and agree to LoopNet's Privacy Statement. LoopNet provides a variety of online services for commercial real estate professionals. LoopNet values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at LoopNet to provide the best quality service possible. The following privacy statement summarizes LoopNet's protection and use of any personal information provided by visitors to the LoopNet site.
 
 This statement does not apply to any public area of LoopNet's web site or services. In the event you submit personal information to contact another member, contact a lister about a listing, create a listing, add a contact on a listing, LoopNet Answers, Professional Directory, Professional Profile, LoopNet Profile, such information becomes publicly available and LoopNet is not responsible for the personal information you choose to submit to these services, forums, listings, or persons.
 
@@ -70,23 +70,23 @@ If you have any questions about security on our Web site, you can email us at [p
 
 Technologies such as: cookies, beacons, tags and scripts are used by LoopNet Inc. and our advertising and ad retargeting partners, affiliates, analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Cookies are used on this site to make it easier for you to use the site by storing your user preferences, such as the last location you searched, or for remembering your log in information so that you do not have to re-type it each time. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+We use cookies to make it easier for you to use the site by storing your user preferences, such as the last location you searched, or for remembering your log in information so that you do not have to re-type it each time. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 **Log Files**
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
 
-[We do not link this automatically collected data to other information we collect about you. Or We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.]
+We do not link this automatically collected data to other information we collect about you.
 
 **Local Storage**
 
-We use Local Storage (LS) such as HTML5 to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LS such as HTML 5 to collect and store information.
+We use Local Storage (LS) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LS such as HTML 5 to collect and store information.
 
 Various browsers may offer their own management tools for removing HTML5 LS.
 
 **Behavioral Advertising**
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 **Testimonials:**
 
@@ -102,7 +102,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
 **Collection and Use of Third Party Personal Information**
 
-You may also provide personal information about other people, such as their name, physical address, email address and etc.. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided.
+You may also provide personal information about other people, such as their name, physical address, email address and etc. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided.
 
 **Public Member Directory**
 
@@ -122,7 +122,7 @@ LoopNet utilizes email as a vital and primary communication channel with registe
 
 Users who do not wish to receive marketing emails including LoopNews, LoopNet Promotional Emails, or Sponsor Emails are requested to contact [LoopNet Client Services](https://web.archive.org/xNet/MainSite/Marketing/Contact/default.aspx) via email, or select the opt-out option by deselecting the email option from their member profile. We also send our users site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about service notices and responsibilities. LoopNet occasionally communicates with its users via email and phone to provide information about requested services and regarding issues related to their account. It is important to note that this communication is not used for marketing or promotional purposes. Requesting the deletion of certain types of user information may prevent users from accessing some web site features.
 
-If your personal information changes, or if you no longer desire our service, you may correct, delete or update your personal information by making the change on your member profile page [or by emailing our Customer Support at [info@loopnet.com](mailto:info@loopnet.com) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personal information changes, or if you no longer desire our service, you may correct, delete or update your personal information by making the change on your member profile page or by emailing our Customer Support at [info@loopnet.com](mailto:info@loopnet.com).
 
 Subscriptions will automatically renew using the Customer's current credit card account number unless Customer cancels their subscription on the LoopNet Web site at [http://www.LoopNet.com/ProductCancellations](https://web.archive.org/ProductCancellations?intcpt=false) three (3) days prior to the renewal date to cancel such subscription. All cancellation requests will be processed within five (5) business days. Once the cancellation is processed, a confirmation email will be sent via the customer's email account on record with LoopNet. If Customer has a question about a cancellation, Customer should contact LoopNet Client Services at [Help@LoopNet.com](mailto:Help@LoopNet.com) or at 888-567-7442. The Company reserves the right to change its fees or billing methods at any time. The Company will provide timely notice to the affected Customers of any such changes.
 
