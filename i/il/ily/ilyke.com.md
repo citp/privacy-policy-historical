@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ilyke.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042759id_/http%3A//www.ilyke.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilyke.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420152434id_/http%3A//ilyke.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Funny Pictures and Funny Videos to make your days awesome! | iLyke
+# Funny Pictures and Funny Videos to make your days awesome!
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at info[@]ilyke.net
 
