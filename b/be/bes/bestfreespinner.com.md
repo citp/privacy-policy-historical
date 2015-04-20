@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfreespinner.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014004537id_/http%3A//bestfreespinner.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfreespinner.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420052720id_/http%3A//bestfreespinner.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Best Free Spinner - Free or Pro Article Spinner, Text Spinner
 
