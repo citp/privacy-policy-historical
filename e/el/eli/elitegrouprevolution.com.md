@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitegrouprevolution.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124001734id_/http%3A//elitegrouprevolution.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitegrouprevolution.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420053550id_/http%3A//elitegrouprevolution.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Elite Group Revolution
 
