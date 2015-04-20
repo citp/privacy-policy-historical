@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimalprint.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207181927id_/http%3A//www.optimalprint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalprint.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420221832id_/http%3A//www.optimalprint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
