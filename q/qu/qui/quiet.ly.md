@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiet.ly privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209182926id_/http%3A//quiet.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiet.ly privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420062755id_/https%3A//www.quiet.ly/privacy) for the most accurate reproduction.*
 
 # Privacy - Quietly
 
@@ -56,7 +56,7 @@ Our Services are not directed to persons under 13. If you become aware that your
 
 ## Changes to this Policy
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at <http://quiet.ly/privacy>. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @quietlyapp tweet or e-mail to the e-mail address associated with your account or by posting on our website. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at <http://www.quiet.ly/privacy>. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @quietlyapp tweet or e-mail to the e-mail address associated with your account or by posting on our website. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
 
 _Last Update: October 15, 2013_
 
