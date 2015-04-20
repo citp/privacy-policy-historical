@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629234637id_/http%3A//www.cwjobs.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421000102id_/http%3A//www.cwjobs.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - CWJobs.co.uk
+# Privacy policy
 
-At CWJobs.co.uk we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site. 
+At CWJobs.co.uk we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site.
 
-You can remove any of the information that CWJobs.co.uk stores about you, at any time, by logging in to your 'My CWJobs' account and choosing to close the account. 
+You can remove any of the information that CWJobs.co.uk stores about you, at any time, by logging in to your 'My CWJobs' account and choosing to close the account.
 
 Personal data which you supply to us may be transferred to third party service providers to be stored or processed on our behalf, including third parties located outside of the European Economic Area in countries where there may be a lower legal level of data protection. However, we will always endeavour to handle your information in accordance with this privacy policy, wherever it is processed.
 
 As a Registered User and based on the preferences you share at registration, you may also occasionally receive information on whitepapers, products, services, special deals and newsletters from third parties
 
-Privacy policy update (Last updated 28 May 2013) 
+Privacy policy update (Last updated 4 Dec 2014)
 
 **Registration details**   
-Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested. 
+Contact and other job advertisement details you supply as part of the CWJobs.co.uk Credit Card posting process are stored by us and used to provide you with the services you have requested. Please note that although we require customers who use our services, such as employers seeking to recruit staff, to agree to use the information made available solely for recruitment-related purposes, we do not control their use of any information that they have access to as part of receiving our services.
 
 **Profile and CV information**   
 When you complete your CWJobs.co.uk profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by any direct recruiter, employment consultant or other person or organisation who requests CVs matching your profile to be sent to them. CWJobs.co.uk does not verify the identity or the nature of the business of such organisations. 
