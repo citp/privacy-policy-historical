@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the english-grammar-revolution.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213000832id_/http%3A//www.english-grammar-revolution.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-grammar-revolution.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420230757id_/http%3A//www.english-grammar-revolution.com/privacy-policy.html) for the most accurate reproduction.*
 
 # English Grammar Revolution: Privacy Policy and Disclaimer
 
-## **English Grammar Revolution's  
-Privacy Policy and Disclaimer**
-
-###  **Privacy Policy**
+### **Privacy Policy**
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use English Grammar Revolution, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
@@ -76,7 +73,5 @@ This website and its contents are provided "AS IS" without warranty of any kind,
 Reproduction, distribution, republication, and/or retransmission of material contained within this website are prohibited unless the prior written permission of English Grammar Revolution has been obtained. 
 
 We grant immediate permission to share pages on social media as the placement of the "share" buttons at the bottom of each page imply. 
-
-* * *
 
 [Back to Home Page](http://www.english-grammar-revolution.com/)
