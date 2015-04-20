@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratesetter.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220110536id_/http%3A//www.ratesetter.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesetter.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420210115id_/http%3A//www.ratesetter.com/home/privacy) for the most accurate reproduction.*
 
-# Worried about the privacy of peer to peer lending? Learn more. - RateSetter.com
+# Worried about the privacy of peer to peer lending? Learn more.
 
 ### Effect of these Terms & Conditions
 
@@ -50,13 +50,9 @@ RateSetter sends periodic updates about new products, services, content and info
 
 The management of our business requires us to share and validate data with third parties such as credit reference, debt collection or law enforcement agencies. RateSetter reserves the right to change the nature and suppliers of that information and/or those services to ensure best practice. 
 
-RateSetter keeps a log of any search, check or other validation of your data by a third party. Credit Reference Agencies reserve the right to record the check and validation of your account for their own operational purposes. 
+#### Personal Finance Partners 
 
-#### Loanbroker Assistance 
-
-We would however like to offer you the best service that we can. In the event that we are unable to offer you a loan with us, it may 
-
-be possible to refer you to our decline partners, who may be able to assist you. Our partners are all free to use services which can search the loan market to find the best possible loan for your circumstances. If you do not want us to share your details with them, please **untick** the box on your SmartQuote application. 
+Sometimes RateSetter is unable to provide applicants with the loan they have requested but one of our partners may be able to help. If you do not want to be contacted by one of these partners following an unsuccessful application, please **untick** the box on your SmartQuote application. 
 
 ### How long will RateSetter keep my personal information?
 
