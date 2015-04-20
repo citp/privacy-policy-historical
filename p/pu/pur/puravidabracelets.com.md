@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puravidabracelets.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221054910id_/http%3A//puravidabracelets.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puravidabracelets.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420072106id_/http%3A//puravidabracelets.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pura Vida Bracelets
 
@@ -16,7 +16,7 @@ Contests and Surveys: When we offer a contest or survey through our Site, we gen
 
 We may use your contact information to respond to your requests or to communicate about your orders.
 
-Distribution Lists: Upon ordering our products/services, or participating in our online contests or surveys, you will be placed on our distribution lists and may receive occasional postal mail, email, or telephone notification about Pura Vida products, services, special offers, promotions, or Site updates that we believe may be of interest to you. To remove yourself from these lists, see "Choice" below.
+Distribution Lists: Upon ordering our products/services, or participating in our online contests or surveys, you will be placed on our distribution lists and may receive occasional postal mail, email, text messages, or telephone notification about Pura Vida products, services, special offers, promotions, or Site updates that we believe may be of interest to you. To remove yourself from these lists, see "Choice" below.
 
 Emails: In order to create a better electronic community, we may collect specific user profile information, such as the referring URL, when you click on a link in our e-mail communications. This information is used to capture broad demographic trends that may allow us to provide you with information better tailored to your interests. You will not be personally identified from this information.
 
