@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the socialreviver.net privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727110705id_/http%3A//www.socialreviver.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialreviver.net privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420060935id_/http%3A//www.socialreviver.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for socialreviver.net ~ SocialReviver: The way YOU want Facebook to be!
 
 ## Privacy Policy for socialreviver.net
 
 At socialreviver.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by socialreviver.net and how it is used.
-
-Please note that the domains socialreviver.net, socialreviver.com, socialreviver.org and socialreviver.info point to the same website and are controlled by us, so this privacy policy applies to all of the domains cited above.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at [this page](https://www.socialreviver.net/contact).
 
