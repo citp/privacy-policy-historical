@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysecuritycenter.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218103347id_/http%3A//www.mysecuritycenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysecuritycenter.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420061759id_/http%3A//www.mysecuritycenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Antivirus, Firewall, Spyware Probably the best security for PC.
 
