@@ -1,35 +1,20 @@
-> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203144405id_/http%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420192016id_/http%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy - #1 Trusted Relationship Site
-
-  
-
-
-  * What Information We Collect
-  * How We Collect and Use Information
-  * Mobile Device Additional Terms
-  * Disclosure of Your Information to Third Parties
-  * Third-Party Advertising
-  * Age Restrictions
-  * Security
-  * Choice/Opt-Out
-  * Updating Your Information
-  * Contacting the Website
-  * Acceptance of Privacy Statement
-
-
-
-[](https://privacy.truste.com/privacy-seal/eharmony-com/validation?rid=e91fabd8-3c73-4d8f-bf2b-c3c0cdab3cde "TRUSTe online privacy certification")
 
 eHarmony has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.eharmony.com, our mobile site m.eharmony.com and our eharmony mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 This privacy statement discloses the privacy practices of eHarmony, Inc. and all websites owned or operated by eHarmony, Inc. and its subsidiaries and corporate affiliates.
 
-**What Information We Collect**
+[](https://privacy.truste.com/privacy-seal/eharmony-com/validation?rid=e91fabd8-3c73-4d8f-bf2b-c3c0cdab3cde "TRUSTe online privacy certification")
+
+* * *
+
+## What Information We Collect
 
 The types of information that we collect fall under two general categories: personally identifiable information (PII) and non-personally identifiable information (non-PII). PII consists of any information which can be used to specifically identify you as an individual, whereas non-PII consists of aggregate information or any information that does not reveal your identity. The following sections describe how your PII and non-PII are collected by us, and how we use such information.
 
-**How We Collect and Use Information**
+## How We Collect and Use Information
 
   * _Log Files._ Any time you visit any of our websites, our servers automatically gather information from your browser (such as your IP addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks) to analyze trends, administer the site, prevent fraud, track visitor movement in the aggregate, and gather broad demographic information. For example, we may log your IP address for system administration purposes. IP addresses are logged to track a user’s session. This gives us an idea of which parts of our site users are visiting. We do not share the log files externally. 
   * _Cookies._ We use “cookies” to keep track of some types of information while you are visiting our website or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user trends. We rely on cookies for the proper operation of our website; therefore if your browser is set to reject all cookies, the website will not function properly. Users who refuse cookies assume all responsibility for any resulting loss of functionality. We do not link the cookies to any PII.
@@ -47,7 +32,7 @@ The types of information that we collect fall under two general categories: pers
 
 
 
-**Mobile Device Additional Terms**
+## Mobile Device Additional Terms
 
   * _Mobile Device_ If you use a mobile device to access our site or download any of our applications, we may collect device information (such as your mobile device ID, model and manufacturer), operating system and version information, and IP address. 
   * _Geo-Location Information._ We do not ask you for, access or track any location-based information from your mobile device at any time while downloading or using our Mobile Apps or services. 
@@ -55,7 +40,7 @@ The types of information that we collect fall under two general categories: pers
 
 
 
-**Disclosure of Your Information**
+## Disclosure of Your Information
 
   * _Disclosure to Your Matches._ . As an integral part of providing the eHarmony service, we will disclose your profile information to your matches. Photos and other profile information posted by you will be available to subscribers that are matched with you. We may also make features available enabling your matches to share your profile information, including photos, with members of their social network(s). We never share your contact information with your matches.
   * _Disclosure By Law._ You acknowledge and agree that we may disclose information you provide if required to do so by law, at the request of a third party, or if we, in our sole discretion, believe that disclosure is reasonable to (1) comply with the law, requests or orders from law enforcement, or any legal process (whether or not such disclosure is required by applicable law); (2) protect or defend eHarmony’s, or a third party’s, rights or property; or (3) protect someone’s health or safety, such as when harm or violence against any person (including you) is threatened. 
@@ -67,7 +52,7 @@ The types of information that we collect fall under two general categories: pers
 
 
 
-**Third-Party Advertising**
+## Third-Party Advertising
 
 We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of eHarmony or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous. Some of these third-party advertising agencies may be members of the Network Advertising Initiative, which offers you the option to opt out of ad targeting from its member agencies by following the procedures listed [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
@@ -75,19 +60,19 @@ Third Parties, with whom we partner to display advertising based upon your web b
 
 We will only share your information with third parties in the ways defined in this privacy statement.
 
-**Age Restrictions**
+## Age Restrictions
 
 Our age restrictions for different services are set forth in each applicable Terms and Conditions of Service. We do not target our sites or services to children under the age of 13, and in compliance with the Children’s Online Privacy Protection Act, any information we may receive from users we believe to be under the age of 13 will be purged from our database.
 
-**Security**
+## Security
 
 We have extensive security measures in place to protect the loss, misuse and alteration of the information stored in our database. These measures include the use of Secure Socket Layer (SSL) and/or strong encryption (3DES) technology during credit card transactions and administrative access to site data, as well as other proprietary security measures which are applied to all repositories and transfers of user information. We will exercise reasonable care in providing secure transmission of information between your computer and our servers, but given that no information transmitted over the Internet can be guaranteed 100% secure, we cannot ensure or warrant the security of any information transmitted to us over the Internet and hence accept no liability for any unintentional disclosure.
 
-**Links to or Access from Other Sites**
+## Links to or Access from Other Sites
 
 You may be able to access your account or content of your account from third party sites, such as social networking sites, by way of various applications. The privacy policies and practices of such sites in connection with information you disclose on such sites may differ from the practices of eHarmony as set forth in this privacy statement, and you should review their policies and practices to ensure that the privacy of the information you submit on their site does not conflict with and is consistent with how you wish your information to be treated. Such sites may also place their own cookies or other files on your computer, collect data or solicit personal information from you. We are not responsible for the privacy policies or practices or the content of any other websites that may provide access to, or be linked to or from, this site, including that of any social networking sites and third party advertisers whose offerings require you to navigate away from our site.
 
-**Choice/Opt-Out**
+## Choice/Opt-Out
 
 You may use the following options for removing your information, including an unauthorized profile, from our e-mail database if you wish to opt out of receiving promotional e-mails and newsletters.
 
@@ -96,36 +81,26 @@ You may use the following options for removing your information, including an un
 eHarmony, Inc.  
 P.O. Box 3640  
 Santa Monica, CA 90408 USA
-  3. For the eHarmony Singles service, select our [Help link](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/guided_alp.php) from your account home page and search our [FAQ's](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/guided_alp.php) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.com/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you; or
+  3. For the eHarmony Singles service, select our [Help link](http://help-singles.eharmony.com/app/answers/list_popular/?) from your account home page and search our [FAQ's](http://help-singles.eharmony.com/app/home) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.com/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you; or
   4. For any services that allow you to control which e-mails you receive, go to the e-mail settings page from your account home page, and un-check the undesired promotions.
 
 
 
-**Updating Your Information**
+## Updating Your Information
 
 eHarmony provides users the following options for changing and modifying information previously submitted, , including deletion of your personal information. 
 
-  1. For the eHarmony Singles service, select our [Help link](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/guided_alp.php) from your account home page and search our [FAQ's](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/guided_alp.php) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.com/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you;
+  1. For the eHarmony Singles service, select our [Help link](http://help-singles.eharmony.com/app/answers/list_popular/?) from your account home page and search our [FAQ's](http://help-singles.eharmony.com/app/home) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.com/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you;
   2. For any services where you have an account page, you may change your credit card (if applicable), e-mail address, password and other information from the account settings or preferences page; or
   3. You can send mail to the postal address listed above, providing us with your account information and letting us know which information you wish to update.
 
 
 
-**Data Retention**
+## Data Retention
 
 Because many users tend to use our service at different points of their relationship-seeking life, we retain your personal information for continued service and convenience purposes until you advise us not to do so. Notwithstanding the foregoing, we may retain personal information in order to comply with applicable laws, keep accurate records, resolve disputes, prevent fraud, enforce our Terms and Conditions of Service or other agreements, or for any other legally permissible purpose.
 
-**Contacting the Website**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with any eHarmony websites, you can contact:
-
-Site Administrator  
-eHarmony, Inc.  
-P.O. Box 3640  
-Santa Monica, CA 90408 USA  
-(855) 290-5581 
-
-**Acceptance of Privacy Statement**
+## Acceptance of Privacy Statement
 
 Your use of our website(s), including any dispute concerning privacy, is subject to this privacy statement and the applicable Terms and Conditions of Service. **BY USING OUR WEBSITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY STATEMENT AND THE APPLICABLE TERMS AND CONDITIONS OF SERVICE.**
 
@@ -133,8 +108,8 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 Your continued use of any portion of our website following posting of the updated privacy statement will constitute your acceptance of the changes.
 
-**Effective Date**
+## Effective Date
 
 This privacy statement was last revised on May 1, 2013.
 
-Copyright © 2000-2013 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners. 
+Copyright © 2000-2013 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners.
