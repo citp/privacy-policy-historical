@@ -1,83 +1,133 @@
-> *The following text is extracted and transformed from the fruzo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125618id_/http%3A//www.fruzo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fruzo.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421001401id_/http%3A//fruzo.com/privacy-policy) for the most accurate reproduction.*
 
-# Fruzo.com: Portland classifieds for jobs, apartments, personals, for sale, services, community, and events
+# Social Network for Dating, Friends & Online Chat
 
-### www.fruzo.com (the "Site") respects your privacy. Here's our privacy policy for this Site:
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
 
-  * [Personally Identifiable Information](http://www.fruzo.com/privacy.php#Personally_Identifiable_Information)
-  * [What Information is Collected and Used](http://www.fruzo.com/privacy.php#Information_Collected_and_Used)
-  * [Cookies](http://www.fruzo.com/privacy.php#Cookies)
-  * [Communication from the Site](http://www.fruzo.com/privacy.php#Communication)
-  * [Correction/Update of Personal Information:](http://www.fruzo.com/privacy.php#Correction_Update_Personal_Information:)
-  * [Children](http://www.fruzo.com/privacy.php#Children)
-  * [Links to Other sites](http://www.fruzo.com/privacy.php#Links)
-  * [E-Commerce and Our Secure Server](http://www.fruzo.com/privacy.php#E-Commerce_Our_Secure_Server)
-  * [Policy Changes and Acceptance](http://www.fruzo.com/privacy.php#Policy_Changes_Acceptance)
-  * [More Questions?](http://www.fruzo.com/privacy.php#More_Questions)
+####  What personal information do we collect from the people that visit our blog, website or app? 
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience. 
+
+####  When do we collect information? 
+
+We collect information from you when you register on our site or enter information on our site. 
+
+####  How do we use your information? 
+
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
+
+  * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
 
 
 
-### 1\. Personally Identifiable Information
+####  How do we protect visitor information? 
 
-The Site will not provide our advertisers or anyone else outside the Site with any information specific to you collected from the Site unless we have your consent. The only Site employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. 
 
-[top](http://www.fruzo.com/privacy.php#top)
+We use regular Malware Scanning. 
 
-### 2\. What Information is Collected and Used
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
 
-We will not release your name, e-mail address or any other personal information to anyone else outside the Site unless we have your consent. However, we may disclose your personal information if  
-(i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority  
-(ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site  
-(iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference  
-(iv) if we determine an ad posted violates our terms of use or the rights of a third party  
-(v) there is an emergency involving personal danger.
+We implement a variety of security measures when a user places an order to maintain the safety of your personal information. 
 
-Please note that if you post any of your personal information on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post or otherwise make public.
+All transactions are processed through a gateway provider and are not stored or processed on our servers. 
 
-[top](http://www.fruzo.com/privacy.php#top)
+####  Do we use 'cookies'? 
 
-### 3\. Cookies
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system. The Site does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Site cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website.
+**We use cookies to:**
 
-[top](http://www.fruzo.com/privacy.php#top)
+  * Understand and save user's preferences for future visits. 
 
-### 4\. Communication from the Site
 
-From time to time, we may send you information with announcements and updates about the Site and your account. You may elect to opt-out of ongoing e-mail communication from us, such as newsletters, subscriptions, account information, promotional materials, contest results, survey inquiries, etc. by using a simple "opt out" procedure. You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. However, if you opt-out of receiving our announcements and updates about your account, you may no longer have access to areas restricted to account members.
 
-[top](http://www.fruzo.com/privacy.php#top)
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. 
 
-### 5\. Correction/Update of Personal Information
+**If users disable cookies in their browser:**
 
-If your personal information changes, you may review/correct/update your personal information previously provided at any time by simply logging into your fruzo.com account. You may also have your personal profile data deleted from our database by simply logging into your fruzo.com account and selecting edit profile. However, if you have your personal profile data deleted from our database, you may have to create a new account to be able to use some features of the site.
+If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly. 
 
-[top](http://www.fruzo.com/privacy.php#top)
+However, you can still place orders login features. 
 
-### 6\. Children
+####  Third Party Disclosure 
 
-The Site is not intended for children under the age of 13 nor does the Site knowingly collect personal information from children under 13. The Site does not orient this Site toward children or target them as an audience, nor does it screen them from using the Site. Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use. The Site does not collect or distribute information indicating whether a user is a child.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
 
-[top](http://www.fruzo.com/privacy.php#top)
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-### 7\. Links to Other sites
+####  Third party links 
 
-This Site provides links and pointers to Web sites maintained by other organizations. The Site provides these links as a convenience to users, but it does not operate, control or endorse such sites. The Site also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. The Site does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer.
+We do not include or offer third party products or services on our website. 
 
-[top](http://www.fruzo.com/privacy.php#top)
+####  Google 
 
-### 8\. E-Commerce and Our Secure Server
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
 
-All commerce transactions that take place on this site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. Any transactions that take place on other sites that have link from our site are not necessarily handled in this fashion. The Site disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions.
+We use Google AdSense Advertising on our website. 
 
-[top](http://www.fruzo.com/privacy.php#top)
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
-### 9\. Policy Changes and Acceptance
+**We have implemented the following:**
 
-This privacy policy is effective as of September 1, 2009. By using our Site and its services, you signify your acceptance of this Privacy Policy. If you do not agree or are not comfortable with any policy described in this Privacy Policy, you may discontinue use of our Site. We reserve the right to modify this Privacy Policy at any time. Your continued use of any portion of our Site following notification or posting of such changes will constitute your acceptance of these changes.
+  * Demographics and Interests Reporting 
 
-[top](http://www.fruzo.com/privacy.php#top)
 
-### 10\. More Questions?
 
-If you have any questions about this privacy policy, please [ Contact Us](http://www.fruzo.com/contact_us.php?op=contact_us), and be sure to indicate the nature of your question or concern.
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
+
+Opting out: 
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on. 
+
+####  California Online Privacy Protection Act 
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf 
+
+####  According to CalOPPA we agree to the following: 
+
+Users can visit our site anonymously 
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website. 
+
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above. 
+
+Users will be notified of any privacy policy changes: 
+
+  * On our Privacy Policy Page 
+
+
+
+Users are able to change their personal information: 
+
+  * By logging in to their account 
+
+
+
+####  How does our site handle do not track signals? 
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+####  Does our site allow third party behavioral tracking? 
+
+It's also important to note that we do not allow third party behavioral tracking 
+
+####  COPPA (Children Online Privacy Protection Act) 
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. 
+
+We do not specifically market to children under 13. 
+
+####  Fair Information Practices 
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. 
+
+####  In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur: 
+
+We will notify the users via email 
+
+  * Within 7 business days 
+
+
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors. 
