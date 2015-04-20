@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardx.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120235816id_/http%3A//www.hardx.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardx.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421002937id_/http%3A//www.hardx.com/en/privacy) for the most accurate reproduction.*
 
 # HardX Extreme Porn | HardX.com
 
