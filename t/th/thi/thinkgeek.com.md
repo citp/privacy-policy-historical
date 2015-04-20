@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205182858id_/http%3A//www.thinkgeek.com/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420203153id_/http%3A//www.thinkgeek.com/help/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy & Security | ThinkGeek
 
 ### Privacy Policy
 
-We at Geeknet, Inc. (“Geeknet,” “we,” “our,” “us,” the “Company”), which includes our wholly-owned subsidiary ThinkGeek, Inc. (“ThinkGeek”), are committed to respecting your privacy and the security of your personal information.
+We at Geeknet, Inc. (“Geeknet,” “we,” “our,” “us,” the “Company”), including our two wholly-owned subsidiaries of ThinkGeek, Inc. (“ThinkGeek”) and ThinkGeek Solutions, Inc., are committed to respecting your privacy and the security of your personal information.
 
-By visiting or using the ThinkGeek.com, Geek.net and/or Geeknet.com sites or any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing (collectively, the “Sites”), you hereby acknowledge and consent to the terms of this Privacy Policy and the [Terms of Use](https://web.archive.org/help/terms-of-use.shtml), of which this Privacy Policy is a part. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [legal@ThinkGeek.com](mailto:legal@thinkgeek.com).
+By visiting or using the ThinkGeek.com, Geek.net or any other site that is owned or operated by us (each, a "Site," and collectively, the "Sites") or any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing, you hereby acknowledge and consent to the terms of this Privacy Policy and the [Terms of Use](https://web.archive.org/help/terms-of-use.shtml), of which this Privacy Policy is a part. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [legal@ThinkGeek.com](mailto:legal@thinkgeek.com).
 
 As you use our Sites, we want you to be clear on how we care about how your personal information is used and shared, as well as the ways in which you can protect your privacy. Our Privacy Policy explains:
 
@@ -40,8 +40,6 @@ Our Privacy Policy may change from time to time. We will post any changes on the
       * **Social Media Features.** Our Sites include social media features, such as the Facebook “Like” button and widgets, the “share this” widget, or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy statement of the company providing it.
 
       * **Cookies.** We automatically collect aggregate anonymous information through cookies. Cookies are small text files stored by your Web browser on your computer, phone, tablet, or other device used to browse our Sites. Cookies allow us to identify and authenticate visitors, track aggregate behavior, and enable important site features. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. The persistent cookie maintains your login information so that your cart and login remain available when you return to the site. Session cookies are used to maintain your shopping state as you browse through the site. YouTube uses cookies to help maintain the integrity of video statistics, prevent fraud and to improve the site experience, among other things. We also contract with analytics services and third-party advertising companies to collect similar information for specific purposes. The use of cookies by our partners is not covered by this Policy. Though you may disable cookies through your web browser, doing so may prevent you from taking advantage of some of the Sites’ features. To opt out of these collection services, please see section **“Your Choices”** below.
-
-The use of cookies by our partners is not covered by this Policy. We do not have access or control over these cookies. To opt out of the services related to these cookies, please see section “Your Choices” below.
 
 We sometimes embed videos from YouTube channels using YouTube’s share/embed code feature. YouTube uses Flash cookies, which store pieces of data on users’ computers related to playing Adobe Flash video. Various browsers may offer their own management tools for removing HTML5 LSOs. [Follow this link](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) to manage Flash cookies.
 
@@ -135,7 +133,7 @@ We work hard to protect us and our users from unauthorized access to or unauthor
 
     * We restrict access to personally identifiable information to our employees, contractors and agents on a need-to-know basis and who are bound by confidentiality agreements; and
 
-    * We have been awarded TRUSTe’s Privacy Seal signifying that this policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program](http://www.truste.com/privacy-program-requirements/) requirements including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers only information that is collected through these sites: www.geeknet.com, www.geek.net, and www.thinkgeek.com; and
+    * We have been awarded TRUSTe’s Privacy Seal signifying that this policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program](http://www.truste.com/privacy-program-requirements/) requirements including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers only information that is collected through the Sites; and
 
     * We comply with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. [Follow this link](http://www.export.gov/safeharbor/) to learn more about the Safe Harbor program and to view our certification.
 
@@ -151,7 +149,7 @@ We offer you choices about the information we collect, how we use and disclose t
 
     * **Targeted Advertising.** If you do not want anonymous information about your activity on our Sites to be used for tailored advertising, please visit the [opt-out](http://www.networkadvertising.org/choices/) page hosted by the Network Advertising Initiative and follow the instructions there.
 
-    * **Cookies.** You may disable cookies in your Web browser, but doing so will impact the usability of the Sites.
+    * **Cookies.** You may disable cookies in your Web browser, but doing so will impact the usability of the Sites. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](http://dtmc.thinkgeek.com/adinfo/choice/prod/?type=fpc&cid=2859&cname=ThinkGeek&cmagic=a226e4&clogo=thinkgeek_logo.jpg).
 
     * **Analytics.** You may opt-out of Google Analytics by [following this link](https://tools.google.com/dlpage/gaoptout). You may opt-out of Adobe analytics by [following this link](http://www.adobe.com/privacy/analytics.html#optout).
 
@@ -161,7 +159,7 @@ We offer you choices about the information we collect, how we use and disclose t
 
   7. #### Frames
 
-Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to geeknet.com, geek.net or thinkgeek.com.
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our Site. Please be aware that you are providing your personal information to these third parties and not to one of our Sites.
 
   8. #### Questions or concerns
 
@@ -172,7 +170,7 @@ If contacting us does not resolve your complaint, you may raise your complaint w
 
 
 
-_Last Modified: July 22, 2014_
+_Last Modified: February 6, 2015_
 
 ### Security
 
