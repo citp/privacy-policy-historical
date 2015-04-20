@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110610id_/http%3A//www.hitched.co.uk/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420072951id_/http%3A//www.hitched.co.uk/general/privacy.aspx) for the most accurate reproduction.*
 
 # hitched.co.uk - privacy policy
 
@@ -65,12 +65,12 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ### Choice / opt out 
 
-You can send an email to [admin@hitched.co.uk](mailto:admin@hitched.co.uk) to unsubscribe from the hitched.co.uk site or any membership or subscription within it.
+You can send an email to [customer.service@hitched.email](mailto:customer.service@hitched.email) to unsubscribe from the hitched.co.uk site or any membership or subscription within it.
 
 ### Data quality / access
 
-This site gives users the following options for changing and modifying information previously provided. To make any changes please contact: [admin@hitched.co.uk ](mailto:admin@hitched.co.uk)
+This site gives users the following options for changing and modifying information previously provided. To make any changes please contact: [customer.service@hitched.email ](mailto:customer.service@hitched.email)
 
 ### Contacting hitched.co.uk
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [feedback@hitched.co.uk](mailto:feedback@hitched.co.uk) or call us on 0800 206 1700. Our policy is to endeavour to answer any questions within 3 working days. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [feedback@hitched.email](mailto:feedback@hitched.email) or call us on 0800 206 1700. Our policy is to endeavour to answer any questions within 3 working days. 
