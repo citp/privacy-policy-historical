@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the scholarshipzone.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927122018id_/http%3A//scholarshipzone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipzone.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420131101id_/http%3A//scholarshipzone.com/privacy) for the most accurate reproduction.*
 
 # Scholarship Zone Privacy Statement
 
 ### Privacy & Security Policy:
 
-scholarshipzone.com ("the site") respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by registering and using this site, you are agreeing and accepting this policy.
+scholarshipzone.com ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by registering and using this site, you are agreeing and accepting this policy.
 
-scholarshipzone.com (“ScholarshipZone”) is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through our mobile applications. The TRUSTe program covers only information that is collected through this website, [scholarshipzone.com](http://scholarshipzone.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [Info@scholarshipzone.com](mailto:info@scholarshipzone.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Free College Scholarships, LLC. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+
+The TRUSTe program does not cover information that may be collected through our mobile applications. The TRUSTe program covers only information that is collected through this website, scholarshipzone.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 [](https://privacy.truste.com/privacy-seal/Vinyl-Interactive,-LLC-/validation?rid=9151bf8c-1bb0-4306-a858-222e74658688 "TRUSTe online privacy certification")
 
@@ -31,11 +33,13 @@ scholarshipzone.com may also share your information with its service providers s
 
 scholarshipzone.com may occasionally license, share, or otherwise disclose data we collected to third parties. scholarshipzone.com does not have control over such party's information handling practices and is not responsible for any failure of such party to adhere to this Policy. As a condition of registration, you must agree that we are allowed to share your information with such entities, or else you may not register.
 
+We will share your personal information with third parties only in the ways that are described in this privacy policy. 
+
 Additionally, scholarshipzone.com may disclose your information if required to do so by law or in the good faith belief that such action is necessary to: (a) comply with the applicable laws; (b) protect and defend the rights and/or property of scholarshipzone.com and its family of websites; and (c) comply with the valid legal process.
 
 ### Customer Testimonials/Comments/Reviews:
 
-We post customer testimonials/comments/reviews on our website which may contain personally information. We do obtain the customer's consent with a signed release of liability or via email or phone prior to posting their name with the testimonial/comment/review.
+We post customer testimonials/comments/reviews on our website which may contain personal information. We do obtain the customer's consent with a signed release of liability or via email or phone prior to posting their name with the testimonial/comment/review. If you wish to update your testimonial, you can contact us at a.
 
 ### Framing:
 
@@ -45,31 +49,31 @@ On some of our sites we have special offers with our partners where another thir
 
 If you click on a link to a third party site, including on an advertisement, you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as scholarshipzone.com. We encourage you to review the privacy policies of any other service provider from whom you request services.
 
-### Cookies and Web Beacons:
+### Cookies and Tracking Technologies:
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We have the ability to link the information we store in cookies to any personal information you submit while on our site.
+Technologies such as: cookies, beacons, tags and scripts are used by Free College Scholarships,LLC and our marketing partners, affiliates, analytics or service providers for data verification. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. These cookies are in place to ensure a consistent user experience as we keep your registration information and display this within the form. We also use these cookies to correctly attribute our data to the appropriate the traffic sources. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. You can find more information on cookies here: [More Info](https://en.wikipedia.org/wiki/HTTP_cookie#Persistent_cookie). If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
-
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. We do not tie the information gathered by these web beacons to our customers’ personal information.
+We use cookies to remember users’ settings (e.g. your prior registration information, schools you requested information from), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 ### Widgets:
 
 Our website includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying loan information, the news, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
+### Blog:
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [Info@scholarshipzone.com](mailto:info@scholarshipzone.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
 ### Registry Compliance:
 
 By submitting your personal and/or financial information on our site, you are hereby granting written permission to us, our affiliated sites, sponsors, etc. for contact information. You are also consenting to receive phone calls from scholarshipzone.com, our affiliates, and our partners for contact via telephone, and thereby, you waive your right to file a claim with the FTC or any other agency in regards to these contacts or calls.
 
-### Third Party Cookies:
+### LSOs
 
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personal information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices/>.
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML to collect and store information.
 
-### Flash LSOs
+### Behavioral Targeting
 
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
-
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [More Info](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://web.archive.org/unsubscribe). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ### Security:
 
@@ -109,9 +113,9 @@ We will retain your information for as long as your account is active or as need
 
 ### Change in Policy:
 
-We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site.
+We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site prior to the change becoming effective.
 
-Effective July 25, 2013
+Effective: January 5th, 2015
 
 ### Contact Information
 
