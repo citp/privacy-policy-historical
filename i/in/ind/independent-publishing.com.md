@@ -1,56 +1,56 @@
-> *The following text is extracted and transformed from the independent-publishing.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223163823id_/http%3A//www.independent-publishing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent-publishing.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420063022id_/http%3A//www.independent-publishing.com/privacy) for the most accurate reproduction.*
 
 # Independent Publishing
 
-The protection of your personal data is an important issue and we would therefore like to take this opportunity to inform you about our privacy policy.
+Protecting personal data is an important matter for Independent Publishing and we would therefore like to take this opportunity to inform you about our privacy policy.
 
-The collection, management and use of your personal data abide by the data protection laws of the Federal Republic of Germany and the Telemedia Act.
+Data protection laws of the Federal Republic of Germany and the German Telemedia Act regulate the collection, management and use of personal data.
 
 ## Responsible Agency
 
-For further information regarding our privacy policy, please don't hesitate to contact us.
+For further information regarding our privacy policy, please do not hesitate to contact our privacy officer at the address set out below.
 
 Independent Publishing  
-Data Protection Officer: Johannes Lenz  
-Hohe Bleichen 21   
+Data Protection Officer: Christoph Gaschler  
+Drehbahn 7   
 20354 Hamburg
 
 Email: privacy@independent-publishing.com 
 
 ## Data Collection 
 
-Your personal data will be stored, processed and used only with your expressed consent. Registration with our website constitutes consent.
+Your personal data will be stored, processed and used only with your express consent. Your registration on our website constitutes your consent to such collection and processing of data.
 
-Each time you access the website as an author or client, technical information such as your computer’s IP address, internet browser, operating system and the queried domain, as well as the time and date of the connection, will be automatically registered and recorded. These data may be used for statistical purposes, but will in no way be associated with your personal details. 
+Each time you access the website as an author or a customer, some technical information such as your computer's IP address, your internet browser, your operating system and the query domain name, as well as the time and date of connection, will be automatically registered and recorded. This information may be used for statistical purposes, but it will not be associated with your personal details in any way. 
 
 ## Data Usage
 
-We will use your personal data, should you provide it, solely for purposes of electronic communication, unwinding a terminated contract, processing orders and for other internal administrative activities. 
+We will use your personal data, should you provide it, solely for purposes of electronic communication, unwinding a terminated contract, processing orders, and other internal administrative activities. 
 
-Only with your permission will we send you newsletters or questionnaires. 
+We do not send newsletters or questionnaires to our users without their permission. 
 
 ## Data Transfers to Third Parties 
 
-Your personal data are for internal use only and will not be communicated to third parties without your explicit permission. We adhere to the strictest possible safety standards as part of our efforts to protect your data and make it inaccessible to third parties. However, complete security cannot generally be guaranteed when communicating via basic email.
+Your personal data is collected for internal use only and will not be transferred to third parties without your consent. We apply the highest possible security standards as part of our efforts to protect your data and make it inaccessible to third parties. However, complete security cannot generally be guaranteed when communicating via basic email.
 
-We nonetheless reserve the right to share your data if required to do so by law (e.g. in response to a duly authorized request for information by police or governmental authorities). 
+We nonetheless reserve the right to share your data if required to do so by law (e.g. in response to duly authorized information requests of police and governmental authorities). 
 
 ## Modification and deletion of data 
 
-It is your right at all times to obtain information relative to personal data which we have collected from you, specifically their origin, destination and the purpose behind their storage. Needless to say, you are free to withdraw your consent to the storage of personal data at any time. Any stored personal data will be immediately deleted in such cases. 
+You have the absolute right to obtain information about the data that is held about you, specifically the origin, destination and the purpose behind the storage of your personal details. Needless to say, you are free to withdraw your consent to the storage of personal data at any time. In such cases, any stored personal data will be immediately deleted. 
 
 ## Use of Cookies
 
-Independent Publishing uses cookies in order to optimize the usability of the website. Cookies are small text files that are stored on the hard drive of your computer and allow you to use our webpages faster and more efficiently. Cookies eliminate the inconvenience of entering your data each time you log into the website. Our cookies do not contain personal data, nor can they interfere with a user's system or cause damage to their computer. 
+Independent Publishing uses cookies in order to optimize the usability of the website. Cookies are small text files that are stored on the computer's hard drive and allow you to use our web pages faster and more efficiently. Cookies spare users from manually entering their data each time they log into the website. Our cookies do not contain personal data, nor can they interfere with a user's system or cause damage to their computer. 
 
-In our system, we mostly use “session cookies,” which are deleted immediately after the user leaves our site. Session cookies are not stored on the user’s hard drive. 
+Most of the cookies we use are “session cookies,” which are deleted immediately after the user leaves our site. Session cookies are not stored on the user's hard drive. 
 
 ## Google Analytics 
 
-This website uses Google Analytics, a web analysis service provided by Google Inc. (“Google”). Google Analytics uses cookies, which are stored on your computer and used to analyze your use of the website. The information generated by the cookie about your use of this website (including your IP address) is sent to a Google server in the United States and stored there. Google uses this information to evaluate your use of the website, compile reports on website activity for website operators and provide other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law or where third parties process this information on Google's behalf. Google will under no circumstances bring your IP address into contact with other Google data. 
+This website uses Google Analytics, a web analytic service provided by Google Inc. (“Google”). Google Analytics uses cookies, which are placed on your computer and used to analyse how users interact with our website. The information generated by the cookie about your use of the website (including your IP address) is transmitted to a Google server in the United States and stored there. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will under no circumstances associate your IP address with any other data held by Google. 
 
-By using this web site, you express your consent to the processing of data collected about you by Google in the aforementioned manner and for the purposes detailed above.
+By using this web site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
 ##  Changes to the Privacy Policy 
 
-Independent Publishing may change this privacy policy at any time. In the event of a change, we will inform you via email or public notice on our website.
+Independent Publishing may change this privacy policy at any time. In the event of substantial changes, we will notify our users by email or by means of a public notice on our website.
