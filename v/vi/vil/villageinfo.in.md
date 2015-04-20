@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villageinfo.in privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217124852id_/http%3A//villageinfo.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villageinfo.in privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420204541id_/https%3A//villageinfo.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Villageinfo.in
 
@@ -28,4 +28,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 By using this website, you agree that you abide by the terms and policies stated above.
 
-[Return to Villageinfo.in](http://villageinfo.in/)
+[Return to Villageinfo.in](https://villageinfo.in/)
