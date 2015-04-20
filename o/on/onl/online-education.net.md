@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808065116id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421010444id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
 
 # Online-Education.net Privacy Policy
 
@@ -8,7 +8,7 @@
 
 ******PRIVACY POLICY**
 
-**LAST UPDATED:   **December 10, 2013
+**LAST UPDATED:  ** December 10, 2013
 
 **QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
 
@@ -110,7 +110,7 @@ Your “ **IP Address** ” is a number that is automatically assigned to the co
 
 An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. 
 
-**How We Use and Disclose IP Addresses?   **
+**How We Use and Disclose IP Addresses?  **
 
 We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site.  We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information.  Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law. 
 
@@ -136,7 +136,7 @@ The security of your personal information is important to us.  When you enter s
 
 **CHOICES AND ACCESS**
 
-**Your choices regarding our use and disclosure of your Personal Information   **
+**Your choices regarding our use and disclosure of your Personal Information  **
 
 We give you choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from:
 
