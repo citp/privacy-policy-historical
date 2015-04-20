@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photodune.net privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203144500id_/http%3A//photodune.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodune.net privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420192632id_/http%3A//photodune.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhotoDune
 
@@ -64,7 +64,7 @@ Please note that when you voluntarily disclose information on the bulletin board
 
 We collect information from people who use the Membership Section of our Site (“Members”). This information may be used:
 
-  1. to send news, information about our activities and general promotional material which we believe may be useful to you or us;
+  1. to send news, information about our activities and general promotional material which we believe may be useful to you or us; 
   2. to monitor who is accessing the membership section of the Site or using services offered on the Site; and
   3. to profile the type of people accessing the Site.
 
@@ -78,12 +78,12 @@ If you use a payment facilitator on the Site, we collect additional necessary in
 
 Envato will only use the information it collects through the Site for the following purposes:
 
-  * Forwarding important information relating to Envato activities and other requested information;
-  * Contacting you in response to your feedback or query to discuss our services;
-  * Monitoring Site performance;
-  * Improving our Site and services to you;
-  * Internal administration; and
-  * Other purposes that are in accordance with your instructions.
+  1. Forwarding important information relating to Envato activities and other requested information;
+  2. Contacting you in response to your feedback or query to discuss our services;
+  3. Monitoring Site performance;
+  4. Improving our Site and services to you;
+  5. Internal administration; and
+  6. Other purposes that are in accordance with your instructions.
 
 
 
@@ -130,8 +130,8 @@ To protect you from unwanted email communications, Envato adopts an opt-out faci
 
 If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
 
-  1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;
-  2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or
+  1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure; 
+  2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or 
   3. we are required by law to disclose the information.
 
 
