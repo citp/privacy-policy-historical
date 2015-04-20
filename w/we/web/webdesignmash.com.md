@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the webdesignmash.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114133022id_/http%3A//www.webdesignmash.com/privacy-policy-and-user-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignmash.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420042113id_/http%3A//www.webdesignmash.com/privacy-policy-and-user-agreement) for the most accurate reproduction.*
 
 # Privacy Policy | Web Design Mash
 
 This User Agreement and Privacy Policy governs each website, mobile site,  and/or other service associated with Web Design Mash (by any domain, including webdesignmash.com, designblend.co.uk, or any related domain, hereafter referred to as Web Design Mash) regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by (“we,” “us,” or “our”) that links to this agreement, which is binding on each person or entity which accesses or uses this website or collective or websites , whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content manually or by an automated process or otherwise (collectively, “you” or “your”).
 
-**Your Privacy**  
+ **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**Google Adsense and the DoubleClick DART Cookie**  
+ **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third-party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
@@ -22,15 +22,15 @@ We use both session ID cookies and persistent cookies. A session cookie expires 
 
 We have no access to or administration abilities over any cookies that are used by any advertisers on our site.
 
-**Our Commitment To Children’s Privacy**  
+ **Our Commitment To Children’s Privacy**  
 Protecting the privacy of the very young is especially important. For that reason, Web Design Mash will never collect or maintain information at our website from those we actually know are under 18.  
 Children under 18 are not allowed to access our service without the knowledge and permission of their parents.
 
-**Collection of Personal Information**  
+ **Collection of Personal Information**  
 When visiting Web Design Mash, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information. This information is collected by Google Analytics.
 
-**Links to third-party Websites**  
+ **Links to third-party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. This includes log-in and social media integration with Facebook, Twitter, etc.
 
-**Changes to this Privacy Statement**  
+ **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
