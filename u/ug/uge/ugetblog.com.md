@@ -1,100 +1,116 @@
-> *The following text is extracted and transformed from the ugetblog.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugetblog.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420233658id_/http%3A//www.nextlevelestates.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy | Marbella Luxury Modern Homes - Real Estate Agency
 
-**Go Daddy Respects Your Privacy**
+Thanks for visiting Next Level Estates website (the “Site”). This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the Site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information from that point forward without retroactive basis. You are encouraged to review the privacy policy whenever you visit the Site to make sure you understand how we will use any personal information you provide.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Note: regarding the privacy practices described below in this privacy policy are for this site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**Data Collection**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+In compliance with Law 34/2002, of July 11, of Services of the Information Society and Electronic Commerce, we inform you that Next Level Estates, residing in Av. Ricardo Soriano 47 – Marbella 29601, Spain, owns this website.
 
-**Information Collection and Use**
+In accordance with the provisions of Organic Law 15/1999, of Protection of Personal Data, if you send us an email to the address specified therein, or complete a data collection form, we inform that the personal data you provide to us will be recorded in the file for which Next Level Estates is responsible for, in order to manage your inquiry, maintain a commercial relationship and to send by any means, including by email or other means of electronic communication advertising or promotional information on products or services of the company.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+You may object to the processing of your data for advertising purposes and exercise the rights of access, rectification, cancellation and opposition in accordance with current legislation, by writing to the following address: Av. Ricardo Soriano 47 – Marbella 29601, Spain, or the contact form found on our website.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Next Level Estates declares to have adopted all necessary and appropriate security measures to the provisions of the Royal Decree 1720/2007, of December 21, which approves the Regulations of development of the LOPD and has established all the technical means to its disposal intended to prevent the loss, misuse, alteration, unauthorized access and theft of data you provide
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+For your safety and protection, your personal information is not stored on our servers. Our email marketing provider, (getresponse.com), keeps this information encrypted and secure on your behalf.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Which information is collected?
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+• We collect information from you when you register on our site.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+• When registering on our site, as appropriate, you may be asked to enter your name and email address and other personal data.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+• We may request information regarding specific activities or pages of this website.
 
-**Security**
+• In all cases, it is your voluntary decision to provide the requested information, and may refuse to do so. Failure to provide the information requested will make you not able to participate in all activities related to this site.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Any external site operator is responsible for the collection of such an operator, and the use and protection of your information.  
+Additionally, third parties may collect certain personal information from you and share some of that personal information with us. Additional information will be provided regarding the privacy practices of the companies that collect the data, including how to waive for these companies to use your personal information for purposes unrelated to the services you have requested. Users can find these options on the websites of relevant external operators. These companies and not Next Level Estates are responsible for the collection and use of your information by these companies.
 
-**Updating Your Information**
+Access to some services may also require that you use a username and password, set by you. Additional information about you may be disclosed in any communication that you post on message boards or reviews, which are publicly available to others. We are not responsible for any statement that you or a third party posts on the message boards or reviews.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We may collect personal information as required or permitted by law or with your consent. You may withdraw your consent at any time in the case of reasonable notice, subject to contractual and legal restrictions, but if you do, we may not be able to supply any of our services. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Cookie / Tracking Technology**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+The Site may use “cookie” and tracking technology depending on the features offered. “Cookie” and tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technologies; however, if you previously provided personally identifiable information, cookies may be tied to such information. Added cookie information and tracking may be shared with third parties. You can reject “cookies” changing the preferences in your browser, but in doing so your experience on websites can degrade. This privacy policy does not cover the use of cookies by third parties.
 
-      iii.      You may call us at: (480) 505-8800
+**Widgets**
 
-       iv.      You may fax us at: (480) 505-8844
+You may have the option to download and install “widgets” on your desktop, allowed sites and / or mobile phone. The “widgets” are mini applications programmed to perform a specific function or task that can be run on your desktop or can be embedded on websites. For example, you may offer “widgets” that have accounts behind several releases. The “widgets” that we offer to be downloaded or installed by you may require you to enter personal information, depending on the function of the “widget”, and may be able to access or use personal information provided by you. The “widgets” can (i) check for updates automatically and transmit their information to their servers and / or engine (ii) send information entered on or accessible through the “widget” to your server and / or motor, which can be stored for a transitional period, and (iii) be visible to the public if it is embedded in web pages publicly available (such as social networking sites), depending on the policies of that site.
 
-**Sending Emails**
+**Use of Information**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+All information collected by Next Level Estates, as described above, is used to tailor our content and help our advertisers and partners understand the demographics of Next Level Estates members. These practices are essential for maintaining the Next Level Estates membership free. All personally identifiable information submitted in Next Level Estates remains your property, however, Next Level Estates has the right to use that information as set forth in this document. Without limitation, Next Level Estates may use your personal information, within and under state and federal law, for legal purposes: (a) market research approach, other opportunities and promotional offers to you via direct mail marketing, email marketing, telemarketing and / or online advertising, (b) to respond to offers and opportunities provided by Next Level Estates or when needed, (c) for validating the removal of content and improving the purpose of feedback, (d) the participation of its affiliates or its successors in the event of a merger, corporate reorganization, sale of assets, or similar transaction, (e) to comply with a subpoena, court order or legal request; (f) to protect our rights or of a third party if any suspected improper or illegal conduct has occurred,(g) sharing with suppliers and consultants who help us operate our business (for example, we may provide your email address to a third party email service we use). Next Level Estates uses the information you submit to offer free information and personalized content about products and services that may be of your interest.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We also use contact information obtained from our site to send information about the company (including subsidiaries), to keep you informed of products and services that may be of interest, and to notify you of changes to this policy or changes / improvements on the site itself. You further agree that we may contact you with updates and / or any other information deemed appropriate to receive in connection with your account and / or the site.We also use this information to customize your experience with Next Level Estates. None of the personal information collected will be sold or distributed to third parties for marketing purposes except on an aggregate basis to help our advertisers and partners to understand the demographic composition of the members of Next Level Estates or if required by law. We can identify and add information about your use of our website. Once all the information that identifies you is removed, the information is anonymous, we may use or share aggregated information without restriction.
 
-**Compliance with Laws and Law Enforcement**
+We may use your personal information to contact you in relation to this website, purchases, disputes, payments or questions submitted by you. Any customer data or personal information submitted to us, or our external service providers or marketing partners and advertisers acting on our behalf, will not be sold, rented or shared with anyone else or for us, unless we notify you otherwise in advance, except in the following cases:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We may share your information except Customer Data with our third party service providers or marketing partners and advertisers, where they provide services that you have requested.  
+(2) We may share your information with our affiliates, employees, contractors, directors and agents.  
+(3) From time to time we may offer special promotions (such as a contest or a free subscription to goods and services) on the Website in association with an external service provider, sponsor or promotional partner. With your consent, we may share your information, except customer data with the external service provider, sponsor or promotional partner so that they can offer other special promotions.  
+(4) If any part of Next Level Estates is sold, your information or customer data can be part of the business assets we transfer. Your information or customer data may also be disclosed if Next Level Estates is considering or completes financing, asset securitization, underwriting, sale, assignment or other transfer of all or part of the company.  
+(5) We may disclose your information or customer data to comply with any subpoena or court or government order. We reserve the right to use, disclose and share information and customer data to investigate, prevent or take action regarding any potential fraud, illegal activity, circumstances that threaten the physical safety of any person, violations of this Privacy Policy Site or as otherwise required by law.
 
-**Third Party Service Providers**
+We may share aggregated demographic information with third parties. Such information does not contain any personal information that can identify a person individually. We may also use IP addresses for administrative and statistical purposes in order to improve understanding of how people use our Site and to gather demographic information for aggregate use. IP addresses are only associated with personally identifiable information when you need to verify the user’s location with respect to blackout restrictions for video / audio subscription products, as applicable.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**Third Party Links**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The Site may contain links to other web sites operated by third parties unrelated to us. When you click on these links, you will leave our Site. The privacy practices of third party web sites are not our responsibility.  
+Please read the privacy policies of any site that collects personally identifiable information from you. This Privacy Policy applies only to our Site.
 
-**Supplementation of Information**
+**Reviewing your Personal Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+You can check your preferences or correct your personal information by logging into your account at any time, if one is available. If you want to close your account and for us to delete the personal information in it (except information held for purposes of record keeping), please contact us at info@nextlevelestates.com
 
-**Contests/Surveys**
+**Commitment to Data Security**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Your personally identifiable information is kept safely. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to forgo future mailings.  
+However, we cannot guarantee that the information we have collected will never be accessed, disclosed, lost or destroyed in a manner that is inconsistent with this Privacy Policy.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**Children under 13 years of age**
 
-**Tell-A-Friend**
+The Site is not aimed or planned for children under 18 years of age. We do not knowingly collect information from individuals under the age of 13. If you are under 13 years of age, you should not register or provide personal information on the Site. If later we obtain actual knowledge that a user is under 18 years old, we will delete that user’s personal information from our systems. If you are the parent or guardian of a child who you believe has disclosed personal information, please contact us at  info@Next Level Estates so that we can delete and remove such child’s information from our systems.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+**Choice of Law**
 
-**What Happens to my Personal Information if I Opt Out?**
+Any dispute arising between you and Next Level Estates regarding this Privacy Policy will be governed by the laws of Spain, without regard to its conflicts of law provisions. You and Next Level Estates agree to submit to the personal and exclusive jurisdiction in courts located within Marbella, the province of Malaga, Spain. You hereby waive any dispute in which this court does not have jurisdiction over you or for such dispute or court not to be appropriate or convenient. Next Level Estates shall be entitled to recover its court costs and reasonable attorney fees if it successfully proves your violation of any terms of this Privacy Policy.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**California Online Privacy Protection Act Compliance**
 
-**Transfer of Data Abroad**
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+**Childrens Online Privacy Protection Act Compliance**
 
-**Changes in Our Practices**
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**CAN-SPAM Compliance**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-**Contacting Our Site**
+**Online Privacy Policy Only**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-* * *
+**Your Consent**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+By using our site, you consent to our privacy policy.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+**Next Level Estates**  
+Av. Ricardo Soriano 47  
+Marbella 29601 – Spain
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and / or update the Privacy Policy with the modification date below. Policy changes will apply only to information collected after the date of the change.
+
+This policy was last modified on Dec 1st, 2014.
