@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the historyofmassachusetts.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221100504id_/http%3A//historyofmassachusetts.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyofmassachusetts.org privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420073403id_/http%3A//historyofmassachusetts.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | History of Massachusetts
 
   
 Privacy Policy
 
-We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder History of Massachusetts http://historyofmassachusetts.org)
+We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder www.historyofmassachusetts.org)
 
 Routine Information Collection
 
@@ -21,11 +21,17 @@ Controlling Your Privacy
 
 Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
+Use of Personal Information
+
+We use personal information to allow us to process your service requests, send out newsletters, personalize your visit to our websites, personalize your use of our products, and enable us to improve the products and services we offer. We may occasionally carry out market research and send you details of services and offers that we think may be of interest to you. If you do not wish to receive such information, please e-mail historyofmassaachusetts@gmail.com, or, alternatively, when we send you an e-mail, it will contain a provision for you to opt out of receiving any further information from us.
+
 Special Note About Google Advertising
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
 About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+
+About Google Analytics: Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.historyofmassachusetts.org, to prepare reports on its activities and share them with other Google services. Google also uses advertising cookies to identify the age, gender and interests of visitors to www.historyofmassachusetts.org. Google may use the data collected to build reports and remarketing lists which will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Google and third-party vendors also use cookies to serve ads based on visitor’s past visits to www.historyofmassachusetts.org. To opt-out of the use of Google analytics cookies, you may install Google Analytics Opt-out Browser Add-on: <https://tools.google.com/dlpage/gaoptout/>.
 
 Contact Information
 
