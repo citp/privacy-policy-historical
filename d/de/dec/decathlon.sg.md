@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decathlon.sg privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125091829id_/http%3A//www.decathlon.sg/content/2_legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decathlon.sg privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420073242id_/http%3A//www.decathlon.sg/content/2_legal-notice) for the most accurate reproduction.*
 
 # Privacy Policy - Decathlon Singapore
 
@@ -6,7 +6,7 @@
 
  **Website**
 
-This website (the “ **Website** ”), and all personal information collected from users of this Website, are owned solely by Decathlon Online South East Asia Pte. Ltd. (Company Registration No.: 201225519M), a company incorporated in the Republic of Singapore and having its registered office at 31 Tanjong Pagar Road, #04-01, Singapore 088454 (“ **Decathlon** ”), with the email support-singapore@decathlon.com, contact number 6221-4739 and/or its associated companies (collectively, the “ **Oxylane Network** ”). 
+This website (the “ **Website** ”), and all personal information collected from users of this Website, are owned solely by Decathlon Online South East Asia Pte. Ltd. (Company Registration No.: 201225519M), a company incorporated in the Republic of Singapore and having its registered office at Decathlon Singapore Pte Ltd 58 Kim Yam Rd #01-01 Sg 239359 (“ **Decathlon** ”), with the email support-singapore@decathlon.com, contact number 6221-4739 and/or its associated companies (collectively, the “ **Oxylane Network** ”). 
 
 By visiting or using any of the pages available on the Website on which this Privacy Policy or a link to this Privacy Policy appears, you are deemed to agree to the terms of this Privacy Policy. Please review this Privacy Policy carefully prior to visiting or using any such pages or otherwise providing any personal data.
 
