@@ -1,67 +1,122 @@
-> *The following text is extracted and transformed from the youcaring.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629123726id_/http%3A//www.youcaring.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcaring.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420093648id_/http%3A//youcaring.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - YouCaring.com
+# Privacy Policy - YouCaring
 
-## WHAT INFORMATION DO WE COLLECT?
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the page, and in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. When registering on our site or using the YouCaring.com services you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. In some areas of YouCaring.com, we request or may request that you provide personal information, including your name, address, email address, telephone number credit card number, contact information, billing information and any other information from which your identity is discernable. In other areas, we collect or may collect demographic information that is not unique to you such as your ZIP code, age, preferences, gender, interests and favorites. Sometimes we collect or may collect a combination of the two types of information. You may, however, visit our site without creating an account, subject to the limited exceptions noted herein and within the YouCaring.com Terms of Service.
+  
 
-Our server automatically collects data about your server's Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that's automatically assigned to your computer by your Internet service provider whenever you're on the Internet. When you request pages from our web site, our servers may log your IP Address and sometimes your domain name. Your IP Address is used to help identify you and to gather demographic information about our customers as a whole, but does not include personally identifiable information. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on this web Site; the web site you visit after this web site; the ads you see and/or click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this web site or a referral site; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our web site. Such information may also be used to gather demographic information, such as country of origin and Internet Service Provider. We may link this information with your Personal Information.
 
-## WHAT DO WE USE YOUR INFORMATION FOR?
+### WHAT INFORMATION DO WE COLLECT?
+
+  
+
+
+#### INFORMATION YOU PROVIDE TO US DIRECTLY:
+
+We collect information from you when you register on our site, create or donate to a campaign, comment on a campaign, subscribe to our blog, fill out a form, download our widget, communicate with us via third party social media sites, apply for a job, request customer support, or otherwise communicate with us. The types of information we collect include your name, email address, mailing address, phone number, and any other information you choose to provide.
+
+  
+
+
+#### INFORMATION WE AUTOMATICALLY COLLECT:
+
+When you visit our site or use our services, our server automatically collects data about your server's Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that's automatically assigned to your computer by your Internet service provider whenever you're on the Internet. When you request pages from our web site, our servers may log your IP Address and sometimes your domain name. Your IP Address is used to help identify you and to gather demographic information about our customers as a whole, but does not include personally identifiable information. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on our web site; the web site you visit after our web site; the ads you see and/or click on; your computer’s operating system, browser type and language; access times; any search terms you have entered on this web site or a referral site; and other web usage activity and data logged by our web servers.
+
+  
+
+
+### WHAT DO WE USE YOUR INFORMATION FOR?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-a)to improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To provide, maintain, and improve our Services (we continually strive to improve our website offerings based on the information and feedback we receive from you);
+  * To respond to your comments, questions and requests, and provide and improve customer service (your information helps us to more effectively respond to your customer service requests and support needs);
+  * To provide and deliver the products and services you request, process transactions, and send you related information, including confirmations;
+  * To send periodic notices including technical notices, updates, security alerts, and support and administrative messages;
+  * To communicate with you about products, services, offers, and events offered by YouCaring and others, and provide news and information we think will be of interest to you;
+  * To monitor and analyze trends, usage and activities in connection with our Services;
+  * To personalize and improve the Services and provide content or features that match user profiles or interests;
+  * To link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * To carry out any other purpose for which the information was collected.
 
-b) to improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
-c)to process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-d)to send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+YouCaring is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
 
-## HOW DO WE PROTECT YOUR INFORMATION?
+  
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our third party payment providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
-## DO WE USE COOKIES?
+### NFORMATION COLLECTED BY COOKIES AND OTHER TRACKING TECHNOLOGIES
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+YouCaring uses various technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular, and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
-We use cookies to help us remember and process information associated with Fundraisers, Donors, and Visitors and understand and save your preferences for future visits.
+  
 
-## DO WE DISCLOSE ANY INFORMATION TO OUTSIDE PARTIES?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We disclose information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to:
+### HOW DO WE PROTECT YOUR INFORMATION?
 
-(a) conform to legal requirements or comply with legal process;
+We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
-(b) protect our rights or property or our affiliated companies;
+  
 
-(c) prevent a crime or protect national security; or
 
-(d) protect the personal safety of users or the public. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
+### SHARING OF INFORMATION
 
-## CHILDRENS ONLINE PRIVACY PROTECTION ACT COMPLIANCE
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-We make our best efforts to be in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not knowingly collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.
+  * With vendors, consultants and other service providers who assist us in operating our website, conducting our business, or providing Services to you, so long as those third parties agree to keep this information confidential;
+  * With third parties for their own services and marketing purposes, unless you opt out of this type of sharing;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of YouCaring or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+  * Between and among YouCaring and our subsidiaries and affiliated companies; and
+  * With your consent or at your direction.
 
-## ONLINE PRIVACY POLICY ONLY
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-## TERMS AND CONDITIONS
+### SOCIAL SHARING FEATURES
 
-Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.YouCaring.com](https://web.archive.org/terms-of-service)
+The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-## YOUR CONSENT
+  
 
-By using our site, you consent to this privacy policy.
 
-## CHANGES TO OUR PRIVACY POLICY
+### ADVERTISING AND ANALYTICS SERVICES PROVIDED BY OTHERS
 
-If we decide to change our privacy policy, we will post those changes on this page.
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by YouCaring and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices.
 
-## CONTACTING US
+We may also work with other websites or platforms (such as Facebook) to serve ads to you as part of a customized campaign, unless you notify us that you prefer not to have information about you used in this way. To opt out, please email us at [help@youcaring.com](mailto:help@youcaring.com).
 
-If there are any questions regarding this privacy policy you may contact us at [support@YouCaring.com](mailto:support@YouCaring.com)
+  
+
+
+### YOUR CHOICES
+
+  
+
+
+#### Account Information
+
+You may update, correct or delete information about you at any time by logging into your online account, emailing us at help@youcaring.com. If you wish to delete or deactivate your account, please email us at help@youcaring.com, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+
+  
+
+
+#### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. To delete or disable flash cookies please visit http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html for more information.] Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+  
+
+
+#### Promotional Communications
+
+You may opt out of receiving informational or promotional emails from YouCaring by following the instructions in those emails or by emailing us at help@youcaring.com. If you opt out, we may still send you non-promotional communications, such as those about your account or confirmations of donation transactions.
+
+  
+
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us at [help@youcaring.com](mailto:help@youcaring.com).
