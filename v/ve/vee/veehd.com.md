@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veehd.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713162649id_/http%3A//veehd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veehd.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421182347id_/http%3A//veehd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -134,7 +134,7 @@ If you have any questions about this summary, our Privacy Policy, or our informa
 
 [Log In](https://web.archive.org/login)
 
-[ _Register_](https://web.archive.org/register)
+[ _Register_](https://web.archive.org/register?from=side)
 
 to  bookmark  
 videos, make  friends,  
