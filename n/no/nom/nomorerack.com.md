@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomorerack.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230051525id_/http%3A//www.nomorerack.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorerack.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421024932id_/http%3A//www.nomorerack.com/info/privacy_policy) for the most accurate reproduction.*
 
 # nomorerack.com
 
