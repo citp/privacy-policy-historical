@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangbus.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224095014id_/http%3A//pp.bangbros.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangbus.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421022548id_/http%3A//pp.bangbros.com) for the most accurate reproduction.*
 
 # 
 
