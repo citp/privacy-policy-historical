@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerium.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130074328id_/http%3A//www.neriumsupport.com/downloads/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerium.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421174050id_/http%3A//www.neriumsupport.com/downloads/en-US/privacy.pdf) for the most accurate reproduction.*
 
 # United States Privacy Policy
 
