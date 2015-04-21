@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the morningnewsusa.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226204729id_/http%3A//www.morningnewsusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningnewsusa.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422000826id_/http%3A//www.morningnewsusa.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Morning News USA
+# Privacy Policy - Morning News USA
 
 PRIVACY POLICY
 
@@ -61,4 +61,4 @@ I. SOLE STATEMENT
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
 
-#### **Updated March 1, 2013**
+####  **Updated March 1, 2013**
