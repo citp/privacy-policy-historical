@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the pcoptimizerpro.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821032138id_/http%3A//www.pcoptimizerpro.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcoptimizerpro.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422000557id_/http%3A//www.pcoptimizerpro.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - PC Optimizer Pro
+# Privacy Policy- PC Optimizer Pro
 
+|   
 ---  
   
 This Privacy Policy is documented to inform the users of PC Optimizer Pro website regarding the manner in which PC Optimizer Pro  
