@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the grockit.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106120723id_/http%3A//grockit.com/blog/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grockit.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421081243id_/http%3A//grockit.com/blog/main/privacy-policy) for the most accurate reproduction.*
 
-# Grockit Privacy Policy | Grockit BlogGrockit Blog
+# Grockit Privacy Policy - Grockit
 
-**[](http://grockit.com/blog/)**
-
-March 11, 2000/[0 Comments](http://grockit.com/blog/main/privacy-policy#respond "Comment on Grockit Privacy Policy")/in [FAQ](http://grockit.com/blog/category/faq/) [Grockit Blog](http://grockit.com/blog/section/main/) /by [Ethan Sterling](http://grockit.com/blog/author/ethan/ "Posts by Ethan Sterling")
-
- **We collect personal and activity data, which may be linked.  
+**We collect personal and activity data, which may be linked.  
 **We use technologies like cookies (small files stored on your browser), web beacons, or unique device identifiers to identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
 
 We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Facebook.
@@ -73,7 +69,3 @@ Information we collect may be stored or processed on computers located in any co
 
 **You can review more privacy-related information.  
 **This privacy policy was last updated on March 11, 2014. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.
-
-Try Grockit **FREE for 3 Days**
-
-[ Contact Us ](http://grockit.com/blog/contact-us/)
