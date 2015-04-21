@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionstage.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209185809id_/http%3A//www.opinionstage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionstage.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421205858id_/http%3A//www.opinionstage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Opinion Stage
 
