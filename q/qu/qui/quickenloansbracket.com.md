@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the quickenloansbracket.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906075414id_/http%3A//www.quickenloans.com/about/legal/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickenloansbracket.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421182051id_/http%3A//www.quickenloans.com/about/legal/security-privacy) for the most accurate reproduction.*
 
 # Security and Privacy Statement | Quicken Loans
+
+Effective Date August 15, 2014
 
 ## OUR SECURITY & PRIVACY PLEDGE
 
 At Quicken Loans, we have dedicated ourselves to revolutionizing the home loan process and helping individuals use their home financing options as a tool to manage their financial lives. In that effort, we respect and protect the privacy of those who visit or use our website. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines.
 
-Quicken Loans does not share your personal information with outside companies for their promotional use.
+By using our website, you are consenting to the use of information and agreeing to these guidelines and the other Quicken Loans policies described on our website.
+
+Quicken Loans does not share your personal information with outside companies for their promotional use without your consent.
 
 Because of the financial nature of our business, our websites are not designed to appeal to children under the age of 13. Therefore, we don't knowingly attempt to solicit or receive any information from children.
 
 ## QUICKEN LOANS MEDIA ADVERTISING GUIDELINES
 
-At Quicken Loans we utilize a wide variety of media – both online and traditional outlets – to inform our clients of the many benefits of working with our company to achieve their home financing goals. Our aim is to reach as many Americans as possible to ensure they are aware of the financing trends that may impact their lives. To do this we advertise across several genres of programming, including sports, comedy, drama, talk, political and reality shows.
+At Quicken Loans, we want you to be comfortable and confident when using our website. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our website:
 
 We do not make our advertising decisions based on political affiliations or in support of, or against, any political or religious group. We firmly believe in the right of free speech, however, we also believe we have an obligation to ensure our advertising does not appear in content that is detrimental to our brand values. As one of our “ISMs” states, we “Do the Right Thing” when deciding where our advertising messages will appear. This means we will not advertise within programs that consistently exploit excessive or gratuitous violence or sexuality, which demean or denigrate any religion, race, sex or which are otherwise lacking in good taste.
 
@@ -65,13 +69,13 @@ We may also supply the information you provide, on a strictly confidential basis
 
   * **Contests, Sweepstakes, and Surveys:** From time to time, we may offer you the option to participate in contests, sweepstakes, or surveys. If you would like to participate, we may ask you for contact information, preferences or other information. This information may be used to conduct research, improve our offerings, or contact you regarding home financing or award prizes. Our contests or sweepstakes may have separate rules and we will identify how the information that you supply will be used in each case.
 
-  * **Mandatory and Optional Information:** We identify what information is required to fulfill your request. If you chose not to provide mandatory information, we will not be able to provide you the service you are requesting.
+  * **Mandatory and Optional Information:** We identify what information is required to fulfill your request. If you chose not to provide mandatory information, we will not be able to provide you the service you are requesting. As part of your use of our website, we may collect information that my include your name, address, social security number, the location and value of the property related to the requested loan products or services, financial information about your assets and income, financial accounts, insurance and other information. As part of this process, you consent to Quicken Loans obtaining a credit report and for us to use that information as described in this policy. We will also collect information about your activity on the Quicken Loans websites and use that information as described in this policy.
 
   * **E-mail Message Formatting:** When sending you Email we may use an image called a single-pixel GIF, that allows us to (1) format messages that best align with your computer's capabilities, and (2) determine whether you've opened an HTML Email. When you click on a link within an Email message, you will first pass through our server, and then are redirected onto the Internet. We use this data on an aggregate level to evaluate response rates to our Email messages and to determine which links are most useful to our client base.
 
   * **Within the Quicken Loans Family:** Within the Quicken Loans family, which includes our title company, Title Source, Inc., we may exchange customer information to fulfill your requests or to provide you with information about other products or services, if you have chosen to receive such communications.
 
-  * **Service Providers:** In some cases, we will employ or use service providers such as title companies, appraisers, consultants, temporary workers, third party software developers, to complete a business process or provide a service on our behalf. For example, we may use service providers to enhance our website technology, deliver products, or to send Emails. When we employ service providers, we may need to share your personally identifiable information. Service providers are strictly prohibited from using your personally identifiable information for purposes other than to act on our behalf.
+  * **Service Providers:** In some cases, we will employ or use service providers such as title companies, appraisers, consultants, and temporary workers, third party software developers, to complete a business process or provide a service on our behalf. For example, we may use service providers to enhance our website technology, deliver products, or to send Emails. When we employ service providers, we may need to share your personally identifiable information. Service providers are strictly prohibited from using your personally identifiable information for purposes other than to act on our behalf.
 
   * **Service Alerts and Critical Notices:** Although we respect and honor the privacy preferences you have expressed, we may need to contact you to inform you of specific changes that may impact your ability to use this service or for other critical non-marketing purposes, such as bug alerts. We may also contact you to respond to your specific requests, to clarify the order information you provided to us, or to notify you of upcoming subscription expiration dates.
 
@@ -92,7 +96,7 @@ We employ industry recognized security safeguards to help protect the personally
 
   * **Secure Socket Layer (SSL):** The Quicken Loans Web server supports the Secure Socket Layer (SSL) transaction protocol originally developed by Netscape and now largely accepted as an industry standard. The purpose of this encryption protocol is to keep confidential the information passed back and forth between a Web server and its users.
 
-  * **128-Bit Domestic Grade Strong Encryption:** Quicken Loans uses 128-Bit Domestic Grade Strong Encryption, the most powerful encryption commercially available for Internet products. (However, be aware that if you are using a 40-bit browser, your encryption level, while secure, is not the highest level available. United States and Canadian citizens can download free 128-bit browsers from [Mozilla](http://www.mozilla.org/), [Apple](http://www.apple.com/), or [Microsoft](http://www.microsoft.com/).
+  * **128-Bit Domestic Grade Strong Encryption:** Quicken Loans uses 128-Bit Domestic Grade Strong Encryption, a powerful encryption commercially available for Internet products. (However, be aware that if you are using a 40-bit browser, your encryption level, while secure, is not the highest level available. United States and Canadian citizens can download free 128-bit browsers from [Mozilla](http://www.mozilla.org/), [Apple](http://www.apple.com/), or [Microsoft](http://www.microsoft.com/).
 
 We work to protect personally identifiable information stored on the site's servers from unauthorized access using industry standard computer security products, such as firewalls, as well as carefully developed security procedures and practices. All employees must review and sign a written statement of these practices which include limiting access to sensitive information to only those employees who require the information and enforcing strict password protocols for all employees. In addition, a username, member ID name and password are required for you to use, view or change application or interview information. We use both internal and external resources to review the adequacy of our security measures on a regular basis.
 
@@ -105,7 +109,7 @@ Top of Page
 
 Here is how and why we use some common Web technologies to help manage our websites:
 
-  * **Cookies:** A "cookie" is a small piece of information that our website may provide to your browser while you are at our sites. The Quicken Loans website supplies your browser with cookies that contain a unique identifier used to better understand website usage in the aggregate and on an individual level so we know what areas of our site users prefer (e.g.,based on the number of visits to those areas). This is done through a tracking utility that allows us, for example, to reconstruct activity from a session or by a user, for troubleshooting and issue resolution purposes. Quicken Loans may also employ service providers to help us collect and understand our website usage data.
+  * **Cookies:** A "cookie" is a small piece of information that our website may provide to your browser while you are at our sites. The Quicken Loans website supplies your browser with cookies that contain a unique identifier used to better understand website usage in the aggregate and on an individual level so we know what areas of our site users prefer (e.g., based on the number of visits to those areas). This is done through a tracking utility that allows us, for example, to reconstruct activity from a session or by a user, for troubleshooting and issue resolution purposes. Quicken Loans may also employ service providers to help us collect and understand our website usage data.
 
 When periodic surveys are presented to website visitors, cookies are used to prevent issuing multiple invitations to the same individual.
 
@@ -121,6 +125,10 @@ If you wish to remove cookies provided by Quicken Loans, from your browser, you 
 
   * **Website Usage Data:** Our website tracks usage data, including, for example, your IP address, your browser type and version, which pages you view, which page, if any, linked you to our site, and which link, if any, you follow off of our site. We use this data in the aggregate and on an individual level to better understand website activity to improve our site offerings, to reconstruct activity from a session or by a user, for troubleshooting and issue resolution purposes. We may also use this data to provide you a more personalized website experience, assistance with technical support questions, and to send you special offers, product and service updates, or other promotional materials that are relevant and tailored to your interests. If you do not want to receive these offers or promotions, simply indicate your contact preferences during the registration process, within any future communications or by sending an Email to [optout@QuickenLoans.com](mailto:optout@quickenloans.com). You may also [click here](https://web.archive.org/about/legal/contact-options) to change your contact preferences. We do not share your information with outside companies for their promotional use. We do not track URLs that you type into your browser, nor do we track you across the Internet once you leave our site.
 
+  * **Social Media and Third-Party Website Security and Privacy Policies:** Quicken Loans currently has presence on social media to connect with and market to the public, Quicken Loans customers, and potential customers of the Quicken Loans’ family. Your activity on third-party websites is governed by the security and privacy policies of each third-party website. Users of third-party websites often share information with the general public, user community, and/or the third-party operating the third-party website, which may use this information in a variety of ways. Consequently, you should review the privacy policies of the third-party website before using it and ensure that you understand how this information may be used. You may be able to adjust privacy settings on your accounts on any third-party website or application to match your preferences. The information posted on or directed at Quicken Loans through social media is generally available to the public. To protect your privacy, do not include information you want to keep private or any other sensitive personal information in your social media activity, comments or responses. This information may be archived independently on, and retention of such information is governed by, the third-party website.
+
+  * **Browser “Do Not Track” and Other Settings:** You may be using an Internet browser that has the ability to communicate your privacy preferences to the website, including requests not to track your usage and browsing history. Currently, the Quicken Loans websites do not respond to any of these signals. Quicken Loans may track your activity on these websites and use that information as provided in this policy.
+
 
 
 
@@ -134,12 +142,14 @@ Top of Page
 
 ## WE PROVIDE YOU THE OPPORTUNITY TO UPDATE OR CORRECT YOUR PERSONALLY IDENTIFIABLE INFORMATION.
 
-We provide you the opportunity to update or correct the contact and loan application information that you have provided to us. You may review and update information stored in your application online until you submit your application. Once you have submitted your application, you may only change the information by directly contacting our mortgage hotline at (888) 565-2488 or Emailing us at [changeinfo@QuickenLoans.com](mailto:changeinfo@QuickenLoans.com).
+We provide you the opportunity to update or correct the contact and loan application information that you have provided to us. You may review and update information stored in your application online until you submit your application. Once you have submitted your application, you may only change the information by directly contacting our mortgage hotline at (888) 565-2488 or emailing us at [changeinfo@QuickenLoans.com](mailto:changeinfo@QuickenLoans.com).
+
+Quicken Loans recommends that you do not use email communications to send us sensitive personal information. If you need to change that personal information, we recommend that you call us directly.
 
 Top of Page
 
 ## WE PROVIDE VARIOUS WAYS FOR YOU TO CONTACT US ABOUT OUR INFORMATION PRACTICES AND OTHER ASPECTS OF PRIVACY.
 
-Questions regarding the Quicken Loans website's privacy statement, our online privacy policy, our information practices or other aspects of privacy on our websites, should be directed to us by Email to [support@QuickenLoans.com](mailto:support@QuickenLoans.com) or by writing to us at Quicken Loans, Inc, Attn: Client Relations, 1050 Woodward Avenue Detroit, MI 48226. You may call our mortgage hotline at (888) 565-2488.
+Questions regarding the Quicken Loans website's privacy statement, our online privacy policy, our information practices or other aspects of privacy on our websites, should be directed to us by Email to [support@QuickenLoans.com](mailto:support@QuickenLoans.com) or by writing to us at Quicken Loans, Inc., Attn: Client Relations, 1050 Woodward Avenue Detroit, MI 48226. You may call our mortgage hotline at (888) 565-2488.
 
 Top of Page
