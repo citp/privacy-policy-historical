@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714193656id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421130402id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # The Warlocks Den - Privacy Statement
 
@@ -18,16 +18,16 @@ Please Register to Remove these Ads
 Latest Posts | Latest Forum News  
 | Thread |   |  Date, Time |  Posted By  
 ---|---|---|---  
- [Warlords of Draenor - Warlock...](http://wowmb.net/forums/f9/43548-warlords_draenor_warlock_changes/) | [ ▼](http://wowmb.net/forums/f9/43548-warlords_draenor_warlock_changes/) |  27-06, 01:21 |  [Jaedan](http://wowmb.net/forums/members/jaedan/)  
- [Your Transmogrification](http://wowmb.net/forums/f22/42411-your_transmogrification/) | [ ▼](http://wowmb.net/forums/f22/42411-your_transmogrification/) |  22-06, 13:24 |  [Alyrienne](http://wowmb.net/forums/members/alyrienne/)  
+ [Your Transmogrification](http://wowmb.net/forums/f22/42411-your_transmogrification/) | [ ▼](http://wowmb.net/forums/f22/42411-your_transmogrification/) |  26-02, 17:51 |  [Alyrienne](http://wowmb.net/forums/members/alyrienne/)  
+ [Warlords of Draenor - Warlock...](http://wowmb.net/forums/f9/43548-warlords_draenor_warlock_changes/) | [ ▼](http://wowmb.net/forums/f9/43548-warlords_draenor_warlock_changes/) |  21-12, 07:06 |  [Garregish](http://wowmb.net/forums/members/garregish/)  
+ [[Unofficial] Felguard &...](http://wowmb.net/forums/f22/43546-unofficial_felguard_wrathguard_transmog_thread/) | [ ▼](http://wowmb.net/forums/f22/43546-unofficial_felguard_wrathguard_transmog_thread/) |  18-12, 13:50 |  [Alyrienne](http://wowmb.net/forums/members/alyrienne/)  
+ [Warlords of Draenor](http://wowmb.net/forums/f8/43550-warlords_draenor/) | [ ▼](http://wowmb.net/forums/f8/43550-warlords_draenor/) |  14-11, 14:12 |  [Kalium](http://wowmb.net/forums/members/kalium/)  
+ [Goodbye and have fun!](http://wowmb.net/forums/f8/43520-goodbye_have_fun/) | [ ▼](http://wowmb.net/forums/f8/43520-goodbye_have_fun/) |  04-11, 19:45 |  [Falcrist](http://wowmb.net/forums/members/falcrist/)  
+ [Show off your UI - Thread #4...](http://wowmb.net/forums/f23/40881-show_off_your_ui_thread_4_cataclysm/) | [ ▼](http://wowmb.net/forums/f23/40881-show_off_your_ui_thread_4_cataclysm/) |  26-10, 14:45 |  [Movster](http://wowmb.net/forums/members/movster/)  
  [Need Massive Help lol :P](http://wowmb.net/forums/f8/43547-need_massive_help_lol_p/) | [ ▼](http://wowmb.net/forums/f8/43547-need_massive_help_lol_p/) |  21-02, 06:18 |  [Olorrin](http://wowmb.net/forums/members/olorrin/)  
  [Demon Lock - DPS PVE](http://wowmb.net/forums/f8/43539-demon_lock_dps_pve/) | [ ▼](http://wowmb.net/forums/f8/43539-demon_lock_dps_pve/) |  04-02, 04:30 |  [Kasha](http://wowmb.net/forums/members/kasha/)  
- [[Unofficial] Felguard &...](http://wowmb.net/forums/f22/43546-unofficial_felguard_wrathguard_transmog_thread/) | [ ▼](http://wowmb.net/forums/f22/43546-unofficial_felguard_wrathguard_transmog_thread/) |  19-01, 20:36 |  [Alyrienne](http://wowmb.net/forums/members/alyrienne/)  
  [This isn't my Warlock anymore...](http://wowmb.net/forums/f8/43514-isnt_my_warlock_anymore/) | [ ▼](http://wowmb.net/forums/f8/43514-isnt_my_warlock_anymore/) |  17-01, 13:28 |  [Kalium](http://wowmb.net/forums/members/kalium/)  
- [Goodbye and have fun!](http://wowmb.net/forums/f8/43520-goodbye_have_fun/) | [ ▼](http://wowmb.net/forums/f8/43520-goodbye_have_fun/) |  05-01, 20:23 |  [Alyrienne](http://wowmb.net/forums/members/alyrienne/)  
- [Show off your UI - Thread #4...](http://wowmb.net/forums/f23/40881-show_off_your_ui_thread_4_cataclysm/) | [ ▼](http://wowmb.net/forums/f23/40881-show_off_your_ui_thread_4_cataclysm/) |  04-01, 17:27 |  [Alyrienne](http://wowmb.net/forums/members/alyrienne/)  
  [MOP intelect or mastery](http://wowmb.net/forums/f49/43545-mop_intelect_mastery/) | [ ▼](http://wowmb.net/forums/f49/43545-mop_intelect_mastery/) |  14-12, 02:55 |  [Kalerace](http://wowmb.net/forums/members/kalerace/)  
- [Level 100 Talents](http://wowmb.net/forums/f9/43543-level_100_talents/) | [ ▼](http://wowmb.net/forums/f9/43543-level_100_talents/) |  15-11, 18:48 |  [Jaedan](http://wowmb.net/forums/members/jaedan/)  
 |  [5.2 and Warlocks](http://wowmb.net/forums/f71/43516-5_2_warlocks/) |  05-03  
 ---|---  
  [Shape up or ship out!](http://wowmb.net/forums/f71/43499-shape_up_ship_out/) |  15-01  
