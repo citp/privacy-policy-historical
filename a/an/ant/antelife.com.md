@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antelife.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703210727id_/http%3A//www.antelife.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antelife.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421045350id_/http%3A//www.antelife.com/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy - Wholesale Electronics on AntElife.com
 
@@ -47,7 +47,7 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 **OPT OUT/CORRECTIONS**
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to AntElife.com’s Customer Support department at service@antelife.com. Please do not email your credit card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to AntElife.com’s Customer Support department at serviceinantelife@gmail.com. Please do not email your credit card number or other sensitive information.
 
 **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
 
