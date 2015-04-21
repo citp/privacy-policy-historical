@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiertraderuniversity.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527113019id_/http%3A//www.premiertraderuniversity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiertraderuniversity.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421113757id_/http%3A//www.premiertraderuniversity.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - on line trading academy, forex training course, trading school, day trading course, day trading university and school | Premier Trader University
+# Privacy Policy - Premier Trader University - Online Trading Courses
 
 We respect each site visitor’s right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website.
 
