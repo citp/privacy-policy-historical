@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealitem.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124040159id_/http%3A//dealitem.com/view/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealitem.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421070951id_/http%3A//www.dealitem.com/view/Privacy.aspx) for the most accurate reproduction.*
 
 # Dealitem.com - Privacy
 
@@ -52,5 +52,7 @@ If you use another Dealitem.com service, we may send you a confirmation e-mail c
 
 We welcome any questions or comments you have about Dealitem.com: please direct them to [our Contact Us Page](https://web.archive.org/EmailLink/?feedback=1). 
 
+|   
+---|---  
   
 
