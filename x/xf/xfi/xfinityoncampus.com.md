@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xfinityoncampus.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229193458id_/http%3A//www.comcast.com/corporate/legal/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfinityoncampus.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421121406id_/https%3A//www.comcast.com/corporate/legal/privacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ Welcome to this website, a service of Comcast Corporation and its subsidiaries (
   * the kind of security procedures that are in place to protect the loss, misuse or alteration of information; 
   * how you can review and request changes to the information; 
   * how we notify visitors and users of this website of changes to this privacy statement; and 
-  * the privacy policies that apply to subscribers to each Comcast product and service.
+  * the privacy policies that apply to subscribers to each Comcast product and service. 
 
 
 
@@ -36,6 +36,18 @@ The information collected by Comcast falls into two categories: (1) information 
 To make use of some features on our website visitors and users need to register and provide certain information as part of the registration process. We may ask, for example, for your name, e-mail address, street address, zip code, and, if you wish to automate payments, financial account information. We might also request information about your residence, television, and computer, for example, in order to process your request for new service or make changes to existing service. In addition, we may ask you for information about your interests in television viewing, sports, personal finance, the performing arts, and the like. The information you supply will help us to offer you more personalized features, complete the particular function of the website you are using, and tailor our website to your interests to make it more useful to you. Our systems will remember some of this information the next time you log in and use our website, but you can always review and change your information by following the instructions below under Changes to Information in this statement.
 
 The more you tell us about yourself, the more value we can offer you. Supplying this information is entirely voluntary. But if you choose not to supply the information, we may be unable to provide you with the products and services we make available to other users of and visitors to our website. And you will not be able to order selected products or services, or automate payments, over our website unless you provide certain personally identifiable information about yourself. When you submit any personally identifiable information over this website, Comcast (i) will use the information for the purposes described at the time you submit it (for example, your name, address, telephone number, and e-mail address provided while ordering one of our products or services will be used in connection with the processing and fulfillment of your order) and (ii) may use the information to contact you to make you aware of other products and services of interest. Of course, if you want to remain completely anonymous, you're still free to take advantage of the publicly available content on our website without registration. 
+
+#### ONLINE TRACKING POLICY
+
+Some of the third party service providers that Comcast uses to deliver services, content and advertising may collect information on this website, as disclosed in this privacy policy. This information may include personally identifiable information or may be used to contact you online. 
+
+As stated below in this privacy policy, in the section titled “What do we do to personalize your use of this website and the advertisements that may be presented to you on other websites?” we and our service providers may also use cookies to deliver relevant advertising to you when you visit other websites, including advertising based on the products and services you viewed on this website. 
+
+Comcast is participating in the World Wide Web Consortium’s (W3C) process to develop a “Do Not Track” Standard. Since the definitions and rules for such a standard have not yet been defined, Comcast does not yet respond to “Do Not Track” signals sent from browsers. 
+
+You may opt out of receiving cookies from the companies that provide services on this website by going to [www.networkadvertising.org/consumer/opt_out.asp](http://www.networkadvertising.org/consumer/opt_out.asp). You may opt out of receiving promotional email or direct mail from Comcast based on your visits to this website by going to our Preference Center at [www.comcast.com/preferences](http://www.comcast.com/preferences) and following the instructions there. You may also contact Comcast at 1-800-XFINITY to ask to be placed on our do not mail list. 
+
+Comcast’s affiliated websites are members of the Digital Advertising Alliance (DAA), which permits you to opt out of receiving online behavioral advertising by making choices at <http://www.aboutads.info/choices> . We comply with the rules of the DAA’s ad choices program. 
 
 #### What categories of persons or entities do we share personally identifiable information with?
 
@@ -85,4 +97,4 @@ We may change this privacy statement from time to time. If we change this privac
 
 This privacy statement discloses the privacy practices for this website only. Comcast supplies a copy of the privacy notice that applies to our cable television, high-speed Internet, and phone products and services separately to our subscribers.  You may also view this privacy notice at www.comcast.com at any time by searching for “privacy policy” and clicking on the link for the privacy notice.
 
-Effective: February 16, 2013
+Effective: January 13, 2014
