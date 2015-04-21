@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the agriya.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205220750id_/http%3A//www.agriya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriya.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421051202id_/http%3A//www.agriya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Agriya
-
-[](http://www.agriya.com/) Agriya declares its BlackFriday Deal - Flat 40% Discount - Coupon Code: **BLACKFRIDAY14** [Click Here](http://www.agriya.com/products)
 
 [Home](http://www.agriya.com/ "Home") » Privacy policy
 
