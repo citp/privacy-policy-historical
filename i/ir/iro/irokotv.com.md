@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the irokotv.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201233916id_/http%3A//irokotv.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irokotv.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422013053id_/http%3A//irokotv.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy on iROKOtv | Number One Home For Nollywood & Ghanaian Movies
-
-  *   * Need help? Call +16465045947 
-  * [ Account ](https://web.archive.org/account/signup)
-  * [ Search ](https://web.archive.org/search)
-
-
 
 ##  Privacy Policy 
 
