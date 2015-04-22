@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydesktop.com.au privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821132009id_/http%3A//www.mydesktop.com.au/cgi-bin/clients/mydesktop-new/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydesktop.com.au privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422190259id_/http%3A//www.mydesktop.com.au/cgi-bin/clients/mydesktop-new/privacy.cgi) for the most accurate reproduction.*
 
 # MyDesktop - Real Estate Software Australia New Zealand
 
@@ -18,4 +18,4 @@ Persons who do not wish their personal information to be used for any particular
 
 These websites are conducted by third parties and Commerce Australia does not control the content or the information collected on these websites. You should refer to those websites directly or to the authors of those sites to obtain details of the privacy policies relevant to those web pages. 
 
-**Further information** Should any person have any queries regarding the Commerce Australia use of personal information in relation to its Internet site or have any other queries regarding the Commerce Australia Privacy Policy they should not hesitate to contact Commerce Australia on [info@ca.com.au](mailto:info@ca.com.au)
+**Further information** Should any person have any queries regarding the Commerce Australia use of personal information in relation to its Internet site or have any other queries regarding the Commerce Australia Privacy Policy they should not hesitate to contact Commerce Australia on [info@mydesktop.com.au](mailto:info@mydesktop.com.au)
