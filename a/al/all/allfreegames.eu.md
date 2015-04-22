@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreegames.eu privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreegames.eu privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: All Free Games
 
@@ -12,55 +12,69 @@
 
 |   
 ---  
-Games played today: [**1914**](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/games-played-today.html)  
+Games played today: [**8809**](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/games-played-today.html)  
 |  | 
 
-[](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-GTA+Vice+City+Jigsaw-731fe8b89a3580734871026c00551302.html)
+[](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-GTA+Vice+City+Jigsaw-731fe8b89a3580734871026c00551302.html)
 
-| [_**GTA Vice City Jigsaw**_](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-GTA+Vice+City+Jigsaw-731fe8b89a3580734871026c00551302.html "GTA Vice City Jigsaw :: Play online or download now \(63 times played today\)")  
+| [_**GTA Vice City Jigsaw**_](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-GTA+Vice+City+Jigsaw-731fe8b89a3580734871026c00551302.html "GTA Vice City Jigsaw :: Play online or download now \(64 times played today\)")  
 A funny colorful jigsaw puzzle with Tommy Vercetti from the computer game GTA Vice City. Drag and dr...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Ben+10+Dragon+Blaze-19717.html)
+[](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Airport+Madness+3-14599.html)
 
-| [_**Ben 10 Dragon Blaze**_](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Ben+10+Dragon+Blaze-19717.html "Ben 10 Dragon Blaze :: Play online or download now \(25 times played today\)")  
-You should fly by all way on a dragon, destroying counter objects. Overcome all distance and become ...  
+| [_**Airport Madness 3**_](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Airport+Madness+3-14599.html "Airport Madness 3 :: Play online or download now \(36 times played today\)")  
+Be in charge of airplanes traffic at the airport - give orders to aircrafts when to land, when to ta...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Sexy+Girl+3-14084.html)
+[](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Gear+Hero-16035.html)
 
-| [_**Sexy Girl 3**_](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Sexy+Girl+3-14084.html "Sexy Girl 3 :: Play online or download now \(21 times played today\)")  
-Prepare this hot and sexy girl for the party. Dress her up so hot so she will be the hottest girl in...  
+| [_**Gear Hero**_](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Gear+Hero-16035.html "Gear Hero :: Play online or download now \(24 times played today\)")  
+In this game your task is to defeat your 30 enemies and to collect different items. Choose your way ...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Desert+Drift+3D-22345.html)
+[](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Battlefones-998271435b075e034af6b148061106c8.html)
 
-| [_**Desert Drift 3D**_](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Desert+Drift+3D-22345.html "Desert Drift 3D :: Play online or download now \(13 times played today\)")  
-You are the participant of autorally on desert Sahara. Overcome all difficulties and become the winn...  
+| [_**Battlefones**_](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Battlefones-998271435b075e034af6b148061106c8.html "Battlefones :: Play online or download now \(20 times played today\)")  
+Do battle with the toughest fones ever to grow legs and fight.  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Tony+Hawk%27s+Underground+2-10204.html)
+[](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Driving+Test-8f599b36a513cb7f922b8ab6e71bfb68.html)
 
-| [_**Tony Hawk's Undergroun...**_](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Tony+Hawk%27s+Underground+2-10204.html "Tony Hawk's Underground 2 :: Play online or download now \(7 times played today\)")  
-Skate around the streets getting graffiti to all the tag points you can manage. Avoid or jump above ...  
+| [_**Driving Test**_](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Driving+Test-8f599b36a513cb7f922b8ab6e71bfb68.html "Driving Test :: Play online or download now \(19 times played today\)")  
+Take your driving test! This flash game is a tutorial to prepare you for a difficult driving exam...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Amazon+Forest+Escape-22557.html)
+[](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Monotriangolare-11342.html)
 
-| [_**Amazon Forest Escape**_](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Amazon+Forest+Escape-22557.html "Amazon Forest Escape :: Play online or download now \(6 times played today\)")  
-Show the sharpness. You should escape from isolated forest before something miserably happened.  
+| [_**Monotriangolare**_](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Monotriangolare-11342.html "Monotriangolare :: Play online or download now \(18 times played today\)")  
+Choose a character who will challenge the soccer stars to the battle. Play soccer with two your oppo...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Circuit+In+Queue-14834.html)
+[](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Gillette+Revolution-20758.html)
 
-| [_**Circuit In Queue**_](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/free-online-games-play-Circuit+In+Queue-14834.html "Circuit In Queue :: Play online or download now \(6 times played today\)")  
-Have fun playing this game. Make a cirtuit, the chota dada from Mubbai. Watch out the others.  
+| [_**Gillette Revolution**_](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Gillette+Revolution-20758.html "Gillette Revolution :: Play online or download now \(17 times played today\)")  
+Shave all beards. Press cursor buttons according to the help on the screen.  
+---|---  
+| 
+
+[](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Haunted+School+2-14014.html)
+
+| [_**Haunted School 2**_](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-Haunted+School+2-14014.html "Haunted School 2 :: Play online or download now \(13 times played today\)")  
+You should help this girl to find her parents. Try to use different items to keep the nasty ghosts a...  
+---|---  
+| 
+
+[](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-BMX+Ramp-4f9c56be5244474f7d767072558e2f0b.html)
+
+| [_**BMX Ramp**_](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/free-online-games-play-BMX+Ramp-4f9c56be5244474f7d767072558e2f0b.html "BMX Ramp :: Play online or download now \(8 times played today\)")  
+It's time to get on your bike and head down to the BMX Ramp to show off your biking skills. Ride you...  
 ---|---  
   
 | 
@@ -73,4 +87,4 @@ We use third-party advertising companies to serve ads when you visit our website
 • Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 • Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We supply free online browser based games for free. The games on this website are property of their respective owners. If we are hosting one of your games and you wish to have it removed please [contact us](https://web.archive.org/web/20140803090714id_/http%3A//www.allfreegames.eu/contactus.php) and we will remove it. 
+We supply free online browser based games for free. The games on this website are property of their respective owners. If we are hosting one of your games and you wish to have it removed please [contact us](https://web.archive.org/web/20150422202220id_/http%3A//www.allfreegames.eu/contactus.php) and we will remove it. 
