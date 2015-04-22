@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roberthalf.be privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007235537id_/http%3A//www.roberthalf.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberthalf.be privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422214039id_/http%3A//www.roberthalf.be/privacy) for the most accurate reproduction.*
 
-# Privacy statement
+# Privacy statement | Robert Half
 
 This website ("Site") privacy statement ("Statement") describes how Robert Half BVBA/SPRL ("We", "we", or "RH") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Data").  
 Robert Half BVBA/SPRL (Alfons Gossetlaan 28A, box 7; 1702 Groot-Bijgaarden) is responsible for the processing of your Personal Data, collected through this Site.  
