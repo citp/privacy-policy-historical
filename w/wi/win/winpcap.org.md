@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winpcap.org privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027163701id_/http%3A//www.riverbed.com/us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winpcap.org privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422054924id_/http%3A//www.riverbed.com/us/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Riverbed
 
