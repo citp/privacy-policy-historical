@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soundhound.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617185213id_/http%3A//www.soundhound.com/index.php%3Faction%3Ds.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundhound.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422210008id_/http%3A//www.soundhound.com/privacy_policy) for the most accurate reproduction.*
 
-# SoundHound Inc.
+# SoundHound Privacy Policy
 
 ### Privacy Statement for the SoundHound Web Site and Mobile Applications
 
