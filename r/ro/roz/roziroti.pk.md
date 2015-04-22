@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roziroti.pk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225183625id_/http%3A//www.roziroti.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roziroti.pk privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422234753id_/http%3A//www.roziroti.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs in Pakistan, Latest Jobs in Pakistan, Best Jobs in Pakistan - RoziRoti.pk
 
