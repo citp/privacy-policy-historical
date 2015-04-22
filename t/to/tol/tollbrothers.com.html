@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tollbrothers.com privacy policy that was archived on 2014-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208111549id_/http%3A//www.tollbrothers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tollbrothers.com privacy policy that was archived on 2015-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150422201600id_/https%3A//www.tollbrothers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js wf-loading"><!--<![endif]--><head>
         <title class="notranslate">Toll Brothers - Privacy Policy</title>
@@ -11,10 +11,11 @@
 <meta name="verify-v1" content="m+k+sdDBK1uHaOWIEwnf4HlTqrs2FClXX/QfNW9isCM=">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-itunes-app" content="app-id=951855153">
 <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
-<link rel="shortcut icon" href="//cdn.tollbrothers.com/tb/images/favicon.ico">
-<link rel="stylesheet" href="//cdn.tollbrothers.com/tb/css/css_newsite_concat.min.css?20141121">
-<link rel="stylesheet" href="//cdn.tollbrothers.com/tb/css/toll.print.min.css?20141121" media="print">
+<link rel="shortcut icon" href="https://cdn.tollbrothers.com/tb/images/favicon.ico">
+<link rel="stylesheet" href="https://cdn.tollbrothers.com/tb/css/css_newsite_concat.min.css?201504101759">
+<link rel="stylesheet" href="https://cdn.tollbrothers.com/tb/css/toll.print.min.css?201504101759" media="print">
 <script src="//assets.adobedtm.com/60e35bfb3c4cd6b22fc041682ec931fdf26b76a3/satelliteLib-d027c7b28aad4071da66beb9200b4166e5aa5f8b.js"></script>
 <script>
     var toll = {};
@@ -24,12 +25,31 @@
     toll.inProd = true;
     toll.domain = {};
     
-    toll.domain.CDN = "//cdn.tollbrothers.com";
+    toll.domain.CDN = "https://cdn.tollbrothers.com";
     
     toll.domain.localOrCDN = toll.domain.CDN;
     if (!toll.inProd) toll.domain.localOrCDN = "";
     
-    </script>
+    
+    
+    toll['loadGoogleMapsApi'] = function() {
+    
+        var url = "https://maps.googleapis.com/maps/api/js?v=3.18&client=gme-tollbrothersincorporated&sensor=false&callback=mapsLoaded";
+
+        if (typeof google !== 'object' || typeof google.maps !== 'object') {
+            var class_name = 'js-google-maps-api';
+            $('.' + class_name).remove();
+
+            var script = document.createElement("script");
+            script.src = url;
+            script.type = "text/javascript";
+            script.className = class_name;
+            document.body.appendChild(script);
+        }
+    
+    }
+    
+    toll.page = {};</script>
 
 <script type="text/javascript">
 if(!toll.device.isMobile){
@@ -65,7 +85,7 @@ if(!toll.device.isMobile){
 </script>
 
 <link rel="author" href="/humans.txt">
-<script src="//cdn.tollbrothers.com/common/js/modernizr/modernizr_2_6_2_shiv.min.js"></script>
+<script src="https://cdn.tollbrothers.com/common/js/modernizr/modernizr_2_6_2_shiv.min.js"></script>
 <script type="text/javascript" src="//go.tollbrothers.com/GenericWebLead/conversion.js"></script>
 
 <script type="text/javascript">
@@ -82,11 +102,19 @@ if(!toll.device.isMobile){
         var console = {};
         console.log = console.error = console.info = console.debug = console.warn = console.trace = console.dir = console.dirxml = console.group = console.groupEnd = console.time = console.timeEnd = console.assert = console.profile = function() {};
     }
+    
+    //this mapsLoaded function is called by google maps api when google maps api is downloaded and ready.
+    //Google maps api is loaded on the fly by the page that needs it (ie. click on map view tab on search page)
+    //The function to load the maps api is in js_object.jsp
+    var googleMapsIsLoadedNow = false;
+    function mapsLoaded() {
+        googleMapsIsLoadedNow = true;
+    }
 </script>
 <!--[if gte IE 9]><!-->
-<link rel="apple-touch-icon-precomposed" href="//cdn.tollbrothers.com/tb/images/iphone.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//cdn.tollbrothers.com/tb/images/ipad.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//cdn.tollbrothers.com/tb/images/iphone2x.png">
+<link rel="apple-touch-icon-precomposed" href="https://cdn.tollbrothers.com/tb/images/iphone.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn.tollbrothers.com/tb/images/ipad.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.tollbrothers.com/tb/images/iphone2x.png">
 <!--<![endif]-->
 </head>
     <body class="desktop">
@@ -108,7 +136,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
                 <li><a class="twitter">Share page on twitter</a>   <a href="//twitter.com/TollBrothersInc" target="_blank" class="external" rel="nofollow">Follow us on Twitter</a></li>
                 <li><a class="pinterest" data-pin-config="none" data-pin-do="buttonBookmark" href="//pinterest.com/pin/create/button/" rel="nofollow">Pin images on pinterest</a> <a href="//pinterest.com/tollbrothers" target="_blank" class="external" rel="nofollow">Follow us on Pinterest</a></li>
                 <li><a class="normalListLink external youTube" href="//youtube.com/tollbrothers" target="_blank" rel="nofollow">Subscribe to us on YouTube</a></li>
-                <li><a class="normalListLink external" href="//tolltalks.tollbrothers.com/" target="_blank">Read our Toll Talks Blog</a></li>
+                <li><a class="normalListLink external" href="http://tolltalks.tollbrothers.com/" target="_blank">Read our Toll Talks Blog</a></li>
                 <li><a class="normalListLink external snapshot" href="/about/social_media" target="_blank">Visit our Social Media Page</a></li>
                 <li><a class="emailtoFriend">Email page to a Friend</a></li>
             </ul>
@@ -119,7 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
                     <p><strong>Email this page to a friend</strong></p>
                     <p class="disclaimer">Fill out the form below to send an email to a friend or colleague. Fields marked with an (*) are required.</p>
                     <form id="email_a_friend" name="email_a_friend" method="post" action="/contact/eaf_submit">
-                        <input type="hidden" name="challenge" value="3C139CDF920B7628C5C2693B7C760A27">
+                        <input type="hidden" name="challenge" value="0A029F62928965B406162D1895E4C45F">
                         <label for="eaf_to">Email Address:</label>
                         <input name="eaf_to" type="text" id="eaf_to" value="">
                         <label for="eaf_from">Your Email:</label>
@@ -143,7 +171,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
                         <li><a id="find">Find Your New Home</a></li>
                         <li><a href="/about">About <span class="notranslate">Toll Brothers</span></a></li>
                         <li><a href="/design_corner">Design Corner</a></li>
-                        <li><a href="https://www.tollbrothers.com/my_favorites">My Favorites</a></li>
+                        <li><a href="/my_favorites">My Favorites</a></li>
                         <li id="socialBucket"><a></a></li>
                         <li id="searchBar">
                             <form id="googleSearchForme" action="#text_search">
@@ -163,7 +191,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
                             <div id="mysite_thumbnail">
                                 <div data-if="Vars.thumbnail" class="gs-image-box gs-web-image-box">
                                     <a class="gs-image" data-attr="{href:url, target:target}">
-                                        <img class="gs-image" data-attr="{src:thumbnail.src, width:100, height: 59}" src="//cdn.tollbrothers.com/tb/images/blankImg.gif" alt="">
+                                        <img class="gs-image" data-attr="{src:thumbnail.src, width:100, height: 59}" src="https://cdn.tollbrothers.com/tb/images/blankImg.gif" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -216,8 +244,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 
 <div class="clearfix"></div></div>
 </div>
-<section role="main" class="container container_16 paddingtoptwenty">
-            <article class="container whiteContainer whiteContainer_padded">
+<section role="main" class=" container container_16 paddingtoptwenty">
+            <article class="padContain container whiteContainer whiteContainer_padded">
                 <h1>Privacy Policy</h1>
                 <hr>
                 <p>At <span class="notranslate">Toll Brothers</span>, we understand that the privacy of the information provided to us is very important to you. We use the data gathered only to provide you with more information about our quality products and services. This information will NOT be sold/distributed to any unaffiliated third parties without your prior consent.</p>
@@ -226,25 +254,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
     We log your IP address in order to help diagnose problems with our server, administer our Web site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on your Internet provider. Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, then we also log that information. This helps us maximize our Internet exposure, and it helps us understand our users' interests. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not individual reports that identify you personally.</p>
 <p>We also place a small text file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. Unless you register with us, however, a cookie contains no personally identifiable information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive, and cannot retrieve information from any other cookies created by other Web sites. We use cookies to help us understand how visitors use our site, and to help us to improve our site. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. Although you may do so, you may find that your browser reacts strangely when visiting not only our Web site, but other Web sites as well. Since cookies don't provide us with any information from which we can identify you, we suggest you allow us to place one on your computer.</p>
 <p>We may use Web beacons on our site or other sites and may permit third parties to place them on our site to monitor the effectiveness of advertising or for other legitimate purposes. A Web beacon, also known as a "Web bug," is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site. Web beacons are often invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the Web page, document or e-mail message. Web beacons are represented as HTML IMG tags in the Web page; users can click on "view profiles" of the Web page to see whether the page is using a Web beacon. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons can also be linked to personal information. For example, advertising networks use Web bugs to add information to a personal profile of what sites a person is visiting and to determine what banner ads to display based on the profile. Another use of Web bugs is to provide an independent accounting of how many people have visited a particular Web site. Web bugs are also used to gather statistics about Web browser usage at different places on the Internet.</p>
-<p>We may use third-party ad servers (or ad networks) to deliver ads to you on our behalf. These third-party ad servers may collect and use non-personally identifiable information about your visits to our site in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp.</a></p>
+<p>We may use third-party ad servers (or ad networks) to deliver ads to you on our behalf. These third-party ad servers may collect and use non-personally identifiable information about your visits to our site in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <a href="https://www.networkadvertising.org/managing/opt_out.asp" target="_blank">https://www.networkadvertising.org/managing/opt_out.asp.</a></p>
 
 <p><strong>Statement of Forward-looking Information</strong></p>
-<p>Information presented herein for the third quarter ended July 31, 2014 is subject to finalization of the Company's regulatory filings, related financial and accounting reporting procedures and external auditor procedures.</p>
-<p>Certain information included in this website is forward-looking within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, information related to: anticipated operating results; anticipated financial performance, resources and condition; selling communities; home deliveries; average home prices; consumer demand and confidence; contract pricing; business and investment opportunities; market and industry trends; the anticipated benefits to be realized from the consummation of the Shapell acquisition; and post-closing asset sales.</p>
-<p>Such forward-looking information involves important risks and uncertainties that could significantly affect actual results and cause them to differ materially from expectations expressed herein and in other Company reports, SEC filings, statements and presentations. These risks and uncertainties include, among others: local, regional, national and international economic conditions; fluctuating consumer demand and confidence; interest and unemployment rates; changes in sales conditions, including home prices, in the markets where we build homes; conditions in our newly entered markets and newly acquired operations; the competitive environment in which we operate; the availability and cost of land for future growth; conditions that could result in inventory write-downs or write-downs associated with investments in unconsolidated entities; the ability to recover our deferred tax assets; the availability of capital; uncertainties in the capital and securities markets; liquidity in the credit markets; changes in tax laws and their interpretation; effects of governmental legislation and regulation; the outcome of various legal proceedings; the availability of adequate insurance at reasonable cost; the impact of construction defect, product liability and home warranty claims, including the adequacy of self-insurance accruals, and the applicability and sufficiency of our insurance coverage; the ability of customers to obtain financing for the purchase of homes; the ability of home buyers to sell their existing homes; the ability of the participants in various joint ventures to honor their commitments; the availability and cost of labor and building and construction materials; the cost of raw materials; construction delays; domestic and international political events; weather conditions; the anticipated benefits to be realized from the consummation of the Shapell acquisition; and post-closing asset sales. For a more detailed discussion of these factors, see the information under the captions "Risk Factors" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our most recent annual report on Form 10-K and our subsequent quarterly reports on Form 10-Q filed with the Securities and Exchange Commission.</p>
+<p>Information presented herein for the first quarter ended January 31, 2015 is subject to finalization of the Company's regulatory filings, related financial and accounting reporting procedures and external auditor procedures.</p>
+<p>Certain information included in this website is forward-looking within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, information related to: anticipated operating results; anticipated financial performance, resources and condition; selling communities; home deliveries; average home prices; consumer demand and confidence; contract pricing; business and investment opportunities; market and industry trends; the anticipated benefits to be realized from the consummation of the Shapell acquisition; and the related post-closing asset sales.</p>
+<p>Such forward-looking information involves important risks and uncertainties that could significantly affect actual results and cause them to differ materially from expectations expressed herein and in other Company reports, SEC filings, statements and presentations. These risks and uncertainties include, among others: local, regional, national and international economic conditions; fluctuating consumer demand and confidence; interest and unemployment rates; changes in sales conditions, including home prices, in the markets where we build homes; conditions in our newly entered markets and newly acquired operations; the competitive environment in which we operate; the availability and cost of land for future growth; conditions that could result in inventory write-downs or write-downs associated with investments in unconsolidated entities; the ability to recover our deferred tax assets; the availability of capital; uncertainties in the capital and securities markets; liquidity in the credit markets; changes in tax laws and their interpretation; effects of governmental legislation and regulation; the outcome of various legal proceedings; the availability of adequate insurance at reasonable cost; the impact of construction defect, product liability and home warranty claims, including the adequacy of self-insurance accruals, and the applicability and sufficiency of our insurance coverage; the ability of customers to obtain financing for the purchase of homes; the ability of home buyers to sell their existing homes; the ability of the participants in various joint ventures to honor their commitments; the availability and cost of labor and building and construction materials; the cost of raw materials; construction delays; domestic and international political events; weather conditions; the anticipated benefits to be realized from the consummation of the Shapell acquisition; and the related post-closing asset sales. For a more detailed discussion of these factors, see the information under the captions "Risk Factors" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our most recent annual report on Form 10-K and our subsequent quarterly reports on Form 10-Q filed with the Securities and Exchange Commission.</p>
 <p>Any or all of the forward-looking statements included in this website are not guarantees of future performance and may turn out to be inaccurate. Forward-looking statements speak only as of the date they are made. The Company undertakes no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise.</p>
 <hr>
 <p><strong>Unsubscribing from Emails</strong><br>
-    If you are currently receiving emails from <span>Toll Brothers</span>, and wish to be removed from our mailing list, <a href="//www.tollbrothers.com/my_favorites/unsubscribe" target="_blank">click here to remove yourself from our database.</a></p>
+    If you are currently receiving emails from <span>Toll Brothers</span>, and wish to be removed from our mailing list, <a href="https://www.tollbrothers.com/my_favorites/unsubscribe" target="_blank">click here to remove yourself from our database.</a></p>
 <p><strong>Linking to <span class="notranslate">Toll Brothers</span> Websites</strong><br>
     If you have a web site and would like to link to any <span class="notranslate">Toll Brothers </span> web site or web page, please download the appropriate PDF file below for instructions.</p>
 <hr>
-<p><img style="display:inline-block;vertical-align:middle;" src="//www.tollbrothers.com/tb/images/investors/icon_adobepdf.gif" alt="PDF" class="imageleft">  
-    <a href="//www.tollbrothers.com/pdfs/WLARealEsateAgents7_05.pdf" target="_blank" class="imageleft topten">Real Estate Agent Linking Agreement</a>
+<p><img style="display:inline-block;vertical-align:middle;" src="https://www.tollbrothers.com/tb/images/investors/icon_adobepdf.gif" alt="PDF" class="imageleft">  
+    <a href="https://www.tollbrothers.com/pdfs/WLARealEsateAgents7_05.pdf" target="_blank" class="imageleft topten">Real Estate Agent Linking Agreement</a>
 </p>
 <hr>
-<p><img style="display:inline-block;vertical-align:middle;" src="//www.tollbrothers.com/tb/images/investors/icon_adobepdf.gif" alt="PDF" class="imageleft">
-    <a href="//www.tollbrothers.com/pdfs/WLAVendors7_05.pdf" target="_blank" class="imageleft topten"> Vendor Linking Agreement</a>
+<p><img style="display:inline-block;vertical-align:middle;" src="https://www.tollbrothers.com/tb/images/investors/icon_adobepdf.gif" alt="PDF" class="imageleft">
+    <a href="https://www.tollbrothers.com/pdfs/WLAVendors7_05.pdf" target="_blank" class="imageleft topten"> Vendor Linking Agreement</a>
 </p>
 <hr>
 <div class="clearfix"></div>
@@ -262,7 +290,7 @@ document.write(unescape("%3Cscript%20src='" +
             <nav>
                 <ul>
                     <li><a href="/about" title="About Toll Brothers">About Toll Brothers</a></li>
-                    <li><a href="https://www.tollbrothers.com/agent" title="For Agents">Agent Center</a></li>
+                    <li><a href="/agent" title="For Agents">Agent Center</a></li>
                     <li><a href="/ExternalURLClick?redirect=http://www.tollcareercenter.com/" title="Career Center" target="_blank">Career Center</a></li>
                     <li><a href="/contact" title="Contact Us">Contact Us</a></li>
                     <li><a href="/design_corner" title="Design Corner">Design Corner</a></li>
@@ -284,7 +312,7 @@ document.write(unescape("%3Cscript%20src='" +
                             <div class="drop_8 dropup">
                         <ul class="grid_3 firstcol colborder">
                             <li><a href="/about/charity_affiliations" title="Charities">Charities</a></li>
-                            <li><a href="/ExternalURLClick?redirect=http://cdn.tollbrothers.com/pdfs/US%20Marketing%20Brochure%202011_Chinese_Final.pdf" title="Chinese National Brochure" target="_blank">Chinese National Brochure</a></li>
+                            <li><a href="/ExternalURLClick?redirect=https://cdn.tollbrothers.com/pdfs/US%20Marketing%20Brochure%202011_Chinese_Final.pdf" title="Chinese National Brochure" target="_blank">Chinese National Brochure</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.citylivingbytollbrothers.com" title="City Living By Toll Brothers" target="_blank">City Living By Toll Brothers</a></li>
                             <li><a href="/about/toll_brothers_video" title="Corporate Video">Corporate Video</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.tollbrothersdesignstudio.com/" title="Design Studio" target="_blank">Design Studio</a></li>
@@ -293,10 +321,10 @@ document.write(unescape("%3Cscript%20src='" +
                             <li><a href="/investor_relations" title="Investor Relations">Investor Relations</a></li>
                             <li><a href="" title="Model Homes">Model Homes</a></li>
                             <li><a href="/about/our_customers_speak" title="Our Customers Speak">Our Customers Speak</a></li>
+                            <li><a href="/qdh" title="Quick Delivery Homes">Quick Delivery Homes</a></li>
                         </ul>
 
                         <ul class="grid_3 colborder">
-                            <li><a href="/qdh" title="Quick Delivery Homes">Quick Delivery Homes</a></li>
                             <li><a class="notranslate" href="/ExternalURLClick?redirect=http://www.tbimortgage.com" title="TBI Mortgage" target="_blank">TBI Mortgage</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.tollagent.com/index.jsp" title="Toll Agent" target="_blank">Toll Agent</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.tollarchitecture.com/" title="Toll Architecture" target="_blank">Toll Architecture</a></li>
@@ -306,13 +334,13 @@ document.write(unescape("%3Cscript%20src='" +
                             <li><a href="/ExternalURLClick?redirect=http://www.tollbrothersflyandbuy.com/" title="Toll Brothers Fly and Buy" target="_blank">Toll Brothers Fly and Buy</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.tollcareercenter.com/" title="Toll Career Center" target="_blank">Toll Career Center</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.tollcommercial.com/" title="Toll Commercial" target="_blank">Toll Commercial</a></li>
+                            <li><a href="/ExternalURLClick?redirect=https://mytollhome.tollbrothersinc.com" title="Toll Customer Care" target="_blank">Toll Customer Care</a></li>
                         </ul>
 
                         <ul class="grid_2 lastcol">
-                            
-                            <li><a href="/ExternalURLClick?redirect=https://tollhomecare.tollbrothers.com/hcare/home" title="Toll Customer Care" target="_blank">Toll Customer Care</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.tollgolf.com/" title="Toll Golf" target="_blank">Toll Golf</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.tollgreen.com/" title="Toll Green" target="_blank">Toll Green</a></li>
+                            <li><a href="/ExternalURLClick?redirect=http://www.tisbuildingsolutions.com/" title="Toll Integrated Systems" target="_blank">Toll Integrated Systems</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.tollbrothersinternational.com/" title="Toll International" target="_blank">Toll International</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.tollkohler.com/" title="Toll Kohler" target="_blank">Toll Kohler</a></li>
                             <li><a href="/ExternalURLClick?redirect=http://www.tolllandscape.com/" title="Toll Landscape" target="_blank">Toll Landscape</a></li>
@@ -329,6 +357,12 @@ document.write(unescape("%3Cscript%20src='" +
 <li class="headingState "><a href="/AZ">Arizona</a>
 <ul class="panel">
 <li><a href="/ExternalURLClick?redirect=http://windgateranchscottsdale.com" target="_blank">Windgate Ranch Scottsdale</a></li>
+</ul>
+</li>
+
+<li class="headingState "><a href="/CA">California</a>
+<ul class="panel">
+<li><a href="/ExternalURLClick?redirect=http://liveatporterranch.com" target="_blank">Porter Ranch</a></li>
 </ul>
 </li>
 
@@ -386,26 +420,21 @@ document.write(unescape("%3Cscript%20src='" +
 
 <li class="headingState "><a href="/NY">New York</a>
 <ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://www.400pas.com" target="_blank">400 Park Avenue South</a></li>
+<li><a href="/ExternalURLClick?redirect=http://www.1110parkave.com" target="_blank">1110 Park Ave</a></li>
+<li><a href="/ExternalURLClick?redirect=http://400pas.com" target="_blank">400 Park Avenue South</a></li>
 <li><a href="/ExternalURLClick?redirect=http://pierhouseny.com" target="_blank">Pierhouse at Brooklyn Bridge Park</a></li>
+<li><a href="/ExternalURLClick?redirect=http://www.thesuttonnyc.com" target="_blank">The Sutton</a></li>
 </ul>
 </li>
 
 <li class="headingState "><a href="/PA">Pennsylvania</a>
 <ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://2400south.com" target="_blank">2400 South</a></li>
+<li><a href="/ExternalURLClick?redirect=http://2400south.com" target="_blank">2400 South Condominiums</a></li>
 <li><a href="/ExternalURLClick?redirect=http://410societyhill.com" target="_blank">410 at Society Hill</a></li>
 <li><a href="/ExternalURLClick?redirect=http://huntingdonplace.com" target="_blank">Huntingdon Place</a></li>
 <li><a href="/ExternalURLClick?redirect=http://liseter.com" target="_blank">Liseter</a></li>
 <li><a href="/ExternalURLClick?redirect=http://ParcPlymouthMeeting.com" target="_blank">Parc Plymouth Meeting</a></li>
 <li><a href="/ExternalURLClick?redirect=http://RegencyAtYardley.com" target="_blank">Regency at Yardley</a></li>
-<li><a href="/ExternalURLClick?redirect=http://reserveatmakefield.com" target="_blank">Reserve at Makefield</a></li>
-</ul>
-</li>
-
-<li class="headingState "><a href="/TX">Texas</a>
-<ul class="panel">
-<li><a href="/ExternalURLClick?redirect=http://travisso.com" target="_blank">Travisso</a></li>
 </ul>
 </li>
 
@@ -464,11 +493,24 @@ document.write(unescape("%3Cscript%20src='" +
     <div id="findYourHome">
         <p class="findYourHomeH2">Home Search</p>
         <p class="findYourHomeH4"></p>
-        <article id="findsimple" class="tab_content2">
+        <article id="findsimple" class="tab_content2 js-form-anchor">
             <div class="grid_4 firstlast formLeftLight">
                 <form id="findLightBox" action="/search">
                     <input type="hidden" id="lightbox_simple_zip" name="zip" value="">
                     <input type="hidden" name="LB" value="y">
+                    
+                    <div class="purchaseGroup">
+                        <span class="purchaseLabel">I am interested in:</span>   
+                        <input id="buying-simple" class="no-uniform css-checkbox js-purchase-checkbox js-purchase-buying" type="checkbox" checked="">                         
+                        <label class="checkLabel" for="buying-simple">Buying</label>
+                        <input id="renting-simple" class="no-uniform css-checkbox js-purchase-checkbox js-purchase-rental" type="checkbox">
+                        <label class="checkLabel" for="renting-simple">Renting</label>
+
+                        <input type="hidden" class="js-rental-param-simple" name="" value="">
+                        <input type="hidden" class="js-rental-param-student-simple" name="" value="">
+
+                    </div>
+                    
                     <label class="ziplabel" for="lightbox_simple_city">City or Zip:</label>
                     <input type="text" name="city" id="lightbox_simple_city" placeholder="Enter city or zip">
                     <label for="lightbox_simple_state">State:</label>
@@ -496,11 +538,14 @@ document.write(unescape("%3Cscript%20src='" +
 <option class="notranslate" value="WA">Washington</option>
 <option value="any">Any State</option>
                     </select>
+                       
                     <input type="hidden" id="lightbox_simple_dummy_state" name="s_state" value="">
+                    <!--
                     <label for="lightbox_simple_county">County:</label>
                     <select id="lightbox_simple_county" class="county" name="county">
-                        <option value="">First Select a State</option>
+                        <option value="">Select a State</option>
                     </select>
+                    -->
                     <button class="mainBlue" id="findSubmitLight">Find Your Home Now</button>
                 </form>
                 <span class="defaultGrey advancedBtn _advancedSearch" tabindex="0">Switch to Advanced Search</span>
@@ -511,7 +556,7 @@ document.write(unescape("%3Cscript%20src='" +
                 </div>
             </div>
             </article>
-        <article id="findAdvanced" class="tab_content2">
+        <article id="findAdvanced" class="tab_content2 js-form-anchor">
             <form name="refusemapine_results" id="lightbox_refine_results" action="/search">
                 <fieldset class="grid_4">
                     <div class="clearfix full">
@@ -592,12 +637,12 @@ document.write(unescape("%3Cscript%20src='" +
                         <label for="lightbox_future" class="community_type">Future</label>
                     </div>
                     <div class="checkHold">
-                        <input type="checkbox" id="lightbox_mconly" name="mconly" value="y">
-                        <label for="lightbox_mconly" class="community_type">Master Plan</label>
-                    </div>
-                    <div class="checkHold">
                         <input type="checkbox" id="lightbox_golf" name="c_type" value="Golf">
                         <label for="lightbox_golf" class="community_type">Golf</label>
+                    </div>
+                    <div class="checkHold">
+                        <input type="checkbox" id="lightbox_mconly" name="mconly" value="y">
+                        <label for="lightbox_mconly" class="community_type">Master Plan</label>
                     </div>
                     <div class="checkHold">
                         <input type="checkbox" id="lightbox_waterfront" name="c_type" value="Waterfront">
@@ -621,10 +666,6 @@ document.write(unescape("%3Cscript%20src='" +
                     <div class="checkHold">
                         <input type="checkbox" id="lightbox_patio" name="h_type" value="Patio">
                         <label for="lightbox_patio" class="home_type">Patio</label>
-                    </div>
-                    <div class="checkHold">
-                        <input type="checkbox" id="lightbox_rental" name="h_type" value="Rental">
-                        <label for="lightbox_rental" class="home_type">Rental</label>
                     </div>
                     <div class="checkHold">
                         <input type="checkbox" id="lightbox_single_family" name="h_type" value="Single Family">
@@ -705,6 +746,18 @@ document.write(unescape("%3Cscript%20src='" +
                             <input id="lightbox_qdh" type="checkbox">
                             <label id="lightbox_qdh_label" for="lightbox_qdh">Only Quick Delivery Homes</label>
                         </div>
+                        
+                        <div class="purchaseGroup">
+                            <span class="purchaseLabel">I am interested in:</span>   
+                            <input id="buying-adv" class="no-uniform css-checkbox js-purchase-checkbox js-purchase-buying" type="checkbox" checked="">                         
+                            <label class="checkLabel" for="buying-adv">Buying</label>
+                            <input id="renting-adv" class="no-uniform css-checkbox js-purchase-checkbox js-purchase-rental" type="checkbox">
+                            <label class="checkLabel" for="renting-adv">Renting</label>
+
+                            <input type="hidden" class="js-rental-param-adv" name="" value="">
+                            <input type="hidden" class="js-rental-param-student-adv" name="" value="">
+                        </div>
+                        
                     </fieldset>
                 </div>
                 <div class="clearfix"></div>
@@ -716,23 +769,16 @@ document.write(unescape("%3Cscript%20src='" +
                 </div>
             </form>
         </article>
-    </div></div><script>window.nseCMPID = '';</script>
+    </div></div><script>window.nseCMPID = '2015spgnsewebs6';</script>
 <div class="displayNone">
     <div id="usaLightboxMap">
-        <h3>Select a city or metro area to find your Toll Brothers dream home.</h3>
+        <h2>National Sales Event - April 11-26, 2015</h2><h3>See Community for date and time.<br>Select a city or metro area to find your Toll Brothers dream home.</h3>
         <div id="metro-map-canvas" class=""></div>
         <div class="clearfix"></div>
     </div>
 </div>
-<script src="//cdn.tollbrothers.com/common/js/jquery/jquery-1.8.3.min.js?20141121"></script>
+<script src="https://cdn.tollbrothers.com/common/js/jquery/jquery-1.8.3.min.js?201504101759"></script>
 
-<script>
-    var googleMapsIsLoadedNow = false;
-    function mapsLoaded() {
-        googleMapsIsLoadedNow = true;
-    } 
-</script>
-<script src="//maps.googleapis.com/maps/api/js?v=3.16&amp;client=gme-tollbrothersincorporated&amp;sensor=false&amp;callback=mapsLoaded"></script>
 <script>
     var useProdScripts = true;
     var files;
@@ -748,7 +794,7 @@ document.write(unescape("%3Cscript%20src='" +
     }
 
     
-            files = ['//cdn.tollbrothers.com/tb/js/js_footer_concat.min.js?20141121'];
+            files = ['https://cdn.tollbrothers.com/tb/js/js_footer_concat.min.js?201504101759'];
       
          
         yepnope([
@@ -756,7 +802,7 @@ document.write(unescape("%3Cscript%20src='" +
                 load: files,
                 complete: function() {
                     function checkForRequired() {
-                        if (jQuery.uniform && jQuery.colorbox && jQuery.ui && jQuery.fn.touchwipe) {
+                        if (jQuery.uniform && jQuery.colorbox && jQuery.ui && jQuery.fn.touchwipe && jQuery.fn.noUiSlider && toll.searchForms && toll.loaded) {
                             safeToLoad();
                         } else {
                             if (checkLimit > 0) {
@@ -785,7 +831,7 @@ new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'd
 <div class="displayNone" style="width:0px; height:0px;">
     <noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="//tollbrothersinc.122.2o7.net/b/ss/tbrostollbrothers/1/H.16--NS/0" alt="" style="width:0px; height:0px;" /></a></noscript>
     <a href="https://plus.google.com/113566032308799299571" rel="publisher"></a>
-</div>
+    </div>
 <script type="text/javascript">
 document.write(unescape("%3Cscript%20src='"+
 (document.location.protocol=='https:'?
