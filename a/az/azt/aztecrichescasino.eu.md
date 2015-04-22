@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aztecrichescasino.eu privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715091720id_/http%3A//www.aztecrichescasino.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aztecrichescasino.eu privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422023538id_/http%3A//www.aztecrichescasino.eu/privacy) for the most accurate reproduction.*
 
 # Security : Aztec Riches Casino Privacy Policy
 
@@ -42,4 +42,4 @@ If you would like to unsubscribe from our mailing list please click here: <http:
 
 **A Note To International Users:** Please be aware that information we collect will be transferred to, processed and stored in overseas locations. The data protection laws may differ from those of the country in which you are located, and your personal information may be subject to access requests from governments, courts, or law enforcement in the respective countries. By using our services or providing us with any information, you consent to this transfer, processing and storage of your information in overseas locations. 
 
-Affiliate ID: TYPEIN_AZR:http://www.aztecrichescasino.eu/ 
+Affiliate ID: TYPEIN_AZR: 
