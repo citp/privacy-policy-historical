@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesales.com.au privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627124404id_/http%3A//www.homesales.com.au/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesales.com.au privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422231121id_/http%3A//www.homesales.com.au/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - About - homesales.com.au
 
@@ -24,13 +24,13 @@ Personal information collected by homesales may include:
 
 **2\. How homesales collects personal information**
 
-homesales collects personal information directly from its website users and customers when they provide information in person, by phone or in writing (whether electronic or otherwise) for example, when a user submits an enquiry on our website, or an agent signs up for our advertising service.   homesales may also collect information from its customers sent by a third party at the customer’s request.  
+homesales collects personal information directly from its website users and customers when they provide information in person, by phone or in writing (whether electronic or otherwise) for example, when a user submits an enquiry on our website, or an agent signs up for our advertising service. homesales may also collect information from its customers sent by a third party at the customer’s request.
 
 **3\. How homesales uses the personal information it collects about you**
 
 a) homesales uses the personal information it collects about you to: 
 
-(i) provide you with products or services you have requested; 
+(i) provide you with products or services you have requested;
 
 (ii) personalise and customise your experiences with this website; 
 
@@ -74,17 +74,17 @@ d) If you choose to become a customer of the homesales website, the information 
 
  e) Your personal information may be disclosed to homesales staff, or staff of other carsales.com Ltd business divisions.  In addition, your information may be disclosed to third parties (with your consent) and to outsourced service providers who assist homesales to provide its services including information technology providers, marketing and market research providers, security advisers and professional advisers.
 
-f) homesales may provide your personal information upon request of a government or regulatory authority, to assist police or as required by law, for example pursuant to a subpoena.
+f) homesales may provide your personal information upon request of a government or regulatory authority, to assist police or as required by law, for example pursuant to a subpoena or in accordance with unclaimed money legislation.
 
 **5\. Transfer of personal information outside of Australia**
 
-Some of homesales’ service providers are located outside of Australia, including in the United States of America.  It may be necessary to disclose your personal information to those service providers for some of the purposes listed above.  By providing homesales with your personal information, you consent to the disclosure / transfer of your personal information outside of Australia as set out in this privacy policy.  
+Some of homesales’ service providers are located outside of Australia, including in the United States of America and Canada.  It may be necessary to disclose your personal information to those service providers for some of the purposes listed above.  By providing homesales with your personal information, you consent to the disclosure / transfer of your personal information outside of Australia as set out in this privacy policy.  
 
 In addition, if you choose to engage in the international services provided by homesales, for example submit an enquiry on a property located in another country or choose to be involved in an international program, your information will be disclosed to the relevant entity in the appropriate country to provide you with the service.
 
 **6\. Marketing**
 
-homesales may use your personal information to provide you with promotional material about homesales or status reports on your property or on any of the services offered by homesales whether you are a seller, a buyer or a member. If you do not wish to receive this type of promotional material, you can contact homesales’ Privacy Officer by email at the following address: support@homesales.com.au at any stage in the future so that we can remove your name from our marketing lists. If you choose not to receive this type of promotional material, you may limit some of the services you receive from homesales. 
+homesales may use your personal information to provide you with promotional material about homesales or status reports on your property or on any of the services offered by homesales whether you are a seller, a buyer or a member. If you do not wish to receive this type of promotional material, you can contact homesales’ Privacy Officer by email at the following address: support@homesales.com.au at any stage in the future so that we can remove your name from our marketing lists. If you choose not to receive this type of promotional material, you may limit some of the services you receive from homesales.
 
 **7\. Finding out what personal information homesales holds about you**
 
@@ -134,13 +134,17 @@ e) When you visit the homesales website, homesales may records anonymous informa
 
 f) homesales uses “cookies” and other methods to collect and store the information set out above. A cookie is a small file that stays on your computer until, depending on whether it is a sessional or persistent cookie, you turn your computer off or it expires (this may be as little as 30 days or up 2 years, or longer in some cases). Cookies may be used by homesales or by service providers engaged by carsales to provide you with the full range of services it offers, remember your preferences, measure and analyse usage of the website and for security. Persistent cookies may be used to identify the homesales sites you visit and to personalise the advertising that you see when you make future visits to that site or other sites. You may adjust your Internet browser settings to disable cookies.  If cookies are disabled homesales may not be able to provide you with the full range of services.
 
-g) The homesales website may include links to third party web sites, co-branded web sites and applications and advertising served to the homesales website by third parties (Linked Sites). The operaters of  Linked Sites may collect personal information through the use of cookies and otherwise. Homesales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information.
+g) The homesales website may include links to third party web sites, co-branded web sites and applications and advertising served to the homesales website by third parties (Linked Sites). The operators of Linked Sites may collect personal information through the use of cookies and otherwise. Homesales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information.
 
 Web Beacons 
 
 h) Web beacons are images that originate from a third party site to track visitor activities. homesales may use web beacons to track the visiting patterns of individuals accessing this website.
 
-**10\. What to do if you have a question, problem or complaint about our use of your Personal Information**
+**10\. Dealing with homesales anonymously**
+
+You may deal with homesales anonymously by using a pseudonym, unless homesales is required or authorised by law to deal only with an identified person, or it is impracticable for us to respond to you if you have not identified yourself. Please contact homesales as set out below if you have any queries about dealing with homesales anonymously.  
+
+**11\. What to do if you have a question, problem or complaint about our use of your Personal Information**
 
 If you feel that your privacy has not been respected or that homesales has conducted itself inconsistently with this Privacy Policy in respect of your personal information, please contact our Privacy Officer in any of the following ways:
 
@@ -150,10 +154,10 @@ write to:  Level 4, 449 Punt Road, Richmond VIC 3121.
 
 Homesales treats complaints relating to privacy extremely seriously.  If you submit a concern or complaint, we will endeavour to deal with it comprehensively and reach an outcome with which all parties are satisfied.
 
-If you would like further information about privacy in Australia, please review the [Officer of the Australian Information Commissioner](http://www.oaic.gov.au/)’s website.
+If you would like further information about privacy in Australia, please review the [ **Officer of the Australian Information Commissioner**](http://www.oaic.gov.au/) ’s website.
 
-**11\. Privacy Disclaimer**
+**12\. Privacy Disclaimer**
 
 This Privacy Policy is subject to the relevant legislation set out above. To the extent that this Policy provides for greater privacy protection than required by law, homesales will not be liable for any loss, liability, cost, expenses or damage arising as a result of it failing to meet that increased standard of privacy protection from under this Privacy Policy.
 
-_Updated March 2014_
+_Updated July 2014 (Version 2)_
