@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixlr.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110825id_/http%3A//mixlr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixlr.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422233459id_/http%3A//mixlr.com/privacy) for the most accurate reproduction.*
 
 # Mixlr is a simple way to share live audio online. Broadcast using ...
 
