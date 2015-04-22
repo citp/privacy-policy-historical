@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toparticledatabase.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226173524id_/http%3A//www.toparticledatabase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toparticledatabase.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422052422id_/http%3A//www.toparticledatabase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ www.toparticledatabase.com does not use cookies.
 
 **DoubleClick DART Cookie**
 
-[Google](http://www.toparticledatabase.com/tag/google/) or any other third party vendor, uses cookies to serve ads on www.toparticledatabase.com.
+Google or any other third party vendor, uses cookies to serve ads on www.toparticledatabase.com.
 
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.toparticledatabase.com and other sites on the Internet.
 
