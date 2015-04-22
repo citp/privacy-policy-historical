@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningtoearnonline.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225025059id_/http%3A//www.learningtoearnonline.com/contents/%3Fnav_id%3D111%26pg%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningtoearnonline.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422151012id_/http%3A//www.learningtoearnonline.com/contents/%3Fnav_id%3D111%26pg%3Dprivacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
