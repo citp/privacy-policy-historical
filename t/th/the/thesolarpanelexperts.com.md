@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesolarpanelexperts.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108041120id_/http%3A//thesolarpanelexperts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesolarpanelexperts.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422053219id_/http%3A//www.thesolarpanelexperts.com/privacy.html) for the most accurate reproduction.*
 
 # The Solar Panel Experts - California's Top Solar Install Source
 
