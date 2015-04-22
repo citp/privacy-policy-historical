@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionbash.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609084044id_/http%3A//actionbash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionbash.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422063227id_/http%3A//actionbash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActionBash
 
@@ -77,42 +77,11 @@ If you do not wish to receive future communications from us by e-mail, simply fo
 
 There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as e-commerce. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies.
 
+DATA COLLECTION AND OPT-OUT LINK
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+
 We may also provide access to our database in order to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal process.
 
-(2) Non-Personally Identifiable Information
+  
 
-Our servers, like most web servers, create log files, which contain information about your computer and your Internet connection that is transmitted when you visit and use our Website. This information includes, but is not limited to the type of browser software you use, the operating system you are running, your screen resolution, the website that referred you, the page you left the site on, and your Internet Protocol address. Your IP address is usually associated with the location from which you access the Internet, like your local Internet Service Provider, your company or your university. We may also be tracking the links you click and the number of clicks to analyze trends, administer the site, and track userâ€™s movement.
-
-We generally analyze this type of information in the aggregate to gather broad demographic information and look overall usage patterns in order to improve our Website.
-
-We also employ third parties to track and capture this same Non-Personally Identifiable Information in order to validate our own internal measurements, allow us access to deeper analysis tools then we have available on our server, and to allow independent verification of usage to our advertisers. Please be aware that our Privacy Policy does not cover information collected by these third parties.
-
-We reserve the right to use the information we collect about your computer, in concert information which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website.
-
-While your personally identifying information is protected as outlined above, we do reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
-
-(3) Business Transition Notice
-
-As our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by ACTIONBASH, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website and the Website users may be among the transferred assets.
-
-II.THIRD PARTY ADVERTISING & COOKIES
-
-The ads appearing on our Website are delivered to you by a number of affiliates and Third-Parites, including, but not limited to: Indieclick/3Jane, Google/Doubleclick, Tribal Fusion, and Tailsweep. These and other companies set cookies on your computer to gather information about your visit to our site and other sites. These cookies contain among other data the number of times you have viewed an ad, but do not contain your username, date of birth, or any other personal information.
-
-ACTIONBASH may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
-
-These cookies and the information they contain are used to serve contextually relevant advertising to you.Â We have no access to or control over these cookies, once we have given permission for our ad reps to set cookies for advertising.
-
-If you do not want the benefits of these advertising cookies or receiving focused advertising, you may be able to opt-out by visiting http://www.networkadvertising.org/optout_nonppii.asp
-
-If you don’t want any cookies, your Web browser likely has an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our Website may not function properly.
-
-III. INFORMATION SECURITY AND NOTIFICATION
-
-Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, we can not guarantee the security of the information you send to us or the security of our servers or databases. y using our Website, you agree to assume all risk in connection with the information sent to us or collected by us when you use our Website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail, provided we have your e-mail address, or by public disclosure on this page and elsewhere on our Website, or both.
-
-IV. ACCESS BY CHILDREN
-
-This Website is not intended for use by children under the age of 18, and especially those under age 13. No one under age 18 is allowed to provide any personal information, register for accounts, or use our public discussion areas, forums and chats. Parents, if your children disclose information about themselves in publicly accessible areas of the Website or create accounts to message other members, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. If you’re worried about your children’s activities or their privacy on our site.
-
-If you don’t agree to the terms contained in this Privacy Policy, please exit the Website by closing this window or clicking the Back button on your browser until you return to a page not under the control of the Service Provider.
