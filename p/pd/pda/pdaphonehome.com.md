@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702040510id_/http%3A//www.smartphoneforums.com/content/121-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422200858id_/http%3A//www.smartphoneforums.com/content/121-privacy-policy.html) for the most accurate reproduction.*
 
 # SmartPhoneForums - Privacy Policy
 
