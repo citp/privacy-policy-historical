@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quatr.us privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210001001id_/http%3A//quatr.us/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quatr.us privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422162938id_/http%3A//quatr.us/privacypolicy.htm) for the most accurate reproduction.*
 
 # Quatr.us privacy policy
 
-[](https://web.archive.org/web/20141210001001id_/http%3A//quatr.us/cartoons.htm)
+[](https://web.archive.org/web/20150422162938id_/http%3A//quatr.us/cartoons.htm)
 
 ## What information do we collect?
 
