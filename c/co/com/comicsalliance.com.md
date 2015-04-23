@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicsalliance.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220063109id_/http%3A//comicsalliance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicsalliance.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423205725id_/http%3A//comicsalliance.com/privacy) for the most accurate reproduction.*
 
 # ComicsAlliance - Comic book culture, news, humor and commentary.
 
