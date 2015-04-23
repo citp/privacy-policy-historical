@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemade-gifts-made-easy.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163408id_/http%3A//www.homemade-gifts-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemade-gifts-made-easy.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423121714id_/http%3A//www.homemade-gifts-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
