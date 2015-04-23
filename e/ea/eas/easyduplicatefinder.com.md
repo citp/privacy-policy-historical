@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the easyduplicatefinder.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106205219id_/http%3A//www.easyduplicatefinder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyduplicatefinder.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423202319id_/http%3A//www.easyduplicatefinder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easy Duplicate Finder™ - Privacy Policy
 
-PRIVACY NOTICE
+[](https://web.archive.org/)
+
+## PRIVACY NOTICE
 
 WebMinds, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@webminds.com.  If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program covers only information that is collected through the English version of this Web site, and does not cover information that may be collected through software downloaded from the site, or translated versions of the site.
 
@@ -50,7 +52,7 @@ We use both session ID cookies & persistent cookies.  We use session cookies to
 We set a persistent cookie to store your passwords, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.    
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. 
 
-**Tracking Technologies &Third Party Cookies**
+**Tracking Technologies & Third Party Cookies**
 
 The use of cookies by our partners & affiliates is not covered by our privacy statement.  We /do not have access or control over these cookies. 
 
@@ -120,3 +122,6 @@ WebMinds, Inc.
 8540 Dayton Avenue  
 Fort Myers, FL 33907  
 [ support@webminds.com](mailto:support@webminds.com)
+
+  
+
