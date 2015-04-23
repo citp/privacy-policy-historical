@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixsenses.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016205849id_/http%3A//www.sixsenses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixsenses.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424004802id_/http%3A//www.sixsenses.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Six Senses Hotels Resorts Spas
 
