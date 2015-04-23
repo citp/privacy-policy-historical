@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedoctorstv.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedoctorstv.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,30 +11,30 @@ Please read this Privacy Policy carefully. In addition, please review our [Terms
  **TABLE OF CONTENTS **
 
   
-[TYPES OF INFORMATION THAT MAY BE COLLECTED](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#1)   
-            [Information You Provide Us](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#2)   
-            [Information from Other Sources](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#3)   
-            [Information We Collect As You Access And Use The Web Site](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#4)   
-            [Cookies](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#5)   
-            [Web Beacons](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#6)   
-            [Embedded Scripts](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#7)   
-[ How We Respond to Do Not Track Signals](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#DNT) [ ](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#DNT) [ ](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#DNT) [ ](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#DNT)
+[TYPES OF INFORMATION THAT MAY BE COLLECTED](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#1)   
+            [Information You Provide Us](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#2)   
+            [Information from Other Sources](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#3)   
+            [Information We Collect As You Access And Use The Web Site](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#4)   
+            [Cookies](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#5)   
+            [Web Beacons](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#6)   
+            [Embedded Scripts](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#7)   
+[ How We Respond to Do Not Track Signals](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#DNT) [ ](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#DNT) [ ](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#DNT) [ ](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#DNT)
 
-[ ](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#DNT) [IMPORTANT NOTICE REGARDING PUBLIC AREAS OF THE WEB SITE AND USER CONTENT](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#8)   
-[SOCIAL NETWORKING SERVICES/INTEGRATION WITH THIRD PARTY PLATFORMS](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#SNS) [HOW WE USE THE INFORMATION COLLECTED](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#9)   
-[THIRD-PARTY AD SERVING AND AUDIENCE AND TRAFFIC MEASUREMENT SERVICES](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#10)   
-[WITH WHOM INFORMATION MAY BE SHARED](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#Info_Share)   
-            [Third parties providing services on our behalf](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#Third_Parties)   
-            [When You Agree To Receive Information From Third Parties](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#Third_Parties2)   
-            [Sweepstakes, Contests and Promotions](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#Sweepstakes)   
-            [Business Transfers](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#Transfers)   
-            [Legal Protections and Law Enforcement](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#Legal_Protections)   
-[UPDATING YOUR SUBSCRIPTIONS](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#Subscriptions)   
-[THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#Third_Party_Links)   
-[CONSENT TO TRANSFER](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#consent)   
-[SECURITY](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#security)   
-[A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#parents)   
-[NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#notification) [CALIFORNIA RESIDENTS — YOUR CALIFORNIA RIGHTS](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/privacy-policy#california)
+[ ](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#DNT) [IMPORTANT NOTICE REGARDING PUBLIC AREAS OF THE WEB SITE AND USER CONTENT](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#8)   
+[SOCIAL NETWORKING SERVICES/INTEGRATION WITH THIRD PARTY PLATFORMS](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#SNS) [HOW WE USE THE INFORMATION COLLECTED](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#9)   
+[THIRD-PARTY AD SERVING AND AUDIENCE AND TRAFFIC MEASUREMENT SERVICES](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#10)   
+[WITH WHOM INFORMATION MAY BE SHARED](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#Info_Share)   
+            [Third parties providing services on our behalf](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#Third_Parties)   
+            [When You Agree To Receive Information From Third Parties](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#Third_Parties2)   
+            [Sweepstakes, Contests and Promotions](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#Sweepstakes)   
+            [Business Transfers](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#Transfers)   
+            [Legal Protections and Law Enforcement](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#Legal_Protections)   
+[UPDATING YOUR SUBSCRIPTIONS](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#Subscriptions)   
+[THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#Third_Party_Links)   
+[CONSENT TO TRANSFER](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#consent)   
+[SECURITY](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#security)   
+[A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#parents)   
+[NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#notification) [CALIFORNIA RESIDENTS — YOUR CALIFORNIA RIGHTS](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/privacy-policy#california)
 
 **TYPES OF INFORMATION THAT MAY BE COLLECTED**
 
@@ -68,7 +68,7 @@ An embedded script is programming code that is designed to collect information a
 
  **How We Respond To Do Not Track Signals**
 
-Some Internet browsers include the ability to transmit "Do Not Track" signals. Since uniform standards for "Do Not Track" signals have not been adopted, this Web Site does not process or respond to "Do Not Track" signals. To learn more about "Do Not Track," please visit "All About Do Not Track" at [http://www.allaboutdnt.com/](https://web.archive.org/web/20141220104613id_/http%3A//www.thedoctorstv.com/http//www.allaboutdnt.com/ "http//www.allaboutdnt.com/").
+Some Internet browsers include the ability to transmit "Do Not Track" signals. Since uniform standards for "Do Not Track" signals have not been adopted, this Web Site does not process or respond to "Do Not Track" signals. To learn more about "Do Not Track," please visit "All About Do Not Track" at [http://www.allaboutdnt.com/](https://web.archive.org/web/20150423191418id_/http%3A//www.thedoctorstv.com/http//www.allaboutdnt.com/ "http//www.allaboutdnt.com/").
 
   
 **IMPORTANT NOTICE REGARDING PUBLIC AREAS OF THE WEB SITE AND USER CONTENT**
