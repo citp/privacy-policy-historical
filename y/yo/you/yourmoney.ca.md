@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourmoney.ca privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012181033id_/http%3A//www.yourmoney.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourmoney.ca privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423022940id_/http%3A//yourmoney.ca/privacy.html) for the most accurate reproduction.*
 
 # @yourmoney.ca. Own it today.
 
