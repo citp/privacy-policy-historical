@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dit.ie privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219071210id_/http%3A//www.dit.ie/tools/disclaimer/cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dit.ie privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423025213id_/http%3A//www.dit.ie/tools/disclaimer/cookiepolicy) for the most accurate reproduction.*
 
 # DIT Dublin Institute of Technology - Cookie Policy
 
