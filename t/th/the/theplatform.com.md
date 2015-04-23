@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theplatform.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121172247id_/http%3A//theplatform.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplatform.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423021209id_/http%3A//theplatform.com/privacy_policy) for the most accurate reproduction.*
 
 # thePlatform Privacy Policy | thePlatform
 
@@ -107,8 +107,8 @@ Our web site and services are not intended for anyone under the age of 13. We do
 
 Customers may contact thePlatform with questions or complaints concerning this Privacy Policy at the following address:
 
-Alex Glass  
-VP Global Operations   
+Tina Santos  
+Chief Legal Counsel   
 1000 Second Avenue  
 Suite 1000  
 Seattle WA 98104  
