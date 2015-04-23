@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the setcom.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701150454id_/http%3A//www.setcom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setcom.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423031210id_/http%3A//www.setcom.com/privacy-policy) for the most accurate reproduction.*
 
-# Setcom – Secure Online Credit Card, EFT & Mobile Payment Processing. – Privacy Policy
+# Privacy Policy | Setcom: Payment Gateway for EFT, Online Credit Card & Mobile Payment Solutions
 
 This Policy was last modified on June 16, 2012.
 
