@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blendtec.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222184447id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendtec.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423184231id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blendtec.com
 
-  * K-TEC Inc., doing business as Blendtec (hereafter referred to as "Blendtec," "Blendtec.com," "we," "us" and "our," as appropriate), has created the following Privacy and Security Policy to inform you of what information we collect, why we collect it and to whom it may be disclosed. 
+  * Blendtec Inc. (hereafter referred to as "Blendtec," "Blendtec.com," "we," "us" and "our," as appropriate), has created the following Privacy and Security Policy to inform you of what information we collect, why we collect it and to whom it may be disclosed. 
   * This Privacy and Security Policy applies to [www.blendtec.com](https://web.archive.org/) and [www.willitblend.com](http://www.willitblend.com/) and all related linked pages beginning or containing those URLs (hereafter referred to as the "Sites"). 
   * This Privacy and Security Policy also addresses our data security practices and the options you have to access and control personally identifiable and nonpersonally identifiable information. 
   * We may periodically make changes to this Privacy and Security Policy. 
