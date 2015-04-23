@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mybabyclothes.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107231710id_/http%3A//youratlantahomesearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybabyclothes.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423043017id_/http%3A//www.youratlantahomesearch.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for The Sanders Team
 
-This privacy policy sets out how “The Sanders Team” uses and protects any information that you give “The Sanders Team” when you use this website. “The Sanders Team” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. “The Sanders Team” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 07/11/2014
+This privacy policy sets out how “The Sanders Team” uses and protects any information that you give “The Sanders Team” when you use this website. “The Sanders Team” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. “The Sanders Team” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 23/4/2015
 
-**Dear Canadian Friends:**  
+**For Everyone, Especially Our Canadian Friends:**  
 (CASL) If you wish to register on this website you are giving expressed consent for us to email, call and text message you. If you do not wish for this type of communication please do not register. 
 
 **What we collect:**  
@@ -47,12 +47,12 @@ Our website may contain links to enable you to visit other websites of interest 
 ### About The Sanders Team
 
   
-凯勒 - 威廉姆斯地产合作伙伴的桑德斯团队引以为傲的并且超出了多数地产商提供的典型服务。这是我们的目标，充分利用领先的技术优势，专业和敏感的工作人员，以及出色的客户服务是最好的地产队在亚特兰大地区。我们先进的网络和直邮营销策略将使我们能够卖你的家快捷顶级美元！桑德斯团队专门从事地铁，佐治亚州亚特兰大房地产市场，包括切诺基，科布，富尔顿及周边地区。   
+El equipo de Sanders de Keller Williams Realty Partners es uno de los equipos de mayor crecimiento en el mercado de Atlanta. Nuestro compromiso con la excelencia y el servicio es inigualable. Nuestro objetivo es aprovechar la tecnología de vanguardia, personal profesional y atento, y el servicio al cliente excepcional a ser el equipo de propiedades inmobiliarias superior en el área de Atlanta. Nuestras avanzadas estrategias de marketing de medios digitales nos permiten maximizar la exposición de Internet para vender casas rápido y por el mejor precio. Nuestro equipo siempre aspira a ser los mejores agentes de bienes raíces en el área de Atlanta y Metro-Atlanta. El equipo de Sanders se especializa en el mercado de bienes raíces Metro-Atlanta Georgia, incluyendo Woodstock, Canton, Roswell, Alpharetta, Milton, Marietta, Atlanta, Cumming, Kennesaw, Acworth, Austell, Ball Ground, Dallas, Duluth, Hiram, Holly Springs, Johns Creek, Mableton, Powder Springs, Sandy Springs, Smyrna, Union City, Waleska, y negro.   
 
 
 ### Testimonials
 
-"I feel the Sanders Team is EXCELLENT. They have held our hands and walked us through the process of buying a new home. I would recommend Michelle and Greg to anyone buying a house. They even gave us tips on selling our current home."
+"Michelle did an excellent job as my realtor when I was looking to purchase a home.She was very professional, knowledgeable, efficient, and organized. I always felt like I was receiving top quality service when working with Michelle. I highly recommend Michelle if you are considering purchasing a home."
 
 ### Saved Properties
 
@@ -62,7 +62,7 @@ This is a list of your favorite properties. We will email you if a property is r
 
 ### Register / Login
 
-New & returning visitors please enter your information to login.
+New & returning visitors please enter your information to login. [(Privacy Policy)](https://web.archive.org/privacy.php)
 
 ### Questions? Comments? Complaints?
 
