@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladiesdressup.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223004442id_/http%3A//4v4.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladiesdressup.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423064720id_/http%3A//www.4v4.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
