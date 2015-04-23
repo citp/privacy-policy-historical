@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the footballfancast.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206025517id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballfancast.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423082153id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FootballFanCast.com
 
 *****Please read all of this Privacy Policy as well as the Terms and Conditions very carefully prior to commencing use of this web site and on each and every occasion that you use this web site in the future to check for updates.**
 
-SN&CK Media Limited process personal information only in strict compliance with the Data Protection Act 1998 (as amended), the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other associated data protection legislation. Any personal information provided or gathered via this web site is controlled primarily by SN&CK Media Limited of 2nd Floor Asta House, 65 Whitfield Street, London, W1T 4HE.
+SN&CK Media Limited process personal information only in strict compliance with the Data Protection Act 1998 (as amended), the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other associated data protection legislation. Any personal information provided or gathered via this web site is controlled primarily by SN&CK Media Limited of 18 Dartmouth Park Hill, London, NW5 1HL.
 
 Your visiting this web site constitutes acceptance of and consent to the practices set out in this Privacy Policy. If you do not agree with any of the terms as set out in this Privacy Policy then you should cease using this web site immediately.
 
@@ -68,12 +68,10 @@ If you would like details of the personal information SN&CK Media Limited store 
 
 SN&CK Media Ltd
 
-2nd Floor Asta House,
-
-65 Whitfield Street,
+18 Dartmouth Park Hill,
 
 London,
 
-W1T4HE.
+NW5 1HL.
 
 This Privacy Policy was last updated on 10th September 2013.
