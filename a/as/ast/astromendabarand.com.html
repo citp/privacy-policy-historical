@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the astromendabarand.com privacy policy that was archived on 2014-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141223054907id_/http%3A//www.astromendabarand.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astromendabarand.com privacy policy that was archived on 2015-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150423113638id_/http%3A//www.astromendabarand.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy | Astromenda</title>
@@ -33,11 +33,122 @@
 <link rel="alternate" type="application/rss+xml" title="Astromenda » Privacy Policy Comments Feed" href="http://www.astromendabarand.com/privacy-policy/feed/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.astromendabarand.com/site/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.astromendabarand.com/site/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="feedback" href="http://www.astromendabarand.com/feedback/">
-<link rel="next" title="WEBSITE’S TERMS OF USE" href="http://www.astromendabarand.com/websites-terms-of-use/">
-<meta name="generator" content="WordPress 3.8.1">
+<meta name="generator" content="WordPress 4.1.1">
 <link rel="canonical" href="http://www.astromendabarand.com/privacy-policy/">
 <link rel="shortlink" href="http://www.astromendabarand.com/?p=12">
+<script id="wpcp_disable_selection" type="text/javascript">
+//<![CDATA[
+var image_save_msg='You Can Not Save images!';
+	var no_menu_msg='Context Menu disabled!';
+	var smessage = "Content is protected !!";
+
+function disableEnterKey(e)
+{
+	if (e.ctrlKey){
+     var key;
+     if(window.event)
+          key = window.event.keyCode;     //IE
+     else
+          key = e.which;     //firefox (97)
+    //if (key != 17) alert(key);
+     if (key == 97 || key == 65 || key == 67 || key == 99 || key == 88 || key == 120 || key == 26 || key == 85  || key == 86 || key == 83 || key == 43)
+     {
+          show_wpcp_message('You are not allowed to copy content or view source');
+          return false;
+     }else
+     	return true;
+     }
+}
+
+function disable_copy(e)
+{	
+	var elemtype = e.target.nodeName;
+	elemtype = elemtype.toUpperCase();
+	var checker_IMG = '';
+	if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail >= 2) {show_wpcp_message(alertMsg_IMG);return false;}
+    if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT")
+	{
+		if (smessage !== "" && e.detail >= 2)
+			show_wpcp_message(smessage);
+		return false;
+	}	
+}
+function disable_copy_ie()
+{
+	var elemtype = window.event.srcElement.nodeName;
+	elemtype = elemtype.toUpperCase();
+	if (elemtype == "IMG") {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT")
+	{
+		//alert(navigator.userAgent.indexOf('MSIE'));
+			//if (smessage !== "") show_wpcp_message(smessage);
+		return false;
+	}
+}	
+function reEnable()
+{
+	return true;
+}
+document.onkeydown = disableEnterKey;
+document.onselectstart = disable_copy_ie;
+if(navigator.userAgent.indexOf('MSIE')==-1)
+{
+	document.onmousedown = disable_copy;
+	document.onclick = reEnable;
+}
+function disableSelection(target)
+{
+    //For IE This code will work
+    if (typeof target.onselectstart!="undefined")
+    target.onselectstart = disable_copy_ie;
+    
+    //For Firefox This code will work
+    else if (typeof target.style.MozUserSelect!="undefined")
+    {target.style.MozUserSelect="none";}
+    
+    //All other  (ie: Opera) This code will work
+    else
+    target.onmousedown=function(){return false}
+    target.style.cursor = "default";
+}
+//Calling the JS function directly just after body load
+window.onload = function(){disableSelection(document.body);};
+//]]>
+</script>
+	<script id="wpcp_disable_Right_Click" type="text/javascript">
+	//<![CDATA[
+	document.ondragstart = function() { return false;}
+	/* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Disable context menu on images by GreenLava Version 1.0
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+	    function nocontext(e) {
+	       return false;
+	    }
+	    document.oncontextmenu = nocontext;
+	//]]>
+	</script>
+			<style>
+			.unselectable
+			{
+		    -moz-user-select:none;
+		    -webkit-user-select:none;
+    		cursor: default;
+			}
+			html
+			{
+			-webkit-touch-callout: none;
+			-webkit-user-select: none;
+			-khtml-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+			-webkit-tap-highlight-color: rgba(0,0,0,0);
+			}
+			</style>
+			<script id="wpcp_css_disable_selection" type="text/javascript">
+			var e = document.getElementsByTagName('body')[0];
+			e.setAttribute('unselectable',on);
+			</script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -54,7 +165,7 @@
 
     </head>
 
-<body>
+<body style="cursor: default;">
 	<div id="wrapper">
 		<div id="header">
 			<div id="header-content">
@@ -73,14 +184,39 @@
 	<div id="main-content">
 		<span class="content-title">Privacy Policy</span>
 		<div class="text-content">
-				<div id="lipsum">
-<p>This privacy policy applies to the Astromenda Software, Services and Site. In the event of any inconsistency between this privacy policy and a policy listed on one of the other Web Sites, this policy shall prevail.</p>
-<p>We ("we" or "us") do not collect personal identification information (such as names, address', phone numbers) in connection with the Astromenda&nbsp;Software. We do collect information necessary to enable certain features in the Astromenda&nbsp;Software, as detailed hereunder. We do not sell, rent or trade any personally identifiable information you provide when using the Astromenda&nbsp;Software or the Web Sites.</p>
-<p>We gather certain information such as internet protocol (IP) addresses, browser user agent, referring page, date/time stamp and cookies automatically. We use such information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information to better provide our services.</p>
-<p>When you visit the Astromenda&nbsp;Site, we may place a small text file-called a "cookie"-on your computer that allows us to improve the quality of our service, and to store your preferences and settings. Importantly, we do not use cookies to obtain any personally identifiable information (such as your real name or address) unless you have specifically provided such information when using the Site or the Software. The search feature sends a request to our servers while processing a search query that you have inputted. This request includes the keyword query, source (related links, etc…) and all HTTP data transferred automatically by the browser (IP Address, User Agent, Cookies, etc…). We use this information in order to properly process your search request. For example, this data provides us with information on which language you prefer to use and your geographical location. Such information is recorded on a non-personally identifiable basis and is kept strictly anonymous.</p>
-<p>We may also use a third party tracking service that uses cookies (analytics) to track aggregate non-Personal Identifiable Information regarding our Software and/or Services. Please note that we have no control over third parties privacy policies.</p>
-<p>If any of the Web Sites or the Software is ever sold or all or substantially all of the assets relating to a Web Site or the Software are transferred to another entity, we may transfer all information provided by or collected from you, including personally identifiable information, in order to ensure continuity of your service. We will disclose information, including personally identifiable information, data acquired by cookies, and other data, where required by a subpoena, interception order or other lawful process. We also reserve the right to disclose such information when we believe, in our sole judgment and to the extent consistent with applicable law, that such disclosure is necessary to protect the rights or safety of others or to enforce, or protect our rights under, this Agreement.</p>
-</div>
+				<p align="center"><b>&nbsp;ASTROMENDA PRIVACY POLICY</b></p>
+<p align="center"><i>Last updated: 04/01/2015</i></p>
+<p>&nbsp;</p>
+<p>This<b> </b>Privacy Policy (the “Policy”) describes Astromenda (“we” or “us”) privacy practices with respect to your use of the Software (as such term is defined in the Astromenda EULA available here: <a title="End User License Agreement" href="http://www.astromendabarand.com/eula/">www.astromendabarand.com/eula</a> (”Software EULA”). Please also see the Software EULA as your use of the Software is subject to the terms of this Privacy and the Software EULA. This Policy applies to our Software and does not apply to any third party services, websites, software and content that may be available as part of or linked to or from the Software.</p>
+<p>By downloading and using the Software and/or by accepting this Policy and&nbsp;the Software EULA, you consent to our access, collection, use and/or disclosure of your information as described in this Policy.</p>
+<p>&nbsp;</p>
+<p><b>1.</b><b><span style="text-decoration: underline;">Information We Collect and Use</span></b></p>
+<p style="padding-left: 30px;">1.1&nbsp; <span style="text-decoration: underline;">Basic Information</span>. When you use the Software, we may collect non-personal and technical information from you. This information may include your type of browser(s), your IP address and your computer operating system details. We collect and use this information to measure and improve the Software over time.</p>
+<p style="padding-left: 30px;">1.2&nbsp; <span style="text-decoration: underline;">Search Related Information</span>. As part of the Software you will be able to use features that provide you with the ability to conduct web searches. When you use these features we will collect information such as URL of the page containing the results of your search queries (“Search Generated Information”). The Search Generated Information may include your personal information such as your name, should you choose to search for results pertaining to it.</p>
+<p style="padding-left: 30px;">1.3&nbsp; <span style="text-decoration: underline;">Cookies</span>. As part of the Software we may use cookies and similar technologies to collect information such as your usage data and to improve the Software. A cookie is a small text file saved on your computer to help store preferences and other information that is used on webpages that you visit. We may use session cookies to better understand how you interact with the Software, to customize and improve the Software, and provide relevant advertisements and/or other services to you. Most Internet browsers automatically accept cookies. You can change the settings of your browser at any time to delete/disable cookies. However, some features of the Software may not function properly if you disable cookies.</p>
+<p style="padding-left: 30px;">1.4&nbsp; <span style="text-decoration: underline;">Third-Parties and Corporate Affiliates</span>. We use a variety of third-party services as part of the Software, to provide you with certain features, and to help us understand and improve your use of the Software. These third-parties may collect information sent by your browser as part of a web page request, such as cookies or your IP address. You allow us to receive information about you if you use features of the Software that require you to log in to a third-party website or application such as Facebook or Google.</p>
+<p style="padding-left: 30px;">1.5&nbsp; <span style="text-decoration: underline;">Information You Provide Us</span>. When you contact us, we may collect your email address and the information we need to categorize your question, respond to it, and, if applicable, investigate any issues that you raise. We also use this information to track potential problems and customize our support responses to better serve you. We do not use this information for advertising purposes.</p>
+<p style="padding-left: 30px;">1.6&nbsp; <span style="text-decoration: underline;">Additional features</span>. We are always seeking to improve the Software. Therefore, we may introduce new features, some of which may result in the collection of additional information from you. If we start collecting additional types of personal information and materially change how we handle your information, we will modify this Policy and notify you in accordance with Section 6 (Changes to This Policy).</p>
+<p>&nbsp;<b>2.</b><b><span style="text-decoration: underline;">Information Sharing and Disclosure</span></b></p>
+<p style="padding-left: 30px;">2.1.We do not rent, sell, or share your personal information except in the limited circumstances described in this Policy or in the event that we have a good faith belief that disclosure is permitted by law or is reasonably necessary to: (i) comply with the law, a legal requirement or process, including without limitation, subpoenas, court orders, or other compulsory disclosures, or to establish, maintain or exercise our legal rights; (ii) enforce this Policy or the Software EULA; (iii) investigate, prevent, or take action regarding suspected or actual illegal activities or violation of third party rights; or (iv) protect our rights. In addition, in the event that we undergo a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be one of the assets sold or transferred.</p>
+<p style="padding-left: 30px;">2.2.<span style="text-decoration: underline;">Service Providers</span>. We may employ third parties to provide us with maintenance, analysis, audit, and development services with respect to the Software. We currently use (i) Google Analytics which uses the following sources for collecting information: (a) the HTTP request of the user; (b) browser/system information; and (c) first-party Cookies. These Cookies (as defined below) do not collect any personally identifiable information. You can read more about Google’s privacy Policy here: <a href="https://www.google.com/intl/en/policies/privacy/">https://www.google.com/intl/en/policies/privacy/</a>; (ii) desk.com by Salesforce, Inc. to provide us with personalized support services. You can read desk.com’s privacy policy at: <a href="http://www.desk.com/privacy">http://www.desk.com/privacy</a>; and (iii) Amazon Web Services, Inc. servers to process your Personal Information. You can read about the measures taken by Amazon to protect the security of their servers and your personal information at: <a href="http://awsmedia.s3.amazonaws.com/pdf/AWS_Security_Whitepaper.pdf">http://awsmedia.s3.amazonaws.com/pdf/AWS_Security_Whitepaper.pdf</a>.</p>
+<p style="padding-left: 30px;">2.3.<span style="text-decoration: underline;">Partners; Corporate Affiliates</span>. (i) We may share your information with our partners to prevent, detect and investigate fraud or other prohibited activities, facilitate dispute resolution such as chargebacks or refunds; and for other related purposes. These partners are bound by confidentiality obligations, and will only have limited access to your information as shall be necessary to resolve any of the above situations. (ii) We may also disclose your information to our corporate affiliates in order to help provide, understand, and improve the Software and our affiliates’ services, including without limitation, the delivery of ads, this means we may also internally combine information we have on you.</p>
+<p style="padding-left: 30px;">2.4.<span style="text-decoration: underline;">Data Transfer</span>. We may transfer your information and process it on servers outside your country of residence.</p>
+<p><b>3.</b><b><span style="text-decoration: underline;">Security</span></b></p>
+<p>We have implemented security safeguards designed to protect your personal information in accordance with industry standards. We limit access to your information on our servers, and it is password-protected/encrypted. We also regularly monitor our servers for possible vulnerabilities and attacks. Nevertheless, as the Internet is not a 100% secure environment, we cannot guarantee the security of any information that you transmit to us. There is no guarantee that information on our servers may not be accessed, disclosed, altered, or destroyed by breach of our safeguards.</p>
+<p>&nbsp;</p>
+<p><strong>4.<span style="text-decoration: underline;">Modifying Your Personal Information</span></strong></p>
+<p>You have a right to request that we delete any of your personal information in our possession by sending us an email to: <a href="http://support.astromendabarand.com/customer/portal/emails/new">support@astromendabarand.com</a> We will generally delete your information within 30 days of receipt of your request.</p>
+<p>&nbsp;</p>
+<p><b>5.</b><b><span style="text-decoration: underline;">Our Policy Towards Children</span></b></p>
+<p>The Software is not intended and/or directed to persons under the age of 13. We do not knowingly collect personal information from children under the age of 13. If we become aware that a child under that age has provided us with personal information, we take steps to remove such information from our servers. If you become aware that your child has provided us with personal information, please contact us at <a href="http://support.astromendabarand.com/customer/portal/emails/new">support@astromendabarand.com</a></p>
+<p>&nbsp;</p>
+<p><b>6.</b><b><span style="text-decoration: underline;">Changes to This Policy</span></b></p>
+<p>We may change this Policy from time to time. If we make changes, that are significant in our sole discretion, in the way we treat your personal information, or to the Policy, we will provide you with notice as part of the Software or by any other means. We will also post the revised Policy on the Software’s web site <a href="http://www.astromendabarand.com"><i>www.astromendabarand.com </i></a>(“<b>Site</b>”<i>)</i>, and will update the “Last Update” above. The most current version of this Policy will govern our use of your information and will always be available on the Site. Your continued use of the Software, following any change to this Policy, constitutes your complete and irrevocable acceptance of the updated Policy. If any changes to the Policy are not acceptable to you, you may uninstall the Software.</p>
+<p>&nbsp;</p>
+<p><b>7.</b><b><span style="text-decoration: underline;">Contact Information</span></b></p>
+<p>If you have any questions or comments about this Policy, please contact us at <a href="http://support.astromendabarand.com/customer/portal/emails/new">support@astromendabarand.com</a><i> </i></p>
+<p>&nbsp;</p>
 		</div>
 	</div> <!-- main content -->
 
@@ -96,10 +232,10 @@
 <li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://www.astromendabarand.com/contact/">Contact Us</a></li><li>|</li>
 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-12 current_page_item menu-item-14"><a href="http://www.astromendabarand.com/privacy-policy/">Privacy Policy</a></li><li>|</li>
 <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="http://www.astromendabarand.com/eula/">End User License Agreement</a></li><li>|</li>
-<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="http://www.astromendabarand.com/websites-terms-of-use/">Website’s Terms of Use</a></li><li>|</li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="http://www.astromendabarand.com/website-terms-of-use/">Website Terms of Use</a></li><li>|</li>
 <li id="menu-item-323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-323"><a href="http://www.astromendabarand.com/how-to-remove/">How to remove</a></li><li>|</li>
 </ul></div>		</div>
-		<div id="footer-copyright">Copyright © 2014  All rights reserved to Astromenda</div>
+		<div id="footer-copyright">Copyright © 2015  All rights reserved to Astromenda</div>
 
 	</div>
 
@@ -110,5 +246,76 @@
 
 </div>
 
+	<div id="wpcp-error-message" class="msgmsg-box-wpcp warning-wpcp hideme"><span>error: </span>Content is protected !!</div>
+	<script>
+	var timeout_result;
+	function show_wpcp_message(smessage)
+	{
+		if (smessage !== "")
+			{
+			var smessage_text = '<span>Alert: </span>'+smessage;
+			document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+			document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp showme";
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, 3000);
+			}
+	}
+	function hide_message()
+	{
+		document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+	}
+	</script>
+	<style type="text/css">
+	#wpcp-error-message {
+	    direction: ltr;
+	    text-align: center;
+	    transition: opacity 900ms ease 0s;
+	    z-index: 99999999;
+	}
+	.hideme {
+    	opacity:0;
+    	visibility: hidden;
+	}
+	.showme {
+    	opacity:1;
+    	visibility: visible;
+	}
+	.msgmsg-box-wpcp {
+		border-radius: 10px;
+		color: #555;
+		font-family: Tahoma;
+		font-size: 11px;
+		margin: 10px;
+		padding: 10px 36px;
+		position: fixed;
+		width: 255px;
+		top: 50%;
+  		left: 50%;
+  		margin-top: -10px;
+  		margin-left: -130px;
+  		-webkit-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		-moz-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+	}
+	.msgmsg-box-wpcp span {
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+	.error-wpcp {		background:#ffecec url('http://www.astromendabarand.com/site/add-ons/wp-content-copy-protector/images/error.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.success {
+		background:#e9ffd9 url('http://www.astromendabarand.com/site/add-ons/wp-content-copy-protector/images/success.png') no-repeat 10px 50%;
+		border:1px solid #a6ca8a;
+	}
+	.warning-wpcp {
+		background:#ffecec url('http://www.astromendabarand.com/site/add-ons/wp-content-copy-protector/images/warning.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.notice {
+		background:#e3f7fc url('http://www.astromendabarand.com/site/add-ons/wp-content-copy-protector/images/notice.png') no-repeat 10px 50%;
+		border:1px solid #8ed9f6;
+	}
+    </style>
   
 </body></html>
