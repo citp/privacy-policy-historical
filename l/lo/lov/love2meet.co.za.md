@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the love2meet.co.za privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230344id_/http%3A//love2meet.news24.com/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love2meet.co.za privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424015145id_/http%3A//love2meet.news24.com/s/help/privacy.php) for the most accurate reproduction.*
 
 # love2meet - Privacy Policy
 
 ### Privacy Policy
+
+Last Modified: 30 September 2013
 
 For us, privacy is what it's all about. Sure we've got great technology, technically superior software and so on, but what really counts is our ability to provide our members with a safe, secure and private environment.
 
@@ -61,7 +63,7 @@ Our technical team do their utmost to ensure the security of our systems. Intern
 
 #### 13\. Signing up with Social Network Accounts
 
-We provide a quick and easy method for members to join or log in with a social network accounts, e.g. Facebook. This is for the sole purpose of speeding up the join process and no references to or content about love2meet will be posted to your social network account or timeline. Refer to the 'Social Network Sharing' section for occasions where you may give permission to post updates on your social network account or timeline.
+We provide a quick and easy method for members to join or log in with a social network account, e.g. Facebook. This is for the sole purpose of speeding up the join process and no references to or content about love2meet will be posted to your social network account or timeline. Refer to the 'Social Network Sharing' section for occasions where you may give permission to post updates on your social network account or timeline.
 
 #### 14\. Changes to This Policy
 
