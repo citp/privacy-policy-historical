@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamershell.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731002659id_/http%3A//www.gamershell.com/privacystat.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamershell.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423215203id_/http%3A//www.gamershell.com/privacystat.shtml) for the most accurate reproduction.*
 
 # G a m e r s H e l l . C o M - Privacy Statement
 
