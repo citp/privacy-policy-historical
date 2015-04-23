@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920221732id_/http%3A//www.collegerecruiter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423103718id_/https%3A//www.collegerecruiter.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | CollegeRecruiter.com
+# Privacy Policy | Entry Level Jobs for Grads and Internships for Students | College Recruiter
 
 Visitors to this and other websites owned or powered by CollegeRecruiter.com, LLC can engage in a variety of activities such as post a resume, apply to a job, request information about continuing your education, request scholarship information, participate in surveys, enter contests, order products and/or services, and more. Job boards such as we operate cannot be well used by their visitors unless those visitors choose to provide information about themselves to us and the third party organizations that use our site to help them offer employment, educational, and other opportunities to our visitors.
 
@@ -20,7 +20,7 @@ In order to better understand the people using our sites, we may supplement the 
 
 Some of the advertising appearing on our sites is served by Google, Inc. and its affiliates. Some of their advertising is [ interest-based](https://www.google.com/adsense/support/bin/answer.py?answer=100557).
 
-Some of the job seekers using our site use services provided by third parties, including but not limited to job match alerts delivered by [Job Rooster](http://www.jobrooster.com/corporate/privacy-policy/). Your use of any such third party site means you accept their privacy policy and any changes they may make to it.
+Some of the job seekers using our site use services provided by third parties, including but not limited to job match alerts. Your use of any such third party site means you accept their privacy policy and any changes they may make to it.
 
 Any information that you post to content pages such as the blogs, our resume bank, or other pages on our site may become available to third parties. We may use that information for a variety of purposes including promoting the products we offer. Any information posted online should always be considered as being publicly posted so that information may be re-posted elsewhere without your knowledge or consent.
 
