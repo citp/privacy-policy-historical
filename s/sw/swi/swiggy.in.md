@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiggy.in privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005201443id_/http%3A//www.swiggy.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiggy.in privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423043541id_/http%3A//www.swiggy.in/privacy-policy) for the most accurate reproduction.*
 
 # Swiggy | Swiggy.in
 
