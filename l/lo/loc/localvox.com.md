@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localvox.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211224159id_/http%3A//localvox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localvox.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423200357id_/http%3A//localvox.com/privacy-policy) for the most accurate reproduction.*
 
 # LocalVox - Privacy Policy
 
@@ -66,11 +66,11 @@ You will be able to connect your LocalVox account to third party accounts. BY CO
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from LocalVox by contacting us here:
 
-\- Web page: www.localvox.com
+– Web page: www.localvox.com
 
-\- Email: gethelp@localvox.com
+– Email: gethelp@localvox.com
 
-\- Phone: 646-545-3400
+– Phone: 646-545-3400
 
 **Changes to this Statement**
 
