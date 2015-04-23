@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymaths.co.uk privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703074636id_/http%3A//www.mymaths.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymaths.co.uk privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423075547id_/http%3A//www.mymaths.co.uk/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -32,15 +32,15 @@ You may notify us either in writing or by telephone, fax or email that you objec
 
 When you use the Website (e.g. visit, register as a user, subscribe to our newsletters and/or purchase products or services via the Website), we may collect and process the following information about you: 
 
-Ã¡        Information that you provide by filling in forms on the Website. This includes information provided at the time of registering to use the Website, subscribing to our products and/or services, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion on the Website, and when you report a problem with the Website.
+●        Information that you provide by filling in forms on the Website. This includes information provided at the time of registering to use the Website, subscribing to our products and/or services, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion on the Website, and when you report a problem with the Website.
 
-Ã¡        If you contact us, we may keep a record of that correspondence.
+●        If you contact us, we may keep a record of that correspondence.
 
-Ã¡        We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+●        We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-Ã¡        Details of transactions you carry out through the Website and of the fulfilment of your orders.
+●        Details of transactions you carry out through the Website and of the fulfilment of your orders.
 
-Ã¡        Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access. 
+●        Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access. 
 
 **Use of cookies**
 
@@ -52,17 +52,17 @@ By using the Website, you are agreeing to be bound by the terms of our Cookie Po
 
 We use information held about you in the following ways:
 
-Ã¡        To ensure that content from the Website is presented in the most effective manner for you and for your computer. 
+●        To ensure that content from the Website is presented in the most effective manner for you and for your computer. 
 
-Ã¡        To provide you with information, products or services that you request from us or which we feel may interest you. 
+●        To provide you with information, products or services that you request from us or which we feel may interest you. 
 
-Ã¡        To carry out our obligations arising from any contracts entered into between you and us.
+●        To carry out our obligations arising from any contracts entered into between you and us.
 
-Ã¡        To allow you to participate in the interactive features of our service, when you choose to do so.
+●        To allow you to participate in the interactive features of our service, when you choose to do so.
 
-Ã¡        To notify you about changes to our service.
+●        To notify you about changes to our service.
 
-Ã¡        To help us understand more about how the Website is used and to improve the Website. 
+●        To help us understand more about how the Website is used and to improve the Website. 
 
 Subject to applicable laws, we may also use your data, or permit our affiliates and/or partners to use your data, to provide you with information about products and/or services which may be of interest to you. 
 
