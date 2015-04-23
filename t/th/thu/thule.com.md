@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105317id_/http%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423150717id_/http%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
 
 # Legal and Privacy Policy - Thule
 
@@ -10,7 +10,7 @@ In order to respond to your questions or fulfill your requests or provide you wi
 
 Under the Swedish Personal Data Act (PuL) you have rights of access and rectification in relation to your personal information. Such rights will be adhered to by Thule Group as far as possible to fulfill all of our legal obligations. 
 
-If you don't want to receive any further e-mail communication from Thule Group, please go to [My account](https://web.archive.org/en-us/us/my-account/login) and change your settings there. 
+If you don't want to receive any further e-mail communication from Thule Group, please go to [My Account](https://web.archive.org/en-us/us/my-account/login) and change your settings there. 
 
 **Does THULE GROUP disclose the stored information to third parties?**  
 Thule Group will only store personal information as required to meet legal and regulatory requirements or as needed to provide personalized services to you.
@@ -33,6 +33,10 @@ AddThis buttons allows website owners to easily share content with other people 
 
 **What is Social media?**  
 The website might use social media widgets to enable users to engage with content from our websites on various social platforms (Facebook, YouTube, Twitter, LinkedIn etc). To understand how and what information is collected and what cookies are set by these third parties, please refer to the privacy policy of the appropriate social platform.  
+
+**  
+Prices on thule.com?**  
+Prices listed on thule.com are recommended retail price (RRP). Local variations may apply. Contact your [local dealer ](https://web.archive.org/ItemNotFound.aspx?item=web%3a%7bC9DA05DB-5949-47B9-A25C-5B7873C9C42B%7d%40en-US)for more information. 
 
 **How does THULE GROUP protect customer information?**  
 Thule Group maintains high standards to safeguard your personal information at all times, and will carefully protect all such information.
@@ -75,6 +79,12 @@ The website may contain images that are subject to copyright of third parties. �
 In case you have any questions about our Privacy Policy, please don't hesitate to contact customer support through this web site.
 
 **D** **isclaimer**  
-Although every care has been taken to assure the accuracy of the information on the website of Thule Group, we provide this information "as is" and disclaims all warranties, expressed or implied. You acknowledge that your use of the website is at your sole risk. All material, including but not limited to, text, photographs, graphics and figures on any Thule Group website may contain technical errors or typing inaccuracies or other types of errors or inaccuracies. Thule Group assumes no responsibility whatsoever for any such errors or inaccuracies. Further, Thule Group explicitly disclaims any warranty the any website of Thule Group is free from infection by virus or anything else that has contaminating or destructive properties or that the information on any Thule Group website will be uninterruptible or error free. 
+Although every care has been taken to assure the accuracy of the information on the website of Thule Group, we provide this information "as is" and disclaim all warranties, expressed or implied, that the information supplied is accurate, complete or current. You acknowledge that your use of the website including, but not limited to, the use of any links on the website and of the information supplied on the website is at your sole risk. Further, Thule Group assumes no responsibility for the content on any third party websites and any links to such on the website are provided only to facilitate you. All material, including but not limited to, text, photographs, graphics and figures on any Thule Group website may contain technical errors or typing inaccuracies or other types of errors or inaccuracies. Neither Thule Group nor any company associated with Thule Group assumes any responsibility whatsoever for any such errors or inaccuracies. 
 
-Neither Thule Group nor any person or company associated with Thule Group shall be liable for any damages whatsoever resulting from your use or inability to use this site or any content, services, or materials provided by or on this site
+This applies also to the "Buyer’s Guide" on this website and any outcome thereof, which is supplied solely as a service, for information purposes only, and which do not contain any advice or recommendation that may be relied upon as the basis for any decision or action. All data and information supplied through the "Buyer’s Guide" derive from testing of Thule products on specific third party products. Technical components and performance quality etc. of such third party products and parts thereof may at any time following the Thule Group testing be altered (without the involvement or knowledge of Thule Group). Consequently, neither Thule Group nor any company associated with Thule Group shall (unless otherwise explicitly provided for under mandatory legislation) be liable for property damage or personal injury caused by the use of a Thule product which deviates from any instruction guide or user manual that (i) accompanies the Thule product at purchase thereof or (ii) applies to the product(s) on which the Thule product shall be fitted on or used together with. Prior to the use of each Thule product, Thule Group encourages you to thoroughly read each such instruction guide or user manual.
+
+Further, Thule Group explicitly disclaims any warranty that any website of Thule Group is free from infection by virus or anything else that has contaminating or destructive properties or that the information on any Thule Group website will be uninterruptible or error free. 
+
+Neither Thule Group nor any person or company associated with Thule Group shall be liable for any damage whatsoever resulting from your use or inability to use this website or any information, content, services, or materials provided by or on this website. 
+
+Thule Group reserves the right to amend, add and/or exclude any information on the website (including this disclaimer) at any time and without any prior notice thereof. Thule Group shall not be obliged to update this website, including any information on the website. 
