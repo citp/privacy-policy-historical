@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the press-release-writing.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119124411id_/http%3A//www.press-release-writing.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the press-release-writing.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423165359id_/http%3A//www.press-release-writing.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,8 +32,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 **Main Office**  
 Press-Release-Writing.com  
-5022 Campbell Boulevard  
-Suite N  
+5024 Campbell Boulevard  
+Suite D  
 Baltimore, MD 21236
 
 Toll Free: 800.990.5545  
