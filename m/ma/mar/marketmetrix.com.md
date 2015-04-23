@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the marketmetrix.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219075918id_/http%3A//clarabridge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketmetrix.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423130448id_/http%3A//clarabridge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Clarabridge
 
 Clarabridge, Inc. and our subsidiaries including Market Metrix, a Clarabridge Company, LLC (“Clarabridge” or “we”) are committed to protecting your privacy and maintaining the highest standards of confidentiality and security for all data collected both from individuals on behalf of our clients through our feedback systems, as well as from visitors using the Clarabridge websites ([www.clarabridge.com](http://www.clarabridge.com/) and [corp.marketmetrix.com](http://www.marketmetrix.com/)).  By using the Clarabridge website, you consent to the data practices described in this policy and you expressly consent to the processing of your Personal Data (defined below) in accordance with this privacy policy.
 
-**A Note About Children.**
+**A Note About Children**
 
 We do not intentionally gather Personal Data about visitors who are under the age of 13.
 
-**A Note to Users Outside of the United States.**
+**A Note to Users Outside of the United States**
 
-Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal data may be less stringent than the laws in your country.  Clarabridge complies with the US-EU and US-Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Clarabridge has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page as maintained by the U.S. Department of Commerce, please visit: <http://www.export.gov/safeharbor.>
+Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal data may be less stringent than the laws in your country.  Clarabridge complies with the US-EU and US-Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Clarabridge has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page as maintained by the U.S. Department of Commerce, please visit:<http://www.export.gov/safeharbor.>
 
-[](http://clarabridge.com/wp-content/uploads/2013/12/SafeHarbor.png)
+[](http://clarabridge.com/wp-content/uploads/2014/11/SafeHarbor.png)
 
 **Collection of your Personal Information**
 
@@ -82,11 +82,11 @@ Clarabridge periodically conducts internal reviews and self-assessment of its Pr
 
 Consumers who believe that Clarabridge may have acted in a manner inconsistent with this privacy policy may contact the Clarabridge via the email address or postal address stated below, and we will exercise good faith efforts to resolve disputes and complaints.
 
-Clarabridge, Inc. participates in the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request).  Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe’s Dispute Resolution process is only available in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+Clarabridge, Inc. participates in the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by  Internet [here](https://feedback-form.truste.com/watchdog/request).  Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe’s Dispute Resolution process is only available in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 **Contact Information**
 
-Clarabridge welcomes your comments regarding this Privacy Policy.  If you believe that Clarabridge has not adhered to this Privacy Policy, please contact Clarabridge at [privacy@clarabridge.com](mailto:privacy@clarabridge.com), or write to us via postal mail at the following address:
+Clarabridge welcomes your comments regarding this Privacy Policy.  If you believe that Clarabridge has not adhered to this Privacy Policy, please contact Clarabridge at [privacy@clarabridge.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=privacy@clarabridge.com), or write to us via postal mail at the following address:
 
 Clarabridge, Inc.  
 11400 Commerce Park Dr.  
@@ -95,7 +95,7 @@ Reston, VA  20191
 Corporate Headquarters – USA  
 ATTN: Privacy
 
-**Changes to This Privacy Policy.**
+**Changes to This Privacy Policy**
 
 This privacy policy is subject to occasional revision, and amendments to this privacy policy shall become effective when we publish the revised policy on the Clarabridge website.  By using or accessing the Clarabridge website, you are agree that we may treat information collected through the website in accordance with the revised privacy policy, including information we may have collected at a prior time when a previous version of this privacy policy was in effect.  If you do not consent to our privacy practices described in the revised version of the privacy policy, do not use the Clarabridge website in any manner, as we will continue to treat previously collected information in accordance with the privacy practices described in the applicable prior version of this privacy policy or as otherwise required be low.  If we revise the privacy policy in such a way that permit substantial changes in the way we use or disclose your Personal Data, we will also make a good faith effort to notify you by sending you an e-mail to the last e-mail address you provided to us.. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address.
 
