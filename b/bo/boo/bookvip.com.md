@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219085024id_/http%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423103005id_/http%3A//bookvip.com/home/privacypolicy) for the most accurate reproduction.*
 
 # BookVIP.com - Cheapest Vacation Packages To The Most Popular Destinations
 
 Toll Free  
- **(1-888) 849-8450**
+**1-(888)-849-8450  
+1-(407)-964-3007 **
 
   * [Home](http://bookvip.com/)
   * [Hot Weekly Deals](http://bookvip.com/weeklydeals)
-  * [All Promotional Packages](http://bookvip.com/vacationspecials)
+  * [All Vacation Deals](http://bookvip.com/vacationspecials)
   * [About Us](http://bookvip.com/home/aboutus)
-  * [Testimonials](http://bookvip.com/sitereviews)
+  * [Customer Video Reviews](http://bookvip.com/sitereviews)
 
 
 
