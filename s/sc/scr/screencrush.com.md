@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencrush.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213005853id_/http%3A//screencrush.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencrush.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423073532id_/http%3A//screencrush.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ScreenCrush
 
@@ -95,3 +95,36 @@ If you have any questions about this privacy statement, the practices of the Web
 ## Effective Date
 
 This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.
+
+## Latest Movie Reviews
+
+[View All](http://screencrush.com/category/movie-reviews/)
+
+## Most Wanted Movies
+
+  * 01.
+
+  * 02.
+
+  * 03.
+
+  * 04.
+
+  * 05.
+
+
+
+  * 06.
+
+  * 07.
+
+  * 08.
+
+  * 09.
+
+  * 10.
+
+  * 11.
+
+
+
