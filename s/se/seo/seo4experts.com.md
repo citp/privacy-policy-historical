@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo4experts.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905071346id_/http%3A//www.seo4experts.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo4experts.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423024452id_/http%3A//www.seo4experts.com/view/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Highlights
 
@@ -50,8 +50,8 @@ This notice offers highlights of the full [SEO4Experts Privacy Policy](https://w
 
 **Personal information and other data we collect**
 
-  * SEO4Experts collects [personal information](https://web.archive.org/web/20140905071346id_/http%3A//www.seo4experts.com/view/privacy_faq#personal_information) when you register for a SEO4Experts service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other SEO4Experts services or third parties to provide a better user experience, including customizing content for you.
-  * SEO4Experts uses [cookies](https://web.archive.org/web/20140905071346id_/http%3A//www.seo4experts.com/view/privacy_faq#cookies) and other technologies to enhance your online experience and to learn about how you use SEO4Experts services in order to improve the quality of our services.
+  * SEO4Experts collects [personal information](https://web.archive.org/web/20150423024452id_/http%3A//www.seo4experts.com/view/privacy_faq#personal_information) when you register for a SEO4Experts service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other SEO4Experts services or third parties to provide a better user experience, including customizing content for you.
+  * SEO4Experts uses [cookies](https://web.archive.org/web/20150423024452id_/http%3A//www.seo4experts.com/view/privacy_faq#cookies) and other technologies to enhance your online experience and to learn about how you use SEO4Experts services in order to improve the quality of our services.
   * SEO4Experts's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request.
   * [Read more](https://web.archive.org/view/privacy_policy) in the full privacy policy. 
 
@@ -61,7 +61,7 @@ This notice offers highlights of the full [SEO4Experts Privacy Policy](https://w
 
   * We may use personal information to provide the services you've requested, including services that display customized content and advertising.
   * We may also use personal information for auditing, research and analysis to operate and improve SEO4Experts technologies and services.
-  * We may share [aggregated non-personal information](https://web.archive.org/web/20140905071346id_/http%3A//www.seo4experts.com/view/privacy_faq#aggregated_info) with third parties outside of SEO4Experts.
+  * We may share [aggregated non-personal information](https://web.archive.org/web/20150423024452id_/http%3A//www.seo4experts.com/view/privacy_faq#aggregated_info) with third parties outside of SEO4Experts.
   * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
   * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
   * SEO4Experts processes personal information on our servers in the Hungary and in other countries. In some cases, we process personal information on a server outside your own country.
