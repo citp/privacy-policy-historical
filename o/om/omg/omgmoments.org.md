@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgmoments.org privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927075843id_/http%3A//omgmoments.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgmoments.org privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423054430id_/http%3A//omgmoments.org/privacy-policy) for the most accurate reproduction.*
 
 # OMGMoments | Privacy Policy
 
